@@ -1,3 +1,11 @@
 .DS_Store
 .ipynb_checkpoints/
 __pycache__/
+experiments_506/042925_documents_query.csv
+experiments_506/042925_issues_query.csv
+experiments_506/docs/
+experiments_506/data/042925_documents_query.csv
+experiments_506/data/042925_issues_query.csv
+experiments_506/data/train/
+experiments_506/data/val/
+experiments_506/data/test/

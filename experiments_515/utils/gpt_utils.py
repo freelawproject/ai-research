@@ -6,7 +6,7 @@ from openai import OpenAI
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO)
 
-API_KEY = "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"
+API_KEY = "<API KEY HERE>"
 MODELS = ["gpt-4.1-2025-04-14"]
 MAX_TOKENS = 8192
 TEMPERATURE = 0.1

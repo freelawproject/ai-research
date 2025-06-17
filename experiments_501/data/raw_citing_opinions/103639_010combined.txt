@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b710-10">
+  Mr. Chief Justice Stone
+ </author>
+<p id="Ahk3">
+  delivered the opinion of the Court.
+ </p>
+<p id="b710-11">
+  We are asked to say whether the due process clause of the Fourteenth Amendment precludes New York from taxing the exercise, by a domiciled resident, of a general testamentary power of appointment of which he was the donee under the will of a resident of Massachusetts, the property appointed being intangibles held by trustees under the donor’s will.
+ </p>
+<p id="b710-12">
+  Respondents’ decedent died a resident of New York, where his will was probated and letters testamentary were issued. Decedent’s father had previously died a resident of Massachusetts, where his will had been probated. By his will the father bequeathed his residuary estate in trust to divide the trust fund into as many shares as he should leave children surviving. To his son, the New York decedent, he gave a life estate in one share and a general power to dispose of that share “by will.”
+ </p>
+<p id="b710-13">
+  The son was also one of the three testamentary trustees. For some years they managed the trust property as a single trust fund, but in 1911 his one-third share was seg
+  <span citation-index="1" class="star-pagination" label="659"> 
+   *659
+   </span>
+  regated and he was permitted by the other trustees to manage it as a separate trust, although all continued as trustees and as such accounted to the Massachusetts Probate Court for the administration of his share of the fund. From 1918 to 1929 the New York decedent resided in New York; from then until 1934 he resided in Illinois, when he returned to New York where he resided until his death in 1937. Throughout he kept in the state of his residence the paper evidences of the intangibles comprising his share of the trust. At the time of his death it consisted wholly of receivables and corporate stocks and bonds. By his will decedent appointed his share of the trust fund to his widow, and the New York tax authorities, in computing the tax, included in the decedent’s gross estate the intangibles bequeathed to her under the power.
+ </p>
+<p id="b711-6">
+  Article 10-C of the New York tax law, by § 249-n, imposes an estate tax “upon the transfer of the net estate” of resident decedents. Under this statute the net taxable estate is arrived at by deducting from the gross estate, as defined by § 249-r, the specified deductions allowed by § 249-s. Section 249-r, so far as relevant, provides:
+ </p>
+<blockquote id="b711-7">
+  “The value of the gross estate of the decedent shall be determined by including the value at the time of his death of all property, real or personal, tangible or intangible, wherever situated . . .
+ </blockquote>
+<blockquote id="b711-8">
+  “7. To the extent of any property passing under a general power of appointment exercised by the decedent (a) by will . . •
+ </blockquote>
+<p id="b711-9">
+  An order of the New York Surrogate’s Court, <span class="citation" data-id="6158302"><a href="/opinion/6290179/in-re-the-estate-of-thayer/" aria-description="Citation for case: In re the Estate of Thayer">172 Misc. 426</a></span>, 15 N. Y. S. 2d 208, reduced the estate tax assessed against the decedent’s estate by excluding from his gross estate the share of the trust fund passing to the widow by the exercise of the power, on the ground that the state was without constitutional authority to tax the exercise by a resident donee of a power of appointment created by a
+  <span citation-index="1" class="star-pagination" label="660"> 
+   *660
+   </span>
+  nonresident donor, citing
+  <em>
+   Wachovia Bank &amp; Trust Co.
+  </em>
+  v.
+  <em>
+   Doughton,
+  </em>
+  <span class="citation" data-id="100955"><a href="/opinion/100955/wachovia-bank-trust-co-v-doughton/" aria-description="Citation for case: Wachovia Bank &amp; Trust Co. v. Doughton">272 U. S. 567</a></span>. The New York Court of Appeals affirmed the order without opinion, <span class="citation" data-id="3597198"><a href="/opinion/3614954/in-re-the-estate-of-thayer/" aria-description="Citation for case: In Re the Estate of Thayer">286 N. Y. 596</a></span>, <span class="citation" data-id="3597198"><a href="/opinion/3614954/in-re-the-estate-of-thayer/" aria-description="Citation for case: In Re the Estate of Thayer">35 N. E. 2d 937</a></span>, but certified by its remittitur that it held that the taxing statute, as sought to be applied in this proceeding, violates the Fourteenth Amendment. We granted certiorari, <span class="citation multiple-matches"><a href="/c/U.%20S./314/601/">314 U. S. 601</a></span>, because of the importance of the question presented.
+ </p>
+<p id="b712-6">
+  For purposes of estate and inheritance taxation, the power to dispose of property at death is the equivalent of ownership.
+  <em>
+   Bullen
+  </em>
+  v.
+  <em>
+   Wisconsin,
+  </em>
+  <span class="citation" data-id="2620693"><a href="/opinion/2620693/bullen-v-wisconsin/" aria-description="Citation for case: Bullen v. Wisconsin">240 U. S. 625</a></span>;
+  <em>
+   Whitney
+  </em>
+  v.
+  <em>
+   Tax Comm’n,
+  </em>
+  <span class="citation" data-id="103330"><a href="/opinion/103330/whitney-v-state-tax-commn-of-ny/#538" aria-description="Citation for case: Whitney v. State Tax Comm&#x27;n of NY">309 U. S. 530, 538</a></span>; see Gray, Rule Against Perpetuities, 3d ed. 1916, § 524. It is a potential source of wealth to the appointee. The disposition of wealth effected by its exercise or relinquishment at death is one form of the enjoyment of wealth and is an appropriate subject of taxation. The power to tax “is an incident of sovereignty, and is coextensive with that to which it is an incident. All subjects over which the sovereign power of a State extends are objects of taxation.”
+  <em>
+   McCulloch
+  </em>
+  v.
+  <em>
+   Maryland,
+  </em>
+  <span class="citation" data-id="85272"><a href="/opinion/85272/mculloch-v-state-of-maryland/#429" aria-description="Citation for case: M&#x27;culloch v. State of Maryland">4 Wheat. 316, 429</a></span>. Intangibles, which are legal relationships between persons and which in fact have no geographical location, are so associated with the owner that they and their transfer at death are taxable at the place of his domicile, where his person and the exercise of his property rights are subject to the control of the sovereign power. His transfer of interests in intangibles, by virtue of the exercise of a donated power instead of that derived from ownership, stands on the same footing. In both cases the sovereign’s control over his person and estate at the place of his domicile, and his duty to contribute to the financial support of government there, afford adequate constitutional basis for the imposition of a tax.
+  <em>
+   Curry
+  </em>
+  v.
+  <em>
+   McCanless,
+  </em>
+  <span class="citation" data-id="103219"><a href="/opinion/103219/curry-v-mccanless/" aria-description="Citation for case: Curry v. McCanless">307 U. S. 357</a></span>; cf.
+  <em>
+   Graves
+  </em>
+  v.
+  <em>
+   Elliott,
+  </em>
+  <span class="citation" data-id="103220"><a href="/opinion/103220/graves-v-elliott/" aria-description="Citation for case: Graves v. Elliott">307 U. S. 383</a></span>.
+ </p>
+<p id="b713-5">
+<span citation-index="1" class="star-pagination" label="661"> 
+   *661
+   </span>
+  These were not novel propositions, when they were restated in the
+  <em>
+   <span class="citation" data-id="103219"><a href="/opinion/103219/curry-v-mccanless/" aria-description="Citation for case: Curry v. McCanless">McCanless</a></span>
+  </em>
+  and
+  <em>
+   <span class="citation" data-id="103220"><a href="/opinion/103220/graves-v-elliott/" aria-description="Citation for case: Graves v. Elliott">Elliott</a></span>
+  </em>
+  cases,
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  and they were challenged then, though unsuccessfully, only on the ground that the transfer of the intangibles was subject to taxation in another state where they were held in trust. But the contention that the due process clause forecloses taxation of an interest in intangibles by the state of its owner when they are held in trust in another state was rejected in
+  <em>
+   Bullen
+  </em>
+  v.
+  <em>
+   Wisconsin,
+  </em>
+  <span class="citation" data-id="2620693"><a href="/opinion/2620693/bullen-v-wisconsin/" aria-description="Citation for case: Bullen v. Wisconsin">240 U. S. 625</a></span>. In that case, a fund had been given in trust reserving to the donor a general power of revocation and the disposition of the trust income during life. This Court held that upon his death an inheritance tax could be levied by the state of his domicile although the trustee and the trust fund were outside the state.
+ </p>
+<p id="b713-6">
+  In numerous other cases the jurisdiction to tax the use and enjoyment of interests in intangibles, regardless of the location of the paper evidences of them, has been thought to depend on no factor other than the domicile of the owner within the taxing state. And it has been held that they may be constitutionally taxed there even though in some instances they may be subject to taxation in other jurisdictions, to whose control they are subject and whose legal protection they enjoy.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  And such interests taxable
+  <span citation-index="1" class="star-pagination" label="662"> 
+   *662
+   </span>
+  at the domicile of the owner have been deemed to include the exercise or relinquishment of a power to dispose of intangibles. Chan
+  <em>
+   ler
+  </em>
+  v.
+  <em>
+   Kelsey,
+  </em>
+  <span class="citation" data-id="96658"><a href="/opinion/96658/chanler-v-kelsey/" aria-description="Citation for case: Chanler v. Kelsey">205 U. S. 466</a></span>;
+  <em>
+   <span class="citation" data-id="2620693"><a href="/opinion/2620693/bullen-v-wisconsin/" aria-description="Citation for case: Bullen v. Wisconsin">Bullen</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="2620693"><a href="/opinion/2620693/bullen-v-wisconsin/" aria-description="Citation for case: Bullen v. Wisconsin">Wisconsin, supra;</a></span>
+  </em>
+  cf.
+  <em>
+   Orr
+  </em>
+  v.
+  <em>
+   Gilman,
+  </em>
+  <span class="citation" data-id="95546"><a href="/opinion/95546/orr-v-gilman/" aria-description="Citation for case: Orr v. Gilman">183 U. S. 278</a></span>; Salton
+  <em>
+   stall
+  </em>
+  v.
+  <em>
+   Saltonstall,
+  </em>
+  <span class="citation" data-id="101237"><a href="/opinion/101237/saltonstall-v-saltonstall/" aria-description="Citation for case: Saltonstall v. Saltonstall">276 U. S. 260</a></span>.
+ </p>
+<p id="b714-5">
+  Decedent’s complete and exclusive power to dispose of the intangibles at death was property in his hands in New York, where he was domiciled.
+  <em>
+   <span class="citation" data-id="103220"><a href="/opinion/103220/graves-v-elliott/" aria-description="Citation for case: Graves v. Elliott">Graves</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="103220"><a href="/opinion/103220/graves-v-elliott/" aria-description="Citation for case: Graves v. Elliott">Elliott, supra.</a></span>
+  </em>
+  He there made effective use of the power to bestow his bounty on the widow. Its exercise by his will to make a gift was as much an enjoyment of a property right as would have been a like bequest to his widow from his own securities.
+  <em>
+   See Helvering
+  </em>
+  v.
+  <em>
+   Horst,
+  </em>
+  <span class="citation" data-id="103389"><a href="/opinion/103389/helvering-v-horst/#117" aria-description="Citation for case: Helvering v. Horst">311 U. S. 112, 117</a></span>. Eor such enjoyment of property rights, through resort to New York law, decedent was under the highest obligation to contribute to the support of the government whose protection he enjoyed in common with other residents. Taxation of such enjoyment of the power to dispose of property is as much within the constitutional power of the state of his domicile as is the taxation of the transfer at death of intangibles which he owns.
+ </p>
+<p id="b714-6">
+  Since it is the exercise of the power to dispose of the intangibles which is the taxable event, the mere fact that the power was acquired as a donation from another is without significance. We can perceive no ground for saying that its exercise by the donee is for that reason any the less the enjoyment of a property right, or any the less subject to taxation at his domicile. The source of the power by gift no more takes its exercise by the donee out of the taxing power than the like disposition of a chose in action
+  <span citation-index="1" class="star-pagination" label="663"> 
+   *663
+   </span>
+  or a share of stock, ownership of which is acquired by gift.
+ </p>
+<p id="b715-5">
+  But respondents argue that because here the power was bequeathed by a Massachusetts will, which placed the intangibles subject to the power in a Massachusetts trust, there was nothing; within the jurisdiction or control of New York which could be deemed subject to its taxing power. If by this is meant that the power was ineffective because its exercise by the New York will did not conform to the requirements of the will creating the power and defining the manner of its exercise, or to the laws of Massachusetts governing the disposition of intangibles, no such question is before us. We must take it that the New York courts assumed, as we do, that the power had been so exercised by the New York will as to confer on the widow the right to demand the property of the trustees in Massachusetts, and that even upon that assumption they held that the exercise of the power in New York could not constitutionally be taxed.
+ </p>
+<p id="b715-6">
+  Whether the New York tax statute would apply if the New York will were ineffective to transfer the intangibles because it failed to comply with the requirements of the Massachusetts will or statutes, is for the New York courts to decide. Whether in such a case the statute could be constitutionally so applied is a question not presented by the record. But if, as is assumed, the power has been effectively exercised, the New York will is the implement of its exercise, made effective as a will by New York law whose aid the decedent invoked for the exercise and enjoyment of the property right conferred on him by the Massachusetts will. Its exercise is a subject over which the sovereign power of taxation extends.
+ </p>
+<p id="b715-7">
+  Admittedly, under prevailing notions of choice of law in the courts of these two states, the law of the donor’s domicile, here Massachusetts, may be looked to in New
+  <span citation-index="1" class="star-pagination" label="664"> 
+   *664
+   </span>
+  York in determining whether, in some respects' at least, there has been a valid and effective execution of the power of appointment.
+  <em>
+   Sewall v. Wilmer,
+  </em>
+  <span class="citation" data-id="6420493"><a href="/opinion/6546762/sewall-v-wilmer/" aria-description="Citation for case: Sewall v. Wilmer">132 Mass. 131</a></span>;
+  <em>
+   Hogarth-Swann v. Weed,
+  </em>
+  <span class="citation" data-id="6439770"><a href="/opinion/6566020/hogarth-swann-v-weed/#130" aria-description="Citation for case: Hogarth-Swann v. Weed">274 Mass. 125, 130</a></span>, <span class="citation" data-id="6439770"><a href="/opinion/6566020/hogarth-swann-v-weed/" aria-description="Citation for case: Hogarth-Swann v. Weed">174 N.E. 314</a></span>;
+  <em>
+   Hillen
+  </em>
+  v.
+  <em>
+   Iselin,
+  </em>
+  <span class="citation" data-id="3626931"><a href="/opinion/3642978/hillen-v-iselin/#378" aria-description="Citation for case: Hillen v. . Iselin">144 N. Y. 365, 378</a></span>, <span class="citation" data-id="3626931"><a href="/opinion/3642978/hillen-v-iselin/" aria-description="Citation for case: Hillen v. . Iselin">39 N. E. 368</a></span>;
+  <em>
+   In re New York Life Ins. &amp; Trust Co.,
+  </em>
+  <span class="citation" data-id="3616337"><a href="/opinion/3632973/matter-of-new-york-life-insurance-and-trust-company/" aria-description="Citation for case: Matter of New York Life Insurance and Trust Company">209 N. Y. 585</a></span>, <span class="citation" data-id="3616337"><a href="/opinion/3632973/matter-of-new-york-life-insurance-and-trust-company/" aria-description="Citation for case: Matter of New York Life Insurance and Trust Company">103 N. E. 315</a></span>. But a transfer which has in fact been effected byrecourse in part to the law of New York is not free of taxation there because the power might have been exercised elsewhere or by some other mode, or because it may be necessary for the transferee to invoke the laws of Massachusetts in order to acquire control of the property. A transfer in one state of a chose in action or a share of stock may be taxed there even though the transferee in order to enjoy its benefits must depend in part upon the law of the state of the debtor or of the corporation.
+  <em>
+   Blodgett
+  </em>
+  v.
+  <em>
+   Silberman,
+  </em>
+  <span class="citation" data-id="101277"><a href="/opinion/101277/blodgett-v-silberman/#10" aria-description="Citation for case: Blodgett v. Silberman">277 U. S. 1, 10-17</a></span>. Here the relationship of the power to Massachusetts does not leave New York without sufficient control over the donee and his exercise of the power to support its constitutional authority to tax. For the fact remains that he, as a resident enjoying the protection of New York's laws and owing to it the duty of financial support, has disposed of wealth by a will executed and probated in New York with the same result as if he had owned the property. This transmission of wealth at death by a resident is not a forbidden source of revenue to the state.
+ </p>
+<p id="b716-6">
+<em>
+   Wachovia Trust Co.
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="100955"><a href="/opinion/100955/wachovia-bank-trust-co-v-doughton/" aria-description="Citation for case: Wachovia Bank &amp; Trust Co. v. Doughton">Doughton, supra,</a></span>
+  </em>
+  on which respondents rely, denied the constitutional power of a state to tax the effective exercise of a testamentary power in circumstances like the present. The only grounds for the decision were that the intangibles held in trust in another state, which were the subject of the power, had no situs in the state where the domiciled testator had exercised the power by his will; that its exercise was subject to the laws
+  <span citation-index="1" class="star-pagination" label="665"> 
+   *665
+   </span>
+  of Massachusetts where the will donating the power and establishing the trust had been probated, and that no “right” exercised by the donee was conferred by the state of his domicile where it was exercised.
+ </p>
+<p id="b717-6">
+  The conclusion there reached and the reasons advanced in its support cannot be reconciled with the decision and the reasoning of the
+  <em>
+   <span class="citation" data-id="2620693"><a href="/opinion/2620693/bullen-v-wisconsin/" aria-description="Citation for case: Bullen v. Wisconsin">Bullen</a></span>,
+  </em>
+  the
+  <em>
+   <span class="citation" data-id="103219"><a href="/opinion/103219/curry-v-mccanless/" aria-description="Citation for case: Curry v. McCanless">McCanless</a></span>
+  </em>
+  and the
+  <em>
+   <span class="citation" data-id="103220"><a href="/opinion/103220/graves-v-elliott/" aria-description="Citation for case: Graves v. Elliott">Elliott</a></span>
+  </em>
+  cases. It is plain that if appropriate emphasis be placed on-the orderly administration of justice rather than blind adherence to conflicting precedents, the
+  <em>
+   Wachovia
+  </em>
+  case must be overruled. There is no reason why the state should continue to be deprived of revenue from a subject which from the beginning has been within the reach of its taxing power; a subject over which we cannot say the state’s control has been curtailed by the due process clause of the Fourteenth Amendment. No interest which could be served by so rigid an adherence to
+  <em>
+   stare decisis
+  </em>
+  is superior to the demands of a system of justice based on a considered and a consistent application of the Constitution. See
+  <em>
+   Burnet
+  </em>
+  v.
+  <em>
+   Coronado Oil &amp; Gas Co.,
+  </em>
+  <span class="citation" data-id="101894"><a href="/opinion/101894/burnet-v-coronado-oil-gas-co/#406" aria-description="Citation for case: Burnet v. Coronado Oil &amp; Gas Co.">285 U. S. 393, 406</a></span>, footnote 1; and cf.
+  <em>
+   Helvering
+  </em>
+  v.
+  <em>
+   Mountain Producers Corp.,
+  </em>
+  <span class="citation" data-id="102986"><a href="/opinion/102986/helvering-v-mountain-producers-corp/#387" aria-description="Citation for case: Helvering v. Mountain Producers Corp.">303 U. S. 376, 387</a></span>. The
+  <em>
+   Wachovia
+  </em>
+  case should be and now is overruled and the constitutional power of New York to levy the present tax is sustained.
+ </p>
+<p id="b717-7">
+<em>
+   Reversed.
+  </em>
+</p>
+<judges id="b717-8">
+  Me. Justice Robeets concurs in the result only because he considers himself bound by the decisions in
+  <em>
+   Curry
+  </em>
+  v.
+  <em>
+   McCanless,
+  </em>
+  <span class="citation" data-id="103219"><a href="/opinion/103219/curry-v-mccanless/" aria-description="Citation for case: Curry v. McCanless">307 U. S. 357</a></span>, and
+  <em>
+   Graves
+  </em>
+  v.
+  <em>
+   Elliott,
+  </em>
+  <span class="citation" data-id="103220"><a href="/opinion/103220/graves-v-elliott/" aria-description="Citation for case: Graves v. Elliott">307 U. S. 383</a></span>. Otherwise he would vote to affirm.
+ </judges>
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b713-7">
+   See
+   <em>
+    Orr
+   </em>
+   v.
+   <em>
+    Gilman,
+   </em>
+   <span class="citation" data-id="95546"><a href="/opinion/95546/orr-v-gilman/" aria-description="Citation for case: Orr v. Gilman">183 U. S. 278</a></span>;
+   <em>
+    Chanler
+   </em>
+   v.
+   <em>
+    Kelsey,
+   </em>
+   <span class="citation" data-id="96658"><a href="/opinion/96658/chanler-v-kelsey/" aria-description="Citation for case: Chanler v. Kelsey">205 U. S. 466</a></span>;
+   <em>
+    Bullen
+   </em>
+   v.
+   <em>
+    Wisconsin,
+   </em>
+   <span class="citation" data-id="2620693"><a href="/opinion/2620693/bullen-v-wisconsin/" aria-description="Citation for case: Bullen v. Wisconsin">240 U. S. 625</a></span>;
+   <em>
+    Saltonstall
+   </em>
+   v.
+   <em>
+    Saltonstall,
+   </em>
+   <span class="citation" data-id="101237"><a href="/opinion/101237/saltonstall-v-saltonstall/#271" aria-description="Citation for case: Saltonstall v. Saltonstall">276 U. S. 260, 271</a></span>; cf.
+   <em>
+    Reinecke
+   </em>
+   v.
+   <em>
+    Northern Trust Co.,
+   </em>
+   <span class="citation" data-id="101367"><a href="/opinion/101367/reinecke-v-northern-trust-co/#345" aria-description="Citation for case: Reinecke v. Northern Trust Co.">278 U. S. 339, 345</a></span>;
+   <em>
+    Chase National Bank
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="101366"><a href="/opinion/101366/chase-national-bank-v-united-states/#337" aria-description="Citation for case: Chase National Bank v. United States">278 U. S. 327, 337</a></span>;
+   <em>
+    Tyler
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="101583"><a href="/opinion/101583/tyler-v-united-states/#503" aria-description="Citation for case: Tyler v. United States">281 U. S. 497, 503</a></span>;
+   <em>
+    Porter
+   </em>
+   v.
+   <em>
+    Commissioner,
+   </em>
+   <span class="citation" data-id="102048"><a href="/opinion/102048/porter-v-commissioner/#444" aria-description="Citation for case: Porter v. Commissioner">288 U. S. 436, 444</a></span>.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b713-8">
+   See
+   <em>
+    Kirtland
+   </em>
+   v.
+   <em>
+    Hotchkiss,
+   </em>
+   <span class="citation" data-id="90051"><a href="/opinion/90051/kirtland-v-hotchkiss/" aria-description="Citation for case: Kirtland v. Hotchkiss">100 U. S. 491</a></span>;
+   <em>
+    Hawley
+   </em>
+   v.
+   <em>
+    Malden,
+   </em>
+   <span class="citation" data-id="98053"><a href="/opinion/98053/hawley-v-city-of-malden/" aria-description="Citation for case: Hawley v. City of Malden">232 U. S. 1</a></span>;
+   <em>
+    Cream of Wheat Co.
+   </em>
+   v.
+   <em>
+    Grand Forks, <span class="citation" data-id="99617"><a href="/opinion/99617/cream-of-wheat-co-v-county-of-grand-forks/" aria-description="Citation for case: Cream of Wheat Co. v. County of Grand Forks">253 U. S. 325</a></span>; Blodgett
+   </em>
+   v.
+   <em>
+    Silberman,
+   </em>
+   <span class="citation" data-id="101277"><a href="/opinion/101277/blodgett-v-silberman/" aria-description="Citation for case: Blodgett v. Silberman">277 U. S. 1</a></span>;
+   <em>
+    Virginia
+   </em>
+   v.
+   <em>
+    Imperial Coal Sales Co.,
+   </em>
+   <span class="citation" data-id="102303"><a href="/opinion/102303/virginia-v-imperial-coal-sales-co/" aria-description="Citation for case: Virginia v. Imperial Coal Sales Co.">293 U. S. 15</a></span>;
+   <em>
+    First Bank Stock Corp.
+   </em>
+   v.
+   <em>
+    Minnesota,
+   </em>
+   <span class="citation" data-id="102820"><a href="/opinion/102820/first-bank-stock-corp-v-minnesota/#239" aria-description="Citation for case: First Bank Stock Corp. v. Minnesota">301 U. S. 234, 239-40</a></span>, and cases cited;
+   <em>
+    Stewart
+   </em>
+   v.
+   <em>
+    Pennsylvania,
+   </em>
+   <span class="citation" data-id="3846967"><a href="/opinion/4087790/commonwealth-v-stewart/" aria-description="Citation for case: Commonwealth v. Stewart">338 Pa. 9</a></span>, affirmed <span class="citation multiple-matches"><a href="/c/U.%20S./312/649/">312 U. S. 649</a></span>; cf.
+   <em>
+    Carpenter
+   </em>
+   v.
+   <em>
+    Pennsylvania,
+   </em>
+   <span class="citation" data-id="86945"><a href="/opinion/86945/carpenter-v-commonwealth-of-pennsylvania/" aria-description="Citation for case: CARPENTER v. Commonwealth of Pennsylvania">17 How. 456</a></span> (before Fourteenth Amendment); also
+   <em>
+    Farmers Loan &amp; Trust Co.
+   </em>
+   v.
+   <em>
+    <span class="citation" data-id="102820"><a href="/opinion/102820/first-bank-stock-corp-v-minnesota/" aria-description="Citation for case: First Bank Stock Corp. v. Minnesota">Minnesota</a></span>,
+   </em>
+   280 U. S.
+   <span citation-index="1" class="star-pagination" label="662"> 
+    *662
+    </span>
+   204;
+   <em>
+    Baldwin
+   </em>
+   v.
+   <em>
+    Missouri,
+   </em>
+   <span class="citation" data-id="101593"><a href="/opinion/101593/baldwin-v-missouri/" aria-description="Citation for case: Baldwin v. Missouri">281 U. S. 586</a></span>;
+   <em>
+    Beidler
+   </em>
+   v.
+   <em>
+    South Carolina,
+   </em>
+   <span class="citation" data-id="101611"><a href="/opinion/101611/beidler-v-south-carolina-tax-commission/" aria-description="Citation for case: Beidler v. South Carolina Tax Commission">282 U. S. 1</a></span> (all recognizing the power of the state of domicile to tax). In the case of income taxation, see
+   <em>
+    Lawrence
+   </em>
+   v.
+   <em>
+    State Tax Comm’n,
+   </em>
+   <span class="citation" data-id="101924"><a href="/opinion/101924/lawrence-v-state-tax-commn-of-miss/" aria-description="Citation for case: Lawrence v. State Tax Comm&#x27;n of Miss.">286 U. S. 276</a></span>;
+   <em>
+    New York ex rel. Cohn
+   </em>
+   v.
+   <em>
+    Graves,
+   </em>
+   <span class="citation" data-id="102779"><a href="/opinion/102779/new-york-ex-rel-cohn-v-graves/" aria-description="Citation for case: New York Ex Rel. Cohn v. Graves">300 U. S. 308</a></span>;
+   <em>
+    Guaranty Trust Co.
+   </em>
+   v.
+   <em>
+    Virginia,
+   </em>
+   <span class="citation" data-id="103082"><a href="/opinion/103082/guaranty-trust-co-v-virginia/" aria-description="Citation for case: Guaranty Trust Co. v. Virginia">305 U. S. 19</a></span>.
+  </p>
+</div></div></opinion>

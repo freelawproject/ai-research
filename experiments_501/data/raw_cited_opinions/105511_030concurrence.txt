@@ -1,0 +1,10 @@
+<opinion type="concurrence">
+<author id="b523-8">Mr. Justice Burton,</author>
+<judges id="AjP">whom Mr. Justice Harlan joins,</judges>
+<p id="AHi">concurring in the result.</p>
+<p id="b523-9">This suit was brought in a United States District Court under § 301 of the Labor Management Relations Act of <page-number citation-index="1" label="460">*460</page-number>1947, 61 Stat. 156, 29 U. S. C. § 185, seeking specific enforcement of the arbitration provisions of a collective-bargaining contract. The District Court had jurisdiction over the action since it involved an obligation running to a union — a union controversy — and not uniquely personal rights of employees sought to be enforced by a union. Cf. <em>Association of Westinghouse Employees </em>v. <em>Westinghouse Elec. Corp., </em>348 U. S. 437. Having jurisdiction over the suit, the court was not powerless to fashion an appropriate federal remedy. The power to decree specific performance of a collectively bargained agreement to arbitrate finds its source in § 301 itself,<footnotemark>1</footnotemark> and in a Federal District Court’s inherent equitable powers, nurtured by a congressional policy to encourage and enforce labor arbitration in industries affecting commerce.<footnotemark>2</footnotemark></p>
+<p id="b524-4">I do not subscribe to the conclusion of the Court that the substantive law to be applied in a suit under § 301 is federal law. At the same time, I agree with Judge Magruder in <em>International Brotherhood </em>v. <em>W. L. Mead, Inc., </em>230 F. 2d 576, that some federal rights may necessarily be involved in a § 301 case, and hence that the constitutionality of § 301 can be upheld as a congressional grant to Federal District Courts of what has been called “protective jurisdiction.”</p>
+<footnote label="2">
+<p id="b524-8"> See the dissent of Judge Brown in the Court of Appeals in this case, 230 F. 2d 81, 89.</p>
+</footnote>
+</opinion>

@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b499-12">
+  Mr. Justice Stewart
+ </author>
+<p id="AJC">
+  delivered the opinion of the Court.
+ </p>
+<p id="b499-13">
+  More than a century ago, in
+  <em>
+   The Schooner Catharine
+  </em>
+  v.
+  <em>
+   Dickinson,
+  </em>
+  <span class="citation" data-id="86919"><a href="/opinion/86919/the-schooner-catharine-v-dickinson/" aria-description="Citation for case: The Schooner Catharine v. Dickinson">17 How. 170</a></span>, this Court established in our admiralty law the rule of divided damages. That rule, most commonly applied in cases of collision between two vessels, requires the equal division of property damage whenever both parties are found to be guilty of contributing fault, whatever the relative degree of their fault may have been. The courts of every major maritime
+  <span citation-index="1" class="star-pagination" label="398"> 
+   *398
+   </span>
+  nation except ours have long since abandoned that rule, and now assess damages in such cases on the basis of proportionate fault when such an allocation can reasonably be made. In the present case we are called upon to decide whether this country’s admiralty rule of divided damages should be replaced by a rule requiring, when possible, the allocation of liability for damages in proportion to the relative fault of each party.
+ </p>
+<p id="b500-5">
+  I
+ </p>
+<p id="b500-6">
+  On a clear but windy December night in 1968, the
+  <em>
+   Mary A. Whalen,
+  </em>
+  a coastal tanker owned by the respondent Reliable Transfer Co., embarked from Constable Hook, N. J., for Island Park, N. Y., with a load of fuel oil. The voyage ended, instead, with the vessel stranded on a sand bar off Rockaway Point outside New York Harbor.
+ </p>
+<p id="b500-7">
+  The
+  <em>
+   Whalen’s
+  </em>
+  course led across the mouth of Rock-away Inlet, a narrow body of water that lies between a breakwater to the southeast and the shoreline of Coney Island to the northwest. The breakwater is ordinarily marked at its southernmost point by a flashing light maintained by the Coast Guard. As, however, the
+  <em>
+   Whalen’s
+  </em>
+  captain and a deckhand observed while the vessel was proceeding southwardly across the inlet, the light was not operating that night. As the
+  <em>
+   Whalen
+  </em>
+  approached Rockaway Point about half an hour later, her captain attempted to pass a tug with a barge in tow ahead, but, after determining that he could not overtake them, decided to make a 180° turn to pass astern of the barge. At this time the tide was at flood, and the waves, whipped by northwest winds of gale force, were eight to ten feet high. After making the 180° turn and passing astern of the barge, the captain headed the
+  <em>
+   Whalen
+  </em>
+  eastwardly, believing that the vessel was then
+  <span citation-index="1" class="star-pagination" label="399"> 
+   *399
+   </span>
+  south of the breakwater and that he was heading her for the open sea. He was wrong. About a minute later the light structure on the southern point of the breakwater came into view. Turning to avoid rocks visible ahead, the
+  <em>
+   Whalen
+  </em>
+  ran aground in the sand.
+ </p>
+<p id="b501-4">
+  The respondent brought this action against the United States in Federal District Court, under the Suits in Admiralty Act, <span class="citation no-link">41 Stat. 525</span>, <span class="citation no-link">46 U. S. C. § 741</span>
+  <em>
+   et seq.,
+  </em>
+  and the Federal Tort Claims Act, <span class="citation no-link">28 U. S. C. § 1346</span>
+  <em>
+   et seq.,
+  </em>
+  seeking to recover for damages to the
+  <em>
+   Whalen
+  </em>
+  caused by the stranding. The District Court found that the vessel’s grounding was caused 25% by the failure of the Coast • Guard to maintain the breakwater light and 75% by the fault of the
+  <em>
+   Whalen.
+  </em>
+  In so finding on the issue of comparative fault, the court stated:
+ </p>
+<blockquote id="b501-5">
+  “The fault of the vessel was more egregious than the fault of the Coast Guard. Attempting to negotiate a turn to the east, in the narrow space between the bell buoy No. 4 and the shoals off Rockaway Point, the Captain set his course without knowing where he was. Obviously, he would not have found the breakwater light looming directly ahead of him within a minute after his change of course, if he had not been north of the point where he believed he was.
+ </blockquote>
+<blockquote id="b501-6">
+  “Equipped with look-out, chart, searchlight, radiotelephone, and radar, he made use . of nothing except his own guesswork judgment. After . . . turning in a loop toward the north so as to pass astern of the tow, he should have made sure of his position before setting his new 73° course. The fact that a northwest gale blowing at 45 knots with eight to ten foot seas made it difficult to see, emphasizes the need for caution rather than excusing a turn into the unknown. . .
+ </blockquote>
+<p id="b502-4">
+<span citation-index="1" class="star-pagination" label="400"> 
+   *400
+   </span>
+  The court held, however, that the settled admiralty rule of divided damages required each party to bear one-half of the damages to the vessel.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+</p>
+<p id="b502-5">
+  The Court of Appeals for the Second Circuit affirmed this judgment. <span class="citation" data-id="319767"><a href="/opinion/319767/reliable-transfer-co-inc-and-cross-appellant-v-united-states-of/" aria-description="Citation for case: Reliable Transfer Co., Inc., and Cross-Appellant v....">497 F. 2d 1036</a></span>. It held that the trial court “was not clearly erroneous in finding that the negligence of both parties, in the proportions stated, caused the stranding.”
+  <span class="citation" data-id="319767"><a href="/opinion/319767/reliable-transfer-co-inc-and-cross-appellant-v-united-states-of/#1037" aria-description="Citation for case: Reliable Transfer Co., Inc., and Cross-Appellant v...."><em>
+   Id.,
+  </em>
+  at 1037-1038</a></span>. And, although “mindful of the criticism of the equal division of damages rule and . . . recognizing] the force of the argument
+  <span citation-index="1" class="star-pagination" label="401"> 
+   *401
+   </span>
+  that in this type of case division of damages in proportion to the degree of fault may be more equitable,”
+  <span class="citation" data-id="319767"><a href="/opinion/319767/reliable-transfer-co-inc-and-cross-appellant-v-united-states-of/#1038" aria-description="Citation for case: Reliable Transfer Co., Inc., and Cross-Appellant v...."><em>
+   id.,
+  </em>
+  at 1038</a></span>, the appellate court felt constrained to adhere to the established rule and “to leave doctrinal development to the Supreme Court or to await appropriate action by Congress.”
+  <em>
+   <span class="citation" data-id="319767"><a href="/opinion/319767/reliable-transfer-co-inc-and-cross-appellant-v-united-states-of/" aria-description="Citation for case: Reliable Transfer Co., Inc., and Cross-Appellant v....">Ibid.</a></span>
+  </em>
+</p>
+<p id="b503-4">
+  We granted certiorari, <span class="citation multiple-matches"><a href="/c/U.%20S./419/1018/">419 U. S. 1018</a></span>, to consider the continued validity of the divided damages rule.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+</p>
+<p id="b503-5">
+  II
+ </p>
+<p id="b503-6">
+  The precise origins of the divided damages rule are shrouded in the mists of history.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  In any event it was
+  <span citation-index="1" class="star-pagination" label="402"> 
+   *402
+   </span>
+  not until early in the 19th century that the divided damages rule as we know it emerged clearly in British admiralty law. In 1815, in
+  <em>
+   The Woodrop-Sims,
+  </em>
+  2 Dods. 83, 165 Eng. Rep. 1422, Sir William Scott, later Lord Stowell, considered the various circumstances under which maritime collisions could occur and stated that division of damages was appropriate in those cases “where both parties are to blame.”
+  <em>
+   Id.,
+  </em>
+  at 85, 165 Eng. Rep., at 1423. In such cases the total damages were to be “apportioned between” the parties “as having been occasioned by the fault of both of them.”
+  <em>
+   Ibid.
+  </em>
+  Nine years later the divided damages rule became settled in English admiralty law when the House of Lords in a maritime collision case where both ships were at fault reversed a decision of a Scottish court that had apportioned damages by degree of blame, and, relying on
+  <em>
+   The Woodrop-Sims,
+  </em>
+  ordered that the damages be divided equally.
+  <em>
+   Hay
+  </em>
+  v.
+  <em>
+   Le Neve, 2
+  </em>
+  Shaw H. L. 395.
+ </p>
+<p id="b504-5">
+  It was against this background that in 1855 this Court adopted the rule of equal division of damages in
+  <em>
+   The Schooner Catharine
+  </em>
+  v.
+  <em>
+   Dickinson,
+  </em>
+  <span class="citation" data-id="86919"><a href="/opinion/86919/the-schooner-catharine-v-dickinson/" aria-description="Citation for case: The Schooner Catharine v. Dickinson">17 How. 170</a></span>. The rule was adopted because it was then the prevailing rule in England, because it had become the majority rule in the lower federal courts, and because it seemed the “most just and equitable, and . . . best [tended] to in
+  <span citation-index="1" class="star-pagination" label="403"> 
+   *403
+   </span>
+  duce care and vigilance on both sides, in the navigation.”
+  <span class="citation" data-id="86919"><a href="/opinion/86919/the-schooner-catharine-v-dickinson/#177" aria-description="Citation for case: The Schooner Catharine v. Dickinson"><em>
+   Id.,
+  </em>
+  at 177-178</a></span>. There can be no question that subsequent history and experience have conspicuously eroded the rule’s foundations.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+</p>
+<p id="b505-4">
+  It was true at the time of
+  <em>
+   The Catharine
+  </em>
+  that the divided damages rule was well entrenched in English law. The rule was an ancient form of rough justice, a means of apportioning damages where it was difficult to measure which party was more at fault. See 4 R. Marsden, British Shipping Laws, Collisions at Sea §§ 119-147 (11th ed. 1961); Staring, Contribution and Division of Damages in Admiralty and Maritime Cases, 45 Calif-. L. Rev. 304, 305-310 (1957). But England has long since abandoned the rule
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  and now follows the Brussels Collision Liability Convention of 1910 that provides for the apportionment of damages on the basis of “degree” of fault whenever it is possible to do so.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  Indeed, the United States is now virtually alone among the world’s major maritime nations in not adhering to the Convention with its rule of pro
+  <span citation-index="1" class="star-pagination" label="404"> 
+   *404
+   </span>
+  portional fault
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+  — a fact that encourages transoceanic forum shopping. See G. Gilmore &amp; C. Black, The Law of Admiralty 529 (2d ed. 1975) (hereinafter Gilmore &amp; Black).
+ </p>
+<p id="b506-5">
+  While the lower federal courts originally adhered to the divided damages rule, they have more recently followed it only grudgingly, terming it “unfair,”
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+  “illogical,”
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+  “arbitrary,” “archaic and frequently unjust.”
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+  Judge Learned Hand was a particularly stern critic of the rule. Dissenting in
+  <em>
+   National Bulk Carriers
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="225455"><a href="/opinion/225455/national-bulk-carriers-inc-v-united-states-of-america/#410" aria-description="Citation for case: National Bulk Carriers, Inc. v. United States of America">183 F. 2d 405, 410</a></span> (CA2), he wrote: “An equal division [of damages] in this case would be plainly unjust; they ought to be divided in some such proportion as five to one. And so they could be but for our obstinate cleaving to the ancient rule which has been abrogated by nearly all civilized nations.” And Judge Hand had all but invited this Court to overturn the rule when,
+  <span citation-index="1" class="star-pagination" label="405"> 
+   *405
+   </span>
+  in an earlier opinion for the Court of Appeals for the Second Circuit, he stated that “we have no power to divest ourselves of this vestigial relic; we can only go so far as to close our eyes to doubtful delinquencies.”
+  <em>
+   Oriental Trading &amp; Transport Co.
+  </em>
+  v.
+  <em>
+   Gulf Oil Corp.,
+  </em>
+  <span class="citation" data-id="1473714"><a href="/opinion/1473714/oriental-trading-transport-co-v-gulf-oil-corp/#111" aria-description="Citation for case: Oriental Trading &amp; Transport Co. v. Gulf Oil Corp.">173 F. 2d 108, 111</a></span>. Some courts, even bolder, have simply ignored the rule. See J. Griffin, The American Law of Collision 564 (1949); Staring,
+  <em>
+   supra,
+  </em>
+  at 341-342. Cf.
+  <em>
+   The Margaret,
+  </em>
+  <span class="citation" data-id="1473940"><a href="/opinion/1473940/the-margaret/" aria-description="Citation for case: The Margaret">30 F. 2d 923</a></span> (CA3).
+ </p>
+<p id="b507-4">
+  It is no longer apparent, if it ever was, that this Solomonic division of damages serves to achieve even rough justice.
+  <a class="footnote" href="#fn11" id="fn11_ref">
+   11
+  </a>
+  An equal division of damages is a reasonably satisfactory result only where each vessel’s fault is approximately equal and each vessel thus assumes a share of the collision damages in proportion to its share of the blame, or where proportionate degrees of fault cannot be measured and determined on a rational basis. The rule produces palpably unfair results in every other case. For example, where one ship’s fault in causing a collision is relatively slight and her damages small, and where the second ship is grossly negligent and suffers extensive damage, the first ship must still make a substantial payment to the second. “This result hardly commends itself to the sense of justice any more appealingly than does the common law doctrine of contributory negligence ....” Gilmore &amp; Black 528.
+ </p>
+<p id="b507-5">
+  And the potential unfairness of the division is magnified by the application of the rule of
+  <em>
+   The Pennsyl
+  </em>
+<span citation-index="1" class="star-pagination" label="406"> 
+   *406
+   </span>
+<em>
+   vania,
+  </em>
+  <span class="citation" data-id="88869"><a href="/opinion/88869/the-pennsylvania/" aria-description="Citation for case: The Pennsylvania">19 Wall. 125</a></span>, whereby a ship’s relatively minor statutory violation will require her to bear half the collision damage unless she can satisfy the heavy burden of showing “not merely that her fault might not have been one of the causes, or that it probably was not, but that it
+  <em>
+   could not have been.” Id.,
+  </em>
+  at 136 (emphasis added). See
+  <em>
+   O/Y Finlayson-Forssa A/B
+  </em>
+  v.
+  <em>
+   Pan Atlantic S. S. Corp.,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.%202d/259/11/">259 F. 2d 11</a></span>, 22 (CA5);
+  <em>
+   The New York-Marine No. 10,
+  </em>
+  <span class="citation" data-id="1500779"><a href="/opinion/1500779/the-new-york-marine-no-10/#566" aria-description="Citation for case: The New York Marine No. 10">109 F. 2d 564, 566</a></span> (CA2). See also Griffin,
+  <em>
+   supra,
+  </em>
+  § 202.
+ </p>
+<p id="b508-5">
+  The Court has long implicitly recognized the patent harshness of an equal division of damages in the face of disparate blame by applying the “major-minor” fault doctrine to find a grossly negligent party solely at fault.
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+  But this escape valve, in addition to being inherently unreliable, simply replaces one unfairness with another. That a vessel is primarily negligent does not justify its shouldering all responsibility, nor excuse the slightly negligent vessel from bearing any liability at all. See
+  <em>
+   Tank Barge Hygrade
+  </em>
+  v.
+  <em>
+   The Gatco New Jersey,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.%202d/250/485/">250 F. 2d 485</a></span>, 488 (CA3). The problem remains where it began — with the divided damages rule:
+ </p>
+<blockquote id="b508-6">
+  “[T]he doctrine that a court should not look too jealously at the navigation of one vessel, when the faults of the other are glaring, is in the nature of a
+  <span citation-index="1" class="star-pagination" label="407"> 
+   *407
+   </span>
+  sop to Cerberus. It is no doubt better than nothing; but it is inadequate to reach the heart of the matter, and constitutes a constant temptation to courts to avoid a decision on the merits.”
+  <em>
+   National Bulk Carriers
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="225455"><a href="/opinion/225455/national-bulk-carriers-inc-v-united-states-of-america/#410" aria-description="Citation for case: National Bulk Carriers, Inc. v. United States of America">183 F. 2d 405, 410</a></span> (CA2) (L. Hand, J., dissenting).
+ </blockquote>
+<p id="b509-4">
+  The divided damages rule has been said to be justified by the difficulty of determining comparative degrees of negligence when both parties are concededly guilty of contributing fault.
+  <em>
+   The Max Morris,
+  </em>
+  <span class="citation" data-id="92846"><a href="/opinion/92846/the-max-morris/#12" aria-description="Citation for case: The Max Morris">137 U. S. 1, 12</a></span>. Although there is some force in this argument, it cannot justify an equal division of damages in every ease of collision based on mutual fault. When it is impossible fairly to allocate degrees of fault, the division of damages equally between wrongdoing parties is an equitable solution. But the rule is unnecessarily crude and inequitable in a case like this one where an allocation of disparate proportional fault has been made. Potential problems of proof in some cases hardly require adherence to an archaic and unfair rule in all cases. Every other major maritime nation has evidently been able to apply a rule of comparative negligence without serious problems, see Mole &amp; Wilson, A Study of Comparative Negligence, 17 Corn. L. Q. 333, 346 (1932);
+  <em>
+   In re Adams’ Petition,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.%20Supp./125/110/">125 F. Supp. 110</a></span>, 114 (SDNY), aff’d, <span class="citation multiple-matches"><a href="/c/F.%202d/237/884/">237 F. 2d 884</a></span> (CA2), and in our own admiralty law a rule of comparative negligence has long been applied with no untoward difficulties in personal injury actions. See,
+  <em>
+   e. g., Pope &amp; Talbot, Inc.
+  </em>
+  v.
+  <em>
+   Hawn,
+  </em>
+  <span class="citation" data-id="105170"><a href="/opinion/105170/pope-talbot-inc-v-hawn/#409" aria-description="Citation for case: Pope &amp; Talbot, Inc. v. Hawn">346 U. S. 406, 409</a></span>. See also Merchant Marine (Jones) Act, <span class="citation no-link">38 Stat. 1185</span>, as amended, <span class="citation no-link">41 Stat. 1007</span>, <span class="citation no-link">46 U. S. C. § 688</span>; Death on the High Seas Act, <span class="citation no-link">41 Stat. 537</span>, <span class="citation no-link">46 U. S. C. § 766</span>.
+ </p>
+<p id="b509-5">
+  The argument has also been made that the divided damages rule promotes out-of-court settlements, because when it becomes apparent that both vessels are at fault,
+  <span citation-index="1" class="star-pagination" label="408"> 
+   *408
+   </span>
+  both parties can readily agree to divide the damages— thus avoiding the expense and delay of prolonged litigation and the concomitant burden on the courts. It would be far more difficult, it is argued, for the parties to agree on who was more at fault and to apportion damages accordingly. But the argument is hardly persuasive. For if the fault of the two parties is markedly disproportionate, it is in the interest of the slightly negligent party to litigate the controversy in the hope that the major-minor fault rule may eventually persuade a court to absolve it of all liability. And if, on the other hand, it appears after a realistic assessment of the situation that the fault of both parties is roughly equal, then there is no reason why a rule that apportions damages would be any less likely to induce a settlement than a rule that always divides damages equally. Experience with comparative negligence in the personal injury area teaches that a rule of fairness in court will produce fair out-of-court settlements.
+  <a class="footnote" href="#fn13" id="fn13_ref">
+   13
+  </a>
+  But even if this argument were more persuasive than it is, it could hardly be accepted. For, at bottom, it asks us to continue the operation of an archaic rule because its facile application out of court yields quick, though inequitable, settlements, and relieves the courts of some litigation. Congestion in the courts cannot justify a legal rule that produces unjust results in litigation simply to encourage speedy out-of-court accommodations.
+ </p>
+<p id="b511-3">
+<span citation-index="1" class="star-pagination" label="409"> 
+   *409
+   </span>
+  Finally, the respondent suggests that the creation of a new rule of damages in maritime collision cases is a task for Congress and not for this Court.
+  <a class="footnote" href="#fn14" id="fn14_ref">
+   14
+  </a>
+  But the Judiciary has traditionally taken the lead in formulating flexible and fair remedies in the law maritime, and “Congress has largely left to this Court the responsibility for fashioning the controlling rules of admiralty law.”
+  <em>
+   Fitzgerald
+  </em>
+  v.
+  <em>
+   United States Lines Co.,
+  </em>
+  <span class="citation" data-id="106640"><a href="/opinion/106640/fitzgerald-v-united-states-lines-co/#20" aria-description="Citation for case: Fitzgerald v. United States Lines Co.">374 U. S. 16, 20</a></span>. See also
+  <em>
+   Moragne
+  </em>
+  v.
+  <em>
+   States Marine Lines,
+  </em>
+  <span class="citation" data-id="108166"><a href="/opinion/108166/moragne-v-states-marine-lines-inc/" aria-description="Citation for case: Moragne v. States Marine Lines, Inc.">398 U. S. 375</a></span>, 405 n. 17;
+  <em>
+   Kermarec
+  </em>
+  v.
+  <em>
+   Compagnie Generate Transatlantique,
+  </em>
+  <span class="citation" data-id="105837"><a href="/opinion/105837/kermarec-v-compagnie-generale-transatlantique/#630" aria-description="Citation for case: Kermarec v. Compagnie Generale Transatlantique">358 U. S. 625, 630-632</a></span>. No statutory or judicial precept precludes a change in the rule of divided damages, and indeed a proportional fault rule would simply bring recovery for property damage in maritime collision cases into line with the rule of admiralty law long since established by Congress for personal injury cases. See the Jones Act, <span class="citation no-link">46 U. S. C. § 688</span>.
+  <a class="footnote" href="#fn15" id="fn15_ref">
+   15
+  </a>
+</p>
+<p id="b512-4">
+<span citation-index="1" class="star-pagination" label="410"> 
+   *410
+   </span>
+  As the authors of a leading admiralty law treatise have put the matter:
+ </p>
+<blockquote id="b512-5">
+  “[T]here is no reason why the Supreme Court cannot at this late date ‘confess error’ and adopt the proportional fault doctrine without Congressional action. The resolution to follow the divided damages rule, taken 120 years ago, rested not on overwhelming authority but on judgments of fact and of fairness which may have been tenable then but are hardly so today. No ‘vested rights,’ in theory or fact, have intervened. The regard for ‘settled expectation’ which is the heart-reason of . . .
+  <em>
+   stare decisis . .
+  </em>
+  . can have no relevance in respect to such a rule; the concept of ‘settled expectation’ would be reduced to an absurdity were it to be applied to a rule of damages for negligent collision. The abrogation of the rule would not, it seems, produce any disharmony with other branches of the maritime law, general or statutory.” Gilmore &amp; Black 531 (footnote omitted).
+  <a class="footnote" href="#fn16" id="fn16_ref">
+   16
+  </a>
+</blockquote>
+<p id="b512-6">
+  The rule of divided damages in admiralty has continued to prevail in this country by sheer inertia rather than by reason of any intrinsic merit. The reasons that originally led to the Court’s adoption of the rule have long since disappeared. The rule has been repeatedly criticized by experienced federal judges who have cor
+  <span citation-index="1" class="star-pagination" label="411"> 
+   *411
+   </span>
+  rectly pointed out that the result it works has too often been precisely the opposite of what the Court sought to achieve in
+  <em>
+   <span class="citation" data-id="86919"><a href="/opinion/86919/the-schooner-catharine-v-dickinson/" aria-description="Citation for case: The Schooner Catharine v. Dickinson">The Schooner Catharine</a></span>
+  </em>
+  — the “just and equitable” allocation of damages. And worldwide experience has taught that that goal can be more nearly realized by a standard that allocates liability for damages according to comparative fault whenever possible.
+ </p>
+<p id="b513-4">
+  We hold that when two or more parties have contributed by their fault to cause property damage in a maritime collision or stranding, liability for such damage is to be allocated among the parties proportionately to the comparative degree of their fault, and that liability for such damages is to be allocated equally only when the parties are equally at fault or when it is not possible fairly to measure the comparative degree of their fault.
+ </p>
+<p id="b513-5">
+  Accordingly, the judgment before us is vacated and the case is remanded for further proceedings consistent with this opinion.
+ </p>
+<p id="b513-6">
+<em>
+   It is so ordered.
+  </em>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b502-6">
+   The operation of the rule was described in
+   <em>
+    The Sapphire,
+   </em>
+   <span class="citation" data-id="88790"><a href="/opinion/88790/the-sapphire/" aria-description="Citation for case: The Sapphire">18 Wall. 51</a></span>, 56:
+  </p>
+<p id="b502-7">
+   “It is undoubtedly the rule in admiralty that where both vessels are in fault the sums representing the damage sustained by each must be added together and the aggregate divided between the two. This is in effect deducting the lesser from the greater and dividing the remainder. ... If one in fault has sustained no injury, it is liable for half the damages sustained by the other, though that other was also in fault.”
+  </p>
+<p id="b502-8">
+   Similarly, in
+   <em>
+    The North Star,
+   </em>
+   <span class="citation" data-id="90646"><a href="/opinion/90646/the-north-star/#22" aria-description="Citation for case: The&quot; North Star&quot;">106 U. S. 17, 22</a></span>, the rule was thus stated:
+  </p>
+<p id="b502-9">
+   “[According to the general maritime law, in cases of collision occurring by the fault of both parties, the entire damage to both ships is added together in one common mass and equally divided between them, and thereupon arises a liability of one party to pay to the other such sum as is necessary to equalize the burden.”
+  </p>
+<p id="b502-10">
+   See also,
+   <em>
+    e. g., White Oak Transportation Co.
+   </em>
+   v.
+   <em>
+    Boston, Cape Cod &amp; New York Canal Co.,
+   </em>
+   <span class="citation" data-id="99959"><a href="/opinion/99959/white-oak-transportation-co-v-boston-cape-cod-new-york-canal-co/" aria-description="Citation for case: White Oak Transportation Co. v. Boston, Cape Cod &amp; New...">258 U. S. 341</a></span>;
+   <em>
+    The Eugene F. Moran,
+   </em>
+   <span class="citation" data-id="96972"><a href="/opinion/96972/the-eugene-f-moran/" aria-description="Citation for case: The Eugene F. Moran">212 U. S. 466</a></span>.
+  </p>
+<p id="b502-11">
+   It has long been settled that the divided damages rule applies not only in cases of collision between two vessels, but also in cases like this one where a vessel partly at fault is damaged in collision or grounding because of the mutual contributing fault of a nonvessel party.
+   <em>
+    Atlee
+   </em>
+   v.
+   <em>
+    Packet Co.,
+   </em>
+   <span class="citation" data-id="89024"><a href="/opinion/89024/atlee-v-packet-co/" aria-description="Citation for case: Atlee v. Packet Co.">21 Wall. 389</a></span> (barge struck pier because of mutual fault of barge and of pier owner);
+   <em>
+    White Oak Transportation Co.
+   </em>
+   v.
+   <em>
+    Boston, Cape Cod &amp; New York Canal Co., supra
+   </em>
+   (steamship ran aground in canal because of joint negligence of steamship and canal company). See also G. Gilmore &amp; C. Black, The Law of Admiralty §7-17, pp. 522-523 (2d ed. 1975).
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b503-7">
+   The Government’s petition for certiorari presented the single question whether the admiralty rule of equally divided damages should be replaced by the rule of damages in proportion to fault. The respondent did not file a cross-petition for certiorari, but it now argues that the Government was solely at fault and requests an increase of the judgment in its favor to the full amount of its damages. However, absent a cross-petition for certiorari, the respondent may not now challenge the judgment of the Court of Appeals to enlarge its rights thereunder.
+   <em>
+    Morley Constr. Co.
+   </em>
+   v.
+   <em>
+    Maryland Casualty Co.,
+   </em>
+   <span class="citation" data-id="102766"><a href="/opinion/102766/morley-construction-co-v-maryland-casualty-co/#190" aria-description="Citation for case: Morley Construction Co. v. Maryland Casualty Co.">300 U. S. 185, 190</a></span>;
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    American Railway Express Co.,
+   </em>
+   <span class="citation" data-id="100457"><a href="/opinion/100457/united-states-interstate-commerce-commission-v-american-railway-express/#435" aria-description="Citation for case: United States &amp; Interstate Commerce Commission v....">265 U. S. 425, 435</a></span>. Moreover, even if it could be argued that respondent’s challenge of the factual findings could be taken as an argument in support of the judgment, see Stern, When to Cross-Appeal or Cross-Petition — Certainty or Confusion?, <span class="citation no-link">87 Harv. L. Rev. 763</span>, 774 (1974), the findings of fact with respect to comparative negligence were concurred in by both the District Court and the Court of Appeals, and the respondent could not in this case meet its heavy burden under the “two-court rule.”
+   <em>
+    Graver Mfg. Co.
+   </em>
+   v.
+   <em>
+    Linde Co.,
+   </em>
+   <span class="citation" data-id="104637"><a href="/opinion/104637/graver-tank-mfg-co-v-linde-air-products-co/#275" aria-description="Citation for case: Graver Tank &amp; Mfg. Co. v. Linde Air Products Co.">336 U. S. 271, 275</a></span>. See
+   <em>
+    Berenyi
+   </em>
+   v.
+   <em>
+    Immigration Director,
+   </em>
+   <span class="citation" data-id="107344"><a href="/opinion/107344/berenyi-v-district-director-immigration-naturalization-service/#635" aria-description="Citation for case: Berenyi v. District Director, Immigration &amp;...">385 U. S. 630, 635</a></span>.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="AY8">
+   Most commentators have traced the rule back to Article XIV of the Laws of Oleron, promulgated about A. D. 1150, which provided that in cases of collision between a ship under way and another at anchor, the damages would be divided equally between the owners of the two vessels, so long as the captain and crew of the ship under way swore under oath that the collision was acci
+   <span citation-index="1" class="star-pagination" label="402"> 
+    *402
+    </span>
+   dental. See,
+   <em>
+    e. g.,
+   </em>
+   4 R. Marsden, British Shipping Laws, Collisions at Sea §119 (11th ed. 1961). See also Staring, Contribution and Division of Damages in Admiralty and Maritime Cases, <span class="citation no-link">45 Calif. L. Rev. 304</span> (1957).
+  </p>
+<p id="b504-6">
+   Other maritime nations enacted provisions similar to Article XIV during the same period, with slight variations in the scope of the rule and the principle of division. Marsden,
+   <em>
+    supra,
+   </em>
+   §§ 119-125. “The principle . . . underlying the rule seems to have been that collision was a peril of the sea — a common misfortune to be borne by all parties, either equally or rateably according to their interests at risk.”
+   <em>
+    Id.,
+   </em>
+   § 140.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b505-5">
+<em>
+</em>
+   The Court has acknowledged the continued existence of the divided damages rule in at least two recent cases. See
+   <em>
+    Weyerhaeuser S. S. Co.
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="106562"><a href="/opinion/106562/weyerhaeuser-steamship-co-v-united-states/#603" aria-description="Citation for case: Weyerhaeuser Steamship Co. v. United States">372 U. S. 597, 603</a></span>;
+   <em>
+    Halcyon Lines
+   </em>
+   v.
+   <em>
+    Haenn Ship Ceiling
+   </em>
+   &amp;
+   <em>
+    Refitting Corp.,
+   </em>
+   <span class="citation" data-id="104954"><a href="/opinion/104954/halcyon-lines-v-haenn-ship-ceiling-refitting-corp/#284" aria-description="Citation for case: Halcyon Lines v. Haenn Ship Ceiling &amp; Refitting Corp.">342 U. S. 282, 284</a></span>. But in neither case did the Court have occasion to re-examine the rule or to appraise the validity of its underpinnings or the propriety of its present application. The Court granted certiorari in
+   <em>
+    Union Oil Co.
+   </em>
+   v.
+   <em>
+    The San Jacinto,
+   </em>
+   <span class="citation" data-id="108637"><a href="/opinion/108637/union-oil-co-of-cal-v-the-san-jacinto/" aria-description="Citation for case: Union Oil Co. of Cal. v. the San Jacinto">409 U. S. 140</a></span>, to reconsider the divided damages rule, but did not reach the issue because of our conclusion that one of the vessels involved in that case was totally free of contributing fault.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b505-8">
+   Maritime Conventions Act, 1911, 1 &amp; 2 Geo. 5, c. 57, § 1.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b505-9">
+   Article 4 of the Convention provides in part: “If two or more vessels are in fault the liability of each vessel shall be in proportion to the degree of the faults respectively committed. Provided that if, having regard to the circumstances, it is not possible to establish the degree of the respective faults, or if it appears that the faults are equal, the liability shall be apportioned equally.”'
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b506-6">
+   We are informed by the Government that among the jurisdictions that have ratified or adhere to the Brussels Convention on Collision Liability are: Argentina, Australia, Austria, Belgium, Brazil, Canada, Denmark, Egypt, Finland, France, Germany, Great Britain, Greece, Haiti, Hungary, Iceland, India, Ireland, Italy, Japan, Mexico, Netherlands, New Zealand, Nicaragua, Norway, Poland, Portugal, Romania, Sweden, Switzerland, Turkey, U. S. S. R., Uruguay, and Yugoslavia.- See 6 A. Knauth &amp; C. Knauth, Benedict on Admiralty 38-39 (7th ed. 1969). See also J. Griffin, The American Law of Collision 857 (1949); Staring,
+   <em>
+    supra,
+   </em>
+   n. 3, at 340-341;
+   <em>
+    Tank Barge Hygrade
+   </em>
+   v.
+   <em>
+    The Gatco New Jersey,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/F.%202d/250/485/">250 F. 2d 485</a></span>, 488 (CA3).
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b506-7">
+<em>
+    Ahlgren
+   </em>
+   v.
+   <em>
+    Red Star Towing &amp; Transp. Co.,
+   </em>
+   <span class="citation" data-id="234527"><a href="/opinion/234527/ahlgren-v-red-star-towing-transp-co-inc/#620" aria-description="Citation for case: Ahlgren v. Red Star Towing &amp; Transp. Co., Inc">214 F. 2d 618, 620</a></span> (CA2).
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b506-8">
+<em>
+    Marine Fuel Transfer Corp.
+   </em>
+   v.
+   <em>
+    The Ruth,
+   </em>
+   <span class="citation" data-id="6912831"><a href="/opinion/7012318/marine-fuel-transfer-corp-v-the-ruth/#321" aria-description="Citation for case: Marine Fuel Transfer Corp. v. The Ruth">231 F. 2d 319, 321</a></span> (CA2).
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b506-9">
+<em>
+    Tank Barge Hygrade
+   </em>
+   v.
+   <em>
+    The Gatco New Jersey, supra,
+   </em>
+   at 488. See also
+   <em>
+    Mystic S. S. Corp.
+   </em>
+   v.
+   <em>
+    M/S Antonio Ferraz,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/F.%202d/498/538/">498 F. 2d 538</a></span>, 539 n. 1 (CA2);
+   <em>
+    Petition of Oskar Tiedemann &amp; Co.,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/F.%202d/289/237/">289 F. 2d 237</a></span>, 241-242 (CA3);
+   <em>
+    In re Adams’ Petition,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/F.%202d/237/884/">237 F. 2d 884</a></span>, 887 (CA2);
+   <em>
+    Luckenbach S. S. Co.
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="1483326"><a href="/opinion/1483326/luckenbach-s-s-co-v-united-states/#252" aria-description="Citation for case: Luckenbach S. S. Co. v. United States">157 F. 2d 250, 252</a></span> (CA2).
+  </p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b507-6">
+   It is difficult to imagine any manner in which the divided damages rule would be more likely to “induce care and vigilance” than a comparative negligence rule that also penalizes wrongdoing, but in proportion to measure of fault. A rule that divides damages by degree of fault would seem better designed to induce care than the rule of equally divided damages, because it imposes the strongest deterrent upon the wrongful behavior that is most likely to harm others.
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="b508-7">
+   See, e.
+   <em>
+    g., The City of New York,
+   </em>
+   <span class="citation" data-id="1087619"><a href="/opinion/1087619/the-city-of-new-york/" aria-description="Citation for case: The City of New York">147 U. S. 72</a></span>, 85:
+  </p>
+<p id="b508-8">
+   “Where fault on the part of one vessel is established by uneontradicted testimony, and such fault is, of itself, sufficient to account for the disaster, it is not enough for such vessel, to raise a doubt with regard to the management of the other vessel. There is some presumption at least adverse to its claim, and any reasonable doubt with regard to the propriety of the conduct of such other vessel should be resolved in its favor.”
+  </p>
+<p id="b508-9">
+   See also
+   <em>
+    The Victory &amp; The Plymothian,
+   </em>
+   <span class="citation" data-id="94772"><a href="/opinion/94772/the-victory-the-plymothian/" aria-description="Citation for case: The Victory &amp; the Plymothian">168 U. S. 410</a></span>;
+   <em>
+    The Umbria,
+   </em>
+   <span class="citation" data-id="94658"><a href="/opinion/94658/the-umbria/" aria-description="Citation for case: The Umbria">166 U. S. 404</a></span>;
+   <em>
+    The Oregon,
+   </em>
+   <span class="citation" data-id="94202"><a href="/opinion/94202/the-oregon/" aria-description="Citation for case: The Oregon">158 U. S. 186</a></span>;
+   <em>
+    The Ludvig Holberg,
+   </em>
+   <span class="citation" data-id="94137"><a href="/opinion/94137/the-ludvig-holberg/" aria-description="Citation for case: The Ludvig Holberg">157 U. S. 60</a></span>.
+  </p>
+</div><div class="footnote" id="fn13" label="13">
+<a class="footnote" href="#fn13_ref">
+   13
+  </a>
+<p id="b510-5">
+   The rule of comparative negligence applicable to personal injury actions in our maritime law, see the Jones Act, <span class="citation no-link">46 U. S. C. § 688</span>; Death on the High Seas Act, <span class="citation no-link">46 U. S. C. § 766</span>, does not appear to discourage the negotiation of settlements in such litigation. It has been reported, for example, that of the marine personal injury cases involving a federal question that were terminated in fiscal year 1974, only 9.6% ever reached trial. 1974 Proceedings of the Judicial Conference of the United States and Annual Report of the Director of the Administrative Office of the United States Courts, Table C4, p. 416.
+  </p>
+</div><div class="footnote" id="fn14" label="14">
+<a class="footnote" href="#fn14_ref">
+   14
+  </a>
+<p id="b511-4">
+   The respondent also relies on the fact that the Senate has twice failed to ratify the Brussels Convention with its proportional fault rule. It is urged that this inaction indicates “grave doubt” in Congress that rejection of the divided damages rule will further justice. But even if we could find guidance in such "negative legislation,”
+   <em>
+    Moragne
+   </em>
+   v.
+   <em>
+    States Marine Lines,
+   </em>
+   <span class="citation" data-id="108166"><a href="/opinion/108166/moragne-v-states-marine-lines-inc/" aria-description="Citation for case: Moragne v. States Marine Lines, Inc.">398 U. S. 375</a></span>, 405 n. 17, it appears that the Senate took no action with respect to the Convention, not because of opposition to a proportional fault rule, but because of the Convention’s poor translation and the opposition of cargo interests to the provision which would prevent cargo from recovering in full from the noncarrying vessel by eliminating joint and several liability of vessels for cargo damage. See H. Baer, Admiralty Law of the Supreme Court 414-415 (2d ed. 1969); Staring,
+   <em>
+    supra,
+   </em>
+   n. 3, at 343. See also Comment, 64 Yale L. J. 878 (1955).
+  </p>
+</div><div class="footnote" id="fn15" label="15">
+<a class="footnote" href="#fn15_ref">
+   15
+  </a>
+<p id="b511-5">
+   This Court, in other appropriate contexts, has not hesitated to overrule an earlier decision and settle a matter of continuing concern, even though relief might have been obtained by legislation. See
+   <em>
+    Burnet
+   </em>
+   v.
+   <em>
+    Coronado Oil &amp; Gas Co.,
+   </em>
+   <span class="citation" data-id="101894"><a href="/opinion/101894/burnet-v-coronado-oil-gas-co/" aria-description="Citation for case: Burnet v. Coronado Oil &amp; Gas Co.">285 U. S. 393</a></span>, 406 n. 1 (Brandéis, J., dissenting) (collecting cases).
+  </p>
+</div><div class="footnote" id="fn16" label="16">
+<a class="footnote" href="#fn16_ref">
+   16
+  </a>
+<p id="b512-7">
+   See also Donovan &amp; Ray, Mutual Fault — Half-Damage Rule — A Critical Analysis, 41 Ins. Coun. J. 395 (1974); Allbritton, Division of Damages in Admiralty — A Rising Tide of Confusion, 2 J. of Maritime Law and Commerce 323 (1971); Jackson, The Archaic Rule of Dividing Damages in Marine Collisions, <span class="citation no-link">19 Ala. L. Rev. 263</span> (1967); Staring,
+   <em>
+    supra,
+   </em>
+   n. 3, at 304; Mole &amp; Wilson, A Study of Comparative Negligence, 17 Corn. L. Q. 333 (1932); and Huger, The Proportional Damage Rule in Collisions at Sea, 13 Corn. L. Q. 531 (1928).
+  </p>
+</div></div></opinion>

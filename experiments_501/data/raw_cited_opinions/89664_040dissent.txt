@@ -1,0 +1,5 @@
+<opinion type="dissent">
+<author id="b34-3">Mr. Justice Hunt.</author>
+<p id="ArD">I dissent, on the ground that the act of Congress was intended only to apply to telegraph lines constructed upon the public domain.</p>
+<judges id="b34-4">Mr. Justice Harlan did not sit in this case, nor take any part in deciding it.</judges>
+</opinion>

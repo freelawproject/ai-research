@@ -1,0 +1,8 @@
+<opinion type="concurring-in-part-and-dissenting-in-part">
+<author id="b98-5">Mr. Justice Black,</author>
+<p id="AA-">with whom Mr. Justice Douglas concurs, dissenting.</p>
+<p id="b98-6">The Fifth Amendment declares that no person “shall be compelled in any criminal case to be a witness against himself.” The Court nevertheless here sustains an Act which requires a man to register and confess that he is engaged in the business of gambling. I think this confession can provide a basis to convict him of a federal crime for having gambled before registration without paying a federal tax. 26 U. S. C. (Supp. V) §§ 3285, 3290, 3291, 3294. Whether or not the Act has this effect, I am sure that it creates a squeezing device contrived to put a man in federal prison if he refuses to confess himself into a state prison as a violator of state gambling <page-number citation-index="1" label="37">*37</page-number>laws.<footnotemark>*</footnotemark> The coercion of confessions is a common but justly criticized practice of many countries that do not have or live up to a Bill of Rights. But we have a Bill of Rights that condemns coerced confessions, however refined or legalistic may be the technique of extortion. I would hold that this Act violates the Fifth Amendment. See my dissent in <em>Feldman </em>v. <em>United States, </em>322 U. S. 487, 494-503.</p>
+<footnote label="*">
+<p id="b99-8">In Pennsylvania, where this defendant is accused of having gambled, such conduct is a crime punishable by “separate or solitary” imprisonment. Purdon’s Pa. Stat. Ann., 1945, Tit. 18, §§ 4601, 4602, 4603.</p>
+</footnote>
+</opinion>

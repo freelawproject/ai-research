@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b101-5">
+  Mr. Chief Justice Warren
+ </author>
+<p id="A3e">
+  delivered the opinion of the Court.
+ </p>
+<p id="b101-6">
+  This case concerns the scope of <span class="citation no-link">28 U. S. C. § 2241</span> (c)(3), which specifies that the United States District Courts may issue writs of habeas corpus on behalf of prisoners who are “in custody in violation of the Constitution . . . of the United States.” The question presented is whether a district court may entertain a petition for a writ of habeas corpus from a prisoner incarcerated under consecutive sentences who claims that a sentence that he is scheduled to serve in the future is invalid because of a deprivation of rights guaranteed by the Constitution. The Court considered this issue in
+  <em>
+   McNally
+  </em>
+  v.
+  <em>
+   Hill,
+  </em>
+  <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">293 U. S. 131</a></span> (1934), and held that the habeas corpus statute does not authorize attacks upon future consecutive sentences. We granted certiorari in this case to re-examine
+  <em>
+   McNally.
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.%20S./389/1035/">389 U. S. 1035</a></span> (1968). We conclude that the decision in that case was compelled neither by statute nor by history and that today it represents an indefensible barrier to prompt adjudication of constitutional claims in the federal courts.
+ </p>
+<p id="b101-7">
+  Respondents, Robert Rowe and Clyde Thacker, are serving prison terms in the Virginia State Penitentiary. In June 1963 Rowe was sentenced to 30 years’ imprisonment after a jury found him guilty of rape. Subsequently, he pleaded guilty to an indictment charging him with felonious abduction with intent to defile arising from the same events which had led to the rape conviction.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  He
+  <span citation-index="1" class="star-pagination" label="56"> 
+   *56
+   </span>
+  was sentenced to a 20-year term on this conviction to run consecutively to the 30-year sentence. After exhausting state remedies,
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  Rowe petitioned for a writ of habeas corpus in the United States District Court for the Western District of Virginia. He did not attack the rape conviction, but alleged that the conviction for felonious abduction was constitutionally defective because he had been subjected to double jeopardy, because his plea of guilty had been involuntary, because the indictment had failed to state an offense and because he had been inadequately represented by trial counsel. Without reaching the merits of Rowe’s claims, the District Court denied relief. Applying McNally, the court found Rowe was then detained under the 30-year sentence for rape. Since he did not claim that sentence was invalid, it was held that he was not then “in custody” under an unconstitutionally imposed sentence within the meaning of § 2241. The court concluded that it could not entertain Rowe’s challenge to the conviction for felonious abduction until he was confined under the sentence imposed for that conviction. That time would not arrive until 1993.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</p>
+<p id="b102-5">
+  Thacker’s § 2241 petition in the Eastern District of Virginia met a similar fate. He is imprisoned under a number of sentences totaling more than 60 years. He asserted that three consecutive five-year sentences imposed for housebreaking in 1953 were invalid because of
+  <span citation-index="1" class="star-pagination" label="57"> 
+   *57
+   </span>
+  inadequate representation by counsel at the time he entered pleas of guilty.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  Finding that Thacker’s attack on these sentences was premature because he had not begun to serve them, the District Court dismissed the petition “without prejudice to Thacker’s reapplication at the proper time.” Under
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>,
+  </em>
+  the “proper time” will be in 1994 when Thacker commences service of the first of the three sentences he challenges.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+</p>
+<p id="b103-5">
+  The Court of Appeals for the Fourth Circuit consolidated the two cases. After a hearing
+  <em>
+   en banc,
+  </em>
+  it reversed and remanded them to the District Courts. <span class="citation multiple-matches"><a href="/c/F.%202d/383/709/">383 F. 2d 709</a></span> (1967). Recognizing that the District Courts had correctly applied
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>,
+  </em>
+  the Court of Appeals declined to adhere to that decision. Writing for a unanimous court, Chief Judge Haynsworth reasoned that this Court would no longer follow
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>,
+  </em>
+  which in his view represented a “doctrinaire approach” based on an “old jurisdictional concept” which had been “thoroughly rejected by the Supreme Court in recent cases.”
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+<em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">Id.,</a></span>
+  </em>
+<span citation-index="1" class="star-pagination" label="58"> 
+   *58
+   </span>
+  at 714. We are in complete agreement with this conclusion and the considerations underlying it.
+ </p>
+<p id="b104-6">
+  The writ of habeas corpus is a procedural device for subjecting executive,
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+  judicial,
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+  or private
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+  restraints on liberty to judicial scrutiny. Where it is available, it assures among other things that a prisoner may require his jailer to justify the detention under the law.
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+  In England where it originated and in the United States, this high purpose has made the writ both the symbol and guardian of individual liberty. 3 Blackstone, Commentaries *131-138; see
+  <em>
+   Ex parte Bollman,
+  </em>
+  <span class="citation" data-id="84842"><a href="/opinion/84842/ex-parte-bollman-and-swartwout/" aria-description="Citation for case: Ex Parte Bollman and Swartwout">4 Cranch 75</a></span> (1807);
+  <em>
+   Ex parte Lange,
+  </em>
+  <span class="citation" data-id="88804"><a href="/opinion/88804/ex-parte-lange/" aria-description="Citation for case: Ex Parte Lange">18 Wall. 163</a></span> (1874);
+  <em>
+   Moore
+  </em>
+  v.
+  <em>
+   Dempsey,
+  </em>
+  <span class="citation" data-id="100122"><a href="/opinion/100122/moore-v-dempsey/" aria-description="Citation for case: Moore v. Dempsey">261 U. S. 86</a></span> (1923);
+  <em>
+   Johnson
+  </em>
+  v.
+  <em>
+   Zerbst,
+  </em>
+  <span class="citation" data-id="103050"><a href="/opinion/103050/johnson-v-zerbst/" aria-description="Citation for case: Johnson v. Zerbst">304 U. S. 458</a></span> (1938);
+  <em>
+   Brown
+  </em>
+  v.
+  <em>
+   Allen,
+  </em>
+  <span class="citation" data-id="105074"><a href="/opinion/105074/brown-v-allen/" aria-description="Citation for case: Brown v. Allen">344 U. S. 443</a></span> (1953);
+  <em>
+   Fay
+  </em>
+  v.
+  <em>
+   Noia,
+  </em>
+  <span class="citation" data-id="106548"><a href="/opinion/106548/fay-v-noia/" aria-description="Citation for case: Fay v. Noia">372 U. S. 391</a></span> (1963).
+ </p>
+<p id="b104-7">
+  The habeas corpus jurisdiction of the federal courts is enumerated in <span class="citation no-link">28 U. S. C. § 2241</span>. Like the predecessor statute which controlled in
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>,
+  </em>
+<a class="footnote" href="#fn11" id="fn11_ref">
+<em>
+    11
+   </em>
+</a>
+<em>
+</em>
+  § 2241 provides for
+  <span citation-index="1" class="star-pagination" label="59"> 
+   *59
+   </span>
+  the issuance of writs on behalf of persons “in custody.” But the statute does not attempt to define the terms “habeas corpus” or “custody.” Confronted with this fact, the Court in
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  reasoned that “[t]o ascertain its meaning and the appropriate use of the writ in the federal courts, recourse must be had to the common law . . . and to the decisions of this Court interpreting and applying the common law principles .. ..”
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  v.
+  <em>
+   Hill,
+  </em>
+  <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/#136" aria-description="Citation for case: McNally v. Hill">293 U. S., at 136</a></span>. We need not look very far to discover three principal characteristics of the writ as it had developed in the federal courts even before the decision in
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>.
+  </em>
+  First, though the writ in England had been utilized largely to secure the admission to bail and discharge of prisoners,
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+  its major office in the federal courts since the Civil War has been to provide post-conviction relief.
+  <a class="footnote" href="#fn13" id="fn13_ref">
+   13
+  </a>
+  Second, the partial codifications of the common-law writ in England and more recent legislation in this country have contained specific and detailed provisions requiring
+  <em>
+   prompt
+  </em>
+  adjudication of the validity of the challenged restraint. See and compare Habeas Corpus Act of 1679, 31 Car. 2, c. 2; Act of February 5, 1867, c. 28, <span class="citation no-link">14 Stat. 385</span>; and <span class="citation no-link">28 U. S. C. § 2243</span>. Third, at least tentatively in
+  <em>
+   Frank
+  </em>
+  v.
+  <em>
+   Mangum,
+  </em>
+  237 U. S. 309
+  <span citation-index="1" class="star-pagination" label="60"> 
+   *60
+   </span>
+  (1915), and more clearly in
+  <em>
+   Moore
+  </em>
+  v.
+  <em>
+   Dempsey,
+  </em>
+  <span class="citation" data-id="100122"><a href="/opinion/100122/moore-v-dempsey/" aria-description="Citation for case: Moore v. Dempsey">261 U. S. 86</a></span> (1923), this Court had recognized that a district court was authorized to look behind the bare record of a trial proceeding and conduct a factual hearing to determine the merits of alleged deprivations of constitutional rights
+  <a class="footnote" href="#fn14" id="fn14_ref">
+   14
+  </a>
+  — a procedure that reached full flowering in
+  <em>
+   Johnson
+  </em>
+  v.
+  <em>
+   Zerbst,
+  </em>
+  <span class="citation" data-id="103050"><a href="/opinion/103050/johnson-v-zerbst/" aria-description="Citation for case: Johnson v. Zerbst">304 U. S. 458</a></span> (1938). Thus, by the time
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  was decided, the federal writ of habeas corpus was substantially a post-conviction device which could afford prompt adjudication of factual as well as legal issues. Keeping these purposes of the writ in mind, we turn to consideration of the
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  holding and the reasons which compel us to overrule it.
+ </p>
+<p id="b106-6">
+  A federal jury had found McNally guilty of three counts of an indictment charging offenses under the Motor Vehicle Theft Act (now <span class="citation no-link">18 U. S. C. §§ 2312-2313</span>).
+  <a class="footnote" href="#fn15" id="fn15_ref">
+   15
+  </a>
+  He had been sentenced to two years on the first count and four years each on the second and third counts, the sentences on the first and second counts to run con
+  <span citation-index="1" class="star-pagination" label="61"> 
+   *61
+   </span>
+  currently and the sentence on the third consecutively. In his application in a district court for a writ of habeas corpus, McNally claimed that the indictment failed to state an offense as to the third count. He did not attack the convictions under the first and second counts. When he filed his petition he was serving under the second count. The lower courts denied relief on the merits. But this Court affirmed on a jurisdictional ground, holding that because McNally had not begun to serve the sentence on the third count- — and therefore was not “in custody” under that sentence — his petition for relief was premature:
+ </p>
+<blockquote id="b107-5">
+  “[WJithout restraint which is unlawful, the writ may not be used. A sentence which the prisoner has not begun to serve cannot be the cause of restraint which the statute makes the subject of inquiry.” <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/#138" aria-description="Citation for case: McNally v. Hill">293 U. S., at 138</a></span>.
+ </blockquote>
+<p id="b107-6">
+  The effect of this disposition was ameliorated somewhat by the Court’s suggestion that McNally might seek relief by another route.
+  <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/#140" aria-description="Citation for case: McNally v. Hill"><em>
+   Id.,
+  </em>
+  at 140</a></span>. See also
+  <em>
+   Holiday
+  </em>
+  v.
+  <em>
+   Johnston,
+  </em>
+  <span class="citation" data-id="103532"><a href="/opinion/103532/holiday-v-johnston/#349" aria-description="Citation for case: Holiday v. Johnston">313 U. S. 342, 349</a></span> (1941). But cf.
+  <em>
+   Ex parte Hull,
+  </em>
+  <span class="citation" data-id="103486"><a href="/opinion/103486/ex-parte-hull/" aria-description="Citation for case: Ex Parte Hull">312 U. S. 546</a></span> (1941). Moreover, McNally’s challenge was directed at the face of the indictment. Therefore, postponement of adjudication of his claims probably would not have resulted in the loss of crucial evidence. But the harshness of a rule which may delay determination of federal claims for decades becomes obvious when applied to the cases of Rowe and Thacker. Their cases also exemplify the manner in which the decision in
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  cuts against the prior and subsequent development of the writ in the federal courts.
+ </p>
+<p id="b107-7">
+  Both Rowe and Thacker allege that they were so inadequately represented at trial that they were denied the assistance of counsel in violation of the Sixth and Fourteenth Amendments. Petitioner concedes that, but for
+  <span citation-index="1" class="star-pagination" label="62"> 
+   *62
+   </span>
+<em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>,
+  </em>
+  respondents’ allegations would entitle them to plenary hearings in the District Courts. Brief for Petitioner 6. Yet, under the current schedules of confinement, it is argued, neither Rowe nor Thacker may obtain adjudication of his claims until after 1990. By that time, dimmed memories or the death of witnesses is bound to render it difficult or impossible to secure crucial testimony on disputed issues of fact. Of course prejudice to meritorious claims resulting from the kind of delay which
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  imposes is not limited to situations involving ineffective assistance of counsel. To name but a few examples, factual determinations are often dispositive of claims of coerced confession,
+  <em>
+   e. g., Reck
+  </em>
+  v.
+  <em>
+   Pate,
+  </em>
+  <span class="citation" data-id="106278"><a href="/opinion/106278/reck-v-pate/" aria-description="Citation for case: Reck v. Pate">367 U. S. 433</a></span> (1961),
+  <em>
+   Leyra
+  </em>
+  v.
+  <em>
+   Denno,
+  </em>
+  <span class="citation" data-id="105229"><a href="/opinion/105229/leyra-v-denno/" aria-description="Citation for case: Leyra v. Denno">347 U. S. 556</a></span> (1954); lack of competency to stand trial,
+  <em>
+   e. g., Pate
+  </em>
+  v.
+  <em>
+   Robinson,
+  </em>
+  <span class="citation" data-id="107184"><a href="/opinion/107184/pate-v-robinson/" aria-description="Citation for case: Pate v. Robinson">383 U. S. 375</a></span> (1966); and denial of a fair trial, e.
+  <em>
+   g., Sheppard
+  </em>
+  v.
+  <em>
+   Maxwell,
+  </em>
+  <span class="citation" data-id="107247"><a href="/opinion/107247/sheppard-v-maxwell/" aria-description="Citation for case: Sheppard v. Maxwell">384 U. S. 333</a></span> (1966). Postponement of the adjudication of such issues for years can harm both the prisoner and the State and lessens the probability that final disposition of the case will do substantial justice.
+  <a class="footnote" href="#fn16" id="fn16_ref">
+   16
+  </a>
+  As the Court of Appeals observed:
+ </p>
+<blockquote id="b108-6">
+  “Years hence, the prisoner, at least, may be expected to give testimonial support to the allegations of his petition, but if they are false in fact, the Commonwealth of Virginia may be unable to refute them because of the unavailability of records and of the testimony of responsible officials and participants in the trial. The greater the lapse of time, the more unlikely it becomes that the state could re-prosecute if retrials are held to be necessary. It
+  <span citation-index="1" class="star-pagination" label="63"> 
+   *63
+   </span>
+  is to the great interest of the Commonwealth and to the prisoner to have these matters determined as soon as possible when there is the greatest likelihood the truth of the matter may be established.”
+  <a class="footnote" href="#fn17" id="fn17_ref">
+   17
+  </a>
+  383 F. 2d, at 715.
+ </blockquote>
+<p id="b109-5">
+  Clearly, to the extent that the rule of
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  postpones plenary consideration of issues by the district courts, it undermines the character of the writ of habeas corpus as the instrument for resolving fact issues not adequately developed in the original proceedings. To that extent, it also undermines
+  <em>
+   <span class="citation" data-id="100122"><a href="/opinion/100122/moore-v-dempsey/" aria-description="Citation for case: Moore v. Dempsey">Moore</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="100122"><a href="/opinion/100122/moore-v-dempsey/" aria-description="Citation for case: Moore v. Dempsey">Dempsey, supra,</a></span>
+  </em>
+  and is inconsistent with subsequent decisions of this Court which have reaffirmed
+  <em>
+   Moore. E. g., Johnson
+  </em>
+  v.
+  <em>
+   Zerbst,
+  </em>
+  <span class="citation" data-id="103050"><a href="/opinion/103050/johnson-v-zerbst/" aria-description="Citation for case: Johnson v. Zerbst">304 U. S. 458</a></span> (1938);
+  <em>
+   Brown
+  </em>
+  v.
+  <em>
+   Allen,
+  </em>
+  <span class="citation" data-id="105074"><a href="/opinion/105074/brown-v-allen/" aria-description="Citation for case: Brown v. Allen">344 U. S. 443</a></span> (1953);
+  <em>
+   Fay
+  </em>
+  v.
+  <em>
+   Noia,
+  </em>
+  <span class="citation" data-id="106548"><a href="/opinion/106548/fay-v-noia/" aria-description="Citation for case: Fay v. Noia">372 U. S. 391</a></span> (1963).
+ </p>
+<p id="b109-6">
+<em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  is also at odds with the purpose of the writ of habeas corpus in another respect. As noted above, a principal aim of the writ is to provide for swift judicial review of alleged unlawful restraints on liberty. Calendar congestion, considerations of federalism, see,
+  <em>
+   e. g., Fay
+  </em>
+  v.
+  <em>
+   Noia,
+  </em>
+  <span class="citation" data-id="106548"><a href="/opinion/106548/fay-v-noia/#415" aria-description="Citation for case: Fay v. Noia">372 U. S., at 415-420</a></span>;
+  <em>
+   Ex parte Royall,
+  </em>
+<span citation-index="1" class="star-pagination" label="64"> 
+   *64
+   </span>
+  <span class="citation" data-id="91598"><a href="/opinion/91598/ex-parte-royall/" aria-description="Citation for case: Ex Parte Royall">117 U. S. 241</a></span> (1886), and the exigencies of appellate review account for largely unavoidable delays in the processing of criminal cases. But the prematurity rule of
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  in many instances extends without practical justification the time a prisoner entitled to release must remain in confinement. Rowe and Thacker eventually may establish that the convictions they challenge were obtained in violation of the Constitution. If they do, each day they are incarcerated under those convictions while their cases are in the courts will be time that they might properly have enjoyed as free men. Common sense dictates that prisoners seeking habeas corpus relief after exhausting state remedies should be able to do so at the earliest practicable time.
+ </p>
+<p id="b110-6">
+  The foregoing analysis demonstrates that
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  is inconsistent with the purposes underlying the federal writ of habeas corpus. Moreover, in arriving at its decision, the Court in
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  relied in part upon an unnecessarily narrow interpretation of the habeas corpus statute. Standing alone, the limitation of § 2241 (c) (3) — that “[t]he writ of habeas corpus shall not extend to a prisoner unless ... [h]e is in custody in violation of the Constitution” — is not free of ambiguity. However, in common understanding “custody” comprehends respondents’ status for the entire duration of their imprisonment. Practically speaking, Rowe is in custody for 50 years, or for the aggregate of his 30- and 20-year sentences. For purposes of parole eligibility, under Virginia law he is incarcerated for 50 years. <span class="citation no-link">Va. Code Ann. § 53-251</span> (1967); see n. 3,
+  <em>
+   supra.
+  </em>
+  Nothing on the face of § 2241 militates against an interpretation which views Rowe and Thacker as being “in custody” under the aggregate of the consecutive sentences imposed on them. Under that interpretation, they are “in custody in violation of the Constitution” if any consecutive sentence they are scheduled to serve was imposed as the result-
+  <span citation-index="1" class="star-pagination" label="65"> 
+   *65
+   </span>
+  of a deprivation of constitutional rights. This approach to the statute is consistent with the canon of construction that remedial statutes should be liberally construed. It also eliminates the inconsistencies between purpose and practice which flow from the
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  holding. Meaningful factual hearings on alleged constitutional deprivations can be conducted before memories and records grow stale, and at least one class of prisoners will have the opportunity to challenge defective convictions and obtain relief without having to spend unwarranted months or years in prison.
+ </p>
+<p id="b111-5">
+  We find unpersuasive the arguments made in
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  to support the narrower interpretation of the custody requirement. No prior decision of the Court was cited as clear authority for the prematurity doctrine.
+  <a class="footnote" href="#fn18" id="fn18_ref">
+   18
+  </a>
+  To fill the gap, the Court relied on the history of the writ in England prior to 1789 and a line of reasoning whose unexamined premise was doubtful before
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  and was subsequently rejected. Both the historical and conceptual bases of the opinion are revealed in the Court’s observation that “[djiligent search of the English authorities and the digests before 1789 has failed to disclose any case where the writ was sought or used ... as a means of securing the judicial decision of any question which, even if determined in the prisoner’s favor, could
+  <span citation-index="1" class="star-pagination" label="66"> 
+   *66
+   </span>
+  not have resulted in his immediate release.”
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  v.
+  <em>
+   Hill,
+  </em>
+  <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/#137" aria-description="Citation for case: McNally v. Hill">293 U. S., at 137-138</a></span>. To the extent that the Court thought that the absence of eighteenth century English precedent demonstrated that McNally was not entitled to habeas corpus relief, the Court’s reliance seems to have been misplaced. In light of the fact that English judges had no power to impose cumulative punishment in felony cases,
+  <a class="footnote" href="#fn19" id="fn19_ref">
+   19
+  </a>
+  and apparently did not assume such power in misdemeanor cases until 1769,
+  <a class="footnote" href="#fn20" id="fn20_ref">
+   20
+  </a>
+  it is not at all surprising that research failed to uncover a pre-1789 common-law analogy for McNally’s petition for relief. In any event, the development of the- writ of habeas corpus did not end in 1789. What we said of the writ in a similar context in
+  <em>
+   Jones
+  </em>
+  v.
+  <em>
+   Cunningham,
+  </em>
+  <span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/" aria-description="Citation for case: Jones v. Cunningham">371 U. S. 236</a></span> (1963), is equally applicable here.
+ </p>
+<blockquote id="b112-6">
+  “[The writ] is not now and never has been a static, narrow, formalistic remedy; its scope has grown to achieve its grand purpose — the protection' of individuals against erosion of their right to be free from wrongful restraints upon their liberty.”
+  <span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/#243" aria-description="Citation for case: Jones v. Cunningham"><em>
+   Id.,
+  </em>
+  at 243</a></span>.
+ </blockquote>
+<p id="b112-7">
+  Of course the excursion in
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  into history to determine that the writ of habeas corpus issued only to adjudicate entitlement to “immediate release”' was not unnecessary. Though
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  held only that-the petitioner did not meet the custody requirements of the statute, see
+  <em>
+   Walker
+  </em>
+  v.
+  <em>
+   Wainwright,
+  </em>
+  <span class="citation" data-id="107631"><a href="/opinion/107631/walker-v-wainwright/" aria-description="Citation for case: Walker v. Wainwright">390 U. S. 335</a></span> (1968), that holding rested in part on the premise that physical discharge from custody is the only relief available in a habeas corpus proceeding. But the statute does not deny the federal courts power to fashion appropriate relief other than immediate release. Since 1874, the habeas
+  <span citation-index="1" class="star-pagination" label="67"> 
+   *67
+   </span>
+  corpus statute has directed the courts to determine the facts and dispose of the case summarily, “as law and justice require.” Rev. Stat. § 761 (1874), superseded by <span class="citation no-link">28 U. S. C. § 2243</span>. Consistently with this command, this Court has held that a prisoner whose first-sentence parole was revoked upon a second conviction could challenge the second conviction in a habeas corpus proceeding though he would not be released if he prevailed,
+  <em>
+   Ex parte Hull,
+  </em>
+  <span class="citation" data-id="103498"><a href="/opinion/103498/pfaff-v-commissioner/" aria-description="Citation for case: Pfaff v. Commissioner">312 U. S. 646</a></span> (1941); that a person who was paroled after he filed his habeas corpus petition could still obtain relief from the restraints imposed by the parole conditions,
+  <em>
+   <span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/" aria-description="Citation for case: Jones v. Cunningham">Jones</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/" aria-description="Citation for case: Jones v. Cunningham">Cunningham, supra;</a></span>
+  </em>
+  and that a prisoner could attack the first of two consecutive sentences in a federal habeas corpus proceeding even though he would still be confined under the second sentence if he succeeded,
+  <em>
+   <span class="citation" data-id="107631"><a href="/opinion/107631/walker-v-wainwright/" aria-description="Citation for case: Walker v. Wainwright">Walker</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="107631"><a href="/opinion/107631/walker-v-wainwright/" aria-description="Citation for case: Walker v. Wainwright">Wainwright, supra.</a></span>
+  </em>
+  See also
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Pridgeon,
+  </em>
+  <span class="citation" data-id="93878"><a href="/opinion/93878/united-states-v-pridgeon/#63" aria-description="Citation for case: United States v. Pridgeon">153 U. S. 48, 63-64</a></span> (1894). Thus, to the extent that
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  relied on the notion that immediate physical release was the only remedy under the federal writ of habeas corpus, it finds no support in the statute and has been rejected by this Court in subsequent decisions.
+ </p>
+<p id="b113-5">
+  We overrule
+  <em>
+   <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+  </em>
+  and hold that a prisoner serving consecutive sentences is “in custody” under any one of them for purposes of § 2241 (c)(3).
+  <a class="footnote" href="#fn21" id="fn21_ref">
+   21
+  </a>
+  This interpretation is consistent with the statutory language and with the purpose of the writ of habeas corpus in the federal courts.
+ </p>
+<p id="b113-6">
+<em>
+   Affirmed.
+  </em>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b101-8">
+   Rowe’s initial plea of double jeopardy had been overruled by the trial court.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b102-6">
+   Rowe had filed an application for state habeas corpus relief in the Virginia Supreme Court of Appeals. This petition was denied under Virginia’s version of the
+   <em>
+    <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+   </em>
+   rule. See
+   <em>
+    Peyton
+   </em>
+   v.
+   <em>
+    Williams,
+   </em>
+   <span class="citation" data-id="1210570"><a href="/opinion/1210570/peyton-v-williams/" aria-description="Citation for case: Peyton v. Williams">206 Va. 595</a></span>, <span class="citation" data-id="1210570"><a href="/opinion/1210570/peyton-v-williams/" aria-description="Citation for case: Peyton v. Williams">145 S. E. 2d 147</a></span> (1965). Subsequent to the decision below, the Virginia Legislature enacted a statute, effective June 28, 1968, which will abolish the rule of prematurity in the State. See n. 17,
+   <em>
+    infra.
+   </em>
+</p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b102-7">
+   If Rowe receives full credit for “good time,” the 30-year sentence will expire in 1982. Under the two sentences, he will be eligible for parole in 1974. If he were relieved of the 20-year term, he would be eligible for parole in 1970. See <span class="citation no-link">Va. Code Ann. §53-251</span> (1967).
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b103-6">
+   These sentences were originally suspended, but the suspension was revoked in 1956.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b103-7">
+   If Thacker does not receive good-time credit, he will commence service of the three sentences in 2009. He will be eligible for parole in 1976.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b103-8">
+   The decision of the Court of Appeals in the present case was preceded by two cases in which it held that § 2241 (c) (3) permits attack upon a future consecutive sentence which affects or may affect a prisoner’s current parole eligibility.
+   <em>
+    Williams
+   </em>
+   v.
+   <em>
+    Peyton,
+   </em>
+   <span class="citation" data-id="8876725"><a href="/opinion/8890516/williams-v-peyton/" aria-description="Citation for case: Williams v. Peyton">372 F. 2d 216</a></span> (C. A. 4th Cir. 1967);
+   <em>
+    Martin
+   </em>
+   v.
+   <em>
+    Virginia,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/F.%202d/349/781/">349 F. 2d 781</a></span> (C. A. 4th Cir. 1965). In
+   <em>
+    <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>,
+   </em>
+   the Court rejected the prisoner’s argument that he was entitled to habeas corpus relief because he would be eligible for parole if the challenged sentence were invalidated. <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/#134" aria-description="Citation for case: McNally v. Hill">293 U. S., at 134, 140</a></span>. In
+   <em>
+    Williams
+   </em>
+   and
+   <em>
+    Martin,
+   </em>
+   the Court of Appeals concluded that this Court’s decision in
+   <em>
+    Jones
+   </em>
+   v.
+   <em>
+    Cunningham,
+   </em>
+   <span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/" aria-description="Citation for case: Jones v. Cunningham">371 U. S. 236</a></span> (1963), represented a departure from this narrow reading of the habeas corpus statute.
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b104-8">
+<em>
+    E. g., Darnel’s Case
+   </em>
+   [“Five Knights' Case”] 3 How. St. Tr. 1-59 (K. B. 1627);
+   <em>
+    Ex parte Milligan,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/Wall./4/2/">4 Wall. 2</a></span> (1866). The proceedings in
+   <em>
+    Darnel’s Case
+   </em>
+   are summarized in D. Meador, Habeas Corpus and Magna Carta 13-16 (1966).
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b104-9">
+<em>
+    E. g., Bushel’s Case,
+   </em>
+   Jones, T. 13, 84 Eng. Rep. 1123 (K. B.);
+   <em>
+    Walker
+   </em>
+   v.
+   <em>
+    Wainwright,
+   </em>
+   <span class="citation" data-id="107631"><a href="/opinion/107631/walker-v-wainwright/" aria-description="Citation for case: Walker v. Wainwright">390 U. S. 335</a></span> (1968).
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b104-10">
+<em>
+    E. g., Rex
+   </em>
+   v.
+   <em>
+    Clarkson,
+   </em>
+   1 Strange 444, 93 Eng. Rep. 625 (K. B. 1721); see
+   <em>
+    Ford
+   </em>
+   v.
+   <em>
+    Ford,
+   </em>
+   <span class="citation" data-id="106498"><a href="/opinion/106498/ford-v-ford/" aria-description="Citation for case: Ford v. Ford">371 U. S. 187</a></span> (1962).
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b104-11">
+   The indignation aroused by the decision in
+   <em>
+    Darnel’s Case, supra,
+   </em>
+   n. 7, led to enactment in 1627 of the Petition of Right, 3 Car. 1, c. 1, which condemned a return reciting that imprisonment was by “speciale mandatum Domini Regis” as insufficient under “the law of the land.” See W. Church, A Treatise on the Writ of Habeas Corpus 8-9 (2d ed. 1893). In the United States, the Act of February 5, 1867, c. 28, <span class="citation no-link">14 Stat. 385</span>, made the writ available to “any person . . . restrained of his or her liberty in violation of the constitution, or of any treaty or law of the United States.”
+  </p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b104-12">
+   Rev. Stat. §753 (1874). For a collection and discussion of the federal habeas corpus statutes from the original Judiciary Act of 1789 to 1953, see G. Longsdorf, The Federal Habeas Corpus Acts Original and Amended, 13 F. R. D. 407 (1953).
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="b105-5">
+   The celebrated Habeas Corpus Act of 1679, 31 Car. 2, c. 2, was concerned exclusively with providing an efficacious remedy for pretrial imprisonment. See W. Church, A Treatise on the Writ of Habeas Corpus 21-32, 48-58 (2d ed. 1893).
+  </p>
+</div><div class="footnote" id="fn13" label="13">
+<a class="footnote" href="#fn13_ref">
+   13
+  </a>
+<p id="b105-6">
+   This development is explained in part by this Court’s recognition that certain trial or sentencing defects could invalidate the proceedings in a court which had jurisdiction over the crime and the defendant,
+   <em>
+    e. g., Ex parte Lange,
+   </em>
+   <span class="citation" data-id="88804"><a href="/opinion/88804/ex-parte-lange/" aria-description="Citation for case: Ex Parte Lange">18 Wall. 163</a></span> (1874), by the Court’s decisions holding that some of the safeguards of criminal procedure embodied in the Bill of Rights are applicable to state criminal proceedings by virtue of the Due. Process Clause of the Fourteenth Amendment, and by the requirement that a state prisoner exhaust state remedies before applying for federal habeas corpus.
+   <em>
+    Ex parte Royall,
+   </em>
+   <span class="citation" data-id="91598"><a href="/opinion/91598/ex-parte-royall/" aria-description="Citation for case: Ex Parte Royall">117 U. S. 241</a></span> (1886); <span class="citation no-link">28 U. S. C. § 2254</span>; see
+   <em>
+    Fay
+   </em>
+   v.
+   <em>
+    Noia,
+   </em>
+   <span class="citation" data-id="106548"><a href="/opinion/106548/fay-v-noia/#415" aria-description="Citation for case: Fay v. Noia">372 U. S. 391, 415-420</a></span> (1963).
+  </p>
+</div><div class="footnote" id="fn14" label="14">
+<a class="footnote" href="#fn14_ref">
+   14
+  </a>
+<p id="b106-7">
+   The Court in
+   <em>
+    <span class="citation" data-id="98441"><a href="/opinion/98441/frank-v-mangum/" aria-description="Citation for case: Frank v. Mangum">Frank</a></span>
+   </em>
+   recognized that the Act of February 5, 1867, c. 28, <span class="citation no-link">14 Stat. 385</span>, substituted “for the bare legal review that seems to have been the limit of judicial authority under the common-law practice ... a more searching investigation, in which the applicant is put upon his oath to set forth the truth of the matter respecting the causes of his detention, and the court, upon determining the actual facts, is to ‘dispose of the party as law and justice require.’ ” <span class="citation" data-id="98441"><a href="/opinion/98441/frank-v-mangum/#330" aria-description="Citation for case: Frank v. Mangum">237 U. S., at 330-331</a></span>. In
+   <em>
+    <span class="citation" data-id="100122"><a href="/opinion/100122/moore-v-dempsey/" aria-description="Citation for case: Moore v. Dempsey">Moore</a></span>,
+   </em>
+   the Court remanded the case to the District Court for determination of the truth of allegations that the pervading influence of a mob had denied the appellants a fair trial in the state court. <span class="citation" data-id="100122"><a href="/opinion/100122/moore-v-dempsey/#92" aria-description="Citation for case: Moore v. Dempsey">261 U. S., at 92</a></span>.
+  </p>
+</div><div class="footnote" id="fn15" label="15">
+<a class="footnote" href="#fn15_ref">
+   15
+  </a>
+<p id="b106-8">
+   Because McNally was imprisoned by federal authorities, his application for habeas corpus relief could have rested on the clause of Rev. Stat. § 753 (1874) which authorized federal courts to entertain petitions from prisoners in the custody of the United States. However, the Court’s interpretation of the custody requirement in
+   <em>
+    <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+   </em>
+   was equally applicable to state prisoners claiming their incarceration violated the Constitution.
+   <em>
+    E. g., Darr
+   </em>
+   v.
+   <em>
+    Burford,
+   </em>
+   <span class="citation" data-id="104779"><a href="/opinion/104779/darr-v-burford/#203" aria-description="Citation for case: Darr v. Burford">339 U. S. 200, 203</a></span> (1950).
+  </p>
+</div><div class="footnote" id="fn16" label="16">
+<a class="footnote" href="#fn16_ref">
+   16
+  </a>
+<p id="b108-7">
+   Even where resolution of constitutional claims turns on record evidence, loss or destruction of a relevant document or failure to transcribe the record over a period of years, cf.
+   <em>
+    Norvell
+   </em>
+   v.
+   <em>
+    Illinois, 373 U. S.
+   </em>
+   420 (1963), could mean that a claim relegated to the limbo of prematurity might never be adequately determined.
+  </p>
+</div><div class="footnote" id="fn17" label="17">
+<a class="footnote" href="#fn17_ref">
+   17
+  </a>
+<p id="b109-7">
+   This consideration has led at least two States which previously followed the prematurity doctrine to reject it in recent years. See
+   <em>
+    Commonwealth ex rel. Stevens
+   </em>
+   v.
+   <em>
+    Myers,
+   </em>
+   <span class="citation" data-id="1923511"><a href="/opinion/1923511/commonwealth-ex-rel-stevens-v-myers/" aria-description="Citation for case: Commonwealth Ex Rel. Stevens v. Myers">419 Pa. 1</a></span>, <span class="citation" data-id="1923511"><a href="/opinion/1923511/commonwealth-ex-rel-stevens-v-myers/" aria-description="Citation for case: Commonwealth Ex Rel. Stevens v. Myers">213 A. 2d 613</a></span> (1965); Ore. Rev. Stat. § 138.510 (1961). See also
+   <em>
+    Landreth
+   </em>
+   v.
+   <em>
+    Gladden,
+   </em>
+   <span class="citation" data-id="2605395"><a href="/opinion/2605395/landreth-v-gladden/" aria-description="Citation for case: Landreth v. Gladden">213 Ore. 205</a></span>, <span class="citation" data-id="2605395"><a href="/opinion/2605395/landreth-v-gladden/" aria-description="Citation for case: Landreth v. Gladden">324 P. 2d 475</a></span> (1958). California does not follow the
+   <em>
+    <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>
+   </em>
+   rule.
+   <em>
+    In re Chapman,
+   </em>
+   <span class="citation" data-id="1151340"><a href="/opinion/1151340/in-re-chapman/" aria-description="Citation for case: In Re Chapman">43 Cal. 2d 385</a></span>, <span class="citation" data-id="1151340"><a href="/opinion/1151340/in-re-chapman/" aria-description="Citation for case: In Re Chapman">273 P. 2d 817</a></span> (1954). Finally, while this case was under consideration in this Court, Virginia repudiated the prematurity doctrine by statute. See Va. S. No. 44, 1968 Sess., amending <span class="citation no-link">Va. Code Ann. § 8-596</span> (effective June 28, 1968). A committee of the American Bar Association which is inquiring into post-conviction remedies has recommended abandonment of the prematurity doctrine which it calls “one of the most frustrating elements of present post-conviction practice.” Advisory Committee on Sentencing and Review, A. B. A. Project on Minimum Standards for Criminal Justice, Standards Relating to Post-Conviction Remedies 43 (Tent. Draft 1967).
+  </p>
+</div><div class="footnote" id="fn18" label="18">
+<a class="footnote" href="#fn18_ref">
+   18
+  </a>
+<p id="b111-6">
+   Of the prior decisions of this Court cited in
+   <em>
+    <span class="citation" data-id="102317"><a href="/opinion/102317/mcnally-v-hill/" aria-description="Citation for case: McNally v. Hill">McNally</a></span>,
+   </em>
+   only
+   <em>
+    In re Swan,
+   </em>
+   <span class="citation" data-id="93738"><a href="/opinion/93738/in-re-swan/" aria-description="Citation for case: In Re Swan">150 U. S. 637</a></span> (1893), suggested a rule of prematurity. Even in
+   <em>
+    <span class="citation" data-id="93738"><a href="/opinion/93738/in-re-swan/" aria-description="Citation for case: In Re Swan">Swan</a></span>,
+   </em>
+   the Court held no more than that the prisoner was not entitled to immediate discharge from confinement merely because the sentencing judge had imposed an allegedly unauthorized fine in addition to a valid prison term. <span class="citation" data-id="93738"><a href="/opinion/93738/in-re-swan/#653" aria-description="Citation for case: In Re Swan">150 U. S., at 653</a></span>. In at least two cases,
+   <em>
+    Morgan
+   </em>
+   v.
+   <em>
+    Devine,
+   </em>
+   <span class="citation" data-id="98480"><a href="/opinion/98480/morgan-v-devine/" aria-description="Citation for case: Morgan v. Devine">237 U. S. 632</a></span> (1915), and
+   <em>
+    Ex parte Spencer,
+   </em>
+   <span class="citation" data-id="97884"><a href="/opinion/97884/ex-parte-spencer/" aria-description="Citation for case: Ex Parte Spencer">228 U. S. 652</a></span> (1913), the Court had reached the merits of habeas corpus applications by prisoners who had not served the valid portions of their sentences. Though relief was ultimately denied in
+   <em>
+    <span class="citation" data-id="98480"><a href="/opinion/98480/morgan-v-devine/" aria-description="Citation for case: Morgan v. Devine">Morgan</a></span>
+   </em>
+   and
+   <em>
+    <span class="citation" data-id="97884"><a href="/opinion/97884/ex-parte-spencer/" aria-description="Citation for case: Ex Parte Spencer">Spencer</a></span>,
+   </em>
+   they illustrate that the prior decisions of the Court by no means compelled the
+   <em>
+    McNcdly
+   </em>
+   result.
+  </p>
+</div><div class="footnote" id="fn19" label="19">
+<a class="footnote" href="#fn19_ref">
+   19
+  </a>
+<p id="b112-8">
+   See
+   <em>
+    Regina
+   </em>
+   v.
+   <em>
+    Albury,
+   </em>
+   [1951] 1 All E. R. 491 (Crim. App.); 1 J. Stephen, History of the Criminal Law of England 291-292 (1883).
+  </p>
+</div><div class="footnote" id="fn20" label="20">
+<a class="footnote" href="#fn20_ref">
+   20
+  </a>
+<p id="b112-9">
+<em>
+    Wilkes
+   </em>
+   v.
+   <em>
+    Rex,
+   </em>
+   4 Bro. P. C. 360, 2 Eng. Rep. 244 (H. L. 1769).
+  </p>
+</div><div class="footnote" id="fn21" label="21">
+<a class="footnote" href="#fn21_ref">
+   21
+  </a>
+<p id="b113-7">
+   We intimate no views on the merits of respondents’ underlying claims.
+  </p>
+</div></div></opinion>

@@ -1,0 +1,5 @@
+<opinion data-order="66" data-type="opinion" id="x999-5" type="dissent">
+<author id="b526-6">Mr. Justice Stone,</author>
+<p id="AVO">dissenting.</p>
+<p id="b526-7">I concur in the opinions of Mr. Justice Holmes and Mr. Justice Brandéis. I agree also with that of Mr. Justice Butler so far as it deals with the merits. The effect of the order granting certiorari was to limit the argument to a single question, but I do not understand that it restrains the Court from a consideration of any question which we find to be presented by the record, for, under Jud. Code, § 240(a), this Court determines a case here on certiorari “with the same power and authority, and with like effect, as if the cause' had been brought [here] by unrestricted writ of error or appeal.”</p>
+</opinion>

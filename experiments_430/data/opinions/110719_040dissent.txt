@@ -1,0 +1,5 @@
+<opinion type="dissent">
+<author id="b898-8">Justice White,</author>
+<p id="ALhi">dissenting.</p>
+<p id="b898-9">I would not overrule <em>Robbins </em>v. <em>California, </em><span class="citation" data-id="110558"><a href="/opinion/110558/robbins-v-california/" aria-description="Citation for case: Robbins v. California">453 U. S. 420</a></span> (1981). For the reasons stated by Justice Stewart in that <page-number citation-index="1" label="827">*827</page-number>case, I would affirm the judgment of the Court of Appeals. I also agree with much of Justice Marshall’s dissent in this case.</p>
+</opinion>

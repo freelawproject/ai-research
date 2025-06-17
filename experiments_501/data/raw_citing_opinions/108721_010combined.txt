@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b429-4">
+  Mr. Justice Douglas
+ </author>
+<p id="As2">
+  delivered the opinion of the Court.
+ </p>
+<p id="b429-5">
+  In 1970 the people of Illinois amended its constitution
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  adding Art. IX-A to become effective January 1, 1971, and reading:
+ </p>
+<blockquote id="b429-6">
+  “Notwithstanding any other provision of this Constitution, the taxation of personal property by valuation is prohibited as to individuals.”
+ </blockquote>
+<p id="b429-7">
+  There apparently appeared on the ballot when Art. IX-A was approved the following:
+ </p>
+<blockquote id="b429-8">
+  “The amendment would abolish the personal property tax by valuation levied against individuals. It would not affect the same tax levied against corporations and other entities not considered in law to be individuals. The amendment would achieve this result by adding a new article to the Constitution of 1870, Article IX-A, thus setting aside existing provisions of Article IX, Section 1, that require the taxation by valuation of all forms of property, real and personal or other, owned by individuals and corporations.”
+ </blockquote>
+<p id="b429-9">
+  Respondent Lake Shore Auto Parts Co., a corporation, brought an action against Illinois officials on its behalf
+  <span citation-index="1" class="star-pagination" label="358"> 
+   *358
+   </span>
+  and on behalf of all other corporations and “non-individuals” subject to the personal property tax, claiming that the tax violated the Equal Protection Clause of the Fourteenth Amendment since it exempts from personal property taxes all personal property owned by individuals but retains such taxes as to personal property owned by corporations and other “non-individuals.” The Circuit Court held the Revenue Act of Illinois, as amended by Art. IX-A, unconstitutional as respects corporations by reason of the Equal Protection Clause of the Fourteenth Amendment.
+ </p>
+<p id="b430-5">
+  Shapiro and other individuals also brought suit alleging they are natural persons who own personal property, one for himself and his family, one as a sole proprietor of a business, and one as a partnership. A different trial judge entered an order in these cases dismissing the complaints except as to Shapiro and members of his class. The trial judge held that all other provisions of Illinois law imposing personal property taxes on property owned by corporations and other “non-individuals” were unaffected by Art. IX-A, in line with the statement on the ballot, quoted above.
+ </p>
+<p id="b430-6">
+  All respondents in both cases appealed to the Illinois Supreme Court, which held that Art. IX-A did not affect all forms of real and personal property taxes but only personal property taxes on individuals, which it construed to mean
+  <em>
+   “ad valorem
+  </em>
+  taxation of personal property owned by a natural person or by two or more natural persons as joint tenants or tenants in common.” <span class="citation" data-id="2042261"><a href="/opinion/2042261/lake-shore-auto-parts-co-v-korzen/#148" aria-description="Citation for case: Lake Shore Auto Parts Co. v. Korzen">49 Ill. 2d 137, 148</a></span>, <span class="citation" data-id="2042261"><a href="/opinion/2042261/lake-shore-auto-parts-co-v-korzen/#597" aria-description="Citation for case: Lake Shore Auto Parts Co. v. Korzen">273 N. E. 2d 592, 597</a></span>. As so construed, the Illinois Supreme Court held that the tax violated the Equal Protection Clause of the Fourteenth Amendment.
+  <span class="citation" data-id="2042261"><a href="/opinion/2042261/lake-shore-auto-parts-co-v-korzen/#151" aria-description="Citation for case: Lake Shore Auto Parts Co. v. Korzen"><em>
+   Id.,
+  </em>
+  at 151</a></span>, <span class="citation" data-id="2042261"><a href="/opinion/2042261/lake-shore-auto-parts-co-v-korzen/#599" aria-description="Citation for case: Lake Shore Auto Parts Co. v. Korzen">273 N. E. 2d, at 599</a></span>, one Justice dissenting.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+<span citation-index="1" class="star-pagination" label="359"> 
+   *359
+   </span>
+  The cases are here on writs of certiorari which we granted. <span class="citation multiple-matches"><a href="/c/U.%20S./405/1039/">405 U. S. 1039</a></span>.
+ </p>
+<p id="b431-4">
+  The Equal Protection Clause does not mean that a State may not draw lines that treat one class of individuals or entities differently from the others. The test is whether the difference in treatment is an invidious discrimination.
+  <em>
+   Harper
+  </em>
+  v.
+  <em>
+   Virginia Board of Elections,
+  </em>
+  <span class="citation" data-id="107197"><a href="/opinion/107197/harper-v-virginia-board-of-elections/#666" aria-description="Citation for case: Harper v. Virginia Board of Elections">383 U. S. 663, 666</a></span>. Where taxation is concerned and no specific federal right, apart from equal protection, is imperiled,
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  the States have large leeway in making classifications and drawing lines which in their judgment produce reasonable systems of taxation. As stated in
+  <em>
+   Allied Stores of Ohio
+  </em>
+  v.
+  <em>
+   Bowers,
+  </em>
+  <span class="citation" data-id="105832"><a href="/opinion/105832/allied-stores-of-ohio-inc-v-bowers/" aria-description="Citation for case: Allied Stores of Ohio, Inc. v. Bowers">358 U. S. 522</a></span>, 526-527:
+ </p>
+<blockquote id="Arx">
+  “The States have a very wide discretion in the laying of their taxes. When dealing with their proper domestic concerns, and not trenching upon the prerogatives of the National Government or violating the guaranties of the Federal Constitution, the States have the attribute of sovereign powers in devising their fiscal systems to ensure revenue and foster their local interests. Of course, the States, in the exercise of their taxing power, are subject to the requirements of the Equal Protection Clause of the Fourteenth Amendment. But that clause imposes no iron rule of equality, prohibiting the flexibility and variety that are appropriate to reasonable schemes of state taxation. The State may impose different specific taxes upon different trades and
+  <span citation-index="1" class="star-pagination" label="360"> 
+   *360
+   </span>
+  professions and may vary the rate of excise upon various products. It is not required to resort to close distinctions or to maintain a precise, scientific uniformity with reference to composition, use or value.”
+ </blockquote>
+<p id="b432-5">
+  In that case we used the phrase “palpably arbitrary” or “invidious” as defining the limits placed by the Equal Protection Clause on state power.
+  <em>
+   Id,.,
+  </em>
+  at 530. State taxes which have the collateral effect of restricting or even destroying an occupation or a business have been sustained, so long as the regulatory power asserted is properly within the limits of the federal-state regime created by the Constitution.
+  <em>
+   Magnano Co.
+  </em>
+  v.
+  <em>
+   Hamilton,
+  </em>
+  <span class="citation" data-id="102246"><a href="/opinion/102246/a-magnano-co-v-hamilton/" aria-description="Citation for case: A. Magnano Co. v. Hamilton">292 U. S. 40</a></span>, 44 47. When it comes to taxes on corporations and taxes on individuals, great leeway is permissible so far as equal protection is concerned. They may be classified differently with respect to their right to receive or earn income. In
+  <em>
+   Lawrence
+  </em>
+  v.
+  <em>
+   State Tax Comm’n,
+  </em>
+  <span class="citation" data-id="101924"><a href="/opinion/101924/lawrence-v-state-tax-commn-of-miss/#283" aria-description="Citation for case: Lawrence v. State Tax Comm&#x27;n of Miss.">286 U. S. 276, 283</a></span>, a state statute relieved domestic corporations of an income tax derived from activities carried on outside the State, but imposed the tax on individuals obtaining such income. We upheld the tax against the claim that it violated the Equal Protection Clause, saying:
+ </p>
+<blockquote id="b432-6">
+  “We cannot say that investigation in these fields would not disclose a basis for the legislation which would lead reasonable men to conclude that there is just ground for the difference here made. The existence, unchallenged, of differences between the taxation of incomes of individuals and of corporations in every federal revenue act since the adoption of the Sixteenth Amendment, demonstrates that there may be.”
+  <span class="citation" data-id="101924"><a href="/opinion/101924/lawrence-v-state-tax-commn-of-miss/#283" aria-description="Citation for case: Lawrence v. State Tax Comm&#x27;n of Miss."><em>
+   Id.,
+  </em>
+  at 283-284</a></span>.
+ </blockquote>
+<p id="b432-7">
+  It is true that in
+  <em>
+   Quaker City Cab Co.
+  </em>
+  v.
+  <em>
+   Pennsylvania,
+  </em>
+  <span class="citation" data-id="101317"><a href="/opinion/101317/quaker-city-cab-co-v-commonwealth-of-pennsylvania/" aria-description="Citation for case: Quaker City Cab Co. v. Commonwealth of Pennsylvania">277 U. S. 389</a></span>, the Court held that a gross receipts tax
+  <span citation-index="1" class="star-pagination" label="361"> 
+   *361
+   </span>
+  levied on corporations doing a taxi business violated the Equal Protection Clause of the Fourteenth Amendment, when no such tax was levied on individuals and partnerships operating taxicabs in competition with the corporate taxpayers. Justices Holmes, Brandeis, and Stone dissented.
+  <span class="citation" data-id="101317"><a href="/opinion/101317/quaker-city-cab-co-v-commonwealth-of-pennsylvania/#403" aria-description="Citation for case: Quaker City Cab Co. v. Commonwealth of Pennsylvania"><em>
+   Id.,
+  </em>
+  at 403-412</a></span>. Mr. Justice Holmes stated:
+ </p>
+<blockquote id="b433-4">
+  “If usually there is an important difference of degree between the business done by corporations and that done by individuals, I see no reason why the larger businesses may not be taxed and the small ones disregarded, and I think it would be immaterial if here and there exceptions were found to the general rule. . . . Furthermore if the State desired to discourage this form of activity in corporate form and expressed its desire by a special tax I think that there is nothing in the Fourteenth Amendment to prevent it.”
+  <span class="citation" data-id="101317"><a href="/opinion/101317/quaker-city-cab-co-v-commonwealth-of-pennsylvania/#403" aria-description="Citation for case: Quaker City Cab Co. v. Commonwealth of Pennsylvania"><em>
+   Id.,
+  </em>
+  at 403</a></span>.
+ </blockquote>
+<p id="b433-5">
+  Each of these dissenters thought
+  <em>
+   Flint
+  </em>
+  v.
+  <em>
+   Stone Tracy Co.,
+  </em>
+  <span class="citation" data-id="97378"><a href="/opinion/97378/flint-v-stone-tracy-co/" aria-description="Citation for case: Flint v. Stone Tracy Co.">220 U. S. 107</a></span>, should govern
+  <em>
+   Quaker City Cab.
+  </em>
+  The
+  <em>
+   <span class="citation" data-id="97378"><a href="/opinion/97378/flint-v-stone-tracy-co/" aria-description="Citation for case: Flint v. Stone Tracy Co.">Flint</a></span>
+  </em>
+  case involved a federal tax upon the privilege of doing business in a corporate capacity, but it was not laid on businesses carried on by a partnership or private individual. It was, therefore, contended that the tax was “so unequal and arbitrary” as to be beyond the power of Congress.
+  <span class="citation" data-id="97378"><a href="/opinion/97378/flint-v-stone-tracy-co/#158" aria-description="Citation for case: Flint v. Stone Tracy Co."><em>
+   Id.,
+  </em>
+  at 158</a></span>. We had not yet held that the Fifth Amendment in its use of due process carries a mandate of equal protection.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  But the Court in dictum stated:
+ </p>
+<blockquote id="b433-6">
+  “[I]t could not be said, even if the principles of the Fourteenth Amendment were applicable to the present case, that there is no substantial difference be
+  <span citation-index="1" class="star-pagination" label="362"> 
+   *362
+   </span>
+  tween the carrying on of business by the corporations taxed, and the same business when conducted by a private firm or individual. The thing taxed is not the mere dealing in merchandise, in which the actual transactions may be the same, whether conducted by individuals or corporations, but the tax is laid upon the privileges which exist in conducting business with the advantages which inhere in the corporate capacity of those taxed, and which are not enjoyed by private firms or individuals. These advantages are obvious, and have led to the formation of such companies in nearly all branches of trade. The continuity of the business, without interruption by death or dissolution, the transfer of property interests by the disposition of shares of stock, the advantages of business controlled and managed by corporate directors, the general absence of individual liability, these and other things inhere in the advantages of business thus conducted, which do not exist when the same business is conducted by private individuals or partnerships. It is this distinctive privilege which is the subject of taxation, not the mere buying or selling or handling of goods which may be the same, whether done by corporations or individuals.”
+  <span class="citation" data-id="97378"><a href="/opinion/97378/flint-v-stone-tracy-co/#161" aria-description="Citation for case: Flint v. Stone Tracy Co."><em>
+   Id.,
+  </em>
+  at 161-162</a></span>.
+ </blockquote>
+<p id="b434-5">
+  While
+  <em>
+   Quaker City Cab
+  </em>
+  came after
+  <em>
+   <span class="citation" data-id="97378"><a href="/opinion/97378/flint-v-stone-tracy-co/" aria-description="Citation for case: Flint v. Stone Tracy Co.">Flint</a></span>,
+  </em>
+  cases following
+  <em>
+   Quaker City Cab
+  </em>
+  have somewhat undermined it.
+  <em>
+   White River Co.
+  </em>
+  v.
+  <em>
+   Arkansas,
+  </em>
+  <span class="citation" data-id="101448"><a href="/opinion/101448/white-river-lumber-co-v-arkansas-ex-rel-applegate/" aria-description="Citation for case: White River Lumber Co. v. Arkansas Ex Rel. Applegate">279 U. S. 692</a></span>, involved a state statute for collection of back taxes on lands owned by corporations but not individuals. The Court sustained the statute. Mr. Justice Butler, Mr. Chief justice Taft, and Mr. Justice Van Devanter dissented, asserting that
+  <em>
+   Quaker City Cab
+  </em>
+  was not distinguishable. The majority made no effort to distinguish
+  <em>
+   Quaker City Cab
+  </em>
+  beyond saying that it did not involve, as did
+  <em>
+   White River,
+  </em>
+  back taxes.
+  <span class="citation" data-id="101448"><a href="/opinion/101448/white-river-lumber-co-v-arkansas-ex-rel-applegate/#696" aria-description="Citation for case: White River Lumber Co. v. Arkansas Ex Rel. Applegate"><em>
+   Id.,
+  </em>
+  at 696</a></span>.
+ </p>
+<p id="b435-3">
+<span citation-index="1" class="star-pagination" label="363"> 
+   *363
+   </span>
+  In
+  <em>
+   Rapid Transit Co.
+  </em>
+  v.
+  <em>
+   New York,
+  </em>
+  <span class="citation" data-id="103003"><a href="/opinion/103003/new-york-rapid-transit-corp-v-city-of-new-york/" aria-description="Citation for case: New York Rapid Transit Corp. v. City of New York">303 U. S. 573</a></span>, an excise tax was levied on every utility but not on other business units. In sustaining the tax against the claim of lack of equal protection, the Court said:
+ </p>
+<blockquote id="b435-4">
+  “Since carriers or other utilities with the right of eminent domain, the use of public property, special franchises or public contracts, have many points of distinction from other businesses, including relative freedom from competition, especially significant with increasing density of population and municipal expansion, these public service organizations have no valid ground by virtue of the equal protection clause to object to separate treatment related to such distinctions.”
+  <span class="citation" data-id="103003"><a href="/opinion/103003/new-york-rapid-transit-corp-v-city-of-new-york/#579" aria-description="Citation for case: New York Rapid Transit Corp. v. City of New York"><em>
+   Id.,
+  </em>
+  at 579</a></span>.
+ </blockquote>
+<p id="b435-5">
+  We reached the same result in
+  <em>
+   Nashville, C. &amp; St. L. R. Co.
+  </em>
+  v.
+  <em>
+   Browning,
+  </em>
+  <span class="citation" data-id="103360"><a href="/opinion/103360/nashville-chattanooga-st-louis-railway-v-browning/" aria-description="Citation for case: Nashville, Chattanooga &amp; St. Louis Railway v. Browning">310 U. S. 362</a></span>, where Tennessee had used one system for making assessments under its ad valorem tax law as respects most taxpayers and a totally different one for public service corporations. So far as equal protection was concerned, we said that the grievance of the particular complainant was “common to the whole class” and not “invidious to a particular taxpayer.”
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+<span class="citation" data-id="103360"><a href="/opinion/103360/nashville-chattanooga-st-louis-railway-v-browning/#368" aria-description="Citation for case: Nashville, Chattanooga &amp; St. Louis Railway v. Browning"><em>
+   Id.,
+  </em>
+  at 368</a></span>.
+ </p>
+<p id="b436-4">
+<span citation-index="1" class="star-pagination" label="364"> 
+   *364
+   </span>
+  Approval of the treatment “with that separateness” which distinguishes public service corporations from others,
+  <em>
+   ibid.,
+  </em>
+  leads us to conclude in the present cases that making corporations and like entities, but not individuals, liable for ad valorem taxes on personal property does not transcend the requirements of equal protection.
+ </p>
+<p id="b436-5">
+  In
+  <em>
+   Madden
+  </em>
+  v.
+  <em>
+   Kentucky,
+  </em>
+  <span class="citation" data-id="103290"><a href="/opinion/103290/madden-v-kentucky-ex-rel-commissioner/" aria-description="Citation for case: Madden v. Kentucky Ex Rel. Commissioner">309 U. S. 83</a></span>, a State laid an ad valorem tax of 50$ per $100 on deposits in banks outside the State and only 10(i per $1,000 on deposits within the State. The classification was sustained against the charge of invidious discrimination, the Court noting that “in taxation, even more than in other fields, legislatures possess the greatest freedom in classification.”
+  <span class="citation" data-id="103290"><a href="/opinion/103290/madden-v-kentucky-ex-rel-commissioner/#88" aria-description="Citation for case: Madden v. Kentucky Ex Rel. Commissioner"><em>
+   Id.,
+  </em>
+  at 88</a></span>. There is a presumption of constitutionality which can be overcome “only by the most explicit demonstration that a classification is a hostile and oppressive discrimination against particular persons and classes.”
+  <em>
+   <span class="citation" data-id="103290"><a href="/opinion/103290/madden-v-kentucky-ex-rel-commissioner/" aria-description="Citation for case: Madden v. Kentucky Ex Rel. Commissioner">Ibid.</a></span>
+  </em>
+  And the Court added, “The burden is on the one attacking the legislative arrangement to negative every conceivable basis which might support it.”
+  <em>
+   <span class="citation" data-id="103290"><a href="/opinion/103290/madden-v-kentucky-ex-rel-commissioner/" aria-description="Citation for case: Madden v. Kentucky Ex Rel. Commissioner">Ibid.</a></span>
+  </em>
+  That idea has been elaborated. Thus, in
+  <em>
+   Carmichael
+  </em>
+  v.
+  <em>
+   Southern Coal Co.,
+  </em>
+  <span class="citation" data-id="102839"><a href="/opinion/102839/carmichael-v-southern-coal-coke-co/" aria-description="Citation for case: Carmichael v. Southern Coal &amp; Coke Co.">301 U. S. 495</a></span>, the Court, in sustaining an unemployment tax on employers,
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  said:
+ </p>
+<blockquote id="b436-6">
+  “A state legislature, in the enactment of laws, has the widest possible latitude within the limits of the Constitution. In the nature of the case it cannot record a complete catalogue of, the considerations which move its members to enact laws. In the absence of such a record courts cannot assume that its action is capricious, or that, with its informed acquaintance with local conditions to which the legis
+  <span citation-index="1" class="star-pagination" label="365"> 
+   *365
+   </span>
+  lation is to be applied, it was not aware of facts which afford reasonable basis for its action. Only by faithful adherence to this guiding principle of judicial review of legislation is it possible to preserve to the legislative branch its rightful independence and its ability to function.”
+  <span class="citation" data-id="102839"><a href="/opinion/102839/carmichael-v-southern-coal-coke-co/#510" aria-description="Citation for case: Carmichael v. Southern Coal &amp; Coke Co."><em>
+   Id.,
+  </em>
+  at 510</a></span>.
+ </blockquote>
+<p id="b437-4">
+  Illinois tells us that the individual personal property tax was discriminatory, unfair, almost impossible to administer, and economically unsound. Assessment practices varied from district to district. About a third of the individuals paid no personal property taxes at all, while the rest paid on their bank accounts, automobiles, household furniture, and other resources, and in rural areas they paid on their livestock, grain, and farm implements as well. As respects corporations, the State says, the tax is uniformly enforceable. Illinois says, moreover, that Art. IX-A is only the first step in totally eliminating the ad valorem personal property tax by 1979 but for fiscal reasons it was impossible to abolish the tax all at once.
+ </p>
+<p id="b437-5">
+  We could strike down this tax as discriminatory only if we substituted our judgment on facts of which we can be only dimly aware for a legislative judgment that reflects a vivid reaction to pressing fiscal problems.
+  <em>
+   Quaker City Cab Co.
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="101317"><a href="/opinion/101317/quaker-city-cab-co-v-commonwealth-of-pennsylvania/" aria-description="Citation for case: Quaker City Cab Co. v. Commonwealth of Pennsylvania">Pennsylvania</a></span>
+  </em>
+  is only a relic of a bygone era. We cannot follow it and stay within the narrow confines of judicial review, which is an important part of our constitutional tradition.
+ </p>
+<p id="b437-6">
+<em>
+   Reversed.
+  </em>
+</p>
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b429-11">
+   In 1969, the Illinois Legislature had provided for the submission of the proposed amendment to a referendum vote.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b430-7">
+   The result was either to reverse with directions to dismiss the complaints or to affirm the judgment that dismissed the complaints. Those two cases were heard by the Illinois Supreme Court along with
+   <span citation-index="1" class="star-pagination" label="359"> 
+    *359
+    </span>
+   a petition to file original suit with that court by one Maynard, who owned nonbusiness personal property, and by three school districts. That petition was dismissed.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b431-7">
+   Classic examples are the taxes that discriminated against newspapers, struck down under the First Amendment
+   <em>
+    (Grosjean
+   </em>
+   v.
+   <em>
+    American Press Co.,
+   </em>
+   <span class="citation" data-id="102601"><a href="/opinion/102601/grosjean-v-american-press-co/" aria-description="Citation for case: Grosjean v. American Press Co.">297 U. S. 233</a></span>) or that discriminated against interstate commerce (see
+   <em>
+    Michigan-Wisconsin Pipe Line Co.
+   </em>
+   v.
+   <em>
+    Calvert,
+   </em>
+   <span class="citation" data-id="105195"><a href="/opinion/105195/michigan-wisconsin-pipe-line-co-v-calvert/" aria-description="Citation for case: Michigan-Wisconsin Pipe Line Co. v. Calvert">347 U. S. 157</a></span>) or required licenses to engage in interstate commerce.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b433-7">
+   See
+   <em>
+    Bolling
+   </em>
+   v.
+   <em>
+    Sharpe,
+   </em>
+   <span class="citation" data-id="105222"><a href="/opinion/105222/bolling-v-sharpe/" aria-description="Citation for case: Bolling v. Sharpe">347 U. S. 497</a></span>, decided May 17, 1954, which held that federal discrimination (in that case racial in nature) may be so arbitrary as to be violative of due process as the term is used in the Fifth Amendment.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b435-6">
+   In
+   <em>
+    Atlantic &amp; Pacific Tea Co.
+   </em>
+   v.
+   <em>
+    Grosjean,
+   </em>
+   <span class="citation" data-id="102833"><a href="/opinion/102833/great-atlantic-pacific-tea-co-v-grosjean/" aria-description="Citation for case: Great Atlantic &amp; Pacific Tea Co. v. Grosjean">301 U. S. 412</a></span>, a State classified chain stores for purposes of a chain store tax according to the number of stores — inside and outside the State. The Court sustained the tax, saying: “The statute bears equally upon all who fall into the same class, and this satisfies the guaranty of equal protection.”
+   <span class="citation" data-id="102833"><a href="/opinion/102833/great-atlantic-pacific-tea-co-v-grosjean/#424" aria-description="Citation for case: Great Atlantic &amp; Pacific Tea Co. v. Grosjean"><em>
+    Id.,
+   </em>
+   at 424</a></span>. In
+   <em>
+    Carmichael
+   </em>
+   v.
+   <em>
+    Southern Coal Co.,
+   </em>
+   <span class="citation" data-id="102839"><a href="/opinion/102839/carmichael-v-southern-coal-coke-co/" aria-description="Citation for case: Carmichael v. Southern Coal &amp; Coke Co.">301 U. S. 495</a></span>, a State laid an unemployment tax on employers, excluding,
+   <em>
+    inter alia,
+   </em>
+   agriculture, domestic service, crews of vessels on navigable waters, and eleemosynary institutions. The Court sustained the tax, saying: “This Court has repeatedly held that inequalities which result from a singling out of one particular class for taxation or exemption, infringe no constitutional limitation.”
+   <span class="citation" data-id="102839"><a href="/opinion/102839/carmichael-v-southern-coal-coke-co/#509" aria-description="Citation for case: Carmichael v. Southern Coal &amp; Coke Co."><em>
+    Id.,
+   </em>
+   at 509</a></span>. And it added: “A legislature is not bound to tax every member of a class or none. It may make distinctions of degree having a rational basis, and when
+   <span citation-index="1" class="star-pagination" label="364"> 
+    *364
+    </span>
+   subjected to judicial scrutiny they must be presumed to rest on that basis if there is any conceivable state of facts which would support it.”
+   <em>
+    <span class="citation" data-id="102839"><a href="/opinion/102839/carmichael-v-southern-coal-coke-co/" aria-description="Citation for case: Carmichael v. Southern Coal &amp; Coke Co.">Ibid.</a></span>
+   </em>
+</p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="ADF">
+   Note 5,
+   <em>
+    supra.
+   </em>
+</p>
+</div></div></opinion>

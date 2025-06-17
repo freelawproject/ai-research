@@ -1,0 +1,1100 @@
+citing_index	cited_index	depth	citing_opinion_id	cited_opinion_id	citing_decision_name	court	docket_id	cluster_id	cited_decision_name	overruled	notes
+0	0	3	91306	88061	Morgan v. United States,113 U.S. 476  (1885)	scotus	2297559	91306	Texas v. White (1869)	yes	
+0	1	2	91306	88994	Morgan v. United States,113 U.S. 476  (1885)	scotus	2297559	91306	Vermilye & Co. v. Adams Express Co. (1875)	no	
+0	2	1	91306	87633	Morgan v. United States,113 U.S. 476  (1885)	scotus	2297559	91306	Murray v. Lardner (1865)	no	
+0	3	1	91306	88240	Morgan v. United States,113 U.S. 476  (1885)	scotus	2297559	91306	Texas v. Hardenberg (1869)	no	
+0	4	1	91306	88693	Morgan v. United States,113 U.S. 476  (1885)	scotus	2297559	91306	Huntington v. Texas (1873)	no	
+0	5	1	91306	88924	Morgan v. United States,113 U.S. 476  (1885)	scotus	2297559	91306	National Bank of Washington v. Texas (1874)	no	
+0	6	1	91306	89668	Morgan v. United States,113 U.S. 476  (1885)	scotus	2297559	91306	Cromwell v. County of Sac (1878)	no	
+0	7	1	91306	90400	Morgan v. United States,113 U.S. 476  (1885)	scotus	2297559	91306	Railroad Co. v. Sprague (1881)	no	
+1	0	4	92059	91368	In re Ayers,123 U.S. 443  (1887)	scotus	96842	92059	Poindexter v. Greenhow (1885)	no	
+1	1	3	92059	91371	In re Ayers,123 U.S. 443  (1887)	scotus	96842	92059	Allen v. Baltimore & Ohio Railroad (1885)	no	
+1	2	2	92059	88673	In re Ayers,123 U.S. 443  (1887)	scotus	96842	92059	Davis v. Gray (1873)	no	
+1	3	2	92059	87371	In re Ayers,123 U.S. 443  (1887)	scotus	96842	92059	Commonwealth of Ky. v. DENNISON, GOVERNOR, &C. (1861)	no	
+1	4	2	92059	91583	In re Ayers,123 U.S. 443  (1887)	scotus	96842	92059	Hagood v. Southern (1886)	no	
+1	5	2	92059	90667	In re Ayers,123 U.S. 443  (1887)	scotus	96842	92059	United States v. Lee (1882)	no	
+1	-	0	92059	85451	In re Ayers,123 U.S. 443  (1887)	scotus	96842	92059	Osborn v. Bank of United States (1824) 	yes	* cite not in courtlistener
+2	0	2	92291	88699	Leloup v. Port of Mobile,127 U.S. 640  (1888)	scotus	2449371	92291	Osborne v. Mobile (1873)	yes	
+2	1	2	92291	89664	Leloup v. Port of Mobile,127 U.S. 640  (1888)	scotus	2449371	92291	Pensacola Telegraph Co. v. Western Union Telegraph Co. (1878)	no	
+2	2	2	92291	90600	Leloup v. Port of Mobile,127 U.S. 640  (1888)	scotus	2449371	92291	Telegraph Co. v. Texas (1882)	no	
+2	3	2	92291	91869	Leloup v. Port of Mobile,127 U.S. 640  (1888)	scotus	2449371	92291	Robbins v. Shelby County Taxing District (1887)	no	
+2	4	2	92291	91985	Leloup v. Port of Mobile,127 U.S. 640  (1888)	scotus	2449371	92291	Philadelphia & Southern Steamship Co. v. Pennsylvania (1887)	no	
+3	0	4	93311	92988	Brenham v. German American Bank,144 U.S. 173  (1892)	scotus	2397685	93311	Merrill v. Monticello (1891)	no	
+3	1	4	93311	87743	Brenham v. German American Bank,144 U.S. 173  (1892)	scotus	2397685	93311	Rogers v. Burlington (1866)	yes	
+3	2	4	93311	91125	Brenham v. German American Bank,144 U.S. 173  (1892)	scotus	2397685	93311	Claiborne County v. Brooks (1884)	no	
+3	3	3	93311	87776	Brenham v. German American Bank,144 U.S. 173  (1892)	scotus	2397685	93311	Mitchell v. Burlington (1867)	yes	
+3	4	3	93311	88640	Brenham v. German American Bank,144 U.S. 173  (1892)	scotus	2397685	93311	Police Jury v. Britton (1873)	no	
+4	0	1	93904	93354	Roberts v. Lewis,153 U.S. 367  (1894)	scotus	229746	93904	Roberts v. Lewis (1892)	no	
+4	1	1	93904	87423	Roberts v. Lewis,153 U.S. 367  (1894)	scotus	229746	93904	Suydam v. Williamson (1861)	no	
+4	2	1	93904	84798	Roberts v. Lewis,153 U.S. 367  (1894)	scotus	229746	93904	Lambert's Lessee v. Payne (1805)	no	
+4	3	1	93904	89382	Roberts v. Lewis,153 U.S. 367  (1894)	scotus	229746	93904	Brant v. Virginia Coal & Iron Co. (1876)	no	
+4	4	1	93904	90983	Roberts v. Lewis,153 U.S. 367  (1894)	scotus	229746	93904	Howard v. Carusi (1884)	no	
+4	5	1	93904	93152	Roberts v. Lewis,153 U.S. 367  (1894)	scotus	229746	93904	Potter v. Couch (1891)	no	
+4	6	1	93904	90455	Roberts v. Lewis,153 U.S. 367  (1894)	scotus	229746	93904	Giles v. Little (1881)	yes	
+5	0	1	98124	96356	Garland v. Washington,232 U.S. 642  (1914)	scotus	428794	98124	Rogers v. Peck (1905)	no	
+5	1	1	98124	94455	Garland v. Washington,232 U.S. 642  (1914)	scotus	428794	98124	Crain v. United States (1896)	yes	
+6	0	4	98917	97893	Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)	scotus	2556141	98917	Bauer & Cie v. O'Donnell (1913)	no	
+6	1	4	98917	97584	Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)	scotus	2556141	98917	Henry v. A. B. Dick Co. (1912)	yes	
+6	2	2	98917	96878	Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)	scotus	2556141	98917	Continental Paper Bag Co. v. Eastern Paper Bag Co. (1908)	no	
+6	3	1	98917	93828	Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)	scotus	2556141	98917	Dunlap v. Schofield (1894)	no	
+6	4	1	98917	94177	Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)	scotus	2556141	98917	Keeler v. Standard Folding Bed Co. (1895)	no	
+6	5	1	98917	89595	Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)	scotus	2556141	98917	Keystone Bridge Co. v. Phoenix Iron Co. (1877)	no	
+6	6	1	98917	90432	Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)	scotus	2556141	98917	Railroad Co. v. Mellon (1881)	no	
+6	7	1	98917	91637	Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)	scotus	2556141	98917	Yale Lock Manufacturing Co. v. Greenleaf (1886)	no	
+6	8	1	98917	93161	Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)	scotus	2556141	98917	McClain v. Ortmayer (1891)	no	
+6	9	1	98917	94711	Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)	scotus	2556141	98917	United States v. American Bell Telephone Co. (1897)	no	
+6	10	1	98917	93908	Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)	scotus	2556141	98917	Ashley v. Ryan (1894)	no	
+6	11	1	98917	96107	Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)	scotus	2556141	98917	Ohio Ex Rel. Lloyd v. Dollison (1904)	no	
+6	12	1	98917	95670	Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)	scotus	2556141	98917	Bement v. National Harrow Co. (1902)	no	
+6	13	1	98917	98575	Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)	scotus	2556141	98917	Bailey v. Baker Ice MacHine Co. (1915)	no	
+7	0	2	99004	95042	Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)	scotus	1068425	99004	Lake Shore & Michigan Southern Railway Co. v. Smith (1899)	yes	
+7	1	1	99004	3483537	Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)	scotus	1068425	99004	Penna. R.R. Co. v. Public Ser. Com. (1915)	no	
+7	2	1	99004	93379	Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)	scotus	1068425	99004	Interstate Com. Commiss. v. B. & O. RAILROAD (1892)	no	
+7	3	1	99004	98392	Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)	scotus	1068425	99004	Norfolk and Western Railway Company v. Conley, Attorney General of the State of West Virginia (1913)	no	
+7	4	1	99004	98391	Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)	scotus	1068425	99004	Northern Pacific Railway Co. v. North Dakota Ex Rel. McCue (1915)	no	
+7	5	1	99004	95555	Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)	scotus	1068425	99004	Louisville & Nashville Railroad v. Kentucky (1902)	no	
+7	6	1	99004	97966	Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)	scotus	1068425	99004	The Minnesota Rate Cases (1913)	no	
+7	7	1	99004	96710	Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)	scotus	1068425	99004	Interstate Consolidated Street Railway Co. v. Massachusetts (1907)	no	
+8	0	2	99901	89506	Terral v. Burke Construction Co.,257 U.S. 529  (1922)	scotus	80418	99901	Doyle v. Continental Insurance (1877)	yes	
+8	1	2	99901	96471	Terral v. Burke Construction Co.,257 U.S. 529  (1922)	scotus	80418	99901	Security Mutual Life Insurance v. Prewitt (1906)	yes	
+8	2	1	99901	93467	Terral v. Burke Construction Co.,257 U.S. 529  (1922)	scotus	80418	99901	Iowa v. Illinois (1893)	no	
+8	3	1	99901	88953	Terral v. Burke Construction Co.,257 U.S. 529  (1922)	scotus	80418	99901	Home Ins. Co. v. Morse (1874)	no	
+8	4	1	99901	91911	Terral v. Burke Construction Co.,257 U.S. 529  (1922)	scotus	80418	99901	Barron v. Burnside (1887)	no	
+8	5	1	99901	93431	Terral v. Burke Construction Co.,257 U.S. 529  (1922)	scotus	80418	99901	Southern Pacific Co. v. Denton (1892)	no	
+8	6	1	99901	93803	Terral v. Burke Construction Co.,257 U.S. 529  (1922)	scotus	80418	99901	Martin's Administrator v. Baltimore & Ohio Railroad (1894)	no	
+8	7	1	99901	94850	Terral v. Burke Construction Co.,257 U.S. 529  (1922)	scotus	80418	99901	Barrow Steamship Co. v. Kane (1898)	no	
+8	8	1	99901	97283	Terral v. Burke Construction Co.,257 U.S. 529  (1922)	scotus	80418	99901	Herndon v. Chicago, Rock Island & Pacific Railway Co. (1910)	no	
+8	9	1	99901	98085	Terral v. Burke Construction Co.,257 U.S. 529  (1922)	scotus	80418	99901	Harrison v. St. Louis & San Francisco Railroad (1914)	no	
+8	10	1	99901	98747	Terral v. Burke Construction Co.,257 U.S. 529  (1922)	scotus	80418	99901	Donald v. Philadelphia & Reading Coal & Iron Co. (1916)	no	
+9	0	1	101368	92485	Gleason v. Seaboard Air Line Railway,278 U.S. 349  (1929)	scotus	621994	101368	Friedlander v. Texas & Pacific Railway Co. (1889)	yes	
+9	1	1	101368	4727363	Gleason v. Seaboard Air Line Railway,278 U.S. 349  (1929)	scotus	621994	101368	Roy & Roy v. Northern Pacific Railway Co. (1906)	no	
+9	2	1	101368	5562591	Gleason v. Seaboard Air Line Railway,278 U.S. 349  (1929)	scotus	621994	101368	Planters' Rice-Mill Co. v. Merchants' National Bank (1887)	no	
+9	3	1	101368	3678043	Gleason v. Seaboard Air Line Railway,278 U.S. 349  (1929)	scotus	621994	101368	Havens v. Bank of Tarboro (1903)	no	
+10	0	2	101750	3589385	East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)	scotus	406609	101750	Pennsylvania Gas Co. v. Public Service Commission (1919)	yes	
+10	1	2	101750	3486521	East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)	scotus	406609	101750	West Virginia & Maryland Gas Co. v. Towers (1919)	no	
+10	2	1	101750	99524	East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)	scotus	406609	101750	Pennsylvania Gas Co. v. Public Service Commission (1920)	no	
+10	3	1	101750	101295	East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)	scotus	406609	101750	Sprout v. South Bend (1928)	no	
+10	4	1	101750	1578327	East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)	scotus	406609	101750	Pullman Co. v. Richardson (1923)	no	
+10	5	1	101750	101176	East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)	scotus	406609	101750	Atlantic Coast Line Railroad v. Standard Oil Co. of Kentucky (1927)	no	
+10	6	1	101750	101497	East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)	scotus	406609	101750	New Jersey Bell Telephone Co. v. State Board of Taxes & Assessments (1930)	no	
+10	7	1	101750	100442	East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)	scotus	406609	101750	Missouri Ex Rel. Barrett v. Kansas Natural Gas Co. (1924)	no	
+10	8	1	101750	100987	East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)	scotus	406609	101750	Public Utilities Commission v. Attleboro Steam & Electric Co. (1927)	no	
+10	9	1	101750	100829	East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)	scotus	406609	101750	Peoples Natural Gas Co. v. Public Service Commission (1926)	no	
+10	10	1	101750	85534	East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)	scotus	406609	101750	Brown v. Maryland (1827)	no	
+10	11	1	101750	92767	East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)	scotus	406609	101750	Leisy v. Hardin (1890)	no	
+11	0	2	101913	99897	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Gillespie v. Oklahoma (1922)	no	
+11	1	2	101913	89542	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Forbes v. Gracey (1877)	no	
+11	2	2	101913	99943	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Irwin v. Wright (1922)	no	
+11	3	1	101913	101632	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Willcutts v. Bunn (1931)	no	
+11	4	1	101913	96768	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Elder v. Wood (1908)	no	
+11	5	1	101913	101762	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Indian Motocycle Co. v. United States (1931)	no	
+11	6	1	101913	101894	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Burnet v. Coronado Oil & Gas Co. (1932)	no	
+11	7	1	101913	99339	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Union Oil Co. of Cal. v. Smith (1919)	no	
+11	8	1	101913	92685	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Wisconsin Central Railroad v. Price County (1890)	no	
+11	9	1	101913	101648	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Educational Films Corp. of America v. Ward (1931)	no	
+11	10	1	101913	85777	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Grant v. Raymond (1832)	no	
+11	11	1	101913	101268	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	City of New Brunswick v. United States (1928)	no	
+11	12	1	101913	85911	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Wheaton and Donaldson v. Peters and Grigg (1834)	no	
+11	13	1	101913	85272	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	M'culloch v. State of Maryland (1819)	no	
+11	14	1	101913	96154	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Baltimore Shipbuilding & Dry Dock Co. v. Baltimore (1904)	no	
+11	15	1	101913	101154	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Northwestern Mutual Life Insurance v. Wisconsin (1928)	no	
+11	16	1	101913	101291	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Long v. Rockwood (1928)	yes	
+11	17	1	101913	98481	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Bothwell v. Bingham County (1915)	no	
+11	18	1	101913	101272	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Shaw v. Gibson-Zahniser Oil Corp. (1928)	no	
+11	19	1	101913	87219	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Kendall v. Winsor (1859)	no	
+11	20	1	101913	86324	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Carroll v. Safford (1845)	no	
+11	21	1	101913	99638	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Johnson v. Maryland (1920)	no	
+11	22	1	101913	91588	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Van Brocklin v. Tennessee (1886)	no	
+11	23	1	101913	97614	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Gromer v. Standard Dredging Co. (1912)	no	
+11	24	1	101913	97103	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Caliga v. Inter Ocean Newspaper Co. (1909)	no	
+11	25	1	101913	94416	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Central Pacific Railroad v. California (1896)	no	
+11	26	1	101913	88789	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Railroad Co. v. Peniston (1873)	no	
+11	27	1	101913	87768	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Witherspoon v. Duncan (1867)	no	
+11	28	1	101913	96731	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	American Tobacco Co. v. Werckmeister (1907)	no	
+11	29	1	101913	99040	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Crew Levick Co. v. Pennsylvania (1917)	no	
+11	30	1	101913	101731	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Group No. 1 Oil Corp. v. Bass (1931)	no	
+11	31	1	101913	101733	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Susquehanna Power Co. v. State Tax Comm'n of Md. (No. 1) (1931)	no	
+11	32	1	101913	96874	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Globe Newspaper Co. v. Walker (1908)	no	
+11	33	1	101913	96878	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Continental Paper Bag Co. v. Eastern Paper Bag Co. (1908)	no	
+11	34	1	101913	99829	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Choctaw, Oklahoma & Gulf Railroad v. MacKey (1921)	no	
+11	35	1	101913	101497	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	New Jersey Bell Telephone Co. v. State Board of Taxes & Assessments (1930)	no	
+11	36	1	101913	101371	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	Exchange Trust Co. v. Drainage Dist. No. 7, Poinsett Cty. (1929)	no	
+11	37	1	101913	99196	Fox Film Corp. v. Doyal,286 U.S. 123  (1932)	scotus	406726	101913	United States Glue Co. v. Town of Oak Creek (1918)	no	
+12	0	2	102164	3548121	Funk v. United States,290 U.S. 371  (1933)	scotus	845304	102164	Reno Smelting, Milling & Reduction Works v. Stevenson (1889)	no	
+12	1	1	102164	93442	Funk v. United States,290 U.S. 371  (1933)	scotus	845304	102164	Benson v. United States (1892)	no	
+12	2	1	102164	94828	Funk v. United States,290 U.S. 371  (1933)	scotus	845304	102164	Holden v. Hardy (1898)	no	
+12	3	1	102164	93322	Funk v. United States,290 U.S. 371  (1933)	scotus	845304	102164	Logan v. United States (1892)	no	
+12	4	1	102164	86700	Funk v. United States,290 U.S. 371  (1933)	scotus	845304	102164	United States v. Reid (1852)	no	
+12	5	1	102164	91054	Funk v. United States,290 U.S. 371  (1933)	scotus	845304	102164	Hurtado v. California (1884)	no	
+12	6	1	102164	101558	Funk v. United States,290 U.S. 371  (1933)	scotus	845304	102164	Patton v. United States (1930)	no	
+12	7	1	102164	97335	Funk v. United States,290 U.S. 371  (1933)	scotus	845304	102164	Hendrix v. United States (1911)	yes	
+12	8	1	102164	99065	Funk v. United States,290 U.S. 371  (1933)	scotus	845304	102164	Rosen v. United States (1918)	no	
+12	9	1	102164	99658	Funk v. United States,290 U.S. 371  (1933)	scotus	845304	102164	Jin Fuey Moy v. United States (1920)	yes	
+13	0	8	102784	100181	West Coast Hotel Co. v. Parrish,300 U.S. 379  (1937)	scotus	81694	102784	Adkins v. Children's Hospital of Columbia (1923)	yes	
+13	1	6	102784	102681	West Coast Hotel Co. v. Parrish,300 U.S. 379  (1937)	scotus	81694	102784	Morehead v. New York Ex Rel. Tipaldo (1936)	no	
+13	2	3	102784	102224	West Coast Hotel Co. v. Parrish,300 U.S. 379  (1937)	scotus	81694	102784	Nebbia v. New York (1934)	no	
+13	3	3	102784	97368	West Coast Hotel Co. v. Parrish,300 U.S. 379  (1937)	scotus	81694	102784	Chicago, Burlington & Quincy Railroad v. McGuire (1911)	no	
+13	4	3	102784	94828	West Coast Hotel Co. v. Parrish,300 U.S. 379  (1937)	scotus	81694	102784	Holden v. Hardy (1898)	no	
+14	0	7	103012	101265	Erie Railroad v. Tompkins,304 U.S. 64  (1938)	scotus	119296	103012	Black & White Taxicab & Transfer Co. v. Brown & Yellow Taxicab & Transfer Co. (1928)	no	
+14	1	5	103012	93638	Erie Railroad v. Tompkins,304 U.S. 64  (1938)	scotus	119296	103012	Baltimore & Ohio Railroad v. Baugh (1893)	no	
+14	2	4	103012	3847696	Erie Railroad v. Tompkins,304 U.S. 64  (1938)	scotus	119296	103012	Falchetti v. Pennsylvania R. R. (1932)	no	
+14	3	4	103012	86188	Erie Railroad v. Tompkins,304 U.S. 64  (1938)	scotus	119296	103012	Swift v. Tyson (1842)	yes	
+15	0	7	103172	88308	Graves v. New York ex rel. O’Keefe,306 U.S. 466  (1939)	scotus	1740034	103172	Collector v. Day (1871)	yes	
+15	1	6	103172	103047	Graves v. New York ex rel. O’Keefe,306 U.S. 466  (1939)	scotus	1740034	103172	Helvering v. Gerhardt (1938)	no	
+15	2	5	103172	85272	Graves v. New York ex rel. O’Keefe,306 U.S. 466  (1939)	scotus	1740034	103172	M'culloch v. State of Maryland (1819)	no	
+15	3	5	103172	100771	Graves v. New York ex rel. O’Keefe,306 U.S. 466  (1939)	scotus	1740034	103172	Metcalf & Eddy v. Mitchell (1926)	no	
+15	4	4	103172	102734	Graves v. New York ex rel. O’Keefe,306 U.S. 466  (1939)	scotus	1740034	103172	New York Ex Rel. Rogers v. Graves (1937)	yes	
+15	5	4	103172	86223	Graves v. New York ex rel. O’Keefe,306 U.S. 466  (1939)	scotus	1740034	103172	Dobbins v. Commissioners of Erie County (1842)	no	
+15	6	4	103172	102783	Graves v. New York ex rel. O’Keefe,306 U.S. 466  (1939)	scotus	1740034	103172	Brush v. Commissioner (1937)	no	
+16	0	6	103214	94174	O’Malley v. Woodrough,307 U.S. 277  (1939)	scotus	1507922	103214	Pollock v. Farmers' Loan & Trust Co. (1895)	no	
+16	1	2	103214	3484932	O’Malley v. Woodrough,307 U.S. 277  (1939)	scotus	1507922	103214	Gordy v. Dennis (1939)	no	
+16	2	2	103214	100693	O’Malley v. Woodrough,307 U.S. 277  (1939)	scotus	1507922	103214	Miles v. Graham (1925)	yes	
+16	3	2	103214	85272	O’Malley v. Woodrough,307 U.S. 277  (1939)	scotus	1507922	103214	M'culloch v. State of Maryland (1819)	no	
+16	4	2	103214	99610	O’Malley v. Woodrough,307 U.S. 277  (1939)	scotus	1507922	103214	Evans v. Gore (1920)	yes	
+17	0	5	103198	97661	Rochester Telephone Corp. v. United States,307 U.S. 125  (1939)	scotus	2503656	103198	Procter & Gamble Co. v. United States (1912)	yes	
+17	1	4	103198	101973	Rochester Telephone Corp. v. United States,307 U.S. 125  (1939)	scotus	2503656	103198	Alton Railroad v. United States (1932)	no	
+17	2	3	103198	102669	Rochester Telephone Corp. v. United States,307 U.S. 125  (1939)	scotus	2503656	103198	United States v. Corrick (1936)	no	
+17	3	3	103198	101012	Rochester Telephone Corp. v. United States,307 U.S. 125  (1939)	scotus	2503656	103198	United States v. Los Angeles & Salt Lake Railroad (1927)	no	
+17	4	3	103198	96063	Rochester Telephone Corp. v. United States,307 U.S. 125  (1939)	scotus	2503656	103198	Interstate Commerce Commission v. Baird (1904)	no	
+17	5	3	103198	98242	Rochester Telephone Corp. v. United States,307 U.S. 125  (1939)	scotus	2503656	103198	Intermountain Rate Cases (1914)	no	
+17	6	3	103198	102969	Rochester Telephone Corp. v. United States,307 U.S. 125  (1939)	scotus	2503656	103198	United States v. Griffin (1938)	no	
+18	0	7	103292	102488	Helvering v. Hallock,309 U.S. 106  (1940)	scotus	2457842	103292	Helvering v. St. Louis Union Trust Co. (1935)	yes	
+18	1	7	103292	101723	Helvering v. Hallock,309 U.S. 106  (1940)	scotus	2457842	103292	Klein v. United States (1931)	no	
+18	2	3	103292	101780	Helvering v. Hallock,309 U.S. 106  (1940)	scotus	2457842	103292	Cyrus H. McCormick v. David Burnet (1931)	no	
+18	3	3	103292	101552	Helvering v. Hallock,309 U.S. 106  (1940)	scotus	2457842	103292	May v. Heiner (1930)	no	
+18	4	3	103292	1477043	Helvering v. Hallock,309 U.S. 106  (1940)	scotus	2457842	103292	Commissioner of Internal Revenue v. Schwarz (1935)	no	
+18	5	3	103292	1474615	Helvering v. Hallock,309 U.S. 106  (1940)	scotus	2457842	103292	Commissioner of Internal Revenue v. Hallock (1939)	no	
+18	-	1	103292	102489	Helvering v. Hallock,309 U.S. 106  (1940)	scotus	2457842	103292	 Becker v. St. Louis Union Trust Co (1935)	yes	* not extracted
+19	0	3	103290	102529	Madden v. Kentucky,309 U.S. 83  (1940)	scotus	2381796	103290	Colgate v. Harvey (1935)	yes	
+19	1	3	103290	88661	Madden v. Kentucky,309 U.S. 83  (1940)	scotus	2381796	103290	Butchers' Benevolent Ass'n v. Crescent City Live-Stock Landing & Slaughter-House Co. (1873)	no	
+19	2	3	103290	96885	Madden v. Kentucky,309 U.S. 83  (1940)	scotus	2381796	103290	Twining v. New Jersey (1908)	no	
+19	3	2	103290	103226	Madden v. Kentucky,309 U.S. 83  (1940)	scotus	2381796	103290	Haguer v. Committee for Industrial Organization (1939)	no	
+20	0	2	103351	103227	Tigner v. Texas,310 U.S. 141  (1940)	scotus	107747	103351	United States v. Rock Royal Co-Operative, Inc. (1939)	no	
+20	1	1	103351	101217	Tigner v. Texas,310 U.S. 141  (1940)	scotus	107747	103351	Liberty Warehouse Co. v. Burley Tobacco Growers' Co-Operative Marketing Assn. (1928)	no	
+20	2	1	103351	96354	Tigner v. Texas,310 U.S. 141  (1940)	scotus	107747	103351	Carroll v. Greenwich Ins. Co. of NY (1905)	no	
+20	3	1	103351	98219	Tigner v. Texas,310 U.S. 141  (1940)	scotus	107747	103351	International Harvester Co. of America v. Missouri (1914)	no	
+20	4	1	103351	102224	Tigner v. Texas,310 U.S. 141  (1940)	scotus	107747	103351	Nebbia v. New York (1934)	no	
+20	5	1	103351	101842	Tigner v. Texas,310 U.S. 141  (1940)	scotus	107747	103351	United States Navigation Co. v. Cunard Steamship Co. (1932)	no	
+20	6	1	103351	100052	Tigner v. Texas,310 U.S. 141  (1940)	scotus	107747	103351	Keogh v. Chicago & Northwestern Railway Co. (1922)	no	
+20	7	1	103351	98166	Tigner v. Texas,310 U.S. 141  (1940)	scotus	107747	103351	German Alliance Insurance v. Lewis (1914)	no	
+20	8	1	103351	103191	Tigner v. Texas,310 U.S. 141  (1940)	scotus	107747	103351	Mulford v. Smith (1939)	no	
+20	9	1	103351	102457	Tigner v. Texas,310 U.S. 141  (1940)	scotus	107747	103351	Aero Mayflower Transit Co. v. Georgia Public Service Commission (1935)	no	
+20	10	1	103351	95612	Tigner v. Texas,310 U.S. 141  (1940)	scotus	107747	103351	Connolly v. Union Sewer Pipe Co. (1902)	yes	
+21	0	4	103557	99670	Edwards v. California,314 U.S. 160  (1941)	scotus	263902	103557	United States v. Wheeler (1920)	no	
+21	1	2	103557	96885	Edwards v. California,314 U.S. 160  (1941)	scotus	263902	103557	Twining v. New Jersey (1908)	no	
+21	2	2	103557	87885	Edwards v. California,314 U.S. 160  (1941)	scotus	263902	103557	Crandall v. Nevada (1868)	no	
+21	3	2	103557	102529	Edwards v. California,314 U.S. 160  (1941)	scotus	263902	103557	Colgate v. Harvey (1935)	no	
+21	-	0	103557	86014	Edwards v. California,314 U.S. 160  (1941)	scotus	263902	103557	Mayor of New York v. Miln (1837) 	yes	* cite not in courtlistener
+22	0	3	103505	101453	Nye v. United States,313 U.S. 33  (1941)	scotus	25924	103505	Sinclair v. United States (1929)	no	
+22	1	2	103505	99206	Nye v. United States,313 U.S. 33  (1941)	scotus	25924	103505	Toledo Newspaper Co. v. United States (1918)	yes	
+22	2	2	103505	88890	Nye v. United States,313 U.S. 33  (1941)	scotus	25924	103505	Ex Parte Robinson (1874)	no	
+22	3	2	103505	92542	Nye v. United States,313 U.S. 33  (1941)	scotus	25924	103505	Savin (1889)	no	
+22	4	2	103505	92543	Nye v. United States,313 U.S. 33  (1941)	scotus	25924	103505	Cuddy (1889)	no	
+23	0	5	103522	101315	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Ribnik v. McBride (1928)	yes	
+23	1	2	103522	100181	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Adkins v. Children's Hospital of Columbia (1923)	no	
+23	2	2	103522	101029	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Tyson & Brother v. Banton (1927)	no	
+23	3	1	103522	101356	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Williams v. Standard Oil Co. of La. (1929)	no	
+23	4	1	103522	102681	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Morehead v. New York Ex Rel. Tipaldo (1936)	no	
+23	5	1	103522	101511	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Tagg Bros. & Moorhead v. United States (1930)	no	
+23	6	1	103522	101636	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	O'Gorman & Young, Inc. v. Hartford Fire Ins. Co. (1931)	no	
+23	7	1	103522	102224	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Nebbia v. New York (1934)	no	
+23	8	1	103522	102322	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Hegeman Farms Corp. v. Baldwin (1934)	no	
+23	9	1	103522	102602	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	BORDEN’S FARM PRODUCTS CO., INC. v. TEN EYCK, COMMISSIONER OF AGRICULTURE & MARKETS OF NEW YORK, Et Al. (1936)	no	
+23	10	1	103522	102402	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Baldwin v. G. A. F. Seelig, Inc. (1935)	no	
+23	11	1	103522	102603	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Mayflower Farms, Inc. v. Ten Eyck (1936)	no	
+23	12	1	103522	102784	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	West Coast Hotel Co. v. Parrish (1937)	no	
+23	13	1	103522	102835	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Townsend v. Yeomans (1937)	no	
+23	14	1	103522	103191	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Mulford v. Smith (1939)	no	
+23	15	1	103522	103133	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Currin v. Wallace (1939)	no	
+23	16	1	103522	103227	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	United States v. Rock Royal Co-Operative, Inc. (1939)	no	
+23	17	1	103522	103362	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Sunshine Anthracite Coal Co. v. Adkins (1940)	no	
+23	18	1	103522	103442	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	United States v. Darby (1941)	no	
+23	19	1	103522	98749	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Brazee v. Michigan (1916)	no	
+23	20	1	103522	101887	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	New State Ice Co. v. Liebmann (1932)	no	
+23	21	1	103522	102713	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Old Dearborn Distributing Co. v. Seagram-Distillers Corp. (1936)	no	
+23	22	1	103522	102662	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Carter v. Carter Coal Co. (1936)	no	
+23	23	1	103522	101413	Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)	scotus	122651	103522	Highland v. Russell Car & Snow Plow Co. (1929)	no	
+24	0	6	103555	90350	Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)	scotus	339919	103555	Dietzsch v. Huidekoper (1881)	no	
+24	1	6	103555	100061	Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)	scotus	339919	103555	Kline v. Burke Construction Co. (1922)	no	
+24	2	4	103555	96399	Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)	scotus	339919	103555	Gunter v. Atlantic Coast Line Railroad (1906)	no	
+24	3	4	103555	89070	Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)	scotus	339919	103555	French v. Hay (1875)	no	
+24	4	4	103555	89712	Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)	scotus	339919	103555	Dial v. Reynolds (1878)	no	
+24	5	4	103555	99752	Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)	scotus	339919	103555	Supreme Tribe of Ben-Hur v. Cauble (1921)	yes	
+24	6	4	103555	93714	Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)	scotus	339919	103555	Root v. Woolworth (1893)	no	
+24	7	4	103555	95802	Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)	scotus	339919	103555	Prout v. Starr (1903)	no	
+25	0	2	103493	95346	United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)	scotus	275019	103493	Scranton v. Wheeler (1900)	no	
+25	1	2	103493	97899	United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)	scotus	275019	103493	United States v. Chandler-Dunbar Water Power Co. (1913)	no	
+25	2	1	103493	95793	United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)	scotus	275019	103493	United States v. Lynah (1903)	yes	
+25	3	1	103493	98902	United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)	scotus	275019	103493	United States v. Cress (1917)	no	
+25	4	1	103493	87748	United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)	scotus	275019	103493	Gilman v. Philadelphia (1866)	no	
+25	5	1	103493	94650	United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)	scotus	275019	103493	Gibson v. United States (1897)	no	
+25	6	1	103493	103413	United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)	scotus	275019	103493	United States v. Appalachian Electric Power Co. (1941)	no	
+25	7	1	103493	87367	United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)	scotus	275019	103493	State of Alabama v. State of Georgia (1860)	no	
+25	8	1	103493	98436	United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)	scotus	275019	103493	Greenleaf Johnson Lumber Co. v. Garrison (1915)	no	
+25	9	1	103493	98694	United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)	scotus	275019	103493	Willink v. United States (1916)	no	
+25	10	1	103493	97900	United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)	scotus	275019	103493	Lewis Blue Point Oyster Cultivation Co. v. Briggs (1913)	no	
+26	0	4	103442	103133	United States v. Darby,312 U.S. 100  (1941)	scotus	2545547	103442	Currin v. Wallace (1939)	no	
+26	1	3	103442	2516349	United States v. Darby,312 U.S. 100  (1941)	scotus	2545547	103442	Reid v. Colorado (1902)	no	
+26	2	3	103442	103191	United States v. Darby,312 U.S. 100  (1941)	scotus	2545547	103442	Mulford v. Smith (1939)	no	
+26	3	2	103442	98832	United States v. Darby,312 U.S. 100  (1941)	scotus	2545547	103442	Clark Distilling Co. v. Western Maryland Railway Co. (1917)	no	
+26	4	2	103442	98608	United States v. Darby,312 U.S. 100  (1941)	scotus	2545547	103442	Seven Cases of Eckman's Alternative v. United States (1916)	no	
+26	5	2	103442	99412	United States v. Darby,312 U.S. 100  (1941)	scotus	2545547	103442	United States v. Ferger (1919)	no	
+26	6	2	103442	100469	United States v. Darby,312 U.S. 100  (1941)	scotus	2545547	103442	James Everard's Breweries v. Day (1924)	no	
+26	7	2	103442	98232	United States v. Darby,312 U.S. 100  (1941)	scotus	2545547	103442	Houston, East & West Texas Railway Co. v. United States (1914)	no	
+26	8	2	103442	99906	United States v. Darby,312 U.S. 100  (1941)	scotus	2545547	103442	Wisconsin RR Comm. v. C., B. & QRR CO. (1922)	no	
+26	9	2	103442	102204	United States v. Darby,312 U.S. 100  (1941)	scotus	2545547	103442	Local 167, International Brotherhood of Teamsters v. United States (1934)	no	
+26	10	2	103442	97451	United States v. Darby,312 U.S. 100  (1941)	scotus	2545547	103442	Balt. & Ohio RR v. Int. Com. Comm. (1911)	no	
+26	11	2	103442	100188	United States v. Darby,312 U.S. 100  (1941)	scotus	2545547	103442	Board of Trade of Chicago v. Olsen (1923)	no	
+26	12	2	103442	2621060	United States v. Darby,312 U.S. 100  (1941)	scotus	2545547	103442	Bunting v. Oregon (1917)	no	
+26	-	1	103442	99190	United States v. Darby,312 U.S. 100  (1941)	scotus	2545547	103442	Hammer v. Dagenhart (1918)	yes	* not extracted
+27	0	4	103639	2620693	Graves v. Schmidlapp,315 U.S. 657  (1942)	scotus	76615	103639	Bullen v. Wisconsin (1916)	no	
+27	1	3	103639	103220	Graves v. Schmidlapp,315 U.S. 657  (1942)	scotus	76615	103639	Graves v. Elliott (1939)	no	
+27	2	2	103639	100955	Graves v. Schmidlapp,315 U.S. 657  (1942)	scotus	76615	103639	Wachovia Bank & Trust Co. v. Doughton (1926)	yes	
+27	3	2	103639	103219	Graves v. Schmidlapp,315 U.S. 657  (1942)	scotus	76615	103639	Curry v. McCanless (1939)	no	
+27	4	2	103639	96658	Graves v. Schmidlapp,315 U.S. 657  (1942)	scotus	76615	103639	Chanler v. Kelsey (1907)	no	
+27	5	2	103639	95546	Graves v. Schmidlapp,315 U.S. 657  (1942)	scotus	76615	103639	Orr v. Gilman (1902)	no	
+27	6	2	103639	101237	Graves v. Schmidlapp,315 U.S. 657  (1942)	scotus	76615	103639	Saltonstall v. Saltonstall (1928)	no	
+27	7	2	103639	101277	Graves v. Schmidlapp,315 U.S. 657  (1942)	scotus	76615	103639	Blodgett v. Silberman (1928)	no	
+28	0	10	103736	96454	Williams v. North Carolina,317 U.S. 287  (1942)	scotus	82108	103736	Haddock v. Haddock (1906)	yes	
+28	1	6	103736	95457	Williams v. North Carolina,317 U.S. 287  (1942)	scotus	82108	103736	Atherton v. Atherton (1901)	no	
+28	2	5	103736	87830	Williams v. North Carolina,317 U.S. 287  (1942)	scotus	82108	103736	Christmas v. Russell (1866)	no	
+28	3	5	103736	95458	Williams v. North Carolina,317 U.S. 287  (1942)	scotus	82108	103736	Bell v. Bell (1901)	no	
+28	4	4	103736	102404	Williams v. North Carolina,317 U.S. 287  (1942)	scotus	82108	103736	Alaska Packers Assn. v. Industrial Accident Comm'n of Cal. (1935)	no	
+28	5	4	103736	98476	Williams v. North Carolina,317 U.S. 287  (1942)	scotus	82108	103736	Hood v. McGehee (1915)	no	
+28	6	4	103736	102412	Williams v. North Carolina,317 U.S. 287  (1942)	scotus	82108	103736	Broderick v. Rosner (1935)	no	
+28	7	4	103736	97084	Williams v. North Carolina,317 U.S. 287  (1942)	scotus	82108	103736	Fall v. Eastin (1909)	no	
+28	8	4	103736	96865	Williams v. North Carolina,317 U.S. 287  (1942)	scotus	82108	103736	Fauntleroy v. Lum (1908)	no	
+28	9	4	103736	103417	Williams v. North Carolina,317 U.S. 287  (1942)	scotus	82108	103736	Milliken v. Meyer (1941)	no	
+29	0	2	103761	101495	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Johnson v. United States Shipping Bd. Emergency Fleet Corporation (1930)	yes	
+29	1	1	103761	102049	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Vancouver Steamship Co. v. Rice (1933)	no	
+29	2	1	103761	102479	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	The Admiral Peoples (1935)	no	
+29	3	1	103761	100968	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Eastern Transportation Co. v. United States (1927)	no	
+29	4	1	103761	101230	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	United States Shipping Bd. Emergency Fleet Corporation v. Rosenberg Brothers & Co. (1928)	no	
+29	5	1	103761	99419	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	The Lake Monroe (1919)	no	
+29	6	1	103761	99982	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Sloan Shipyards Corp. v. United States Shipping Bd. Emergency Fleet Corporation (1922)	no	
+29	7	1	103761	103165	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Keifer & Keifer v. Reconstruction Finance Corp. (1939)	no	
+29	8	1	103761	103302	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Federal Housing Administration, Region No. 4 v. Burr (1940)	no	
+29	9	1	103761	102452	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Federal Land Bank v. Priddy (1935)	no	
+29	10	1	103761	103439	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Reconstruction Finance Corporation v. JG Menihan Corp. (1941)	no	
+29	11	1	103761	99972	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Dahn v. Davis (1922)	no	
+29	12	1	103761	93000	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Guaranty Trust and Safe Deposit Co. v. Green Cove Springs and Melrose Railroad (1891)	no	
+29	13	1	103761	103284	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Yearsley v. W. A. Ross Construction Co. (1940)	no	
+29	14	1	103761	95660	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Minnesota v. Hitchcock (1902)	no	
+29	15	1	103761	84992	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Dunlop v. Munroe (1812)	no	
+29	16	1	103761	92277	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Robertson v. Sichel (1888)	no	
+29	17	1	103761	94400	Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)	scotus	1507628	103761	Spalding v. Vilas (1896)	no	
+30	0	6	103831	103705	Murdock v. Pennsylvania,319 U.S. 105 (1943)	scotus	463562	103831	Jones v. Opelika (1942)	yes	
+30	1	4	103831	103355	Murdock v. Pennsylvania,319 U.S. 105 (1943)	scotus	463562	103831	Cantwell v. Connecticut (1940)	no	
+30	2	3	103831	102601	Murdock v. Pennsylvania,319 U.S. 105 (1943)	scotus	463562	103831	Grosjean v. American Press Co. (1936)	no	
+30	3	3	103831	101773	Murdock v. Pennsylvania,319 U.S. 105 (1943)	scotus	463562	103831	Near v. Minnesota Ex Rel. Olson (1931)	no	
+31	0	11	103869	103816	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	Board of County Commissioners v. Seber (1943)	no	* duplicated cluster_id: 2540705
+31	1	9	103869	102466	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	Superintendent of Five Civilized Tribes v. Commissioner (1935)	no	
+31	2	8	103869	101272	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	Shaw v. Gibson-Zahniser Oil Corp. (1928)	no	
+31	3	6	103869	103192	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	United States Trust Co. v. Helvering (1939)	no	
+31	4	6	103869	97425	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	Tiger v. Western Investment Co. (1911)	no	
+31	5	5	103869	102986	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	Helvering v. Mountain Producers Corp. (1938)	no	
+31	6	4	103869	95792	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	United States v. Rickert (1903)	no	
+31	7	4	103869	103172	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	Graves v. New York Ex Rel. O'Keefe (1939)	no	
+31	8	4	103869	99097	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	Brader v. James (1918)	no	
+31	9	4	103869	98296	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	Choctaw, Oklahoma & Gulf Railroad v. Harrison (1914)	no	
+31	10	4	103869	98689	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	Indian Territory Illuminating Oil Co. v. Oklahoma (1916)	no	
+31	11	4	103869	100916	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	Jaybird Mining Co. v. Weir (1926)	no	
+31	12	4	103869	99897	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	Gillespie v. Oklahoma (1922)	no	
+31	13	4	103869	101499	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	Carpenter v. Shaw (1930)	no	
+31	14	4	103869	97639	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	Choate v. Trapp (1912)	no	
+31	15	4	103869	99118	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	McCurdy v. United States (1918)	no	
+31	-	3	103869	100830	Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)	scotus	263995	103869	 Childers v. Beaver (1926)	yes	* not extracted
+32	0	11	103870	103373	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Minersville School District v. Gobitis (1940)	yes	
+32	1	7	103870	102334	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Hamilton v. Regents of the University of California (1934)	no	
+32	2	2	103870	100694	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Pierce v. Society of Sisters (1925)	no	
+32	3	1	103870	101741	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Stromberg v. California (1931)	no	
+32	4	1	103870	103705	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Jones v. Opelika (1942)	no	
+32	5	1	103870	102580	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	United States v. Butler (1936)	no	
+32	6	1	103870	103017	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	United States v. Carolene Products Co. (1938)	no	
+32	7	1	103870	96087	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Missouri, Kansas & Texas Railway Co. v. May (1904)	no	
+32	8	1	103870	96042	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Rippey v. Texas (1904)	no	
+32	9	1	103870	103508	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Skiriotes v. Florida (1941)	no	
+32	10	1	103870	102879	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Palko v. Connecticut (1937)	no	
+32	11	1	103870	91054	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Hurtado v. California (1884)	no	
+32	12	1	103870	96230	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Jacobson v. Massachusetts (1905)	no	
+32	13	1	103870	1303501	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Shoemaker v. Keely (1793)	no	
+32	14	1	103870	101011	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Farrington, Governor v. T. Tokushige (1927)	no	
+32	15	1	103870	99296	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Schenck v. United States (1919)	no	
+32	16	1	103870	103795	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Helvering v. Griffiths (1943)	no	
+32	17	1	103870	99053	West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)	scotus	174195	103870	Selective Draft Law Cases (1918)	no	
+33	0	5	103915	103633	Federal Power Commssion v. Hope Natural Gas Co.,320 U.S. 591  (1944)	scotus	193031	103915	Federal Power Commission v. Natural Gas Pipeline Co. (1942)	no	
+33	1	4	103915	101364	Federal Power Commssion v. Hope Natural Gas Co.,320 U.S. 591  (1944)	scotus	193031	103915	United Fuel Gas Co. v. Railroad Commission (1929)	no	
+33	2	4	103915	102280	Federal Power Commssion v. Hope Natural Gas Co.,320 U.S. 591  (1944)	scotus	193031	103915	Columbus Gas & Fuel Co. v. Public Util. Comm'n of Ohio (1934)	no	
+33	3	3	103915	102091	Federal Power Commssion v. Hope Natural Gas Co.,320 U.S. 591  (1944)	scotus	193031	103915	Los Angeles Gas & Electric Corp. v. Railroad Commission (1933)	no	
+33	4	3	103915	102270	Federal Power Commssion v. Hope Natural Gas Co.,320 U.S. 591  (1944)	scotus	193031	103915	Dayton Power & Light Co. v. Public Utilities Commission (1934)	no	
+33	5	3	103915	92743	Federal Power Commssion v. Hope Natural Gas Co.,320 U.S. 591  (1944)	scotus	193031	103915	Chicago, Milwaukee & St. Paul Railway Co. v. Minnesota (1890)	no	
+33	-	2	103915	101492	Federal Power Commssion v. Hope Natural Gas Co.,320 U.S. 591  (1944)	scotus	193031	103915	United Rs. & Elec. Co. of Baltimore v. West (1930)	yes	* not extracted
+34	0	11	103927	95840	Mahnich v. Southern Steamship Co.,321 U.S. 96  (1944)	scotus	276514	103927	The Osceola (1903)	no	
+34	1	7	103927	100007	Mahnich v. Southern Steamship Co.,321 U.S. 96  (1944)	scotus	276514	103927	Carlisle Packing Co. v. Sandanger (1922)	no	
+34	2	6	103927	103121	Mahnich v. Southern Steamship Co.,321 U.S. 96  (1944)	scotus	276514	103927	Socony-Vacuum Oil Co. v. Smith (1939)	no	
+34	3	5	103927	101292	Mahnich v. Southern Steamship Co.,321 U.S. 96  (1944)	scotus	276514	103927	"Plamals v. S. S. ""Pinar Del Rio"" (1928)"	yes	
+34	4	4	103927	102648	Mahnich v. Southern Steamship Co.,321 U.S. 96  (1944)	scotus	276514	103927	The Arizona v. Anelich (1936)	no	
+35	0	5	103916	101696	Mercoid Corp. v. Mid-Continent Co.,320 U.S. 661  (1944)	scotus	1209308	103916	Carbice Corp. of America v. American Patents Development Corp. (1931)	no	
+35	1	2	103916	97018	Mercoid Corp. v. Mid-Continent Co.,320 U.S. 661  (1944)	scotus	1209308	103916	Leeds & Catlin Company v. Victor Talking Machine Company (No. 2) (1909)	yes	
+35	2	2	103916	102889	Mercoid Corp. v. Mid-Continent Co.,320 U.S. 661  (1944)	scotus	1209308	103916	Leitch Manufacturing Co. v. Barber Co. (1938)	no	
+35	3	2	103916	98917	Mercoid Corp. v. Mid-Continent Co.,320 U.S. 661  (1944)	scotus	1209308	103916	Motion Picture Patents Co. v. Universal Film Manufacturing Co. (1917)	no	
+35	4	2	103916	103578	Mercoid Corp. v. Mid-Continent Co.,320 U.S. 661  (1944)	scotus	1209308	103916	B. B. Chemical Co. v. Ellis (1942)	no	
+35	5	2	103916	103678	Mercoid Corp. v. Mid-Continent Co.,320 U.S. 661  (1944)	scotus	1209308	103916	United States v. Masonite Corp. (1942)	no	
+36	0	7	103962	103531	Smith v. Allwright,321 U.S. 649  (1944)	scotus	441589	103962	United States v. Classic (1941)	no	
+36	1	6	103962	102431	Smith v. Allwright,321 U.S. 649  (1944)	scotus	441589	103962	Grovey v. Townsend (1935)	yes	
+36	2	5	103962	101911	Smith v. Allwright,321 U.S. 649  (1944)	scotus	441589	103962	Nixon v. Condon (1932)	no	
+36	3	4	103962	3981612	Smith v. Allwright,321 U.S. 649  (1944)	scotus	441589	103962	Bell v. Hill (1934)	no	
+37	0	3	104285	101446	Girouard v. United States,328 U.S. 61  (1946)	scotus	443088	104285	United States v. Schwimmer (1929)	yes	
+37	1	2	104285	101765	Girouard v. United States,328 U.S. 61  (1946)	scotus	443088	104285	United States v. MacIntosh (1931)	yes	
+37	2	2	104285	101766	Girouard v. United States,328 U.S. 61  (1946)	scotus	443088	104285	United States v. Bland (1931)	yes	
+37	3	2	104285	103367	Girouard v. United States,328 U.S. 61  (1946)	scotus	443088	104285	Apex Hosiery Co. v. Leader (1940)	no	
+38	0	6	104380	3663548	Angel v. Bullington,330 U.S. 183  (1947)	scotus	444842	104380	Bullington v. . Angel (1941)	no	
+38	1	4	104380	1116658	Angel v. Bullington,330 U.S. 183  (1947)	scotus	444842	104380	Guaranty Trust Co. v. York (1945)	no	
+38	2	3	104380	97674	Angel v. Bullington,330 U.S. 183  (1947)	scotus	444842	104380	David Lupton's Sons Co. v. Automobile Club of America (1912)	yes	
+38	3	3	104380	103012	Angel v. Bullington,330 U.S. 183  (1947)	scotus	444842	104380	Erie Railroad v. Tompkins (1938)	no	
+39	0	14	2764117	104139	Sherrer v. Sherrer,334 U.S. 343  (1948)	scotus	2618367	2764117	Williams v. North Carolina (1945)	no	
+39	1	10	2764117	103096	Sherrer v. Sherrer,334 U.S. 343  (1948)	scotus	2618367	2764117	Stoll v. Gottlieb (1938)	no	
+39	2	10	2764117	103736	Sherrer v. Sherrer,334 U.S. 343  (1948)	scotus	2618367	2764117	Williams v. North Carolina (1943)	no	
+39	3	8	2764117	103084	Sherrer v. Sherrer,334 U.S. 343  (1948)	scotus	2618367	2764117	Davis v. Davis (1938)	no	
+39	4	6	2764117	103236	Sherrer v. Sherrer,334 U.S. 343  (1948)	scotus	2618367	2764117	Treinies v. Sunshine Mining Co. (1940)	no	
+39	5	5	2764117	95768	Sherrer v. Sherrer,334 U.S. 343  (1948)	scotus	2618367	2764117	Andrews v. Andrews (1903)	yes	
+39	6	4	2764117	98932	Sherrer v. Sherrer,334 U.S. 343  (1948)	scotus	2618367	2764117	Chicago Life Insurance v. Cherry (1917)	no	
+39	7	4	2764117	101758	Sherrer v. Sherrer,334 U.S. 343  (1948)	scotus	2618367	2764117	Baldwin v. Iowa State Traveling Men's Assn. (1931)	no	
+39	8	4	2764117	103264	Sherrer v. Sherrer,334 U.S. 343  (1948)	scotus	2618367	2764117	Chicot County Drainage District v. Baxter State Bank (1940)	no	
+40	0	7	104704	104459	Cosmopolitan Shipping Co. v. McAllister,337 U.S. 783  (1949)	scotus	408441	104704	Caldarola v. Eckert (1947)	no	
+40	1	5	104704	104320	Cosmopolitan Shipping Co. v. McAllister,337 U.S. 783  (1949)	scotus	408441	104704	Hust v. Moore-McCormack Lines, Inc. (1946)	yes	
+40	2	3	104704	1476725	Cosmopolitan Shipping Co. v. McAllister,337 U.S. 783  (1949)	scotus	408441	104704	McAllister v. Cosmopolitan Shipping Co. (1948)	no	
+40	3	2	104704	103979	Cosmopolitan Shipping Co. v. McAllister,337 U.S. 783  (1949)	scotus	408441	104704	National Labor Relations Board v. Hearst Publications, Inc. (1944)	no	
+40	4	2	104704	104389	Cosmopolitan Shipping Co. v. McAllister,337 U.S. 783  (1949)	scotus	408441	104704	American Stevedores, Inc. v. Porello (1947)	no	
+40	5	2	104704	103761	Cosmopolitan Shipping Co. v. McAllister,337 U.S. 783  (1949)	scotus	408441	104704	Brady v. Roosevelt Steamship Co. (1943)	no	
+41	0	2	104610	103522	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Olsen v. Nebraska Ex Rel. Western Reference & Bond Assn., Inc. (1941)	no	
+41	1	2	104610	102784	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	West Coast Hotel Co. v. Parrish (1937)	no	
+41	2	2	104610	3648247	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	State v. . Whitaker (1947)	no	
+41	3	1	104610	104041	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Wallace Corp. v. National Labor Relations Board (1944)	no	
+41	4	1	104610	102167	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Home Building & Loan Assn. v. Blaisdell (1934)	no	
+41	5	1	104610	103342	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Veix v. Sixth Ward Building & Loan Assn. of Newark (1940)	no	
+41	6	1	104610	104191	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	East New York Savings Bank v. Hahn (1945)	no	
+41	7	1	104610	97368	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Chicago, Burlington & Quincy Railroad v. McGuire (1911)	no	
+41	8	1	104610	102614	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Bayside Fish Flour Co. v. Gentry (1936)	no	
+41	9	1	104610	98279	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Sage v. Hampe (1914)	no	
+41	10	1	104610	96764	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Adair v. United States (1908)	yes	
+41	11	1	104610	96276	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Lochner v. New York (1905)	no	
+41	12	1	104610	94631	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Allgeyer v. Louisiana (1897)	no	
+41	13	1	104610	98337	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Coppage v. Kansas (1915)	yes	
+41	14	1	104610	103344	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Osborn v. Ozlin (1940)	no	
+41	15	1	104610	98999	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Adams v. Tanner (1917)	no	
+41	16	1	104610	100246	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Chas. Wolff Packing Co. v. Court of Industrial Relations (1923)	no	
+41	17	1	104610	100628	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Chas. Wolff Packing Co. v. Court of Industrial Relations of Kansas (1925)	no	
+41	18	1	104610	102224	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Nebbia v. New York (1934)	no	
+41	19	1	104610	103442	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	United States v. Darby (1941)	no	
+41	20	1	104610	103518	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	Phelps Dodge Corp. v. National Labor Relations Board (1941)	no	
+41	21	1	104610	103870	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)	scotus	408409	104610	West Virginia State Board of Education v. Barnette (1943)	no	
+42	0	5	104641	102539	Oklahoma Tax Commission v. Texas Co.,336 U.S. 342  (1949)	scotus	113273	104641	Oklahoma Ex Rel. Oklahoma Tax Commission v. Barnsdall Refineries, Inc. (1936)	yes	
+42	1	4	104641	102986	Oklahoma Tax Commission v. Texas Co.,336 U.S. 342  (1949)	scotus	113273	104641	Helvering v. Mountain Producers Corp. (1938)	no	
+42	2	4	104641	98296	Oklahoma Tax Commission v. Texas Co.,336 U.S. 342  (1949)	scotus	113273	104641	Choctaw, Oklahoma & Gulf Railroad v. Harrison (1914)	yes	
+42	3	4	104641	102861	Oklahoma Tax Commission v. Texas Co.,336 U.S. 342  (1949)	scotus	113273	104641	James v. Dravo Contracting Co. (1937)	no	
+42	-	3	104641	98689	Oklahoma Tax Commission v. Texas Co.,336 U.S. 342  (1949)	scotus	113273	104641	Indian Territory Illuminating Oil Co. v. Oklahoma (1916)	yes	* not extracted
+42	-	0	104641	8181584	Oklahoma Tax Commission v. Texas Co.,336 U.S. 342  (1949)	scotus	113273	104641	Howard v. Gipsy Oil Co. (1918)	yes	* cite not in courtlistener
+42	-	0	104641	8181635	Oklahoma Tax Commission v. Texas Co.,336 U.S. 342  (1949)	scotus	113273	104641	Large Oil Co. v. Howard (1919)	yes	* cite not in courtlistener
+43	0	6	105014	98362	Joseph Burstyn, Inc. v. Wilson,343 U.S. 495  (1952)	scotus	408622	105014	Mutual Film Corp. v. Industrial Commission of Ohio (1915)	yes	
+43	1	4	105014	101773	Joseph Burstyn, Inc. v. Wilson,343 U.S. 495  (1952)	scotus	408622	105014	Near v. Minnesota Ex Rel. Olson (1931)	no	
+43	2	4	105014	102991	Joseph Burstyn, Inc. v. Wilson,343 U.S. 495  (1952)	scotus	408622	105014	Lovell v. City of Griffin (1938)	no	
+43	3	3	105014	104623	Joseph Burstyn, Inc. v. Wilson,343 U.S. 495  (1952)	scotus	408622	105014	Kovacs v. Cooper (1949)	no	
+43	4	3	105014	103355	Joseph Burstyn, Inc. v. Wilson,343 U.S. 495  (1952)	scotus	408622	105014	Cantwell v. Connecticut (1940)	no	
+43	5	3	105014	102601	Joseph Burstyn, Inc. v. Wilson,343 U.S. 495  (1952)	scotus	408622	105014	Grosjean v. American Press Co. (1936)	no	
+43	6	3	105014	2568568	Joseph Burstyn, Inc. v. Wilson,343 U.S. 495  (1952)	scotus	408622	105014	MATTER OF JOSEPH BURSTYN, INC. v. Wilson (1951)	no	
+44	0	2	104965	96482	Standard Oil Co. v. Peck,342 U.S. 382  (1952)	scotus	1163200	104965	Ayer & Lord Co. v. Commonwealth of Kentucky (1906)	yes	
+44	1	2	104965	93124	Standard Oil Co. v. Peck,342 U.S. 382  (1952)	scotus	1163200	104965	Pullman's Palace Car Co. v. Pennsylvania (1891)	no	
+44	2	2	104965	96299	Standard Oil Co. v. Peck,342 U.S. 382  (1952)	scotus	1163200	104965	Old Dominion Steamship Co. v. Virginia (1905)	yes	
+44	3	2	104965	96495	Standard Oil Co. v. Peck,342 U.S. 382  (1952)	scotus	1163200	104965	New York Ex Rel. New York Central & Hudson River Railroad v. Miller (1906)	no	
+44	4	2	104965	88336	Standard Oil Co. v. Peck,342 U.S. 382  (1952)	scotus	1163200	104965	St. Louis v. Ferry Co. (1871)	yes	
+44	5	2	104965	104628	Standard Oil Co. v. Peck,342 U.S. 382  (1952)	scotus	1163200	104965	Ott, Commissioner of Public Finance v. Mississippi Barge Line Co. (1949)	no	
+44	6	2	104965	103990	Standard Oil Co. v. Peck,342 U.S. 382  (1952)	scotus	1163200	104965	Northwest Airlines, Inc. v. Minnesota (1944)	no	
+44	7	2	104965	96335	Standard Oil Co. v. Peck,342 U.S. 382  (1952)	scotus	1163200	104965	Union Refrigerator Transit Co. v. Kentucky (1905)	no	
+45	0	5	105319	103173	Carroll v. Lanza,349 U.S. 408  (1955)	scotus	1554859	105319	Pacific Employers Insurance v. Industrial Accident Comm'n (1939)	no	
+45	1	5	105319	101915	Carroll v. Lanza,349 U.S. 408  (1955)	scotus	1554859	105319	Bradford Elec. Light Co. v. Clapper (1932)	yes	
+45	2	4	105319	102412	Carroll v. Lanza,349 U.S. 408  (1955)	scotus	1554859	105319	Broderick v. Rosner (1935)	no	
+45	3	4	105319	3526916	Carroll v. Lanza,349 U.S. 408  (1955)	scotus	1554859	105319	Bunner v. Patti (1938)	no	
+45	4	4	105319	104916	Carroll v. Lanza,349 U.S. 408  (1955)	scotus	1554859	105319	Hughes v. Fetter (1951)	no	
+46	0	13	105525	93107	Reid v. Covert,354 U.S. 1  (1957)	scotus	253455	105525	In Re Ross (1891)	no	
+46	1	9	105525	105326	Reid v. Covert,354 U.S. 1  (1957)	scotus	253455	105525	United States Ex Rel. Toth v. Quarles (1955)	no	
+46	2	6	105525	96130	Reid v. Covert,354 U.S. 1  (1957)	scotus	253455	105525	Dorr v. United States (1904)	no	
+46	3	6	105525	105412	Reid v. Covert,354 U.S. 1  (1957)	scotus	253455	105525	Kinsella v. Krueger (1956)	yes	
+46	4	5	105525	95504	Reid v. Covert,354 U.S. 1  (1957)	scotus	253455	105525	Downes v. Bidwell (1901)	no	
+46	5	5	105525	95894	Reid v. Covert,354 U.S. 1  (1957)	scotus	253455	105525	Hawaii v. Mankichi (1903)	no	
+46	6	5	105525	85272	Reid v. Covert,354 U.S. 1  (1957)	scotus	253455	105525	M'culloch v. State of Maryland (1819)	no	
+46	7	5	105525	2181793	Reid v. Covert,354 U.S. 1  (1957)	scotus	253455	105525	In Re Di Bartolo (1943)	no	
+46	8	5	105525	105004	Reid v. Covert,354 U.S. 1  (1957)	scotus	253455	105525	Madsen v. Kinsella (1952)	no	
+46	9	5	105525	1528394	Reid v. Covert,354 U.S. 1  (1957)	scotus	253455	105525	Ex Parte Milligan (1867)	no	
+46	10	5	105525	99954	Reid v. Covert,354 U.S. 1  (1957)	scotus	253455	105525	Balzac v. Porto Rico (1922)	no	
+46	-	0	105525	105413	Reid v. Covert,354 U.S. 1  (1957)	scotus	253455	105525	Reid v. Covert, 351 U.S. 487 (1956)	yes	* cite not in courtlistener
+47	0	5	105543	103736	Vanderbilt v. Vanderbilt,354 U.S. 416  (1957)	scotus	1507220	105543	Williams v. North Carolina (1943)	no	
+47	1	4	105543	89656	Vanderbilt v. Vanderbilt,354 U.S. 416  (1957)	scotus	1507220	105543	Pennoyer v. Neff (1878)	no	
+47	2	3	105543	97747	Vanderbilt v. Vanderbilt,354 U.S. 416  (1957)	scotus	1507220	105543	Thompson v. Thompson (1913)	yes	
+47	3	3	105543	104568	Vanderbilt v. Vanderbilt,354 U.S. 416  (1957)	scotus	1507220	105543	Estin v. Estin (1948)	no	
+48	0	18	106235	104252	James v. United States,366 U.S. 213  (1961)	scotus	1556001	106235	Commissioner v. Wilcox (1946)	no	
+48	1	7	106235	104992	James v. United States,366 U.S. 213  (1961)	scotus	1556001	106235	Rutkin v. United States (1952)	no	
+48	2	5	106235	1495711	James v. United States,366 U.S. 213  (1961)	scotus	1556001	106235	McKnight v. Commissioner of Internal Revenue (1942)	no	
+48	3	5	106235	101568	James v. United States,366 U.S. 213  (1961)	scotus	1556001	106235	Corliss v. Bowers (1930)	no	
+48	4	5	106235	101083	James v. United States,366 U.S. 213  (1961)	scotus	1556001	106235	United States v. Sullivan (1927)	no	
+48	5	5	106235	103292	James v. United States,366 U.S. 213  (1961)	scotus	1556001	106235	Helvering v. Hallock (1940)	no	
+48	6	4	106235	101937	James v. United States,366 U.S. 213  (1961)	scotus	1556001	106235	North American Oil Consolidated v. Burnet (1932)	no	
+48	7	4	106235	104867	James v. United States,366 U.S. 213  (1961)	scotus	1556001	106235	United States v. Lewis (1951)	no	
+49	0	14	106285	104709	Mapp v. Ohio,367 U.S. 643  (1961)	scotus	2043318	106285	Wolf v. Colorado (1949)	yes	
+49	1	10	106285	3580565	Mapp v. Ohio,367 U.S. 643  (1961)	scotus	2043318	106285	People v. Defore (1926)	no	
+49	2	7	106285	104943	Mapp v. Ohio,367 U.S. 643  (1961)	scotus	2043318	106285	Rochin v. California (1952)	no	
+49	3	7	106285	106107	Mapp v. Ohio,367 U.S. 643  (1961)	scotus	2043318	106285	Elkins v. United States (1960)	no	
+49	4	6	106285	98094	Mapp v. Ohio,367 U.S. 643  (1961)	scotus	2043318	106285	Weeks v. United States (1914)	no	
+49	5	6	106285	105194	Mapp v. Ohio,367 U.S. 643  (1961)	scotus	2043318	106285	Irvine v. California (1954)	no	
+49	6	4	106285	1237532	Mapp v. Ohio,367 U.S. 643  (1961)	scotus	2043318	106285	People v. Cahan (1955)	no	
+49	7	4	106285	91573	Mapp v. Ohio,367 U.S. 643  (1961)	scotus	2043318	106285	Boyd v. United States (1886)	no	
+50	0	3	106576	100181	Ferguson v. Skrupa,372 U.S. 726  (1963)	scotus	1507832	106576	Adkins v. Children's Hospital of Columbia (1923)	no	
+50	1	2	106576	96276	Ferguson v. Skrupa,372 U.S. 726  (1963)	scotus	1507832	106576	Lochner v. New York (1905)	no	
+50	2	2	106576	101029	Ferguson v. Skrupa,372 U.S. 726  (1963)	scotus	1507832	106576	Tyson & Brother v. Banton (1927)	no	
+50	3	2	106576	103522	Ferguson v. Skrupa,372 U.S. 726  (1963)	scotus	1507832	106576	Olsen v. Nebraska Ex Rel. Western Reference & Bond Assn., Inc. (1941)	no	
+50	4	2	106576	101935	Ferguson v. Skrupa,372 U.S. 726  (1963)	scotus	1507832	106576	Sproles v. Binford (1932)	no	
+50	5	2	106576	104610	Ferguson v. Skrupa,372 U.S. 726  (1963)	scotus	1507832	106576	Lincoln Federal Labor Union v. Northwestern Iron & Metal Co. (1949)	no	
+50	6	2	106576	105285	Ferguson v. Skrupa,372 U.S. 726  (1963)	scotus	1507832	106576	Williamson v. Lee Optical of Oklahoma, Inc. (1955)	no	
+50	7	2	106576	2093296	Ferguson v. Skrupa,372 U.S. 726  (1963)	scotus	1507832	106576	Home Budget Service, Inc. v. Boston Bar Association (1957)	no	
+50	-	1	106576	98999	Ferguson v. Skrupa,372 U.S. 726  (1963)	scotus	1507832	106576	Adams v. Tanner (1917)	yes	* not extracted
+51	0	7	106883	106545	Escobedo v. Illinois,378 U.S. 478  (1964)	scotus	2472190	106883	Gideon v. Wainwright (1963)	no	
+51	1	6	106883	2193029	Escobedo v. Illinois,378 U.S. 478  (1964)	scotus	2472190	106883	The PEOPLE v. Escobedo (1963)	no	
+51	2	6	106883	106822	Escobedo v. Illinois,378 U.S. 478  (1964)	scotus	2472190	106883	Massiah v. United States (1964)	no	
+51	3	5	106883	105750	Escobedo v. Illinois,378 U.S. 478  (1964)	scotus	2472190	106883	Cicenia v. Lagay (1958)	yes	
+51	4	5	106883	106595	Escobedo v. Illinois,378 U.S. 478  (1964)	scotus	2472190	106883	White v. Maryland (1963)	no	
+51	5	5	106883	105917	Escobedo v. Illinois,378 U.S. 478  (1964)	scotus	2472190	106883	Spano v. New York (1959)	no	
+51	6	4	106883	105745	Escobedo v. Illinois,378 U.S. 478  (1964)	scotus	2472190	106883	Crooker v. California (1958)	yes	
+51	7	4	106883	106300	Escobedo v. Illinois,378 U.S. 478  (1964)	scotus	2472190	106883	Hamilton v. Alabama (1961)	no	
+52	0	8	107121	105848	Harris v. United States,382 U.S. 162  (1965)	scotus	131808	107121	Brown v. United States (1959)	yes	
+52	1	2	107121	268056	Harris v. United States,382 U.S. 162  (1965)	scotus	131808	107121	United States v. Andimo Pappadio (1965)	no	
+52	2	2	107121	267423	Harris v. United States,382 U.S. 162  (1965)	scotus	131808	107121	United States v. Carmine Tramunti (1965)	no	
+52	3	2	107121	92334	Harris v. United States,382 U.S. 162  (1965)	scotus	131808	107121	Ex Parte Terry (1888)	no	
+52	4	2	107121	106057	Harris v. United States,382 U.S. 162  (1965)	scotus	131808	107121	Levine v. United States (1960)	no	
+52	5	2	107121	266063	Harris v. United States,382 U.S. 162  (1965)	scotus	131808	107121	United States v. Anthony Castaldi (1964)	no	
+52	6	2	107121	267864	Harris v. United States,382 U.S. 162  (1965)	scotus	131808	107121	United States v. Salvatore Shillitani (1965)	no	
+53	0	13	107081	104790	United States v. Brown,381 U.S. 437  (1965)	scotus	195151	107081	American Communications Assn. v. Douds (1950)	yes	
+53	1	9	107081	106267	United States v. Brown,381 U.S. 437  (1965)	scotus	195151	107081	Communist Party of United States v. Subversive Activities Control Bd. (1961)	no	
+53	2	5	107081	104353	United States v. Brown,381 U.S. 437  (1965)	scotus	195151	107081	Board of Governors of the Federal Reserve System v. Agnew (1947)	no	
+53	3	5	107081	87778	United States v. Brown,381 U.S. 437  (1965)	scotus	195151	107081	Cummings v. Missouri (1867)	no	
+53	4	5	107081	104303	United States v. Brown,381 U.S. 437  (1965)	scotus	195151	107081	United States v. Lovett (1946)	no	
+53	5	4	107081	94855	United States v. Brown,381 U.S. 437  (1965)	scotus	195151	107081	Hawker v. New York (1898)	no	
+53	6	4	107081	106534	United States v. Brown,381 U.S. 437  (1965)	scotus	195151	107081	Kennedy v. Mendoza-Martinez (1963)	no	
+54	0	15	107252	106625	Miranda v. Arizona,384 U.S. 436  (1966)	scotus	1434683	107252	Haynes v. Washington (1963)	no	
+54	1	10	107252	94782	Miranda v. Arizona,384 U.S. 436  (1966)	scotus	1434683	107252	Bram v. United States (1897)	no	
+54	2	7	107252	106883	Miranda v. Arizona,384 U.S. 436  (1966)	scotus	1434683	107252	Escobedo v. Illinois (1964)	no	
+54	3	7	107252	106862	Miranda v. Arizona,384 U.S. 436  (1966)	scotus	1434683	107252	Malloy v. Hogan (1964)	no	
+54	4	6	107252	105745	Miranda v. Arizona,384 U.S. 436  (1966)	scotus	1434683	107252	Crooker v. California (1958)	yes	
+54	5	6	107252	103981	Miranda v. Arizona,384 U.S. 436  (1966)	scotus	1434683	107252	Ashcraft v. Tennessee (1944)	no	
+54	6	5	107252	106558	Miranda v. Arizona,384 U.S. 436  (1966)	scotus	1434683	107252	Lynumn v. Illinois (1963)	no	
+54	7	5	107252	100471	Miranda v. Arizona,384 U.S. 436  (1966)	scotus	1434683	107252	Ziang Sung Wan v. United States (1924)	no	
+54	8	5	107252	104108	Miranda v. Arizona,384 U.S. 436  (1966)	scotus	1434683	107252	Malinski v. New York (1945)	no	
+54	9	5	107252	91057	Miranda v. Arizona,384 U.S. 436  (1966)	scotus	1434683	107252	Hopt v. People of Territory of Utah (1884)	no	
+54	-	4	107252	105750	Miranda v. Arizona,384 U.S. 436  (1966)	scotus	1434683	107252	Cicenia v. Lagay (1958)	yes	* not extracted
+55	0	8	107464	105658	Afroyim v. Rusk,387 U.S. 253  (1967)	scotus	1632799	107464	Perez v. Brownell (1958)	yes	
+55	1	2	107464	94842	Afroyim v. Rusk,387 U.S. 253  (1967)	scotus	1632799	107464	United States v. Wong Kim Ark (1898)	no	
+55	2	2	107464	91470	Afroyim v. Rusk,387 U.S. 253  (1967)	scotus	1632799	107464	Kurtz v. Moffitt (1885)	no	
+55	3	2	107464	105659	Afroyim v. Rusk,387 U.S. 253  (1967)	scotus	1632799	107464	Trop v. Dulles (1958)	no	
+55	4	2	107464	98579	Afroyim v. Rusk,387 U.S. 253  (1967)	scotus	1632799	107464	MacKenzie v. Hare (1915)	no	
+56	0	7	107473	105880	Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)	scotus	1119480	107473	Frank v. Maryland (1959)	yes	
+56	1	5	107473	106109	Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)	scotus	1119480	107473	Ohio Ex Rel. Eaton v. Price (1960)	no	
+56	2	2	107473	106641	Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)	scotus	1119480	107473	Ker v. California (1963)	no	
+56	3	2	107473	2305304	Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)	scotus	1119480	107473	Givner v. State (1956)	no	
+56	4	2	107473	106777	Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)	scotus	1119480	107473	Stoner v. California (1964)	no	
+56	5	2	107473	104605	Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)	scotus	1119480	107473	McDonald v. United States (1948)	no	
+56	6	2	107473	2062881	Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)	scotus	1119480	107473	Paquette v. City of Fall River (1959)	no	
+56	7	2	107473	2008391	Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)	scotus	1119480	107473	Commonwealth v. Hadley (1966)	no	
+56	8	2	107473	3620827	Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)	scotus	1119480	107473	Adamec v. Post (1937)	no	
+56	9	2	107473	107262	Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)	scotus	1119480	107473	Schmerber v. California (1966)	no	
+57	0	12	107564	107483	Katz v. United States,389 U.S. 347  (1967)	scotus	203204	107564	Berger v. New York (1967)	no	
+57	1	6	107564	107465	Katz v. United States,389 U.S. 347  (1967)	scotus	203204	107564	Warden, Maryland Penitentiary v. Hayden (1967)	no	
+57	2	6	107564	106187	Katz v. United States,389 U.S. 347  (1967)	scotus	203204	107564	Silverman v. United States (1961)	no	
+57	3	5	107564	106622	Katz v. United States,389 U.S. 347  (1967)	scotus	203204	107564	Lopez v. United States (1963)	no	
+57	4	5	107564	106641	Katz v. United States,389 U.S. 347  (1967)	scotus	203204	107564	Ker v. California (1963)	no	
+57	5	4	107564	106108	Katz v. United States,389 U.S. 347  (1967)	scotus	203204	107564	Rios v. United States (1960)	no	
+57	6	4	107564	2443377	Katz v. United States,389 U.S. 347  (1967)	scotus	203204	107564	Goldman v. United States (1942)	yes	
+57	-	0	107564	101320	Katz v. United States,389 U.S. 347  (1967)	scotus	203204	107564	Olmstead v. United States (1928)	yes	* cite not in courtlistener
+58	0	7	107343	104974	Keyishian v. Board of Regents,385 U.S. 589  (1967)	scotus	265986	107343	Adler v. Board of Ed. of City of New York (1952)	yes	
+58	1	7	107343	106837	Keyishian v. Board of Regents,385 U.S. 589  (1967)	scotus	265986	107343	Baggett v. Bullitt (1964)	no	
+58	2	5	107343	107210	Keyishian v. Board of Regents,385 U.S. 589  (1967)	scotus	265986	107343	Elfbrandt v. Russell (1966)	no	
+58	3	4	107343	106514	Keyishian v. Board of Regents,385 U.S. 589  (1967)	scotus	265986	107343	National Ass'n for the Advancement of Colored People v. Button (1963)	no	
+58	4	4	107343	105751	Keyishian v. Board of Regents,385 U.S. 589  (1967)	scotus	265986	107343	Speiser v. Randall (1958)	no	
+58	5	4	107343	106142	Keyishian v. Board of Regents,385 U.S. 589  (1967)	scotus	265986	107343	Shelton v. Tucker (1960)	no	
+58	6	4	107343	105537	Keyishian v. Board of Regents,385 U.S. 589  (1967)	scotus	265986	107343	Yates v. United States (1957)	no	
+58	7	4	107343	106311	Keyishian v. Board of Regents,385 U.S. 589  (1967)	scotus	265986	107343	Cramp v. Board of Public Instruction of Orange Cty. (1961)	no	
+59	0	5	107689	106050	Carafas v. LaVallee,391 U.S. 234  (1968)	scotus	473228	107689	Parker v. Ellis (1960)	yes	
+59	1	3	107689	264986	Carafas v. LaVallee,391 U.S. 234  (1968)	scotus	473228	107689	United States of America Ex Rel. James P. Carafas v. J. Edwin Lavallee, Warden, Auburn Prison, Auburn, New York (1964)	no	
+59	2	2	107689	107408	Carafas v. LaVallee,391 U.S. 234  (1968)	scotus	473228	107689	Nowakowski v. Maroney (1967)	no	
+59	3	1	107689	104336	Carafas v. LaVallee,391 U.S. 234  (1968)	scotus	473228	107689	Fiswick v. United States (1946)	no	
+59	4	1	107689	265136	Carafas v. LaVallee,391 U.S. 234  (1968)	scotus	473228	107689	Nathan Thomas v. W. K. Cunningham, Jr., Superintendent of the Virginia State Penitentiary (1964)	no	
+59	5	1	107689	107084	Carafas v. LaVallee,391 U.S. 234  (1968)	scotus	473228	107689	Linkletter v. Walker (1965)	no	
+59	6	1	107689	106285	Carafas v. LaVallee,391 U.S. 234  (1968)	scotus	473228	107689	Mapp v. Ohio (1961)	no	
+59	7	1	107689	107663	Carafas v. LaVallee,391 U.S. 234  (1968)	scotus	473228	107689	Ginsberg v. New York (1968)	no	
+59	8	1	107689	95249	Carafas v. LaVallee,391 U.S. 234  (1968)	scotus	473228	107689	Ex Parte Baez (1900)	no	
+59	9	1	107689	1425143	Carafas v. LaVallee,391 U.S. 234  (1968)	scotus	473228	107689	United States Ex Rel. Rivera v. Reeves (1965)	no	
+59	10	1	107689	105176	Carafas v. LaVallee,391 U.S. 234  (1968)	scotus	473228	107689	United States v. Morgan (1954)	no	
+59	11	1	107689	107631	Carafas v. LaVallee,391 U.S. 234  (1968)	scotus	473228	107689	Walker v. Wainwright (1968)	no	
+59	12	1	107689	105722	Carafas v. LaVallee,391 U.S. 234  (1968)	scotus	473228	107689	Eskridge v. Washington State Board of Prison Terms & Paroles (1958)	no	
+59	13	1	107689	103486	Carafas v. LaVallee,391 U.S. 234  (1968)	scotus	473228	107689	Ex Parte Hull (1941)	no	
+60	0	8	107685	102879	Duncan v. Louisiana,391 U.S. 145  (1968)	scotus	681195	107685	Palko v. Connecticut (1937)	no	
+60	1	8	107685	106862	Duncan v. Louisiana,391 U.S. 145  (1968)	scotus	681195	107685	Malloy v. Hogan (1964)	no	
+60	2	6	107685	107014	Duncan v. Louisiana,391 U.S. 145  (1968)	scotus	681195	107685	Pointer v. Texas (1965)	no	
+60	3	6	107685	1236300	Duncan v. Louisiana,391 U.S. 145  (1968)	scotus	681195	107685	Powell v. Alabama (1932)	no	
+60	4	5	107685	102801	Duncan v. Louisiana,391 U.S. 145  (1968)	scotus	681195	107685	District of Columbia v. Clawans (1937)	no	
+60	5	5	107685	106545	Duncan v. Louisiana,391 U.S. 145  (1968)	scotus	681195	107685	Gideon v. Wainwright (1963)	no	
+60	6	5	107685	95204	Duncan v. Louisiana,391 U.S. 145  (1968)	scotus	681195	107685	Maxwell v. Dow (1900)	yes	
+60	7	4	107685	106259	Duncan v. Louisiana,391 U.S. 145  (1968)	scotus	681195	107685	Irvin v. Dowd (1961)	no	
+61	0	7	107746	105055	Lee v. Florida,392 U.S. 378  (1968)	scotus	1016314	107746	Schwartz v. Texas (1952)	yes	
+61	1	6	107746	104709	Lee v. Florida,392 U.S. 378  (1968)	scotus	1016314	107746	Wolf v. Colorado (1949)	no	
+61	2	5	107746	102883	Lee v. Florida,392 U.S. 378  (1968)	scotus	1016314	107746	Nardone v. United States (1937)	no	
+61	3	4	107746	98094	Lee v. Florida,392 U.S. 378  (1968)	scotus	1016314	107746	Weeks v. United States (1914)	no	
+61	4	4	107746	106107	Lee v. Florida,392 U.S. 378  (1968)	scotus	1016314	107746	Elkins v. United States (1960)	no	
+62	0	6	107606	104585	Marchetti v. United States,390 U.S. 39  (1968)	scotus	68615	107606	Shapiro v. United States (1948)	no	
+62	1	4	107606	105090	Marchetti v. United States,390 U.S. 39  (1968)	scotus	68615	107606	United States v. Kahriger (1953)	yes	
+62	2	4	107606	101083	Marchetti v. United States,390 U.S. 39  (1968)	scotus	68615	107606	United States v. Sullivan (1927)	no	
+62	3	3	107606	105280	Marchetti v. United States,390 U.S. 39  (1968)	scotus	68615	107606	Lewis v. United States (1955)	yes	
+62	4	3	107606	107110	Marchetti v. United States,390 U.S. 39  (1968)	scotus	68615	107606	Albertson v. Subversive Activities Control Board (1966)	no	
+62	5	3	107606	106864	Marchetti v. United States,390 U.S. 39  (1968)	scotus	68615	107606	Murphy v. Waterfront Commission of New York Harbor (1964)	no	
+63	0	6	107679	102317	Peyton v. Rowe,391 U.S. 54  (1968)	scotus	379337	107679	McNally v. Hill (1934)	yes	
+63	1	4	107679	106507	Peyton v. Rowe,391 U.S. 54  (1968)	scotus	379337	107679	Jones v. Cunningham (1963)	no	
+63	2	4	107679	100122	Peyton v. Rowe,391 U.S. 54  (1968)	scotus	379337	107679	Moore v. Dempsey (1923)	no	
+63	3	4	107679	106548	Peyton v. Rowe,391 U.S. 54  (1968)	scotus	379337	107679	Fay v. Noia (1963)	no	
+64	0	6	107980	107685	Benton v. Maryland,395 U.S. 784  (1969)	scotus	18149	107980	Duncan v. Louisiana (1968)	no	
+64	1	6	107980	102879	Benton v. Maryland,395 U.S. 784  (1969)	scotus	18149	107980	Palko v. Connecticut (1937)	yes	
+64	2	4	107980	94515	Benton v. Maryland,395 U.S. 784  (1969)	scotus	18149	107980	United States v. Ball (1896)	no	
+64	3	4	107980	107730	Benton v. Maryland,395 U.S. 784  (1969)	scotus	18149	107980	Sibron v. New York (1968)	no	
+64	4	4	107980	106862	Benton v. Maryland,395 U.S. 784  (1969)	scotus	18149	107980	Malloy v. Hogan (1964)	no	
+65	0	6	107965	104914	Brandenburg v. Ohio,395 U.S. 444  (1969)	scotus	346464	107965	Dennis v. United States (1951)	no	
+65	1	3	107965	102821	Brandenburg v. Ohio,395 U.S. 444  (1969)	scotus	346464	107965	Herndon v. Lowry (1937)	no	
+65	2	3	107965	105537	Brandenburg v. Ohio,395 U.S. 444  (1969)	scotus	346464	107965	Yates v. United States (1957)	no	
+65	3	3	107965	99321	Brandenburg v. Ohio,395 U.S. 444  (1969)	scotus	346464	107965	Frohwerk v. United States (1919)	no	
+65	4	3	107965	99322	Brandenburg v. Ohio,395 U.S. 444  (1969)	scotus	346464	107965	Debs v. United States (1919)	no	
+65	-	2	107965	101097	Brandenburg v. Ohio,395 U.S. 444  (1969)	scotus	346464	107965	Whitney v. California (1927)	yes	* not extracted
+66	0	12	107979	104769	Chimel v. California,395 U.S. 752  (1969)	scotus	1507658	107979	United States v. Rabinowitz (1950)	yes	
+66	1	6	107979	106641	Chimel v. California,395 U.S. 752  (1969)	scotus	1507658	107979	Ker v. California (1963)	no	
+66	2	6	107979	106021	Chimel v. California,395 U.S. 752  (1969)	scotus	1507658	107979	Abel v. United States (1960)	no	
+66	3	6	107979	98094	Chimel v. California,395 U.S. 752  (1969)	scotus	1507658	107979	Weeks v. United States (1914)	no	
+66	4	5	107979	104576	Chimel v. California,395 U.S. 752  (1969)	scotus	1507658	107979	Trupiano v. United States (1948)	no	
+66	5	5	107979	101164	Chimel v. California,395 U.S. 752  (1969)	scotus	1507658	107979	Marron v. United States (1927)	no	
+66	6	5	107979	101643	Chimel v. California,395 U.S. 752  (1969)	scotus	1507658	107979	Go-Bart Importing Co. v. United States (1931)	no	
+66	7	5	107979	107729	Chimel v. California,395 U.S. 752  (1969)	scotus	1507658	107979	Terry v. Ohio (1968)	no	
+66	8	5	107979	100567	Chimel v. California,395 U.S. 752  (1969)	scotus	1507658	107979	Carroll v. United States (1925)	no	
+66	9	5	107979	104422	Chimel v. California,395 U.S. 752  (1969)	scotus	1507658	107979	Harris v. United States (1947)	yes	
+67	0	21	107748	90897	Jones v. Alfred H. Mayer Co.,392 U.S. 409  (1969)	scotus	46388	107748	Civil Rights Cases (1883)	no	
+67	1	10	107748	104546	Jones v. Alfred H. Mayer Co.,392 U.S. 409  (1969)	scotus	46388	107748	Hurd v. Hodge (1948)	no	
+67	2	6	107748	1447641	Jones v. Alfred H. Mayer Co.,392 U.S. 409  (1969)	scotus	46388	107748	Hodges v. United States (1906)	yes	
+67	3	4	107748	100887	Jones v. Alfred H. Mayer Co.,392 U.S. 409  (1969)	scotus	46388	107748	Corrigan v. Buckley (1926)	no	
+67	4	4	107748	90040	Jones v. Alfred H. Mayer Co.,392 U.S. 409  (1969)	scotus	46388	107748	Virginia v. Rives (1880)	no	
+68	0	9	107973	1178568	Lear, Inc. v. Adkins,395 U.S. 653  (1969)	scotus	101769	107973	Adkins v. Lear, Inc. (1967)	no	
+68	1	3	107973	106758	Lear, Inc. v. Adkins,395 U.S. 653  (1969)	scotus	101769	107973	Compco Corp. v. Day-Brite Lighting, Inc. (1964)	no	
+68	2	2	107973	104816	Lear, Inc. v. Adkins,395 U.S. 653  (1969)	scotus	101769	107973	Automatic Radio Mfg. Co., Inc. v. Hazeltine Research, Inc (1950)	yes	
+68	3	2	107973	106757	Lear, Inc. v. Adkins,395 U.S. 653  (1969)	scotus	101769	107973	Sears, Roebuck & Co. v. Stiffel Co. (1964)	no	
+68	4	2	107973	100520	Lear, Inc. v. Adkins,395 U.S. 653  (1969)	scotus	101769	107973	Westinghouse Electric & Manufacturing Co. v. Formica Insulation Co. (1924)	no	
+68	5	2	107973	104194	Lear, Inc. v. Adkins,395 U.S. 653  (1969)	scotus	101769	107973	Scott Paper Co. v. Marcalus Manufacturing Co. (1945)	no	
+68	6	2	107973	103320	Lear, Inc. v. Adkins,395 U.S. 653  (1969)	scotus	101769	107973	McGoldrick v. Compagnie Generale Transatlantique (1940)	no	
+68	7	2	107973	104256	Lear, Inc. v. Adkins,395 U.S. 653  (1969)	scotus	101769	107973	Wilson v. Cook (1946)	no	
+68	8	2	107973	106930	Lear, Inc. v. Adkins,395 U.S. 653  (1969)	scotus	101769	107973	Brulotte v. Thys Co. (1964)	no	
+69	0	5	107919	106850	Moore v. Ogilvie,394 U.S. 814  (1969)	scotus	1507608	107919	Reynolds v. Sims (1964)	no	
+69	1	5	107919	104593	Moore v. Ogilvie,394 U.S. 814  (1969)	scotus	1507608	107919	MacDougall v. Green (1948)	yes	
+69	2	3	107919	107449	Moore v. Ogilvie,394 U.S. 814  (1969)	scotus	1507608	107919	Dusch v. Davis (1967)	no	
+69	3	2	107919	104311	Moore v. Ogilvie,394 U.S. 814  (1969)	scotus	1507608	107919	Colegrove v. Green (1946)	no	
+69	4	2	107919	106366	Moore v. Ogilvie,394 U.S. 814  (1969)	scotus	1507608	107919	Baker v. Carr (1962)	no	
+70	0	15	108114	105687	Ashe v. Swenson,397 U.S. 436  (1970)	scotus	287659	108114	Hoag v. New Jersey (1958)	yes	
+70	1	4	108114	105860	Ashe v. Swenson,397 U.S. 436  (1970)	scotus	287659	108114	Abbate v. United States (1959)	no	
+70	2	4	108114	107978	Ashe v. Swenson,397 U.S. 436  (1970)	scotus	287659	108114	North Carolina v. Pearce (1969)	no	
+70	3	4	108114	107980	Ashe v. Swenson,397 U.S. 436  (1970)	scotus	287659	108114	Benton v. Maryland (1969)	no	
+70	4	4	108114	105594	Ashe v. Swenson,397 U.S. 436  (1970)	scotus	287659	108114	Green v. United States (1957)	no	
+71	0	7	108154	106432	Boys Markets, Inc. v. Retail Clerk’s Union,398 U.S. 235  (1970)	scotus	442901	108154	Sinclair Refining Co. v. Atkinson (1962)	yes	
+71	1	6	108154	105511	Boys Markets, Inc. v. Retail Clerk’s Union,398 U.S. 235  (1970)	scotus	442901	108154	Textile Workers v. Lincoln Mills of Ala. (1957)	no	
+71	2	5	108154	107655	Boys Markets, Inc. v. Retail Clerk’s Union,398 U.S. 235  (1970)	scotus	442901	108154	Avco Corp. v. Aero Lodge No. 735, International Ass'n of MacHinists & Aerospace Workers (1968)	no	
+71	3	3	108154	103292	Boys Markets, Inc. v. Retail Clerk’s Union,398 U.S. 235  (1970)	scotus	442901	108154	Helvering v. Hallock (1940)	no	
+72	0	5	108164	105594	Price v. Georgia,398 U.S. 323  (1970)	scotus	392187	108164	Green v. United States (1957)	no	
+72	1	3	108164	1276937	Price v. Georgia,398 U.S. 323  (1970)	scotus	392187	108164	Price v. State (1968)	no	
+72	2	3	108164	97237	Price v. Georgia,398 U.S. 323  (1970)	scotus	392187	108164	Brantley v. Georgia (1910)	yes	
+72	3	2	108164	94515	Price v. Georgia,398 U.S. 323  (1970)	scotus	392187	108164	United States v. Ball (1896)	no	
+72	4	2	108164	1395638	Price v. Georgia,398 U.S. 323  (1970)	scotus	392187	108164	Price v. State (1968)	no	
+72	5	2	108164	268703	Price v. Georgia,398 U.S. 323  (1970)	scotus	392187	108164	 (1965)	no	
+73	0	14	108186	107685	Williams v. Florida,399 U.S. 78  (1970)	scotus	2459177	108186	Duncan v. Louisiana (1968)	no	
+73	1	6	108186	94866	Williams v. Florida,399 U.S. 78  (1970)	scotus	2459177	108186	Thompson v. Utah (1898)	yes	
+73	2	6	108186	95043	Williams v. Florida,399 U.S. 78  (1970)	scotus	2459177	108186	Capital Traction Co. v. Hof (1899)	no	
+73	3	6	108186	106862	Williams v. Florida,399 U.S. 78  (1970)	scotus	2459177	108186	Malloy v. Hogan (1964)	no	
+73	4	4	108186	96270	Williams v. Florida,399 U.S. 78  (1970)	scotus	2459177	108186	Rassmussen v. United States (1905)	no	
+73	5	4	108186	92280	Williams v. Florida,399 U.S. 78  (1970)	scotus	2459177	108186	Callan v. Wilson (1888)	no	
+73	6	4	108186	106641	Williams v. Florida,399 U.S. 78  (1970)	scotus	2459177	108186	Ker v. California (1963)	no	
+73	7	4	108186	102801	Williams v. Florida,399 U.S. 78  (1970)	scotus	2459177	108186	District of Columbia v. Clawans (1937)	no	
+73	8	4	108186	107486	Williams v. Florida,399 U.S. 78  (1970)	scotus	2459177	108186	United States v. Wade (1967)	no	
+74	0	6	108362	90728	Griffin v. Breckenridge,403 U.S. 88  (1971)	scotus	92633	108362	United States v. Harris (1883)	no	
+74	1	3	108362	107201	Griffin v. Breckenridge,403 U.S. 88  (1971)	scotus	92633	108362	United States v. Guest (1966)	no	
+74	2	3	108362	107748	Griffin v. Breckenridge,403 U.S. 88  (1971)	scotus	92633	108362	Jones v. Alfred H. Mayer Co. (1968)	no	
+74	3	3	108362	96885	Griffin v. Breckenridge,403 U.S. 88  (1971)	scotus	92633	108362	Twining v. New Jersey (1908)	no	
+74	-	0	108362	104918	Griffin v. Breckenridge,403 U.S. 88  (1971)	scotus	92633	108362	Collins v. Hardyman, 341 U.S. 651 (1951)	yes	* cite not in courtlistener
+75	0	9	108350	103548	Perez v. Campbell,402 U.S. 637  (1971)	scotus	442430	108350	Reitz v. Mealey (1941)	yes	
+75	1	7	108350	1198518	Perez v. Campbell,402 U.S. 637  (1971)	scotus	442430	108350	Schecter v. Killingsworth (1963)	no	
+75	2	5	108350	288328	Perez v. Campbell,402 U.S. 637  (1971)	scotus	442430	108350	 (1970)	no	
+75	3	5	108350	106365	Perez v. Campbell,402 U.S. 637  (1971)	scotus	442430	108350	Kesler v. Department of Public Safety of Utah (1962)	yes	
+75	4	4	108350	100616	Perez v. Campbell,402 U.S. 637  (1971)	scotus	442430	108350	Lewis v. Roberts (1925)	no	
+76	0	12	108730	104590	Braden v. 30th Judicial Circuit Court,410 U.S. 484  (1973)	scotus	414828	108730	Ahrens v. Clark (1948)	yes	
+76	1	11	108730	107824	Braden v. 30th Judicial Circuit Court,410 U.S. 484  (1973)	scotus	414828	108730	Smith v. Hooey (1969)	no	
+76	2	10	108730	107679	Braden v. 30th Judicial Circuit Court,410 U.S. 484  (1973)	scotus	414828	108730	Peyton v. Rowe (1968)	no	
+76	3	6	108730	91598	Braden v. 30th Judicial Circuit Court,410 U.S. 484  (1973)	scotus	414828	108730	Ex Parte Royall (1886)	no	
+76	4	5	108730	108193	Braden v. 30th Judicial Circuit Court,410 U.S. 484  (1973)	scotus	414828	108730	Nelson v. George (1970)	no	
+77	0	5	108721	102839	Lehnhausen v. Lake Shore Auto Parts Co.,410 U.S. 356  (1973)	scotus	239783	108721	Carmichael v. Southern Coal & Coke Co. (1937)	no	
+77	1	4	108721	2042261	Lehnhausen v. Lake Shore Auto Parts Co.,410 U.S. 356  (1973)	scotus	239783	108721	Lake Shore Auto Parts Co. v. Korzen (1971)	no	
+77	2	4	108721	103290	Lehnhausen v. Lake Shore Auto Parts Co.,410 U.S. 356  (1973)	scotus	239783	108721	Madden v. Kentucky Ex Rel. Commissioner (1940)	no	
+77	3	3	108721	97378	Lehnhausen v. Lake Shore Auto Parts Co.,410 U.S. 356  (1973)	scotus	239783	108721	Flint v. Stone Tracy Co. (1911)	no	
+77	4	3	108721	101317	Lehnhausen v. Lake Shore Auto Parts Co.,410 U.S. 356  (1973)	scotus	239783	108721	Quaker City Cab Co. v. Commonwealth of Pennsylvania (1928)	yes	
+78	0	5	108889	101340	North Dakota State Board of Pharmacy v. Snyder’s Drug Stores, Inc.,414 U.S. 156  (1973)	scotus	443532	108889	Louis K. Liggett Co. v. Baldridge (1928)	yes	
+78	1	3	108889	107235	North Dakota State Board of Pharmacy v. Snyder’s Drug Stores, Inc.,414 U.S. 156  (1973)	scotus	443532	108889	Mills v. Alabama (1966)	no	
+78	2	3	108889	86449	North Dakota State Board of Pharmacy v. Snyder’s Drug Stores, Inc.,414 U.S. 156  (1973)	scotus	443532	108889	Forgay v. Conrad (1848)	no	
+78	3	3	108889	104183	North Dakota State Board of Pharmacy v. Snyder’s Drug Stores, Inc.,414 U.S. 156  (1973)	scotus	443532	108889	Radio Station Wow, Inc. v. Johnson (1945)	no	
+79	0	11	108990	96819	Edelman v. Jordan,415 U.S. 651  (1974)	scotus	1139669	108990	Ex Parte Young (1908)	no	
+79	1	11	108990	106821	Edelman v. Jordan,415 U.S. 651  (1974)	scotus	1139669	108990	Parden v. Terminal Railway of Alabama State Docks Department (1964)	no	
+79	2	10	108990	108763	Edelman v. Jordan,415 U.S. 651  (1974)	scotus	1139669	108990	Employees of Department of Public Health v. Department of Public Health (1973)	no	
+79	3	7	108990	105869	Edelman v. Jordan,415 U.S. 651  (1974)	scotus	1139669	108990	Petty v. Tennessee-Missouri Bridge Commission (1959)	no	
+79	4	7	108990	104057	Edelman v. Jordan,415 U.S. 651  (1974)	scotus	1139669	108990	Ford Motor Co. v. Department of Treasury (1945)	no	
+79	5	6	108990	307980	Edelman v. Jordan,415 U.S. 651  (1974)	scotus	1139669	108990	John Jordan, by His Next Friend, Jeanette Bryant, Individually and on Behalf of All Other Persons Similarly Situated, Cross-Appellees v. Edward T. Weaver, Cross-Appellants (1973)	no	
+79	6	5	108990	108113	Edelman v. Jordan,415 U.S. 651  (1974)	scotus	1139669	108990	Rosado v. Wyman (1970)	no	
+79	7	5	108990	107743	Edelman v. Jordan,415 U.S. 651  (1974)	scotus	1139669	108990	King v. Smith (1968)	no	
+79	8	5	108990	305771	Edelman v. Jordan,415 U.S. 651  (1974)	scotus	1139669	108990	Edna Rothstein v. George K. Wyman, as Commissioner of the Department of Social Services of the State of New York, and the Department of Social Services of the State of New York (1972) 	no	
+79	9	5	108990	102271	Edelman v. Jordan,415 U.S. 651  (1974)	scotus	1139669	108990	Principality of Monaco v. Mississippi (1934)	no	
+79	-	4	108990	107901	Edelman v. Jordan,415 U.S. 651  (1974)	scotus	1139669	108990	Shapiro v. Thompson (1969)	yes	* not extracted
+79	-	2	108990	108075	Edelman v. Jordan,415 U.S. 651  (1974)	scotus	1139669	108990	Wyman v. Bowens (1970)	yes	* not extracted
+79	-	0	108990	8989511	Edelman v. Jordan,415 U.S. 651  (1974)	scotus	1139669	108990	Sterrett v. Mothers' & Children's Rights Organization, 409 U.S. 809 (1972)	yes	* cite not in courtlistener
+79	-	0	108990	8988675	Edelman v. Jordan,415 U.S. 651  (1974)	scotus	1139669	108990	State Department of Health & Rehabilitative Services of Florida v. Zarate, 407 U.S. 918 (1972)	yes	* cite not in courtlistener
+80	0	2	109252	88869	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	The Pennsylvania (1874)	no	
+80	1	2	109252	108166	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	Moragne v. States Marine Lines, Inc. (1970)	no	
+80	2	1	109252	1473714	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	Oriental Trading & Transport Co. v. Gulf Oil Corp. (1949)	no	
+80	3	1	109252	92846	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	The Max Morris (1890)	no	
+80	4	1	109252	105170	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	Pope & Talbot, Inc. v. Hawn (1953)	no	
+80	5	1	109252	106640	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	Fitzgerald v. United States Lines Co. (1963)	no	
+80	6	1	109252	105837	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	Kermarec v. Compagnie Generale Transatlantique (1959)	no	
+80	7	1	109252	88790	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	The Sapphire (1874)	no	
+80	8	1	109252	90646	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	"The"" North Star"" (1882)"	no	
+80	9	1	109252	99959	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	White Oak Transportation Co. v. Boston, Cape Cod & New York Canal Co. (1922)	no	
+80	10	1	109252	96972	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	The Eugene F. Moran (1909)	no	
+80	11	1	109252	89024	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	Atlee v. Packet Co. (1875)	no	
+80	12	1	109252	102766	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	Morley Construction Co. v. Maryland Casualty Co. (1937)	no	
+80	13	1	109252	104637	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	Graver Tank & Mfg. Co. v. Linde Air Products Co. (1949)	no	
+80	14	1	109252	107344	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	Berenyi v. District Director, Immigration & Naturalization Service (1966)	no	
+80	15	1	109252	106562	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	Weyerhaeuser Steamship Co. v. United States (1963)	no	
+80	16	1	109252	104954	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	Halcyon Lines v. Haenn Ship Ceiling & Refitting Corp. (1952)	no	
+80	17	1	109252	108637	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	Union Oil Co. of Cal. v. the San Jacinto (1972)	no	
+80	18	1	109252	1087619	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	The City of New York (1893)	no	
+80	19	1	109252	94772	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	The Victory & the Plymothian (1897)	no	
+80	20	1	109252	94658	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	The Umbria (1897)	no	
+80	21	1	109252	94202	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	The Oregon (1895)	no	
+80	22	1	109252	94137	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	The Ludvig Holberg (1895)	no	
+80	23	1	109252	101894	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	Burnet v. Coronado Oil & Gas Co. (1932)	no	
+80	-	0	109252	86919	United States v. Reliable Transfer Co.,421 U.S. 397  (1975)	scotus	2508658	109252	The Schooner Catharine v. Dickinson (1855)	yes	* cite not in courtlistener
+81	0	10	109514	321071	City of New Orleans v. Dukes,427 U.S. 297  (1976)	scotus	183816	109514	 (1974)	no	
+81	1	3	109514	105546	City of New Orleans v. Dukes,427 U.S. 297  (1976)	scotus	183816	109514	Morey v. Doud (1957)	yes	
+81	2	2	109514	105285	City of New Orleans v. Dukes,427 U.S. 297  (1976)	scotus	183816	109514	Williamson v. Lee Optical of Oklahoma, Inc. (1955)	no	
+81	3	2	109514	106576	City of New Orleans v. Dukes,427 U.S. 297  (1976)	scotus	183816	109514	Ferguson v. Skrupa (1963)	no	
+81	4	2	109514	107256	City of New Orleans v. Dukes,427 U.S. 297  (1976)	scotus	183816	109514	Katzenbach v. Morgan (1966)	no	
+82	0	12	109570	1489061	Craig v. Boren,429 U.S. 190  (1976)	scotus	696040	109570	Walker v. Hall (1975)	no	
+82	1	9	109570	109235	Craig v. Boren,429 U.S. 190  (1976)	scotus	696040	109570	Stanton v. Stanton (1975)	no	
+82	2	8	109570	108404	Craig v. Boren,429 U.S. 190  (1976)	scotus	696040	109570	Reed v. Reed (1971)	no	
+82	3	5	109570	105152	Craig v. Boren,429 U.S. 190  (1976)	scotus	696040	109570	Barrows v. Jackson (1953)	no	
+82	4	5	109570	108497	Craig v. Boren,429 U.S. 190  (1976)	scotus	696040	109570	Stanley v. Illinois (1972)	no	
+82	5	5	109570	109013	Craig v. Boren,429 U.S. 190  (1976)	scotus	696040	109570	Kahn v. Shevin (1974)	no	
+82	6	5	109570	108781	Craig v. Boren,429 U.S. 190  (1976)	scotus	696040	109570	Frontiero v. Richardson (1973)	no	
+82	7	4	109570	108489	Craig v. Boren,429 U.S. 190  (1976)	scotus	696040	109570	Eisenstadt v. Baird (1972)	no	
+82	8	4	109570	109132	Craig v. Boren,429 U.S. 190  (1976)	scotus	696040	109570	Schlesinger v. Ballard (1975)	no	
+82	-	1	109570	104606	Craig v. Boren,429 U.S. 190  (1976)	scotus	696040	109570	Goesaert v. Cleary (1948)	yes	* not extracted
+83	0	1	109346	108288	Dove v. United States,423 U.S. 325  (1976)	scotus	126256	109346	Durham v. United States (1971)	yes	
+84	0	73	109532	108605	Gregg v. Georgia,428 U.S. 153  (1976)	scotus	669681	109532	Furman v. Georgia (1972)	no	
+84	1	14	109532	105659	Gregg v. Georgia,428 U.S. 153  (1976)	scotus	669681	109532	Trop v. Dulles (1958)	no	
+84	2	11	109532	1220970	Gregg v. Georgia,428 U.S. 153  (1976)	scotus	669681	109532	Coley v. State (1974)	no	
+84	3	10	109532	1391146	Gregg v. Georgia,428 U.S. 153  (1976)	scotus	669681	109532	Jarrell v. State (1975)	no	
+84	4	9	109532	1335744	Gregg v. Georgia,428 U.S. 153  (1976)	scotus	669681	109532	Gregg v. State (1974)	no	
+84	5	9	109532	97242	Gregg v. Georgia,428 U.S. 153  (1976)	scotus	669681	109532	Weems v. United States (1910)	no	
+84	6	8	109532	1260876	Gregg v. Georgia,428 U.S. 153  (1976)	scotus	669681	109532	People v. Anderson (1972)	no	
+84	7	7	109532	1381163	Gregg v. Georgia,428 U.S. 153  (1976)	scotus	669681	109532	Moore v. State (1975)	no	
+84	8	6	109532	2097666	Gregg v. Georgia,428 U.S. 153  (1976)	scotus	669681	109532	Commonwealth v. O'NEAL (1975)	no	
+84	9	6	109532	106451	Gregg v. Georgia,428 U.S. 153  (1976)	scotus	669681	109532	Robinson v. California (1962)	no	
+84	-	4	109532	108329	Gregg v. Georgia,428 U.S. 153  (1976)	scotus	669681	109532	McGautha v. California (1971)	yes	* not extracted
+85	0	16	109390	104216	Hudgens v. National Labor Relations Board,424 U.S. 507  (1976)	scotus	443526	109390	Marsh v. Alabama (1946)	no	
+85	1	15	109390	107692	Hudgens v. National Labor Relations Board,424 U.S. 507  (1976)	scotus	443526	109390	Amalgamated Food Employees Union Local 590 v. Logan Valley Plaza, Inc. (1968)	yes	
+85	2	11	109390	108592	Hudgens v. National Labor Relations Board,424 U.S. 507  (1976)	scotus	443526	109390	Lloyd Corp. v. Tanner (1972)	no	
+85	3	11	109390	105389	Hudgens v. National Labor Relations Board,424 U.S. 507  (1976)	scotus	443526	109390	National Labor Relations Board v. Babcock & Wilcox Co. (1956)	no	
+85	4	7	109390	108591	Hudgens v. National Labor Relations Board,424 U.S. 507  (1976)	scotus	443526	109390	Central Hardware Co. v. National Labor Relations Board (1972)	no	
+86	0	25	109508	105999	Lodge 76, International Association of Machinists & Aerospace Workers v. Wisconsin Employment Relations Commission,427 U.S. 132  (1976)	scotus	13073	109508	National Labor Relations Board v. Insurance Agents' International Union (1960)	no	
+86	1	12	109508	104636	Lodge 76, International Association of Machinists & Aerospace Workers v. Wisconsin Employment Relations Commission,427 U.S. 132  (1976)	scotus	13073	109508	International Union, U. A. W. A., A. F. of L., Local 232 v. Wisconsin Employment Relations Board (1949)	yes	
+86	2	11	109508	105866	Lodge 76, International Association of Machinists & Aerospace Workers v. Wisconsin Employment Relations Commission,427 U.S. 132  (1976)	scotus	13073	109508	San Diego Building Trades Council v. Garmon (1959)	no	
+86	3	7	109508	107123	Lodge 76, International Association of Machinists & Aerospace Workers v. Wisconsin Employment Relations Commission,427 U.S. 132  (1976)	scotus	13073	109508	Hanna Mining Co. v. District 2, Marine Engineers Beneficial Ass'n (1965)	no	
+86	4	5	109508	106827	Lodge 76, International Association of Machinists & Aerospace Workers v. Wisconsin Employment Relations Commission,427 U.S. 132  (1976)	scotus	13073	109508	Local 20, Teamsters, Chauffeurs & Helpers Union v. Morton (1964)	no	
+86	5	4	109508	107886	Lodge 76, International Association of Machinists & Aerospace Workers v. Wisconsin Employment Relations Commission,427 U.S. 132  (1976)	scotus	13073	109508	Brotherhood of Railroad Trainmen v. Jacksonville Terminal Co. (1969)	no	
+87	0	22	109344	85534	Michelin Tire Corp. v. Wages,423 U.S. 276  (1976)	scotus	421802	109344	Brown v. Maryland (1827)	no	
+87	1	11	109344	88429	Michelin Tire Corp. v. Wages,423 U.S. 276  (1976)	scotus	421802	109344	Low v. Austin (1872)	yes	
+87	2	9	109344	105833	Michelin Tire Corp. v. Wages,423 U.S. 276  (1976)	scotus	421802	109344	Youngstown Sheet & Tube Co. v. Bowers (1959)	no	
+87	3	4	109344	86429	Michelin Tire Corp. v. Wages,423 U.S. 276  (1976)	scotus	421802	109344	Thurlow v. Massachusetts (1847)	no	
+88	0	14	109499	104222	National League of Cities v. Usery,426 U.S. 833  (1976)	scotus	397308	109499	New York v. United States (1946)	no	
+88	1	14	109499	109259	National League of Cities v. Usery,426 U.S. 833  (1976)	scotus	397308	109499	Fry v. United States (1975)	no	
+88	2	11	109499	107734	National League of Cities v. Usery,426 U.S. 833  (1976)	scotus	397308	109499	Maryland v. Wirtz (1968)	yes	
+88	3	10	109499	102593	National League of Cities v. Usery,426 U.S. 833  (1976)	scotus	397308	109499	United States v. California (1936)	no	
+88	4	6	109499	103442	National League of Cities v. Usery,426 U.S. 833  (1976)	scotus	397308	109499	United States v. Darby (1941)	no	
+88	5	6	109499	85412	National League of Cities v. Usery,426 U.S. 833  (1976)	scotus	397308	109499	Gibbons v. Ogden (1824)	no	
+88	6	6	109499	104231	National League of Cities v. Usery,426 U.S. 833  (1976)	scotus	397308	109499	Case v. Bowles (1946)	no	
+88	7	5	109499	103047	National League of Cities v. Usery,426 U.S. 833  (1976)	scotus	397308	109499	Helvering v. Gerhardt (1938)	no	
+88	8	4	109499	97448	National League of Cities v. Usery,426 U.S. 833  (1976)	scotus	397308	109499	Coyle v. Smith (1911)	no	
+88	9	4	109499	87985	National League of Cities v. Usery,426 U.S. 833  (1976)	scotus	397308	109499	Lane County v. Oregon (1869)	no	
+88	10	4	109499	106821	National League of Cities v. Usery,426 U.S. 833  (1976)	scotus	397308	109499	Parden v. Terminal Railway of Alabama State Docks Department (1964)	no	
+88	11	4	109499	108763	National League of Cities v. Usery,426 U.S. 833  (1976)	scotus	397308	109499	Employees of Department of Public Health v. Department of Public Health (1973)	no	
+89	0	10	109450	108848	Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)	scotus	463564	109450	Pittsburgh Press Co. v. Pittsburgh Commission on Human Relations (1973)	no	
+89	1	9	109450	109271	Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)	scotus	463564	109450	Bigelow v. Virginia (1975)	no	
+89	2	8	109450	106761	Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)	scotus	463564	109450	New York Times Co. v. Sullivan (1964)	no	
+89	3	5	109450	2239749	Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)	scotus	463564	109450	Patterson Drug Company v. Kingery (1969)	no	
+89	4	5	109450	103347	Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)	scotus	463564	109450	Thornhill v. Alabama (1940)	no	
+89	5	4	109450	2098134	Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)	scotus	463564	109450	Virginia Citizens Consumer Council, Inc. v. State Board of Pharmacy (1974)	no	
+89	6	4	109450	103654	Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)	scotus	463564	109450	Valentine v. Chrestensen (1942)	yes	
+89	7	4	109450	105285	Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)	scotus	463564	109450	Williamson v. Lee Optical of Oklahoma, Inc. (1955)	no	
+89	8	4	109450	107970	Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)	scotus	463564	109450	National Labor Relations Board v. Gissel Packing Co. (1969)	no	
+89	9	4	109450	108444	Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)	scotus	463564	109450	Dun & Bradstreet, Inc. v. C. R. Grove, Trustee (1971)	no	
+90	0	13	109615	104587	Complete Auto Transit, Inc. v. Brady,430 U.S. 274  (1977)	scotus	240116	109615	Memphis Natural Gas Co. v. Stone (1948)	no	
+90	1	10	109615	109239	Complete Auto Transit, Inc. v. Brady,430 U.S. 274  (1977)	scotus	240116	109615	Colonial Pipeline Co. v. Traigle (1975)	no	
+90	2	5	109615	104869	Complete Auto Transit, Inc. v. Brady,430 U.S. 274  (1977)	scotus	240116	109615	Spector Motor Service, Inc. v. O'Connor (1951)	yes	
+90	3	3	109615	102972	Complete Auto Transit, Inc. v. Brady,430 U.S. 274  (1977)	scotus	240116	109615	Western Live Stock v. Bureau of Revenue (1938)	no	
+90	4	3	109615	105828	Complete Auto Transit, Inc. v. Brady,430 U.S. 274  (1977)	scotus	240116	109615	Railway Express Agency, Inc. v. Virginia (1959)	no	
+91	0	27	109716	107491	Continental T.V., Inc. v. GTE Sylvania,433 U.S. 36  (1977)	scotus	401653	109716	United States v. Arnold, Schwinn & Co. (1967)	yes	
+91	1	8	109716	336461	Continental T.V., Inc. v. GTE Sylvania,433 U.S. 36  (1977)	scotus	401653	109716	Gte Sylvania Incorporated v. Continental T v.  Inc., a Corporation (1976)	no	
+91	2	7	109716	105646	Continental T.V., Inc. v. GTE Sylvania,433 U.S. 36  (1977)	scotus	401653	109716	Northern Pacific Railway Co. v. United States (1958)	no	
+91	3	6	109716	1458770	Continental T.V., Inc. v. GTE Sylvania,433 U.S. 36  (1977)	scotus	401653	109716	United States v. Arnold, Schwinn & Co. (1965)	no	
+92	0	13	109580	86317	Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)	scotus	697831	109580	Pollard's Lessee v. HAGAN (1845)	no	
+92	1	13	109580	108897	Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)	scotus	697831	109580	Bonelli Cattle Co. v. Arizona (1973)	yes	
+92	2	12	109580	93804	Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)	scotus	697831	109580	Shively v. Bowlby (1894)	no	
+92	3	7	109580	102485	Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)	scotus	697831	109580	Borax Consolidated, Ltd. v. Los Angeles (1935)	no	
+92	4	5	109580	89473	Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)	scotus	697831	109580	Barney v. Keokuk (1877)	no	
+92	5	5	109580	89097	Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)	scotus	697831	109580	County of St. Clair v. Lovingston (1874)	no	
+92	6	5	109580	107555	Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)	scotus	697831	109580	Hughes v. Washington (1967)	no	
+92	7	5	109580	96443	Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)	scotus	697831	109580	Joy v. City of St. Louis (1906)	no	
+92	8	5	109580	86113	Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)	scotus	697831	109580	Wilcox v. Jackson (1839)	no	
+93	0	14	109835	109344	Department of Revenue v. Ass’n of Washington Stevedoring Cos.,435 U.S. 734  (1978)	scotus	271970	109835	Michelin Tire Corp. v. Wages (1976)	no	
+93	1	12	109835	109615	Department of Revenue v. Ass’n of Washington Stevedoring Cos.,435 U.S. 734  (1978)	scotus	271970	109835	Complete Auto Transit, Inc. v. Brady (1977)	no	
+93	2	9	109835	104388	Department of Revenue v. Ass’n of Washington Stevedoring Cos.,435 U.S. 734  (1978)	scotus	271970	109835	Joseph v. Carter & Weekes Stevedoring Co. (1947)	yes	
+93	3	7	109835	104859	Department of Revenue v. Ass’n of Washington Stevedoring Cos.,435 U.S. 734  (1978)	scotus	271970	109835	Canton Railroad v. Rogan (1951)	no	
+93	4	7	109835	102972	Department of Revenue v. Ass’n of Washington Stevedoring Cos.,435 U.S. 734  (1978)	scotus	271970	109835	Western Live Stock v. Bureau of Revenue (1938)	no	
+93	5	5	109835	102857	Department of Revenue v. Ass’n of Washington Stevedoring Cos.,435 U.S. 734  (1978)	scotus	271970	109835	Puget Sound Stevedoring Co. v. State Tax Commission (1937)	yes	
+94	0	16	109881	106170	Monell v. Department of Social Services,436 U.S. 658  (1978)	scotus	266243	109881	Monroe v. Pape (1961)	yes	
+94	1	8	109881	86231	Monell v. Department of Social Services,436 U.S. 658  (1978)	scotus	266243	109881	Prigg v. Pennsylvania (1842)	no	
+94	2	8	109881	108782	Monell v. Department of Social Services,436 U.S. 658  (1978)	scotus	266243	109881	Moor v. County of Alameda (1973)	no	
+94	3	8	109881	334135	Monell v. Department of Social Services,436 U.S. 658  (1978)	scotus	266243	109881	12 Fair empl.prac.cas. 836, 11 Empl. Prac. Dec. P 10,755 Jane Monell v. Department of Social Services of the City of New York, Defendants (1976)	no	
+94	4	6	109881	88174	Monell v. Department of Social Services,436 U.S. 658  (1978)	scotus	266243	109881	Supervisors v. Durant (1870)	no	
+94	5	6	109881	88308	Monell v. Department of Social Services,436 U.S. 658  (1978)	scotus	266243	109881	Collector v. Day (1871)	no	
+94	6	6	109881	108813	Monell v. Department of Social Services,436 U.S. 658  (1978)	scotus	266243	109881	City of Kenosha v. Bruno (1973)	no	
+94	7	6	109881	108375	Monell v. Department of Social Services,436 U.S. 658  (1978)	scotus	266243	109881	Bivens v. Six Unknown Named Agents of Federal Bureau of Narcotics (1971)	no	
+94	8	6	109881	108913	Monell v. Department of Social Services,436 U.S. 658  (1978)	scotus	266243	109881	Cleveland Board of Education v. LaFleur (1974)	no	
+94	9	5	109881	109574	Monell v. Department of Social Services,436 U.S. 658  (1978)	scotus	266243	109881	Mt. Healthy City School District Board of Education v. Doyle (1977)	no	
+94	10	5	109881	90041	Monell v. Department of Social Services,436 U.S. 658  (1978)	scotus	266243	109881	Ex Parte Virginia (1880)	no	
+94	11	5	109881	109503	Monell v. Department of Social Services,436 U.S. 658  (1978)	scotus	266243	109881	Aldinger v. Howard (1976)	no	
+95	0	11	109895	109631	United States v. Scott,437 U.S. 82  (1978)	scotus	86099	109895	United States v. Martin Linen Supply Co. (1977)	no	
+95	1	11	109895	109688	United States v. Scott,437 U.S. 82  (1978)	scotus	86099	109895	Lee v. United States (1977)	no	
+95	2	10	109895	109200	United States v. Scott,437 U.S. 82  (1978)	scotus	86099	109895	United States v. Wilson (1975)	no	
+95	3	10	109895	109201	United States v. Scott,437 U.S. 82  (1978)	scotus	86099	109895	United States v. Jenkins (1975)	yes	
+95	4	9	109895	105594	United States v. Scott,437 U.S. 82  (1978)	scotus	86099	109895	Green v. United States (1957)	no	
+95	5	6	109895	94515	United States v. Scott,437 U.S. 82  (1978)	scotus	86099	109895	United States v. Ball (1896)	no	
+95	6	6	109895	109773	United States v. Scott,437 U.S. 82  (1978)	scotus	86099	109895	Arizona v. Washington (1978)	no	
+95	7	5	109895	96129	United States v. Scott,437 U.S. 82  (1978)	scotus	86099	109895	Kepner v. United States (1904)	no	
+95	8	4	109895	109204	United States v. Scott,437 U.S. 82  (1978)	scotus	86099	109895	Serfass v. United States (1975)	no	
+95	9	4	109895	108233	United States v. Scott,437 U.S. 82  (1978)	scotus	86099	109895	United States v. Jorn (1971)	no	
+95	10	4	109895	106359	United States v. Scott,437 U.S. 82  (1978)	scotus	86099	109895	Fong Foo v. United States (1962)	no	
+96	0	22	110063	94405	Hughes v. Oklahoma,441 U.S. 322  (1979)	scotus	157215	110063	Geer v. Connecticut (1896)	yes	
+96	1	9	110063	100325	Hughes v. Oklahoma,441 U.S. 322  (1979)	scotus	157215	110063	Lacoste v. Department of Conservation of Louisiana (1924)	no	
+96	2	8	110063	101328	Hughes v. Oklahoma,441 U.S. 322  (1979)	scotus	157215	110063	Foster-Fountain Packing Co. v. Haydel (1928)	no	
+96	3	7	110063	104652	Hughes v. Oklahoma,441 U.S. 322  (1979)	scotus	157215	110063	H. P. Hood & Sons, Inc. v. Du Mond (1949)	no	
+96	4	6	110063	97421	Hughes v. Oklahoma,441 U.S. 322  (1979)	scotus	157215	110063	West v. Kansas Natural Gas Co. (1911)	no	
+96	5	6	110063	108085	Hughes v. Oklahoma,441 U.S. 322  (1979)	scotus	157215	110063	Pike v. Bruce Church, Inc. (1970)	no	
+96	6	6	110063	109662	Hughes v. Oklahoma,441 U.S. 322  (1979)	scotus	157215	110063	Douglas v. Seacoast Products, Inc. (1977)	no	
+96	7	5	110063	109868	Hughes v. Oklahoma,441 U.S. 322  (1979)	scotus	157215	110063	Baldwin v. Fish and Game Comm'n of Mont. (1978)	no	
+96	8	5	110063	109916	Hughes v. Oklahoma,441 U.S. 322  (1979)	scotus	157215	110063	City of Philadelphia v. New Jersey (1978)	no	
+96	9	5	110063	104563	Hughes v. Oklahoma,441 U.S. 322  (1979)	scotus	157215	110063	Toomer v. Witsell (1948)	no	
+97	0	9	110212	105789	Trammel v. United States,445 U.S. 40  (1980)	scotus	240272	110212	Hawkins v. United States (1958)	yes	
+97	1	3	110212	102164	Trammel v. United States,445 U.S. 40  (1980)	scotus	240272	110212	Funk v. United States (1933)	no	
+97	2	2	110212	106048	Trammel v. United States,445 U.S. 40  (1980)	scotus	240272	110212	Wyatt v. United States (1960)	no	
+97	3	2	110212	102181	Trammel v. United States,445 U.S. 40  (1980)	scotus	240272	110212	Wolfle v. United States (1934)	no	
+97	4	2	110212	86090	Trammel v. United States,445 U.S. 40  (1980)	scotus	240272	110212	Stein v. Bowman (1839)	no	
+97	5	2	110212	104845	Trammel v. United States,445 U.S. 40  (1980)	scotus	240272	110212	Blau v. United States (1951)	no	
+98	0	9	110325	106022	United States v. Salvucci,448 U.S. 83  (1980)	scotus	828162	110325	Jones v. United States (1960)	yes	
+98	1	9	110325	107636	United States v. Salvucci,448 U.S. 83  (1980)	scotus	828162	110325	Simmons v. United States (1968)	no	
+98	2	3	110325	108760	United States v. Salvucci,448 U.S. 83  (1980)	scotus	828162	110325	Brown v. United States (1973)	no	
+98	3	3	110325	107872	United States v. Salvucci,448 U.S. 83  (1980)	scotus	828162	110325	Alderman v. United States (1969)	no	
+99	0	14	110563	109615	Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)	scotus	1550125	110563	Complete Auto Transit, Inc. v. Brady (1977)	no	
+99	1	8	110563	109835	Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)	scotus	1550125	110563	Department of Revenue v. Ass'n of Washington Stevedoring Companies (1978)	no	
+99	2	8	110563	877181	Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)	scotus	1550125	110563	Commonwealth Edison Co. v. State (1980)	no	
+99	3	7	110563	104253	Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)	scotus	1550125	110563	Nippert v. City of Richmond (1946)	no	
+99	4	6	110563	110488	Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)	scotus	1550125	110563	Maryland v. Louisiana (1981)	no	
+99	5	6	110563	102972	Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)	scotus	1550125	110563	Western Live Stock v. Bureau of Revenue (1938)	no	
+99	6	6	110563	106846	Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)	scotus	1550125	110563	General Motors Corp. v. Washington (1964)	no	
+99	7	5	110563	103186	Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)	scotus	1550125	110563	Clark v. Paul Gray, Inc. (1939)	no	
+99	8	5	110563	100063	Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)	scotus	1550125	110563	Heisler v. Thomas Colliery Co. (1922)	yes	
+99	9	5	110563	105195	Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)	scotus	1550125	110563	Michigan-Wisconsin Pipe Line Co. v. Calvert (1954)	no	
+99	10	5	110563	102777	Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)	scotus	1550125	110563	Ingels v. Morf (1937)	no	
+100	0	12	110799	2226827	Sporhase v. Nebraska ex rel. Douglas,458 U.S. 941  (1982)	scotus	1858114	110799	State Ex Rel. Douglas v. Sporhase (1981)	no	
+100	1	8	110799	1818257	Sporhase v. Nebraska ex rel. Douglas,458 U.S. 941  (1982)	scotus	1858114	110799	City of Altus, Oklahoma v. Carr (1966)	no	
+100	2	7	110799	96834	Sporhase v. Nebraska ex rel. Douglas,458 U.S. 941  (1982)	scotus	1858114	110799	Hudson County Water Co. v. McCarter (1908)	yes	
+100	3	4	110799	97421	Sporhase v. Nebraska ex rel. Douglas,458 U.S. 941  (1982)	scotus	1858114	110799	West v. Kansas Natural Gas Co. (1911)	no	
+100	4	4	110799	94405	Sporhase v. Nebraska ex rel. Douglas,458 U.S. 941  (1982)	scotus	1858114	110799	Geer v. Connecticut (1896)	no	
+101	0	20	110719	110119	United States v. Ross,456 U.S. 798  (1982)	scotus	432628	110719	Arkansas v. Sanders (1979)	no	
+101	1	19	110719	100567	United States v. Ross,456 U.S. 798  (1982)	scotus	432628	110719	Carroll v. United States (1925)	no	
+101	2	13	110719	109714	United States v. Ross,456 U.S. 798  (1982)	scotus	432628	110719	United States v. Chadwick (1977)	no	
+101	3	13	110719	110558	United States v. Ross,456 U.S. 798  (1982)	scotus	432628	110719	Robbins v. California (1981)	yes	
+101	4	11	110719	108184	United States v. Ross,456 U.S. 798  (1982)	scotus	432628	110719	Chambers v. Maroney (1970)	no	
+101	5	10	110719	392944	United States v. Ross,456 U.S. 798  (1982)	scotus	432628	110719	United States v. Albert Ross, Jr. (1981)	no	
+101	6	4	110719	108377	United States v. Ross,456 U.S. 798  (1982)	scotus	432628	110719	Coolidge v. New Hampshire (1971)	no	
+102	0	13	111218	104463	Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)	scotus	162324	111218	United States v. Yellow Cab Co. (1947)	yes	
+102	1	12	111218	104915	Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)	scotus	162324	111218	Timken Roller Bearing Co. v. United States (1951)	no	
+102	2	8	111218	104839	Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)	scotus	162324	111218	Kiefer-Stewart Co. v. Joseph E. Seagram & Sons, Inc. (1951)	no	
+102	3	8	111218	107732	Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)	scotus	162324	111218	Perma Life Mufflers, Inc. v. International Parts Corp. (1968)	no	
+102	4	7	111218	102041	Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)	scotus	162324	111218	Appalachian Coals, Inc. v. United States (1933)	no	
+102	5	7	111218	104037	Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)	scotus	162324	111218	United States v. Crescent Amusement Co. (1944)	no	
+102	6	4	111218	1292673	Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)	scotus	162324	111218	United States v. American Tobacco Co. (1911)	no	
+102	7	4	111218	106009	Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)	scotus	162324	111218	United States v. Parke, Davis & Co. (1960)	no	
+102	8	4	111218	409686	Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)	scotus	162324	111218	 (1982)	no	
+103	0	11	111103	102987	United States v. One Assortment of 89 Firearms,465 U.S. 354  (1984)	scotus	1000145	111103	Helvering v. Mitchell (1938)	no	
+103	1	6	111103	110331	United States v. One Assortment of 89 Firearms,465 U.S. 354  (1984)	scotus	1000145	111103	United States v. Ward (1980)	no	
+103	2	3	111103	106534	United States v. One Assortment of 89 Firearms,465 U.S. 354  (1984)	scotus	1000145	111103	Kennedy v. Mendoza-Martinez (1963)	no	
+103	3	2	111103	407595	United States v. One Assortment of 89 Firearms,465 U.S. 354  (1984)	scotus	1000145	111103	United States v. One Assortment of 89 Firearms, National Rifle Association of America, Amicus Curiae (1982)	no	
+103	4	2	111103	108643	United States v. One Assortment of 89 Firearms,465 U.S. 354  (1984)	scotus	1000145	111103	One Lot Emerald Cut Stones and One Ring v. United States (1972)	no	
+103	5	2	111103	106087	United States v. One Assortment of 89 Firearms,465 U.S. 354  (1984)	scotus	1000145	111103	Flemming v. Nestor (1960)	no	
+103	-	0	111103	8178595	United States v. One Assortment of 89 Firearms,465 U.S. 354  (1984)	scotus	1000145	111103	Coffey v. United States, 116 U.S. 436 (1886)	yes	* cite not in courtlistener
+104	0	33	111308	109499	Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)	scotus	155595	111308	National League of Cities v. Usery (1976)	yes	
+104	1	11	111308	110881	Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)	scotus	155595	111308	Equal Employment Opportunity Commission v. Wyoming (1983)	no	
+104	2	10	111308	110516	Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)	scotus	155595	111308	Hodel v. Virginia Surface Mining & Reclamation Assn., Inc. (1981)	no	
+104	3	10	111308	110673	Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)	scotus	155595	111308	United Transportation Union v. Long Island Rail Road (1982)	no	
+104	4	9	111308	104222	Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)	scotus	155595	111308	New York v. United States (1946)	no	
+104	5	8	111308	110718	Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)	scotus	155595	111308	Federal Energy Regulatory Commission v. Mississippi (1982)	no	
+104	6	7	111308	109259	Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)	scotus	155595	111308	Fry v. United States (1975)	no	
+104	7	6	111308	107734	Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)	scotus	155595	111308	Maryland v. Wirtz (1968)	no	
+104	8	5	111308	2239255	Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)	scotus	155595	111308	San Antonio Metropolitan Transit Authority v. Donovan (1983)	no	
+104	9	5	111308	102330	Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)	scotus	155595	111308	Helvering v. Powers (1934)	no	
+104	10	5	111308	96357	Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)	scotus	155595	111308	South Carolina v. United States (1905)	no	
+105	0	9	111404	91894	United States v. Miller,471 U.S. 130  (1985)	scotus	2517240	111404	Ex Parte Bain (1887)	yes	
+105	1	9	111404	105978	United States v. Miller,471 U.S. 130  (1985)	scotus	2517240	111404	Stirone v. United States (1960)	no	
+105	2	7	111404	423986	United States v. Miller,471 U.S. 130  (1985)	scotus	2517240	111404	United States v. James Rual Miller (1983)	no	
+105	3	3	111404	102436	United States v. Miller,471 U.S. 130  (1985)	scotus	2517240	111404	Berger v. United States (1935)	no	
+105	4	3	111404	106407	United States v. Miller,471 U.S. 130  (1985)	scotus	2517240	111404	Russell v. United States (1962)	no	
+105	5	3	111404	103976	United States v. Miller,471 U.S. 130  (1985)	scotus	2517240	111404	United States v. Ballard (1944)	no	
+105	6	3	111404	100951	United States v. Miller,471 U.S. 130  (1985)	scotus	2517240	111404	Salinger v. United States (1926)	no	
+106	0	14	111555	110478	Daniels v. Williams,474 U.S. 327  (1986)	scotus	27760	111555	Parratt v. Taylor (1981)	yes	
+106	1	4	111555	111252	Daniels v. Williams,474 U.S. 327  (1986)	scotus	27760	111555	Hudson v. Palmer (1984)	no	
+106	2	3	111555	109635	Daniels v. Williams,474 U.S. 327  (1986)	scotus	27760	111555	Ingraham v. Wright (1977)	no	
+106	3	2	111555	109561	Daniels v. Williams,474 U.S. 327  (1986)	scotus	27760	111555	Estelle v. Gamble (1976)	no	
+106	4	2	111555	109097	Daniels v. Williams,474 U.S. 327  (1986)	scotus	27760	111555	Wolff v. McDonnell (1974)	no	
+106	5	2	111555	110132	Daniels v. Williams,474 U.S. 327  (1986)	scotus	27760	111555	Baker v. McCollan (1979)	no	
+106	6	2	111555	87021	Daniels v. Williams,474 U.S. 327  (1986)	scotus	27760	111555	South v. Maryland Ex Rel. Pottle (1856)	no	
+106	7	2	111555	106170	Daniels v. Williams,474 U.S. 327  (1986)	scotus	27760	111555	Monroe v. Pape (1961)	no	
+106	8	2	111555	108430	Daniels v. Williams,474 U.S. 327  (1986)	scotus	27760	111555	Groppi v. Leslie (1972)	no	
+106	9	2	111555	110169	Daniels v. Williams,474 U.S. 327  (1986)	scotus	27760	111555	Martinez v. California (1980)	no	
+107	0	12	111940	87371	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Commonwealth of Ky. v. DENNISON, GOVERNOR, &C. (1861)	yes	
+107	1	2	111940	109961	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Michigan v. Doran (1978)	no	
+107	2	1	111940	105312	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Brown v. Board of Education (1955)	no	
+107	3	1	111940	111492	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Jean v. Nelson (1985)	no	
+107	4	1	111940	105221	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Brown v. Board of Education (1954)	no	
+107	5	1	111940	105766	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Cooper v. Aaron (1958)	no	
+107	6	1	111940	96519	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Appleyard v. Massachusetts (1906)	no	
+107	7	1	111940	467594	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Commonwealth of Puerto Rico v. Terry E. Branstad (1986)	no	
+107	8	1	111940	111916	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	California v. Superior Court of Cal., San Bernardino Cty. (1987)	no	
+107	9	1	111940	99021	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Biddinger v. Commissioner of Police of City of New York (1917)	no	
+107	10	1	111940	110926	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Kolender v. Lawson (1983)	no	
+107	11	1	111940	102605	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Ashwander v. Tennessee Valley Authority (1936)	no	
+107	12	1	111940	110322	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Maine v. Thiboutot (1980)	no	
+107	13	1	111940	109490	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Examining Bd. of Engineers, Architects and Surveyors v. Flores De Otero (1976)	no	
+107	14	1	111940	96819	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Ex Parte Young (1908)	no	
+107	15	1	111940	96915	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	New York Ex Rel. Kopel v. Bingham (1909)	no	
+107	16	1	111940	107705	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Green v. County School Board of New Kent County (1968)	no	
+107	17	1	111940	89308	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Board of Liquidation v. McComb (1876)	no	
+107	18	1	111940	110718	Puerto Rico v. Branstad,483 U.S. 219  (1987)	scotus	240876	111940	Federal Energy Regulatory Commission v. Mississippi (1982)	no	
+108	0	17	111948	107953	Solorio v. United States,483 U.S. 435  (1987)	scotus	160062	111948	O'Callahan v. Parker (1969)	yes	
+108	1	7	111948	105326	Solorio v. United States,483 U.S. 435  (1987)	scotus	160062	111948	United States Ex Rel. Toth v. Quarles (1955)	no	
+108	2	6	111948	108280	Solorio v. United States,483 U.S. 435  (1987)	scotus	160062	111948	Relford v. Commandant, US Disciplinary Barracks, Fort Leavenworth (1971)	no	
+108	3	5	111948	105525	Solorio v. United States,483 U.S. 435  (1987)	scotus	160062	111948	Reid v. Covert (1957)	no	
+108	4	4	111948	105981	Solorio v. United States,483 U.S. 435  (1987)	scotus	160062	111948	Kinsella v. United States Ex Rel. Singleton (1960)	no	
+108	5	4	111948	89821	Solorio v. United States,483 U.S. 435  (1987)	scotus	160062	111948	Coleman v. Tennessee (1879)	no	
+109	0	12	112040	111308	South Carolina v. Baker,485 U.S. 505  (1988)	scotus	10598	112040	Garcia v. San Antonio Metropolitan Transit Authority (1985)	no	
+109	1	9	112040	104222	South Carolina v. Baker,485 U.S. 505  (1988)	scotus	10598	112040	New York v. United States (1946)	no	
+109	2	8	112040	103172	South Carolina v. Baker,485 U.S. 505  (1988)	scotus	10598	112040	Graves v. New York Ex Rel. O'Keefe (1939)	no	
+109	3	7	112040	103047	South Carolina v. Baker,485 U.S. 505  (1988)	scotus	10598	112040	Helvering v. Gerhardt (1938)	no	
+109	4	7	112040	110718	South Carolina v. Baker,485 U.S. 505  (1988)	scotus	10598	112040	Federal Energy Regulatory Commission v. Mississippi (1982)	no	
+109	5	6	112040	101762	South Carolina v. Baker,485 U.S. 505  (1988)	scotus	10598	112040	Indian Motocycle Co. v. United States (1931)	no	
+109	6	6	112040	94174	South Carolina v. Baker,485 U.S. 505  (1988)	scotus	10598	112040	Pollock v. Farmers' Loan & Trust Co. (1895)	yes	
+110	0	6	112276	1098406	Alabama v. Smith,490 U.S. 794  (1989)	scotus	144896	112276	Ex Parte Smith (1988)	no	
+110	1	6	112276	107978	Alabama v. Smith,490 U.S. 794  (1989)	scotus	144896	112276	North Carolina v. Pearce (1969)	yes	
+110	2	5	112276	108569	Alabama v. Smith,490 U.S. 794  (1989)	scotus	144896	112276	Colten v. Kentucky (1972)	no	
+110	3	4	112276	111602	Alabama v. Smith,490 U.S. 794  (1989)	scotus	144896	112276	Texas v. McCullough (1986)	no	
+110	4	4	112276	110748	Alabama v. Smith,490 U.S. 794  (1989)	scotus	144896	112276	United States v. Goodwin (1982)	no	
+111	0	24	112301	111683	Healy v. The Beer Institute,491 U.S. 324  (1989)	scotus	160121	112301	Brown-Forman Distillers Corp. v. New York State Liquor Authority (1986)	no	
+111	1	9	112301	107217	Healy v. The Beer Institute,491 U.S. 324  (1989)	scotus	160121	112301	Joseph E. Seagram & Sons, Inc. v. Hostetter (1966)	yes	
+111	2	7	112301	102402	Healy v. The Beer Institute,491 U.S. 324  (1989)	scotus	160121	112301	Baldwin v. G. A. F. Seelig, Inc. (1935)	no	
+111	3	6	112301	110758	Healy v. The Beer Institute,491 U.S. 324  (1989)	scotus	160121	112301	Edgar v. Mite Corp. (1982)	no	
+111	4	6	112301	507765	Healy v. The Beer Institute,491 U.S. 324  (1989)	scotus	160121	112301	 (1988)	no	
+111	5	4	112301	2370562	Healy v. The Beer Institute,491 U.S. 324  (1989)	scotus	160121	112301	United States Brewers Ass'n v. Healy (1987)	no	
+112	0	34	112258	109016	Thornburgh v. Abbott,490 U.S. 401  (1989)	scotus	1242860	112258	Procunier v. Martinez (1974)	yes	
+112	1	19	112258	111904	Thornburgh v. Abbott,490 U.S. 401  (1989)	scotus	1242860	112258	Turner v. Safley (1987)	no	
+112	2	11	112258	109718	Thornburgh v. Abbott,490 U.S. 401  (1989)	scotus	1242860	112258	Jones v. North Carolina Prisoners' Labor Union, Inc. (1977)	no	
+112	3	11	112258	109079	Thornburgh v. Abbott,490 U.S. 401  (1989)	scotus	1242860	112258	Pell v. Procunier (1974)	no	
+112	4	8	112258	492021	Thornburgh v. Abbott,490 U.S. 401  (1989)	scotus	1242860	112258	Jack Abbott v. Edwin Meese, Iii, Attorney General of the United States (1987)	no	
+112	5	7	112258	110075	Thornburgh v. Abbott,490 U.S. 401  (1989)	scotus	1242860	112258	Bell v. Wolfish (1979)	no	
+113	0	12	112471	94866	Collins v. Youngblood,497 U.S. 37  (1990)	scotus	1611214	112471	Thompson v. Utah (1898)	yes	
+113	1	12	112471	100734	Collins v. Youngblood,497 U.S. 37  (1990)	scotus	1611214	112471	Beazell v. Ohio (1925)	no	
+113	2	11	112471	90760	Collins v. Youngblood,497 U.S. 37  (1990)	scotus	1611214	112471	Kring v. Missouri (1883)	yes	
+113	3	4	112471	1787505	Collins v. Youngblood,497 U.S. 37  (1990)	scotus	1611214	112471	Bogany v. State (1983)	no	
+113	4	4	112471	98427	Collins v. Youngblood,497 U.S. 37  (1990)	scotus	1611214	112471	Malloy v. South Carolina (1915)	no	
+114	0	37	112608	110719	California v. Acevedo,500 U.S. 565  (1991)	scotus	326716	112608	United States v. Ross (1982)	no	
+114	1	20	112608	109714	California v. Acevedo,500 U.S. 565  (1991)	scotus	326716	112608	United States v. Chadwick (1977)	no	
+114	2	13	112608	110119	California v. Acevedo,500 U.S. 565  (1991)	scotus	326716	112608	Arkansas v. Sanders (1979)	yes	
+114	3	11	112608	111305	California v. Acevedo,500 U.S. 565  (1991)	scotus	326716	112608	United States v. Johns (1985)	no	
+114	4	7	112608	100567	California v. Acevedo,500 U.S. 565  (1991)	scotus	326716	112608	Carroll v. United States (1925)	no	
+114	5	6	112608	104504	California v. Acevedo,500 U.S. 565  (1991)	scotus	326716	112608	Johnson v. United States (1948)	no	
+114	6	5	112608	108184	California v. Acevedo,500 U.S. 565  (1991)	scotus	326716	112608	Chambers v. Maroney (1970)	no	
+114	7	4	112608	110979	California v. Acevedo,500 U.S. 565  (1991)	scotus	326716	112608	United States v. Place (1983)	no	
+114	8	4	112608	110558	California v. Acevedo,500 U.S. 565  (1991)	scotus	326716	112608	Robbins v. California (1981)	no	
+115	0	19	112640	111020	Coleman v. Thompson,501 U.S. 722  (1991)	scotus	10689	112640	Michigan v. Long (1983)	no	
+115	1	17	112640	112205	Coleman v. Thompson,501 U.S. 722  (1991)	scotus	10689	112640	Harris v. Reed (1989)	no	
+115	2	8	112640	109717	Coleman v. Thompson,501 U.S. 722  (1991)	scotus	10689	112640	Wainwright v. Sykes (1977)	no	
+115	3	7	112640	106548	Coleman v. Thompson,501 U.S. 722  (1991)	scotus	10689	112640	Fay v. Noia (1963)	yes	
+115	4	7	112640	105074	Coleman v. Thompson,501 U.S. 722  (1991)	scotus	10689	112640	Brown v. Allen (1953)	no	
+115	5	6	112640	110692	Coleman v. Thompson,501 U.S. 722  (1991)	scotus	10689	112640	Engle v. Isaac (1982)	no	
+115	6	5	112640	111880	Coleman v. Thompson,501 U.S. 722  (1991)	scotus	10689	112640	Pennsylvania v. Finley (1987)	no	
+115	7	5	112640	111727	Coleman v. Thompson,501 U.S. 722  (1991)	scotus	10689	112640	Murray v. Carrier (1986)	no	
+115	8	5	112640	1280169	Coleman v. Thompson,501 U.S. 722  (1991)	scotus	10689	112640	O'BRIEN v. Socony Mobil Oil Company (1967)	no	
+115	9	5	112640	106591	Coleman v. Thompson,501 U.S. 722  (1991)	scotus	10689	112640	Sanders v. United States (1963)	no	
+115	10	5	112640	536051	Coleman v. Thompson,501 U.S. 722  (1991)	scotus	10689	112640	Roger K. Coleman v. Charles Thompson, Warden (1990)	no	
+115	11	5	112640	109439	Coleman v. Thompson,501 U.S. 722  (1991)	scotus	10689	112640	Francis v. Henderson (1976)	no	
+116	0	5	112609	1573917	Exxon Corp. v. Central Gulf Lines, Inc.,500 U.S. 603  (1991)	scotus	1507401	112609	Exxon Corp. v. Central Gulf Lines, Inc. (1989)	no	
+116	1	5	112609	88300	Exxon Corp. v. Central Gulf Lines, Inc.,500 U.S. 603  (1991)	scotus	1507401	112609	Insurance Co. v. Dunham (1871)	no	
+116	2	3	112609	105375	Exxon Corp. v. Central Gulf Lines, Inc.,500 U.S. 603  (1991)	scotus	1507401	112609	Archawski v. Hanioti (1956)	no	
+116	3	3	112609	86949	Exxon Corp. v. Central Gulf Lines, Inc.,500 U.S. 603  (1991)	scotus	1507401	112609	Minturn v. Maynard (1855)	yes	
+117	0	11	112728	112640	Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)	scotus	1334648	112728	Coleman v. Thompson (1991)	no	
+117	1	10	112728	106544	Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)	scotus	1334648	112728	Townsend v. Sain (1963)	yes	
+117	2	9	112728	112573	Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)	scotus	1334648	112728	McCleskey v. Zant (1991)	no	
+117	3	8	112728	105074	Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)	scotus	1334648	112728	Brown v. Allen (1953)	no	
+117	4	6	112728	109717	Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)	scotus	1334648	112728	Wainwright v. Sykes (1977)	no	
+117	5	6	112728	111727	Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)	scotus	1334648	112728	Murray v. Carrier (1986)	no	
+117	6	5	112728	556624	Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)	scotus	1334648	112728	Jose Tamayo-Reyes v. J.C. Keeney (1991)	no	
+117	7	4	112728	111235	Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)	scotus	1334648	112728	Reed v. Ross (1984)	no	
+117	8	4	112728	109439	Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)	scotus	1334648	112728	Francis v. Henderson (1976)	no	
+118	0	13	112739	109615	Quill Corp. v. North Dakota,504 U.S. 298  (1992)	scotus	241177	112739	Complete Auto Transit, Inc. v. Brady (1977)	no	
+118	1	12	112739	1591860	Quill Corp. v. North Dakota,504 U.S. 298  (1992)	scotus	241177	112739	State Ex Rel. Heitkamp v. Quill Corp. (1991)	no	
+118	2	10	112739	107425	Quill Corp. v. North Dakota,504 U.S. 298  (1992)	scotus	241177	112739	National Bellas Hess, Inc. v. Department of Revenue (1967)	yes	
+118	3	9	112739	109630	Quill Corp. v. North Dakota,504 U.S. 298  (1992)	scotus	241177	112739	National Geographic Society v. California Board of Equalization (1977)	no	
+118	4	6	112739	110563	Quill Corp. v. North Dakota,504 U.S. 298  (1992)	scotus	241177	112739	Commonwealth Edison Co. v. Montana (1981)	no	
+118	5	5	112739	112066	Quill Corp. v. North Dakota,504 U.S. 298  (1992)	scotus	241177	112739	D. H. Holmes Co., Ltd. v. McNamara (1988)	no	
+118	6	5	112739	105829	Quill Corp. v. North Dakota,504 U.S. 298  (1992)	scotus	241177	112739	Northwestern States Portland Cement Co. v. Minnesota (1959)	no	
+118	7	4	112739	110927	Quill Corp. v. North Dakota,504 U.S. 298  (1992)	scotus	241177	112739	Arkansas Electric Cooperative Corp. v. Arkansas Public Service Commission (1983)	no	
+119	0	23	112906	92534	United States v. Dixon,509 U.S. 688  (1993)	scotus	314325	112906	Nielsen (1889)	no	
+119	1	22	112906	112432	United States v. Dixon,509 U.S. 688  (1993)	scotus	314325	112906	Grady v. Corbin (1990)	yes	
+119	2	18	112906	109695	United States v. Dixon,509 U.S. 688  (1993)	scotus	314325	112906	Brown v. Ohio (1977)	no	
+119	3	14	112906	96689	United States v. Dixon,509 U.S. 688  (1993)	scotus	314325	112906	Grafton v. United States (1907)	no	
+119	4	13	112906	109736	United States v. Dixon,509 U.S. 688  (1993)	scotus	314325	112906	Harris v. Oklahoma (1977)	no	
+119	5	8	112906	110307	United States v. Dixon,509 U.S. 688  (1993)	scotus	314325	112906	Illinois v. Vitale (1980)	no	
+119	6	8	112906	111893	United States v. Dixon,509 U.S. 688  (1993)	scotus	314325	112906	Young v. United States Ex Rel. Vuitton Et Fils S. A. (1987)	no	
+119	7	6	112906	97395	United States v. Dixon,509 U.S. 688  (1993)	scotus	314325	112906	Gavieres v. United States (1911)	no	
+119	8	6	112906	96480	United States v. Dixon,509 U.S. 688  (1993)	scotus	314325	112906	Burton v. United States (1906)	no	
+119	9	6	112906	107686	United States v. Dixon,509 U.S. 688  (1993)	scotus	314325	112906	Bloom v. Illinois (1968)	no	
+119	10	6	112906	105594	United States v. Dixon,509 U.S. 688  (1993)	scotus	314325	112906	Green v. United States (1957)	no	
+120	0	51	117947	110338	Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)	scotus	1984545	117947	Fullilove v. Klutznick (1980)	no	
+120	1	24	117947	112176	Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)	scotus	1984545	117947	City of Richmond v. J. A. Croson Co. (1989)	no	
+120	2	19	117947	112484	Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)	scotus	1984545	117947	Metro Broadcasting, Inc. v. Federal Communications Commission (1990)	yes	
+120	3	18	117947	111669	Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)	scotus	1984545	117947	Wygant v. Jackson Board of Education (1986)	no	
+120	4	12	117947	109930	Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)	scotus	1984545	117947	Regents of the University of California v. Bakke (1978)	no	
+120	5	11	117947	103875	Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)	scotus	1984545	117947	Hirabayashi v. United States (1943)	no	
+120	6	7	117947	105222	Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)	scotus	1984545	117947	Bolling v. Sharpe (1954)	no	
+120	7	6	117947	663717	Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)	scotus	1984545	117947	 (1994)	no	
+120	8	6	117947	109469	Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)	scotus	1984545	117947	Washington v. Davis (1976)	no	
+120	9	5	117947	104040	Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)	scotus	1984545	117947	Korematsu v. United States (1945)	no	
+120	10	5	117947	111827	Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)	scotus	1984545	117947	United States v. Paradise (1987)	no	
+121	0	10	117931	105287	Hubbard v. United States,514 U.S. 695  (1995)	scotus	117185	117931	United States v. Bramblett (1955)	yes	
+121	1	6	117931	112296	Hubbard v. United States,514 U.S. 695  (1995)	scotus	117185	117931	Patterson v. McLean Credit Union (1989)	no	
+121	2	4	117931	258536	Hubbard v. United States,514 U.S. 695  (1995)	scotus	117185	117931	Daniel Jackson Oliver Wendel Holmes Morgan v. United States (1962)	no	
+121	3	3	117931	276778	Hubbard v. United States,514 U.S. 695  (1995)	scotus	117185	117931	United States v. James Ralph Erhardt (1967)	no	
+121	4	3	117931	109680	Hubbard v. United States,514 U.S. 695  (1995)	scotus	117185	117931	Illinois Brick Co. v. Illinois (1977)	no	
+121	5	3	117931	101894	Hubbard v. United States,514 U.S. 695  (1995)	scotus	117185	117931	Burnet v. Coronado Oil & Gas Co. (1932)	no	
+122	0	8	117958	101414	United States v. Gaudin,515 U.S. 506  (1995)	scotus	26862	117958	Sinclair v. United States (1929)	yes	
+122	1	7	117958	112848	United States v. Gaudin,515 U.S. 506  (1995)	scotus	26862	117958	United States v. Olano (1993)	no	
+122	2	5	117958	673512	United States v. Gaudin,515 U.S. 506  (1995)	scotus	26862	117958	United States v. Michael E. Gaudin (1994)	no	
+122	3	5	117958	112868	United States v. Gaudin,515 U.S. 506  (1995)	scotus	26862	117958	Sullivan v. Louisiana (1993)	no	
+122	4	5	117958	109698	United States v. Gaudin,515 U.S. 506  (1995)	scotus	26862	117958	Patterson v. New York (1977)	no	
+122	5	5	117958	94082	United States v. Gaudin,515 U.S. 506  (1995)	scotus	26862	117958	Sparf v. United States (1895)	no	
+122	6	4	117958	112052	United States v. Gaudin,515 U.S. 506  (1995)	scotus	26862	117958	Kungys v. United States (1988)	no	
+123	0	26	118023	110312	44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)	scotus	79452	118023	Central Hudson Gas & Electric Corp. v. Public Service Commission (1980)	no	
+123	1	23	118023	109450	44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)	scotus	79452	118023	Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc. (1976)	no	
+123	2	14	118023	111744	44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)	scotus	79452	118023	Posadas De Puerto Rico Associates v. Tourism Co. of Puerto Rico (1986)	no	
+123	3	12	118023	117924	44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)	scotus	79452	118023	Rubin v. Coors Brewing Co. (1995)	no	
+123	4	10	118023	1877168	44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)	scotus	79452	118023	44 Liquor Mart, Inc. v. Racine (1993)	no	
+123	5	10	118023	112836	44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)	scotus	79452	118023	City of Cincinnati v. Discovery Network, Inc. (1993)	no	
+123	6	9	118023	112899	44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)	scotus	79452	118023	United States v. Edge Broadcasting Co. (1993)	no	
+123	7	7	118023	109649	44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)	scotus	79452	118023	Linmark Associates, Inc. v. Township of Willingboro (1977)	no	
+123	8	5	118023	117963	44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)	scotus	79452	118023	Florida Bar v. Went for It, Inc. (1995)	no	
+123	9	5	118023	2040250	44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)	scotus	79452	118023	Michigan Beer & Wine Wholesalers Ass'n v. Attorney General (1985)	no	
+123	-	0	118023	108636	44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)	scotus	79452	118023	California v. LaRue, 409 U.S. 109 (1973)	yes	* cite not in courtlistener
+124	0	26	118011	92702	Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)	scotus	1113943	118011	Hans v. Louisiana (1890)	no	
+124	1	25	118011	84681	Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)	scotus	1113943	118011	Chisholm v. Georgia (1793)	no	
+124	2	23	118011	112291	Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)	scotus	1113943	118011	Pennsylvania v. Union Gas Co. (1989)	yes	
+124	3	17	118011	111503	Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)	scotus	1113943	118011	Atascadero State Hospital v. Scanlon (1985)	no	
+124	4	12	118011	102271	Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)	scotus	1113943	118011	Principality of Monaco v. Mississippi (1934)	no	
+124	5	11	118011	96819	Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)	scotus	1113943	118011	Ex Parte Young (1908)	no	
+124	6	10	118011	85330	Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)	scotus	1113943	118011	Cohens v. Virginia (1821)	no	
+124	7	8	118011	109520	Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)	scotus	1113943	118011	Fitzpatrick v. Bitzer (1976)	no	
+124	8	7	118011	111949	Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)	scotus	1113943	118011	Welch v. Texas Department of Highways & Public Transportation (1987)	no	
+124	9	6	118011	112800	Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)	scotus	1113943	118011	Puerto Rico Aqueduct and Sewer Authority v. Metcalf & Eddy, Inc. (1993)	no	
+124	10	6	118011	658639	Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)	scotus	1113943	118011	 (1994)	no	
+125	0	22	118133	112887	Agostini v. Felton,521 U.S. 203  (1997)	scotus	1630588	118133	Zobrest v. Catalina Foothills School District (1993)	no	
+125	1	16	118133	111506	Agostini v. Felton,521 U.S. 203  (1997)	scotus	1630588	118133	Aguilar v. Felton (1985)	yes	
+125	2	13	118133	111561	Agostini v. Felton,521 U.S. 203  (1997)	scotus	1630588	118133	Witters v. Washington Department of Services for the Blind (1986)	no	
+125	3	12	118133	111505	Agostini v. Felton,521 U.S. 203  (1997)	scotus	1630588	118133	School District of Grand Rapids v. Ball (1985)	yes	
+125	4	10	118133	108380	Agostini v. Felton,521 U.S. 203  (1997)	scotus	1630588	118133	Lemon v. Kurtzman (1971)	no	
+125	5	8	118133	438842	Agostini v. Felton,521 U.S. 203  (1997)	scotus	1630588	118133	 (1984)	no	
+125	6	8	118133	117870	Agostini v. Felton,521 U.S. 203  (1997)	scotus	1630588	118133	Board of Ed. of Kiryas Joel Village School Dist. v. Grumet (1994)	no	
+125	7	7	118133	109251	Agostini v. Felton,521 U.S. 203  (1997)	scotus	1630588	118133	Meek v. Pittenger (1975)	no	
+125	8	5	118133	112679	Agostini v. Felton,521 U.S. 203  (1997)	scotus	1630588	118133	Rufo v. Inmates of Suffolk County Jail (1992)	no	
+125	9	5	118133	117967	Agostini v. Felton,521 U.S. 203  (1997)	scotus	1630588	118133	Rosenberger v. Rector & Visitors of University of Virginia (1995)	no	
+125	10	5	118133	112138	Agostini v. Felton,521 U.S. 203  (1997)	scotus	1630588	118133	Bowen v. Kendrick (1988)	no	
+126	0	12	118155	112259	Hudson v. United States,522 U.S. 93  (1997)	scotus	5522	118155	United States v. Halper (1989)	yes	
+126	1	11	118155	106534	Hudson v. United States,522 U.S. 93  (1997)	scotus	5522	118155	Kennedy v. Mendoza-Martinez (1963)	no	
+126	2	10	118155	1087946	Hudson v. United States,522 U.S. 93  (1997)	scotus	5522	118155	Department of Revenue of Mont. v. Kurth Ranch (1994)	no	
+126	3	8	118155	110331	Hudson v. United States,522 U.S. 93  (1997)	scotus	5522	118155	United States v. Ward (1980)	no	
+126	4	8	118155	118052	Hudson v. United States,522 U.S. 93  (1997)	scotus	5522	118155	United States v. Ursery (1996)	no	
+126	5	7	118155	102987	Hudson v. United States,522 U.S. 93  (1997)	scotus	5522	118155	Helvering v. Mitchell (1938)	no	
+126	6	4	118155	106087	Hudson v. United States,522 U.S. 93  (1997)	scotus	5522	118155	Flemming v. Nestor (1960)	no	
+126	7	4	118155	112906	Hudson v. United States,522 U.S. 93  (1997)	scotus	5522	118155	United States v. Dixon (1993)	no	
+127	0	13	118149	107615	State Oil Co. v. Khan,522 U.S. 3  (1997)	scotus	321056	118149	Albrecht v. Herald Co. (1968)	yes	
+127	1	12	118149	109716	State Oil Co. v. Khan,522 U.S. 3  (1997)	scotus	321056	118149	Continental T. v.  Inc. v. GTE Sylvania Inc. (1977)	no	
+127	2	6	118149	725024	State Oil Co. v. Khan,522 U.S. 3  (1997)	scotus	321056	118149	Barkat U. Khan and Khan & Associates, Inc. v. State Oil Company (1996)	no	
+127	3	6	118149	112425	State Oil Co. v. Khan,522 U.S. 3  (1997)	scotus	321056	118149	Atlantic Richfield Co. v. USA Petroleum Co. (1990)	no	
+127	4	5	118149	110747	State Oil Co. v. Khan,522 U.S. 3  (1997)	scotus	321056	118149	Arizona v. Maricopa County Medical Society (1982)	no	
+127	5	5	118149	107491	State Oil Co. v. Khan,522 U.S. 3  (1997)	scotus	321056	118149	United States v. Arnold, Schwinn & Co. (1967)	no	
+128	0	7	118230	104079	Hohn v. United States,524 U.S. 236  (1998)	scotus	223158	118230	House v. Mayo (1945)	yes	
+128	1	4	118230	1087822	Hohn v. United States,524 U.S. 236  (1998)	scotus	223158	118230	Ex Parte Quirin (1942)	no	
+128	2	4	118230	112643	Hohn v. United States,524 U.S. 236  (1998)	scotus	223158	118230	Payne v. Tennessee (1991)	no	
+128	3	4	118230	111885	Hohn v. United States,524 U.S. 236  (1998)	scotus	223158	118230	Gray v. Mississippi (1987)	no	
+129	0	17	118317	118011	College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)	scotus	222271	118317	Seminole Tribe of Florida v. Florida (1996)	no	
+129	1	11	118317	108763	College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)	scotus	222271	118317	Employees of Department of Public Health v. Department of Public Health (1973)	no	
+129	2	9	118317	106821	College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)	scotus	222271	118317	Parden v. Terminal Railway of Alabama State Docks Department (1964)	yes	
+129	3	6	118317	111949	College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)	scotus	222271	118317	Welch v. Texas Department of Highways & Public Transportation (1987)	no	
+129	4	6	118317	111503	College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)	scotus	222271	118317	Atascadero State Hospital v. Scanlon (1985)	no	
+129	5	5	118317	112291	College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)	scotus	222271	118317	Pennsylvania v. Union Gas Co. (1989)	no	
+129	6	4	118317	110880	College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)	scotus	222271	118317	White v. Massachusetts Council of Construction Employers, Inc. (1983)	no	
+129	7	4	118317	105513	College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)	scotus	222271	118317	California v. Taylor (1957)	no	
+129	8	4	118317	109520	College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)	scotus	222271	118317	Fitzpatrick v. Bitzer (1976)	no	
+130	0	114	118386	118133	Mitchell v. Helms,530 U.S. 793  (2000)	scotus	1507199	118386	Agostini v. Felton (1997)	no	
+130	1	42	118386	112887	Mitchell v. Helms,530 U.S. 793  (2000)	scotus	1507199	118386	Zobrest v. Catalina Foothills School District (1993)	no	
+130	2	41	118386	111561	Mitchell v. Helms,530 U.S. 793  (2000)	scotus	1507199	118386	Witters v. Washington Department of Services for the Blind (1986)	no	
+130	3	37	118386	107737	Mitchell v. Helms,530 U.S. 793  (2000)	scotus	1507199	118386	Board of Ed. of Central School Dist. No. 1 v. Allen (1968)	no	
+130	4	35	118386	104373	Mitchell v. Helms,530 U.S. 793  (2000)	scotus	1507199	118386	Everson v. Board of Ed. of Ewing (1947)	no	
+130	5	34	118386	109722	Mitchell v. Helms,530 U.S. 793  (2000)	scotus	1507199	118386	Wolman v. Walter (1977)	yes	
+130	6	30	118386	109251	Mitchell v. Helms,530 U.S. 793  (2000)	scotus	1507199	118386	Meek v. Pittenger (1975)	yes	
+130	7	24	118386	111003	Mitchell v. Helms,530 U.S. 793  (2000)	scotus	1507199	118386	Mueller v. Allen (1983)	no	
+130	8	24	118386	108380	Mitchell v. Helms,530 U.S. 793  (2000)	scotus	1507199	118386	Lemon v. Kurtzman (1971)	no	
+130	9	23	118386	117967	Mitchell v. Helms,530 U.S. 793  (2000)	scotus	1507199	118386	Rosenberger v. Rector & Visitors of University of Virginia (1995)	no	
+131	0	15	118428	99610	United States v. Hatter,532 U.S. 557  (2001)	scotus	52338	118428	Evans v. Gore (1920)	yes	
+131	1	11	118428	103214	United States v. Hatter,532 U.S. 557  (2001)	scotus	52338	118428	O'MALLEY v. Woodrough (1939)	no	
+131	2	10	118428	110365	United States v. Hatter,532 U.S. 557  (2001)	scotus	52338	118428	United States v. Will (1980)	no	
+131	3	5	118428	702629	United States v. Hatter,532 U.S. 557  (2001)	scotus	52338	118428	Hatter v. United States (1995)	no	
+132	0	14	118273	111516	Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)	scotus	410914	118273	Oregon Department of Fish & Wildlife v. Klamath Indian Tribe (1985)	no	
+132	1	14	118273	96304	Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)	scotus	410914	118273	United States v. Winans (1905)	no	
+132	2	13	118273	746267	Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)	scotus	410914	118273	 (1997)	no	
+132	3	12	118273	94506	Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)	scotus	410914	118273	Ward v. Race Horse (1896)	yes	
+132	4	9	118273	110146	Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)	scotus	410914	118273	Washington v. Washington State Commercial Passenger Fishing Vessel Assn. (1979)	no	
+132	5	8	118273	2261846	Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)	scotus	410914	118273	Mille Lacs Band of Chippewa Indians v. Minnesota (1994)	no	
+132	6	5	118273	105018	Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)	scotus	410914	118273	Youngstown Sheet & Tube Co. v. Sawyer (1952)	no	
+132	7	5	118273	98773	Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)	scotus	410914	118273	New York Ex Rel. Kennedy v. Becker (1916)	no	
+132	8	5	118273	103642	Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)	scotus	410914	118273	Tulee v. Washington (1942)	no	
+132	9	4	118273	96748	Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)	scotus	410914	118273	Winters v. United States (1908)	no	

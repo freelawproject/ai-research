@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b449-5">
+  Cardozo, J.
+ </author>
+<p id="Az8S">
+  The Pennsylvania Gas Company is a Pennsylvania corporation which supplies natural gas to the inhabitants of the city of Jamestown. Its gas fields and wells are in Pennsylvania, and its gas is conveyed to Jamestown through pipe lines. About forty-five miles of fine are in Pennsylvania and about five in New York. It has a branch office in Jamestown, and its mains and pipes are in the city’s streets. Formerly its rates for gas were thirty cents a thousand. Recently it attempted to raise its rates to thirty-five cents, and filed a schedule with the public service commission accordingly. A citizen of Jamestown, alleging that the new rates were exorbitant, lodged a complaint with the commission.
+  <span citation-index="1" class="star-pagination" label="402"> 
+   *402
+   </span>
+  The gas company was directed to answer the complaint. It filed with the commission a demurrer to the jurisdiction which the commission overruled. Thereupon the company sued out a writ of prohibition. Its petition alleges that the attempted regulation of its rates is an unconstitutional interference with interstate commerce. The writ was granted at Special Term, and vacated at the Appellate Division. An appeal to this court followed.
+ </p>
+<p id="b450-5">
+  (1) We think the petitioner’s business is interstate-commerce. There is no doubt that the transportation of oil or gas from state to state through the medium of pipe lines is commerce between the states
+  <em>
+   (West
+  </em>
+  v.
+  <em>
+   Kansas Natural Gas Co.,
+  </em>
+  <span class="citation" data-id="97421"><a href="/opinion/97421/west-v-kansas-natural-gas-co/" aria-description="Citation for case: West v. Kansas Natural Gas Co.">221 U. S. 229</a></span>;
+  <em>
+   Haskell
+  </em>
+  v.
+  <em>
+   Kansas Natural Gas Co.,
+  </em>
+  <span class="citation" data-id="97602"><a href="/opinion/97602/haskell-v-kansas-natural-gas-co/" aria-description="Citation for case: Haskell v. Kansas Natural Gas Co.">224 U. S. 217</a></span>;
+  <em>
+   <span class="citation" data-id="97602"><a href="/opinion/97602/haskell-v-kansas-natural-gas-co/" aria-description="Citation for case: Haskell v. Kansas Natural Gas Co.">Haskell</a></span>
+  </em>
+  v.
+  <em>
+   Cowham,
+  </em>
+  187 Fed. Rep. 403). It is true that there is a distinction to be noted. • What is regulated by this statute (Public Service Commissions Law [Cons. Laws, chap. 48], sec. 65) is not, the act of transportation; it is the sale of the. thing transported
+  <em>
+   (Manufacturers’ Light &amp; Heat Co.
+  </em>
+  v.
+  <em>
+   Ott,
+  </em>
+  215 Fed. Rep. 940, 944). But the sale of commodities to be delivered by the seller in one state to the buyer in another is also interstate commerce
+  <em>
+   (Leisy
+  </em>
+  v.
+  <em>
+   Hardin,
+  </em>
+  <span class="citation" data-id="92767"><a href="/opinion/92767/leisy-v-hardin/" aria-description="Citation for case: Leisy v. Hardin">135 U. S. 100</a></span>;
+  <em>
+   Savage
+  </em>
+  v.
+  <em>
+   Jones,
+  </em>
+  <span class="citation" data-id="97675"><a href="/opinion/97675/savage-v-jones/" aria-description="Citation for case: Savage v. Jones">225 U. S. 501</a></span>;
+  <em>
+   Int. Paper Co
+  </em>
+  . v.
+  <em>
+   Mass.,
+  </em>
+  <span class="citation" data-id="99103"><a href="/opinion/99103/international-paper-co-v-commonwealth-of-massachusetts/" aria-description="Citation for case: International Paper Co. v. Commonwealth of Massachusetts">246 U. S. 135</a></span>). It is, therefore, subject, like the business of transportation, to the power of the nation. Interstate commerce does not end until the subject-matter of the sale has been broken up or redistributed or absorbed in the common mass of property within the state
+  <em>
+   (Leisy
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="92767"><a href="/opinion/92767/leisy-v-hardin/" aria-description="Citation for case: Leisy v. Hardin">Hardin, supra).</a></span>
+  </em>
+  When that moment arrives, "is not always easy to determine. The test to be applied will vary with the • method of transportation and the subject of the sale. The keg of beer transported from one state to another is withdrawn from interstate commerce when its contents are sold by the glass
+  <em>
+   (Leisy
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="92767"><a href="/opinion/92767/leisy-v-hardin/" aria-description="Citation for case: Leisy v. Hardin">Hardin, supra).</a></span>
+  </em>
+  Tobacco, imported in
+  <span citation-index="1" class="star-pagination" label="403"> 
+   *403
+   </span>
+  bulk, becomes subject to the plenary power of the states when the bulk is broken and the tobacco sold at retail
+  <em>
+   (Rast
+  </em>
+  v.
+  <em>
+   Van Deman &amp; Lewis Co.,
+  </em>
+  <span class="citation" data-id="98668"><a href="/opinion/98668/rast-v-van-deman-lewis-co/#362" aria-description="Citation for case: Rast v. Van Deman &amp; Lewis Co.">240 U. S. 342, 362</a></span>;
+  <em>
+   Armour &amp; Co.
+  </em>
+  v.
+  <em>
+   North Dakota,
+  </em>
+  <span class="citation" data-id="98687"><a href="/opinion/98687/armour-co-v-north-dakota/#517" aria-description="Citation for case: Armour &amp; Co. v. North Dakota">240 U. S. 510, 517</a></span>). But the rule of the “ original package ” is not an ultimate principle. It is an illustration of a principle. It assumes transmission in packages, and then supplies a test of the unity of the transaction. If other forms of transmission are employed, there is need of other tests
+  <em>
+   (Mutual Film Corp.
+  </em>
+  v.
+  <em>
+   Ohio Ind. Comm.,
+  </em>
+  <span class="citation" data-id="98362"><a href="/opinion/98362/mutual-film-corp-v-industrial-commission-of-ohio/#241" aria-description="Citation for case: Mutual Film Corp. v. Industrial Commission of Ohio">236 U. S. 230, 241</a></span>;
+  <em>
+   Hall
+  </em>
+  v.
+  <em>
+   Geiger-Jones Co.,
+  </em>
+  <span class="citation" data-id="98859"><a href="/opinion/98859/hall-v-geiger-jones-co/#558" aria-description="Citation for case: Hall v. Geiger-Jones Co.">242 U. S. 539, 558</a></span>). The telegram forwarded by the stock exchange in New York to the telegraph company in Boston, with the intention that the company shall transmit it to selected brokers, approved in advance by the exchange, does not lose its character as a subject of interstate commerce until it reaches the brokers’ offices
+  <em>
+   (W. U. Tel. Co.
+  </em>
+  v.
+  <em>
+   Foster,
+  </em>
+  247 U. 8. 105). The continuity of the transaction is not broken by the translation of the code message into English; by its transmission, thus translated, to subscribers; or even by the option, reserved by the telegraph company, to refuse delivery to any one
+  <em>
+   (W. U. Tel. Co.
+  </em>
+  v.
+  <em>
+   Foster, supra).
+  </em>
+  The law does not ask itself what the parties
+  <em>
+   may
+  </em>
+  do, but what, in the normal course of business, it is expected that they
+  <em>
+   will
+  </em>
+  do. “ If the normal, contemplated and followed course is a transmission as continuous and rapid as science can make it from exchange to broker’s office, it does not matter what are the stages, or how little they are secured by covenant or bond ”
+  <em>
+   (W. U. Tel. Co.
+  </em>
+  v.
+  <em>
+   Foster, supra,
+  </em>
+  at p. 113). The essential unity of the transaction remains the final test
+  <em>
+   (Swift &amp; Co.
+  </em>
+  v.
+  <em>
+   U. S.,
+  </em>
+  <span class="citation" data-id="96205"><a href="/opinion/96205/swift-co-v-united-states/#399" aria-description="Citation for case: Swift &amp; Co. v. United States">196 U. S. 375, 399</a></span>;
+  <em>
+   Rearick
+  </em>
+  v.
+  <em>
+   Pennsylvania,
+  </em>
+  <span class="citation" data-id="96550"><a href="/opinion/96550/rearick-v-pennsylvania/#512" aria-description="Citation for case: Rearick v. Pennsylvania">203 U. S. 507, 512</a></span>).
+ </p>
+<p id="b451-5">
+  Subjected to that test, the transactions of the petitioner’s business have the unity and directness of interstate commerce. There is no break in the continuity of the transmission from pumping station in
+  <span citation-index="1" class="star-pagination" label="404"> 
+   *404
+   </span>
+  Pennsylvania to home and office and factory in Jamestown. ' A different question would arise if gas transmitted from Pennsylvania should be stored in reservoirs in New York, and then distributed to consumers as their needs might afterwards develop. The quantity stored or the period of' storage might require us to hold that interstate commerce was at an end when the place of storage had been reached
+  <em>
+   (Kehrer
+  </em>
+  v.
+  <em>
+   Stewart,
+  </em>
+  <span class="citation" data-id="96232"><a href="/opinion/96232/kehrer-v-stewart/#65" aria-description="Citation for case: Kehrer v. Stewart">197 U. S. 60, 65</a></span>;
+  <em>
+   Brown
+  </em>
+  v.
+  <em>
+   Houston,
+  </em>
+  <span class="citation" data-id="91413"><a href="/opinion/91413/brown-v-houston/" aria-description="Citation for case: Brown v. Houston">114 U. S. 622</a></span>). The transactions would then be similar to those common in the oil business. We do not now determine the rule that should govern them. It is enough to hold that where there is in substance no storage, but merely transmission for immediate or practically immediate use, direct from seller to consumer, • interstate commerce does not end till the gas has reached its goal. That, by the fair intendment of the petition, is the business conducted by this petitioner. It is not important that consumers do not signify in advance the precise amount that they will need. If their wants are approximately known, and the gas is transmitted not to be held, but to be used, so that any storage that results is merely casual and incidental, the transaction is to be treated as single and continuous. We must then say, in the language of Holmes, J., in
+  <em>
+   W. U. Tel. Co.
+  </em>
+  v.
+  <em>
+   Foster (supra),
+  </em>
+  that the transmission is “as continuous and rapid as science can make it.”
+ </p>
+<p id="b452-5">
+  (2) The question remains whether, in default of action by Congress, the attempted regulation is with police power of the state.
+ </p>
+<p id="b452-6">
+  The petitioner is a public service corporation. Its rates are subject to regulation by
+  <em>
+   some
+  </em>
+  agency of government. Congress has never occupied the field of regulation, as it has done with railroads, the telegraph and telephone lines, and even the oil companies (Act to Regulate Commerce, as amended June 29, 1906, ch. 3591, and June 18, 1910, ch. 309). Gas and water companies are expressly
+  <span citation-index="1" class="star-pagination" label="405"> 
+   *405
+   </span>
+  excepted. In such circumstances, there is no implied exclusion of the police power of the states. The exercise of that power is, indeed, subject to conditions. It must not impose upon interstate commerce burdens new and direct rather than remote and incidental
+  <em>
+   (Leisy
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="92767"><a href="/opinion/92767/leisy-v-hardin/" aria-description="Citation for case: Leisy v. Hardin">Hardin, supra;</a></span> Minnesota Rate Cases,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.%20S./230/352/">230 U. S. 352</a></span>, 396, 400). It must not discriminate against foreign products
+  <em>
+   (Brimmer
+  </em>
+  v.
+  <em>
+   Rebman,
+  </em>
+  <span class="citation" data-id="92932"><a href="/opinion/92932/brimmer-v-rebman/" aria-description="Citation for case: Brimmer v. Rebman">138 U. S. 78</a></span>;
+  <em>
+   Minn. Rate Cases, supra,
+  </em>
+  at p. 401). It must not introduce diversity and conflict where there is need of uniformity and harmony
+  <em>
+   (Cooley
+  </em>
+  v.
+  <em>
+   Board of Wardens,
+  </em>
+  12 How. [U. S.] 299, 319;
+  <em>
+   Wabash, St. L. &amp; P. R. Co.
+  </em>
+  v.
+  <em>
+   Ill.,
+  </em>
+  <span class="citation" data-id="91716"><a href="/opinion/91716/wabash-st-louis-pacific-railway-co-v-illinois/" aria-description="Citation for case: Wabash, St. Louis &amp; Pacific Railway Co. v. Illinois">118 U. S. 557</a></span>;
+  <em>
+   Covington &amp; C. Bridge Co.
+  </em>
+  v.
+  <em>
+   Kentucky,
+  </em>
+  <span class="citation" data-id="93940"><a href="/opinion/93940/covington-cincinnati-bridge-co-v-kentucky/" aria-description="Citation for case: Covington &amp; Cincinnati Bridge Co. v. Kentucky">154 U. S. 204</a></span>;
+  <em>
+   Minn. Rate Cases, supra,
+  </em>
+  at p. 400). But- subject to those conditions, the police power of the states survives, though the transactions brought within its grip are those of interstate commerce. Matters peculiarly of local concern are not
+  <em>
+   “
+  </em>
+  left to the unrestrained will of individuals because Congress has not acted
+  <em>
+   ” (Minn. Rate Cases, supra,
+  </em>
+  at p. 402).
+  <em>
+   “
+  </em>
+  Our system of government is a practical adjustment by which the national authority as conferred by the Constitution is maintained in its full scope without unnecessary loss of local efficiency ”
+  <em>
+   (Minn. Rate Cases, supra).
+  </em>
+  No general formula can tell us in advance where the line is to be drawn.
+  <em>
+   “
+  </em>
+  We have no second Laplace, and we never shall have, with his Méchanique Politique, able to define and describe the orbit of each sphere in our political system with such exact mathematical precision” (Daniel Webster in
+  <em>
+   Bank of Augusta
+  </em>
+  v.
+  <em>
+   Earle,
+  </em>
+  <span class="citation" data-id="86114"><a href="/opinion/86114/bank-of-augusta-v-earle/#559" aria-description="Citation for case: Bank of Augusta v. Earle">13 Pet. 519, 559</a></span>, quoted by Henderson,
+  <em>
+   “
+  </em>
+  The Position of Foreign Corporations in American Constitutional Law,” p. 117).
+ </p>
+<p id="b453-6">
+  We think the line must be drawn here so as to bring the attempted regulation within the power of the state. It is important to keep before us just what the state has
+  <span citation-index="1" class="star-pagination" label="406"> 
+   *406
+   </span>
+  tried to do. The rule is stated in section 65 of the Public Service Commissions Law: “Every gas corporation, every electrical corporation and every municipality shall furnish and provide such service, instrumentalities and facilities as shall be safe and adequate and in all respects just and reasonable. All charges made or demanded by any such gas corporation, electrical corporation or municipality for gas, electricity or any service rendered or to be rendered, shall be just and reasonable and not more than allowed by law or by order of the commission having jurisdiction. Every unjust or unreasonable charge made or demanded for gas,' electricity or any such service, or in connection therewith, or in excess of that allowed by law or by the order of the commission is prohibited.”
+ </p>
+<p id="b454-5">
+  This gas company occupies the streets of Jamestown with its mains. Even without any statute, it would be under a duty to furnish gas to the public at fair and reasonable rates. The statute might be repealed, and still the courts would have the power, if exorbitant charges were made, to give relief to the consumer (1 Wyman, Public Service Corporations, secs. 111, 113;
+  <em>
+   Gibbs
+  </em>
+  v.
+  <em>
+   Baltimore Gas Co.,
+  </em>
+  <span class="citation" data-id="92483"><a href="/opinion/92483/gibbs-v-consolidated-gas-co-of-baltimore/#408" aria-description="Citation for case: Gibbs v. Consolidated Gas Co. of Baltimore">130 U. S. 396, 408</a></span>;
+  <em>
+   Armour Packing Co.
+  </em>
+  v.
+  <em>
+   Edison El. Ill. Co.,
+  </em>
+  <span class="citation" data-id="5200308"><a href="/opinion/5365374/armour-packing-co-v-edison-electric-illuminating-co/" aria-description="Citation for case: Armour Packing Co. v. Edison Electric Illuminating Co.">115 App. Div. 51</a></span>;
+  <em>
+   Shepard
+  </em>
+  v.
+  <em>
+   Milwaukee Gas Co.,
+  </em>
+  <span class="citation" data-id="6597633"><a href="/opinion/6716860/shepard-v-milwaukee-gas-light-co/" aria-description="Citation for case: Shepard v. Milwaukee Gas Light Co.">6 Wis. 539</a></span>). The state in the adoption of this law has not imposed a new burden. It has not created a new duty. It has given a new
+  <em>
+   “
+  </em>
+  sanction ” to
+  <em>
+   “
+  </em>
+  an inherent duty ”
+  <em>
+   (W. U. Tel. Co.
+  </em>
+  v.
+  <em>
+   Commercial Milling Co.,
+  </em>
+  <span class="citation" data-id="97308"><a href="/opinion/97308/western-union-telegraph-co-v-commercial-milling-co/#416" aria-description="Citation for case: Western Union Telegraph Co. v. Commercial Milling Co.">218 U. S. 406, 416</a></span>). It has established a new administrative agency the better to ascertain and declare and enforce a duty already existing. We cannot doubt that the creation of such an agency is within the power of the state until Congress shall manifest the purpose to override its action
+  <em>
+   (W. U. Tel. Co.
+  </em>
+  v.
+  <em>
+   Comcl. Milling Co., supra; Mo., K. &amp; T. Ry. Co.
+  </em>
+  v.
+  <em>
+   Harris,
+  </em>
+  <span class="citation" data-id="98238"><a href="/opinion/98238/missouri-kansas-texas-railway-co-v-harris/" aria-description="Citation for case: Missouri, Kansas &amp; Texas Railway Co. v. Harris">234 U. S. 412</a></span>;
+  <em>
+   Southern Ry. Co.
+  </em>
+  v.
+  <em>
+   Reid,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.%20S./222/424/">222 U. S. 424</a></span>, 437;
+  <span citation-index="1" class="star-pagination" label="407"> 
+   *407
+   </span>
+<em>
+   Missouri Pac. Ry. Co.
+  </em>
+  v.
+  <em>
+   Larrabee Flour Mills Co.,
+  </em>
+  <span class="citation" data-id="96934"><a href="/opinion/96934/missouri-pacific-railway-co-v-larabee-flour-mills-co/#623" aria-description="Citation for case: Missouri Pacific Railway Co. v. Larabee Flour Mills Co.">211 U. S. 612, 623</a></span>;
+  <em>
+   Texas &amp; P. Ry. Co.
+  </em>
+  v.
+  <em>
+   Abilene Cotton Oil Co.,
+  </em>
+  <span class="citation" data-id="96594"><a href="/opinion/96594/texas-pacific-railway-co-v-abilene-cotton-oil-co/" aria-description="Citation for case: Texas &amp; Pacific Railway Co. v. Abilene Cotton Oil Co.">204 U. S. 426</a></span>;
+  <em>
+   Lake Shore &amp; M. S. Ry. Co.
+  </em>
+  v.
+  <em>
+   Ohio,
+  </em>
+  <span class="citation" data-id="95012"><a href="/opinion/95012/lake-shore-michigan-southern-railway-co-v-ohio/" aria-description="Citation for case: Lake Shore &amp; Michigan Southern Railway Co. v. Ohio">173 U. S. 285</a></span>;
+  <em>
+   N. Y. &amp; N. H. R. R. Co.
+  </em>
+  v.
+  <em>
+   N. Y.,
+  </em>
+  <span class="citation" data-id="94635"><a href="/opinion/94635/new-york-new-haven-hartford-railroad-v-new-york/" aria-description="Citation for case: New York, New Haven &amp; Hartford Railroad v. New York">165 U. S. 628</a></span>;
+  <em>
+   Chicago, R. I. &amp; P. Ry. Co.
+  </em>
+  v.
+  <em>
+   Arkansas,
+  </em>
+  <span class="citation" data-id="97362"><a href="/opinion/97362/chicago-rock-island-pacific-railway-co-v-arkansas/" aria-description="Citation for case: Chicago, Rock Island &amp; Pacific Railway Co. v. Arkansas">219 U. S. 453</a></span>;
+  <em>
+   Int. &amp; Gt. No. Ry. Co.
+  </em>
+  v.
+  <em>
+   Anderson County,
+  </em>
+  <span class="citation" data-id="99137"><a href="/opinion/99137/international-great-northern-railway-co-v-anderson-county/" aria-description="Citation for case: International &amp; Great Northern Railway Co. v. Anderson...">246 U. S. 424</a></span>). Nothing to the contrary was held in
+  <em>
+   W. U. Tel. Co.
+  </em>
+  v.
+  <em>
+   Foster (supra).
+  </em>
+  There is a twofold distinction. The regulation there condemned was one that affected telegraph companies in a field already occupied by the statutes of the nation (Act to Regulate Commerce, as amended June 18, 1910), and it imposed a new duty instead of enforcing an old one (247 U. S. at p. 114).
+ </p>
+<p id="b455-5">
+  In thus holding, we do not forget that the state, in the. exercise of its police power, must not introduce diversity and conflict in spheres where there is need of uniformity and harmony. That is the reason why, irrespective of any occupation of the field by Congress, it may not fix the rates of interstate transportation. It may not do this, even though it confines its action to that part of the interstate journey within its own limits. The law in that respect has been undoubted since the decision in
+  <em>
+   Wabash, St. L. &amp; P. R. Co.
+  </em>
+  v.
+  <em>
+   Ill.
+  </em>
+  (<span class="citation" data-id="91716"><a href="/opinion/91716/wabash-st-louis-pacific-railway-co-v-illinois/" aria-description="Citation for case: Wabash, St. Louis &amp; Pacific Railway Co. v. Illinois">118 U. S. 557</a></span>). A statute of Illinois prescribed that there should be no greater charge for a short haul than for a long one. In condemning the statute, the court emphasized the need of uniform regulation. If each state prescribed different rates for different portions of the trip, the result would be chaos. Again in the
+  <em>
+   Covington Bridge
+  </em>
+  case
+  <em>
+   (Covington &amp; Cinn. Bridge Co.
+  </em>
+  v.
+  <em>
+   Kentucky,
+  </em>
+  <span class="citation" data-id="93940"><a href="/opinion/93940/covington-cincinnati-bridge-co-v-kentucky/" aria-description="Citation for case: Covington &amp; Cincinnati Bridge Co. v. Kentucky">154 U. S. 204</a></span>), the decision had a like basis. A bridge lay between two states. One state attempted to fix a charge. The court said that if one state could fix one charge; the other could fix another; and again the result would be chaos. On the other hand, the question was left open whether the two states, in default of action by Congress, might establish a joint •
+  <span citation-index="1" class="star-pagination" label="408"> 
+   *408
+   </span>
+  tariff (154 U. S. at p. 222). These cases are taken as typical of many others. The principle back of them has been often stated.
+  <em>
+   “
+  </em>
+  As to those subjects which require a general system or uniformity of regulation the power of Congress is exclusive ”
+  <em>
+   (Minn. Rate Cases, supra,
+  </em>
+  at p. 399). As to “ other matters, admitting of diversity of treatment according to the special requirements of local conditions,” there is a reserved power in the states, subject, in its exercise, to the overriding power of the nation.
+  <em>
+   “
+  </em>
+  Inaction of Congress upon these subjects of a local nature or operation, unlike its inaction upon matters affecting all the states and requiring uniformity of regulation,” is not a denial, but a concession of the power of the vicinage
+  <em>
+   (County of Mobile
+  </em>
+  v.
+  <em>
+   Kimball,
+  </em>
+  <span class="citation" data-id="90287"><a href="/opinion/90287/county-of-mobile-v-kimball/#699" aria-description="Citation for case: County of Mobile v. Kimball">102 U. S. 691, 699</a></span>;
+  <em>
+   Transp. Co.
+  </em>
+  v.
+  <em>
+   Parkersburg,
+  </em>
+  <span class="citation" data-id="90809"><a href="/opinion/90809/transportation-co-v-parkersburg/#703" aria-description="Citation for case: Transportation Co. v. Parkersburg">107 U. S. 691, 703</a></span>). Familiar illustrations are regulations of the fees of pilots
+  <em>
+   (Cooley
+  </em>
+  v.
+  <em>
+   Board of Wardens,
+  </em>
+  12 How. [U. S.] 299, 319), charges for the use of wharves
+  <em>
+   (Transp. Co.
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="90809"><a href="/opinion/90809/transportation-co-v-parkersburg/" aria-description="Citation for case: Transportation Co. v. Parkersburg">Parkersburg, supra;</a></span> Minn. Rate Cases, supra,
+  </em>
+  at p. 405), and tolls for the use of natural waterways, which have been artificially improved
+  <em>
+   (Sands
+  </em>
+  v.
+  <em>
+   Manistee River Imp. Co.,
+  </em>
+  <span class="citation" data-id="92044"><a href="/opinion/92044/sands-v-manistee-river-improvement-co/" aria-description="Citation for case: Sands v. Manistee River Improvement Co.">123 U. S. 288</a></span>). Dicta may, indeed, be quoted where the court, in sustaining police regulations, has observed, as if by way of contrast, that they did not involve the regulation of rates
+  <em>
+   (Chicago, M. &amp; St. P. Ry. Co.
+  </em>
+  v.
+  <em>
+   Solan,
+  </em>
+  <span class="citation" data-id="94807"><a href="/opinion/94807/chicago-milwaukee-st-paul-railway-co-v-solan/" aria-description="Citation for case: Chicago, Milwaukee &amp; St. Paul Railway Co. v. Solan">169 U. S. 133</a></span>;
+  <em>
+   W. U. Tel. Co.
+  </em>
+  v.
+  <em>
+   Coml. Milling Co., supra,
+  </em>
+  p. 418). But in every case the rates in view were rates of transportation. That is a field where regulation, if there is to be any, must be uniform. A central authority must reconcile the clashing action of localities. What is within the police power of one state is equally in such circumstances within the police power of its neighbor. One cannot freely exercise its will without affecting at the same time the like freedom of another. In the phrase of Hobbes, there is need of
+  <em>
+   “
+  </em>
+  a common power to keep them in awe.”
+ </p>
+<p id="b457-4">
+<span citation-index="1" class="star-pagination" label="409"> 
+   *409
+   </span>
+  We deal here with a different situation. There is here no regulation of transportation
+  <em>
+   (Mfrs.’ Light &amp; Heat Co.
+  </em>
+  v.
+  <em>
+   Ott,
+  </em>
+  215 Fed. Rep. 940, 944). There is no regulation
+  <em>
+   of
+  </em>
+  a duty owing equally to two states. There is regulation of a duty owing to one of them alone. The seller of most things has the right to sell at whatever price he will. This petitioner has lost that right by the acceptance of a public franchise in consideration of a public service
+  <em>
+   (Gibbs
+  </em>
+  v.
+  <em>
+   Baltimore Gas Co., supra; New Orleans Gas Co.
+  </em>
+  v.
+  <em>
+   Louisiana Light Co.,
+  </em>
+  <span class="citation" data-id="91488"><a href="/opinion/91488/new-orleans-gas-co-v-louisiana-light-co/" aria-description="Citation for case: New Orleans Gas Co. v. Louisiana Light Co.">115 U. S. 650</a></span>;
+  <em>
+   Shepard
+  </em>
+  v.
+  <em>
+   Milwaukee Gas Co.,
+  </em>
+  <span class="citation no-link">6 Wis. 639</span>). The service is due to the state from which the privilege proceeds. Until Congress shall intervene, it is, therefore, the police power of New York that controls the sale of gas to consumers in New York. There is no division of the power between New York and Pennsylvania. There is no more a division of power than when we regulate our fees for wharfage or our tolls for artificial waterways. In these matters, protection of our own inhabitants is a duty that is ours and no one else’s. The power may be displaced; but until displaced, it is undivided. Here, then, is the decisive distinction between the regulation of the price of gas and that of rates of transportation. There is no room for conflict of authority, for clashing regulations. The statute has a sphere of operation that is not national, but local
+  <em>
+   (Cooley
+  </em>
+  v.
+  <em>
+   Bd. of Port Wardens, supra).
+  </em>
+  It is idle to speak of the need of uniformity of action by states of equal competence when there is only one state whose action is involved. But even within the state, diversity rather than uniformity is exacted by the conditions of the business. Rates adequate in one city are inadequate in another. The local needs are best known to local agencies of government. No central authority, acting for the nation as a whole, will readily discern them.
+ </p>
+<p id="b457-5">
+  The case comes, then, to this: We have a sale of a
+  <span citation-index="1" class="star-pagination" label="410"> 
+   *410
+   </span>
+  single commodity. We have a pre-existing duty to sell it at fair rates. We have a transaction where conflicting regulations by the states are impossible, for the public duties regulated are fulfilled in one state only. We have a statute which declares a duty that would exist without it, and establishes a new agency of government to insure obedience. The silence of Congress cannot be interpreted as a declaration that public service corporations, serving the needs of the locality, may charge anything they please
+  <em>
+   (County of Mobile
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="90287"><a href="/opinion/90287/county-of-mobile-v-kimball/" aria-description="Citation for case: County of Mobile v. Kimball">Kimball, supra;</a></span> Transportation Co.
+  </em>
+  v.
+  <span class="citation" data-id="90809"><a href="/opinion/90809/transportation-co-v-parkersburg/" aria-description="Citation for case: Transportation Co. v. Parkersburg"><em>
+   Parkersburg,
+  </em>
+  supra;</a></span>
+  <em>
+   Covingtom Bridge Case, supra,
+  </em>
+  p. 222). The local regulation stands until Congress occupies the field.
+ </p>
+<p id="b458-5">
+  The order should be affirmed with costs.
+ </p>
+<p id="b458-6">
+  His cock, Ch. J., Chase, Hogan, Pound, McLaughlin and Andrews, JJ., concur.
+ </p>
+<p id="b458-7">
+  Order affirmed.
+ </p>
+</opinion>

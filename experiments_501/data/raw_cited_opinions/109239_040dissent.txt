@@ -1,0 +1,9 @@
+<opinion type="dissent">
+<author id="b218-5">Mr. Justice Stewart,</author>
+<p id="APW">dissenting.</p>
+<p id="b218-6">All agree that the appellant is engaged <em>exclusively </em>in interstate commerce. Yet the Court says that Louisiana can nonetheless impose this franchise tax upon the appellant because it is for the privilege of engaging in interstate commerce “in [the] corporate form.”<footnotemark>*</footnotemark> Under this reasoning, the State could impose a like franchise tax for the privilege of carrying on an exclusively interstate business “in the partnership form” — or, for that matter, in the form of an individual proprietorship. For, whatever its form, the exclusively interstate business would still be “owning or using [a] part of its capital, plant or other property in Louisiana,” <em>ante, </em>at 109, and would still be “furnished” equivalent “protection and benefits” by the State, <em>ante, </em>at 114.</p>
+<p id="b218-7">The fact is that Louisiana has imposed a franchise tax upon the appellant for the privilege of carrying on an exclusively interstate business. Under our established precedents, such a tax is constitutionally impermissible. <em>Spector Motor Service </em>v. <em>O’Connor, </em>340 U. S. 602; <em>Railway Express Agency </em>v. <em>Virginia, </em>347 U. S. 359. I could understand if the Court today were forthrightly to overrule these precedents and hold that a state franchise tax upon interstate commerce is constitutionally valid, so long as it is not discriminatory. But I cannot understand how the Court can embrace the wholly specious reasoning of the Supreme Court of Louisiana in this case.</p>
+<footnote label="*">
+<p id="b218-8"> The appellant is not, of course, incorporated in Louisiana.</p>
+</footnote>
+</opinion>

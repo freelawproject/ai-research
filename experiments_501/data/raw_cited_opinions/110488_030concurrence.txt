@@ -1,0 +1,5 @@
+<opinion data-order="12" data-type="opinion" id="x999-3" type="concurrence">
+<author id="b826-9">Chief Justice Burger,</author>
+<p id="AGgM">concurring.</p>
+<p id="b826-10">There is much validity in Justice Rehnquist’s dissenting opinion, and it should keep us alert to any effort to expand the use of our original jurisdiction. However, I am satisfied that the Court’s resolution of this case is sound, and I therefore join the Court’s opinion.</p>
+</opinion>

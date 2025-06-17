@@ -1,0 +1,162 @@
+<p class="case_cite"><span class="citation no-link"><span class="volume">787</span> <span class="reporter">F.2d</span> <span class="page">423</span></span></p>
+    <p class="parties">COMMONWEALTH OF PUERTO RICO, Plaintiff-Appellant,<br>v.<br>Terry E. BRANSTAD, et al., Defendants-Appellees.</p>
+    <p class="docket">No. 85-1793.</p>
+    <p class="court">United States Court of Appeals,<br>Eighth Circuit.</p>
+    <p class="date">Submitted Feb. 14, 1986.<br>Decided March 28, 1986.</p>
+    <div class="prelims">
+      <p class="indent">Jorge E. Perez Diaz, San Juan, Puerto Rico, for plaintiff-appellant.</p>
+      <p class="indent">Brent P. Appel, Des Moines, Iowa, for defendants-appellees.</p>
+      <p class="indent">Before ARNOLD, FAGG and TIMBERS,<a class="footnote" href="#fn-s" id="fn-s_ref">*</a> Circuit Judges.</p>
+      <p class="indent">TIMBERS, Circuit Judge.</p>
+    </div>
+    <div class="num" id="p1">
+      <span class="num">1</span>
+      <p class="indent">The Commonwealth of Puerto Rico ("appellant") appeals from a judgment entered May 22, 1985 in the Southern District of Iowa, Donald E. O'Brien, District Judge, denying appellant's petition for a writ of mandamus to compel Terry E. Branstad, the Governor of Iowa ("appellee"), to extradite Ronald Calder to Puerto Rico, and dismissing the complaint.  In denying the petition and dismissing the complaint, the district court relied on Kentucky v. Dennison, 65 U.S.  (24 How.) 66 (1861), where the Supreme Court held that the federal judiciary lacks the power to compel a state governor to perform his ministerial duty to extradite a fugitive upon receiving a valid demand.</p>
+    </div>
+    <div class="num" id="p2">
+      <span class="num">2</span>
+      <p class="indent">On appeal, appellant recognizes that Dennison is controlling.  It argues, however, that Dennison is no longer binding on the lower federal courts because it is premised on a defunct theory of federalism and the Supreme Court would overrule Dennison if the same issue were presented to the Court today.</p>
+    </div>
+    <div class="num" id="p3">
+      <span class="num">3</span>
+      <p class="indent">We are constrained to hold that appellant has failed to establish that the Supreme Court would overrule Dennison if the same issue were presented to the Court today.  Accordingly, we hold that the district court correctly held that it lacked the power to issue a writ of mandamus compelling appellee to extradite Calder, even though appellant's extradition request met all constitutional requirements.  Reluctantly, we affirm.</p>
+    </div>
+    <p>I.</p>
+    <div class="num" id="p4">
+      <span class="num">4</span>
+      <p class="indent">We summarize only those facts believed necessary to an understanding of the issues raised on appeal.</p>
+    </div>
+    <div class="num" id="p5">
+      <span class="num">5</span>
+      <p class="indent">The Commonwealth of Puerto Rico has charged Calder with murder and attempted murder.  The charges arose out of an altercation in a parking lot in Aguadilla, Puerto Rico, on January 25, 1981.  Calder is charged with having run over Antonio de Jesus Gonzalez and his pregnant wife more than once.  The woman and her baby died shortly thereafter.</p>
+    </div>
+    <div class="num" id="p6">
+      <span class="num">6</span>
+      <p class="indent">Several hours after the incident, Calder was charged with homicide and released on bail.  When Calder subsequently failed to appear for several preliminary hearings, he was declared a fugitive from justice and an arrest warrant was issued.  An investigation by the Puerto Rican authorities established that Calder in mid-April 1981 had returned to his native state of Iowa.<a class="footnote" href="#fn1" id="fn1_ref">1</a></p>
+    </div>
+    <div class="num" id="p7">
+      <span class="num">7</span>
+      <p class="indent">On May 15, 1981, the Governor of Puerto Rico, Carlos Romero Barcelo, formally requested the extradition of Calder from the then Governor of Iowa, Robert D. Ray, pursuant to Art. IV, Sec. 2, cl. 2 of the United States Constitution and the Extradition Act, 18 U.S.C. Sec. 3182 (1982).  Although the extradition request complied with all constitutional and statutory requirements,<a class="footnote" href="#fn2" id="fn2_ref">2</a> the Governor of Iowa, after hearing evidence, denied the extradition request on December 28, 1981.  In so doing, he stated that he felt that the first degree murder charge was too severe and that a charge of manslaughter was more justifiable.  Thereafter, appellant renewed its extradition request to appellee, Governor Branstad, who succeeded Robert Ray as Governor.  Governor Branstad also refused to extradite Calder.</p>
+    </div>
+    <div class="num" id="p8">
+      <span class="num">8</span>
+      <p class="indent">Faced with appellee's adamant refusal to extradite Calder, appellant commenced the instant action requesting the district court to issue a writ of mandamus directing appellee to perform his ministerial duty of granting extradition and delivering Calder to the Puerto Rican authorities.<a class="footnote" href="#fn3" id="fn3_ref">3</a>   The complaint alleged that appellee had breached his ministerial duties mandated by the extradition clause of the Constitution in refusing to extradite Calder upon receiving a valid demand.</p>
+    </div>
+    <div class="num" id="p9">
+      <span class="num">9</span>
+      <p class="indent">Appellee filed a motion to dismiss in the district court, claiming that <span class="citation no-link"><span class="antecedent_guess">Dennison,</span> supra</span>, precluded the issuance of a writ of mandamus because in Dennison the Supreme Court had held expressly that a governor could not be compelled to perform his duty to extradite.  Appellant acknowledged that Dennison is controlling, but argued that Dennison is no longer binding on the lower federal courts because it is predicated on pre-civil war concepts of state sovereignty.  Appellant further argues that the Supreme Court would overrule Dennison if confronted with the same issue today.</p>
+    </div>
+    <div class="num" id="p10">
+      <span class="num">10</span>
+      <p class="indent">On May 22, 1985, the district court entered a judgment denying the writ of mandamus and dismissing the complaint on the ground that it could not be said with certainty that the Supreme Court would overrule Dennison if same issue were presented today.</p>
+    </div>
+    <p>II.</p>
+    <div class="num" id="p11">
+      <span class="num">11</span>
+      <p class="indent">In <span class="citation no-link"><span class="antecedent_guess">Dennison,</span> supra</span>, 65 U.S. at 95-110, the Supreme Court, in an opinion by Chief Justice Taney, examined the extradition process provided for in the extradition clause of the Constitution, Art. IV, Sec. 2, cl. 2,<a class="footnote" href="#fn4" id="fn4_ref">4</a> and the Extradition Act, 18 U.S.C. Sec. 3182.<a class="footnote" href="#fn5" id="fn5_ref">5</a></p>
+    </div>
+    <div class="num" id="p12">
+      <span class="num">12</span>
+      <p class="indent">The Governor of Kentucky in Dennison sought a writ of mandamus to compel the Governor of Ohio (named Dennison) to extradite Willis Lago, a "free man of color", who had been indicted by a Kentucky grand jury for the crime of assisting a slave to escape from his master and was a fugitive from justice.  Governor Dennison refused to extradite Lago because his actions were not illegal under Ohio law.</p>
+    </div>
+    <div class="num" id="p13">
+      <span class="num">13</span>
+      <p class="indent">The Supreme Court declined to issue the writ.  In declining to do so, the Court established what strikes us as two contradictory rules.  First, the Court held that a governor's duty to extradite, as established by the Constitution and the Act of 1793, was "ministerial".  In defining the nature of this "ministerial" duty, the Court stated that it was a mandatory duty that required an asylum state governor to extradite upon demand.    <span class="citation no-link"><span class="antecedent_guess">Dennison,</span> supra</span>, 65 U.S. at 106.  The Court recognized that an asylum state's governor has "no right to look behind [the extradition request], or to question [it], or to look into the character of the crime specified in the judicial proceedings."    Id.</p>
+    </div>
+    <div class="num" id="p14">
+      <span class="num">14</span>
+      <p class="indent">Second, having concluded that a governor's duty to extradite is mandatory and that an asylum state's governor is foreclosed from exercising any discretion in carrying out that duty, the Court nevertheless denied the writ because it found that the Act of 1793 did not provide a means to compel execution of the duty.  "The act does not provide any means to compel the execution of this duty, nor inflict any punishment for neglect or refusal on the part of the Executive of the State;  nor is there any clause or provision in the Constitution which arms the Government of the United States with this power."    <span class="citation no-link"><span class="antecedent_guess">Dennison,</span> supra</span>, 65 U.S. at 107.  Thus, the Court's decision sanctioned a hybrid duty--mandatory in nature but unenforceable in practice.  Note, Interstate Extradition:  Should the Asylum State Governor Have Unbridled Discretion, 1980 B.Y.U.L.Rev. 576.</p>
+    </div>
+    <div class="num" id="p15">
+      <span class="num">15</span>
+      <p class="indent">In recent times, the Supreme Court has reaffirmed the first part of the Dennison holding.    Michigan v. Doran, <span class="citation" data-id="109961"><a href="/opinion/109961/michigan-v-doran/"><span class="volume">439</span> <span class="reporter">U.S.</span> <span class="page">282</span></a></span>, 288 (1978) ("Interstate extradition was intended to be a summary and mandatory executive proceeding derived from the language of Art. IV, Sec. 2, cl. 2, of the Constitution.")    But the Court has never again ruled squarely on the second issue--judicial enforcement of the duty of an asylum state governor to extradite.<a class="footnote" href="#fn6" id="fn6_ref">6</a></p>
+    </div>
+    <div class="num" id="p16">
+      <span class="num">16</span>
+      <p class="indent">Appellant acknowledges that Dennison controls this case, but argues that the lower federal courts are no longer bound by Dennison.    Appellant claims that the Supreme Court would overrule the second part of Dennison if presented with the same issue today because it is based on pre-civil war concepts of federal-state relations that no longer are viable in present-day views of federalism.  Appellant points out that Dennison was decided on the eve of the civil war, at a time when a bitter debate raged in the country between exponents of state sovereignty and advocates of a strong federal government.  Appellant suggests that in view of such a climate the Court had no choice but to decide Dennison as it did.  Accordingly, appellant invites us to depart from the second part of the Dennison holding.  We decline the invitation.</p>
+    </div>
+    <div class="num" id="p17">
+      <span class="num">17</span>
+      <p class="indent">Although appellee has acted in clear contravention of the Constitution in refusing extradition because he questions the severity of the crime specified in appellant's extradition request,<a class="footnote" href="#fn7" id="fn7_ref">7</a> we nevertheless are constrained to follow the Supreme Court decision in Dennison.</p>
+    </div>
+    <p>III.</p>
+    <div class="num" id="p18">
+      <span class="num">18</span>
+      <p class="indent">It is well established that Supreme Court decisions are binding on the lower federal courts.  It has been suggested that a narrow exception exists when there is strong evidence that the Supreme Court would overrule its prior holding if it had the opportunity to do so.    Minority Police Officers Ass'n v. City of South Bend, <span class="citation" data-id="427265"><a href="/opinion/427265/33-fair-emplpraccas-433-32-empl-prac-dec-p-33914-9-empl-prac/"><span class="volume">721</span> <span class="reporter">F.2d</span> <span class="page">197</span></a></span>, 201 (7th Cir.1983).  Whether or not this is sound judicial policy, we need not decide, for appellant has failed to establish such evidence with respect to Dennison.</p>
+    </div>
+    <div class="num" id="p19">
+      <span class="num">19</span>
+      <p class="indent">To support its claim that Dennison is no longer good law, appellant relies primarily on dicta in FERC v. Mississippi, <span class="citation" data-id="110718"><a href="/opinion/110718/ferc-v-mississippi/"><span class="volume">456</span> <span class="reporter">U.S.</span> <span class="page">742</span> </a></span>(1982).  In FERC, the State of Mississippi challenged provisions of the Federal Public Utility Regulatory Policies Act of 1978 ("PURPA"), which required state utility regulatory commissions and nonregulated utilities to consider the adoption of various approaches to rate structures, terms and conditions of service and regulatory procedures.  The Act also authorized the Federal Energy Regulatory Commission ("FERC"), in consultation with state regulatory authorities, to promulgate rules to develop cogeneration and small power facilities.  The Act also gave FERC the authority to exempt cogeneration and small power facilities from certain state and federal regulations.  Petitioners claimed that PURPA was unconstitutional because it constituted an invasion of state sovereignty in violation of the Tenth Amendment.<a class="footnote" href="#fn8" id="fn8_ref">8</a></p>
+    </div>
+    <div class="num" id="p20">
+      <span class="num">20</span>
+      <p class="indent">In holding that PURPA did not violate the Tenth Amendment, the Supreme Court in FERC rejected the concept enunciated by the Court in Dennison that "the States and the Federal Government in all circumstances must be viewed as coequal sovereigns".  <span class="citation" data-id="110718"><a href="/opinion/110718/ferc-v-mississippi/"><span class="antecedent_guess">FERC,</span> supra</a></span>, 456 U.S. at 761.  The FERC Court characterized as "rigid" and "isolated" the statement in Dennison that Congress " 'has no power to impose on a state officer, as such, any duty whatever, and compel him to perform it.' "    <span class="citation" data-id="110718"><a href="/opinion/110718/ferc-v-mississippi/"><span class="id_token">Id.</span> at 761, </a></span>quoting <span class="citation no-link"><span class="antecedent_guess">Dennison,</span> supra</span>, 65 U.S. at 107.  The FERC Court concluded that, based on modern-day concepts of federalism, "the Federal Government has some power to enlist a branch of state government ... to further federal ends."    <span class="citation no-link"><span class="id_token">Id.</span> at 762.</span></p>
+    </div>
+    <div class="num" id="p21">
+      <span class="num">21</span>
+      <p class="indent">While it is true that the above dicta in FERC seem to erode to some extent the underpinnings of Dennison, the Dennison specific holding that federal courts have no power to compel a state governor to extradite has not been overruled.  Rather, Dennison is left as an anomaly, to be applied only in the context of extradition.<a class="footnote" href="#fn9" id="fn9_ref">9</a>   See Ex Parte Virginia, <span class="citation no-link"><span class="volume">100</span> <span class="reporter">U.S.</span> <span class="page">339</span></span>, 348 (1879) ("remarks made in Kentucky v. Dennison and in Collector v. Day, though entirely just as applied to the cases in which they were made, are inapplicable to the case we have now in hand").  Accordingly, we are constrained to hold that Dennison controls the instant case.</p>
+    </div>
+    <p>IV.</p>
+    <div class="num" id="p22">
+      <span class="num">22</span>
+      <p class="indent">To summarize:  We hold that appellee acted in clear contravention of the Constitution in looking behind appellant's valid extradition request.  Since appellant, however, has failed to establish that the Supreme Court would overrule Dennison, we hold that the district court correctly held that it lacked the power to issue a writ of mandamus to compel the Governor of Iowa to extradite Calder to the Commonwealth of Puerto Rico, notwithstanding Puerto Rico's valid extradition request.</p>
+    </div>
+    <div class="num" id="p23">
+      <span class="num">23</span>
+      <p class="indent">Despite our firm belief in the proper role of the inferior federal courts in adhering to and not seeking to avoid controlling Supreme Court precedent, we cannot emphasize too strongly our deep conviction that the underpinnings of Dennison during the past 125 years have been so seriously undermined--especially in view of the mandatory provision of the extradition clause of the Constitution--as to suggest reconsideration by the only Court empowered to do so.  Perhaps the extradition principles articulated in Dennison are in that category so aptly described by Judge Cardozo as being infused with "the doubts and misgivings, the hopes and fears, [all] part of the travail of mind, the pangs of death and the pangs of birth, in which principles that have served their day expire, and new principles are born."<a class="footnote" href="#fn10" id="fn10_ref">10</a></p>
+    </div>
+    <div class="num" id="p24">
+      <span class="num">24</span>
+      <p class="indent">Affirmed.</p>
+    </div>
+    <div class="footnotes">
+      <div class="footnote" id="fn-s">
+        <a class="footnote" href="#fn-s_ref">*</a>
+        <p> The Hon. William H. Timbers, Senior United States Circuit Judge for the Second Circuit, sitting by designation</p>
+      </div>
+      <div class="footnote" id="fn1">
+        <a class="footnote" href="#fn1_ref">1</a>
+        <p> On April 13, 1981, the Puerto Rican police notified the Polk County, Iowa, Sheriff's office that Calder was a fugitive wanted for murder and attempted murder in Puerto Rico, and that extradition papers would follow.  On April 24, 1981, Calder surrendered to the jurisdiction of the local court in Polk County</p>
+      </div>
+      <div class="footnote" id="fn2">
+        <a class="footnote" href="#fn2_ref">2</a>
+        <p> Under the Extradition Act, the demanding-state governor must produce an affidavit or indictment charging the demanded fugitive with a crime, and he must personally certify its authenticity.  18 U.S.C. Sec. 3182 (1982)</p>
+      </div>
+      <div class="footnote" id="fn3">
+        <a class="footnote" href="#fn3_ref">3</a>
+        <p> Appellant also sought declaratory relief to the effect that, in denying extradition, the Governor of Iowa considered matters not allowed by the Constitution.  The district court dismissed the declaratory judgment claim on the ground that the issuance of a declaratory ruling would do little to settle the controversy over the extradition of Calder.  Appellant withdrew its declaratory judgment claim on appeal</p>
+      </div>
+      <div class="footnote" id="fn4">
+        <a class="footnote" href="#fn4_ref">4</a>
+        <p> The extradition clause of the Constitution provides:</p>
+        <p>"A Person charged in any State with Treason, Felony, or other Crime, who shall flee from Justice, and be found in another State, shall on Demand of the executive Authority of the State from which he fled, be delivered up, to be removed to the State having Jurisdiction of the Crime."</p>
+      </div>
+      <div class="footnote" id="fn5">
+        <a class="footnote" href="#fn5_ref">5</a>
+        <p> The Extradition Act of 1793, which has remained virtually unchanged since it was enacted, provides:</p>
+        <p>"Fugitives from State or Territory to State, District or Territory</p>
+        <p>Whenever the executive authority of any State or Territory demands any person as a fugitive from justice, of the executive authority of any State, District or Territory to which such person has fled, and produces a copy of an indictment found or an affidavit made before a magistrate of any State or Territory, charging the person demanded with having committed treason, felony, or other crime, certified as authentic by the governor or chief magistrate of the State or Territory from whence the person so charged has fled, the executive authority of the State, District or Territory to which such person has fled shall cause him to be arrested and secured, and notify the executive authority making such demand, or the agent of such authority appointed to receive the fugitive, and shall cause the fugitive to be delivered to such agent when he shall appear.  If no such agent appears within thirty days from the time of the arrest, the prisoner may be discharged."</p>
+      </div>
+      <div class="footnote" id="fn6">
+        <a class="footnote" href="#fn6_ref">6</a>
+        <p> In the post-civil war case of Taylor v. Taintor, 83 U.S.  (16 Wall) 366, 370 (1873) the Court in dicta reaffirmed the second part of the Dennison holding</p>
+      </div>
+      <div class="footnote" id="fn7">
+        <a class="footnote" href="#fn7_ref">7</a>
+        <p> By refusing to extradite Calder, appellee is sitting in judgment on Puerto Rico's actions.  In effect, he is accusing Puerto Rico of having a sub-standard of criminal justice.  Appellee's actions may lead to retaliatory denials.  See Note, Interstate Rendition:  Executive Practice and the Effects of Discretion, 66 Yale L.Rev. 97 (1956).  The Framers sought to avoid such interstate friction by couching the extradition clause of the Constitution in mandatory language</p>
+      </div>
+      <div class="footnote" id="fn8">
+        <a class="footnote" href="#fn8_ref">8</a>
+        <p> The petitioners also claimed unsuccessfully that PURPA exceeded congressional power under the commerce clause</p>
+      </div>
+      <div class="footnote" id="fn9">
+        <a class="footnote" href="#fn9_ref">9</a>
+        <p> Recently state courts and commentators have supported the result reached in Dennison, largely because the concept of executive discretion in the exercise of the extradition power is so widely accepted among governors.    State of South Dakota v. Brown, <span class="citation" data-id="2603948"><a href="/opinion/2603948/state-of-south-dakota-v-brown/"><span class="volume">144</span> <span class="reporter">Cal. Rptr.</span> <span class="page">758</span></a></span>, 763-64, <span class="citation" data-id="2603948"><a href="/opinion/2603948/state-of-south-dakota-v-brown/"><span class="volume">576</span> <span class="reporter">P.2d</span> <span class="page">473</span></a></span>, 481-82 (1978) (en banc);  Note, Interstate Extradition:  Should the Asylum State Governor Have Unbridled <span class="citation no-link"><span class="antecedent_guess">Discretion,</span> supra, at <span class="page">425</span></span>.  Note, Rendition:  The Governor's Discretion, 2 Lincoln L.Rev. 48 (1966);  Comment, Interstate Rendition:  Executive Practice and the Effects of Discretion, supra, note 7</p>
+        <p>Likewise, in the area of international extradition there has long been an unfortunate dragging of feet on the part of the asylum nation which too often seeks to superimpose its notions of judicial fairness on those of the extraditing nation.  E.g., Timbers and Pollack, Extradition From Canada To The United States For Securities Fraud:  Frustration Of The National Policies Of Both Countries, 24 Fordham L.Rev. 301 (1955).</p>
+      </div>
+      <div class="footnote" id="fn10">
+        <a class="footnote" href="#fn10_ref">10</a>
+        <p> Cardozo, The Nature Of The Judicial Process 167 (Yale University Press 1921)</p>
+      </div>
+    </div>
+    

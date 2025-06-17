@@ -1,0 +1,63 @@
+<p class="case_cite"><span class="citation no-link">381 F.2d 173</span></p>
+    <p class="parties">UNITED STATES of America, Plaintiff-Appellee,<br>v.<br>James Ralph ERHARDT, Defendant-Appellant.</p>
+    <p class="docket">No. 17220.</p>
+    <p class="court">United States Court of Appeals Sixth Circuit.</p>
+    <p class="date">Aug. 3, 1967.</p>
+    <div class="prelims">
+      <p class="indent">Henry J. Cook, Newport, Ky.  (J. T. Hatcher, Elizabethtown, Ky., Ebert, Moebus, Cook, Kirchhoff &amp; Neisch, Newport, Ky., on the brief), for appellant.</p>
+      <p class="indent">Ernest W. Rivers, U.S. Atty., Louisville, Ky., for appellee.</p>
+      <p class="indent">Before PHILLIPS, CELEBREZZE and McCREE, Circuit Judges.</p>
+      <p class="indent">PER CURIAM.</p>
+    </div>
+    <div class="num" id="p1">
+      <span class="num">1</span>
+      <p class="indent">This is an appeal from a conviction on both counts of a two-count indictment charging appellant with introducing a false writing and giving galse testimony during an earlier criminal proceeding against him, in violation of 18 U.S.C. 1001, 1621.<a class="footnote" href="#fn1" id="fn1_ref">1</a>  In the prior proceeding, appellant had been charged with possession of stolen government property, including a jeep motor, in violation of 18 U.S.C. 641, and had been acquitted by the jury.  Appellant testified at the earlier trial that he had purchased the jeep motor from a Mr. Hall, and he introduced a receipt signed by Mr. Hall which purportedly reflected the sale.  Contending this receipt and testimony to have been false, the government brought the prosecution which gave rise to the present appeal.</p>
+    </div>
+    <div class="num" id="p2">
+      <span class="num">2</span>
+      <p class="indent">Appellant bases his appeal on three grounds: (1) that the two-witness rule for perjury convictions was violated; (2) that the district court committed plain error in not instructing the jury concerning the two-witness rule; and (3) that appellant's acquittal in the earlier proceeding rendered the question of the truth of the testimony and supporting document res judicata.  We hold that violation of the two-witness rule requires reversal of appellant's conviction on the perjury count, and we therefore find it unnecessary to discuss the remaining two contentions insofar as that count is concerned.</p>
+    </div>
+    <div class="num" id="p3">
+      <span class="num">3</span>
+      <p class="indent">In Weiler v. United States, <span class="citation no-link">323 U.S. 606</span>, <span class="citation no-link">65 S.Ct. 548</span>, <span class="citation no-link">89 L.Ed. 495</span> (1944), the Supreme Court reaffirmed the two-witness rule, which bars conviction for perjury on the uncorroborated testimony of a single witness, reasoning as follows:</p>
+    </div>
+    <div class="num" id="p4">
+      <span class="num">4</span>
+      <p class="indent">Lawsuits frequently engender in defeated litigants sharp resentments and hostilities against adverse witnesses, and it is argued, not without persuasiveness, that rules of law must be so fashioned as to protect honest witnesses from hasty and spiteful retaliation in the form of unfounded perjury prosecutions.  323 U.S. at 609, 65 S.Ct. at 550.</p>
+    </div>
+    <div class="num" id="p5">
+      <span class="num">5</span>
+      <p class="indent">This court has held that to support a perjury conviction the testimony of a single witness must be corroborated by circumstances inconsistent with the innocence of the accused.  Hug v. United States, <span class="citation" data-id="263711"><a href="/opinion/263711/norman-carl-hug-v-united-states/">329 F.2d 475</a></span> (6th Cir. 1964); United States v. Thompson (6th Cir.  June 29, 1967), <span class="citation no-link">379 F.2d 625</span>.</p>
+    </div>
+    <div class="num" id="p6">
+      <span class="num">6</span>
+      <p class="indent">At appellant's trial, Mr. Hall, from whom appellant claimed he bought the jeep engine, testified that appellant had paid nothing for the engine and that therefore there was no passage of funds as represented by the receipt.  Appellant's perjury conviction could not stand on this testimony alone, but the government claims that sufficient corroborative circumstances existed to satisfy the two-witness rule.  The government states in its brief that 'the most damaging piece of evidence is appellant's failure to subpoena Mr. Hall to the first trial.'  The government also relies upon the testimony of F.B.I. agent Cuscak, who testified at the perjury trial that appellant, when originally questioned concerning his possession of the jeep motor, did not mention Hall.  Neither of these facts is inconsistent with the innocence of the accused.  Compare Hug v. United States, <span class="citation" data-id="263711"><a href="/opinion/263711/norman-carl-hug-v-united-states/">329 F.2d 475</a></span> (6th Cir. 1964); United States v. Collins, <span class="citation" data-id="249500"><a href="/opinion/249500/united-states-v-benjamin-franklin-collins/">272 F.2d 650</a></span>, <span class="citation no-link">88 A.L.R.2d 847</span> (2d Cir. 1959), cert. denied, <span class="citation no-link">362 U.S. 911</span>, <span class="citation no-link">80 S.Ct. 681</span>, <span class="citation no-link">4 L.Ed.2d 619</span>.</p>
+    </div>
+    <div class="num" id="p7">
+      <span class="num">7</span>
+      <p class="indent">The two-witness rule is not dispositive of appellant's conviction under the count charging the introduction of a false document, since it is generally held that the two-witness rule does not apply to prosecutions under18 U.S.C. 1001.  See, e.g., United States v. Marchisio, <span class="citation" data-id="267669"><a href="/opinion/267669/united-states-v-louis-a-marchisio-john-h-seiter-and-w-ward-whipple/">344 F.2d 653</a></span> (2d Cir. 1965).  But see Gold v. United States, 99 U.S.App.D.C. ,136, <span class="citation" data-id="240516"><a href="/opinion/240516/ben-gold-v-united-states/">237 F.2d 764</a></span> (1956) (opinion of Bazelon, J.), rev'd on other grounds, <span class="citation" data-id="105476"><a href="/opinion/105476/ben-gold-v-united-states/">352 U.S. 985</a></span>, <span class="citation no-link">77 S.Ct. 378</span>, <span class="citation no-link">1 L.Ed.2d 360</span>.</p>
+    </div>
+    <div class="num" id="p8">
+      <span class="num">8</span>
+      <p class="indent">We hold that appellant's conviction under 1001 must be reversed, however, because 1001 does not apply to the introduction of false documents as evidence in a criminal proceeding.  The Supreme Court in Bramblett v. United States,  <span class="citation" data-id="105287"><a href="/opinion/105287/united-states-v-bramblett/">348 U.S. 503</a></span>, <span class="citation" data-id="105287"><a href="/opinion/105287/united-states-v-bramblett/">75 S.Ct. 504</a></span>, <span class="citation no-link">99 L.Ed. 594</span> (1955) held that 1001 was meant to apply to all three branches of the government, executive, legislative, and judicial, but we agree with the following interpretation of the Court of Appeals for the District of Columbia Circuit:</p>
+    </div>
+    <div class="num" id="p9">
+      <span class="num">9</span>
+      <p class="indent">We are certain that neither Congress nor the Supreme Court intended the statute to include traditional trial tactics within the statutory terms 'conceals or covers up.'  We hold only, on the authority of the Supreme Court construction, that the statute does apply to the type of action * * * which essentially involved the 'administrative' or 'housekeeping' functions, not the 'judicial' machinery of the court.  Morgan v. United States, 114 U.S.App.D.C. 13, <span class="citation" data-id="258536"><a href="/opinion/258536/daniel-jackson-oliver-wendel-holmes-morgan-v-united-states/">309 F.2d 234</a></span> (1962), cert. denied, <span class="citation no-link">373 U.S. 917</span>, <span class="citation no-link">83 S.Ct. 1306</span>, <span class="citation no-link">10 L.Ed.2d 416</span>.</p>
+    </div>
+    <div class="num" id="p10">
+      <span class="num">10</span>
+      <p class="indent">A contrary construction would undermine the effectiveness of the two-witness rule and of the perjury statute itself.</p>
+    </div>
+    <div class="num" id="p11">
+      <span class="num">11</span>
+      <p class="indent">The conviction of appellant on each count of the indictment is reversed, and the case is remanded with instructions to dismiss the indictment.</p>
+    </div>
+    <div class="footnotes">
+      <div class="footnote" id="fn1">
+        <a class="footnote" href="#fn1_ref">1</a>
+        <p> 18 U.S.C. 1001.  Whoever, in any matter within the jurisdiction of any department or agency of the United States knowingly and willfully falsifies, conceals or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be fined not more than $10,000 or imprisoned not more than five years, or both</p>
+        <p>18 U.S.C. 1621.  Whoever, having taken an oath before a competent tribunal, officer or person, in any case in which a law of the United States authorizes an oath to be administered, that he will testify, declare, depose, or certify truly, or that any written testimony, declaration, deposition, or certificate by him subscribed, is true, willfully and contrary to such oath states or subscribes any material matter which he does not believe to be true, is guilty of perjury, and shall, except as otherwise expressly provided by law, be fined not more than $2,000 or imprisoned not more than five years, or both.  This section is applicable whether the statement or subscription is made within or without the United States.</p>
+      </div>
+    </div>
+    

@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b569-2">
+<span citation-index="1" class="star-pagination" label="525"> 
+   *525
+   </span>
+  Mr. Justice White
+ </author>
+<p id="AnHt">
+  delivered the opinion of the Court.
+ </p>
+<p id="b569-3">
+  In
+  <em>
+   Frank
+  </em>
+  v.
+  <em>
+   Maryland,
+  </em>
+  <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">359 U. S. 360</a></span>, this Court upheld, by a five-to-four vote, a state court conviction of a homeowner who refused to permit a municipal health inspector to enter and inspect his premises without a search warrant. In
+  <em>
+   Eaton
+  </em>
+  v.
+  <em>
+   Price,
+  </em>
+  <span class="citation" data-id="106109"><a href="/opinion/106109/ohio-ex-rel-eaton-v-price/" aria-description="Citation for case: Ohio Ex Rel. Eaton v. Price">364 U. S. 263</a></span>, a similar conviction was affirmed by an equally divided Court. Since those closely divided decisions, more intensive efforts at all levels of government to contain and eliminate urban blight have led to increasing use of such inspection techniques, while numerous decisions of this Court have more fully defined the Fourth Amendment's effect on state and municipal action.
+  <em>
+   E. g., Mapp
+  </em>
+  v.
+  <em>
+   Ohio,
+  </em>
+  <span class="citation" data-id="106285"><a href="/opinion/106285/mapp-v-ohio/" aria-description="Citation for case: Mapp v. Ohio">367 U. S. 643</a></span>;
+  <em>
+   Ker
+  </em>
+  v.
+  <em>
+   California,
+  </em>
+  <span class="citation" data-id="106641"><a href="/opinion/106641/ker-v-california/" aria-description="Citation for case: Ker v. California">374 U. S. 23</a></span>. In view of the growing nationwide importance of the problem, we noted probable jurisdiction in this case and in
+  <em>
+   See
+  </em>
+  v.
+  <em>
+   City of Seattle, post,
+  </em>
+  p. 541, to re-examine whether administrative inspection programs, as presently authorized and conducted, violate Fourth Amendment rights as those rights are enforced against the States through the Fourteenth Amendment. <span class="citation multiple-matches"><a href="/c/U.%20S./385/808/">385 U. S. 808</a></span>.
+ </p>
+<p id="b569-4">
+  Appellant brought this action in a California Superior Court alleging that he was awaiting trial on a criminal charge of violating the San Francisco Housing Code by refusing to permit a warrantless inspection of his residence, and that a writ of prohibition should issue to the criminal court because the ordinance authorizing such inspections is unconstitutional on its face. The Superior Court denied the writ, the District Court of Appeal affirmed, and the Supreme Court of California denied a petition for hearing. Appellant properly raised and had considered by the California courts the federal constitutional questions he now presents to this Court.
+ </p>
+<p id="b569-5">
+  Though there were no judicial findings of fact in this prohibition proceeding, we shall set forth the parties’ factual allegations. On November 6, 1963, an inspector
+  <span citation-index="1" class="star-pagination" label="526"> 
+   *526
+   </span>
+  of the Division of Housing Inspection of the San Francisco Department of Public Health entered an apartment building to make a routine annual inspection for possible violations of the city's Housing Code.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  The building’s manager informed the inspector that appellant, lessee of the ground floor, was using the rear of his leasehold as a personal residence. Claiming that the building’s occupancy permit did not allow residential use of the ground floor, the inspector confronted appellant and demanded that he permit an inspection of the premises. Appellant refused to allow the inspection because the inspector lacked a search warrant.
+ </p>
+<p id="b570-6">
+  The inspector returned on November 8, again without a warrant, and appellant again refused to allow an inspection. ' A citation was then mailed ordering appellant to appear at the district attorney’s office. When appellant failed to appear, two inspectors returned to his apartment on November 22. They informed appellant that he was required by law to permit an inspection under § 503 of the Housing Code:
+ </p>
+<blockquote id="b570-7">
+  “Sec. 503 Right to Enter Building. Authorized employees of the City departments or City agencies, so far as may be necessary for the performance of their duties, shall, upon presentation of proper credentials, have the right to enter, at reasonable times, any building, structure, or premises in the City to perform any duty imposed upon them by the Municipal Code.”
+ </blockquote>
+<p id="b571-4">
+<span citation-index="1" class="star-pagination" label="527"> 
+   *527
+   </span>
+  Appellant nevertheless refused the inspectors access to his apartment without a search warrant. Thereafter, a complaint was filed charging him with refusing to permit a lawful inspection in violation of § 507 of the Code.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  Appellant was arrested on December 2 and released on bail. When his demurrer to the criminal complaint was denied, appellant filed this petition for a writ of prohibition.
+ </p>
+<p id="b571-5">
+  Appellant has argued throughout this litigation that § 503 is contrary to the Fourth and Fourteenth Amendments in that it authorizes municipal officials to enter a private dwelling without a search warrant and without probable cause to believe that a violation of the Housing Code exists therein. Consequently, appellant contends, he may not be prosecuted under § 507 for refusing to permit an inspection unconstitutionally authorized by § 503. Relying on
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+  </em>
+  v.
+  <em>
+   Maryland, Eaton
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="106109"><a href="/opinion/106109/ohio-ex-rel-eaton-v-price/" aria-description="Citation for case: Ohio Ex Rel. Eaton v. Price">Price</a></span>,
+  </em>
+  and decisions in other States,
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  the District
+  <span citation-index="1" class="star-pagination" label="528"> 
+   *528
+   </span>
+  Court of Appeal held that § 503 does not violate Fourth Amendment rights because it “is part of a regulatory scheme which is essentially civil rather than criminal in nature, inasmuch as that section creates a right of inspection which is limited in scope and may not be exercised under unreasonable conditions.” Having concluded that
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Maryland</a></span>,
+  </em>
+  to the extent that it sanctioned such warrantless inspections, must be overruled, we reverse.
+ </p>
+<p id="b572-5">
+  I.
+ </p>
+<p id="b572-6">
+  The Fourth Amendment provides that, “The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.” The basic purpose of this Amendment, as recognized in countless decisions of this Court, is to safeguard the privacy and security of individuals against arbitrary invasions by governmental officials. The Fourth Amendment thus gives concrete expression to a right of the people which “is basic to a free society.”
+  <em>
+   Wolf
+  </em>
+  v.
+  <em>
+   Colorado,
+  </em>
+  <span class="citation" data-id="104709"><a href="/opinion/104709/wolf-v-colorado/#27" aria-description="Citation for case: Wolf v. Colorado">338 U. S. 25, 27</a></span>. As such, the Fourth Amendment is enforceable against the States through the Fourteenth Amendment.
+  <em>
+   Ker
+  </em>
+  v.
+  <em>
+   California,
+  </em>
+  <span class="citation" data-id="106641"><a href="/opinion/106641/ker-v-california/#30" aria-description="Citation for case: Ker v. California">374 U. S. 23, 30</a></span>.
+ </p>
+<p id="b572-7">
+  Though there has been general agreement as to the fundamental purpose of the Fourth Amendment, translation of the abstract prohibition against “unreasonable searches and seizures” into workable guidelines for the decision of particular cases is a difficult task which has for many years divided the members of this Court. Nevertheless, one governing principle, justified by history and by current experience, has consistently been followed: except in certain carefully defined classes of cases, a search of private property without proper con
+  <span citation-index="1" class="star-pagination" label="529"> 
+   *529
+   </span>
+  sent is “unreasonable” unless it has been authorized by a valid search warrant. See,
+  <em>
+   e. g., Stoner
+  </em>
+  v.
+  <em>
+   California,
+  </em>
+  <span class="citation" data-id="106777"><a href="/opinion/106777/stoner-v-california/" aria-description="Citation for case: Stoner v. California">376 U. S. 483</a></span>;
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Jeffers,
+  </em>
+  <span class="citation" data-id="104932"><a href="/opinion/104932/united-states-v-jeffers/" aria-description="Citation for case: United States v. Jeffers">342 U. S. 48</a></span>;
+  <em>
+   McDonald
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="104605"><a href="/opinion/104605/mcdonald-v-united-states/" aria-description="Citation for case: McDonald v. United States">335 U. S. 451</a></span>;
+  <em>
+   Agnello
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="100711"><a href="/opinion/100711/agnello-v-united-states/" aria-description="Citation for case: Agnello v. United States">269 U. S. 20</a></span>. As the Court explained in
+  <em>
+   Johnson
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="104504"><a href="/opinion/104504/johnson-v-united-states/" aria-description="Citation for case: Johnson v. United States">333 U. S. 10</a></span>, 14:
+ </p>
+<blockquote id="b573-5">
+  “The right of officers to thrust themselves into a home is also a grave concern, not only to the individual but to a society which chooses to dwell in reasonable security and freedom from surveillance. When the right of privacy must reasonably yield to the right of search is, as a rule, to be decided by a judicial officer, not by a policeman or government enforcement agent.”
+ </blockquote>
+<p id="b573-6">
+  In
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Maryland</a></span>,
+  </em>
+  this Court upheld the conviction of one who refused to permit a warrantless inspection of private premises for the purposes of locating and abating a suspected public nuisance. Although
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+  </em>
+  can arguably be distinguished from this case on its facts,
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  the
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+  </em>
+  opinion has generally been interpreted as carving out an additional exception to the rule that warrantless searches are unreasonable under the Fourth Amendment. See
+  <em>
+   <span class="citation" data-id="106109"><a href="/opinion/106109/ohio-ex-rel-eaton-v-price/" aria-description="Citation for case: Ohio Ex Rel. Eaton v. Price">Eaton</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="106109"><a href="/opinion/106109/ohio-ex-rel-eaton-v-price/" aria-description="Citation for case: Ohio Ex Rel. Eaton v. Price">Price, supra.</a></span>
+  </em>
+  The District Court of Appeal so interpreted
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+  </em>
+  in this case, and that ruling is the core of appellant’s challenge here. We proceed to a re-examination of the factors which
+  <span citation-index="1" class="star-pagination" label="530"> 
+   *530
+   </span>
+  persuaded the
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+  </em>
+  majority to adopt this construction of the Fourth Amendment’s prohibition against unreasonable searches.
+ </p>
+<p id="b574-5">
+  To the
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+  </em>
+  majority, municipal fire, health, and housing inspection programs “touch at most upon the periphery of the important interests safeguarded by the Fourteenth Amendment’s protection against official intrusion,” <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/#367" aria-description="Citation for case: Frank v. Maryland">359 U. S., at 367</a></span>, because the inspections are merely to determine whether physical conditions exist which do not comply with minimum standards prescribed in local regulatory ordinances. Since the inspector does not ask that the property owner open his doors to a search for “evidence of criminal action” which may be used to secure the owner’s criminal conviction, historic interests of “self-protection” jointly protected by the Fourth and Fifth Amendments
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  are said not to be involved, but only the less intense “right to be secure from intrusion into personal privacy.”
+  <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/#365" aria-description="Citation for case: Frank v. Maryland"><em>
+   Id.,
+  </em>
+  at 365</a></span>.
+ </p>
+<p id="b574-6">
+  We may agree that a routine inspection of the physical condition of private property is a less hostile intrusion than the typical policeman’s search for the fruits and instrumentalities of crime. For this reason alone,
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+  </em>
+  differed from the great bulk of Fourth Amendment cases which have been considered by this Court. But we cannot agree that the Fourth Amendment interests at stake in these inspection cases are merely “peripheral.”. It is surely anomalous to say that the individual and his private property are fully protected by the Fourth Amendment only when the individual is suspected of criminal behavior.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  For instance, even the most law-abiding citi
+  <span citation-index="1" class="star-pagination" label="531"> 
+   *531
+   </span>
+  zen. has a very tangible interest in limiting the circumstances under which the sanctity of his home may be broken by official authority, for the possibility of criminal entry under the guise of official sanction is a serious threat to personal and family security. And even accepting
+  <em>
+   Frank’s
+  </em>
+  rather remarkable premise, inspections of the kind we are here considering do in fact jeopardize “self-protection” interests of the property owner. Like most regulatory laws, fire, health, and housing codes are enforced by criminal processes. In some cities, discovery of a violation by the inspector leads to a criminal complaint.
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+  Even in cities where discovery of a violation produces only an administrative compliance order,
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+  refusal to comply is a criminal offense, and the fact of compliance is verified by a second inspection, again without a warrant.
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+  Finally, as this case demonstrates, refusal to permit an inspection is itself a crime, punishable by fine or even by jail sentence.
+ </p>
+<p id="b575-4">
+  The
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+  </em>
+  majority suggested, and appellee reasserts, two other justifications for permitting administrative health and safety inspections without a warrant. First, it is argued that these inspections are “designed to make the least possible demand on the individual occupant.” <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/#367" aria-description="Citation for case: Frank v. Maryland">359 U. S., at 367</a></span>. The ordinances authorizing inspections are hedged with safeguards, and at any rate the inspector’s particular decision to enter must comply with the constitutional standard of reasonableness even if -he may enter without a warrant.
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+  In addition, the argument
+  <span citation-index="1" class="star-pagination" label="532"> 
+   *532
+   </span>
+  proceeds, the warrant process could not function effectively in this field. The decision to inspect an entire municipal area is based upon legislative or administrative assessment of broad factors such as the area’s age and condition. Unless the magistrate is to review such policy matters, he must issue a “rubber stamp” warrant which provides no protection at all to the property owner.
+ </p>
+<p id="b576-6">
+  In our opinion, these arguments unduly discount the purposes behind the warrant machinery contemplated by the Fourth Amendment. Under the present system, when the inspector demands entry, the occupant has no way of knowing whether enforcement of the municipal code involved requires inspection of his premises, no way of knowing the lawful limits of the inspector’s power to search, and no way of knowing whether the inspector himself is acting under proper authorization. These are questions which may be reviewed by a neutral magistrate without any reassessment of the basic agency decision to canvass an area. Yet, only by refusing entry and risking a criminal conviction can the occupant at present challenge the inspector’s decision to search. And even if the occupant possesses sufficient fortitude to take this risk, as appellant did here, he may never learn any more about the reason for the inspection than that the law generally allows housing inspectors to gain entry. The practical effect of this system is to leave the occupant subject to the discretion of the official in the field. This is precisely the discretion to invade private property which we have consistently circumscribed by a requirement that a disinterested party warrant the need to
+  <span citation-index="1" class="star-pagination" label="533"> 
+   *533
+   </span>
+  search. See cases cited, p. 529,
+  <em>
+   supra.
+  </em>
+  We simply cannot say that the protections provided by the warrant procedure are not needed in this context; broad statutory safeguards are no substitute for individualized review, particularly when those safeguards may only be invoked at the risk of a criminal penalty.
+ </p>
+<p id="b577-5">
+  The final justification suggested for warrantless administrative searches is that the public interest demands such a rule: it is vigorously argued that the health and safety of entire urban populations is dependent upon enforcement of minimum fire, housing, and sanitation standards, and that the only effective means of enforcing such codes is by routine systematized inspection of all physical structures. Of course, in applying any reasonableness standard, including one of constitutional dimension, an argument that the public interest demands a particular rule must receive careful consideration. But we think this argument misses the mark. The question is not, at this stage at least, whether these inspections may be made, but whether they may be made without a warrant. For example, to say that gambling raids may not be made at the discretion of the police without a warrant is not necessarily to say that gambling raids may never be made. In assessing whether the public interest demands creation of a general exception to the Fourth Amendment’s warrant requirement, the question is not whether the public interest justifies the type of search in question, but whether the authority to search should be evidenced by a warrant, which in turn depends in part upon whether the burden of obtaining a warrant is likely to frustrate the governmental purpose behind the search. See
+  <em>
+   Schmerber
+  </em>
+  v.
+  <em>
+   California,
+  </em>
+  <span class="citation" data-id="107262"><a href="/opinion/107262/schmerber-v-california/#770" aria-description="Citation for case: Schmerber v. California">384 U. S. 757, 770-771</a></span>. It has nowhere been urged that fire, health, and housing code inspection programs could not achieve their goals within the confines of a reasonable search warrant requirement. Thus, we do not find the public need argument dispositive.
+ </p>
+<p id="b578-3">
+<span citation-index="1" class="star-pagination" label="534"> 
+   *534
+   </span>
+  In summary, we hold that administrative searches of the kind at issue here are significant intrusions upon the interests protected by the Fourth Amendment, that such searches when authorized and conducted without a warrant procedure lack the traditional safeguards which the Fourth Amendment guarantees to the individual, and that the reasons put forth in
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Maryland</a></span>
+  </em>
+  and in other cases for upholding these warrantless searches are insufficient to justify so substantial a weakening of the Fourth Amendment’s protections. Because of the nature of the municipal programs under consideration, however, these conclusions must be the beginning, not the end, of our inquiry. The
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+  </em>
+  majority gave recognition to the unique character of these inspection programs by refusing to require search warrants; to reject that disposition does not justify ignoring the question whether some other accommodation between public need and individual rights is essential.
+ </p>
+<p id="b578-4">
+  II.
+ </p>
+<p id="b578-5">
+  The Fourth Amendment provides that, “no Warrants shall issue, but upon probable cause.” Borrowing from more typical Fourth Amendment cases, appellant argues not only that code enforcement inspection programs must be circumscribed by a warrant procedure, but also that warrants should issue only when the inspector possesses probable cause to believe that a particular dwelling contains violations of the minimum standards prescribed by the code being enforced. We disagree.
+ </p>
+<p id="b578-6">
+  In cases in which the Fourth Amendment requires that a warrant to search be obtained, “probable cause” is the standard by which a particular decision to search is tested against the constitutional mandate of reasonableness. To apply this standard, it is obviously necessary first to focus upon the governmental interest which allegedly justifies official intrusion upon the constitutionally pro
+  <span citation-index="1" class="star-pagination" label="535"> 
+   *535
+   </span>
+  tected interests of the private citizen. Por example, in a criminal investigation, the police may undertake to recover specific stolen or contraband goods. But that public interest would hardly justify a sweeping search of an entire city conducted in the hope that these goods might be found. Consequently, a search for these goods, even with a warrant, is “reasonable” only when there is “probable cause” to believe that they will be uncovered in a particular dwelling.
+ </p>
+<p id="b579-5">
+  Unlike the search pursuant to a criminal investigation, the inspection programs at issue here are aimed at securing city-wide compliance with minimum physical standards for private property. The primary governmental interest at stake is to prevent even the unintentional development of conditions which are hazardous to public health and safety. Because fires and epidemics may ravage large urban areas, because unsightly conditions adversely affect the economic values of neighboring structures, numerous courts have upheld the police power of municipalities to impose and enforce such minimum standards even upon existing structures.
+  <a class="footnote" href="#fn11" id="fn11_ref">
+   11
+  </a>
+  In determining whether a particular inspection is reasonable — and thus in determining whether there is probable cause to issue a warrant for that inspection — the need for the inspection must be weighed in terms of these reasonable goals of code enforcement.
+ </p>
+<p id="b579-6">
+  There is unanimous agreement among those most familiar with this field that the only effective way to seek universal compliance with the minimum standards required by municipal codes is through routine periodic
+  <span citation-index="1" class="star-pagination" label="536"> 
+   *536
+   </span>
+  inspections of all structures.
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+  It is here that the probable cause debate is focused, for the agency’s decision to conduct an area inspection is unavoidably based on its appraisal of conditions in the area as a whole, not on its knowledge of conditions in each particular building. Appellee contends that, if the probable cause standard urged by appellant is adopted, the area inspection will be eliminated as a means of seeking compliance with code standards and the reasonable goals of code enforcement will be dealt a crushing blow.
+ </p>
+<p id="b580-6">
+  In meeting this contention, appellant argues first, that his probable cause standard would not jeopardize area inspection programs because only a minute portion of the population will refuse to consent to such inspections, and second, that individual privacy in any event should be given preference to the public interest in conducting such inspections. The first argument, even if true, is irrelevant to the question whether the area inspection is reasonable within the meaning of the Fourth Amendment. The second argument is in effect an assertion that the area inspection is an unreasonable search. Unfortunately, there can be no ready test for determining reasonableness
+  <span citation-index="1" class="star-pagination" label="537"> 
+   *537
+   </span>
+  other than by balancing the need to search against the invasion which the search entails. But we think that a number of persuasive factors combine to support the reasonableness of area code-enforcement inspections. First, such programs have a long history of judicial and public acceptance. See
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+  </em>
+  v.
+  <em>
+   Maryland,
+  </em>
+  <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/#367" aria-description="Citation for case: Frank v. Maryland">359 U. S., at 367-371</a></span>. Second, the public interest demands that all dangerous conditions be prevented or abated, yet it is doubtful that any other canvassing technique would achieve acceptable results. Many such conditions— faulty wiring is an obvious example — are not observable from outside the building and indeed may not be apparent to the inexpert occupant himself. Finally, because the inspections are neither personal in nature nor aimed at the discovery of evidence of crime, they involve a relatively limited invasion of the urban citizen’s privacy. Both the majority and the dissent in
+  <em>
+   <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+  </em>
+  emphatically supported this conclusion:
+ </p>
+<blockquote id="b581-5">
+  “Time and experience have forcefully taught that the power to inspect dwelling places, either as a matter of systematic area-by-area search or, as here, to treat a specific problem, is of indispensable importance to the maintenance of community health; a power that would be greatly hobbled by the blanket requirement of the safeguards necessary for a search of evidence of criminal acts. The need for preventive action is great, and city after city has seen this need and granted the power of inspection to its health officials; and these inspections are apparently welcomed by all but an insignificant few. Certainly, the nature of our society has not vitiated the need for inspections first thought necessary 158 years ago, nor has experience revealed any abuse or inroad on freedom in meeting this need by means that history and dominant public opinion have sanctioned.” <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/#372" aria-description="Citation for case: Frank v. Maryland">359 U. S., at 372</a></span>.
+ </blockquote>
+<blockquote id="b582-5">
+<span citation-index="1" class="star-pagination" label="538"> 
+   *538
+   </span>
+  . . This is not to suggest that a health official need show the same kind of proof to a magistrate to obtain a warrant as one must who would search for the fruits or instrumentalities of crime. Where considerations of health and safety are involved, the facts that would justify an inference of 'probable cause’ to make an inspection are clearly different from those that would justify such an inference where a criminal investigation has been undertaken. Experience may show the need for periodic inspections of certain facilities without a further showing of cause to believe that substandard conditions dangerous to the public are being maintained. The passage of a certain period without inspection might of itself be sufficient in a given situation to justify the issuance of a warrant. The test of 'probable cause’ required by the Fourth Amendment can take into account the nature of the search that is being sought.” <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/#383" aria-description="Citation for case: Frank v. Maryland">359 U. S., at 383</a></span> (Mr. Justice Douglas, dissenting).
+ </blockquote>
+<p id="b582-6">
+  Having concluded that the area inspection is a “reasonable” search of private property within the meaning of the Fourth Amendment, it is obvious that “probable cause” to issue a warrant to inspect must exist if reasonable legislative or administrative standards for conducting an area inspection are satisfied with respect to a particular dwelling. Such standards, which will vary with the municipal program being enforced, may be based upon the passage of time, the nature of the building
+  <em>
+   (e. g.,
+  </em>
+  a multi-family apartment house), or the condition of the entire area, but they will not necessarily depend upon specific knowledge of the condition of the particular dwelling. It has been suggested that so to vary the probable cause test from the standard applied in criminal cases would be to authorize a “synthetic search warrant” and thereby to lessen the overall protections of the Fourth Amendment.
+  <em>
+   Frank
+  </em>
+  v.
+  <em>
+   Maryland,
+  </em>
+  359
+  <span citation-index="1" class="star-pagination" label="539"> 
+   *539
+   </span>
+  U. S., at 373. But we do not agree. The warrant procedure is designed to guarantee that a decision to search private property is justified by a reasonable governmental interest. But reasonableness is still the ultimate standard. If a valid public interest justifies the intrusion contemplated, then there is probable cause to issue a suitably restricted search warrant. Cf.
+  <em>
+   Oklahoma Press Pub. Co.
+  </em>
+  v.
+  <em>
+   Walling,
+  </em>
+  <span class="citation" data-id="104239"><a href="/opinion/104239/oklahoma-press-publishing-co-v-walling/" aria-description="Citation for case: Oklahoma Press Publishing Co. v. Walling">327 U. S. 186</a></span>. Such an approach neither endangers time-honored doctrines applicable to criminal investigations nor makes a nullity of the probable cause requirement in this area. It merely gives full recognition to the competing public and private interests here at stake and, in so doing, best fulfills the historic purpose behind the constitutional right to be free from unreasonable government invasions of privacy. See
+  <em>
+   <span class="citation" data-id="106109"><a href="/opinion/106109/ohio-ex-rel-eaton-v-price/" aria-description="Citation for case: Ohio Ex Rel. Eaton v. Price">Eaton</a></span>
+  </em>
+  v.
+  <em>
+   Price,
+  </em>
+  <span class="citation" data-id="106109"><a href="/opinion/106109/ohio-ex-rel-eaton-v-price/#273" aria-description="Citation for case: Ohio Ex Rel. Eaton v. Price">364 U. S., at 273-274</a></span> (opinion of Mr. Justice Brennan).
+ </p>
+<p id="b583-5">
+  III.
+ </p>
+<p id="b583-6">
+  Since our holding emphasizes the controlling standard of reasonableness, nothing we say today is intended to foreclose prompt inspections, even without a warrant, that the law has traditionally upheld in emergency situations. See
+  <em>
+   North American Cold Storage Co.
+  </em>
+  v.
+  <em>
+   City of Chicago,
+  </em>
+  <span class="citation" data-id="96902"><a href="/opinion/96902/north-american-cold-storage-co-v-city-of-chicago/" aria-description="Citation for case: North American Cold Storage Co. v. City of Chicago">211 U. S. 306</a></span> (seizure of unwholesome food);
+  <em>
+   Jacobson
+  </em>
+  v.
+  <em>
+   Massachusetts,
+  </em>
+  <span class="citation" data-id="96230"><a href="/opinion/96230/jacobson-v-massachusetts/" aria-description="Citation for case: Jacobson v. Massachusetts">197 U. S. 11</a></span> (compulsory smallpox vaccination);
+  <em>
+   Compagnie Francaise
+  </em>
+  v.
+  <em>
+   Board of Health,
+  </em>
+  <span class="citation" data-id="95698"><a href="/opinion/95698/compagnie-francaise-de-navigation-a-vapeur-v-louisiana-state-board-of/" aria-description="Citation for case: Compagnie Francaise De Navigation a Vapeur v. Louisiana...">186 U. S. 380</a></span> (health quarantine);
+  <em>
+   Kroplin
+  </em>
+  v.
+  <em>
+   Truax,
+  </em>
+  <span class="citation" data-id="3783238"><a href="/opinion/4026648/kroplin-v-truax/" aria-description="Citation for case: Kroplin v. Truax">119 Ohio St. 610</a></span>, <span class="citation" data-id="3783238"><a href="/opinion/4026648/kroplin-v-truax/" aria-description="Citation for case: Kroplin v. Truax">165 N. E. 498</a></span> (summary destruction of tubercular cattle). On the other hand, in the .case of most routine area inspections, there is no compelling urgency to inspect at a particular time or on a particular day. Moreover, most citizens allow inspections of their property without a warrant. Thus, as a practical matter and in light of the Fourth Amendment’s requirement that a warrant specify the property to be searched, it seems likely that warrants should normally be sought only after entry is refused unless
+  <span citation-index="1" class="star-pagination" label="540"> 
+   *540
+   </span>
+  there has been a citizen complaint or there is other satisfactory reason for securing immediate entry. Similarly, the requirement of a warrant procedure does not suggest any change in what seems to be the prevailing local policy, in most situations, of authorizing entry, but not entry by force, to inspect.
+ </p>
+<p id="b584-5">
+  IV.
+ </p>
+<p id="b584-6">
+  In this case, appellant has been charged with a crime for his refusal to permit housing inspectors to enter his leasehold without a warrant. There was no emergency demanding immediate access; in fact, the inspectors made three trips to the building in an attempt to obtain appellant’s consent to search. Yet no warrant was obtained and thus appellant was unable to verify either the need for or the appropriate limits of the inspection. No doubt, the inspectors entered the public portion of the building with the consent of the landlord, through the building’s manager, but appellee does not contend that such consent was sufficient to authorize inspection of appellant’s premises. Cf.
+  <em>
+   Stoner
+  </em>
+  v.
+  <em>
+   California,
+  </em>
+  <span class="citation" data-id="106777"><a href="/opinion/106777/stoner-v-california/" aria-description="Citation for case: Stoner v. California">376 U. S. 483</a></span>;
+  <em>
+   Chapman
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="106197"><a href="/opinion/106197/chapman-v-united-states/" aria-description="Citation for case: Chapman v. United States">365 U. S. 610</a></span>;
+  <em>
+   McDonald
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="104605"><a href="/opinion/104605/mcdonald-v-united-states/" aria-description="Citation for case: McDonald v. United States">335 U. S. 451</a></span>. Assuming the facts to be as the parties have alleged, we therefore conclude that appellant had a constitutional right to insist that the inspectors obtain a warrant to search and that appellant may not constitutionally be convicted for refusing to consent to the inspection. It appears from the opinion of the District Court of Appeal that under these circumstances a writ of prohibition will issue to the criminal court under California law.
+ </p>
+<p id="b584-7">
+  The judgment is vacated and the case is remanded for further proceedings not inconsistent with this opinion.
+ </p>
+<p id="b584-8">
+<em>
+   It is so ordered.
+  </em>
+</p>
+<judges id="b584-9">
+  [For dissenting opinion of Mr. Justice Clark, see
+  <em>
+   post,
+  </em>
+  p. 546.]
+ </judges>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b570-8">
+   The inspection was conducted pursuant to § 86 (3) of the San Francisco Municipal Code, which provides that apartment house operators shall pay an annual license fee in part to defray the cost of periodic inspections of their buildings. The inspections are to be made by the Bureau of Housing Inspection “at least once a year and as often thereafter as may be deemed necessary.” The permit of occupancy, which prescribes the apartment units which a building may contain, is not issued until the license is obtained.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b571-6">
+   “Sec. 507 PENALTY FOR Violation. Any person, the owner or his authorized agent who violates, disobeys, omits, neglects, or refuses to comply with, or who resists or opposes the execution of any of the provisions of this Code, or any order of the Superintendent, the Director of Public Works, or the Director of Public Health made pursuant to this Code, shall be guilty of a misdemeanor and upon conviction thereof shall be punished by a fine not exceeding five hundred dollars ($500.00), or by imprisonment, not exceeding six (6) months or by both such fine and imprisonment, unless otherwise provided in this Code, and shall be deemed guilty of a separate offense for every day such violation, disobedience, omission, neglect or refusal shall continue.”
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b571-7">
+<em>
+    Givner
+   </em>
+   v.
+   <em>
+    State,
+   </em>
+   <span class="citation" data-id="2305304"><a href="/opinion/2305304/givner-v-state/" aria-description="Citation for case: Givner v. State">210 Md. 484</a></span>, <span class="citation" data-id="2305304"><a href="/opinion/2305304/givner-v-state/" aria-description="Citation for case: Givner v. State">124 A. 2d 764</a></span> (1956);
+   <em>
+    City of St. Louis
+   </em>
+   v.
+   <em>
+    Evans,
+   </em>
+   <span class="citation" data-id="2435050"><a href="/opinion/2435050/city-of-st-louis-v-evans/" aria-description="Citation for case: City of St. Louis v. Evans">337 S. W. 2d 948</a></span> (Mo. 1960);
+   <em>
+    State ex rel. Eaton
+   </em>
+   v.
+   <em>
+    Pnce,
+   </em>
+   <span class="citation no-link">168 Ohio St. 123</span>, <span class="citation no-link">151 N. E. 2d 523</span> (1958), aff’d by an equally divided Court, <span class="citation" data-id="106109"><a href="/opinion/106109/ohio-ex-rel-eaton-v-price/" aria-description="Citation for case: Ohio Ex Rel. Eaton v. Price">364 U. S. 263</a></span> (1960). See also
+   <em>
+    State
+   </em>
+   v.
+   <em>
+    Rees,
+   </em>
+   <span class="citation" data-id="1306345"><a href="/opinion/1306345/state-v-rees/" aria-description="Citation for case: State v. Rees">258 Iowa 813</a></span>, <span class="citation" data-id="1306345"><a href="/opinion/1306345/state-v-rees/" aria-description="Citation for case: State v. Rees">139 N. W. 2d 406</a></span> (1966);
+   <em>
+    Commonwealth
+   </em>
+   v.
+   <em>
+    Hadley,
+   </em>
+   <span class="citation" data-id="2008391"><a href="/opinion/2008391/commonwealth-v-hadley/" aria-description="Citation for case: Commonwealth v. Hadley">351 Mass. 439</a></span>, <span class="citation" data-id="2008391"><a href="/opinion/2008391/commonwealth-v-hadley/" aria-description="Citation for case: Commonwealth v. Hadley">222 N. E. 2d 681</a></span> (1966), appeal docketed Jan. 5, 1967, No. 1179, Misc., O. T. 1966;
+   <em>
+    People
+   </em>
+   v.
+   <em>
+    Laverne,
+   </em>
+   14 N. Y. 2d 304, <span class="citation" data-id="5521228"><a href="/opinion/5673733/people-v-laverne/" aria-description="Citation for case: People v. Laverne">200 N. E. 2d 441</a></span> (1964).
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b573-7">
+   In
+   <em>
+    <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>,
+   </em>
+   the Baltimore ordinance required that the health inspector “have cause to suspect that a nuisance exists in any house, cellar or enclosure” before he could demand entry without a warrant, a requirement obviously met in
+   <em>
+    <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+   </em>
+   because the inspector observed extreme structural decay and a pile of rodent feces on the appellant’s premises. Section 503 of the San Francisco Housing Code has no such “cause” requirement, but neither did the Ohio ordinance at issue in
+   <em>
+    <span class="citation" data-id="106109"><a href="/opinion/106109/ohio-ex-rel-eaton-v-price/" aria-description="Citation for case: Ohio Ex Rel. Eaton v. Price">Eaton</a></span>
+   </em>
+   v.
+   <em>
+    <span class="citation" data-id="106109"><a href="/opinion/106109/ohio-ex-rel-eaton-v-price/" aria-description="Citation for case: Ohio Ex Rel. Eaton v. Price">Price</a></span>,
+   </em>
+   a case which four Justices thought was controlled by
+   <em>
+    Frank.
+   </em>
+   <span class="citation" data-id="106109"><a href="/opinion/106109/ohio-ex-rel-eaton-v-price/#264" aria-description="Citation for case: Ohio Ex Rel. Eaton v. Price">364 U. S., at 264, 265, n. 2</a></span> (opinion of Mr. Justice BrennaN).
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b574-7">
+   See
+   <em>
+    Boyd
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   116 17. S. 616. Compare
+   <em>
+    Schmerber
+   </em>
+   v.
+   <em>
+    California,
+   </em>
+   <span class="citation" data-id="107262"><a href="/opinion/107262/schmerber-v-california/#766" aria-description="Citation for case: Schmerber v. California">384 U. S. 757, 766-772</a></span>.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b574-8">
+   See
+   <em>
+    Abel v. United States,
+   </em>
+   <span class="citation" data-id="106021"><a href="/opinion/106021/abel-v-united-states/#254" aria-description="Citation for case: Abel v. United States">362 U. S. 217, 254-256</a></span> (MR. Justice Brennan, dissenting);
+   <em>
+    District of Columbia
+   </em>
+   v.
+   <em>
+    Little,
+   </em>
+   85 U. S. App. D. C. 242, <span class="citation" data-id="9442232"><a href="/opinion/223783/district-of-columbia-v-little/" aria-description="Citation for case: District of Columbia v. Little">178 F. 2d 13</a></span>, aff’d, <span class="citation" data-id="104766"><a href="/opinion/104766/district-of-columbia-v-little/" aria-description="Citation for case: District of Columbia v. Little">339 U. S. 1</a></span>.
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b575-5">
+   See New York, N. Y., Administrative Code § D26-8.0 (1964).
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b575-6">
+   See Washington, D. C., Housing Regulations §2104.
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b575-7">
+   This is the more prevalent enforcement procedure. See Note, Enforcement of Municipal Housing Codes, <span class="citation no-link">78 Harv. L. Rev. 801</span>, 813-816.
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b575-8">
+   The San Francisco Code requires that the inspector display-proper credentials, that he inspect “at reasonable times,” and that
+   <span citation-index="1" class="star-pagination" label="532"> 
+    *532
+    </span>
+   he not obtain entry by force, at least when there is no emergency. The Baltimore ordinance in
+   <em>
+    <span class="citation" data-id="105880"><a href="/opinion/105880/frank-v-maryland/" aria-description="Citation for case: Frank v. Maryland">Frank</a></span>
+   </em>
+   required that the inspector “have cause to suspect that a nuisance exists.” Some cities notify residents in advance, by mail or posted notice, of impending area inspections. State courts upholding these inspections without warrants have imposed a general reasonableness requirement. See cases cited, n. 3,
+   <em>
+    supra.
+   </em>
+</p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b579-7">
+   See
+   <em>
+    Abbate Bros.
+   </em>
+   v.
+   <em>
+    City of Chicago,
+   </em>
+   <span class="citation" data-id="2049948"><a href="/opinion/2049948/abbate-bros-inc-v-city-of-chicago/" aria-description="Citation for case: Abbate Bros., Inc. v. City of Chicago">11 Ill. 2d 337</a></span>, <span class="citation" data-id="2049948"><a href="/opinion/2049948/abbate-bros-inc-v-city-of-chicago/" aria-description="Citation for case: Abbate Bros., Inc. v. City of Chicago">142 N. E. 2d 691</a></span>;
+   <em>
+    City of Louisville
+   </em>
+   v.
+   <em>
+    Thompson,
+   </em>
+   <span class="citation" data-id="2430498"><a href="/opinion/2430498/city-of-louisville-v-thompson/" aria-description="Citation for case: City of Louisville v. Thompson">339 S. W. 2d 869</a></span> (Ky.) ;
+   <em>
+    Adamec
+   </em>
+   v.
+   <em>
+    Post,
+   </em>
+   <span class="citation" data-id="3620827"><a href="/opinion/3637215/adamec-v-post/" aria-description="Citation for case: Adamec v. Post">273 N. Y. 250</a></span>, <span class="citation" data-id="3620827"><a href="/opinion/3637215/adamec-v-post/" aria-description="Citation for case: Adamec v. Post">7 N. E. 2d 120</a></span>;
+   <em>
+    Paquette
+   </em>
+   v.
+   <em>
+    City of Fall River,
+   </em>
+   <span class="citation" data-id="2062881"><a href="/opinion/2062881/paquette-v-city-of-fall-river/" aria-description="Citation for case: Paquette v. City of Fall River">338 Mass. 368</a></span>, <span class="citation" data-id="2062881"><a href="/opinion/2062881/paquette-v-city-of-fall-river/" aria-description="Citation for case: Paquette v. City of Fall River">155 N. E. 2d 775</a></span>;
+   <em>
+    Richards
+   </em>
+   v.
+   <em>
+    City of Columbia,
+   </em>
+   227 S. C. 538, <span class="citation" data-id="1334923"><a href="/opinion/1334923/richards-v-city-of-columbia/" aria-description="Citation for case: Richards v. City of Columbia">88 S. E. 2d 683</a></span>;
+   <em>
+    Boden
+   </em>
+   v.
+   <em>
+    City of Milwaukee,
+   </em>
+   <span class="citation" data-id="2155771"><a href="/opinion/2155771/boden-v-city-of-milwaukee/" aria-description="Citation for case: Boden v. City of Milwaukee">8 Wis. 2d 318</a></span>, <span class="citation" data-id="2155771"><a href="/opinion/2155771/boden-v-city-of-milwaukee/" aria-description="Citation for case: Boden v. City of Milwaukee">99 N. W. 2d 156</a></span>.
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="b580-7">
+   See Osgood &amp; Zwerner, Rehabilitation and Conservation, 25 Law &amp; Contemp. Prob. 705, 718 and n. 43; Schwartz, Crucial Areas in Administrative Law, <span class="citation no-link">34 Geo. Wash. L. Rev. 401</span>, 423 and n. 93; Comment, Rent Withholding and the Improvement of Substandard Housing, <span class="citation no-link">53 Calif. L. Rev. 304</span>, 316-317; Note, Enforcement of Municipal Housing Codes, <span class="citation no-link">78 Harv. L. Rev. 801</span>, 807, 851; Note, Municipal Housing Codes, <span class="citation no-link">69 Harv. L. Rev. 1115</span>, 1124-1125. Section 311 (a) of the Housing and Urban Development Act of 1965, <span class="citation no-link">79 Stat. 478</span>, <span class="citation no-link">42 U. S. C. § 1468</span> (1964 ed., Supp. I), authorizes grants of federal funds “to cities, other municipalities, and counties for the purpose of assisting such localities in carrying out programs of concentrated code enforcement in deteriorated or deteriorating areas in which such enforcement, together with those public improvements to be provided by the locality, may be expected to arrest the decline of the area.”
+  </p>
+</div></div></opinion>

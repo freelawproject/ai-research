@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b183-9">
+  Justice O’Connor
+ </author>
+<p id="AW">
+  delivered the opinion of the Court.
+ </p>
+<p id="b183-10">
+  Under § 1 of the Sherman Act, <span class="citation no-link">26 Stat. 209</span>, as amended, <span class="citation no-link">15 U. S. C. § 1</span>, “[e]very contract, combination..., or conspiracy, in restraint of trade” is illegal. In
+  <em>
+   Albrecht
+  </em>
+  v.
+  <em>
+   Herald Co.,
+  </em>
+  <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">390 U. S. 145</a></span> (1968), this Court held that vertical maximum price fixing is a
+  <em>
+   per se
+  </em>
+  violation of that statute. In this ease, we are asked to reconsider that decision in light of subsequent decisions of this Court. We conclude that
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  should be overruled.
+ </p>
+<p id="b183-3">
+  Respondents, Barkat U. Khan and his corporation, entered into an agreement with petitioner, State Oil Company, to lease and operate a gas station and convenience store owned
+  <span citation-index="1" class="star-pagination" label="8"> 
+   *8
+   </span>
+  by State Oil. The agreement provided that respondents would obtain the station’s gasoline supply from State Oil at a price equal to a suggested retail price set by State Oil, less a margin of B.25 cents per gallon. ' 'Under the agreement, respondents could charge any amount for gasoline sold to the station’s customers, but if the price charged was higher than &gt; State Oil’s suggested retail price, the excess was to be rebated to State Oil. Respondents could sell gasoline for less than State Oil’s suggested retail price, but any such decrease would reduce their 3.25 cents-per-gallon margin.
+ </p>
+<p id="b184-5">
+  About a year after respondents began operating the gas station, they fell behind in lease payments. State Oil then gave notice of its intent to terminate the agreement and commenced a state court proceeding to evict respondents. At State Oil’s request, the state court appointed a receiver to operate the gas station. The receiver operated the station for several months without being subject to the price restraints in respondents’ agreement with State Oil. According to respondents, the receiver obtained an overall profit margin in excess of 3.25 cents per gallon by lowering the price of regular-grade gasoline and raising the price of premium grades.
+ </p>
+<p id="b184-6">
+  Respondents sued State Oil in the United States District Court for the Northern District of Illinois, alleging in part that State Oil had engaged in price fixing in violation of § 1 of the Sherman Act by preventing respondents from raising or lowering retail gas prices. According to the complaint, but for the agreement with State Oil, respondents could have charged different prices based on the grades of gasoline, in the same way that the receiver had, thereby achieving increased sales and profits. State Oil responded that the agreement did not actually prevent respondents from setting gasoline prices, and that, in substance, respondents did not allege a violation of antitrust laws by their claim that State Oil’s suggested retail price was not optimal.
+ </p>
+<p id="b185-4">
+<span citation-index="1" class="star-pagination" label="9"> 
+   *9
+   </span>
+  The District Court found that the allegations in the complaint did not state a
+  <em>
+   per se
+  </em>
+  violation of the Sherman Act because they did not establish the sort of “manifestly anti-competitive implications or pernicious effect on competition” that would justify
+  <em>
+   per se
+  </em>
+  prohibition of State Oil’s conduct. App. 43-44. Subsequently, in ruling on cross-motions for summary judgment, the District Court concluded that respondents had failed to demonstrate antitrust injury or harm to competition. App. to Pet. for Cert. 37a. The District Court held that respondents had not shown that a difference in gasoline pricing would have increased the station’s sales; nor had they shown that State Oil had market power or that its pricing provisions affected competition in a relevant market.
+  <em>
+   Id.,
+  </em>
+  at 37a, 40a. Accordingly, the District Court entered summary judgment for State Oil on respondents’ Sherman Act claim.
+  <em>
+   Id.,
+  </em>
+  at 40a.
+ </p>
+<p id="b185-5">
+  The Court of Appeals for the Seventh Circuit reversed. <span class="citation" data-id="725024"><a href="/opinion/725024/barkat-u-khan-and-khan-associates-inc-v-state-oil-company/" aria-description="Citation for case: Barkat U. Khan and Khan &amp; Associates, Inc. v. State Oil...">93 F. 3d 1358</a></span> (1996). The court first noted that the agreement between respondents and State Oil did indeed fix maximum gasoline prices by making it “worthless” for respondents to exceed the suggested retail prices.
+  <span class="citation" data-id="725024"><a href="/opinion/725024/barkat-u-khan-and-khan-associates-inc-v-state-oil-company/#1360" aria-description="Citation for case: Barkat U. Khan and Khan &amp; Associates, Inc. v. State Oil..."><em>
+   Id.,
+  </em>
+  at 1360</a></span>. After reviewing legal and economic aspects of price fixing, the court concluded'that State Oil’s pricing scheme was a
+  <em>
+   per se
+  </em>
+  antitrust violation under
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  v.
+  <em>
+   Herald
+  </em>
+  Co.,
+  <em>
+   supra.
+  </em>
+  Although the Court of Appeals characterized
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  as “unsound when decided” and “inconsistent with later decisions” of this Court, it felt constrained to follow that decision. <span class="citation" data-id="725024"><a href="/opinion/725024/barkat-u-khan-and-khan-associates-inc-v-state-oil-company/#1363" aria-description="Citation for case: Barkat U. Khan and Khan &amp; Associates, Inc. v. State Oil...">93 F. 3d, at 1363</a></span>. In light of
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  and
+  <em>
+   Atlantic Richfield Co.
+  </em>
+  v.
+  <em>
+   USA Petroleum Co.,
+  </em>
+  <span class="citation" data-id="112425"><a href="/opinion/112425/atlantic-richfield-co-v-usa-petroleum-co/" aria-description="Citation for case: Atlantic Richfield Co. v. USA Petroleum Co.">495 U. S. 328</a></span> (1990)
+  <em>
+   (ARCO),
+  </em>
+  the court found that respondents could have suffered antitrust injury from not being able to adjust gasoline prices.
+ </p>
+<p id="b185-6">
+  We granted certiorari to consider two questions, whether State Oil’s conduct constitutes a
+  <em>
+   per se
+  </em>
+  violation of the Sherman Act and whether respondents are entitled to recover damages based on that conduct. <span class="citation multiple-matches"><a href="/c/U.%20S./519/1107/">519 U. S. 1107</a></span> (1997).
+ </p>
+<p id="b186-4">
+<span citation-index="1" class="star-pagination" label="10"> 
+   *10
+   </span>
+  II
+ </p>
+<p id="b186-5">
+  A
+ </p>
+<p id="b186-6">
+  Although the Sherman Act, by its terms, prohibits every agreement “in restraint of trade,” this Court has long recognized that Congress intended to outlaw only unreasonable restraints. See,
+  <em>
+   e. g., Arizona
+  </em>
+  v.
+  <em>
+   Maricopa County Medical Soc.,
+  </em>
+  <span class="citation" data-id="110747"><a href="/opinion/110747/arizona-v-maricopa-county-medical-society/#342" aria-description="Citation for case: Arizona v. Maricopa County Medical Society">457 U. S. 332, 342-343</a></span> (1982) (citing
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Joint Traffic Assn.,
+  </em>
+  <span class="citation" data-id="94932"><a href="/opinion/94932/united-states-v-joint-traffic-assn/" aria-description="Citation for case: United States v. Joint Traffic Assn.">171 U. S. 505</a></span> (1898)). As a consequence, most antitrust claims are analyzed under a “rule of reason,” according to which the finder of fact must decide whether the questioned practice imposes an unreasonable restraint on competition, taking into account a variety of factors, including specific information about the relevant business, its condition before and after the restraint was imposed, and the restraint’s history, nature, and effect. <span class="citation" data-id="110747"><a href="/opinion/110747/arizona-v-maricopa-county-medical-society/#343" aria-description="Citation for case: Arizona v. Maricopa County Medical Society">457 U. S., at 343</a></span>, and n. 13 (citing
+  <em>
+   Board of Trade of Chicago
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="99113"><a href="/opinion/99113/board-of-trade-of-chicago-v-united-states/#238" aria-description="Citation for case: Board of Trade of Chicago v. United States">246 U. S. 231, 238</a></span> (1918)).
+ </p>
+<p id="b186-7">
+  Some types of restraints, however, have such predictable and pernicious anticompetitive effect, and such limited potential for proeompetitive benefit, that they are deemed unlawful
+  <em>
+   per se. Northern Pacific R. Co.
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="105646"><a href="/opinion/105646/northern-pacific-railway-co-v-united-states/#5" aria-description="Citation for case: Northern Pacific Railway Co. v. United States">356 U. S. 1, 5</a></span> (1958).
+  <em>
+   Per se
+  </em>
+  treatment is appropriate “[ojnce experience with a particular kind of restraint enables the Court to predict with confidence that the rule of reason will condemn it.”
+  <em>
+   Maricopa County, supra,
+  </em>
+  at 344; see also
+  <em>
+   Broadcast Music, Inc.
+  </em>
+  v.
+  <em>
+   Columbia Broadcasting System, Inc.,
+  </em>
+  <span class="citation" data-id="110053"><a href="/opinion/110053/broadcast-music-inc-v-columbia-broadcasting-system-inc/#19" aria-description="Citation for case: Broadcast Music, Inc. v. Columbia Broadcasting System, Inc.">441 U. S. 1, 19, n. 33</a></span> (1979). Thus, we have expressed reluctance to adopt
+  <em>
+   per se
+  </em>
+  rules with regard to “restraints imposed in the context of business relationships where the economic impact of certain practices is not immediately obvious.”
+  <em>
+   FTC
+  </em>
+  v.
+  <em>
+   Indiana Federation of Dentists,
+  </em>
+  <span class="citation" data-id="111677"><a href="/opinion/111677/federal-trade-commission-v-indiana-federation-of-dentists/#458" aria-description="Citation for case: Federal Trade Commission v. Indiana Federation of Dentists">476 U. S. 447, 458-459</a></span> (1986).
+ </p>
+<p id="b186-8">
+  A review of this Court’s decisions leading up to and beyond
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  is relevant to our assessment of the continuing validity
+  <em>
+   of
+  </em>
+  the
+  <em>
+   per se
+  </em>
+  rule established in
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>.
+  </em>
+  Beginning
+  <span citation-index="1" class="star-pagination" label="11"> 
+   *11
+   </span>
+  with
+  <em>
+   Dr. Miles Medical Co.
+  </em>
+  v.
+  <em>
+   John D. Park &amp; Sons Co.,
+  </em>
+  <span class="citation" data-id="97398"><a href="/opinion/97398/dr-miles-medical-co-v-john-d-park-sons-co/" aria-description="Citation for case: Dr. Miles Medical Co. v. John D. Park &amp; Sons Co.">220 U. S. 373</a></span> (1911), the Court recognized the illegality of agreements under which manufacturers or suppliers set the minimum resale prices to be charged by their distributors. By 1940, the Court broadly declared all business combinations “formed for the purpose and with the effect of raising, depressing, fixing, pegging, or stabilizing the price of a commodity in interstate or foreign commerce” illegal
+  <em>
+   per se. United States
+  </em>
+  v.
+  <em>
+   Socony-Vacuum Oil Co.,
+  </em>
+  <span class="citation" data-id="103352"><a href="/opinion/103352/united-states-v-socony-vacuum-oil-co/#223" aria-description="Citation for case: United States v. Socony-Vacuum Oil Co.">310 U. S. 150, 223</a></span> (1940). Accordingly, the Court condemned an agreement between two affiliated liquor distillers to limit the maximum price charged by retailers in
+  <em>
+   Kiefer-Stewart Co.
+  </em>
+  v.
+  <em>
+   Joseph E. Seagram &amp; Sons, Inc.,
+  </em>
+  <span class="citation" data-id="104839"><a href="/opinion/104839/kiefer-stewart-co-v-joseph-e-seagram-sons-inc/" aria-description="Citation for case: Kiefer-Stewart Co. v. Joseph E. Seagram &amp; Sons, Inc.">340 U. S. 211</a></span> (1951), noting that agreements to fix maximum prices, “no less than those to fix minimum prices, cripple the freedom of traders and thereby restrain their ability to sell in accordance with their own judgment.”
+  <span class="citation" data-id="104839"><a href="/opinion/104839/kiefer-stewart-co-v-joseph-e-seagram-sons-inc/#213" aria-description="Citation for case: Kiefer-Stewart Co. v. Joseph E. Seagram &amp; Sons, Inc."><em>
+   Id.,
+  </em>
+  at 213</a></span>.
+ </p>
+<p id="b187-5">
+  In subsequent cases, the Court’s attention turned to arrangements through which suppliers imposed restrictions on dealers with respect to matters other than resale price. In
+  <em>
+   White Motor Co.
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="106542"><a href="/opinion/106542/white-motor-co-v-united-states/" aria-description="Citation for case: White Motor Co. v. United States">372 U. S. 253</a></span> (1963), the Court considered the validity of a manufacturer’s assignment of exclusive territories to its distributors and dealers. The Court determined that too little was known about the competitive impact of such vertical limitations to warrant treating them as
+  <em>
+   per se
+  </em>
+  unlawful.
+  <span class="citation" data-id="106542"><a href="/opinion/106542/white-motor-co-v-united-states/#263" aria-description="Citation for case: White Motor Co. v. United States"><em>
+   Id.,
+  </em>
+  at 263</a></span>. Four years later, in
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Arnold, Schwinn &amp; Co.,
+  </em>
+  <span class="citation" data-id="107491"><a href="/opinion/107491/united-states-v-arnold-schwinn-co/" aria-description="Citation for case: United States v. Arnold, Schwinn &amp; Co.">388 U. S. 365</a></span> (1967), the Court reconsidered the status of exclusive dealer territories and held that, upon the transfer of title to goods to a distributor, a supplier’s imposition of territorial restrictions on the distributor was “so obviously destructive of competition” as to constitute a
+  <em>
+   per se
+  </em>
+  violation of the Sherman Act.
+  <span class="citation" data-id="107491"><a href="/opinion/107491/united-states-v-arnold-schwinn-co/#379" aria-description="Citation for case: United States v. Arnold, Schwinn &amp; Co."><em>
+   Id.,
+  </em>
+  at 379</a></span>. In
+  <em>
+   Schwinn,
+  </em>
+  the Court acknowledged that some vertical restrictions, such as the conferral of territorial rights or franchises, could have procompetitive benefits by allowing smaller enterprises to compete, and that
+  <span citation-index="1" class="star-pagination" label="12"> 
+   *12
+   </span>
+  such restrictions might avert vertical integration in the distribution process.
+  <span class="citation" data-id="107491"><a href="/opinion/107491/united-states-v-arnold-schwinn-co/#379" aria-description="Citation for case: United States v. Arnold, Schwinn &amp; Co."><em>
+   Id.,
+  </em>
+  at 379-380</a></span>. The Court drew the line, however, at permitting manufacturers to control product marketing once dominion over the goods had passed to dealers.
+  <span class="citation" data-id="107491"><a href="/opinion/107491/united-states-v-arnold-schwinn-co/#380" aria-description="Citation for case: United States v. Arnold, Schwinn &amp; Co."><em>
+   Id.,
+  </em>
+  at 380</a></span>.
+ </p>
+<p id="b188-5">
+<em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>,
+  </em>
+  decided the following Term, involved a newspaper publisher who had granted exclusive territories to independent carriers subject to their adherence to a maximum price on resale of the newspapers to the public. Influenced by its decisions in
+  <em>
+   Socony-Vacuum, Kiefer-Stewart,
+  </em>
+  and
+  <em>
+   Schwinn,
+  </em>
+  the Court concluded that it was
+  <em>
+   per se
+  </em>
+  unlawful for the publisher to fix the maximum resale price of its newspapers. <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/#152" aria-description="Citation for case: Albrecht v. Herald Co.">390 U. S., at 152-154</a></span>. The Court acknowledged that “[mjaximum and minimum price fixing may have different consequences in many situations,” but nonetheless condemned maximum price fixing for “substituting the perhaps erroneous judgment of a seller for the forces of the competitive market.”
+  <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/#152" aria-description="Citation for case: Albrecht v. Herald Co."><em>
+   Id.,
+  </em>
+  at 152</a></span>.
+ </p>
+<p id="b188-6">
+<em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  was animated in part by the fear that vertical maximum price fixing could allow suppliers to discriminate against certain dealers, restrict the services that dealers could afford to offer customers, or disguise minimum price fixing schemes.
+  <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/#152" aria-description="Citation for case: Albrecht v. Herald Co."><em>
+   Id.,
+  </em>
+  at 152-153</a></span>. The Court rejected the notion (both on the record of that case and in the abstract) that, because the newspaper publisher “granted exclusive territories, a price ceiling was necessary to protect the public from price gouging by dealers who had monopoly power in their own territories.” <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/#153" aria-description="Citation for case: Albrecht v. Herald Co.">Id., at 153</a></span>.
+ </p>
+<p id="b188-7">
+  In a vigorous dissent, Justice Harlan asserted that the majority had erred in equating the effects of maximum and minimum price fixing. <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/#156" aria-description="Citation for case: Albrecht v. Herald Co.">Id., at 156-168</a></span>. Justice Harlan pointed out that, because the majority was establishing a per se rule, the proper inquiry was “not whether dictation of maximum prices is ever illegal, but whether it is
+  <em>
+   always
+  </em>
+  illegal.”
+  <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/#165" aria-description="Citation for case: Albrecht v. Herald Co."><em>
+   Id.,
+  </em>
+  at 165-166</a></span>. He also faulted the majority for conclusively listing “certain unfortunate consequences that maximum
+  <span citation-index="1" class="star-pagination" label="13"> 
+   *13
+   </span>
+  price dictation might have in other cases,” even as it rejected evidence that the publisher’s practice of fixing maximum prices counteracted potentially anticompetitive actions by its distributors.
+  <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/#165" aria-description="Citation for case: Albrecht v. Herald Co."><em>
+   Id.,
+  </em>
+  at 165</a></span>. Justice Stewart also dissented, asserting that the publisher’s maximum price fixing scheme should be properly viewed as promoting competition, because it protected consumers from dealers such as Albrecht, who, as “the only person who could sell for home delivery the city’s only daily morning newspaper,” was “a monopolist within his own territory.”
+  <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/#168" aria-description="Citation for case: Albrecht v. Herald Co."><em>
+   Id.,
+  </em>
+  at 168</a></span>.
+ </p>
+<p id="b189-5">
+  Nine years later, in
+  <em>
+   Continental T. V., Inc.
+  </em>
+  v.
+  <em>
+   GTE Sylvania Inc.,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.%20S./438/36/">438 U. S. 36</a></span> (1977), the Court overruled
+  <em>
+   Schwinn,
+  </em>
+  thereby rejecting application of a
+  <em>
+   per se
+  </em>
+  rule in the context of vertical nonprice restrictions. The Court acknowledged the principle of
+  <em>
+   stare decisis,
+  </em>
+  but explained that the need for clarification in the law justified reconsideration of
+  <em>
+   Schwinn:
+  </em>
+</p>
+<blockquote id="b189-6">
+  “Sineé its announcement,
+  <em>
+   Schwinn
+  </em>
+  has been the subject of continuing controversy and confusion, both in the scholarly journals and in the federal courts. The great weight of scholarly opinion has been critical of the decision, and a number of the federal courts confronted with analogous vertical restrictions have sought to limit its reach. In our view, the experience of the past 10 years should be brought to bear on this subject of considerable commercial importance.” 433 U. S., at 47-49 (footnotes omitted).
+ </blockquote>
+<p id="b189-7">
+  The Court considered the historical context of
+  <em>
+   Schwinn,
+  </em>
+  noting that
+  <em>
+   Schwinn’s per se
+  </em>
+  rule against vertical nonpriee restrictions came only four years after the Court had refused to endorse a similar rule in
+  <em>
+   White Motor Co.,
+  </em>
+  and that the decision neither explained the “sudden change in position,” nor referred to the accepted requirements for
+  <em>
+   per se
+  </em>
+  violations set forth in
+  <em>
+   Northern Pacific R. Co.
+  </em>
+  433 U. S., at 51-52. The Court then reviewed scholarly works supporting the economic utility of vertical nonprice restraints. See
+  <em>
+   id.,
+  </em>
+<span citation-index="1" class="star-pagination" label="14"> 
+   *14
+   </span>
+  at 54-57 (citing,
+  <em>
+   e. g.,
+  </em>
+  Posner, Antitrust Policy and the Supreme Court: An Analysis of the Restricted Distribution, Horizontal Merger and Potential Competition Decisions, <span class="citation no-link">75 Colum. L. Rev. 282</span> (1975); Preston, Restrictive Distribution Arrangements: Economic Analysis and Public Policy Standards, 30 Law &amp; Contemp. Prob. 506 (1965)). The Court concluded that, because “departure from the rule-of-reason standard must be based upon demonstrable economic effect rather than — as in
+  <em>
+   Schwinn
+  </em>
+  — upon formalistic line drawing,” the appropriate course would be “to return to the rule of reason that governed vertical restrictions prior to
+  <em>
+   Schwinn.” GTE Sylvania, supra,
+  </em>
+  at 58-59.
+ </p>
+<p id="b190-5">
+  In
+  <em>
+   GTE Sylvania,
+  </em>
+  the Court declined to comment on
+  <em>
+   Albrechts per se
+  </em>
+  treatment of vertical maximum price restrictions, noting that the issue “involve[d] significantly different questions of analysis and policy.” 483 U. S., at 51, n. 18. Subsequent decisions of the Court, however, have hinted that the analytical underpinnings of
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  were substantially weakened by
+  <em>
+   GTE
+  </em>
+  Sylvania. We noted in
+  <em>
+   Mari-copa County
+  </em>
+  that vertical restraints are generally more defensible than horizontal restraints. See <span class="citation" data-id="110747"><a href="/opinion/110747/arizona-v-maricopa-county-medical-society/#348" aria-description="Citation for case: Arizona v. Maricopa County Medical Society">457 U. S., at 348, n. 18</a></span>. And we explained in
+  <em>
+   324 Liquor Corp.
+  </em>
+  v.
+  <em>
+   Duffy,
+  </em>
+  <span class="citation" data-id="111786"><a href="/opinion/111786/324-liquor-corp-v-duffy/#341" aria-description="Citation for case: 324 Liquor Corp. v. Duffy">479 U. S. 335, 341-342</a></span> (1987), that decisions such as
+  <em>
+   GTE Sylvania
+  </em>
+  “recognize the possibility that a vertical restraint imposed by a
+  <em>
+   single
+  </em>
+  manufacturer or wholesaler may stimulate interbrand competition even as it reduces intrabrand competition.”
+ </p>
+<p id="b190-6">
+  Most recently, in
+  <em>
+   ARCO,
+  </em>
+  <span class="citation" data-id="112425"><a href="/opinion/112425/atlantic-richfield-co-v-usa-petroleum-co/" aria-description="Citation for case: Atlantic Richfield Co. v. USA Petroleum Co.">495 U. S. 328</a></span> (1990), although
+  <em>
+   Al-brecht’s
+  </em>
+  continuing validity was not squarely before the Court, some disfavor with that decision was signaled by our statement that we would “assume,
+  <em>
+   arguendo,
+  </em>
+  that
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  correctly held that vertical, maximum price fixing is subject to the
+  <em>
+   per se
+  </em>
+  rule.” <span class="citation" data-id="112425"><a href="/opinion/112425/atlantic-richfield-co-v-usa-petroleum-co/#335" aria-description="Citation for case: Atlantic Richfield Co. v. USA Petroleum Co.">495 U. S., at 335, n. 5</a></span>. More significantly, we specifically acknowledged that vertical maximum price fixing “may have procompetitive interbrand effects,” and pointed out that, in the wake of
+  <em>
+   GTE Sylvania,
+  </em>
+  “[t]he
+  <span citation-index="1" class="star-pagination" label="15"> 
+   *15
+   </span>
+  proeompetitive potential of a vertical maximum price restraint is more evident. . . than it was when
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  was decided, because exclusive territorial arrangements and other nonprice restrictions were unlawful
+  <em>
+   per se
+  </em>
+  in 1968.” <span class="citation" data-id="112425"><a href="/opinion/112425/atlantic-richfield-co-v-usa-petroleum-co/#348" aria-description="Citation for case: Atlantic Richfield Co. v. USA Petroleum Co.">495 U. S., at 348</a></span>, n. 13 (citing several commentators identifying proeompetitive effects of vertical maximum price fixing, including,
+  <em>
+   e. g.,
+  </em>
+  P. Areeda
+  <em>
+   &amp;
+  </em>
+  H. Hovenkamp, Antitrust Law ¶ 340.30b, p. 378, n. 24 (1988 Supp.); Blair
+  <em>
+   &amp;
+  </em>
+  Harrison, Rethinking Antitrust Injury, <span class="citation no-link">42 Vand. L. Rev. 1539</span>, 1553 (1989); Easterbrook, Maximum Price Fixing, <span class="citation no-link">48 U. Chi. L. Rev. 886</span>, 887-890 (1981)) (hereinafter Easterbrook).
+ </p>
+<p id="b191-5">
+  B
+ </p>
+<p id="b191-6">
+  Thus, our reconsideration of
+  <em>
+   Albrecht’s
+  </em>
+  continuing validity is informed by several of our decisions, as well as a considerable body of scholarship discussing the effects of vertical restraints. Our analysis is also guided by our general view that the primary purpose of the antitrust laws is to protect interbrand competition. See,
+  <em>
+   e. g., Business Electronics Corp.
+  </em>
+  v.
+  <em>
+   Sharp Electronics Corp.,
+  </em>
+  <span class="citation" data-id="112051"><a href="/opinion/112051/business-electronics-corp-v-sharp-electronics-corp/#726" aria-description="Citation for case: Business Electronics Corp. v. Sharp Electronics Corp.">485 U. S. 717, 726</a></span> (1988). “Low prices,” we have explained, “benefit consumers regardless of how those prices are set, and so long as they are above predatory levels, they do not threaten competition.”
+  <em>
+   ARCO, supra,
+  </em>
+  at 340. Our interpretation of the Sherman Act also incorporates the notion that condemnation of practices resulting in lower prices to consumers is “especially costly” because “cutting prices in order to increase business often is the very essence of competition.”
+  <em>
+   Matsushita Elec. Industrial Co.
+  </em>
+  v.
+  <em>
+   Zenith Radio Corp.,
+  </em>
+  <span class="citation" data-id="111620"><a href="/opinion/111620/matsushita-electric-industrial-co-ltd-v-zenith-radio-corporation/#594" aria-description="Citation for case: Matsushita Electric Industrial Co., Ltd. v. Zenith Radio...">475 U. S. 574, 594</a></span> (1986).
+ </p>
+<p id="b191-7">
+  So informed, we find it difficult to maintain that vertically imposed maximum prices could harm consumers or competition to the extent necessary to justify their
+  <em>
+   per se
+  </em>
+  invalidation. As Chief Judge Posner wrote for the Court of Appeals in this ease:
+ </p>
+<blockquote id="b191-8">
+  “As for maximum resale price fixing, unless the supplier is a monopsonist he cannot squeeze his dealers’ margins
+  <span citation-index="1" class="star-pagination" label="16"> 
+   *16
+   </span>
+  below a competitive level; the attempt to do so would just drive the dealers into the arms of a competing supplier. A supplier might, however, fix a maximum resale price in order to prevent his dealers from exploiting a monopoly position.... [Sjuppose that State Oil, perhaps to encourage ... dealer services ... has spaced its dealers sufficiently far apart to limit competition among them (or even given each of them an exclusive territory); and suppose further that Union 76 is a sufficiently distinctive and popular brand to give the dealers in it at least a modicum of monopoly power. Then State Oil might want to place a ceiling on the dealers’ resale prices in order to prevent them from exploiting that monopoly power folly. It would do this not out of disinterested malice, but in its commercial self-interest. The higher the price at which gasoline is resold, the smaller the volume sold, and so the lower the profit to the supplier if the higher profit per gallon at the higher price is being snared by the dealer.” <span class="citation" data-id="725024"><a href="/opinion/725024/barkat-u-khan-and-khan-associates-inc-v-state-oil-company/#1362" aria-description="Citation for case: Barkat U. Khan and Khan &amp; Associates, Inc. v. State Oil...">93 F. 3d, at 1362</a></span>.
+ </blockquote>
+<p id="b192-5">
+  See also R. Bork, The Antitrust Paradox 281-282 (1978) (“There could, of course, be no anticonsumer effect from [the type of price fixing considered in
+  <em>
+   Albrecht],
+  </em>
+  and one suspects that the paper has a legitimate interest in keeping subscriber prices down in order to increase circulation and maximize revenues from advertising”).
+ </p>
+<p id="b192-6">
+  We recognize that the
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  decision presented a number of theoretical justifications for a
+  <em>
+   per se
+  </em>
+  rule against vertical maximum price fixing. But criticism of those premises abounds. The
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  decision was grounded in the fear that maximum price fixing by suppliers could interfere with dealer freedom. <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/#152" aria-description="Citation for case: Albrecht v. Herald Co.">390 U. S., at 152</a></span>. In response, as one commentator has pointed out, “the ban on maximum resale price limitations declared in
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  in the name of ‘dealer freedom’ has actually prompted many suppliers to integrate forward into distribution, thus eliminating the very independent trader for whom
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  professed solicitude.”
+  <span citation-index="1" class="star-pagination" label="17"> 
+   *17
+   </span>
+  8 P. Areeda, Antitrust Law ¶ 1635, p. 395 (1989) (hereinafter Areeda). For example, integration in the newspaper industry since
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  has given rise to litigation between independent distributors and publishers. See P. Areeda
+  <em>
+   &amp;
+  </em>
+  H. Hovenkamp,
+  <em>
+   supra,
+  </em>
+  ¶ 729.7, pp. 599-614 (1996 Supp.).
+ </p>
+<p id="b193-5">
+  The
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  Court also expressed the concern that maximum prices may be set too low for dealers to offer consumers essential or desired services. <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/#152" aria-description="Citation for case: Albrecht v. Herald Co.">390 U. S., at 152-153</a></span>. But such conduct, by driving away customers, would seem likely to harm manufacturers as well as dealers and consumers, making it unlikely that a supplier would set such a price as a matter of business judgment. See,
+  <em>
+   e. g.,
+  </em>
+  Lopatka, Stephen Breyer and Modern Antitrust: A Snug Fit, 40 Antitrust Bull. 1, 60 (1995); Blair &amp; Lang,
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  After
+  <em>
+   <span class="citation" data-id="112425"><a href="/opinion/112425/atlantic-richfield-co-v-usa-petroleum-co/" aria-description="Citation for case: Atlantic Richfield Co. v. USA Petroleum Co.">ARCO</a></span>:
+  </em>
+  Maximum Resale Price Fixing Moves Toward the Rule of Reason, <span class="citation no-link">44 Vand. L. Rev. 1007</span>, 1034 (1991). In addition,
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  noted that vertical maximum price fixing could effectively channel distribution through large or specially advantaged dealers. <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/#153" aria-description="Citation for case: Albrecht v. Herald Co.">390 U. S., at 153</a></span>. It is unclear, however, that a supplier would profit from limiting its market by excluding potential dealers. See,
+  <em>
+   e. g.,
+  </em>
+  Easterbrook 905-908. Further, although vertical maximum price fixing might limit the viability of inefficient dealers, that consequence is not necessarily harmful to competition and consumers. See,
+  <em>
+   e. g., id.,
+  </em>
+  at 907; Lopatka,
+  <em>
+   supra,
+  </em>
+  at 60.
+ </p>
+<p id="b193-6">
+  Finally,
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  reflected the Court’s fear that maximum price fixing could be used to disguise arrangements to fix minimum prices, <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/#153" aria-description="Citation for case: Albrecht v. Herald Co.">390 U. S., at 153</a></span>, which remain illegal
+  <em>
+   per se.
+  </em>
+  Although we have acknowledged the possibility that maximum pricing might mask minimum pricing, see
+  <em>
+   Maricopa County,
+  </em>
+  <span class="citation" data-id="110747"><a href="/opinion/110747/arizona-v-maricopa-county-medical-society/#348" aria-description="Citation for case: Arizona v. Maricopa County Medical Society">457 U. S., at 348</a></span>, we believe that such conduct — as with the other concerns articulated in Albrecht— can be appropriately recognized and punished under the rule of reason. See,
+  <em>
+   e. g.,
+  </em>
+  Easterbrook 901-904; see also Pitofsky, In Defense of Discounters: The No-Frills Case for a
+  <em>
+   Per Se
+  </em>
+<span citation-index="1" class="star-pagination" label="18"> 
+   *18
+   </span>
+  Rule Against Vertical Price Fixing, 71 Geo. L. J. 1487, 1490, n. 17 (1983).
+ </p>
+<p id="b194-5">
+  Not only are the potential injuries cited in
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  less serious than the Court imagined, the
+  <em>
+   per se
+  </em>
+  rule established therein could in fact exacerbate problems related to the unrestrained exercise of market power by monopolist-dealers. Indeed, both courts and antitrust scholars have noted that
+  <em>
+   Albrecht’s
+  </em>
+  rule may actually harm consumers and manufacturers. See,
+  <em>
+   e. g., Caribe BMW, Inc.
+  </em>
+  v.
+  <em>
+   Bayerische Motoren Werke Aktiengesellschaft,
+  </em>
+  <span class="citation" data-id="665980"><a href="/opinion/665980/caribe-bmw-inc-v-bayerische-motoren-werke-aktiengesellschaft/#753" aria-description="Citation for case: Caribe Bmw, Inc. v. Bayerische Motoren Werke...">19 F. 3d 745, 753</a></span> (CA1 1994) (Breyer, C. J.); Areeda ¶ 1636a, at 395; G. Mathewson &amp; R. Winter, Competition Policy and Vertical Exchange 13-14 (1985). Other commentators have also explained that
+  <em>
+   Al-brecht’s per se
+  </em>
+  rule has even more potential for deleterious effect on competition after our decision in
+  <em>
+   GTE Sylvania,
+  </em>
+  because, now that vertical nonprice restrictions are not unlawful
+  <em>
+   per se,
+  </em>
+  the likelihood of dealer monopoly power is increased. See,
+  <em>
+   e. g.,
+  </em>
+  Easterbrook 890, n. 20; see also
+  <em>
+   ARCO,
+  </em>
+  <span class="citation" data-id="112425"><a href="/opinion/112425/atlantic-richfield-co-v-usa-petroleum-co/#343" aria-description="Citation for case: Atlantic Richfield Co. v. USA Petroleum Co.">495 U. S., at 343, n. 13</a></span>. We do not intend to suggest that dealers generally possess sufficient market power to exploit a monopoly situation. Such retail market power may in fact be uncommon. See,
+  <em>
+   e. g., Business Electronics,
+  </em>
+  <span class="citation" data-id="112051"><a href="/opinion/112051/business-electronics-corp-v-sharp-electronics-corp/#727" aria-description="Citation for case: Business Electronics Corp. v. Sharp Electronics Corp.">485 U. S., at 727, n. 2</a></span>;
+  <em>
+   GTE Sylvania,
+  </em>
+  433 U. S., at 54. Nor do we hold that a ban
+  <em>
+   on
+  </em>
+  vertical maximum price fixing inevitably has anticompetitive consequences in the exclusive dealer context.
+ </p>
+<p id="b194-6">
+  After reconsidering
+  <em>
+   Albrecht’s
+  </em>
+  rationale and the substantial criticism the decision has received, however, we conclude that there is insufficient economic justification for per
+  <em>
+   se
+  </em>
+  invalidation of vertical maximum price fixing. That is so not only because it is difficult to accept the assumptions underlying
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>,
+  </em>
+  but also because
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  has little or no relevance to ongoing enforcement of the Sherman Act. See
+  <em>
+   Copperweld Corp.
+  </em>
+  v.
+  <em>
+   Independence Tube Corp.,
+  </em>
+  <span class="citation" data-id="111218"><a href="/opinion/111218/copperweld-corp-v-independence-tube-corp/#777" aria-description="Citation for case: Copperweld Corp. v. Independence Tube Corp.">467 U. S. 752, 777</a></span>, and n. 25 (1984). Moreover, neither the parties nor any
+  <span citation-index="1" class="star-pagination" label="19"> 
+   *19
+   </span>
+  of the
+  <em>
+   amici curiae
+  </em>
+  have called our attention to any cases in which enforcement efforts have been directed solely against the conduct encompassed by
+  <em>
+   AlbrecMs, per se
+  </em>
+  rule.
+ </p>
+<p id="b195-5">
+  Respondents argue that reconsideration of
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  should require “persuasive, expert testimony establishing that the
+  <em>
+   per se
+  </em>
+  rule has distorted the market.” Brief for Respondents 7. Their reasoning ignores the fact that
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  itself relied solely upon hypothetical effects of vertical maximum price fixing. Further,
+  <em>
+   Albrecht’s,
+  </em>
+  dire predictions have not been borne out, even though manufacturers and suppliers appear to have fashioned schemes to get around the
+  <em>
+   per se
+  </em>
+  rule against vertical maximum price fixing. In these circumstances, it is the retention of the rule of
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>,
+  </em>
+  and not, as respondents would have it, the rule’s elimination, that lacks adequate justification. See,
+  <em>
+   e. g., GTE Sylvania, supra,
+  </em>
+  at 58-59.
+ </p>
+<p id="b195-6">
+  Respondents’ reliance on
+  <em>
+   Toolson
+  </em>
+  v.
+  <em>
+   New York Yankees, Inc.,
+  </em>
+  <span class="citation" data-id="105163"><a href="/opinion/105163/toolson-v-new-york-yankees-inc/" aria-description="Citation for case: Toolson v. New York Yankees, Inc.">346 U. S. 356</a></span> (1953)
+  <em>
+   (per curiam),
+  </em>
+  and
+  <em>
+   Flood
+  </em>
+  v.
+  <em>
+   Kuhn,
+  </em>
+  <span class="citation" data-id="108580"><a href="/opinion/108580/flood-v-kuhn/" aria-description="Citation for case: Flood v. Kuhn">407 U. S. 258</a></span> (1972), is similarly misplaced, because those decisions are clearly inapposite, having to do with the antitrust exemption for professional baseball, which this Court has described as “an aberration ... resting] on a recognition and an acceptance of baseball’s unique characteristics and needs,”
+  <span class="citation" data-id="108580"><a href="/opinion/108580/flood-v-kuhn/#282" aria-description="Citation for case: Flood v. Kuhn"><em>
+   id.,
+  </em>
+  at 282</a></span>. In the context of this ease, we infer little meaning from the fact that Congress has not reacted legislatively to
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>.
+  </em>
+  In any event, the history of various legislative proposals regarding price fixing seems neither clearly to support nor to denounce the
+  <em>
+   per se
+  </em>
+  rule of
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>.
+  </em>
+  Respondents are of course free to seek legislative protection from gasoline suppliers of the sort embodied in the Petroleum Marketing Practices Act, <span class="citation no-link">92 Stat. 322</span>, <span class="citation no-link">15 U. S. C. § 2801</span>
+  <em>
+   et seq.
+  </em>
+  For the reasons we have noted, however, the remedy for respondents’ dispute with State Oil should not come in the form of a
+  <em>
+   per se
+  </em>
+  rule affecting the conduct of the entire marketplace.
+ </p>
+<p id="b196-4">
+<span citation-index="1" class="star-pagination" label="20"> 
+   *20
+   </span>
+  c
+ </p>
+<p id="b196-5">
+  Despite what Chief Judge Posner aptly described as
+  <em>
+   Al-brechts
+  </em>
+  "infirmities, [and] its increasingly wobbly, moth-eaten foundations,” <span class="citation" data-id="725024"><a href="/opinion/725024/barkat-u-khan-and-khan-associates-inc-v-state-oil-company/#1363" aria-description="Citation for case: Barkat U. Khan and Khan &amp; Associates, Inc. v. State Oil...">93 F. 3d, at 1363</a></span>, there remains the question whether
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  deserves continuing respect under the doctrine of
+  <em>
+   stare decisis.
+  </em>
+  The Court of Appeals was correct in applying that principle despite disagreement with
+  <em>
+   Al-
+  </em>
+  brecht, for it is this Court’s prerogative alone to overrule one of its precedents.
+ </p>
+<p id="b196-6">
+  We approach the reconsideration of decisions of this Court with the utmost caution.
+  <em>
+   Stare decisis
+  </em>
+  reflects “a policy judgment that fin most matters it is more important that the applicable rule of law be settled than that it be settled right.’”
+  <em>
+   Agostini
+  </em>
+  v.
+  <em>
+   Felton,
+  </em>
+  <span class="citation" data-id="118133"><a href="/opinion/118133/agostini-v-felton/#235" aria-description="Citation for case: Agostini v. Felton">521 U. S. 203, 235</a></span> (1997) (quoting
+  <em>
+   Burnet
+  </em>
+  v.
+  <em>
+   Coronado Oil &amp; Gas Co.,
+  </em>
+  <span class="citation" data-id="101894"><a href="/opinion/101894/burnet-v-coronado-oil-gas-co/#406" aria-description="Citation for case: Burnet v. Coronado Oil &amp; Gas Co.">285 U. S. 393, 406</a></span> (1932) (Brandéis, J., dissenting)). It "is the preferred course because it promotes the evenhanded, predictable, and consistent development of legal principles, fosters reliance on judicial decisions, and contributes to the actual and perceived integrity of the judicial process.”
+  <em>
+   Payne
+  </em>
+  v.
+  <em>
+   Tennessee,
+  </em>
+  <span class="citation" data-id="112643"><a href="/opinion/112643/payne-v-tennessee/#827" aria-description="Citation for case: Payne v. Tennessee">501 U. S. 808, 827</a></span> (1991). This Court has expressed its reluctance to overrule decisions involving statutory interpretation, see,
+  <em>
+   e. g., Illinois Brick Co.
+  </em>
+  v.
+  <em>
+   Illinois,
+  </em>
+  <span class="citation" data-id="109680"><a href="/opinion/109680/illinois-brick-co-v-illinois/#736" aria-description="Citation for case: Illinois Brick Co. v. Illinois">431 U. S. 720, 736</a></span> (1977), and has acknowledged that
+  <em>
+   stare decisis
+  </em>
+  concerns are at their acme in eases involving property and contract rights, see,
+  <em>
+   e. g., Payne,
+  </em>
+  <span class="citation" data-id="112643"><a href="/opinion/112643/payne-v-tennessee/#828" aria-description="Citation for case: Payne v. Tennessee">501 U. S., at 828</a></span>. Both of those concerns are arguably relevant in this case.
+ </p>
+<p id="b196-7">
+  But
+  <em>
+   “[sjtare decisis
+  </em>
+  is not an inexorable command.”
+  <em>
+   <span class="citation" data-id="112643"><a href="/opinion/112643/payne-v-tennessee/" aria-description="Citation for case: Payne v. Tennessee">Ibid.</a></span>
+  </em>
+  In the area of antitrust law, there is a competing interest, well represented in this Court’s decisions, in recognizing and adapting to changed circumstances and the lessons of accumulated experience. Thus, the general presumption that legislative changes should be left to Congress has less force with respect to the Sherman Act in light of the accepted view that Congress “expected the courts to give shape to the statute’s broad mandate by drawing on common-law tra
+  <span citation-index="1" class="star-pagination" label="21"> 
+   *21
+   </span>
+  dition.”
+  <em>
+   National Soc. of Professional Engineers
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="109833"><a href="/opinion/109833/national-society-of-professional-engineers-v-united-states/#688" aria-description="Citation for case: National Society of Professional Engineers v. United States">435 U. S. 679, 688</a></span> (1978). As we have explained, the term “restraint of trade,” as used in § 1, also “invokes the common law itself, and not merely the static content that the common law had assigned to the term in 1890.”
+  <em>
+   Business Electronics,
+  </em>
+  <span class="citation" data-id="112051"><a href="/opinion/112051/business-electronics-corp-v-sharp-electronics-corp/#732" aria-description="Citation for case: Business Electronics Corp. v. Sharp Electronics Corp.">485 U. S., at 732</a></span>; see also
+  <em>
+   GTE Sylvania,
+  </em>
+  433 U. S., at 53, n. 21;
+  <em>
+   McNally
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="111945"><a href="/opinion/111945/mcnally-v-united-states/#372" aria-description="Citation for case: McNally v. United States">483 U. S. 350, 372-373</a></span> (1987) (Stevens, J., dissenting). Accordingly, this Court has reconsidered its decisions construing the Sherman Act when the theoretical underpinnings of those decisions are called into serious question. See,
+  <em>
+   e. g., Copperweld Corp., supra,
+  </em>
+  at 777;
+  <em>
+   GTE Sylvania, supra,
+  </em>
+  at 47-49; cf.
+  <em>
+   Tigner
+  </em>
+  v.
+  <em>
+   Texas,
+  </em>
+  <span class="citation" data-id="103351"><a href="/opinion/103351/tigner-v-texas/#147" aria-description="Citation for case: Tigner v. Texas">310 U. S. 141, 147</a></span> (1940).
+ </p>
+<p id="b197-5">
+  Although we do not “lightly assume that the economic realities underlying earlier decisions have changed, or that earlier judicial perceptions of those realities were in error,” we have noted that “different sorts of agreements” may amount to restraints of trade “in varying times and circumstances,” and “[i]t would make no sense to create out of the single term ‘restraint of trade’ a chronologically schizoid statute, in which a ‘rule of reason’ evolves with new circumstances and new wisdom, but a line of
+  <em>
+   per se
+  </em>
+  illegality remains forever fixed where it was.”
+  <em>
+   Business Electronics, supra,
+  </em>
+  at 731-732. Just as
+  <em>
+   Schwinn
+  </em>
+  was “the subject of continuing controversy and confusion” under the “great weight” of scholarly criticism,
+  <em>
+   GTE Sylvania, supra,
+  </em>
+  at 47-48,
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  has been widely criticized since its inception. With the views underlying
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  eroded by this Court’s precedent, there is not much of that decision to salvage. See,
+  <em>
+   e. g., Neal
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="117994"><a href="/opinion/117994/neal-v-united-states/#295" aria-description="Citation for case: Neal v. United States">516 U. S. 284, 295</a></span> (1996);
+  <em>
+   Patterson
+  </em>
+  v.
+  <em>
+   McLean Credit Union,
+  </em>
+  <span class="citation" data-id="112296"><a href="/opinion/112296/patterson-v-mclean-credit-union/#173" aria-description="Citation for case: Patterson v. McLean Credit Union">491 U. S. 164, 173</a></span> (1989);
+  <em>
+   Rodriguez de Quijas
+  </em>
+  v.
+  <em>
+   Shearson/American Express, Inc.,
+  </em>
+  <span class="citation" data-id="112261"><a href="/opinion/112261/rodriguez-de-quijas-v-shearsonamerican-express-inc/#480" aria-description="Citation for case: Rodriguez De Quijas v. Shearson/American Express, Inc.">490 U.S. 477, 480-481</a></span> (1989).
+ </p>
+<p id="b197-6">
+  Although the rule of
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  has been in effect for some time, the inquiry we must undertake requires considering “ ‘the effect of the antitrust laws upon vertical distributional
+  <span citation-index="1" class="star-pagination" label="22"> 
+   *22
+   </span>
+  restraints in the American economy today.’”
+  <em>
+   GTE Sylvania, supra,
+  </em>
+  at 53, n. 21 (quoting
+  <em>
+   Schwinn,
+  </em>
+  <span class="citation" data-id="107491"><a href="/opinion/107491/united-states-v-arnold-schwinn-co/#392" aria-description="Citation for case: United States v. Arnold, Schwinn &amp; Co.">388 U. S., at 392</a></span> (Stewart, J., concurring in part and dissenting in part)). As the Court noted in
+  <em>
+   ARCO,
+  </em>
+  <span class="citation" data-id="112425"><a href="/opinion/112425/atlantic-richfield-co-v-usa-petroleum-co/#336" aria-description="Citation for case: Atlantic Richfield Co. v. USA Petroleum Co.">495 U. S., at 336, n. 6</a></span>, there has not been another ease since
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  in which this Court has “confronted an unadulterated vertical, maximum-price-fixing arrangement.” Now that we confront
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>
+  </em>
+  directly, we find its conceptual foundations gravely weakened.
+ </p>
+<p id="b198-5">
+  In overruling
+  <em>
+   <span class="citation" data-id="107615"><a href="/opinion/107615/albrecht-v-herald-co/" aria-description="Citation for case: Albrecht v. Herald Co.">Albrecht</a></span>,
+  </em>
+  we of course do not hold that all vertical maximum price fixing is
+  <em>
+   per se
+  </em>
+  lawful. Instead, vertical maximum priee fixing, like the majority of commercial arrangements subject-to the antitrust laws, should be evaluated under the rule of reason. In our view, rule-of-reason analysis will effectively identify those situations in which vertical maximum price fixing amounts to anticompetitive conduct.
+ </p>
+<p id="b198-6">
+  There remains the question whether respondents are entitled to recover damages based on State Oil’s conduct. Although the Court of Appeals noted that “the district judge was right to conclude that if the rule of reason is applicable, Khan loses,” <span class="citation" data-id="725024"><a href="/opinion/725024/barkat-u-khan-and-khan-associates-inc-v-state-oil-company/#1362" aria-description="Citation for case: Barkat U. Khan and Khan &amp; Associates, Inc. v. State Oil...">93 F. 3d, at 1362</a></span>, its consideration of this case was necessarily premised on
+  <em>
+   Albrecht's per se
+  </em>
+  rule. Under the circumstances, the matter should be reviewed by the Court of Appeals in the first instance. We therefore vacate the judgment of the Court of Appeals and remand the ease for further proceedings consistent with this opinion.
+ </p>
+<p id="b198-7">
+<em>
+   It is so ordered.
+  </em>
+</p>
+</opinion>

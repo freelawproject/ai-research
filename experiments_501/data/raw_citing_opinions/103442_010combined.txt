@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b162-7">
+<span citation-index="1" class="star-pagination" label="108"> 
+   *108
+   </span>
+  Mr. Justice Stone
+ </author>
+<p id="AuT">
+  delivered the opinion of the Court.
+ </p>
+<p id="b162-8">
+  The two principal questions raised by the record in this case are,
+  <em>
+   first,
+  </em>
+  whether Congress has constitutional power to prohibit the shipment in interstate commerce of lumber manufactured by employees whose wages are less than a prescribed minimum or whose weekly hours of labor at that wage are greater than a prescribed maximum, and,
+  <em>
+   second,
+  </em>
+  whether it has power to prohibit the employment of workmen in the production of goods “for interstate commerce” at other than prescribed wages and hours. A subsidiary question is whether in connection with such prohibitions Congress can require the employer subject to them to keep records showing the hours worked each day and week by each of his employees including those engaged “in the production and manufacture of goods to-wit, lumber, for ‘interstate commerce.’ ”
+ </p>
+<p id="b162-9">
+  Appellee demurred to an indictment found in the district court for southern Georgia charging him with violation of § 15 (a) (1) (2) and (5) of the Fair Labor Standards Act of 1938; <span class="citation no-link">52 Stat. 1060</span>, <span class="citation no-link">29 U. S. C. § 201</span>,
+  <em>
+   et seq.
+  </em>
+  The district court sustained the demurrer and quashed the indictment and the case comes here on direct appeal under § 238 of the Judicial Code as amended, 28
+  <span citation-index="1" class="star-pagination" label="109"> 
+   *109
+   </span>
+  U. S. C. § 345, and § 682, Title 18 U. S. C., <span class="citation no-link">34 Stat. 1246</span>, which authorizes an appeal to this Court when the judgment sustaining the demurrer “is based upon the invalidity or construction of the statute upon which the indictment is founded.”
+ </p>
+<p id="b163-6">
+  The Fair Labor Standards Act set up a comprehensive legislative scheme for preventing the shipment in interstate commerce of certain products and commodities produced in the United States under labor conditions as respects wages and hours which fail to conform to standards set up by the Act. Its purpose, as we judicially know from the declaration of policy in § 2 (a) of the Act,
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  and the reports of Congressional committees proposing the legislation, S. Rept. No. 884, 75th Cong. 1st Sess.; H. Rept. No. 1452, 75th Cong. 1st Sess.; H. Rept. No. 2182, 75th Cong. 3d Sess., Conference Report, H. Rept. No. 2738, 75th Cong. 3d Sess., is to exclude from interstate commerce goods produced for the commerce and to prevent their production for interstate commerce, under conditions detrimental to the maintenance of the minimum standards of living necessary for health and general well-being; and to prevent the use of interstate
+  <span citation-index="1" class="star-pagination" label="110"> 
+   *110
+   </span>
+  commerce as the means of competition in the distribution of goods so produced, and as the means of spreading and perpetuating such substandard labor conditions among the workers of the several states. The Act also sets up an administrative procedure whereby those standards may from time to time be modified generally as to industries subject to the Act or within an industry in accordance with specified standards, by an administrator acting in collaboration with “Industry Committees” appointed by him.
+ </p>
+<p id="b164-6">
+  Section 15 of the statute prohibits certain specified acts and § 18 (a) punishes willful violation of it by a fine of not more than $10,000 and punishes each conviction after the first by imprisonment of not more than six months or by the specified fine or both. Section 15 (1) makes unlawful the shipment in interstate commerce of any goods “in the production of which any employee was employed in violation of section 6 or section 7,” which provide, among other things, that during the first year of operation of the Act a minimum wage of 25 cents per hour shall be paid to employees “engaged in [interstate] commerce or the production of goods for [interstate] commerce,” § 6, and that the maximum hours of employment for employees “engaged in commerce or the production of goods for commerce” without increased compensation for overtime, shall be forty-four hours a week. § 7.
+ </p>
+<p id="b164-7">
+  Section 15 (a) (2) makes it unlawful to violate the provisions of §§ 6 and 7 including the minimum wage and maximum hour requirements just mentioned for employees engaged in production of goods for commerce. Section 15 (a) (5) makes it unlawful for an employer subject to the Act to violate § 11 (c) which requires him to keep such records of the persons employed by him and of their wages and hours of employment as the administrator shall prescribe by regulation or order.
+ </p>
+<p id="b165-5">
+<span citation-index="1" class="star-pagination" label="111"> 
+   *111
+   </span>
+  The indictment charges that appellee is engaged, in the State of Georgia, in the business of acquiring raw materials, which he manufactures into finished lumber with the intent, when manufactured, to ship it in interstate commerce to customers outside the state, and that he does in fact so ship a large part of the lumber so produced. There are numerous counts charging appellee with the shipment in interstate commerce from Georgia to points outside the state of lumber in the production of which, for interstate commerce, appellee has employed workmen at less than the prescribed minimum wage or more than the prescribed maximum hours without payment to them of any wage for overtime. Other counts charge the employment by appellee of workmen in the production of lumber for interstate commerce at wages at less than 25 cents an hour or for more than the maximum hours per week without payment to them of the prescribed overtime wage. Still another count charges appellee with failure to keep records showing the hours worked each day a week by each of his employees as required by § 11 (c) and the regulation of the administrator, Title 29, Ch. 5, Code of Federal Regulations, Part 516, and also that appellee unlawfully failed to keep such records of employees engaged “in the production and manufacture of goods, to-wit lumber, for interstate commerce.”
+ </p>
+<p id="b165-6">
+  The demurrer, so far as now relevant to the appeal, challenged the validity of the Fair Labor Standards Act under the Commerce Clause and the Fifth and Tenth Amendments. The district court quashed the indictment in its entirety upon the broad grounds that the Act, which it interpreted as a regulation of manufacture within the states, is unconstitutional." It declared that manufacture is not interstate commerce and that the regulation by the Fair Labor Standards Act of wages and hours of employment of those engaged in the manufac
+  <span citation-index="1" class="star-pagination" label="112"> 
+   *112
+   </span>
+  ture of goods which it is intended at the time of production “may or will be” after production “sold in interstate commerce in part or in whole” is not within the congressional power to regulate interstate commerce.
+ </p>
+<p id="b166-6">
+  The effect of the court’s decision and judgment is thus to deny the power of Congress to prohibit shipment in interstate commerce of lumber produced for interstate commerce under the proscribed substandard labor conditions of wages and hours, its power to penalize the employer for his failure to conform to the wage and hour provisions in the case of employees engaged in the production of lumber which he intends thereafter to ship in interstate. commerce in part or in whole according to the normal course of his business and its power to compel him to keep records of hours of employment as required by the statute and the regulations of the administrator.
+ </p>
+<p id="b166-7">
+  The case comes here on assignments by the Government that the district court erred insofar as it held that Congress was without constitutional power to penalize the acts set forth in the indictment, and appellee seeks to sustain the decision below on the grounds that the prohibition by Congress of those Acts is unauthorized by the Commerce Clause and is prohibited by the Fifth Amendment. The appeal statute limits our jurisdiction on this appeal to a review of the determination of the district court so far only as it is based on the validity or construction of the statute.
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Borden Co.,
+  </em>
+  <span class="citation" data-id="103246"><a href="/opinion/103246/united-states-v-borden-co/#193" aria-description="Citation for case: United States v. Borden Co.">308 U. S. 188, 193-195</a></span>, and cases cited. Hence we accept the district court’s interpretation of the indictment and confine our decision to the validity and construction of the statute.
+ </p>
+<p id="b166-8">
+<em>
+   The prohibition of shipment of the proscribed goods in interstate commerce.
+  </em>
+  Section 15 (a) (1) prohibits, and the indictment charges, the shipment in interstate commerce, of goods produced for interstate commerce by employees whose wages and hours of employment do not
+  <span citation-index="1" class="star-pagination" label="113"> 
+   *113
+   </span>
+  conform to the requirements of the Act. Since this section is not violated unless the commodity shipped has been produced under labor conditions prohibited by § 6 and § 7, the only question arising under the commerce clause with respect to such shipments is whether Congress has the constitutional power to prohibit them.
+ </p>
+<p id="b167-6">
+  While manufacture is not of itself interstate commerce, the shipment of manufactured goods interstate is such commerce and the prohibition of such shipment by Congress is indubitably a regulation of the commerce. The power to regulate commerce is the power “to prescribe the rule by which commerce is governed.”
+  <em>
+   Gibbons
+  </em>
+  v.
+  <em>
+   Ogden,
+  </em>
+  <span class="citation" data-id="85412"><a href="/opinion/85412/gibbons-v-ogden/#196" aria-description="Citation for case: Gibbons v. Ogden">9 Wheat. 1, 196</a></span>. It extends not only to those regulations which aid, foster and protect the commerce, but embraces those which prohibit it.
+  <em>
+   Reid
+  </em>
+  v.
+  <em>
+   Colorado,
+  </em>
+  <span class="citation" data-id="95716"><a href="/opinion/95716/reid-v-colorado/" aria-description="Citation for case: Reid v. Colorado">187 U. S. 137</a></span>;
+  <em>
+   Lottery Case,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.%20S./188/321/">188 U. S. 321</a></span>;
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Delaware &amp; Hudson Co.,
+  </em>
+  <span class="citation" data-id="97023"><a href="/opinion/97023/united-states-ex-rel-attorney-general-of-the-united-states-v-delaware/" aria-description="Citation for case: United States Ex Rel. Attorney General of the United...">213 U. S. 366</a></span>;
+  <em>
+   Hoke
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="97782"><a href="/opinion/97782/hoke-economides-v-united-states/" aria-description="Citation for case: Hoke &amp; Economides v. United States">227 U. S. 308</a></span>;
+  <em>
+   Clark Distilling Co.
+  </em>
+  v.
+  <em>
+   Western Maryland Ry. Co.,
+  </em>
+  <span class="citation" data-id="98832"><a href="/opinion/98832/clark-distilling-co-v-western-maryland-railway-co/" aria-description="Citation for case: Clark Distilling Co. v. Western Maryland Railway Co.">242 U. S. 311</a></span>;
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Hill,
+  </em>
+  <span class="citation" data-id="99275"><a href="/opinion/99275/united-states-v-hill/" aria-description="Citation for case: United States v. Hill">248 U. S. 420</a></span>;
+  <em>
+   McCormick &amp; Co.
+  </em>
+  v.
+  <em>
+   Brown,
+  </em>
+  <span class="citation" data-id="101914"><a href="/opinion/101914/mccormick-co-v-brown/" aria-description="Citation for case: McCormick &amp; Co. v. Brown">286 U. S. 131</a></span>. It is conceded that the power of Congress to prohibit transportation in interstate commerce includes noxious articles,
+  <em>
+   Lottery Case, supra; Hipolite Egg Co.
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="97373"><a href="/opinion/97373/hipolite-egg-co-v-united-states/" aria-description="Citation for case: Hipolite Egg Co. v. United States">220 U. S. 45</a></span>; cf.
+  <em>
+   <span class="citation" data-id="97782"><a href="/opinion/97782/hoke-economides-v-united-states/" aria-description="Citation for case: Hoke &amp; Economides v. United States">Hoke</a></span>
+  </em>
+  v.
+  <em>
+   United States, supra;
+  </em>
+  stolen articles,
+  <em>
+   Brooks
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="100610"><a href="/opinion/100610/brooks-v-united-states/" aria-description="Citation for case: Brooks v. United States">267 U. S. 432</a></span>; kidnapped persons,
+  <em>
+   Gooch
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="102588"><a href="/opinion/102588/gooch-v-united-states/" aria-description="Citation for case: Gooch v. United States">297 U. S. 124</a></span>, and articles such as intoxicating liquor or convict made goods, traffic in which is forbidden or restricted by the laws of the state of destination.
+  <em>
+   Kentucky Whip &amp; Collar Co.
+  </em>
+  v.
+  <em>
+   Illinois Central R. Co.,
+  </em>
+  <span class="citation" data-id="102727"><a href="/opinion/102727/kentucky-whip-collar-co-v-illinois-central-railroad/" aria-description="Citation for case: Kentucky Whip &amp; Collar Co. v. Illinois Central Railroad">299 U. S. 334</a></span>.
+ </p>
+<p id="b167-7">
+  But it is said that the present prohibition falls within the scope of none of these categories; that while the prohibition is nominally a regulation of the commerce its motive or purpose is regulation of wages and hours of persons engaged in manufacture, the control of which has been reserved to the states and upon which Georgia
+  <span citation-index="1" class="star-pagination" label="114"> 
+   *114
+   </span>
+  and some of the states of destination have placed no restriction; that the effect of the present statute is not to exclude the proscribed articles from interstate commerce in aid of state regulation as in
+  <em>
+   Kentucky Whip &amp; Collar Co.
+  </em>
+  v.
+  <em>
+   Illinois Central R. Co., supra,
+  </em>
+  but instead, under the guise of a regulation of interstate commerce, it undertakes to regulate wages and hours within the state contrary to the policy of the state which has elected to leave them unregulated.
+ </p>
+<p id="b168-6">
+  The power of Congress over interstate commerce “is complete in itself, may be exercised to its utmost extent, and acknowledges no limitations other than are prescribed in the Constitution.”
+  <em>
+   <span class="citation" data-id="85412"><a href="/opinion/85412/gibbons-v-ogden/" aria-description="Citation for case: Gibbons v. Ogden">Gibbons</a></span>
+  </em>
+  v.
+  <span class="citation" data-id="85412"><a href="/opinion/85412/gibbons-v-ogden/#196" aria-description="Citation for case: Gibbons v. Ogden"><em>
+   Ogden, supra,
+  </em>
+  196</a></span>. That power can neither be enlarged nor diminished by the exercise or non-exercise of state power.
+  <em>
+   Kentucky Whip &amp; Collar Co.
+  </em>
+  v.
+  <em>
+   Illinois Central R. Co., supra.
+  </em>
+  Congress, following its own conception of public policy concerning the restrictions which may appropriately be imposed on interstate commerce, is free to exclude from the commerce articles whose use in the states for which they are destined it may conceive to be injurious to the public health, morals or welfare, even though the state has not sought to regulate their use.
+  <em>
+   Reid
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="95716"><a href="/opinion/95716/reid-v-colorado/" aria-description="Citation for case: Reid v. Colorado">Colorado, supra;</a></span> Lottery Case, supra; Hipolite Egg Co.
+  </em>
+  v.
+  <em>
+   United States, supra; Hoke
+  </em>
+  v.
+  <em>
+   United States, supra.
+  </em>
+</p>
+<p id="b168-7">
+  Such regulation is not a forbidden invasion of state power merely because either its motive or its consequence is to restrict the use of articles of commerce within the states of destination; and is not prohibited unless by other Constitutional provisions. It is no objection to the assertion of the power to regulate interstate commerce that its exercise is attended by the same incidents which attend the exercise of the police power of the states.
+  <em>
+   Seven Cases
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="98608"><a href="/opinion/98608/seven-cases-of-eckmans-alternative-v-united-states/#514" aria-description="Citation for case: Seven Cases of Eckman&#x27;s Alternative v. United States">239 U. S. 510, 514</a></span>;
+  <em>
+   Hamilton
+  </em>
+  v.
+  <em>
+   Kentucky Distilleries &amp; Warehouse Co.,
+  </em>
+  <span class="citation" data-id="99481"><a href="/opinion/99481/hamilton-v-kentucky-distilleries-warehouse-co/#156" aria-description="Citation for case: Hamilton v. Kentucky Distilleries &amp; Warehouse Co.">251 U. S. 146, 156</a></span>;
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Carolene Products Co.,
+  </em>
+  304 U. S.
+  <span citation-index="1" class="star-pagination" label="115"> 
+   *115
+   </span>
+  144, 147;
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Appalachian Electric Power Co.,
+  </em>
+  <span class="citation" data-id="103413"><a href="/opinion/103413/united-states-v-appalachian-electric-power-co/" aria-description="Citation for case: United States v. Appalachian Electric Power Co.">311 U. S. 377</a></span>.
+ </p>
+<p id="b169-6">
+  The motive and purpose of the present regulation are plainly to make effective the Congressional conception of public policy that interstate commerce should not be made the instrument of competition in the distribution of goods' produced under substandard labor conditions, which competition is injurious to the commerce and to the states from and to which the commerce flows. The motive and purpose of a regulation of interstate commerce are matters for the legislative judgment upon the exercise of which the Constitution places no restriction and over which the courts are given no control.
+  <em>
+   McCray
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="96127"><a href="/opinion/96127/mccray-v-united-states/" aria-description="Citation for case: McCray v. United States">195 U. S. 27</a></span>;
+  <em>
+   Sonzinsky
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="102794"><a href="/opinion/102794/sonzinsky-v-united-states/" aria-description="Citation for case: Sonzinsky v. United States">300 U. S. 506</a></span>, 513 and cases cited. “The judicial cannot prescribe to the legislative department of the government limitations upon the exercise of its acknowledged power.”
+  <em>
+   Veazie Bank
+  </em>
+  v.
+  <em>
+   Fenno,
+  </em>
+  <span class="citation" data-id="88116"><a href="/opinion/88116/veazie-bank-v-fenno/" aria-description="Citation for case: Veazie Bank v. Fenno">8 Wall. 533</a></span>. Whatever their motive and purpose, regulations of commerce which do not infringe some constitutional prohibition are within the plenary power conferred on Congress' by the Commerce Clause. Subject only to that limitation, presently to be considered, we conclude that the prohibition of the shipment interstate of goods produced under the forbidden substandard labor conditions is within the constitutional authority of Congress.
+ </p>
+<p id="b169-7">
+  In the more than a century which has elapsed since the decison of
+  <em>
+   <span class="citation" data-id="85412"><a href="/opinion/85412/gibbons-v-ogden/" aria-description="Citation for case: Gibbons v. Ogden">Gibbons</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="85412"><a href="/opinion/85412/gibbons-v-ogden/" aria-description="Citation for case: Gibbons v. Ogden">Ogden</a></span>,
+  </em>
+  these principles of constitutional interpretation have been so long and repeatedly recognized by this Court as applicable to the Commerce Clause, that there would be little occasion for repeating them now were it not for the decision of this Court twenty-two years ago in
+  <em>
+   Hammer
+  </em>
+  v.
+  <em>
+   Dagenhart,
+  </em>
+  <span class="citation" data-id="99190"><a href="/opinion/99190/hammer-v-dagenhart/" aria-description="Citation for case: Hammer v. Dagenhart">247 U. S. 251</a></span>. In that case it was held by a bare majority of the Court over the powerful and now classic dissent of Mr. Justice Holmes setting forth the fundamental issues involved,
+  <span citation-index="1" class="star-pagination" label="116"> 
+   *116
+   </span>
+  that Congress was without power to exclude the products of child labor from interstate commerce. The reasoning and conclusion of the Court’s opinion there cannot be reconciled with the conclusion which we have reached, that the power of Congress under the Commerce Clause is plenary to exclude any article from interstate commerce subject only to the specific prohibitions of the Constitution.
+ </p>
+<p id="b170-6">
+<em>
+   <span class="citation" data-id="99190"><a href="/opinion/99190/hammer-v-dagenhart/" aria-description="Citation for case: Hammer v. Dagenhart">Hammer</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="99190"><a href="/opinion/99190/hammer-v-dagenhart/" aria-description="Citation for case: Hammer v. Dagenhart">Dagenhart</a></span>
+  </em>
+  has not been followed. The distinction on which the decision was rested that Congressional power to prohibit interstate commerce is limited to articles which in themselves have some harmful or deleterious property — a distinction which was novel when made and unsupported by any provision of the Constitution — has long since been abandoned.
+  <em>
+   <span class="citation" data-id="100610"><a href="/opinion/100610/brooks-v-united-states/" aria-description="Citation for case: Brooks v. United States">Brooks</a></span>
+  </em>
+  v.
+  <em>
+   United States, supra; Kentucky Whip &amp; Collar Co.
+  </em>
+  v.
+  <em>
+   Illinois Central R. Co., supra; Electric Bond &amp; Share Co.
+  </em>
+  v.
+  <em>
+   Securities &amp; Exchange Comm’n,
+  </em>
+  <span class="citation" data-id="102990"><a href="/opinion/102990/electric-bond-share-co-v-securities-exchange-commn/" aria-description="Citation for case: Electric Bond &amp; Share Co. v. Securities &amp; Exchange Comm&#x27;n">303 U. S. 419</a></span>;
+  <em>
+   Mulford
+  </em>
+  v.
+  <em>
+   Smith,
+  </em>
+  <span class="citation" data-id="103191"><a href="/opinion/103191/mulford-v-smith/" aria-description="Citation for case: Mulford v. Smith">307 U. S. 38</a></span>. The thesis of the opinion that the motive of the prohibition or its effect to control in some measure the use or production within the states of the article thus excluded from the commerce can operate to deprive the regulation of its constitutional authority has long since ceased to have force.
+  <em>
+   Reid
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="95716"><a href="/opinion/95716/reid-v-colorado/" aria-description="Citation for case: Reid v. Colorado">Colorado, supra;</a></span> Lottery <span class="citation" data-id="98608"><a href="/opinion/98608/seven-cases-of-eckmans-alternative-v-united-states/" aria-description="Citation for case: Seven Cases of Eckman&#x27;s Alternative v. United States">Case, supra;</a></span> Hipolite Egg Co.
+  </em>
+  v.
+  <em>
+   United States, supra; Seven Cases
+  </em>
+  v.
+  <em>
+   United States, supra,
+  </em>
+  514;
+  <em>
+   <span class="citation" data-id="99481"><a href="/opinion/99481/hamilton-v-kentucky-distilleries-warehouse-co/" aria-description="Citation for case: Hamilton v. Kentucky Distilleries &amp; Warehouse Co.">Hamilton</a></span>
+  </em>
+  v.
+  <em>
+   Kentucky Distilleries &amp; Warehouse Co., supra,
+  </em>
+  156;
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Carolene Products Co., supra,
+  </em>
+  147. And finally we have declared “The authority of the federal government over interstate commerce does not differ in extent or character from that retained by the states over intrastate commerce.”
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Rock Royal Co-operative,
+  </em>
+  <span class="citation" data-id="103227"><a href="/opinion/103227/united-states-v-rock-royal-co-operative-inc/#569" aria-description="Citation for case: United States v. Rock Royal Co-Operative, Inc.">307 U. S. 533, 569</a></span>.
+ </p>
+<p id="b170-7">
+  The conclusion is inescapable that
+  <em>
+   <span class="citation" data-id="99190"><a href="/opinion/99190/hammer-v-dagenhart/" aria-description="Citation for case: Hammer v. Dagenhart">Hammer</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="99190"><a href="/opinion/99190/hammer-v-dagenhart/" aria-description="Citation for case: Hammer v. Dagenhart">Dagenhart</a></span>,
+  </em>
+  was a departure from the principles which have prevailed in the interpretation of the Commerce Clause both
+  <span citation-index="1" class="star-pagination" label="117"> 
+   *117
+   </span>
+  before and since the decision and that such vitality, as a precedent, as it then had has long since been exhausted. It should be and now is overruled.
+ </p>
+<p id="b171-6">
+<em>
+   Validity of the wage and hour requirements.
+  </em>
+  Section 15 (a) (2) and §§ 6 and 7 require employers to conform to the wage and hour provisions with respect to all employees engaged in the production of goods for interstate commerce. As appellee’s employees are not alleged to be “engaged in interstate commerce” the validity of the prohibition turns on the question whether the employment, under other than the prescribed labor standards, of employees engaged in the production of goods for interstate commerce is so related to the commerce and so affects it as to be within the reach of the power of Congress to regulate it.
+ </p>
+<p id="b171-7">
+  To answer this question we must at the outset determine whether the particular acts charged in the counts which are laid under § 15 (a) (2) as they were construed below, constitute “production for commerce” within the meaning of the statute. As the Government seeks to apply the statute in the indictment, and as the court below construed the phrase “produced for interstate commerce,” it embraces at least the case where an employer engaged, as is appellee, in the manufacture and shipment of goods in filling orders of extrastate customers, manufactures his product with the intent or expectation that according to the normal course of his business all or some part of it will be selected for shipment to those customers.
+ </p>
+<p id="b171-8">
+  Without attempting to define the precise limits of the phrase, we think the acts alleged in the indictment are within the sweep of the statute. The obvious purpose of the Act was not only to prevent the interstate transportation of the proscribed product, but to stop the initial step toward transportation, production with the purpose of so transporting it. Congress was not unaware that
+  <span citation-index="1" class="star-pagination" label="118"> 
+   *118
+   </span>
+  most manufacturing businesses shipping their product in interstate commerce make it in their shops without reference to its ultimate destination and then after manufacture select some of it for shipment interstate and some intrastate according to the daily demands of their business, and that it would be practically impossible, without disrupting manufacturing businesses, to restrict the prohibited kind of production to the particular pieces of lumber, cloth, furniture or the like which later move in interstate rather than intrastate commerce. Cf.
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   New York Central R. Co.,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.%20S./272/457/">272 U. S. 457</a></span>, 464.
+ </p>
+<p id="b172-5">
+  The recognized need of drafting a workable statute and the well known circumstances in which it was to be applied are persuasive of the conclusion, which the legislative history supports, S. Rept. No. 884, 75th Cong. 1st Sess., pp. 7 and 8; H. Rept. No. 2738, 75th Cong. 3d Sess., p. 17, that the “production for commerce” intended includes at least production of goods, which, at the time of production, the employer, according to the normal course of his business, intends or expects to move in interstate commerce although, through the exigencies of the business, all of the goods may not thereafter actually enter interstate commerce.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+</p>
+<p id="b172-6">
+  There remains the question whether such restriction on the production of goods for commerce is a permissible exercise of the commerce power. The power of Congress over interstate commerce is not confined to the regulation of commerce among the states. It extends to those activities intrastate which so affect interstate commerce or the exercise of the power of Congress over it as to make regulation of them appropriate means to the attainment of a legitimate end, the exercise of the granted power of Congress to regulate interstate commerce. See McCul
+  <span citation-index="1" class="star-pagination" label="119"> 
+   *119
+   </span>
+<em>
+   loch
+  </em>
+  v.
+  <em>
+   Maryland,
+  </em>
+  <span class="citation" data-id="85272"><a href="/opinion/85272/mculloch-v-state-of-maryland/#421" aria-description="Citation for case: M&#x27;culloch v. State of Maryland">4 Wheat. 316, 421</a></span>. Cf.
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Ferger,
+  </em>
+  <span class="citation" data-id="99412"><a href="/opinion/99412/united-states-v-ferger/" aria-description="Citation for case: United States v. Ferger">250 U. S. 199</a></span>.
+ </p>
+<p id="b173-5">
+  While this Court has many times found state regulation of interstate commerce, when uniformity of its regulation is of national concern, to be incompatible with the Commerce Clause even though Congress has not legislated on the subject, the Court has never implied such restraint on state control over matters intrastate not deemed to be regulations of interstate commerce or its instrumentalities even though they affect the commerce.
+  <em>
+   Minnesota Rate Cases,
+  </em>
+  <span class="citation" data-id="97966"><a href="/opinion/97966/the-minnesota-rate-cases/" aria-description="Citation for case: The Minnesota Rate Cases">230 U. S. 352</a></span>, 398
+  <em>
+   et seq.,
+  </em>
+  and case cited; 410
+  <em>
+   et seq.,
+  </em>
+  and cases cited. In the absence of Congressional legislation on the subject state laws which are not regulations of the commerce itself or its instrumentalities are not forbidden even though they affect interstate commerce.
+  <em>
+   Kidd
+  </em>
+  v.
+  <em>
+   Pearson,
+  </em>
+  <span class="citation" data-id="92306"><a href="/opinion/92306/kidd-v-pearson/" aria-description="Citation for case: Kidd v. Pearson">128 U. S. 1</a></span>;
+  <em>
+   Bacon
+  </em>
+  v.
+  <em>
+   Illinois,
+  </em>
+  <span class="citation" data-id="97806"><a href="/opinion/97806/bacon-v-illinois/" aria-description="Citation for case: Bacon v. Illinois">227 U. S. 504</a></span>;
+  <em>
+   Heisler
+  </em>
+  v.
+  <em>
+   Thomas Colliery Co.,
+  </em>
+  <span class="citation" data-id="100063"><a href="/opinion/100063/heisler-v-thomas-colliery-co/" aria-description="Citation for case: Heisler v. Thomas Colliery Co.">260 U. S. 245</a></span>;
+  <em>
+   Oliver Iron Co.
+  </em>
+  v.
+  <em>
+   Lord,
+  </em>
+  <span class="citation" data-id="100207"><a href="/opinion/100207/oliver-iron-mining-co-v-lord/" aria-description="Citation for case: Oliver Iron Mining Co. v. Lord">262 U. S. 172</a></span>.
+ </p>
+<p id="b173-6">
+  But it does not follow that Congress may not by appropriate legislation regulate intrastate activities where they have a substantial effect on interstate commerce. See
+  <em>
+   Santa Cruz Fruit Packing Co.
+  </em>
+  v.
+  <em>
+   National Labor Relations Board,
+  </em>
+  <span class="citation" data-id="102992"><a href="/opinion/102992/santa-cruz-fruit-packing-co-v-national-labor-relations-board/#466" aria-description="Citation for case: Santa Cruz Fruit Packing Co. v. National Labor Relations...">303 U. S. 453, 466</a></span>. A recent example is the National Labor Relations Act for the regulation of employer and employee relations in industries in which strikes, induced by unfair labor practices named in the Act, tend to disturb or obstruct interstate commerce. See
+  <em>
+   National Labor Relations Board
+  </em>
+  v.
+  <em>
+   Jones &amp; Laughlin Steel Corp.,
+  </em>
+  <span class="citation" data-id="102804"><a href="/opinion/102804/national-labor-relations-board-v-jones-laughlin-steel-corp/#38" aria-description="Citation for case: National Labor Relations Board v. Jones &amp; Laughlin Steel...">301 U. S. 1, 38, 40</a></span>;
+  <em>
+   National Labor Relations Board
+  </em>
+  v.
+  <em>
+   Fainblatt,
+  </em>
+  <span class="citation" data-id="8154150"><a href="/opinion/8192217/national-labor-relations-board-v-fainblatt/#604" aria-description="Citation for case: National Labor Relations Board v. Fainblatt">306 U. S. 601, 604</a></span>, and cases cited. But long before the adoption of the National Labor Relations Act this Court had many times held that the power of Congress to regulate interstate commerce extends to the regulation through legislative action of activities in
+  <span citation-index="1" class="star-pagination" label="120"> 
+   *120
+   </span>
+  trastate which have a substantial effect on the commerce or the exercise of the Congressional power over it.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</p>
+<p id="b174-6">
+  In such legislation Congress has sometimes left it to the courts to determine whether the intrastate activities have the prohibited effect on the commerce, as in the Sherman Act. It has sometimes left it to an administrative board or agency to determine whether the activities sought to be regulated or prohibited have such effect, as in the case of the Interstate Commerce Act, and the National Labor Relations Act, or whether they come within the statutory definition of the prohibited Act, as in the Federal Trade Commission Act. And sometimes Congress itself has said that a particular activity affects the commerce, as it did in the present Act, the Safety Appliance Act and the Railway Labor Act. In passing on the validity of legislation of the class last mentioned the only function of courts is to determine whether the particular activity regulated or prohibited is within the reach
+  <span citation-index="1" class="star-pagination" label="121"> 
+   *121
+   </span>
+  of the federal power. See
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="99412"><a href="/opinion/99412/united-states-v-ferger/" aria-description="Citation for case: United States v. Ferger">Ferger, supra;</a></span> Virginian Ry. Co.
+  </em>
+  v.
+  <em>
+   Federation,
+  </em>
+  <span class="citation" data-id="102795"><a href="/opinion/102795/virginian-railway-co-v-system-federation-no-40/#553" aria-description="Citation for case: Virginian Railway Co. v. System Federation No. 40">300 U. S. 515, 553</a></span>.
+ </p>
+<p id="b175-6">
+  Congress, having by the present Act adopted the policy of excluding from interstate commerce all goods produced for the commerce which do not conform to the specified labor standards, it may choose the means reasonably adapted to the attainment of the permitted end, even though they involve control of intrastate activities. Such legislation has often been sustained with respect to powers, other than the commerce power granted to the national government, when the means chosen, although not themselves within the granted power, were nevertheless deemed appropriate aids to the accomplishment of some purpose within an admitted power of the national government. See
+  <em>
+   Jacob Ruppert, Inc.
+  </em>
+  v.
+  <em>
+   Caffey,
+  </em>
+  <span class="citation" data-id="99495"><a href="/opinion/99495/jacob-ruppert-v-caffey/" aria-description="Citation for case: Jacob Ruppert v. Caffey">251 U. S. 264</a></span>;
+  <em>
+   Everard’s Breweries
+  </em>
+  v.
+  <em>
+   Day,
+  </em>
+  <span class="citation" data-id="100469"><a href="/opinion/100469/james-everards-breweries-v-day/#560" aria-description="Citation for case: James Everard&#x27;s Breweries v. Day">265 U. S. 545, 560</a></span>;
+  <em>
+   Westfall
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="101082"><a href="/opinion/101082/westfall-v-united-states/#259" aria-description="Citation for case: Westfall v. United States">274 U. S. 256, 259</a></span>. As to state power under the Fourteenth Amendment, compare
+  <em>
+   Otis
+  </em>
+  v.
+  <em>
+   Parker,
+  </em>
+  <span class="citation" data-id="95762"><a href="/opinion/95762/otis-v-parker/#609" aria-description="Citation for case: Otis v. Parker">187 U. S. 606, 609</a></span>;
+  <em>
+   St. John
+  </em>
+  v.
+  <em>
+   New York,
+  </em>
+  <span class="citation" data-id="96455"><a href="/opinion/96455/st-john-v-new-york/" aria-description="Citation for case: St. John v. New York">201 U. S. 633</a></span>;
+  <em>
+   Purity Extract &amp; Tonic Co.
+  </em>
+  v.
+  <em>
+   Lynch,
+  </em>
+  <span class="citation" data-id="97707"><a href="/opinion/97707/purity-extract-tonic-co-v-lynch/#201" aria-description="Citation for case: Purity Extract &amp; Tonic Co. v. Lynch">226 U. S. 192, 201-202</a></span>. A familiar like exercise of power is the regulation of intrastate transactions which are so commingled with or related to interstate commerce that all must be regulated if the interstate commerce is to be effectively controlled.
+  <em>
+   Shreveport Case,
+  </em>
+  <span class="citation" data-id="98232"><a href="/opinion/98232/houston-east-west-texas-railway-co-v-united-states/" aria-description="Citation for case: Houston, East &amp; West Texas Railway Co. v. United States">234 U. S. 342</a></span>;
+  <em>
+   Railroad Commission of Wisconsin
+  </em>
+  v.
+  <em>
+   Chicago, B. &amp; Q. R. Co.,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.%20S./257/563/">257 U. S. 563</a></span>;
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   New York Central R. Co., supra,
+  </em>
+  464;
+  <em>
+   Currin
+  </em>
+  v.
+  <em>
+   Wallace,
+  </em>
+  <span class="citation" data-id="103133"><a href="/opinion/103133/currin-v-wallace/" aria-description="Citation for case: Currin v. Wallace">306 U. S. 1</a></span>;
+  <em>
+   <span class="citation" data-id="103191"><a href="/opinion/103191/mulford-v-smith/" aria-description="Citation for case: Mulford v. Smith">Mulford</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="103191"><a href="/opinion/103191/mulford-v-smith/" aria-description="Citation for case: Mulford v. Smith">Smith, supra.</a></span>
+  </em>
+  Similarly Congress may require inspection and preventive treatment of all cattle in a disease infected area in order to prevent shipment in interstate commerce of some of the cattle without the treatment.
+  <em>
+   Thornton
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="100895"><a href="/opinion/100895/thornton-v-united-states/" aria-description="Citation for case: Thornton v. United States">271 U. S. 414</a></span>. It may prohibit the removal, at destination, of labels required by the Pure Pood &amp; Drugs Act to be affixed to ar
+  <span citation-index="1" class="star-pagination" label="122"> 
+   *122
+   </span>
+  tides transported in interstate commerce.
+  <em>
+   McDermott
+  </em>
+  v.
+  <em>
+   Wisconsin,
+  </em>
+  <span class="citation" data-id="97835"><a href="/opinion/97835/mcdermott-v-wisconsin/" aria-description="Citation for case: McDermott v. Wisconsin">228 U. S. 115</a></span>. And we have recently held that Congress in the exercise of its power to require inspection and grading of tobacco shipped in interstate commerce may compel such inspection and grading of all tobacco sold at local auction rooms from which a substantial part but not all of the tobacco sold is shipped in interstate commerce.
+  <em>
+   <span class="citation" data-id="103133"><a href="/opinion/103133/currin-v-wallace/" aria-description="Citation for case: Currin v. Wallace">Currin</a></span>
+  </em>
+  v.
+  <span class="citation" data-id="103133"><a href="/opinion/103133/currin-v-wallace/#11" aria-description="Citation for case: Currin v. Wallace"><em>
+   Wallace, supra,
+  </em>
+  11</a></span>, and see to the like effect
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Rock Royal Co-op., supra,
+  </em>
+  568, note 37.
+ </p>
+<p id="b176-6">
+  We think also that § 15 (a) (2), now under consideration, is sustainable independently of § 15 (a) (1), which prohibits shipment or transportation of the proscribed goods. As we have said the evils aimed at by the Act are the spread of substandard labor conditions through the use of the facilities of interstate commerce for competition by the goods so produced with those produced under the prescribed or better labor conditions; and the consequent dislocation of the commerce itself caused by the impairment or destruction of local businesses by competition made effective through interstate commerce. The Act' is thus directed at the suppression of a method or kind of competition in interstate commerce which it has in effect condemned as “unfair,” as the Clayton Act has condemned other “unfair methods of competition” made effective through interstate commerce. See
+  <em>
+   Van Camp &amp; Sons Co.
+  </em>
+  v.
+  <em>
+   American Can Co.,
+  </em>
+  <span class="citation" data-id="101357"><a href="/opinion/101357/george-van-camp-sons-co-v-american-can-co/" aria-description="Citation for case: George Van Camp &amp; Sons Co. v. American Can Co.">278 U. S. 245</a></span>;
+  <em>
+   Federal Trade Comm’n
+  </em>
+  v.
+  <em>
+   Keppel &amp; Bro.,
+  </em>
+  <span class="citation" data-id="102206"><a href="/opinion/102206/federal-trade-commission-v-r-f-keppel-bro-inc/" aria-description="Citation for case: Federal Trade Commission v. R. F. Keppel &amp; Bro. Inc.">291 U. S. 304</a></span>.
+ </p>
+<p id="b176-7">
+  The Sherman Act and the National Labor Relations Act are familiar examples of the exertion of the commerce power to prohibit or control activities wholly intrastate because of their effect on interstate commerce. See as to the Sherman Act,
+  <em>
+   Northern Securities Co.
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="96033"><a href="/opinion/96033/northern-securities-co-v-united-states/" aria-description="Citation for case: Northern Securities Co. v. United States">193 U. S. 197</a></span>;
+  <em>
+   Swift &amp; Co.
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="96205"><a href="/opinion/96205/swift-co-v-united-states/" aria-description="Citation for case: Swift &amp; Co. v. United States">196 U. S. 375</a></span>;
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Patten,
+  </em>
+  <span class="citation" data-id="97744"><a href="/opinion/97744/united-states-v-patten/" aria-description="Citation for case: United States v. Patten">226 U. S. 525</a></span>;
+  <em>
+   United Mine Workers
+  </em>
+  v.
+  <em>
+   Coronado Coal Co.,
+  </em>
+  <span class="citation" data-id="100018"><a href="/opinion/100018/united-mine-workers-v-coronado-coal-co/" aria-description="Citation for case: United Mine Workers v. Coronado Coal Co.">259 U. S. 344</a></span>;
+  <em>
+   Local
+  </em>
+<span citation-index="1" class="star-pagination" label="123"> 
+   *123
+   </span>
+<em>
+   No. 167
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="102204"><a href="/opinion/102204/local-167-international-brotherhood-of-teamsters-v-united-states/" aria-description="Citation for case: Local 167, International Brotherhood of Teamsters v....">291 U. S. 293</a></span>;
+  <em>
+   Stevens Co.
+  </em>
+  v.
+  <em>
+   Foster &amp; Kleiser Co.,
+  </em>
+  <span class="citation" data-id="103404"><a href="/opinion/103404/c-e-stevens-co-v-foster-kleiser-co/" aria-description="Citation for case: C. E. Stevens Co. v. Foster &amp; Kleiser Co.">311 U. S. 255</a></span>. As to the National Labor Relations Act, see
+  <em>
+   National Labor Relations Board
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="8154150"><a href="/opinion/8192217/national-labor-relations-board-v-fainblatt/" aria-description="Citation for case: National Labor Relations Board v. Fainblatt">Fainblatt, supra,</a></span>
+  </em>
+  and cases cited.
+ </p>
+<p id="b177-6">
+  The means adopted by § 15 (a) (2) for the protection of interstate commerce by the suppression of the production of the condemned goods for interstate commerce is so related to the commerce and so affects it as to be within the reach of the commerce power. See
+  <em>
+   <span class="citation" data-id="103133"><a href="/opinion/103133/currin-v-wallace/" aria-description="Citation for case: Currin v. Wallace">Currin</a></span>
+  </em>
+  v.
+  <span class="citation" data-id="103133"><a href="/opinion/103133/currin-v-wallace/#11" aria-description="Citation for case: Currin v. Wallace"><em>
+   Wallace, supra,
+  </em>
+  11</a></span>. Congress, to attain its objective in the suppression of nationwide competition in interstate commerce by goods produced under substandard’labor conditions, has made no distinction as to the volume or amount of shipments in the commerce or of production for commerce by any particular shipper or producer. It recognized that in present day industry, competition by a small part may affect the whole and that the total effect of the competition of many small producers may be great. See H. Rept. No. 2182, 75th Cong. 1st Sess., p. 7. The legislation aimed at a whole embraces all its parts. Cf.
+  <em>
+   National Labor Relations Board
+  </em>
+  v.
+  <span class="citation" data-id="8154150"><a href="/opinion/8192217/national-labor-relations-board-v-fainblatt/#606" aria-description="Citation for case: National Labor Relations Board v. Fainblatt"><em>
+   Fainblatt, supra,
+  </em>
+  606</a></span>.
+ </p>
+<p id="b177-7">
+  So far as
+  <em>
+   Carter
+  </em>
+  v.
+  <em>
+   Carter Coal Co.,
+  </em>
+  <span class="citation" data-id="102662"><a href="/opinion/102662/carter-v-carter-coal-co/" aria-description="Citation for case: Carter v. Carter Coal Co.">298 U. S. 238</a></span>, is inconsistent with this conclusion, its doctrine is limited in principle by the decisions under the Sherman Act and the National Labor Relations Act, which we have cited and which we follow. See also
+  <em>
+   Sunshine Anthracite Coal Co.
+  </em>
+  v.
+  <em>
+   Adkins,
+  </em>
+  <span class="citation" data-id="103362"><a href="/opinion/103362/sunshine-anthracite-coal-co-v-adkins/" aria-description="Citation for case: Sunshine Anthracite Coal Co. v. Adkins">310 U. S. 381</a></span>;
+  <em>
+   <span class="citation" data-id="103133"><a href="/opinion/103133/currin-v-wallace/" aria-description="Citation for case: Currin v. Wallace">Currin</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="103133"><a href="/opinion/103133/currin-v-wallace/" aria-description="Citation for case: Currin v. Wallace">Wallace, supra;</a></span> Mulford
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="103191"><a href="/opinion/103191/mulford-v-smith/" aria-description="Citation for case: Mulford v. Smith">Smith, supra;</a></span> United States
+  </em>
+  v.
+  <em>
+   Rock Royal Co-op., supra; Clover Fork Coal Co.
+  </em>
+  v.
+  <em>
+   National Labor Relations Board,
+  </em>
+  <span class="citation" data-id="1550170"><a href="/opinion/1550170/clover-fork-coal-co-v-national-labor-relations-board/" aria-description="Citation for case: Clover Fork Coal Co. v. National Labor Relations Board">97 F. 2d 331</a></span>;
+  <em>
+   National Labor Relations Board
+  </em>
+  v.
+  <em>
+   Crowe Coal
+  </em>
+  Co., <span class="citation" data-id="1492735"><a href="/opinion/1492735/national-labor-relations-board-v-crowe-coal-co/" aria-description="Citation for case: National Labor Relations Board v. Crowe Coal Co.">104 F. 2d 633</a></span>;
+  <em>
+   National Labor Relations Board
+  </em>
+  v.
+  <em>
+   Good Coal Co.,
+  </em>
+  <span class="citation" data-id="1505329"><a href="/opinion/1505329/national-labor-relations-board-v-good-coal-co/" aria-description="Citation for case: National Labor Relations Board v. Good Coal Co.">110 F. 2d 501</a></span>.
+ </p>
+<p id="b177-8">
+  Our conclusion is unaffected by the Tenth Amendment which provides: “The powers not delegated to the United States by the Constitution, nor prohibited by it to the
+  <span citation-index="1" class="star-pagination" label="124"> 
+   *124
+   </span>
+  States, are reserved to the States respectively, or to the people.” The amendment states but a truism that all is retained which has not been surrendered. There is nothing in the history of its adoption to suggest that it was more than declaratory of the relationship between the national and state governments as it had been established by the Constitution before the amendment or that its purpose was other than to allay fears that the new national government might seek to exercise powers not granted, and that the states might not be able to exercise fully their reserved powers. See e. g., II Elliot’s Debates, 123, 131; III
+  <em>
+   id.
+  </em>
+  450, 464, 600; IV
+  <em>
+   id.
+  </em>
+  140, 149; I Annals of Congress, 432, 761, 767-768; Story, Commentaries on the Constitution, §§ 1907-1908.
+ </p>
+<p id="b178-6">
+  From the beginning and for many years the amendment has been construed as not depriving the national government of authority to resort to all means for the exercise of a granted power which are appropriate and plainly adapted to the permitted end.
+  <em>
+   Martin
+  </em>
+  v.
+  <em>
+   Hunter’s Lessee,
+  </em>
+  <span class="citation" data-id="85160"><a href="/opinion/85160/martin-v-hunters-lessee/#324" aria-description="Citation for case: Martin v. Hunter&#x27;s Lessee">1 Wheat. 304, 324, 325</a></span>;
+  <em>
+   McCulloch
+  </em>
+  v.
+  <em>
+   Maryland, supra,
+  </em>
+  405, 406;
+  <em>
+   Gordon
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="8140519"><a href="/opinion/8178604/gordon-v-united-states/#705" aria-description="Citation for case: Gordon v. United States">117 U. S. 697, 705</a></span>;
+  <em>
+   Lottery Case, supra; Northern Securities Co.
+  </em>
+  v.
+  <em>
+   United States, supra,
+  </em>
+  344-345;
+  <em>
+   <span class="citation" data-id="100469"><a href="/opinion/100469/james-everards-breweries-v-day/" aria-description="Citation for case: James Everard&#x27;s Breweries v. Day">Everard’s Breweries</a></span>
+  </em>
+  v.
+  <span class="citation" data-id="100469"><a href="/opinion/100469/james-everards-breweries-v-day/#558" aria-description="Citation for case: James Everard&#x27;s Breweries v. Day"><em>
+   Day, supra,
+  </em>
+  558</a></span>;
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Sprague,
+  </em>
+  <span class="citation" data-id="101684"><a href="/opinion/101684/united-states-v-sprague/#733" aria-description="Citation for case: United States v. Sprague">282 U. S. 716, 733</a></span>; see
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   The Brigantine William, 28
+  </em>
+  Fed. Cas. No. 16,700, p. 622. Whatever doubts may have arisen of the soundness of that conclusion, they have been put at rest by the decisions under the Sherman Act and the National Labor Relations Act which we have cited. See also,
+  <em>
+   Ashwander
+  </em>
+  v.
+  <em>
+   Tennessee Valley Authority,
+  </em>
+  <span class="citation" data-id="102605"><a href="/opinion/102605/ashwander-v-tennessee-valley-authority/#330" aria-description="Citation for case: Ashwander v. Tennessee Valley Authority">297 U. S. 288, 330-331</a></span>;
+  <em>
+   Wright
+  </em>
+  v.
+  <em>
+   Union Central Ins. Co.,
+  </em>
+  <span class="citation" data-id="103053"><a href="/opinion/103053/wright-v-union-central-life-insurance/#516" aria-description="Citation for case: Wright v. Union Central Life Insurance">304 U. S. 502, 516</a></span>.
+ </p>
+<p id="b178-7">
+<em>
+   Validity of the requirement of records of wages and hours.
+  </em>
+  § 15 (a) (5) and § 11 (c). These requirements are incidental to those for the prescribed wages and
+  <span citation-index="1" class="star-pagination" label="125"> 
+   *125
+   </span>
+  hours, and hence validity of the former turns on validity of the latter. Since, as we have held, Congress may require production for interstate commerce to conform to those conditions, it may require the employer, as a means of enforcing the valid law, to keep a record showing whether he has in fact complied with it. The requirement for records even of the intrastate transaction is an appropriate means to the legitimate end. See
+  <em>
+   Baltimore &amp; Ohio R. Co.
+  </em>
+  v.
+  <em>
+   Interstate Commerce Comm’n,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.%20S./221/612/">221 U. S. 612</a></span>;
+  <em>
+   Interstate Commerce Comm’n
+  </em>
+  v.
+  <em>
+   Goodrich Transit Co.,
+  </em>
+  <span class="citation" data-id="97601"><a href="/opinion/97601/interstate-commerce-commission-v-goodrich-transit-co/" aria-description="Citation for case: Interstate Commerce Commission v. Goodrich Transit Co.">224 U. S. 194</a></span>;
+  <em>
+   Chicago Board of Trade
+  </em>
+  v.
+  <em>
+   Olsen,
+  </em>
+  <span class="citation" data-id="100188"><a href="/opinion/100188/board-of-trade-of-chicago-v-olsen/#42" aria-description="Citation for case: Board of Trade of Chicago v. Olsen">262 U. S. 1, 42</a></span>.
+ </p>
+<p id="b179-4">
+<em>
+   Validity of the wage and hour provisions under the Fifth Amendment.
+  </em>
+  Both provisions are minimum wage requirements compelling the payment of a minimum standard wage with a prescribed increased wage for overtime of “not less than one and one-half times the regular rate” at which the worker is employed. Since our decision in
+  <em>
+   West Coast Hotel Co.
+  </em>
+  v.
+  <em>
+   Parrish,
+  </em>
+  <span class="citation" data-id="102784"><a href="/opinion/102784/west-coast-hotel-co-v-parrish/" aria-description="Citation for case: West Coast Hotel Co. v. Parrish">300 U. S. 379</a></span>, it is no longer open to question that the fixing of a minimum wage is within the legislative power and that the bare fact of its exercise is not a denial of due process under the Fifth more than under the Fourteenth Amendment. Nor is it any longer open to question that it is within the legislative power to fix maximum hours.
+  <em>
+   Holden
+  </em>
+  v.
+  <em>
+   Hardy,
+  </em>
+  <span class="citation" data-id="94828"><a href="/opinion/94828/holden-v-hardy/" aria-description="Citation for case: Holden v. Hardy">169 U. S. 366</a></span>;
+  <em>
+   Muller
+  </em>
+  v.
+  <em>
+   Oregon,
+  </em>
+  <span class="citation" data-id="96786"><a href="/opinion/96786/muller-v-oregon/" aria-description="Citation for case: Muller v. Oregon">208 U. S. 412</a></span>;
+  <em>
+   Bunting
+  </em>
+  v.
+  <em>
+   Oregon,
+  </em>
+  <span class="citation" data-id="2621060"><a href="/opinion/2621060/bunting-v-oregon/" aria-description="Citation for case: Bunting v. Oregon">243 U. S. 426</a></span>;
+  <em>
+   Baltimore &amp; Ohio R. Co.
+  </em>
+  v.
+  <em>
+   Interstate Commerce Comm’n, supra.
+  </em>
+  Similarly the statute is not objectionable because applied alike to both men and women. Cf.
+  <em>
+   Bunting
+  </em>
+  v.
+  <em>
+   Oregon,
+  </em>
+  <span class="citation" data-id="2621060"><a href="/opinion/2621060/bunting-v-oregon/" aria-description="Citation for case: Bunting v. Oregon">243 U. S. 426</a></span>.
+ </p>
+<p id="b179-5">
+  The Act is sufficiently definite to meet constitutional demands. One who employs persons, without conforming to the prescribed wage and hour conditions, to work on goods which he ships or expects to ship across state
+  <span citation-index="1" class="star-pagination" label="126"> 
+   *126
+   </span>
+  lines, is warned that he may be subject to the criminal penalties of the Act. No more is required.
+  <em>
+   Nash
+  </em>
+  v.
+  <em>
+   United
+  </em>
+  States, <span class="citation" data-id="97928"><a href="/opinion/97928/nash-v-united-states/#377" aria-description="Citation for case: Nash v. United States">229 U. S. 373, 377</a></span>.
+ </p>
+<p id="b180-6">
+  We have considered, but find it unnecessary to discuss other contentions.
+ </p>
+<p id="b180-7">
+<em>
+   Reversed.
+  </em>
+</p>
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b163-7">
+   Sec. 2. (a) The Congress hereby finds that the existence, in industries engaged in commerce or in the production of goods for commerce, of labor conditions detrimental to the maintenance of the minimum standard of living necessary for health, efficiency, and general well-being of workers (1) causes commerce and the channels and instrumentalities of commerce to be used to spread and perpetuate such labor conditions among the workers of the several States; (2) burdens commerce and the free flow of goods in commerce; (3) constitutes an unfair method of competition in commerce; (4) leads to labor disputes burdening and obstructing commerce and the free flow of goods in commerce; and (5) interferes with the orderly and fair marketing of goods in commerce.
+  </p>
+<p id="b163-8">
+   Section 3 (b) defines “commerce” as “trade, commerce, transportation, transmission, or communication among the several States or from any State to any place outside thereof,”
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b172-7">
+   Cf. Administrator’s Opinion, Interpretative Bulletin No. 5, 1940 Wage and Hour Manual, p. 131
+   <em>
+    et seq.
+   </em>
+</p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b174-7">
+   It may prohibit wholly intrastate activities which, if permitted, would result in restraint of interstate commerce.
+   <em>
+    Coronado Coal Co.
+   </em>
+   v.
+   <em>
+    United Mine Workers,
+   </em>
+   <span class="citation" data-id="100666"><a href="/opinion/100666/coronado-coal-co-v-united-mine-workers/#310" aria-description="Citation for case: Coronado Coal Co. v. United Mine Workers">268 U. S. 295, 310</a></span>;
+   <em>
+    Local 167
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="102204"><a href="/opinion/102204/local-167-international-brotherhood-of-teamsters-v-united-states/#297" aria-description="Citation for case: Local 167, International Brotherhood of Teamsters v....">291 U. S. 293, 297</a></span>. It may regulate the activities of a local grain exchange shown to have an injurious effect on interstate commerce.
+   <em>
+    Chicago Board of Trade
+   </em>
+   v.
+   <em>
+    Olsen,
+   </em>
+   <span class="citation" data-id="100188"><a href="/opinion/100188/board-of-trade-of-chicago-v-olsen/" aria-description="Citation for case: Board of Trade of Chicago v. Olsen">262 U. S. 1</a></span>. It may regulate intrastate rates of interstate carriers where the effect of the rates is to burden interstate commerce.
+   <em>
+    Houston, E. &amp; W. Texas Ry. Co.
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="98232"><a href="/opinion/98232/houston-east-west-texas-railway-co-v-united-states/" aria-description="Citation for case: Houston, East &amp; West Texas Railway Co. v. United States">234 U. S. 342</a></span>;
+   <em>
+    Railroad Commission of Wisconsin
+   </em>
+   v.
+   <em>
+    Chicago, B. &amp; Q. R. Co.,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/U.%20S./257/563/">257 U. S. 563</a></span>;
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Louisiana,
+   </em>
+   <span class="citation" data-id="102134"><a href="/opinion/102134/united-states-v-louisiana/#74" aria-description="Citation for case: United States v. Louisiana">290 U. S. 70, 74</a></span>;
+   <em>
+    Florida
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="102240"><a href="/opinion/102240/florida-v-united-states/" aria-description="Citation for case: Florida v. United States">292 U. S. 1</a></span>. It may compel the adoption of safety appliances on rolling stock moving intrastate because of the relation to and effect of such appliances upon interstate traffic moving over the same railroad.
+   <em>
+    Southern Ry. Co.
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="97460"><a href="/opinion/97460/southern-railway-co-v-united-states/" aria-description="Citation for case: Southern Railway Co. v. United States">222 U. S. 20</a></span>. It may prescribe maximum hours for employees engaged in intrastate activity connected with the movement of any train, such as train dispatchers and telegraphers.
+   <em>
+    Baltimore &amp; Ohio R. Co.
+   </em>
+   v.
+   <em>
+    Interstate Commerce Comm’n,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/U.%20S./221/612/">221 U. S. 612</a></span>, 619.
+  </p>
+</div></div></opinion>

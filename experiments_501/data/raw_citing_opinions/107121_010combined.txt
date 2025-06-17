@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b306-14">
+  Mr. Justice Douglas
+ </author>
+<p id="AF0">
+  delivered the opinion of the Court.
+ </p>
+<p id="b306-16">
+  This case brings back to us a question resolved by a closely divided Court in
+  <em>
+   Brown
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  359
+  <span citation-index="1" class="star-pagination" label="163"> 
+   *163
+   </span>
+  U. S. 41, concerning the respective scope of Rule 42 (a) and of Rule 42 (b) of the Federal Rules of Criminal Procedure. Petitioner was a witness before a grand jury and refused to answer certain questions on the ground of self-incrimination. He and the grand jury were brought before the District Court which directed him to answer the questions propounded before the grand jury, stating that petitioner would receive immunity from prosecution. He refused again to give any answers to the grand jury. He was thereupon brought before the District Court and sworn. The District Court repeated the questions and directed petitioner to answer, but he refused on the ground of privilege. The prosecution at once requested that petitioner be found in contempt of court “under Rule 42 (a).” Counsel for petitioner protested and requested an adjournment and a public hearing where he would be permitted to call witnesses. The District Court denied the motion and thereupon adjudged petitioner guilty of criminal contempt, imposing a sentence of one year’s imprisonment.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  The Court of Appeals
+  <span citation-index="1" class="star-pagination" label="164"> 
+   *164
+   </span>
+  affirmed, <span class="citation" data-id="265013"><a href="/opinion/265013/united-states-v-al-harris/" aria-description="Citation for case: United States v. Al Harris">334 F. 2d 460</a></span>. We granted certiorari, <span class="citation multiple-matches"><a href="/c/U.%20S./379/944/">379 U. S. 944</a></span>.
+ </p>
+<p id="b308-4">
+  Rule 42 (a) is entitled “Summary Disposition” and reads as follows:
+ </p>
+<blockquote id="b308-5">
+  “A criminal contempt may be punished summarily if the judge certifies that he saw or heard the conduct constituting the contempt and that it was committed in the actual presence of the court. The order of contempt shall recite the facts and shall be signed by the judge and entered of record.”
+ </blockquote>
+<p id="b308-6">
+  Rule 42 (a) was reserved “for exceptional circumstances,”
+  <em>
+   Brown
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="105848"><a href="/opinion/105848/brown-v-united-states/#54" aria-description="Citation for case: Brown v. United States">359 U. S. 41, 54</a></span> (dissenting opinion), such as acts threatening the judge or disrupting a hearing or obstructing court proceedings.
+  <em>
+   <span class="citation" data-id="105848"><a href="/opinion/105848/brown-v-united-states/" aria-description="Citation for case: Brown v. United States">Ibid.</a></span>
+  </em>
+  We reach that conclusion in light of “the concern long demonstrated by both Congress and this Court over the possible abuse of the contempt power,”
+  <em>
+   ibid.,
+  </em>
+  and in light of the wording of the Rule. Summary contempt is for “misbehavior”
+  <em>
+   (Ex parte Terry,
+  </em>
+  <span class="citation" data-id="92334"><a href="/opinion/92334/ex-parte-terry/#314" aria-description="Citation for case: Ex Parte Terry">128 U. S. 289, 314</a></span>) in the “actual presence of the court.” Then speedy punishment may be necessary in order to achieve “summary vindication of the court’s dignity and authority.”
+  <em>
+   Cooke
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="100624"><a href="/opinion/100624/cooke-v-united-states/#534" aria-description="Citation for case: Cooke v. United States">267 U. S. 517, 534</a></span>. But swiftness was not a prerequisite of justice here. Delay necessary for a hearing would not imperil the grand jury proceedings.
+ </p>
+<p id="b308-7">
+  Cases of the kind involved here are foreign to Rule 42 (a). The real contempt, if such there was, was contempt before the grand jury — the refusal to answer to it when directed by the court. Swearing the witness and repeating the questions before the judge was an effort to have the refusal to testify “committed in the actual presence of the court” for the purposes of Rule
+  <span citation-index="1" class="star-pagination" label="165"> 
+   *165
+   </span>
+  42 (a). It served no other purpose, for the witness had been adamant and had made his position known. The appearance before the District Court was not a new and different proceeding, unrelated to the other. It was ancillary to the grand jury hearing and designed as an aid to it. Even though we assume
+  <em>
+   arguendo
+  </em>
+  that Rule 42 (a) may at times reach testimonial episodes, nothing in this case indicates that petitioner’s refusal was such an open, serious threat to orderly procedure that instant and summary punishment, as distinguished from due and deliberate procedures
+  <em>
+   (Cooke
+  </em>
+  v.
+  <em>
+   United States, supra,
+  </em>
+  at 536), was necessary. Summary procedure, to use the words of Chief Justice Taft, was designed to fill “the need for immediate penal vindication of the dignity of the court.”
+  <em>
+   Ibid.
+  </em>
+  We start from the premise long ago stated in
+  <em>
+   Anderson
+  </em>
+  v.
+  <em>
+   Dunn,
+  </em>
+  <span class="citation" data-id="85326"><a href="/opinion/85326/anderson-v-dunn/#231" aria-description="Citation for case: Anderson v. Dunn">6 Wheat. 204, 231</a></span>, that the limits of the power to punish for contempt are “[t]he least possible power adequate to the end proposed.”
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  In the instant case, the dignity of the court was not being affronted: no disturbance had to be quelled; no insolent tactics had to be stopped. The contempt here committed was far outside the narrow category envisioned by Rule 42 (a).
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</p>
+<p id="b309-5">
+  Rule 42 (b) provides the normal procedure. It reads:
+ </p>
+<blockquote id="b309-6">
+  “A criminal contempt except as provided in subdivision (a) of this rule shall be prosecuted on notice. The notice shall state the time and place of hearing, allowing a reasonable time for the preparation of the defense, and shall state the essential facts
+  <span citation-index="1" class="star-pagination" label="166"> 
+   *166
+   </span>
+  constituting the criminal contempt charged and describe it as such. The notice shall be given orally by the judge in open court in the presence of the defendant or, on application of the United States attorney or of an attorney appointed by the court for that purpose, by an order to show cause or an order of arrest. The defendant is entitled to a trial by jury in any case in which an act of Congress so provides. He is entitled to admission to bail as provided in these rules. If the contempt charged involves disrespect to or criticism of a judge, that judge is disqualified from presiding at the trial or hearing except with the defendant’s consent. Upon a verdict or finding of guilt the court shall enter an order fixing the punishment.”
+ </blockquote>
+<p id="b310-4">
+  Such notice and hearing serve important ends. What appears to be a brazen refusal to cooperate with the grand jury may indeed be a case of frightened'silence. Refusal to answer may be due to fear — fear of reprisals on the witness or his family. Other extenuating circumstances may be present.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  We do not suggest that there were circumstances of that nature here. We are wholly ignorant of the episode except for what the record shows and it reveals only the barebones of demand and refusal. If justice is to be done, a sentencing judge should know all the facts. We can imagine situations where the questions are so inconsequential to the grand jury but the
+  <span citation-index="1" class="star-pagination" label="167"> 
+   *167
+   </span>
+  fear of reprisal so great that only nominal punishment, if any, is indicated. Our point is that a hearing and only a hearing will elucidate all the facts and assure a fair administration of justice. Then courts will not act on surmise or suspicion but will come to the sentencing stage of the proceeding with insight and understanding.
+ </p>
+<p id="b311-5">
+  We are concerned solely with “procedural regularity” which, as Mr. Justice Brandéis said in
+  <em>
+   Burdeau
+  </em>
+  v.
+  <em>
+   McDowell,
+  </em>
+  <span class="citation" data-id="99820"><a href="/opinion/99820/burdeau-v-mcdowell/#477" aria-description="Citation for case: Burdeau v. McDowell">256 U. S. 465, 477</a></span> (dissenting), has been “a large factor” in the development of our liberty. Rule 42 (b) prescribes the “procedural regularity” for all con-tempts in the federal regime
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  except those unusual situations envisioned by Rule 42 (a) where instant action is necessary to protect the judicial institution itself.
+ </p>
+<p id="b311-6">
+  We overrule
+  <em>
+   Brown
+  </em>
+  v.
+  <em>
+   United States, supra,
+  </em>
+  and reverse and remand this case for proceedings under Rule 42 (b).
+ </p>
+<p id="b311-7">
+<em>
+   Reversed and remanded.
+  </em>
+</p>
+<judges id="b311-8">
+  Mr. Justice Stewart, with whom Mr. Justice Clark, Mr. Justice Harlan, and Mr. Justice White join, dissenting.
+ </judges>
+<p id="b311-9">
+  The issue in this case is the procedure to be followed when a witness has refused to answer questions before a grand jury after he has been ordered to do so by a district court. This issue, involving Rule 42 (a) and Rule 42 (b) of the Federal Rules of Criminal Procedure, was, as the Court says, resolved in
+  <em>
+   Brown
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+<span citation-index="1" class="star-pagination" label="168"> 
+   *168
+   </span>
+  <span class="citation" data-id="105848"><a href="/opinion/105848/brown-v-united-states/" aria-description="Citation for case: Brown v. United States">359 U. S. 41</a></span>.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  That was six years ago. Since then this Court has made no changes in Rule 42 (a) or 42 (b).
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  But today
+  <em>
+   Brown
+  </em>
+  is overturned, and the question it “resolved” is now answered in the opposite way.
+ </p>
+<p id="b312-6">
+  The particular question at issue here is of limited importance. But in this area the Court’s duty is important, involving as it does the responsibility for clear and consistent guidance to the federal judiciary in the application of ground rules of our own making. We are not faithful to that duty, I think, when we overturn a settled construction of those rules for no better reasons than those the Court has offered in this case.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</p>
+<p id="b312-7">
+  The limited scope of the question at issue is made clear by the present record. A grand jury in the Southern District of New York was investigating alleged violations of the Communications Act of 1934.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  The petitioner appeared before this grand jury pursuant to a subpoena. He refused to answer a number of questions about an interstate telephone call upon the ground of possible self-incrimination. .The petitioner was then
+  <span citation-index="1" class="star-pagination" label="169"> 
+   *169
+   </span>
+  granted immunity from any possible self-incrimination under § 409 (1) of the Communications Act.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  Only after giving the petitioner and his lawyer full opportunity to be heard did the District Judge rule that the petitioner was clothed with complete constitutional immunity from self-incrimination, and only then did he direct the petitioner to answer the grand jury’s questions. The petitioner returned to the grand jury room and again refused to answer the questions, this time in direct and deliberate disobedience of the District Judge’s order.
+ </p>
+<p id="b313-5">
+  It is common ground, I suppose, that the petitioner was then and there in contempt of court.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  Since the petitioner’s refusal to obey the judge’s order did not occur within the sight and hearing of the judge, a contempt proceeding could then have been initiated only under Rule 42 (b). Such a proceeding would have been fully consonant with our decision in Brown,
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+  and a judge “more intent upon punishing the witness than aiding the grand jury in its investigation might well have taken just such a course.” <span class="citation" data-id="105848"><a href="/opinion/105848/brown-v-united-states/#50" aria-description="Citation for case: Brown v. United States">359 U. S., at 50</a></span>. In such a proceeding all that would have been required to prove the contempt
+  <span citation-index="1" class="star-pagination" label="170"> 
+   *170
+   </span>
+  would have been the testimony of the grand jury stenographer, and the judge could then have imposed sentence. Such a procedure is often followed.
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+</p>
+<p id="b314-6">
+  Instead, however, the District Judge in this case followed the alternative procedure approved in
+  <em>
+   Brown.
+  </em>
+  He made one last effort to aid the grand jury in its investigation and gave the petitioner a final chance to purge himself of contempt. The petitioner and his lawyer appeared before the judge in open court.
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+  After the petitioner was sworn as a witness, the judge propounded the same questions which the petitioner had refused to answer before the grand jury. The petitioner again refused to answer. At the conclusion of the questioning the judge asked, “Does anybody want to say anything further?” The only response from the petitioner’s counsel, then or later,
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+  was a brief renewal of his attack upon the purpose of the grand jury investigation and the scope of the immunity which had been conferred upon the petitioner — legal questions which the judge had, after a complete hearing, fully determined before he had ordered the petitioner to answer the grand jury’s questions in the first place.
+ </p>
+<p id="b314-7">
+  The procedure followed by the District Court in this case was in precise conformity with Rule 42 (a) and with
+  <span citation-index="1" class="star-pagination" label="171"> 
+   *171
+   </span>
+  long-settled and consistently followed practice.
+  <a class="footnote" href="#fn11" id="fn11_ref">
+   11
+  </a>
+  It is a procedure which, in this context, is at least as fair as a Rule 42 (b) proceeding. The petitioner, represented by counsel, was accorded an additional chance to purge himself of contempt; he and his counsel were accorded full opportunity to offer any explanation they might have had in extenuation of the contempt — to inform the “sentencing judge of all the facts.” And finally, there is no reason to assume that a sentence imposed for obduracy before a grand jury is likely to be more severe in a Rule 42 (a) proceeding than one imposed after a proceeding under Rule 42 (b). Indeed, the recent Rule 42 (b) cases in the Southern District of New York referred to by the Court indicate the contrary.
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+  A sentence for contempt is reviewable on appeal in either case,
+  <a class="footnote" href="#fn13" id="fn13_ref">
+   13
+  </a>
+  and there is nothing to suggest that in the exercise of this reviewing power an appellate court will have any more information to go on in the one case than in the other.
+ </p>
+<p id="b315-5">
+  For these reasons I would affirm the judgment of the Court of Appeals.
+ </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b307-5">
+   “The Court: Anything further ?
+  </p>
+<p id="b307-6">
+   “Mr. Maloney: No, your Honor.
+  </p>
+<p id="b307-7">
+   “I think the record speaks for itself, and I would ask your Honor to find this witness in contempt of court under Rule 42 (a) of the Federal Rules of Criminal Procedure.
+  </p>
+<p id="b307-8">
+   “Mr. Polakoff: Your Honor, if this is a contempt proceeding I respectfully request an adjournment. I want to have the minutes and I want to have an opportunity to discuss them and consider them with my client and to look up the law.
+  </p>
+<p id="b307-9">
+   “I further request, your Honor, a hearing where I will be permitted to call witnesses, perhaps a grand juror or two or more; perhaps the places the phone calls allegedly were made as indicated by the assistant, to prove to your Honor that there could be no possible violation of the Communications Act.
+  </p>
+<p id="b307-10">
+   “I have not been told what tariff has been violated; no law has been cited or rule or regulation to your Honor or to me, and that requires research.
+  </p>
+<p id="b307-11">
+   “I also would request that the contempt hearing be held in public.
+  </p>
+<p id="b307-12">
+   “The Court: Your request is denied. This is a contempt com
+   <span citation-index="1" class="star-pagination" label="164"> 
+    *164
+    </span>
+   mitted in open court, and I adjudge the defendant guilt}' of a criminal contempt rule under Rule 42 (a).”
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b309-7">
+   And See
+   <em>
+    Nye
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="103505"><a href="/opinion/103505/nye-v-united-states/#52" aria-description="Citation for case: Nye v. United States">313 U. S. 33, 52-53</a></span>;
+   <em>
+    In re Michael,
+   </em>
+   <span class="citation" data-id="104190"><a href="/opinion/104190/in-re-michael/#227" aria-description="Citation for case: In Re Michael">326 U. S. 224, 227</a></span>;
+   <em>
+    Cammer
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="105359"><a href="/opinion/105359/cammer-v-united-states/#404" aria-description="Citation for case: Cammer v. United States">350 U. S. 399, 404</a></span>.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b309-8">
+   Rule 42 (a) was described by the Advisory Committee as “substantially a restatement of existing law. Ex parte Terry, <span class="citation" data-id="92334"><a href="/opinion/92334/ex-parte-terry/" aria-description="Citation for case: Ex Parte Terry">128 U. S. 289</a></span>; Cooke v. United States . . . .” We have confirmed this on more than one occasion,
+   <em>
+    e. g., Offutt
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="105242"><a href="/opinion/105242/offutt-v-united-states/#13" aria-description="Citation for case: Offutt v. United States">348 U. S. 11, 13-14</a></span>;
+   <em>
+    Brown
+   </em>
+   v.
+   <em>
+    United States, supra,
+   </em>
+   at 51.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b310-5">
+   Chief Justice Taft said in
+   <em>
+    <span class="citation" data-id="100624"><a href="/opinion/100624/cooke-v-united-states/" aria-description="Citation for case: Cooke v. United States">Cooke</a></span>
+   </em>
+   v.
+   <em>
+    United States, supra,
+   </em>
+   at 537:
+  </p>
+<p id="b310-6">
+   “Due process of law, therefore, in the prosecution of contempt, except of that committed in open court, requires that the accused should be advised of the charges and have a reasonable opportunity to meet them by way of defense or explanation. We think this includes the assistance of counsel, if requested, and the right to call witnesses to give testimony, relevant either to the issue of complete exculpation or in extenuation of the offense and in mitigation of the penalty to be imposed.”
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b311-10">
+   In more than one instance in the Southern District of New York, from which this case comes, witnesses cited for testimonial contempt before the grand jury were given hearings under Rule 42 (b).
+   <em>
+    E. g., United States
+   </em>
+   v.
+   <em>
+    Castaldi,
+   </em>
+   <span class="citation" data-id="266063"><a href="/opinion/266063/united-states-v-anthony-castaldi/" aria-description="Citation for case: United States v. Anthony Castaldi">338 F. 2d 883</a></span>;
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Tramunti,
+   </em>
+   <span class="citation" data-id="267423"><a href="/opinion/267423/united-states-v-carmine-tramunti/" aria-description="Citation for case: United States v. Carmine Tramunti">343 F. 2d 548</a></span>;
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Shillitani, 345
+   </em>
+   F. 2d 290;
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Pappadio,
+   </em>
+   <span class="citation" data-id="268056"><a href="/opinion/268056/united-states-v-andimo-pappadio/" aria-description="Citation for case: United States v. Andimo Pappadio">346 F. 2d 5</a></span>. There is no indication that this procedure impeded the functioning of the grand jury.
+  </p>
+</div><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b312-8">
+<em>
+    Brown
+   </em>
+   v.
+   <em>
+    United States
+   </em>
+   was reaffirmed and followed in
+   <em>
+    Levine
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="106057"><a href="/opinion/106057/levine-v-united-states/" aria-description="Citation for case: Levine v. United States">362 U. S. 610</a></span>.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b312-9">
+   The proposed amendments to Rules of Criminal Procedure for the United States District Courts, approved on September 22-23, 1965, by the Judicial Conference of the United States, make no changes in Rule 42 (a) or Rule 42 (b).
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b312-10">
+   No argumentation or factual data are contained in the Court’s opinion today which were not fully revealed in the dissenting opinion in
+   <em>
+    Brown,
+   </em>
+   <span class="citation" data-id="105848"><a href="/opinion/105848/brown-v-united-states/#53" aria-description="Citation for case: Brown v. United States">359 U. S., at 53-63</a></span>,
+   <em>
+    passim,
+   </em>
+   and considered by the Court there. Nor is it suggested that the
+   <em>
+    Brown
+   </em>
+   rule has proved to be unclear or difficult of application. The considerations attending the overruling of
+   <em>
+    Brown
+   </em>
+   are quite unlike those involved in the overruling that occurred in
+   <em>
+    Swift &amp; Co., Inc.
+   </em>
+   v.
+   <em>
+    Wickham, ante,
+   </em>
+   p. 111, where the Court changed a procedural rule which it found unworkable in actual practice.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b312-11">
+   <span class="citation no-link">48 Stat. 1070</span> and 1100, <span class="citation no-link">47 U. S. C. §§ 203</span> (c) and 501 (1964 ed.), and <span class="citation no-link">18 U. S. C. § 1952</span> (1964 ed.).
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b313-6">
+   <span class="citation no-link">48 Stat. 1096</span>, <span class="citation no-link">47 U. S. C. §409</span>
+   <em>
+    (l)
+   </em>
+   (1964 ed.).
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b313-7">
+   The prevailing opinion today says, “The real contempt, if such there was, was contempt before the grand jury . . . .” But a grand jury is without power itself to compel the testimony of witnesses. It is the court’s process which summons the witness to attend and give testimony, and it is the court which must compel a witness to testify, if, after appearing, he refuses to do so.
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b313-8">
+   “When upon his return to the grand jury room the petitioner again refused to answer the grand jury’s questions, now in direct disobedience of the court’s order, he was for the first time guilty of contempt. At that point a contempt proceeding could unquestionably and quite properly have been initiated. Since this disobedience of the order did not take place in the actual presence of the court, and thus could be made known to the court only by the taking of evidence, the proceeding would have been conducted upon notice and hearing in conformity with Rule 42 (b). See
+   <em>
+    Carlson
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="233067"><a href="/opinion/233067/carlson-v-united-states-three-cases/#216" aria-description="Citation for case: Carlson v. United States (Three Cases)">209 F. 2d 209, 216</a></span> (C. A. 1st Cir.).” <span class="citation" data-id="105848"><a href="/opinion/105848/brown-v-united-states/#50" aria-description="Citation for case: Brown v. United States">359 U. S., at 50</a></span>.
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b314-8">
+   See cases cited in note 5 of the Court’s opinion,
+   <em>
+    ante,
+   </em>
+   p. 167.
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b314-9">
+   The record shows that the court was “opened by proclamation.”
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b314-10">
+   Before imposing sentence, the judge gave petitioner and his counsel still another opportunity to offer any explanation they might have of the petitioner’s obduracy:
+  </p>
+<p id="b314-11">
+   “The Court: I have already made my position perfectly clear, but I will say it again: I have directed you to answer these questions before the grand jury, and I have directed you to answer them here. It is my ruling that you cannot be prosecuted for any answer that you give under the circumstances of this case. Do you still refuse, Mr. Harris?
+  </p>
+<p id="b314-12">
+   “The Witness: I respectfully refuse to answer on the grounds it would tend to incriminate me.
+  </p>
+<p id="b314-13">
+   “The Court: Anything further?”
+  </p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b315-6">
+   . See, in addition to
+   <em>
+    Brown
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="105848"><a href="/opinion/105848/brown-v-united-states/" aria-description="Citation for case: Brown v. United States">359 U. S. 41</a></span>, and
+   <em>
+    Levine
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="106057"><a href="/opinion/106057/levine-v-united-states/" aria-description="Citation for case: Levine v. United States">362 U. S. 610</a></span>:
+   <em>
+    Rogers
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="104849"><a href="/opinion/104849/rogers-v-united-states/" aria-description="Citation for case: Rogers v. United States">340 U. S. 367</a></span>;
+   <em>
+    Wilson v. United States,
+   </em>
+   <span class="citation" data-id="97431"><a href="/opinion/97431/wilson-v-united-states/#369" aria-description="Citation for case: Wilson v. United States">221 U. S. 361, 369</a></span>;
+   <em>
+    Hale
+   </em>
+   v.
+   <em>
+    Henkel,
+   </em>
+   <span class="citation" data-id="96424"><a href="/opinion/96424/hale-v-henkel/#46" aria-description="Citation for case: Hale v. Henkel">201 U. S. 43, 46</a></span>;
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Curcio,
+   </em>
+   <span class="citation" data-id="239693"><a href="/opinion/239693/united-states-v-joseph-curcio/#473" aria-description="Citation for case: United States v. Joseph Curcio">234 F. 2d 470, 473</a></span> (C. A. 2d Cir.), rev'd on other grounds, <span class="citation" data-id="105528"><a href="/opinion/105528/curcio-v-united-states/" aria-description="Citation for case: Curcio v. United States">354 U. S. 118</a></span> (1957);
+   <em>
+    Lopiparo
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="234854"><a href="/opinion/234854/anthony-lopiparo-v-united-states/" aria-description="Citation for case: Anthony Lopiparo v. United States">216 F. 2d 87</a></span> (C. A. 8th Cir.);
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Weinberg,
+   </em>
+   <span class="citation" data-id="1477720"><a href="/opinion/1477720/united-states-v-weinberg/#396" aria-description="Citation for case: United States v. Weinberg">65 F. 2d 394, 396</a></span> (C. A. 2d Cir.). For the earlier practice at common law, see
+   <em>
+    People ex rel. Phelps
+   </em>
+   v.
+   <em>
+    Fancher,
+   </em>
+   4 Thompson &amp; Cook 467 (N. Y. 1874);
+   <em>
+    People ex rel. Hackley
+   </em>
+   v.
+   <em>
+    Kelly,
+   </em>
+   <span class="citation" data-id="3577928"><a href="/opinion/3596760/people-ex-rel-hackley-v-kelly/#79" aria-description="Citation for case: People Ex Rel. Hackley v. Kelly">24 N.Y. 74, 79-80</a></span> (1861);
+   <em>
+    In re Harris,
+   </em>
+   4 Utah. 5, 8-9, <span class="citation no-link">5 P. 129</span>, 130-132 (1884);
+   <em>
+    Heard
+   </em>
+   v.
+   <em>
+    Pierce,
+   </em>
+   <span class="citation no-link">8 Cush. 338</span>, 342-345 (Mass. 1851).
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="Ah0">
+   . See note 5 of the Court's opinion,
+   <em>
+    ante,
+   </em>
+   p. 167.
+   <em>
+    United States v. Castaldi,
+   </em>
+   <span class="citation" data-id="266063"><a href="/opinion/266063/united-states-v-anthony-castaldi/" aria-description="Citation for case: United States v. Anthony Castaldi">338 F. 2d 883</a></span> (two years);
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Tramunti,
+   </em>
+   <span class="citation" data-id="267423"><a href="/opinion/267423/united-states-v-carmine-tramunti/" aria-description="Citation for case: United States v. Carmine Tramunti">343 F. 2d 548</a></span> (one year);
+   <em>
+    United States v. Shillitani,
+   </em>
+   <span class="citation" data-id="267864"><a href="/opinion/267864/united-states-v-salvatore-shillitani/" aria-description="Citation for case: United States v. Salvatore Shillitani">345 F. 2d 290</a></span> (two years);
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Pappadio,
+   </em>
+   <span class="citation" data-id="268056"><a href="/opinion/268056/united-states-v-andimo-pappadio/" aria-description="Citation for case: United States v. Andimo Pappadio">346 F. 2d 5</a></span> (two years).
+  </p>
+</div><div class="footnote" id="fn13" label="13">
+<a class="footnote" href="#fn13_ref">
+   13
+  </a>
+<p id="Ave">
+   . See
+   <em>
+    Green
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="105662"><a href="/opinion/105662/green-v-united-states/#188" aria-description="Citation for case: Green v. United States">356 U. S. 165, 188</a></span>;
+   <em>
+    Yates
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="105679"><a href="/opinion/105679/yates-v-united-states/" aria-description="Citation for case: Yates v. United States">356 U. S. 363</a></span>;
+   <em>
+    Nilva
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="105453"><a href="/opinion/105453/nilva-v-united-states/#396" aria-description="Citation for case: Nilva v. United States">352 U. S. 385, 396</a></span>;
+   <em>
+    Brown
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="105848"><a href="/opinion/105848/brown-v-united-states/#52" aria-description="Citation for case: Brown v. United States">359 U. S. 41, 52</a></span>.
+  </p>
+</div></div></opinion>

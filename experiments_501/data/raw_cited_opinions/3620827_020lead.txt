@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="A1y">
+  Agree to affirm ; no opinion.
+ </p>
+<p id="Aarx">
+  All concur.
+ </p>
+<p id="A4Y">
+  Order affirmed.
+ </p>
+</opinion>

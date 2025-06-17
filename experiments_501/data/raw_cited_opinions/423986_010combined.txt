@@ -1,0 +1,104 @@
+<p class="case_cite"><span class="citation no-link">715 F.2d 1360</span></p>
+    <p class="parties">UNITED STATES of America, Plaintiff-Appellee,<br>v.<br>James Rual MILLER, Defendant-Appellant.</p>
+    <p class="docket">No. 82-1670.</p>
+    <p class="court">United States Court of Appeals,<br>Ninth Circuit.</p>
+    <p class="date">Argued and Submitted May 13, 1983.<br>Decided Sept. 13, 1983.</p>
+    <div class="prelims">
+      <p class="indent">Sandra Teters, Peter Robinson, San Francisco, Cal., for plaintiff-appellee.</p>
+      <p class="indent">Jerrold M. Ladar, San Francisco, Cal., for defendant-appellant.</p>
+      <p class="indent">Appeal from the United States District Court for the Northern District of California.</p>
+      <p class="indent">Before PECK<a class="footnote" href="#fn-s" id="fn-s_ref">*</a>, FLETCHER and PREGERSON, Circuit Judges.</p>
+      <p class="indent">JOHN W. PECK, Circuit Judge:</p>
+    </div>
+    <div class="num" id="p1">
+      <span class="num">1</span>
+      <p class="indent">A three-count indictment issued in the Northern District of California against James Rual Miller on June 30, 1982, charging Miller with mail fraud in violation of <span class="citation no-link">18 U.S.C. &#167; 1341</span>.<a class="footnote" href="#fn1" id="fn1_ref">1</a>  Central to each count of the indictment was the allegation that Miller devised a scheme and artifice to defraud Aetna Insurance Company by making a fraudulent insurance claim for a loss arising from an alleged burglary committed with Miller's knowledge and consent.   The issue raised by Miller in this appeal is whether his jury conviction on the first two counts may be sustained where the government failed to prove that he procured, consented to or knew of the burglary, even though it did prove the allegation that Miller inflated the amount of his claimed loss.   Because we conclude that the government failed to prove the scheme pleaded in the indictment, we reverse Miller's conviction.</p>
+    </div>
+    <div class="num" id="p2">
+      <span class="num">2</span>
+      <p class="indent">The parties have stipulated to the following facts.   Miller was the owner of San Francisco Scrap Metals, Inc., a company that regularly purchased scrap wire, and stripped, baled and resold it.   On July 2, 1981, Miller increased his company's insurance coverage from $50,000 to $150,000 for a two-week period ending July 15, 1981.   On the morning of July 15, 1981, Miller reported that his business had been burglarized the previous evening and that two trucks and 201,000 pounds of copper wire had been stolen.   On July 20, 1981, Miller reported to the insurance adjuster that the missing copper had been purchased from L.K. Comstock, Inc. and Kingston Electric.   Kingston Electric had sold a quantity of copper to San Francisco Scrap Metals but a similar quantity had been resold to Battery Salvage Company.   Miller claimed that the copper sold to Battery Salvage had been purchased from Brayer Electric.   Neither Brayer Electric nor L.K. Comstock sold San Francisco Scrap Metals the copper claimed to have been purchased.   Miller sent his proof of loss to Aetna through the United States Mail.   Miller received $100,000.   One $50,000 check was sent by Aetna to Miller through the mail.</p>
+    </div>
+    <div class="num" id="p3">
+      <span class="num">3</span>
+      <p class="indent">The scheme and artifice alleged in each count of the indictment is set forth in paragraphs one through seven of the first count.   Those paragraphs read as follows:</p>
+    </div>
+    <div class="num" id="p4">
+      <span class="num">4</span>
+      <p class="indent">1.  Beginning on or about July 2, 1981 and continuing to on or about October 26, 1981, in the City and County of San Francisco, in the State and Northern District of California,</p>
+    </div>
+    <div class="num" id="p5">
+      <span class="num">5</span>
+      <p>JAMES RUAL MILLER,</p>
+    </div>
+    <div class="num" id="p6">
+      <span class="num">6</span>
+      <p>defendant herein, being the President of San Francisco Scrap Metal, Inc., did devise and intend to devise a scheme and artifice to defraud and to obtain money by means of false and fraudulent pretenses and representations from Aetna Insurance Company by making a fraudulent insurance claim for a loss due to an alleged burglary at San Francisco Scrap Metal.</p>
+    </div>
+    <div class="num" id="p7">
+      <span class="num">7</span>
+      <p class="indent">2. At the time such pretenses and representations were made, defendant well knew them to be false.   The scheme, so devised and intended to be devised, was implemented in substance as follows:</p>
+    </div>
+    <div class="num" id="p8">
+      <span class="num">8</span>
+      <p class="indent">3.  It was a part of the scheme that on or about July 2, 1981, defendant would and did increase his insurance policy coverage from $50,000 to $150,000 to be in effect for a two week period ending July 15, 1981.</p>
+    </div>
+    <div class="num" id="p9">
+      <span class="num">9</span>
+      <p class="indent">4. It was a further part of the scheme that on or about July 15, 1981, defendant would and did report that a burglary had occurred at San Francisco Scrap Metal during the evening of July 14, 1981.</p>
+    </div>
+    <div class="num" id="p10">
+      <span class="num">10</span>
+      <p class="indent">5. It was a further part of the scheme that defendant would and did claim to have lost 210,170 pounds of copper wire, worth $123,500 and two trucks during the alleged burglary.</p>
+    </div>
+    <div class="num" id="p11">
+      <span class="num">11</span>
+      <p class="indent">6. It was a further part of the scheme that defendant well knew that the alleged burglary was committed with his knowledge and consent for the purpose of obtaining the insurance proceeds.</p>
+    </div>
+    <div class="num" id="p12">
+      <span class="num">12</span>
+      <p class="indent">7. It was a further part of the scheme that defendant well knew that the amount of copper claimed to have been taken during the alleged burglary was grossly inflated for the purpose of fraudulently obtaining $150,000 from Aetna Insurance Company.</p>
+    </div>
+    <div class="num" id="p13">
+      <span class="num">13</span>
+      <p class="indent">Count one alleged a violation of &#167; 1341 by Miller's placement of the "proof of loss" in the mail.   Count two alleged a violation of &#167; 1341 by his "knowingly and wilfully caus[ing] to be placed in an authorized depository for mail matter of the United States Postal Service an envelope containing a check for $50,000 from Aetna Insurance Company."   Count three was dismissed upon the government's motion prior to trial.</p>
+    </div>
+    <div class="num" id="p14">
+      <span class="num">14</span>
+      <p class="indent">Miller was tried before a jury in August 1982.   The government did not introduce any evidence that Miller knew of or consented to the July 14, 1981 burglary.   At the close of the government's case, the government moved to strike paragraph six of the indictment, i.e., the "false burglary" allegation.   Defense counsel opposed the motion on the ground that the "false burglary" was part of the scheme alleged in the indictment.   The court denied the government's motion as well as a motion for acquittal made by the defense counsel.   The jury rendered a guilty verdict on each of the two remaining counts.   The trial court denied defense counsel's post-verdict motion for acquittal.   Miller was sentenced to concurrent terms of two years imprisonment on each count.</p>
+    </div>
+    <div class="num" id="p15">
+      <span class="num">15</span>
+      <p class="indent">Miller filed a timely appeal of the judgment.   On appeal, Miller contends that in the indictment the government pleaded a single, unitary scheme to defraud involving a false burglary which it failed to prove.   Miller further contends, and the government does not dispute, that at most the evidence established that Miller had fraudulently inflated his claim.   Miller then concludes that the government failed to prove the offense as charged in the indictment and that to the extent the government did prove mail fraud, it did so on a theory so different from that pleaded in the indictment that Miller's conviction cannot be sustained.</p>
+    </div>
+    <div class="num" id="p16">
+      <span class="num">16</span>
+      <p class="indent">We find Miller's argument persuasive.   As an initial point, the government concedes that the indictment charged Miller with violating &#167; 1341 by devising a scheme to defraud Aetna Insurance Company by knowing of and consenting to the burglary and by inflating the amount of the claimed loss.  (Gov't brief at 3).   Moreover, the government does not dispute that it did not prove that Miller knew of or consented to the burglary from which the claim arose.   Accordingly, the petit jury convicted Miller for devising a scheme to defraud Aetna by inflating the amount of the claimed loss even though the grand jury indicted on the basis of a scheme to defraud consisting not only of the inflated claim but also of Miller's knowing consent to the burglary.</p>
+    </div>
+    <div class="num" id="p17">
+      <span class="num">17</span>
+      <p class="indent">In such circumstances a conviction cannot stand.   In  United States v. Mastelotto, <span class="citation no-link">717 F.2d 1238</span> (9th Cir.1983), this court held that "[a mail fraud] defendant cannot be convicted of a count charging participation in a fraudulent scheme Y where the grand jury indicted based on his participation in a fraudulent scheme X, even if the schemes themselves overlap or are concentric."  717 F.2d at 1248-49.   The court explained that in a mail fraud case the petit jury must find that the defendant participated in the overall scheme alleged by the grand jury because the court could not be certain that the grand jury would have indicted on the basis that the defendant participated in only part of the scheme.   Id. at 1248-49 &amp; nn. 10 &amp; 11.   See Stirone v. United States, <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/">361 U.S. 212</a></span>, 216-17, <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/">80 S.Ct. 270</a></span>, 272-273, <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/">4 L.Ed.2d 252</a></span> (1960) (quoting  Ex parte Bain, <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/">121 U.S. 1</a></span>, 13, <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/">7 S.Ct. 781</a></span>, 787, <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/">30 L.Ed. 849</a></span> (1887));   United States v. Pazsint, <span class="citation no-link">703 F.2d 420</span>, 423 (9th Cir.1983).</p>
+    </div>
+    <div class="num" id="p18">
+      <span class="num">18</span>
+      <p class="indent">The reasoning underlying Mastelotto controls this case.   The grand jury may well have declined to indict Miller simply on the basis of his exaggeration of the amount of his claimed loss.  See Mastelotto, supra, at 1250.   In fact, it is quite possible that the grand jury would have been unwilling or unable to return an indictment based solely on Miller's exaggeration of the amount of his claimed loss even though it had concluded that an indictment could be returned based on the overall scheme involving a use of the mail caused by Miller's knowing consent to the burglary.   Id. (citing Stirone, <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/">supra,</a></span> <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/">361 U.S. at 217</a></span>, <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/">80 S.Ct. at 273</a></span>).   Accordingly, Miller's conviction cannot stand because he was convicted of offenses not only for which he was not indicted but also for which we cannot say that he would have been indicted.</p>
+    </div>
+    <div class="num" id="p19">
+      <span class="num">19</span>
+      <p class="indent">A contrary result is not required by  United States v. Outpost Development Co., <span class="citation no-link">552 F.2d 868</span> (9th Cir.), cert. denied, <span class="citation no-link">434 U.S. 965</span>, <span class="citation no-link">98 S.Ct. 503</span>, <span class="citation no-link">54 L.Ed.2d 450</span> (1977), and  United States v. Beecroft, <span class="citation no-link">608 F.2d 753</span>, 757 (9th Cir.1979), which the government cites as holding that proof of one fraudulent statement suffices to sustain a mail fraud conviction.   As this court noted in Mastelotto, the issue on appeal in both Outpost and Beecroft was "whether the evidence that was adduced was sufficient for the jury to find that the scheme charged was fraudulent."  Mastelotto, supra, at 1249 n. 11.   This court further stated in Mastelotto that "neither [Outpost nor Beecroft ] gainsays that the jury must, in any event, find the existence of a fraudulent scheme substantially as broad as that charged by the grand jury, even if it does conclude that not every particular alleged misrepresentation was in fact fraudulent."   Id.  Because, as noted above, there can be no dispute that Miller's conviction was predicated on a substantially narrower scheme than that pleaded in the indictment, the conviction cannot stand.</p>
+    </div>
+    <div class="num" id="p20">
+      <span class="num">20</span>
+      <p class="indent">For the foregoing reasons, the judgment of conviction is vacated.</p>
+    </div>
+    <div class="footnotes">
+      <div class="footnote" id="fn-s">
+        <a class="footnote" href="#fn-s_ref">*</a>
+        <p> Honorable John W. Peck, Senior United States Circuit Judge for the Sixth Circuit, sitting by designation</p>
+      </div>
+      <div class="footnote" id="fn1">
+        <a class="footnote" href="#fn1_ref">1</a>
+        <p> <span class="citation no-link">18 U.S.C. &#167; 1341</span> reads as follows:</p>
+        <p>Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises, or to sell, dispose of, loan, exchange, alter, give away, distribute, supply, or furnish or procure for unlawful use any counterfeit or spurious coin, obligation, security, or other article, or anything represented to be or intimated or held out to be such counterfeit or spurious article, for the purpose of executing such scheme or artifice or attempting so to do, places in any post office or authorized depository for mail matter, any matter or thing whatever to be sent or delivered by the Postal Service, or takes or receives therefrom, any such matter or thing, or knowingly causes to be delivered by mail according to the direction thereon, or at the place at which it is directed to be delivered by the person to whom it is addressed, any such matter or thing, shall be fined not more than $1,000 or imprisoned not more than five years, or both.</p>
+      </div>
+    </div>
+    

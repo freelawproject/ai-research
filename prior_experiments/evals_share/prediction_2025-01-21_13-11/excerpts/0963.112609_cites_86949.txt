@@ -1,0 +1,31 @@
+Case of interest: Minturn v. Maynard (1855)
+-----------------------
+
+500 U.S. 603 (1991)
+EXXON CORP.
+v.
+CENTRAL GULF LINES, INC., ET AL.
+No. 90-34.
+Supreme Court of the United States.
+Argued April 15, 1991.
+Decided June 3, 1991.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT
+*604 Armand Maurice Paré, Jr., argued the cause for petitioner. With him on the briefs was Bradley F. Gandrup, Jr.
+Stephen L. Nightingale argued the cause for the United States as amicus curiae urging reversal. On the brief were Solicitor General Starr, Assistant Attorney General Gerson, Deputy Solicitor General Shapiro, Harriet S. Shapiro, and Richard A. Olderman.
+Francis A. Montbach argued the cause for respondents. With him on the brief was Karin A. Schlösser.
+JUSTICE MARSHALL delivered the opinion of the Court.
+This case raises the question whether admiralty jurisdiction extends to claims arising from agency contracts. In Minturn v. Maynard, <caseOfInterest>17 How. 477 </caseOfInterest>(1855), this Court held that an agent who had advanced funds for repairs and supplies necessary for a vessel could not bring a claim in admiralty *605 against the vessel's owners. Minturn has been interpreted by some lower courts as establishing a per se rule excluding agency contracts from admiralty. We now consider whether Minturn should be overruled.
+
+I
+This case arose over an unpaid bill for fuels acquired for the vessel, Green Harbour ex William Hooper (Hooper). The Hooper is owned by respondent Central Gulf Lines, Inc. (Central Gulf) and was chartered by the Waterman Steamship Corporation (Waterman) for use in maritime commerce. Petitioner Exxon Corporation (Exxon) was Waterman's exclusive worldwide supplier of gas and bunker fuel oil for some 40 years.
+In 1983, Waterman and Exxon negotiated a marine fuel requirements contract. Under the terms of the contract, upon request, Exxon would supply Waterman's vessels with marine fuels when the vessels called at ports where Exxon could 
+-----------------------
+f agreed to assume personal liability for the unpaid bill if a court were to hold the Hooper liable in rem for that cost.
+Subsequently, Exxon commenced this litigation in federal district court against Central Gulf in personam and against the Hooper in rem. Exxon claimed to have a maritime lien on the Hooper under the Federal Maritime Lien Act, 46 U.S. C. § 971 (1982 ed.).[1] The District Court noted that "[a] prerequisite to the existence of a maritime lien based on a breach of contract is that the subject matter of the contract must fall within the admiralty jurisdiction." 707 F. Supp. 155, 158 (SDNY 1989). Relying on the Second Circuit's decision in Peralta Shipping Corp. v. Smith & Johnson (Shipping) Corp., 739 F.2d 798 (CA2 1984), cert. denied, 470 U.S. 1031 (1985), the District Court concluded that it did not have admiralty jurisdiction over the claim. See 707 F. Supp., at 159-161. In Peralta, the Second Circuit held that it was constrained by this Court's decision in Minturn v. <caseOfInterest>Maynard, supra</caseOfInterest>, and by those Second Circuit cases faithfully adhering to Minturn, to follow a per se rule excluding agency contracts from admiralty jurisdiction. See Peralta, supra, at 802-804. The District Court also rejected the argument that Exxon should be excepted from the Minturn rule because it had provided credit necessary for the Hooper to purchase the fuel and thus was more than a mere agent. To create such an exception, the District Court reasoned, "`would blur, if not obliterate, a rather clear admiralty distinction.'" 707 F. Supp., at 161, quoting Peralta, supra, at 804.[2]
+*607 The District Court denied Exxon's motion for reconsideration. The court first rejected Exxon's claim that in procuring fuel for Waterman it was acting as a seller rather than an agent. Additionally, the District Court declined Exxon's invitation to limit the Minturn rule to either general agency or preliminary service contracts.[3] Finally, the District Court determined that even if it were to limit Minturn, Exx
+-----------------------
+ expended for the use of respondents, *609 in paying for supplies, repairs, and advertising of the steamboat, and numerous other charges, together with commissions on the disbursements, &c.
+"The court below very properly dismissed the libel, for want of jurisdiction. There is nothing in the nature of a maritime contract in the case. The libel shows nothing but a demand for a balance of accounts between agent and principal, for which an action of assumpsit, in a common law court, is the proper remedy. That the money advanced and paid for respondents was, in whole or in part, to pay bills due by a steamboat for repairs or supplies, will not make the transaction maritime, or give the libellant a remedy in admiralty. Nor does the local law of California, which authorizes an attachment of vessels for supplies or repairs, extend to the balance of accounts between agent and principal, who have never dealt on the credit, pledge, or security of the vessel.
+"The case is too plain for argument." <caseOfInterest>17 How. 477</caseOfInterest>.
+While disagreeing over what sorts of agency contracts fall within Minturn's ambit, lower courts have uniformly agreed that Minturn states a per se rule barring at least some classes of agency contracts from admiralty. See n. 4, supra.[5]
+Minturn appears to have rested on two rationales: (1) that the agent's claim was nothing more than a "demand for a balance of accounts" which could be remedied at common law through an action of assumpsit; and (2) that the agent had no contractual or legal right to advance monies "on the credit, pledge, or security of the vessel." The first rationale appears to be an application of the then-accepted rule that "the *610 admiralty has no jurisdiction at all in matters of account between part owners," The Steamboat Orleans v. Phoebus, 11 Pet. 175, 182 (1837), or in actions in assumpsit for the wrongful withholding of money, see Archawski v. Hanioti, 350 U.S. 532, 534 (1956) ("A line of authorities emerged to the effect that admiralty had no jurisdiction

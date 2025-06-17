@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion data-order="9" data-type="opinion" id="x999-2" type="majority">
+<author id="b597-25">
+  SMITH, Circuit Judge:
+ </author>
+<p id="b597-26">
+  Carmine P. Tramunti, convicted on trial to the Court in the Southern District of New York without jury, Inzer
+  <span citation-index="1" class="star-pagination" label="550"> 
+   *550
+   </span>
+  B. Wyatt, District Judge, of contempt of court under <span class="citation no-link">18 U.S.C. § 401</span>, F.R.Crim. Proc. 42(b)
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  for refusal to answer questions before a Grand Jury when ordered to do so by the Court after a grant of immunity under <span class="citation no-link">18 U.S.C. § 1406</span>,
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  appeals. We find no error and affirm the judgment.
+ </p>
+<p id="b598-4">
+  Appellant contends principally that the grant of immunity was invalid because his counsel was not present when the grant was made, that he Was entitled to a jury trial on the contempt charge, that the sentence was excessive, that the questions he refused to answer were not relevant to the inquiry, that he was entitled to the production of the minutes of the Grand Jury on all the questions, not limited to those he refused to answer, and that immunity was not complete under the statute.
+ </p>
+<p id="b599-4">
+<span citation-index="1" class="star-pagination" label="551"> 
+   *551
+   </span>
+  The questions which Tramunti refused to answer were:
+ </p>
+<blockquote id="b599-5">
+  “When were you down in Florida last?
+ </blockquote>
+<blockquote id="b599-6">
+  “Isn’t it a fact that you ran a fairly successful dice game down in Dade County ?
+ </blockquote>
+<blockquote id="b599-7">
+  “Who’s Allie Harris?
+ </blockquote>
+<blockquote id="b599-8">
+  “How is the dice game going up in Harlem?
+ </blockquote>
+<blockquote id="b599-9">
+  “Cavalliere and Rosato are alleged to be connected with you in gambling activities, particularly in dice games. These two individuals are also known to be active in the narcotics field. Have you ever had any- gambling contacts with any one of them?”
+ </blockquote>
+<p id="b599-10">
+  On February 13, 1964 Tramunti refused to answer questions put by a Grand Jury in the Southern District of New York then inquiring into alleged violations of the federal narcotics laws. Again on April 23, after being informed that there was information that the Lucchese mob was engaged in various illegal activities, principally the illicit narcotics traffic, and that it had been alleged that Tramunti was a member of this group, Tramunti refused to answer any questions before the Grand Jury. He refused again on May 7, 1964.
+ </p>
+<p id="b599-11">
+  On August 4, 1964 the United States Attorney, with the approval of the Attorney General, applied under <span class="citation no-link">18 U.S.C. § 1406</span> for an order compelling Tramunti’s testimony. Appellant’s attorney was at the time on a two-week tour of military duty, which was made known to the United States Attorney and the Court. The Court, Lloyd F. MacMahon, District Judge, found that the statutory conditions were met, that complete immunity was afforded, and instructed Tramunti to return to the Grand Jury and answer the questions, but adjourned his next appearance to allow him to consult counsel. Tramunti was next called before the Grand Jury November 10, 1964, when he was accompanied by counsel and permitted to consult him outside the grand jury room. He persisted in his refusal. November 12, 1964 at the request of the Grand Jury, appellant was brought before Judge Wyatt, who, after a hearing at which appellant was represented by counsel, reached the same determination as had Judge MacMahon, and directed the witness to answer. The witness answered other questions relating directly to narcotics traffic but still declined to answer the five questions on which he was charged with contempt. Hearing was had on notice and order to show cause why the witness should not be held in contempt, pursuant to Rule 42(b) Federal Rules of Criminal Procedure, November 19 and 24. On December 2, 1964 Judge Wyatt held appellant in contempt and ordered him imprisoned for one year “or until further order of this Court, should Carmine P. Tramunti answer before the September 1963 Grand Jury the questions which appear on the record as he was ordered to answer and should defendant answer those questions before the expiration of said sentence or the discharge of said Grand Jury, whichever may first occur, the further order of this Court may be made terminating the sentence of imprisonment. * * * ”
+ </p>
+<p id="b599-13">
+  Since the sentence here is based on Tramunti’s refusal to answer after Judge Wyatt, in a proceeding at which Tramunti was represented by counsel, had found that complete immunity existed, and ordered the questions answered, the claimed invalidity of the proceedings before Judge MacMahon is without significance here. If a court found those proceedings invalid at the time, the remedy would have been another proceeding with counsel present, and this was had here, with any relief available that would have been available before Judge MacMahon.
+ </p>
+<p id="b599-14">
+  The claim that Tramunti was entitled to jury trial and that the sentence was excessive in the absence of a jury trial, based on the footnote to the Supreme Court’s opinion in United States v. Barnett, <span class="citation" data-id="106792"><a href="/opinion/106792/united-states-v-barnett/" aria-description="Citation for case: United States v. Barnett">376 U.S. 681</a></span>, 695 n. 12, <span class="citation" data-id="106792"><a href="/opinion/106792/united-states-v-barnett/" aria-description="Citation for case: United States v. Barnett">84 S.Ct. 984</a></span>, <span class="citation" data-id="106792"><a href="/opinion/106792/united-states-v-barnett/" aria-description="Citation for case: United States v. Barnett">12 L.Ed.2d 23</a></span>, was rejected by this court in United States v. Harris, 2 Cir., <span class="citation" data-id="265013"><a href="/opinion/265013/united-states-v-al-harris/" aria-description="Citation for case: United States v. Al Harris">334 F.2d 460</a></span>, cert. granted <span class="citation multiple-matches"><a href="/c/U.S./379/944/">379 U.S. 944</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./85/438/">85 S.Ct. 438</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/13/542/">13 L.Ed.2d 542</a></span>, to
+  <span citation-index="1" class="star-pagination" label="552"> 
+   *552
+   </span>
+  which we adhere. Here, as in Harris, the contempt was committed in the presence of the Court, by defiance of a lawful order to respond to questions after grant of immunity.
+ </p>
+<p id="b600-4">
+  We- find no merit in the contention that the immunity was less than complete in that it did not protect against state as well as federal prosecutions. That it does cover state prosecutions is settled by Reina v. United States, <span class="citation" data-id="106146"><a href="/opinion/106146/reina-v-united-states/" aria-description="Citation for case: Reina v. United States">364 U.S. 507</a></span>, <span class="citation" data-id="106146"><a href="/opinion/106146/reina-v-united-states/" aria-description="Citation for case: Reina v. United States">81 S.Ct. 260</a></span>, <span class="citation" data-id="106146"><a href="/opinion/106146/reina-v-united-states/" aria-description="Citation for case: Reina v. United States">5 L.Ed.2d 249</a></span> (1960).
+ </p>
+<p id="b600-5">
+  We reject also the argument that there is no immunity here since the statute permits immunity only in narcotics investigations, that immunity has not been granted for gambling investigations and that this is a gambling investigation thinly disguised. As we stated in Harris, in its investigation of a particular crime the Grand Jury may well unearth evidence of violations of other criminal provisions as well, and the immunity extends to all testimony insofar as that testimony bears a substantialrejation to the subject matter of the-imfimnity provision, citing Heike v. United States, <span class="citation" data-id="97764"><a href="/opinion/97764/heike-v-united-states/#142" aria-description="Citation for case: Heike v. United States">227 U.S. 131, 142-143</a></span>, <span class="citation" data-id="97764"><a href="/opinion/97764/heike-v-united-states/" aria-description="Citation for case: Heike v. United States">33 S.Ct. 226</a></span>, <span class="citation" data-id="97764"><a href="/opinion/97764/heike-v-united-states/" aria-description="Citation for case: Heike v. United States">57 L.Ed. 450</a></span> (1913). Here the information sought dealt directly with the possible financing of narcotics activity by an identified criminal organization through moneys derived by other criminal activities, in this case organized gambling. That such inquiries are relevant to investigation of possible violation of the narcotics laws admits of no doubt. The Congress has found the nature of the illicit narcotics traffic of sufficient public importance to authorize the broad grant of immunity provided in the statute. Reina v. United States, supra, <span class="citation" data-id="106146"><a href="/opinion/106146/reina-v-united-states/#511" aria-description="Citation for case: Reina v. United States">364 U.S. at 511, 512</a></span>, <span class="citation" data-id="106146"><a href="/opinion/106146/reina-v-united-states/#263" aria-description="Citation for case: Reina v. United States">81 S.Ct. at 263, 264</a></span>.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  The courts will not so narrowly confine the inquiries of grand juries into this traffic as to defeat the purpose of the statute.
+ </p>
+<p id="b600-8">
+  Judge Wyatt found the requisites of the statute complied with, and we agree. We uphold also his ruling on the relevance to the inquiry of the questions asked. Refusal to answer, based solely on the witness’ opinion on relevancy and scope of immunity was a contempt.
+ </p>
+<p id="b600-9">
+  Appellant’s claims of lack of proof beyond a reasonable doubt, and denial of due process in that he was not allowed to examine and place in evidence the Grand Jury minutes, are not well taken. The questions he refused to answer and their relevancy were established. He know whether he had in fact answered other similar questions, and his persistent refusal to answer these makes the claim that he might have done so dubious in the extreme. There is no showing here sufficient to overcome the desirability of secrecy of grand jury proceedings so that others under investigation and other prospective witnesses might not be warned of what had been asked and answered and so aided in thwarting the inquiry. Rule 6(e) F.R. Crim.Proc. Pittsburgh Plate Glass Co.
+  <span citation-index="1" class="star-pagination" label="553"> 
+   *553
+   </span>
+  v. United States, <span class="citation" data-id="105923"><a href="/opinion/105923/pittsburgh-plate-glass-co-v-united-states/#399" aria-description="Citation for case: Pittsburgh Plate Glass Co. v. United States">360 U.S. 395, 399-401</a></span>, <span class="citation" data-id="105923"><a href="/opinion/105923/pittsburgh-plate-glass-co-v-united-states/" aria-description="Citation for case: Pittsburgh Plate Glass Co. v. United States">79 S.Ct. 1237</a></span>, <span class="citation" data-id="105923"><a href="/opinion/105923/pittsburgh-plate-glass-co-v-united-states/" aria-description="Citation for case: Pittsburgh Plate Glass Co. v. United States">3 L.Ed.2d 1323</a></span> (1959).
+ </p>
+<p id="b601-5">
+  The mixed nature of the sentence, permitting consideration of reduction if appellant purged himself of the contempt by answering the questions, does not appear to prejudice the appellant. In Brown v. United States, <span class="citation" data-id="105848"><a href="/opinion/105848/brown-v-united-states/" aria-description="Citation for case: Brown v. United States">359 U.S. 41</a></span>, <span class="citation" data-id="105848"><a href="/opinion/105848/brown-v-united-states/" aria-description="Citation for case: Brown v. United States">79 S.Ct. 539</a></span>, <span class="citation" data-id="105848"><a href="/opinion/105848/brown-v-united-states/" aria-description="Citation for case: Brown v. United States">3 L.Ed.2d 609</a></span> (1959), summary conviction under Rule 42(a) and sentence to 15 months imprisonment for refusal to testify was upheld. The dissent attacked the absence of a purge clause. And see United States v. Castaldi, <span class="citation" data-id="266063"><a href="/opinion/266063/united-states-v-anthony-castaldi/" aria-description="Citation for case: United States v. Anthony Castaldi">338 F.2d 883</a></span>, 2 Cir. 1964.
+ </p>
+<p id="b601-6">
+  The judgment is affirmed.
+ </p>
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b598-5">
+   . Tide 18, United States Code:
+  </p>
+<blockquote id="b598-6">
+   “§ 401. Power of court
+  </blockquote>
+<blockquote id="Aqu">
+   “A court of the United States shall have power to punish by fine or imprisonment, at its discretion, such contempt of its authority, and none other, as—
+  </blockquote>
+<blockquote id="b598-7">
+   “(1) Misbehavior of any person in its presence or so near thereto as to obstruct the administration of justice;
+  </blockquote>
+<blockquote id="b598-8">
+   “(2) Misbehavior of any of its officers in their official transactions;
+  </blockquote>
+<blockquote id="b598-9">
+   “(3) Disobedience or resistance to its lawful writ, process, order, rule, decree, or command.”
+  </blockquote>
+<p id="b598-10">
+   Federal Rules of Criminal Procedure
+  </p>
+<blockquote id="AY4">
+   “Rule 42. Criminal Contempt
+  </blockquote>
+<blockquote id="Ajt">
+   “(b)
+   <em>
+    Disposition Upon Notice and Hearing.
+   </em>
+   A criminal contempt except as provided in subdivision (a) of this rule shall be prosecuted on notice. The notice shall state the time and place of hearing, allowing a reasonable time for the preparation of the defense, and shall state the essential facts constituting the criminal contempt charged and describe it as such. The notice shall be given orally by the judge in open court in the presence of the defendant or, on application of the United States attorney or of an attorney appointed by the court for that purpose, by an order to show cause or an order of arrest. The defendant is entitled to a trial by jury in any case in which an act of Congress so provides. He is entitled to admission to bail as provided in these rules. If the contempt charge involves disrespect to or criticism of a judge, that judge is disqualified from presiding at the trial or hearing except with the defendant’s consent. Upon a verdict or finding of guilt the court shall enter an order fixing the punishment.”
+  </blockquote>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b598-11">
+<em>
+    .
+   </em>
+   Title 18, United States Code:
+  </p>
+<blockquote id="b598-12">
+   “§ 1406. Immunity of witnesses Whenever in the judgment of a United States attorney the testimony of any witness, or the production of books, papers, or other evidence by any witness, in any case or proceeding before any grand jury or court of the United States involving any violation of—
+  </blockquote>
+<blockquote id="b598-15">
+   “(1) any provision of part I or part II of subchapter A of chapter 39 of the Internal Revenue Code of 1954 the penalty for which is provided in subsection (a) or (b) of section 7237 of such Code,
+  </blockquote>
+<blockquote id="b598-16">
+   “(2) subsection (c), (h), or (i) or Section 2 of the Narcotic Drugs Import and Export Act, as amended (21 U.S.C. sec., 174), or
+  </blockquote>
+<blockquote id="ahl-dedup-0">
+   “(3) the Act of July 11, 1941, as amended (21 U.S.C., sec. 184a), is necessary to the public interest, he, upon the approval of the Attorney General, shall make application to the court that the witness shall be instructed to testify or produce evidence subject to the provisions of this section-, and upon order of the court such witness shall not be excused from testifying or from producing books, papers, or other evidence on the ground that the testimony or evidence required of him may tend to incriminate him or subject him to a penalty or forfeiture. But -no such witness shall be prosecuted or subjected to any penalty or forfeiture for or on account of any transaction, matter, or thing concerning which he is compelled, after having claimed his privilege against self-incrimination, to testify or produce evidence, nor shall testimony so compelled be used as evidence in any criminal proceeding (except prosecution described in the next sentence) against him in any court. No witness shall be exempt -under this section from prosecution for perjury or contempt committed while giving testimony or producing evidence under compulsion as provided in this section. Added July 18, 1956, c. 629 Title II, § 201, <span class="citation no-link">70 Stat. 574</span>.”
+  </blockquote>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b600-6">
+   . “It can hardly be questioned that Congress had a rational basis for supposing that the grant of state as well as federal immunity would aid in the detection of violations and hence the more effective enforcement of the narcotics laws. The Congress has evinced serious and continuing concern over the alarming proportions to which the illicit narcotics traffic has grown. The traffic has far-reaching national and international roots. See S.Rep. No. 1997, 84th Cong., 2d Sess., pp. 3-6. The discovery and apprehension of those engaged in its present particularly difficult problems of law enforcement. The whole array of aids adopted in 1956, of which immunity is but one, was especially designed to ‘permit enforcement officers to operate more effectively.’ H.R.Rep. No. 2388, 84th Cong., 2d Sess., p. 10. The grant of both federal and state immunity is appropriate and conducive to that end, and that is enough. Even if the grant of immunity were viewed as not absolutely necessary to the execution of the congressional design, ‘[T]o undertake here to inquire into the degree of * * * necessity, would be to pass the line which circumscribes the judicial department, and to tread on legislative ground.’ McCulloch v. State of Maryland, <span class="citation" data-id="85272"><a href="/opinion/85272/mculloch-v-state-of-maryland/#423" aria-description="Citation for case: M&#x27;culloch v. State of Maryland">4 Wheat. 316, 423</a></span>, [<span class="citation" data-id="85272"><a href="/opinion/85272/mculloch-v-state-of-maryland/" aria-description="Citation for case: M&#x27;culloch v. State of Maryland">4 L.Ed. 579</a></span>).”
+  </p>
+</div></div></opinion>

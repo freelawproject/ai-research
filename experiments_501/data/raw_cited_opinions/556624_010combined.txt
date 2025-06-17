@@ -1,0 +1,434 @@
+<p class="case_cite"><span class="citation no-link"><span class="volume">926</span> <span class="reporter">F.2d</span> <span class="page">1492</span></span></p>
+    <p class="parties">Jose TAMAYO-REYES, Petitioner-Appellant,<br>v.<br>J.C. KEENEY, Respondent-Appellee.</p>
+    <p class="docket">No. 90-35315.</p>
+    <p class="court">United States Court of Appeals,<br>Ninth Circuit.</p>
+    <p class="date">Argued and Submitted Jan. 10, 1991.<br>Decided March 4, 1991.</p>
+    <div class="prelims">
+      <p class="indent">Steven Jacobson, Asst. Federal Public Defender, Portland, Ore., for petitioner-appellant.</p>
+      <p class="indent">Rives Kistler, Asst. Atty. General, Salem, Ore., for respondent-appellee.</p>
+      <p class="indent">Appeal from the United States District Court for the District of Oregon.</p>
+      <p class="indent">Before BROWNING, CANBY, and TROTT, Circuit Judges.</p>
+      <p class="indent">TROTT, Circuit Judge:</p>
+    </div>
+    <div class="num" id="p1">
+      <span class="num">1</span>
+      <p class="indent">Jose Tamayo-Reyes appeals the denial of his habeas corpus petition, claiming the district court erred in refusing to grant an evidentiary hearing on whether his nolo contendere plea to manslaughter was unconstitutional.  We reverse in part and remand because the district court improperly deferred to certain state court factual findings based on 28 U.S.C. Sec. 2254(d) (1988), instead of holding an evidentiary hearing on the merits of Reyes's claim as required by Townsend v. Sain, <span class="citation" data-id="106544"><a href="/opinion/106544/townsend-v-sain/"><span class="volume">372</span> <span class="reporter">U.S.</span> <span class="page">293</span></a></span>, <span class="citation" data-id="106544"><a href="/opinion/106544/townsend-v-sain/"><span class="volume">83</span> <span class="reporter">S. Ct.</span> <span class="page">745</span></a></span>, <span class="citation" data-id="106544"><a href="/opinion/106544/townsend-v-sain/"><span class="volume">9</span> <span class="reporter">L. Ed. 2d</span> <span class="page">770</span> </a></span>(1963).</p>
+    </div>
+    <p>FACTS AND PROCEEDINGS BELOW</p>
+    <div class="num" id="p2">
+      <span class="num">2</span>
+      <p class="indent">Reyes is a Cuban immigrant with little education and almost no knowledge of English.  In 1984 he allegedly stabbed and killed a man in a bar fight.  He was arrested, charged with murder, and provided with a defense attorney and interpreter.</p>
+    </div>
+    <div class="num" id="p3">
+      <span class="num">3</span>
+      <p class="indent">Reyes's attorney, Mr. Tommy Hawk, decided Reyes should plead nolo contendere to Manslaughter in the First Degree.  Or.Rev.Stat. Sec. 163.118(1)(a) (1989).  Reyes signed a plea form that explained in English the rights he was waiving by entering the plea.  The state court then held a hearing to approve the plea, at which Reyes was represented by Hawk and his interpreter, Mr. Ben Sanchez.  The judge asked Hawk and Sanchez if they had explained to Reyes the rights enumerated in the plea form and the consequences of pleading nolo contendere, and they answered in the affirmative.  The judge then explained to Reyes in English the rights he would waive by his plea, asking Sanchez to translate for him.  Reyes indicated he understood his rights and still wished to plead nolo contendere to manslaughter.  The judge accepted his plea.</p>
+    </div>
+    <div class="num" id="p4">
+      <span class="num">4</span>
+      <p class="indent">Two years later, Reyes collaterally attacked the plea in a post-conviction proceeding in the Oregon Circuit Court for the County of Marion.  He alleged his plea had not been knowing and intelligent because Sanchez failed in several critical instances to translate accurately and completely for him.  As a result, he claimed, he did not understand the purposes of the plea form or the plea hearing.  He did not know he was pleading no contest to manslaughter;  instead, he thought he was agreeing to be tried on the manslaughter count.  He also contended his plea was invalid because Sanchez had not interpreted for him the mens rea element of manslaughter.<a class="footnote" href="#fn1" id="fn1_ref">1</a></p>
+    </div>
+    <div class="num" id="p5">
+      <span class="num">5</span>
+      <p class="indent">Following the proceeding, the state court dismissed Reyes's petition.  The state court of appeals affirmed without an opinion.  Reyes v. Keeney, 88 Or.App. 187, <span class="citation no-link"><span class="volume">744</span> <span class="reporter">P.2d</span> <span class="page">1011</span> </span>(1987).  The state supreme court denied review.  Reyes v. Keeney, <span class="citation no-link"><span class="volume">304</span> <span class="reporter">Or.</span> <span class="page">680</span></span>, <span class="citation no-link"><span class="volume">748</span> <span class="reporter">P.2d</span> <span class="page">142</span> </span>(1987).  Reyes then petitioned the district court for a writ of habeas corpus, claiming he was entitled to an evidentiary hearing on whether his nolo contendere plea was unconstitutional.</p>
+    </div>
+    <div class="num" id="p6">
+      <span class="num">6</span>
+      <p class="indent">The district court held that two findings by the state post-conviction court were dispositive of Reyes's claims, that these findings were presumed correct under 28 U.S.C. Sec. 2254(d) (1988), and that therefore no evidentiary hearing was required.  Reyes timely appeals.</p>
+    </div>
+    <div class="num" id="p7">
+      <span class="num">7</span>
+      <p class="indent">We have jurisdiction under 28 U.S.C. Secs. 1291 and 2253 (1988).  We review de novo a district court's denial of a petition for a writ of habeas corpus.  Madera v. Risley, <span class="citation" data-id="529384"><a href="/opinion/529384/david-madera-v-henry-risley-warden-montana-state-prison/"><span class="volume">885</span> <span class="reporter">F.2d</span> <span class="page">646</span></a></span>, 648 (9th Cir.1989).ANALYSIS</p>
+    </div>
+    <div class="num" id="p8">
+      <span class="num">8</span>
+      <p>* The Substantive Legal Issues<a class="footnote" href="#fn2" id="fn2_ref">2</a></p>
+    </div>
+    <div class="num" id="p9">
+      <span class="num">9</span>
+      <p class="indent">Our initial inquiry is whether Reyes's allegations, if proved, would establish the right to habeas corpus relief.  See <span class="citation" data-id="106544"><span class="antecedent_guess">Townsend,</span> <a href="/opinion/106544/townsend-v-sain/"><span class="volume">372</span> <span class="reporter">U.S.</span> at <span class="page">307</span></a></span>, 83 S.Ct. at 754;  see also Nevius v. Sumner, <span class="citation" data-id="509069"><a href="/opinion/509069/thomas-nevius-v-george-sumner-director-of-department-of-prisons-and/"><span class="volume">852</span> <span class="reporter">F.2d</span> <span class="page">463</span></a></span>, 466 (9th Cir.1988), cert. denied, <span class="citation" data-id="112289"><a href="/opinion/112289/aubrey-dennis-adams-jr-v-richard-l-dugger-secretary-florida/"><span class="volume">490</span> <span class="reporter">U.S.</span> <span class="page">1059</span></a></span>, <span class="citation no-link"><span class="volume">109</span> <span class="reporter">S. Ct.</span> <span class="page">1972</span></span>, <span class="citation no-link"><span class="volume">104</span> <span class="reporter">L. Ed. 2d</span> <span class="page">441</span> </span>(1989).  We are persuaded that Reyes makes the necessary allegations.</p>
+    </div>
+    <div class="num" id="p10">
+      <span class="num">10</span>
+      <p class="indent">North Carolina v. Alford, <span class="citation" data-id="108215"><a href="/opinion/108215/north-carolina-v-alford/"><span class="volume">400</span> <span class="reporter">U.S.</span> <span class="page">25</span></a></span>, 31, <span class="citation" data-id="108215"><a href="/opinion/108215/north-carolina-v-alford/"><span class="volume">91</span> <span class="reporter">S. Ct.</span> <span class="page">160</span></a></span>, 164, <span class="citation" data-id="108215"><a href="/opinion/108215/north-carolina-v-alford/"><span class="volume">27</span> <span class="reporter">L. Ed. 2d</span> <span class="page">162</span> </a></span>(1970), holds that the validity of a guilty or nolo contendere plea depends on whether it "represents a voluntary and intelligent choice among the alternative courses of action open to the defendant."    Accord Mabry v. Johnson, <span class="citation" data-id="111208"><a href="/opinion/111208/mabry-v-johnson/"><span class="volume">467</span> <span class="reporter">U.S.</span> <span class="page">504</span></a></span>, 509, <span class="citation" data-id="111208"><a href="/opinion/111208/mabry-v-johnson/"><span class="volume">104</span> <span class="reporter">S. Ct.</span> <span class="page">2543</span></a></span>, 2547, <span class="citation" data-id="111208"><a href="/opinion/111208/mabry-v-johnson/"><span class="volume">81</span> <span class="reporter">L. Ed. 2d</span> <span class="page">437</span> </a></span>(1984);  Marshall v. Lonberger, <span class="citation" data-id="110828"><a href="/opinion/110828/marshall-v-lonberger/"><span class="volume">459</span> <span class="reporter">U.S.</span> <span class="page">422</span></a></span>, 436-37, <span class="citation" data-id="110828"><a href="/opinion/110828/marshall-v-lonberger/"><span class="volume">103</span> <span class="reporter">S. Ct.</span> <span class="page">843</span></a></span>, 852, <span class="citation" data-id="110828"><a href="/opinion/110828/marshall-v-lonberger/"><span class="volume">74</span> <span class="reporter">L. Ed. 2d</span> <span class="page">646</span> </a></span>(1983).<a class="footnote" href="#fn3" id="fn3_ref">3</a>   Reyes advances two reasons why his plea of nolo contendere to manslaughter was not the product of an intelligent choice.  The first is that Sanchez did not translate adequately the mens rea element of manslaughter.  The second is that Sanchez did not translate adequately the plea form and the plea proceeding.  We address these allegations in turn.</p>
+    </div>
+    <div class="num" id="p11">
+      <span class="num">11</span>
+      <p class="indent">A. Translation of the Mens Rea Element of Manslaughter</p>
+    </div>
+    <div class="num" id="p12">
+      <span class="num">12</span>
+      <p class="indent">In Oregon, Manslaughter in the First Degree is defined, in relevant part, as a "criminal homicide ... committed recklessly under circumstances manifesting extreme indifference to the value of human life...."  Or.Rev.Stat. Sec. 163.118(1)(a) (1989).  Reyes alleges Sanchez failed to translate the mens rea element of this crime.  At most, he claims, Sanchez told him only that manslaughter was "less than murder."</p>
+    </div>
+    <div class="num" id="p13">
+      <span class="num">13</span>
+      <p class="indent">In Henderson v. Morgan, <span class="citation" data-id="109492"><a href="/opinion/109492/henderson-v-morgan/"><span class="volume">426</span> <span class="reporter">U.S.</span> <span class="page">637</span></a></span>, 646-47, <span class="citation" data-id="109492"><a href="/opinion/109492/henderson-v-morgan/"><span class="volume">96</span> <span class="reporter">S. Ct.</span> <span class="page">2253</span></a></span>, 2258, <span class="citation" data-id="109492"><a href="/opinion/109492/henderson-v-morgan/"><span class="volume">49</span> <span class="reporter">L. Ed. 2d</span> <span class="page">108</span> </a></span>(1976), the Supreme Court invalidated a defendant's guilty plea to second-degree murder because he entered the plea without being informed that intent to cause death was an element of the offense.  If Reyes indeed was told only that Manslaughter in the First Degree was "less than murder," the mens rea element of the offense was not adequately described to him, and he states a basis for overturning his plea.  See United States v. Bigman, <span class="citation" data-id="543657"><a href="/opinion/543657/united-states-v-wilson-bigman/"><span class="volume">906</span> <span class="reporter">F.2d</span> <span class="page">392</span></a></span>, 394-95 (9th Cir.1990);  Hayes v. Kincheloe, <span class="citation" data-id="465420"><a href="/opinion/465420/mark-hayes-v-larry-kincheloe/"><span class="volume">784</span> <span class="reporter">F.2d</span> <span class="page">1434</span></a></span>, 1438-40 (9th Cir.1986), cert. denied, <span class="citation no-link"><span class="volume">484</span> <span class="reporter">U.S.</span> <span class="page">871</span></span>, <span class="citation no-link"><span class="volume">108</span> <span class="reporter">S. Ct.</span> <span class="page">198</span></span>, <span class="citation no-link"><span class="volume">98</span> <span class="reporter">L. Ed. 2d</span> <span class="page">150</span> </span>(1987);  Williams v. Raines, <span class="citation" data-id="464864"><a href="/opinion/464864/carroll-harland-williams-v-robert-r-raines-and-robert-k-corbin/"><span class="volume">783</span> <span class="reporter">F.2d</span> <span class="page">774</span></a></span>, 775-76 (9th Cir.1986);  Sober v. Crist, <span class="citation" data-id="388435"><a href="/opinion/388435/lawrence-la-vern-sober-v-roger-w-crist-warden-montana-state-prison-and/"><span class="volume">644</span> <span class="reporter">F.2d</span> <span class="page">807</span></a></span>, 809-10 (9th Cir.1981) (per curiam).</p>
+    </div>
+    <div class="num" id="p14">
+      <span class="num">14</span>
+      <p class="indent">Henderson does not require that every element of the crime must be explained to the defendant;  it establishes only that the defendant must be informed of the mens rea element.  <span class="citation" data-id="109492"><span class="antecedent_guess">Henderson,</span> <a href="/opinion/109492/henderson-v-morgan/"><span class="volume">426</span> <span class="reporter">U.S.</span> at <span class="page">647</span> </a></span>n. <span class="citation" data-id="109492"><span class="antecedent_guess">18,</span> <a href="/opinion/109492/henderson-v-morgan/"><span class="volume">96</span> <span class="reporter">S. Ct.</span> at <span class="page">2258</span> </a></span>n. 18;  see also <span class="citation" data-id="388435"><span class="antecedent_guess">Sober,</span> <a href="/opinion/388435/lawrence-la-vern-sober-v-roger-w-crist-warden-montana-state-prison-and/"><span class="volume">644</span> <span class="reporter">F.2d</span> at <span class="page">809</span></a></span>.    Under Oregon's definition of Manslaughter in the First Degree, the terms "recklessly" and "extreme indifference" describe the mens rea element of the offense.  Or.Rev.Stat. Sec. 163.118(1)(a) (1989).  The Oregon Supreme Court has held these terms are components of the same basic mental state, but that the "extreme indifference" language indicates more must be proved than mere recklessness.<a class="footnote" href="#fn4" id="fn4_ref">4</a>   Needless to say, the shades of legal meaning here are difficult even for English-speaking lawyers to differentiate.  We do not believe, therefore, that Henderson demands a rigid, technically precise translation of the terms mentioned.  However, if the general import of these terms was not adequately conveyed to Reyes, his nolo contendere plea was not knowing or voluntary.</p>
+    </div>
+    <div class="num" id="p15">
+      <span class="num">15</span>
+      <p class="indent">We repeat our recent admonition that " 'it may be appropriate to presume that in most cases defense counsel routinely explain the nature of the offense in sufficient detail to give the accused notice of what he is being asked to admit.' "    <span class="citation" data-id="543657"><span class="antecedent_guess">Bigman,</span> <a href="/opinion/543657/united-states-v-wilson-bigman/"><span class="volume">906</span> <span class="reporter">F.2d</span> at <span class="page">395</span> </a></span>(quoting <span class="citation" data-id="109492"><span class="antecedent_guess">Henderson,</span> <a href="/opinion/109492/henderson-v-morgan/"><span class="volume">426</span> <span class="reporter">U.S.</span> at <span class="page">647</span></a></span>, 96 S.Ct. at 2259);  cf. United States v. Goodheim, <span class="citation" data-id="407867"><a href="/opinion/407867/united-states-v-albert-james-goodheim/"><span class="volume">686</span> <span class="reporter">F.2d</span> <span class="page">776</span></a></span>, 777-78 (9th Cir.1982).  Without expressing a view of when this presumption should attach as a general matter, we believe it is of limited relevance to this case.  Even if we were to presume Hawk described to Reyes in English the mens rea element of manslaughter, there remains the critical issue of whether Sanchez accurately translated that communication.  Without an adequate translation, Hawk's advice in English, no matter how lucid and complete, would not satisfy Henderson.</p>
+    </div>
+    <div class="num" id="p16">
+      <span class="num">16</span>
+      <p class="indent">One might argue that whatever presumption exists concerning the completeness of attorneys' consultations with their clients should apply by extension to interpreters' translations of those communications.  We are unprepared however, at least in the circumstances of this case, to confer upon the State the benefit of such a double presumption.</p>
+    </div>
+    <div class="num" id="p17">
+      <span class="num">17</span>
+      <p class="indent">In sum, Reyes has alleged facts which, if proved, would establish a basis for habeas corpus relief.</p>
+    </div>
+    <div class="num" id="p18">
+      <span class="num">18</span>
+      <p class="indent">B. Translation of the Plea Form and Plea Proceeding</p>
+    </div>
+    <div class="num" id="p19">
+      <span class="num">19</span>
+      <p class="indent">Reyes's second claim is that Sanchez failed to translate accurately and completely (1) critical portions of the plea proceeding, and (2) the plea form he signed in advance of the proceeding.  As a result, Reyes asserts he had no idea what was happening at the hearing as the judge explained in English the nature of the impending plea and the rights he would waive by entering the plea.  He also had no idea what he had agreed to by signing the plea form.  In short, he did not understand that he was pleading nolo contendere to manslaughter and giving up his right to a jury trial.  Reyes thus alleges a second set of facts which, if proved, would establish a basis for habeas corpus relief.</p>
+    </div>
+    <p class="indent">C. Determinations Below</p>
+    <div class="num" id="p20">
+      <span class="num">20</span>
+      <p class="indent">The state post-conviction court issued the following findings:</p>
+    </div>
+    <div class="num" id="p21">
+      <span class="num">21</span>
+      <p class="indent">1.   Petitioner's plea of guilty<a class="footnote" href="#fn5" id="fn5_ref">5</a> was knowingly and voluntarily entered.</p>
+    </div>
+    <div class="num" id="p22">
+      <span class="num">22</span>
+      <p class="indent">2. Petitioner was properly served by an interpreter in the proceedings leading to his conviction.</p>
+    </div>
+    <div class="num" id="p23">
+      <span class="num">23</span>
+      <p class="indent">3. The interpreter correctly, fully and accurately translated the communications between Petitioner and his attorney.</p>
+    </div>
+    <div class="num" id="p24">
+      <span class="num">24</span>
+      <p class="indent">4. Petitioner has not sustained his burden of proof in regard to any of the allegations in his petition.</p>
+    </div>
+    <div class="num" id="p25">
+      <span class="num">25</span>
+      <p class="indent">5. Representation by counsel was reasonable and effective under the circumstances.</p>
+    </div>
+    <div class="num" id="p26">
+      <span class="num">26</span>
+      <p class="indent">The magistrate assumed Reyes's legal claims turned entirely on the credibility of his allegation that Sanchez "did not adequately translate the proceedings or convey the necessary information to [him]."  In other words, he assumed the plea form, the plea proceeding, and Reyes's consultations with Hawk would have apprised an English-speaking defendant of his rights and alternatives, and would have enabled him to enter an intelligent plea.<a class="footnote" href="#fn6" id="fn6_ref">6</a>   The problem, if any, was with Sanchez's translations at each of the critical steps.  The magistrate further found that the state post-conviction court's second and third findings, if accurate, were fatal to Reyes's allegation that the translations were insufficient.  Finally, he decided that the two findings should be accorded the presumption of correctness under section 2254(d), that Reyes had failed to establish an exception to that presumption, and that no evidentiary hearing was required to further explore the basis of his claims.<a class="footnote" href="#fn7" id="fn7_ref">7</a>   The district court adopted the magistrate's opinion in all respects.</p>
+    </div>
+    <p>II</p>
+    <div class="num" id="p27">
+      <span class="num">27</span>
+      <p>Applicability of Section 2254(d)'s Presumption of Correctness</p>
+    </div>
+    <div class="num" id="p28">
+      <span class="num">28</span>
+      <p class="indent">The state post-conviction court found (1) "[Reyes] was properly served by an interpreter in the proceedings leading to his conviction," and (2) "[t]he interpreter correctly, fully and accurately translated the communications between [Reyes] and his attorney."    Reyes argues as a threshold matter that these are not findings of fact and that therefore section 2254(d)'s presumption of correctness is inapplicable.  See 28 U.S.C. Sec. 2254(d) (1988);  Sumner v. Mata, <span class="citation" data-id="110382"><a href="/opinion/110382/sumner-v-mata/"><span class="volume">449</span> <span class="reporter">U.S.</span> <span class="page">539</span></a></span>, 546-47, <span class="citation" data-id="110382"><a href="/opinion/110382/sumner-v-mata/"><span class="volume">101</span> <span class="reporter">S. Ct.</span> <span class="page">764</span></a></span>, 768-69, <span class="citation" data-id="110382"><a href="/opinion/110382/sumner-v-mata/"><span class="volume">66</span> <span class="reporter">L. Ed. 2d</span> <span class="page">722</span> </a></span>(1981) (Sumner I ).    His argument is meritless, as the district court found.</p>
+    </div>
+    <div class="num" id="p29">
+      <span class="num">29</span>
+      <p class="indent">It is true that a state court's ultimate conclusion that a guilty plea was voluntarily and knowingly entered is a legal one, and is not presumed correct under section 2254(d).  Marshall v. Lonberger, <span class="citation" data-id="110828"><a href="/opinion/110828/marshall-v-lonberger/"><span class="volume">459</span> <span class="reporter">U.S.</span> <span class="page">422</span></a></span>, 431-32, <span class="citation" data-id="110828"><a href="/opinion/110828/marshall-v-lonberger/"><span class="volume">103</span> <span class="reporter">S. Ct.</span> <span class="page">843</span></a></span>, 849, <span class="citation" data-id="110828"><a href="/opinion/110828/marshall-v-lonberger/"><span class="volume">74</span> <span class="reporter">L. Ed. 2d</span> <span class="page">646</span> </a></span>(1983).  But the state court's finding in this case that Sanchez did an accurate and complete job of translating is purely one of "historical" fact.  Reyes bristles at this suggestion, apparently because he believes a finding that is largely dispositive of a legal claim necessarily is one of law.  The Supreme Court has observed, however, that "an issue does not lose its factual character merely because its resolution is dispositive of the ultimate constitutional question."    Miller v. Fenton, <span class="citation" data-id="111542"><a href="/opinion/111542/miller-v-fenton/"><span class="volume">474</span> <span class="reporter">U.S.</span> <span class="page">104</span></a></span>, 113, <span class="citation" data-id="111542"><a href="/opinion/111542/miller-v-fenton/"><span class="volume">106</span> <span class="reporter">S. Ct.</span> <span class="page">445</span></a></span>, 451, <span class="citation" data-id="111542"><a href="/opinion/111542/miller-v-fenton/"><span class="volume">88</span> <span class="reporter">L. Ed. 2d</span> <span class="page">405</span> </a></span>(1985).  We therefore agree with the district court that the presumption of correctness applies here.  As we explain, however, Reyes states an exception to the presumption on the first of his legal claims.</p>
+    </div>
+    <p>III</p>
+    <div class="num" id="p30">
+      <span class="num">30</span>
+      <p>Whether an Exception to Section 2254(d)'s Presumption</p>
+    </div>
+    <div class="num" id="p31">
+      <span class="num">31</span>
+      <p>Applies and Whether a Federal Evidentiary Hearing</p>
+    </div>
+    <div class="num" id="p32">
+      <span class="num">32</span>
+      <p>is Required</p>
+    </div>
+    <div class="num" id="p33">
+      <span class="num">33</span>
+      <p class="indent">A. The Relationship Between Townsend and Section 2254(d)</p>
+    </div>
+    <div class="num" id="p34">
+      <span class="num">34</span>
+      <p class="indent">Courts traditionally have relied on Townsend v. Sain, <span class="citation" data-id="106544"><a href="/opinion/106544/townsend-v-sain/"><span class="volume">372</span> <span class="reporter">U.S.</span> <span class="page">293</span></a></span>, <span class="citation" data-id="106544"><a href="/opinion/106544/townsend-v-sain/"><span class="volume">83</span> <span class="reporter">S. Ct.</span> <span class="page">745</span></a></span>, <span class="citation" data-id="106544"><a href="/opinion/106544/townsend-v-sain/"><span class="volume">9</span> <span class="reporter">L. Ed. 2d</span> <span class="page">770</span> </a></span>(1963), in determining whether a federal evidentiary hearing is required in a habeas corpus case.<a class="footnote" href="#fn8" id="fn8_ref">8</a>   Townsend, decided before Congress enacted section 2254(d), requires a federal evidentiary hearing in a habeas corpus case under the following circumstances:</p>
+    </div>
+    <div class="num" id="p35">
+      <span class="num">35</span>
+      <p>If (1) the merits of the factual dispute were not resolved in the state hearing;  (2) the state factual determination is not fairly supported by the record as a whole;  (3) the fact-finding procedure employed by the state court was not adequate to afford a full and fair hearing;  (4) there is a substantial allegation of newly discovered evidence;  (5) the material facts were not adequately developed at the state court hearing;  or (6) for any reason it appears that the state trier of fact did not afford the habeas applicant a full and fair fact hearing.</p>
+    </div>
+    <div class="num" id="p36">
+      <span class="num">36</span>
+      <p class="indent"><span class="citation" data-id="106544"><span class="antecedent_guess">Townsend,</span> <a href="/opinion/106544/townsend-v-sain/"><span class="volume">372</span> <span class="reporter">U.S.</span> at <span class="page">313</span></a></span>, 83 S.Ct. at 757.    A glance at section 2254(d) reveals Congress incorporated these six circumstances into its list of eight exceptions to the presumption of correctness.  28 U.S.C. Sec. 2254(d) (1988).<a class="footnote" href="#fn9" id="fn9_ref">9</a>   Indeed, the Supreme Court has observed that in enacting section 2254(d) Congress "codified" the criteria set forth in Townsend.    See Miller v. Fenton, <span class="citation" data-id="111542"><a href="/opinion/111542/miller-v-fenton/"><span class="volume">474</span> <span class="reporter">U.S.</span> <span class="page">104</span></a></span>, 111, <span class="citation" data-id="111542"><a href="/opinion/111542/miller-v-fenton/"><span class="volume">106</span> <span class="reporter">S. Ct.</span> <span class="page">445</span></a></span>, 450, <span class="citation" data-id="111542"><a href="/opinion/111542/miller-v-fenton/"><span class="volume">88</span> <span class="reporter">L. Ed. 2d</span> <span class="page">405</span> </a></span>(1985);  Patton v. Yount, <span class="citation" data-id="111228"><a href="/opinion/111228/patton-v-yount/"><span class="volume">467</span> <span class="reporter">U.S.</span> <span class="page">1025</span></a></span>, 1031 n. 7, <span class="citation" data-id="111228"><a href="/opinion/111228/patton-v-yount/"><span class="volume">104</span> <span class="reporter">S. Ct.</span> <span class="page">2885</span></a></span>, 2889 n. 7, <span class="citation" data-id="111228"><a href="/opinion/111228/patton-v-yount/"><span class="volume">81</span> <span class="reporter">L. Ed. 2d</span> <span class="page">847</span> </a></span>(1984);  Brewer v. Williams, <span class="citation" data-id="109624"><a href="/opinion/109624/brewer-v-williams/"><span class="volume">430</span> <span class="reporter">U.S.</span> <span class="page">387</span></a></span>, 395, <span class="citation" data-id="109624"><a href="/opinion/109624/brewer-v-williams/"><span class="volume">97</span> <span class="reporter">S. Ct.</span> <span class="page">1232</span></a></span>, 1237-38, <span class="citation" data-id="109624"><a href="/opinion/109624/brewer-v-williams/"><span class="volume">51</span> <span class="reporter">L. Ed. 2d</span> <span class="page">424</span> </a></span>(1977);  cf. Cuyler v. Sullivan, <span class="citation" data-id="110256"><a href="/opinion/110256/cuyler-v-sullivan/"><span class="volume">446</span> <span class="reporter">U.S.</span> <span class="page">335</span></a></span>, 341, <span class="citation" data-id="110256"><a href="/opinion/110256/cuyler-v-sullivan/"><span class="volume">100</span> <span class="reporter">S. Ct.</span> <span class="page">1708</span></a></span>, 1714, <span class="citation" data-id="110256"><a href="/opinion/110256/cuyler-v-sullivan/"><span class="volume">64</span> <span class="reporter">L. Ed. 2d</span> <span class="page">333</span> </a></span>(1980) (stating Townsend was the "precursor" to section 2254(d)).<a class="footnote" href="#fn10" id="fn10_ref">10</a></p>
+    </div>
+    <div class="num" id="p37">
+      <span class="num">37</span>
+      <p class="indent">Based on a comment in Justice Marshall's dissent in LaVallee v. Delle Rose, <span class="citation" data-id="108743"><a href="/opinion/108743/lavallee-v-delle-rose/"><span class="volume">410</span> <span class="reporter">U.S.</span> <span class="page">690</span></a></span>, 701 n. 2, <span class="citation" data-id="108743"><a href="/opinion/108743/lavallee-v-delle-rose/"><span class="volume">93</span> <span class="reporter">S. Ct.</span> <span class="page">1203</span></a></span>, 1209 n. 2, <span class="citation" data-id="108743"><a href="/opinion/108743/lavallee-v-delle-rose/"><span class="volume">35</span> <span class="reporter">L. Ed. 2d</span> <span class="page">637</span> </a></span>(1973) (per curiam), several courts have reasoned that Townsend and its progeny control whether an evidentiary hearing is required, while section 2254(d) merely governs the burden of proof at such a hearing.<a class="footnote" href="#fn11" id="fn11_ref">11</a>   See Thomas v. Zant, <span class="citation" data-id="413198"><a href="/opinion/413198/joseph-thomas-v-walter-d-zant-warden-georgia-diagnostic-and/"><span class="volume">697</span> <span class="reporter">F.2d</span> <span class="page">977</span></a></span>, 984-85 (11th Cir.1983);  Fowler v. Jago, <span class="citation" data-id="406466"><a href="/opinion/406466/craig-fowler-charles-jordan-and-larry-johnson-v-a-r-jago/"><span class="volume">683</span> <span class="reporter">F.2d</span> <span class="page">983</span></a></span>, 988 (6th Cir.1982), cert. denied, <span class="citation" data-id="110911"><a href="/opinion/110911/lawrence-a-meachum-v-norman-longval/"><span class="volume">460</span> <span class="reporter">U.S.</span> <span class="page">1098</span></a></span>, <span class="citation no-link"><span class="volume">103</span> <span class="reporter">S. Ct.</span> <span class="page">1798</span></span>, <span class="citation no-link"><span class="volume">76</span> <span class="reporter">L. Ed. 2d</span> <span class="page">363</span> </span>(1983);  see also Richmond v. Ricketts, <span class="citation" data-id="459051"><a href="/opinion/459051/willie-lee-richmond-v-james-ricketts/"><span class="volume">774</span> <span class="reporter">F.2d</span> <span class="page">957</span></a></span>, 961 (9th Cir.1985).  While this may be true as a matter of form, it is still the case that the same basic criteria generally are employed in both the Townsend and section 2254(d) inquiries.<a class="footnote" href="#fn12" id="fn12_ref">12</a>   In most cases, though not in all, the inquiries will merge.<a class="footnote" href="#fn13" id="fn13_ref">13</a></p>
+    </div>
+    <div class="num" id="p38">
+      <span class="num">38</span>
+      <p class="indent">B. Translation of the Mens Rea Element of Manslaughter</p>
+    </div>
+    <div class="num" id="p39">
+      <span class="num">39</span>
+      <p class="indent">Reyes argues three exceptions to section 2254(d) apply to this case, and that we should therefore not presume correct the state court's implicit finding that Sanchez translated for Reyes the mens rea element of Manslaughter in the First Degree.  He also claims under the parallel criteria in Townsend that an evidentiary hearing is required to explore the validity of his plea.</p>
+    </div>
+    <div class="num" id="p40">
+      <span class="num">40</span>
+      <p>(1) 28 U.S.C. Sec. 2254(d)(6) and Townsend's Sixth</p>
+    </div>
+    <p>Circumstance</p>
+    <div class="num" id="p41">
+      <span class="num">41</span>
+      <p class="indent">Section 2254(d)'s presumption will not apply if the petitioner "did not receive a full, fair, and adequate hearing in the State court proceeding."    28 U.S.C. Sec. 2254(d)(6) (1988).  Likewise, under <span class="citation" data-id="106544"><span class="antecedent_guess">Townsend,</span> <a href="/opinion/106544/townsend-v-sain/"><span class="volume">372</span> <span class="reporter">U.S.</span> at <span class="page">313</span></a></span>, 83 S.Ct. at 757, a petitioner is entitled to a federal evidentiary hearing if "for any reason it appears that the state trier of fact did not afford [him] a full and fair fact hearing."    We consider these tests to be coextensive.  Cf. Harris v. Pulley, <span class="citation" data-id="410972"><a href="/opinion/410972/robert-alton-harris-v-r-pulley-warden-of-the-california-state-prison-at/"><span class="volume">692</span> <span class="reporter">F.2d</span> <span class="page">1189</span></a></span>, 1197 (9th Cir.1982), rev'd on other grounds, <span class="citation" data-id="111092"><a href="/opinion/111092/pulley-v-harris/"><span class="volume">465</span> <span class="reporter">U.S.</span> <span class="page">37</span></a></span>, <span class="citation" data-id="111092"><a href="/opinion/111092/pulley-v-harris/"><span class="volume">104</span> <span class="reporter">S. Ct.</span> <span class="page">871</span></a></span>, <span class="citation" data-id="111092"><a href="/opinion/111092/pulley-v-harris/"><span class="volume">79</span> <span class="reporter">L. Ed. 2d</span> <span class="page">29</span> </a></span>(1984) (implying the tests are the same);  Fritz v. Spalding, <span class="citation" data-id="406133"><a href="/opinion/406133/lewis-donald-fritz-v-james-spalding/"><span class="volume">682</span> <span class="reporter">F.2d</span> <span class="page">782</span></a></span>, 785 (9th Cir.1982) (same);  Finklea v. Estelle, <span class="citation" data-id="323101"><a href="/opinion/323101/harold-lloyd-finklea-v-w-j-estelle-jr-director-texas-department-of/"><span class="volume">506</span> <span class="reporter">F.2d</span> <span class="page">438</span></a></span>, 440 (5th Cir.1975) (same).</p>
+    </div>
+    <div class="num" id="p42">
+      <span class="num">42</span>
+      <p class="indent">In the state post-conviction court, Reyes was represented by counsel and was provided with a full-blown hearing to contest his nolo contendere plea.  His attorney, Mr. Ronald Hellewell, was permitted to introduce evidence and examine and cross-examine witnesses.  There is no indication the court restricted Hellewell's ability to present the case, and Reyes points to no other defects in the proceeding which suggest it was not full and fair.  Section 2254(d)(6) and Townsend's sixth circumstance therefore do not apply.<a class="footnote" href="#fn14" id="fn14_ref">14</a></p>
+    </div>
+    <div class="num" id="p43">
+      <span class="num">43</span>
+      <p>(2) Section 2254(d)(3) and Townsend's Fifth Circumstance</p>
+    </div>
+    <div class="num" id="p44">
+      <span class="num">44</span>
+      <p class="indent">Section 2254(d)(3) provides that the presumption of correctness will not apply where "the material facts were not adequately developed at the State court hearing."    28 U.S.C. Sec. 2254(d)(3) (1988).  Like section 2254(d)(3), Townsend's fifth circumstance requires a petitioner to show "the material facts were not adequately developed at the state court hearing...."  <span class="citation" data-id="106544"><span class="antecedent_guess">Townsend,</span> <a href="/opinion/106544/townsend-v-sain/"><span class="volume">372</span> <span class="reporter">U.S.</span> at <span class="page">313</span></a></span>, 83 S.Ct. at 757.    Townsend also requires, however, that the petitioner demonstrate the failure to develop material facts was not due to his "inexcusable neglect."    <span class="citation" data-id="106544"><a href="/opinion/106544/townsend-v-sain/"><span class="id_token">Id.</span> at 317, </a></span>83 S.Ct. at 759.    Only then is the petitioner entitled to an evidentiary hearing.  Section 2254(d)(3) and Townsend's fifth circumstance are not coextensive, and thus our inquiry is twofold. See Smith v. Freeman, <span class="citation" data-id="534208"><a href="/opinion/534208/smith-jerry-lee-v-freeman-robert-f-superintendent-and-the-attorney/"><span class="volume">892</span> <span class="reporter">F.2d</span> <span class="page">331</span></a></span>, 338-39, 339 n. 13 (3d Cir.1989);  Streetman v. Lynaugh, <span class="citation" data-id="483844"><a href="/opinion/483844/robert-l-streetman-v-james-a-lynaugh-interim-director-texas-department/"><span class="volume">812</span> <span class="reporter">F.2d</span> <span class="page">950</span></a></span>, 959 (5th Cir.1987);  Tucker v. Kemp, <span class="citation" data-id="460986"><a href="/opinion/460986/richard-tucker-v-ralph-kemp-warden-georgia-diagnostic-and-classification/"><span class="volume">776</span> <span class="reporter">F.2d</span> <span class="page">1487</span></a></span>, 1491 (11th Cir.1985), cert. denied, <span class="citation no-link"><span class="volume">478</span> <span class="reporter">U.S.</span> <span class="page">1022</span></span>, <span class="citation no-link"><span class="volume">106</span> <span class="reporter">S. Ct.</span> <span class="page">3340</span></span>, <span class="citation no-link"><span class="volume">92</span> <span class="reporter">L. Ed. 2d</span> <span class="page">743</span> </span>(1986);  Thomas v. Zant, <span class="citation" data-id="413198"><a href="/opinion/413198/joseph-thomas-v-walter-d-zant-warden-georgia-diagnostic-and/"><span class="volume">697</span> <span class="reporter">F.2d</span> <span class="page">977</span></a></span>, 986 (11th Cir.1983).<a class="footnote" href="#fn15" id="fn15_ref">15</a></p>
+    </div>
+    <div class="num" id="p45">
+      <span class="num">45</span>
+      <p class="indent">We must first determine whether the material facts supporting Reyes's legal claim were adequately developed in the state post-conviction court.  As we explain, we believe the material facts were not adequately developed.<a class="footnote" href="#fn16" id="fn16_ref">16</a></p>
+    </div>
+    <div class="num" id="p46">
+      <span class="num">46</span>
+      <p class="indent">The evidence submitted to the state post-conviction court consisted of a transcript of the plea proceeding, Sanchez's deposition and affidavit, and Hawk's affidavit.  Reyes was the only person who testified.  The hearing focused on Sanchez's translation of the plea form and plea proceeding.  There was almost no factual development of Reyes's claim that Sanchez had failed to translate the mens rea element of Manslaughter in the First Degree.  Mr. Hellewell, Reyes's post-conviction attorney, merely directed the court's attention to various sections of Sanchez's deposition, attempting with his limited knowledge of Spanish to point out the inadequacies of Sanchez's translations.  The State objected to Hellewell's discussion on the ground that he was not qualified as an expert witness, and Hellewell's presentation of the issue quickly disintegrated.</p>
+    </div>
+    <div class="num" id="p47">
+      <span class="num">47</span>
+      <p class="indent">Even if Hellewell had been able to make sense of the information contained in the deposition, that information was inadequate to resolve the legal issue presented.  In the deposition Sanchez was asked how he had defined manslaughter for Reyes.  He replied he had translated it as "less than murder."    On further questioning, Sanchez could not remember how he had translated the term "indifference."    Moreover, Sanchez was never even asked how he had translated the term "recklessness."</p>
+    </div>
+    <div class="num" id="p48">
+      <span class="num">48</span>
+      <p class="indent">The following passage from the record of the post-conviction hearing details Mr. Hellewell's attempt to make use of the deposition:</p>
+    </div>
+    <div class="num" id="p49">
+      <span class="num">49</span>
+      <p>[Hellewell:]  Also in the deposition of Mr. Sanchez on page 11 and 12 there was an exchange there between himself and me concerning vocabulary for these terms.  The two most important terms under consideration while this case was being considered at the trial level were murder and manslaughter.  Those terms are quite difficult to understand to someone not schooled in the law and having a precise legal definition.  Furthermore, they are not capable of interpretation in the Spanish language by any single word because they--</p>
+    </div>
+    <div class="num" id="p50">
+      <span class="num">50</span>
+      <p>[The State:]  Your Honor, I'm going to have to object to this unless Mr. Hellewell's putting himself forth as an expert witness.  He's trying to provide this Court with testimony in regard to the application of the Spanish language, and I don't think that's proper.</p>
+    </div>
+    <div class="num" id="p51">
+      <span class="num">51</span>
+      <p>[The Court:]  The Court is aware of Mr. Hellewell's ability to communicate in the Spanish language.</p>
+    </div>
+    <div class="num" id="p52">
+      <span class="num">52</span>
+      <p>[The State:]  However, Your Honor, we could bring in I don't know how many experts that we can bring in, if he wants to present himself as a witness to talk about what the terms mean that are put down here.  He's contesting this witness's ability to interpret by his own interpretations, and unless he's going to go on the record as a witness to do that, which he's already rested, then that's fine, but he can't sit here and say what the meaning of Spanish words are that Mr. Sanchez has translated in his deposition.</p>
+    </div>
+    <div class="num" id="p53">
+      <span class="num">53</span>
+      <p>[The Court:]  Does this appear in the evidence anywhere?</p>
+    </div>
+    <div class="num" id="p54">
+      <span class="num">54</span>
+      <p>[Mr. Hellewell:]  Yes, Your Honor.  I can solve this problem by relying strictly on the words printed here in the transcript beginning at line 3 on page 11.  Mr. Sanchez replied, "Murder, that he had killed somebody without the right to do so."    I'd like the Court to be aware that that is a fairly complete but not entirely complete description of the term as we use it in our statutes.  Then moving down to the foot of that page, Mr. Sanchez did explain those same words in Spanish spelling the words for the reporter.</p>
+    </div>
+    <div class="num" id="p55">
+      <span class="num">55</span>
+      <p class="indent">Moving to page 13, beginning at line 8, I asked him to describe his word for manslaughter.  He responded on line 9 in Spanish that then he himself translated to English "that it was less than murder."</p>
+    </div>
+    <div class="num" id="p56">
+      <span class="num">56</span>
+      <p class="indent">I submit to the Court that that is a very brief, very incomplete description of the term for manslaughter.</p>
+    </div>
+    <div class="num" id="p57">
+      <span class="num">57</span>
+      <p class="indent">Following on that page is his spelling for the reporter in Spanish of the words used, but his interpretation is there on line 9, that it was less than murder.</p>
+    </div>
+    <div class="num" id="p58">
+      <span class="num">58</span>
+      <p>[The Court:]  But you just referred to page 13, and I think you were actually on page 12.</p>
+    </div>
+    <div class="num" id="p59">
+      <span class="num">59</span>
+      <p>[Mr. Hellewell:]  Oh, yes.  I beg your pardon.  Page 12.</p>
+    </div>
+    <div class="num" id="p60">
+      <span class="num">60</span>
+      <p>.    .    .    .    .</p>
+    </div>
+    <div class="num" id="p61">
+      <span class="num">61</span>
+      <p class="indent">Mr. Hellewell's brief and unilluminating reference to the Sanchez deposition hardly indicates the material facts surrounding Reyes's claim were adequately developed.  Hellewell could have developed these facts by a number of means, but did not.  For instance, Hellewell did not call Sanchez to testify.<a class="footnote" href="#fn17" id="fn17_ref">17</a>   Nor did he call an expert witness to give an opinion on the accuracy of Sanchez's interpretations.  Most strikingly, though Hellewell put Reyes on the stand, he did not ask him any questions relevant to the claim.<a class="footnote" href="#fn18" id="fn18_ref">18</a>   The colloquy quoted above, and Sanchez's deposition, constituted the chief evidence before the court.  This evidence sheds little light on whether the mens rea element of manslaughter was correctly defined for Reyes.  Thus, under section 2254(d)(3), the material facts relevant to Reyes's claim were not adequately developed, and the presumption of correctness does not apply here.</p>
+    </div>
+    <div class="num" id="p62">
+      <span class="num">62</span>
+      <p class="indent">Nevertheless, under Townsend, Reyes is not entitled to a federal evidentiary hearing if the failure to develop the facts adequately is attributable to his "inexcusable neglect."    Townsend, 372 U.S. at <span class="citation" data-id="106544"><span class="antecedent_guess">317,</span> <a href="/opinion/106544/townsend-v-sain/"><span class="volume">83</span> <span class="reporter">S. Ct.</span> at <span class="page">759</span></a></span>.    The district court found such neglect, but we believe it applied the wrong legal standard in reaching this conclusion.</p>
+    </div>
+    <div class="num" id="p63">
+      <span class="num">63</span>
+      <p class="indent">At first blush, it might seem that every negligent failure of counsel to develop material facts is "inexcusable."    But Townsend and the circuit cases interpreting it establish the contrary.</p>
+    </div>
+    <div class="num" id="p64">
+      <span class="num">64</span>
+      <p class="indent">The Townsend Court defined "inexcusable neglect" by reference to the standard for procedural default articulated in Fay v. Noia, <span class="citation" data-id="106548"><a href="/opinion/106548/fay-v-noia/"><span class="volume">372</span> <span class="reporter">U.S.</span> <span class="page">391</span></a></span>, 438-39, <span class="citation" data-id="106548"><a href="/opinion/106548/fay-v-noia/"><span class="volume">83</span> <span class="reporter">S. Ct.</span> <span class="page">822</span></a></span>, 848-49, <span class="citation" data-id="106548"><a href="/opinion/106548/fay-v-noia/"><span class="volume">9</span> <span class="reporter">L. Ed. 2d</span> <span class="page">837</span> </a></span>(1963).  Townsend, 372 U.S. at <span class="citation" data-id="106544"><span class="antecedent_guess">317,</span> <a href="/opinion/106544/townsend-v-sain/"><span class="volume">83</span> <span class="reporter">S. Ct.</span> at <span class="page">759</span></a></span>.    Thus, inexcusable neglect will be found only where the petitioner has "deliberately by-passed the orderly procedure of the state courts."    <span class="citation" data-id="106548"><span class="antecedent_guess">Fay,</span> <a href="/opinion/106548/fay-v-noia/"><span class="volume">372</span> <span class="reporter">U.S.</span> at <span class="page">438</span></a></span>, 83 S.Ct. at 848 (emphasis supplied).  A "deliberate by-pass" occurs when</p>
+    </div>
+    <div class="num" id="p65">
+      <span class="num">65</span>
+      <p>a habeas applicant, after consultation with competent counsel or otherwise, understandingly and knowingly forwent the privilege of seeking to vindicate his federal claims in the state courts, whether for strategic, tactical, or any other reasons that can fairly be described as the deliberate by-passing of state procedures....</p>
+    </div>
+    <p class="indent"><span class="citation no-link"><span class="id_token">Id.</span> at 439, </span>83 S.Ct. at 849.<a class="footnote" href="#fn19" id="fn19_ref">19</a></p>
+    <div class="num" id="p66">
+      <span class="num">66</span>
+      <p class="indent">Townsend illustrates the narrowness of this standard.  In Townsend, petitioner had confessed to murder after being injected with a drug that arguably rendered his confession involuntary.  In the state court, petitioner's counsel did not adequately develop the fact that this drug had "truth serum" properties.  Some testimony was adduced concerning the drug, but not enough to enable the court to grasp its true nature.  Because this factual development was crucial to petitioner's constitutional claim, he was held to have passed the first prong of the test.  Applying the inexcusable neglect prong, the Court stated:  "And the medical expert's failure to testify fully cannot realistically be regarded as Townsend's inexcusable default."    <span class="citation" data-id="106544"><span class="antecedent_guess">Townsend,</span> <a href="/opinion/106544/townsend-v-sain/"><span class="volume">372</span> <span class="reporter">U.S.</span> at <span class="page">322</span></a></span>, 83 S.Ct. at 762.    Cases interpreting Townsend have reasoned that this statement indicates mere negligent failure to develop the facts adequately will not constitute inexcusable neglect.</p>
+    </div>
+    <div class="num" id="p67">
+      <span class="num">67</span>
+      <p class="indent">In Streetman v. Lynaugh, <span class="citation" data-id="483844"><a href="/opinion/483844/robert-l-streetman-v-james-a-lynaugh-interim-director-texas-department/"><span class="volume">812</span> <span class="reporter">F.2d</span> <span class="page">950</span> </a></span>(5th Cir.1987), for instance, petitioner's counsel in state court was unprepared to conduct the habeas case and therefore failed to develop crucial facts bearing on the voluntariness of petitioner's confessions.  The court held this was not inexcusable neglect, observing that "[i]t is well established that counsel's failure to marshall crucial evidence underlying a federal claim because of insufficient preparation or other neglect does not constitute a deliberate bypass."    <span class="citation" data-id="483844"><a href="/opinion/483844/robert-l-streetman-v-james-a-lynaugh-interim-director-texas-department/"><span class="id_token">Id.</span> at 960. </a></span>   Likewise, in Guice v. Fortenberry, <span class="citation" data-id="395317"><a href="/opinion/395317/billy-guice-and-howard-claxton-sr-v-ray-fortenberry-superintendent/"><span class="volume">661</span> <span class="reporter">F.2d</span> <span class="page">496</span></a></span>, 507 (5th Cir.1981), the court could not discern from the record why counsel had failed to develop certain facts, but it concluded there had been no tactical decision to avoid presenting the evidence:</p>
+    </div>
+    <div class="num" id="p68">
+      <span class="num">68</span>
+      <p>It appears more likely that, based on the inartful and scattershot nature of the various motions, the defendants and their attorneys did not appreciate fully the relevance of the missing evidence.  Such neglect is not inexcusable within the meaning of Fay v. Noia.</p>
+    </div>
+    <div class="num" id="p69">
+      <span class="num">69</span>
+      <p class="indent">Id.;  see also Smith v. Freeman, <span class="citation" data-id="534208"><a href="/opinion/534208/smith-jerry-lee-v-freeman-robert-f-superintendent-and-the-attorney/"><span class="volume">892</span> <span class="reporter">F.2d</span> <span class="page">331</span></a></span>, 340 (3d Cir.1989);  Rogers v. Israel, <span class="citation" data-id="443257"><a href="/opinion/443257/walter-rogers-v-thomas-israel/"><span class="volume">746</span> <span class="reporter">F.2d</span> <span class="page">1288</span></a></span>, 1295 n. 7 (7th Cir.1984).  We follow the decisions in these cases.<a class="footnote" href="#fn20" id="fn20_ref">20</a></p>
+    </div>
+    <div class="num" id="p70">
+      <span class="num">70</span>
+      <p class="indent">In the present case, the magistrate recognized Reyes had asserted in his habeas petition that Hellewell " 'simply failed to realize that the record of the Spanish translation he was creating was inadequate [for the post-conviction court] to evaluate Mr. Sanchez's performance.' "    Again, in his written objections to the magistrate's recommendation, Reyes stated:</p>
+    </div>
+    <div class="num" id="p71">
+      <span class="num">71</span>
+      <p>If there is anything clear from the record in this case, it is that petitioner made no knowing and intelligent decision not to offer fully developed testimony regarding the failures of Mr. Sanchez's attempts at translation during the post-conviction proceedings.  Postconviction counsel clearly made attempts to develop the record as recounted in petitioner's previous submissions to this court.  Those efforts were woefully inadequate.  A simple reading of the transcript of the post-conviction trial, without more, reveals both the inadequacy, and the clear lack of any willful design to bypass state procedure.</p>
+    </div>
+    <div class="num" id="p72">
+      <span class="num">72</span>
+      <p class="indent">It appears the magistrate and district court acknowledged the truth of these allegations, but held that, even if Hellewell was simply negligent in failing to develop the facts, this could amount to inexcusable neglect.  They erred in this respect.  The standard for inexcusable neglect is deliberate bypass, and the case authority we have discussed demonstrates that a counsel's negligent failure to develop the facts does not constitute a deliberate bypass.</p>
+    </div>
+    <div class="num" id="p73">
+      <span class="num">73</span>
+      <p class="indent">Accordingly, we hold Reyes is entitled to a federal evidentiary hearing on the question whether the mens rea element of Manslaughter in the First Degree was properly explained to him.<a class="footnote" href="#fn21" id="fn21_ref">21</a></p>
+    </div>
+    <div class="num" id="p74">
+      <span class="num">74</span>
+      <p class="indent">In cases where the presumption of correctness applies, a petitioner at an evidentiary hearing must "establish by convincing evidence that the factual determination by the State court was erroneous."    28 U.S.C. Sec. 2254(d) (1988).  But where, as here, the presumption has been rebutted, the petitioner need only prove his constitutional claim by a preponderance of the evidence.  See Smith v. Freeman, <span class="citation" data-id="534208"><a href="/opinion/534208/smith-jerry-lee-v-freeman-robert-f-superintendent-and-the-attorney/"><span class="volume">892</span> <span class="reporter">F.2d</span> <span class="page">331</span></a></span>, 341 (3d Cir.1989);  Thomas v. Zant, <span class="citation" data-id="413198"><a href="/opinion/413198/joseph-thomas-v-walter-d-zant-warden-georgia-diagnostic-and/"><span class="volume">697</span> <span class="reporter">F.2d</span> <span class="page">977</span></a></span>, 989 (11th Cir.1983).</p>
+    </div>
+    <div class="num" id="p75">
+      <span class="num">75</span>
+      <p class="indent">C. Translation of the Plea Form and Plea Proceeding</p>
+    </div>
+    <div class="num" id="p76">
+      <span class="num">76</span>
+      <p class="indent">Reyes's second constitutional claim is that Sanchez did not adequately translate the plea form and the plea proceeding.</p>
+    </div>
+    <div class="num" id="p77">
+      <span class="num">77</span>
+      <p class="indent">Our review of the record convinces us that none of the three asserted exceptions to section 2254(d), or their analogs in Townsend, is available.  First, the state post-conviction court afforded Reyes ample opportunity to contest the translations of the plea form and plea proceeding.  See 28 U.S.C. Sec. 2254(d)(6) (1988), and Townsend's sixth circumstance.  Second, the material facts surrounding these two issues were adequately developed.  See 28 U.S.C. Sec. 2254(d)(3) (1988), and Townsend's fifth circumstance.  Third, the state court's findings here are fairly supported by the record.  See 28 U.S.C. Sec. 2254(d)(8) (1988), and Townsend's second circumstance.  A federal evidentiary hearing is not necessary to explore this claim further.</p>
+    </div>
+    <div class="num" id="p78">
+      <span class="num">78</span>
+      <p class="indent">AFFIRMED IN PART, REVERSED IN PART, AND REMANDED.</p>
+    </div>
+    <div class="footnotes">
+      <div class="footnote" id="fn1">
+        <a class="footnote" href="#fn1_ref">1</a>
+        <p> As we explain, we believe this last claim should be resolved by a federal evidentiary hearing</p>
+      </div>
+      <div class="footnote" id="fn2">
+        <a class="footnote" href="#fn2_ref">2</a>
+        <p> Reyes advanced two ineffective assistance of counsel claims in the state post-conviction court.  When Reyes raised the claims again in the district court, the magistrate noted he arguably had failed to assert them in the state court of appeals.  The magistrate overlooked the exhaustion defect, however, because he believed his denial of Reyes's claim that the plea was unconstitutional necessarily disposed of the ineffective assistance of counsel claims.  On appeal, Reyes makes a single oblique reference to ineffective assistance of counsel, prompting the State to argue he has abandoned these claims.  Reyes does not respond to this contention in his reply brief so we treat the ineffective assistance of counsel issues as abandoned</p>
+      </div>
+      <div class="footnote" id="fn3">
+        <a class="footnote" href="#fn3_ref">3</a>
+        <p> A nolo contendere plea is equivalent to a guilty plea in this context.  See <span class="citation" data-id="108215"><span class="antecedent_guess">Alford,</span> <a href="/opinion/108215/north-carolina-v-alford/"><span class="volume">400</span> <span class="reporter">U.S.</span> at <span class="page">37</span></a></span>, 91 S.Ct. at 167;  see also Wallace v. Turner, <span class="citation" data-id="411809"><a href="/opinion/411809/abraham-wallace-v-r-v-turner-superintendent-glades-correction/"><span class="volume">695</span> <span class="reporter">F.2d</span> <span class="page">545</span></a></span>, 548 (11th Cir.1983)</p>
+      </div>
+      <div class="footnote" id="fn4">
+        <a class="footnote" href="#fn4_ref">4</a>
+        <p> Oregon defines "recklessly" as meaning:</p>
+        <p>[T]hat a person is aware of and consciously disregards a substantial and unjustifiable risk that the result will occur or that the circumstance exists.  The risk must be of such nature and degree that disregard thereof constitutes a gross deviation from the standard of care that a reasonable person would observe in the situation.</p>
+        <p>Or.Rev.Stat. Sec. 161.085(9) (1989).</p>
+        <p>The term "extreme indifference" is not defined in the statute, but has been interpreted by the Oregon Supreme Court:</p>
+        <p>The Oregon Criminal Code defines four culpable mental states:  intentional, knowing, reckless and criminally negligent.  ORS 161.085(7)-(10).  These statutes define neither extreme indifference to the value of human life nor the circumstances which may manifest such indifference.  In the absence of a definition we determine the extreme indifference language does not create an additional culpable mental state.  The language does, however, require more than recklessness.  We conclude that the jury must find not only recklessness but also conduct which in addition to recklessness, manifests extreme indifference to the value of human life on the part of this defendant, as may be inferred from his conduct at the time of the event.</p>
+        <p>State v. Boone, <span class="citation" data-id="1178229"><a href="/opinion/1178229/state-v-boone/"><span class="volume">294</span> <span class="reporter">Or.</span> <span class="page">630</span></a></span>, <span class="citation" data-id="1178229"><a href="/opinion/1178229/state-v-boone/"><span class="volume">661</span> <span class="reporter">P.2d</span> <span class="page">917</span></a></span>, 919 (1983) (footnotes omitted).</p>
+      </div>
+      <div class="footnote" id="fn5">
+        <a class="footnote" href="#fn5_ref">5</a>
+        <p> The court here incorrectly labeled Reyes's nolo contendere plea a "plea of guilty."</p>
+      </div>
+      <div class="footnote" id="fn6">
+        <a class="footnote" href="#fn6_ref">6</a>
+        <p> We note that this assumption is itself questionable.  There is little evidence in the record bearing on whether Reyes was afforded even an English language description of the mens rea element of manslaughter.  We conclude later in this opinion that Reyes is entitled to a federal evidentiary hearing on whether Sanchez translated the mens rea element for him.  At this hearing it shall be open to Reyes to challenge the premise that he was informed in English of this element, whether by his attorney, by the judge in the plea proceeding, or by some other medium such as a charging document</p>
+      </div>
+      <div class="footnote" id="fn7">
+        <a class="footnote" href="#fn7_ref">7</a>
+        <p> Section 2254(d) provides in relevant part that state court determinations "on the merits of a factual issue ... shall be presumed to be correct" unless the habeas petitioner demonstrates one or more of eight enumerated exceptions apply.  28 U.S.C. Sec. 2254(d) (1988)</p>
+      </div>
+      <div class="footnote" id="fn8">
+        <a class="footnote" href="#fn8_ref">8</a>
+        <p> Several of our recent decisions have applied the Townsend standard to determine if the district court should have held an evidentiary hearing, but they provide little guidance in this case.  See, e.g., Tinsley v. Borg, <span class="citation" data-id="536113"><a href="/opinion/536113/russell-a-tinsley-v-bob-borg/"><span class="volume">895</span> <span class="reporter">F.2d</span> <span class="page">520</span></a></span>, 530 (9th Cir.1990);  Norris v. Risley, <span class="citation" data-id="525662"><a href="/opinion/525662/robert-lee-norris-v-henry-risley-warden/"><span class="volume">878</span> <span class="reporter">F.2d</span> <span class="page">1178</span></a></span>, 1180 (9th Cir.1989);  Bashor v. Risley, <span class="citation" data-id="433465"><a href="/opinion/433465/howard-l-bashor-v-henry-risley-warden-of-montana-state-prison-and/"><span class="volume">730</span> <span class="reporter">F.2d</span> <span class="page">1228</span></a></span>, 1233 (9th Cir.), cert. denied, <span class="citation no-link"><span class="volume">469</span> <span class="reporter">U.S.</span> <span class="page">838</span></span>, <span class="citation no-link"><span class="volume">105</span> <span class="reporter">S. Ct.</span> <span class="page">137</span></span>, <span class="citation no-link"><span class="volume">83</span> <span class="reporter">L. Ed. 2d</span> <span class="page">77</span> </span>(1984)</p>
+      </div>
+      <div class="footnote" id="fn9">
+        <a class="footnote" href="#fn9_ref">9</a>
+        <p> Under section 2254(d), the presumption will not apply if the petitioner demonstrates any of the following circumstances:</p>
+        <p>(1) that the merits of the factual dispute were not resolved in the State court hearing;</p>
+        <p>(2) that the factfinding procedure employed by the State court was not adequate to afford a full and fair hearing;</p>
+        <p>(3) that the material facts were not adequately developed at the State court hearing;</p>
+        <p>(4) that the State court lacked jurisdiction of the subject matter or over the person of the applicant in the State court proceeding;</p>
+        <p>(5) that the applicant was an indigent and the State court, in deprivation of his constitutional right, failed to appoint counsel to represent him in the State court proceeding;</p>
+        <p>(6) that the applicant did not receive a full, fair, and adequate hearing in the State court proceeding;  or</p>
+        <p>(7) that the applicant was otherwise denied due process of law in the State court proceeding;</p>
+        <p>(8) or unless that part of the record of the State court proceeding in which the determination of such factual issue was made, pertinent to a determination of the sufficiency of the evidence to support such factual determination, is produced as provided for hereinafter, and the Federal court on a consideration of such part of the record as a whole concludes that such a factual determination is not fairly supported by the record</p>
+        <p>....</p>
+        <p>28 U.S.C. Sec. 2254(d) (1988).</p>
+      </div>
+      <div class="footnote" id="fn10">
+        <a class="footnote" href="#fn10_ref">10</a>
+        <p> For a thorough study of the relationship between section 2254(d) and Townsend, see Thomas v. Zant, <span class="citation" data-id="413198"><a href="/opinion/413198/joseph-thomas-v-walter-d-zant-warden-georgia-diagnostic-and/"><span class="volume">697</span> <span class="reporter">F.2d</span> <span class="page">977</span> </a></span>(11th Cir.1983)</p>
+      </div>
+      <div class="footnote" id="fn11">
+        <a class="footnote" href="#fn11_ref">11</a>
+        <p> Justice Marshall's dissent states:  "Section 2254(d) says nothing concerning when a district judge may hold an evidentiary hearing....  So far as I understand, the question whether such a hearing is appropriate on federal habeas corpus continues to be controlled exclusively by our decision in Townsend v. Sain even after the enactment of Sec. 2254(d)."    <span class="citation" data-id="108743"><span class="antecedent_guess">LaVallee,</span> <a href="/opinion/108743/lavallee-v-delle-rose/"><span class="volume">410</span> <span class="reporter">U.S.</span> at <span class="page">701</span> </a></span>n. <span class="citation" data-id="108743"><span class="antecedent_guess">2,</span> <a href="/opinion/108743/lavallee-v-delle-rose/"><span class="volume">93</span> <span class="reporter">S. Ct.</span> at <span class="page">1209</span> </a></span>n. 2.    One commentator examined this statement and concluded that "unlike Townsend, [section 2254(d) ] does not purport to define when a federal evidentiary hearing is mandatory;  it appears merely to state a set of rather confused burden of proof rules to guide the district courts which are to hold such hearings."    P. Bator, D. Meltzer, P. Mishkin, and D. Shapiro, Hart and Wechsler's The Federal Courts and the Federal System 1564 (3d ed. 1989)</p>
+      </div>
+      <div class="footnote" id="fn12">
+        <a class="footnote" href="#fn12_ref">12</a>
+        <p> In one case, the Supreme Court treated the criteria in section 2254(d) and Townsend as if they were interchangeable:</p>
+        <p>The habeas corpus statute, following this Court's decision in Townsend, provides that, in general, 'a determination after a hearing on the merits of a factual issue, made by a State court of competent jurisdiction ..., shall be presumed to be correct,' and an evidentiary hearing not required.</p>
+        <p>Ford v. Wainwright, <span class="citation" data-id="111725"><a href="/opinion/111725/ford-v-wainwright/"><span class="volume">477</span> <span class="reporter">U.S.</span> <span class="page">399</span></a></span>, 410, <span class="citation" data-id="111725"><a href="/opinion/111725/ford-v-wainwright/"><span class="volume">106</span> <span class="reporter">S. Ct.</span> <span class="page">2595</span></a></span>, 2602, <span class="citation" data-id="111725"><a href="/opinion/111725/ford-v-wainwright/"><span class="volume">91</span> <span class="reporter">L. Ed. 2d</span> <span class="page">335</span> </a></span>(1986) (emphasis added).  See also, Project, Nineteenth Annual Review of Criminal Procedure:  United States Supreme Court and Courts of Appeals 1988-1989, 78 Geo.L.J. 699, 1420 n. 3383 (1990) (noting that Ford appears to assume section 2254(d) and Townsend are identical).</p>
+      </div>
+      <div class="footnote" id="fn13">
+        <a class="footnote" href="#fn13_ref">13</a>
+        <p> As we explain later in this opinion, this case presents an example of how the tests in Townsend and section 2254(d) are not always coextensive</p>
+      </div>
+      <div class="footnote" id="fn14">
+        <a class="footnote" href="#fn14_ref">14</a>
+        <p> Reyes alleges Hellewell failed to develop the "heart" of his case, but this contention is more appropriately analyzed under section 2254(d)(3), which states an exception to the presumption of correctness where "the material facts were not adequately developed at the State court hearing."    28 U.S.C. Sec. 2254(d)(3) (1988).  The next section will address the applicability of this exception</p>
+      </div>
+      <div class="footnote" id="fn15">
+        <a class="footnote" href="#fn15_ref">15</a>
+        <p> Two of our decisions arguably have assumed section 2254(d)(3) and Townsend's fifth circumstance pose the same test.  See Fritz v. Spalding, <span class="citation" data-id="406133"><a href="/opinion/406133/lewis-donald-fritz-v-james-spalding/"><span class="volume">682</span> <span class="reporter">F.2d</span> <span class="page">782</span></a></span>, 785 (9th Cir.1982);  Griggs v. Superintendent, Anchorage State Jail, <span class="citation" data-id="306525"><a href="/opinion/306525/edward-griggs-jr-v-superintendent-anchorage-state-jail-and-state-of/"><span class="volume">469</span> <span class="reporter">F.2d</span> <span class="page">87</span></a></span>, 88 (9th Cir.1972) (per curiam).  Since Fritz and Griggs do not clearly stand for this proposition, we are not bound by them</p>
+      </div>
+      <div class="footnote" id="fn16">
+        <a class="footnote" href="#fn16_ref">16</a>
+        <p> The district court's opinion does not clearly indicate if it reached the issue of whether the material facts were adequately developed.  The court may have resolved Reyes's claim based solely on the second prong of Townsend, by finding inexcusable neglect.  In any event, we exercise our discretion to address the issue now, rather than remand it to the district court.  See Aguon v. Calvo, <span class="citation" data-id="494692"><a href="/opinion/494692/jesus-f-aguon-vincent-aguon-concepcion-a-cruz-rosa-a-mantanona-ana-a/"><span class="volume">829</span> <span class="reporter">F.2d</span> <span class="page">845</span></a></span>, 848 (9th Cir.1987)</p>
+      </div>
+      <div class="footnote" id="fn17">
+        <a class="footnote" href="#fn17_ref">17</a>
+        <p> As pointed out at oral argument, it may be that Sanchez has forgotten how he translated the mens rea element of manslaughter (assuming he did at all).  However, Hellewell still might have asked Sanchez presently to define the relevant terms for the court;  if Sanchez had been unable to render accurate translations in that setting, such testimony would have tended to support the theory that Sanchez's earlier translations were deficient</p>
+      </div>
+      <div class="footnote" id="fn18">
+        <a class="footnote" href="#fn18_ref">18</a>
+        <p> We do not mean to intimate Hellewell necessarily should have pursued one or more of these avenues in developing the facts.  We list the above options only for purposes of illustration</p>
+      </div>
+      <div class="footnote" id="fn19">
+        <a class="footnote" href="#fn19_ref">19</a>
+        <p> The validity of the Fay standard has been questioned in other contexts, see Tacho v. Martinez, <span class="citation" data-id="515508"><a href="/opinion/515508/michael-ponce-tacho-v-joe-martinez/"><span class="volume">862</span> <span class="reporter">F.2d</span> <span class="page">1376</span></a></span>, 1380 (9th Cir.1988), and Hughes v. Idaho State Bd. of Corrections, <span class="citation" data-id="475833"><a href="/opinion/475833/william-junior-hughes-v-idaho-state-board-of-corrections/"><span class="volume">800</span> <span class="reporter">F.2d</span> <span class="page">905</span></a></span>, 907 (9th Cir.1986), but not in this context, where the issue is whether Townsend requires a federal evidentiary hearing</p>
+      </div>
+      <div class="footnote" id="fn20">
+        <a class="footnote" href="#fn20_ref">20</a>
+        <p> We have found no Ninth Circuit decision directly on point</p>
+      </div>
+      <div class="footnote" id="fn21">
+        <a class="footnote" href="#fn21_ref">21</a>
+        <p> In light of our resolution of this case we have no occasion to examine Reyes's third asserted exception, based on section 2254(d)(8) and Townsend's second circumstance</p>
+      </div>
+    </div>
+    

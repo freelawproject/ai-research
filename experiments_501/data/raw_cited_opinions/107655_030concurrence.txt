@@ -1,0 +1,8 @@
+<opinion type="concurrence">
+<author id="b646-7">Mr. Justice Stewart,</author>
+<judges id="A4Q">with whom Mr. Justice Harlan and Mr. Justice Brennan join,</judges>
+<p id="Apm">concurring.</p>
+<p id="b646-8">I agree that the case before us was removable to the Federal District Court under 28 U. S. C. § 1441.</p>
+<p id="b646-9">The District Judge not only denied a motion to remand the case to the state court but also dissolved the state court injunction, and it is only by virtue of the latter order that an appeal was possible at this stage of the litigation. <em>American Dredging Co. </em>v. <em>Local 25, </em>338 F. 2d 837, 838, n. 2.</p>
+<p id="b646-10">As the Court says, it is not clear whether or not the District Judge dissolved the injunction “because [he] felt that action was required by <em>Sinclair Refining Co. </em>v. <em>Atkinson, </em>370 U. S. 195,” <em>ante, </em>at 561, n. 4. Accordingly, the Court expressly reserves decision on the effect of <em>Sinclair </em>in the circumstances presented by this case. The Court will, no doubt, have an opportunity to reconsider the scope and continuing validity of <em>Sinclair </em>upon an appropriate future occasion.</p>
+</opinion>

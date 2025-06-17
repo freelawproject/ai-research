@@ -1,0 +1,5 @@
+<opinion type="concurrence">
+<author id="b634-7">Mr. Justice Harlan,</author>
+<judges id="AL3">joined by Mr. Justice Clark,</judges>
+<p id="AR0">also considers this case moot on a further ground. It appears that petitioner has outstanding against him felony convictions in a number of other States. Under Texas law any one of those convictions would carry the same consequences with respect to petitioner’s exercise of civil rights in Texas (Election Code Art. 5.01) as his conviction in this case. See <em>Harwell </em>v. <em>Morris, </em>143 S. W. 2d 809, 812-813. This Court is as much bound by constitutional restrictions on its jurisdiction as it is by other constitutional requirements. The “moral stigma of a judgment which no longer affects legal rights does not present a case or controversy for appellate review.” <em>St. Pierre </em>v. <em>United States, </em>319 U. S. 41, 43.</p>
+</opinion>

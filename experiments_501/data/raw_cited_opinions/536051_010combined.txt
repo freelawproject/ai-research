@@ -1,0 +1,247 @@
+<p class="case_cite"><span class="citation no-link"><span class="volume">895</span> <span class="reporter">F.2d</span> <span class="page">139</span></span></p>
+    <p class="parties">Roger K. COLEMAN, Petitioner-Appellant,<br>v.<br>Charles THOMPSON, Warden, Respondent-Appellee.</p>
+    <p class="docket">No. 89-4002.</p>
+    <p class="court">United States Court of Appeals,<br>Fourth Circuit.</p>
+    <p class="date">Argued Oct. 2, 1989.<br>Decided Jan. 31, 1990.<br>Rehearing and Rehearing In Banc Denied Feb. 27, 1990.</p>
+    <div class="prelims">
+      <p class="indent">Daniel Joel Goldstein (John H. Hall, Marianne Consentino, Debevoise &amp; Plimpton, New York City, on brief), for petitioner-appellant.</p>
+      <p class="indent">Donald Richard Curry, Sr. Asst. Atty. Gen.  (Mary Sue Terry, Atty. Gen., Richmond, Va., on brief), for respondent-appellee.</p>
+      <p class="indent">Before CHAPMAN, Circuit Judge, BUTZNER, Senior Circuit Judge, and MERHIGE, Senior United States District Judge for the Eastern District of Virginia, sitting by designation.</p>
+      <p class="indent">BUTZNER, Senior Circuit Judge:</p>
+    </div>
+    <div class="num" id="p1">
+      <span class="num">1</span>
+      <p class="indent">Roger Keith Coleman, a Virginia prisoner sentenced to death, appeals the district court's denial of his petition for a writ of habeas corpus.  The district court concluded that Coleman's claims were procedurally defaulted.  We affirm.</p>
+    </div>
+    <div class="num" id="p2">
+      <span class="num">2</span>
+      <p class="indent">Coleman was convicted on March 18, 1982, in the Circuit Court of Buchanan County, Virginia, of rape and capital murder.  The opinion affirming his conviction recounts the facts about the crime and the evidence introduced for the imposition of a death sentence.  See Coleman v. Commonwealth, <span class="citation no-link"><span class="volume">226</span> <span class="reporter">Va.</span> <span class="page">31</span></span>, <span class="citation" data-id="1227505"><a href="/opinion/1227505/coleman-v-com/"><span class="volume">307</span> <span class="reporter">S.E.2d</span> <span class="page">864</span> </a></span>(1983), cert. denied, <span class="citation" data-id="111134"><a href="/opinion/111134/richard-sherman-williams-v-florida/"><span class="volume">465</span> <span class="reporter">U.S.</span> <span class="page">1109</span></a></span>, <span class="citation no-link"><span class="volume">104</span> <span class="reporter">S. Ct.</span> <span class="page">1617</span></span>, <span class="citation no-link"><span class="volume">80</span> <span class="reporter">L. Ed. 2d</span> <span class="page">145</span> </span>(1984).  Coleman then applied for a writ of habeas corpus in the Circuit Court of Buchanan County.  After an evidentiary hearing, the court denied the writ.  The Supreme Court granted the state's motion to dismiss Coleman's appeal.  Again, the Supreme Court denied certiorari.  Coleman v. Bass, <span class="citation no-link"><span class="volume">484</span> <span class="reporter">U.S.</span> <span class="page">918</span></span>, <span class="citation no-link"><span class="volume">108</span> <span class="reporter">S. Ct.</span> <span class="page">269</span></span>, <span class="citation no-link"><span class="volume">98</span> <span class="reporter">L. Ed. 2d</span> <span class="page">227</span> </span>(1987).  Coleman next petitioned for a writ of habeas corpus in the federal district court, setting forth 11 claims asserting the invalidity of his conviction and sentence.  The district court denied relief without an evidentiary hearing, and this appeal followed.</p>
+    </div>
+    <div class="num" id="p3">
+      <span class="num">3</span>
+      <p class="indent">* In his brief, Coleman states the first issue on appeal as follows:</p>
+    </div>
+    <div class="num" id="p4">
+      <span class="num">4</span>
+      <p class="indent">Did the District Court err in finding that federal review of Coleman's claims is barred:  (a) when dismissal by the Virginia Supreme Court was based on the novel reading of an ambiguous procedural rule, (b) when Coleman's late filing of his notice of appeal did not represent a deliberate bypass of the courts, and (c) when application of procedural default rules to counsel's error in filing the appeal one day late would deny Coleman meaningful access to the courts?</p>
+    </div>
+    <div class="num" id="p5">
+      <span class="num">5</span>
+      <p class="indent">The district court found that the Virginia Supreme Court had dismissed as untimely Coleman's notice of appeal from the adverse ruling of the state habeas court.  Consequently, the district court dismissed as procedurally defaulted the following seven claims, which were raised only in the state habeas proceeding and not on direct appeal:</p>
+    </div>
+    <div class="num" id="p6">
+      <span class="num">6</span>
+      <p class="indent">At least one member of the jury, George Marrs, failed to disclose his preconceived opinion of Coleman's guilt.</p>
+    </div>
+    <div class="num" id="p7">
+      <span class="num">7</span>
+      <p class="indent">Coleman was not afforded reasonably effective assistance of counsel.</p>
+    </div>
+    <div class="num" id="p8">
+      <span class="num">8</span>
+      <p class="indent">Jurors were improperly excluded because of their opposition to imposition of the death penalty.</p>
+    </div>
+    <div class="num" id="p9">
+      <span class="num">9</span>
+      <p class="indent">The prosecution failed to disclose exculpatory evidence.</p>
+    </div>
+    <div class="num" id="p10">
+      <span class="num">10</span>
+      <p class="indent">The prosecution's closing argument denied Coleman a fair trial.</p>
+    </div>
+    <div class="num" id="p11">
+      <span class="num">11</span>
+      <p class="indent">The jury instructions at the penalty stage were constitutionally inadequate.</p>
+    </div>
+    <div class="num" id="p12">
+      <span class="num">12</span>
+      <p class="indent">Virginia's capital murder statute and sentencing procedures are unconstitutional facially and as applied, under the Eighth and Fourteenth Amendments to the Constitution of the United States.</p>
+    </div>
+    <div class="num" id="p13">
+      <span class="num">13</span>
+      <p class="indent">* The district court premised its finding of procedural default on the Virginia Supreme Court order which dismissed as untimely Coleman's notice of appeal from the adverse ruling of the state habeas court.  Rule 5:9(a) of the Virginia Supreme Court provides:</p>
+    </div>
+    <div class="num" id="p14">
+      <span class="num">14</span>
+      <p class="indent">No appeal shall be allowed unless, within 30 days after entry of final judgment or other appealable order or decree, counsel for the appellant files with the clerk of the trial court a notice of appeal and at the same time mails or delivers a copy of such notice to all opposing counsel.</p>
+    </div>
+    <div class="num" id="p15">
+      <span class="num">15</span>
+      <p class="indent">The state habeas court entered its order denying a writ of habeas corpus on September 4, 1986.  Coleman filed his notice of appeal on October 7, 1986, one day late, counting from September 5 and omitting Saturday and Sunday, October 4 and 5.  Va.Code Ann. Secs. 1-13.3 and 1-13.3:1 (1987).  Two weeks later Coleman moved the state habeas court to correct the date of final judgment from September 4 to the date the clerk recorded the order in the common law order book, September 9.  The court denied the motion, stating in its order "final judgment was entered on September 4, 1986."</p>
+    </div>
+    <div class="num" id="p16">
+      <span class="num">16</span>
+      <p class="indent">On December 4, 1986, Coleman filed a petition for appeal in the Virginia Supreme Court.  The state responded by moving to dismiss the petition on the sole ground that Coleman had filed his notice of appeal more than 30 days after the entry of final judgment.  Both sides then briefed the motion and the merits of the petition.  The Supreme Court ruled:  "[T]he motion to dismiss is granted and the petition for appeal is dismissed."</p>
+    </div>
+    <div class="num" id="p17">
+      <span class="num">17</span>
+      <p class="indent">A state habeas petitioner who fails to meet the requirements of state procedural law, and who has his petition dismissed on that basis by the last state court to review it, loses federal review of the federal claims raised in the state petition in the absence of cause and prejudice or a fundamental miscarriage of justice.  Wainwright v. Sykes, <span class="citation" data-id="109717"><a href="/opinion/109717/wainwright-v-sykes/"><span class="volume">433</span> <span class="reporter">U.S.</span> <span class="page">72</span></a></span>, <span class="citation" data-id="109717"><a href="/opinion/109717/wainwright-v-sykes/"><span class="volume">97</span> <span class="reporter">S. Ct.</span> <span class="page">2497</span></a></span>, <span class="citation" data-id="109717"><a href="/opinion/109717/wainwright-v-sykes/"><span class="volume">53</span> <span class="reporter">L. Ed. 2d</span> <span class="page">594</span> </a></span>(1977);  Murray v. Carrier, <span class="citation" data-id="111727"><a href="/opinion/111727/murray-v-carrier/"><span class="volume">477</span> <span class="reporter">U.S.</span> <span class="page">478</span></a></span>, <span class="citation" data-id="111727"><a href="/opinion/111727/murray-v-carrier/"><span class="volume">106</span> <span class="reporter">S. Ct.</span> <span class="page">2639</span></a></span>, <span class="citation" data-id="111727"><a href="/opinion/111727/murray-v-carrier/"><span class="volume">91</span> <span class="reporter">L. Ed. 2d</span> <span class="page">397</span> </a></span>(1986).  Procedural default can be invoked by the state only when "the state court's opinion contains a 'plain statement that [its] decision rests upon adequate and independent state grounds.' "    Harris v. Reed, --- U.S. ----, <span class="citation" data-id="112205"><a href="/opinion/112205/harris-v-reed/"><span class="volume">109</span> <span class="reporter">S. Ct.</span> <span class="page">1038</span></a></span>, 1042, <span class="citation" data-id="112205"><a href="/opinion/112205/harris-v-reed/"><span class="volume">103</span> <span class="reporter">L. Ed. 2d</span> <span class="page">308</span> </a></span>(1989) (quoting Michigan v. Long, <span class="citation" data-id="111020"><a href="/opinion/111020/michigan-v-long/"><span class="volume">463</span> <span class="reporter">U.S.</span> <span class="page">1032</span></a></span>, 1042, <span class="citation" data-id="111020"><a href="/opinion/111020/michigan-v-long/"><span class="volume">103</span> <span class="reporter">S. Ct.</span> <span class="page">3469</span></a></span>, 3477, <span class="citation" data-id="111020"><a href="/opinion/111020/michigan-v-long/"><span class="volume">77</span> <span class="reporter">L. Ed. 2d</span> <span class="page">1201</span> </a></span>(1983)).</p>
+    </div>
+    <div class="num" id="p18">
+      <span class="num">18</span>
+      <p class="indent">Coleman argues that the Virginia Supreme Court did not clearly and expressly rely on a state procedural rule in dismissing his petition for appeal.  He points to the Court's recital that among other papers it considered the briefs that had been filed in opposition to the petition.</p>
+    </div>
+    <div class="num" id="p19">
+      <span class="num">19</span>
+      <p class="indent">Coleman's argument lacks a factual basis.  The Supreme Court complied with the "plain statement" rule that Harris made applicable to habeas corpus proceedings.  The Virginia Supreme Court's brief order shows precisely how the Court dealt with the petition for appeal.  The Court recites that it considered all of the papers filed by the parties.  The Court then granted the motion to dismiss, which was based on Coleman's failure to comply with Virginia Supreme Court Rule 5:9(a), and dismissed the appeal.<a class="footnote" href="#fn1" id="fn1_ref">1</a></p>
+    </div>
+    <div class="num" id="p20">
+      <span class="num">20</span>
+      <p class="indent">The district court properly concluded that the failure to comply with Rule 5:9(a) was an adequate ground to apply the bar of procedural default.  The rule is mandatory.  Vaughn v. Vaughn, <span class="citation" data-id="1335772"><a href="/opinion/1335772/vaughn-v-vaughn/"><span class="volume">215</span> <span class="reporter">Va.</span> <span class="page">328</span></a></span>, <span class="citation" data-id="1335772"><a href="/opinion/1335772/vaughn-v-vaughn/"><span class="volume">210</span> <span class="reporter">S.E.2d</span> <span class="page">140</span> </a></span>(1974).  The mandatory nature of the rule does not make it unconstitutional.  Dismissal of an application for discretionary review because it is untimely does not deprive the applicant of due process of law.  Wainwright v. Torna, <span class="citation" data-id="110666"><a href="/opinion/110666/wainwright-v-torna/"><span class="volume">455</span> <span class="reporter">U.S.</span> <span class="page">586</span></a></span>, 588 n. 4, <span class="citation" data-id="110666"><a href="/opinion/110666/wainwright-v-torna/"><span class="volume">102</span> <span class="reporter">S. Ct.</span> <span class="page">1300</span></a></span>, 1301 n. 4, <span class="citation" data-id="110666"><a href="/opinion/110666/wainwright-v-torna/"><span class="volume">71</span> <span class="reporter">L. Ed. 2d</span> <span class="page">475</span> </a></span>(1982).  Even in a capital case, procedural default justifies a federal habeas court's refusal to address the merits of the defaulted claims.  Smith v. Murray, <span class="citation" data-id="111728"><a href="/opinion/111728/smith-v-murray/"><span class="volume">477</span> <span class="reporter">U.S.</span> <span class="page">527</span></a></span>, <span class="citation" data-id="111728"><a href="/opinion/111728/smith-v-murray/"><span class="volume">106</span> <span class="reporter">S. Ct.</span> <span class="page">2661</span></a></span>, <span class="citation" data-id="111728"><a href="/opinion/111728/smith-v-murray/"><span class="volume">91</span> <span class="reporter">L. Ed. 2d</span> <span class="page">434</span> </a></span>(1986).</p>
+    </div>
+    <p>B</p>
+    <div class="num" id="p21">
+      <span class="num">21</span>
+      <p class="indent">Coleman asserts that the district court erred because the dismissal by the Virginia Supreme Court was based on a novel reading of an ambiguous procedural rule, namely whether an order is "entered" on the date the judge issues it or the date the clerk records it.  He relies on the proposition that a procedural ground is inadequate if it fails to provide fair notice to the litigant.   See, e.g., James v. Kentucky, <span class="citation" data-id="111152"><a href="/opinion/111152/james-v-kentucky/"><span class="volume">466</span> <span class="reporter">U.S.</span> <span class="page">341</span></a></span>, <span class="citation" data-id="111152"><a href="/opinion/111152/james-v-kentucky/"><span class="volume">104</span> <span class="reporter">S. Ct.</span> <span class="page">1830</span></a></span>, <span class="citation" data-id="111152"><a href="/opinion/111152/james-v-kentucky/"><span class="volume">80</span> <span class="reporter">L. Ed. 2d</span> <span class="page">346</span> </a></span>(1984).</p>
+    </div>
+    <div class="num" id="p22">
+      <span class="num">22</span>
+      <p class="indent">The major premise of Coleman's argument is flawed.  The rule is not ambiguous.  Its application by the Supreme Court was not novel.  Notice to Coleman was adequate.  The final order of the state habeas court contains the following notation immediately above the judge's signature:  "Entered this 4th day of September 1986."    Virginia case law giving effect to the judge's notation of entry is clear.  In Peyton v. Ellyson, <span class="citation" data-id="1254049"><a href="/opinion/1254049/peyton-v-ellyson/"><span class="volume">207</span> <span class="reporter">Va.</span> <span class="page">423</span></a></span>, 430-31, <span class="citation no-link"><span class="volume">150</span> <span class="reporter">S.E.2d</span> <span class="page">104</span></span>, 110 (1966), the Court held that the final order denying a petition for writ of habeas corpus was entered on the date the judge signed the order and that the time for appeal started running from that date.</p>
+    </div>
+    <p>C</p>
+    <div class="num" id="p23">
+      <span class="num">23</span>
+      <p class="indent">Coleman next argues that the rule of procedural default is inapplicable because his late filing did not represent a deliberate bypass of the courts.  He relies on Fay v. Noia, <span class="citation" data-id="106548"><a href="/opinion/106548/fay-v-noia/"><span class="volume">372</span> <span class="reporter">U.S.</span> <span class="page">391</span></a></span>, <span class="citation" data-id="106548"><a href="/opinion/106548/fay-v-noia/"><span class="volume">83</span> <span class="reporter">S. Ct.</span> <span class="page">822</span></a></span>, <span class="citation" data-id="106548"><a href="/opinion/106548/fay-v-noia/"><span class="volume">9</span> <span class="reporter">L. Ed. 2d</span> <span class="page">837</span> </a></span>(1963), and its progeny, Ferguson v. Boyd, <span class="citation" data-id="351007"><a href="/opinion/351007/herbert-levi-ferguson-v-f-c-boyd/"><span class="volume">566</span> <span class="reporter">F.2d</span> <span class="page">873</span> </a></span>(4th Cir.1977).</p>
+    </div>
+    <div class="num" id="p24">
+      <span class="num">24</span>
+      <p class="indent">Murray v. Carrier forecloses Coleman's reliance on Fay and Ferguson by holding that whether procedural default in appellate proceedings bars federal consideration of the defaulted claims should be determined by the cause and prejudice standards of Wainwright v. Sykes, and not by the deliberate bypass standard of <span class="citation no-link"><span class="antecedent_guess">Fay.</span>    <span class="volume">477</span> <span class="reporter">U.S.</span> at <span class="page">485-92</span></span>, 106 S.Ct. at 2643-47.    See also Smith v. <span class="citation no-link"><span class="antecedent_guess">Murray,</span> <span class="volume">477</span> <span class="reporter">U.S.</span> at <span class="page">533</span></span>, 106 S.Ct. at 2665.    In Murray v. Carrier, the Court noted that it expressed no opinion concerning application of the deliberate bypass standard to decision of counsel "not to take an appeal at <span class="citation no-link"><span class="antecedent_guess">all."</span>    <span class="volume">477</span> <span class="reporter">U.S.</span> at <span class="page">492</span></span>, 106 S.Ct. at 2647.    But this reservation need not detain us, because Coleman's counsel decided to take an appeal.</p>
+    </div>
+    <p>D</p>
+    <div class="num" id="p25">
+      <span class="num">25</span>
+      <p class="indent">A prisoner can avoid the bar of procedural default if he can show "cause for the noncompliance" with state law and "actual prejudice resulting from the alleged constitutional violation."    Wainwright v. <span class="citation" data-id="109717"><span class="antecedent_guess">Sykes,</span> <a href="/opinion/109717/wainwright-v-sykes/"><span class="volume">433</span> <span class="reporter">U.S.</span> at <span class="page">84</span></a></span>, 97 S.Ct. at 2505.    Coleman assigns as cause his counsel's error in failing to file a timely notice of appeal from the final order of the state habeas court.  The error, he asserts, is of sufficient magnitude to constitute ineffective assistance of counsel that denied him access to the courts.  He relies on Murray v. <span class="citation" data-id="111727"><span class="antecedent_guess">Carrier,</span> <a href="/opinion/111727/murray-v-carrier/"><span class="volume">477</span> <span class="reporter">U.S.</span> at <span class="page">489</span></a></span>, 106 S.Ct. at 2646, where the Court discussed the circumstances which would justify treating error of counsel as cause.</p>
+    </div>
+    <div class="num" id="p26">
+      <span class="num">26</span>
+      <p class="indent">Coleman's reliance on Murray v. Carrier is misplaced.  There the Court was discussing error arising out of a direct appeal in which a prisoner has a right to counsel whose performance is not constitutionally ineffective.  In contrast, the error in Coleman's case occurred in state habeas corpus proceedings.  The difference in the proceedings is significant, for a state prisoner seeking a writ of habeas corpus does not have a constitutional right to counsel.  Murray v. Giarratano, --- U.S. ----, <span class="citation" data-id="112316"><a href="/opinion/112316/murray-v-giarratano/"><span class="volume">109</span> <span class="reporter">S. Ct.</span> <span class="page">2765</span></a></span>, <span class="citation" data-id="112316"><a href="/opinion/112316/murray-v-giarratano/"><span class="volume">106</span> <span class="reporter">L. Ed. 2d</span> <span class="page">1</span> </a></span>(1989).</p>
+    </div>
+    <div class="num" id="p27">
+      <span class="num">27</span>
+      <p class="indent">Wainwright v. Torna rejects a claim that is essentially similar to Coleman's.  In Torna, a prisoner's counsel filed an application for discretionary review in the state Supreme Court one day late.  The prisoner charged that this error denied him effective assistance of counsel.  The Supreme Court held:  "Since [the prisoner] had no constitutional right to counsel, he could not be deprived of the effective assistance of counsel by his retained counsel's failure to file the application <span class="citation" data-id="110666"><span class="antecedent_guess">timely."</span>    <a href="/opinion/110666/wainwright-v-torna/"><span class="volume">455</span> <span class="reporter">U.S.</span> at <span class="page">587-88</span></a></span>, 102 S.Ct. at 1301.    Because Coleman, like Torna, had no constitutional right to counsel, he could not be deprived of the effective assistance of counsel.  Thus, he cannot show "cause" by showing ineffective assistance of counsel.  But see Madyun v. Young, <span class="citation" data-id="509341"><a href="/opinion/509341/shaheed-madyun-aka-arthur-lee-mitchell-v-warren-young-superintendent/"><span class="volume">852</span> <span class="reporter">F.2d</span> <span class="page">1029</span></a></span>, 1033 n. 2 (7th Cir.1988) (dictum).</p>
+    </div>
+    <p>E</p>
+    <div class="num" id="p28">
+      <span class="num">28</span>
+      <p class="indent">A prisoner may also avoid the bar of procedural default by demonstrating that denial of federal review will result in a fundamental miscarriage of justice.  Harris v. <span class="citation" data-id="112205"><span class="antecedent_guess">Reed,</span> <a href="/opinion/112205/harris-v-reed/"><span class="volume">109</span> <span class="reporter">S. Ct.</span> at <span class="page">1043</span></a></span>;  Smith v. <span class="citation no-link"><span class="antecedent_guess">Murray,</span> <span class="volume">477</span> <span class="reporter">U.S.</span> at <span class="page">537</span></span>, 106 S.Ct. at 2667;  Murray v. <span class="citation" data-id="111727"><span class="antecedent_guess">Carrier,</span> <a href="/opinion/111727/murray-v-carrier/"><span class="volume">477</span> <span class="reporter">U.S.</span> at <span class="page">495</span></a></span>, 106 S.Ct. at 2649.    This avenue of relief, however, is limited to "an extraordinary case, where a constitutional violation has probably resulted in the conviction of one who is actually innocent."    Murray v. <span class="citation" data-id="111727"><span class="antecedent_guess">Carrier,</span> <a href="/opinion/111727/murray-v-carrier/"><span class="volume">477</span> <span class="reporter">U.S.</span> at <span class="page">496</span></a></span>, 106 S.Ct. at 2649.    This principle does not entitle Coleman to avoid the bar of his procedural default.</p>
+    </div>
+    <div class="num" id="p29">
+      <span class="num">29</span>
+      <p class="indent">The district court found that the evidence was sufficient to show Coleman's guilt beyond a reasonable doubt.  The evidence included Coleman's admission that he participated in the crimes.  Hair, blood, and semen typing indicated that Coleman raped the victim.  See Coleman v. <span class="citation no-link"><span class="antecedent_guess">Commonwealth,</span> <span class="volume">226</span> <span class="reporter">Va.</span> at <span class="page">52-53</span></span>, 307 S.E.2d at 876.    Proof of Coleman's conviction for the attempted rape of another person several years earlier and the manner in which he killed his victim in this case were aggravating factors that the jury could consider in imposing the death sentence.  <span class="citation no-link"><span class="antecedent_guess">See</span> <span class="volume">226</span> <span class="reporter">Va.</span> at <span class="page">53-55</span></span>, 307 S.E.2d at 876-77.</p>
+    </div>
+    <div class="num" id="p30">
+      <span class="num">30</span>
+      <p class="indent">In sum, we conclude that the district court did not err by ruling that the failure by Coleman's counsel to file a timely notice of appeal from the final order of the state habeas court constituted a procedural default barring federal review of the claims asserted only in the state habeas corpus proceeding.</p>
+    </div>
+    <p>II</p>
+    <div class="num" id="p31">
+      <span class="num">31</span>
+      <p class="indent">The second issue raised by Coleman is as follows:</p>
+    </div>
+    <div class="num" id="p32">
+      <span class="num">32</span>
+      <p class="indent">Did the District Court err in dismissing Coleman's petition without first holding an evidentiary hearing even though material factual disputes raised in collateral review proceedings before the Commonwealth courts had not been resolved?</p>
+    </div>
+    <div class="num" id="p33">
+      <span class="num">33</span>
+      <p class="indent">Coleman asserts that the state court did not resolve factual disputes pertaining to his claim that one of the jurors, George Marrs, was biased against him.  He also contends disputed issues of fact remain with respect to his claim of ineffective assistance of counsel.</p>
+    </div>
+    <div class="num" id="p34">
+      <span class="num">34</span>
+      <p class="indent">Neither the complaint about the juror nor the claim of ineffective assistance of counsel was raised on direct appeal.  Therefore, Coleman's procedural default in failing to file a timely notice of appeal of the state court's final judgment denying his petition for a writ of habeas corpus bars his review in federal court.  Consequently, an evidentiary hearing was unnecessary.</p>
+    </div>
+    <p>III</p>
+    <div class="num" id="p35">
+      <span class="num">35</span>
+      <p class="indent">The district court held that Coleman's next three issues were also barred by procedural default.  Nevertheless, it alternatively considered Coleman's claims and found them to be without merit.  In addition to his general denial of procedural default, Coleman assigns error to the district court's alternative disposition of his claims for lack of merit.  He raises the following issues:</p>
+    </div>
+    <div class="num" id="p36">
+      <span class="num">36</span>
+      <p class="indent">Did the District Court err in finding that Coleman was not convicted by a biased jury even though evidence presented in the collateral review proceedings in the Commonwealth courts demonstrated that one of the jurors had, before trial, expressed his desire to be on the jury so he could help "burn" Coleman?</p>
+    </div>
+    <div class="num" id="p37">
+      <span class="num">37</span>
+      <p class="indent">Did the District Court err in finding that Coleman was effectively represented by counsel when the evidence demonstrates that the representation Coleman received, from the change of venue motion, through trial preparation and the sentencing proceeding, was grossly deficient and prejudiced Coleman?</p>
+    </div>
+    <div class="num" id="p38">
+      <span class="num">38</span>
+      <p class="indent">Did the District Court err in finding that the Commonwealth satisfied due process discovery requirements even though it failed to produce to Coleman evidence which supported Coleman's alibi and undermined the prosecution's theory of the case?</p>
+    </div>
+    <div class="num" id="p39">
+      <span class="num">39</span>
+      <p class="indent">None of the claims mentioned in these issues was raised on direct appeal.  The state habeas court found that they lacked merit, and the Virginia Supreme Court denied discretionary review because Coleman's notice of appeal was untimely.</p>
+    </div>
+    <div class="num" id="p40">
+      <span class="num">40</span>
+      <p class="indent">The district court properly sustained the state's position that Coleman's procedural default barred federal review of all of these claims.</p>
+    </div>
+    <p>IV</p>
+    <div class="num" id="p41">
+      <span class="num">41</span>
+      <p class="indent">Coleman asserts that the death penalty was unconstitutionally imposed for reasons that he states in the final issue that he raises on appeal:</p>
+    </div>
+    <div class="num" id="p42">
+      <span class="num">42</span>
+      <p class="indent">Did the District Court err in finding that the death penalty was constitutionally imposed on Coleman in spite of the fact that (a) the record cannot support the conclusion that the jury met the requirements of Virginia law by unanimously finding the existence of an aggravating circumstance, and (b) the jury was not provided with a constitutionally adequate limiting construction for Virginia's "outrageously or wantonly vile" aggravating circumstance?</p>
+    </div>
+    <div class="num" id="p43">
+      <span class="num">43</span>
+      <p class="indent">Coleman made no objection in the trial court or on direct appeal to the errors he now assigns.  As we have previously noted, Coleman did not perfect a timely appeal from the denial of his state habeas corpus petition.  The state asserts, and the district court properly ruled, that federal review of Coleman's complaints about the constitutionality of the death sentence is barred by his procedural default at both the trial and habeas proceedings.</p>
+    </div>
+    <p>V</p>
+    <div class="num" id="p44">
+      <span class="num">44</span>
+      <p class="indent">Quite apart from the propriety of the instructions in the penalty phase of the trial, the decision of the Virginia Supreme Court establishes that Coleman's sentence was lawful.  Neither the Sixth nor Eighth Amendment requires "a jury trial on the sentencing issue of life or death."    Hildwin v. Florida, --- U.S. ----, <span class="citation" data-id="112269"><a href="/opinion/112269/hildwin-v-florida/"><span class="volume">109</span> <span class="reporter">S. Ct.</span> <span class="page">2055</span></a></span>, 2056, <span class="citation" data-id="112269"><a href="/opinion/112269/hildwin-v-florida/"><span class="volume">104</span> <span class="reporter">L. Ed. 2d</span> <span class="page">728</span> </a></span>(1989) (Sixth Amendment);  Cabana v. Bullock, <span class="citation" data-id="111558"><a href="/opinion/111558/cabana-v-bullock/"><span class="volume">474</span> <span class="reporter">U.S.</span> <span class="page">376</span></a></span>, 384-88, <span class="citation" data-id="111558"><a href="/opinion/111558/cabana-v-bullock/"><span class="volume">106</span> <span class="reporter">S. Ct.</span> <span class="page">689</span></a></span>, 695-98, <span class="citation" data-id="111558"><a href="/opinion/111558/cabana-v-bullock/"><span class="volume">88</span> <span class="reporter">L. Ed. 2d</span> <span class="page">704</span> </a></span>(1986) (Eighth Amendment).  State law may authorize a forum other than the jury to impose the death penalty.  An appellate court is a constitutionally permissible forum.  <span class="citation" data-id="111558"><span class="antecedent_guess">Cabana,</span> <a href="/opinion/111558/cabana-v-bullock/"><span class="volume">474</span> <span class="reporter">U.S.</span> at <span class="page">392</span></a></span>, 106 S.Ct. at 700.</p>
+    </div>
+    <div class="num" id="p45">
+      <span class="num">45</span>
+      <p class="indent">Cabana dealt with an aggravating factor necessary for the imposition of the death penalty on one who aids and abets a felony in the course of which others commit a murder.  See <span class="citation" data-id="111558"><span class="antecedent_guess">Cabana,</span> <a href="/opinion/111558/cabana-v-bullock/"><span class="volume">474</span> <span class="reporter">U.S.</span> at <span class="page">378</span></a></span>, 106 S.Ct. at 693.    The Court held that, if authorized by state law, an appellate court can determine whether an aggravating factor has been proved and can impose the death penalty.  The appellate court can exercise such power even when the jury may not have found an aggravating <span class="citation" data-id="111558"><span class="antecedent_guess">factor.</span>  <a href="/opinion/111558/cabana-v-bullock/"><span class="volume">474</span> <span class="reporter">U.S.</span> at <span class="page">384-88</span></a></span>, 106 S.Ct. at 695-98.    Under these circumstances a federal court should not confine its inquiry to the jury instructions.  "Rather, the court must examine the entire course of the state-court proceedings against the defendant in order to determine whether, at some point in the process, the requisite factual finding as to the defendant's culpability has been <span class="citation" data-id="111558"><span class="antecedent_guess">made."</span>    <a href="/opinion/111558/cabana-v-bullock/"><span class="volume">474</span> <span class="reporter">U.S.</span> at <span class="page">387</span></a></span>, 106 S.Ct. at 697.    A federal court errs by "focusing exclusively on the jury and in ordering a new sentencing hearing without inquiring whether the necessary finding of [the aggravating factor] had been made by the trial court or by the state appellate <span class="citation" data-id="111558"><span class="antecedent_guess">court."</span>    <a href="/opinion/111558/cabana-v-bullock/"><span class="volume">474</span> <span class="reporter">U.S.</span> at <span class="page">389</span></a></span>, 106 S.Ct. at 698.    Although Cabana dealt with a specific categorical aggravating factor, the principles the Court explained are applicable to the determination of other aggravating factors in crimes committed under circumstances quite different from those examined in Cabana.    See, e.g., Johnson v. Mississippi, <span class="citation" data-id="112096"><a href="/opinion/112096/johnson-v-mississippi/"><span class="volume">486</span> <span class="reporter">U.S.</span> <span class="page">578</span></a></span>, <span class="citation" data-id="112096"><a href="/opinion/112096/johnson-v-mississippi/"><span class="volume">108</span> <span class="reporter">S. Ct.</span> <span class="page">1981</span></a></span>, 1989, <span class="citation" data-id="112096"><a href="/opinion/112096/johnson-v-mississippi/"><span class="volume">100</span> <span class="reporter">L. Ed. 2d</span> <span class="page">575</span> </a></span>(1988) (White, J., concurring).  The major premise of Cabana--the Constitution does not require a jury for the imposition of the death penalty--is applicable to Coleman's case.</p>
+    </div>
+    <div class="num" id="p46">
+      <span class="num">46</span>
+      <p class="indent">To apply Cabana 's principles, a federal court must determine what authority state law confers on its appellate court with respect to the death penalty and then ascertain whether this authority has been constitutionally exercised.  Cf. Spaziano v. Florida, <span class="citation" data-id="111250"><a href="/opinion/111250/spaziano-v-florida/"><span class="volume">468</span> <span class="reporter">U.S.</span> <span class="page">447</span></a></span>, 457-65, <span class="citation" data-id="111250"><a href="/opinion/111250/spaziano-v-florida/"><span class="volume">104</span> <span class="reporter">S. Ct.</span> <span class="page">3154</span></a></span>, 2160-64, <span class="citation" data-id="111250"><a href="/opinion/111250/spaziano-v-florida/"><span class="volume">82</span> <span class="reporter">L. Ed. 2d</span> <span class="page">340</span> </a></span>(1984).</p>
+    </div>
+    <div class="num" id="p47">
+      <span class="num">47</span>
+      <p class="indent">Virginia law confers broad powers on the Supreme Court.  Va.Code Ann. Sec. 17-110.1 (1988).  Every sentence of death must be reviewed by the Court.  This review may be consolidated with an appeal, if one is taken.  In addition to errors "enumerated by appeal," the Court must consider other specific issues that address the fundamental fairness of the trial and sentence.<a class="footnote" href="#fn2" id="fn2_ref">2</a>   The statute vests in the Supreme Court extraordinary authority to commute the sentence of death to imprisonment for life.  It may affirm the sentence of death or remand for new sentencing proceedings.  In short, the only limitation on the Court's power is the authority to impose a death sentence when the trial court, with or without a jury, has imposed a lesser penalty.</p>
+    </div>
+    <div class="num" id="p48">
+      <span class="num">48</span>
+      <p class="indent">In Coleman's case, the Virginia Supreme Court exercised the power conferred on it by Sec. 17-110.1.  It compared Coleman's case to others "where the death sentence was based upon the dangerousness of the defendant and the vileness of the crime."<a class="footnote" href="#fn3" id="fn3_ref">3</a> Coleman v. <span class="citation no-link"><span class="antecedent_guess">Commonwealth,</span> <span class="volume">226</span> <span class="reporter">Va.</span> at <span class="page">54</span></span>, 307 S.E.2d at 877.    Justifying the application of these statutory aggravating factors, it recounted that "Coleman, who had previously been convicted of attempted rape, raped his victim, cut her throat, dragged her through her house, and stabbed her twice at or after her <span class="citation no-link"><span class="antecedent_guess">death."</span>    <span class="volume">226</span> <span class="reporter">Va.</span> at <span class="page">55</span></span>, 307 S.E.2d at 877.    The Court cited as a somewhat analogous case Smith v. Commonwealth, in which it constitutionally limited the statutory vileness factor by defining " 'aggravated battery' to mean a battery which, qualitatively and quantitatively, is more culpable than the minimum necessary to accomplish an act of murder."    <span class="citation" data-id="1213381"><a href="/opinion/1213381/smith-v-commonwealth/"><span class="volume">219</span> <span class="reporter">Va.</span> <span class="page">455</span></a></span>, 478, <span class="citation no-link"><span class="volume">248</span> <span class="reporter">S.E.2d</span> <span class="page">135</span></span>, 149 (1978).  The Court stated that it had "independently determined that the sentence of death was properly imposed," and it "decline[d] to commute the sentence."    226 Va. at <span class="citation" data-id="1227505"><span class="antecedent_guess">55,</span> <a href="/opinion/1227505/coleman-v-com/"><span class="volume">307</span> <span class="reporter">S.E.2d</span> at <span class="page">877</span></a></span>.</p>
+    </div>
+    <div class="num" id="p49">
+      <span class="num">49</span>
+      <p class="indent">In Maynard v. Cartwright, <span class="citation" data-id="112084"><a href="/opinion/112084/maynard-v-cartwright/"><span class="volume">486</span> <span class="reporter">U.S.</span> <span class="page">356</span></a></span>, <span class="citation" data-id="112084"><a href="/opinion/112084/maynard-v-cartwright/"><span class="volume">108</span> <span class="reporter">S. Ct.</span> <span class="page">1853</span></a></span>, 1858, <span class="citation" data-id="112084"><a href="/opinion/112084/maynard-v-cartwright/"><span class="volume">100</span> <span class="reporter">L. Ed. 2d</span> <span class="page">372</span> </a></span>(1988), the Court explained:</p>
+    </div>
+    <div class="num" id="p50">
+      <span class="num">50</span>
+      <p>Since Furman [v. Georgia, <span class="citation" data-id="108605"><a href="/opinion/108605/furman-v-georgia/"><span class="volume">408</span> <span class="reporter">U.S.</span> <span class="page">238</span></a></span>, <span class="citation" data-id="108605"><a href="/opinion/108605/furman-v-georgia/"><span class="volume">92</span> <span class="reporter">S. Ct.</span> <span class="page">2726</span></a></span>, <span class="citation" data-id="108605"><a href="/opinion/108605/furman-v-georgia/"><span class="volume">33</span> <span class="reporter">L. Ed. 2d</span> <span class="page">346</span> </a></span>(1972) ], our cases have insisted that the channeling and limiting of the sentencer's discretion in imposing the death penalty is a fundamental constitutional requirement for sufficiently minimizing the risk of wholly arbitrary and capricious action.</p>
+    </div>
+    <div class="num" id="p51">
+      <span class="num">51</span>
+      <p class="indent">The Virginia Supreme Court's review of the sentence satisfies this constitutional requirement.</p>
+    </div>
+    <div class="num" id="p52">
+      <span class="num">52</span>
+      <p class="indent">Finding no constitutional infirmity that is cognizable on federal review, we affirm the judgment of the district court denying a writ of habeas corpus.</p>
+    </div>
+    <div class="footnotes">
+      <div class="footnote" id="fn1">
+        <a class="footnote" href="#fn1_ref">1</a>
+        <p> The order states:</p>
+        <p>On December 4, 1986 came the appellant, by counsel, and filed a petition for appeal in the above-styled case.</p>
+        <p>Thereupon came the appellee, by the Attorney General of Virginia, and filed a motion to dismiss the petition for appeal;  on December 19, 1986 the appellant filed a memorandum in opposition to the motion to dismiss;  on December 19, 1986 the appellee filed a reply to the appellant's memorandum;  on December 23, 1986 the appellee filed a brief in opposition to the petition for appeal;  on December 23, 1986 the appellant filed a surreply in opposition to the appellee's motion to dismiss;  and on January 6, 1987 the appellant filed a reply brief.</p>
+        <p>Upon consideration whereof, the motion to dismiss is granted and the petition for appeal is dismissed.</p>
+      </div>
+      <div class="footnote" id="fn2">
+        <a class="footnote" href="#fn2_ref">2</a>
+        <p> There is no counterpart to this proceeding in the federal judicial system.  Federal review of constitutional issues in death cases, unfettered by procedural bars, would promote fairness and reduce the delay and complexity that all too often mark the present system</p>
+      </div>
+      <div class="footnote" id="fn3">
+        <a class="footnote" href="#fn3_ref">3</a>
+        <p> Va.Code Ann. Sec. 19.2-264.4 C (1983) provides:</p>
+        <p>The penalty of death shall not be imposed unless the Commonwealth shall prove beyond a reasonable doubt that there is a probability based upon evidence of the prior history of the defendant or of the circumstances surrounding the commission of the offense of which he is accused that he would commit criminal acts of violence that would constitute a continuing serious threat to society, or that his conduct in committing the offense was outrageously or wantonly vile, horrible or inhuman, in that it involved torture, depravity of mind or aggravated battery to the victim.</p>
+        <p>We have upheld the constitutionality of the statute as narrowed by Smith v. Commonwealth, <span class="citation" data-id="1213381"><a href="/opinion/1213381/smith-v-commonwealth/"><span class="volume">219</span> <span class="reporter">Va.</span> <span class="page">455</span></a></span>, <span class="citation no-link"><span class="volume">248</span> <span class="reporter">S.E.2d</span> <span class="page">135</span> </span>(1978).  See Turner v. Bass, <span class="citation" data-id="446952"><a href="/opinion/446952/willie-lloyd-turner-v-gary-bass-superintendent/"><span class="volume">753</span> <span class="reporter">F.2d</span> <span class="page">342</span></a></span>, 353 (1985).</p>
+      </div>
+    </div>
+    

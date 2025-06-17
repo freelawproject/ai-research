@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b849-3">
+<span citation-index="1" class="star-pagination" label="785"> 
+   *785
+   </span>
+  Mr. Justice Reed
+ </author>
+<p id="AZM">
+  delivered the opinion of the Court.
+ </p>
+<p id="b849-4">
+  . This case, like
+  <em>
+   Hust
+  </em>
+  v.
+  <em>
+   Moore-McCormack Lines,
+  </em>
+  <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">328 U. S. 707</a></span>, and
+  <em>
+   Caldarola
+  </em>
+  v.
+  <em>
+   Eckert,
+  </em>
+  <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">332 U. S. 155</a></span>, presents questions concerning the liability for injury to third persons of a general- agent who, under the terms of the wartime standard form of agency agreement, GAA 4-4-42,
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  manages certain phases of the business of ships owned by the United States and operated by the War Shipping Administration. More specifically the issue raised by these facts is whether such a general agent is liable under § 33 of the Merchant Marine Act of 1920, known as the Jones Act,
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  to a member of the crew who suffered physical injury through the negligence of the master and officers of such a vessel, when the injury occurred after March 24, 1943, the date of enactment of the War Shipping Administration (Clarification) Act.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</p>
+<p id="b849-5">
+  Respondent was procured from the union hiring hall by petitioner in accordance with the terms of the standard agreement
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  and made available to the master for employment by him. The master is designated by the contract as an agent and employee of the United States. In July of 1945 respondent was signed on the S. S.
+  <em>
+   Edward B. Haines
+  </em>
+  at New York by the master of that vessel as second assistant engineer. In the space on the shipping articles entitled “Operating Company on this Voyage” there was written “Cosmopolitan Shipping Co., Inc., as general agent for the United States.” The articles were
+  <span citation-index="1" class="star-pagination" label="786"> 
+   *786
+   </span>
+  stamped at the top as follows: “You Are Being Employed By the United States.”
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+</p>
+<p id="b850-5">
+  In November, 1945, when
+  <em>
+   The Haines
+  </em>
+  was on voyage and either in port or off the coast of China, respondent contracted poliomyelitis. At that time the master exercised “full control, responsibility and authority with respect to the navigation and management of the vessel” as provided in § 3A (d) of the contract. See p. 796,
+  <em>
+   infra.
+  </em>
+  Because of alleged negligence of the master and officers in furnishing proper treatment, he suffered permanent injury from the disease. McAllister sued the petitioner, Cosmopolitan, under the Jones Act. The complaint alleged that Cosmopolitan “managed, operated and controlled”
+  <em>
+   The Haines
+  </em>
+  under a General Agency Agreement with its owner, that McAllister was in the employ of Cosmopolitan, and that his injuries resulted from the negligence of Cosmopolitan, “its agents, servants, and employees” in failing to take precautions against a known poliomyelitis epidemic and in failing to provide proper treatment. The answer denied these allegations. The jury found a verdict for respondent for $100,000.
+ </p>
+<p id="b850-6">
+  On appeal the United States Court of Appeals for the Second Circuit affirmed.
+  <em>
+   McAllister
+  </em>
+  v.
+  <em>
+   Cosmopolitan Shipping Co.,
+  </em>
+  <span class="citation" data-id="1476725"><a href="/opinion/1476725/mcallister-v-cosmopolitan-shipping-co/" aria-description="Citation for case: McAllister v. Cosmopolitan Shipping Co.">169 F. 2d 4</a></span>. While recognizing, that Cosmopolitan was “a shipping company which contracted with the. War Shipping Administration to attend to the accounting' ^nd certain other shoreside . usiness of The Haines- ... in accordance with the standard form of General- Agency Service Agreement,”
+  <em>
+   id.
+  </em>
+  at p. 5, the court felt itself bound by the decision of this Court in
+  <em>
+   <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">Hust</a></span>
+  </em>
+  v.
+  <em>
+   Moore-McCormack <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">Lines, supra.</a></span>
+  </em>
+  It relied upon the fact that we expressly distinguished the
+  <em>
+   <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">Hust</a></span>
+  </em>
+<span citation-index="1" class="star-pagination" label="787"> 
+   *787
+   </span>
+  ease in
+  <em>
+   <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">Caldarola</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">Eckert, supra.</a></span>
+  </em>
+  The Court of Appeals reached this conclusion despite the fact that the injury to Hust occurred prior to the' Clarification Act, and the injury here occurred subsequent to that act. In its view the
+  <em>
+   <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">Hust</a></span>
+  </em>
+  case held, as a matter of law, that before the Clarification Act a seaman under the Jones Act could recover for a tort against a service agreement general agent, as an employer. The court did not perceive how the Clarification Act changed this liability. 169 F.. 2d 4,8.
+ </p>
+<p id="b851-4">
+  I.
+ </p>
+<p id="b851-5">
+  We are impelled to the conclusion that the Clarification Act affords no basis for distinguishing the present case from the
+  <em>
+   <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">Hust</a></span>
+  </em>
+  case and that the reasoning in the later
+  <em>
+   <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">Caldarola</a></span>
+  </em>
+  case, which we accept as sound, calls for the rejection of the basis of the
+  <em>
+   <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">Hust</a></span>
+  </em>
+  case. The
+  <em>
+   <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">Hust</a></span>
+  </em>
+  case went on the theory that the general agents for the United States under the same standard service agreement were employers of the injured seaman, Hust, for the purposes of liability under the Jones Act.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  The general agent was found to be liable to the seaman by two steps of reasoning: first, that the overruling of
+  <em>
+   Fleet Corporation
+  </em>
+  v.
+  <em>
+   Lustgarten,
+  </em>
+  <span class="citation" data-id="101495"><a href="/opinion/101495/johnson-v-united-states-shipping-bd-emergency-fleet-corporation/" aria-description="Citation for case: Johnson v. United States Shipping Bd. Emergency Fleet...">280 U. S. 320</a></span>, by
+  <em>
+   Brady
+  </em>
+  v.
+  <em>
+   Roosevelt S. S. Co.,
+  </em>
+  <span class="citation" data-id="103761"><a href="/opinion/103761/brady-v-roosevelt-steamship-co/" aria-description="Citation for case: Brady v. Roosevelt Steamship Co.">317 U. S. 575</a></span>, gave a seaman a right tó sue undér the Jones Act such general agents as were employed under Contracts like Moore-McCormack’s for torts committed against seamen by masters and crew, <span class="citation multiple-matches"><a href="/c/U.%20S./328/716/">328 U. S. 716</a></span>-722; second, that although “technically the agree
+  <span citation-index="1" class="star-pagination" label="788"> 
+   *788
+   </span>
+  ment made Hust an employee of the United States,” p. 723, the “rules of private agency,” p. 724, should not be applied to take away “protections” from seamen. See <span class="citation multiple-matches"><a href="/c/U.%20S./332/165/">332 U. S. 165</a></span>-166
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+  This second step was said to find support in the election given to seamen by § 1 of the Clarification Act to proceed under the new Act for claims arising after October 1,1941, and before the enactment of the Clarification Act, March 24, 1943. <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/#725" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">328 U. S. at 725</a></span>,
+  <em>
+   et seq.
+  </em>
+<a class="footnote" href="#fn8" id="fn8_ref">
+<em>
+    8
+   </em>
+</a>
+</p>
+<p id="b853-3">
+<span citation-index="1" class="star-pagination" label="789"> 
+   *789
+   </span>
+  As to the first conclusion, we think it arises from a misconception of the ruling of the
+  <em>
+   <span class="citation" data-id="103761"><a href="/opinion/103761/brady-v-roosevelt-steamship-co/" aria-description="Citation for case: Brady v. Roosevelt Steamship Co.">Brady</a></span>
+  </em>
+  case. The
+  <em>
+   <span class="citation" data-id="103761"><a href="/opinion/103761/brady-v-roosevelt-steamship-co/" aria-description="Citation for case: Brady v. Roosevelt Steamship Co.">Brady</a></span>
+  </em>
+  case decided no more, directly or by implication, than that an action could be maintained against agents of the United States at common law for the agents’ own torts. The case did not involve the right to recover against employers under the Jones Act. Brady was a customs inspector suing for injuries sustained when a ship’s ladder broke. The opinion said, <span class="citation" data-id="103761"><a href="/opinion/103761/brady-v-roosevelt-steamship-co/#577" aria-description="Citation for case: Brady v. Roosevelt Steamship Co.">317 U. S. at 577</a></span>, “The sole question here is whether the Suits in Admiralty Act makes private operators such as respondent nonsuable for their torts.”
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+  Cf.
+  <em>
+   <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">Caldarola</a></span>
+  </em>
+  v.
+  <em>
+   Eckert,
+  </em>
+  <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/#159" aria-description="Citation for case: Caldarola v. Eckert">332 U. S. at 159-160</a></span>.
+ </p>
+<p id="b853-4">
+  As to the second conclusion, we are unable to perceive in the statutes relating to sailors’ rights or the history
+  <span citation-index="1" class="star-pagination" label="790"> 
+   *790
+   </span>
+  behind their enactment any legislative purpose to create in seamen employees of the United States through the War Shipping Administration a right to enforce tort claims under the Jones Act against others than their employers or any recognition that such right ever existed. The Jones Act was welfare legislation that created new rights in seamen for damages arising from maritime torts. As welfare legislation, this statute is entitled to a liberal construction to accomplish its beneficent purposes. Compare
+  <em>
+   Aguilar
+  </em>
+  v.
+  <em>
+   Standard Oil Co.,
+  </em>
+  <span class="citation" data-id="103817"><a href="/opinion/103817/aguilar-v-standard-oil-co-of-nj/" aria-description="Citation for case: Aguilar v. Standard Oil Co. of NJ">318 U. S. 724</a></span>;
+  <em>
+   American Stevedores
+  </em>
+  v.
+  <em>
+   Porello,
+  </em>
+  <span class="citation" data-id="104389"><a href="/opinion/104389/american-stevedores-inc-v-porello/" aria-description="Citation for case: American Stevedores, Inc. v. Porello">330 U. S. 446</a></span>. In considering similar legislation in other fields, we have concluded that Congress intended that the purposes of such enactments should not be restricted by common-law concepts of control so as to bar from welfare legislation as independent contractors persons who were as a matter of economic reality a part of the processes and dependent upon the businesses to which they rendered service.
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+</p>
+<p id="b854-5">
+  The issue in this case is whether a construction- of the Jones Act carrying out the 'intention of Congress to grant those nety rights to seamen against their employers requires or permits a holding that the general agent under the contract here in question is an employer undér the Jones Act. The decision depends upon the interpretation of the contract between respondent and Cosmopolitan on one hand and that between Cosmopolitan and the United States on the other. We assume, without deciding, that the rule of the
+  <em>
+   Hearst
+  </em>
+  case applies, that is, the word “employment” should be construed so as to give protection to seamen for torts committed against them by 'those standing in the proximate relation of employer, and the rules of private agency should not be rigorously ap
+  <span citation-index="1" class="star-pagination" label="791"> 
+   *791
+   </span>
+  plied.
+  <a class="footnote" href="#fn11" id="fn11_ref">
+   11
+  </a>
+  Yet this Court may not disregard the plain and rational meaning of employment and employer to furnish a seaman a cause of action against one completely outside the broadest lines or definitions of employment or employer. We have no doubt that, under the Jones Act, only one person, firm, or corporation can be sued as employer. Either Cosmopolitan or the Government is that employer.
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+  The seaman’s substantive rights are the same whoever is the employer. Under the Jones Act, his remedy permits him to demand a jury trial. If the Government is the employer, his remedy is in admiralty' Without. a jury. See the excerpt from the' House Report, p. 792,
+  <em>
+   infra.
+  </em>
+</p>
+<p id="b855-4">
+  It was said in
+  <em>
+   <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">Hust</a></span>
+  </em>
+  that the election of remedies granted seamen injured between October 1, 1941, and the effective date of the Clarification Act, March 24, 1943, indicated that a seaman had broader rights before the Clarification Act than he did after. 328 U. S.- at 725, Part III. The suggestion was that Congress could not have intended to restrict suits against general agents. This statement springs from the Court’s then understanding of the
+  <em>
+   <span class="citation" data-id="103761"><a href="/opinion/103761/brady-v-roosevelt-steamship-co/" aria-description="Citation for case: Brady v. Roosevelt Steamship Co.">Brady</a></span>
+  </em>
+  case, which we have heretofore considered. The reason for the election given by the Clarification Act was quite different. It was to give seamen employees of the United States through the War Shipping Administration on public vessels or foreign-flag vessels or otherwise
+  <span citation-index="1" class="star-pagination" label="792"> 
+   *792
+   </span>
+  an election to employ the means for redress theretofore possessed by them, such as those mentioned in § 1 of the Clarification Act, note 8,
+  <em>
+   supra,
+  </em>
+  or to enjoy the same rights as similar employees on merchant vessels.
+  <a class="footnote" href="#fn13" id="fn13_ref">
+   13
+  </a>
+  Nothing has been presented to us from the Act or from its legislative history indicative of congressional purpose to do anything other than to extend existing rights of merchant seamen to all seamen employed through the War Shipping Administration. This was specifically declared in H. R. Rep. No. 107, 78th Cong., 1st Sess., p. 21:
+ </p>
+<blockquote id="Ard">
+  “The various rights and remedies under statute and general maritime law with respect to death, injury, illness, and other casualty to seamen, have been rather fully set forth hereinabove. Under clause 2 of section 1 (a) these substantive rights would be governed by existing law relating to privately employed seamen. The only modification thereof arises from the remedial provision that they shall be enforced in accordance with the provisions of the Suits in Admiralty Act. This procedure is appropriate in view of the fact that the suits will be against the Government of the United States. In such a suit ño provision is made for a jury trial as may otherwise be had in a proceeding such as one under the Jones Act for reasons set forth in the letter of the Attorney General (September 14, 1942).”
+ </blockquote>
+<p id="b856-7">
+  See S. Rep. No. 62, 78th Cong., 1st Sess., pp. 11-12; S. Rep. No. 1813, 77th. Cong., 2d Sess., p. 6; Hearings before the Committee on the Merchant Marine and Fish
+  <span citation-index="1" class="star-pagination" label="793"> 
+   *793
+   </span>
+  eries, House of Representatives, 77th Cong., 2d Sess., on H. R. 7424, p. 33.
+ </p>
+<p id="b857-4">
+  The
+  <em>
+   <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">Caldarola</a></span>
+  </em>
+  case, <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">332 U. S. 155</a></span>, undermined the foundations of
+  <em>
+   <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">Hust</a></span>.
+  </em>
+  See the dissent therein at pp. 161— 163.
+  <em>
+   <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">Caldarola</a></span>
+  </em>
+  held that the general agents under the standard form contract were not in possession and control of the vessel so as to make them liable under New York law to an invitee for injuries arising from negligence in its maintenance. Pp. 158-59. Our ruling was based on “the interpretation of that contract” as “a matter of federal concern.” We do not think it consistent to hold that the general agent has enough “possession and control” to be an employer under the Jones Act but not enough to be responsible for maintenance under New York law. It is true, as respondent argues, that
+  <em>
+   <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">Caldarola</a></span>
+  </em>
+  dealt only with the general agent’s liability to a stevedore, as opposed to a crew member, under the law of New York. We think, however, that vicarious liability to anyone must be predicated on the relation which exists under the standard form agreement and the shipping articlés between the general agent on the one hand and the master and crew of the vessel on the other.
+  <em>
+   <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">Caldarola</a></span>
+  </em>
+  held that this relation was not one which involved that proximity necessary to a finding of liability in the general agent for the torts of the master and crew. We perceive no reason why the rationale of this holding does not apply with equal force to a suit under the Jones Act. Under common-law principles of agency such a conclusion is required. We think it equally compelled even if we are to adopt, as the Court in
+  <em>
+   Rust
+  </em>
+  suggested, the perhaps less technical and more substantial tests propounded in
+  <em>
+   Labor Board
+  </em>
+  v.
+  <em>
+   Hearst Publications,
+  </em>
+  <span class="citation" data-id="103979"><a href="/opinion/103979/national-labor-relations-board-v-hearst-publications-inc/" aria-description="Citation for case: National Labor Relations Board v. Hearst Publications, Inc.">322 U. S. 111</a></span>.
+ </p>
+<p id="b857-5">
+<em>
+   <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">Hust</a></span>
+  </em>
+  was decided June 10, 1946;
+  <em>
+   <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">Caldarola</a></span>
+  </em>
+  June 23, 1947. Certainly from the latter date, the danger of relying on
+  <em>
+   <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">Hust</a></span>
+  </em>
+  was apparent to the world though it must be admitted there was enough uncertainty in the law
+  <span citation-index="1" class="star-pagination" label="794"> 
+   *794
+   </span>
+  properly to give concern to Congress.
+  <a class="footnote" href="#fn14" id="fn14_ref">
+   14
+  </a>
+  Notwithstanding there may be somb undesirable results in overruling
+  <em>
+   <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">Hust</a></span>,
+  </em>
+  such as loss of rights under the Suits in Admiralty Act by reliance on
+  <em>
+   <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">Hust</a></span>,
+  </em>
+  we think that in view of
+  <em>
+   <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">Caldarola</a></span>,
+  </em>
+  the uncertainty as to remedies that the two decisions generate, and the desirability of clarifying the position of the United States as an employer through the War Shipping Administration, that case should be and is overruled.
+ </p>
+<p id="b858-6">
+  n.
+ </p>
+<p id="b858-7">
+  A re-examination of the present standard'service agreement will make clear the conclusion set out in Part I of this opinion., 46 C. F. R. Cum. Supp. § 306.44
+  <em>
+   et seq.
+  </em>
+<span citation-index="1" class="star-pagination" label="795"> 
+   *795
+   </span>
+  The solution of the problem of determining the employer under such a contract depends upon determining whose enterprise the operation of the vessel was. Such words as employer, agent, independent contractor are not decisive. No single phrase can be said to determine the employer. One must look at the venture as a whole. Whose orders controlled the master and the crew? Whose money paid their wages? . Who hired the crew? Whose initiative and judgment chose the route and the ports? It is in the light of these basic considerations that one must read the contract. No evidence has come to our attention that indicates the general agent ever undertook to give orders or directions as to the route or management of the ship while on voyage.
+ </p>
+<p id="b859-4">
+  An examination of the terms of the contract and the actual conduct of the parties under this agreement, so far as shown by the record, demonstrates that the United States had retained for the entire voyage the possession, management,, and navigation of the vessel and control of the ship’s officers and crew to the exclusion of the general agent. Under , the General Agency Agreement the general agent is appointed by the United States “as its agent and not as an independent contractor, to manage and conduct the business of vessels assigned to it.” Art. I. The general agent agrees “to manage and conduct the business for the United States, in accordance with such directions, orders, or regulations as the latter has prescribed, or from time to time may prescribe.” Art. 2. The general agent engages itself to “maintain the vessels in such trade or service as the United States may direct,” to “collect all moneys due the United States” under the agreement, to “equip, victual, supply and maintain the vessels, subject to such directions, orders, regulations and methods of supervision and inspection as the United States m'afy from time to time prescribe,” Art. .3A, to “arrange for the repair of the vessels” and \ to “exercis^ reasonable diligence in making inspections an^ obtaining
+  <span citation-index="1" class="star-pagination" label="796"> 
+   *796
+   </span>
+  information with respect to the state of repair and condition of the vessels.” Art. 14. The agreement provides in Art. 3A (d) that:
+ </p>
+<blockquote id="b860-6">
+  “(d) The General Agent shall procure the Master of the vessels operated hereunder, subject to the approval of the United States. The Master shall be an agent and employee of the United States, and shall have and exercise full control, responsibility and authority with respect to the navigation and management of the vessel. The General Agent shall procure and make available to the Master for engagement by him the officers and men required by him to fill the complement of the vessel. Such officers and men shall be procured by the General Agent through the usual channels and in accordance with the customary practices of commercial operators and upon the terms and conditions prevailing in the particular service or services in which the vessels are to be operated from time to time. The officers and members of the crew shall be subject only to the orders of the Master. All such persons shall be paid in the customary manner with funds by the United States hereunder.”
+ </blockquote>
+<p id="b860-7">
+  It is thus seen that the duties of the respondent were expressly and intentionally limited to those of a ship’s husband who has been engaged to take care of the shore-side business of the ship and who has no part in the actual management or navigation of the vessel. This view is reinforced by the considerations which led to the establishment of the War Shipping Administration to control “the operation, purchase, charter, requisition, and use of all ocean vessels under the flag or control of the United States.”
+  <a class="footnote" href="#fn15" id="fn15_ref">
+   15
+  </a>
+  Secrecy, speed, and efficiency of oper
+  <span citation-index="1" class="star-pagination" label="797"> 
+   *797
+   </span>
+  ation were of paramount importance. Direct governmental operation of the merchant fleet insured sovereign immunity from regulation, taxation,, and inspection, by other sovereignties both local and foreign. At the same time, the services of private shipping companies could be utilized because they possessed personnel skilled in the shoreside business of a ship and familiar with local port facilities and conditions. In addition these private companies were favorably situated through their union and other connections to secure seamen to man the vessels. As a result service agreements were designed whereby the shoreside services and administration of the merchant fleet were to be handled by existing private companiés while the United States, through the master of the ship, retained full control over the navigation and physical operation of the vessel.
+ </p>
+<p id="b861-4">
+  Two types of service agreements were drafted — the General Agency Agreement, with which we are presently concerned, and the Ber th Agency Agreement.
+  <a class="footnote" href="#fn16" id="fn16_ref">
+   16
+  </a>
+  The general agent has the responsibility of husbanding the vessel and his duties are to victual, supply, maintain, and repair the ship. The duties of the berth agent relate primarily to the handling and loading of cargo and other port services such as wharfage and pilotage needed by the vessel. In foreign ports the berth agent also takes care of the husbanding services. There is necessarily a certain overlapping of duties, but to avoid any conflict of authority both the general agent and the berth agent were made subject to “such directions, orders, or regulations* as the [United States] has prescribed, or from time to time may prescribe.”
+  <a class="footnote" href="#fn17" id="fn17_ref">
+   17
+  </a>
+  This division of duties between
+  <span citation-index="1" class="star-pagination" label="798"> 
+   *798
+   </span>
+  the general agent and the berth agent emphasizes the fact that neither the possession nor management of the vessel was conferred on either of them. There could be ho occasion for any conflict of authority with regard to orders received by the master as to the actual operation of the ship, for he was expressly made, in Art. 3A (d), the agent and employee of the United States with “full control, responsibility and authority with respect to the navigation and management of the vessel.”
+ </p>
+<p id="b862-6">
+  Even the discretion vested in the agents was decreased by the master contracts which the United States executed for the furnishing of numerous services and supplies required by the vessels.
+  <a class="footnote" href="#fn18" id="fn18_ref">
+   18
+  </a>
+  There were also detailed instructions issued by the War Shipping Administration as to the terms of the contracts which the agents were authorized to enter into,
+  <a class="footnote" href="#fn19" id="fn19_ref">
+   19
+  </a>
+  and these contracts were required to be executed in the name of the United States as principia!.
+  <a class="footnote" href="#fn20" id="fn20_ref">
+   20
+  </a>
+</p>
+<p id="b862-7">
+  At the time of the wartime requisition of the privately owned merchant fleet, the government administrative agencies concerned gave careful study to the question of whether the crews were to be employees of the shipping companies or of the United States.
+  <a class="footnote" href="#fn21" id="fn21_ref">
+   21
+  </a>
+  There were outstanding many collective bargaining agreements between the private shipping companies and the maritime unions. It was manifestly undesirable to disturb these existing agreements and for the Government to negotiate new
+  <span citation-index="1" class="star-pagination" label="799"> 
+   *799
+   </span>
+  ones.
+  <a class="footnote" href="#fn22" id="fn22_ref">
+   22
+  </a>
+  Yet it was essential that the masters and crews be government employees in order to obviate strikes and work stoppages, to insure sovereign immunity for the vessels, and to preserve wartime secrecy by confining all litigation concerning operation of the vessels to the admiralty courts where.appropriate security precautions could be observed. The service agreements, therefore, provided that the officers and men to fill the complement of the vessel should be procured by the general agent through the usual channels upon the terms and conditions customarily prevailing in the services in which the vessels were to be operated.
+  <a class="footnote" href="#fn23" id="fn23_ref">
+   23
+  </a>
+  These men, however, were to be hired by the master of the ship and were to be subject to his orders only. The responsibility of employing the officers, so the Regulations show, was vested exclusively in the master,
+  <a class="footnote" href="#fn24" id="fn24_ref">
+   24
+  </a>
+  and the men so hired became employees of. the United States and not of the general agent.
+  <a class="footnote" href="#fn25" id="fn25_ref">
+   25
+  </a>
+</p>
+<p id="b863-4">
+  Previously existing collective bargaining agreements were adhered to so that seamen’s, conditions of employment would be disrupted as little ¿s possible by the change-over occasioned by government requisition of the vessels. See the War Shipping Administration’s over-all collective bargaining arrangement with the nine princi
+  <span citation-index="1" class="star-pagination" label="800"> 
+   *800
+   </span>
+  pal maritime unions, known as the “Statements of Policy,” WSA Operations Regulations 1, May 25, 1942. Although the War Shipping Administration seamen fell within the exclusion of employees of the United States from the coverage of the National Labor Relations Act, the Administrator arranged to utilize the facilities of the National Labor Relations Board for the designation of bargaining units, while specifically reserving the Administration’s rights with respect to the Board’s absence of jurisdiction over personnel aboard WSA operated vessels.
+  <a class="footnote" href="#fn26" id="fn26_ref">
+   26
+  </a>
+  The House Committee on Merchant Marine and Fisheries, in reporting the Clarification Act, expressly approved of this practical solution of the collective bargaining problem.
+  <a class="footnote" href="#fn27" id="fn27_ref">
+   27
+  </a>
+  A similar practical arrangement was made in connection with the functioning of the War Labor Board.
+ </p>
+<p id="b864-6">
+  The shipping articles summarized above, pp. 785-786, complied with the tenor of the General Agency Agreement by making it clear that respondent was an employee of the' United States. In order to pay the crew and the other expenses incidental to the operation of the ship, the War Shipping Administration deposited funds in a special joint bank account set up in the name of the agent “as general agent for the War Shipping Administration.” From this special account the general agent drew the funds and turned them over to the master to pay the crew. No money of the general agent was used for this purpose or in the operation of the vessel.
+ </p>
+<p id="b864-7">
+  Thus the cases and an analysis of the relations established by the standard form agreement lead to the con
+  <span citation-index="1" class="star-pagination" label="801"> 
+   *801
+   </span>
+  elusion that an agent such as Cosmopolitan, who contracts to manage certain shoreside business of a vessel operated by the War Shipping Administration, is not liable to a seaman for injury caused by the negligence of the master or crew of such a vessel.
+ </p>
+<p id="b865-5">
+<em>
+   Reversed.
+  </em>
+</p>
+<judges id="b865-6">
+  Mr. Justice Black, Mr. Justice Douglas, Mr. Justice Murphy and Mr. Justice Rutledge dissent.
+ </judges>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b849-6">
+   46 C. F. R. Cum. Supp. § 306.44.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b849-7">
+   <span class="citation no-link">41 Stat. 1007</span>, <span class="citation no-link">46 U. S. C. § 688</span>, which provides in pertinent part:
+  </p>
+<p id="b849-8">
+   “Any seaman who shall suffer personal- injury in the course of his employment may, at his election, maintain an action for damages at law, with the right of trial by jury, and in such action all statutes of the United States modifying or extending the common-law right or remedy in cases of personal injury to .railway employees shall apply; . . .” •
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b849-10">
+   <span class="citation no-link">57 Stat. 45,50</span> U. S. C. App. § 1291.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b849-11">
+   See text, p.
+   <em>
+    796r infra.
+   </em>
+</p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b850-7">
+   Under <span class="citation no-link">46 U. S. C. §§ 564</span>, 565,713, the crewman signs "the shipping articles in the presence of’ a United States .Shipping Commissioner who certifies • that the crewman fully understands the contents of the instrument.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b851-6">
+   Note 2,
+   <em>
+    supra.
+   </em>
+</p>
+<p id="b851-7">
+   As §33 shows on its face, a seaman has the advantages of the Act only against his employer.
+   <em>
+    Panama R. Co.
+   </em>
+   v.
+   <em>
+    Johnson,
+   </em>
+   <span class="citation" data-id="100385"><a href="/opinion/100385/panama-railroad-v-johnson/#389" aria-description="Citation for case: Panama Railroad v. Johnson">264 U. S. 375, 389</a></span>;
+   <em>
+    Nolan
+   </em>
+   v.
+   <em>
+    General Seafoods Corp.,
+   </em>
+   <span class="citation" data-id="1498772"><a href="/opinion/1498772/nolan-v-general-seafoods-corporation/#517" aria-description="Citation for case: Nolan v. General Seafoods Corporation">112 F. 2d 515, 517</a></span>;
+   <em>
+    The Norland,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/F.%202d/101/967/">101 F. 2d 967</a></span>;
+   <em>
+    Baker
+   </em>
+   v.
+   <em>
+    Moore-McCormack Lines,
+   </em>
+   <span class="citation" data-id="2399524"><a href="/opinion/2399524/baker-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Baker v. Moore-McCormack Lines, Inc.">57 F. Supp. 207</a></span>, 20
+   <em>
+    8; Eggleston
+   </em>
+   v.
+   <em>
+    Republic Steel Corp.,
+   </em>
+   <span class="citation" data-id="1799604"><a href="/opinion/1799604/eggleston-v-republic-steel-corporation/#659" aria-description="Citation for case: Eggleston v. Republic Steel Corporation">47 F. Supp. 658, 659</a></span>;
+   <em>
+    Gardiner
+   </em>
+   v.
+   <em>
+    Agwilines, Inc.,
+   </em>
+   <span class="citation" data-id="8767460"><a href="/opinion/8783654/gardiner-v-agwilines-inc/" aria-description="Citation for case: Gardiner v. Agwilines, Inc.">29 F. Supp. 348</a></span>.
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b852-6">
+   It should be noted that a concurring opinion added to the grounds given in the Court’s opinion an argument that Moore-McCormack was owner
+   <em>
+    pro hac vice.
+   </em>
+   <span class="citation multiple-matches"><a href="/c/U.%20S./328/734/">328 U. S. 734</a></span>. This' view was again rejected in
+   <em>
+    <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">Caldarola</a></span>
+   </em>
+   v.
+   <em>
+    Eckert,
+   </em>
+   <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/#159" aria-description="Citation for case: Caldarola v. Eckert">332 U. S. at 159</a></span>. A contract such as this does not give “exclusive possession, command, and navigation of the vessel,”
+   <em>
+    Reed
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="88349"><a href="/opinion/88349/reed-v-united-states/#600" aria-description="Citation for case: Reed v. United States">11 Wall. 591, 600</a></span>, and therefore fails to give the operator an owner’s power.
+   <em>
+    Leary
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="88569"><a href="/opinion/88569/leary-v-united-states/#611" aria-description="Citation for case: Leary v. United States">14 Wall. 607, 611</a></span>;
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Shea,
+   </em>
+   <span class="citation" data-id="93822"><a href="/opinion/93822/united-states-v-shea/#186" aria-description="Citation for case: United States v. Shea">152 U. S. 178, 186-89</a></span>.
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b852-7">
+   57 Stat/45, 50 U. S. C. App. § 1291:
+  </p>
+<p id="AKqU">
+   “(a) officers and members of crews (hereinafter referred to as ‘seamen’) employed on United States or foreign flag vessels as employees of the United States through the War Shipping Administration shall, with respect to (1) laws administered by the Public Health Service and the Social Security Act, as amended by subsection (b) (2) and (3) of this section; (2) death, injuries, illness, maintenance and cure, loss of effects, detention, or repatriation, or claims arising^ therefrom not covered by the foregoing clause (4); and (3) collection of wages and bonuses and making of allotments, have all of the rights, benefits, exemptions, privileges, and liabilities, under law applicable to citizens of the United States employed as seamen on privately owned and operated American vessels. Such seamen, because of the temporary wartime character of their employment by the War Shipping Administration, shall not be considered as officers or employees of the United States for the purposes of the United States Employees Compensation Act, as amended; the Civil Service Retirement Act, as amended; the Act of Congress approved March 7, 1942 (Public Law 490, Seventy-seventh Congress); or-the Act entitled ‘An Act to provide benefits for the injury, disability, death, or detention of employees of contractors with the United States and certain other persons or reimbursement therefor’, approved December
+   <span citation-index="1" class="star-pagination" label="789"> 
+    *789
+    </span>
+   2, 1942 (Public Law 784, Seventy-seventh Congress). Claims arising under clause (1) hereof shall be enforced in the same manner as such claims would be enforced if the seaman were employed on a privately owned and operated American vessel. Any claim referred to in clause (2) or (3) hereof shall, if administratively disallowed in whole or in part, be enforced pursuant to the provisions of the Suits in Admiralty Act, notwithstanding the vessel on which the seaman is employed is not a merchant vessel within the meaning of such Act. Any claim, right, or cause of action of or in respect of any such seaman accruing on or after October 1, 1941, and prior to the date of enactment of this section may be enforced, and upon the election of the seaman or his surviving dependent or beneficiary, or his legal representative to do so shall be governed, as if this section had been in effect when such claim, right, or cause of action accrued, such election to be made in accordance with rules and regulations prescribed by the Administrator, War Shipping Administration. Rights of any seaman under the Social Security Act, as amended by subsection (b) (2) and (3), .and claims therefor shall be governed solely by the provisions of such Act, so amended. When used in this subsection the term ‘administratively disallowed’ means a denial of a written claim'in accordance with rules or regulations prescribed by the Administrator, War Shipping Administration. . . .”
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b853-6">
+   See the discussion of the
+   <em>
+    <span class="citation" data-id="103761"><a href="/opinion/103761/brady-v-roosevelt-steamship-co/" aria-description="Citation for case: Brady v. Roosevelt Steamship Co.">Brady</a></span>
+   </em>
+   case at <span class="citation multiple-matches"><a href="/c/U.%20S./328/745/">328 U. S. 745</a></span>-47.
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b854-6">
+   Newsboys,
+   <em>
+    Labor Board
+   </em>
+   v.
+   <em>
+    Hearst Publications,
+   </em>
+   <span class="citation" data-id="103979"><a href="/opinion/103979/national-labor-relations-board-v-hearst-publications-inc/#120" aria-description="Citation for case: National Labor Relations Board v. Hearst Publications, Inc.">322 U. S. 111, 120, 128-31</a></span>; unloaders of coal cars,
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Silk,
+   </em>
+   <span class="citation" data-id="104447"><a href="/opinion/104447/united-states-v-silk/#713" aria-description="Citation for case: United States v. Silk">331 U. S. 704, 713</a></span>; meat boners,
+   <em>
+    Rutherford Food Corp.
+   </em>
+   v.
+   <em>
+    McComb,
+   </em>
+   <span class="citation" data-id="104448"><a href="/opinion/104448/rutherford-food-corp-v-mccomb/" aria-description="Citation for case: Rutherford Food Corp. v. McComb">331 U. S. 722</a></span>.
+  </p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b855-5">
+   But compare
+   <em>
+    Robinson
+   </em>
+   v.
+   <em>
+    Baltimore &amp;
+   </em>
+   L.
+   <em>
+    O. R. Co.,
+   </em>
+   <span class="citation" data-id="98416"><a href="/opinion/98416/robinson-v-baltimore-ohio-railroad/" aria-description="Citation for case: Robinson v. Baltimore &amp; Ohio Railroad">237 U. S. 84</a></span>, 94:
+  </p>
+<p id="b855-6">
+   “We are of the opinion that Congress used the words ‘employé’ and ‘employed’ in the statute in their natural sense, and intended to describe the conventional relation , of employer and employe.”
+  </p>
+<p id="As2">
+<em>
+    Hull
+   </em>
+   v.
+   <em>
+    Philadelphia &amp; Reading R. Co.,
+   </em>
+   <span class="citation" data-id="99567"><a href="/opinion/99567/hull-v-philadelphia-reading-railway-co/" aria-description="Citation for case: Hull v. Philadelphia &amp; Reading Railway Co.">252 U. S. 475</a></span>.
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="b855-8">
+   It is much the same type of problem as was presented in
+   <em>
+    Bartels
+   </em>
+   v.
+   <em>
+    Birmingham,
+   </em>
+   <span class="citation" data-id="104456"><a href="/opinion/104456/bartels-v-birmingham/" aria-description="Citation for case: Bartels v. Birmingham">332 U. S. 126</a></span>. There we concluded that the leader and organizer of a traveling orchestra was the employer of the band members rather than the various dance hall proprietors for whom the orchestra performed.
+  </p>
+</div><div class="footnote" id="fn13" label="13">
+<a class="footnote" href="#fn13_ref">
+   13
+  </a>
+<p id="b856-8">
+   Eor a full discussion see the dissent in
+   <em>
+    Hust
+   </em>
+   v.
+   <em>
+    Moore-McCormack,
+   </em>
+   <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/#744" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">328 U. S. 707, 744</a></span>, and the excerpts from the Senate and House Reports, footnotes 9 and 10.
+  </p>
+<p id="b856-9">
+   For the background of the statutory distinctions drawn between public vessels and merchant vessels, see
+   <em>
+    Canadian Aviator, Ltd.
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="104094"><a href="/opinion/104094/canadian-aviator-ltd-v-united-states/#218" aria-description="Citation for case: Canadian Aviator, Ltd. v. United States">324 U. S. 215, 218-22</a></span>;
+   <em>
+    American Stevedores
+   </em>
+   v.
+   <em>
+    Porello,
+   </em>
+   <span class="citation" data-id="104389"><a href="/opinion/104389/american-stevedores-inc-v-porello/#450" aria-description="Citation for case: American Stevedores, Inc. v. Porello">330 U. S. 446, 450-54</a></span>.
+  </p>
+</div><div class="footnote" id="fn14" label="14">
+<a class="footnote" href="#fn14_ref">
+   14
+  </a>
+<p id="b858-8">
+   Although Congress has not enacted legislation to make entirely clear the remedies of W. S. A. seamen against the United States for torts, there has been an effort to do so. H. R. 4873, 80th Cong., 2d Sess., sought to do so by amending the Suits in Admiralty Act, § 5, <span class="citation no-link">41 Stat. 525</span>, 526, so as to make the remedy in admiralty of that act exclusive as to the same subject matter so as to protect the general agent from suits such as
+   <em>
+    <span class="citation" data-id="104320"><a href="/opinion/104320/hust-v-moore-mccormack-lines-inc/" aria-description="Citation for case: Hust v. Moore-McCormack Lines, Inc.">Hust</a></span>
+   </em>
+   or
+   <em>
+    <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">Caldarola</a></span>.
+   </em>
+   The bill was passed by the House June 8, 1948, 94 Cong. Rec. 7388-89, but was not passed by the Senate. H. R. 483 and 4051 of the 81st Cong., 1st Sess., to the same effect, are.now pending. In H. R. Rep. No. 2060 on H. R. 4873, 80th Cong., 2d Sess., the Committee on the Judiciary said, p. 2:
+  </p>
+<p id="b858-9">
+   “Then the Supreme Court on June 23,1947, handed down its decision in
+   <em>
+    Caldarola
+   </em>
+   v.
+   <em>
+    Eckert
+   </em>
+   (<span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">332 U. S. 155</a></span>), which claifified, in the opinion of the committee, the rule previously announced so as to makd it plain that the agent while liable for the negligence of its own employees was not liable for the negligence of the civil-service masters and crews with whom the United States manned the vessels. For the negligence of those, the United States was the only responsible party. The committee believes that litigants should, not be made the victims of the legal confusion regarding the proper remedy ill such cases, and are not responsible for the conditions brought about by the lack of clarity in tt s opinions of the Supreme Court. Legislative relief is requisite not mly to save to litigants possessing meritorious claims their right to
+   <em>
+    2
+   </em>
+   day in court, but also to settle the question of remedy in future cas'/s.”
+  </p>
+</div><div class="footnote" id="fn15" label="15">
+<a class="footnote" href="#fn15_ref">
+   15
+  </a>
+<p id="b860-8">
+   Executive Order 9054 of February 7, 1942, issued under the First War Powers Act of December 18, 1941, <span class="citation no-link">55 Stat. 838</span>. 3 C. F. R. Cum. Supp. 1086.
+  </p>
+</div><div class="footnote" id="fn16" label="16">
+<a class="footnote" href="#fn16_ref">
+   16
+  </a>
+<p id="AIHQ">
+   Promulgated by the Administrator, War Shipping Administration, in General Order No. 21, Sept. 22, 1942, and Supp. 4 thereto, Dec. 29, 1943. <span class="citation no-link">7 Fed. Reg. 7561</span>; <span class="citation no-link">8 Fed. Reg. 17512</span>. -
+  </p>
+</div><div class="footnote" id="fn17" label="17">
+<a class="footnote" href="#fn17_ref">
+   17
+  </a>
+<p id="b861-7">
+   Article 2 of the General Agency Agreement, form GAA 4-4-42, and Article 2 of the Berth Agency Agreement, form BA 12-29-43.,
+  </p>
+</div><div class="footnote" id="fn18" label="18">
+<a class="footnote" href="#fn18_ref">
+   18
+  </a>
+<p id="b862-8">
+   Examples of such contracts are contained in the record of
+   <em>
+    Caldarola
+   </em>
+   v.
+   <em>
+    Eckert,
+   </em>
+   <span class="citation" data-id="104459"><a href="/opinion/104459/caldarola-v-eckert/" aria-description="Citation for case: Caldarola v. Eckert">332 U. S. 155</a></span>, No. 625, 1946 Term.
+  </p>
+</div><div class="footnote" id="fn19" label="19">
+<a class="footnote" href="#fn19_ref">
+   19
+  </a>
+<p id="b862-9">
+   For example, see Operations Regulations Nos. 27 (towage contracts); 84 (duties of berth agents, general agents, and agents); 97 (bunker oil contracts); 99, Supp. 1 and 2 (pilferage).
+  </p>
+</div><div class="footnote" id="fn20" label="20">
+<a class="footnote" href="#fn20_ref">
+   20
+  </a>
+<p id="b862-10">
+   General Order No. 42 of the War Shipping Administration, 9 F. R. 4110.
+  </p>
+</div><div class="footnote" id="fn21" label="21">
+<a class="footnote" href="#fn21_ref">
+   21
+  </a>
+<p id="b862-11">
+   See letter of April 28, 1947, from the General Counsel of the Maritime Commission to the Department of Justice.
+  </p>
+</div><div class="footnote" id="fn22" label="22">
+<a class="footnote" href="#fn22_ref">
+   22
+  </a>
+<p id="b863-5">
+   See the Statements of Policy of May 4 and May 12, 1942, issued by the War Shipping Administration and the various maritime unions. WSA Operations Regulation No. 1.
+  </p>
+</div><div class="footnote" id="fn23" label="23">
+<a class="footnote" href="#fn23_ref">
+   23
+  </a>
+<p id="b863-6">
+   Article 3A (d) of the General Agency Agreement, set out in text of opinion at p. 796.
+  </p>
+</div><div class="footnote" id="fn24" label="24">
+<a class="footnote" href="#fn24_ref">
+   24
+  </a>
+<p id="b863-7">
+   Operations- Regulations No. 15, Directive No. 2, issued by the War Shipping Administration provided: “The Master of a vessel has full discretion in signing on crew members and may reject any person seeking employment .... Records shall be kept of the names of those rejected and of the reason for rejection and shall be submitted to the port office of the Recruitment and Manning Organization of the War Shipping Administration in the port in which the rejection occurs.”
+  </p>
+</div><div class="footnote" id="fn25" label="25">
+<a class="footnote" href="#fn25_ref">
+   25
+  </a>
+<p id="b863-8">
+   See Restatement, Agency, § 79, comment (a).
+  </p>
+</div><div class="footnote" id="fn26" label="26">
+<a class="footnote" href="#fn26_ref">
+   26
+  </a>
+<p id="b864-8">
+   See letter of October 20, 1942, from the War Shipping Administration to the National Labor Relations Board, and the reply of October 26, 1942, record, pp. 43-51, in No. 360,
+   <em>
+    Fink
+   </em>
+   v.
+   <em>
+    Shepard Steamship Co., post,
+   </em>
+   p. 810.
+  </p>
+</div><div class="footnote" id="fn27" label="27">
+<a class="footnote" href="#fn27_ref">
+   27
+  </a>
+<p id="b864-9">
+   H. R. Rep. No. 107, 78th Cong., 1st Sess., pp. 23-24.
+  </p>
+</div></div></opinion>

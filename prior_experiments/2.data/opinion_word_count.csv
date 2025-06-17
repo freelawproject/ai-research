@@ -1,0 +1,134 @@
+citing_opinion_id,court,docket_id,cluster_id,opinion_types,opinion_sources,word_counts,combined_word_counts
+91306,scotus,2297559,91306,['010combined'],['html_with_citations'],['6412'],6412.0
+92059,scotus,96842,92059,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['2554', '827', '8998', '12505']",12505.0
+92291,scotus,2449371,92291,['010combined'],['html_with_citations'],['3094'],3094.0
+93311,scotus,2397685,93311,['010combined'],['html_with_citations'],['9048'],9048.0
+93904,scotus,229746,93904,['010combined'],['html_with_citations'],['1675'],1675.0
+98124,scotus,428794,98124,['010combined'],['html_with_citations'],['1395'],1395.0
+98917,scotus,2556141,98917,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['709', '4725', '5538']",5538.0
+99004,scotus,1068425,99004,['010combined'],['html_with_citations'],['3460'],3460.0
+99901,scotus,80418,99901,['010combined'],['html_with_citations'],['1090'],1090.0
+101368,scotus,621994,101368,['010combined'],['html_with_citations'],['2220'],2220.0
+101750,scotus,406609,101750,['010combined'],['html_with_citations'],['1925'],1925.0
+101913,scotus,406726,101913,['010combined'],['html_with_citations'],['2036'],2036.0
+102164,scotus,845304,102164,['010combined'],['html_with_citations'],['4859'],4859.0
+102784,scotus,81694,102784,['010combined'],['html_with_citations'],['9283'],9283.0
+103012,scotus,119296,103012,"['030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['604', '7737', '8424']",8424.0
+103172,scotus,1740034,103172,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['348', '1604', '4158', '6304']",6304.0
+103214,scotus,1507922,103214,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['5432', '1637', '7197']",7197.0
+103198,scotus,2503656,103198,['010combined'],['html_with_citations'],['7951'],7951.0
+103292,scotus,2457842,103292,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['3746', '29', '4753', '8853']",8853.0
+103290,scotus,2381796,103290,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['83', '32', '2739', '2963']",2963.0
+103351,scotus,107747,103351,['010combined'],['html_with_citations'],['2057'],2057.0
+103557,scotus,263902,103557,"['030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['1414', '1414', '2282', '5269']",5269.0
+103505,scotus,25924,103505,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['1386', '4896', '6404']",6404.0
+103522,scotus,122651,103522,['010combined'],['html_with_citations'],['2441'],2441.0
+103555,scotus,339919,103555,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['4631', '5414', '10249']",10249.0
+103493,scotus,275019,103493,['010combined'],['html_with_citations'],['2179'],2179.0
+103442,scotus,2545547,103442,['010combined'],['html_with_citations'],['5912'],5912.0
+103639,scotus,76615,103639,['010combined'],['html_with_citations'],['2660'],2660.0
+103736,scotus,82108,103736,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['5693', '1207', '5471', '12475']",12475.0
+103761,scotus,1507628,103761,['010combined'],['html_with_citations'],['3368'],3368.0
+103831,scotus,463562,103831,"['040dissent', '040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['5730', '5730', '3959', '12194']",12194.0
+103869,scotus,263995,103869,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['4211', '4442', '9565']",9565.0
+103870,scotus,174195,103870,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['8222', '1193', '6073', '15659']",15659.0
+103915,scotus,193031,103915,"['040dissent', '040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['1451', '1451', '9151', '23187']",23187.0
+103927,scotus,276514,103927,['010combined'],['html_with_citations'],['5831'],5831.0
+103916,scotus,1209308,103916,"['040dissent', '040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['766', '766', '4732', '6183']",6183.0
+103962,scotus,441589,103962,['010combined'],['html_with_citations'],['7256'],7256.0
+104285,scotus,443088,104285,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['3068', '3081', '6260']",6260.0
+104380,scotus,444842,104380,"['040dissent', '040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['2848', '2848', '2849', '9517']",9517.0
+2764117,scotus,2618367,2764117,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['7314', '4205', '12130']",12130.0
+104704,scotus,408441,104704,['010combined'],['html_with_citations'],['5627'],5627.0
+104610,scotus,408409,104610,['010combined'],['html_with_citations'],['3594'],3594.0
+104641,scotus,113273,104641,['010combined'],['html_with_citations'],['8572'],8572.0
+105014,scotus,408622,105014,"['030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['86', '86', '3232', '13928']",13928.0
+104965,scotus,1163200,104965,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['1104', '755', '1956']",1956.0
+105319,scotus,1554859,105319,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['4163', '1694', '5970']",5970.0
+105525,scotus,253455,105525,"['040dissent', '030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['3875', '7586', '7586', '13035', '29014']",29014.0
+105543,scotus,1507220,105543,"['040dissent', '040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['3031', '3031', '1071', '6539']",6539.0
+106235,scotus,1556001,106235,"['035concurrenceinpart', '035concurrenceinpart', '035concurrenceinpart', '035concurrenceinpart', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['6358', '6358', '6358', '6358', '3087', '15405']",15405.0
+106285,scotus,2043318,106285,"['040dissent', '030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['4725', '1813', '1813', '5646', '14304']",14304.0
+106576,scotus,1507832,106576,['010combined'],['html_with_citations'],['2364'],2364.0
+106883,scotus,2472190,106883,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['2281', '4632', '7030']",7030.0
+107121,scotus,131808,107121,['010combined'],['html_with_citations'],['3337'],3337.0
+107081,scotus,195151,107081,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['5068', '8104', '13330']",13330.0
+107252,scotus,1434683,107252,"['040dissent', '035concurrenceinpart', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['6387', '8978', '19641', '35839']",35839.0
+107464,scotus,1632799,107464,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['7923', '4676', '12829']",12829.0
+107473,scotus,1119480,107473,['010combined'],['html_with_citations'],['5218'],5218.0
+107564,scotus,203204,107564,"['040dissent', '030concurrence', '030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['3333', '339', '339', '339', '3901', '8927']",8927.0
+107343,scotus,265986,107343,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['2733', '8972', '11911']",11911.0
+107689,scotus,473228,107689,"['030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['113', '2449', '2650']",2650.0
+107685,scotus,681195,107685,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['7164', '2892', '5720', '15969']",15969.0
+107746,scotus,1016314,107746,"['040dissent', '040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['364', '364', '2586', '3438']",3438.0
+107606,scotus,68615,107606,['010combined'],['html_with_citations'],['7110'],7110.0
+107679,scotus,379337,107679,['010combined'],['html_with_citations'],['4471'],4471.0
+107980,scotus,18149,107980,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['3859', '686', '4184', '8902']",8902.0
+107965,scotus,346464,107965,"['030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['84', '84', '1597', '3963']",3963.0
+107979,scotus,1507658,107979,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['4604', '341', '5100', '10124']",10124.0
+107748,scotus,46388,107748,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['9587', '1878', '11506', '23694']",23694.0
+107973,scotus,101769,107973,"['030concurrence', '035concurrenceinpart', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['1816', '362', '6873', '9205']",9205.0
+107919,scotus,1507608,107919,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['885', '1328', '2309']",2309.0
+108114,scotus,287659,108114,"['040dissent', '030concurrence', '030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['2997', '245', '245', '245', '3565', '10832']",10832.0
+108154,scotus,442901,108154,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['1895', '164', '5661', '7897']",7897.0
+108164,scotus,392187,108164,['010combined'],['html_with_citations'],['2786'],2786.0
+108186,scotus,2459177,108186,"['035concurrenceinpart', '040dissent', '035concurrenceinpart', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['3344', '332', '3344', '256', '9287', '22528']",22528.0
+108362,scotus,92633,108362,"['030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['47', '5656', '5824']",5824.0
+108350,scotus,442430,108350,"['030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['4643', '6576', '11388']",11388.0
+108730,scotus,414828,108730,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['2980', '293', '5173', '8526']",8526.0
+108721,scotus,239783,108721,['010combined'],['html_with_citations'],['2874'],2874.0
+108889,scotus,443532,108889,['010combined'],['html_with_citations'],['3424'],3424.0
+108990,scotus,1139669,108990,"['040dissent', '040dissent', '040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['2766', '2766', '2766', '8881', '14664']",14664.0
+109252,scotus,2508658,109252,['010combined'],['html_with_citations'],['4891'],4891.0
+109514,scotus,183816,109514,['010combined'],['html_with_citations'],['2714'],2714.0
+109570,scotus,696040,109570,"['040dissent', '040dissent', '030concurrence', '030concurrence', '030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['590', '590', '530', '530', '530', '530', '6495', '12567']",12567.0
+109346,scotus,126256,109346,['010combined'],['html_with_citations'],['91'],91.0
+109532,scotus,669681,109532,"['040dissent', '040dissent', '030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['1231', '1231', '6404', '6404', '15573', '26565']",26565.0
+109390,scotus,443526,109390,"['040dissent', '030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['5380', '348', '348', '4587', '10947']",10947.0
+109508,scotus,13073,109508,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['1111', '269', '7306', '8882']",8882.0
+109344,scotus,421802,109344,"['030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['89', '7889', '8269']",8269.0
+109499,scotus,397308,109499,"['040dissent', '040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['7939', '7939', '147', '6349', '15462']",15462.0
+109450,scotus,463564,109450,"['040dissent', '030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['2832', '550', '550', '7878', '13275']",13275.0
+109615,scotus,240116,109615,['010combined'],['html_with_citations'],['5248'],5248.0
+109716,scotus,401653,109716,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['47', '4072', '7724', '12022']",12022.0
+109580,scotus,697831,109580,"['040dissent', '040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['29', '29', '6038', '10893']",10893.0
+109835,scotus,271970,109835,"['030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['928', '8784', '9822']",9822.0
+109881,scotus,266243,109881,"['040dissent', '030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['3632', '3409', '3409', '16140', '23311']",23311.0
+109895,scotus,86099,109895,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['4878', '6322', '11240']",11240.0
+110063,scotus,157215,110063,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['2564', '5447', '8099']",8099.0
+110212,scotus,240272,110212,"['030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['430', '4127', '4697']",4697.0
+110325,scotus,828162,110325,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['774', '3623', '4506']",4506.0
+110563,scotus,1550125,110563,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['5785', '390', '8637', '15336']",15336.0
+110799,scotus,1858114,110799,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['1786', '6189', '8300']",8300.0
+110719,scotus,432628,110719,"['040dissent', '040dissent', '030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['48', '48', '136', '136', '9325', '15541']",15541.0
+111218,scotus,162324,111218,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['6872', '7905', '15497']",15497.0
+111103,scotus,1000145,111103,['010combined'],['html_with_citations'],['3955'],3955.0
+111308,scotus,155595,111308,"['040dissent', '040dissent', '040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['7861', '7861', '7861', '9293', '20870']",20870.0
+111404,scotus,2517240,111404,['010combined'],['html_with_citations'],['5474'],5474.0
+111555,scotus,27760,111555,"['030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['2606', '2761', '5503']",5503.0
+111940,scotus,240876,111940,"['030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['115', '115', '3394', '3702']",3702.0
+111948,scotus,160062,111948,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['5700', '232', '5424', '11647']",11647.0
+112040,scotus,10598,112040,"['040dissent', '030concurrence', '030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['1300', '97', '97', '97', '7058', '9384']",9384.0
+112276,scotus,144896,112276,"['040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['131', '2828', '3082']",3082.0
+112301,scotus,160121,112301,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['1445', '637', '6096', '8423']",8423.0
+112258,scotus,1242860,112258,"['035concurrenceinpart', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['4932', '5883', '11078']",11078.0
+112471,scotus,1611214,112471,"['030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['3118', '4555', '7805']",7805.0
+112608,scotus,326716,112608,"['040dissent', '040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['27', '27', '1369', '4783', '12071']",12071.0
+112640,scotus,10689,112640,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['5312', '414', '10205', '16255']",16255.0
+112609,scotus,1507401,112609,['010combined'],['html_with_citations'],['3244'],3244.0
+112728,scotus,1334648,112728,"['040dissent', '040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['3880', '3880', '3391', '7825']",7825.0
+112739,scotus,241177,112739,"['035concurrenceinpart', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['3869', '905', '6099', '11606']",11606.0
+112906,scotus,314325,112906,['010combined'],['html_with_citations'],['25970'],25970.0
+117947,scotus,1984545,117947,"['040dissent', '040dissent', '040dissent', '030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['7858', '7858', '7858', '284', '284', '10948', '24663']",24663.0
+117931,scotus,117185,117931,"['040dissent', '035concurrenceinpart', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['2237', '653', '6345', '9474']",9474.0
+117958,scotus,26862,117958,"['030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'html_with_citations']","['1556', '5448', '7249']",7249.0
+118023,scotus,79452,118023,"['030concurrence', '030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['485', '485', '485', '9359', '15678']",15678.0
+118011,scotus,1113943,118011,"['040dissent', '040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['8025', '8025', '10363', '50275']",50275.0
+118133,scotus,1630588,118133,"['040dissent', '040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['4818', '4818', '10384', '17609']",17609.0
+118155,scotus,5522,118155,"['030concurrence', '030concurrence', '030concurrence', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['197', '197', '197', '197', '3482', '7787']",7787.0
+118149,scotus,321056,118149,['010combined'],['html_with_citations'],['5717'],5717.0
+118230,scotus,223158,118230,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['4018', '167', '5014', '9654']",9654.0
+118317,scotus,222271,118317,"['040dissent', '040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['670', '670', '7739', '12640']",12640.0
+118386,scotus,1507199,118386,"['040dissent', '030concurrence', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['15888', '10006', '12238', '39064']",39064.0
+118428,scotus,52338,118428,"['035concurrenceinpart', '035concurrenceinpart', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['1701', '1701', '6577', '8631']",8631.0
+118273,scotus,410914,118273,"['040dissent', '040dissent', '020lead', '010combined']","['xml_harvard', 'xml_harvard', 'xml_harvard', 'html_with_citations']","['4148', '4148', '10764', '17508']",17508.0

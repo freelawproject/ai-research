@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b790-16">
+  Mr. Justice Black
+ </author>
+<p id="AYu">
+  delivered the opinion of the Court.
+ </p>
+<p id="b790-17">
+  In this case, properly here on appeal under <span class="citation no-link">28 U. S. C. § 1253</span>, we are asked to review the judgment of a three-judge District Court enjoining, as being in violation of the Due Process Clause of the Fourteenth Amendment, a Kansas statute making it a misdemeanor for any person to engage “in the business of debt adjusting” except as
+  <span citation-index="1" class="star-pagination" label="727"> 
+   *727
+   </span>
+  an incident to “the lawful practice of law in this state.”
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  The statute defines “debt adjusting” as “the making of a contract, express, or implied with a particular debtor whereby the debtor agrees to pay a certain amount of money periodically to the person engaged in the debt adjusting business who shall for a consideration distribute the same among certain specified creditors in accordance with a plan agreed upon.”
+ </p>
+<p id="b791-5">
+  The complaint, filed by appellee Skrupa doing business as “Credit Advisors,” alleged that Skrupa was engaged in the business of “debt adjusting” as defined by the statute, that his business was a “useful and desirable” one, that his business activities were not “inherently immoral or dangerous” or in any way contrary to the public welfare, and that therefore the business could not be “absolutely prohibited” by Kansas. The three-judge court heard evidence by Skrupa tending to show the usefulness and desirability of his business and evidence by the state officials tending to show that “debt adjusting” lends itself to grave abuses against distressed debtors, particularly in the lower income brackets, and that these abuses are of such gravity that a number of States have strictly regulated “debt adjusting” or prohibited it altogether.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  The
+  <span citation-index="1" class="star-pagination" label="728"> 
+   *728
+   </span>
+  court found that Skrupa’s business did fall within the Act’s proscription and concluded, one judge dissenting, that the Act was prohibitory, not regulatory, but that even if construed in part as regulatory it was an unreasonable regulation of a “lawful business,” which the court held amounted to a violation of the Due Process Clause of the Fourteenth Amendment. The court accordingly enjoined enforcement of the statute.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</p>
+<p id="b792-4">
+  The only case discussed by the court below as support for its invalidation of the statute was
+  <em>
+   Commonwealth
+  </em>
+  v.
+  <em>
+   Stone,
+  </em>
+  <span class="citation" data-id="1928704"><a href="/opinion/1928704/commonwealth-v-stone/" aria-description="Citation for case: Commonwealth v. Stone">191 Pa. Super. 117</a></span>, <span class="citation" data-id="1928704"><a href="/opinion/1928704/commonwealth-v-stone/" aria-description="Citation for case: Commonwealth v. Stone">155 A. 2d 453</a></span> (1959), in which the Superior Court of Pennsylvania struck down a statute almost identical to the Kansas act involved here. In
+  <em>
+   <span class="citation" data-id="1928704"><a href="/opinion/1928704/commonwealth-v-stone/" aria-description="Citation for case: Commonwealth v. Stone">Stone</a></span>
+  </em>
+  the Pennsylvania court held that the State could regulate, but could not prohibit, a “legitimate” business. Finding debt adjusting, called “budget planning” in the Pennsylvania statute, not to be “against the public interest” and concluding that it could “see no justification for such interference” with this business, the Pennsylvania court ruled that State’s statute to be unconstitutional. In doing so, the Pennsylvania court relied heavily on
+  <em>
+   Adams
+  </em>
+  v.
+  <em>
+   Tanner,
+  </em>
+  <span class="citation" data-id="98999"><a href="/opinion/98999/adams-v-tanner/" aria-description="Citation for case: Adams v. Tanner">244 U. S. 590</a></span> (1917), which held that the Due Process Clause forbids a State to prohibit a business which is “useful” and not “inherently immoral or dangerous to public welfare.”
+ </p>
+<p id="b792-5">
+  Both the District Court in the present case and the Pennsylvania court in
+  <em>
+   <span class="citation" data-id="1928704"><a href="/opinion/1928704/commonwealth-v-stone/" aria-description="Citation for case: Commonwealth v. Stone">Stone</a></span>
+  </em>
+  adopted the philosophy of
+  <em>
+   <span class="citation" data-id="98999"><a href="/opinion/98999/adams-v-tanner/" aria-description="Citation for case: Adams v. Tanner">Adams</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="98999"><a href="/opinion/98999/adams-v-tanner/" aria-description="Citation for case: Adams v. Tanner">Tanner</a></span>,
+  </em>
+  and cases like it, that it is the province of courts to draw on their own views as to the morality,
+  <span citation-index="1" class="star-pagination" label="729"> 
+   *729
+   </span>
+  legitimacy, and usefulness of a particular business in order to decide whether a statute bears too heavily upon that business and by so doing violates due process. Under the system of government created by our Constitution, it is up to legislatures, not courts, to decide on the wisdom and utility of legislation. There was a time when the Due Process Clause was used by this Court to strike down laws which were thought unreasonable, that is, unwise or incompatible with some particular economic or social philosophy. In this manner the Due Process Clause was used, for example, to nullify laws prescribing maximum hours for work in bakeries,
+  <em>
+   Lochner
+  </em>
+  v.
+  <em>
+   New York,
+  </em>
+  <span class="citation" data-id="96276"><a href="/opinion/96276/lochner-v-new-york/" aria-description="Citation for case: Lochner v. New York">198 U. S. 45</a></span> (1905), outlawing “yellow dog” contracts,
+  <em>
+   Coppage
+  </em>
+  v.
+  <em>
+   Kansas,
+  </em>
+  <span class="citation" data-id="98337"><a href="/opinion/98337/coppage-v-kansas/" aria-description="Citation for case: Coppage v. Kansas">236 U. S. 1</a></span> (1915), setting minimum wages for women,
+  <em>
+   Adkins
+  </em>
+  v.
+  <em>
+   Children’s Hospital,
+  </em>
+  <span class="citation" data-id="100181"><a href="/opinion/100181/adkins-v-childrens-hospital-of-columbia/" aria-description="Citation for case: Adkins v. Children&#x27;s Hospital of Columbia">261 U. S. 525</a></span> (1923), and fixing the weight of loaves of bread,
+  <em>
+   Jay Burns Baking Co.
+  </em>
+  v.
+  <em>
+   Bryan,
+  </em>
+  <span class="citation" data-id="100401"><a href="/opinion/100401/jay-burns-baking-co-v-bryan/" aria-description="Citation for case: Jay Burns Baking Co. v. Bryan">264 U. S. 504</a></span> (1924). This intrusion by the judiciary into the realm of legislative value judgments was strongly objected to at the time, particularly by Mr. Justice Holmes and Mr. Justice Brandéis. Dissenting from the Court’s invalidating a state statute which regulated the resale price of theatre and other tickets, Mr. Justice Holmes said,
+  <span citation-index="1" class="star-pagination" label="730"> 
+   *730
+   </span>
+  And in an earlier case he had emphasized that, “The criterion of constitutionality is not whether we believe the law to be for thé public good.”
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+</p>
+<blockquote id="b793-5">
+<span citation-index="1" class="star-pagination" label="729"> 
+   *729
+   </span>
+  “I think the proper course is to recognize that a state legislature can do whatever it sees fit to do unless it is restrained by some express prohibition in the Constitution of the United States or of the State, and that Courts should be careful not to extend such prohibitions beyond their obvious meaning by reading into them conceptions of public policy that the particular Court may happen to entertain.”
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+</blockquote>
+<p id="A04">
+<span citation-index="1" class="star-pagination" label="730"> 
+   *730
+   </span>
+  The doctrine that prevailed in
+  <em>
+   Lochner, Coppage, Adkins, Burns,
+  </em>
+  and like cases — that due process authorizes courts to hold laws unconstitutional when they believe the legislature has acted unwisely- — -has long since been discarded. We have returned to the original constitutional proposition that courts do not substitute their social and economic beliefs for the judgment of legislative bodies, who are elected to pass laws. As this Court stated in a unanimous opinion in 1941, “We are not concerned . . . with the wisdom, need, or appropriateness of the legislation.”
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  Legislative bodies have broad scope to experiment with economic problems, and this Court does not sit to “subject the State to an intolerable supervision hostile to the basic principles of our Government and wholly beyond the protection which the general clause of the Fourteenth Amendment was intended to secure.”
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+  It is now settled that States “have power to legislate against what are found to be injurious practices in their internal commercial and business affairs, so long as their laws do
+  <span citation-index="1" class="star-pagination" label="731"> 
+   *731
+   </span>
+  not run afoul of some specific federal constitutional prohibition, or of some valid federal law.”
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+</p>
+<p id="b795-5">
+  In the face of our abandonment of the use of the “vague contours”
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+  of the Due Process Clause to nullify laws which a majority of the Court believed to be economically unwise, reliance on
+  <em>
+   <span class="citation" data-id="98999"><a href="/opinion/98999/adams-v-tanner/" aria-description="Citation for case: Adams v. Tanner">Adams</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="98999"><a href="/opinion/98999/adams-v-tanner/" aria-description="Citation for case: Adams v. Tanner">Tanner</a></span>
+  </em>
+  is as mistaken as would be adherence to
+  <em>
+   <span class="citation" data-id="100181"><a href="/opinion/100181/adkins-v-childrens-hospital-of-columbia/" aria-description="Citation for case: Adkins v. Children&#x27;s Hospital of Columbia">Adkins</a></span>
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="100181"><a href="/opinion/100181/adkins-v-childrens-hospital-of-columbia/" aria-description="Citation for case: Adkins v. Children&#x27;s Hospital of Columbia">Children’s Hospital</a></span>,
+  </em>
+  overruled by
+  <em>
+   West Coast Hotel Co.
+  </em>
+  v.
+  <em>
+   Parrish,
+  </em>
+  <span class="citation" data-id="102784"><a href="/opinion/102784/west-coast-hotel-co-v-parrish/" aria-description="Citation for case: West Coast Hotel Co. v. Parrish">300 U. S. 379</a></span> (1937). Not only has the philosophy of
+  <em>
+   <span class="citation" data-id="98999"><a href="/opinion/98999/adams-v-tanner/" aria-description="Citation for case: Adams v. Tanner">Adams</a></span>
+  </em>
+  been abandoned, but also this Court almost 15 years ago expressly pointed to another opinion of this Court as having “clearly undermined”
+  <em>
+   <span class="citation" data-id="98999"><a href="/opinion/98999/adams-v-tanner/" aria-description="Citation for case: Adams v. Tanner">Adams</a></span>.
+  </em>
+<a class="footnote" href="#fn10" id="fn10_ref">
+<em>
+    10
+   </em>
+</a>
+<em>
+</em>
+  We conclude that the Kansas Legislature was free to decide for itself that legislation was needed to deal with the business of debt adjusting. Unquestionably, there are arguments showing that the business of debt adjusting has social utility, but such arguments are properly addressed to the legislature, not to us. We refuse to sit as a “superlegislature to weigh the wisdom of legislation,”
+  <a class="footnote" href="#fn11" id="fn11_ref">
+   11
+  </a>
+  and we emphatically refuse to go back to the time when courts used the Due Process Clause “to strike down state laws, regulatory of business and industrial conditions, because they may be unwise, im
+  <span citation-index="1" class="star-pagination" label="732"> 
+   *732
+   </span>
+  provident, or out of harmony with a particular school of thought.”
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+  Nor are we able or willing to draw lines by calling a law “prohibitory” or “regulatory.” Whether the legislature takes for its textbook Adam Smith, Herbert Spencer, Lord Keynes, or some other is no concern of ours.
+  <a class="footnote" href="#fn13" id="fn13_ref">
+   13
+  </a>
+  The Kansas debt adjusting statute may be wise or unwise. But relief, if any be needed, lies not with us but with the body constituted to pass laws for the State of Kansas.
+  <a class="footnote" href="#fn14" id="fn14_ref">
+   14
+  </a>
+</p>
+<p id="b796-4">
+  Nor is the statute’s exception of lawyers a denial of equal protection of the laws to nonlawyers. Statutes create many classifications which do not deny equal protection; it is only “invidious discrimination” which offends the Constitution.
+  <a class="footnote" href="#fn15" id="fn15_ref">
+   15
+  </a>
+  The business of debt adjusting gives rise to a relationship of trust in which the debt adjuster will, in a situation of insolvency, be marshalling assets in the manner of a proceeding in bankruptcy. The debt adjuster’s client may need advice as to the legality of the various claims against him, remedies existing under state laws governing debtor-creditor relationships, or provisions of the Bankruptcy Act — advice which a nonlawyer cannot lawfully give him. If the State of Kansas wants to limit debt adjusting to lawyers,
+  <a class="footnote" href="#fn16" id="fn16_ref">
+   16
+  </a>
+  the Equal Protection
+  <span citation-index="1" class="star-pagination" label="733"> 
+   *733
+   </span>
+  Clause does not forbid it. We also find no merit in the contention that the Fourteenth Amendment is violated by the failure of the Kansas statute’s title to be as specific as appellee thinks it ought to be under the Kansas Constitution.
+ </p>
+<p id="b797-5">
+<em>
+   Reversed.
+  </em>
+</p>
+<judges id="b797-6">
+  Mr. Justice Harlan concurs in the judgment on the ground that this state measure bears a rational relation to a constitutionally permissible objective. See
+  <em>
+   Williamson
+  </em>
+  v.
+  <em>
+   Lee Optical Co.,
+  </em>
+  <span class="citation" data-id="105285"><a href="/opinion/105285/williamson-v-lee-optical-of-oklahoma-inc/#491" aria-description="Citation for case: Williamson v. Lee Optical of Oklahoma, Inc.">348 U. S. 483, 491</a></span>.
+ </judges>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b791-6">
+   Kan. Gen. Stat. (Supp. 1961) §21-2464.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b791-7">
+   Twelve other States have outlawed the business of debt adjusting. Fla. Stat. Ann. (1962) §§ 559.10-559.13; Ga. Code Ann. (Supp. 1961) §§ 84-3601 to 84-3603; Me. Rev. Stat. Ann. (Supp. 1961) c. 137, §§ 51-53; Mass. Gen. Laws Ann. (1958) c. 221, § 46C; N. J. Stat. Ann. (Supp. 1962) 2A:99A-1 to 2A:99A-4; N. Y. Penal Law (Supp. 1962) §§410-412; Ohio Rev. Code Ann. (1962 Supp.) §§ 4710.01— 4710.99; Okla. Stat. Ann. (Supp. 1962) Tit. 24, §§15-18; Pa. Stat. Ann. (Supp. 1961) Tit. 18, §4899; Va. Code Ann. (1958) §54-44.1; W. Va. Code Ann. (1961) §6112(4); Wyo. Stat. Ann. (1957) §§ 33-190 to 33-192. Seven other States regulate debt adjusting. Cal. Fin. Code Ann. (1955 and Supp. 1962) §§ 12200-12331; Ill. Stat. Ann. (Supp. 1962) c. 16½, §§251-272; Mich. Stat. Ann. (Supp. 1961) §§23.630 (1)-23.630 (18); Minn. Stat. Ann. (1947 and 1962
+   <span citation-index="1" class="star-pagination" label="728"> 
+    *728
+    </span>
+   Supp.) §§332.04-332.11; Ore. Rev. Stat. (1961) §§ 697.610-697.992; R. I. Gen. Laws (Supp. 1962) §§5-42-1 to 5-42-9; Wis. Stat. Ann. (1957) § 218.02. The courts of New Jersey have upheld a New Jersey statute like the Kansas statute here in question.
+   <em>
+    American Budget Corp.
+   </em>
+   v.
+   <em>
+    Furman,
+   </em>
+   67 N. J. Super. 134, <span class="citation" data-id="1970817"><a href="/opinion/1970817/american-budget-corp-v-furman/" aria-description="Citation for case: American Budget Corp. v. Furman">170 A. 2d 63</a></span>, aff’d
+   <em>
+    per curiam,
+   </em>
+   36 N. J. 129, <span class="citation multiple-matches"><a href="/c/A.%202d/175/622/">175 A. 2d 622</a></span> (1961).
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b792-8">
+<em>
+    Skrupa
+   </em>
+   v.
+   <em>
+    Sanborn,
+   </em>
+   <span class="citation" data-id="1963554"><a href="/opinion/1963554/skrupa-v-sanborn/" aria-description="Citation for case: Skrupa v. Sanborn">210 F. Supp. 200</a></span> (D. C. D. Kan. 1961).
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b793-6">
+<em>
+    Tyson &amp; Brother
+   </em>
+   v.
+   <em>
+    Banton,
+   </em>
+   <span class="citation" data-id="101029"><a href="/opinion/101029/tyson-brother-v-banton/#445" aria-description="Citation for case: Tyson &amp; Brother v. Banton">273 U. S. 418, 445, 446</a></span> (1927) (dissenting opinion). Mr. Justice Brandéis joined in this dissent, and Mr. Justice Stone dissented in an opinion joined by Mr. Justice Holmes and Mr. Justice Brandéis. Mr. Justice Sanford dissented separately.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b794-4">
+<em>
+    Adkins
+   </em>
+   v.
+   <em>
+    Children’s Hospital,
+   </em>
+   <span class="citation" data-id="100181"><a href="/opinion/100181/adkins-v-childrens-hospital-of-columbia/#567" aria-description="Citation for case: Adkins v. Children&#x27;s Hospital of Columbia">261 U. S. 525, 567, 570</a></span> (1923) (dissenting opinion). Chief Justice Taft, joined by Mr. Justice Sanford, also dissented. Mr. Justice Brandéis took no part.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b794-5">
+<em>
+    Olsen
+   </em>
+   v.
+   <em>
+    Nebraska ex rel. Western Reference &amp; Bond Assn.,
+   </em>
+   <span class="citation" data-id="103522"><a href="/opinion/103522/olsen-v-nebraska-ex-rel-western-reference-bond-assn-inc/#246" aria-description="Citation for case: Olsen v. Nebraska Ex Rel. Western Reference &amp; Bond Assn.,...">313 U. S. 236, 246</a></span> (1941) (upholding a Nebraska statute limiting the amount of the fee which could be charged by private employment agencies).
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b794-6">
+<em>
+    Sproles
+   </em>
+   v.
+   <em>
+    Binford,
+   </em>
+   <span class="citation" data-id="101935"><a href="/opinion/101935/sproles-v-binford/#388" aria-description="Citation for case: Sproles v. Binford">286 U. S. 374, 388</a></span> (1932). And Chief Justice Hughes, for a unanimous Court, added, “When the subject lies within the police power of the State, debatable questions as to reasonableness are not for the courts but for the legislature, which is entitled to form its own judgment, and its action within its range of discretion cannot be set aside because compliance is burdensome.”
+   <span class="citation" data-id="101935"><a href="/opinion/101935/sproles-v-binford/#388" aria-description="Citation for case: Sproles v. Binford"><em>
+    Id.,
+   </em>
+   at 388-389</a></span>.
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b795-6">
+<em>
+    Lincoln Federal Labor Union
+   </em>
+   v.
+   <em>
+    Northwestern Iron &amp; Metal Co.,
+   </em>
+   <span class="citation" data-id="104610"><a href="/opinion/104610/lincoln-federal-labor-union-v-northwestern-iron-metal-co/#536" aria-description="Citation for case: Lincoln Federal Labor Union v. Northwestern Iron &amp; Metal Co.">335 U. S. 525, 536</a></span> (1949).
+  </p>
+<p id="b795-7">
+   Mr. Justice Holmes even went so far as to say that “subject to compensation when compensation is due, the legislature may forbid or restrict any business when it has a sufficient force of public opinion behind it.”
+   <em>
+    Tyson &amp; Brother
+   </em>
+   v.
+   <em>
+    Banton,
+   </em>
+   <span class="citation" data-id="101029"><a href="/opinion/101029/tyson-brother-v-banton/#445" aria-description="Citation for case: Tyson &amp; Brother v. Banton">273 U. S. 418, 445, 446</a></span> (1927) (dissenting opinion).
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b795-8">
+   See
+   <em>
+    Adkins
+   </em>
+   v.
+   <em>
+    Children’s Hospital,
+   </em>
+   <span class="citation" data-id="100181"><a href="/opinion/100181/adkins-v-childrens-hospital-of-columbia/#567" aria-description="Citation for case: Adkins v. Children&#x27;s Hospital of Columbia">261 U. S. 525, 567, 568</a></span> (1923) (Holmes, J., dissenting).
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b795-9">
+<em>
+    Lincoln Federal Labor Union
+   </em>
+   v.
+   <em>
+    Northwestern Iron &amp; Metal Co.,
+   </em>
+   <span class="citation" data-id="104610"><a href="/opinion/104610/lincoln-federal-labor-union-v-northwestern-iron-metal-co/#535" aria-description="Citation for case: Lincoln Federal Labor Union v. Northwestern Iron &amp; Metal Co.">335 U. S. 525, 535</a></span> (1949), referring to
+   <em>
+    Olsen
+   </em>
+   v.
+   <em>
+    Nebraska ex rel. Western Reference &amp; Bond Assn.,
+   </em>
+   <span class="citation" data-id="103522"><a href="/opinion/103522/olsen-v-nebraska-ex-rel-western-reference-bond-assn-inc/" aria-description="Citation for case: Olsen v. Nebraska Ex Rel. Western Reference &amp; Bond Assn.,...">313 U. S. 236</a></span> (1941). Ten years later, in
+   <em>
+    Breard v. Alexandria,
+   </em>
+   <span class="citation" data-id="104917"><a href="/opinion/104917/breard-v-alexandria/#631" aria-description="Citation for case: Breard v. Alexandria">341 U. S. 622, 631-632</a></span> (1951), this Court again commented on the infirmity of
+   <em>
+    <span class="citation" data-id="98999"><a href="/opinion/98999/adams-v-tanner/" aria-description="Citation for case: Adams v. Tanner">Adams</a></span>.
+   </em>
+</p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b795-10">
+<em>
+    Day-Brite Lighting, Inc.,
+   </em>
+   v.
+   <em>
+    Missouri,
+   </em>
+   <span class="citation" data-id="104970"><a href="/opinion/104970/day-brite-lighting-inc-v-missouri/#423" aria-description="Citation for case: Day-Brite Lighting, Inc. v. Missouri">342 U. S. 421, 423</a></span> (1952).
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="b796-5">
+<em>
+    Williamson v. Lee Optical Co.,
+   </em>
+   <span class="citation" data-id="105285"><a href="/opinion/105285/williamson-v-lee-optical-of-oklahoma-inc/#488" aria-description="Citation for case: Williamson v. Lee Optical of Oklahoma, Inc.">348 U. S. 483, 488</a></span> (1955).
+  </p>
+</div><div class="footnote" id="fn13" label="13">
+<a class="footnote" href="#fn13_ref">
+   13
+  </a>
+<p id="b796-6">
+   “The Fourteenth Amendment does not enact Mr. Herbert Spencer’s Social Statics.”
+   <em>
+    Lochner
+   </em>
+   v.
+   <em>
+    New York,
+   </em>
+   <span class="citation" data-id="96276"><a href="/opinion/96276/lochner-v-new-york/#74" aria-description="Citation for case: Lochner v. New York">198 U. S. 45, 74, 75</a></span> (1905) (Holmes, J., dissenting).
+  </p>
+</div><div class="footnote" id="fn14" label="14">
+<a class="footnote" href="#fn14_ref">
+   14
+  </a>
+<p id="b796-7">
+   See
+   <em>
+    Daniel
+   </em>
+   v.
+   <em>
+    Family Security Life Ins. Co.,
+   </em>
+   <span class="citation" data-id="104634"><a href="/opinion/104634/daniel-v-family-security-life-insurance/#224" aria-description="Citation for case: Daniel v. Family Security Life Insurance">336 U. S. 220, 224</a></span> (1949);
+   <em>
+    Secretary of Agriculture
+   </em>
+   v.
+   <em>
+    Central Roig Ref. Co.,
+   </em>
+   <span class="citation" data-id="104756"><a href="/opinion/104756/secretary-of-agriculture-v-central-roig-refining-co/#618" aria-description="Citation for case: Secretary of Agriculture v. Central Roig Refining Co.">338 U. S. 604, 618</a></span> (1950).
+  </p>
+</div><div class="footnote" id="fn15" label="15">
+<a class="footnote" href="#fn15_ref">
+   15
+  </a>
+<p id="b796-8">
+   See
+   <em>
+    Williamson v. Lee Optical Co.,
+   </em>
+   <span class="citation" data-id="105285"><a href="/opinion/105285/williamson-v-lee-optical-of-oklahoma-inc/#488" aria-description="Citation for case: Williamson v. Lee Optical of Oklahoma, Inc.">348 U. S. 483, 488-489</a></span> (1955);
+   <em>
+    Lindsley
+   </em>
+   v.
+   <em>
+    Natural Carbonic Gas Co.,
+   </em>
+   <span class="citation" data-id="97374"><a href="/opinion/97374/lindsley-v-natural-carbonic-gas-co/#78" aria-description="Citation for case: Lindsley v. Natural Carbonic Gas Co.">220 U. S. 61, 78-79</a></span> (1911).
+  </p>
+</div><div class="footnote" id="fn16" label="16">
+<a class="footnote" href="#fn16_ref">
+   16
+  </a>
+<p id="b796-9">
+   Massachusetts and Virginia prohibit debt pooling by laymen by declaring it to constitute the practice of law. Mass. Gen. Laws Ann. (1958) c. 221, § 46C; Va. Code Ann. (1958) §54-44.1. The Massachusetts statute was upheld in
+   <em>
+    Home Budget Service, Inc.,
+   </em>
+   v.
+   <em>
+    Boston Bar Assn.,
+   </em>
+   <span class="citation" data-id="2093296"><a href="/opinion/2093296/home-budget-service-inc-v-boston-bar-association/" aria-description="Citation for case: Home Budget Service, Inc. v. Boston Bar Association">335 Mass. 228</a></span>, <span class="citation" data-id="2093296"><a href="/opinion/2093296/home-budget-service-inc-v-boston-bar-association/" aria-description="Citation for case: Home Budget Service, Inc. v. Boston Bar Association">139 N. E. 2d 387</a></span> (1957).
+  </p>
+</div></div></opinion>

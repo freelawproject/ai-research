@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b380-5">
+  Mr. Chief Justice Burger
+ </author>
+<p id="Asp">
+  delivered the opinion of the Court.
+ </p>
+<p id="b380-6">
+  We granted the writ to consider the power of a State to retry an accused for murder after an earlier guilty verdict on the lesser included offense of voluntary manslaughter had been set aside because of a trial error.
+ </p>
+<p id="b380-7">
+  Petitioner was charged with the killing of Johnnie Mae Dupree in an indictment for the offense of murder filed in the Superior Court of Effingham County, Georgia. He entered a plea of not guilty and was tried on October 17, 1962. The jury returned a verdict of guilty to the lesser included crime of voluntary manslaughter and fixed the sentence at 10 to 15 years in the state penitentiary. The jury’s verdict made no reference to the charge of murder.
+ </p>
+<p id="b380-8">
+  The Court of Appeals of Georgia reversed the conviction because of an erroneous jury instruction and ordered a new trial.
+  <em>
+   Price
+  </em>
+  v.
+  <em>
+   State,
+  </em>
+  <span class="citation" data-id="1339179"><a href="/opinion/1339179/price-v-state/" aria-description="Citation for case: Price v. State">108 Ga. App. 581</a></span>, <span class="citation no-link">133 S. E. 2d 946</span> (1963).
+ </p>
+<p id="b380-9">
+  On October 20, 1967, petitioner was again placed on trial for murder under the original indictment. Before the commencement of the second trial petitioner entered a plea of
+  <em>
+   autrefois acquit,
+  </em>
+  claiming that to place him again on trial for the offense of murder would expose him to double jeopardy in view of the verdict of voluntary manslaughter at the initial trial. The trial judge rejected the plea and, at the close of the trial, included instructions on the offense of murder in his charge to the jury so that the jury could have rendered a verdict of guilty on that offense. That jury, like the first, found petitioner guilty of voluntary manslaughter, and then fixed the penalty at 10 years’ imprisonment.
+ </p>
+<p id="b381-4">
+<span citation-index="1" class="star-pagination" label="325"> 
+   *325
+   </span>
+  Petitioner sought direct review of his second conviction in the Supreme Court of Georgia,
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  but that court transferred the case to the Court of Appeals of Georgia, declaring that “[o]nly questions as to the application of plain and unambiguous provisions of the Constitution of the United States being involved, . . the case is one for the consideration of the Court of Appeals . . .
+  <em>
+   Price
+  </em>
+  v.
+  <em>
+   State,
+  </em>
+  <span class="citation" data-id="1395638"><a href="/opinion/1395638/price-v-state/#307" aria-description="Citation for case: Price v. State">224 Ga. 306, 307</a></span>, <span class="citation" data-id="1395638"><a href="/opinion/1395638/price-v-state/#826" aria-description="Citation for case: Price v. State">161 S. E. 2d 825, 826</a></span> (1968).
+ </p>
+<p id="b381-5">
+  The Georgia Court of Appeals then heard the appeal and affirmed the second conviction, rejecting petitioner’s argument, among others, that his retrial for murder constituted double jeopardy.
+  <em>
+   Price
+  </em>
+  v.
+  <em>
+   State,
+  </em>
+  <span class="citation" data-id="1276937"><a href="/opinion/1276937/price-v-state/" aria-description="Citation for case: Price v. State">118 Ga. App. 207</a></span>, <span class="citation" data-id="1276937"><a href="/opinion/1276937/price-v-state/" aria-description="Citation for case: Price v. State">163 S. E. 2d 243</a></span> (1968). The Court of Appeals held that in
+  <em>
+   Brantley
+  </em>
+  v.
+  <em>
+   State,
+  </em>
+  <span class="citation" data-id="5576766"><a href="/opinion/5726506/brantley-v-state/" aria-description="Citation for case: Brantley v. State">132 Ga. 573</a></span>, <span class="citation" data-id="5576766"><a href="/opinion/5726506/brantley-v-state/" aria-description="Citation for case: Brantley v. State">64 S. E. 676</a></span> (1909), aff’d, 217 U.. S. 284 (1910), the Georgia Supreme Court had decided this question adversely to petitioner. The Court of Appeals then quoted from the
+  <em>
+   <span class="citation" data-id="5576766"><a href="/opinion/5726506/brantley-v-state/" aria-description="Citation for case: Brantley v. State">Brantley</a></span>
+  </em>
+  case’s syllabus:
+ </p>
+<blockquote id="b381-6">
+  “When a person has been indicted for murder and convicted of voluntary manslaughter, if he voluntarily seeks and obtains a new trial, he is subject to another trial generally for the offense charged in the indictment, and upon such trial he cannot successfully interpose a plea of former acquittal of the crime of murder, or former jeopardy in regard thereto.” <span class="citation" data-id="1276937"><a href="/opinion/1276937/price-v-state/#208" aria-description="Citation for case: Price v. State">118 Ga. App., at 208</a></span>, <span class="citation" data-id="1276937"><a href="/opinion/1276937/price-v-state/#244" aria-description="Citation for case: Price v. State">163 S. E. 2d, at 244</a></span>.
+ </blockquote>
+<p id="b381-7">
+  Petitioner sought a rehearing, contending, as he contends here, that
+  <em>
+   <span class="citation" data-id="5576766"><a href="/opinion/5726506/brantley-v-state/" aria-description="Citation for case: Brantley v. State">Brantley</a></span>
+  </em>
+  was no longer controlling. He relied on
+  <em>
+   Green
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="105594"><a href="/opinion/105594/green-v-united-states/" aria-description="Citation for case: Green v. United States">355 U. S. 184</a></span> (1957), and
+  <span citation-index="1" class="star-pagination" label="326"> 
+   *326
+   </span>
+<em>
+   United States ex rel. Hetenyi
+  </em>
+  v.
+  <em>
+   Wilkins,
+  </em>
+  348 F., 2d 844 (C. A. 2d Cir. 1965), cert. denied, <span class="citation multiple-matches"><a href="/c/U.%20S./383/913/">383 U. S. 913</a></span> (1966). His contention was rejected. In deciding that
+  <em>
+   <span class="citation" data-id="5576766"><a href="/opinion/5726506/brantley-v-state/" aria-description="Citation for case: Brantley v. State">Brantley</a></span>
+  </em>
+  was still a binding precedent as to it, the Georgia Court of Appeals noted that the Georgia Supreme Court had transferred the case to it as involving the application of only “plain and unambiguous” constitutional provisions. The petitioner’s motion was then denied. Thereafter the Georgia Supreme Court denied certiorari, and petitioner sought review in this Court. We granted the writ, <span class="citation multiple-matches"><a href="/c/U.%20S./395/975/">395 U. S. 975</a></span> (1969), and now reverse.
+ </p>
+<p id="b382-6">
+  (1)
+ </p>
+<p id="b382-7">
+  In
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Ball,
+  </em>
+  <span class="citation" data-id="94515"><a href="/opinion/94515/united-states-v-ball/#669" aria-description="Citation for case: United States v. Ball">163 U. S. 662, 669</a></span> (1896), this Court observed: “The Constitution of the United States, in the Fifth Amendment, declares, ‘nor shall any person be subject [for the same offense] to be twice put in jeopardy of life or limb.’ The prohibition is not against being twice punished, but against being twice
+  <em>
+   put
+  </em>
+  in jeopardy . . . .” (Emphasis added.) The “twice put in jeopardy” language of the Constitution thus relates to a potential,
+  <em>
+   i. e.,
+  </em>
+  the risk that an accused for a second time will be convicted of the “same offense” for which he was initially tried.
+ </p>
+<p id="b382-8">
+  The circumstances that give rise to such a forbidden potential have been the subject of much discussion in this Court. In the
+  <em>
+   <span class="citation" data-id="94515"><a href="/opinion/94515/united-states-v-ball/" aria-description="Citation for case: United States v. Ball">Ball</a></span>
+  </em>
+  case, for example, the Court expressly rejected the view that the double jeopardy provision prevented a second trial when a conviction had been set aside. In so doing, it effectively formulated a concept of continuing jeopardy that has application where criminal proceedings against an accused have not run their full course. See
+  <em>
+   Green
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="105594"><a href="/opinion/105594/green-v-united-states/#189" aria-description="Citation for case: Green v. United States">355 U. S. 184, 189</a></span> (1957).
+ </p>
+<p id="b382-9">
+  The continuing jeopardy principle necessarily is applicable to this case. Petitioner sought and obtained the
+  <span citation-index="1" class="star-pagination" label="327"> 
+   *327
+   </span>
+  reversal of his initial conviction for voluntary manslaughter by taking an appeal. Accordingly, no aspect of the bar on double jeopardy prevented his retrial for that crime. However, the first verdict, limited as it was to the lesser included offense, required that the retrial be limited to that lesser offense. Such a result flows inescapably from the Constitution’s emphasis on a risk of conviction and the Constitution’s explication in prior decisions of this Court.
+ </p>
+<p id="b383-5">
+  An early case to deal with restrictions on retrials was
+  <em>
+   Kepner
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="96129"><a href="/opinion/96129/kepner-v-united-states/" aria-description="Citation for case: Kepner v. United States">195 U. S. 100</a></span> (1904), where the Court held that the Fifth Amendment’s double jeopardy prohibition barred the Government from appealing an acquittal in a criminal prosecution,
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  over a dissent by Mr. Justice Holmes that argued that there was only one continuing jeopardy until the proceedings against the accused had been finally resolved. He held to the view that even if an accused was retried after the Government had obtained reversal of an acquittal, the second trial was part of the original proceeding.
+ </p>
+<p id="b383-6">
+  Similar double jeopardy issues did not fully claim the Court’s attention until the Court heard argument in
+  <em>
+   Green
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="105594"><a href="/opinion/105594/green-v-united-states/" aria-description="Citation for case: Green v. United States">355 U. S. 184</a></span> (1957).
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  There
+  <span citation-index="1" class="star-pagination" label="328"> 
+   *328
+   </span>
+  the petitioner had been tried and convicted of first-degree murder after an earlier guilty verdict on the lesser included offense of second-degree murder had been set aside on appeal. A majority of the Court rejected the argument that by appealing the conviction of second-degree murder the petitioner had “waived” his plea of former jeopardy with regard to the charge of first-degree murder.
+ </p>
+<p id="b384-6">
+  The Court in the
+  <em>
+   <span class="citation" data-id="105594"><a href="/opinion/105594/green-v-united-states/" aria-description="Citation for case: Green v. United States">Green</a></span>
+  </em>
+  case reversed the first-degree murder conviction obtained at the retrial, holding that the petitioner’s jeopardy for first-degree murder came to an end when the jury was discharged at the end of his first trial. This conclusion rested on two premises. First, the Court considered the first jury’s verdict of guilty on the second-degree murder charge to be an “implicit acquittal” on the charge of first-degree murder.
+  <span citation-index="1" class="star-pagination" label="329"> 
+   *329
+   </span>
+  Second, and more broadly, the Court reasoned that petitioner’s jeopardy on the greater charge had ended when the first jury “was given a full opportunity to return a verdict” on that charge and instead reached a verdict on the lesser charge. <span class="citation" data-id="105594"><a href="/opinion/105594/green-v-united-states/#191" aria-description="Citation for case: Green v. United States">355 U. S. at 191</a></span>. Under either of these premises, the holding in the
+  <em>
+   <span class="citation" data-id="96129"><a href="/opinion/96129/kepner-v-united-states/" aria-description="Citation for case: Kepner v. United States">Kepner</a></span>
+  </em>
+  case — that there could be no appeal from an acquittal because such a verdict ended an accused’s jeopardy — was applicable.
+ </p>
+<p id="b385-5">
+  The rationale of the
+  <em>
+   <span class="citation" data-id="105594"><a href="/opinion/105594/green-v-united-states/" aria-description="Citation for case: Green v. United States">Green</a></span>
+  </em>
+  holding applies here. The concept of continuing jeopardy implicit in the
+  <em>
+   <span class="citation" data-id="94515"><a href="/opinion/94515/united-states-v-ball/" aria-description="Citation for case: United States v. Ball">Ball</a></span>
+  </em>
+  case
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  would allow petitioner’s retrial for voluntary manslaughter after his first conviction for that offense had been reversed. But, as the
+  <em>
+   <span class="citation" data-id="96129"><a href="/opinion/96129/kepner-v-united-states/" aria-description="Citation for case: Kepner v. United States">Kepner</a></span>
+  </em>
+  and
+  <em>
+   <span class="citation" data-id="105594"><a href="/opinion/105594/green-v-united-states/" aria-description="Citation for case: Green v. United States">Green</a></span>
+  </em>
+  cases illustrate, this Court has consistently refused to rule that jeopardy for an offense continues after an acquittal, whether that acquittal is express or implied by a conviction on a lesser included offense when the jury was given a full opportunity
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  to return a verdict on the greater charge. There is no relevant factual distinction between this case and
+  <em>
+   <span class="citation" data-id="105594"><a href="/opinion/105594/green-v-united-states/" aria-description="Citation for case: Green v. United States">Green</a></span>
+  </em>
+  v.
+  <em>
+   United States.
+  </em>
+  Although the petitioner was not convicted of the greater charge on retrial, whereas Green was, the risk of conviction on the greater charge was the same in both cases, and the Double Jeopardy Clause of the Fifth Amendment is written in terms of potential or risk of trial and conviction, not punishment.
+ </p>
+<p id="b385-6">
+  The Georgia courts nonetheless rejected
+  <em>
+   <span class="citation" data-id="105594"><a href="/opinion/105594/green-v-united-states/" aria-description="Citation for case: Green v. United States">Green</a></span>
+  </em>
+  as a persuasive authority in favor of reliance on
+  <em>
+   Brantley
+  </em>
+  v.
+  <em>
+   State,
+  </em>
+  <span class="citation" data-id="5576766"><a href="/opinion/5726506/brantley-v-state/" aria-description="Citation for case: Brantley v. State">132 Ga. 573</a></span>, <span class="citation" data-id="5576766"><a href="/opinion/5726506/brantley-v-state/" aria-description="Citation for case: Brantley v. State">64 S. E. 676</a></span> (1909), aff’d, 217 U, S. 284 (1910). The
+  <em>
+   <span class="citation" data-id="5576766"><a href="/opinion/5726506/brantley-v-state/" aria-description="Citation for case: Brantley v. State">Brantley</a></span>
+  </em>
+  case presented a situation where a defendant’s appeal from a conviction for a
+  <span citation-index="1" class="star-pagination" label="330"> 
+   *330
+   </span>
+  lesser included offense ultimately led to retrial and conviction on the greater offense. After the second conviction had been affirmed on appeal,, the defendant sued out a writ of error to the Supreme Court of Georgia from this Court, contending “that the exemption from second jeopardy is one of the privileges and immunities of citizens of the United States, which the Fourteenth Amendment forbids a state to abridge”,
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  that he had “been tried and acquitted by a jury of his country of the crime of murder”,
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+  and that “[h]e should never [sic] have been tried a second time only for the offense on which he obtained a new trial . ...”
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+  This Court tersely rejected these contentions as:
+ </p>
+<blockquote id="b386-6">
+  “absolutely without merit. It was not a case of twice in jeopardy under any view of the Constitution of the United States.” 217 U. S., at 285.
+ </blockquote>
+<p id="b386-7">
+  The
+  <em>
+   <span class="citation" data-id="5576766"><a href="/opinion/5726506/brantley-v-state/" aria-description="Citation for case: Brantley v. State">Brantley</a></span>
+  </em>
+  case was decided by this Court at a time when, although the Court was actively developing an explication of federal double jeopardy doctrines based on the Fifth Amendment, it took a very restricted approach in reviewing similar state court decisions. While the
+  <em>
+   <span class="citation" data-id="5576766"><a href="/opinion/5726506/brantley-v-state/" aria-description="Citation for case: Brantley v. State">Brantley</a></span>
+  </em>
+  holding may have had some vitality at the time the Georgia courts rendered their decisions in this case, it is no longer a viable authority and must now be deemed to have been overruled by subsequent decisions of this Court.
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+</p>
+<p id="b387-4">
+<span citation-index="1" class="star-pagination" label="331"> 
+   *331
+   </span>
+  (2)
+ </p>
+<p id="b387-5">
+  One further consideration remains. Because the petitioner was convicted of the same crime at both the first and second trials, and because he suffered no greater punishment on the subsequent conviction, Georgia submits that the second jeopardy was harmless error when judged by the criteria of
+  <em>
+   Chapman
+  </em>
+  v.
+  <em>
+   California,
+  </em>
+  <span class="citation" data-id="107359"><a href="/opinion/107359/chapman-v-california/" aria-description="Citation for case: Chapman v. California">386 U. S. 18</a></span> (1967), and
+  <em>
+   Harrington
+  </em>
+  v.
+  <em>
+   California,
+  </em>
+  <span class="citation" data-id="107952"><a href="/opinion/107952/harrington-v-california/" aria-description="Citation for case: Harrington v. California">395 U. S. 250</a></span> (1969).
+ </p>
+<p id="b387-6">
+  We must reject this contention. The Double Jeopardy Clause, as we have noted, is cast in terms of the risk or hazard of trial and conviction, not of the ultimate legal consequences of the verdict. To be charged and to be subjected to a second trial for first-degree murder is an ordeal not to be viewed lightly.
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+  Further, and perhaps of more importance, we cannot determine whether or not the murder charge against petitioner induced the jury to find him guilty of the less serious offense of voluntary manslaughter rather than to continue to debate his innocence. See
+  <em>
+   United States ex rel. Hetenyi
+  </em>
+  v.
+  <span citation-index="1" class="star-pagination" label="332"> 
+   *332
+   </span>
+<em>
+   Wilkins,
+  </em>
+  <span class="citation" data-id="8873151"><a href="/opinion/8887067/united-states-ex-rel-hetenyi-v-wilkins/" aria-description="Citation for case: United States ex rel. Hetenyi v. Wilkins">348 F. 2d 844</a></span> (C. A. 2d Cir. 1965), cert. denied, <span class="citation multiple-matches"><a href="/c/U.%20S./383/913/">383 U. S. 913</a></span> (1966).
+ </p>
+<p id="b388-5">
+  (3)
+ </p>
+<p id="b388-6">
+  We asked the parties to submit post-argument mem-oranda directed to the question of whether petitioner can now be re-indicted or retried for voluntary manslaughter under Georgia law. These memoranda have been filed and indicate that the answer to our question appears to depend upon the construction of several Georgia statutes and on the power of Georgia courts to fashion remedial orders. Accordingly, although we reverse petitioner’s conviction, we also remand the case to enable the Georgia courts to resolve the issues pertaining to petitioner’s retrial, if any such retrial is to be had.
+ </p>
+<p id="b388-7">
+<em>
+   Reversed and remanded.
+  </em>
+</p>
+<judges id="b388-8">
+  MR. Justice Blackmun took no part in the consideration or decision of this case.
+ </judges>
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b381-8">
+   Georgia’s Constitution provides for direct review in the Georgia Supreme Court of, among others, “all cases that involve the construction of the Constitution of the State of Georgia or of the United States ...” Ga. Const., Art. VI, § 2, ¶ 4.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b383-7">
+<em>
+    Keener
+   </em>
+   rested upon a portion of the
+   <em>
+    <span class="citation" data-id="94515"><a href="/opinion/94515/united-states-v-ball/" aria-description="Citation for case: United States v. Ball">Ball</a></span>
+   </em>
+   case that dealt with a criminal action that had been finally resolved. In
+   <em>
+    <span class="citation" data-id="94515"><a href="/opinion/94515/united-states-v-ball/" aria-description="Citation for case: United States v. Ball">Ball</a></span>
+   </em>
+   the Court had held that the Government could not re-indict an accused for an offense where a judgment of acquittal had been entered by a trial court with jurisdiction over the accused and the cause. <span class="citation" data-id="94515"><a href="/opinion/94515/united-states-v-ball/#669" aria-description="Citation for case: United States v. Ball">163 U. S., at 669-670</a></span>. The Court relied partially on
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Sanges,
+   </em>
+   <span class="citation" data-id="93323"><a href="/opinion/93323/united-states-v-sanges/" aria-description="Citation for case: United States v. Sanges">144 U. S. 310</a></span> (1892), where the Court had interpreted the Judiciary Act of 1891 to hold that the United States could not obtain review by a writ of error in a criminal case.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b383-8">
+   Shortly after
+   <em>
+    <span class="citation" data-id="96129"><a href="/opinion/96129/kepner-v-united-states/" aria-description="Citation for case: Kepner v. United States">Kepner</a></span>
+   </em>
+   the Court was faced with a factual situation somewhat akin to that presented by the instant ease. In
+   <em>
+    Trono
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="96361"><a href="/opinion/96361/trono-v-united-states/" aria-description="Citation for case: Trono v. United States">199 U. S. 521</a></span> (1905)„ the defendants had been charged in a Philippine court with murder, and had been found guilty of the lesser offense of assault. On their appeal of
+   <span citation-index="1" class="star-pagination" label="328"> 
+    *328
+    </span>
+   the conviction
+   <em>
+    the
+   </em>
+   Philippine Supreme Court set aside the trial court’s judgment, found them guilty of murder, and increased their sentences. This Court affirmed. Four Justices took the position that by appealing the assault conviction, the defendants had waived any double jeopardy claim respecting the murder charge. Mr. Justice Holmes concurred in the result without stating his rationale.
+   <em>
+    <span class="citation" data-id="96129"><a href="/opinion/96129/kepner-v-united-states/" aria-description="Citation for case: Kepner v. United States">Kepner</a></span>
+   </em>
+   had been decided in the previous year, however, and his concurrence could have indicated that, for him, a waiver theory was too narrow — instead he considered that even an appeal by the Government was a continuing jeopardy, not a second jeopardy. Of the four dissenters, two, Justices McKenna and White, would have found a violation of the Constitution’s double jeopardy provision.
+  </p>
+<p id="b384-8">
+   Acceptance of either Trono’s waiver theory or Mr. Justice Holmes’ broad continuing jeopardy approach would indicate that Price could not complain of his retrial for the greater offense. But
+   <em>
+    <span class="citation" data-id="96361"><a href="/opinion/96361/trono-v-united-states/" aria-description="Citation for case: Trono v. United States">Trono</a></span>
+   </em>
+   has not survived unscathed to the present day. The “waiver theory” of four of the majority Justices in
+   <em>
+    <span class="citation" data-id="96361"><a href="/opinion/96361/trono-v-united-states/" aria-description="Citation for case: Trono v. United States">Trono</a></span>
+   </em>
+   was distinguished in
+   <em>
+    <span class="citation" data-id="105594"><a href="/opinion/105594/green-v-united-states/" aria-description="Citation for case: Green v. United States">Green</a></span>
+   </em>
+   as resting on “a statutory provision against double jeopardy pertaining to the Philippine Islands — a territory just recently conquered with long-established legal procedures that were alien to the common law.” <span class="citation" data-id="105594"><a href="/opinion/105594/green-v-united-states/#197" aria-description="Citation for case: Green v. United States">355 U. S., at 197</a></span>.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b385-7">
+   After
+   <em>
+    <span class="citation" data-id="96129"><a href="/opinion/96129/kepner-v-united-states/" aria-description="Citation for case: Kepner v. United States">Kepner</a></span>
+   </em>
+   and
+   <em>
+    <span class="citation" data-id="105594"><a href="/opinion/105594/green-v-united-states/" aria-description="Citation for case: Green v. United States">Green</a></span>,
+   </em>
+   the continuing jeopardy principle appears to rest on an amalgam of
+   <em>
+    interests
+   </em>
+   — e.
+   <em>
+    g.,
+   </em>
+   fairness to society, lack of finality, and limited waiver, among others.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b385-8">
+   See
+   <em>
+    People
+   </em>
+   v.
+   <em>
+    Jackson,
+   </em>
+   20 N. Y. 2d 440, <span class="citation" data-id="5523827"><a href="/opinion/5676109/people-v-jackson/" aria-description="Citation for case: People v. Jackson">231 N. E. 2d 722</a></span> (1967).
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b386-8">
+   Brief for Plaintiff in Error, No. 692, O. T. 1909, p. 2.
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b386-9">
+<em>
+    Id.,
+   </em>
+   5.
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b386-10">
+<em>
+    Ibid.
+   </em>
+</p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b386-11">
+   In
+   <em>
+    Palko
+   </em>
+   v.
+   <em>
+    Connecticut,
+   </em>
+   <span class="citation" data-id="102879"><a href="/opinion/102879/palko-v-connecticut/" aria-description="Citation for case: Palko v. Connecticut">302 U. S. 319</a></span> (1937), this Court refused to overturn a first-degree murder conviction obtained after the State had successfully appealed from a conviction of second-degree murder which was the product of a trial on first-degree murder charges. The Court ruled that federal double jeopardy standards were not applicable to the States.
+  </p>
+<p id="b386-12">
+<em>
+    <span class="citation" data-id="102879"><a href="/opinion/102879/palko-v-connecticut/" aria-description="Citation for case: Palko v. Connecticut">Palko</a></span>
+   </em>
+   was overruled in
+   <em>
+    Benton
+   </em>
+   v.
+   <em>
+    Maryland,
+   </em>
+   <span class="citation" data-id="107980"><a href="/opinion/107980/benton-v-maryland/" aria-description="Citation for case: Benton v. Maryland">395 U. S. 784</a></span> (1969), where this Court determined that the double jeopardy
+   <span citation-index="1" class="star-pagination" label="331"> 
+    *331
+    </span>
+   prohibition of the Fifth Amendment should be applied to the States through the Fourteenth Amendment.
+   <em>
+    <span class="citation" data-id="5576766"><a href="/opinion/5726506/brantley-v-state/" aria-description="Citation for case: Brantley v. State">Brantley</a></span>
+   </em>
+   and
+   <em>
+    PcAko
+   </em>
+   were of the same genre, and
+   <em>
+    <span class="citation" data-id="5576766"><a href="/opinion/5726506/brantley-v-state/" aria-description="Citation for case: Brantley v. State">Brantley</a></span>
+   </em>
+   necessarily shared
+   <em>
+    Palko’s
+   </em>
+   fate in
+   <em>
+    <span class="citation" data-id="107980"><a href="/opinion/107980/benton-v-maryland/" aria-description="Citation for case: Benton v. Maryland">Benton</a></span>.
+   </em>
+</p>
+<p id="b387-8">
+   The last of the decisions of the Georgia courts affirming the petitioner’s conviction was rendered on September 24, 1968, well before
+   <em>
+    <span class="citation" data-id="107980"><a href="/opinion/107980/benton-v-maryland/" aria-description="Citation for case: Benton v. Maryland">Benton</a></span>
+   </em>
+   was decided, But
+   <em>
+    <span class="citation" data-id="107980"><a href="/opinion/107980/benton-v-maryland/" aria-description="Citation for case: Benton v. Maryland">Benton</a></span>
+   </em>
+   has fully retroactive application, see
+   <em>
+    Waller
+   </em>
+   v.
+   <em>
+    Florida,
+   </em>
+   <span class="citation" data-id="108112"><a href="/opinion/108112/waller-v-florida/" aria-description="Citation for case: Waller v. Florida">397 U. S. 387</a></span>, 391 n. 2 (1970), and the Georgia courts’ reliance on the themes of
+   <em>
+    <span class="citation" data-id="5576766"><a href="/opinion/5726506/brantley-v-state/" aria-description="Citation for case: Brantley v. State">Brantley</a></span>,
+   </em>
+   though understandable, now has no place.
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b387-9">
+   There is a significant difference to an accused whether he is being tried for murder or manslaughter. He has reason for concern as to the consequences in terms of stigma as well as penalty. He must be prepared to meet not only the evidence of the prosecution and the verdict of the jury but the verdict of the community as well.
+  </p>
+</div></div></opinion>

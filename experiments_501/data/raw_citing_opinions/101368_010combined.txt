@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b432-4">
+<span citation-index="1" class="star-pagination" label="352"> 
+   *352
+   </span>
+  Mr. Justice Stone
+ </author>
+<p id="AG9">
+  delivered the opinion of the Court.
+ </p>
+<p id="b432-5">
+  This case is here on certiorari, <span class="citation no-link">276 U. S. 612</span>, to review a judgment of the Cireuit Court of Appeals for the Fifth Circuit, 21 F. (2d) 883, reversing a judgment for petitioner of the District Court for southern Georgia.
+ </p>
+<p id="b432-6">
+  At the trial by jury it appeared that respondent railway company has terminals for the receipt and delivery' of freight both at Charleston, S. C. and Savannah, Ga.; that McDonnell was an employee of respondent at its Savannah office, whose duty it was, and whose continuous practice it had been, to give notice to those engaged in the cotton trade, including petitioner, a cotton factor in Savannah, of the arrival of cotton at the Savannah terminal under “ order notify ” bills of lading. There was evidence from which the jury could have found that on March 19, 1925, McDonnell, so acting, gave petitioner notice of arrival of a shipment of cotton under a designated order notify bill of lading; that later, on the same day, a local bank presented to petitioner the described bill of lading, regular in form and properly endorsed, with an attached draft on petitioner for $10,000, which petitioner paid in reliance upon the notice of arrival given by the agent and the apparent regularity of the documents; that after presentation of the draft and before payment McDonnell had again informed petitioner, in response to an inquiry, that the cotton described in the bill of lading had arrived. There was evidence also plainly
+  <span citation-index="1" class="star-pagination" label="353"> 
+   *353
+   </span>
+  indicating that petitioner would not have paid the draft without that assurance. The draft and the bill of lading, purporting to be issued by respondent at its Charleston office, eventually proved to have been forged and negotiated by McDonnell in Charleston, while temporarily absent from his duties in Savannah, and his entire course of conduct with respect to them, including his false notice to petitioner, was in the successful pursuance of a scheme to defraud petitioner of the amount paid by it on the draft.
+ </p>
+<p id="b433-4">
+  The second count of petitioner’s declaration, and the only one presently involved, set out a cause of action in deceit by McDonnell acting as the agent of respondent in giving the petitioner the false notice, and set up that the petitioner was induced to pay the draft by the representation that the cotton had arrived. The court, disregarding any question of want of due care on the part of respondent, instructed the jury that if it found that the false notice by McDonnell to petitioner was given within the scope of his authority and that petitioner had in fact been induced by the false statement to take up the draft, it should return a verdict for the petitioner. Judgment on the verdict for petitioner- was reversed by the court of appeals on the ground that an employer is not liable for the false statements of an agent made solely to effect a fraudulent design for his own benefit and-not in behalf of the employer or his business, the court saying (p. 884): “ Under the general rule prevailing in the federal courts an employer is not liable for such conduct of his employee,
+  <em>
+   Friedlander
+  </em>
+  v.
+  <em>
+   Texas &amp; Pacific Ry. Co.,
+  </em>
+  <span class="citation" data-id="92485"><a href="/opinion/92485/friedlander-v-texas-pacific-railway-co/" aria-description="Citation for case: Friedlander v. Texas &amp; Pacific Railway Co.">130 U. S. 416</a></span> ...”
+ </p>
+<p id="b433-5">
+  In the
+  <em>
+   <span class="citation" data-id="92485"><a href="/opinion/92485/friedlander-v-texas-pacific-railway-co/" aria-description="Citation for case: Friedlander v. Texas &amp; Pacific Railway Co.">Friedlander</a></span>
+  </em>
+  case the action was brought to recover for the non-delivery of merchandise, ptirported to have been received by the defendant carrier and covered by a bill of lading issued by its agent, admittedly a-uthor
+  <span citation-index="1" class="star-pagination" label="354"> 
+   *354
+   </span>
+  ilzed to issue bills of lading in the usual course of business. The bill had been fraudulently issued by the agent for his own enrichment and the described merchandise had not, in fact, been received by the defendant or its agent. The court held that there was no implied authority in the agent to issue bills of lading for merchandise not actually received, and that there was consequently no contractual obligation on the part of the carrier. As the only act of the agent complained of, the issuance of the bill of lading, was thus held not to be within the scope of his. authority, that holding was sufficient to dispose of the entire case. To this extent the case has been often cited and followed.
+  <em>
+   Louisville &amp; Nashville R. R. Co.
+  </em>
+  v.
+  <em>
+   Nat. Park Bk.,
+  </em>
+  <span class="citation" data-id="7367384"><a href="/opinion/7446973/louisville-nashville-r-r-v-national-park-bank/#119" aria-description="Citation for case: Louisville &amp; Nashville R. R. v. National Park Bank">188 Ala. 109, 119</a></span>;
+  <em>
+   Roy &amp; Roy
+  </em>
+  v.
+  <em>
+   Northern Pacific Ry Co.,
+  </em>
+  <span class="citation" data-id="4727363"><a href="/opinion/4920593/roy-roy-v-northern-pacific-railway-co/#576" aria-description="Citation for case: Roy &amp; Roy v. Northern Pacific Railway Co.">42 Wash. 572, 576</a></span>;
+  <em>
+   contra, Bank of Batavia
+  </em>
+  v.
+  <em>
+   New York, etc. R. R. Co.,
+  </em>
+  <span class="citation" data-id="3619069"><a href="/opinion/3635555/bank-of-batavia-v-new-york-lake-erie-western-railroad/" aria-description="Citation for case: Bank of Batavia v. New York, Lake Erie &amp; Western Railroad">106 N. Y. 195</a></span>. But the court in the
+  <em>
+   <span class="citation" data-id="92485"><a href="/opinion/92485/friedlander-v-texas-pacific-railway-co/" aria-description="Citation for case: Friedlander v. Texas &amp; Pacific Railway Co.">Friedlander</a></span>
+  </em>
+  case went on to say (p. 425): "... nor is the action maintainable on the ground of tort.
+  <em>
+   ‘
+  </em>
+  The general rule ’, said Willes, J., in
+  <em>
+   Barwick
+  </em>
+  v.
+  <em>
+   English Joint Stock Bank,
+  </em>
+  L. R. 2 Ex. 259, 265, ‘ is that the master is answerable for every such wrong of the servant or agent;as is committed in the course of the service and for the master’s benefit, though no express command or privity of the master be proved.’ See also
+  <em>
+   Limpus
+  </em>
+  v.
+  <em>
+   London General Omnibus Co.,
+  </em>
+  1 H. &amp; C. 526. The fraud was in respect to a matter within the scope of Easton’s employment or outside of it. It was not within it, for bills of lading could only be issued for merchandise delivered; and being without it, the company, which derived and could derive no benefit from the unauthorized and fraudu-. lent act, cannot be made responsible.
+  <em>
+   British Mutual Banking Co.
+  </em>
+  v.
+  <em>
+   Charnwood Forest Railway Co.,
+  </em>
+  18 Q. B. D. 714.”
+ </p>
+<p id="b434-5">
+  The rule, applied in that case, that the authority of an agent to issue bills of lading is impliedly conditioned upon the receipt of the merchandise described in the bill, has
+  <span citation-index="1" class="star-pagination" label="355"> 
+   *355
+   </span>
+  now been modified by statute. Section 22
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  of the Federal Bills of Lading Act, <span class="citation no-link">39 Stat. 542</span>, applicable to bills of lading of common carriers in interstate and foreign commerce, provides that the carrier, in certain enumerated, cases, shall be liable on a bill so issued, even though the merchandise is not received by the agent.
+ </p>
+<p id="b435-6">
+  But the above quoted passage from that case, taken in conjunction with other references in the opinion to the fraudulent conduct of the agent for his own benefit, has been regarded as authority for the broader rule applied by the court below, and the present case must turn upon the sufficiency of the rule thus announced. For there was here no want of authority in the agent. His power to act for his principal was not contingent upon any act or omission of another. From the verdict we must take it that it was his duty unconditionally to answer the inquiry of petitioner as to the arrival of the goods, and concededly, if acting within the scope of his employment, the respondent would have been liable, however flagrant the agent’s act, had it not been tainted by his selfish motive.
+  <em>
+   Nelson Business College
+  </em>
+  v.
+  <em>
+   Lloyd,
+  </em>
+  <span class="citation no-link">60 Ohio St. 448</span>;
+  <em>
+   Aiken
+  </em>
+  v.
+  <em>
+   Holyoke St. Ry. Co.,
+  </em>
+  <span class="citation" data-id="6428331"><a href="/opinion/6554587/aiken-v-holyoke-street-railway-co/" aria-description="Citation for case: Aiken v. Holyoke Street Railway Co.">184 Mass. 269</a></span>.
+  <em>
+   Binghampton Trust Co.
+  </em>
+  v.
+  <em>
+   Auten,
+  </em>
+  <span class="citation" data-id="6544337"><a href="/opinion/6666618/binghampton-trust-co-v-auten/" aria-description="Citation for case: Binghampton Trust Co. v. Auten">68 Ark. 299</a></span>.
+ </p>
+<p id="b435-7">
+  The limitation upon the doctrine of
+  <em>
+   respondeat superior
+  </em>
+  applied by the court below finds little support other than in the passage quoted and in cases, chiefly in some of the
+  <span citation-index="1" class="star-pagination" label="356"> 
+   *356
+   </span>
+  lower federal courts, purporting to follow it, see
+  <em>
+   Harris, Irby &amp; Vose
+  </em>
+  v.
+  <em>
+   Allied Compress Co.,
+  </em>
+  6 F. (2d) 7, 9;
+  <em>
+   American Surety Co.
+  </em>
+  v.
+  <em>
+   Pauly,
+  </em>
+  <span class="citation" data-id="8854828"><a href="/opinion/8869191/american-surety-co-v-pauly/#482" aria-description="Citation for case: American Surety Co. v. Pauly">72 Fed. 470, 482</a></span>;
+  <em>
+   Dun
+  </em>
+  v.
+  <em>
+   City Nat’l Bank,
+  </em>
+  <span class="citation" data-id="8847832"><a href="/opinion/8862297/dun-v-city-nat-bank-of-birmingham/#179" aria-description="Citation for case: Dun v. City Nat. Bank of Birmingham">58 Fed. 174, 179</a></span>; cf.
+  <em>
+   Leachman
+  </em>
+  v.
+  <em>
+   Board of Supervisors,
+  </em>
+  <span class="citation" data-id="6814043"><a href="/opinion/6918496/leachman-v-board-of-supervisors/#624" aria-description="Citation for case: Leachman v. Board of Supervisors">124 Va. 616, 624</a></span>, but in those cases it was not necessary to the decision. The state courts, including those of Georgia where the cause of action arose, have very generally reached the opposite conclusion, holding that the liability of the principal for the false statement or other misconduct of the agent acting within the scope of his authority is unaffected by his secret purpose or motives.
+  <em>
+   Planters’ Rice-Mill Co.
+  </em>
+  v.
+  <em>
+   Merchants’ Nat’l Bank,
+  </em>
+  <span class="citation" data-id="5562591"><a href="/opinion/5712559/planters-rice-mill-co-v-merchants-national-bank/" aria-description="Citation for case: Planters&#x27; Rice-Mill Co. v. Merchants&#x27; National Bank">78 Ga. 574</a></span>;
+  <em>
+   McCord
+  </em>
+  v.
+  <em>
+   Western Union,
+  </em>
+  <span class="citation" data-id="7965750"><a href="/opinion/8010863/mccord-v-western-union-telegraph-co/" aria-description="Citation for case: McCord v. Western Union Telegraph Co.">39 Minn. 181</a></span>;
+  <em>
+   Havens
+  </em>
+  v.
+  <em>
+   Bank of Tarboro,
+  </em>
+  <span class="citation" data-id="3678043"><a href="/opinion/3931352/havens-v-bank-of-tarboro/" aria-description="Citation for case: Havens v. Bank of Tarboro">132 N. C. 214</a></span>;
+  <em>
+   Reynolds
+  </em>
+  v.
+  <em>
+   Witte,
+  </em>
+  13 S. C. 5, 15;
+  <em>
+   Fifth Ave. Bank
+  </em>
+  v.
+  <em>
+   Forty-second St., etc. R. R. Co.,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/N.%20Y./137/231/">137 N. Y. 231</a></span>;
+  <em>
+   Dougherty
+  </em>
+  v.
+  <em>
+   Wells, Fargo &amp; Co., 7
+  </em>
+  Nev. 368. The English courts, after hinting at a departure from the rule as thus stated,
+  <em>
+   British Mutual Banking Co.
+  </em>
+  v.
+  <em>
+   Charnwood Forest Ry.,
+  </em>
+  18 Q. B. D. 714; cf.
+  <em>
+   Barwick
+  </em>
+  v.
+  <em>
+   English Joint Stock Bank,
+  </em>
+  L. R. 2 Ex. 259, 265, have finally reached the same conclusion;
+  <em>
+   <span class="citation no-link">Lloyd</span>
+  </em>
+  v.
+  <em>
+   Grace
+  </em>
+  [1912] A. C. 716.
+ </p>
+<p id="b436-6">
+  And we think that the restriction of the vicarious liability of the principal adopted by the court below is supported-no more by reason than by authority. Undoubtedly formal logic may find something to criticize, in a rule which fastens on the principal liability for the acts of his agent, done without the principal’s knowledge or consent and to which his own negligence has not contributed. But few doctrines of the law are more firmly established or more in harmony with accepted notions of social policy than that of the liability of the principal without fault of his own. Shaw, C. J. in
+  <em>
+   Farwell
+  </em>
+  v.
+  <em>
+   Boston and Worcester Railroad Corporation,
+  </em>
+  <span class="citation no-link">4 Metc. 49</span>, 55;
+  <em>
+   Bartonshill Coal Co.
+  </em>
+  v.
+  <em>
+   Reid, 3
+  </em>
+  Macq., 266, 283. See Pollock, Torts (1887) 67, 68; Salmond, Jurisprudence, 2d ed. 1907, 381. The
+  <span citation-index="1" class="star-pagination" label="357"> 
+   *357
+   </span>
+  tendency of modern legislation in employers’ liability and workmen’s compensation acts and in the Bills of Lading Act cited, and of judicial decision as well, has been to enlarge rather than curtail the rule.
+ </p>
+<p id="b437-6">
+  Granted the validity and ’ general application of the rule itself, there would seem to be no more reason for creating an exception to it because of the agent’s secret purpose to benefit himself by his breach of duty than in any other case where his default is actuated by negligence or sinister motives. In either case the injury to him who deals with the agent, his relationship and that of the principal to the agent’s wrongful act, and the economic consequence of it to the principal in the conduct of whose business the wrong was committed, are .the same.
+ </p>
+<p id="b437-7">
+  The arguments in favor of creating such an exception are equally objections to the rule itself. Holmes, The Common Law (1882) 231, n. 3. But as we accept and apply the rule, despite those objections, we can find no justification for an exception which is inconsistent both with the rule itself and the underlying policy which has created and perpetuated it. We think that the
+  <em>
+   Fried-lander
+  </em>
+  case should be overruled so far as it supports such an exception and that the judgment of the court of appeals should be reversed.
+ </p>
+<p id="AOtG">
+  The court below also thought that Congress, by enacting § 22 of the Bills of Lading Act, to which we have referred, impliedly approved the rule now contended for by legislating on the subject and creating an exception to the rule, announced in the passage quoted from the
+  <em>
+   <span class="citation" data-id="92485"><a href="/opinion/92485/friedlander-v-texas-pacific-railway-co/" aria-description="Citation for case: Friedlander v. Texas &amp; Pacific Railway Co.">Friedlander</a></span>
+  </em>
+  case, instead of abolishing it. But such a rule of statutory construction, whatever its scope and validity, has no application to the present case. Section 22 deals only with the former rule that agents having authority to receive merchandise and issue bills of lading were without implied authority to issue the latter except on receipt of the merchandise. It enlarged the agent’s implied
+  <span citation-index="1" class="star-pagination" label="358"> 
+   *358
+   </span>
+  authority by imposing a new liability on the principal for the agent’s act in issuing the bill, even though the merchandise was not received. But respondent’s liability here is not predicated on the agent’s authority to issue bills which, so far as appears, he did not have, but upon his authority to notify petitioner of the arrival or non-arrival of the merchandise which he clearly did have. Congress, by enlarging, in a bills of lading act, the implied authority of an agent to issue bills of lading, can hardly be said to have dealt by implication with a general rule of liability applicable in other classes of transactions not involving bills of lading.
+ </p>
+<p id="b438-4">
+<em>
+   Reversed.
+  </em>
+</p>
+<judges id="b438-5">
+  Mr. Justice Sutherland concurs in the result.
+ </judges>
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b435-8">
+   Sec. 22. That if a bill of lading has been issued by a carrier or on his behalf by an agent or employee the scope of whose actual or apparent authority includes the receiving of goods and issuing of bills of lading therefor for transportation in commerce among the several States and with foreign nations, the carrier shall be liable to (a) the owner of goods covered by a straight bill subject to existing right of stoppage in transitu or (b) the holder of an order bill, who has given value in good faith, relying upon the description therein of the goods, for damages caused by the nonreeeipt by the carrier of all or part of the goods or their failure to correspond with the description thereof in the bill at the time of its issue.
+  </p>
+</div></div></opinion>

@@ -7,3 +7,5 @@ Visit individual branches for detailed experiments and findings for each project
 - [Similar Case Search](https://github.com/freelawproject/ai-research/tree/similar_case_search)
 - [Metadata Tagging](https://github.com/freelawproject/ai-research/tree/metadata_tagging)
 - [Citator](https://github.com/freelawproject/ai-research/tree/citator)
+- [Summarization](https://github.com/freelawproject/ai-research/tree/summarization)
+- [Case Tracing](https://github.com/freelawproject/ai-research/tree/case_tracing)

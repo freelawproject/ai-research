@@ -1,0 +1,27 @@
+The summary is too long. Please make it shorter.
+
+Remember:
+* They are very concise (10-20 words)
+* They focus on the core issue/subject matter of the case, we don't need all the details about the resolution
+* For settled (resolved) cases, they briefly mention the outcome without detailed specifics
+* For ongoing (unresolved) cases, they just state what the case is about and its location
+* They use plain, direct language without legal jargon
+* They typically start with the general type of case (e.g., "Prison class action," "EEOC race discrimination lawsuit")
+* We only need years if the case has been going for a long time (e.g., 10 or more years). For example, "2002-2024" is fine, but "2022-2024" is not.
+* Do not specify the court (e.g., "U.S. District Court for the Western District of Kentucky" is not needed).
+* The county is important in lawsuits against a government agency (e.g., "Jackson County, Kentucky" not just "Kentucky")
+* They do not focus on monetary amounts unless exceptional (e.g. amounts of $1 million or more they might say: "over one million" or "several million dollars") 
+* Avoid using semicolons and stick to one sentence.
+
+The summaries prioritize two key pieces of information:
+* What type of case/issue is being litigated
+* Basic outcome (if resolved) or status (if ongoing)
+
+They omit details about:
+* Specific dates
+* Individual plaintiffs/defendants
+* Procedural history
+* Detailed settlement terms
+* Specific monetary amounts
+
+Please return only the revised summary, no other text.

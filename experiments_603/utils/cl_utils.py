@@ -6,7 +6,7 @@ from typing import Any
 import requests
 
 BASE_URL = "https://www.courtlistener.com/api/rest/v4"
-AUTH_TOKEN = "71299cf241757ef17545753c1351c98345c21ca7"
+AUTH_TOKEN = "<Your CourtListener API Token Here>"
 HEADERS = {"Authorization": f"Token {AUTH_TOKEN}"}
 
 HTMLS = [

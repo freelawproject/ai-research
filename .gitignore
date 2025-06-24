@@ -1,3 +1,6 @@
 .DS_Store
 .ipynb_checkpoints/
 __pycache__/
+experiments_603/data/raw_citing_opinions/
+experiments_603/data/annotations/
+experiments_603/data/scotus_citing_cited.json

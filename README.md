@@ -1,4 +1,8 @@
 # FLP_Citator
+
+See bottom of README for latest status
+
+---
 As of February 28th, 2025
 
 ## Foreword
@@ -151,3 +155,74 @@ On a high level, the files are organized as follows:
 - 4.experiments_v1: notebooks & prediction outputs for v1 experiments
 - evals_share: containing Pau's dataset, scripts, & results
 - imgs: images used in this README
+
+---
+
+Status as of May 5th, 2025
+
+Added experiments conducted in experiments_430 folder: experiments ran on updated opinions using enhanced Eyecite.
+
+Added experiments conducted in experiments_501 folder: experiments ran on updated opinions after the Eyecite rerun and after reconciling cluster_ids and opinion_ids and reconcile for changed cluster_ids. 
+
+The next steps are:
+1) expanding the label to include distinguished, disapproved, reversed, etc, and 
+2) consider using the entire opinion and the list of cited opinions to combat wrong predictions due to data quality and make this more scalable to the larger case law corpus
+
+Posted a status update blog: https://free.law/2025/05/01/citator
+
+---
+
+Status as of May 6th, 2025
+
+Added experiments conducted in experiments_505 folder: experiments ran by using the entire opinion and the list of cited opinions to combat wrong predictions due to data quality and make this more scalable to the larger case law corpus.
+
+Essentially changed the prompt and some the code such that I pass the acting/citing opinion and the cited opinions in one prompt to the model and ask the model to analyze the cited opinions (using the decision name and the citation numbers) for treatment.
+
+The result is quite promising, with 0.94 Recall and 0.87 F1, which is better than the previous experiments with excerpts (since using citation link & excerpts meant potential missing citations and missing excerpts). The model made a few mistakes which could be corrected with more prompt engineering & few shots prompts.
+Also, this cuts the cost by at least half, where the previous excerpts approach costs ~$0.17 / citing opinion, this approach costs ~$0.06 / citing opinion. This is still quite expensive for the entire case law corpus of 10M citing opinions, so we need to think of ways to make this more manageable, one way is to clean up the case law corpus to remove the duplicates, which would also enhance the citation link quality.
+
+The next steps are:
+1) expanding the label to include distinguished, disapproved, reversed, etc
+
+---
+
+Status as of May 30th, 2025
+
+Added experiments conducted in experiments_515 folder: experiments ran on a preliminary set of fine-grained classifications.
+
+The list of labels used are:
+- Stop:
+   - Overruled
+   - Reversed
+- Caution:
+   - Criticized
+   - Questioned
+   - Limited
+   - Distinguished
+- Neutral:
+   - Cited
+   - Explained
+- Uncertain:
+   - These are the ones where the prediction is not certain enough for us to present a classification to the user
+
+Detailed discussions and conclusions are here: https://github.com/freelawproject/courtlistener/issues/5077
+
+The next steps are:
+1) Expand the dataset to gather all SCOTUS opinions that cited the cited opinions in the current dataset, this should substantially expand the dataset to provide enough examples to produce meaningful metrics. If this produces a dataset that's forbiddingly large, we can then sample from this dataset to reduce its size.
+2) Assign subject-matter-annotated labels to the expanded dataset.
+3) Enhance prompt with SME guidance.
+4) Re-run eval once all steps above are done.
+
+Called for expert volunteers to help assign expert labels to be used for evaluation, https://free.law/2025/06/04/citator-annotation-volunteer. Received ~30 responses.
+
+---
+
+Status as of June 24th, 2025
+
+Added experiments conducted in experiments_603 folder: work done to create the expanded dataset of SCOTUS opinions for expert annotation, also worked on better refining the labels, the producte design, and created volunteer guideline.
+
+The next steps are:
+1) Finalize labels and definitions based on expert comments
+2) Kick-off volunteer annotation for SCOTUS opinions
+3) Start expanded dataset for lower courts, need to get the court authorities into a dataset first
+4) Link appellate chain

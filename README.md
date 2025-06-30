@@ -47,7 +47,7 @@ Initial review by subject matter expert Margo Schlanger confirmed that several d
 - long_to_micro_results.txt: Results
 
 ### Multi Document Summarization
-This work was done in conjunction with Professor Charlotte Alexander, Professor of Law and Ethics at Georgia Tech.
+This work was done in conjunction with the Civil Rights Litigation Clearinghouse (CRLC) and Professor Charlotte Alexander, Professor of Law and Ethics at Georgia Tech.
 
 #### Experimental Design and Experiments
 Gemini 2.0 Flash LLM was used within an agentic workflow to generate legal summaries. The documents were organized into categories such as complaints, settlements, and docket sheets. The first step was to generate summaries for individual documents to assess how each effective it was and how it contributed to its case understanding. This helped to lay the groundwork of a more structured, multi document summarization framework.
@@ -65,7 +65,7 @@ For summaries to be reliable and useful, CRLC need a structured approach that us
 - Explore the addition of a chatbot interface to allow users to interact with summaries and extract further insights.
 
 ### Evaluation Method
-This work was done in conjunction with Dr. Lu Wang, Associate Professor in the School of Computer Science and Engineering at University of Michigan, and Jie Ruan, a PhD candidate in Computer Science and Engineering at the University of Michigan. The work is part of the paper “ExpertLongBench: Benchmarking Language Models on Expert-Level Long-Form Generation Tasks with Structured Checklists” by Jie Ruan, et al, submitted to the NeurIPS 2025 Datasets and Benchmarks Track.
+This work was done in conjunction with the Civil Rights Litigation Clearinghouse (CRLC) and Dr. Lu Wang, Associate Professor in the School of Computer Science and Engineering at University of Michigan, and Jie Ruan, a PhD candidate in Computer Science and Engineering at the University of Michigan. The work is part of the paper “ExpertLongBench: Benchmarking Language Models on Expert-Level Long-Form Generation Tasks with Structured Checklists” by Jie Ruan, et al, submitted to the NeurIPS 2025 Datasets and Benchmarks Track. See preprint paper here: [ https://arxiv.org/abs/2506.01241 ]( https://arxiv.org/abs/2506.01241 )
 
 #### Experimental Design and Experiments
 Create a rubric to evaluate model performance on its summarizations using human-in-the-loop or human-generated comparators. Once a summarization approach is sufficiently successful, then CRLC can use it to generate summaries where there is no human comparator.  

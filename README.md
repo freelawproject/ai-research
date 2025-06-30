@@ -8,17 +8,17 @@ Legal cases often involve a large number of documents, of many types, that requi
 Develop summarization tools for the legal domain that accurately and efficiently condense complex litigation documents, including court-generated opinions, orders, and indexes (docket sheets), and party-generated filings.
 
 These three focus areas were designed to advance towards the overarching goal.
-1. **Long to Micro Summarization:** Make legal case summaries shorter and easier to digest. This can be done by taking existing long form, human written summaries (written by Clearinghouse students) into a micro summary format that allows users to quickly understand the stakes and subject matter of a case.
+1. **Long to Micro Summarization:** Make legal case summaries shorter and easier to digest. This can be done by taking existing long form, human written summaries (written by Civil Rights Litigation Clearinghouse students) into a micro summary format that allows users to quickly understand the stakes and subject matter of a case.
 
 2. **Case/Multi Document Summarization:** Lawsuits typically involve multiple documents. Develop a system that can combine information from several sources into a single, cohesive case summary. The system can dynamically update summaries as new documents are filed, further streamlining the research process.
 
 3. **Evaluation Methods:** Support a robust evaluation method to ensure accuracy and efficiency. This is especially critical in the legal domain where even small errors can have big impacts.
 
 ### Long to Micro Summarization
-This work was done in conjunction with Dr. Eytan Adar (Associate Professor in School of Information and Associate Professor of Electrical Engineering and Computer Science at University of Michigan).
+This work was done in conjunction with the Civil Rights Litigation Clearinghouse (CRLC) and Dr. Eytan Adar (Associate Professor in School of Information and Associate Professor of Electrical Engineering and Computer Science at University of Michigan).
 
 #### Experimental Design and Experiments
-A dataset of approximately 10,000 case summaries written by Clearinghouse students was used.  These summaries varied in length, complexity, and style which made them ideal for testing the summarization technique. We designed a series of prompts aimed at producing clear, brief summaries that still captured essential legal facts. These prompts were used with Claude 3.5 Sonnet using a scripted workflow that prompted the model iteratively until a target summary length was achieved.
+A dataset of approximately 10,000 case summaries written by CRLC students was used.  These summaries varied in length, complexity, and style which made them ideal for testing the summarization technique. CRLC designed a series of prompts aimed at producing clear, brief summaries that still captured essential legal facts. These prompts were used with Claude 3.5 Sonnet using a scripted workflow that prompted the model iteratively until a target summary length was achieved.
 
 #### Example Result:
 **Existing Case Summary:**
@@ -39,7 +39,7 @@ The agreement was set to remain in effect for eighteen months from its effective
 **Shortened Case Summary:** DOJ disability discrimination case against Alabama Medicaid settled with revised hepatitis treatment policies.
 
 #### Conclusion:
-Initial review by subject matter expert Margo Schlanger confirmed that several dozen summaries appeared accurate. We are currently working to integrate this approach into the Clearinghouse’s workflow, with a human-in-the-loop step to ensure accuracy going forward. 
+Initial review by subject matter expert Margo Schlanger confirmed that several dozen summaries appeared accurate. CRLC is currently working to integrate this approach into the Clearinghouse’s workflow, with a human-in-the-loop step to ensure accuracy going forward. 
 
 #### Files
 - baseprompt.txt, secondaryprompt.txt: Prompts utilized to generate micro summaries
@@ -54,10 +54,10 @@ Gemini 2.0 Flash LLM was used within an agentic workflow to generate legal summa
 
 During the multi document summarization experiment, one major takeaway was that summary quality depended heavily on both the type of documents and the order in which they were presented to the model. This reinforced the idea that legal summarization isn’t just about condensing text as it requires a strong understanding of context and structure.
 
-So we tried using docket sheets as the backbone for generating summaries. But that approach quickly ran into problems. The documents were being added without much structure which made it hard to create a clear, meaningful summary. It became obvious that we needed a more intentional strategy, one that takes into account the role each document plays and how it fits into the bigger picture.
+CRLC tried using docket sheets as the backbone for generating summaries. But that approach quickly ran into problems. The documents were being added without much structure which made it hard to create a clear, meaningful summary. It became obvious that there was a need for a more intentional strategy, one that takes into account the role each document plays and how it fits into the bigger picture.
 
 #### Conclusion:
-For summaries to be reliable and useful, we need a structured approach that uses the docket as a roadmap and brings in other documents based on their type and relevance. This strategy should build a clear narrative foundation, iteratively add in legal details as new information comes in, and allow for ongoing improvements through user feedback.
+For summaries to be reliable and useful, CRLC need a structured approach that uses the docket as a roadmap and brings in other documents based on their type and relevance. This strategy should build a clear narrative foundation, iteratively add in legal details as new information comes in, and allow for ongoing improvements through user feedback.
 
 #### Next steps
 - Identify which types of documents should be labeled and understand how each contributes to the overall summary.
@@ -68,7 +68,7 @@ For summaries to be reliable and useful, we need a structured approach that uses
 This work was done in conjunction with Dr. Lu Wang, Associate Professor in the School of Computer Science and Engineering at University of Michigan, and Jie Ruan, a PhD candidate in Computer Science and Engineering at the University of Michigan. The work is part of the paper “ExpertLongBench: Benchmarking Language Models on Expert-Level Long-Form Generation Tasks with Structured Checklists” by Jie Ruan, et al, submitted to the NeurIPS 2025 Datasets and Benchmarks Track.
 
 #### Experimental Design and Experiments
-Create a rubric to evaluate model performance on its summarizations using human-in-the-loop or human-generated comparators. Once a summarization approach is sufficiently successful, then we can use it to generate summaries where there is no human comparator.  
+Create a rubric to evaluate model performance on its summarizations using human-in-the-loop or human-generated comparators. Once a summarization approach is sufficiently successful, then CRLC can use it to generate summaries where there is no human comparator.  
 
 The first attempt followed this methodology.:
 - Generate Summary (Product A): Use an LLM to produce a summary of the legal case.
@@ -119,7 +119,7 @@ Among the models tested, Gemini-2.0-Flash was the best performing but still scor
 - Don’t name any people
 
 #### Conclusion:
-This approach of using a structured rubric would give us a consistent and scalable way to evaluate summaries. By pulling out key facts from both human written and AI generated summaries and organizing them into the same format, we can more easily compare how complete and accurate each version is. 
+This approach of using a structured rubric would give the CRLC a consistent and scalable way to evaluate summaries. By pulling out key facts from both human written and AI generated summaries and organizing them into the same format, we can more easily compare how complete and accurate each version is. 
 
 #### Next steps:
 - Test the methods using a different LLMs to compare performance and accuracy

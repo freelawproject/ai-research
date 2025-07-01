@@ -226,3 +226,16 @@ The next steps are:
 2) Kick-off volunteer annotation for SCOTUS opinions
 3) Start expanded dataset for lower courts, need to get the court authorities into a dataset first
 4) Link appellate chain
+
+---
+
+Status as of July 1st, 2025
+
+Added experiments conducted in experiments_624 folder: 
+1. Generate court authorities data for SME review
+2. Regenerate volunteer annotation dataset to reduce the sample size
+3. Kicked-off the volunteer annotation for SCOTUS opinions
+
+The next steps are:
+1) Start expanded dataset for lower courts
+2) Link appellate chain

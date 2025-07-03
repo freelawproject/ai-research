@@ -5,3 +5,5 @@ experiments_603/data/raw_citing_opinions/
 experiments_603/data/annotations/
 experiments_603/data/scotus_citing_cited.json
 experiments_624/data/annotations/
+experiments_701/fed/data/raw_citing_opinions/
+experiments_701/state/data/raw_citing_opinions/

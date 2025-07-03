@@ -239,3 +239,14 @@ Added experiments conducted in experiments_624 folder:
 The next steps are:
 1) Start expanded dataset for lower courts
 2) Link appellate chain
+
+---
+
+Status as of July 3rd, 2025
+
+Added experiments conducted in experiments_701 folder: 
+1. Generate Federal appellate & district courts, State courts, and Bankruptcy courts sample data
+
+The next steps are:
+1) Link appellate chain
+2) Kick-off the next round of annotations by beginning of August (need to make sub-samples from the sets generated)

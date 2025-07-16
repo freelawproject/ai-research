@@ -52,3 +52,4 @@ This advanced chaining and categorization system will make it possible to follow
 #### Files
 - scotus_scraper.py
 - court_utils.py
+- scotus_dockets contains the scraped dockets and A dockets from SCOTUS. ***It was last scraped as of December 2024.***

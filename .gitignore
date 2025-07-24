@@ -1,5 +1,6 @@
 .DS_Store
 .ipynb_checkpoints/
+.ruff_cache
 __pycache__/
 experiments_603/data/raw_citing_opinions/
 experiments_603/data/annotations/
@@ -8,3 +9,5 @@ experiments_624/data/annotations/
 experiments_701/fed/data/raw_citing_opinions/
 experiments_701/state/data/raw_citing_opinions/
 experiments_701/bankruptcy/data/raw_citing_opinions/
+experiments_718/ss/
+experiments_718/scotus_dockets/

@@ -6,17 +6,9 @@ from pathlib import Path
 import requests
 
 
-def download_scotus_docket(base_path, docket_number, year):
-    # Determine the order of fetch attempts based on the year
-    attempts = []
-
-    if year < 2016:
-        attempts = ["json", "htm"]
-    elif 2016 <= year < 2018:
-        attempts = ["json", "html", "htm"]
-    else:  # year >= 2018
-        attempts = ["json", "html"]
-
+def download_scotus_docket(base_path, docket_number):
+    attempts = ["json", "html", "htm"]
+    
     # 1. Try JSON
     if "json" in attempts:
         json_url = f"https://www.supremecourt.gov/RSS/Cases/JSON/{docket_number}.json"
@@ -52,9 +44,12 @@ def download_scotus_docket(base_path, docket_number, year):
     return None
 
 
-def get_yearly_scotus_data(year, lower_range=1, upper_range=10000, sleep_time=0.5):
+def get_yearly_scotus_data(year, lower_range=1, upper_range=10000, type="N", sleep_time=0.5):
     yr = str(year)[2:4]
-    base_path = Path(f"scotus_dockets/scraped/{yr}")
+    if type == "N":
+        base_path = Path(f"scotus_dockets/scraped/{yr}")
+    elif type == "A":
+        base_path = Path(f"scotus_dockets/scraped_A/{yr}")
     base_path.mkdir(parents=True, exist_ok=True)
 
     valid_docket_numbers = []
@@ -63,8 +58,12 @@ def get_yearly_scotus_data(year, lower_range=1, upper_range=10000, sleep_time=0.
             print(f"Processing docket number {i}...")
 
         time.sleep(sleep_time)
-        docket_number = f"{yr}-{i}"
-        result = download_scotus_docket(base_path, docket_number, year)
+        if type == "N":
+            docket_number = f"{yr}-{i}"
+        elif type == "A":
+            docket_number = f"{yr}A{i}"
+
+        result = download_scotus_docket(base_path, docket_number)
 
         if result:
             valid_docket_numbers.append(result)

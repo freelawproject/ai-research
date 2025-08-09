@@ -1,0 +1,678 @@
+,lower_court,count,first_case_num,cl_court_id,cl_court_name
+603,United States Court of Appeals for the Ninth Circuit,24127,03-10003,ca9,Court of Appeals for the Ninth Circuit
+600,United States Court of Appeals for the Fifth Circuit,20633,01-41164,ca5,Court of Appeals for the Fifth Circuit
+598,United States Court of Appeals for the Eleventh Circuit,17573,02-15029,ca11,United States Court of Appeals for the Eleventh Circuit
+602,United States Court of Appeals for the Fourth Circuit,15380,03-1569,ca4,Court of Appeals for the Fourth Circuit
+606,United States Court of Appeals for the Sixth Circuit,12881,03-2095,ca6,Court of Appeals for the Sixth Circuit
+608,United States Court of Appeals for the Third Circuit,9470,02-2497,ca3,Court of Appeals for the Third Circuit
+604,United States Court of Appeals for the Second Circuit,9219,02-1110,ca2,Court of Appeals for the Second Circuit
+597,United States Court of Appeals for the Eighth Circuit,8893,02-4108,ca8,Court of Appeals for the Eighth Circuit
+605,United States Court of Appeals for the Seventh Circuit,8028,02-3595,ca7,Court of Appeals for the Seventh Circuit
+607,United States Court of Appeals for the Tenth Circuit,6876,03-1016,ca10,Court of Appeals for the Tenth Circuit
+601,United States Court of Appeals for the First Circuit,4139,01-2171,ca1,Court of Appeals for the First Circuit
+599,United States Court of Appeals for the Federal Circuit,3113,02-7267,cafc,Court of Appeals for the Federal Circuit
+596,United States Court of Appeals for the District of Columbia Circuit,2629,02-1155,cadc,Court of Appeals for the D.C. Circuit
+534,Supreme Court of Florida,1968,SC01-1414,fla,Florida Supreme Court
+530,Supreme Court of California,1513,S035769,cal,California Supreme Court
+329,Court of Criminal Appeals of Texas,1426,44761-02,texcrimapp,Court of Criminal Appeals of Texas
+167,"Court of Appeal of California, Second Appellate District",1394,B132070,,
+586,Supreme Court of Virginia,1235,030625,va,Supreme Court of Virginia
+15,"Appellate Court of Illinois, First District",1210,1-01-2263,,
+385,District of Columbia Court of Appeals,1023,99-CF-915,dc,District of Columbia Court of Appeals
+192,Court of Appeals of Michigan,825,241075,michctapp,Michigan Court of Appeals
+535,Supreme Court of Georgia,700,S04Y0073,ga,Georgia Supreme Court
+336,"District Court of Appeal of Florida, First District",615,1D01-4951,fladistctapp1,Florida First District Court of Appeal
+325,Court of Criminal Appeals of Oklahoma,602,"MA-2003-927, PC-2003-1082",oklacrimapp,Court of Criminal Appeals of Oklahoma
+162,"Court of Appeal of California, First Appellate District",601,A101206,,
+338,"District Court of Appeal of Florida, Second District",569,2D01-617,fladistctapp2,Florida Second District Court of Appeal
+570,Supreme Court of Ohio,526,2001-0524,ohio,Ohio Supreme Court
+552,Supreme Court of Nevada,505,41274,nev,Nevada Supreme Court
+337,"District Court of Appeal of Florida, Fourth District",502,4D02-4272,fladistctapp4,Florida Fourth District Court of Appeal
+548,Supreme Court of Mississippi,491,2003-M-00605,miss,Mississippi Supreme Court
+474,"Superior Court of New Jersey, Appellate Division",475,A-635-01T5,njsuperctappdiv,New Jersey Superior Court Appellate Division
+202,Court of Appeals of New York,472,47,ny,New York Court of Appeals
+324,Court of Criminal Appeals of Alabama,468,CR-02-0278,alacrimapp,Alabama Court of Criminal Appeals
+335,"District Court of Appeal of Florida, Fifth District",420,5D02-521,fladistctapp5,Florida Fifth District Court of Appeal
+339,"District Court of Appeal of Florida, Third District",419,3D01-3107,fladistctapp3,Florida Third District Court of Appeal
+539,Supreme Court of Illinois,417,93472,ill,Illinois Supreme Court
+544,Supreme Court of Louisiana,416,2002-KH-2822,la,Supreme Court of Louisiana
+549,Supreme Court of Missouri,407,SC84856,mo,Supreme Court of Missouri
+578,Supreme Court of South Carolina,404,25758,sc,Supreme Court of South Carolina
+169,"Court of Appeal of California, Third Appellate District",403,C029964,,
+179,Court of Appeals of Colorado,401,02CA0342,coloctapp,Colorado Court of Appeals
+516,"Superior Court of Pennsylvania, Philadelphia Office",399,487 EDA 2002,,
+330,Court of Special Appeals of Maryland,386,"1346, September Term, 2001",mdctspecapp,Court of Special Appeals of Maryland
+180,Court of Appeals of Georgia,380,A03A1644,gactapp,Georgia Court of Appeals
+12,Appeals Court of Massachusetts,371,02-P-795,massappct,Massachusetts Appeals Court
+194,Court of Appeals of Minnesota,357,C6-03-281,minnctapp,Court of Appeals of Minnesota
+573,"Supreme Court of Pennsylvania, Eastern District",343,234 Capital Appeal Docket,,
+168,"Court of Appeal of California, Sixth Appellate District",338,H023357,,
+525,Supreme Court of Alabama,336,1001194,ala,Supreme Court of Alabama
+176,"Court of Appeals of Arizona, Division One",335,1 CA-CR-02-0448,,
+529,Supreme Court of Arkansas,334,CR 02-1087,ark,Arkansas Supreme Court
+568,Supreme Court of North Carolina,331,395A91-7,nc,Supreme Court of North Carolina
+527,Supreme Court of Appeals of West Virginia,307,031874,wva,West Virginia Supreme Court
+595,United States Court of Appeals for the Armed Forces,300,03-0136/AR,armfor,United States Court of Appeals For The Armed Forces
+593,Supreme Judicial Court of Massachusetts,300,SJC-09101,mass,Massachusetts Supreme Judicial Court
+295,"Court of Appeals of Washington, Division 1",289,48433-8-I,washctapp,Court of Appeals of Washington
+533,Supreme Court of Delaware,285,"500, 2003",del,Delaware Supreme Court
+587,Supreme Court of Washington,284,73495-0,wash,Washington Supreme Court
+543,Supreme Court of Kentucky,276,2001-SC-0312-DG,ky,Kentucky Supreme Court
+528,Supreme Court of Arizona,270,"CR-02-0031-PC, CR-02-0022-PC, CR-02-0038-PC, CR-02-0146-PC",ariz,Arizona Supreme Court
+550,Supreme Court of Montana,269,02-739,mont,Montana Supreme Court
+17,"Appellate Court of Illinois, Second District",265,2--02--0280,,
+203,Court of Appeals of North Carolina,259,COA01-880,ncctapp,Court of Appeals of North Carolina
+34,"Appellate Division, Supreme Court of New York, First Judicial Department",259,2336,nyappdiv,The Four Departments of the Appellate Division
+13,Appellate Court of Connecticut,245,AC 23432,connappct,Connecticut Court of Appeals
+161,"Court of Appeal of California, Fifth Appellate District",245,F039784,,
+515,"Superior Court of Pennsylvania, Harrisburg Office",240,1871-1872EDA2002,,
+273,Court of Appeals of Oregon,239,"C990596CR, A111593",orctapp,Court of Appeals of Oregon
+531,Supreme Court of Colorado,227,03SA169,colo,Colorado Supreme Court
+546,Supreme Court of Michigan,227,119357,mich,Michigan Supreme Court
+191,Court of Appeals of Maryland,224,"17, September Term, 2002",md,Court of Appeals of Maryland
+281,"Court of Appeals of Texas, Fifth District",222,05-01-00904-CR,,
+36,"Appellate Division, Supreme Court of New York, Second Judicial Department",218,2002-06621,nyappdiv,The Four Departments of the Appellate Division
+164,"Court of Appeal of California, Fourth Appellate District, Division One",215,"D040186, D040866",,
+574,"Supreme Court of Pennsylvania, Middle District",214,15 MAP 2002,,
+16,"Appellate Court of Illinois, Fourth District",213,4-02-0885,,
+166,"Court of Appeal of California, Fourth Appellate District, Division Two",210,E034912,,
+588,Supreme Court of Wisconsin,208,03-1380-W,wis,Wisconsin Supreme Court
+190,Court of Appeals of Kentucky,204,2000-CA-001067-MR,kyctapp,Court of Appeals of Kentucky
+517,"Superior Court of Pennsylvania, Pittsburgh Office",202,1997 WDA 2000,,
+532,Supreme Court of Connecticut,201,SC 16711,conn,Connecticut Supreme Court
+282,"Court of Appeals of Texas, First District",200,01-01-00062-CR,,
+542,Supreme Court of Kansas,199,"89, 704",kan,Supreme Court of Kansas
+283,"Court of Appeals of Texas, Fourteenth District",199,14-02-00794-CV,,
+540,Supreme Court of Indiana,196,71S03-0205-CV-268,ind,Indiana Supreme Court
+547,Supreme Court of Minnesota,196,C7-01-2181,minn,Supreme Court of Minnesota
+165,"Court of Appeal of California, Fourth Appellate District, Division Three",194,G030867,,
+222,"Court of Appeals of Ohio, Cuyahoga County",186,81051,,
+553,Supreme Court of New Hampshire,185,2003-0590,nh,Supreme Court of New Hampshire
+551,Supreme Court of Nebraska,183,S-03-681,neb,Nebraska Supreme Court
+146,Commonwealth Court of Pennsylvania,178,545 C.D. 2002,pacommwct,Commonwealth Court of Pennsylvania
+583,Supreme Court of Texas,176,02-0244,tex,Texas Supreme Court
+592,Supreme Judicial Court of Maine,175,And-03-59,me,Supreme Judicial Court of Maine
+554,Supreme Court of New Jersey,171,A-16 September Term 2002,nj,Supreme Court of New Jersey
+286,"Court of Appeals of Texas, Second District",163,2-01-478-CR,,
+189,Court of Appeals of Kansas,161,"86, 774",kanctapp,Court of Appeals of Kansas
+35,"Appellate Division, Supreme Court of New York, Fourth Judicial Department",160,KA 02-00263,nyappdiv,The Four Departments of the Appellate Division
+171,"Court of Appeal of Louisiana, First Circuit",158,2001 KA 0214,,
+18,"Appellate Court of Illinois, Third District",157,3-01-0090,,
+290,"Court of Appeals of Texas, Third District",154,03-02-00681-CV,,
+177,"Court of Appeals of Arizona, Division Two",151,"2 CA-CR 1996-0168, 2 CA-CR 2000-0402-PR",,
+163,"Court of Appeal of California, Fourth Appellate District",149,D039267,,
+572,Supreme Court of Oregon,149,S49525,or,Oregon Supreme Court
+569,Supreme Court of North Dakota,148,20020267,nd,North Dakota Supreme Court
+37,"Appellate Division, Supreme Court of New York, Third Judicial Department",146,91820,nyappdiv,The Four Departments of the Appellate Division
+195,Court of Appeals of Mississippi,145,2002-CP-00309-COA,missctapp,Court of Appeals of Mississippi
+14,"Appellate Court of Illinois, Fifth District",145,5-01-0370,,
+284,"Court of Appeals of Texas, Fourth District",142,04-01-00226-CR,,
+172,"Court of Appeal of Louisiana, Fourth Circuit",140,2002-KA-1217,,
+538,Supreme Court of Idaho,135,28541,idaho,Idaho Supreme Court
+298,"Court of Appeals of Wisconsin, District I",128,03-1218-W,,
+296,"Court of Appeals of Washington, Division 2",124,29538-5-II,washctapp,Court of Appeals of Washington
+328,"Court of Criminal Appeals of Tennessee, Western Division",119,W2003-00789-CCA-R28-PD,,
+327,"Court of Criminal Appeals of Tennessee, Middle Division",108,M2003-00968-CCA-R3-CO,,
+575,"Supreme Court of Pennsylvania, Western District",107,345 Capital Appeal Docket,,
+293,Court of Appeals of Utah,107,20020739-CA,utahctapp,Court of Appeals of Utah
+326,"Court of Criminal Appeals of Tennessee, Eastern Division",105,72987,,
+584,Supreme Court of Utah,103,20010673-SC,utah,Utah Supreme Court
+227,"Court of Appeals of Ohio, Franklin County",100,02AP-736,,
+198,"Court of Appeals of Missouri, Western District",100,WD 61272,,
+184,"Court of Appeals of Indiana, First District",96,23A01-0207-JV-267,,
+541,Supreme Court of Iowa,95,99-1285,iowa,Supreme Court of Iowa
+275,Court of Appeals of South Carolina,94,2003-26-028,scctapp,Court of Appeals of South Carolina
+196,"Court of Appeals of Missouri, Eastern District",93,ED82145,,
+201,Court of Appeals of New Mexico,93,23725,nmctapp,New Mexico Court of Appeals
+589,Supreme Court of Wyoming,91,"02-45, 02-46, 02-47",wyo,Wyoming Supreme Court
+287,"Court of Appeals of Texas, Seventh District",89,07-02-0183-CR,,
+199,Court of Appeals of Nebraska,88,A-03-001123,nebctapp,Nebraska Court of Appeals
+285,"Court of Appeals of Texas, Ninth District",88,09-01-517CR,,
+579,Supreme Court of South Dakota,88,22221,sd,Supreme Court of South Dakota
+571,Supreme Court of Oklahoma,87,"100, 425",okla,Supreme Court of Oklahoma
+297,"Court of Appeals of Washington, Division 3",86,21296-3-III,washctapp,Court of Appeals of Washington
+537,Supreme Court of Hawaii,84,24027,haw,Supreme Court of Hawaii
+581,"Supreme Court of Tennessee, Middle Division",84,M1998-00105-SC-DDT-DD,,
+526,Supreme Court of Alaska,82,"S-10091, S-10101",alaska,Alaska Supreme Court
+291,"Court of Appeals of Texas, Thirteenth District",81,13-01-00744-CR,,
+299,"Court of Appeals of Wisconsin, District II",80,03-1014-CR,,
+188,Court of Appeals of Iowa,79,3-300/02-1353,iowactapp,Court of Appeals of Iowa
+289,"Court of Appeals of Texas, Tenth District",76,10-02-039-CR,,
+288,"Court of Appeals of Texas, Sixth District",76,06-02-00103-CR,,
+280,"Court of Appeals of Texas, Eleventh District",76,11-03-00030-CR,,
+302,Court of Civil Appeals of Alabama,76,2010679,alacivapp,Alabama Court of Civil Appeals
+301,"Court of Appeals of Wisconsin, District IV",75,01-0790-CR,,
+232,"Court of Appeals of Ohio, Hamilton County",75,C-020698,,
+576,Supreme Court of Puerto Rico,74,CC-2000-144,prsupreme,Supreme Court of Puerto Rico
+173,"Court of Appeal of Louisiana, Second Circuit",74,"37, 244-KA",,
+585,Supreme Court of Vermont,73,338-6-02 OsCr,vt,Supreme Court of Vermont
+582,"Supreme Court of Tennessee, Western Division",73,W2000-02204-SC-DDT-DD,,
+182,Court of Appeals of Indiana,71,18A-PL-645,indctapp,Indiana Court of Appeals
+174,"Court of Appeal of Louisiana, Third Circuit",70,03-461,,
+577,Supreme Court of Rhode Island,69,94-745-C.A.,ri,Supreme Court of Rhode Island
+421,"Superior Court of Georgia, Butts County",68,93-V-217,,
+186,"Court of Appeals of Indiana, Second District",67,29A05-0301-CR-3,,
+292,"Court of Appeals of Texas, Twelfth District",66,12-01-00374-CR,,
+580,"Supreme Court of Tennessee, Eastern Division",65,E2001-00604-SC-R11-CD,,
+277,"Court of Appeals of Tennessee, Middle Division",65,M2002-02871-COA-R3-CV,,
+279,"Court of Appeals of Texas, Eighth District",63,08-02-00269-CV,,
+170,"Court of Appeal of Louisiana, Fifth Circuit",61,02KA334,,
+300,"Court of Appeals of Wisconsin, District III",60,02-2350-CR,,
+612,United States District Court for the District of Columbia,59,04-1260,dcd,"District Court, District of Columbia"
+555,Supreme Court of New Mexico,57,"27, 823",nm,New Mexico Supreme Court
+389,Intermediate Court of Appeals of Hawaii,57,24766,hawapp,Hawaii Intermediate Court of Appeals
+178,Court of Appeals of Arkansas,57,CA02-1072,arkctapp,Arkansas Court of Appeals
+187,"Court of Appeals of Indiana, Third District",55,71A03-0212-CR-419,,
+264,"Court of Appeals of Ohio, Summit County",50,15388,,
+200,Court of Appeals of Nevada,50,81765-COA,nevapp,Court of Appeals of Nevada
+398,"Superior Court of Arizona, Maricopa County",49,CR1987-005068,,
+276,"Court of Appeals of Tennessee, Eastern Division",46,E2003-00330-COA-R3-CV,,
+244,"Court of Appeals of Ohio, Lucas County",44,L-01-1490,,
+250,"Court of Appeals of Ohio, Montgomery County",43,20111,,
+197,"Court of Appeals of Missouri, Southern District",41,25243,,
+181,Court of Appeals of Idaho,37,"23222, 24492",idahoctapp,Idaho Court of Appeals
+185,"Court of Appeals of Indiana, Fourth District",35,49A04-0301-CR-37,,
+175,Court of Appeals of Alaska,34,A-7762,alaskactapp,Alaska Court of Appeals
+278,"Court of Appeals of Tennessee, Western Division",32,W2001-02822-COA-R3-CV,,
+263,"Court of Appeals of Ohio, Stark County",30,2002CA00125,,
+183,"Court of Appeals of Indiana, Fifth District",29,SSA050201CR26,,
+125,"Circuit Court of West Virginia, Kanawha County",28,02-C-1350,,
+97,"Circuit Court of Michigan, Wayne County, Criminal Division",27,93-010422-01,,
+305,"Court of Civil Appeals of Oklahoma, Second Division",27,"98, 112, 98, 114",,
+306,"Court of Civil Appeals of Oklahoma, Third Division",25,99565,,
+213,"Court of Appeals of Ohio, Butler County",25,CA200109215,,
+434,"Superior Court of Georgia, Fulton County",23,2002CV63413,,
+96,"Circuit Court of Michigan, Wayne County",22,"88-03080, 88-02394",,
+265,"Court of Appeals of Ohio, Trumbull County",22,2002-T-0086,,
+672,United States District Court for the Western District of Texas,21,SA-01-CA-1049-WWJ,txwd,"District Court, W.D. Texas"
+246,"Court of Appeals of Ohio, Mahoning County",20,01 CA 229,,
+243,"Court of Appeals of Ohio, Lorain County",20,04CA008509,,
+637,United States District Court for the Eastern District of Texas,20,2:03-CV-354,txed,"District Court, E.D. Texas"
+39,"Appellate Division, Supreme Court ofNew York, Second Judicial Department",20,1998-07404,nyappdiv,The Four Departments of the Appellate Division
+591,Supreme Court of the Virgin Islands,20,2017-0042,virginislands,Supreme Court of The Virgin Islands
+536,Supreme Court of Guam,19,CVA04-006,guam,Supreme Court of Guam
+239,"Court of Appeals of Ohio, Lake County",18,2001-L-101,,
+303,"Court of Civil Appeals of Oklahoma, First Division",17,"98, 379",,
+19,Appellate Court of Maryland,16,"1839, September Term, 2023",,
+258,"Court of Appeals of Ohio, Richland County",14,2003-CA-0117,,
+642,United States District Court for the Middle District of North Carolina,13,1:16-CV-1026,ncmd,"District Court, M.D. North Carolina"
+545,Supreme Court of Maryland,13,"371, September Term, 2023",md,Court of Appeals of Maryland
+294,Court of Appeals of Virginia,13,2858-00-4,vactapp,Court of Appeals of Virginia
+23,"Appellate Division, Superior Court of California, County of Los Angeles",12,BR042724,,
+491,"Superior Court of North Carolina, Forsyth County",12,"93CRS2145, 93CRS2482",,
+638,United States District Court for the Eastern District of Virginia,12,3:14cv852,vaed,"District Court, E.D. Virginia"
+455,"Superior Court of Georgia, Tattnall County",11,2002-HC-56,,
+88,"Circuit Court of Michigan, Oakland County",11,90-102799-FH,,
+38,"Appellate Division, Supreme Court ofNew York, Fourth Judicial Department",11,341,nyappdiv,The Four Departments of the Appellate Division
+609,United States District Court for the Central District of California,11,01-08477,cacd,United States District Court for the Central District of California
+645,United States District Court for the Northern District of Alabama,11,2:21-cv-1530,alnd,United States District Court for the Northern District of Alabama
+675,United States District Courts for the Eastern District and the Northern District of California,11,"CIV S-90-0520, C01-1351",,
+340,"District Court of Appeals of Florida, Sixth District",10,"6D2024-0641, 6D2024-0147",,
+304,"Court of Civil Appeals of Oklahoma, Fourth Division",10,"98, 886",,
+563,"Supreme Court of New York, New York County",10,2174/88,,
+664,United States District Court for the Southern District of Ohio,10,C2-01-1132,ohsd,"District Court, S.D. Ohio"
+62,"Circuit Court of Maryland, Baltimore City",10,24-C-02-004449,,
+368,"District Court of New Mexico, Bernalillo County",9,CR 94-1321,,
+134,"Circuit Court of West Virginia, Ohio County",9,01-C-145,,
+663,United States District Court for the Southern District of New York,9,"02 Civ. 618, 02 Civ. 3239",nysd,"District Court, S.D. New York"
+77,"Circuit Court of Michigan, Genesee County",9,02-9621-FH,,
+63,"Circuit Court of Maryland, Baltimore County",9,89 CR 3102,,
+69,"Circuit Court of Maryland, Prince George's County",9,CAL05-14829,,
+79,"Circuit Court of Michigan, Ingham County",9,01-93776-NZ,,
+617,United States District Court for the District of Maryland,9,8:20-cv-02225-PX-PAH-ELH,mdd,"District Court, D. Maryland"
+662,United States District Court for the Southern District of Mississippi,8,3:11cv159-TSL-EGJ-LG-MTP,mssd,"District Court, S.D. Mississippi"
+643,United States District Court for the Middle District of Pennsylvania,8,1:CV-01-2439,pamd,"District Court, M.D. Pennsylvania"
+256,"Court of Appeals of Ohio, Portage County",8,2002-P-0018,,
+420,"Superior Court of Georgia, Baldwin County",8,04CV38861,,
+633,United States District Court for the Eastern District of Michigan,8,01-72584-BC,mied,"District Court, E.D. Michigan"
+625,United States District Court for the District of South Carolina,8,11-cv-03120-HFF-MBS-PMD,scd,"District Court, D. South Carolina"
+436,"Superior Court of Georgia, Gwinnett County",8,04-A-00927-8,,
+447,"Superior Court of Georgia, Mitchell County",8,02-V-532,,
+226,"Court of Appeals of Ohio, Fairfield County",8,03-CA-97,,
+400,"Superior Court of Arizona, Pima County",7,CR-28657,,
+252,"Court of Appeals of Ohio, Muskingum County",7,CT2002-0037,,
+42,"Appellate Term of the Supreme Court of New York, 9th & 10th Jud. Dist.",7,2003-21 W CR,nyappterm,Appellate Terms of the Supreme Court of New York
+229,"Court of Appeals of Ohio, Geauga County",7,2015-G-0021,,
+118,"Circuit Court of West Virginia, Cabell County",7,01-F-115,,
+139,"Circuit Court of West Virginia, Raleigh County",7,02-C-873-H,,
+639,United States District Court for the Middle District of Alabama,7,2:05cv1100-MHT,almd,United States District Court for the Middle District of Alabama
+437,"Superior Court of Georgia, Habersham County",7,22CV0341,,
+636,United States District Court for the Eastern District of Pennsylvania,7,"01-CV-1303, 01-CV-1322",paed,"District Court, E.D. Pennsylvania"
+634,United States District Court for the Eastern District of New York,7,1:16-cr-00528-HBP-1,nyed,"District Court, E.D. New York"
+269,"Court of Appeals of Ohio, Warren County",7,CA2019-07-074,,
+610,United States District Court for the District of Arizona,7,CV-12-01211-PHX-PGR-MMS-GMS,azd,United States District Court for the District of Arizona
+590,Supreme Court of the Commonwealth of the Northern Mariana Islands,7,02-033-GA,nmi,Supreme Court of The Commonwealth of The Northern Mariana Islands
+207,"Court of Appeals of Ohio, Allen County",7,1-03-07,,
+458,"Superior Court of Georgia, Ware County",7,10-V-0891,,
+237,"Court of Appeals of Ohio, Jefferson County",7,01-JE-16,,
+399,"Superior Court of Arizona, Mohave County",6,s-8015-CR-0096000503,,
+472,"Superior Court of New Hampshire, Rockingham County",6,01-C-0941,,
+209,"Court of Appeals of Ohio, Ashtabula County",6,2002-A-0043,,
+83,"Circuit Court of Michigan, Kent County",6,98-005663-FC,,
+668,United States District Court for the Western District of Michigan,6,1:22-cv-54,miwd,"District Court, W.D. Michigan"
+114,"Circuit Court of West Virginia, Berkeley County",6,08-F-159,,
+669,United States District Court for the Western District of Missouri,6,2:11-cv-4060,mowd,"District Court, W.D. Missouri"
+667,United States District Court for the Western District of Louisiana,6,3:24-cv-00122-DCJ-CES-RRS,lawd,"District Court, W.D. Louisiana"
+453,"Superior Court of Georgia, Richmond County",6,1996-RCCR-971,,
+26,"Appellate Division, Superior Court of California, Orange County",6,30-2021-01216615,,
+215,"Court of Appeals of Ohio, Champaign County",6,2014-CA-29,,
+216,"Court of Appeals of Ohio, Clark County",6,03-CA-0004,,
+67,"Circuit Court of Maryland, Harford County",6,12-K-92-0088,,
+87,"Circuit Court of Michigan, Muskegon County",6,96-139261-FC,,
+522,"Superior Court of Washington, King County",6,04-2-06115-6SEA,,
+241,"Court of Appeals of Ohio, Licking County",6,15-CA-98,,
+445,"Superior Court of Georgia, Macon County",6,2001-416,,
+248,"Court of Appeals of Ohio, Medina County",6,19CA0049-M,,
+649,United States District Court for the Northern District of Illinois,6,1:04-cv-04698,ilnd,"District Court, N.D. Illinois"
+124,"Circuit Court of West Virginia, Jefferson County",5,03-C-215,,
+86,"Circuit Court of Michigan, Macomb County",5,2002-1036-AR,,
+344,"District Court of Colorado, Denver County",5,02CV6970,,
+82,"Circuit Court of Michigan, Kalamazoo County",5,17197-FC,,
+129,"Circuit Court of West Virginia, Mercer County",5,03-F-08-S,,
+640,United States District Court for the Middle District of Florida,5,3:10-cr-23,flmd,United States District Court for the Middle District of Florida
+513,"Superior Court of North Carolina, Wake County",5,05-CRS-49161-49166,,
+358,"District Court of Iowa, Woodbury County",5,AGCR107672,,
+318,"Court of Common Pleas of South Carolina, Greenville County",5,2010-CP-23-9792,,
+470,"Superior Court of New Hampshire, Hillsborough County, Southern District",5,"95-E-0423, 96-C-0005, 99-C-0194, 02-C-0009",,
+665,United States District Court for the Southern District of Texas,5,L-03-113,txsd,"District Court, S.D. Texas"
+648,United States District Court for the Northern District of Georgia,5,1:03-CV-693-CAP,gand,United States District Court for the Northern District of Georgia
+61,"Circuit Court of Maryland, Anne Arundel County",5,45063,,
+321,"Court of Common Pleas of South Carolina, Richland County",5,1999-CP-40-2381,,
+320,"Court of Common Pleas of South Carolina, Orangeburg County",5,00-CP-38-299,,
+456,"Superior Court of Georgia, Telfair County",5,04CV488,,
+559,"Supreme Court of New York, Kings County",5,11196/88,,
+251,"Court of Appeals of Ohio, Morgan County",5,09AP-900,,
+225,"Court of Appeals of Ohio, Erie County",5,"E-05-044, E-05-066",,
+266,"Court of Appeals of Ohio, Tuscarawas County",5,2006AP070041,,
+211,"Court of Appeals of Ohio, Belmont County",5,98-BA-52,,
+259,"Court of Appeals of Ohio, Ross County",5,17CA3607,,
+29,"Appellate Division, Superior Court of California, San Diego County",4,CA263754,,
+422,"Superior Court of Georgia, Calhoun County",4,2005-v-032,,
+490,"Superior Court of North Carolina, Edgecombe County",4,86-CRS-5970,,
+90,"Circuit Court of Michigan, Saginaw County",4,90-003452-FC-5,,
+646,United States District Court for the Northern District of California,4,"20-CV-05167-RRC-LHK-EMC, 20-CV-05169-RRC-LHK-EMC",cand,United States District Court for the Northern District of California
+261,"Court of Appeals of Ohio, Scioto County",4,05CA3002,,
+631,United States District Court for the Eastern District of California,4,1:02-CV-6135,caed,United States District Court for the Eastern District of California
+219,"Court of Appeals of Ohio, Columbiana County",4,19 CO 0010,,
+238,"Court of Appeals of Ohio, Knox County",4,01CA05,,
+473,"Superior Court of New Hampshire, Strafford County",4,99-S-0584,,
+123,"Circuit Court of West Virginia, Jackson County",4,99-F-51,,
+488,"Superior Court of North Carolina, Cumberland County",4,86 CRS 53729,,
+507,"Superior Court of North Carolina, Rockingham County",4,88CRS1742-43,,
+499,"Superior Court of North Carolina, Mecklenburg County",4,78 CRS 114471,,
+657,United States District Court for the Southern District of California,4,17-cv-1215,casd,United States District Court for the Southern District of California
+483,"Superior Court of North Carolina, Catawba County",4,"91-CRS-7871, 7872",,
+342,"District Court of Colorado, Adams County",4,2017 CV 30021,,
+343,"District Court of Colorado, Arapahoe County",4,02-CV-4612,,
+221,"Court of Appeals of Ohio, Crawford County",4,3-10-19,,
+68,"Circuit Court of Maryland, Montgomery County",4,5597-D,,
+427,"Superior Court of Georgia, Cobb County",4,03-1-6179-34,,
+271,"Court of Appeals of Ohio, Wayne County",4,04CA0043,,
+566,"Supreme Court of New York, Suffolk County",4,02464-2009,,
+627,United States District Court for the District of Utah,4,2:01CV292G,utd,"District Court, D. Utah"
+208,"Court of Appeals of Ohio, Ashland County",4,02 COA 028,,
+270,"Court of Appeals of Ohio, Washington County",4,03CA3,,
+234,"Court of Appeals of Ohio, Highland County",4,18CA0011,,
+95,"Circuit Court of Michigan, Washtenaw County",4,10-002236,,
+81,"Circuit Court of Michigan, Jackson County",4,03-000625-FH,,
+464,"Superior Court of Massachusetts, Middlesex County",4,94280-94283,,
+439,"Superior Court of Georgia, Hancock County",3,03HC-0002,,
+614,United States District Court for the District of Hawaii,3,12-00184,hid,United States District Court for the District of Hawaii
+353,"District Court of Colorado, Weld County",3,14CV3115,,
+673,United States District Court for the Western District of Washington,3,3:22-cv-05152-RSLDGE-LJCV,wawd,"District Court, W.D. Washington"
+41,"Appellate Term of the Supreme Court of New York, 2nd & 11th Jud. Dist.",3,2000-1596,nyappterm,Appellate Terms of the Supreme Court of New York
+386,"Family Court of West Virginia, Cabell County",3,99-D-17,,
+394,Orleans Parish Criminal District Court of Louisiana,3,280-729,,
+557,"Supreme Court of New York, Bronx County",3,251498/16,,
+382,"District Court of Wyoming, Sheridan County",3,2016-242,,
+417,Superior Court of District of Columbia,3,"2021 SC3 441, 462, 483, 484, 485, 561, 655",supctdc,Superior Court of The District of Columbia
+556,"Supreme Court of New York, Appellate Term, First Judicial Department",3,570516/22,nyappterm,Appellate Terms of the Supreme Court of New York
+131,"Circuit Court of West Virginia, Monongalia County",3,02-C-346,,
+143,"Circuit Court of West Virginia, Wood County",3,01-F-112,,
+144,"Circuit Court of West Virginia, Wyoming County",3,07-C-35-M,,
+500,"Superior Court of North Carolina, Moore County",3,"01 CRS 14, 01 CRS 15, O1 CRS 8169",,
+666,United States District Court for the Southern District of West Virginia,3,2:11-CV-0989,wvsd,"District Court, S.D. West Virginia"
+496,"Superior Court of North Carolina, Iredell County",3,92-CRS-1195,,
+492,"Superior Court of North Carolina, Guilford County",3,92 CRS 44916,,
+611,United States District Court for the District of Colorado,3,03-cv-02453-ZLW-CBS,cod,United States District Court for the District of Colorado
+30,"Appellate Division, Superior Court of California, San Francisco County",3,149975,,
+560,"Supreme Court of New York, Kings County - Civil Term",3,1467/85,,
+140,"Circuit Court of West Virginia, Roane County",3,01-M-1,,
+375,"District Court of New Mexico, Valencia County",3,D-1314-CR-2004-00065,,
+28,"Appellate Division, Superior Court of California, San Bernardino County",3,ACRAS 1400140,,
+388,Indiana Tax Court,3,49T10-0009-TA-98,indtc,Indiana Tax Court
+149,"County Court of New York, Chemung County",3,JC 2481,nychemungctyct,Chemung County Court
+138,"Circuit Court of West Virginia, Putnam County",3,03-C-119,,
+27,"Appellate Division, Superior Court of California, Sacramento County",3,97M12758,,
+504,"Superior Court of North Carolina, Pitt County",3,"92 CRS 9745, 92 CRS 18759",,
+459,"Superior Court of Georgia, Washington County",3,01-CV-249,,
+423,"Superior Court of Georgia, Charlton County",3,2002-SU-CV-294,,
+658,United States District Court for the Southern District of Florida,3,1:08-cv-23250,flsd,United States District Court for the Southern District of Florida
+122,"Circuit Court of West Virginia, Harrison County",3,03-C-66-2,,
+247,"Court of Appeals of Ohio, Marion County",3,9-04-36,,
+120,"Circuit Court of West Virginia, Fayette County",3,02F98,,
+401,"Superior Court of Arizona, Pinal County",3,S1100CR11043,,
+220,"Court of Appeals of Ohio, Coshocton County",3,07-CA-16,,
+254,"Court of Appeals of Ohio, Pickaway County",3,05CA25,,
+74,"Circuit Court of Michigan, Berrien County",3,2003 402881 FC,,
+311,"Court of Common Pleas of South Carolina, Abbeville County",3,2011-CP-01-110,,
+630,United States District Court for the Eastern District of Arkansas,3,4:18-cv-00116-KGB,ared,United States District Court for the Eastern District of Arkansas
+450,"Superior Court of Georgia, Muscogee County",3,"48573, 48937",,
+260,"Court of Appeals of Ohio, Sandusky County",3,S-84-29,,
+205,Court of Appeals of Ohio Clark County,3,2010-CA-87,,
+217,"Court of Appeals of Ohio, Clermont County",3,CA2006-10-090,,
+519,"Superior Court of Rhode Island, Providence County",3,01-4153,,
+245,"Court of Appeals of Ohio, Madison County",3,CA200010048,,
+424,"Superior Court of Georgia, Chatham County",3,CV10-1090-KA,,
+312,"Court of Common Pleas of South Carolina, Aiken County",3,98CP021323,,
+651,United States District Court for the Northern District of Mississippi,3,3:09-cv-00104,msnd,"District Court, N.D. Mississippi"
+1,"178th District Court of Texas, Harris County",3,"WR-59, 481-04",,
+481,"Superior Court of North Carolina, Buncombe County",3,"96CRS54809, 96CRS6111",,
+50,"Circuit Court of Florida, Miami-Dade County",3,2013-000394-AP-01,,
+231,"Court of Appeals of Ohio, Guernsey County",3,15 CA 19,,
+510,"Superior Court of North Carolina, Stanly County",3,91 CRS 2646,,
+240,"Court of Appeals of Ohio, Lawrence County",3,19CA13,,
+475,"Superior Court of New Jersey, Atlantic County, Chancery Division",3,22-07-1039-I,,
+429,"Superior Court of Georgia, Dekalb County",3,21-CV-1415-3,,
+56,"Circuit Court of Kentucky, Fayette County",3,91-P-1247,,
+224,"Court of Appeals of Ohio, Delaware County",3,04CAA07052,,
+323,"Court of Common Pleas of South Carolina, Sumter County",3,97-CP-43-545,,
+322,"Court of Common Pleas of South Carolina, Spartanburg County",3,95-CP-42-0014,,
+126,"Circuit Court of West Virginia, Lincoln County",3,99-C-86,,
+493,"Superior Court of North Carolina, Harnett County",2,"97 CRS 737, 738, 1006, 1",,
+425,"Superior Court of Georgia, Chattooga County",2,"2012 CA 38, 376",,
+454,"Superior Court of Georgia, Rockdale County",2,2023-CV-1780,,
+426,"Superior Court of Georgia, Clayton County",2,2003CR00753-6,,
+506,"Superior Court of North Carolina, Richmond County",2,"95CRS4226, 27",,
+520,"Superior Court of Washington, Adams County",2,03 2 00149 3,,
+465,"Superior Court of Massachusetts, Suffolk County",2,SUCR1976-01539,,
+512,"Superior Court of North Carolina, Surry County",2,"90-CRS-3642, 90-CRS-3643",,
+402,"Superior Court of Arizona, Yavapai County",2,CR 995 0373,,
+467,"Superior Court of New Hampshire, Cheshire County",2,213-2020-CV-00191,,
+449,"Superior Court of Georgia, Montgomery County",2,09-CV-266,,
+468,"Superior Court of New Hampshire, Coos County",2,03-E-37,,
+405,Superior Court of California Ventura County,2,2010021861,,
+489,"Superior Court of North Carolina, Davidson County",2,03CRS 1172-1173,,
+524,"Supreme Court 3rd Judicial District of New York, Albany County",2,7541-08,,
+410,"Superior Court of California, Orange County",2,03 CC 10166,,
+446,"Superior Court of Georgia, Madison County",2,04-MV-584-H,,
+441,"Superior Court of Georgia, Jackson County",2,98-cr-0036,,
+476,"Superior Court of New Jersey, Middlesex County",2,L-9012-07,,
+479,"Superior Court of North Carolina, Anson County",2,"86 CrS 4071, 87 CrS 1217",,
+471,"Superior Court of New Hampshire, Merrimack County",2,08-E-0035,,
+249,"Court of Appeals of Ohio, Mercer County",2,10-09-12,,
+558,"Supreme Court of New York, Erie County",2,1998/10118,,
+210,"Court of Appeals of Ohio, Auglaize County",2,2-04-26,,
+150,"County Court of New York, Genesee County",2,4639,nygenessctyct,Genesee County Court
+145,Civil District Court of Orleans Parish,2,2005-11660,,
+141,"Circuit Court of West Virginia, Wayne County",2,03-F-079,,
+137,"Circuit Court of West Virginia, Preston County",2,04-C-206,,
+132,"Circuit Court of West Virginia, Morgan County",2,07-F-73,,
+618,United States District Court for the District of Massachusetts,2,02-10428,mad,"District Court, D. Massachusetts"
+619,United States District Court for the District of Minnesota,2,0:10-cv-02938,mnd,"District Court, D. Minnesota"
+116,"Circuit Court of West Virginia, Braxton County",2,95-F-23,,
+561,"Supreme Court of New York, Kings County - Criminal Term",2,IND # 7293/2006,,
+113,Circuit Court of West Virginia Putnam County,2,00-F-72,,
+110,"Circuit Court of Virginia, City of Richmond",2,LL594,,
+623,United States District Court for the District of New Jersey,2,01-2024,njd,"District Court, D. New Jersey"
+107,Circuit Court of Virginia Henrico County,2,CH99-01468-00,,
+104,"Circuit Court of Tennessee, Davidson County",2,21D-825,,
+632,United States District Court for the Eastern District of Louisiana,2,2:06-cv-07185,laed,United States District Court Eastern District of Louisiana
+635,United States District Court for the Eastern District of North Carolina,2,2:07-CV-00051-FL-AD-RC,nced,"District Court, E.D. North Carolina"
+644,United States District Court for the Middle District of Tennessee,2,06-632,tnmd,"District Court, M.D. Tennessee"
+70,"Circuit Court of Maryland, Queen Anne's County",2,4789,,
+66,"Circuit Court of Maryland, Frederick County",2,C-10-CV-20-564,,
+60,"Circuit Court of Maryland, Allegany County",2,3164-3169,,
+654,United States District Court for the Northern District of Texas,2,3:08-CV-2117-P,txnd,"District Court, N.D. Texas"
+51,"Circuit Court of Florida, Palm Beach County",2,502003AP001685XXCCAY,,
+46,"Circuit Court of Alabama, Mobile County",2,CC-1985-001385.80,,
+659,United States District Court for the Southern District of Georgia,2,CV409-130,gasd,United States District Court for the Southern District of Georgia
+22,"Appellate Department, Superior Court of California, Santa Barbara County",2,1471799,,
+9,"3rd District Court of Texas, Anderson County",2,22753,,
+7,"38th Judicial District Court of Louisiana, Cameron Parish",2,10-19582,,
+674,United States District Court for the Western District of Wisconsin,2,15-cv-421-bbc,wiwd,"District Court, W.D. Wisconsin"
+2,"184th District Court of Texas, Harris County",2,941969,,
+158,"County Court of New York, Ulster County",2,051-04,nyulsterctyct,Ulster County Court
+115,"Circuit Court of West Virginia, Boone County",2,01-C-124,,
+498,"Superior Court of North Carolina, Martin County",2,83-CRS-920-922,,
+308,"Court of Common Pleas of Pennsylvania, Butler County",2,A.D. No. 2020-10334,,
+360,"District Court of Louisiana, East Baton Rouge Parish",2,"462, 218",,
+357,"District Court of Iowa, Scott County",2,NTWG 806359,,
+356,"District Court of Iowa, Polk County",2,FECR 182583,,
+351,"District Court of Colorado, Saguache County",2,2022CV1,,
+365,"District Court of Nebraska, Lancaster County",2,CI 19-3861,,
+350,"District Court of Colorado, Pitkin County",2,2015CV30044,,
+223,"Court of Appeals of Ohio, Defiance County",2,4-02-01,,
+347,"District Court of Colorado, Larimer County",2,01CV878,,
+334,"District Court of  Colorado, Broomfield County",2,2003CV68,,
+366,"District Court of Nevada, Clark County",2,A435066,,
+332,"Criminal District Court No.1 of Dallas County, Texas",2,F-0152159-H,,
+319,"Court of Common Pleas of South Carolina, Greenwood County",2,94-CP-24-279,,
+316,"Court of Common Pleas of South Carolina, Cherokee County",2,2005-CP-11-667,,
+310,"Court of Common Pleas of Pennsylvania, Luzerne County",2,490 of 1984,,
+359,"District Court of Louisiana, 4th Judicial District, Ouachita Parish",2,"35, 583",,
+230,"Court of Appeals of Ohio, Greene County",2,2011-CA-17,,
+274,Court of Appeals of Puerto Rico,2,KLAN202400070,,
+272,"Court of Appeals of Ohio, Wood County",2,"WD-19-021, WD-19-022",,
+267,"Court of Appeals of Ohio, Union County",2,14-12-09,,
+262,"Court of Appeals of Ohio, Seneca County",2,13-02-46,,
+233,"Court of Appeals of Ohio, Hancock County",2,05-18-14,,
+235,"Court of Appeals of Ohio, Hocking County",2,"11CA29, 11CA32, 12CA2, 12CA11, 12CA12, 12CA19",,
+371,"District Court of New Mexico, Otero County",2,A-1-CA-38086,,
+242,"Court of Appeals of Ohio, Logan County",2,"8-19-52, 8-19-53",,
+257,"Court of Appeals of Ohio, Preble County",2,CA2019-02-002,,
+671,United States District Court for the Western District of Oklahoma,1,5:12-cv-00140,okwd,"United States District Court, Oklahoma Western"
+564,"Supreme Court of New York, Queens County",1,1395-2002,,
+508,"Superior Court of North Carolina, Rutherford County",1,05 CRS 50129,,
+655,United States District Court for the Northern District of West Virginia,1,3:01cv75,wvnd,"District Court, N.D. West Virginia"
+656,United States District Court for the Southern District of Alabama,1,1:13-cv-00521-CG-C,alsd,United States District Court for the Southern District of Alabama
+562,"Supreme Court of New York, Nassau County",1,93053,,
+502,"Superior Court of North Carolina, New Hanover County",1,"96-CRS-15621, 96-CRS-15622, 96-CRS-15623",,
+501,"Superior Court of North Carolina, Nash County",1,"93 CRS 14709, 14711",,
+565,"Supreme Court of New York, Richmond County",1,270/2009,,
+505,"Superior Court of North Carolina, Randolph County",1,"92 CRS 8374, 8375",,
+660,United States District Court for the Southern District of Illinois,1,3:07-cv-00357,ilsd,"District Court, S.D. Illinois"
+503,"Superior Court of North Carolina, Onslow County",1,07CRS55796,,
+661,United States District Court for the Southern District of Indiana,1,03-3819,insd,"District Court, S.D. Indiana"
+509,"Superior Court of North Carolina, Sampson County",1,94 CRS 7958-7959,,
+670,United States District Court for the Western District of New York,1,1:08-CR-382,nywd,"District Court, W.D. New York"
+567,"Supreme Court of New York, Washington County",1,57-1-2002-0300,,
+594,United States Bankruptcy Appellate Panel for the 10th Circuit,1,No. 24-12,,
+653,United States District Court for the Northern District of Oklahoma,1,4:08-cv-00278,oknd,"United States District Court, Oklahoma Northern"
+652,United States District Court for the Northern District of Ohio,1,1:15-cv-00947,ohnd,"District Court, N.D. Ohio"
+613,United States District Court for the District of Connecticut,1,3:12-cv-1299,ctd,United States District Court for the District of Connecticut
+523,"Superior Court of Washington, Okanogan County",1,04-2-00244-5,,
+521,"Superior Court of Washington, Clallam County",1,10-2-00364-1,,
+615,United States District Court for the District of Idaho,1,3:11-cv-00588,idd,United States District Court for the District of Idaho
+616,United States District Court for the District of Maine,1,1:10-cv-330,med,"District Court, D. Maine"
+518,"Superior Court of Puerto Rico, Centro Judicial de San Juan",1,SJ2020CV00581,,
+620,United States District Court for the District of Nebraska,1,"4:09-cv-3193, 4:07-cr-3005",ned,"United States District Court, Nebraska"
+621,United States District Court for the District of Nevada,1,3:06-cv-00545,nvd,"District Court, D. Nevada"
+622,United States District Court for the District of New Hampshire,1,1:08-cr-00094,nhd,"District Court, D. New Hampshire"
+624,United States District Court for the District of North Dakota,1,1:22-cv-00031-PDW-RRE-DLH,ndd,"District Court, D. North Dakota"
+626,United States District Court for the District of South Dakota,1,02-5069,sdd,"District Court, D. South Dakota"
+514,"Superior Court of North Carolina, Wilson County",1,17 CVS 01665,,
+628,United States District Court for the District of Wyoming,1,14-cv-21-SWS,wyd,"District Court, D. Wyoming"
+629,United States District Court for the District of the Virgin Islands,1,09-bk-10002,vid,"District Court, Virgin Islands"
+511,"Superior Court of North Carolina, Stokes County",1,03 CRS 052406,,
+647,United States District Court for the Northern District of Florida,1,"4:14-cv-107, 4:14-cv-138",flnd,United States District Court for the Northern District of Florida
+650,United States District Court for the Northern District of Iowa,1,03-CR-4113,iand,"District Court, N.D. Iowa"
+641,United States District Court for the Middle District of Louisiana,1,3:13-cv-00368,lamd,"District Court, M.D. Louisiana"
+0,"139th District Court of Texas, Hidalgo County",1,C-0998-12-C,,
+497,"Superior Court of North Carolina, Lenoir County",1,"11 CRS 52845, 52816",,
+255,"Court of Appeals of Ohio, Pike County",1,02CA684,,
+133,"Circuit Court of West Virginia, Nicholas County",1,05-C-195,,
+130,"Circuit Court of West Virginia, Mineral County",1,05-C-17,,
+128,"Circuit Court of West Virginia, Marshall County",1,03-F-39,,
+127,"Circuit Court of West Virginia, Logan County",1,04-C-84,,
+121,"Circuit Court of West Virginia, Greenbriar County",1,99-C-154,,
+119,"Circuit Court of West Virginia, Calhoun County",1,"06-JA-3, 06-JA-4",,
+117,"Circuit Court of West Virginia, Brooke County",1,05-C-85,,
+112,Circuit Court of West Virginia Mingo County,1,96-C-235/239/240/241/97-,,
+111,"Circuit Court of Virginia, Wise County",1,CH00402,,
+109,"Circuit Court of Virginia, City of Newport News",1,00301-TF,,
+108,"Circuit Court of Virginia, Arlington County",1,"01-508, 01-814",,
+106,Circuit Court of Virginia City of Charlottesville,1,00-229,,
+105,"Circuit Court of Tennessee, Maury County",1,E2018-00130-CCA-R28-PD,,
+103,"Circuit Court of South Dakota, Yankton County",1,JUV. 07-33/-7-64,,
+102,"Circuit Court of Oregon, Washington County",1,D056049M,,
+101,"Circuit Court of Oregon, Umatilla County",1,F94-11-1023C,,
+100,"Circuit Court of Mississippi, Winston County",1,2001-0189-CV-M,,
+99,"Circuit Court of Mississippi, Madison County",1,2009-0203-C,,
+98,"Circuit Court of Mississippi, Hinds County",1,251-01-23COV,,
+135,"Circuit Court of West Virginia, Pendleton County",1,01-C-14,,
+136,"Circuit Court of West Virginia, Pocahontas County",1,03-F-04J,,
+142,"Circuit Court of West Virginia, Wetzel County",1,01-C-15,,
+160,"County of New York, Broome County",1,2012-0093,,
+236,"Court of Appeals of Ohio, Huron County",1,"H-06-007, H-06-008, H-06-009, H-06-010, H-06-011, H-06-012, H-06-013, H-06-014, H-06-015, H-06-016, H-06-017",,
+228,"Court of Appeals of Ohio, Gallia County",1,06CA13,,
+218,"Court of Appeals of Ohio, Clinton County",1,CA2001-02-008,,
+214,"Court of Appeals of Ohio, Carroll County",1,01 AP 758,,
+212,"Court of Appeals of Ohio, Brown County",1,CA2009-05-018,,
+206,Court of Appeals of Ohio Greene County,1,99 CA 25,,
+204,Court of Appeals of North Dakota,1,20000149CA,ndctapp,North Dakota Court of Appeals
+193,"Court of Appeals of Michigan, Genesse County",1,01-08404-FH,,
+159,"County Court of New York, Westchester County",1,87-1520,nywestchcty,Westchester County Court
+147,"County Court at Law 2, Montgomery County, Texas",1,"15-28977, 15-28978",,
+157,"County Court of New York, Sullivan County",1,2066/06,nysullivanctyct,Sullivan County Court
+156,"County Court of New York, St. Lawrence County",1,Ind. No. 2015-0123,nystlawctyct,St. Lawrence County Court
+155,"County Court of New York, Oswego County",1,01C-228,nyoswegoctyct,Oswego County Court
+154,"County Court of New York, Orange County",1,1989-545,nyorangectyct,Orange County Court
+153,"County Court of New York, Niagara County",1,2010-010,nyniagaractyct,Niagara County Court
+152,"County Court of New York, Nassau County",1,Motion No. C-72,nynassctyct,Nassau County Court
+151,"County Court of New York, Livingston County",1,2004-027,nylivingstctyct,Livingston County Court
+148,"County Court at Law No. 2, Collin County, Texas",1,0058775209,,
+94,"Circuit Court of Michigan, Van Buren County",1,03-13658B,,
+93,"Circuit Court of Michigan, Tuscola County",1,90-5754-FC,,
+92,"Circuit Court of Michigan, St. Joseph County",1,01-10436,,
+24,"Appellate Division, Superior Court of California, Marin County",1,CV-022654,,
+45,"Circuit Court of Alabama, Jefferson County",1,98-4984,,
+44,"Chancery Court of Tennessee, 30th Judicial District",1,09-1309-3,,
+43,Arizona Court of Appeals,1,"1 CA-CR 21-0512, 1 CA-CR 21-0541, 1 CA-CR 22-0061, 1 CA-CR 22-0071",arizctapp,Arizona Court of Appeals
+40,"Appellate Term of the Supreme Court of New York, 1st & 12th Jud. Dist.",1,05-022,nyappterm,Appellate Terms of the Supreme Court of New York
+33,"Appellate Division, Superior Court of California, Yolo County",1,AP00-14,,
+32,"Appellate Division, Superior Court of California, Santa Cruz County",1,AP001164,,
+31,"Appellate Division, Superior Court of California, Santa Clara County",1,1-15-AP-001874,,
+25,"Appellate Division, Superior Court of California, Modoc County",1,"APM00011, APM00012, APM00013",,
+21,"Appellate Department, Superior Court of California, El Dorado County",1,PO3CRM1409,,
+48,"Circuit Court of Florida, Citrus County",1,2008-CA-007192,,
+20,"Appellate Department, Superior Court of California, Alameda County",1,4150,,
+11,"9th Circuit Court of New Hampshire, District Division-Nashua",1,459-2022-LT-00671,,
+10,"46th District Court of Michigan, Oakland County",1,98-M-351734A,,
+8,"39th Judicial District Court of Louisiana, Red River Parish",1,"101, 994",,
+6,"29th Judicial District Court of Louisiana, Parish of St. Charles",1,74-033,,
+5,28th Judicial District Court of Michigan,1,04-1832SD,,
+4,"272nd District Court of Texas, Brazos County",1,11-06185-CRF-272-A,,
+3,"221st Judicial District Court of Texas, Montgomery County",1,95-08-008877-CR,,
+47,Circuit Court of Florida Brevard County,1,05-2012-55504,,
+49,"Circuit Court of Florida, Dade County",1,"0882DOG, 6319DRT, 6833DOF, 9643DNN, 9782DOP",,
+91,"Circuit Court of Michigan, Shiawassee County",1,00-5900-AR,,
+72,"Circuit Court of Michigan, Antrim County",1,02-3572-FC,,
+89,"Circuit Court of Michigan, Ottawa County",1,95-18651-FC,,
+85,"Circuit Court of Michigan, Livingston County",1,92-7032-FC,,
+84,"Circuit Court of Michigan, Lapeer County",1,01-007330-FHH,,
+80,"Circuit Court of Michigan, Isabella County",1,03-1555-FC,,
+78,"Circuit Court of Michigan, Huron County",1,10-004535-AE-K,,
+76,"Circuit Court of Michigan, Eaton County",1,96-408-FH,,
+75,"Circuit Court of Michigan, Cass County",1,91-7303-FC,,
+73,"Circuit Court of Michigan, Benzie County",1,05-001955-FC,,
+71,"Circuit Court of Maryland, Wicomico County",1,22-C-13-001080,,
+52,"Circuit Court of Florida, Pinellas County",1,07-009926-CI-007,,
+65,"Circuit Court of Maryland, Charles County",1,K13-239,,
+64,"Circuit Court of Maryland, Calvert County",1,C-04-CV-19-000432,,
+59,"Circuit Court of Kentucky, Trimble County",1,"18-XX-00001, 18-XX-00002",,
+58,"Circuit Court of Kentucky, Knott County",1,10-XX-00001,,
+57,"Circuit Court of Kentucky, Hopkins County",1,02-XX-00010,,
+55,"Circuit Court of Florida, Sumter County",1,1988-CF-000636,,
+54,"Circuit Court of Florida, St. Johns County",1,04001748CF,,
+53,"Circuit Court of Florida, Sarasota County",1,2002-CA-8117,,
+253,"Court of Appeals of Ohio, Perry County",1,12-CA-1,,
+268,"Court of Appeals of Ohio, Vinton County",1,07CA663,,
+495,"Superior Court of North Carolina, Henderson County",1,"04 CRS 56340, 04 CRS 56668",,
+307,"Court of Common Pleas of Pennsylvania, Allegheny County",1,CP-02-MD-4931-2013,,
+440,"Superior Court of Georgia, Henry County",1,01-CV-0651-M,,
+438,"Superior Court of Georgia, Hall County",1,2016CV982A,,
+435,"Superior Court of Georgia, Glynn County",1,CE19-00763,,
+433,"Superior Court of Georgia, Floyd County",1,83CR21295-3,,
+432,"Superior Court of Georgia, Douglas County",1,"CR 15, 126",,
+431,"Superior Court of Georgia, Dooly County",1,09DV-0061,,
+430,"Superior Court of Georgia, Dodge County",1,08-HC-275,,
+428,"Superior Court of Georgia, Coffee County",1,2004-S05-0421,,
+419,"Superior Court of Georgia, Athens-Clarke County",1,SU01CR0050-SW,,
+418,Superior Court of Georgia Richmond County,1,2002-RCD-472,,
+416,Superior Court of Delaware,1,9507001267,delsuperct,Superior Court of Delaware
+415,"Superior Court of Connecticut, Hartford-New Britain",1,CV 06-4021640,,
+414,"Superior Court of California, Sonoma County",1,MCV-191306,,
+413,"Superior Court of California, Solano County",1,FCS029178,,
+412,"Superior Court of California, San Joaquin County, Appellate Department",1,ST65170A,,
+411,"Superior Court of California, Sacramento County",1,09UD12194,,
+409,"Superior Court of California, Los Angeles County",1,23APIN00010,,
+408,"Superior Court of California, County of San Joaquin, Appellate Division",1,CV-LUDRF-2018-11459,,
+407,"Superior Court of California, County of Mateo, Appellate Division",1,21-AD-000009,,
+442,"Superior Court of Georgia, Jenkins County",1,1J13CV071P,,
+443,"Superior Court of Georgia, Johnson County",1,2010-HC-22,,
+444,"Superior Court of Georgia, Lowndes County",1,2006-CV-1668,,
+477,"Superior Court of New Jersey, Ocean County, Chancery Division",1,FM-15-1494-17,,
+494,"Superior Court of North Carolina, Haywood County",1,89 CRS 2144,,
+487,"Superior Court of North Carolina, Craven County",1,98 CRS 3472,,
+486,"Superior Court of North Carolina, Columbus County",1,23CV000553,,
+485,"Superior Court of North Carolina, Cleveland County",1,98-CRS-9636-9637,,
+484,"Superior Court of North Carolina, Chatham County",1,04 CRS 51187,,
+482,"Superior Court of North Carolina, Cabarrus County",1,"00CRS4055-57, 5715",,
+480,"Superior Court of North Carolina, Bladen County",1,84CR52567-69,,
+478,"Superior Court of North Carolina, Alamance County",1,"88 CRS 2342, 2343, 2638, 4178",,
+469,"Superior Court of New Hampshire, Hillsborough County, Northern District",1,99-S-1335,,
+448,"Superior Court of Georgia, Monroe County",1,2005-CV-857,,
+466,Superior Court of New Hampshire Hillsborough County,1,01-C-20,,
+463,"Superior Court of Massachusetts, Essex County",1,2009-01296,,
+462,"Superior Court of Massachusetts, Bristol County",1,BRCR2003-00813-1,,
+461,"Superior Court of Georgia, Wilcox County",1,2010CV082,,
+460,"Superior Court of Georgia, Wayne County",1,00-CV-0335,,
+457,"Superior Court of Georgia, Troup County",1,06-R-380,,
+452,"Superior Court of Georgia, Pulaski County",1,2000V-8888,,
+451,"Superior Court of Georgia, Oconee County",1,96-CR-0001,,
+406,"Superior Court of California, Contra Costa County",1,5-151168-2,,
+404,Superior Court of California San Francisco County,1,CPF-10-510561,,
+403,"Superior Court of Arizona, Yuma County",1,S1400CR9218454,,
+346,"District Court of Colorado, Jefferson County",1,22CV30495,,
+363,"District Court of Louisiana, Livingston Parish",1,01-FELN-015992,,
+362,"District Court of Louisiana, Lafayette Parish",1,50486,,
+361,"District Court of Louisiana, Iberia Parish",1,91413-D,,
+355,"District Court of Iowa, Jasper County",1,LACV110419,,
+354,"District Court of Iowa, Fremont County",1,SMMG030661,,
+352,"District Court of Colorado, Teller County",1,02 CV 262,,
+349,"District Court of Colorado, Ouray County",1,2017CV2,,
+348,"District Court of Colorado, Lincoln County",1,01CV63,,
+345,"District Court of Colorado, El Paso County",1,2023CV19,,
+367,"District Court of Nevada, Elko County",1,CR-AP-12-4755,,
+341,District Court of Colorado Elbert County,1,2024CV2,,
+333,"DIstrict Court of Iowa, North Lee County",1,PCLA 006654,,
+331,"Criminal Court of the City of New York, Queens County",1,2004QN043051,nycrimctqueens,"The Criminal Court of the City of New York, Queens"
+317,"Court of Common Pleas of South Carolina, Georgetown County",1,99-CP-22-268,,
+315,"Court of Common Pleas of South Carolina, Charleston County",1,2007-CP-10-3878,,
+314,"Court of Common Pleas of South Carolina, Calhoun County",1,09-CP-09-164,,
+313,"Court of Common Pleas of South Carolina, Berkeley County",1,2008-CP-08-2561,,
+309,"Court of Common Pleas of Pennsylvania, Delaware County",1,CP-23-CR-0004909-2021,,
+364,"District Court of Louisiana, St. Tammany Parish",1,194255,,
+369,"District Court of New Mexico, Dona Ana County",1,CR-2004-50,,
+397,"Superior Court of Arizona, Coconino County",1,CR 2007-0429,,
+383,"District Court of Wyoming, Teton County",1,2247,,
+396,"Superior Court of Alaska, 4th Judicial District",1,087506,,
+395,"Superior Court of Alaska, 3rd Judicial District",1,3AN-24-06057CI,,
+393,New York Supreme Court Dutchess County,1,3266/2001,,
+392,Merrimack County Probate Court of New Hampshire,1,2001-C136,,
+391,"Juvenile Court of Georgia, Douglas County",1,J060510,,
+390,"Judicial Branch of New Hampshire, Family Division of Lebanon",1,2000-M-0193,,
+387,"Fifth Judicial District Court of Louisiana, Franklin Parish",1,C-40232,,
+384,"District Court of Wyoming, Uinta County",1,CR-05-35,,
+381,"District Court of Wyoming, Platte County",1,2009-027,,
+370,"District Court of New Mexico, Eddy County",1,D-503-CR-2006-120,,
+380,"District Court of Wyoming, Laramie County",1,19-373,,
+379,"District Court of Wyoming, Hot Springs County",1,05-11,,
+378,District Court of Wyoming Campbell County,1,4944,,
+377,"District Court of Utah, Cache County",1,"031100633, 031101017",,
+376,"District Court of North Carolina, Perquimans County",1,05-CVD-205,,
+374,"District Court of New Mexico, Socorro County",1,0725-CR-94-09,,
+373,"District Court of New Mexico, San Juan County",1,D-1116-CR-2007-00475,,
+372,"District Court of New Mexico, Rio Arriba County",1,D-117-cr-2016-00020,,
+676,United States Foreign Intelligence Surveillance Court of Review,1,Misc. 20-02,fiscr,United States Foreign Intelligence Surveillance Court of Review

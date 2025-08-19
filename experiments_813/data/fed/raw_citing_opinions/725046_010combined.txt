@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b124-22">
+  WALKER, Circuit Judge:
+ </author>
+<p id="b124-23">
+  Defendant Felix Garcia appeals from his conviction before the United States District Court for the District of Connecticut (T.F. Gilroy Daly,
+  <em>
+   District Judge).
+  </em>
+  On appeal, Garcia claims that: (1) the district court erred in instructing the jury that in order to find that Garcia satisfied his burden of proving insanity, his severe mental disease, rather than his alcohol and drug use at the time of the commission of the crime, must have been the cause of his inability to appreciate the wrongfulness of his actions; (2) he was deprived of his Sixth Amendment right to a fair trial because the district court refused to allow his attorney to deliver a rebuttal closing argument; (3) the government impermis-sibly amended the indictment charging him with being a felon in possession of a firearm in violation of <span class="citation no-link">18 U.S.C. § 922</span>(g) by relying at trial on proof of the firearm’s connection
+  <span citation-index="1" class="star-pagination" label="59"> 
+   *59
+   </span>
+  to foreign commerce when the indictment referred only to interstate commerce; and (4) the Supreme Court’s recent decision in
+  <em>
+   United States v. Lope
+  </em>
+  z,- U.S. -, <span class="citation" data-id="9433130"><a href="/opinion/117927/united-states-v-lopez/" aria-description="Citation for case: United States v. Lopez">115 S.Ct. 1624</a></span>, <span class="citation" data-id="9433130"><a href="/opinion/117927/united-states-v-lopez/" aria-description="Citation for case: United States v. Lopez">131 L.Ed.2d 626</a></span> (1995), renders <span class="citation no-link">18 U.S.C. § 922</span>(g) unconstitutional on its face or as applied to Garcia.
+ </p>
+<p id="b125-6">
+  The judgment of the district court is affirmed.
+ </p>
+<p id="b125-7">
+  BACKGROUND
+ </p>
+<p id="b125-8">
+  During mid-afternoon on March 28, 1994, in response to a radio report that a man was threatening others with a gun, Bridgeport, Connecticut Police Officer James Kirkland was dispatched to 1111 Barnum Avenue in Bridgeport. On arrival, he saw a group of people on the sidewalk and, upon inquiring, was advised that the man with the gun was going up the street. Officer Kirkland saw the man, later identified as Defendant Felix Garcia, about forty yards away walking with a bicycle. Officer Kirkland then drove alongside Garcia in a marked police ear, rolled down the driver’s window, and asked Garcia: “What’s up?” Garcia dropped the bicycle and responded: “Nothing’s up.” Garcia then reached for his waist and pulled out a gun. Officer Kirkland drew his weapon and fired a shot out of the driver’s window into Garcia’s stomach. Garcia thereafter was arrested.
+ </p>
+<p id="b125-9">
+  On October 20, 1994, a grand jury indicted Garcia for possession of a firearm by a convicted felon, in violation of <span class="citation no-link">18 U.S.C. § 922</span>(g)(1). After entering a plea of not guilty, Garcia moved for a competency evaluation. Judge Daly granted the motion on December 8, 1994 and, following the evaluation, Garcia was found competent to stand trial. On January 13, 1995, Garcia filed a notice of intent to rely on an insanity defense, pursuant to Rule 12.2 of the Federal Rules of Criminal Procedure. Trial commenced on May 3, 1995. Garcia presented his insanity defense, but on May 4, 1995, the jury rejected it and rendered a guilty verdict. On September 29, 1995, the district court sentenced Garcia under the armed career criminal provision of <span class="citation no-link">18 U.S.C. § 924</span>(e)(1) to a term of imprisonment of 192 months, to run concurrently with any sentence to be imposed by the State of Connecticut, to be followed by a five year term of supervised release. Judgment was entered on October 2, 1995. Garcia subsequently pled guilty in state court to attempted assault on a police officer and was sentenced to a term of imprisonment of ten years, to run concurrently with his federal sentence. On appeal, Garcia raises no objection to his sentence; his challenge is solely to his district court conviction.
+ </p>
+<p id="b125-12">
+  DISCUSSION
+ </p>
+<p id="b125-13">
+  I. The Insanity Defense Issue
+ </p>
+<p id="b125-14">
+  Garcia argues that the district court erred in its insanity defense instruction to the jury to the effect that a finding of mental disease or defect could not be based upon Garcia’s alcohol or drug consumption. Before we turn to the instruction at issue, we recount the evidence relating to the insanity defense raised at trial.
+ </p>
+<p id="b125-15">
+  José Solano, Garcia’s nephew, testified that he saw Garcia at approximately 12:00 p.m. on the day of the shooting when Garcia was working on a bicycle in the rear yard of Solano’s apartment at 1111 Barnum Avenue. According to Solano, Garcia was acting “normal,” “nice,” and “calm” and was “happy” at that time. Solano also testified that Garcia showed Solano a gun, which Garcia claimed a friend had given to him.
+ </p>
+<p id="b125-16">
+  According to his testimony, Solano left home for a few hours and returned at approximately 2:30 or 3:00 p.m. with his sister and his friend, Edwin Maldonado. When they arrived, they heard Solano’s dogs barking in Solano’s third floor apartment. As they approached the apartment, Maldonado, who had been living with Solano for several months, shouted to the dogs to shut up. Garcia, who was in the apartment making a sandwich and heard Maldonado yell at the dogs, came out of the apartment, grabbed Maldonado, threw him against the door, and told him never to tell the dogs to shut up. Shortly after Solano told Garcia to stop fighting with Maldonado, Garcia let go of Maldonado but continued to yell, and threatened Maldonado with the gun he had earlier shown to Solano. At Solano’s request, Garcia eventually left the apartment, all the while yelling, swearing, and threatening both
+  <span citation-index="1" class="star-pagination" label="60"> 
+   *60
+   </span>
+  Solano and Maldonado. At that point, Sola-no telephoned his mother, Minerva Solano (Garcia’s sister), and also called the police. Solano testified that, at this time, Garcia was acting “angry,” “sounded like evil,” and “sounded like he ... had a demon or something.”
+ </p>
+<p id="b126-4">
+  When Minerva Solano arrived, Garcia was still in the yard. When his sister asked him to leave, he did so, taking his bicycle with him. As he was leaving, he yelled: “They’re going to get you, they’re going to get me.” He also threatened to blow up the block and said that Hitler was coming, that this was a communist world, and that “demons are going to get you.”
+ </p>
+<p id="b126-5">
+  At trial, both sides put on psychiatric testimony. The psychiatrists for both sides testified to Garcia’s long history of drug and alcohol use, beginning in his pre-teen years. Dr. Paul T. Amble, the defense psychiatrist, stated that Garcia had reported to him that on the day of the shooting and prior to the incident, he had smoked approximately nine or ten vials of crack cocaine and had drunk half a pint of brandy. Both Dr. Amble and Dr. Jeffrey Gottlieb, the government’s psychiatrist, testified as to their awareness that Garcia had undergone numerous psychiatric evaluations in the past and that he had, on previous occasions, been diagnosed with bipolar disorder (also known as manic depression). They were also aware that, in the past, Garcia had received different diagnoses such as organic brain syndrome, secondary substance abuse, anti-social personality disorder, and substance abuse disorder.
+ </p>
+<p id="b126-6">
+  Not surprisingly, the views of the psychiatrists differed as to the nature of Garcia’s mental state at the time of the incident. Dr. Gottlieb testified for the government that Garcia’s primary diagnosis was substance dependence — primarily on cocaine and alcohol — coupled with antisocial personality disorder. Dr. Gottlieb stated that Garcia’s “behavior [was] entire[l]y consistent with someone who was, in common parlance, ... really high and probably drunk too.” In contrast, Dr. Amble testified for the defense that Garcia suffered, and had long been suffering, from the severe mental disease of bipolar disorder, and that he was in a manic phase and suffered from delusional thinking on March 28, 1994. Dr. Amble also testified, however, that he could not “rule ... out completely” the possibility that Garcia’s behavior was “simply the product of substance abuse.”
+ </p>
+<p id="b126-8">
+  On appeal, Garcia claims that the district court erred when it instructed the jury that to find that Garcia had met his burden of proving insanity, his inability to appreciate the wrongfulness of his actions must have been caused by severe mental disease rather than by alcohol and drug use. This issue is one of first impression in this circuit.
+ </p>
+<p id="b126-9">
+  The district court charged the jury as follows:
+ </p>
+<blockquote id="b126-10">
+  Now, the effects of the voluntary use of drugs or alcohol do not constitute, nor may they legally give rise to a severe mental disease or defect. The voluntary use, if any you find, of drugs or alcohol also must be disregarded in determining whether the Defendant could appreciate the nature and quality of his acts or the wrongfulness of his acts. However, if you find that at the time in issue the Defendant had a severe mental disease or defect, and that the disease or defect gave rise to an inability to appreciate the nature or quality or wrongfulness of his acts, then the Defendant’s consumption of drugs or alcohol, whether voluntary or involuntary, cannot preclude his defense of insanity.
+ </blockquote>
+<p id="b126-11">
+  The district court rejected the following instruction offered by Garcia:
+ </p>
+<blockquote id="b126-12">
+  There has been evidence at this trial regarding the defendant’s substance abuse. Substance abuse, standing alone, does not constitute a severe mental illness. On the other hand, if you find that the substance abuse either caused or was caused by a separate mental illness, then you can consider both the mental illness and the substance abuse in assessing whether or not the defendant was able to know and appreciate the quality or wrongfulness of his actions.
+ </blockquote>
+<p id="b126-13">
+  As we previously have stated, “[ajlthough a defendant is entitled to a jury charge reflecting his theory of defense, that theory must have a valid basis in law and fact.”
+  <em>
+   United
+  </em>
+<span citation-index="1" class="star-pagination" label="61"> 
+   *61
+   </span>
+<em>
+   States v. Ruggiero,
+  </em>
+  <span class="citation" data-id="8991210"><a href="/opinion/8998788/united-states-v-ruggiero/#450" aria-description="Citation for case: United States v. Ruggiero">934 F.2d 440, 450</a></span> (2d Cir.1991). We believe that the district court correctly rejected Garcia’s proposed charge because Garcia’s theory had no basis in fact. Although the jury was apprised of Garcia’s long history of substance abuse, it heard no evidence that Garcia’s substance abuse either caused or was caused by his bipolar disorder.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+</p>
+<p id="b127-4">
+  The district court told the jury, in effect, that voluntary substance abuse must not be taken into account in determining whether a severe mental disease or defect exists in the first instance, but where such a disease or defect is found to exist, voluntary substance abuse will not defeat an insanity defense. Our review of the charge is de novo.
+  <em>
+   See United States v. Kwong,
+  </em>
+  <span class="citation" data-id="707520"><a href="/opinion/707520/united-states-v-david-kwong-also-known-as-george-kwong-also-known-as-ken/#667" aria-description="Citation for case: United States v. David Kwong, Also Known as George Kwong,...">69 F.3d 663, 667</a></span> (2d Cir.1995),
+  <em>
+   cert. denie
+  </em>
+  d, - U.S. -, <span class="citation" data-id="9153270"><a href="/opinion/9158571/kwong-v-united-states/" aria-description="Citation for case: Kwong v. United States">116 S.Ct. 1343</a></span>, <span class="citation no-link">134 L.Ed.2d 491</span> (1996). Because the charge is not covered expressly by the text of the Insanity Defense Reform Act of 1984 (“IDRA”), <span class="citation no-link">18 U.S.C. § 17</span>,
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  in examining the charge for error, we are required to look to the congressional intent behind the IDRA and to existing easelaw.
+ </p>
+<p id="b127-15">
+  Congress enacted the IDRA, the first federal legislation on the insanity defense, largely in response to public concern over the acquittal of John W. Hinkley, Jr. for the attempted assassination of President Reagan. In enacting the IDRA, Congress made two substantial changes to the federal insanity defense. First, it narrowed the definition of insanity that had evolved from the easelaw.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  Second, it shifted to the defendant the burden of proving the insanity defense by clear and convincing evidence. S.Rep. No. 225, 98th Cong., 1st Sess. 222, 225-26 (1983),
+  <em>
+   reprinted in
+  </em>
+  1984 U.S.C.C.A.N. 3182, 3407. Of significance to this case, Congress, speaking through the Senate Judiciary Committee, stated: “The committee also intends that, as has been held under present case law interpretation, the voluntary use of alcohol or drugs, even if they render the defendant
+  <span citation-index="1" class="star-pagination" label="62"> 
+   *62
+   </span>
+  unable to appreciate the nature and quality of his acts, does not constitute insanity or any other species of legally valid affirmative defense.”
+  <span class="citation no-link"><em>
+   Id.
+  </em>
+  at 229</span>. Statements of congressional intent are rarely so clear.
+ </p>
+<p id="b128-4">
+  Garcia claims, however, that the statement by the Senate Judiciary Committee regarding voluntary intoxication means only that “a drug addict or alcoholic cannot assert an insanity defense based solely upon [his] addicted status.” He suggests that Congress did not mean to imply that where one suffers from a mental disease or defect as well as voluntary alcoholism or substance abuse, each of which alone is insufficient to satisfy the IDRA’s requirement of a “severe mental disease or defect [rendering one] unable to appreciate the nature and quality or the wrongfulness of his acts,” he may not prove that together the conditions satisfy the statute’s requirement. The government responds that “[c]ombining a mental disease or defect that is itself insufficient under the IDRA, with the impermissible consideration of voluntary substance abuse, to result in a valid defense of insanity under the IDRA, is wholly illogical. This would constitute nothing short of rewarding the voluntary abuse of drugs and alcohol in direct contradiction of the intent of Congress in passing the IDRA.” The caselaw on this issue, although limited, recognizes as much, and we agree.
+ </p>
+<p id="b128-5">
+  To date, only the Ninth Circuit has considered this issue.
+  <em>
+   United States v. Knott,
+  </em>
+  <span class="citation" data-id="535689"><a href="/opinion/535689/united-states-v-robert-gerald-knott/" aria-description="Citation for case: United States v. Robert Gerald Knott">894 F.2d 1119</a></span> (9th Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./498/873/">498 U.S. 873</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./111/197/">111 S.Ct. 197</a></span>, <span class="citation" data-id="9095895"><a href="/opinion/9101548/parker-v-united-states/" aria-description="Citation for case: Parker v. United States">112 L.Ed.2d 158</a></span> (1990). On facts similar to this case, the
+  <em>
+   <span class="citation" data-id="535689"><a href="/opinion/535689/united-states-v-robert-gerald-knott/" aria-description="Citation for case: United States v. Robert Gerald Knott">Knott</a></span>
+  </em>
+  Court held that the jury could not consider a defendant’s voluntary drug use or intoxication at the time of his crime in combination with his schizophrenia in determining whether the defendant was unable to appreciate the nature and quality or wrongfulness of his acts. Rather, in order to satisfy the requirements of the IDRA with respect to proving insanity, the defendant would have had to demonstrate that his schizophrenia alone prevented him from appreciating the nature and quality of his acts.
+  <span class="citation" data-id="535689"><a href="/opinion/535689/united-states-v-robert-gerald-knott/#1121" aria-description="Citation for case: United States v. Robert Gerald Knott"><em>
+   Id.
+  </em>
+  at 1121</a></span>.
+ </p>
+<p id="b128-6">
+  Garcia argues against our adopting the view set forth in
+  <em>
+   <span class="citation" data-id="535689"><a href="/opinion/535689/united-states-v-robert-gerald-knott/" aria-description="Citation for case: United States v. Robert Gerald Knott">Knott</a></span>.
+  </em>
+  Instead, relying on our decision in
+  <em>
+   United States v. Torniero,
+  </em>
+  <span class="citation" data-id="436234"><a href="/opinion/436234/united-states-v-john-j-torniero/" aria-description="Citation for case: United States v. John J. Torniero">735 F.2d 725</a></span> (2d Cir.1984),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./469/1110/">469 U.S. 1110</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./105/788/">105 S.Ct. 788</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/83/782/">83 L.Ed.2d 782</a></span> (1985), he urges us to find error in the district court’s charge. Garcia’s reliance on
+  <em>
+   <span class="citation" data-id="436234"><a href="/opinion/436234/united-states-v-john-j-torniero/" aria-description="Citation for case: United States v. John J. Torniero">Torniero</a></span>,
+  </em>
+  however, is misplaced. In
+  <em>
+   <span class="citation" data-id="436234"><a href="/opinion/436234/united-states-v-john-j-torniero/" aria-description="Citation for case: United States v. John J. Torniero">Torniero</a></span>,
+  </em>
+  we stated that “[s]ubstance abuse may only be used as the basis of an insanity defense if the affliction brings about actual insanity.”
+  <span class="citation" data-id="436234"><a href="/opinion/436234/united-states-v-john-j-torniero/#733" aria-description="Citation for case: United States v. John J. Torniero"><em>
+   Id.
+  </em>
+  at 733</a></span>. The
+  <em>
+   <span class="citation" data-id="436234"><a href="/opinion/436234/united-states-v-john-j-torniero/" aria-description="Citation for case: United States v. John J. Torniero">Torniero</a></span>
+  </em>
+  case, however, involved involuntary intoxication and the above-quoted statement is thus dicta. Furthermore, there was no evidence presented that Garcia’s bipolar disorder, the mental disease or defect at issue, was caused by his substance abuse. In addition, our decision in
+  <em>
+   <span class="citation" data-id="436234"><a href="/opinion/436234/united-states-v-john-j-torniero/" aria-description="Citation for case: United States v. John J. Torniero">Torniero</a></span>
+  </em>
+  preceded passage of the IDRA, which, as we have already noted, significantly changed federal insanity defense law.
+ </p>
+<p id="b128-8">
+  Finally, under the felon-in-possession count as charged, the jury only needed to decide whether Garcia understood the wrongfulness of possessing the weapon, not the 'wrongfulness of pulling the weapon on Officer Kirkland. The crime with which Garcia was charged was complete when Garcia possessed the gun. Solano testified that when Garcia possessed the weapon early in the day, he acted “normal,” “nice,” “calm,” and “happy.” It was entirely within the jury’s discretion to choose to credit this testimony in concluding that Garcia understood the wrongfulness of possessing the weapon when he showed it to Solano several hours before the shooting incident took place. '
+ </p>
+<p id="b128-9">
+  II. Garcia’s Request for Rebuttal Closing Argument
+ </p>
+<p id="b128-10">
+  At the time of jury selection, Garcia moved for the opportunity to make a rebuttal closing argument. The district court denied this request prior to the start, of trial. Garcia argued below, and again argues here, that the only disputed issue in the case was his sanity at the time of the offense; that he had the burden of proof on this issue; that therefore he should have been afforded the opportunity to deliver a rebuttal closing argument; and that failure to afford him such an opportunity violated his Sixth Amendment right to
+  <span citation-index="1" class="star-pagination" label="63"> 
+   *63
+   </span>
+  a fair trial.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  This issue is another one of first impression in this circuit, but one that is easily resolved in the government’s favor.
+ </p>
+<p id="b129-4">
+  Rule 29.1 of the Federal Rules of Criminal Procedure, which governs closing arguments in 'criminal cases, provides: “After the closing of evidence the prosecution shall open the argument. The defense shall be permitted to reply. The prosecution shall then be permitted to reply in rebuttal.” The advisory committee notes to Rule 29.1 state the purpose of the rule in pertinent part as follows: “The rule is drafted in the view that fair and effective administration of justice is best served if the defendant knows the arguments actually made by the prosecution in behalf of conviction before the defendant is faced with the decision whether to reply and what to reply.”
+ </p>
+<p id="b129-5">
+  As is evident from their language, Rule 29.1 and the accompanying advisory committee notes argue strongly against the position Garcia urges us to adopt. Indeed, at least one of our sister circuits has rejected the argument that a criminal defendant raising insanity as a defense is entitled to rebuttal closing argument. In
+  <em>
+   United States v. Byrd,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/884/145/">884 F.2d 145</a></span>, 147 (8th Cir.1987), the Eighth Circuit stated:
+ </p>
+<blockquote id="b129-6">
+  Rule 29.1 does not establish a constitutional doctrine, but rather, provides a uniform rule of federal practice. The purpose of the rule is to give the defendant the chance to respond to the government’s ease and argument in an informed manner. Rebuttal provides the government with the opportunity to respond to defendant’s arguments. It does not allow the government to bring in new matters. Consequently, the order of argument works no injustice upon the defendant. The district court has broad discretion to ensure a fair procedure in final arguments.
+ </blockquote>
+<p id="b129-7">
+  (citations omitted). We join our sister circuit and reject Garcia’s argument with respect to the order of closing arguments.
+ </p>
+<p id="b129-8">
+  First, this case is not a single issue case. In order to obtain a conviction, the government was required to prove all three elements of the crime charged. Garcia only stipulated to one of the elements — that he was a convicted felon. The government still had to prove at trial that Garcia knowingly possessed a firearm and that the firearm had travelled in interstate commerce.
+  <em>
+   See
+  </em>
+  <span class="citation no-link">18 U.S.C. § 922</span>(g). On appeal, Garcia still contests the last element.
+ </p>
+<p id="b129-12">
+  Second, even though a defendant may raise an insanity defense and may be required to carry the burden of proof on that issue, at all times during a criminal trial, the burden of proving guilt beyond a reasonable doubt — the highest burden that exists in our judicial system — remains with the prosecution. It is therefore quite appropriate that the prosecution have the opportunity to rebut the defendant’s arguments, not the other way around.
+ </p>
+<p id="b129-13">
+  Third, at the time of the IDRA’s enactment, and during the period of more than a decade that has passed since, Congress could have provided that a defendant asserting an insanity defense under the IDRA be afforded rebuttal closing argument had Congress deemed it appropriate to do so. It did not and we decline to read into the unambiguous language of Rule 29.1 such a provision.
+ </p>
+<p id="b129-14">
+  By the foregoing, we do not mean to convey to the district courts of this circuit that defense rebuttal is in every instance impermissible. Rather, the issue properly is left to the sound discretion of the district court to be determined on a case-by-case basis.
+  <em>
+   Cf. United States v. Cardascia,
+  </em>
+  <span class="citation" data-id="8996336"><a href="/opinion/9003710/united-states-v-cardascia/#485" aria-description="Citation for case: United States v. Cardascia">951 F.2d 474, 485</a></span> (2d Cir.1991) (upholding trial judge’s grant of defense rebuttal on the ground that the trial judge has discretion over this issue as part of his “obligation ... to ensure a fair and orderly procedure in the closing arguments to the jury”).
+ </p>
+<p id="b129-15">
+  III. Garcia’s “Constructive Amendment” Claim
+ </p>
+<p id="b129-16">
+  Garcia argues that his conviction must be reversed because the district court’s charge to the jury on the element of interstate commerce permitted a constructive
+  <span citation-index="1" class="star-pagination" label="64"> 
+   *64
+   </span>
+  amendment of the indictment. The indictment alleged that the firearm involved “had been shipped in or affecting interstate commerce,” but made no express mention of foreign commerce. The district court instructed the jury that in order to satisfy the commerce element, it was sufficient for the government to prove that “the firearm in question had, at some time previous to the Defendant’s possession of it, traveled across a state line.” At trial, the government proved only that the firearm had been manufactured in Italy and was possessed by Garcia in Connecticut. The government did not prove that the firearm had traveled between states. Garcia claims, therefore, that the district court’s instruction, which permitted the jury to find that the commerce element had been satisfied by proof of a connection to foreign commerce, rather than interstate commerce, enabled the jury to convict him for a crime that had not been charged in the indictment. This argument is without merit.
+ </p>
+<p id="b130-4">
+  Although it would have been preferable for the government to have erred on the side of inclusiveness in drafting the indictment, its failure to refer to foreign commerce does not render Garcia’s conviction invalid. The language of <span class="citation no-link">18 U.S.C. § 921</span> argues against Garcia’s claim. That statute, which defines the terms used in <span class="citation no-link">18 U.S.C. § 922</span>(g), in relevant part provides as follows:
+ </p>
+<blockquote id="b130-5">
+  The term “interstate or foreign commerce” includes commerce between any place in a State and any place outside of that State, or within any possession of the United States ... or the District of Columbia, but such term does not include commerce between places within the same State but through any place outside of that State.
+ </blockquote>
+<p id="A8O">
+  <span class="citation no-link">18 U.S.C. § 921</span>(a)(2). It is plain that the statute itself refers to “interstate or foreign commerce” as one concept. In addition, several of our sister circuits have found expressly that the term “interstate or foreign commerce” is a single unitary concept rather than two separate bases for jurisdiction.
+  <em>
+   See United States v. Alvarez,
+  </em>
+  <span class="citation" data-id="9002030"><a href="/opinion/9009158/united-states-v-alvarez/#1003" aria-description="Citation for case: United States v. Alvarez">972 F.2d 1000, 1003-04</a></span> (9th Cir.1992),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./507/977/">507 U.S. 977</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./113/1427/">113 S.Ct. 1427</a></span>, <span class="citation" data-id="9126594"><a href="/opinion/9131995/yohey-v-metropolitan-life-insurance/" aria-description="Citation for case: Yohey v. Metropolitan Life Insurance">122 L.Ed.2d 795</a></span> (1993);
+  <em>
+   United States v. Young,
+  </em>
+  <span class="citation" data-id="433060"><a href="/opinion/433060/united-states-v-arthur-nathaniel-young/#224" aria-description="Citation for case: United States v. Arthur Nathaniel Young">730 F.2d 221, 224</a></span> (5th Cir.1984);
+  <em>
+   United States v. McRary,
+  </em>
+  <span class="citation" data-id="9468666"><a href="/opinion/397405/united-states-v-clifford-mcrary/#678" aria-description="Citation for case: United States v. Clifford McRary">665 F.2d 674, 678</a></span> (5th Cir. Unit B) (“The word ‘commerce’ is consistently preceded in the statute by ‘interstate or foreign’ without any hint that ‘commerce’ should have separate meanings for each.”) (footnote omitted),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./456/1011/">456 U.S. 1011</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./102/2306/">102 S.Ct. 2306</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/73/1307/">73 L.Ed.2d 1307</a></span> (1982);
+  <em>
+   cf. United States v. Carter,
+  </em>
+  <span class="citation" data-id="596493"><a href="/opinion/596493/united-states-v-harry-n-carter/#648" aria-description="Citation for case: United States v. Harry N. Carter">981 F.2d 645, 648</a></span> (2d Cir.1992) (defendant was on notice that the pistol he possessed had travelled to Vermont via interstate commerce because the pistol was imprinted with the words “Made in West Germany”), ce
+  <em>
+   rt. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./507/1023/">507 U.S. 1023</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./113/1827/">113 S.Ct. 1827</a></span>, <span class="citation" data-id="9127698"><a href="/opinion/9133097/mackey-v-united-states/" aria-description="Citation for case: Mackey v. United States">123 L.Ed.2d 456</a></span> (1993). We agree and hold that by referencing interstate commerce in the indictment, the concept of foreign commerce was included as well. Therefore, there was no impermissible constructive amendment of the indictment by the district court.
+ </p>
+<p id="b130-7">
+  IV. Garcia’s
+  <em>
+   Lopez
+  </em>
+  Claim
+ </p>
+<p id="b130-8">
+  Garcia claims that the Supreme Court’s recent decision in
+  <em>
+   United States v. Lopez,
+  </em>
+  — U.S. -, <span class="citation" data-id="9433130"><a href="/opinion/117927/united-states-v-lopez/" aria-description="Citation for case: United States v. Lopez">115 S.Ct. 1624</a></span>, <span class="citation" data-id="9433130"><a href="/opinion/117927/united-states-v-lopez/" aria-description="Citation for case: United States v. Lopez">131 L.Ed.2d 626</a></span> (1995), finding unconstitutional the Gun-Free Zone Act, <span class="citation no-link">18 U.S.C. § 922</span>(q), which prohibits possession of a firearm in a school zone, renders <span class="citation no-link">18 U.S.C. § 922</span>(g) unconstitutional on its face or as applied to Garcia.
+ </p>
+<p id="b130-11">
+  We reject Garcia’s
+  <em>
+   <span class="citation" data-id="9433130"><a href="/opinion/117927/united-states-v-lopez/" aria-description="Citation for case: United States v. Lopez">Lopez</a></span>
+  </em>
+  claim. As we recently noted in
+  <em>
+   United States v. Sorrentino,
+  </em>
+  <span class="citation" data-id="710041"><a href="/opinion/710041/united-states-v-luciano-sorrentino/#296" aria-description="Citation for case: United States v. Luciano Sorrentino">72 F.3d 294, 296</a></span> (2d Cir.1995),
+  <em>
+   <span class="citation" data-id="9433130"><a href="/opinion/117927/united-states-v-lopez/" aria-description="Citation for case: United States v. Lopez">Lopez</a></span>
+  </em>
+  does not render <span class="citation no-link">18 U.S.C. § 922</span>(g) unconstitutional on its face.
+  <em>
+   See also United States v. Rawls,
+  </em>
+  <span class="citation" data-id="9413676"><a href="/opinion/9472/united-states-v-rawls/#242" aria-description="Citation for case: United States v. Rawls">85 F.3d 240, 242</a></span> (5th Cir.1996) (per curiam);
+  <em>
+   United States v. Gateward,
+  </em>
+  <span class="citation" data-id="718621"><a href="/opinion/718621/united-states-v-kenneth-gateward-aka-kenneth-carr/#671" aria-description="Citation for case: United States v. Kenneth Gateward, A/K/A Kenneth Carr">84 F.3d 670, 671-72</a></span> (3d Cir.1996);
+  <em>
+   United States v. Bates,
+  </em>
+  <span class="citation" data-id="714074"><a href="/opinion/714074/united-states-v-phillip-wilson-bates/#1104" aria-description="Citation for case: United States v. Phillip Wilson Bates">77 F.3d 1101, 1104</a></span> (8th Cir.1996);
+  <em>
+   United States v. Bradford,
+  </em>
+  <span class="citation" data-id="714837"><a href="/opinion/714837/united-states-v-sammie-l-bradford/#1223" aria-description="Citation for case: United States v. Sammie L. Bradford">78 F.3d 1216, 1223</a></span> (7th Cir.),
+  <em>
+   cert. denied,
+  </em>
+  — U.S. -, <span class="citation multiple-matches"><a href="/c/S.Ct./116/1581/">116 S.Ct. 1581</a></span>, — L.Ed.2d - (1996);
+  <em>
+   United States v. Bell,
+  </em>
+  <span class="citation" data-id="708089"><a href="/opinion/708089/united-states-v-kenneth-l-bell/#497" aria-description="Citation for case: United States v. Kenneth L. Bell">70 F.3d 495, 497-98</a></span> (7th Cir.1995);
+  <em>
+   United States v. Bolton,
+  </em>
+  <span class="citation" data-id="706115"><a href="/opinion/706115/united-states-v-john-w-bolton-aka-gino/#400" aria-description="Citation for case: United States v. John W. Bolton, A/K/A Gino">68 F.3d 396, 400</a></span> (10th Cir.1995),
+  <em>
+   cert. denied,
+  </em>
+  — U.S. -, <span class="citation multiple-matches"><a href="/c/S.Ct./116/966/">116 S.Ct. 966</a></span>, <span class="citation no-link">133 L.Ed.2d 887</span> (1996);
+  <em>
+   United States v. Shelton,
+  </em>
+  <span class="citation" data-id="705133"><a href="/opinion/705133/united-states-v-aaron-shelton/#992" aria-description="Citation for case: United States v. Aaron Shelton">66 F.3d 991, 992</a></span> (8th Cir.1995) (per curiam),
+  <em>
+   cert. denied,
+  </em>
+  — U.S. -, <span class="citation multiple-matches"><a href="/c/S.Ct./116/1364/">116 S.Ct. 1364</a></span>, <span class="citation" data-id="9153512"><a href="/opinion/9158813/shelton-v-united-states/" aria-description="Citation for case: Shelton v. United States">134 L.Ed.2d 530</a></span> (1996);
+  <em>
+   United States v. Mosby,
+  </em>
+  <span class="citation" data-id="699604"><a href="/opinion/699604/united-states-v-ivory-mosby-also-known-as-rafiz-zareef-muhaymin/#456" aria-description="Citation for case: United States v. Ivory Mosby, Also Known as Rafiz Zareef...">60 F.3d 454, 456</a></span> (8th Cir.1995), ce
+  <em>
+   rt. denied,
+  </em>
+  — U.S. -, 116 S.Ct.
+  <span citation-index="1" class="star-pagination" label="65"> 
+   *65
+   </span>
+  938, <span class="citation" data-id="9268735"><a href="/opinion/9273902/mendoza-figueroa-v-united-states/" aria-description="Citation for case: Mendoza-Figueroa v. United States">133 L.Ed.2d 864</a></span> (1996);
+  <em>
+   United States v. Hanna,
+  </em>
+  <span class="citation" data-id="696643"><a href="/opinion/696643/united-states-v-cyril-t-hanna/" aria-description="Citation for case: United States v. Cyril T. Hanna">55 F.3d 1456</a></span>, 1462 n. 2 (9th Cir.1995). Furthermore, as we noted in
+  <em>
+   Sorren-tino,
+  </em>
+  it is sufficient to sustain a conviction under § 922(g) that the government prove beyond a reasonable doubt that the firearm previously had traveled in interstate commerce.
+  <em>
+   Sorrentino,
+  </em>
+  <span class="citation" data-id="710041"><a href="/opinion/710041/united-states-v-luciano-sorrentino/#296" aria-description="Citation for case: United States v. Luciano Sorrentino">72 F.3d at 296</a></span>. That requirement was satisfied in this case. Garcia seems to acknowledge the weakness of his challenge before us to <span class="citation no-link">18 U.S.C. § 922</span>(g) by conceding that he is bringing the challenge only “to preserve [it] for further appellate review, should that become necessary.”
+ </p>
+<p id="b131-2">
+  CONCLUSION
+ </p>
+<p id="b131-3">
+  For the foregoing reasons, we affirm the judgment of the district court.
+ </p>
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="A37">
+   . For the purposes of this appeal, we need not decide whether had there heen such evidence, the instruction would have been appropriate. We note only that "the nearly unanimous rule in the United States is that a brain disorder caused by the long-term effects of intoxicants constitutes a mental state warranting an insanity defense rather than an intoxication defense.” Leslie A. Johnson, Note,
+   <em>
+    Settled Insanity is not a Defense: Has the Colorado Supreme Court Gone Crazy?:
+   </em>
+   Bieber v. People, 43 U.Kan.L.Rev. 259, 259-60 (1994).
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b127-8">
+   . The IDRA provides as follows:
+  </p>
+<blockquote id="b127-9">
+   (a) Affirmative defense. — It is an affirmative defense to a prosecution under any Federal statute that, at the time of the commission of the acts constituting the offense, the defendant, as a result of a severe mental disease or defect, was unable to appreciate the nature and quality or the wrongfulness of his acts. Mental disease or defect does not otherwise constitute a defense.
+  </blockquote>
+<blockquote id="b127-10">
+   (b) Burden of proof. — The defendant has the burden of proving the defense of insanity by clear and convincing evidence.
+  </blockquote>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b127-11">
+   . The earliest formulation of the insanity defense had its origins in
+   <em>
+    M’Naghten’s
+   </em>
+   case, 10 Clark &amp; Fin. 200, 210, 8 Eng.Rep. 718, 722 (H.L. 1843), which held that, to satisfy the requirements for a successful insanity defense,
+  </p>
+<blockquote id="b127-12">
+   it must be clearly proved that, at the time of the committing of the act, the party accused was labouring under such a defect of reason, from disease of the mind, as not to know the nature and quality of the act he was doing; or, if he did know it, that he did not know he was doing what was wrong.
+  </blockquote>
+<p id="b127-17">
+   The
+   <em>
+    M’Naghten
+   </em>
+   rule, or so-called "right-wrong" test, was the prevailing rule for more than a century, during which time it was supplemented in several jurisdictions by a test that permitted acquittal when a defendant was driven by an "irresistible impulse” to commit an offense.
+   <em>
+    United States v. Torniero,
+   </em>
+   <span class="citation" data-id="436234"><a href="/opinion/436234/united-states-v-john-j-torniero/#729" aria-description="Citation for case: United States v. John J. Torniero">735 F.2d 725, 729</a></span> (2d Cir.1984),
+   <em>
+    cert. denied,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/U.S./469/1110/">469 U.S. 1110</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./105/788/">105 S.Ct. 788</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/83/782/">83 L.Ed.2d 782</a></span> (1985). In 1954, the District of Columbia Circuit attempted to modernize the insanity defense rules by holding that “an accused is not criminally responsible if his unlawful, act was the product of mental disease or mental defect.”
+   <em>
+    Durham v. United States,
+   </em>
+   <span class="citation" data-id="234593"><a href="/opinion/234593/durham-v-united-states/#874" aria-description="Citation for case: Durham v. United States">214 F.2d 862, 874-75</a></span> (D.C.Cir.1954) (footnote omitted). That rule, however, was subsequently overruled,
+   <em>
+    United States v. Brawner,
+   </em>
+   <span class="citation" data-id="9459051"><a href="/opinion/307716/united-states-v-archie-w-brawner/" aria-description="Citation for case: United States v. Archie W. Brawner">471 F.2d 969</a></span> (D.C.Cir.1972) (en banc), in favor of the rule espoused by the American Law Institute that a “person is not responsible for criminal conduct if at the time of such conduct as a result of mental disease or defect he lacks substantial capacity either to appreciate the criminality of his conduct or to conform his conduct to the requirements of the law.” Model Penal Code § 4.01(1) (Final Draft 1962) (quoted in
+   <em>
+    United States v. Hansen,
+   </em>
+   <span class="citation" data-id="415372"><a href="/opinion/415372/united-states-v-arthur-hansen/" aria-description="Citation for case: United States v. Arthur Hansen">701 F.2d 1078</a></span>, 1080 n. 3 (2d Cir.1983)). Under all of the pre-IDRA standards, once a defendant raised the issue of insanity, the government had the burden of disproving the defense beyond a reasonable doubt. S.Rep. No. 225, 98th Cong., 1st Sess. 222, 224 (1983),
+   <em>
+    reprinted in
+   </em>
+   1984 U.S.C.C.A.N. 3182, 3407.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b129-9">
+   . Garcia did not, however, confine his request for rebuttal argument to the insanity defense issue.
+  </p>
+</div></div></opinion>

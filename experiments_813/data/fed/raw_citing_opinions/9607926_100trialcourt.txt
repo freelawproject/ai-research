@@ -1,0 +1,325 @@
+<pre class="inline">                  UNITED STATES DISTRICT COURT                           
+                NORTHERN DISTRICT OF CALIFORNIA                          
+
+REBECCA RAUSCH,                  Case No.  22-cv-04157-VC                
+
+          Plaintiff,                                                     
+                                 ORDER RE MOTION TO DISMISS              
+      v.                                                                 
+                                 Re: Dkt. No. 20                         
+FLATOUT, INC.,                                                           
+          Defendant.                                                     
+
+
+    When a manufacturer advertises the amount of protein in a product on its package, the 
+Food and Drug Administration requires the manufacturer to include additional information on 
+that product’s nutrition facts panel: the manufacturer must provide the “percent daily value” for 
+protein based not on the raw amount of protein in the product, but on the amount of protein that 
+the human body will actually absorb. The question presented in this case is whether a 
+manufacturer’s failure to include that percent daily value renders its other statements about 
+protein quantity misleading—both within the meaning of the FDA’s regulations and state law. 
+The answer is yes.                                                        
+                             I                                           
+                             A                                           
+    This section relies on the facts as pleaded in the complaint. At the motion to dismiss 
+stage, a court accepts all well-pleaded facts as true. South Ferry LP, No. 2 v. Killinger, </pre><span class="citation" data-id="1436780"><a href="/opinion/1436780/south-ferry-lp-no-2-v-killinger/#782" aria-description="Citation for case: South Ferry LP, No. 2 v. Killinger">542 F.3d 
+776, 782</a></span><pre class="inline"> (9th Cir. 2008).                                                 
+    Protein is essential for a healthy diet, and consumers often pick products based on their 
+protein content. But not all protein is created equal: protein quality matters just as much as 
+quantity. When you consume protein, your body breaks it down into its constituent parts—
+known as amino acids—and then uses those amino acids to make other proteins necessary for the 
+body to function. To complete that process, the body must have access to nine different amino 
+acids. If one amino acid is lacking, protein synthesis won’t occur. High-quality proteins contain 
+all nine amino acids in the right proportions for protein synthesis. A protein might additionally 
+be lacking because it’s not fully digestible. For instance, according to the complaint in this case, 
+most plant proteins are only 85% digestible, so 15% of the protein from a plant source will just 
+pass through your body.                                                   
+    The Food and Drug Administration (FDA) requires all products to include the grams of 
+protein in a serving on the product’s nutrition facts panel (the black-and-white box often found 
+on the back or side of a product’s label). </pre><span class="citation no-link">21 C.F.R. § 101.9</span><pre class="inline">(c)(7). The amount of protein per 
+serving does not need to be adjusted for the protein’s amino acid content or digestibility. (For the 
+sake of simplicity, this ruling refers to these concepts together as part of the protein’s “quality.”)  
+    But if a product makes a “protein claim” anywhere else on its label—for instance, 
+“Excellent source of protein!” or even just “20g of protein”—the FDA requires the manufacturer 
+to include additional information on the nutrition facts panel: The manufacturer can still list the 
+grams of protein unadjusted for the protein’s quality, but they must also include the “corrected 
+amount of protein per serving,” expressed as a percent of daily value. § 101.9(c)(7)(i). The 
+corrected amount of protein is the quantity of protein multiplied by the “amino acid score,” a 
+discount factor that accounts for the protein’s amino acid content and digestibility. 
+§ 101.9(c)(7)(ii). That “corrected amount” is then divided by 50g (the amount of protein that the 
+FDA estimates adults should eat every day) to give you the percent daily value. 
+§ 101.9(c)(7)(iii).                                                       
+    To make things more concrete, imagine a whey protein bar and an oat protein bar. 
+Imagine that whey is a higher-quality protein that’s almost fully absorbable; oat is not. Both the 
+whey and oat protein bars could list 20g of protein on their nutrition facts panel. But if both 
+protein bars say, “20g protein!” on the front of their labels, they must include the quality-
+adjusted percent on their nutrition facts panels. If we assume that 100% of the whey protein can 
+be absorbed by the human body, the “corrected amount of protein per serving” for the whey 
+protein bar would be 20g. That number, expressed as a percent of daily value, would be 40%. 
+The oat protein bar wouldn’t fare so well. If we assume that the human body can only absorb 
+50% of the oat protein, the “corrected amount of protein per serving” for the oat protein bar 
+would be 10g. And ten grams expressed as a percent of daily value is 20%.  
+                             B                                           
+    Flatout, Inc. sells a variety of products, including flatbreads and pizza crusts. According 
+to the complaint, several of these products advertise their protein content on the front of their 
+labels, but they fail to include the quality-adjusted percent on their nutrition facts panels. For 
+instance, according to the complaint, Flatout’s Light Original Flatbread says “Fuel Your 
+Day…60 calories…5g net carbs…6g protein” on both the front and back of its package. But the 
+nutrition facts panel says only 6g of protein—it doesn’t include the percent daily value, adjusted 
+for the protein’s quality. According to the complaint, the primary source of protein in Flatout’s 
+products is wheat protein, and wheat protein has an amino acid score of between .4 to .5. So, the 
+quality-adjusted percent would show that a consumer would only absorb about half of the protein 
+in Flatout’s Flatbread.                                                   
+    Based on these allegations, Rebecca Rausch brings a variety of state law claims under 
+three distinct theories. The first two theories relate to her claim that the labels are “unlawful” 
+under California’s Unfair Competition Law. “The UCL creates a cause of action for business 
+practices that are (1) unlawful, (2) unfair, or (3) fraudulent.” Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1089" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. 
+Supp. 3d 1074, 1089</a></span><pre class="inline"> (N.D. Cal. 2017) (citing </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline">). “Each ‘prong’ of 
+the UCL provides a separate and distinct theory of liability.” </pre><span class="citation no-link">Id.</span><pre class="inline"> The “unlawful” prong “borrows 
+violations of other laws” and makes them “independently actionable.” Alvarez v. Chevron Corp., 
+</pre><span class="citation" data-id="613006"><a href="/opinion/613006/alvarez-v-chevron-corp/" aria-description="Citation for case: Alvarez v. Chevron Corp.">656 F.3d 925</a></span><pre class="inline">, 933 n.8 (9th Cir. 2011). Rausch alleges that Flatout’s labels violate certain FDA 
+regulations and that, in turn, violates California’s Sherman Law, which incorporates the FDA’s 
+labeling regulations. Hadley, </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1095" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d at 1095</a></span><pre class="inline">. (Rausch, like any other private plaintiff, 
+could not sue to enforce the FDA’s regulations directly. See Perez v. Nidek Co., </pre><span class="citation" data-id="856123"><a href="/opinion/856123/robert-perez-v-nidek-co-ltd/#1119" aria-description="Citation for case: Robert Perez v. Nidek Co., Ltd.">711 F.3d 1109, 
+1119</a></span><pre class="inline"> (9th Cir. 2013)).                                                    
+    To support her claim based on the “unlawful” prong of the UCL, Rausch alleges that 
+Flatout’s labels violate the FDA’s regulations in two different ways. First, she alleges that 
+Flatout’s labels—both the protein statements on the package and the product’s nutrition facts 
+panels—violate the FDA’s requirement that Flatout include the quality-adjusted figure. Second, 
+she alleges that Flatout’s labels violate a more general FDA regulation that prohibits misleading 
+“nutrient content claims.”                                                
+    Rausch’s third theory forms the basis for her other claims, those brought under the 
+fraudulent prong of the UCL, California’s False Advertising Law, the Consumer Legal Remedies 
+Act, as well as her claims for fraud, deceit, misrepresentation, and unjust enrichment.1 This last 
+category of claims depends on the same idea: that the labels would deceive a reasonable 
+consumer. Hadley, </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1089" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d at 1089</a></span><pre class="inline">.2                               
+                             II                                          
+    To understand Rausch’s first two theories—both alleging that Flatout’s labels violate 
+various FDA regulations—it’s helpful to have some background on the statute authorizing those 
+regulations. The Federal Food, Drug, and Cosmetic Act, enacted in 1938, prohibits the 
+misbranding of food. See Chacanaca v. Quaker Oats Co., </pre><span class="citation" data-id="2469350"><a href="/opinion/2469350/chacanaca-v-quaker-oats-company/#1116" aria-description="Citation for case: Chacanaca v. QUAKER OATS COMPANY">752 F. Supp. 2d 1111, 1116</a></span><pre class="inline"> (N.D. Cal. 
+2010). “In 1990, Congress amended the FDCA through the passage of the Nutrition Labeling and 
+Education Act.” </pre><span class="citation" data-id="2469350"><a href="/opinion/2469350/chacanaca-v-quaker-oats-company/" aria-description="Citation for case: Chacanaca v. QUAKER OATS COMPANY">Id.</a></span><pre class="inline"> The Nutrition Labeling and Education Act made nutrition labeling 
+mandatory on all foods. See </pre><span class="citation no-link">21 U.S.C. § 343</span><pre class="inline">(q).                           
+
+1 These alleged violations of the FAL and CLRA also support Rausch’s claim under the unlawful 
+prong of the UCL. See Compl. ¶ 104. Rausch does not bring a claim under the “unfair” prong of 
+the UCL. See Dkt. No. 24 at 17.                                           
+2 As a fourth theory, Rausch alleges that the protein statements are misleading because of the 
+methodology Flatout uses to calculate the amount of protein in its products. She acknowledges 
+that these methodology claims are foreclosed by this Court’s decision in Nacarino v. Kashi, </pre><span class="citation no-link">584 
+F. Supp. 3d 806</span><pre class="inline"> (N.D. Cal. 2022), discussed at length later in this ruling, and she brings the 
+methodology claims only to preserve them in case the Ninth Circuit reverses Nacarino. As 
+Rausch anticipated, the methodology claims are dismissed for the reasons explained in Nacarino. 
+    Today, “the many subsections of </pre><span class="citation no-link">21 U.S.C. § 343</span><pre class="inline"> establish the conditions under which 
+food is considered ‘misbranded.’” Chacanaca, </pre><span class="citation" data-id="2469350"><a href="/opinion/2469350/chacanaca-v-quaker-oats-company/#1116" aria-description="Citation for case: Chacanaca v. QUAKER OATS COMPANY">752 F. Supp. 2d at 1116</a></span><pre class="inline">. First, there’s a broad 
+provision: a food is misbranded if its labeling is “false or misleading in any particular.” § 343(a). 
+Then, there are more specific provisions. Section 343(q) regulates the nutrition information that 
+all manufacturers must include on their labels. For instance, under that subsection and its 
+implementing regulations, all manufacturers must include a nutrition facts panel that discloses 
+the number of calories and the amount of fat, carbohydrates, and protein in the food. </pre><span class="citation no-link">21 U.S.C. § 
+343</span><pre class="inline">(q)(1)(C)–(D); </pre><span class="citation no-link">21 C.F.R. § 101.9</span><pre class="inline">(c). Section 343(r), in turn, regulates the voluntary 
+statements a manufacturer can make about a food’s nutrient content outside of the nutrition facts 
+panel. As relevant here, this subsection regulates statements that “characterize” the level of a 
+nutrient in a food. § 343(r)(1)(A). That includes statements like, “20g protein!” The FDA refers 
+to these statements as “nutrient content claims,” and it regulates them extensively. </pre><span class="citation no-link">21 C.F.R. 
+§ 101.13</span><pre class="inline">(b). The remainder of section 343 covers other specific scenarios: for instance, it 
+provides that a food is misbranded if it is an imitation of another food, and its label doesn’t say 
+“imitation.” </pre><span class="citation no-link">21 U.S.C. § 343</span><pre class="inline">(b).                                          
+                             A                                           
+    Rausch’s first theory—that Flatout’s packaging violates specific FDA regulations for 
+protein claims—is straightforward enough. First, based on the allegations in the complaint, the 
+nutrition facts panels are unlawful: under section 101.9(c)(7)(i) of the FDA’s regulations, if a 
+manufacturer makes a “protein claim,” it must include the quality-adjusted figure, expressed as a 
+percent daily value, on the product’s nutrition facts panel. </pre><span class="citation no-link">21 C.F.R. § 101.9</span><pre class="inline">(c)(7)(i); Roffman v. 
+Perfect Bar, LLC, No. 22-CV-02479-JSC, </pre><span class="citation no-link">2022 WL 4021714</span><pre class="inline">, at *3 (N.D. Cal. Sept. 2, 2022). 
+According to the complaint, Flatout fails to do so.                       
+    Second, according to the complaint, the protein statements elsewhere on Flatout’s labels 
+are also unlawful: under section 101.13(n). a manufacturer may only make a “nutrient content 
+claim”—a statement characterizing the level of a nutrient in the product outside of the nutrition 
+facts panel—if they provide a nutrition facts panel that complies with section 101.9. § 101.13(n); 
+see also Roffman, </pre><span class="citation no-link">2022 WL 4021714</span><pre class="inline">, at *3–5. Flatout’s nutrition facts panels are out of 
+compliance with section 101.9, so its nutrient content claims (the statements about the products’ 
+protein content) are also unlawful.3                                      
+                             B                                           
+    The second theory underlying Rausch’s “unlawful” UCL claim—that the labels are 
+“misleading” within the meaning of the FDA’s regulations—requires a bit more thought. As 
+relevant here, the FDA’s regulations provide that a label may only contain an explicit statement 
+about the “amount…of a nutrient” outside of the nutrition facts panel if the statement “is not 
+false or misleading in any respect.” </pre><span class="citation no-link">21 C.F.R. § 101.13</span><pre class="inline">(i)(3). (That echoes the general provision 
+of the Food, Drug, and Cosmetic Act, which provides that a food is misbranded if its labeling is 
+“false or misleading in any particular.” </pre><span class="citation no-link">21 U.S.C. § 343</span><pre class="inline">(a).)             
+    This Court addressed a similar theory in Nacarino v. Kashi. </pre><span class="citation no-link">584 F. Supp. 3d 806</span><pre class="inline"> (N.D. 
+Cal. 2022). There, like here, the label on Kashi’s cereal stated that the cereal had “11g” of 
+protein, but that figure was not adjusted for the protein’s quality. </pre><span class="citation no-link">Id. at 809</span><pre class="inline">. But that case was 
+different in one crucial respect: there were no allegations that Kashi failed to include the quality-
+adjusted percent on the cereal’s nutrition facts panel. Indeed, according to Kashi’s request for 
+judicial notice, Kashi had disclosed the quality-adjusted percent. See Exhibit 1, Request for 
+Judicial Notice at 3, Nacarino v. Kashi, </pre><span class="citation no-link">584 F. Supp. 3d 806</span><pre class="inline"> (N.D. Cal. 2022) (No. 21-7036), 
+Dkt. No. 22-1. So the only question in that case was whether making a statement about protein 
+quantity on the front of the package—without including a disclaimer about protein quality also 
+on the front of the package—violated the FDA’s prohibition on misleading statements in and of 
+itself.                                                                   
+    The Court held that it did not. After all, the regulations allow manufacturers to include 
+the amount of protein—unadjusted for the protein’s quality—on the nutrition facts panel. 
+
+3 Flatout appears to concede that its labels are unlawful under these regulations, but it argues that 
+Rausch’s claims are nonetheless impliedly preempted. For the reasons explained by Judge Orrick 
+in Brown v. Van’s International Foods, Inc., the claims are not impliedly preempted. No. 22-CV-
+00001-WHO, </pre><span class="citation no-link">2022 WL 1471454</span><pre class="inline">, at *6–8 (N.D. Cal. May 10, 2022).             
+Nacarino, 584 F. Supp. at 810. “Against the backdrop of this protein-specific provision, the 
+general language of section 101.13 cannot be interpreted as proclaiming that it is ‘false or 
+misleading’ to use the same statement—‘11g Protein’—on the front of the box as is authorized in 
+the Nutrition Facts label.” Id.                                           
+    If that’s all Nacarino had said, then it would be easily distinguishable because Kashi’s 
+labels complied with the FDA’s other requirements for protein statements. But Nacarino went a 
+step farther. The Court acknowledged that the FDA did not treat protein statements made in the 
+nutrition facts panel the same way it treated protein statements made elsewhere on a label. Id. 
+But, the Court said, requiring a manufacturer who advertises a product’s protein content 
+elsewhere on the label to include the quality-adjusted percent in the nutrition facts panel does 
+“not mean that statements of protein quantity would be misleading without this additional 
+context.” Id. The Court continued:                                        
+    To hold otherwise would be to find that an FDA-approved protein measurement 
+    technique is inherently misleading. This is not a plausible interpretation of the 
+    regulations. A better reading is that the FDA recognizes that in situations where 
+    consumers are drawn to a product for its protein content—those situations in which a 
+    manufacturer is touting its product’s protein on its packaging—consumers deserve 
+    additional information in the Nutrition Facts label. This is not to remedy an otherwise 
+    misleading figure, but to supply protein-conscious consumers with information that gives 
+    them further assistance in deciding what to buy.                     
+Id. To be clear, that observation was not necessary to the holding of Nacarino; the Court was 
+merely supporting its broader point that the statements about protein quantity were not 
+misleading in and of themselves. But accepting that analysis here, Flatout’s protein statements 
+would not be misleading within the meaning of the FDA’s regulations. Indeed, at least one 
+district court has relied on Nacarino to reject a similar theory. Roffman, </pre><span class="citation no-link">2022 WL 4021714</span><pre class="inline">, at 
+*7.                                                                       
+    But that part of Nacarino was (with apologies) wrong. The better reading of the FDA’s 
+regulations is that prominently advertising a product’s protein quantity outside of the nutrition 
+facts panel is misleading (within the meaning of the Food, Drug, and Cosmetic Act and the 
+FDA’s regulations), if the manufacturer doesn’t include the quality-adjusted percent in the 
+nutrition facts panel. As a matter of common sense, it’s reasonable to think that small text in the 
+nutrition facts panel is less likely to mislead a consumer than text advertising the protein content 
+on the front of a label. When a manufacturer chooses to emphasize a product’s protein content 
+elsewhere on a label, the manufacturer is implicitly suggesting that the product is a good source 
+of protein. In effect, it’s encouraging consumers to buy the product based off that feature. That’s 
+not the case when the manufacturer includes the amount of protein in the nutrition facts panel 
+(something manufacturers must do on all products). See </pre><span class="citation no-link">21 U.S.C. § 343</span><pre class="inline">(q)(1)(D). Thus, the 
+FDA’s regulations are best understood as reflecting a determination that when a manufacturer 
+emphasizes a product’s protein content, that statement is misleading without including 
+information about the product’s protein quality on the nutrition facts panel.  
+    Taking a step back for a moment, it might seem puzzling that the FDA has not required 
+manufacturers to include the quality-adjusted percent on all products, regardless of whether the 
+label advertises the product’s protein content. It seems that the FDA decided not to impose that 
+requirement because it is expensive to calculate a product’s precise amino acid score (or, it was 
+expensive at the time the regulations were adopted), and that score is needed to calculate the 
+quality-adjusted percent. See </pre><span class="citation no-link">58 Fed. Reg. 2079</span><pre class="inline">-01, 2104 (Jan. 6, 1993) (acknowledging 
+comments from manufacturers stating that calculating the amino acid score is “unnecessarily 
+burdensome and expensive, because it requires that digestibility and amino acid analysis be 
+performed on every product”); </pre><span class="citation no-link">id. at 2103</span><pre class="inline"> (describing the percent requirement as a “burden to 
+manufacturers”). Ultimately, the FDA determined that the “additional costs” associated with 
+calculating a product’s amino acid score were not justified for all products because Americans 
+generally consume enough high-quality protein in their diets. </pre><span class="citation no-link">Id. at 2102</span><pre class="inline">. But, where a 
+manufacturer decides to make a protein claim, the “the burden and expense” of calculating the 
+percent are “voluntarily assumed by the manufacturer.” </pre><span class="citation no-link">Id. at 2104</span><pre class="inline">. The FDA’s decision to spare 
+most manufacturers from the expense of calculating the quality-adjusted percent does not mean 
+that protein statements (made outside of the nutrition facts panel) can never be misleading.  
+    Flatout’s only response is that the quality-adjusted percent is essentially meaningless, so 
+it does nothing to remedy the potentially misleading statement of protein quantity. They say 
+“reasonable consumers” do not possess “the regulatory or mathematical skill” required to use the 
+percent daily value to convert the “grams of protein stated on the label into digestible protein.” 
+Dkt. No. 32 at 4. That misses the point. It might be true that reasonable consumers aren’t looking 
+at a food with, say, 20% of the daily value of protein and thinking, “Well, the FDA recommends 
+50 grams of protein a day, so this product must have 10 grams of digestible protein.” But that 
+doesn’t seem to be what the FDA is contemplating. The FDA is generally skeptical that 
+consumers know exactly how much of any nutrient they should be consuming every day. See, 
+e.g., </pre><span class="citation no-link">56 Fed. Reg. 60421</span><pre class="inline">-01, 60426 (Nov. 27, 1991). That’s why the FDA thinks the percent 
+daily value is helpful: it gives consumers a sense of how the food might fit into their broader 
+nutritional needs. So, a consumer might see “20% of the daily value of protein” and think, “I’d 
+have to eat roughly five of these to get enough protein for the day.” That doesn’t require any 
+complicated math, and that information puts the potentially misleading protein statement in 
+context. The expectations created by statements like “excellent source of protein!” or “20g 
+protein!” can be tempered by looking at the percent daily value.          
+    This conclusion is further supported by the statute authorizing the FDA to promulgate 
+these regulations. The FDA cannot adopt any regulation it wants; it must draw from a source of 
+statutory authority. The parties assert that the FDA could have drawn from one of two sources 
+here: either section 343(q) or section 343(a) of the Food, Drug, and Cosmetic Act. Recall that 
+section (q) requires manufacturers to include certain nutrition information on all their products. 
+</pre><span class="citation no-link">21 U.S.C. § 343</span><pre class="inline">(q)(1). Section (q)(1), in particular, requires manufacturers to state the “total 
+protein contained in each serving” on their labels. § 343(q)(1)(D). The FDA has the authority to 
+implement that requirement. § 343(q)(2); </pre><span class="citation no-link">21 U.S.C. § 371</span><pre class="inline">. But the regulation at issue in this case 
+does not seem to implement that requirement. Section (q) and its implementing regulations 
+involve nutrients that must be declared on all products. Here, the FDA has only required 
+manufacturers to include the quality-adjusted percent in certain circumstances: when the 
+manufacturer makes a protein claim elsewhere on the product’s label. Furthermore, under (q)(1), 
+manufacturers are only required to state the “total protein contained in each serving,” not the 
+percent daily value. </pre><span class="citation no-link">21 U.S.C. § 343</span><pre class="inline">(q)(1)(D). So section (q) does not seem to be the source of 
+statutory authority for this regulation.                                  
+    Instead, it seems that the FDA has imposed this requirement under its authority to 
+regulate misleading labels, found in section 343(a). The FDA has historically drawn on that 
+authority when establishing similar requirements. The FDA developed its first iteration of the 
+nutrition facts panel in 1973, before the Nutrition Labeling and Education Act made such 
+disclosures mandatory for all products. See </pre><span class="citation no-link">55 Fed. Reg. 29487</span><pre class="inline">-01, 29491 (July 19, 1990). Back 
+then, manufacturers were only required to include a nutrition label in certain circumstances, 
+including when “advertising for the food” included a statement “about the food’s nutritional 
+properties, its fat or caloric content, or its usefulness in the daily diet.” </pre><span class="citation no-link">Id.</span><pre class="inline"> In those 
+circumstances, the FDA determined nutrition labeling was necessary “to ensure that the labeling 
+of the food would not be misleading because [the label] failed to reveal facts that were material 
+in light of the representations that were being made.” </pre><span class="citation no-link">Id.</span><pre class="inline"> The FDA worried that, without 
+additional information, the label’s statements “would be confusing and misleading for lack of 
+completeness, and could deceive consumers about the nutritional value of the food, its overall 
+nutritional contribution to the daily diet, and its nutritional weaknesses as well as strengths.” </pre><span class="citation no-link">Id.</span><pre class="inline"> 
+Based on its statutory authority to regulate false and misleading labels, the FDA required 
+manufacturers to include more information about the food’s nutrition content in those 
+circumstances. See </pre><span class="citation no-link">id.</span><pre class="inline"> (explaining statutory authority for these requirements).  
+    Today, as in 1973, the FDA has the statutory authority to regulate false and misleading 
+labels. And the current version of the FDA’s regulations seem to draw on that power. See </pre><span class="citation no-link">58 Fed. 
+Reg. 2302</span><pre class="inline">-01, 2303 (Jan. 6, 1993) (explaining the statutory authority for regulations of nutrient 
+content claims). That is to say, the FDA has determined that when a manufacturer makes a 
+protein claim, the manufacturer must include additional information about the protein’s quality 
+or else the labeling is misleading. If the FDA had not made that determination, it’s unclear what 
+authority it would have to require manufacturers to include the quality-adjusted percent. 
+    Assuming the FDA adopted this requirement based on its statutory authority to regulate 
+misleading statements, it’s not much of a leap to say that failure to follow the requirement 
+renders a label misleading within the meaning of the FDA’s regulations. So, contrary to the dicta 
+in Nacarino, Rausch has plausibly alleged that a statement of protein quantity outside of a 
+nutrition facts panel is misleading within the meaning of </pre><span class="citation no-link">21 C.F.R. § 101.13</span><pre class="inline">(i)(3) if the 
+statement is unaccompanied by the quality-adjusted percent daily value.   
+                             C                                           
+    Based on that understanding, the claims based on Rausch’s final theory—that the labels 
+are misleading within the meaning of various California statutes and California common law—
+can move forward. The Food, Drug, and Cosmetic Act, as amended by the Nutrition Labeling 
+and Education Act, expressly preempts all state law claims that impose labeling requirements 
+that are “not identical to” the requirements imposed by federal law. </pre><span class="citation no-link">21 U.S.C. § 343-1</span><pre class="inline">(a); see 
+Hawkins v. Kroger Co., </pre><span class="citation" data-id="4318295"><a href="/opinion/4541042/shavonda-hawkins-v-the-kroger-co/" aria-description="Citation for case: Shavonda Hawkins v. the Kroger Co.">906 F.3d 763</a></span><pre class="inline">, 769–70 (9th Cir. 2018). But it does not preempt state law 
+causes of action that are identical to the federal labeling requirements. </pre><span class="citation" data-id="4318295"><a href="/opinion/4541042/shavonda-hawkins-v-the-kroger-co/" aria-description="Citation for case: Shavonda Hawkins v. the Kroger Co.">Id.</a></span><pre class="inline"> Rausch has plausibly 
+alleged that Flatout’s labels fail to comply with the FDA’s regulations, and so she can bring state 
+law claims based on that noncompliance.  Effinger v. Ancient Organics LLC, No. 22-CV-03596-
+RS, </pre><span class="citation no-link">2023 WL 2214168</span><pre class="inline">, at *3–4 (N.D. Cal. Feb. 24, 2023).                   
+                             III                                         
+    Flatout’s remaining arguments are easier to address. Based on the allegations in the 
+complaint, Rausch has standing to seek injunctive relief. Brown, </pre><span class="citation no-link">2022 WL 1471454</span><pre class="inline">, at *10–11. 
+She has plausibly alleged that she has no adequate remedy at law, so she may seek equitable 
+relief at this stage in the litigation. See Elgindy v. AGA Service Co., No. 20-CV-06304-JST, </pre><span class="citation no-link">2021 
+WL 1176535</span><pre class="inline">, at *15 (N.D. Cal. Mar. 29, 2021) (explaining that a plaintiff may allege that they 
+lack an adequate remedy at law when their legal claims “require proof of conduct beyond that 
+which must be shown to establish liability” for their equitable claims). She also has standing to 
+challenge the products she did not purchase because they are “substantially similar” to the 
+products she did purchase. See Swartz, et al., v. Dave’s Killer Bread, Inc. and Flower Foods, 
+Inc., No. 4:21-cv-10053-YGR, at *6—8 (N.D. Cal. Jan. 9, 2023). It’s plausible that Flatout’s 
+labels could deceive a reasonable consumer. See Nacarino, 584 F. Supp. 3d at 809; 58 Fed. Reg. 
+at 2101 (noting that “information on protein quantity alone can be misleading on foods that are 
+of low protein quality”). And without clear guidance from California courts, this Court finds that 
+the economic loss rule does not bar Rausch’s claims. Clenney v.   FCA US LLC, No. 22-CV- 
+00547-VC, </pre><span class="citation no-link">2022 WL 2197074</span><pre class="inline">, at *4 (N.D. Cal. June 20, 2022); Anderson v. Apple Inc., </pre><span class="citation no-link">500 F. 
+Supp. 3d 993</span><pre class="inline">, 1019-1022 (N.D. Cal. 2020). 
+     But Rausch’s conclusory allegation that Flatout’s conduct was “willful and malicious” 
+does not support a claim for punitive damages, and so those claims are dismissed. See Robinson 
+v. J.M. Smucker Co., No. 18-CV-04654-HSG, </pre><span class="citation no-link">2019 WL 2029069</span><pre class="inline">, at *7 (N.D. Cal. May 8, 
+2019). 
+     Dismissal is with leave to amend. Any amended complaint is due within 14 days of this 
+order. But in addition, if discovery reveals information relevant to punitive damages, Rausch 
+may seek leave to amend at that point. 
+     IT IS SO ORDERED. 
+Dated: March 8, 2023                          = 
+                                   VINCE CHHABRIA   
+                                   United States District Judge </pre>

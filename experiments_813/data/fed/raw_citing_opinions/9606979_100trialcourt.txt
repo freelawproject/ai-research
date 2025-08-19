@@ -1,0 +1,670 @@
+<pre class="inline">1                                                                         
+2                                                                         
+3                      UNITED STATES DISTRICT COURT                       
+4                    NORTHERN DISTRICT OF CALIFORNIA                      
+5                            SAN JOSE DIVISION                            
+6                                                                         
+7    PRIYA SIDHU,                     Case No.  22-cv-01603-BLF           
+
+8              Plaintiff,                                                 
+                                      ORDER GRANTING IN PART AND          
+9          v.                         DENYING IN PART MOTION TO           
+                                      DISMISS WITH LEAVE TO AMEND         
+10    BAYER HEALTHCARE                 IN PART AND WITHOUT LEAVE TO        
+     PHARMACEUTICALS INC.,            AMEND IN PART                       
+11                                                                         
+               Defendant.                                                 
+12                                                                         
+13        In this case, Plaintiff Priya Sidhu alleges that Defendant Bayer Healthcare Pharmaceuticals 
+14   Inc. (“Bayer”) markets and sells an IUD that significantly increases the risk of breast cancer in 
+15   users.  She brings common law and state statutory claims, and she seeks to represent both a 
+16   California and a nationwide class.                                    
+17        Now before the Court is Bayer’s motion to dismiss under Rules 12(b)(1) and 12(b)(6).  
+18   ECF No. 17 (“MTD”); see also ECF No. 25 (“Reply”).  Sidhu opposes the motion.  ECF No. 22 
+19   (“Opp.”).  The Court held a hearing on October 27, 2022.  For the reasons discussed on the record 
+20   and explained below, the Court GRANTS IN PART and DENIES IN PART the motion to dismiss 
+21   WITH LEAVE TO AMEND IN PART and WITHOUT LEAVE TO AMEND IN PART.       
+22    I.  BACKGROUND                                                       
+23        As alleged in the Complaint, Defendant Bayer markets and sells the Mirena intrauterine 
+24   device (“Mirena” or “the device”).  ECF No. 1 (“Compl.”) ¶ 1.  Mirena is a hormonal IUD, and 
+25   specifically a levonorgestrel-releasing intrauterine system.  Id. ¶ 2.  The device is inserted into a 
+26   woman’s uterus, where it releases progestin, a hormone that thickens mucus in the cervix to stop 
+27   sperm from fertilizing an egg; it also thins the uterus lining and partially suppresses ovulation.  Id.  
+1   Bayer markets the device as birth control.  Id. ¶ 1.                  
+2        Sidhu alleges that Mirena “significantly increase[s] the risk of breast cancer in users,” and 
+3   that this information is not disclosed on the packaging, the list of “safety considerations” on the 
+4   website, or in any other materials that Bayer distributes to doctors or consumers.  Compl. ¶ 1, 3-5.  
+5   She further alleges that Bayer “has long known that the Product significantly increases the risk of 
+6   breast cancer.”  Id. ¶ 6.  Plaintiff cites to several studies, which she alleges show a “significantly 
+7   increased” risk of breast cancer.  See id. ¶¶ 7-11.                   
+8        Sidhu was prescribed and used Mirena between February 2019 and February 2022 in 
+9   California.  Compl. ¶ 15.  She paid $50 out-of-pocket for the device.  Id.  She alleges that she 
+10   reviewed the patient brochure upon first using Mirena, and she further alleges that she would not 
+11   have purchased Mirena, or would have “paid significantly less,” if Bayer had disclosed that 
+12   Mirena “carried with it a significantly elevated risk of developing breast cancer.”  Id.  She finally 
+13   alleges that Bayer never warned her or her doctor about the elevated breast cancer risk.  Id. 
+14        This lawsuit was filed on March 14, 2022.  See Compl.  The Complaint asserts claims for 
+15   (1) breach of the implied warranty of merchantability, Compl. ¶¶ 31-40; (2) unjust enrichment, 
+16   Compl. ¶¶ 41-45; (3) fraud, Compl. ¶¶ 46-53; (4) negligence, Compl. ¶¶ 54-57; (5) violation of all 
+17   three prongs of the California Unfair Competition Law (“UCL”), </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline"> 
+18   et seq., Compl. ¶¶ 58-71; (6) violation of the California Consumer Legal Remedies Act 
+19   (“CLRA”), </pre><span class="citation no-link">Cal. Civ. Code § 1750</span><pre class="inline"> et seq., Compl. ¶¶ 72-92; and (7) violation of the California 
+20   False Advertising Law (“FAL”), </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17500</span><pre class="inline"> et seq., Compl. ¶¶ 93-99.  Sidhu 
+21   seeks to represent a California and nationwide class.  </pre><span class="citation no-link">Id. ¶¶ 21-22</span><pre class="inline">.  
+22    II.  REQUEST FOR JUDICIAL NOTICE                                     
+23        Ordinarily, a district court&#x27;s inquiry on a Rule 12(b)(6) motion to dismiss is limited to the 
+24   pleadings.  “A court may, however, consider certain materials—documents attached to the 
+25   complaint, documents incorporated by reference in the complaint, or matters of judicial notice—
+26   without converting the motion to dismiss into a motion for summary judgment.”  United States v. 
+27   Ritchie, </pre><span class="citation" data-id="783479"><a href="/opinion/783479/united-states-v-donald-lawrence-ritchie-heather-horner/#908" aria-description="Citation for case: United States v. Donald Lawrence Ritchie, Heather Horner,...">342 F.3d 903, 908</a></span><pre class="inline"> (9th Cir. 2003).  Courts may take judicial notice of facts that are “not 
+1   “generally known” or that “can be accurately and readily determined from sources whose accuracy 
+2   cannot reasonably be questioned.”  </pre><span class="citation" data-id="783479"><a href="/opinion/783479/united-states-v-donald-lawrence-ritchie-heather-horner/" aria-description="Citation for case: United States v. Donald Lawrence Ritchie, Heather Horner,...">Id.</a></span><pre class="inline">                                
+3        Defendants request that the Court take judicial notice of 12 exhibits.  See ECF No. 17-1.  
+4   These include several scientific studies, FDA information, and several websites.  </pre><span class="citation" data-id="783479"><a href="/opinion/783479/united-states-v-donald-lawrence-ritchie-heather-horner/" aria-description="Citation for case: United States v. Donald Lawrence Ritchie, Heather Horner,...">Id.</a></span><pre class="inline">  Plaintiff did 
+5   not address the request.  While a court may take judicial notice of “matters of public record,” it 
+6   “cannot take judicial notice of disputed facts contained in such public records.”  Khoja v. Orexigen 
+7   Therapeutics, Inc., </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#999" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">899 F.3d 988, 999</a></span><pre class="inline"> (9th Cir. 2018).  “The Ninth Circuit has clarified that if a 
+8   court takes judicial notice of a document, it must specify what facts it judicially noticed from the 
+9   document.”  Edwards Lifescis. Corp. v. Meril Life Scis. Pvt. Ltd., No. 19-cv-06593-HSG, 2021 
+</pre><span class="citation no-link">10   WL 1312748</span><pre class="inline">, at *2 (N.D. Cal. Apr. 8, 2021) (citing Khoja, </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#999" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">899 F.3d at 999</a></span><pre class="inline">). 
+11        Defendant’s request for judicial notice is DENIED WITHOUT PREJUDICE.  If Bayer 
+12   requests judicial notice again, it must identify the specific facts within the provided documents 
+13   that it would like this Court to notice.                              
+14   III.  ARTICLE III STANDING – RULE 12(B)(1)                            
+15        “[T]he ‘irreducible constitutional minimum’ of standing consists of three elements.”  
+16   Spokeo, Inc. v. Robins, </pre><span class="citation no-link">578 U.S. 330</span><pre class="inline">, 338 (2016) (quoting Lujan v. Defs. of Wildlife, </pre><span class="citation" data-id="9432577"><a href="/opinion/112747/lujan-v-defenders-of-wildlife/" aria-description="Citation for case: Lujan v. Defenders of Wildlife">504 U.S. 555</a></span><pre class="inline">, 
+17   560 (1992)).  “The plaintiff must have (1) suffered an injury in fact, (2) that is fairly traceable to 
+18   the challenged conduct of the defendant, and (3) that is likely to be redressed by a favorable 
+19   judicial decision.”  </pre><span class="citation" data-id="9432577"><a href="/opinion/112747/lujan-v-defenders-of-wildlife/" aria-description="Citation for case: Lujan v. Defenders of Wildlife">Id.</a></span><pre class="inline">  “The plaintiff, as the party invoking federal jurisdiction, bears the burden 
+20   of establishing these elements.”  </pre><span class="citation" data-id="9432577"><a href="/opinion/112747/lujan-v-defenders-of-wildlife/" aria-description="Citation for case: Lujan v. Defenders of Wildlife">Id.</a></span><pre class="inline">  Bayer makes three arguments as to standing. 
+21        A.  Injury                                                       
+22        Bayer argues that Sidhu does not have standing because she has not suffered an injury.  
+23   MTD at 7-10.  Bayer notes that Sidhu fortunately does not have breast cancer, and it also argues 
+24   that Sidhu has not shown that Mirena causes a “significantly elevated risk of breast cancer.”  </pre><span class="citation" data-id="9432577"><a href="/opinion/112747/lujan-v-defenders-of-wildlife/" aria-description="Citation for case: Lujan v. Defenders of Wildlife">Id.</a></span><pre class="inline">  
+25   Bayer cites to the five studies cited by Sidhu, as well as one additional study, as support for its 
+26   contention.  </pre><span class="citation" data-id="9432577"><a href="/opinion/112747/lujan-v-defenders-of-wildlife/" aria-description="Citation for case: Lujan v. Defenders of Wildlife">Id.</a></span><pre class="inline">  Sidhu counters that the Court should not get to this question at the pleading stage 
+27   and further argues that her allegations make plausible that Mirena causes an increased risk of 
+1        The Court is not in the position to evaluate the scientific evidence at the pleadings stage.  
+2   But, as discussed at the hearing, the Court notes that the phrase “significantly elevated risk” is not 
+3   defined in the Complaint.  See Compl.  In an Amended Complaint, Sidhu is advised to provide 
+4   more concrete allegations to support her claims regarding the undisclosed or minimized risk of 
+5   breast cancer for Mirena users.                                       
+6        Bayer’s motion to dismiss for lack of standing based on lack of injury is DENIED. 
+7        B.  Nationwide Class                                             
+8        Bayer argues that Sidhu lacks standing to assert claims on behalf of a nationwide class.  
+9   MTD at 10.  Bayer first argues that the four common law claims should be dismissed because 
+10   Sidhu does not allege which state law governs.  </pre><span class="citation" data-id="9432577"><a href="/opinion/112747/lujan-v-defenders-of-wildlife/" aria-description="Citation for case: Lujan v. Defenders of Wildlife">Id.</a></span><pre class="inline">  Bayer also argues that Sidhu cannot bring 
+11   claims under the laws of any other states because there is no representative plaintiff for any state 
+12   other than California.  </pre><span class="citation" data-id="9432577"><a href="/opinion/112747/lujan-v-defenders-of-wildlife/" aria-description="Citation for case: Lujan v. Defenders of Wildlife">Id.</a></span><pre class="inline">  Sidhu argues that it is premature to address these issues now.  Opp. at 
+13   25.                                                                   
+14        The issues that Bayer raises are properly addressed at the motion to dismiss stage.  First, 
+15   “courts in this district have held that, due to variances among state laws, failure to allege which 
+16   state law governs a common law claim is grounds for dismissal.”  Romero v. Flowers Bakeries, 
+17   LLC, No. 14-cv-05189-BLF, </pre><span class="citation no-link">2016 WL 469370</span><pre class="inline">, at *12 (N.D. Cal. Feb. 8, 2016) (citing In re TFT-
+18   LCD (Flat Panel) Antitrust Litig., </pre><span class="citation" data-id="2113075"><a href="/opinion/2113075/in-re-tft-lcd-flat-panel-antitrust-litigation/#966" aria-description="Citation for case: In Re TFT-LCD (Flat Panel) Antitrust Litigation">781 F. Supp. 2d 955, 966</a></span><pre class="inline"> (N.D. Cal. 2011)).  Sidhu did not do 
+19   so.  See Compl.  The Court will therefore dismiss the common law claims.  In amending these 
+20   claims, Sidhu should keep in mind that “[c]ourts in the Ninth Circuit have consistently held that a 
+21   plaintiff in a putative class action lacks standing to assert claims under the laws of states other than 
+22   those where the plaintiff resides or was injured.”  See Jones v. Micron Tech. Inc., </pre><span class="citation no-link">400 F. Supp. 3d 
+23</span><pre class="inline">   897, 908 (N.D. Cal. 2019) (collecting cases).  Also, Plaintiff will need to address the issue whether 
+24   California law can be asserted for class members outside of California. 
+25        The motion to dismiss the common law claims for failure to identify which state law 
+26   applies is GRANTED WITH LEAVE TO AMEND.                               
+27        C.  Injunctive Relief                                            
+1   allege an intent or willingness to purchase Mirena in the future.  MTD at 10-11.  Sidhu does not 
+2   dispute this.  See Opp.                                               
+3        Bayer’s motion to dismiss all claims for injunctive relief is thus GRANTED WITHOUT 
+4   LEAVE TO AMEND.                                                       
+5   IV.  FAILURE TO STATE A CLAIM – RULE 12(B)(6)                         
+6        “A motion to dismiss under Federal Rule of Civil Procedure 12(b)(6) for failure to state a 
+7   claim upon which relief can be granted ‘tests the legal sufficiency of a claim.’”  Conservation 
+8   Force v. Salazar, </pre><span class="citation" data-id="221641"><a href="/opinion/221641/conservation-force-v-salazar/#1241" aria-description="Citation for case: Conservation Force v. Salazar">646 F.3d 1240, 1241-42</a></span><pre class="inline"> (9th Cir. 2011) (quoting Navarro v. Block, </pre><span class="citation" data-id="199405"><a href="/opinion/199405/havercombe-v-department-of-education-of-puerto-rico/#729" aria-description="Citation for case: Havercombe v. Department of Education of Puerto Rico">250 F.3d 
+9   729, 732</a></span><pre class="inline"> (9th Cir. 2001)).  When determining whether a claim has been stated, the Court accepts 
+10   as true all well-pled factual allegations and construes them in the light most favorable to the 
+11   plaintiff.  Reese v. BP Expl. (Alaska) Inc., </pre><span class="citation" data-id="219976"><a href="/opinion/219976/reese-v-bp-exploration-alaska-inc/#690" aria-description="Citation for case: Reese v. BP Exploration (Alaska) Inc.">643 F.3d 681, 690</a></span><pre class="inline"> (9th Cir. 2011).  But the Court need 
+12   not “accept as true allegations that contradict matters properly subject to judicial notice” or 
+13   “allegations that are merely conclusory, unwarranted deductions of fact, or unreasonable 
+14   inferences.”  In re Gilead Scis. Sec. Litig., </pre><span class="citation" data-id="1400355"><a href="/opinion/1400355/in-re-gilead-sciences-securities-litigation/#1055" aria-description="Citation for case: In Re Gilead Sciences Securities Litigation">536 F.3d 1049, 1055</a></span><pre class="inline"> (9th Cir. 2008) (internal quotation 
+15   marks and citations omitted).  While a complaint need not contain detailed factual allegations, it 
+16   “must contain sufficient factual matter, accepted as true, to ‘state a claim to relief that is plausible 
+17   on its face.’”  Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662, 678</a></span><pre class="inline"> (2009) (quoting Bell Atl. Corp. v. Twombly, 
+18   </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 570</a></span><pre class="inline"> (2007)).  A claim is facially plausible when it “allows the court to draw the 
+19   reasonable inference that the defendant is liable for the misconduct alleged.”  </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">Id.</a></span><pre class="inline">  On a motion to 
+20   dismiss, the Court’s review is limited to the face of the complaint and matters judicially 
+21   noticeable.  MGIC Indem. Corp. v. Weisman, </pre><span class="citation" data-id="478039"><a href="/opinion/478039/mgic-indemnity-corporation-v-lawrence-i-weisman-thomas-p-dunn-ln/#504" aria-description="Citation for case: Mgic Indemnity Corporation v. Lawrence I. Weisman, Thomas...">803 F.2d 500, 504</a></span><pre class="inline"> (9th Cir. 1986); N. Star Int’l v. 
+22   Ariz. Corp. Comm’n, </pre><span class="citation" data-id="426434"><a href="/opinion/426434/north-star-international-a-nevada-corporation-plaintiff-appellant-v-the/#581" aria-description="Citation for case: NORTH STAR INTERNATIONAL, a Nevada Corporation,...">720 F.2d 578, 581</a></span><pre class="inline"> (9th Cir. 1983).                
+23        A.  Learned Intermediary Doctrine                                
+24        Bayer argues that the learned intermediary doctrine bars all of Sidhu’s claims.  MTD at 5-
+25   7.  “Under California law, when drugs or medical devices are supplied in the context of the 
+26   physician-patient relationship, the learned intermediary doctrine applies.”  Himes v. Somatics, 
+27   LLC, No. 21-55517, </pre><span class="citation no-link">2022 WL 989469</span><pre class="inline">, at *1 (9th Cir. Apr. 1, 2022) (citing Webb v. Special Elec. 
+1   duty to warn physicians of risks that are known or scientifically knowable at the time of the drug’s 
+2   distribution.”  </pre><span class="citation no-link">Id.</span><pre class="inline"> (quoting Wendell v. GlaxoSmithKline LLC, </pre><span class="citation" data-id="4174106"><a href="/opinion/4396853/stephen-wendell-v-glaxosmithkline-llc/#1238" aria-description="Citation for case: Stephen Wendell v. Glaxosmithkline LLC">858 F.3d 1227, 1238</a></span><pre class="inline"> (9th Cir. 
+3   2017)).  Therefore, “the duty to warn runs to the physician, not to the patient.”  </pre><span class="citation" data-id="4174106"><a href="/opinion/4396853/stephen-wendell-v-glaxosmithkline-llc/" aria-description="Citation for case: Stephen Wendell v. Glaxosmithkline LLC">Id.</a></span><pre class="inline"> (quoting Carlin 
+4   v. Superior Ct., </pre><span class="citation" data-id="9561597"><a href="/opinion/1205523/carlin-v-superior-court/#1354" aria-description="Citation for case: Carlin v. Superior Court">920 P.2d 1347, 1354</a></span><pre class="inline"> (1996)).                         
+5        Bayer argues that all of Sidhu’s claims should be dismissed because the learned 
+6   intermediary doctrine applies.  MTD at 5-7.  Sidhu argues that (1) the learned intermediary 
+7   doctrine does not apply at the pleadings stage, (2) the learned intermediary doctrine does not apply 
+8   to its design defect claims, and (3) Bayer did not provide an adequate warning to Sidhu’s 
+9   physician.  Opp. at 2-4.  The Court will first address whether the learned intermediary doctrine 
+10   applies at this phase of the proceedings, and it will then turn to the issue of design defect. 
+11        Pleadings                                                        
+12        Sidhu argues that the learned intermediary doctrine is an affirmative defense that should 
+13   not be applied at the pleadings stage.  Opp. at 2.  Bayer argues that the Court can apply the learned 
+14   intermediary doctrine in deciding the motion to dismiss, and it points the Court to several 
+15   examples.  Reply at 4.                                                
+16        Earlier this year, the Eastern District of California denied the same argument made by 
+17   Plaintiff here, noting that “federal courts in California routinely apply the learned intermediary 
+18   doctrine in dismissing complaints upon motion of defendants.”  Kamlade v. LEO Pharma Inc., No. 
+19   1:21-cv-00522-DAD-EPG, </pre><span class="citation no-link">2022 WL 358429</span><pre class="inline">, at *3 n.3 (E.D. Cal. Feb. 7, 2022).  In that case, the 
+20   court decided that because the learned intermediary doctrine applied, plaintiff would need to 
+21   provide “allegations as to what defendants did or did not tell plaintiff’s prescribing physician” in 
+22   order “to adequately assert” the claim for breach of implied warranty of merchantability.  </pre><span class="citation no-link">Id. at *4</span><pre class="inline">.  
+23   Other courts have reached the same conclusion.  In one case, a court dismissed a failure to warn 
+24   claim under the learned intermediary doctrine where the plaintiff “fail[ed] to allege that her dentist 
+25   was misled by [the company].”  Buckley v. Align Tech., Inc., No. 5:13-cv-02812-EJD, </pre><span class="citation no-link">2015 WL 
+26</span><pre class="inline">   5698751, at *4 (N.D. Cal. Sept. 29, 2015).  In another, the court held that if a doctor had 
+27   prescribed the product at issue, then plaintiffs would be required to “properly allege a failure to 
+1   (S.D. Cal. 2016).  And in yet another, a court dismissed a failure to warn claim because the 
+2   plaintiff “failed to allege that Defendants failed to warn his prescribing physician and failed to 
+3   allege that if his prescribing physician had been warned, then he would not have prescribed the 
+4   [product] to Plaintiff.”  Tapia v. Davol, Inc., </pre><span class="citation" data-id="7232453"><a href="/opinion/7314548/tapia-v-davol-inc/#1158" aria-description="Citation for case: Tapia v. Davol, Inc.">116 F. Supp. 3d 1149, 1158-59</a></span><pre class="inline"> (S.D. Cal. 2015).  
+5   Relatedly, this Court previously held that “a plaintiff alleging failure to warn regarding a medical 
+6   device” would need to allege causation as to the physician.  Broge v. ALN Int’l, Inc., No. 17-cv-
+7   07131-BLF, </pre><span class="citation no-link">2019 WL 2088420</span><pre class="inline">, at *2 (N.D. Cal. May 13, 2019).           
+8        The Court also notes that in several of the cases relied on by Sidhu, the plaintiff did plead 
+9   facts as to the failure to warn the doctor.  See Baker v. Bayer Healthcare Pharms., No. C13-0490 
+10   TEH, </pre><span class="citation no-link">2013 WL 6698653</span><pre class="inline">, at *5 (N.D. Cal. Dec. 19, 2013); Wendell v. Johnson &amp; Johnson, No. C 
+11   09-04124 CW, </pre><span class="citation no-link">2010 WL 271423</span><pre class="inline">, at *3 (N.D. Cal. Jan. 20, 2010).  Other cases cited by Sidhu 
+12   addressed whether courts would consider the learned intermediary doctrine in deciding fraudulent 
+13   joinder.  See Kwasniewski v. Sanofi-Aventis U.S., LLC, </pre><span class="citation" data-id="3180178"><a href="/opinion/3180196/kwasniewski-ex-rel-estate-of-kwasniewski-v-sanofi-aventis-us-llc/#406" aria-description="Citation for case: Kwasniewski Ex Rel. Estate of Kwasniewski v....">637 F. App’x 405, 406</a></span><pre class="inline"> (9th Cir. 2016); 
+14   J.P. ex rel. Plummer v. McKesson Corp., No. 2:13-cv-02207-TLN-DAD, </pre><span class="citation no-link">2014 WL 3890326</span><pre class="inline">, at *5 
+15   (E.D. Cal. Aug. 7, 2014).                                             
+16        For any claims to which the learned intermediary doctrine applies, Sidhu must make 
+17   allegations as to her physician.  She has not adequately done so.  See Compl.  The Court next 
+18   addresses which claims the learned intermediary doctrine applies to in the Complaint. 
+19        Design Defect                                                    
+20        Sidhu also argues that even if the learned intermediary doctrine applies to her failure to 
+21   warn claims, it does not apply to her design defect claims.  Opp. at 3-4.  Bayer counters that (1) 
+22   Sidhu does not plead a design defect theory, and instead raises it improperly for the first time in 
+23   her Opposition, and (2) the learned intermediary doctrine applies to design defect claims.  Reply at 
+24   4-6.  Sidhu identifies paragraphs 54-57 of her Complaint as providing the basis for her design 
+25   defect theory, which is her count for negligence.  See Opp. at 3.     
+26        As a preliminary matter, “Plaintiff may not use [her] opposition to raise and argue new 
+27   allegations or claims not in the complaint.”  See Minor v. Fedex Office &amp; Print Servs., Inc., </pre><span class="citation" data-id="8776603"><a href="/opinion/8792606/national-bank-of-commerce-of-tacoma-v-tacoma-mill-co/" aria-description="Citation for case: National Bank of Commerce of Tacoma v. Tacoma Mill Co.">182 F. 
+1</a></span><pre class="inline">   defect claim, see Compl. ¶¶ 54-57, but there are no factual allegations elsewhere in the Complaint 
+2   to form a basis for this claim, see generally Compl.  Plaintiff must allege her design defect claim 
+3   more clearly, and she must provide supporting factual allegations.  Even if Sidhu does bring a 
+4   design defect claim, it is not clear she would avoid application of the learned intermediary 
+5   doctrine.  See Kamlade, </pre><span class="citation no-link">2022 WL 358429</span><pre class="inline">, at *5 (suggesting learned intermediary doctrine may 
+6   apply to design defect claim); Andren, </pre><span class="citation no-link">2018 WL 1920179</span><pre class="inline">, at *5 (same). 
+7        Conclusion                                                       
+8        Bayer’s motion to dismiss all counts under the learned intermediary doctrine is 
+9   GRANTED WITH LEAVE TO AMEND.                                          
+10        B.  Preemption                                                   
+11        Bayer argues that Sidhu’s claims are preempted by the federal Food, Drug, and Cosmetic 
+12   Act (“FDCA”).  MTD at 11-14.  The Supreme Court explained the relevant FDCA provisions as 
+13   follows:                                                              
+
+14             The FDA’s premarket approval of a new drug application includes the 
+              approval of the exact text in the proposed label.  See </pre><span class="citation no-link">21 U.S.C. § 355</span><pre class="inline">; 
+15             </pre><span class="citation no-link">21 CFR § 314.105</span><pre class="inline">(b) (2008).  Generally speaking, a manufacturer 
+              may only change a drug label after the FDA approves a supplemental 
+16             application.  There is, however, an FDA regulation that permits a 
+              manufacturer to make certain changes to its label before receiving the 
+17             agency’s  approval.    Among  other  things,  this  “changes  being 
+              effected”  (CBE)  regulation  provides  that  if  a  manufacturer  is 
+18             changing a label to “add or strengthen a contraindication, warning, 
+              precaution,  or  adverse  reaction”  or  to  “add  or  strengthen  an 
+19             instruction  about  dosage  and  administration  that  is  intended  to 
+              increase the safe use of the drug product,” it may make the labeling 
+20             change upon filing its supplemental application with the FDA; it need 
+              not wait for FDA approval.  §§ 314.70(c)(6)(iii)(A), (C).   
+21                                                                         
+    Wyeth v. Levine, </pre><span class="citation" data-id="9435372"><a href="/opinion/145902/wyeth-v-levine/#568" aria-description="Citation for case: Wyeth v. Levine">555 U.S. 555, 568</a></span><pre class="inline"> (2009).  “[A] 2008 amendment [to the CBE regulation] 
+22                                                                         
+    provides that a manufacturer may only change its label ‘to reflect newly acquired information.’”  
+23                                                                         
+    </pre><span class="citation" data-id="9435372"><a href="/opinion/145902/wyeth-v-levine/" aria-description="Citation for case: Wyeth v. Levine">Id.</a></span><pre class="inline"> (quoting </pre><span class="citation no-link">73 Fed. Reg. 49,609</span><pre class="inline">).                                    
+24                                                                         
+         The Court looks to Holley v. Gilead Sciences, Inc., which laid out a two-step analysis for 
+25                                                                         
+    impossibility preemption in the drug manufacturing context:           
+26                                                                         
+              First,  courts  must  determine  whether  a  drug  manufacturer  may 
+27             independently take action that complies with both state and federal 
+              may  subsequently  reject  approval  of  the  action  post  hoc.  If 
+1             independent action is not possible, then the state-law claims are 
+              preempted. If independent action is possible, then the claims are 
+2             preempted only if there is clear evidence that the FDA would not grant 
+              approval.                                                   
+3                                                                         
+    </pre><span class="citation" data-id="7253766"><a href="/opinion/7335846/holley-v-gilead-scis-inc/#821" aria-description="Citation for case: Holley v. Gilead Scis., Inc.">379 F. Supp. 3d 809, 821</a></span><pre class="inline"> (N.D. Cal. 2019) (citing Levine, </pre><span class="citation" data-id="9435372"><a href="/opinion/145902/wyeth-v-levine/#571" aria-description="Citation for case: Wyeth v. Levine">555 U.S. at 571</a></span><pre class="inline">).  The court in Holley 
+4                                                                         
+    discussed preemption as to failure to warn claims and design defect claims.  In order to plead a 
+5                                                                         
+    failure to warn claim based on information that came out after the initial drug release, a plaintiff 
+6                                                                         
+    would need to plead “a labeling deficiency that [Defendants] could have corrected using the CBE 
+7                                                                         
+    regulation.”  </pre><span class="citation" data-id="9435372"><a href="/opinion/145902/wyeth-v-levine/" aria-description="Citation for case: Wyeth v. Levine">Id.</a></span><pre class="inline"> at 827 (quoting Gibbons v. Bristol-Myers Squibb Co., </pre><span class="citation" data-id="8415372"><a href="/opinion/8443941/gibbons-v-bristol-myers-squibb-co/#708" aria-description="Citation for case: Gibbons v. Bristol-Myers Squibb Co.">919 F.3d 699, 708</a></span><pre class="inline"> (2d Cir. 
+8                                                                         
+    2019)).  The Holley court chose not to apply preemption to design defect claims based on drug 
+9                                                                         
+    composition.  </pre><span class="citation" data-id="8415372"><a href="/opinion/8443941/gibbons-v-bristol-myers-squibb-co/#821" aria-description="Citation for case: Gibbons v. Bristol-Myers Squibb Co.">Id. at 821-25</a></span><pre class="inline">.  The Court will address each type of claim in turn. 
+10                                                                         
+         Failure to Warn                                                  
+11                                                                         
+         Bayer argues that the failure to warn claims are preempted because it could not have 
+12                                                                         
+    changed the warnings on Mirena under the CBE regulation.  MTD at 11-14.  As discussed above, 
+13                                                                         
+    the CBE regulation provides when a manufacturer can independently change a drug label.  The 
+14                                                                         
+    regulation allows a manufacturer to change “the labeling to reflect newly acquired information” in 
+15                                                                         
+    certain circumstances, including “[t]o add or strengthen a contraindication, warning, precaution, or 
+16                                                                         
+    adverse reaction for which the evidence of a causal association satisfies the standard for inclusion 
+17                                                                         
+    in the labeling under § 201.57(c).”  </pre><span class="citation no-link">21 CFR § 314.70</span><pre class="inline">(c)(6)(iii)(A).  In turn, § 201.57(c) requires a 
+18                                                                         
+    change in labeling in accordance with § 314.70 “to include a warning about a clinically significant 
+19                                                                         
+    hazard as soon as there is reasonable evidence of a causal association with a drug; a causal 
+20                                                                         
+    relationship need not have been definitely established.”  </pre><span class="citation no-link">21 CFR § 201.57</span><pre class="inline">(c)(6)(i).  Finally, the 
+21                                                                         
+    regulations define “newly acquired information” as follows:           
+22                                                                         
+              data, analyses, or other information not previously submitted to the 
+23             Agency, which may include (but is not limited to) data derived from 
+              new clinical studies, reports of adverse events, or new analyses of 
+24             previously submitted data (e.g., meta-analyses) if the studies, events, 
+              or analyses reveal risks of a different type or greater severity or 
+25             frequency than previously included in submissions to FDA.   
+26   </pre><span class="citation no-link">21 CFR § 314.3</span><pre class="inline">(b).                                                    
+27        Bayer argues that (1) the studies cited by Sidhu are not “newly acquired information” and 
+1   MTD at 11-14.  Sidhu argues that the post-2010 studies she cites do constitute “newly acquired 
+2   information” and that a preemption analysis is premature.  Opp. at 8-10. 
+3        The Court will first address whether the identified studies constitute “newly acquired 
+4   information.”  In Holley, the court noted that it could not tell from the allegations in the complaint 
+5   “whether – and, if so, when – any such information was provided to the FDA,” and it therefore 
+6   could not tell whether there existed newly acquired information (“data, analyses, or other 
+7   information not previously submitted to the [FDA]”) such that the defendant could have changed 
+8   the label under the CBE regulation.  </pre><span class="citation" data-id="7253766"><a href="/opinion/7335846/holley-v-gilead-scis-inc/#829" aria-description="Citation for case: Holley v. Gilead Scis., Inc.">379 F. Supp. 3d at 829-30</a></span><pre class="inline"> (emphasis in original).  The court 
+9   therefore dismissed the claims for preemption.                        
+10        The Court here follows that approach.  Sidhu has not alleged what information was 
+11   provided to the FDA and when, and the Court therefore cannot determine whether the post-2010 
+12   studies cited by Sidhu constituted “newly acquired information.”  As in Holley, Sidhu has not 
+13   “plausibly alleged that [Bayer] could have made, under the CBE regulation or any other federal 
+14   law allowing changes without prior FDA approval,” the labeling changes she seeks.  See </pre><span class="citation no-link">379 F. 
+15</span><pre class="inline">   Supp. 3d at 830.  As to “evidence of a causal connection,” the Court is not in a position to make 
+16   that decision at this stage in the proceedings.                       
+17        Design Defect                                                    
+18        Sidhu argues that her design defect claims are not preempted.  Opp. at 6-8.  As stated 
+19   above, Sidhu has not adequately alleged a design defect claim.  See supra Section IV.A.  The 
+20   Court declines to decide at this time whether any such claim would be preempted. 
+21        Conclusion                                                       
+22        Bayer’s motion to dismiss all failure to warn claims as preempted is GRANTED WITH 
+23   LEAVE TO AMEND.                                                       
+24        C.  Fraud                                                        
+25            1.  Rule 9(b)                                                
+26        When a party pleads a cause of action for fraud or mistake, it is subject to the heightened 
+27   pleading requirements of Rule 9(b).  “In alleging fraud or mistake, a party must state with 
+1   added).  “Malice, intent, knowledge, and other conditions of a person’s mind may be alleged 
+2   generally.”  Id.  Rule 9(b) requires that the circumstances constituting any alleged fraud be pled 
+3   “specific[ally] enough to give defendants notice of the particular misconduct . . . so that they can 
+4   defend against the charge and not just deny that they have done anything wrong.”  Kearns v. Ford 
+5   Motor Co., </pre><span class="citation" data-id="1208595"><a href="/opinion/1208595/kearns-v-ford-motor-co/#1124" aria-description="Citation for case: Kearns v. Ford Motor Co.">567 F.3d 1120, 1124</a></span><pre class="inline"> (9th Cir. 2009) (quoting Bly-Magree v. California, </pre><span class="citation" data-id="185335"><a href="/opinion/185335/jenkins-v-washington-convention-center/#1014" aria-description="Citation for case: Jenkins v. Washington Convention Center">236 F.3d 
+6   1014, 1019</a></span><pre class="inline"> (9th Cir. 2001)).  Claims of fraud must be accompanied by the “who, what, when, 
+7   where, and how” of the misconduct alleged.  </pre><span class="citation" data-id="185335"><a href="/opinion/185335/jenkins-v-washington-convention-center/" aria-description="Citation for case: Jenkins v. Washington Convention Center">Id.</a></span><pre class="inline">  If a “claim is said to be ‘grounded in fraud’ or to 
+8   ‘sound to fraud,’ [then] the pleading of that claim as a whole must satisfy that particularity 
+9   requirement of Rule 9(b).”  Vess v. Ciba-Geigy Corp. USA, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1103" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d 1097, 1103-04</a></span><pre class="inline"> (9th Cir. 
+10   2003).                                                                
+11        The applicability of Rule 9(b) hinges not on the elements of the claim but rather on the 
+12   nature of the allegations themselves: “Rule 9(b) applies to ‘averments of fraud’ in all civil cases in 
+13   federal district court,” including “particular averments of fraud” even when fraud is not an 
+14   essential element of the claim.  Vess, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1103" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d at 1103</a></span><pre class="inline">; see also Kearns, </pre><span class="citation" data-id="1208595"><a href="/opinion/1208595/kearns-v-ford-motor-co/#1124" aria-description="Citation for case: Kearns v. Ford Motor Co.">567 F.3d at 1124</a></span><pre class="inline"> (“Where 
+15   fraud is not an essential element of a claim, only those allegations of a complaint which aver fraud 
+16   are subject to Rule 9(b)&#x27;s heightened pleading standard.”).  Fraud can thus be averred “by 
+17   specifically alleging fraud, or by alleging facts that necessarily constitute fraud (even if the word 
+18   ‘fraud’ is not used).”  Vess, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1105" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d at 1105</a></span><pre class="inline"> (citations omitted).   
+19            2.  UCL fraud prong, CLRA, FAL, and common law fraud         
+20        Plaintiff brings several common law and consumer protection claims that sound in fraud: 
+21   (1) common law fraud, Compl. Claim III ¶¶ 46-53; (2) violation of the fraud prong of the UCL, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">id.</a></span><pre class="inline"> 
+22   Claim V ¶¶ 58-71; (3) violation of the CLRA, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">id.</a></span><pre class="inline"> Claim VI ¶¶ 72-92; and (4) violation of the FAL, 
+23   </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">id.</a></span><pre class="inline"> Claim VII ¶¶ 93-99.                                               
+24        “Broadly stated: The UCL prohibits ‘any unlawful, unfair or fraudulent business act or 
+25   practice and unfair, deceptive, untrue or misleading advertising and any act prohibited by the 
+26   FAL’ ([Cal. Bus. &amp; Prof. Code] § 17200); the FAL prohibits advertising ‘which is untrue or 
+27   misleading, and which is known, or which by the exercise of reasonable care should be known, to 
+1   competition and unfair or deceptive acts or practices’ ([Cal.] Civ. Code § 1770, subd. (a)).”  Hill v. 
+2   Roll Int’l Corp., </pre><span class="citation" data-id="5665723"><a href="/opinion/5810290/hill-v-roll-international-corp/#1301" aria-description="Citation for case: Hill v. Roll International Corp.">195 Cal. App. 4th 1295, 1301</a></span><pre class="inline"> (2011) (alterations omitted).  All three statutes 
+3   prohibit fraudulent misrepresentations and omissions.  See In re Seagate Tech. LLC Litig., </pre><span class="citation" data-id="8799596"><a href="/opinion/8815120/the-coastwise/" aria-description="Citation for case: The Coastwise">233 F. 
+4</a></span><pre class="inline">   Supp. 3d 776, 788 (N.D. Cal. 2017).                                   
+5        Bayer argues that Sidhu’s fraud-based claims should be dismissed because she does not 
+6   plead an affirmative misrepresentation or an actionable omission.  MTD at 14-17.  In her 
+7   Opposition, Sidhu makes clear that her fraud is based on an omission theory.  Opp. at 10-14.  The 
+8   Court therefore focuses on fraud by omission.                         
+9        “Under California law, a claim of fraud by omission requires a showing of (1) the 
+10   concealment or suppression of material fact, (2) a duty to disclose the fact to the plaintiff, (3) 
+11   intentional concealment with intent to defraud, (4) justifiable reliance, and (5) resulting damages.”  
+12   Edwards v. FCA US LLC, No. 22-cv-01871-WHO, </pre><span class="citation no-link">2022 WL 1814144</span><pre class="inline">, at *3 (N.D. Cal. June 2, 
+13   2022) (quoting Lewis v. Google LLC, </pre><span class="citation no-link">851 F. App’x 723</span><pre class="inline">, 725 (9th Cir. 2021)).  Bayer argues that 
+14   (1) there is no undisclosed fact, as there is no substantially elevated risk of breast cancer; (2) Sidhu 
+15   has not adequately alleged Bayer’s knowledge; (3) Sidhu has not adequately alleged Bayer’s 
+16   intent; and (4) Sidhu has not alleged reliance by her physician.  MTD at 15-16. 
+17        The Court already addressed Bayer’s arguments as to whether there is an increased risk of 
+18   breast cancer.  See supra Section III.A.  The Court will address each element in turn. 
+19        Knowledge and Intent                                             
+20        Bayer argues that Sidhu has not shown its knowledge of the alleged increased risk of breast 
+21   cancer.  MTD at 15.  The Court begins by stating, as already noted by Bayer, that Sidhu need not 
+22   show exclusive knowledge, as the duty to disclose is not at issue here.  See Reply at 12.  But Sidhu 
+23   does need to show actual knowledge.  See Andren v. Apple Inc., </pre><span class="citation no-link">411 F. Supp. 3d 541</span><pre class="inline">, 564-65 
+24   (N.D. Cal. 2019) (“To state a California fraudulent concealment and UCL claim based on an 
+25   omission, a defendant must have known of the defect at the time of sale for a plaintiff to state a 
+26   claim for fraud by omission.” (internal quotation marks and citation omitted)); see also In re 
+27   Nexus 6P Prod. Liab. Litig., </pre><span class="citation" data-id="7246673"><a href="/opinion/7328757/in-re-nexus-6p-prods-liab-litig/#926" aria-description="Citation for case: In re Nexus 6P Prods. Liab. Litig.">293 F. Supp. 3d 888, 926-27</a></span><pre class="inline"> (N.D. Cal. 2018) (“California law 
+1   unaware.” (internal quotation marks and citation omitted)).  She also needs to show “intentional 
+2   concealment with intent to defraud.”  See Edwards, </pre><span class="citation no-link">2022 WL 1814144</span><pre class="inline">, at *3.  Sidhu counters that 
+3   she has adequately pled Bayer’s knowledge based on the identified scientific publications, and she 
+4   argues that Bayer’s failure to provide a warning to consumers despite this knowledge is sufficient 
+5   to show intent.  Opp. at 11-13.  Under Rule 9(b), a plaintiff need only allege knowledge and intent 
+6   generally.  And Sidhu has done so.  She alleges that Bayer had knowledge based on certain 
+7   identified studies and that Bayer still failed to share this information.  Compl. ¶¶ 49.  Those 
+8   allegations are sufficient at this stage.                             
+9        Reliance                                                         
+10        Bayer argues that Sidhu has not pled reliance on the omission by her physician.  MTD at 
+11   16.  Sidhu asserts that she has pled reliance because the learned intermediary doctrine does not 
+12   apply, and she has pled reliance as to herself.  Opp. at 13-14.       
+13        As discussed above, the learned intermediary doctrine does apply.  Sidhu must therefore 
+14   plead reliance as to her physician.  See Tapia, 116 F. Supp. at 1164 (dismissing fraud claim where 
+15   plaintiff did not “assert facts as to causation alleging that his own prescribing physician would not 
+16   have used the device” if defendants had provided the information1); Fischer v. Boston Sci. Corp., 
+17   No. SACV 19-02106 JVS (DFM), </pre><span class="citation no-link">2020 WL 2300138</span><pre class="inline">, at *3 (C.D. Cal. Mar. 25, 2020) (dismissing 
+18   fraud claim because “it is unclear when the representations were made to [plaintiff’s] unnamed 
+19   physician, where the representations took place, or how they were made”).   
+20        Conclusion                                                       
+21        Bayer’s motion to dismiss Sidhu’s common law fraud claim, as well as her claims under 
+22   the fraud prong of the UCL, the CLRA, and the FAL, is GRANTED WITH LEAVE TO AMEND. 
+23        D.  Other UCL Claims                                             
+24        The UCL prohibits any “unlawful, unfair or fraudulent business practice and unfair, 
+25   deceptive, untrue or misleading advertising.”  </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline">.  The California 
+26                                                                         
+    1 The Court notes that the Ninth Circuit recently certified a question to the California Supreme 
+27                                                                         
+    Court as to the proper standard for causation in a failure-to-warn case.  See Himes v. Somatics, 
+1   Supreme Court has clarified that the UCL, because it is “written in the disjunctive,” prohibits three 
+2   separate types of unfair competition: (1) unlawful acts or practices, (2) unfair acts of practices, and 
+3   (3) fraudulent acts or practices.  Cel-Tech Commc’ns, Inc. v. Los Angeles Cellular Tel. Co., 20 
+</pre><span class="citation no-link">4   Cal. 4th 163</span><pre class="inline">, 180 (1999); accord Davis v. HSBC Bank Nevada, N.A., </pre><span class="citation" data-id="807798"><a href="/opinion/807798/gary-davis-v-hsbc-bank-nevada-na/#1168" aria-description="Citation for case: Gary Davis v. Hsbc Bank Nevada, N.A.">691 F.3d 1152, 1168</a></span><pre class="inline"> (9th 
+5   Cir. 2012).  To plead a UCL claim, a plaintiff’s allegations must show that a defendant’s conduct 
+6   violates one of these three “prongs.” </pre><span class="citation" data-id="807798"><a href="/opinion/807798/gary-davis-v-hsbc-bank-nevada-na/" aria-description="Citation for case: Gary Davis v. Hsbc Bank Nevada, N.A.">Id.</a></span><pre class="inline">  The Court already addressed Sidhu’s claim under the 
+7   fraudulent prong of the UCL.  See supra Section IV.C.2.  Sidhu also brings claims under the 
+8   unlawful and unfair prongs of the UCL.  See Compl. Claim V ¶¶ 58-71.  
+9            1.  UCL unlawful claim                                       
+10        Sidhu brings a claim under the unlawful prong of the UCL.  See Compl. ¶ 61.  Sidhu bases 
+11   this claim on her claims asserting fraud, unjust enrichment, negligence, breach of the implied 
+12   warranty of merchantability, violation of the CLRA, and violation of the FAL.  Id.  Bayer argues 
+13   that this claim “fails to the same extent as the predicate claims.”  MTD at 18.  Sidhu argues that 
+14   the UCL unlawful claim stands because the other claims should not be dismissed.  Opp. at 16.  She 
+15   also argues for the first time in her Opposition that Bayer’s conduct violates the Sherman Food, 
+16   Drug, and Cosmetic Law.  Id. at 16-17.                                
+17        To start, because “Plaintiff may not use [her] opposition to raise and argue new allegations 
+18   or claims not in the complaint,” the Court will not consider Sidhu’s argument about the Sherman 
+19   Act.  See Minor, 182 F. Supp. 3d at 977.  Under the unlawful prong of the UCL, a plaintiff will 
+20   “base their claims on violations of other causes of actions.”  Hammerling v. Google LLC, No. 21-
+21   cv-09004-CRB, </pre><span class="citation no-link">2022 WL 2812188</span><pre class="inline">, at *15 (N.D. Cal. July 18, 2022) (citing S. Bay Chevrolet v. 
+22   Gen Motors Acceptance Corp., </pre><span class="citation" data-id="2256580"><a href="/opinion/2256580/south-bay-chevrolet-v-general-motors-acceptance-corp/#880" aria-description="Citation for case: South Bay Chevrolet v. General Motors Acceptance Corp.">72 Cal. App. 4th 861, 880</a></span><pre class="inline"> (1999)).  “If the predicate claims fail, 
+23   the UCL claim also fails.”  </pre><span class="citation" data-id="2256580"><a href="/opinion/2256580/south-bay-chevrolet-v-general-motors-acceptance-corp/" aria-description="Citation for case: South Bay Chevrolet v. General Motors Acceptance Corp.">Id.</a></span><pre class="inline"> (citing Davis v. HSBC Bank Nevada, N.A., </pre><span class="citation" data-id="807798"><a href="/opinion/807798/gary-davis-v-hsbc-bank-nevada-na/" aria-description="Citation for case: Gary Davis v. Hsbc Bank Nevada, N.A.">691 F.3d 1152</a></span><pre class="inline">, 1168 
+24   (9th Cir. 2012)).  Because the Court dismisses the predicate claims for Sidhu’s unlawful UCL 
+25   claim, it also dismisses this claim.                                  
+26        Bayer’s motion to dismiss the unlawful claim under the UCL is GRANTED WITH 
+27   LEAVE TO AMEND.                                                       
+             2.  UCL unfair claim                                         
+1                                                                         
+         Sidhu brings a claim under the unfair prong of the UCL.  Compl. ¶¶ 58-71.  Bayer argues 
+2                                                                         
+    that this claim should be dismissed because the other UCL claims do not survive, and Sidhu has 
+3                                                                         
+    not alleged why its conduct is unfair.  MTD at 17-18.  Sidhu argues that the unfair UCL claim 
+4                                                                         
+    stems from Mirena’s design defect, as opposed to its fraudulent omissions, and that the design 
+5                                                                         
+    defect constitutes unfair conduct because the harm of the product outweighs any benefits.  Opp. at 
+6                                                                         
+    14-16.                                                                
+7                                                                         
+         The Court notes that “the UCL does not define ‘unfair,’ and the definition in consumer 
+8                                                                         
+    cases is in flux.”  Hammerling, </pre><span class="citation no-link">2022 WL 2812188</span><pre class="inline">, at *15 (citing Hodsdon v. Mars, Inc., </pre><span class="citation" data-id="4277405"><a href="/opinion/4500152/sherry-sullivan-v-republic-of-cuba/#857" aria-description="Citation for case: Sherry Sullivan v. Republic of Cuba">891 F.3d 
+9                                                                         
+    857, 866</a></span><pre class="inline"> (9th Cir. 2018)).  But “[i]n this District, when plaintiff’s claim under the unfair prong 
+10                                                                         
+    overlaps entirely with the conduct alleged in the fraudulent and unlawful prongs of the UCL, ‘the 
+11                                                                         
+    unfair prong of the UCL cannot survive if the claims under the other two prongs . . . do not 
+12                                                                         
+    survive.’”  Eidmann v. Walgreen Co., </pre><span class="citation no-link">522 F. Supp. 3d 634</span><pre class="inline">, 647 (N.D. Cal. 2021) (quoting Hadley 
+13                                                                         
+    v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1105" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1105</a></span><pre class="inline"> (N.D. Cal. 2017)).  Despite Sidhu’s arguments 
+14                                                                         
+    to the contrary in the Opposition, the unfair UCL claim as pled in the Complaint is based on the 
+15                                                                         
+    same conduct underlying the other two UCL claims, and it must therefore be dismissed.  See 
+16                                                                         
+    Compl. ¶¶ 58-71; see also Minor, 182 F. Supp. 3d at 977 (“Plaintiff may not use [her] opposition 
+17                                                                         
+    to raise and argue new allegations or claims not in the complaint.”).   
+18                                                                         
+         Bayer’s motion to dismiss the unfair claim under the UCL is GRANTED WITH LEAVE 
+19                                                                         
+    TO AMEND.                                                             
+20                                                                         
+         E.  Unjust Enrichment                                            
+21                                                                         
+         Sidhu asserts a claim for unjust enrichment, alleging that Bayer unlawfully accepted 
+22                                                                         
+    payment for Mirena while failing to disclose the breast cancer risk, and it would be “unjust and 
+23                                                                         
+    inequitable” for Bayer to retain that benefit.  Compl. Claim II ¶¶ 41-45.  Bayer argues that the 
+24                                                                         
+    Court should dismiss this claim because Sidhu failed to state claims under the California consumer 
+25                                                                         
+    protection statutes.  MTD at 19.  Sidhu clarifies that she is bringing an independent claim for 
+26                                                                         
+    unjust enrichment.  Opp. at 21.  In Reply, Bayer only argues that the claim must be dismissed 
+27                                                                         
+    because Sidhu does not allege an inadequate remedy at law.  Reply at 14. 
+1        The Court first notes it is not clear from the Complaint under what state law the unjust 
+2   enrichment claim is brought.  The Court will apply California law, as that is where Sidhu resides 
+3   and was injured.  There has been significant confusion over whether California law provides for a 
+4   standalone cause of action for unjust enrichment.  See, e.g., Falk v. Gen. Motors Corp., </pre><span class="citation no-link">496 F. 
+5</span><pre class="inline">   Supp. 2d 1088, 1099 (N.D. Cal. 2007).  In 2015, the Ninth Circuit indicated that, “in California, 
+6   there is not a standalone cause of action for ‘unjust enrichment,’ which is synonymous with 
+7   ‘restitution.’”  Astiana v. Hain Celestial Grp., Inc., </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/#762" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">783 F.3d 753, 762</a></span><pre class="inline"> (9th Cir. 2015).  But in 
+8   2017, the Ninth Circuit recognized that the California Supreme Court later “clarified California 
+9   law, allowing an independent claim for unjust enrichment to proceed.”  Bruton v. Gerber Prods. 
+10   Co., </pre><span class="citation" data-id="8683670"><a href="/opinion/8700517/bruton-v-gerber-products-co/#470" aria-description="Citation for case: Bruton v. Gerber Products Co.">703 F. App’x 468, 470</a></span><pre class="inline"> (9th Cir. 2017) (citing Hartford Cas. Ins. Co. v. J.R. Mktg., LLC, 61 
+</pre><span class="citation" data-id="1374713"><a href="/opinion/1374713/in-re-menna/#1000" aria-description="Citation for case: In Re Menna">11   Cal. 4th 988, 1000</a></span><pre class="inline"> (2015)).  Therefore, the Court rejects Bayer’s argument that the claim for 
+12   unjust enrichment fails because Sidhu did not state claims under the consumer protection statutes.  
+13   The Court will address the equitable jurisdiction argument below.     
+14        Bayer’s motion to dismiss the unjust enrichment claim based on Sidhu’s failure to state 
+15   other claims is thus DENIED.                                          
+16        F.  Implied Warranty of Merchantability                          
+17        Sidhu brings a claim alleging that Bayer breached the implied warranty of merchantability.  
+18   Compl. Claim I ¶¶ 31-40.  Bayer argues that the Court should dismiss this claim.  MTD at 19-20.  
+19   It is not clear from the Complaint under what state law Sidhu is bringing this claim, but in the 
+20   Opposition, she indicates that she is bringing the claim under California law, as she cites to the 
+21   Song-Beverly Act.  Opp. at 21-22.  She argues that Mirena is unmerchantable because it creates a 
+22   safety hazard for the consumer.  Id. at 22.  Bayer counters that Sidhu does not show Mirena is 
+23   unmerchantable because she cannot show that Mirena is not fit for its intended use, which is birth 
+24   control.  Reply at 13.  Bayer also notes that all prescription drugs have associated risks.  Id. 
+25        “Unless excluded or modified [], a warranty that the goods shall be merchantable is 
+26   implied in a contract for their sale if the seller is a merchant with respect to goods of that kind.” 
+27   </pre><span class="citation no-link">Cal. Com. Code § 2314</span><pre class="inline">(1).  To state a claim under the implied warranty of merchantability, a 
+1   ordinary use.’”  Birdsong v. Apple, Inc., </pre><span class="citation" data-id="1434048"><a href="/opinion/1434048/birdsong-v-apple-inc/#958" aria-description="Citation for case: Birdsong v. Apple, Inc.">590 F.3d 955, 958</a></span><pre class="inline"> (9th Cir. 2009) (quoting Mocek v. Alfa 
+2   Leisure, Inc., </pre><span class="citation" data-id="2295851"><a href="/opinion/2295851/mocek-v-alfa-leisure-inc/#406" aria-description="Citation for case: Mocek v. Alfa Leisure, Inc.">114 Cal. App. 4th 402, 406</a></span><pre class="inline"> (2003)).  “[F]itness is shown if the product is in safe 
+3   condition and substantially free of defects[.]”  T &amp; M Solar &amp; Air Conditioning, Inc. v. Lennox 
+4   Int’l Inc., </pre><span class="citation" data-id="7229634"><a href="/opinion/7311730/t-m-solar-air-conditioning-inc-v-lennox-international-inc/#878" aria-description="Citation for case: T &amp; M Solar &amp; Air Conditioning, Inc. v. Lennox...">83 F. Supp. 3d 855, 878</a></span><pre class="inline"> (N.D. Cal. 2015) (quoting Mexia v. Rinker Boat Co., Inc., 174 
+</pre><span class="citation no-link">5   Cal. App. 4th 1297</span><pre class="inline">, 1303 (2009)); see also Thomas v. Costco Wholesale Corp., No. 12-cv-02908-
+6   BLF, </pre><span class="citation no-link">2014 WL 5872808</span><pre class="inline">, at *3 (N.D. Cal. Nov. 12, 2014) (dismissing claim for breach of implied 
+7   warranty of merchantability where plaintiff did not allege the products “lacked a basic degree of 
+8   fitness for ordinary use, or would in some way be unsafe for consumption”).  
+9        While the claim for breach of implied warranty of merchantability is not a model of clarity, 
+10   Sidhu does allege that Mirena is “not fit for its intended purpose” and causes a “significantly 
+11   elevated risk of breast cancer.”  See Compl. ¶¶ 36, 39.  Such a risk, if proven, would constitute a 
+12   safety hazard.                                                        
+13        Bayer’s motion to dismiss Sidhu’s claim for a breach of implied warranty of 
+14   merchantability for failure to state a claim is DENIED.               
+15       G.   Negligence                                                   
+16        Sidhu also brings a claim for negligence.  Compl. Claim IV ¶¶ 54-57.  Bayer argues that 
+17   Sidhu’s negligence claim should be dismissed under the economic loss rule.  MTD at 20-21.  
+18   Sidhu contested that one of the exceptions to the economic loss doctrine may apply in this case.  
+19   Opp. at 23.  At hearing, Plaintiff’s counsel noted that Plaintiff would likely concede this claim.  
+20   Regardless, the Court will address it.                                
+21        The Court first notes it is not clear under what state law the negligence claim is brought, 
+22   but it will apply California law.  “The ‘economic loss rule requires a purchaser to recover in 
+23   contract for purely economic loss due to disappointed expectations, unless he can demonstrate 
+24   harm above and beyond a broken contractual promise.’”  Ladore v. Sony Comput. Entm’t Am., 
+25   LLC, </pre><span class="citation" data-id="7229057"><a href="/opinion/7311153/ladore-v-sony-computer-entertainment-america-llc/#1075" aria-description="Citation for case: Ladore v. Sony Computer Entertainment America, LLC">75 F. Supp. 3d 1065, 1075</a></span><pre class="inline"> (N.D. Cal. 2014) (quoting Tasion Commc’ns v. Ubiquiti 
+26   Networks, Inc., No. C-13-1803 EMC, </pre><span class="citation no-link">2013 WL 4530470</span><pre class="inline">, at *3 (N.D. Cal. Aug. 26, 2013)).  
+27   “[T]he ‘economic loss rule has been applied to bar a plaintiff’s tort recovery of economic damages 
+1   property damage).’”  </pre><span class="citation no-link">Id.</span><pre class="inline"> (quoting N. Am. Chem. Co. v. Superior Ct., </pre><span class="citation" data-id="2243821"><a href="/opinion/2243821/north-american-chemical-co-v-superior-court-of-los-angeles-county/" aria-description="Citation for case: North American Chemical Co. v. Superior Court of Los...">59 Cal. App. 4th 764</a></span><pre class="inline">, 777 
+2   (1997)).  Therefore, “in actions arising from the sale or purchase of a defective product, plaintiffs 
+3   seeking economic losses must be able to demonstrate that either physical damage to property 
+4   (other than the defective product itself) or personal injury accompanied such losses”; otherwise 
+5   “they would be precluded from any tort recovery in strict liability or negligence.’”  </pre><span class="citation" data-id="2243821"><a href="/opinion/2243821/north-american-chemical-co-v-superior-court-of-los-angeles-county/" aria-description="Citation for case: North American Chemical Co. v. Superior Court of Los...">Id.</a></span><pre class="inline"> (quoting N. 
+6   Am. Chem. Co., </pre><span class="citation" data-id="2243821"><a href="/opinion/2243821/north-american-chemical-co-v-superior-court-of-los-angeles-county/#780" aria-description="Citation for case: North American Chemical Co. v. Superior Court of Los...">59 Cal. App. 4th at 780</a></span><pre class="inline">).                              
+7        Sidhu does not dispute that the economic loss rule applies here.  Opp. at 23.  Instead, she 
+8   argues that an exception may apply.  </pre><span class="citation" data-id="2243821"><a href="/opinion/2243821/north-american-chemical-co-v-superior-court-of-los-angeles-county/" aria-description="Citation for case: North American Chemical Co. v. Superior Court of Los...">Id.</a></span><pre class="inline">  But Sidhu must allege facts supporting such an 
+9   exception.  See Gardiner v. Walmart, Inc., No. 20-cv-04618-JSW, </pre><span class="citation no-link">2021 WL 4992539</span><pre class="inline">, at *6 (N.D. 
+10   Cal. July 28, 2021) (dismissing negligence claim because Plaintiff failed to allege facts to support 
+11   an exception).  As noted by Bayer, Sidhu has not done so.  Reply at 14.  
+12        Bayer’s motion to dismiss the negligence claim is GRANTED WITH LEAVE TO 
+13   AMEND.                                                                
+14       H.   Punitive Damages                                             
+15        Bayer argues that Sidhu does not adequately plead punitive damages because she does not 
+16   plead oppression, fraud, or malice.  MTD at 21.  Sidhu, noting that courts often decline to address 
+17   this question at the motion to dismiss stage, also argues that she has pled oppression, fraud, or 
+18   malice.  Opp. at 23-24.  In its Reply, Bayer seeks to dismiss or, in the alternative, to strike the 
+19   request for punitive damages because it is based on “insufficient and conclusory allegations in 
+20   connection with her fraud-based claims.”  Reply at 14-15.             
+21        “To support punitive damages, the complaint . . . must allege ultimate facts of the 
+22   defendant’s oppression, fraud, or malice.”  Cyrus v. Haveson, </pre><span class="citation" data-id="2114482"><a href="/opinion/2114482/cyrus-v-haveson/#316" aria-description="Citation for case: Cyrus v. Haveson">65 Cal. App. 3d 306, 316-17</a></span><pre class="inline"> (1976).  
+23   “[A] plaintiff may include a short and plain prayer for punitive damages that relies entirely on 
+24   unsupported and conclusory averments of malice or fraudulent intent.”  Union Pac. R.R. Co. v. 
+25   Hill, No. 21-cv-03216-BLF, </pre><span class="citation no-link">2021 WL 5964595</span><pre class="inline">, at *6 (N.D. Cal. Dec. 16, 2021) (quoting Rees v. 
+26   PNC Bank, N.A., </pre><span class="citation" data-id="8773382"><a href="/opinion/8789453/rees-v-pnc-bank-na/#273" aria-description="Citation for case: Rees v. PNC Bank, N.A.">308 F.R.D. 266, 273</a></span><pre class="inline"> (N.D. Cal. 2015)).  Here, Plaintiff has done so.  Sidhu 
+27   states, “As a result of Defendant’s willful and malicious conduct, punitive damages are 
+1   which have been dismissed.  Therefore, although there is no pleading deficiency as to punitive 
+2   damages, because the Court has dismissed the predicate fraud claims, it will dismiss the request 
+3   for punitive damages as well.                                         
+4        Bayer’s motion to dismiss the request for punitive damages is GRANTED WITH LEAVE 
+5   TO AMEND.  The request to strike the request for punitive damages is addressed below. 
+6    V.  EQUITABLE JURISDICTION                                           
+7        Even if a district court has subject matter jurisdiction, “[t]here remains the question of 
+8   equitable jurisdiction.”  Schlesinger v. Councilman, </pre><span class="citation" data-id="9426042"><a href="/opinion/109224/schlesinger-v-councilman/#753" aria-description="Citation for case: Schlesinger v. Councilman">420 U.S. 738, 753-54</a></span><pre class="inline"> (1975).  Both are 
+9   required for a federal court to hear the merits of an equitable claim.  Guzman v. Polaris Indus. 
+10   Inc., No. 21-55520, </pre><span class="citation no-link">2022 WL 4543709</span><pre class="inline">, at *5 (9th Cir. Sept. 29, 2022).  “Subject matter 
+11   jurisdiction regards ‘whether the claim falls within the limited jurisdiction conferred on the federal 
+12   courts’ by Congress, while equitable jurisdiction regards ‘whether consistently with the principles 
+13   governing equitable relief the court may exercise its remedial powers.’”  </pre><span class="citation no-link">Id.</span><pre class="inline"> (quoting Schlesinger, 
+14   </pre><span class="citation" data-id="9426042"><a href="/opinion/109224/schlesinger-v-councilman/#754" aria-description="Citation for case: Schlesinger v. Councilman">420 U.S. at 754</a></span><pre class="inline">).  For a district court to have equitable jurisdiction, and thus entertain a request for 
+15   equitable relief, the plaintiff must have no adequate legal remedy.  Sonner v. Premier Nutrition 
+16   Corp., </pre><span class="citation no-link">971 F.3d 834</span><pre class="inline">, 844 (9th Cir. 2020).                             
+17        Bayer argues that the UCL, FAL, and unjust enrichment claims should be dismissed 
+18   because they are equitable claims, and Plaintiff has not established that she lacks an adequate 
+19   remedy at law.  MTD at 18-19.  Sidhu argues that she has alleged that she lacks an equitable 
+20   remedy at law.  Opp. at 18-19.  She further argues that she has no adequate remedy at law to 
+21   rectify Bayer’s violations of the Sherman Act.  Opp. at 19-20.        
+22        A plaintiff cannot state a claim for equitable relief “if the pleading does not demonstrate 
+23   the inadequacy of a legal remedy.”  Sharma v. Volkswagen AG, </pre><span class="citation no-link">524 F. Supp. 3d 891</span><pre class="inline">, 907 (N.D. 
+</pre><span class="citation no-link">24   Cal. 2021</span><pre class="inline">).  In arguing that she has pled the inadequacy of a legal remedy, Sidhu points to two 
+25   paragraphs of the Complaint.  Opp. at 19 (citing Compl. ¶¶ 69, 91).  In one of these, Plaintiff 
+26   alleges the necessity of injunctive relief.  See Compl. ¶ 91.  Because the Court has dismissed all 
+27   claims for injunctive relief, Sidhu cannot rely on this allegation.  The second identified paragraph 
+1   need for injunctive relief.  See Compl. ¶¶ 69-71.  Sidhu again cannot rely on this allegation.  And 
+2   the Court will not consider Plaintiff’s arguments as to the Sherman Act, as they are not mentioned 
+3   anywhere in the Complaint.  See Minor, 182 F. Supp. 3d at 977.        
+4        Bayer’s motion to dismiss the UCL, FAL, and unjust enrichment claims for lack of 
+5   equitable jurisdiction is GRANTED WITH LEAVE TO AMEND.                
+6   VI.  MOTION TO STRIKE                                                 
+7        Federal Rule of Civil Procedure 12(f) permits a court to “strike from a pleading an 
+8   insufficient defense or any redundant, immaterial, impertinent, or scandalous matter.”  Fed. R. 
+9   Civ. P. 12(f).  “While a Rule 12(f) motion provides the means to excise improper materials from 
+10   pleadings, such motions are generally disfavored because the motions may be used as delaying 
+11   tactics and because of the strong policy favoring resolution on the merits.”  Barnes v. AT &amp; T 
+12   Pension Ben. Plan-Nonbargained Program, </pre><span class="citation" data-id="2540569"><a href="/opinion/2540569/barnes-v-at-t-pension-benefit-plannonbargained-program/#1170" aria-description="Citation for case: Barnes v. AT &amp; T Pension Benefit Plannonbargained Program">718 F. Supp. 2d 1167, 1170</a></span><pre class="inline"> (N.D. Cal. 2010).  “If 
+13   there is any doubt whether the portion to be stricken might bear on an issue in the litigation, the 
+14   court should deny the motion.”  Platte Anchor Bolt, Inc. v. IHI, Inc., </pre><span class="citation" data-id="2299759"><a href="/opinion/2299759/platte-anchor-bolt-inc-v-ihi-inc/" aria-description="Citation for case: Platte Anchor Bolt, Inc. v. IHI, INC.">352 F. Supp. 2d 1048</a></span><pre class="inline">, 1057 
+15   (N.D. Cal. 2004).  “Ultimately, whether to grant a motion to strike lies within the sound discretion 
+16   of the district court.” Cruz v. Bank of N.Y. Mellon, No. 12-CV-00846-LHK, </pre><span class="citation no-link">2012 WL 2838957</span><pre class="inline">, at 
+17   *2 (N.D. Cal. July 10, 2012).                                         
+18        A.  Punitive Damages                                             
+19        Bayer argues that the Court should strike the request for punitive damages.  Reply at 14-
+20   15.  This request is improperly raised for the first time in the Reply.  See MTD.  Regardless, the 
+21   request fails on the merits.  Federal Rule of Civil Procedure 12(f) allows a court to “strike from a 
+22   pleading an insufficient defense or any redundant, immaterial, impertinent, or scandalous matter.”  
+23   Fed. R. Civ. P. 12(f).  Bayer has not met this standard.  Sidhu may be able to properly plead 
+24   punitive damages in an Amended Complaint.  The motion to strike the request for punitive 
+25   damages is DENIED.                                                    
+26        B.  Class Allegations                                            
+27        Bayer finally seeks to strike Sidhu’s class allegations.  MTD at 21-23.  Bayer argues that 
+1   over class issues, and therefore the class allegations should be stricken.  </pre><span class="citation no-link">Id.</span><pre class="inline">  Sidhu asserts that 
+2   Bayer’s arguments are premature.  Opp. at 25.                         
+3        “There is a split in this District as to whether a motion to strike class action allegations 
+4   may be entertained at the motion to dismiss stage.”  Ogala v. Chevron Corp., No. 14–cv–173–SC, 
+5   </pre><span class="citation no-link">2014 WL 4145408</span><pre class="inline">, at *2 (N.D. Cal. Aug. 21, 2014) (collecting cases).  Even those courts that 
+6   have considered such a motion early in the proceedings “have applied a very strict standard to 
+7   motions to strike class allegations on the pleadings.”  </pre><span class="citation no-link">Id.</span><pre class="inline">  “Only if the court is convinced that any 
+8   questions of law are clear and not in dispute, and that under no set of circumstances could the 
+9   claim or defense succeed may the allegations be stricken.”  </pre><span class="citation no-link">Id.</span><pre class="inline"> (internal quotation marks and 
+10   citation omitted).  Thus, even if a motion to strike class allegations is considered at the pleading 
+11   stage, it may only be granted under “rare circumstances” where “the complaint demonstrates that a 
+12   class action cannot be maintained on the facts alleged.”  Tasion, </pre><span class="citation no-link">2014 WL 1048710</span><pre class="inline">, at *3 (citation 
+13   omitted).                                                             
+14        The Court is granting Sidhu leave to amend on all of her claims.  The Court cannot say that 
+15   a class action could not be maintained under the facts alleged in an Amended Complaint.  
+16   Therefore, Bayer’s motion to strike the class allegations is DENIED.  
+17  VII.  ORDER                                                            
+18        For the foregoing reasons, IT IS HEREBY ORDERED that:            
+19        1.   Bayer’s request for judicial notice is DENIED WITHOUT PREJUDICE; 
+20        2.   Bayer’s motion to dismiss for lack of standing based on lack of injury is DENIED; 
+21        3.   Bayer’s motion to dismiss the common law claims for failure to identify which 
+22        state law applies is GRANTED WITH LEAVE TO AMEND;                
+23        4.   Bayer’s motion to dismiss all claims for injunctive relief for lack of standing is 
+24        GRANTED WITHOUT LEAVE TO AMEND;                                  
+25        5.   Bayer’s motion to dismiss all claims under the learned intermediary doctrine is 
+26        GRANTED WITH LEAVE TO AMEND;                                     
+27        6.   Bayer’s motion to dismiss all failure to warn claims as preempted is GRANTED 
+    1          7.     Bayer’s motion to dismiss the fraud-based claims (common law fraud, UCL fraud 
+    2          claim, CLRA claim, and FAL claim) for failure to state a claim is GRANTED WITH 
+    3          LEAVE TO AMEND; 
+    4          8.     Bayer’s motion to dismiss the UCL unlawful and unfair claims for failure to state a 
+    5          claim is GRANTED WITH LEAVE TO AMEND; 
+    6          9.     Bayer’s motion to dismiss the unjust enrichment claim based on the failure to state 
+    7          other claims is DENIED; 
+    8          10.    Bayer’s motion to dismiss the implied warranty claim for failure to state a claim is 
+    9          DENIED; 
+   10          11.    Bayer’s motion to dismiss the negligence claim for failure to state a claim is 
+   11          GRANTED WITH LEAVE TO AMEND; 
+    12          12.    Bayer’s motion to dismiss the request for punitive damages is GRANTED WITH 
+5    13          LEAVE TO AMEND; 
+    14          13.    Bayer’s motion to dismiss the UCL, FAL, and unjust enrichment claims for lack of 
+ 3    15          equitable jurisdiction is GRANTED WITH LEAVE TO AMEND; 
+a    16          14.    Bayer’s motion to strike the request for punitive damages is DENIED; and 
+ 3    17          15.     Bayer’s motion to strike the classwide allegations is DENIED. 
+    18  || Plaintiffs SHALL file an amended complaint within 60 days of this order.  Failure to meet the 
+   19    deadline to file an amended complaint or failure to cure the deficiencies identified on the record or 
+   20 ||  in this order will result in a dismissal of the deficient claims with prejudice.  Plaintiff’s 
+   21    amendments shall not exceed the scope allowed by the Court in this order. 
+   22 
+   23  || Dated:  November 22, 2022                 fauinfhacncan 
+   24 
+                                               BETH LABSON FREEMAN 
+   25                                          United States District Judge 
+   26 
+   27 
+   28 </pre>

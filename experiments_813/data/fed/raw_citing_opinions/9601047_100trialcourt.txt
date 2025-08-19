@@ -1,0 +1,717 @@
+<pre class="inline">1                                                                         
+2                                                                         
+3                                                                         
+4                      UNITED STATES DISTRICT COURT                       
+5                     NORTHERN DISTRICT OF CALIFORNIA                     
+6                                                                         
+7    ELIZABETH MAISEL,                Case No.  21-cv-00413-TSH           
+
+8              Plaintiff,                                                 
+                                      ORDER DENYING MOTION TO             
+9          v.                         DISMISS                             
+
+10    S.C. JOHNSON &amp; SON, INC.,        Re: Dkt. No. 13                     
+11              Defendant.                                                 
+
+12                                                                         
+13                            I.  INTRODUCTION                             
+14        Plaintiff Elizabeth Maisel brings this putative class action against Defendant S.C. Johnson 
+15   &amp; Son, Inc., alleging it mislabels certain of its Ecover brand cleaning products.  SC Johnson 
+16   moves to dismiss pursuant to Federal Rules of Civil Procedure 12(b)(1), 12(b)(2), 12(b)(6), and 
+17   9(b).  ECF No. 19.  Maisel filed an Opposition (ECF No. 25) and SC Johnson filed a Reply (ECF 
+18   No. 26).  The Court finds this matter suitable for disposition without oral argument and 
+19   VACATES the May 27, 2021 hearing.  See Civ. L.R. 7-1(b).  Having considered the parties’ 
+20   positions, relevant legal authority, and the record in this case, the Court DENIES SC Johnson’s 
+21   motion for the following reasons.                                     
+22                            II.  BACKGROUND                              
+23        SC Johnson is a Wisconsin corporation with its principal place of business in Racine, 
+24   Wisconsin.  First Am. Compl. ¶ 10, ECF No. 16.  It sells 14 cleaning products under the Ecover 
+25   brand name.  Id. ¶¶ 4, 15.  The products include: Ecover All Purpose Cleaner, Ecover Cream 
+26   Scrub, Ecover Delicate Wash, Ecover Dishwasher Powder, Ecover Dishwasher Tablets, Ecover 
+27   Dishwasher Tablets Zero, Ecover Fabric Softener (Morning Fresh), Ecover Fabric Softener 
+1   Detergent (Lavender Field), Ecover Rinse Aid, Ecover Stain Remover, and Ecover Toilet Cleaner 
+2   (collectively the “Products”).  Id. ¶ 4.                              
+3        Maisel is a resident of Berkeley, California, who purchased the Ecover Dishwasher Tablets 
+4   in early 2020.  Id. ¶ 8.  She alleges that SC Johnson falsely and misleadingly labels certain of its 
+5   Ecover products with the following claims: “Plant-based ingredients”; “With plant-based 
+6   ingredients”; “Plant-based &amp; mineral ingredients”; or “With plant-based and mineral ingredients.”  
+7   Id. ¶ 1.  She further alleges SC Johnson “reinforces the plant-based representations on each 
+8   product with the following additional label statements: “Get nature on your side”; “Made using 
+9   renewable plant-based ingredients”’ “Made using renewable plant-based ingredients” or “Made 
+10   using renewable plant-based &amp; mineral ingredients”’ “At Ecover, we have been pioneering green 
+11   science for over 30 years to make effective, plant-based cleaners by planet-loving people”; an 
+12   image of a flower above the “e” and “c” in the ecover brand name; and anmage of a leaf above the 
+13   plant-based representations with a dotted line connecting the representation and leaf.  Id. ¶¶ 1, 17; 
+14   see also id. ¶¶ 18-31 (images depicting the products).  Despite these representations, Maisel 
+15   alleges “the Products are chock full of synthetic, non-natural, and highly processed ingredients” 
+16   that do not come from plants and/or minerals, “as well as ingredients that were subjected to 
+17   chemical modification or processing, which materially altered the ingredients’ original plant-based 
+18   or mineral composition.”  Id. ¶ 32; see also id. ¶¶ 33-47 (listing of ingredients in each Product). 
+19        Based on SC Johnson’s representations, Maisel alleges that reasonable consumers such as 
+20   herself “believe the Products only contain ingredients that come from plants and/or from plants 
+21   and minerals, and that are not subject to chemical modification or processing, which materially 
+22   alters the ingredients’ original plant-based or mineral composition.”  Id. ¶ 2.  However, the 
+23   products “contain numerous ingredients that do not come from plants or minerals whatsoever,” 
+24   and “have been subjected to chemical modification or processing, which materially altered the 
+25   ingredients’ original plant-based or mineral composition.”  Id. ¶ 3 (emphasis in original).  Maisel 
+26   alleges these representations are misleading and deceptive, and therefore unlawful, and that she 
+27   would not have purchased the dishwasher tablets had she known the products contained 
+1        Maisel filed this case on January 15, 2021, seeking to bring a class action under Federal 
+2   Rule of Civil Procedure 23 on behalf of herself and other consumers who bought Ecover products.  
+3   After SC Johnson moved to dismiss her original complaint, Maisel filed the operative First 
+4   Amended Complaint.  She defines members of a Nationwide class as: “All residents of the United 
+5   States who, within the applicable statute of limitations periods, purchased the Products”; and a 
+6   California subclass as: “All residents of California who, within four years prior to the filing of this 
+7   Complaint, purchased the Products.”  She brings five causes of action: (1) violations of 
+8   California’s Unfair Competition Law (“UCL”), </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline"> et seq., on behalf 
+9   of the California subclass; (2) violations of California’s False Advertising Law (“FAL”), Cal. Bus. 
+10   &amp; Prof. Code § 17500 et seq., on behalf of the California subclass, (3) violation of California’s 
+11   Consumers Legal Remedies Act (“CLRA”), </pre><span class="citation no-link">Cal. Civ. Code §§ 1750</span><pre class="inline"> et seq., on behalf of the 
+12   California subclass; (4) breach of express warranty on behalf of the Nationwide and California 
+13   subclasses, and (5) unjust enrichment on behalf of the Nationwide and California subclasses.  </pre><span class="citation no-link">Id.</span><pre class="inline"> 
+14   ¶¶ 66-146.                                                            
+15        SC Johnson filed the present motion on April 7, 2021.  It raises seven arguments: (1) 
+16   Maisel does not identify any false claims on the Ecover product labels because they contain plant-
+17   based and/or mineral ingredients, as advertised; (2) her personal interpretation of “plant-based 
+18   ingredients” and “plant-based and mineral ingredients” does not reflect a reasonable consumer’s 
+19   understanding of the terms because the product labels do not claim the products contain a specific 
+20   amount of plant-based or mineral ingredients; (3) Maisel cannot challenge the labels on 13 Ecover 
+21   products she did not purchase because she did not suffer any injury by them; (4) her express 
+22   warranty claim fails because the product labels are true, and her interpretation of “plant-based 
+23   ingredients” and “plant-based and mineral ingredients” cannot form the basis of an express 
+24   warranty; (5) her unjust enrichment claim fails because she received the benefit of the bargain – a 
+25   product that contains plant-based and mineral ingredients – and it duplicates her other claims; (6) 
+26   because Maisel asserts claims for damages, she does not lack an adequate remedy at law, and her 
+27   UCL, FAL, CLRA, and unjust enrichment claims fail; and (7) her national class claims should be 
+1   she purports to represent.  Mot. at 9-10.                             
+2                           III.  JUDICIAL NOTICE                         
+3        SC Johnson requests the Court take judicial notice of labels for Ecover Fabric Softener 
+4   Morning Fresh, Ecover Fabric Softener Sunny Day, Ecover Stain Remover, Ecover Toilet 
+5   Cleaner, and Ecover Laundry Detergent Lavender Field.  ECF No. 20.  The Court may take 
+6   judicial notice of matters that are either “generally known within the trial court’s territorial 
+7   jurisdiction” or “can be accurately and readily determined from sources whose accuracy cannot 
+8   reasonably be questioned.”  Fed. R. Evid. 201(b).  “‘Courts addressing motions to dismiss 
+9   product-labeling claims routinely take judicial notice of images of the product packaging.’”  
+10   Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1086" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1086-87</a></span><pre class="inline"> (N.D. Cal. 2017) (quoting Kanfer v. 
+11   Pharmacare US, Inc., </pre><span class="citation" data-id="7234554"><a href="/opinion/7316646/kanfer-v-pharmacare-us-inc/#1098" aria-description="Citation for case: Kanfer v. Pharmacare US, Inc.">142 F. Supp. 3d 1091, 1098-99</a></span><pre class="inline"> (S.D. Cal. 2015)); Allen v. ConAgra Foods, 
+12   Inc., </pre><span class="citation no-link">2013 WL 4737421</span><pre class="inline">, at *2 (N.D. Cal. Sept. 3, 2013); Anderson v. Jamba Juice Co., </pre><span class="citation no-link">888 F. 
+13</span><pre class="inline">   Supp. 2d 1000, 1003 (N.D. Cal. 2012).  The Court notes that the FAC also contains images of the 
+14   packaging in question, and Maisel does not contest the authenticity of the pictures of the Ecover 
+15   labels.  Accordingly, the Court takes judicial notice of these materials. 
+16                              IV.  STANDING                              
+17        SC Johnson argues Maisel lacks standing to pursue her claims because she challenges 
+18   products she never purchased and alleges too speculative an injury to seek injunctive relief.  Mot. 
+19   at 17.  Because questions of Article III standing go to a federal court’s subject-matter jurisdiction, 
+20   an argument that a party lacks standing is “properly raised in a motion to dismiss under Federal 
+21   Rule of Civil Procedure 12(b)(1).”  White v. Lee, </pre><span class="citation" data-id="6987266"><a href="/opinion/7082005/white-v-lee/#1242" aria-description="Citation for case: White v. Lee">227 F.3d 1214, 1242</a></span><pre class="inline"> (9th Cir. 2000); see also 
+22   Cetacean Cmty. v. Bush, </pre><span class="citation" data-id="788121"><a href="/opinion/788121/the-cetacean-community-v-george-w-bush-president-of-the-united-states-of/#1174" aria-description="Citation for case: The Cetacean Community v. George W. Bush, President of...">386 F.3d 1169, 1174</a></span><pre class="inline"> (9th Cir. 2004) (where plaintiffs lack standing, a 
+23   suit should be dismissed under Rule 12(b)(1)).                        
+24        Federal district courts are courts of limited jurisdiction; “[t]hey possess only that power 
+25   authorized by Constitution and statute, which is not to be expanded by judicial decree.”  Kokkonen 
+26   v. Guardian Life Ins. Co. of Am., </pre><span class="citation" data-id="117845"><a href="/opinion/117845/kokkonen-v-guardian-life-insurance-co-of-america/#377" aria-description="Citation for case: Kokkonen v. Guardian Life Insurance Co. of America">511 U.S. 375, 377</a></span><pre class="inline"> (1994) (citation omitted).   Accordingly, “[i]t 
+27   is to be presumed that a cause lies outside this limited jurisdiction, and the burden of establishing 
+1   Ins. Co., </pre><span class="citation" data-id="302"><a href="/opinion/302/chandler-v-state-farm-mutual-automobile-insurance/#1122" aria-description="Citation for case: Chandler v. State Farm Mutual Automobile Insurance">598 F.3d 1115, 1122</a></span><pre class="inline"> (9th Cir. 2010).                        
+2        A motion to dismiss under Rule 12(b)(1) may be facial or factual.  Safe Air for Everyone v. 
+3   Meyer, </pre><span class="citation" data-id="8408936"><a href="/opinion/8438360/safe-air-for-everyone-v-meyer/#1039" aria-description="Citation for case: Safe Air for Everyone v. Meyer">373 F.3d 1035, 1039</a></span><pre class="inline"> (9th Cir. 2004).  Where, as here, a defendant makes a facial attack on 
+4   jurisdiction, factual allegations of the complaint are taken as true.  Fed’n of Afr. Am. Contractors 
+5   v. City of Oakland, </pre><span class="citation multiple-matches"><a href="/c/F.3d/96/1204/">96 F.3d 1204</a></span><pre class="inline">, 1207 (9th Cir. 1996); see also Lujan v. Defs. of Wildlife, 504 
+</pre><span class="citation no-link">6   U.S. 555</span><pre class="inline">, 561 (1992) (“At the pleading stage, general factual allegations of injury resulting from 
+7   the defendant’s conduct may suffice, for on a motion dismiss, [courts] presume that general 
+8   allegations embrace those specific facts that are necessary to support the claim.”) (internal citation 
+9   and quotations omitted).  The plaintiff is then entitled to have those facts construed in the light 
+10   most favorable to her.  Federation of Afr. Am. Contractors, 96 F.3d at 1207. 
+11        1.   Article III Standing                                        
+12        Article III standing requires that the plaintiff “(1) suffered an injury in fact, (2) that is fairly 
+13   traceable to the challenged conduct of the defendant, and (3) that is likely to be redressed by a 
+14   favorable judicial decision.”  Spokeo, Inc. v. Robins, </pre><span class="citation" data-id="9823248"><a href="/opinion/3203762/spokeo-inc-v-robins/#1547" aria-description="Citation for case: Spokeo, Inc. v. Robins">136 S. Ct. 1540, 1547</a></span><pre class="inline"> (2016), as revised 
+15   (May 24, 2016).  In a class action, standing is satisfied if at least one named plaintiff meets the 
+16   requirements.  Armstrong v. Davis, </pre><span class="citation" data-id="7008253"><a href="/opinion/7102486/armstrong-v-davis/#860" aria-description="Citation for case: Armstrong v. Davis">275 F.3d 849, 860</a></span><pre class="inline"> (9th Cir. 2001).  “The party invoking 
+17   federal jurisdiction bears the burden of establishing these elements.”  Lujan, 504 U.S. at 561.   
+18        A “quintessential injury-in-fact” occurs when the “plaintiffs spent money that, absent 
+19   defendants’ actions, they would not have spent.”  Maya v. Centex Corp., </pre><span class="citation" data-id="613992"><a href="/opinion/613992/maya-v-centex-corp/#1069" aria-description="Citation for case: Maya v. Centex Corp.">658 F.3d 1060, 1069</a></span><pre class="inline"> (9th 
+20   Cir. 2011).  Additionally, if plaintiffs “state that they would not have purchased [a product] had 
+21   there been proper disclosure” of relevant facts, that is sufficient to plead causation.  </pre><span class="citation" data-id="613992"><a href="/opinion/613992/maya-v-centex-corp/#1070" aria-description="Citation for case: Maya v. Centex Corp.">Id. at 1070</a></span><pre class="inline">; 
+22   see also Zeiger v. WellPet LLC, </pre><span class="citation" data-id="7247583"><a href="/opinion/7329667/zeiger-v-wellpet-llc/#846" aria-description="Citation for case: Zeiger v. Wellpet LLC">304 F. Supp. 3d 837, 846</a></span><pre class="inline"> (N.D. Cal. 2018) (holding that plaintiffs 
+23   alleged a cognizable injury for purposes of standing because their claims were “premised on their 
+24   allegation that were it not for defendants’ labeling, which omit the presence of lead, arsenic, and 
+25   BPA in their [contaminated dog food products], plaintiffs would not have purchased and spent 
+26   money on their Products.”).  Thus, because Maisel alleges she purchased the Ecover dishwasher 
+27   tablets and would not have if she knew they were mislabeled, the Court finds she has Article III 
+1        2.   Statutory Standing                                          
+2        Because Maisel alleges causes of action under the FAL, the CLRA, and the UCL, she must 
+3   also demonstrate standing under those statutes.  Punian v. Gillette Co., </pre><span class="citation no-link">2015 WL 4967535</span><pre class="inline">, at *7 
+4   (N.D. Cal. Aug. 20, 2015) (citing Bruton v. Gerber Prod. Co., </pre><span class="citation" data-id="8710400"><a href="/opinion/8727202/bruton-v-gerber-products-co/#1086" aria-description="Citation for case: Bruton v. Gerber Products Co.">961 F. Supp. 2d 1062, 1086</a></span><pre class="inline"> (N.D. 
+</pre><span class="citation no-link">5   Cal. 2013</span><pre class="inline">)).  To have standing under the FAL and the CLRA, a plaintiff must claim to have relied 
+6   on an alleged misrepresentation.  See Kwikset Corp. v. Superior Ct., </pre><span class="citation" data-id="5452558"><a href="/opinion/5608107/kwikset-corp-v-superior-court/#22" aria-description="Citation for case: Kwikset Corp. v. Superior Court">51 Cal. 4th 310, 22</a></span><pre class="inline"> (2011) 
+7   (plaintiff alleging a claim under the FAL must allege, inter alia, “that that economic injury was the 
+8   result of, i.e., caused by, the unfair business practice or false advertising that is the gravamen of 
+9   the claim”) (emphasis in original); Durell v. Sharp Healthcare, </pre><span class="citation" data-id="2282785"><a href="/opinion/2282785/durell-v-sharp-healthcare/" aria-description="Citation for case: Durell v. Sharp Healthcare">183 Cal. App. 4th 1350</a></span><pre class="inline">, 1367 
+10   (2010) (finding plaintiff’s CLRA claim failed because plaintiff failed to allege facts showing that 
+11   he relied on any representation by defendant).  Under the FAL, a plaintiff must “establish a loss or 
+12   deprivation of money or property sufficient to qualify as injury in fact, i.e., economic injury.”  
+13   Kwikset Corp., </pre><span class="citation" data-id="5452558"><a href="/opinion/5608107/kwikset-corp-v-superior-court/#322" aria-description="Citation for case: Kwikset Corp. v. Superior Court">51 Cal. 4th at 322</a></span><pre class="inline"> (emphasis in original).  Likewise, for the purpose of bringing a 
+14   CLRA cause of action, “[a] plaintiff . . . must not only be exposed to an unlawful practice but also 
+15   have suffered some kind of damage.”  Bower v. AT &amp; T Mobility, LLC, </pre><span class="citation" data-id="5665822"><a href="/opinion/5810388/bower-v-att-mobility-llc/" aria-description="Citation for case: Bower v. AT&amp;T Mobility, LLC">196 Cal. App. 4th 1545</a></span><pre class="inline">, 
+16   1556 (2011); Bohac v. Gen. Mills, Inc., </pre><span class="citation no-link">2014 WL 1266848</span><pre class="inline">, at *10 (N.D. Cal. Mar. 26, 2014) 
+17   (“Actual reliance and economic injury are also required to have standing to sue under the CLRA.”) 
+18   (citing Bruton, </pre><span class="citation" data-id="8710400"><a href="/opinion/8727202/bruton-v-gerber-products-co/#1083" aria-description="Citation for case: Bruton v. Gerber Products Co.">961 F. Supp. 2d at 1083</a></span><pre class="inline">).                             
+19        Under the UCL, a private person has standing only if she “has suffered injury in fact and 
+20   has lost money or property as a result of the unfair competition.”  </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17204</span><pre class="inline"> 
+21   (emphasis added).  The “as a result” language means that actual reliance is necessary for standing.  
+22   See Kwikset Corp., 51 Cal. 4th at 326–27; In re Tobacco II Cases, </pre><span class="citation" data-id="9685293"><a href="/opinion/1801796/in-re-tobacco-ii-cases/#306" aria-description="Citation for case: In Re Tobacco II Cases">46 Cal. 4th 298, 306</a></span><pre class="inline"> (2009) 
+23   (stating that a plaintiff “proceeding on a claim of misrepresentation as the basis of his or her UCL 
+24   action must demonstrate actual reliance on the allegedly deceptive or misleading statements”).   
+25        “A plaintiff has suffered economic injury when she has either: (1) expended money due to 
+26   the defendants’ acts of unfair competition; (2) lost money or property; or (3) been denied money to 
+27   which he or she has a cognizable claim.”  Samet v. Procter &amp; Gamble Co., </pre><span class="citation no-link">2013 WL 3124647</span><pre class="inline">, at 
+1        Judges in this district have routinely held that allegations that mislabeling caused the 
+2   plaintiff to purchase products they might not have otherwise purchased suffices for statutory 
+3   standing.  Bohac, </pre><span class="citation no-link">2014 WL 1266848</span><pre class="inline">, at *11; Bruton v. Gerber Prod. Co., </pre><span class="citation no-link">2014 WL 172111</span><pre class="inline">, at *9 
+4   (N.D. Cal. Jan. 15, 2014); Brazil v. Dole Food Co., </pre><span class="citation" data-id="8707298"><a href="/opinion/8724101/brazil-v-dole-food-co/#961" aria-description="Citation for case: Brazil v. Dole Food Co.">935 F. Supp. 2d 947, 961</a></span><pre class="inline"> (N.D. Cal. 2013) 
+5   (“Essentially, Brazil alleges that he and class members ‘spent money that, absent defendants’ 
+6   actions, they would not have spent,’ which constitutes ‘a quintessential injury-in-fact.’”) (quoting 
+7   Maya, </pre><span class="citation" data-id="613992"><a href="/opinion/613992/maya-v-centex-corp/#1069" aria-description="Citation for case: Maya v. Centex Corp.">658 F.3d at 1069</a></span><pre class="inline">).  Maisel alleges she spent money purchasing a product she would not 
+8   have purchased were it not for SC Johnson’s purported mislabeling.  She claims she read SC 
+9   Johnson’s misstatements on its product labels and relied on them in making her purchase.  That is 
+10   sufficient for statutory standing under the CLRA, UCL, and FAL.  Bohac, </pre><span class="citation no-link">2014 WL 1266848</span><pre class="inline">, at 
+11   *11; Carrea v. Dreyer’s Grand Ice Cream, Inc., </pre><span class="citation no-link">2011 WL 159380</span><pre class="inline">, at *2 (N.D. Cal. Jan. 10, 
+12   2011), aff’d, </pre><span class="citation" data-id="626786"><a href="/opinion/626786/mirko-carrea-v-dreyers-grand-ice-cream-inc/" aria-description="Citation for case: Mirko Carrea v. Dreyer&#x27;s Grand Ice Cream, Inc.">475 F. App’x 113</a></span><pre class="inline"> (9th Cir. 2012).  Accordingly, Maisel has statutory standing.   
+13        3.   Substantially Similar Products                              
+14        SC Johnson argues Maisel cannot challenge the product labels on the products she did not 
+15   purchase.  Mot. at 17-18.  In the Ninth Circuit, “[t]here is no controlling authority on whether 
+16   Plaintiffs have standing for products they did not purchase.”  Miller v. Ghirardelli Chocolate Co., 
+17   </pre><span class="citation" data-id="8704589"><a href="/opinion/8721396/miller-v-ghirardelli-chocolate-co/#868" aria-description="Citation for case: Miller v. Ghirardelli Chocolate Co.">912 F. Supp. 2d 861, 868</a></span><pre class="inline"> (N.D. Cal. 2012).  However, “[t]he majority of the courts that have 
+18   carefully analyzed the question hold that a plaintiff may have standing to assert claims for 
+19   unnamed class members based on products he or she did not purchase so long as the products and 
+20   alleged misrepresentations are substantially similar.”  </pre><span class="citation" data-id="8704589"><a href="/opinion/8721396/miller-v-ghirardelli-chocolate-co/#869" aria-description="Citation for case: Miller v. Ghirardelli Chocolate Co.">Id. at 869</a></span><pre class="inline">; see also Figy v. Frito-Lay N. Am., 
+21   Inc., </pre><span class="citation" data-id="7228479"><a href="/opinion/7310575/figy-v-frito-lay-north-america-inc/#1082" aria-description="Citation for case: Figy v. Frito-Lay North America, Inc.">67 F. Supp. 3d 1075, 1082-83</a></span><pre class="inline"> (N.D. Cal. 2014) (“Courts in this district have adopted three 
+22   diverging approaches for analyzing standing to pursue claims for nonpurchased products.”).  In 
+23   determining whether products are substantially similar, “[c]ourts look to a series of factors 
+24   including whether the challenged products are of the same kind, comprised of largely the same 
+25   ingredients, and whether each of the challenged products bears the same alleged mislabeling.”  
+26   Figy, </pre><span class="citation" data-id="7228479"><a href="/opinion/7310575/figy-v-frito-lay-north-america-inc/#1083" aria-description="Citation for case: Figy v. Frito-Lay North America, Inc.">67 F. Supp. 3d at 1083</a></span><pre class="inline">.  If the products are sufficiently similar, “any concerns regarding 
+27   material differences in the products can be addressed at the class certification stage.”  Anderson, 
+1        Courts have previously found that diverse products bearing similar labels may be 
+2   considered “substantially similar.”  See, e.g., Bush v. Rust-Oleum Corp., </pre><span class="citation no-link">2021 WL 24842</span><pre class="inline">, at *1, 6 
+3   (N.D. Cal. Jan. 4, 2021) (where plaintiff purchased two Rust-Oleum products – a cleaner and a 
+4   degreaser – court held he had standing to contest an additional 13 Rust-Oleum products that he did 
+5   not purchase because the front-label representations about their “non-toxic” and “earth friendly” 
+6   properties were substantially similarly); Baum v. J-B Weld Co., LLC, </pre><span class="citation no-link">2019 WL 6841231</span><pre class="inline">, at *5 
+7   (N.D. Cal. Dec. 16, 2019) (finding plaintiff could establish substantial similarity among 24 
+8   products—epoxies, syringe epoxies, silicone sealants, gasket makers, and threadlockers—based on 
+9   similarity in packaging and/or mislabeling); Morales v. Unilever U.S., Inc., </pre><span class="citation no-link">2014 WL 1389613</span><pre class="inline">, at 
+10   *4 (E.D. Cal. Apr. 9, 2014) (the court—dealing with allegations pertaining to six shampoos and 
+11   conditioners—found that the one unpurchased product was substantially similar to the purchased 
+12   products because “the packaging of the [unpurchased product] is strikingly similar to the five 
+13   products that plaintiffs purchased . . . .”); Astiana v. Dreyer’s Grand Ice Cream, Inc., </pre><span class="citation no-link">2012 WL 
+14</span><pre class="inline">   2990766, at *13 (N.D. Cal. July 20, 2012) (the fact that “the different ice creams may ultimately 
+15   have different ingredients is not dispositive as Plaintiffs are challenging the same basic 
+16   mislabeling practice across different product flavors.”); Koh v. S.C. Johnson &amp; Son, Inc., 2010 
+</pre><span class="citation no-link">17   WL 94265</span><pre class="inline">, at *1, 3 (N.D. Cal. Jan. 6, 2010) (where the plaintiff brought claims related to 
+18   misleading labeling practices on “Windex, a multi-purpose cleaner designed for cleaning glass . . . 
+19   and Shout, a stain remover,” the court deferred a finding about substantial similarity until the class 
+20   certification stage, noting “there is no brightline rule that different product lines cannot be covered 
+21   by a single class.”).  Thus, “diverse products that bear similar or uniform labels may be considered 
+22   ‘substantially similar.’  The critical issue is whether the products are substantially similar with 
+23   respect to the alleged mislabeling.”  Baum, </pre><span class="citation no-link">2019 WL 6841231</span><pre class="inline">, at *5.   
+24        As in these cases, the Court finds that the similarity in packaging or labeling in the 
+25   products here can establish substantial similarity even among diverse products.  Maisel alleges 
+26   that all 14 products are substantially similar in the following ways: 
+
+27               a.  Defendant. All Products are manufactured, sold, marketed, 
+                b.  Brand. All Products are sold under the ecover brand name. 
+1                                                                         
+                c.  Marketing  Demographics.  All  Products  are  marketed 
+2                  directly to consumers for personal use.                
+
+3               d.  Purpose. All Products are cleaning products.          
+
+4               e.  False Advertising Claims. All Products contain one of the 
+                   Plant-Based Representations on the Products’ labeling and 
+5                  packaging. In addition, all Products prominently display the 
+                   Plant-Based  Representations  on  the  front  label  in  order 
+6                  tofocus  the  consumer’s  attention  on  the  Plant-Based 
+                   Representations.                                       
+7                                                                         
+                f.  Nature-Themed  Imagery,  Coloring,  and  Additional   
+8                  Representations. In addition, Defendant reinforces the Plant-
+                   Based Representations on each Product by displaying images 
+9                  of plants, including flowers and leaves, and by using green 
+                   coloring.  Defendant  also  reinforces  the  Plant-Based 
+10                  Representations  on  each  Product  through  the  following 
+                   additional labeling statements:                        
+11                                                                         
+                   •“Get nature on your side”                             
+12                                                                         
+                   •“Made using renewable plant-based ingredients” or “Made 
+13                  using renewable plant-based &amp; mineral ingredients”     
+
+14                  •“At Ecover, we have been pioneering green science for over 
+                   30 years to make effective, plant-based cleaners by planet-
+15                  loving people”                                         
+
+16               g.  Key  Ingredients.  All  Products  contain  non-plant-based, 
+                   chemically modified, and highly processed ingredients, in 
+17                  overlapping combinations. The Purchased Products contains 
+                   non-natural ingredients that are found in the Unpurchased 
+18                  Products. In addition, Defendant admits certain ingredients in 
+                   each Product aresynthetic.                             
+19                                                                         
+                h.  Misleading Effect. The misleading effect of the Products’ 
+20                  labels is the same for all Products.                   
+21   First Am. Compl. ¶ 54.  Based on these allegations, the Court finds Maisel has sufficiently alleged 
+22   the unpurchased Ecover products are substantially similar to the Ecover product she purchased.  
+23   Moreover, courts in the Ninth Circuit caution against too rigid an application of the standing 
+24   requirements, warning “[courts] must examine the questions realistically: [they] must reject the 
+25   temptation to parse too finely, and consider instead the context of the inquiry.”  Armstrong, 275 
+26   F.3d at 867.  While arguments about the differences between the products, including their uses and 
+27   ingredients, may be significant on class certification or summary judgment, SC Johnson’s 
+1   Costco Wholesale Corp., </pre><span class="citation" data-id="7250278"><a href="/opinion/7332360/mattero-v-costco-wholesale-corp/#1115" aria-description="Citation for case: Mattero v. Costco Wholesale Corp.">336 F. Supp. 3d 1109, 1115</a></span><pre class="inline"> (N.D. Cal. 2018) (“Facts that plaintiff did 
+2   not purchase the Laundry Detergent and the Laundry Detergent has different ingredients and that 
+3   the Laundry Detergent only shares one harmful ingredient with the Dish Soap are not in and of 
+4   themselves hurdles to plaintiff’s standing.”); Bohac, </pre><span class="citation no-link">2014 WL 1266848</span><pre class="inline">, at *12 (finding plaintiff 
+5   had standing to bring claims challenging 29 products for having the label “100% NATURAL” and 
+6   “all natural” because he claimed that all of the products “contain essentially the same 
+7   representations” and “[t]he harm that he alleges, i.e., that he was misled by that purportedly 
+8   fraudulent and incorrect representation, is the same for all 29 products.”).  SC Johnson’s motion is 
+9   therefore denied on this ground.                                      
+10        4.   Injunctive Relief                                           
+11        SC Johnson also argues Maisel lacks standing to seek injunctive relief because she does 
+12   not plan to purchase the product, as formulated, in the future.  Mot. at 19-20.   
+13        In order to establish standing to seek injunctive relief, a plaintiff “must demonstrate that he 
+14   has suffered or is threatened with a ‘concrete and particularized’ legal harm, coupled with ‘a 
+15   sufficient likelihood that he will again be wronged in a similar way.’”  Bates v. United Parcel 
+16   Serv., Inc., </pre><span class="citation" data-id="9558298"><a href="/opinion/1194810/bates-v-united-parcel-service-inc/#985" aria-description="Citation for case: Bates v. United Parcel Service, Inc.">511 F.3d 974, 985</a></span><pre class="inline"> (9th Cir. 2007) (quoting Lujan, 504 U.S. at 560; City of Los Angeles 
+17   v. Lyons, </pre><span class="citation" data-id="9429162"><a href="/opinion/110916/city-of-los-angeles-v-lyons/#111" aria-description="Citation for case: City of Los Angeles v. Lyons">461 U.S. 95, 111</a></span><pre class="inline"> (1983)).  The latter inquiry turns on whether the plaintiff has a “real 
+18   and immediate threat of repeated injury.”  </pre><span class="citation" data-id="9429162"><a href="/opinion/110916/city-of-los-angeles-v-lyons/" aria-description="Citation for case: City of Los Angeles v. Lyons">Id.</a></span><pre class="inline">  The threat of future injury cannot be “conjectural or 
+19   hypothetical” but must be “certainly impending” to constitute an injury in fact for injunctive relief 
+20   purposes.  Davidson v. Kimberly-Clark Corp., </pre><span class="citation" data-id="9015730"><a href="/opinion/9022504/davidson-v-kimberly-clark-corp/#967" aria-description="Citation for case: Davidson v. Kimberly-Clark Corp.">889 F.3d 956, 967</a></span><pre class="inline"> (9th Cir. 2018).   
+21        In the Ninth Circuit, “a previously deceived consumer may have standing to seek an 
+22   injunction against false advertising or labeling, even though the consumer now knows or suspects 
+23   that the advertising was false at the time of the original purchase, because the consumer may 
+24   suffer an ‘actual and imminent, not conjectural or hypothetical’ threat of future harm.”  </pre><span class="citation" data-id="9015730"><a href="/opinion/9022504/davidson-v-kimberly-clark-corp/" aria-description="Citation for case: Davidson v. Kimberly-Clark Corp.">Id.</a></span><pre class="inline"> at 969 
+25   (quoting Summers v. Earth Island Inst., </pre><span class="citation" data-id="9435380"><a href="/opinion/145904/summers-v-earth-island-institute/#493" aria-description="Citation for case: Summers v. Earth Island Institute">555 U.S. 488, 493</a></span><pre class="inline"> (2009)).  This harm may be 
+26   demonstrated in two ways: (1) “the consumer’s plausible allegations that she will be unable to rely 
+27   on the product’s advertising or labeling in the future, and so will not purchase the product 
+1   the product in the future, despite the fact it was once marred by false advertising or labeling, as she 
+2   may reasonably, but incorrectly, assume the product was improved.”  Id. at 969-70. 
+3        In Davidson, the plaintiff alleged false advertising of flushable wipes that were not, in fact, 
+4   “suitable for disposal down a toilet.”  Id. at 961.  The Ninth Circuit held that she had adequately 
+5   pleaded imminent or actual harm by alleging “that she ‘continues to desire to purchase wipes that 
+6   are suitable for disposal in a household toilet’; ‘would purchase truly flushable wipes 
+7   manufactured by [Kimberly–Clark] if it were possible’; ‘regularly visits stores . . . where 
+8   [Kimberly–Clark’s] “flushable” wipes are sold’; and is continually presented with Kimberly–
+9   Clark’s flushable wipes packaging but has ‘no way of determining whether the representation 
+10   “flushable” is in fact true.’”  Id. at 970-71.                        
+11        Here, Maisel alleges that if the products’ ingredients were as represented, she “would like 
+12   to purchase the Products again in the future, despite the fact that the Products were once marred by 
+13   false advertising or labeling.”  First Am. Compl. ¶ 9.  She maintains she “is at risk of reasonably, 
+14   but incorrectly, assuming that [SC Johnson] fixed the formulation of the Products such that [she] 
+15   may buy them again, believing they were no longer falsely advertised.”  Id.  Maisel further alleges 
+16   she “continues to see the Products available for purchase and desires to purchase them again if the 
+17   Plant-Based Representations were in fact true,” but she “is, and continues to be, unable to rely on 
+18   the truth of the Products’ Plant-Based Representations.”  Id. ¶ 8.  These allegations closely mirror 
+19   the Davidson plaintiff’s.  See also In re Bang Energy Drink Mktg. Litig., </pre><span class="citation no-link">2020 WL 4458916</span><pre class="inline">, at 
+20   *11 (N.D. Cal. Feb. 6, 2020) (finding standing to plead injunctive relief in false advertising case 
+21   where plaintiffs alleged they regularly visited places where defendant’s products are sold and 
+22   would purchase their products in the future if they contained sufficient quantities of the desired 
+23   ingredients, but they had no way to be certain that defendant’s ingredient representations are true 
+24   when they see the products on the store shelves); Snarr v. Cento Fine Foods Inc., </pre><span class="citation no-link">2019 WL 
+25</span><pre class="inline">   7050149, at *6 (N.D. Cal. Dec. 23, 2019) (“Plaintiffs establish threat of future harm by alleging 
+26   that they would purchase the Products in the future only if they could rely on Defendant’s 
+27   labeling, whether the ‘Certified’ mark was substantiated as D.O.P. certification or if it was 
+1   will not purchase the Products until they can rely on the Products’ representations.  Thus, the 
+2   Court holds that Plaintiffs have standing to seek injunctive relief and DENIES Defendant’s motion 
+3   to dismiss the claims for such relief.”); Shank v. Presidio Brands, Inc., </pre><span class="citation no-link">2018 WL 1948830</span><pre class="inline">, at *5 
+4   (N.D. Cal. Apr. 25, 2018) (rejecting argument that the plaintiff could read labels in the future to 
+5   determine whether products were “all natural” and holding that the plaintiff plausibly pleaded 
+6   future harm by alleging that he would buy food products in the future if they were in fact all 
+7   natural and that he would be “‘hesitant to rely’ on Presidio’s labeling due to the 
+8   misrepresentations” that he was challenging in the case).  Thus, because Maisel has not disclaimed 
+9   an interest in purchasing Ecover products in the future, the Court finds her allegations are 
+10   sufficient.  See Ries v. Arizona Beverages USA LLC, </pre><span class="citation" data-id="8766739"><a href="/opinion/8782962/ries-v-arizona-beverages-usa-llc/#533" aria-description="Citation for case: Ries v. Arizona Beverages USA LLC">287 F.R.D. 523, 533</a></span><pre class="inline"> (N.D. Cal. 2012) (“As 
+11   plaintiffs further note, were the Court to accept the suggestion that plaintiffs’ mere recognition of 
+12   the alleged deception operates to defeat standing for an injunction, then injunctive relief would 
+13   never be available in false advertising cases, a wholly unrealistic result.”); Henderson v. Gruma 
+14   Corp., </pre><span class="citation no-link">2011 WL 1362188</span><pre class="inline"> at *7 (C.D. Cal. Apr. 11, 2011) (“If the Court were to construe Article 
+15   III standing for FAL and UCL claims as narrowly as the Defendant advocates, federal courts 
+16   would be precluded from enjoining false advertising under California consumer protection laws 
+17   because a plaintiff who had been injured would always be deemed to avoid the cause of the injury 
+18   thereafter (‘once bitten, twice shy’) and would never have Article III standing.”).  SC Johnson 
+19   argues Maisel’s “claim that she is ‘at risk’ of ‘assuming that [it] fixed the formulation of the 
+20   Products such that [she] may buy them again, believing they were no longer falsely advertised’ 
+21   rings hollow.”  Mot. at 20.  At this point in the proceedings, however, the Court is obligated to 
+22   accept Maisel’s allegations as true.  See In re Bang Energy Drink Mktg. Litig., </pre><span class="citation no-link">2020 WL 4458916</span><pre class="inline">, 
+23   at *11.  Accordingly, the Court holds that Maisel has standing to seek injunctive relief.  
+24                             V.  RULE 12(B)(6)                           
+25        SC Johnson also moves for dismissal under Federal Rule of Civil Procedure 12(b)(6), 
+26   which “tests the legal sufficiency of a claim.  A claim may be dismissed only if it appears beyond 
+27   doubt that the plaintiff can prove no set of facts in support of his claim which would entitle him to 
+1   complaint must contain a “short and plain statement of the claim showing that the pleader is 
+2   entitled to relief.”  Fed. R. Civ. P. 8(a)(2).  Thus, a complaint must plead “enough facts to state a 
+3   claim to relief that is plausible on its face.”  Bell Atl. Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 570</a></span><pre class="inline"> (2007).  
+4   Plausibility does not mean probability, but it requires “more than a sheer possibility that a 
+5   defendant has acted unlawfully.”  Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#687" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662, 687</a></span><pre class="inline"> (2009).  A complaint must 
+6   therefore provide a defendant with “fair notice” of the claims against it and the grounds for relief.  
+7   Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#555" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. at 555</a></span><pre class="inline"> (quotations and citation omitted).  In considering a motion to dismiss, 
+8   the court accepts factual allegations in the complaint as true and construes the pleadings in the 
+9   light most favorable to the nonmoving party.  Manzarek v. St. Paul Fire &amp; Marine Ins. Co., 519 
+</pre><span class="citation no-link">10   F.3d 1025</span><pre class="inline">, 1031 (9th Cir. 2008).; Erickson v. Pardus, </pre><span class="citation" data-id="9435053"><a href="/opinion/145722/erickson-v-pardus/#93" aria-description="Citation for case: Erickson v. Pardus">551 U.S. 89, 93-94</a></span><pre class="inline"> (2007).   
+11   A.   UCL, FAL, and CLRA Claims                                        
+12        Maisel’s first three causes of actions are brought under the UCL, FAL, and CLRA for 
+13   allegedly misleading statements on the product packaging.  The UCL prohibits any “unlawful, 
+14   unfair or fraudulent business act or practice.”  </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline">.  The FAL 
+15   prohibits any “unfair, deceptive, untrue, or misleading advertising.”  </pre><span class="citation no-link">Id.</span><pre class="inline"> § 17500.  “Any violation 
+16   of the false advertising law” necessarily violates the UCL.  Williams v. Gerber Prods. Co., 552 
+</pre><span class="citation" data-id="9486481"><a href="/opinion/664094/james-gooden-v-michael-v-neal/#938" aria-description="Citation for case: James Gooden v. Michael v. Neal">17   F.3d 934, 938</a></span><pre class="inline"> (9th Cir. 2008) (internal quotation marks omitted).  The CLRA prohibits “unfair 
+18   methods of competition and unfair or deceptive acts or practices.”  </pre><span class="citation no-link">Cal. Civ. Code § 1770</span><pre class="inline">.  For 
+19   example, “[a]dvertising goods or services with intent not to sell them as advertised” is an unlawful 
+20   practice.  </pre><span class="citation no-link">Id.</span><pre class="inline"> § 1770(a)(9).                                          
+21        SC Johnson argues Maisel fails to adequately allege the product labels are misleading 
+22   under these statutes because her interpretations of “plant-based ingredients” and “plant-based and 
+23   mineral ingredients” do not reflect a reasonable consumer’s understanding of the terms.  Mot. at 
+24   13-14.  It further argues the claims fail because they are subject to the heightened pleading 
+25   standard under Rule 9, and because Maisel does not allege the products lack plant-based or 
+26   mineral ingredients.  Id. at 12.                                      
+27        1.   Rule 9(b) Heightened Pleading Standard                      
+1   particularity the circumstances regarding fraud or mistake.”  Fed. R. Civ. P. 9(b).  A claim sounds 
+2   in fraud if the plaintiff alleges “a unified course of fraudulent conduct and rel[ies] entirely on that 
+3   course of conduct as the basis of a claim.”  Vess v. Ciba-Geigy Corp. USA, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d 1097</a></span><pre class="inline">, 1103 
+4   (9th Cir. 2003).  The context surrounding the fraud must “be ‘specific enough to give defendants 
+5   notice of the particular misconduct . . . so that they can defend against the charge and not just deny 
+6   that they have done anything wrong.’”  Kearns v. Ford Motor Co., </pre><span class="citation" data-id="1208595"><a href="/opinion/1208595/kearns-v-ford-motor-co/#1124" aria-description="Citation for case: Kearns v. Ford Motor Co.">567 F.3d 1120, 1124</a></span><pre class="inline"> (9th Cir. 
+7   2009) (quoting Bly-Magee v. California, </pre><span class="citation" data-id="6991279"><a href="/opinion/7085931/bly-magee-v-california/#1019" aria-description="Citation for case: Bly-Magee v. California">236 F.3d 1014, 1019</a></span><pre class="inline"> (9th Cir. 2001)).  Thus, 
+8   “[a]verments of fraud must be accompanied by ‘the who, what, when, where, and how’ of the 
+9   misconduct charged.”  Vess, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d at 1106</a></span><pre class="inline"> (quoting Cooper v. Pickett, </pre><span class="citation" data-id="6964204"><a href="/opinion/7060249/cooper-v-pickett/#627" aria-description="Citation for case: Cooper v. Pickett">137 F.3d 616, 627</a></span><pre class="inline"> (9th 
+10   Cir. 1997)).                                                          
+11        Rule 9(b)’s heightened pleading standard applies to UCL, FAL, and CLRA causes of 
+12   actions because they “are ‘grounded in fraud’ or ‘sound in fraud.’”  In re Apple &amp; AT &amp; T iPad 
+13   Unlimited Data Plan Litig., </pre><span class="citation" data-id="2178527"><a href="/opinion/2178527/in-re-apple-at-t-ipad-unlimited-data-plan-litigation/#1075" aria-description="Citation for case: In Re Apple &amp; AT &amp; T Ipad Unlimited Data Plan Litigation">802 F. Supp. 2d 1070, 1075</a></span><pre class="inline"> (N.D. Cal. 2011) (quoting Kearns, 567 
+14   F.3d at 1125).  Maisel alleges SC Johnson used several false or misleading labels to market and 
+15   sell the Ecover products.  Because these allegations sound in fraud, they must meet the heightened 
+16   pleading standards by alleging the “the who, what, when, where, and how.”  Kearns, </pre><span class="citation" data-id="1208595"><a href="/opinion/1208595/kearns-v-ford-motor-co/" aria-description="Citation for case: Kearns v. Ford Motor Co.">567 F.3d at 
+17</a></span><pre class="inline">   1124–25 (quoting Vess, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1106" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d at 1106</a></span><pre class="inline">).  As such, the Court must ensure Maisel meets the Rule 
+18   9(b) threshold before assessing whether she alleges sufficient facts to demonstrate a reasonable 
+19   consumer would be deceived by the advertisements.                     
+20        Maisel alleges that in early 2020 (the “when”), she (the “who”) purchased Ecover 
+21   Dishwasher Tablets at Andronicos Community Market in Berkeley, California (the “where”).  
+22   First Am. Compl. ¶¶ 8.  She asserts that SC Johnson misled customers through “falsely and 
+23   misleadingly labels certain of its ‘ecover’ brand cleaning products with the following claims: 
+24   ‘Plant-based ingredients’; ‘With plant-based ingredients’; ‘Plant-based &amp; mineral ingredients’; or 
+25   ‘With plant-based and mineral ingredients’” (the “what”).  Id. ¶ 1.  Maisel expands on the “what” 
+26   by detailing how SC Johnson reinforces the plant-based representations on each product by 
+27   displaying images of plants, including flowers and leaves, and by using green coloring, and by 
+1   representations stated on the product’s label and packaging, which leads consumers, including 
+2   herself, “to believe that the Products only contain ingredients that come from plants and/or from 
+3   plants and minerals, and that were not subjected to chemical modification or processing, which 
+4   materially altered the ingredients’ original plant-based or mineral composition.  As such, 
+5   reasonable consumers, including Plaintiff, believe the Products only contain natural ingredients” 
+6   (the “how”).  Id. ¶¶ 8, 70.  Based on these allegations, the Court finds Maisel “set[s] forth more 
+7   than the neutral facts necessary to identify the transaction”; indeed, she “set[s] forth what is false 
+8   or misleading about a statement, and why it is false.”  Vess, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1106" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d at 1106</a></span><pre class="inline">; see also Zeiger, 304 
+9   F. Supp. 3d at 849; Clancy v. The Bromley Tea Co., </pre><span class="citation" data-id="8773417"><a href="/opinion/8789488/clancy-v-bromley-tea-co/#576" aria-description="Citation for case: Clancy v. Bromley Tea Co.">308 F.R.D. 564, 576</a></span><pre class="inline"> (N.D. Cal. 2013); 
+10   Loomis v. Slendertone Distribution, Inc., </pre><span class="citation no-link">420 F. Supp. 3d 1046</span><pre class="inline">, 1079 (S.D. Cal. 2019); Shank, 
+11   </pre><span class="citation no-link">2018 WL 510169</span><pre class="inline">, at *8; Przybylak v. Bissell Better Life LLC, </pre><span class="citation no-link">2019 WL 8060076</span><pre class="inline">, at *4 (C.D. Cal. 
+12   July 19, 2019); Balser v. Hain Celestial Grp., Inc., </pre><span class="citation" data-id="3179344"><a href="/opinion/3179362/alessandra-balser-v-the-hain-celestial-group/#695" aria-description="Citation for case: Alessandra Balser v. the Hain Celestial Group">640 F. App’x 694, 695-96</a></span><pre class="inline"> (9th Cir. 2016). 
+13        Accordingly, Maisel pleads her UCL, FAL, and CLRA causes of action with sufficient 
+14   particularity to place SC Johnson on notice of the circumstances constituting the alleged fraud. 
+15        2.   Reasonable Consumer Test                                    
+16        To state a claim under the UCL, FAL, and CLRA, Maisel must allege facts satisfying the 
+17   “reasonable consumer” standard, i.e. that members of the public are likely to be deceived.1  
+</pre><span class="citation no-link">18   Williams, 552</span><pre class="inline"> F.3d at 938.  “‘Likely to deceive’ implies more than a mere possibility that the 
+19   advertisement might conceivably be misunderstood by some few consumers viewing it in an 
+20   unreasonable manner.”  Lavie v. Procter &amp; Gamble Co., </pre><span class="citation" data-id="9749498"><a href="/opinion/2283365/lavie-v-procter-gamble-co/#508" aria-description="Citation for case: Lavie v. Procter &amp; Gamble Co.">105 Cal. App. 4th 496, 508</a></span><pre class="inline"> (2003).  
+21   “Rather, the phrase indicates that the ad is such that it is probable that a significant portion of the 
+22   general consuming public or of targeted consumers, acting reasonably in the circumstances, could 
+23   be misled.”  </pre><span class="citation" data-id="9749498"><a href="/opinion/2283365/lavie-v-procter-gamble-co/" aria-description="Citation for case: Lavie v. Procter &amp; Gamble Co.">Id.</a></span><pre class="inline">  “In determining whether a statement is misleading under the statute, ‘the primary 
+24   evidence in a false advertising case is the advertising itself.’”  Colgan v. Leatherman Tool Grp., 
+25   Inc., </pre><span class="citation" data-id="2258800"><a href="/opinion/2258800/colgan-v-leatherman-tool-group-inc/#679" aria-description="Citation for case: Colgan v. Leatherman Tool Group, Inc.">135 Cal. App. 4th 663, 679</a></span><pre class="inline"> (2006), as modified on denial of reh’g (Jan. 31, 2006) (quoting 
+26   Brockey v. Moore, </pre><span class="citation" data-id="2261722"><a href="/opinion/2261722/brocket-v-moore/#110" aria-description="Citation for case: BROCKET v. Moore">107 Cal. App. 4th 86, 110</a></span><pre class="inline"> (2003)).                  
+27                                                                         
+1        Whether a business practice is deceptive is an issue of fact not generally appropriate for 
+2   decision on a motion to dismiss.  See, e.g., Williams, 552 F.3d at 938-39 (citing Linear Tech. 
+3   Corp. v. Applied Materials, Inc., </pre><span class="citation" data-id="5664889"><a href="/opinion/5809491/linear-technology-corp-v-applied-materials-inc/#134" aria-description="Citation for case: Linear Technology Corp. v. Applied Materials, Inc.">152 Cal. App. 4th 115, 134-35</a></span><pre class="inline"> (2007)).  The Ninth Circuit has 
+4   emphasized that under the reasonable consumer test, it is a “rare situation in which granting a 
+5   motion to dismiss is appropriate” because “it raises questions of fact.”  Reid v. Johnson &amp; 
+</pre><span class="citation no-link">6   Johnson, 780</span><pre class="inline"> F.3d 952, 958 (9th Cir. 2015); Williams, 552 F.3d at 939.  Thus, for purposes of this 
+7   order, the Court need only decide whether it is plausible that “‘a significant portion of the general 
+8   consuming public or of targeted consumers, acting reasonably in the circumstances, could be 
+9   misled.’”  Ebner v. Fresh, Inc., </pre><span class="citation" data-id="8414293"><a href="/opinion/8442970/ebner-v-fresh-inc/#965" aria-description="Citation for case: Ebner v. Fresh, Inc.">838 F.3d 958, 965</a></span><pre class="inline"> (9th Cir. 2016).  The Court finds that it is.   
+10        In Williams, the Ninth Circuit reversed dismissal of UCL, FAL, and CLRA claims.  552 
+11   F.3d at 940.  The plaintiff alleged that the use of “Fruit Juice” on a snack accompanied with 
+12   images of fruit was deceptive because the snack “contained no fruit juice from any of the fruits 
+13   pictured on the packaging and because the only juice contained in the product was white grape 
+14   juice from concentrate.”  Id. at 936.  The plaintiff also challenged language on the side panel of 
+15   the packaging that the snack “was made ‘with real fruit juice and other all natural ingredients,’ 
+16   even though the two most prominent ingredients were corn syrup and sugar” and was “one of a 
+17   variety of nutritious Gerber Graduates foods and juices.”  Id.  The Ninth Circuit disagreed with the 
+18   district court’s assessment that “no reasonable consumer upon review of the package as a whole 
+19   would conclude that Snacks contains juice from the actual and fruit-like substances displayed on 
+20   the packaging particularly where the ingredients are specifically identified.”  Id. at 939.  Instead, 
+21   the Ninth Circuit noted that consumers should not “be expected to look beyond misleading 
+22   representations on the front of the box to discover the truth from the ingredient list in small print 
+23   on the side of the box.”  Id.                                         
+24        Maisel alleges SC Johnson uses several false or misleading phrases that, taken together, 
+25   cause reasonable consumers to “believe the Products only contain ingredients that come from 
+26   plants and/or from plants and minerals, and that are not subject to chemical modification or 
+27   processing, which materially alters the ingredients’ original plant-based or mineral composition.”  
+1   mineral ingredients, and in that sense, certain aspects of the packaging could be considered 
+2   accurate.  “In applying the reasonable consumer standard, however, the packaging must be 
+3   considered in context.”  Tucker v. Post Consumer Brands, LLC, </pre><span class="citation no-link">2020 WL 1929368</span><pre class="inline">, at *5 (N.D. 
+4   Cal. Apr. 21, 2020).  For example, in Tucker, plaintiffs alleged that the brand name “Honey 
+5   Bunches of Oats” and the images on the cereal’s packaging deceptively convey that honey is a 
+6   primary or significant sweetener in the cereal.  </pre><span class="citation no-link">Id.</span><pre class="inline">  In denying Post’s motion to dismiss the claims 
+7   on the ground that no reasonable consumer would understand the packaging to make a 
+8   representation about the amount of honey in the cereal, the court considered the packaging in 
+9   context, including an image of a radiating sun, the words “HONEY BUNCHES OF OATS,” and a 
+10   honey dipper dripping honey.  </pre><span class="citation no-link">Id.</span><pre class="inline">  Although the package did not make any objective 
+11   representations about the amount of honey in the cereal, “a reasonable consumer could see the 
+12   prominent honey-related words and imagery and be deceived into thinking the cereal contained 
+13   relatively less refined sugar and more honey.  If so misled, the reasonable consumer is not 
+14   expected to pick up the product and examine the fine print on the ingredient list.”  </pre><span class="citation no-link">Id.</span><pre class="inline"> 
+15        Here, too, the Court must consider the packaging in context.  The Ecover brand cleaning 
+16   products include the following label claims: “Plant-based ingredients”; “With plant-based 
+17   ingredients”; “Plant-based &amp; mineral ingredients”; or “With plant-based and mineral ingredients.”  
+18   First. Am. Compl. ¶¶ 1, 18-31.  The products also include phrases such as “Get nature on your 
+19   side,” “Made using renewable plant-based ingredients,” “Made using renewable plant-based &amp; 
+20   mineral ingredients,” and/or “At Ecover, we have been pioneering green science for over 30 years 
+21   to make effective, plant-based cleaners by planet-loving people,” as well as by displaying images 
+22   of plants and by using green coloring.  </pre><span class="citation no-link">Id. ¶¶ 1, 16</span><pre class="inline">.  The products also display images of plants, 
+23   including flowers and leaves, and use green coloring.  </pre><span class="citation no-link">Id. ¶¶ 1, 18-31</span><pre class="inline">.  Maisel’s allegations 
+24   regarding a reasonable consumers’ understanding of these plant-based representations is consistent 
+25   with cases concerning similar plant-based representations.  For example, in Przybylak, at issue 
+26   were a number of cleaning and personal care products labeled and advertised as “plant-derived,” 
+27   “made with ‘plant-derived cleaning agents’ or ‘100% plant-derived cleaning agents,’” among 
+1   false and misleading because “Defendant’s products are not natural or made only with plant-
+2   derived agents, and instead contain various unnatural or synthetic ingredients and cleaning 
+3   agents.”  </pre><span class="citation no-link">Id.</span><pre class="inline">  Defendant, however, argued “no reasonable consumer would believe Defendant to 
+4   have guaranteed its products to be 100% natural and lacking any synthetic ingredients.”  </pre><span class="citation no-link">Id. at *5</span><pre class="inline">.  
+5   In rejecting defendant’s arguments, the court explained:              
+
+6             Whether or not Defendant’s representations actually are true or not 
+              cannot be determined on a motion to dismiss.  Plaintiffs plausibly 
+7             allege that Defendant falsely or misleadingly represented that its 
+              products were natural or plant-derived, that a reasonable consumer 
+8             would  rely  on  those  representations  in  purchasing  Defendant’s 
+              products, and that a reasonable consumer would understand those 
+9             representations to mean that the products did not contain unnatural or 
+              synthetic ingredients.                                      
+10                                                                         
+11   </pre><span class="citation no-link">Id. at *6</span><pre class="inline">.  Accordingly, the court denied defendant’s motion to dismiss plaintiffs’ claims under the 
+12   CLRA, UCL, and FAL.  </pre><span class="citation no-link">Id.</span><pre class="inline">                                              
+13        Similarly, in Kutza v. Williams-Sonoma, Inc., plaintiff asserted that 60 cleaning and 
+14   personal care products labeled and marketed as “plant-based,” “Active Ingredients Derived from 
+15   Natural Sources,” “naturally derived,” and “natural,” were “misleading because the products in 
+16   fact contain “unnatural, synthetic, and/or chemical ingredients.”  </pre><span class="citation no-link">2018 WL 5886611</span><pre class="inline">, at *1 (N.D. 
+17   Cal. Nov. 9, 2018).  Defendant contended that “a reasonable consumer would understand the claim 
+18   of ‘natural’ only applied to the active ingredients and/or that ‘derived from natural sources’ is not 
+19   the equivalent of a representation that the product only contains ‘natural’ ingredients, active or 
+20   inactive.”  </pre><span class="citation no-link">Id. at *4</span><pre class="inline"> (emphasis in original).  The court disagreed, emphasizing “[defendant] asks 
+21   too much . . . when it seeks a determination as a matter of law on the pleadings (even including 
+22   photographs of the labels) that no reasonable consumer would be misled by the cumulative effects 
+23   of the labeling and marketing alleged in the complaint.”  </pre><span class="citation no-link">Id.</span><pre class="inline">  Accordingly, the court denied 
+24   defendant’s motion to dismiss plaintiff’s consumer protection claims.  </pre><span class="citation no-link">Id. at *5</span><pre class="inline">. 
+25        The same result was reached in Shank v. Presidio Brands, Inc., where defendant sought “to 
+26   capture a growing segment of consumers who will pay a premium for ‘natural, ‘naturally derived’, 
+27   and plant-based products’” by labeling its personal hygiene products as “naturally-derived,” 
+1   2018).  However, the court noted the products also “contain numerous ingredients that are 
+2   artificially-engineered through multiple synthetic processes rendering the resulting ingredients and 
+3   its components unnatural and not naturally-derived.”  </pre><span class="citation no-link">Id. at *2</span><pre class="inline"> (citation omitted).  The court 
+4   agreed with plaintiff’s allegation that the products’ labeling and advertising was false and 
+5   misleading, holding that “[t]he statement on the labels of [the] products ‘could easily be 
+6   interpreted by consumers as a claim that all the ingredients in the product[s] were natural,’ which 
+7   [plaintiff] has plausibly alleged is false.”  </pre><span class="citation no-link">Id.</span><pre class="inline"> at *9 (citing Williams, 552 F.3d at 939). 
+8        Gregorio v. Clorox Co., </pre><span class="citation no-link">2018 WL 732673</span><pre class="inline">, at *1 (N.D. Cal. Feb. 6, 2018), involved a 
+9   variety of cleaning products labeled “naturally derived,” which plaintiffs alleged reasonable 
+10   consumers understood as meaning the products “did not contain any synthetic or non-natural 
+11   ingredients.”  However, the products also contained “synthetic and non-natural ingredients.”  </pre><span class="citation no-link">Id.</span><pre class="inline">  
+12   In rejecting defendant’s argument that the term “naturally derived” would not mislead reasonable 
+13   consumers, the court held, “[i]t is not unreasonable as a matter of law to expect a product labeled 
+14   ‘naturally derived’ to contain no synthetic ingredients . . . [a]nd “the phrase [‘naturally derived’] 
+15   may be tantamount to, or at least could reasonably be understood to mean ‘all natural’ or ‘100% 
+16   natural.’”  </pre><span class="citation no-link">Id. at *4</span><pre class="inline"> (citation omitted).  Therefore, the court found plaintiff’s allegations plausible 
+17   under the reasonable consumer test.  </pre><span class="citation no-link">Id.</span><pre class="inline">                              
+18        Given the weight of authority finding plausible similar plant-based representations and 
+19   analogous representations, such as “naturally derived,” the Court finds Maisel’s allegations 
+20   plausible under the reasonable consumer test.  See Lona’s Lil Eats, LLC v. DoorDash, Inc., 2021 
+</pre><span class="citation no-link">21   WL 151978</span><pre class="inline">, at *4 (N.D. Cal. Jan. 18, 2021) (“Plausibility does not mean probability, but it 
+22   requires more than a sheer possibility that a defendant has acted unlawfully.”) (simplified).  SC 
+23   Johnson argues that “no reasonable consumer would be misled by the accurate claim that the 
+24   products contain plant-based and mineral ingredients.”  Mot. at 13.  However, although the 
+25   products do not make any objective representations about the amount of plant-based and mineral 
+26   ingredients, it is plausible that a reasonable consumer could be deceived into thinking the products 
+27   only contain ingredients that come from plants and/or from plants and minerals.  Tucker, </pre><span class="citation no-link">2020 WL 
+1</span><pre class="inline">   amount of honey in the cereal, a reasonable consumer could see the prominent honey-related 
+2   words and imagery and be deceived into thinking the cereal contained relatively less refined sugar 
+3   and more honey.”).  SC Johnson also argues the products’ “back labels also clearly state the 
+4   Products contain water, which all consumers know is neither a plant nor a mineral.”  Mot. at 14.  
+5   However, a reasonable consumer “is not expected to pick up the product and examine the fine 
+6   print on the ingredient list.”  Tucker, </pre><span class="citation no-link">2020 WL 1929368</span><pre class="inline">, at *5 (citing Williams, 552 F. 3d at 939-
+7   40 (“We do not think that the FDA requires an ingredient list so that manufacturers can mislead 
+8   consumers and then rely on the ingredient list to correct those misinterpretations and provide a 
+9   shield for liability for the deception.”).  Accordingly, SC Johnson’s motion to dismiss is denied on 
+10   this ground.                                                          
+11   B.   Breach of Express Warranty                                       
+12        In her fourth cause of action, Maisel alleges SC Johnson purports, through the products’ 
+13   labeling and advertising, to create express warranties that they only contain ingredients that come 
+14   from plants and/or from plants and minerals, and that despite its claims about the nature of the 
+15   products, they contain numerous ingredients that do not come from plants or minerals.  First Am. 
+16   Compl. ¶¶ 134-35.  As a result, Maisel alleges SC Johnson breached its express warranties about 
+17   the products because they do not conform to its affirmations and promises.  Id. ¶ 135.  As a direct 
+18   and proximate result of SC Johnson’s breach of express warranty, Maisel and members of the 
+19   class were harmed in the amount of the purchase price they paid for the and “economic losses and 
+20   other damages including, but not limited to, the amounts paid for the Products, and any interest 
+21   that would have accrued on those monies, in an amount to be proven at trial.”  Id. ¶ 136. 
+22        SC Johnson argues Maisel fails to state a breach of express warranty claim for two reasons.  
+23   First, it argues “plant-based ingredients,” “with plant-based ingredients,” “plant-based and mineral 
+24   ingredients,” and “with plant-based and mineral ingredients” are true statements about the 
+25   products, as they contain plant-based or plant-based and mineral ingredients.  Mot. at 21.  It 
+26   maintains Maisel got what she paid for—dishwasher tablets that contain plant-based and mineral 
+27   ingredients.  Id.  Second, it argues Maisel’s interpretation of the statements is unreasonable and 
+1   consumers that the Products only contain ingredients that (1) come from plants and/or from plants 
+2   and animals; and (2) are not subject to chemical modification or processing, which materially 
+3   alters the ingredients’ original plant-based or mineral composition.”  Id. at 21-22 (emphasis in 
+4   original).                                                            
+5        Under California law, “a plaintiff asserting a breach of warranty claim must allege facts 
+6   sufficient to show that: (1) the seller’s statements constitute an affirmation of fact or promise or a 
+7   description of the goods; (2) the statement was part of the basis of the bargain; and (3) the 
+8   warranty was breached.”  Mattero, </pre><span class="citation" data-id="7250278"><a href="/opinion/7332360/mattero-v-costco-wholesale-corp/" aria-description="Citation for case: Mattero v. Costco Wholesale Corp.">336 F. Supp. 3d at 1115</a></span><pre class="inline"> (citing Weinstat v. Dentsply Internat., 
+9   Inc., </pre><span class="citation" data-id="2255890"><a href="/opinion/2255890/weinstat-v-dentsply-international-inc/#1227" aria-description="Citation for case: Weinstat v. Dentsply International, Inc.">180 Cal. App. 4th 1213, 1227</a></span><pre class="inline"> (2010)).  Statements on a product’s label are part of the bargain 
+10   between buyer and seller, Weinstat, </pre><span class="citation" data-id="2255890"><a href="/opinion/2255890/weinstat-v-dentsply-international-inc/#1227" aria-description="Citation for case: Weinstat v. Dentsply International, Inc.">180 Cal. App. 4th at 1227</a></span><pre class="inline">, and create express warranties, 
+11   Mattero, </pre><span class="citation" data-id="7250278"><a href="/opinion/7332360/mattero-v-costco-wholesale-corp/" aria-description="Citation for case: Mattero v. Costco Wholesale Corp.">336 F. Supp. 3d at 1115</a></span><pre class="inline">-16 (citing several cases).  Courts look to the context of the 
+12   statement to determine whether an express warranty has been made, including the label.  </pre><span class="citation" data-id="7250278"><a href="/opinion/7332360/mattero-v-costco-wholesale-corp/" aria-description="Citation for case: Mattero v. Costco Wholesale Corp.">Id.</a></span><pre class="inline"> at 
+13   1116 (holding the “environmentally responsible” claim on defendant’s dish soap and laundry 
+14   detergent product labels constitutes an affirmative fact or promise that the products do not have 
+15   “unnatural, harmful, and toxic chemicals”); Jones v. Nutiva, Inc., </pre><span class="citation no-link">2016 WL 5210935</span><pre class="inline">, at *25 (N.D. 
+16   Cal. Sept. 22, 2016) (finding plaintiff adequately alleged that a virgin coconut oil label, in its full 
+17   context, constitutes an affirmative fact or promise).  “The determination as to whether a particular 
+18   statement is an expression of opinion or an affirmation of a fact is often difficult, and frequently is 
+19   dependent upon the facts and circumstances existing at the time the statement is made.”  Keith v. 
+</pre><span class="citation no-link">20   Buchanan, 173</span><pre class="inline"> Cal. App. 3d 13, 21 (1985).  As such, “courts liberally construe sellers’ 
+21   affirmations of quality in favor of injured consumers.”  Jones, </pre><span class="citation no-link">2016 WL 5210935</span><pre class="inline">, at *9 
+22   (simplified).                                                         
+23        “[C]ourts in this district regularly hold that stating a claim under California consumer 
+24   protection statutes is sufficient to state a claim for express warranty.”  Hadley, 273 F. Supp. 3d at 
+25   1095 (citing Tsan v. Seventh Generation, Inc., </pre><span class="citation no-link">2015 WL 6694104</span><pre class="inline">, at *7 (N.D. Cal. Nov. 3, 2015) 
+26   (because plaintiffs satisfied the reasonable consumer standard with respect to their California 
+27   consumer protection claims, the same “allegations [we]re sufficient to state a claim for breach of 
+</pre><span class="citation no-link">1   Cal. 2014</span><pre class="inline">) (denying motion to dismiss breach of express warranty claim “for the same reasons as 
+2   the consumer protection and misrepresentation-based claims”).  Accordingly, because Maisel’s 
+3   “allegations are sufficient to state a claim under the reasonable consumer standard, they are 
+4   likewise sufficient to state a claim for breach of express warranty.”  Cooper v. Curallux LLC, 2020 
+</pre><span class="citation no-link">5   WL 4732193</span><pre class="inline">, at *7 (N.D. Cal. Aug. 14, 2020).  SC Johnson’s motion to dismiss Maisel’s fourth 
+6   cause of action for breach of express warranty is therefore denied.   
+7   C.   Unjust Enrichment2                                               
+8        In her fifth cause of action, Maisel alleges that by purchasing the Ecover products, she and 
+9   members of the class conferred a benefit on SC Johnson in the form of the purchase price, SC 
+10   Johnson had knowledge of such benefit, and its acceptance and retention of the benefit is 
+11   inequitable and unjust because the benefit was obtained by its fraudulent and misleading 
+12   representations and omissions.  First Am. Compl. ¶¶ 140-42.  SC Johnson argues Maisel cannot 
+13   state a claim for unjust enrichment because she received the benefit of the bargain – a product that 
+14   contains plant-based and mineral ingredients.  Mot. at 22.            
+15        “To allege unjust enrichment as an independent cause of action, a plaintiff must show that 
+16   the defendant received and unjustly retained a benefit at the plaintiff’s expense.”  ESG Capital 
+17   Partners, 828 F.3d at 1038.  Restitution is not ordinarily available to a plaintiff unless “‘the 
+18   benefits were conferred by mistake, fraud, coercion or request; otherwise, though there is 
+19   enrichment, it is not unjust.’”  Nibbi Bros., Inc. v. Home Fed. Sav. &amp; Loan Assn., </pre><span class="citation no-link">205 Cal. App. 3d 
+20</span><pre class="inline">   1415, 1422 (Cal. Ct. App. 1988) (quoting 1 Witkin, Summary of Cal. Law (9th ed. 1987) 
+21   Contracts, § 97, p. 126.)).                                           
+22        As Maisel’s unjust enrichment claim is based on the same alleged misrepresentations about 
+23   SC Johnson’s products as her other claims, the Court finds they are sufficient to state a claim for 
+24   unjust enrichment.  See Rice-Sherman v. Big Heart Pet Brands, Inc., </pre><span class="citation no-link">2020 WL 1245130</span><pre class="inline">, at *13 
+25                                                                         
+    2 The Ninth Circuit has explained that “[w]hile California case law appears unsettled on the 
+26                                                                         
+    availability of such a cause of action, this Circuit has construed the common law to allow an 
+    unjust enrichment cause of action through quasi-contract.  We therefore allow the cause of action, 
+27                                                                         
+    as we believe it states a claim for relief as an independent cause of action or as a quasi-contract 
+1   (N.D. Cal. Mar. 16, 2020) (denying motion to dismiss unjust enrichment claim where plaintiffs 
+2   sufficiently pled fraud and breach of warranty claims); Snarr, </pre><span class="citation no-link">2019 WL 7050149</span><pre class="inline">, at *7-8 (denying 
+3   motion to dismiss unjust enrichment claim because plaintiffs’ allegations sufficiently state a claim 
+4   under the fraudulent prong of the UCL); Przybylak, </pre><span class="citation no-link">2019 WL 8060076</span><pre class="inline">, at *9 (denying motion to 
+5   dismiss unjust enrichment claim where plaintiffs alleged they conferred benefits on defendant by 
+6   purchasing its products, and that defendant was unjustly enriched due to their reliance on its 
+7   misrepresentations); Brenner v. Procter &amp; Gamble Co., </pre><span class="citation no-link">2016 WL 8192946</span><pre class="inline">, at *7-8 (C.D. Cal. 
+8   Oct. 20, 2016) (“Because . . . Plaintiff plausibly alleges that a consumer could have been enticed to 
+9   purchase Defendant’s product based on the allegedly misleading label, . . . Plaintiff states a quasi-
+10   contract claim.”).  Accordingly, SC Johnson’s motion to dismiss Maisel’s fifth cause of action is 
+11   denied.                                                               
+12   D.   Whether Plaintiff’s UCL, FAL, CLRA and Unjust Enrichment Claims Fail Because 
+         She Does Not Allege She Lacks an Adequate Remedy At Law          
+13                                                                         
+14        SC Johnson argues Maisel’s UCL, FAL, and unjust enrichment claims must be dismissed 
+15   in their entirety because they provide exclusively equitable relief, not damages, and Maisel does 
+16   not and cannot establish she lacks an adequate remedy at law.  Mot. at 22-23.  However, the Court 
+17   follows other courts in this district that find no bar to the pursuit of alternative remedies at the 
+18   pleadings stage.  See, e.g., Arora v. GNC Holdings, Inc., </pre><span class="citation no-link">2019 WL 6050750</span><pre class="inline">, at *13 (N.D. Cal. 
+19   Nov. 15, 2019); Madani v. Volkswagen Grp. of Am., Inc., </pre><span class="citation no-link">2019 WL 3753433</span><pre class="inline">, at *9 (N.D. Cal. 
+20   Aug. 8, 2019); Luong v. Subaru of America, Inc., </pre><span class="citation no-link">2018 WL 2047646</span><pre class="inline">, at * 7 (N.D. Cal. May 2, 
+21   2018); Aberin v. Am. Honda Motor Co., Inc., </pre><span class="citation no-link">2018 WL 1473085</span><pre class="inline">, at *9 (N.D. Cal. Mar. 26, 2018); 
+22   Adkins v. Comcast Corp., </pre><span class="citation no-link">2017 WL 3491973</span><pre class="inline">, at *3 (N.D. Cal. Aug. 1, 2017).  The Court therefore 
+23   denies the motion to dismiss on this ground.                          
+24                       VI.  PERSONAL JURISDICTION                        
+25        Finally, SC Johnson argues the Court would lack personal jurisdiction over the non-
+26   California class members Maisel purports to represent.  Mot. at 24-26.  The Court need not reach 
+27   this argument, however, because it has pendent jurisdiction over Maisel’s class claims. 
+1   economy, avoidance of piecemeal litigation, and overall convenience of the parties . . . .”  Action 
+2   Embroidery Corp. v. Atl. Embroidery, Inc., </pre><span class="citation multiple-matches"><a href="/c/F.3d/368/1174/">368 F.3d 1174</a></span><pre class="inline">, 1181 (9th Cir. 2004).  “When a 
+3   defendant must appear in a forum to defend against one claim, it is often reasonable to compel that 
+4   defendant to answer other claims in the same suit arising out of a common nucleus of operative 
+5   facts.”  Id.  The Court has discretion to exercise “pendent personal jurisdiction over a defendant 
+6   with respect to a claim for which there is no independent basis of personal jurisdiction so long as it 
+7   arises out of a common nucleus of operative facts with a claim in the same suit over which the 
+8   court does have personal jurisdiction.”  Id. at 1180.                 
+9        Here, the Court finds Maisel’s claims arise out of the same nucleus of operative facts as the 
+10   putative out-of-state class members because they involve the same products and the same alleged 
+11   misrepresentations; the only difference between the claims is where the products were purchased.  
+12   See Sloan v. Gen. Motors LLC, </pre><span class="citation" data-id="7246128"><a href="/opinion/7328212/sloan-v-gen-motors-llc/#860" aria-description="Citation for case: Sloan v. Gen. Motors LLC">287 F. Supp. 3d 840, 860-63</a></span><pre class="inline"> (N.D. Cal. 2018), order clarified, 
+13   </pre><span class="citation no-link">2018 WL 1156607</span><pre class="inline"> (N.D. Cal. Mar. 5, 2018) (exercising pendent jurisdiction over non-resident 
+14   plaintiffs’ claims where they “overlap[ped] substantially with the claims . . . already before this 
+15   Court, arising out of the same nucleus of operative facts,” and doing so would “impose only a de 
+16   minimis burden on [defendant]”); Allen v. ConAgra Foods, Inc., </pre><span class="citation no-link">2018 WL 6460451</span><pre class="inline">, at *8 (N.D. 
+17   Cal. Dec. 10, 2018) (exercising pendent jurisdiction over claims by nonresident named plaintiffs 
+18   in a putative nationwide food-labeling class action).  Further, “[d]oing so will serve the interests of 
+19   ‘judicial economy, avoidance of piecemeal litigation, and overall convenience of the parties’ by 
+20   preventing the need for multiple such actions in other states and potentially subjecting [SC 
+21   Johnson] to inconsistent obligations.”  Allen, </pre><span class="citation no-link">2018 WL 6460451</span><pre class="inline">, at *8 (citing Action Embroidery, 
+22   368 F.3d at 1181).  SC Johnson “is already before this court to defend against [Maisel’s] claims, 
+23   and the additional burden is de minimis.”  Id. (finding pendent jurisdiction appropriate because the 
+24   California plaintiff, not the nonresident plaintiffs, brought the defendant to court in California). 
+25        Accordingly, the Court exercises its discretion to assert pendent jurisdiction over SC 
+26   Johnson as to the non-California class members’ claims.               
+27                                                                         
+    1                                   VII.   CONCLUSION 
+    2          For the reasons stated above, the Court DENIES SC Johnson’s motion to dismiss.  The 
+    3    Court shall conduct a case management conference on June 3, 2021 at 10:00 a.m. by Zoom video 
+    4    conference.  The webinar link and instructions are located at 
+    5    https://cand.uscourts.gov/judges/hixson-thomas-s-tsh/,  This conference shall be attended by lead 
+    6 ||  trial counsel.  Parties who are not represented by counsel must appear personally. 
+    7          By May 27, 2021, the parties shall file a joint case management statement containing the 
+    g  || information in the Standing Order for All Judges in the Northern District of California, available 
+    9    at: http://cand.uscourts.gov/tshorders.  The Joint Case Management Statement form may be 
+   10  || obtained at: http://cand.uscourts.gov/civilforms.  If the statement is e-filed, no chambers copy is 
+   11    required. 
+   12          IT IS SO ORDERED. 
+
+
+    13 
+   14 || Dated: May 5, 2021 
+                                                                               . 
+    15                                                                  - 
+                                                        THOMAS S. HIXSON 
+ Q    16                                                    United States Magistrate Judge 
+
+      17 
+
+Z   18 
+   19 
+   20 
+   21 
+   22 
+   23 
+   24 
+   25 
+   26 
+   27 
+   28 </pre>

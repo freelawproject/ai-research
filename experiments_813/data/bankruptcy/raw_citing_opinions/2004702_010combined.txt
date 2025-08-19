@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b604-22">
+  ORDER CONFIRMING CHAPTER 13 PLAN
+ </p>
+<author id="b604-23">
+  SAMUEL L. BUFFORD, Bankruptcy Judge.
+ </author>
+<p id="b604-24">
+  I. FACTS
+ </p>
+<p id="b604-25">
+  Debtors Phillip and Judy Greer filed this joint Chapter 13 case on February 21,1986. They filed their Chapter 13 statement and proposed plan on the same date. Mr. Greer is a staff sergeant in the United States Marine Corps, in which he has served for eighteen years. Mrs. Greer is a secretary/office manager at Jacoby and Meyers Law Offices, which is counsel for debtors. They have two teen-age children.
+ </p>
+<p id="b604-26">
+  As of the date of filing, the debtors owned their family residence, which had a fair market value of approximately $98,-000, and which was encumbered by a first
+  <span citation-index="1" class="star-pagination" label="549"> 
+   *549
+   </span>
+  trust deed with an outstanding balance of approximately $88,000 and a second trust deed with an outstanding balance of approximately $3,800. On the date of filing the debtors owed arrearages of $6,000 on the first trust deed and $790 on the second trust deed.
+ </p>
+<p id="b605-5">
+  The debtors own two automobiles, on which payments were current at the time of filing. Their 1977 Ford is worth $2,100, and is encumbered by a loan of $2,800, leaving $700 as an unsecured claim. Their 1983 Toyota is worth $8,600, and is fully encumbered. Three other creditors are partially secured on loans for the purchase of home furnishings. Apart from the Chapter 13 Trustee, there are no priority creditors. In addition to the secured debt, at the time of filing the debtors owed unsecured debts totalling more than $18,000 to more than thirty creditors.
+ </p>
+<p id="b605-6">
+  The debtors’ budget discloses that they receive $3,200 per month in net income. Their monthly expense budget is as follows:
+ </p>
+<blockquote id="b605-7">
+  Real estate payments $1,255
+ </blockquote>
+<blockquote id="b605-8">
+  Utilities 241
+ </blockquote>
+<blockquote id="b605-9">
+  Food 300
+ </blockquote>
+<blockquote id="b605-10">
+  Clothing 100
+ </blockquote>
+<blockquote id="b605-11">
+  Laundry and cleaning 75
+ </blockquote>
+<blockquote id="b605-12">
+  Auto insurance 146
+ </blockquote>
+<blockquote id="b605-13">
+  Transportation 300
+ </blockquote>
+<blockquote id="b605-14">
+  Total $2,417
+ </blockquote>
+<p id="b605-15">
+  This budget leaves a surplus of $783, of which the debtors propose to pay $707.43 per month for 36 months to their creditors under their Chapter 13 plan. This will cover the arrearages on the secured debt, plus interest at the rate of 12% per annum. These payments, plus the trustee’s fees, take up all but $5.73 per month of the payments. The debtors propose to pay unsecured creditors a total of $206.22 under the plan, which is approximately one percent of the outstanding unsecured debt.
+ </p>
+<p id="A_I">
+  The principal effect of the plan is to cure the arrearages on the home, to discharge one-quarter of the debt on the Ford automobile, and to discharge all of the unsecured debt. The debtors will retain their automobiles, and pay the secured debt on them.
+ </p>
+<p id="b605-19">
+  No creditor has objected to the plan. Elsie Davis, the Chapter 13 Trustee, objects to the termination of the plan after 36 months, and argues (1) that the payments should be larger, and (2) that the plan should be extended beyond 36 months to permit a significant payment to the unsecured creditors.
+ </p>
+<p id="b605-20">
+  II. ISSUES PRESENTED
+ </p>
+<p id="AE2">
+  This case presents two related issues: (1) whether a three-year Chapter 13 plan can be confirmed where all of the. payments thereunder go to the priority
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  and secured creditors and the trustee's fees, and the general unsecured creditors receive nothing;
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  (2) whether there is “cause” for a Chapter 13 plan to extend more than three years, if the unsecured creditors would otherwise receive nothing thereunder.
+ </p>
+<p id="b605-21">
+  Apart from adequate protection and relief from the automatic stay, this is apparently the most litigated issue under the Bankruptcy Code. The vast majority of reported opinions (virtually all of which have been reviewed by the Court), however, involve at least some payments to the general unsecured creditors.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</p>
+<p id="b605-22">
+  The Court would normally be reluctant to add to the multiplicity of voices on this issue. However, the Court finds two reasons to write yet another opinion on this subject. First, despite the multitude of opinions on this issue, there is no settled law on this subject. Second, one out of every twelve Chapter 13 cases filed in the United States is filed in this district: In
+  <span citation-index="1" class="star-pagination" label="550"> 
+   *550
+   </span>
+  1985 there were 108,059 Chapter 13 cases filed, of which 9,067 were filed in the Central District of California. Federal Judicial Workload Statistics (December 31, 1985), Table F-l.
+ </p>
+<p id="b606-4">
+  The Court holds that such a plan is not disqualified under Chapter 13 solely on the grounds that the general unsecured creditors receive nothing, and that the plan before the Court must be confirmed. The Court further holds that the lack of any payment to the general unsecured creditors in the first three years is not alone cause to extend the plan beyond three years.
+ </p>
+<p id="b606-5">
+  III. ANALYSIS
+ </p>
+<p id="b606-6">
+  The benefit to a debtor of proposing a plan of repayment under Chapter 13, rather than opting for liquidation under Chapter 7, is that it permits the debtor to protect his assets. In a liquidation case, the debtor must surrender his nonexempt assets, as of the date of filing, for liquidation and sale by the trustee. Under Chapter 13, the debtor may retain his property by agreeing to repay his creditors from his disposable income over a period of time.
+ </p>
+<p id="b606-7">
+  A.
+  <em>
+   Pre-1984 Law
+  </em>
+</p>
+<p id="b606-8">
+  In the early days of the Bankruptcy Code there were a large number of reported cases on this subject, and several appellate level cases. Cases went both ways at the bankruptcy Court level. However, the circuit courts took a skeptical view of a requirement of substantial repayment to general unsecured creditors. A number of courts, including the Ninth Circuit, came to the view that,
+  <em>
+   if
+  </em>
+  a minimum payment to unsecured creditors was to be required, it should be mandated by Congress, and not imposed by the courts.
+  <em>
+   In re Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1388" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386, 1388, 1389</a></span> (9th Cir.1982).
+ </p>
+<p id="b606-18">
+  In 1984 Congress adopted the Bankruptcy Amendments and Federal Judgeship Act (“BAFJA”), which, in this Court’s opinion, resolved the issues raised in this case.
+ </p>
+<p id="b606-19">
+  1.
+  <em>
+   Statute
+  </em>
+</p>
+<p id="b606-20">
+  Prior to 1984, section 1325(a) in substance required a court to confirm a Chapter 13 plan if it satisfied six conditions: (1) it complied with Chapter 13 and the other provisions of the Bankruptcy Code; (2) the filing fees had been paid; (3) the plan was proposed in good faith; (4) the unsecured creditors were to receive as much as they would under a Chapter 7 liquidation; (5) the secured creditors were appropriately provided for; (6) the plan was feasible.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  The language of section 1325(a) was mandatory: If the six conditions were satisfied, the Court was required to confirm the Chapter 13 plan.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+</p>
+<p id="b606-21">
+  The statute does not define “good faith,” and its meaning cannot be discerned from the legislative history.
+  <em>
+   See,
+  </em>
+  H.R.Rep. No. 95-595, 95th Cong., 1st Sess. 412, 430
+  <span citation-index="1" class="star-pagination" label="551"> 
+   *551
+   </span>
+  (1977); S.Rep. No. 95-989, 95th Cong., 2d Sess. 126, 142 (1975), U.S.Code Cong. &amp; Admin.News 1978, pp. 5787, 5912, 5928, 5963, 6368, 6385.
+ </p>
+<blockquote id="b606-24">
+<span citation-index="1" class="star-pagination" label="550"> 
+   *550
+   </span>
+  (C) the debtor surrenders the property securing such claim to such holder; and
+ </blockquote>
+<blockquote id="b606-25">
+  (6)the debtor will be able to make all payments under the plan and to comply with the plan.
+ </blockquote>
+<p id="b607-5">
+<span citation-index="1" class="star-pagination" label="551"> 
+   *551
+   </span>
+  2.
+  <em>
+   Lower Court Cases
+  </em>
+</p>
+<p id="A4QD">
+  The Bankruptcy Code went into effect on October 1, 1979. By early 1980, the Bankruptcy courts were already faced with the issue of whether a plan under Chapter 13 of the new Code could provide for little or no payment to unsecured creditors.
+ </p>
+<p id="b607-6">
+  Because the language of section 1325(a) was mandatory, the courts were required to find any grounds for denial of confirmation within the four comers of section 1325(a). This led the courts to focus upon the “good faith” provision of section 1325(a)(3) as a basis for rejecting plans that violated the basic intent of Chapter 13.
+ </p>
+<p id="b607-7">
+  Of the reported pre-1984 cases, only one has been discovered approving a plan of 36 months or less that provided zero payment to general unsecured creditors.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+<em>
+   In re Faust,
+  </em>
+  <span class="citation" data-id="1901874"><a href="/opinion/1901874/matter-of-faust/" aria-description="Citation for case: Matter of Faust">12 B.R. 679</a></span> (Bankr.D.Neb.1981), involved four zero-percent plans, of which one was for 35 months (the duration of the remaining plans is undisclosed). In contrast, a number of courts held that the good faith requirement of section 1325(a)(3) imposed a higher threshold for the minimum payment to unsecured creditors than that imposed by section 1325(a)(4).
+  <em>
+   See, e.g., In re Heard,
+  </em>
+  <span class="citation" data-id="1538046"><a href="/opinion/1538046/in-re-heard/#879" aria-description="Citation for case: In Re Heard">6 B.R. 876, 879, 881</a></span> (Bankr.W.D.Ky.1980);
+  <em>
+   In re Iacovoni, 2
+  </em>
+  B.R. 256, 267 (Bankr.D.Utah 1980).
+ </p>
+<p id="b607-8">
+  The issue became particularly pointed when debtors began to propose plans of rather short duration that provided zero payment to unsecured creditors. In
+  <em>
+   In re Estus,
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d 311</a></span> (8th Cir.1982), for example, the Eighth Circuit reversed the confirmation of a 15-month Chapter 13 plan that provided zero payment to unsecured creditors. In
+  <em>
+   In re Ali,
+  </em>
+  <span class="citation" data-id="1934598"><a href="/opinion/1934598/in-re-ali/" aria-description="Citation for case: In Re Ali">33 B.R. 890</a></span> (Bankr.D.Kan.1983), the debtor proposed a plan to pay zero percent to unsecured creditors over 25 months. The court confirmed the plan, but required its extension to 36 months, which provided a repayment of approximately three percent to the unsecured creditors.
+ </p>
+<p id="b607-11">
+  3.
+  <em>
+   Ninth Circuit Cases
+  </em>
+</p>
+<p id="AlX">
+  While courts in other circuits debated whether a Chapter 13 plan must provide substantial repayment to the unsecured creditors, the Ninth Circuit took the view that good faith did not require substantial repayment.
+ </p>
+<p id="b607-12">
+  The leading Ninth Circuit case was
+  <em>
+   In re Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386</a></span> (9th Cir.1982), where the plan proposed payment of one percent of the general unsecured claims. The bankruptcy court had denied confirmation on the grounds that a plan that did not propose substantial payment to the unsecured creditors was proposed in bad faith. The Ninth Circuit reversed, and held that the purpose of the “good faith” standard of section 1325 was to require that a debtor act equitably in proposing a Chapter 13 plan.
+  <em>
+   Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1390" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d at 1390</a></span>. This included such issues as whether the debtor has misrepresented facts in the plan, or unfairly manipulated the Bankruptcy Code.
+  <em>
+   <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">Id.</a></span>
+  </em>
+  The minimum repayment required by section 1325(a)(4) (at least what a creditor would receive in a Chapter 7 liquidation) strongly suggested, in the Ninth Circuit’s view, that Congress did not intend the general good faith requirement to be used to impose a more rigorous standard.
+  <em>
+   Goeb,
+  </em>
+<span citation-index="1" class="star-pagination" label="552"> 
+   *552
+   </span>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1388" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d at 1388</a></span>.
+  <em>
+   Accord, Deans v. O’Donnell (In re Deans),
+  </em>
+  <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/#970" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">692 F.2d 968, 970-971</a></span> (4th Cir.1982).
+ </p>
+<p id="b608-4">
+  A zero percent plan came before the Ninth Circuit in
+  <em>
+   Lawrence Tractor Co. v. Gregory (In re Gregory),
+  </em>
+  <span class="citation" data-id="8916801"><a href="/opinion/8927004/lawrence-tractor-co-v-gregory/" aria-description="Citation for case: Lawrence Tractor Co. v. Gregory">705 F.2d 1118</a></span> (9th Cir.1983). However, the unsecured creditor had failed to object at the confirmation hearing, or to appeal the order of confirmation. Instead, two months after the confirmation the creditor filed a disc-hargability complaint alleging that its debt was not “provided for” in the plan, and thus was not dischargeable. While the Ninth Circuit found that the legality of zero payment plans was not before it (because the order confirming the plan had become final), it stated, “If the bankrupt [sic] can show good faith, it seems almost pointless to distinguish between nominal-paymént and zero-payment plans. In fact, the view from the trenches appears to be that zero-payment plans are administratively preferable.”
+  <em>
+   <span class="citation" data-id="8916801"><a href="/opinion/8927004/lawrence-tractor-co-v-gregory/" aria-description="Citation for case: Lawrence Tractor Co. v. Gregory">Id.,</a></span>
+  </em>
+  <span class="citation" data-id="8916801"><a href="/opinion/8927004/lawrence-tractor-co-v-gregory/#1121" aria-description="Citation for case: Lawrence Tractor Co. v. Gregory">705 F.2d at 1121</a></span>;
+  <em>
+   cf., In re Webb,
+  </em>
+  <span class="citation" data-id="1970546"><a href="/opinion/1970546/in-re-webb/#62" aria-description="Citation for case: In Re Webb">3 B.R. 61, 62</a></span> (Bankr.N.D.Cal.1980) (reducing a one-percent payment to unsecured creditors to zero). The Ninth Circuit further noted with apparent approval the representation of counsel at oral argument that the Bankruptcy Court in Fresno (which had confirmed the plan) had confirmed more than 300 zero-payment plans.
+  <em>
+   Gregory,
+  </em>
+  <span class="citation" data-id="8916801"><a href="/opinion/8927004/lawrence-tractor-co-v-gregory/#721" aria-description="Citation for case: Lawrence Tractor Co. v. Gregory">705 F.2d at 721</a></span>.
+ </p>
+<p id="b608-5">
+  Prior to BAFJA, however, the Ninth Circuit had no occasion to consider a case such as
+  <em>
+   In re Estus
+  </em>
+  or
+  <em>
+   In re <span class="citation" data-id="1934598"><a href="/opinion/1934598/in-re-ali/" aria-description="Citation for case: In Re Ali">Ali, supra,</a></span>
+  </em>
+  proposing no payment to unsecured creditors in a plan shorter than 36 months or where not all of the disposable income was allocated to the plan.
+ </p>
+<p id="b608-12">
+  B.
+  <em>
+   BAFJA
+  </em>
+  — Best
+  <em>
+   Efforts Requirement
+  </em>
+</p>
+<p id="b608-13">
+  Among the amendments to the Bankruptcy Code enacted in 1984 in BAF-JA was a new subsection of section 1325. The confirmation mandate of section 1325(a) was qualified by a new subsection (b), which provides in substance that, upon objection of the trustee or an unsecured creditor, all of the debtor’s projected disposable income for three years must be applied to the plan (alternatively, in the case of an objecting creditor, such creditor may be paid in full).
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+  “Disposable income” is defined in section 1325(b)(2) to include all income “not reasonably necessary to be expended ... for the maintenance or support of the debtor or a dependent of the debtor ...”
+ </p>
+<p id="b608-14">
+  This statutory provision solves both the problem of excess disposable income and the problem of unreasonably short plans. Under this provision an unsecured creditor cannot be compelled to accept zero payment unless the plan extends at least 36 months, and all of the disposable income is allocated to the plan.
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+</p>
+<p id="b608-15">
+  In this case the debtors’ budget shows $783 in unallocated income, of which $707.43 is to be paid to the Chapter 13 Trustee for creditors under the plan, which leaves a cushion of approximately $75 per month for contingencies.
+ </p>
+<p id="b609-4">
+<span citation-index="1" class="star-pagination" label="553"> 
+   *553
+   </span>
+  Does section 1325(b)(1)(B) authorize a contingency reserve? If a contingency reserve is “reasonably necessary ... for the maintenance or support of the debtor or a dependent of the debtor ... ”, it is excepted from the section 1325(b)(2) definition of disposable income. The Court considers such a reserve to be reasonably necessary. As the court stated in
+  <em>
+   In re Otero,
+  </em>
+  <span class="citation" data-id="1552953"><a href="/opinion/1552953/in-re-otero/#708" aria-description="Citation for case: In Re Otero">48 B.R. 704, 708</a></span> (Bankr.E.D.Va.1985):
+ </p>
+<blockquote id="b609-5">
+  [A] difference of $117.00 a month is not a significant or substantial amount to be extracted from the debtors. It was not intended to take the last son. A cushion of money is necessary in Chapter 13 budgeting to guard against life’s unexpec-tancies. It is not in the public interest to squeeze the last dollar from Chapter 13 debtors to fund a Chapter 13 plan.
+ </blockquote>
+<p id="Ags">
+  Indeed, such a cushion may be required for compliance with section 1325(a)(6), which requires confirmation of a plan if, inter alia, “the debtor will be able to make all payments under the plan ...”
+  <em>
+   In re Goodavage,
+  </em>
+  <span class="citation" data-id="1552119"><a href="/opinion/1552119/in-re-goodavage/#745" aria-description="Citation for case: In Re Goodavage">41 B.R. 742, 745-746</a></span> (Bankr.E.D.Va.1984);
+  <em>
+   In re Guerrieri,
+  </em>
+  <span class="citation" data-id="1864157"><a href="/opinion/1864157/in-re-guerrieri/" aria-description="Citation for case: In Re Guerrieri">10 B.R. 464</a></span> (Bankr.D.R.I.1981).
+ </p>
+<p id="b609-6">
+  This Court’s Chapter 13 relief from stay calendar, which averages more than 100 such motions per week in Los Angeles, indicates that debtors in general have been cutting their budgets too thinly to be able to meet their post-petition obligations, including plan payments. While improvident spending doubtless accounts for a certain portion of post-petition defaults, it appears that most of the relief from stay litigation results from debtors’ simple inability to live within their proposed budgets.
+ </p>
+<p id="b609-7">
+  The contingency reserve in this case is particularly appropriate, in the view of the Court, because the budget is quite austere. No funds are budgeted for medical or dental expenses, for insurance (except for the automobiles), for recreation or for newspapers and periodicals. The food and clothing budgets are both tight for a family of four adults. While $75 per month for laundry and cleaning may be unusual, Mr. Greer’s uniforms and the clothing required for Mrs. Greer’s professional employment must be dry cleaned regularly. In fact, the only budgetary item that may be unreasonably generous is an allocation of $150 for heating, which is required in Southern California only for two or three months of the year. In view of the overall leanness of the budget, this item should not hinder confirmation of the plan. Thus the best efforts requirement of section 1325(b) is met by the plan in this case.
+ </p>
+<p id="b609-9">
+  However, the Court does not consider it practical to pay $5.73 per month to unsecured creditors. Even if the Chapter 13 Trustee makes a single final distribution to unsecured creditors, only three or four unsecured creditors would qualify for the minimum payment of $15.00 provided by Bankruptcy Rule 3010(b). For this reason, the Court orders that the plan be amended by striking the $206.22 to be distributed to unsecured creditors, and orders that the plan payments be reduced accordingly.
+  <em>
+   Accord, In re Webb,
+  </em>
+  <span class="citation" data-id="1970546"><a href="/opinion/1970546/in-re-webb/#62" aria-description="Citation for case: In Re Webb">3 B.R. 61, 62</a></span> (Bankr.N.D.Cal.1980) (striking the payment of one percent on $14,769.90 in unsecured debt). No notice to unsecured creditors of this change is required, because the change is de minimis.
+  <em>
+   <span class="citation" data-id="1970546"><a href="/opinion/1970546/in-re-webb/" aria-description="Citation for case: In Re Webb">Id.</a></span>
+  </em>
+</p>
+<p id="b609-10">
+  C.
+  <em>
+   Minimum Payment to Unsecured Creditors
+  </em>
+</p>
+<p id="Ay8">
+  The minimum payment to general unsecured creditors under a Chapter 13 plan is governed by section 1325(a)(4). Congress could have required that a Chapter 13 plan provide that unsecured creditors to be paid in full. It could also have provided that unsecured creditors be paid 70%, or 30%, or some other minimum amount of their claim. However, Congress decided against this approach.
+ </p>
+<p id="b609-11">
+  Instead of fixing a minimum percentage payment to unsecured creditors, Congress provided in section 1325(a)(4) that the minimum payment to unsecured creditors should be determined by what they would get under a Chapter 7 liquidation. A Chapter 13 plan may be confirmed if:
+ </p>
+<blockquote id="AEz8">
+  the value, as of the effective date of the plan, of property to be distributed under the plan on account of each unsecured claim is not less than the amount that
+  <span citation-index="1" class="star-pagination" label="554"> 
+   *554
+   </span>
+  would be paid on such claim if the estate of the debtor were liquidated under Chapter
+  <em>
+   1....
+  </em>
+</blockquote>
+<p id="b610-4">
+  Thus, if a Chapter 7 case would provide payment to unsecured creditors of 100% of their claims, a Chapter 13 plan must provide 100% also. Similarly, if a Chapter 7 plan would provide 50%, the Chapter 13 plan must provide 50%. On the other hand, if the unsecured creditors would receive nothing under a Chapter 7 case (which is often true for Chapter 13 cases filed in this Court), section 1325 does not require that they receive more under a Chapter 13 plan.
+ </p>
+<p id="b610-5">
+  The Chapter 13 Trustee’s argument, that some payment to unsecured creditors should be required, should be addressed to Congress, not to the Court.
+  <em>
+   Cf. Goeb, supra,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1389" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d at 1389</a></span>;
+  <em>
+   Deans, supra,
+  </em>
+  <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/#971" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">692 F.2d at 971-972</a></span>.
+ </p>
+<p id="b610-6">
+  Part V of the proposed plan in this case provides a comparison with what the unsecured creditors would receive under Chapter 7. This comparison shows that, after application of the exemptions available to a Chapter 7 debtor,
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+  the unsecured creditors would receive nothing in a Chapter 7 case. Although the unsecured creditors are to receive nothing under this Chapter 13 plan, this is not less than the amount that they would receive in a Chapter 7 case.
+ </p>
+<p id="b610-7">
+  D.
+  <em>
+   Good Faith
+  </em>
+</p>
+<p id="b610-8">
+  BAFJA relieved the section 1325(a)(3) good faith provision of the “best efforts” excess baggage of certain pre-BAFJA cases. This result was foreshadowed in the
+  <em>
+   <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">Goeb</a></span>
+  </em>
+  decision.
+  <em>
+   See,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1389" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d at 1389</a></span>. The “good faith” requirement of section 1325(a)(3) was thus left to fill its proper role in the evaluation of a Chapter 13 plan.
+ </p>
+<p id="b610-9">
+<em>
+   <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">Goeb</a></span>
+  </em>
+  provides the guidance for the determination of whether the Chapter 13 plan in this case was proposed in good faith: “The proper inquiry is whether [the debtors] acted equitably in proposing their Chapter 13 plan.” <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1390" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d at 1390</a></span>. More recently, the Ninth Circuit stated, “A good faith test ... should examine the intentions of the debtor and the legal effect of the confirmation of a Chapter 13 plan in light of the spirit and purposes of Chapter 13.”
+  <em>
+   Chinichian v. Campolongo (In re Chinichian),
+  </em>
+  <span class="citation" data-id="465421"><a href="/opinion/465421/in-re-khalil-and-shahin-chinichian-debtors-khalil-and-shahin-chinichian/#1444" aria-description="Citation for case: In Re Khalil and Shahin Chinichian, Debtors. Khalil and...">784 F.2d 1440, 1444</a></span> (9th Cir.1986) (bad faith to file a plan for the purpose of avoiding specific performance of a real estate sales contract). This determination must be made on a case by case basis, and all relevant factors must be considered.
+  <em>
+   Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1390" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d at 1390</a></span>. No complete list of the relevant considerations has been made. However relevant factors may include whether the debtor has misrepresented the facts to the court or failed to disclose relevant facts (such as prior bankruptcies), and whether the debtor has unfairly manipulated the Bankruptcy Code.
+  <em>
+   <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">Id.</a></span>
+  </em>
+</p>
+<p id="b610-12">
+  Nominal or zero payment to general unsecured creditors may be evidence of bad faith.
+  <em>
+   Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1391" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d at 1391</a></span>. However, other evidence of bad faith is required to justify the denial of confirmation of a proposed Chapter 13 plan.
+  <em>
+   <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">Id.</a></span>
+  </em>
+  In this case neither the Chapter 13 Trustee nor any creditor has brought forth any other evidence of bad faith. In consequence, the Court finds that the plan has been proposed in good faith.
+ </p>
+<p id="b610-13">
+  E.
+  <em>
+   Cause
+  </em>
+</p>
+<p id="b610-14">
+  A distinction of perhaps more substantial importance between this case and
+  <em>
+   <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">Goeb</a></span>
+  </em>
+  is that
+  <em>
+   <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">Goeb</a></span>
+  </em>
+  involved a five-year plan, while the plan before the Court is a three-year plan. The Chapter 13 Trustee urges that the plan be extended to four or five years to provide a modest payment to unsecured creditors.
+ </p>
+<p id="b610-15">
+  The limits on the length of a Chapter 13 plan are provided by section 1322(c):
+ </p>
+<blockquote id="b610-16">
+  The plan may not provide for payments over a period that is longer than three years, unless the court,
+  <em>
+   for cause,
+  </em>
+  approves a longer period, but the court may
+  <span citation-index="1" class="star-pagination" label="555"> 
+   *555
+   </span>
+  not approve a period that is longer than five years (emphasis added).
+ </blockquote>
+<p id="b611-6">
+  Under Chapter XIII of the Bankruptcy Act, plans frequently extended as long as seven to ten years. Congress was concerned that this amounted to involuntary servitude. H.R.Rep. No. 95-595, 95th Cong., 1st Sess. 117 (1977), U.S.Code Cong. &amp; Admin.News 1978, pp. 5787, 6078. In consequence, in the Bankruptcy Code Congress limited the duration of a plan to three years, except upon a finding of “cause.” “Cause” under section 1322(c) is not defined in the Bankruptcy Code: Congress left it to the courts, to determine its dimensions in the light of experience and in the context of particular cases.
+  <em>
+   In re Poff,
+  </em>
+  <span class="citation" data-id="1992111"><a href="/opinion/1992111/in-re-poff/#17" aria-description="Citation for case: In Re Poff">7 B.R. 15, 17</a></span> (Bankr.S.D. Ohio 1980).
+ </p>
+<p id="b611-7">
+  Case law has not developed a comprehensive definition of “cause” under section 1322(c), and perhaps none should be expected. Three typical examples of “cause” to extend a plan more than three years have emerged.
+ </p>
+<p id="b611-8">
+  First, the payment of 100% of a debtor’s unsecured debts provides cause for a plan longer than three years for two reasons: (1) it provides a better credit rating to the debtor; (2) under section 727(a)(9), it does not disqualify the debtor from a Chapter 7 discharge within the ensuing six years.
+  <em>
+   See, e.g., In re Stein,
+  </em>
+  <span class="citation" data-id="1848200"><a href="/opinion/1848200/in-re-stein/" aria-description="Citation for case: In Re Stein">18 B.R. 768</a></span> (Bankr.S.D. Ohio 1982) (51-month plan);
+  <em>
+   In re Powell,
+  </em>
+  <span class="citation" data-id="2027352"><a href="/opinion/2027352/in-re-powell/#473" aria-description="Citation for case: In Re Powell">15 B.R. 465, 473</a></span> (Bankr.N.D.Ga.1981).
+ </p>
+<p id="b611-9">
+  Second, the payment of 70% of the debt- or’s unsecured debts also prevents disqualification, under section 727(a)(9), from a Chapter 7 discharge within six years, provided that the plan is proposed in good faith and is the debtor’s best effort. In consequence, a 70% payment to unsecured creditors is generally recognized as cause for a Chapter 13 plan to extend beyond three years.
+  <em>
+   See, e.g., Poff, supra,
+  </em>
+  <span class="citation" data-id="1992111"><a href="/opinion/1992111/in-re-poff/#17" aria-description="Citation for case: In Re Poff">7 B.R. at 17-18</a></span>.
+ </p>
+<p id="b611-10">
+  A third category of “cause” may arise after confirmation, if a debtor is unable to make plan payments for a period of time. The debtor may then request a suspension of plan payments and an extension of the plan beyond 36 months to permit full payment of the plan.
+  <em>
+   Poff, supra,
+  </em>
+  <span class="citation" data-id="1992111"><a href="/opinion/1992111/in-re-poff/#18" aria-description="Citation for case: In Re Poff">7 B.R. at 18</a></span>. However, this option is not available if the original plan already extends for 60 months. <span class="citation no-link">11 U.S.C. § 1322</span>(c);
+  <em>
+   In re Goodavage,
+  </em>
+  <span class="citation" data-id="1552119"><a href="/opinion/1552119/in-re-goodavage/#746" aria-description="Citation for case: In Re Goodavage">41 B.R. 742, 746</a></span> (Bankr.E.D.Va.1984).
+ </p>
+<p id="b611-12">
+  A more substantial payment to unsecured creditors, on the other hand, does not qualify as “cause” for a Chapter 13 plan to extend more than three years. Every three-year plan providing less than full repayment to unsecured creditors can be extended to provide more substantial payment to them. If such payment were to qualify as “cause,” the Chapter 13 Trustee could routinely object to all such plans, and the three-year Chapter 13 plan would become the exception, rather than the rule. This is surely not a legitimate interpretation of section 1322(c), which contemplates that the three-year plan will be the rule.
+ </p>
+<p id="b611-13">
+  This interpretation of section 1322(c) is bolstered by BAFJA’s addition of the new section 1325(b) to the Bankruptcy Code. If the proposed plan is less than 36 months, it must be extended to 36 months upon objection of a creditor or the Chapter 13 Trustee. However, in limiting section 1325(b) to 36 months, Congress chose not to require a plan to be extended further to solve low payment problems. If the Chapter 13 Trustee or a creditor contends that a debt- or is not proposing sufficient payment to unsecured creditors, such objector should examine carefully the income and expense projections of a debtor to assure that the debtor meets the best efforts requirement of section 1325(b).
+ </p>
+<p id="b611-14">
+  Thus low or zero payment to general unsecured creditors is not cause to extend a plan beyond 36 months, and in this case there is no cause for the plan to last more than three years.
+ </p>
+<p id="b611-15">
+  IY. CONCLUSION
+ </p>
+<p id="b611-16">
+  The Court concludes that the Chapter 13 plan in this case is proposed in good faith, that it satisfies the “best efforts” requirement, and that there is no cause for it to extend more than 36 months.
+ </p>
+<p id="b612-3">
+<span citation-index="1" class="star-pagination" label="556"> 
+   *556
+   </span>
+  The Court does not suggest that Chapter 13 plans that provide zero payment to general unsecured creditors should become the rule, or even that they should be frequent. In the vast majority of cases, the best efforts requirements of section 1325(b) will provide at least some payments to unsecured creditors. In most of the remaining cases the debtor will not be able to repay secured debt arrearages (because the Court requires debtors to repay arrearages on secured debt over 36 months), and confirmation must be denied under section 1325(a)(6). Only the most marginal Chapter 13 case will involve a 36-month plan that provides zero payment to general unsecured creditors.
+ </p>
+<p id="b612-4">
+  For the foregoing reasons, the plan is confirmed.
+ </p>
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b605-16">
+   . Under section 1322(a)(2), unsecured claims entitled to priority under section 507 must be paid in full through a Chapter 13 plan.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b605-17">
+   . For the reasons stated
+   <em>
+    infra,
+   </em>
+   the minimal payment to unsecured creditors is deleted from the plan.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b605-23">
+   .Similarly, the vast majority of Chapter 13 plans proposed for confirmation in this Court involve at least some payment to unsecured creditors. In fact, a substantial portion involve a 100 percent repayment to unsecured creditors.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b606-9">
+   . Prior to BAFJA, section 1325(a) stated:
+  </p>
+<blockquote id="b606-10">
+   The court shall confirm a plan if—
+  </blockquote>
+<blockquote id="b606-11">
+   (1) the plan complies with the provisions of this chapter and with other applicable provisions of this title;
+  </blockquote>
+<blockquote id="b606-12">
+   (2) any fee, charge, or amount required under chapter 123 of title 28, or by the plan, to be paid before confirmation, has been paid;
+  </blockquote>
+<blockquote id="b606-13">
+   (3) the plan has been proposed in good faith and not by any means forbidden by law;
+  </blockquote>
+<blockquote id="b606-14">
+   (4) the value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under chapter 7 of this title on such date;
+  </blockquote>
+<blockquote id="b606-15">
+   (5) with respect to each allowed secured claim provided for by the plan—
+  </blockquote>
+<blockquote id="b606-16">
+   (A)the holder of such claim has accepted the plan;
+  </blockquote>
+<blockquote id="b606-22">
+   (B)(i) the plan provides that the holder of such claim retain the lien securing such claim; and
+  </blockquote>
+<blockquote id="b606-23">
+   (ii) the value, as of the effective date of the plan, of property to be distributed under the plan on account of such claim is not less than the allowed amount of such claim; or
+  </blockquote>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b606-26">
+   . In contrast, section 1129 (the comparable provision for Chapter 11 cases) provides, "The court shall confirm a plan
+   <em>
+    only
+   </em>
+   if all of the following requirements are met ...” (emphasis added), which appears to give a court greater discretion to deny confirmation of a plan.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b607-9">
+   . Eleven other reported cases have been discovered, all decided in 1980 and 1981, where zero-percent plans of unspecified duration were confirmed.
+   <em>
+    In re Methvin,
+   </em>
+   <span class="citation" data-id="2009039"><a href="/opinion/2009039/matter-of-methvin/" aria-description="Citation for case: Matter of Methvin">11 B.R. 556</a></span> (Bankr.S.D.Miss.1981);
+   <em>
+    In re Carter,
+   </em>
+   <span class="citation" data-id="1548331"><a href="/opinion/1548331/us-life-credit-v-carter-in-re-carter/" aria-description="Citation for case: U.S. Life Credit v. Carter (In Re Carter)">9 B.R. 140</a></span> (Bankr.N.D.Ga.1981);
+   <em>
+    Transamerica Financial Services, Inc. v. Stollenwerck (In re Stollenwerck),
+   </em>
+   <span class="citation" data-id="1987495"><a href="/opinion/1987495/transamerica-financial-services-inc-v-stollenwerck-in-re-stollenwerck/" aria-description="Citation for case: Transamerica Financial Services, Inc. v. Stollenwerck (In...">8 B.R. 297</a></span> (M.D.Ala.1981);
+   <em>
+    In re Koerperich,
+   </em>
+   <span class="citation" data-id="1534838"><a href="/opinion/1534838/benkelman-cooperative-equity-exchange-v-koerperich-in-re-koerperich/" aria-description="Citation for case: Benkelman Cooperative Equity Exchange v. Koerperich (In...">5 B.R. 752</a></span> (Bankr.D.Neb.1980);
+   <em>
+    In re Roy,
+   </em>
+   <span class="citation" data-id="1535282"><a href="/opinion/1535282/thompson-supply-co-v-roy-in-re-roy/" aria-description="Citation for case: Thompson Supply Co. v. Roy (In Re Roy)">5 B.R. 611</a></span> (Bankr.M.D.Ala.1980);
+   <em>
+    In re Centineo,
+   </em>
+   <span class="citation" data-id="1538639"><a href="/opinion/1538639/matter-of-centineo/" aria-description="Citation for case: Matter of Centineo">4 B.R. 654</a></span> (Bankr.D.Neb.1980);
+   <em>
+    In re Harland,
+   </em>
+   <span class="citation" data-id="1970774"><a href="/opinion/1970774/matter-of-harland/" aria-description="Citation for case: Matter of Harland">3 B.R. 597</a></span> (Bankr.D.Neb.1980);
+   <em>
+    In re Cloutier,
+   </em>
+   <span class="citation" data-id="1970505"><a href="/opinion/1970505/in-re-cloutier/" aria-description="Citation for case: In Re Cloutier">3 B.R. 584</a></span> (Bankr.D.Colo.1980);
+   <em>
+    In re Thebeau,
+   </em>
+   <span class="citation" data-id="1970442"><a href="/opinion/1970442/in-re-thebeau/" aria-description="Citation for case: In Re Thebeau">3 B.R. 537</a></span> (Bankr.E.D.Ark.1980);
+   <em>
+    In re Sadler,
+   </em>
+   <span class="citation" data-id="1970706"><a href="/opinion/1970706/in-re-sadler/" aria-description="Citation for case: In Re Sadler">3 B.R. 536</a></span> (Bankr.E.D.Ark.1980);
+   <em>
+    In re Webb,
+   </em>
+   <span class="citation" data-id="1970546"><a href="/opinion/1970546/in-re-webb/#62" aria-description="Citation for case: In Re Webb">3 B.R. 61, 62</a></span> (Bankr.N.D.Cal.1980).
+  </p>
+<p id="b607-14">
+   Two additional reported zero-percent plans were confirmed for longer than three years:
+   <em>
+    In re Bellgraph, 4
+   </em>
+   B.R. 421 (Bankr.W.D.N.Y.1980) (nearly five years);
+   <em>
+    National City Bank of Rome v. Purdy (In re Purdy),
+   </em>
+   <span class="citation" data-id="1858424"><a href="/opinion/1858424/national-city-bank-of-rome-v-purdy-in-re-purdy/" aria-description="Citation for case: National City Bank of Rome v. Purdy (In Re Purdy)">16 B.R. 847</a></span> (Bankr.N.D.Ga.1981) (four years).
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b608-6">
+   . Section 1325(b) states:
+  </p>
+<blockquote id="b608-7">
+   (1) If the trustee or the holder of an allowed unsecured claim objects to the confirmation of the plan, then the court may not approve the plan unless, as of the effective date of the plan—
+  </blockquote>
+<blockquote id="b608-8">
+   (A) the value of the property to be distributed under the plan on account of such claim is not less than the amount of such claim; or
+  </blockquote>
+<blockquote id="b608-9">
+   (B) the plan provides that all of the debtor’s projected disposable income to be received in the three-year period beginning on the date that the first payment is due under the plan will be applied to make payments under the plan.
+  </blockquote>
+<blockquote id="b608-10">
+   (2) For purposes of this subsection, “disposable income” means income which is received by the debtor and which is not reasonably necessary to be expended—
+  </blockquote>
+<blockquote id="b608-17">
+   (A) for the maintenance or support of the debtor or a dependent of the debtor; or
+  </blockquote>
+<blockquote id="b608-18">
+   (B) if the debtor is engaged in business, for the payment of expenditures necessary for the continuation, preservation, and operation of such business.
+  </blockquote>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b608-19">
+   . This statutory provision codified a number of cases where courts refused to confirm Chapter 13 plans providing low payments to unsecured creditors, because the debtor’s budget showed that higher payments could be made.
+   <em>
+    See, e.g., In re Sellers,
+   </em>
+   <span class="citation" data-id="1935266"><a href="/opinion/1935266/in-re-sellers/" aria-description="Citation for case: In Re Sellers">33 B.R. 854</a></span> (Bankr.D.Colo.1983);
+   <em>
+    In re Brown,
+   </em>
+   <span class="citation" data-id="1872366"><a href="/opinion/1872366/in-re-brown/" aria-description="Citation for case: In Re Brown">29 B.R. 360</a></span> (Bankr.N.D. Ohio 1983).
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b610-10">
+   . The exemptions of Bankruptcy Code § 522 normally play no role in a Chapter 13 case, because creditors are paid from the income of the debtor over a period of time, rather than from assets as of the date of filing.
+  </p>
+</div></div></opinion>

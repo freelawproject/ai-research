@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b600-5">
+  DAVID E. NIMS, Jr., Bankruptcy Judge.
+ </author>
+<p id="b600-6">
+  On October 16, 1979, Lee Allen Hurd and Mary Louise Hurd filed a joint voluntary petition under Chapter 13 of Title 11 of the Bankruptcy Code. Two creditors have filed objections to confirmation.
+ </p>
+<p id="b600-7">
+  The plan calls for payments to the trustee of $330 per month. Distributions would be as follows:
+ </p>
+<blockquote id="b600-8">
+  First — Attorney’s fees to the debtor of $800 and filing fees would be paid until paid in full (approximately 3 months). Second — Payments would be made to secured creditors at a set amount each month up to the value of their collateral—
+ </blockquote>
+<blockquote id="b600-9">
+  Three would be paid a total of $400 at $20 per month for approximately 20 months.
+ </blockquote>
+<blockquote id="b600-10">
+  American National Bank &amp; Trust Co., one of the objecting creditors, would be paid $7,000 at the rate of $260 per month for approximately 27 months.
+ </blockquote>
+<blockquote id="AWHe">
+  Third — Unsecured creditors (totaling approximately $23,000) would be paid 5% of their debt or about $1,150. Payments would amount to $17 per month after three months. After 23 months, the amounts would increase to $37 per month and after 30 months the monthly payments would increase to $297 per month.
+ </blockquote>
+<p id="b600-11">
+  The court is satisfied that the debtors payments of $330 per month are the best they can do at present.
+ </p>
+<p id="b600-12">
+  Their payments to secured creditors are to save a 1979 Ford V-8 Pickup F-100 Custom purchased new on May 17, 1979, a 1976 V-8 Ford Gran Torino Wagon, furniture, appliances and a T.V.
+ </p>
+<p id="b600-13">
+  The court is also of the opinion that under a Chapter 7 case, debtors would have no assets available to unsecured creditors.
+ </p>
+<p id="b600-14">
+  Lee Hurd filed a voluntary petition in straight bankruptcy in 1975 and received a discharge. It is not disputed that he would be denied a discharge in a Chapter 7 case. <span class="citation no-link">11 U.S.C. Sec. 727</span>(a)(8). Debtors also filed joint voluntary petitions under Chapter XIII on August 17,1979, whereby their plan proposed to pay $550 per month up to June, 1981, at which time payments would be increased to $1,200. All creditors were to be paid 100% under this plan. Neither debtor appeared at the first meeting of creditors as ordered, so the meeting was adjourned. Two days before the adjourned first meeting a petition was filed to dismiss the Chapter XIII case, and, two days later, this Chapter 13 case was commenced.
+ </p>
+<p id="b600-15">
+  The objections and briefs raised three issues of law:
+ </p>
+<blockquote id="b600-16">
+  1. Does the previous discharge bar confirmation?
+ </blockquote>
+<blockquote id="b600-17">
+  2. Does the fact that one debtor would be denied a discharge in a Chapter 7 case bar confirmation under Section 1325(a)(4)?
+ </blockquote>
+<blockquote id="b600-18">
+  3. Is the plan filed in good faith?
+ </blockquote>
+<blockquote id="b600-19">
+  1. Does the previous discharge bar confirmation?
+ </blockquote>
+<p id="b600-20">
+  <span class="citation no-link">11 U.S.C. Section 103</span>(b) states, “Subehap-ters I and II of Chapter 7 of this title apply only in a case under such chapter.” <span class="citation no-link">11 U.S.C. Section 727</span>(a)(9) is part of Subchap-ter II, and should not apply to a Chapter 13 case under <span class="citation no-link">11 U.S.C. Section 1325</span>(a)(1).
+ </p>
+<p id="b600-21">
+  Basically the creditor is arguing that failure to read the six-year bar of Section 727(a)(9) into Chapter 13 will lead to “absurd results.”
+ </p>
+<p id="b600-22">
+  <span class="citation no-link">11 U.S.C. Section 727</span>(a)(9) is not specifically applicable to a Chapter 13 confirmation. Whether or not the filing of the plan to take advantage of this fact raises doubts about the debtor’s “good faith” is a separate issue.
+ </p>
+<p id="b600-23">
+  2. Does the fact that one debtor would be denied a discharge in a Chapter 7 case bar confirmation under Section 1325(a)(4)?
+ </p>
+<p id="b600-24">
+  <span class="citation no-link">11 U.S.C. Section 1325</span>(a)(4) reads:
+ </p>
+<blockquote id="b601-4">
+<span citation-index="1" class="star-pagination" label="553"> 
+   *553
+   </span>
+  ‘(a) The court shall confirm a plan if
+ </blockquote>
+<blockquote id="b601-5">
+  (4) The value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under Chapter 7 of this title on such date.” (underlining added)
+ </blockquote>
+<p id="b601-6">
+  The objecting creditor argues that since the debtors cannot get a Chapter 7 discharge, the unsecured creditors would have the right to pursue their claims' against the debtors in the future; therefore, this right is part of “the amount that would be paid” in a liquidation contemplated by <span class="citation no-link">11 U.S.C. Section 1325</span>(a)(4).
+ </p>
+<p id="b601-7">
+  Accepting this construction of Section 1325(a)(4) would lead to serious problems. This provision would then be in conflict with Section 1328(a), which allows discharge under Chapter 13 of debts which would be nondischargeable under Chapter 7. An unsecured creditor would argue that a nondischargeable unsecured claim exists, and that such claim would be paid under a Chapter 7 liquidation. Section 1328(a) would then be meaningless. It would also be impractical for the court to place a value on a creditor’s right of action against a debtor not discharged; factors such as the speed with which judgment could be obtained, and collectability of the judgment, would have to be considered. Yet, how could the Court fairly and accurately consider these factors?
+ </p>
+<p id="b601-8">
+  The Statute itself answers the issue. The key words are “the amount that would be paid ... on such date . . .” [i. e. the effective date of the plan.] The effective date of the plan will usually be the date of confirmation. As Collier puts it:
+ </p>
+<blockquote id="b601-10">
+  “The language of the Statute plainly means that the Court is to ascribe a liquidation value to all non-exempt property of the estate, as that term is defined under Section 541, at or about the time of the confirmation hearing, less all allowable Chapter 7 administrative expenses. The liquidation value must be further reduced by the amount of all lien claims enforceable against the property under Chapter 7 and by the amount apportiona-ble to the holders of allowed unsecured claims entitled to priority of distribution over the particular allowed unsecured claim holder whose best interests are being measured.” 5 Collier on Bankruptcy (15th Ed.) ¶ 1325.01[2][D][b][iv] at p. 1325-11,12.
+ </blockquote>
+<p id="b601-12">
+  <span class="citation no-link">11 U.S.C. Section 541</span>(a)(1) says the estate is comprised of “. . . all legal or equitable interests of the debtor in property as of the commencement of the case.” Except as provided for in the rest of Section 541(a), most assets coming into the debtor’s hands will not be part of this estate, and are not part of the liquidation value, though they might be subject to a creditor’s claims in the future. Whether or not a discharge would be granted under Chapter 7 is essentially irrelevant; in either case Section 1325(a)(4) speaks only to recovery from assets of the debtor’s estate.
+ </p>
+<p id="b601-14">
+  The creditors also have claimed that this plan is not “in the best interest of creditors.”
+ </p>
+<p id="b601-15">
+  There is no mention of the “best interests of creditors” in Section 1325(a)(4). The objecting creditor relies solely on some references to such a “test” in the Legislative History; specifically to Senate Report No. 95-989, 95th Cong., 2d Sess. (1978) at 142, U.S.Code Cong. &amp; Admin. News 1978, p. 5787. But the phrase is really used as a shorthand for what is actually contained in Section 1325(a)(4).
+  <em>
+   See
+  </em>
+  House Report No. 95-595, 95th Cong., 1st Sess. (1977) at p. 430, U.S.Code Cong. &amp; Admin. News 1978, p. 5963 (note the use of the hyphen); 5 Collier,
+  <em>
+   supra,
+  </em>
+  at p. 1325-10 (Sections describing Section 1325(a)(4) are titled “The Best Interests Test Under Chapter 13. Section 1325(a)(4).”).
+ </p>
+<p id="b601-16">
+  Thus, I would have to find that under the definition of Section 1325(a)(4), the plan is in the best interest of creditors.
+ </p>
+<p id="b602-3">
+<span citation-index="1" class="star-pagination" label="554"> 
+   *554
+   </span>
+  3. Is the plan filed in good faith?
+ </p>
+<p id="b602-4">
+  <span class="citation no-link">11 U.S.C. Section 1325</span>(a) provides
+  <em>
+   inter alia
+  </em>
+  that “The Court shall confirm a plan _ * * *
+ </p>
+<blockquote id="b602-5">
+  “(3) The plan has been proposed in good faith and not by any means forbidden by law * *
+ </blockquote>
+<p id="b602-6">
+  All of the subsections of Section 1325(a) are joined by the conjunction “and”, so the court must find that the plan meets the requirements set forth in each subsection. The Bankruptcy Act of 1898 also required a finding by the court that the Chapter XIII plan and its acceptance were in good faith as a prerequisite to confirmation. Bankruptcy Act Sections 651 and 656. This language was almost identical to that in Chapter XI, Bankruptcy Act Section 366(4).,
+ </p>
+<p id="ATR">
+  What is good faith?
+ </p>
+<p id="b602-7">
+  In its discussion of Section 656, 10 Collier on Bankruptcy (14th Ed., 1978) states:
+ </p>
+<blockquote id="b602-8">
+  “Section 656(a)(4) is confined to the proposal of the plan and its acceptance, but it views the conduct of creditors as well as the debtor. Fraud, improper scheduling, payment or promises to pay money to procure acceptances are instances of lack of good faith as well as acts barred by the statute. Good faith itself is not defined but generally the inquiry is directed to whether or not there has been an abuse of the provisions, purpose, or spirit of Chapter XIII in the proposal or plan.”
+ </blockquote>
+<p id="b602-9">
+  Thus, we must look to the purpose and spirit of Chapter 13.
+ </p>
+<p id="b602-10">
+  The following factors are relevant in determining the purpose and spirit of Chapter 13:
+ </p>
+<blockquote id="b602-11">
+  1. The history of American bankruptcy law;
+ </blockquote>
+<blockquote id="b602-12">
+  2. The legislative history of the new Bankruptcy Code; and
+ </blockquote>
+<blockquote id="b602-13">
+  3. Consideration of the Code as a whole, in order to find a construction of the “good faith” provision which makes sense in light of the other applicable Code provisions.
+ </blockquote>
+<p id="b602-14">
+  1. A consideration of the history of bankruptcy in America will make clear the purpose and spirit of the law as determined by the Constitution, Congress and the courts.
+ </p>
+<p id="b602-16">
+  In 1797, the Constitutional Convention proposed to grant to Congress the power “to establish * * * uniform Laws on the subject of Bankruptcies throughout the United States.” Art. I, Sec. 8, cl. 4, U. S. Constitution. The lawyer members of the Convention were trained under the English laws of the time and thus would take their definition from those laws. The first English statute was an Act solely for the benefit of the creditors and no discharge was provided. 34 &amp; 35 Henry VIII, Ch. 7 (1542). Discharges were first provided for in 4th Anne, Ch. 17 (1705). By 1787, bankruptcies were limited to traders, brokers and merchants, voluntary filing by a debtor was unheard of, and a discharge was granted only if his assets reached a certain percentage of the debts. The understanding of the delegates is illustrated by the only reference to bankruptcy in the “Federalist” by James Madison:
+ </p>
+<blockquote id="b602-17">
+  “The power of establishing uniform laws of bankruptcy is so intimately connected with the regulations of commerce and will prevent so many frauds where the parties or their property may be removed into different states that the expediency of it seems not likely to be drawn into question.”
+ </blockquote>
+<p id="b602-18">
+  The Bankruptcy Act of 1841, for the first time, allowed the debtor to file and removed the limitation of filing to traders, etc. Senator Daniel Webster, in support of the 1841 Act, stated that he could see no substantial good to the creditor in perpetuating debts against debtors. These radical innovations were attacked in the courts and in
+  <em>
+   In re Klein
+  </em>
+  (reported in a note to
+  <em>
+   Nelson
+  </em>
+  v.
+  <em>
+   Carland,
+  </em>
+  <span class="citation" data-id="9416417"><a href="/opinion/86255/nelson-v-carland/" aria-description="Citation for case: Nelson v. Carland">42 U.S. 265</a></span>, <span class="citation" data-id="9416417"><a href="/opinion/86255/nelson-v-carland/#277" aria-description="Citation for case: Nelson v. Carland">1 How. 265, 277</a></span>, <span class="citation" data-id="9416417"><a href="/opinion/86255/nelson-v-carland/" aria-description="Citation for case: Nelson v. Carland">11 L.Ed. 126</a></span>) the court held that the bankruptcy power “extends to all cases where the law causes to be distributed the property of the debtor among his creditors; this is the least limit. Its greatest, is a discharge of the debtor from his contracts. And all intermediate legislation, affecting substance and form, but tending to further the great end of the subject — distribution and dis
+  <span citation-index="1" class="star-pagination" label="555"> 
+   *555
+   </span>
+  charge — are in the competency and discretion of Congress.”
+ </p>
+<p id="b603-4">
+  Under the Bankruptcy Act of 1898, Sec. 12, a bankrupt could enter into a composition with his creditors; but, this could only be done in a pending bankruptcy case. During the depression of the 1930’s, various new provisions were added to the Act. Section 77 provided for the reorganization of railroads. It was so successful that Section 77 was amended so that the former Section 77 became Section 77a. Then Section 77b (later Chapter X) gave a like relief to other corporations. One addition, Sec. 75 for relief to farmers with farm mortgages, ran into legal trouble. It was held unconstitutional.
+  <em>
+   Louisville Joint Stock Land Bank v. Radford,
+  </em>
+  <span class="citation" data-id="2513954"><a href="/opinion/2513954/louisville-joint-stock-land-bank-v-radford/" aria-description="Citation for case: Louisville Joint Stock Land Bank v. Radford">295 U.S. 555</a></span>, <span class="citation" data-id="2513954"><a href="/opinion/2513954/louisville-joint-stock-land-bank-v-radford/" aria-description="Citation for case: Louisville Joint Stock Land Bank v. Radford">55 S.Ct. 854</a></span>,<span class="citation" data-id="2513954"><a href="/opinion/2513954/louisville-joint-stock-land-bank-v-radford/" aria-description="Citation for case: Louisville Joint Stock Land Bank v. Radford">79 L.Ed. 1593</a></span> (1935) The court found that certain relief to farmer mortgagors, violated the 5th Amendment to the Constitution. The Frazier-Lemke Act was amended and in
+  <em>
+   Wright v. Vinton Branch of Mountain Trust Bank,
+  </em>
+  <span class="citation" data-id="102789"><a href="/opinion/102789/wright-v-vinton-branch-of-mountain-trust-bank-of-roanoke/" aria-description="Citation for case: Wright v. Vinton Branch of Mountain Trust Bank of Roanoke">300 U.S. 440</a></span>, <span class="citation" data-id="102789"><a href="/opinion/102789/wright-v-vinton-branch-of-mountain-trust-bank-of-roanoke/" aria-description="Citation for case: Wright v. Vinton Branch of Mountain Trust Bank of Roanoke">57 S.Ct. 556</a></span>, <span class="citation" data-id="102789"><a href="/opinion/102789/wright-v-vinton-branch-of-mountain-trust-bank-of-roanoke/" aria-description="Citation for case: Wright v. Vinton Branch of Mountain Trust Bank of Roanoke">81 L.Ed. 736</a></span> (1937), Section 75 was found to be constitutional.
+ </p>
+<p id="b603-5">
+  As a part of the Chandler Act of June 22, 1938, Chapter XIII was added to the Bankruptcy Act and provided for “wage earner plans” whereby a wage earner could pay a portion of his wages to a trustee who in turn would distribute these payments to the debtor’s creditors according to the plan submitted by the debtor, accepted by the creditors and confirmed by the court. Chapter XIII, at first, had limited use in the North because “wage earners” were limited to individuals having wages or salary not exceeding $1,500 a year. This amount was eventually raised to $3,600 and in 1950 to $5,000. In 1959, the limit was removed and any person employed for wages, salaries or commissions could file. By judicial interpretation, Chapter XIII became much more useful to the debtor. Its availability was expanded so that even an individual on Social Security could file.
+  <em>
+   In re Bradford,
+  </em>
+  <span class="citation" data-id="1481388"><a href="/opinion/1481388/in-re-bradford/" aria-description="Citation for case: In Re Bradford">268 F.Supp. 896</a></span> (N.D.Ala.1967). Debtors could save their homes, automobiles and other necessary belongings.
+  <em>
+   Hallenbeck v. Penn Mutual Life Insurance Co.,
+  </em>
+  <span class="citation" data-id="262017"><a href="/opinion/262017/richard-francis-hallenbeck-and-gertrude-d-hallenbeck-v-penn-mutual-life/" aria-description="Citation for case: Richard Francis Hallenbeck and Gertrude D. Hallenbeck v....">323 F.2d 566</a></span> (4th Cir., 1963);
+  <em>
+   In re Hawks,
+  </em>
+  <span class="citation" data-id="307329"><a href="/opinion/307329/in-the-matter-of-john-edward-hawks-and-pauline-andrews-hawks-debtors/" aria-description="Citation for case: In the Matter of John Edward Hawks and Pauline Andrews...">471 F.2d 305</a></span> (4th Cir., 1973);
+  <em>
+   Chatman v. Daugherty,
+  </em>
+  <span class="citation" data-id="331817"><a href="/opinion/331817/paul-chatman-jr-and-rosie-lee-chatman-bankrupts-appellants-v-david/" aria-description="Citation for case: Paul Chatman, Jr. And Rosie Lee Chatman,...">527 F.2d 691</a></span> (6th Cir., 1975).
+ </p>
+<p id="b603-7">
+  Up to the effective date of the Bankruptcy Code of 1978, the courts have fairly and equitably balanced the rights of the debtors and creditors. The right to a “fresh start” for the debtor was recognized by the cancellation of wage assignments,
+  <em>
+   Local Loan v. Hunt,
+  </em>
+  <span class="citation" data-id="102265"><a href="/opinion/102265/local-loan-co-v-hunt/" aria-description="Citation for case: Local Loan Co. v. Hunt">292 U.S. 234</a></span>, <span class="citation" data-id="102265"><a href="/opinion/102265/local-loan-co-v-hunt/" aria-description="Citation for case: Local Loan Co. v. Hunt">54 S.Ct. 695</a></span>, <span class="citation" data-id="102265"><a href="/opinion/102265/local-loan-co-v-hunt/" aria-description="Citation for case: Local Loan Co. v. Hunt">78 L.Ed. 1230</a></span> (1934); the right to an automobile drivers license,
+  <em>
+   Perez v. Campbell,
+  </em>
+  <span class="citation" data-id="9424589"><a href="/opinion/108350/perez-v-campbell/" aria-description="Citation for case: Perez. v. Campbell">402 U.S. 637</a></span>, <span class="citation" data-id="9424589"><a href="/opinion/108350/perez-v-campbell/" aria-description="Citation for case: Perez. v. Campbell">91 S.Ct. 1704</a></span>, <span class="citation" data-id="9424589"><a href="/opinion/108350/perez-v-campbell/" aria-description="Citation for case: Perez. v. Campbell">29 L.Ed.2d 233</a></span> (1971); protection of debtor’s employment,
+  <em>
+   Rutledge v. City of Shreveport,
+  </em>
+  <span class="citation" data-id="1672230"><a href="/opinion/1672230/rutledge-v-city-of-shreveport/" aria-description="Citation for case: Rutledge v. City of Shreveport">387 F.Supp. 1277</a></span> (W.D., La., 1975),
+  <em>
+   In re Hicks,
+  </em>
+  <span class="citation" data-id="8755941"><a href="/opinion/8772373/in-re-hicks/" aria-description="Citation for case: In re Hicks">133 F. 739</a></span> (N.D., N.Y., 1905). On the other hand, the courts have insisted upon the debtor’s obligation to turn over his assets for the benefit of his creditors. As was said in
+  <em>
+   Segal v. Rochelle,
+  </em>
+  <span class="citation" data-id="107144"><a href="/opinion/107144/segal-v-rochelle/" aria-description="Citation for case: Segal v. Rochelle">382 U.S. 375</a></span>, <span class="citation" data-id="88890"><a href="/opinion/88890/ex-parte-robinson/" aria-description="Citation for case: Ex Parte Robinson">86 U.S. 511</a></span>, <span class="citation" data-id="107144"><a href="/opinion/107144/segal-v-rochelle/" aria-description="Citation for case: Segal v. Rochelle">15 L.Ed.2d 428</a></span> (1966):
+ </p>
+<blockquote id="b603-8">
+  “The main thrust of Section 70 c (5) (sic) is to secure for creditors everything of value the bankrupt may possess in alienable or leviable form when the petition is filed. To this end the term ‘property’ has been construed most generously and an interest is not outside its reach because it is novel or contingent or because enjoyment must be postponed.”
+ </blockquote>
+<p id="b603-9">
+  See also
+  <em>
+   Kokoszka v. Belford,
+  </em>
+  <span class="citation" data-id="109073"><a href="/opinion/109073/kokoszka-v-belford/" aria-description="Citation for case: Kokoszka v. Belford">417 U.S. 642</a></span>, <span class="citation" data-id="109073"><a href="/opinion/109073/kokoszka-v-belford/" aria-description="Citation for case: Kokoszka v. Belford">94 S.Ct. 2431</a></span>, <span class="citation" data-id="109073"><a href="/opinion/109073/kokoszka-v-belford/" aria-description="Citation for case: Kokoszka v. Belford">41 L.Ed.2d 374</a></span> (1974).
+ </p>
+<p id="b603-10">
+  Thus, it would appear that the whole purpose and spirit of bankruptcy has been twofold. Historically, the first purpose was to take the debtors assets, liquidate the same and distribute them to the creditors. The second purpose was to grant a discharge to the honest but unfortunate debt- or and thus give to him a fresh start. To the Constitutional Convention and the People of the United States in the 18th century, bankruptcy did not mean a social relief procedure for debtors to be financed by their creditors without any possible advantage to the creditors except a mere pittance. In determining the intent of Congress, this history must be considered.
+ </p>
+<p id="b603-11">
+  To hold that this plan must be confirmed because the creditors would not receive more
+  <span citation-index="1" class="star-pagination" label="556"> 
+   *556
+   </span>
+  in a Chapter 7 case would lead to shocking results. In August of 1979, this debtor filed a Chapter XIII petition. He proposed to pay his creditors 100%, including the secured creditors. As far as the record shows, nothing was paid. In October 1979, another plan was filed. Now, attorney’s fees are to be paid first. Suppose the debtor again fails to make payments and about the time the trustee brings action to dismiss, the debtor again dismisses his case and then files a third proceeding. Did Congress intend that the court stand by helpless while watching such a fraud be perpetrated on the creditors? I do not believe that was Congress’ intent.
+ </p>
+<p id="b604-4">
+  2. The legislative history indicates that Congress contemplated that a meaningful payment must be made to unsecured creditors in a Chapter 13 case.
+ </p>
+<p id="b604-5">
+  “Only an individual with regular income * * * ” may be a debtor under Chapter 13. <span class="citation no-link">11 U.S.C. Sec. 109</span>(e). Section 101(24) states:
+ </p>
+<blockquote id="b604-7">
+<em>
+   “
+  </em>
+  ‘individual with regular income’ means individual whose income is sufficiently stable and regular to enable such individual to make payments under a plan under chapter 13 of this title, other than a stockbroker or a commodity broker;”
+ </blockquote>
+<p id="b604-8">
+  In discussing Section 101(24), House Report No. 95-595, 95th Cong., 1st Sess. (1977) 311-12 and Senate Report No. 95-989, 95th Cong., 2d Sess. (1978) 24 U.S.Code Cong. &amp; Admin. News 1978, p. 6269, states:
+ </p>
+<blockquote id="b604-9">
+  “Thus, individuals on welfare, social security, fixed pension incomes, or who live on investment incomes, will be able to work out repayment plans with their creditors rather than being forced into straight bankruptcy.”
+ </blockquote>
+<p id="b604-10">
+  The House Subcommittee had found that “most consumer debtors would rather work out a repayment plan than file straight bankruptcy.” House Report,
+  <em>
+   supra,
+  </em>
+  p. 117, U.S.Code Cong. &amp; Admin. News 1978, p. 6077. The Report goes on:
+ </p>
+<blockquote id="b604-11">
+  “The purpose of Chapter 13 is to enable an individual, under court supervision and protection, to develop and perform under a plan for the repayment of his debts over an extended period. In some cases the plan will call for full repayment. In others, it may offer creditors a percentage of their claims in full settlement .
+ </blockquote>
+<blockquote id="b604-13">
+  “. . . Chapter 13 also protects a debtor’s credit standing far better than a straight bankruptcy, because he is viewed by the credit industry as a better risk. In addition, it satisfies many debtors’ desire to avoid the stigma attached to straight bankruptcy and to retain the pride attendant on being able to meet one’s obligations. The benefit to creditors is self-evident; their losses will be significantly less than if their debtors opt for straight bankruptcy.”
+  <em>
+   Id.
+  </em>
+  at 118, U.S.Code Cong. &amp; Admin. News 1978, p. 6079.
+ </blockquote>
+<p id="b604-15">
+  The Senate Report states:
+ </p>
+<blockquote id="b604-16">
+  The new chapter 13 will permit almost any individual with regular income to propose and have approved a reasonable plan for debt repayment based on that individual’s exact circumstances. As in current law, 100 percent payment plans will be encouraged by the limitation on availability of a subsequent discharge in section 727(a)(8). This kind of plan has provided great self-satisfaction and pride to those debtors who complete them and at the same time effect a maximum return to creditors. The limitation of § 727(a)(8) will also provide a slight brake on the wholesale filings of chapter 13’s by small businessmen who wish to avoid some of the restrictions of chapter 11. It is also necessary to prevent chapter 13 plans from turning into mere offers of composition plans under which payments would equal only the non-exempt assets of the debtor.” Senate Report, supra, p. 13, U.S.Code Cong. &amp; Admin. News 1978, p. 5799.
+ </blockquote>
+<p id="b604-17">
+  In the final senate debates, Senator DeCon-cini said:
+ </p>
+<blockquote id="b604-19">
+  “. . . Debtors under this chapter will be able to voluntarily pay off their debts while being under the protection of the court. This allows for greater payouts to creditors than would probably occur if the debtor took straight bankrupt
+  <span citation-index="1" class="star-pagination" label="557"> 
+   *557
+   </span>
+  cy, and it preserves the debtor’s self-esteem by permitting him to pay his debts using his best efforts without incurring undue hardship.” 124 Cong.Rec., S 17403-4 (Oct. 6,197s).
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+</blockquote>
+<p id="Ahg">
+  The legislative history shows that Congress did not contemplate the use of Chapter 13 as a device for paying almost nothing to settle one’s unsecured debts without the disadvantages of liquidation.
+ </p>
+<p id="b605-5">
+  3. While Chapter 7 provisions may not apply to Chapter 13 cases, the court can consider the Act as a whole in order to determine the intent of Congress. As stated in 73 Am.Jur.2d, Statutes, Sec. 255:
+ </p>
+<blockquote id="b605-6">
+  “In the absence of a showing to the contrary, all laws are presumed to be consistent with each other. Where it is possible to do so, it is the duty of the courts, in the construction of statutes, to harmonize and reconcile laws, and to adopt that construction of a statutory provision which harmonizes and reconciles it with other statutory provisions. These rules are particularly applicable to statutes passed at or about the same time, or at the same session of the legislature, since it is not to be presumed that the same body of men would pass conflicting and incongruous acts.
+ </blockquote>
+<blockquote id="b605-7">
+  “Likewise the various provisions of a single act should be so read that all may, if possible, have effect without repugnan-cy or inconsistency, or as to render the statute a consistent and harmonious whole.
+ </blockquote>
+<blockquote id="b605-8">
+  “Although the courts cannot add to, take from, or change, the language of a statute to give effect to any supposed intention of the legislature, words and phrases may be altered and supplied when that is necessary to obviate repug-nancy and inconsistency and to give effect to the manifest intention of the legislature.
+ </blockquote>
+<blockquote id="b605-9">
+  “The only basis for considering the question of reconciliation of statutes is an ambiguity of law, and the doctrine does not apply where there is no such ambigui-
+ </blockquote>
+<p id="b605-11">
+  In view of the conflict in opinions of judges, legal writers and attorneys as to the meaning of Section 1325, there is an ambiguity. Many have been disturbed by a lack of direction from Congress in Chapter 13. If the rights afforded the debtor under Chapter 13 and Chapter 7 were the same, there would be no problem. However, in an effort to encourage the filing of Chapter 13’s, Congress has created many special inducements to debtors. In “The Bankruptcy Report Act of 1978”, 134 (Institute of Continuing Legal Education, Ann Arbor, Mich. 1979) Hon. John J. Dilenschneider, a former Bankruptcy Judge, states:
+ </p>
+<blockquote id="b605-12">
+  “If you foresee that your client’s debt will not be discharged in a liquidation proceeding, try a personal reorganization under chapter 13, because if a chapter 13 plan is completed, whether it is an extension (100 percent) plan or a composition plan, all debts are discharged except alimony, long-term debts such as home mortgages, and postpetition debts which are incurred without prior permission of the court. For example, if your client has filed a liquidation case within the past six years and will not be able to explain a loss of assets, try chapter 13, because there are no grounds for objection to discharge in chapter 13. If the same client owes an educational loan, and a debt based on a false financial statement, and a debt for willful and malicious conversion or injury to the property of another, try chapter 13. The only exceptions to discharge in chapter 13 are the ones I mentioned: alimony, long-term debts, and postpetition debts. Only if your client fails to complete a chapter 13 plan and gets a hardship discharge do the liquidation exceptions apply. With all its advantages, any lawyer representing consumer debtors who fails to consider chapter 13 could well be guilty of malpractice.”
+ </blockquote>
+<p id="b606-3">
+<span citation-index="1" class="star-pagination" label="558"> 
+   *558
+   </span>
+  In addition to the advantages to the debt- or mentioned by Judge Dilenschneider are others:
+ </p>
+<blockquote id="b606-4">
+  (1) The possibility of paying his attorney and court costs through the plan with nothing paid in advance.
+ </blockquote>
+<blockquote id="b606-5">
+  (2) The right to pay secured creditors the value of the collateral and thus retain the property. Sec. 1325(a)(5)(B)
+ </blockquote>
+<blockquote id="b606-6">
+  (3) Protection is afforded co-debtors of the debtor under certain circumstances. Sec. 1301
+ </blockquote>
+<blockquote id="b606-7">
+  (4) There seems to be no limit to the number of discharges a debtor can obtain as long as he continues to use only Chapter 13.
+ </blockquote>
+<p id="b606-8">
+  In consideration of these many advantages granted to the Chapter 13 debtor, there should be some offsetting advantages to the creditor or disadvantages to the debt- or.
+ </p>
+<p id="b606-9">
+  But, if we assume that good faith means nothing more than the fact that a plan complies with the letter of the law, then, why have Chapter 7 except for corporations and partnerships? As has been said by some able students of the law — “any lawyer filing a Chapter 7 case for an individual is guilty of malpractice.” So you can’t receive a discharge in a Chapter 7 case because you didn’t pay 70% to unsecured creditors? No problem — file another Chapter 13 case.
+ </p>
+<p id="b606-10">
+  Considering the history of bankruptcy, the legislative history of the 1978 Code, and the Code as a whole, I am satisfied that Congress intended by the requirement of “good faith,” to rely upon the common sense and the perception of justice and equity in the federal courts to assure the fair administration of the new Chapter 13. Such fairness cannot be achieved by confirming the plan in this case.
+ </p>
+<p id="b606-11">
+  Several bankruptcy courts have decided the question of good faith in Chapter 13 cases. As yet, no decisions on appeal have been published. The decisions are not wholly in agreement though most of them are in accord with this holding.
+ </p>
+<p id="b606-12">
+  In chronological order these cases are as follows:
+ </p>
+<p id="b606-13">
+<em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, <span class="citation no-link">5 B.C.D. 1270</span>, 1 C.B.C.2d 313 (D.Utah, 1980). Several no payment cases were consolidated. In an excellent opinion, Judge Mabey holds that Sec. 1325(a)(3) requires a good faith effort by making a meaningful payment to unsecured creditors. Confirmation denied.
+ </p>
+<p id="b606-14">
+<em>
+   In re Powell,
+  </em>
+  <span class="citation" data-id="1887669"><a href="/opinion/1887669/general-finance-co-of-virginia-v-powell-in-re-powell/" aria-description="Citation for case: General Finance Co. of Virginia v. Powell (In Re Powell)">2 B.R. 314</a></span>, <span class="citation" data-id="1887669"><a href="/opinion/1887669/general-finance-co-of-virginia-v-powell-in-re-powell/" aria-description="Citation for case: General Finance Co. of Virginia v. Powell (In Re Powell)">5 B.C.D. 1233</a></span>, 1 C.B.C.2d 371 (E.D.Va., 1980) 50% plan — no previous bankruptcy. Court found good faith. Court held “best effort” was not required although it found that there was best effort. Confirmation granted.
+ </p>
+<p id="b606-15">
+<em>
+   In re Fonnest,
+  </em>
+  <span class="citation" data-id="1887123"><a href="/opinion/1887123/in-re-carter/" aria-description="Citation for case: In Re Carter">5 B.C.D. 1236</a></span>, 1 C.B.C.2d 383 (N.D.Cal., 1980). Nothing or a de-mini-mus payment to unsecured creditors. One codebtor claim was to be paid 100%. Court held “not feasible not reasonable.” In view of a later opinion by Judge Brown, apparently, the unequal treatment of creditors was the controlling factor.
+ </p>
+<p id="b606-16">
+<em>
+   In re Beaver,
+  </em>
+  <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/" aria-description="Citation for case: In Re Beaver">2 B.R. 337</a></span>, <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/" aria-description="Citation for case: In Re Beaver">5 B.C.D. 1285</a></span> (S.D.Cal., 1980) 1% plan in five monthly payments. Trustee would be paying $200 to debtor’s attorney, $23.21 for the trustees fees and expenses and $32.06 for unsecured creditors. In an excellent decision, Judge Meyers held that the plan “has the unfortunate effect of relegating the Chapter 13 trustee into being little more than a collection agent for attorney’s fees and other costs of administration.” Judge Meyers then states:
+ </p>
+<blockquote id="b606-17">
+  “If this Court were to confirm this plan it would be a distortion of the very purposes that prompted the enactment of Chapter 13 and would mock those many thousands of “poor but honest” wage earners and debtors who fairly deal with their creditors under the Act and under the Code.”
+ </blockquote>
+<p id="b606-18">
+<em>
+   In re Burrell,
+  </em>
+  <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">2 B.R. 650</a></span>, <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">5 B.C.D. 1321</a></span>, 1 C.B.C.2d 474 (N.D.Cal., 1980) 15% plan over 36 months. Confirmation denied. The court seems to read into Section 1325(a) the requirement of best effort and substantial payments (70% or more).
+ </p>
+<p id="b606-19">
+<em>
+   In re Campbell,
+  </em>
+  <span class="citation" data-id="1970642"><a href="/opinion/1970642/in-re-campbell/" aria-description="Citation for case: In Re Campbell">3 B.R. 57</a></span>, <span class="citation" data-id="1970642"><a href="/opinion/1970642/in-re-campbell/" aria-description="Citation for case: In Re Campbell">5 B.C.D. 1365</a></span> (S.D.Cal., 1980) 1% plan. Confirmation denied. While not agreeing with
+  <em>
+   In re Bur
+  </em>
+<span citation-index="1" class="star-pagination" label="559"> 
+   *559
+   </span>
+<em>
+   <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">rell, supra,</a></span>
+  </em>
+  that 70% is required, at least substantial payments to unsecured creditors must be made.
+ </p>
+<p id="b607-4">
+<em>
+   In re Webb,
+  </em>
+  <span class="citation" data-id="1970546"><a href="/opinion/1970546/in-re-webb/" aria-description="Citation for case: In Re Webb">3 B.R. 61</a></span>, <span class="citation" data-id="1970546"><a href="/opinion/1970546/in-re-webb/" aria-description="Citation for case: In Re Webb">5 B.C.D. 1379</a></span>, 1 C.B.C.2d 465 (N.D.Cal., 1980) 1% plan. Previous discharge would result in denial of discharge in Chapter 7. Court held that a 1% plan would be insulting but did approve a 0% plan.
+ </p>
+<p id="b607-5">
+<em>
+   In re Terry,
+  </em>
+  <span class="citation" data-id="1970481"><a href="/opinion/1970481/tenney-v-terry-in-re-terry/" aria-description="Citation for case: Tenney v. Terry (In Re Terry)">3 B.R. 63</a></span>, <span class="citation" data-id="1970481"><a href="/opinion/1970481/tenney-v-terry-in-re-terry/" aria-description="Citation for case: Tenney v. Terry (In Re Terry)">5 B.C.D. 1397</a></span> (W.D.Ark., 1980). No payment plan. Held, good faith. Plan confirmed.
+ </p>
+<p id="b607-6">
+<em>
+   In re Howard,
+  </em>
+  <span class="citation" data-id="1970311"><a href="/opinion/1970311/in-re-howard/" aria-description="Citation for case: In Re Howard">3 B.R. 75</a></span>, <span class="citation" data-id="1970311"><a href="/opinion/1970311/in-re-howard/" aria-description="Citation for case: In Re Howard">5 B.C.D. 1375</a></span> (S.D.Cal., 1980) 1% plan — 3 monthly payments — confirmation denied. Plan modified to a 1% plan over 5 months. Again confirmation denied. Plan finally modified to an 8% plan over 36 months. Again, held not to be in good faith and confirmation denied. Judge Katz stated at p. 1376, 3 B.R. at p. 76:
+ </p>
+<blockquote id="b607-7">
+  “A review of the legislative history of Chapter 13 leads to the conclusion that the drafters did not intend the liberal provisions of Chapter 13 to be used as a disguised Chapter 7 Liquidation. The drafters intended debtors to deal fairly and justly with their creditors. As a reward for such dealings, debtors were given the ‘super’ discharge provided for in § 1328(a) by which all debts, except alimony and child support obligations [§ 523(a)(5)] and certain long term debts [§ 1322(b)(5)], are discharged upon successful completion of the plan.”
+ </blockquote>
+<p id="b607-8">
+<em>
+   In re Keckler,
+  </em>
+  <span class="citation" data-id="1970746"><a href="/opinion/1970746/cleveland-trust-co-v-keckler-in-re-keckler/" aria-description="Citation for case: Cleveland Trust Co. v. Keckler (In Re Keckler)">3 B.R. 155</a></span>, <span class="citation" data-id="1970746"><a href="/opinion/1970746/cleveland-trust-co-v-keckler-in-re-keckler/" aria-description="Citation for case: Cleveland Trust Co. v. Keckler (In Re Keckler)">6 B.C.D. 14</a></span> (N.D.Ohio, 1980) 5% plan. Debtor had been convicted of embezzlement. The 3 year plan included turning over tax refunds. Plan was confirmed. Under the very special facts of this case, I would not differ with Judge White’s decision.
+ </p>
+<p id="b607-9">
+<em>
+   In re Anderson,
+  </em>
+  <span class="citation" data-id="1970812"><a href="/opinion/1970812/in-re-anderson/" aria-description="Citation for case: In Re Anderson">3 B.R. 160</a></span>, <span class="citation" data-id="1970812"><a href="/opinion/1970812/in-re-anderson/" aria-description="Citation for case: In Re Anderson">6 B.C.D. 73</a></span> (S.D.Cal., 1980) 1% in 15 months. Court found that the sole purpose of the debtor was to arrange to pay off secured claims. Confirmation was denied.
+ </p>
+<p id="b607-12">
+<em>
+   In re Lucas,
+  </em>
+  <span class="citation" data-id="1970815"><a href="/opinion/1970815/in-re-lucas/" aria-description="Citation for case: In Re Lucas">3 B.R. 252</a></span>, <span class="citation" data-id="1970815"><a href="/opinion/1970815/in-re-lucas/" aria-description="Citation for case: In Re Lucas">6 B.C.D. 82</a></span> (S.D. Cal., 1980) 1% plan — over 30 months. Judge Katz again held that a 1% plan could not be in good faith — also, he held that debtor could not make the payments as called for by the plan and, therefore, it was not feasible.
+ </p>
+<p id="b607-13">
+<em>
+   In re Marlow,
+  </em>
+  <span class="citation" data-id="1970491"><a href="/opinion/1970491/matter-of-marlow/" aria-description="Citation for case: Matter of Marlow">3 B.R. 305</a></span>, <span class="citation" data-id="1970491"><a href="/opinion/1970491/matter-of-marlow/" aria-description="Citation for case: Matter of Marlow">6 B.C.D. 77</a></span> (N.D.Ill., 1980) 1% plan. Objecting creditor claimed to have a nondischargeable debt. The court refused to deny confirmation on this basis. However, the court held that a 1% plan plus a nondischargeable debt was fatal and that the plan was not consistent with the spirit and purpose of Chapter 13 and was, thus, not filed in good faith.
+ </p>
+<p id="b607-14">
+<em>
+   In re Bloom,
+  </em>
+  <span class="citation" data-id="1970474"><a href="/opinion/1970474/in-re-bloom/" aria-description="Citation for case: In Re Bloom">3 B.R. 467</a></span>, <span class="citation" data-id="1970474"><a href="/opinion/1970474/in-re-bloom/" aria-description="Citation for case: In Re Bloom">6 B.C.D. 141</a></span> (C.D.Cal., 1980) 1% plan. Confirmation denied as there was no “reasonable and substantial payment to the creditors.”
+ </p>
+<p id="b607-15">
+  The effect of the new Chapter 13 is shocking. In the last four months before October 1, 1980, Chapter XIII plans before this Judge alone were as follows:
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+</p>
+<blockquote id="b607-16">
+  100% plans 83%
+ </blockquote>
+<blockquote id="b607-17">
+  50 - 99% plans none
+ </blockquote>
+<blockquote id="b607-18">
+  11 - 49% plans 7%
+ </blockquote>
+<blockquote id="b607-19">
+  6 - 10% plans 5%
+ </blockquote>
+<blockquote id="b607-20">
+  5% or less plans 2%
+ </blockquote>
+<p id="b607-21">
+  Chapter 13 plans from October 1 through March 1980 were:
+ </p>
+<blockquote id="b607-22">
+  100% plans 29%
+ </blockquote>
+<blockquote id="b607-23">
+  50 - 99% plans 2%
+ </blockquote>
+<blockquote id="b607-24">
+  11 - 59% plans 4%
+ </blockquote>
+<blockquote id="b607-25">
+  6 - 10% plans 26%
+ </blockquote>
+<blockquote id="b607-26">
+  5% or less plans 38%
+ </blockquote>
+<p id="b607-27">
+  The trend is indicated by the last month (March) alone:
+ </p>
+<blockquote id="b607-28">
+  100% plans 5%
+ </blockquote>
+<blockquote id="b607-29">
+  50 - 99% plans none
+ </blockquote>
+<blockquote id="b607-30">
+  11 - 49% plans 2%
+ </blockquote>
+<blockquote id="b607-31">
+  6 - 10% plans 36%
+ </blockquote>
+<blockquote id="b607-32">
+  5% or less plans 53%
+ </blockquote>
+<p id="b607-33">
+  Only 56 cases under Chapter 13 were filed in October, 1979, but, of these, 70% were 100% plans.
+ </p>
+<p id="b608-3">
+<span citation-index="1" class="star-pagination" label="560"> 
+   *560
+   </span>
+  Thus, once the necessity of obtaining acceptances was removed, many debtors found that they could not pay substantial amounts to unsecured creditors.
+ </p>
+<p id="b608-4">
+  It would be helpful if the Courts could lay down guidelines for the assistance of debtors’ attorneys. However, each Chapter 13 case presents a unique problem. As mentioned in the cases cited, many factors must be considered — whether the distribution to unsecured creditors is meaningful, the ability of the debtor to pay, prior petitions in the bankruptcy courts, extent and nature of the debts, division by classes and the extent of preferential treatment between classes, the inability to obtain a discharge or the extent of questionable dis-chargeability of large claims in Chapter 7, and the relationship of attorneys’ fees and administration expenses to the amount to be paid to unsecured creditors. I can conceive of a case with very special circumstances, such as those before Judge White in
+  <em>
+   In re <span class="citation" data-id="1970746"><a href="/opinion/1970746/cleveland-trust-co-v-keckler-in-re-keckler/" aria-description="Citation for case: Cleveland Trust Co. v. Keckler (In Re Keckler)">Keckler, supra,</a></span>
+  </em>
+  where I might be inclined to confirm even a 5% plan. On the other hand, under a different set of facts, a 95% plan might be found to have been filed in bad faith. As time goes on, it will become clear from the decisions of the bankruptcy courts and appellate courts as to what plans will be confirmed.
+ </p>
+<p id="b608-5">
+  A five percent plan can be meaningful only under exceptional circumstances. Those circumstances are not present in this case. One debtor could not receive a discharge under Chapter 7. Both debtors filed a Chapter XIII case only a few months before filing this case representing that a 100% plan was feasible and after notices of that filing and the first meeting of creditors, debtors failed to appear at the first meeting, as ordered by the court. In these two cases, debtors incurred attorneys fees of $1400.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  The purpose of this case is almost solely to pay secured creditors and administration expenses. There was no evidence that there had been any change in circumstances between the filing of the Chapter XIII and the Chapter 13 cases. I therefore conclude that a 5% plan is not in good faith and only a plan making a substantial distribution to unsecured creditors could be confirmed by the court.
+ </p>
+<p id="b608-10">
+  The confirmation hearing is adjourned at which time the court will consider amendments to the plan and whether or not the case should be transferred to Chapter 7 or be dismissed.
+ </p>
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b605-10">
+   . The Senator’s statement shows that Congress did not intend to provide for the confirmation of minimal composition plans. However, I do not-believe that use of the term “best efforts” means that “best efforts” is to be the test for finding “good faith”.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b607-34">
+   . These figures were obtained by examining “first meeting input worksheets” filled out by this Court’s staff after Chapter 13 plans are filed. Worksheets for plans on which hearings would be held by this Judge in Grand Rapids or Kalamazoo were used.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b608-6">
+   . As attorneys are not scheduled as creditors, and as the same attorneys represented debtors in both cases, the court concludes that debtors paid the $600 fees charged for the Chapter XIII case.
+  </p>
+</div></div></opinion>

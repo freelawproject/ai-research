@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b301-21">
+  MEMORANDUM OPINION AND ORDER
+ </p>
+<author id="b301-22">
+  JACK B. SCHMETTERER, Bankruptcy Judge.
+ </author>
+<p id="b301-23">
+  This cause comes before the Court on the Objection of GLENN WEEKS (“Weeks”), holder of an unsecured claim, to Confirmation of Debtor’s (“Todd”) Chapter 13 Plan. For the reasons stated below, the Objection is sustained and confirmation of the Plan proposed with amendment moved for on July 17, 1986 is denied. The facts stated below are derived from the pleadings and evidence hearings held July 17th, 24th and 31st, 1986.
+ </p>
+<p id="b302-3">
+<span citation-index="1" class="star-pagination" label="250"> 
+   *250
+   </span>
+  FACTS
+ </p>
+<p id="b302-4">
+  Weeks is the holder of an unsecured claim against Stephen Todd in the amount of $31,967.02. This claim arises from a judgment entered by United States District Judge Prentice Marshall of this District in the case of
+  <em>
+   Glenn Weeks v. Stephen Todd,
+  </em>
+  Case No. 82 C 4657.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  The above lawsuit was based upon an asserted willful violation by Todd of Weeks’ civil rights under <span class="citation no-link">42 U.S.C. § 1983</span>. Todd is now and has for the past 18 years been a Chicago Police Officer. The Complaint on which judgment was entered alleged the following facts:
+ </p>
+<blockquote id="A55">
+  On the evening of April 9, 1982, as Weeks was arriving home in his car, Todd stopped him. Todd ordered Weeks out of his car, pulled a pistol, and placed it to Weeks’ head. Todd stated that he was a Chicago Police Officer, but he refused to show proper identification. Weeks ran into his apartment building seeking help. Todd chased him, beat him, injured him, and unlawfully detained him.
+ </blockquote>
+<p id="b302-5">
+  The jury assessed punitive damages against Todd in the sum of $8,000.00. Todd’s total debt arising from this judgment amounts to $31,967.02, plus statutory interest. In addition to the $8,000.00 punitive damage award, this figure includes: compensatory damages of $5,000.00, attorney’s fees of $12,066.25, $461.50 for expenses, and interest of $6,439.27.
+ </p>
+<p id="b302-6">
+  The original Chapter 13 Plan was filed shortly after a recent garnishment on that judgment. Todd offered that Plan on April 21, 1986. It was to run 36 months with a monthly plan payment of $250.00. Unsecured creditors were to be paid 10% of the value of their claims, with the exception of a $3,300.00 debt owed to the Chicago Patrolman’s Federal Credit Union which debt was to be paid 100% as a special class to protect co-signer. On July 17, 1986, Todd submitted an amended plan after the standing trustee apparently had argued that he could afford a larger payment. Under the terms of the amended plan all unsecured creditors, except for Weeks and the Chicago Patrolman’s Federal Credit Union, were to receive 10% of the value of their claims. The plan was to run 40 months with monthly plan payments of $366.00. Under this amended plan, Todd proposed to pay 26% of Weeks’ claim as a special class.
+ </p>
+<p id="b302-9">
+  Weeks objects to confirmation of the amended plan alleging that the plan was filed in bad faith. Weeks asserts that because his claim is based on Todd’s “reprehensible and flagrant” acts which lead to judgment, Todd should not be able to use the provisions of the Bankruptcy Code to avoid full compensation. Short of full compensation, however, Weeks asks that Todd’s plan be extended to 60 months, which Weeks asserts will result in payment of approximately 39% of his claim.
+ </p>
+<p id="b302-10">
+  DISCUSSION
+ </p>
+<p id="b302-11">
+  Had Todd filed a Chapter 7 petition in bankruptcy, <span class="citation no-link">11 U.S.C. § 523</span>(a)(6) would have been applicable. Under that provision, an individual debtor may not be discharged for “willful and malicious injury by the debtor to another entity or to the property of another entity.” Thus, the instant judgment debt arising from a § 1983 violation for the acts alleged would likely have been held nondischargeable under Chapter 7 of the Bankruptcy Code.
+ </p>
+<p id="b302-12">
+  A Chapter 13 discharge, however, is broader than a Chapter 7 discharge. It discharges all debts except those for child support, alimony, and certain long term debts where the last payment is due after completion of the plan. <span class="citation no-link">11 U.S.C. § 1328</span>(a). But to benefit from these liberal discharge provisions, the debtor must comply with <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3) which requires that the plan be proposed in good faith and not by any means forbidden by law. The good faith requirement “has long
+  <span citation-index="1" class="star-pagination" label="251"> 
+   *251
+   </span>
+  been the policing mechanism of bankruptcy courts to assure that those who invoke the reorganization provisions of the bankruptcy law do so only to accomplish the aims and objectives of bankruptcy philosophy and for no other purpose.”
+  <em>
+   In re Chase,
+  </em>
+  <span class="citation" data-id="1826934"><a href="/opinion/1826934/in-re-chase/#745" aria-description="Citation for case: In Re Chase">43 B.R. 739, 745</a></span> (D.Md.1984).
+ </p>
+<p id="b303-5">
+  The Bankruptcy Court has a duty to examine on a case-by-case basis whether the debtor has acted in good faith, and has broad discretion to prevent abuses of the liberal Chapter 13 discharge provisions.
+  <em>
+   In re Rimgale,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/669/426/">669 F.2d 426</a></span>, 428 (7th Cir.1982);
+  <em>
+   In re Oliver,
+  </em>
+  <span class="citation" data-id="1958517"><a href="/opinion/1958517/margraf-v-oliver-in-re-oliver/#425" aria-description="Citation for case: Margraf v. Oliver (In Re Oliver)">28 B.R. 420, 425</a></span> (Bankr.S.D.Ohio 1983). Indeed, the good faith inquiry is the central, and perhaps the most important, finding to be made in any Chapter 13 proceeding.
+  <em>
+   See In re Boyd,
+  </em>
+  <span class="citation" data-id="1553455"><a href="/opinion/1553455/in-re-boyd/" aria-description="Citation for case: In Re Boyd">57 B.R. 410</a></span> (Bankr.N.D.Ill.1983).
+ </p>
+<p id="b303-6">
+  The issue posed by the Weeks Objection is whether Todd’s Chapter 13 plan meets the good faith requirement of § 1325(a)(3) where that plan offers to pay only 26% of a debt stemming from the § 1983 violation of which Debtor was found liable in civil suit.
+ </p>
+<p id="b303-7">
+  The Bankruptcy Code does not define good faith. As a result, the interpretation of the good faith requirement has generated more litigation than any other single part of Chapter 13.
+  <em>
+   See
+  </em>
+  Cyr, The Chapter 13 “Good Faith” Tempest: An Analysis and Proposal for Change, 55 Am.Bankr.L.J. 271 (1981). The test for good faith in this Circuit was broadly set out in
+  <em>
+   In re Rimgale,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/669/426/">669 F.2d 426</a></span> (7th Cir.1982) where the court concluded that a determination that good faith is lacking should be premised on the facts and circumstances of the particular case.
+  <em>
+   Id.
+  </em>
+  at 431. The
+  <em>
+   Rimgale
+  </em>
+  court stated that:
+ </p>
+<blockquote id="b303-8">
+  ... a comprehensive definition of good faith is not practical. Broadly speaking the basic inquiry should be whether or not under the circumstances of the case there has been abuse of the provisions, purpose, or spirit of [Chapter 13].
+ </blockquote>
+<p id="b303-9">
+<em>
+   Id.
+  </em>
+  at 431.
+ </p>
+<p id="b303-10">
+  Cases decided since
+  <em>
+   Rimgale
+  </em>
+  have grappled with the issue of what behavior on the part of the debtor might constitute an “abuse” of the “provisions, purpose or spirit” of Chapter 13. The majority of Circuits that have considered the good faith question agree that some of the factors a court might find meaningful in making a good faith assessment are:
+ </p>
+<blockquote id="b303-12">
+  (1) the amount of the proposed payments and the amount of the debtor’s surplus;
+ </blockquote>
+<blockquote id="b303-13">
+  (2) the debtor’s employment history, ability to earn and likelihood of future increases in income;
+ </blockquote>
+<blockquote id="b303-14">
+  (3) the probable or expected duration of the plan;
+ </blockquote>
+<blockquote id="b303-15">
+  (4) the accuracy of the plan’s statements of the debts, expenses and percentage repayment of unsecured debt and whether any inaccuracies are an attempt to mislead the court;
+ </blockquote>
+<blockquote id="b303-16">
+  (5) the extent of preferential treatment between classes of creditors;
+ </blockquote>
+<blockquote id="b303-17">
+  (6) the extent to which secured claims are modified;
+ </blockquote>
+<blockquote id="b303-18">
+  (7) the type of debt sought to be discharged and whether any such debt is non-dischargeable in Chapter 7;
+ </blockquote>
+<blockquote id="b303-19">
+  (8) the existence of special circumstances such an inordinate medical expenses;
+ </blockquote>
+<blockquote id="b303-20">
+  (9) the frequency with which the debt- or has sought relief under the Bankruptcy Reform Act;
+ </blockquote>
+<blockquote id="b303-21">
+  (10) the motivation and sincerity of the debtor in seeking Chapter 13 relief; and
+ </blockquote>
+<blockquote id="b303-22">
+  (11) the burden which the plan’s administration would place upon the trustee.
+ </blockquote>
+<p id="b303-23">
+<em>
+   See Neufeld v. Freeman,
+  </em>
+  <span class="citation" data-id="472172"><a href="/opinion/472172/william-neufeld-creditor-v-susan-k-freeman-debtor-and-emily-y-wilson/" aria-description="Citation for case: William Neufeld, Creditor v. Susan K. Freeman, Debtor,...">794 F.2d 149</a></span> (4th Cir.1986);
+  <em>
+   In re Estus,
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d 311</a></span> (8th Cir.1982);
+  <em>
+   Memphis Banking and Trust Co. v. Whitman,
+  </em>
+  <span class="citation" data-id="410407"><a href="/opinion/410407/memphis-bank-trust-company-v-linda-gail-whitman/" aria-description="Citation for case: Memphis Bank &amp; Trust Company v. Linda Gail Whitman">692 F.2d 427</a></span> (6th Cir.1982);
+  <em>
+   Flygare v. Boulden,
+  </em>
+  <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">709 F.2d 1344</a></span> (10th Cir.1983);
+  <em>
+   See also In re Kitchens,
+  </em>
+  <span class="citation" data-id="415578"><a href="/opinion/415578/in-re-charles-e-kitchens-and-olivia-l-kitchens-bankrupt-charles-e/#889" aria-description="Citation for case: In Re Charles E. Kitchens and Olivia L. Kitchens,...">702 F.2d 885, 889</a></span> (11th Cir.1983) (“factors not intended to comprise an exhaustive list, but to aid bankruptcy courts as they determine whether debtors have proposed Chapter 13 plans in good faith”).
+ </p>
+<p id="b303-24">
+  Analysis of Chapter 13 petitions for good faith have, almost without exception, involved a focus on one or two of these
+  <span citation-index="1" class="star-pagination" label="252"> 
+   *252
+   </span>
+  factors rather than an assessment of all of them.
+  <em>
+   See Matter of Keiser,
+  </em>
+  <span class="citation" data-id="1894708"><a href="/opinion/1894708/matter-of-keiser/" aria-description="Citation for case: Matter of Keiser">35 B.R. 496</a></span> (Bankr.Del.1983).
+ </p>
+<p id="b304-4">
+  Under the facts of this case, the third, fifth, and seventh factors listed above are dispositive here.
+ </p>
+<p id="b304-5">
+  1.
+  <em>
+   Duration of the Plan.
+  </em>
+</p>
+<p id="b304-6">
+  In this case, Todd proposes to pay 26% of Weeks’ claim over a 40 month period. Todd has therefore not proposed a plan which would run for the five-year maximum period allowable under Chapter 13. If payments were made over a five-year period, Weeks asserts that he would receive 39% of his claim; 13% more than under Todd’s proposed plan.
+ </p>
+<p id="b304-7">
+  Ordinarily, a Chapter 13 plan is to last no longer than three years. <span class="citation no-link">11 U.S.C. § 1322</span>(c). However, plans up to five years can be proposed on a showing of cause that would justify extending the payments over a longer period. <span class="citation no-link">11 U.S.C. § 1322</span>(c), § 1329(c). Where a Chapter 13 plan involves a debt which potentially would be nondischargeable in a Chapter 7, courts have found that to be adequate cause to extend plans beyond three years. For example, in
+  <em>
+   In re Chase,
+  </em>
+  <span class="citation" data-id="1958064"><a href="/opinion/1958064/in-re-chase/" aria-description="Citation for case: In Re Chase">28 B.R. 814</a></span> (Bankr.Md.1983), the court held that where a debt is dischargeable in a Chapter 13 proceeding but nondischargeable in Chapter 7, and where debtor fails to propose a plan for the maximum period permissible, the plan will be denied confirmation on grounds of bad faith.
+  <em>
+   See also In re Williams,
+  </em>
+  <span class="citation" data-id="1909033"><a href="/opinion/1909033/in-re-williams/" aria-description="Citation for case: In Re Williams">42 B.R. 474</a></span> (Bankr.E.D.Ark.1984) (court denied confirmation of a plan which proposed a 37% repayment of an $11,625.00 student loan noting that repayment would have been more meaningful if the plan were extended from 36 to 60 months);
+  <em>
+   Matter of Keiser,
+  </em>
+  <span class="citation" data-id="1894708"><a href="/opinion/1894708/matter-of-keiser/" aria-description="Citation for case: Matter of Keiser">35 B.R. 496</a></span> (Bankr.Del.1983) (court denied confirmation of a Chapter 13 plan involving debts which were nondischargeable in a Chapter 7 noting that debtor’s proposal of payment for less than the maximum five year period in combination with other circumstances indicated bad faith).
+ </p>
+<p id="b304-8">
+  Authority in this jurisdiction supports requiring debtors to propose five-year plans in certain Chapter 13 cases:
+ </p>
+<blockquote id="b304-9">
+  As a matter of policy ... the Court believes debtors must make substantial efforts to pay their obligations, especially where the obligations are dischargeable under Chapter 13 yet nondischargable under Chapters 7 or 11.
+ </blockquote>
+<blockquote id="b304-10">
+  sfc H« # * # #
+ </blockquote>
+<blockquote id="b304-11">
+  Since good faith is a subjective term, this Court will not adopt a hard and fast rule that all unsecured debts must be paid at least a certain percentage amount. The Court will in Chapter 13 cases, however, require debtors to make substantial and meaningful payments aggregating a size-able or major part of the balance of debts that, although dischargeable in Chapter 13, would be nondischargeable in Chapters 7 and 11. The Court may require debtors to file five year composition plans so that the greater portion, if not all, of the debts which would be nondischargeable in Chapters 7 and 11 may be satisfied under the Chapter 13 plan.
+ </blockquote>
+<p id="b304-12">
+<em>
+   Illinois Department of Public Aid v. Osborne,
+  </em>
+  <span class="citation" data-id="1987481"><a href="/opinion/1987481/illinois-department-of-public-aid-v-osborne-in-re-osborne/#202" aria-description="Citation for case: Illinois Department of Public Aid v. Osborne (In Re Osborne)">8 B.R. 200, 202</a></span> (Bankr.N.D.Ill.1981) (Eisen, J.).
+ </p>
+<p id="b304-13">
+  Duration of the plan is thus one indication of bad faith. However, a debtor’s proposal of payment for less than the maximum period standing alone may not be enough to demonstrate bad faith.
+  <em>
+   See Matter of Keiser,
+  </em>
+  <span class="citation" data-id="1894708"><a href="/opinion/1894708/matter-of-keiser/#498" aria-description="Citation for case: Matter of Keiser">35 B.R. 496, 498</a></span> (Bankr.D.Del.1983). Thus, to determine whether Todd’s plan meets the good faith requirement contained in § 1325(a)(3) the Court will also examine the other factors at issue here — the possibility of preferential treatment between classes of creditors, and the nature of debt sought to be discharged and whether such debt is nondischargeable in Chapter 7.
+ </p>
+<p id="b304-14">
+  2.
+  <em>
+   Extent of Preferential Treatment Between Classes of Creditors
+  </em>
+</p>
+<p id="b304-15">
+  Todd’s plan prefers certain creditors because it proposes 100% payment to the Chicago Patrolmens Federal Credit Union which holds a cosigned debt guaranteed by a third party. In contrast, Todd is to be paid 26% of his claim, and the remaining
+  <span citation-index="1" class="star-pagination" label="253"> 
+   *253
+   </span>
+  unsecured creditors are to receive 10%. Section 1322 allows a debtor to provide for separate classification of unsecured claims. Specifically, § 1322(b)(1) states that a Chapter 13 plan “may treat claims for a consumer debt of the debtor if an individual is liable on such consumer debt with the debtor differently than other unsecured claims.” However, § 1322(b)(1) also requires that the plan “ ... not discriminate unfairly against any class so designated.” The debtor bears the burden of showing that the proposed classification does not unfairly discriminate.
+  <em>
+   See In re Bowles,
+  </em>
+  <span class="citation" data-id="1552837"><a href="/opinion/1552837/in-re-bowles/" aria-description="Citation for case: In Re Bowles">48 B.R. 502</a></span> (Bankr.E.D.Va.1985).
+ </p>
+<p id="b305-5">
+  Thus, the critical question here is not whether Todd can classify unsecured claims at all, but whether Todd’s proposal to pay 100% to the Chicago Patrolmens Federal Credit Union unfairly discriminates against other unsecured creditors who will receive a smaller percentage of payment under Todd’s plan.
+ </p>
+<p id="b305-6">
+  The four factors most often used by bankruptcy courts in determining whether a classification is unfairly discriminatory are:
+ </p>
+<p id="b305-7">
+  (1) Whether the discrimination has a reasonable basis;
+ </p>
+<p id="b305-8">
+  (2) Whether the debtor can carry out a plan without such discrimination;
+ </p>
+<p id="b305-9">
+  (3) Whether such discrimination is proposed in good faith; and
+ </p>
+<p id="b305-10">
+  (4) Whether there is meaningful payment to the class discriminated against.
+ </p>
+<p id="b305-11">
+<em>
+   See In re Kovich,
+  </em>
+  <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">4 B.R. 403</a></span> (Bankr.W.D.Mich.1980);
+  <em>
+   In re Dziedzic,
+  </em>
+  <span class="citation" data-id="1548269"><a href="/opinion/1548269/in-re-dziedzic/" aria-description="Citation for case: In Re Dziedzic">9 B.R. 424</a></span> (Bankr.S.D.Tex.1981);
+  <em>
+   In re Bowles,
+  </em>
+  <span class="citation" data-id="1552837"><a href="/opinion/1552837/in-re-bowles/" aria-description="Citation for case: In Re Bowles">48 B.R. 502</a></span> (Bankr.E.D.Va.1985);
+  <em>
+   In re Ratledge,
+  </em>
+  <span class="citation" data-id="1930304"><a href="/opinion/1930304/in-re-ratledge/" aria-description="Citation for case: In Re Ratledge">31 B.R. 897</a></span> (Bankr.E.D.Tenn.1983).
+ </p>
+<p id="b305-12">
+  Keeping the above four factors in mind, this Court concludes that Todd’s plan does not unfairly discriminate. Todd’s justification for the unequal treatment of one unsecured claim is that the debt to the Patrolmens Credit Union was cosigned by Todd’s police street partner. He asserted the need to maintain confidence and harmony with the man who thereby helped him, given the mutual reliance in their daily dangerous police work. Thus, the Court cannot say that the discrimination has no reasonable basis. Moreover, Todd might not carry out this plan without such discrimination because unless this cosigned obligation is repaid, the creditor can proceed against the cosigner, who in turn might put indirect pressure on debtor and interfere with the “fresh start” the Bankruptcy Code is supposed to provide.
+  <em>
+   See In re Perkins,
+  </em>
+  <span class="citation" data-id="1543477"><a href="/opinion/1543477/in-re-perkins/" aria-description="Citation for case: In Re Perkins">55 B.R. 422</a></span> (Bankr.N.D.Ok.1985). Therefore, Todd’s plan meets the requirements of § 1322(b)(1) because the proposed classification of unsecured creditors is not unfairly discriminatory.
+ </p>
+<p id="b305-15">
+  3.
+  <em>
+   Type of Debt Sought to Be Discharged and Whether Any Such Debt is Non-dischargeable in Chapter 7
+  </em>
+</p>
+<p id="b305-16">
+  Another factor in the Court’s assessment of Todd’s plan is the nature of the debt and the circumstances under which it was acquired.
+  <em>
+   See In re Kitchens,
+  </em>
+  <span class="citation" data-id="415578"><a href="/opinion/415578/in-re-charles-e-kitchens-and-olivia-l-kitchens-bankrupt-charles-e/#889" aria-description="Citation for case: In Re Charles E. Kitchens and Olivia L. Kitchens,...">702 F.2d 885, 889</a></span> (11th Cir.1983). In this case, that factor is critical.
+ </p>
+<p id="b305-17">
+  Todd seeks a discharge from a judgment rendered against him under <span class="citation no-link">42 U.S.C. § 1983</span>. The peculiar importance of § 1983 must be a factor in the good faith determination to be made here.
+ </p>
+<p id="b305-18">
+  The general public purpose behind § 1983 is to help make effective the general guarantees of the Fourteenth Amendment
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  by insuring that officials under state law respect constitutional rights.
+  <em>
+   See generally
+  </em>
+  H. HYMAN, A MORE PERFECT UNION (1973); Gressman,
+  <em>
+   The Unhappy History of Civil Rights Legislation,
+  </em>
+  50 Mich.L.Rev. 1323 (1952). In the lan
+  <span citation-index="1" class="star-pagination" label="254"> 
+   *254
+   </span>
+  guage of the Supreme Court, § 1983 was designed to “enforce provisions of the Fourteenth Amendment against those who carry a badge of authority of a State.”
+  <em>
+   Scheuer v. Rhodes,
+  </em>
+  <span class="citation" data-id="109009"><a href="/opinion/109009/scheuer-v-rhodes/#243" aria-description="Citation for case: Scheuer v. Rhodes">416 U.S. 232, 243</a></span>, <span class="citation" data-id="109009"><a href="/opinion/109009/scheuer-v-rhodes/#1689" aria-description="Citation for case: Scheuer v. Rhodes">94 S.Ct. 1683, 1689</a></span>, <span class="citation" data-id="109009"><a href="/opinion/109009/scheuer-v-rhodes/" aria-description="Citation for case: Scheuer v. Rhodes">40 L.Ed.2d 90</a></span> (1974), quoting
+  <em>
+   Monroe v. Pape,
+  </em>
+  <span class="citation" data-id="9422118"><a href="/opinion/106170/monroe-v-pape/#172" aria-description="Citation for case: Monroe v. Pape">365 U.S. 167, 172</a></span>, <span class="citation" data-id="9422118"><a href="/opinion/106170/monroe-v-pape/#476" aria-description="Citation for case: Monroe v. Pape">81 S.Ct. 473, 476</a></span>, <span class="citation" data-id="9422118"><a href="/opinion/106170/monroe-v-pape/" aria-description="Citation for case: Monroe v. Pape">5 L.Ed.2d 492</a></span> (1961). Indeed, the danger from which it shields the citizen is the “misuse of power ... made possible only because the wrongdoer is clothed with the authority of state law_”
+  <em>
+   Scheuer,
+  </em>
+  <span class="citation" data-id="109009"><a href="/opinion/109009/scheuer-v-rhodes/#243" aria-description="Citation for case: Scheuer v. Rhodes">416 U.S. at 243</a></span>, <span class="citation" data-id="109009"><a href="/opinion/109009/scheuer-v-rhodes/#1690" aria-description="Citation for case: Scheuer v. Rhodes">94 S.Ct. at 1690</a></span>. Thus, § 1983 is an intergral part of the broader congressional scheme for honoring Fourteenth Amendment rights. The protection of these rights lies at the very essence of American constitutional government.
+  <em>
+   See generally
+  </em>
+  J. COOKE, THE FEDERALIST PAPERS (1961).
+ </p>
+<p id="b306-6">
+  Further illuminating the nature of the debt in this case is the great difficulty of obtaining damages under § 1983. The plight of a typical § 1983 plaintiff has been aptly summarized as follows:
+ </p>
+<blockquote id="b306-7">
+  [T]he individual defendant in [a § 1983] an action is typically a low level government official, such as a police officer.... These rank-and-file functionaries may well be sympathetic defendants in a jury’s eyes for they are likely to be perceived as hard-working employees doing the best they can, who could ill afford a hefty damage judgment_ [Moreover], many 1983 plaintiffs are likely to face great difficulty in securing adequate recoveries because of problems of damage measurement. For example, it is difficult to place a monetary value on a given plaintiffs ... dignitary and symbolic interest in not being subjected to false imprisonment, invasion of privacy, or stigmatization as a result of unwarranted interferences by government law officials_ In addition, although punitive damages are generally available in the 1983 action, and indeed have often been used to compensate plaintiffs where valuation of the right infringed would have been difficult, such damages are most often awarded only upon a showing that the defendant acted with malice.
+ </blockquote>
+<blockquote id="b306-11">
+  With avenues of relief closed off on all sides, or at least narrowed to mere alleys, 1983 damage actions have not been able to serve as an effective vehicle for securing either compensation or deterrence.
+ </blockquote>
+<p id="b306-12">
+<em>
+   Developments in the Law: Section 1983 and Federalism,
+  </em>
+  90 Harv.L.Rev. 1133, 1225-26 (1977).
+ </p>
+<p id="b306-13">
+  The inescapable conclusion is that § 1983 judgments are very hard to win, and one can therefore doubt they achieve the deterrent effect that Congress intended. In view of the heavy burden which § 1983 plaintiffs already bear, bankruptcy courts should be reluctant further to weaken the effectiveness of § 1983 to any greater extent than the language of the Code forces them to do. The important public policy served by § 1983 is to make constitutional protections into realities. That policy requires a most searching inquiry into the good faith issue under § 1325(a)(3) of the Bankruptcy Code.
+ </p>
+<p id="b306-14">
+  The § 1325(a)(3) good faith inquiry requires close consideration of Todd’s adjudicated pre-petition conduct. Weeks is owed a debt arising from the judgment he obtained in the district court in his § 1983 action. The origin of that debt would likely have rendered Weeks’ claim nondischargeable in a Chapter 7 case.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</p>
+<p id="b306-15">
+  That otherwise nondischargeable debts are covered by a Chapter 13 Plan does not preclude confirmation where the level of payments compared to the income of debt- or demonstrates a bona fide effort to repay such debts.
+  <em>
+   See In re Lambert,
+  </em>
+  <span class="citation" data-id="1864917"><a href="/opinion/1864917/matter-of-lambert/" aria-description="Citation for case: Matter of Lambert">10 B.R. 223</a></span> (Bankr.E.D.N.Y.1981);
+  <em>
+   In re Boyd,
+  </em>
+  57
+  <span citation-index="1" class="star-pagination" label="255"> 
+   *255
+   </span>
+  B.R. 410 (Bankr.N.D.Ill.1983);
+  <em>
+   In re Brown,
+  </em>
+  <span class="citation" data-id="1847818"><a href="/opinion/1847818/in-re-brown/" aria-description="Citation for case: In Re Brown">56 B.R. 293</a></span> (Bankr.N.D.Ill.1985). However, where all the facts lead inexorably to the conclusion that the debtor filed the petition to avoid, at minimal cost, a nondischargeable debt, courts have found an absence of good faith.
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (Bankr.D.Utah 1980);
+  <em>
+   In re Chase,
+  </em>
+  <span class="citation" data-id="1958064"><a href="/opinion/1958064/in-re-chase/" aria-description="Citation for case: In Re Chase">28 B.R. 814</a></span> (Bankr.D.Md.1983);
+  <em>
+   In re Chura,
+  </em>
+  <span class="citation" data-id="1935330"><a href="/opinion/1935330/in-re-chura/" aria-description="Citation for case: In Re Chura">33 B.R. 558</a></span> (Bankr.D.Col.1983).
+ </p>
+<p id="b307-4">
+  Not all bankruptcy judges agree that the good faith requirement of § 1325 authorizes a denial of confirmation to plans which otherwise seem to satisfy the requirements of the statute. Where that construction is rejected, Chapter 13 plans covering otherwise nondischargeable debts are routinely approved.
+  <em>
+   See In re Seely,
+  </em>
+  <span class="citation" data-id="1538137"><a href="/opinion/1538137/johnson-v-seely-in-re-seely/#313" aria-description="Citation for case: Johnson v. Seely (In Re Seely)">6 B.R. 309, 313</a></span> (Bankr.E.D.Va.1980) (“good faith does not touch upon dischargeability”);
+  <em>
+   In re McBride,
+  </em>
+  <span class="citation" data-id="1538690"><a href="/opinion/1538690/beneficial-finance-co-of-alabama-v-mcbride-in-re-mcbride/#392" aria-description="Citation for case: Beneficial Finance Co. of Alabama v. McBride (In Re McBride)">4 B.R. 389, 392</a></span> (Bankr.M.D.Ala.1980);
+  <em>
+   In re Slade,
+  </em>
+  <span class="citation" data-id="2027479"><a href="/opinion/2027479/bank-of-america-national-trust-savings-assn-v-slade-in-re-slade/" aria-description="Citation for case: Bank of America National Trust &amp; Savings Ass&#x27;n v. Slade...">15 B.R. 910</a></span> (9th Cir. BAP 1981). The rationale most often advanced is that the plain language of Chapter 13 permits a debtor to obtain a broader discharge than under Chapter 7. However, as the Second Circuit Court of Appeals has stated: “A statute should not be applied strictly in accord with its literal meaning where to do so would pervert its manifest purpose.”
+  <em>
+   In re Adamo,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/619/216/">619 F.2d 216</a></span>, 222 (2nd Cir.1980). Similarly, the Fourth Circuit Court of Appeals recently stated:
+ </p>
+<blockquote id="b307-5">
+  [The consideration of debtor’s pre-petition conduct] is not at cross-purposes with the admittedly liberal provisions of Chapter 13, under which debts resulting from illegal acts such as embezzlement, fraud, and willful and malicious injury, ordinarily may be discharged. Rather, it ensures against manipulation of the statute by debtors who default on obligations ground in dishonesty and who subsequently seek refuge in Chapter 13 in order to avoid, at minimal cost, a non-dischargeable debt. Unless such prepetition misconduct may be factored into the § 1325(a)(3) good faith equation, affected creditors, who might indeed fare substantially better under Chapter 7, with its stricter discharge provisions, would be unable effectively to challenge an offending plan.
+ </blockquote>
+<p id="b307-7">
+<em>
+   Neufeld v. Freeman,
+  </em>
+  <span class="citation" data-id="472172"><a href="/opinion/472172/william-neufeld-creditor-v-susan-k-freeman-debtor-and-emily-y-wilson/" aria-description="Citation for case: William Neufeld, Creditor v. Susan K. Freeman, Debtor,...">794 F.2d 149</a></span> (4th Cir.1986).
+  <em>
+   See also Memphis Bank and Trust Co. v. Whitman,
+  </em>
+  <span class="citation" data-id="410407"><a href="/opinion/410407/memphis-bank-trust-company-v-linda-gail-whitman/#431" aria-description="Citation for case: Memphis Bank &amp; Trust Company v. Linda Gail Whitman">692 F.2d 427, 431-32</a></span> (6th Cir.1982) (“The view that the Bankruptcy Court should not consider the debt- or’s pre-plan conduct in incurring the debt appears to give too narrow an interpretation to the good faith requirement”).
+ </p>
+<p id="b307-8">
+  A review of the contents of Todd’s plan and the totality of the facts and circumstances of this case leads this Court to conclude that Todd’s plan lacks good faith. First, it is clear from the plan that the principal debt to be discharged is the judgment obtained by Weeks in the § 1983 suit. The other debts to be discharged are essentially nominal consumer debts which Weeks would presumably continue to pay without bankruptcy supervision. Second, Todd filed his petition shortly after garnishment proceedings were initiated against him and almost three years after the judgment was first entered. Where debtors have filed for bankruptcy soon after the entry of a judgment or the commencement of wage garnishment proceedings, courts have found that such filing indicates debtor’s desire to use bankruptcy procedures to avoid paying a debt rather than for rehabilitation.
+  <em>
+   See In re Brown,
+  </em>
+  <span class="citation" data-id="1847818"><a href="/opinion/1847818/in-re-brown/" aria-description="Citation for case: In Re Brown">56 B.R. 293</a></span> (Bankr.N.D.Ill.1985) (court found bad faith where debtor filed Chapter 13 petition 15 days after garnishment proceedings were instituted against her);
+  <em>
+   see also In re Chura,
+  </em>
+  <span class="citation" data-id="1935330"><a href="/opinion/1935330/in-re-chura/" aria-description="Citation for case: In Re Chura">33 B.R. 558</a></span> (Bankr.D.Colo.1983) (court found bad faith where eight days after judgment was rendered against debtor for willful conversion of $26,808.27, he filed a Chapter 13 petition).
+ </p>
+<p id="b307-9">
+  The facts of this case thus strongly suggest that Todd’s primary purpose in filing a Chapter 13 petition was to use the bankruptcy proceedings to obtain a discharge of an otherwise potentially nondischargeable debt. While this fact standing alone does not indicate a lack of good faith, this fact in combination with other facts such as the timing of the filing, the nature of the debt, and the duration of the plan reveal that
+  <span citation-index="1" class="star-pagination" label="256"> 
+   *256
+   </span>
+  Todd is not attempting to pay Weeks to the best of his ability. Todd should not be permitted to evade so great a proportion of his responsibility for a § 1983 judgment through bankruptcy.
+ </p>
+<p id="b308-4">
+  CONCLUSION
+ </p>
+<p id="b308-5">
+  Payment of only 26% of Weeks’ claim through a 40-month plan fails to satisfy the good faith requirement of § 1325(a)(3) in the circumstances present here. While Todd’s budget appears to permit no greater outlay of funds each month, his plan could be extended to 60 months if he were truly desirious of making a substantial and meaningful payment of his debt to the extent reasonably within his means.
+ </p>
+<p id="b308-6">
+  IT IS THEREFORE ORDERED that Confirmation of Debtor’s Chapter 13 Plan is denied.
+ </p>
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b302-7">
+   . This Court conducted a hearing on Weeks’ Objection to Confirmation on July 17, 1986. During this hearing, Weeks’ counsel supplemented his Objection by tendering copies in open court of the Complaint and Judgment in his lawsuit against Todd. The documents were received by the Court into evidence without objection as part of the record herein together with a filed copy of the Objections.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b305-13">
+   . U.S. Const.amend. XIV. Section I provides:
+  </p>
+<blockquote id="AKqW">
+   All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property without due process of law; or deny to any person within its jurisdiction the equal protection of the laws.
+  </blockquote>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b306-9">
+   . It is enough that the debt be potentially non-dischargeable in a Chapter 7 proceeding. "The issue of dischargeability in Chapter 7 need not, and cannot, be litigated to conclusion in every Chapter 13 confirmation proceeding. Where significant claims involve conduct that would otherwise raise serious Chapter 7 dischargeability issues, however, the quality of that conduct is part of the ‘totality of circumstances’ which must be weighed, with other factors, in assessing the debtor’s good faith under Chapter 13."
+   <em>
+    Neufeld v. Freeman,
+   </em>
+   <span class="citation" data-id="472172"><a href="/opinion/472172/william-neufeld-creditor-v-susan-k-freeman-debtor-and-emily-y-wilson/" aria-description="Citation for case: William Neufeld, Creditor v. Susan K. Freeman, Debtor,...">794 F.2d 149</a></span> (4th Cir.1986).
+  </p>
+</div></div></opinion>

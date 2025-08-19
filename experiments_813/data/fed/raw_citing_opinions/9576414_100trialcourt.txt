@@ -1,0 +1,559 @@
+<pre class="inline">1                                                                        
+2                                                                        
+3                                                                        
+4                                                                        
+5                                                                        
+6                                                                        
+7                                                                        
+8                      UNITED STATES DISTRICT COURT                      
+9                     EASTERN DISTRICT OF CALIFORNIA                     
+10                                                                        
+11   NICHA LEASER, et al.,           No. 2:20-cv-02502-TLN-AC             
+12                Plaintiffs,                                             
+13        v.                         ORDER                                
+14   PRIME ASCOT, L.P, et al.,                                            
+15                Defendants.                                             
+16                                                                        
+17       This matter is before the Court on Defendants Prime Ascot, L.P., Prime Ascot 
+18  Acquisition, LLC, Prime/Park LaBrea Titleholder, LLC, Prime Administration, LLC, Prime 
+19  Campina, L.P., Prime Campina Acquisition, LLC, Prime Cassanna, L.P., Prime Oceanside 
+20  Acquisition, LLC, Prime Clairemont, L.P., Prime Clairemont Acquisition, LLC, Prime Detroit, 
+21  LLC, Prime Mesa, L.P., Prime Old County, L.P., Prime Old County Acquisition, LLC, Prime 
+22  Peninsula, L.P., Prime Channel Islands Acquisition, LLC, Prime Rivershore SPC, LLC, Prime 
+23  Spain Glen Drive, LLC, Prime Spectrum, LLC, Prime Tennyson, LLC, Prime Toyon Housing 
+24  Partners, L.P., Prime Toyon Acquisition, LLC, Prime Vista Montana, LLC, Prime Waterview, 
+25  LLC, Prime Wellington Park, LLC, Prime/Coral Bay, L.P., Coral Acquisition, Inc., Prime 
+26  Devonshire SPE, LLC, Prime/Scrc, L.P., Prime/Scrc SPE, L.P., Prime/South Coast, L.P., 
+27  Prime/South Coast Holding, LLC, and Prime Victoria, LLC’s (collectively, “Defendants”) 
+28  Motions to Dismiss.  (ECF Nos. 6, 16.)  Plaintiffs Nicha Leaser (“Leaser”), Atchara Wongsaroj 
+1  (“Wongsaroj”), Katina Magee (“Magee”)1, and Joyce Eisman (“Eisman”) (collectively, 
+2  “Plaintiffs”) filed oppositions.  (ECF Nos. 11, 17.)  Defendants filed replies.  (ECF Nos. 12, 19.)  
+3  Also before the Court is Defendants’ Motion to Stay Discovery.  (ECF No. 20.)  This motion is 
+4  also fully briefed.  (ECF Nos. 21, 23.)  For the reasons set forth below, Defendants’ First Motion 
+5  to Dismiss (ECF No. 6) is GRANTED in part and DENIED in part, Defendants’ Second Motion 
+6  to Dismiss (ECF No. 16) is DENIED, and Defendants’ Motion to Stay Discovery (ECF No. 20) is 
+7  DENIED as moot.                                                       
+8       I.   FACTUAL AND PROCEDURAL BACKGROUND                           
+9       Leaser, Wongsaroj, and Magee were tenants at an apartment complex located at 2000 
+10  Ascot Parkway, Vallejo, California, 94551, known as Blue Rock Village (“Blue Rock”).  (ECF 
+11  No. 1-2 at 4–6.)  Eisman was a tenant at an apartment complex located at 6200 W. 3rd Street, Los 
+12  Angeles, California, 90036, known as Park LaBrea.  (Id.)  Plaintiffs allege their “class action 
+13  lawsuit is brought on behalf of all the tenants Defendants systematically overcharged for 
+14  improper and unlawful late fees, early termination fees, improper rent charges, and from whom 
+15  Defendants withheld full, fair, and timely refunds of security deposits.”  (Id. at 3–4.)  Plaintiffs 
+16  further allege “Defendants’ management policies and practices . . . have led to disgusting 
+17  infestations of vermin at these properties, which Defendants caused and routinely failed to 
+18  disclose to prospective tenants, including Plaintiffs.”  (Id.)        
+19       On May 5, 2018, Plaintiffs filed the instant action in San Francisco County Superior 
+20  Court.2  (ECF No. 1-1.)  On November 20, 2020, Plaintiffs filed the operative First Amended 
+21  Complaint (“FAC”) in Solano County Superior Court.3  (ECF No. 1-2.)  The FAC alleges the 
+
+22                                                                        
+   1    Both parties spell this Plaintiff’s name as “Katina McGee.”  (ECF No. 6 at 11; ECF No. 
+23  11 at 6.)  However, it is spelled “Katina Magee” in Plaintiffs’ FAC.  (ECF No. 1-2.)  For the 
+   purposes of this Order, the Court will use “Katina Magee.”  Plaintiffs are directed to provide the 
+24  correct spelling of this name in any and all future filings related to the instant case. 
+
+25  2    The initial Complaint was filed against Prime Ascot, L.P., Prime Ascot Acquisition, LLC, 
+   and Prime Administration, LLC (the “Original Defendants”), who Plaintiffs allege owned or 
+26                                                                        
+   managed Blue Rock.  (ECF No. 1-1.)                                    
+27                                                                        
+   3    The action was transferred to Solano County Superior Court on December 26, 2018.  The 
+28  FAC also names Prime/Park LaBrea Titleholder, LLC as the entity from whom Eisman leased an 
+1  following claims: (1) tortious breach of warranty of habitability; (2) tortious breach of warranty 
+2  of quiet possession and enjoyment; (3) negligence; (4) nuisance; (5) intentional 
+3  misrepresentation; (6) breach of contract; (7) violation of California Civil Code § 1950.5 (“§ 
+4  1950.5”); and (8) violation of the California Unfair Competition Law (“UCL”), California 
+5  Business &amp; Professions Code §§ 17200–10.  (Id. at 23–37.)             
+6       On December 17, 2020, Defendants removed the action to this Court pursuant to the Class 
+7  Action Fairness Act (“CAFA”), </pre><span class="citation no-link">28 U.S.C. § 1332</span><pre class="inline">(d).  (ECF No. 1.)  On December 23, 2020, 
+8  Defendants filed the first motion to dismiss.  (ECF No. 6.)  On May 13, 2021, Defendants filed 
+9  the second motion to dismiss.  (ECF No. 16.)  On June 9, 2021, Defendants filed the motion to 
+10  stay discovery.  (ECF No. 20.)  The Court will first address the motions to dismiss and then 
+11  address the motion to stay discovery.                                 
+12       II.  MOTIONS TO DISMISS                                          
+13            A.   Legal Standards                                        
+14                i.    Motion to Dismiss Under Federal Rule of Civil Procedure (“Rule”) 
+15                      12(b)(1)                                          
+16       A Rule 12(b)(1) motion challenges a federal court’s jurisdiction to decide claims alleged 
+17  in the complaint.  Fed. R. Civ. P. 12(b)(1); see also </pre><span class="citation no-link">id. at 12</span><pre class="inline">(h)(3) (“If the court determines at any 
+18  time that it lacks subject-matter jurisdiction, the court must dismiss the action.”).  If a plaintiff 
+19  lacks standing under Article III of the United States Constitution, then the Court lacks subject 
+20  matter jurisdiction and the case must be dismissed.  See Steel Co. v. Citizens for a Better Env’t, 
+21  </pre><span class="citation" data-id="9795100"><a href="/opinion/2620886/steel-co-v-citizens-for-a-better-environment/" aria-description="Citation for case: Steel Co. v. Citizens for a Better Environment">523 U.S. 83</a></span><pre class="inline">, 102–04 (1998).  To satisfy Article III standing, a plaintiff must allege: (1) an injury-
+22  in-fact that is concrete and particularized, as well as actual or imminent, not conjectural or 
+23  hypothetical; (2) that is fairly traceable to the challenged action of the defendant; and (3) that is 
+24  redressable by a favorable judicial decision.  Spokeo, Inc. v. Robins, </pre><span class="citation" data-id="9823248"><a href="/opinion/3203762/spokeo-inc-v-robins/" aria-description="Citation for case: Spokeo, Inc. v. Robins">136 S. Ct. 1540</a></span><pre class="inline">, 1547–48 
+25  (2016); Monsanto Co. v. Geertson Seed Farms, </pre><span class="citation" data-id="9435780"><a href="/opinion/149005/monsanto-co-v-geertson-seed-farms/#149" aria-description="Citation for case: Monsanto Co. v. Geertson Seed Farms">561 U.S. 139, 149</a></span><pre class="inline"> (2010).  Plaintiff must “clearly 
+26                                                                        
+
+27  apartment.  Prime/Park LaBrea Titleholder, LLC and the Original Defendants shall be referred to 
+   as the “Blue Rock/Park LaBrea Defendants.”  The remaining 29 Defendants shall be referred to 
+28  as the “Standing Defendants.”                                         
+1  . . . allege facts demonstrating each element.”  Spokeo, Inc., </pre><span class="citation" data-id="9823248"><a href="/opinion/3203762/spokeo-inc-v-robins/#1547" aria-description="Citation for case: Spokeo, Inc. v. Robins">136 S. Ct. at 1547</a></span><pre class="inline"> (internal 
+2  quotations omitted) (quoting Warth v. Seldin, </pre><span class="citation" data-id="9426170"><a href="/opinion/109301/warth-v-seldin/#518" aria-description="Citation for case: Warth v. Seldin">422 U.S. 490, 518</a></span><pre class="inline"> (1975)). 
+3                ii.   Motion to Dismiss Under Rule 12(b)(6)             
+4       A motion to dismiss for failure to state a claim upon which relief can be granted under 
+5  Federal Rule of Civil Procedure (“Rule”) 12(b)(6) tests the legal sufficiency of a complaint.  
+6  Navarro v. Block, </pre><span class="citation" data-id="6998032"><a href="/opinion/7092494/navarro-v-block/#732" aria-description="Citation for case: Navarro v. Block">250 F.3d 729, 732</a></span><pre class="inline"> (9th Cir. 2001).  Rule 8(a) requires that a pleading contain 
+7  “a short and plain statement of the claim showing that the pleader is entitled to relief.”  See 
+8  Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662</a></span><pre class="inline">, 678–79 (2009).  Under notice pleading in federal court, the 
+9  complaint must “give the defendant fair notice of what the claim . . . is and the grounds upon 
+10  which it rests.”  Bell Atlantic v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#555" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 555</a></span><pre class="inline"> (2007) (internal quotations omitted).  
+11  “This simplified notice pleading standard relies on liberal discovery rules and summary judgment 
+12  motions to define disputed facts and issues and to dispose of unmeritorious claims.”  Swierkiewicz 
+13  v. Sorema N.A., </pre><span class="citation" data-id="118482"><a href="/opinion/118482/swierkiewicz-v-sorema-n-a/#512" aria-description="Citation for case: Swierkiewicz v. Sorema N. A.">534 U.S. 506, 512</a></span><pre class="inline"> (2002).                             
+14       On a motion to dismiss, the factual allegations of the complaint must be accepted as true.  
+15  Cruz v. Beto, </pre><span class="citation" data-id="9424773"><a href="/opinion/108484/cruz-v-beto/#322" aria-description="Citation for case: Cruz v. Beto">405 U.S. 319, 322</a></span><pre class="inline"> (1972).  A court is bound to give the plaintiff the benefit of every 
+16  reasonable inference to be drawn from the “well-pleaded” allegations of the complaint.  Retail 
+17  Clerks Int’l Ass’n v. Schermerhorn, </pre><span class="citation" data-id="106636"><a href="/opinion/106636/retail-clerks-international-assn-local-1625-v-schermerhorn/" aria-description="Citation for case: Retail Clerks International Ass&#x27;n, Local 1625 v....">373 U.S. 746</a></span><pre class="inline">, 753 n.6 (1963).  A plaintiff need not allege 
+18  “‘specific facts’ beyond those necessary to state his claim and the grounds showing entitlement to 
+19  relief.”  Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. at 570</a></span><pre class="inline">.                                   
+20       Nevertheless, a court “need not assume the truth of legal conclusions cast in the form of 
+21  factual allegations.”  U.S. ex rel. Chunie v. Ringrose, </pre><span class="citation multiple-matches"><a href="/c/F.2d/788/638/">788 F.2d 638</a></span><pre class="inline">, 643 n.2 (9th Cir. 1986).  
+22  While Rule 8(a) does not require detailed factual allegations, “it demands more than an 
+23  unadorned, the defendant-unlawfully-harmed-me accusation.”  Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. at 678</a></span><pre class="inline">.  A 
+24  pleading is insufficient if it offers mere “labels and conclusions” or “a formulaic recitation of the 
+25  elements of a cause of action.”  Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#555" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. at 555</a></span><pre class="inline">; see also Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. at 678</a></span><pre class="inline"> 
+26  (“Threadbare recitals of the elements of a cause of action, supported by mere conclusory 
+27  statements, do not suffice.”).  Moreover, it is inappropriate to assume the plaintiff “can prove 
+28  facts that it has not alleged or that the defendants have violated the . . . laws in ways that have not 
+1  been alleged.”  Associated Gen. Contractors of Cal., Inc. v. Cal. State Council of Carpenters, 459 
+</pre><span class="citation no-link">2  U.S. 519</span><pre class="inline">, 526 (1983).                                                 
+3       Ultimately, a court may not dismiss a complaint in which the plaintiff has alleged “enough 
+4  facts to state a claim to relief that is plausible on its face.”  Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. at 697</a></span><pre class="inline"> (quoting 
+5  Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. at 570</a></span><pre class="inline">).  “A claim has facial plausibility when the plaintiff pleads factual 
+6  content that allows the court to draw the reasonable inference that the defendant is liable for the 
+7  misconduct alleged.”  </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#680" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">Id. at 680</a></span><pre class="inline">.  While the plausibility requirement is not akin to a probability 
+8  requirement, it demands more than “a sheer possibility that a defendant has acted unlawfully.”  
+9  </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#678" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">Id. at 678</a></span><pre class="inline">.  This plausibility inquiry is “a context-specific task that requires the reviewing court to 
+10  draw on its judicial experience and common sense.”  </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#679" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">Id. at 679</a></span><pre class="inline">.       
+11       In ruling on a motion to dismiss, a court may only consider the complaint, any exhibits 
+12  thereto, and matters which may be judicially noticed pursuant to Federal Rule of Evidence 201.  
+13  See Mir v. Little Co. of Mary Hosp., </pre><span class="citation" data-id="504475"><a href="/opinion/504475/jehan-zeb-mir-md-v-little-company-of-mary-hospital/#649" aria-description="Citation for case: Jehan Zeb Mir, M.D. v. Little Company of Mary Hospital">844 F.2d 646, 649</a></span><pre class="inline"> (9th Cir. 1988); Isuzu Motors Ltd. v. 
+14  Consumers Union of U.S., Inc., </pre><span class="citation" data-id="2499024"><a href="/opinion/2499024/isuzu-motors-ltd-v-consumers-union-of-united-states-inc/#1042" aria-description="Citation for case: Isuzu Motors Ltd. v. Consumers Union of United States, Inc.">12 F. Supp. 2d 1035, 1042</a></span><pre class="inline"> (C.D. Cal. 1998). 
+15       If a complaint fails to state a plausible claim, “‘[a] district court should grant leave to 
+16  amend even if no request to amend the pleading was made, unless it determines that the pleading  
+17  could not possibly be cured by the allegation of other facts.’”  Lopez v. Smith, </pre><span class="citation" data-id="6985107"><a href="/opinion/7079981/lopez-v-smith/" aria-description="Citation for case: Lopez v. Smith">203 F.3d 1122</a></span><pre class="inline">, 
+18  1130 (9th Cir. 2000) (en banc) (quoting Doe v. United States, </pre><span class="citation" data-id="9488221"><a href="/opinion/698448/john-doe-v-united-states-of-america-in-re-john-doe-debtor-john-doe-v/#497" aria-description="Citation for case: John Doe v. United States of America, in Re John Doe,...">58 F.3d 494, 497</a></span><pre class="inline"> (9th Cir. 1995)). 
+19                iii.  Motion to Strike Under Rule 12(f)                 
+20       Rule 12(f) provides that a court “may strike from a pleading an insufficient defense or any 
+21  redundant, immaterial, impertinent, or scandalous matter.”  Fed. R. Civ. P. 12(f).  A court will 
+22  only consider striking a defense or allegation if it fits within one of these five categories.  Yursik 
+23  v. Inland Crop Dusters Inc., No. CV-F-11-01602-LJO-JLT, </pre><span class="citation no-link">2011 WL 5592888</span><pre class="inline">, at *3 (E.D. Cal. 
+24  Nov. 16, 2011) (citing Whittlestone, Inc. v. Handi-Craft Co., </pre><span class="citation" data-id="173487"><a href="/opinion/173487/whittlestone-inc-v-handi-craft-co/" aria-description="Citation for case: Whittlestone, Inc. v. Handi-Craft Co.">618 F.3d 970</a></span><pre class="inline">, 973–74 (9th Cir. 
+25  2010)).  “[T]he function of a 12(f) motion to strike is to avoid the expenditure of time and money 
+26  that must arise from litigating spurious issues by dispensing with those issues prior to trial.”  
+27  Sidney-Vinstein v. A.H. Robins Co., </pre><span class="citation" data-id="8916325"><a href="/opinion/8926587/sidney-vinstein-v-ah-robins-co/#885" aria-description="Citation for case: Sidney-Vinstein v. A.H. Robins Co.">697 F.2d 880, 885</a></span><pre class="inline"> (9th Cir. 1983).  However, Rule 12(f) 
+28  motions are “generally regarded with disfavor because of the limited importance of pleading in 
+1  federal practice, and because they are often used as a delaying tactic.”  Neilson v. Union Bank of 
+2  Cal., N.A., </pre><span class="citation" data-id="2326612"><a href="/opinion/2326612/neilson-v-union-bank-of-california-na/#1152" aria-description="Citation for case: Neilson v. Union Bank of California, N.A.">290 F. Supp. 2d 1101, 1152</a></span><pre class="inline"> (C.D. Cal. 2003).  “Ultimately, whether to grant a motion 
+3  to strike lies within the sound discretion of the district court.”  </pre><span class="citation" data-id="2326612"><a href="/opinion/2326612/neilson-v-union-bank-of-california-na/" aria-description="Citation for case: Neilson v. Union Bank of California, N.A.">Id.</a></span><pre class="inline">  Unless it would prejudice the 
+4  opposing party, courts freely grant leave to amend stricken pleadings.  Foman v. Davis, </pre><span class="citation multiple-matches"><a href="/c/U.S./371/5/">371 U.S. 
+5</a></span><pre class="inline">  178, 182 (1962); Howey v. U.S., </pre><span class="citation" data-id="312391"><a href="/opinion/312391/frank-howey-v-united-states-of-america-and-third-party-v-radio/#1190" aria-description="Citation for case: Frank Howey v. United States of America, and Third-Party...">481 F.2d 1187, 1190</a></span><pre class="inline"> (9th Cir. 1973); see also Fed. R. Civ. P. 
+6  15(a)(2).  If the court is in doubt as to whether the challenged matter may raise an issue of fact or 
+7  law, the motion to strike should be denied, leaving the assessment of the sufficiency of the 
+8  allegations for adjudication on the merits after proper development of the factual nature of the 
+9  claims through discovery.  See generally Whittlestone, Inc., 618 F.3d at 974–75. 
+10            B.   First Motion to Dismiss                                
+11       Defendants argue in the first motion to dismiss that: (1) Plaintiffs lack standing to sue any 
+12  of the Standing Defendants because they had no lease or other dealings with them; (2) the class 
+13  allegations against the Standing Defendants should be stricken pursuant to Rule 12(f) or Rule 
+14  23(d)(1)(D); (3) Plaintiffs cannot state a claim against the Standing Defendants under a secondary 
+15  liability theory and all related allegations should be stricken; (4) the “unfairness” prong of the 
+16  UCL fails against all Defendants because the FAC does not allege an unfair business practice; and 
+17  (5) the security deposit claim fails against any of the Defendants besides Plaintiffs’ actual 
+18  landlords (Prime Ascot and Prime/Park LaBrea Titleholder, LLC).       
+19       With respect to the motion to strike the class allegations under Rule 12(f) or Rule 
+20  23(d)(1)(D), the Court DENIES it as premature.  See In re Land Rover LR3 Tire Wear Prods. 
+21  Liability Litig., No. 09-2008 AG, </pre><span class="citation no-link">2012 WL 5473736</span><pre class="inline">, at *2 (C.D. Cal. Oct. 24, 2012) (finding 
+22  granting of motions to strike class allegations “rare before class certification” and “more properly 
+23  decided on a motion for class certification, after the parties have had an opportunity to conduct 
+24  class discovery and develop a record” (internal quotation omitted)); In re Wal-Mart Stores, Inc., 
+25  </pre><span class="citation" data-id="1950713"><a href="/opinion/1950713/in-re-wal-mart-stores-inc-wage-hour-litigation/#615" aria-description="Citation for case: In Re Wal-Mart Stores, Inc. Wage &amp; Hour Litigation">505 F. Supp. 2d 609, 615</a></span><pre class="inline"> (N.D. Cal. 2007) (stating that courts have made it clear that “dismissal 
+26  of class allegations at the pleading stage should be done rarely and that the better course is to 
+27  deny such a motion because ‘the shape and form of a class action evolves only through the 
+28  process of discovery’” (citations omitted)).  The Court will address each of the remaining 
+1  arguments in turn.                                                    
+2                i.    Standing                                          
+3       Defendants argue Plaintiffs “do not allege any lease agreement, contact[,] or interaction 
+4  with any of the Standing Defendants” and Plaintiffs’ injuries “can be linked or traced solely to the 
+5  Blue Rock/Park LaBrea Defendants.”  (ECF No. 6 at 15 (emphasis in original).)  Defendants 
+6  contend there must be at least one named plaintiff who can assert a claim against every named 
+7  defendant in class action cases, even if “defendants are closely-related corporate entities or 
+8  engaged in common, agreed-upon practices.”  (Id. at 15–16.)  Defendants maintain, therefore, that 
+9  the § 1950.5 and UCL claims must be dismissed with respect to the Standing Defendants.  (Id. at 
+10  17.)  Defendants further argue La Mar v. H&amp;B Novelty &amp; Loan Co., </pre><span class="citation" data-id="315801"><a href="/opinion/315801/robert-la-mar-v-h-b-novelty-loan-company-ronald-j-kinsling-v/" aria-description="Citation for case: Robert La Mar v. H &amp; B Novelty &amp; Loan Company, Ronald J....">489 F.2d 461</a></span><pre class="inline"> (9th Cir. 1973), 
+11  and its progeny do not confer standing to Plaintiffs through the juridical links doctrine, which 
+12  only applies in a Rule 23 context.4  (Id.)                            
+13       In opposition, Plaintiffs assert Defendants interpret Article III standing narrowly, which 
+14  ignores theories of secondary liability, such as aiding and abetting, which are available in UCL 
+15  claims.  (ECF No. 11 at 11–13.)   Plaintiffs further argue they have sufficiently pleaded 
+16  traceability as the Standing Defendants “aided and abetted” Prime Administration, LLC and the 
+17  other Defendants. 5  (Id. at 14–15.)                                  
+18       In reply, Defendants argue (1) Ninth Circuit law provides a plaintiff does not have 
+19  standing to sue if she cannot trace an alleged injury to a defendant’s actions and (2) allegations of 
+20  a conspiracy and aiding and abetting are insufficient if the defendant had nothing to do with the 
+
+21  4    The Court agrees.  The juridical links doctrine provides that “a plaintiff who has no cause 
+   of action against the defendant [cannot] fairly and adequately protect the interests of those who do 
+22                                                                        
+   have such causes of action,” except where “all injuries are the result of a conspiracy or concerted 
+23  schemes between the defendants” and where “all defendants are ‘juridically related’ so that a 
+   single resolution of the dispute would be expeditious.”  La Mar, </pre><span class="citation" data-id="315801"><a href="/opinion/315801/robert-la-mar-v-h-b-novelty-loan-company-ronald-j-kinsling-v/#466" aria-description="Citation for case: Robert La Mar v. H &amp; B Novelty &amp; Loan Company, Ronald J....">489 F.2d at 466</a></span><pre class="inline">.  While some 
+24  courts have applied the juridical links doctrine to standing, the Ninth Circuit has not.  See 
+   Bahamas Surgery Ctr., LLC v. Kimberly–Clark Corp., </pre><span class="citation no-link">820 F. App’x 563</span><pre class="inline">, 566–67 n.4 (9th Cir. 
+25                                                                        
+   2020) (finding the juridical links doctrine “irrelevant” to the question of the plaintiff’s standing). 
+
+26                                                                        
+   5    While Plaintiffs argue they have adequately demonstrated injury in fact and redressability 
+27  (ECF No. 11 at 14–15), Defendants do not contest the elements of injury and fact and 
+   redressability in their motion to dismiss (see ECF No. 6).  Accordingly, the Court’s analysis of 
+28  standing will be limited to the inquiry regarding traceability.       
+1  plaintiff.  (ECF No. 12 at 6–7 (citing Perez v. Nidek Co., </pre><span class="citation" data-id="856123"><a href="/opinion/856123/robert-perez-v-nidek-co-ltd/" aria-description="Citation for case: Robert Perez v. Nidek Co., Ltd.">711 F.3d 1109</a></span><pre class="inline"> (9th Cir. 2013); Doe v. 
+2  Walmart Inc., No. 18-CV-02125-LHK, </pre><span class="citation no-link">2019 WL 499754</span><pre class="inline"> (N.D. Feb. 8, 2019)).)  Defendants 
+3  contend that if Plaintiffs “could somehow manage to allege facts showing the Standing 
+4  Defendants substantially assisted the Blue Rock/Park LaBrea Defendants’ alleged late fee and 
+5  security deposit violations, . . . Plaintiffs might be able to state a claim . . . But even then, their 
+6  standing would be limited to suing them only to recover fees and security deposits that tenants 
+7  like themselves paid to the Blue Rock/Park LaBrea Defendants.”  (Id. at 7.) 
+8       To establish Article III standing, a plaintiff must have “(1) suffered an injury in fact, (2) 
+9  that is fairly traceable to the challenged conduct of the defendant, and (3) that is likely to be 
+10  redressed by a favorable judicial decision.”  Spokeo, Inc. v. Robins, </pre><span class="citation no-link">578 U.S. 330</span><pre class="inline">, 338 (2016).  
+11  “The party invoking federal jurisdiction bears the burden of establishing these elements . . . with 
+12  the manner and degree of evidence required at the successive stages of the litigation.”  Lujan v. 
+13  Defenders of Wildlife, </pre><span class="citation" data-id="9432577"><a href="/opinion/112747/lujan-v-defenders-of-wildlife/#561" aria-description="Citation for case: Lujan v. Defenders of Wildlife">504 U.S. 555, 561</a></span><pre class="inline"> (1992).  In class actions, “the named representatives 
+14  must allege and show that they personally have been injured.”  Lierboe v. State Farm Mut. Auto. 
+15  Ins. Co., </pre><span class="citation" data-id="784326"><a href="/opinion/784326/kristine-e-lierboe-individually-and-on-behalf-of-all-others-similarly/#1022" aria-description="Citation for case: Kristine E. Lierboe, Individually and on Behalf of All...">350 F.3d 1018, 1022</a></span><pre class="inline"> (9th Cir. 2003) (quoting Pence v. Andrus, </pre><span class="citation" data-id="8907993"><a href="/opinion/8919441/pence-v-andrus/" aria-description="Citation for case: Pence v. Andrus">586 F.2d 733</a></span><pre class="inline">, 736–37 
+16  (9th Cir. 1978)).  The “injury must have actually occurred or must occur imminently; 
+17  hypothetical, speculative or other ‘possible future’ injuries do not count in the standings 
+18  calculus.”  Schmier v. U.S. Court of Appeals for Ninth Circuit, </pre><span class="citation" data-id="776473"><a href="/opinion/776473/michael-schmier-v-united-states-court-of-appeals-for-the-ninth-circuit-and/#820" aria-description="Citation for case: Michael Schmier v. United States Court of Appeals for the...">279 F.3d 817, 820</a></span><pre class="inline"> (9th Cir. 2002) 
+19  (citing Whitmore v. Arkansas, </pre><span class="citation" data-id="9431985"><a href="/opinion/112418/whitmore-ex-rel-simmons-v-arkansas/#155" aria-description="Citation for case: Whitmore Ex Rel. Simmons v. Arkansas">495 U.S. 149, 155</a></span><pre class="inline"> (1990)).              
+20       “California . . . ‘has adopted the common law rule’ that ‘[l]iability may [ . . . ] be imposed 
+21  on one who aids and abets the commission of an intentional tort if the person [ . . . ] knows the 
+22  other’s conduct constitutes a breach of a duty and gives substantial assistance or encouragement 
+23  to the other to so act.’”  Solarmore Mgmt. Servs. Inc. v. Bankruptcy Estate of DC Solar Sols., Inc., 
+24  No. , </pre><span class="citation no-link">2022 WL 358245</span><pre class="inline">, at *5 (E.D. Cal. Feb. 7, 2022) (quoting Casey v. U.S. Bank Nat’l Assn., 
+25  </pre><span class="citation" data-id="2262093"><a href="/opinion/2262093/casey-v-us-bank-national-assn/#1144" aria-description="Citation for case: Casey v. U.S. Bank National Ass&#x27;n">127 Cal. App. 4th 1138, 1144</a></span><pre class="inline"> (2005)).  “To satisfy the knowledge prong, the defendant must have 
+26  actual knowledge of the specific primary wrong the defendant substantially assisted.”  Id. 
+27  (internal quotation marks and citation omitted).  Here, the FAC alleges the following with respect 
+28  to “aiding and abetting”:                                             
+1            [Prime Administration] today owns and operates over 15,000 units 
+             in California, Oregon, Washington, and Nevada . . . the same group 
+2            of individuals operates and manages both Prime Administration and 
+             the entities holding title to the Prime Properties . . . these limited 
+3            partnerships and limited liability company titleholders are merely 
+             instrumentalities of Prime Administration, are all part of the same 
+4            scheme, and are controlled and managed collectively.  To the extent 
+             the nominal titleholders have any independent existence, they are co-
+5            conspirators and aiders and abettors of Prime Administration in 
+             committing  the  conduct  described  in  [the  FAC].    The  nominal 
+6            titleholders  knowingly  participated  in  the  common  scheme  and 
+             giving  substantial  assistance  and  encouragement  to  Prime 
+7            Administration,  including  allowing  Prime  Administration  to 
+             implement  and  effectuate  the  unfair  and  unlawful  policies  and 
+8            practices described in this [FAC] at the various Prime Properties 
+             owned by the nominal titleholders.                          
+9                                                                        
+10  (ECF No. 1-2 at 11–12.)  The FAC further alleges “Defendants all knowingly aided and abetted 
+11  the violations of law described in [the FAC] and knowingly aided and abetted the conduct related 
+12  to the scheme, agreed to commit the unlawful and unfair conduct, and gave substantial assistance 
+13  and encouragement in committing the unlawful and unfair conduct.”  (Id. at 15.)  Based on the 
+14  foregoing allegations, specifically that “[t]he nominal titleholders knowingly participated in the 
+15  common scheme and giving substantial assistance and encouragement to Prime Administration,” 
+16  it is a reasonable inference that Plaintiff alleges the Standing Defendants and the Blue Rock/Park 
+17  LaBrea Defendants knew “the other’s conduct constitute[d] a breach of a duty and g[a]ve[] 
+18  substantial assistance or encouragement to the other to so act.’”  Solarmore Mgmt. Servs. Inc., 
+19  </pre><span class="citation no-link">2022 WL 358245</span><pre class="inline">, at *5.  The Court therefore finds Plaintiffs adequately pleaded that the 
+20  Standing Defendants aided and abetted the alleged unlawful conduct.  Accordingly, Defendants’ 
+21  motion to dismiss the claims against the Standing Defendants is DENIED. 
+22                ii.   Secondary Liability Theory                        
+23       Defendants argue that “[b]ecause the Standing Defendants have no lease agreements with 
+24  . . . Plaintiffs, are not . . . Plaintiffs’ landlords, and have no other dealings with . . . Plaintiffs, the 
+25  [§] 1950.5 and UCL claims against the Standing Defendant rely entirely on secondary liability 
+26  theories.”  (ECF No. 6 at 21.)  Defendants further argue that Plaintiffs’ “allegations of conspiracy, 
+27  alter ego, and aiding and abetting liability in the FAC are all woefully deficient and cannot 
+28  establish cognizable claims against the Standing Defendants” and such allegations should be 
+1  stricken.  (Id.)                                                      
+2       Plaintiffs do not address this argument in their opposition, but ask for “leave to conduct 
+3  discovery to further prove the obviously intertwined relationships among the parties, and more 
+4  specifically, their aiding and abetting of one another, their conspiracy, and their status as alter 
+5  egos of one another.”  (ECF No. 11 at 25.)                            
+6       As previously noted, the Court finds that Plaintiffs have adequately established aiding and 
+7  abetting liability.  Accordingly, Defendants’ motion to strike the allegations of conspiracy, alter 
+8  ego, and aiding and abetting liability is DENIED.                     
+9                iii.  Claim Eight: Violation of UCL                     
+10       Defendants argue Plaintiffs’ UCL claim fails because the FAC does not allege an unfair 
+11  business practice and instead only states conclusory allegations.  (ECF No. 6 at 27–28.)  In 
+12  opposition, Plaintiffs maintain they have pleaded enough facts, as they allege “Prime will assess 
+13  late fees even when its tenants timely pay rent online, and assess late fees based on charges 
+14  assessed after the due date for rent payment” and “Prime ignored or prevented Plaintiffs and class 
+15  members from accomplishing the early termination process despite their best efforts to do so, and 
+16  improperly charged them because of it.”  (ECF No. 11 at 23–24 (citing ECF No. 1-2 ¶¶ 56 n.4, 
+17  57, 75, 94).)                                                         
+18       The UCL prohibits “any unlawful, unfair or fraudulent business act or practice . . . .”  Cal. 
+19  Bus. &amp; Prof. Code § 17200.  California courts employ three different tests to evaluate whether a 
+20  business practice is “unfair” under the UCL.  Roper v. Big Heart Pet Brands, Inc., </pre><span class="citation" data-id="1981183"><a href="/opinion/1981183/lykins-v-aluminum-workers-international-union/" aria-description="Citation for case: Lykins v. Aluminum Workers International Union">510 F. Supp. 
+21</a></span><pre class="inline">  3d 903, 919 (E.D. Cal. 2020).  First, “[t]he balancing test determines whether the alleged practice 
+22  is immoral, unethical, oppressive, unscrupulous, or substantially injurious to consumers and 
+23  requires the court to weigh the utility of the defendant’s alleged conduct against the gravity of 
+24  harm to the alleged victim.”  </pre><span class="citation" data-id="1981183"><a href="/opinion/1981183/lykins-v-aluminum-workers-international-union/" aria-description="Citation for case: Lykins v. Aluminum Workers International Union">Id.</a></span><pre class="inline"> at 919–20 (citing Drum v. San Fernando Valley Bar Ass’n, 182 
+</pre><span class="citation" data-id="2291830"><a href="/opinion/2291830/metro-goldwyn-mayer-inc-v-superior-court/#257" aria-description="Citation for case: Metro-Goldwyn-Mayer, Inc. v. Superior Court">25  Cal. App. 4th 247, 257</a></span><pre class="inline"> (2010)).  Second, the Federal Trade Commission (“FTC”) test uses the 
+26  definition of unfair in § 5 of the Federal Trade Commission Act “and requires that: (1) the 
+27  consumer injury be substantial; (2) the injury must not be outweighed by any countervailing 
+28  benefits to consumers or competition; and (3) it must be an injury that consumers themselves 
+1  could not reasonably have avoided.”  Id. at 920 (citing Drum, 182 Cal. App. 4th at 257).  Third, 
+2  “the public policy test requires that the public policy which is a predicate to consumer unfair 
+3  competition under the ‘unfair’ prong of the UCL must be tethered to specific constitutional, 
+4  statutory, or regulatory provisions.”  Id. (citing Drum, 182 Cal. App. 4th at 257).  The Ninth 
+5  Circuit has approved of the balancing test and the public policy test in consumer actions.  Hadley 
+6  v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1104" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1104</a></span><pre class="inline"> (N.D. Cal. 2017) (citing Lozano v. AT&amp;T 
+7  Wireless Servs., Inc., </pre><span class="citation" data-id="1429600"><a href="/opinion/1429600/lozano-v-at-t-wireless-services-inc/" aria-description="Citation for case: Lozano v. AT &amp; T Wireless Services, Inc.">504 F.3d 718</a></span><pre class="inline">, 735–36 (9th Cir. 2007)).         
+8       Here, Plaintiffs allege online reviews “from various Prime Properties discuss the 
+9  assessment of improper late fees, . . . improper early termination fees, unlawful rent charges after 
+10  providing thirty (30) days notice to vacate, [and] failure to return security deposits or provide an 
+11  itemized statement of deductions from security deposits or receipt related thereto within 21 days.”  
+12  (ECF No. 1-2 ¶¶ 56–57.)  Plaintiffs further allege:                   
+13            During the time that Leaser and Wongsaroj occupied the apartment, 
+             Defendants charged Leaser and Wongsaroj improper and exorbitant 
+14            late fees, based on assessments for charges for sewer, water, and 
+             garbage.  The late fees were caused because charges would be posted 
+15            by Defendants to Leaser’s and Wongsaroj’s accounts after they were 
+             due and thus could not be paid on time.                     
+16                                                                        
+17  (Id. at ¶ 75.)  Finally, Plaintiffs allege:                           
+18            Defendants charged Eisman an early termination fee and a late fee 
+             despite Eisman providing 30 days advance[] notice.  More than 21 
+19            days after vacating her apartment, Eisman was provided a final 
+             account statement that improperly listed her date of giving notice as 
+20            May 30, 2017, rather than April 6, 2017, and improperly listed her 
+             move  out  date  as  May  25,  2017  (i.e.,  before  Eisman  allegedly 
+21            provided notice on May 30, 2017).  Defendants deducted these 
+             charges from Eisman’s security deposit, which was wholly retained 
+22            by Defendants.                                              
+23  (Id. at 95 (emphasis omitted).)  Based on the foregoing allegations of improperly charging tenants 
+24  fees and charges, failing to return security deposits or providing an itemized statement of 
+25  deductions therefrom, the Court finds Plaintiffs adequately pleaded these practices are 
+26  “substantially injurious to consumers” and that the utility of Defendants’ alleged conduct is 
+27  minimal relative to the gravity of harm alleged by Plaintiffs.  See Roper, 510 F. Supp. 3d at 919–
+28  20.  Accordingly, Defendants’ motion to dismiss Plaintiffs’ claim under the unfair prong of the 
+1  UCL is DENIED.                                                        
+2                iv.   Claim Seven: Security Deposit Claim               
+3       Defendants argue that Plaintiffs “fail[] to state a claim against any of the Defendants 
+4  besides their actual landlords with whom they had rental agreements” and Plaintiffs “admit their 
+5  rental agreements were with Prime Ascot and Prime/Park LaBrea Titleholder, LLC only, yet they 
+6  assert their [§] 1950.5 claim collectively against ‘Defendants.’”  (ECF No. 6 at 28–29.)  
+7  Defendants contend § 1950.5 “imposes obligations only on ‘the landlord’ with regard to ‘security 
+8  for a rental agreement.’”  (Id. at 29 (emphasis in original) (citing </pre><span class="citation no-link">Cal. Civ. Code § 1950.5</span><pre class="inline">).) 
+9       In opposition, Plaintiffs argue, among other things, that the subparagraphs of § 1950.5 
+10  identify “the ‘landlord’ as the one that ‘before the end of the lease term . . . shall notify the tenant 
+11  in writing of the tenant’s option to request an initial inspection” and Prime Administration — not 
+12  Prime Ascot, L.P. — corresponded with tenants about those matters.  (Id. at 22 (citing Cal. Civ. 
+13  Code § 1950.5(f)(1); ECF No. 11-1).)  Plaintiffs cite to the declaration of their attorney, Ethan T. 
+14  Litney, in support of this proposition, in which he avers that “[i]f Plaintiffs were granted leave to 
+15  amend, they could allege facts and provide documents supporting that Prime Administration 
+16  personnel corresponded with Plaintiffs about security deposits and final inspections, provided 
+17  Plaintiffs with itemized statements relating to deductions, and returned partial security deposits.”  
+18  (ECF No. 11-1 at 2.)                                                  
+19       California Civil Code § 1950.5 outlines the proper procedures by which residential 
+20  landlords and tenants must handle security deposits.  “Pursuant to this statute, security deposits 
+21  must be refunded to the tenant at the termination of the tenancy after the landlord makes lawful 
+22  deductions that are enumerated in subdivision (b).  </pre><span class="citation no-link">Cal. Civ. Code § 1950.5</span><pre class="inline">(b), (e), (g) . . . At the 
+23  termination of the lease, the landlord must deliver to the tenant a written itemized statement of the 
+24  amount of the deposit, its disposition, and the balance due the tenant.  </pre><span class="citation no-link">Id.</span><pre class="inline"> § 1950.5(f), (g).”  Andy 
+25  Jang v. Asset Campus Housing, Inc., No. CV 15-01927 BRO (PJWx), </pre><span class="citation no-link">2015 WL 12914161</span><pre class="inline">, at *4 
+26  (C.D. Cal. May 14, 2015) (citing Leasure v. Willmark Communities, Inc., No. 11-CV-00443 BEN 
+27  (DHB), </pre><span class="citation no-link">2013 WL 6097944</span><pre class="inline"> (S.D. Cal. Mar. 14, 2013)).                    
+28  ///                                                                   
+1       A review of the FAC reveals that Plaintiffs generally allege that “Defendants routinely 
+2  demanded security deposits from tenants and then failed to comply with California law regarding 
+3  the charging and refunding of those security deposits.  For example, on information and belief, 
+4  Defendants would often refuse to provide a properly itemized statement of deductions from 
+5  tenants’ security deposits within 21 days.  This violates, at a minimum, Civil Code [§] 1950.5 and 
+6  requires the return of every victim’s security deposit, in full.”  (ECF No. 1-2 at 5.)  Defendants 
+7  are correct that Plaintiffs do not adequately allege that any other entity other than Prime Ascot 
+8  and Prime/Park LaBrea Titleholder, LLC was a “landlord” subject to the provisions of § 1950.5.  
+9  Accordingly, Defendants’ motion to dismiss Plaintiffs’ security deposit claim is GRANTED.  
+10  However, because Plaintiffs’ counsel avers that Plaintiffs can allege further facts to state a § 
+11  1950.5 claim against Prime Administration, it is granted with leave to amend.  See Lopez, 203 
+12  F.3d at 1130.                                                         
+13            C.   Second Motion to Dismiss                               
+14                i.    Whether Defendants Can Bring a Subsequent Motion to Dismiss 
+15       As an initial matter, Plaintiffs argue in their opposition that Defendants’ Rule 12(b)(1) 
+16  motion is a de facto Rule 12(b)(6) motion that is untimely and should be denied, as “Rule 
+17  12(g)(2) provides that a party who makes a motion under Rule 12 cannot make a subsequent Rule 
+18  12 motion raising a defense or objection that was available to that party but omitted from its 
+19  earlier motion.”  (ECF No. 17 at 11–12.)  Plaintiffs contend Defendants are arguing the merits as 
+20  well as affirmative defenses before filing an answer and are asking the Court to review extrinsic 
+21  evidence on a Rule 12(b)(6) motion, but make no argument that the extrinsic evidence is subject 
+22  to an exception.  (Id. at 12–13.)  Plaintiffs assert Defendants’ attempt to “shoehorn a Rule 
+23  23(d)(1)(D) attack on Plaintiffs’ typicality” is improper for a Rule 12(b)(1) motion.  (Id. at 13.)  
+24  Plaintiffs finally maintain “the jurisdiction[al] and substantive issues are . . . significantly 
+25  intertwined,” and thus resolution under Rule 12(b)(1) is inappropriate.  (Id.) 
+26       In reply, Defendants contend the motion is a factual attack on Plaintiffs’ Article III 
+27  standing properly raised under Rule 12(b)(1) and in such a factual attack, the Court “may review 
+28  evidence outside the pleadings to resolve factual disputes concerning the existence of jurisdiction 
+1  without converting the motion to dismiss into a summary judgment motion.”  (ECF No. 19 at 6–
+2  7.)  Defendants maintain the jurisdictional and substantive issues are not “intertwined,” as 
+3  “Defendants are not claiming that Plaintiffs lack standing because the challenged late fees or 
+4  early termination option fees are legal” but that “Plaintiffs did not suffer any injury because they 
+5  did not pay the fees they seek to challenge.”  (Id. at 7.)            
+6       The Court agrees with Defendants that their arguments challenging Plaintiffs’ standing is 
+7  properly brought as a Rule 12(b)(1) motion and the Court must dismiss the action if it 
+8  “determines at any time that it lacks subject-matter jurisdiction.”  Fed. R. Civ. P. 12(h)(3).  Thus, 
+9  the Court agrees to rule on this motion.  However, Defendants’ Rule 12(f) motion to strike the 
+10  class allegations relating to early termination options and late fees is improper because this 
+11  defense or objection was available to Defendants when they filed their first motion to dismiss.  
+12  Fed. R. Civ. P. 12(g)(2).  Accordingly, Defendants’ motion to strike is DENIED.  To the extent 
+13  the motion attempts to function as a statutory standing challenge or a Rule 12(b)(6) motion to 
+14  dispute the merits of Plaintiffs’ claims, the Court declines to consider and address such arguments 
+15  as improper because they were available to Defendants when they filed their first motion to 
+16  dismiss.  See Fed. R. Civ. P. 12(g)(2).  To the extent the motion attempts to function as a Rule 
+17  23(d)(1)(D) to eliminate class allegations, the Court again DENIES it as premature.  See In re 
+18  Land Rover LR3 Tire Wear Prods. Liability Litig., </pre><span class="citation no-link">2012 WL 5473736</span><pre class="inline">, at *2; In re Wal-Mart 
+19  Stores, Inc., </pre><span class="citation" data-id="1950713"><a href="/opinion/1950713/in-re-wal-mart-stores-inc-wage-hour-litigation/#615" aria-description="Citation for case: In Re Wal-Mart Stores, Inc. Wage &amp; Hour Litigation">505 F. Supp. 2d at 615</a></span><pre class="inline">.                                 
+20                ii.   Defendants’ Rule 12(b)(1) Motion                  
+21       Defendants argue in their second motion to dismiss that Plaintiff’s claim for breach of 
+22  contract must be dismissed to the extent it is based upon Plaintiffs paying early termination fees 
+23  to the Blue Rock/Park LaBrea Defendants and Plaintiff’s UCL claim must be dismissed to the 
+24  extent it is based upon Plaintiffs paying early termination fees or late fees to the Blue Rock/Park 
+25  LaBrea Defendants.  (See ECF No. 16.)  With respect to the breach of contract claim, Defendants 
+26  argue Plaintiffs cannot “establish standing because none of them in fact paid an early termination 
+27  option fee to the Blue Rock/Park LaBrea Defendants, or to any Defendant, so none of them 
+28  suffered the requisite injury in fact.”  (ECF No. 16 at 14–15.)  Defendants contend only Eisman 
+1  alleges she was charged this fee after she gave notice she was terminating her lease early, but 
+2  being charged a fee does not confer standing unless the fee was actually paid.  (Id. at 14.)  With 
+3  respect to the UCL claim, Defendants argue no Plaintiff paid an early termination option fee and 
+4  therefore no Plaintiff has standing to pursue claims related to late fees.  (Id. at 15–16.)  
+5  Defendants contend Magee is the only Plaintiff who alleges she paid a late fee at Blue Rock but 
+6  she signed a Release Agreement on January 12, 2017, with Blue Rock to move to another 
+7  apartment at no charge in exchange for a release of all claims arising under or relating to her 
+8  lease.  (Id. at 16.)                                                  
+9       In opposition, Plaintiffs do not differentiate their arguments by claim but rather generally 
+10  argue they have adequately pleaded injury in fact with respect to the early termination fees and 
+11  late fees.  (See ECF No. 17.)  Plaintiffs assert “there is at least a material dispute” as to whether 
+12  Leaser and Wongsaroj paid the early termination fee as they contend they paid the early 
+13  termination fee via their security deposit, which grants them Article III standing to bring claims 
+14  for assessment of illegal termination fees, including under the UCL.  (Id. at 14.)  Plaintiffs further 
+15  contend Leaser and Wongsaroj were charged an improper late fee and had to spend substantial 
+16  time and effort to get Defendants to remove these fees from their accounts, which confers them 
+17  with Article III standing to bring claims for late fees.  (Id.)  Plaintiffs contend Magee has standing 
+18  to bring claims based on improper late fees assessed but not paid because they were a part of the 
+19  reason she did not receive a refund of her security deposit and her credit was damaged when 
+20  Defendants reported the debt to credit reporting agencies.  (Id. at 17.)6  
+21       As previously stated, in class actions, “the named representatives must allege and show 
+22  that they personally have been injured.”  Lierboe, </pre><span class="citation" data-id="784326"><a href="/opinion/784326/kristine-e-lierboe-individually-and-on-behalf-of-all-others-similarly/#1022" aria-description="Citation for case: Kristine E. Lierboe, Individually and on Behalf of All...">350 F.3d at 1022</a></span><pre class="inline">.  The “injury must have 
+23  actually occurred or must occur imminently; hypothetical, speculative or other ‘possible future’ 
+24                                                                        
+   6    Plaintiffs make a number of other arguments regarding the legality of the transfer and 
+25                                                                        
+   release agreement (id. at 16–17) that the Court declines to address here because it finds Magee 
+   adequately establishes standing based on the allegations pleaded in the FAC. 
+26                                                                        
+
+27       Additionally, neither Plaintiffs nor Defendants contend that the traceability and 
+   redressability elements of standing are at issue and therefore the Court’s analysis will be limited 
+28  to the injury in fact element of standing.                            
+1  injuries do not count in the standings calculus.”  Schmier, </pre><span class="citation" data-id="776473"><a href="/opinion/776473/michael-schmier-v-united-states-court-of-appeals-for-the-ninth-circuit-and/#820" aria-description="Citation for case: Michael Schmier v. United States Court of Appeals for the...">279 F.3d at 820</a></span><pre class="inline">. 
+2       With respect to the early termination fees, Plaintiffs contend Defendants initially charged 
+3  Leaser and Wongsaroj an “early termination fee” of $1390.00 as shown in Defendants’ final 
+4  account statement dated November 20, 2017.  (ECF No. 17 at 14; ECF No. 17-1 at 9.)  Plaintiffs’ 
+5  counsel then objected to the fee in a letter dated December 25, 2017, stating “Blue Rock is not 
+6  entitled to use a security deposit to pay an alleged ‘early termination fee.’”  (ECF No. 17-1 at 11–
+7  12.)  Leaser and Wongsaroj were then issued a revised final account statement dated December 
+8  15, 2017, that reflects Leaser and Wongsaroj are owed a refund of $13.28 after the total deposits 
+9  are deducted from the “[b]alance at move-out” and “[t]otal additional charges/credits/payments.”  
+10  (Id. at 14).  Leaser avers in her declaration that she never received the refund.  (ECF No. 17-2 at 
+11  2.)  The FAC further alleges:                                         
+12            Defendants charged Eisman an early termination fee and late fee 
+             despite Eisman providing 30 days advanced notice.  More than 21 
+13            days after vacating her apartment, Eisman was provided a final 
+             account statement that improperly listed her date of giving notice as 
+14            May 30, 2017, rather than April 6, 2017, and improperly listed her 
+             move  out  date  as  May  25,  2017  (i.e.,  before  Eisman  allegedly 
+15            provided notice on May 30, 2017).  Defendants deducted these 
+             charges from Eisman’s security deposit, which was wholly retained 
+16            by Defendants.                                              
+17  (ECF No. 1-2 at 20 (emphasis removed).)  The Court finds the foregoing is sufficient for Leaser, 
+18  Wongsaroj, and Eisman to allege that they have each been personally injured by the assessment 
+19  of early termination fees.  Lierboe, </pre><span class="citation" data-id="784326"><a href="/opinion/784326/kristine-e-lierboe-individually-and-on-behalf-of-all-others-similarly/#1022" aria-description="Citation for case: Kristine E. Lierboe, Individually and on Behalf of All...">350 F.3d at 1022</a></span><pre class="inline">.                
+20       With respect to the late fees, Leaser avers in her declaration that she “was charged a late 
+21  fee relating to the alleged late payment of rent” and supports this statement with an email to Blue 
+22  Rock dated October 18, 2017, in which she states “please let me know when you have removed 
+23  the late fee from my account.”  (ECF No. 17-2 at 2, 12.)  The FAC alleges:  
+24            During the time that Leaser and Wongsaroj occupied the apartment, 
+             Defendants charged Leaser and Wongsaroj improper and exorbitant 
+25            late fees, based on assessments for charges for sewer, water, and 
+             garbage.  The late fees were caused because charges would be posted 
+26            by Defendants to Leaser’s and Wongsaroj’s account after they were 
+             due and thus could not be paid on time . . . These fees of $75 were 
+27            unconscionably large, given the amount of damages involved and the 
+             amount of damages, if any, Defendants would suffer because of late 
+28            payment . . . Leaser and Wongsaroj would typically challenge the 
+1            late fees, and the fees would be removed.  But Defendants had and 
+             have a policy of improperly charging other tenants for these fees and 
+2            collecting them, and not all were challenged.               
+3                                                                        
+   (ECF No. 1-2 at 17.)  The FAC further alleges the following after Magee withheld rent on the 
+4                                                                        
+   basis that the premises were infested with vermin and uninhabitable:  
+5                                                                        
+             Defendants refused to acknowledge that this condition was their 
+6            responsibility . . . and charged Magee exorbitant ‘late’ fee penalties 
+             relating to the rent.  This was not the first time Defendants had 
+7            charged Magee exorbitant late fees.  Previously, Defendants had 
+             charged Magee late fee penalties despite Magee only having paid 
+8            rent a few days late, which she paid to Defendants.         
+9  (Id. at 19.)  The Court finds the foregoing is sufficient for Leaser, Wongsaroj, and Magee to 
+10  establish that they have each been personally injured by the assessment of late fees.  Lierboe, 350 
+11  F.3d at 1022.                                                         
+12       Based on the foregoing, Plaintiffs have clearly alleged facts to support the element of 
+13  injury in fact.  See Spokeo, Inc., </pre><span class="citation" data-id="9823248"><a href="/opinion/3203762/spokeo-inc-v-robins/#1547" aria-description="Citation for case: Spokeo, Inc. v. Robins">136 S. Ct. at 1547</a></span><pre class="inline">.  Accordingly, Defendants’ motion to dismiss 
+14  Plaintiffs’ breach of contract and UCL claims for lack of standing is DENIED. 
+15       III.  MOTION TO STAY DISCOVERY                                   
+16       Defendants request a “limited and temporary stay of discovery . . . until this Court 
+17  resolves the question of whether Plaintiffs have Article III standing to pursue those claims and 
+18  Defendants file an answer to Plaintiffs’ complaint.”  (ECF No. 20 at 8.)  Defendants argue a stay 
+19  is “clearly appropriate and justified because [their] two [m]otions to [d]ismiss are likely to 
+20  dispose of, or at least significantly narrow, most of the claims to which Plaintiffs’ discovery is 
+21  directed, and the motions can be decided without any discovery.”  (Id. at 8.)  As the Court has 
+22  now ruled on Defendants’ two pending motions to dismiss, Defendants’ request is DENIED as 
+23  moot.                                                                 
+24       IV.  CONCLUSION                                                  
+25       For the foregoing reasons, the Court hereby DENIES Defendants’ Second Motion to 
+26  Dismiss (ECF No. 16), and DENIES as moot Defendants’ Motion to Stay Discovery (ECF No. 
+27  20).  The Court further GRANTS in part and DENIES in part Defendants’ First Motion to 
+28  Dismiss (ECF No. 6) as follows:                                       
+1          1.    Defendants’ motion to dismiss the claims against the Standing Defendants based on 
+2              standing is DENIED; 
+3          2.    Defendants’ motion to strike the allegations of conspiracy, alter ego, and aiding and 
+4              abetting liability is DENIED; 
+5          3.    Defendants’ motion to strike the class allegations under Rule 12(f) or Rule 
+6              23(d)(1)(D) is DENIED; 
+7          4.    Defendants’ motion to dismiss Plaintiffs’ claim under the unfair prong of the UCL is 
+8              DENIED; and 
+9          5.    Defendants’ motion to dismiss Plaintiffs’ security deposit claim is GRANTED with 
+10              leave to amend. 
+11          Plaintiffs may file an amended complaint consistent with this Court’s ruling not more than 
+12  |  30 days from the electronic filing date of this Order.  Defendants shall file a responsive pleading 
+13  |  not more than 21 days after the electronic filing date of the amended complaint. 
+14          IT IS SO ORDERED. 
+15  | DATED:  March 3, 2022 
+16                                  ry           /) 
+M                          “    \/     Vln 
+18                          —  □□  x. _ 
+                          Troy L. Nunley           } 
+19                         United States District Judge 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+
+                                           1R </pre>

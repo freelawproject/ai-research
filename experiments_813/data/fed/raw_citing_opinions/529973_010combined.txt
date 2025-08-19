@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b833-13">
+  MURNAGHAN, Circuit Judge:
+ </author>
+<p id="b833-14">
+  Charles Isom appeals the sentence imposed after he was convicted of one count of dealing with counterfeit obligations. <span class="citation no-link">18 U.S.C. § 473</span>. Isom contends that because the jury acquitted him of the accompanying count of counterfeiting itself, <span class="citation no-link">18 U.S.C. § 371</span>, it was error for the district court to enhance his sentence on the basis that he had actually printed the counterfeit obligations.
+ </p>
+<p id="b833-15">
+  Isom worked at a print shop where he operated a printing press. In early June of 1988, Jeffrey Riddel asked Isom if he would be interested in working for him at a print shop he was opening. Riddel knew Isom through their membership in the Virginia National Guard. Isom agreed to meet Riddel to inspect the equipment and see if he could operate the press. After Isom determined that he could run the press, supplies were purchased and a test run was eventually made. Riddel suggested that they use twenty dollar bills to test the accuracy of the machinery and over the course of several hours, 500 sheets each displaying three twenty dollar bills were printed. Isom admitted that he performed the actual printing. Thereafter, Isom helped Riddel to identify the imperfect bills and those were separated from the “good” ones. Finally, Isom saw Riddel put the good bills in a box and place them in the cab of his truck. Riddel told Isom that he had thrown the other copies and some of the supplies in various trash dumpsters.
+ </p>
+<p id="b833-16">
+  According to Isom, he was distressed when Riddel suggested printing money and warned him that it was illegal. Isom said that he had agreed to help Riddel only upon assurances that it was purely to prove the precision of the printing equipment and upon Riddel’s promise (apparently not kept) that the money would be destroyed.
+ </p>
+<p id="b833-17">
+  Isom was indicted on June 22, 1988 upon three counts: 1) counterfeiting in violation of <span class="citation no-link">18 U.S.C. § 471</span>, 2) dealing with counterfeit obligations in violation of <span class="citation no-link">18 U.S.C. § 473</span> and 3) conspiracy to counterfeit in violation of <span class="citation no-link">18 U.S.C. § 371</span>. On July 26, 1988, the jury returned a split verdict which acquitted Isom of the counterfeiting charge but convicted him of the one count of dealing in counterfeit obligations. The conspiracy count was severed by the court before trial and dismissed by the government after the verdict was returned.
+ </p>
+<p id="b833-18">
+  Because Isom committed his offense after November 1, 1987, the district court sentenced him on September 30, 1988, pursuant to the federal Sentencing Guidelines to a term of imprisonment of 12 months.
+  <em>
+   See
+  </em>
+  Sentencing Reform Act of 1984, Pub.L.
+  <span citation-index="1" class="star-pagination" label="738"> 
+   *738
+   </span>
+  No. 98-473, § 235, 98 Stat.1988, 2031 (1984) (as amended) (savings clause/effective date),
+  <em>
+   reprinted at
+  </em>
+  <span class="citation no-link">18 U.S.C.A. § 3551</span> (West 1985 &amp; Supp.1989) (“Guidelines”). The district court determined a base offense level of 9. Guidelines § 2B5.1(a). The court then enhanced the base offense level by 6 points to 15, pursuant to the mandate in § 2155.1(b)(2).
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  The district court explained that the adjustment to 15 was because the “defendant was the actual printer of the counterfeit obligation.” Finally, the court adjusted downward the total offense level by 4 points to 11 points because Isom had played a minor role in the offense (2 points) and he had immediately accepted responsibility for his acts (2 points).
+  <em>
+   Id.
+  </em>
+  § 3B1.2 and § 3E1.1, respectively. The adjusted base offense level of 11 points combined with the criminal history category I carries with it a guidelines sentencing range of 8—14 months.
+  <em>
+   See id.
+  </em>
+  § 4A1.1 (computation of criminal history category) and Chapter 5, Part A (Sentencing Table). The court decided that a 12-month term of imprisonment was “appropriate, given the seriousness of the offense and the determination that this was a onetime, out of character, offense for the defendant.” Isom appealed the six-point upward enhancement of the base offense level.
+ </p>
+<p id="b834-3">
+  Isom does not complain that the district court misapplied the Guidelines, and we observe that they were meticulously applied in the court below. Isom’s complaint with his sentence rests on due process grounds. He contends that it was a violation of due process to enhance his base offense level on the basis that he had manufactured the money because that effectively punished him for conduct,
+  <em>
+   i.e.
+  </em>
+  counterfeiting, for which the jury had found Isom not criminally responsible. Isom premises the argument on his conclusion that the jury, in acquitting him, must have found that he had no intent to defraud since he had admitted all of the elements of the counterfeiting count except his intent to defraud. However, Isom’s argument must fail because it rests upon a flawed assumption.
+ </p>
+<p id="b834-8">
+  It was well-settled prior to the enactment of the Guidelines that “ ‘[ajcquittal does not have the effect of conclusively establishing the untruth of all the evidence introduced against the defendant.’ ”
+  <em>
+   United States v. Bernard,
+  </em>
+  <span class="citation" data-id="449651"><a href="/opinion/449651/united-states-v-david-meade-bernard/#1444" aria-description="Citation for case: United States v. David Meade Bernard">757 F.2d 1439, 1444</a></span> (4th Cir.1985) (quoting
+  <em>
+   United States v. Sweig,
+  </em>
+  <span class="citation" data-id="301064"><a href="/opinion/301064/united-states-v-martin-sweig/#184" aria-description="Citation for case: United States v. Martin Sweig">454 F.2d 181, 184</a></span> (2d Cir.1972).
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  Even where guilt or acquittal turns on the jury’s resolution of one element of the crime, it does not necessarily follow that the jury, as a whole, based the acquittal on a factual finding. A verdict of acquittal demonstrates only a lack of proof beyond a reasonable doubt; it does not necessarily establish the defendant’s innocence.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  Therefore, we cannot conclude that Isom’s acquittal of the counterfeiting count established that he lacked any intent to defraud. The jury needed only a reasonable doubt to acquit or quite plausibly it may have returned its favorable verdict because of lenity.
+  <em>
+   See United States v. Harris,
+  </em>
+  <span class="citation" data-id="8916553"><a href="/opinion/8926786/united-states-v-harris/#1103" aria-description="Citation for case: United States v. Harris">701 F.2d 1095, 1103</a></span> (4th Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./463/1214/">463 U.S. 1214</a></span>,<span class="citation multiple-matches"><a href="/c/S.Ct./103/3554/">103 S.Ct. 3554</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/77/1400/">77 L.Ed.2d 1400</a></span> (1983) (juries return inconsistent verdicts because they do not always speak their real conclusion).
+ </p>
+<p id="b834-9">
+  Isom implicitly asserts that he cannot be punished for conduct for which it has not been determined that he is criminally responsible.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  However, Isom was con
+  <span citation-index="1" class="star-pagination" label="739"> 
+   *739
+   </span>
+  victed of dealing in counterfeit obligations. Although Isom was not convicted of counterfeiting and, therefore, will not be sentenced separately for his act of operating the printing press, that undisputed fact may be properly considered, pursuant to § 2B5.1(b)(2), to enhance the sentence imposed for his conviction.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  On this point, we find helpful the recent decision in
+  <em>
+   United States v. Juarez-Ortega,
+  </em>
+  <span class="citation" data-id="517630"><a href="/opinion/517630/united-states-v-esau-juarez-ortega/" aria-description="Citation for case: United States v. Esau Juarez-Ortega">866 F.2d 747</a></span> (5th Cir.1989).
+ </p>
+<p id="b835-5">
+  In
+  <em>
+   <span class="citation" data-id="517630"><a href="/opinion/517630/united-states-v-esau-juarez-ortega/" aria-description="Citation for case: United States v. Esau Juarez-Ortega">Juarez-Ortega</a></span>,
+  </em>
+  the defendant was convicted of a drug offense but acquitted of a substantive firearm offense. The Fifth Circuit held that the sentencing judge could properly consider facts surrounding the defendant’s possession of a firearm despite his acquittal of the related firearm offense, as long as the facts were not disputed as false or unreliable. The Fifth Circuit reasoned that
+ </p>
+<blockquote id="AyR">
+  [although the jury may have determined that the government had not proved all of the elements of the weapons offense beyond a reasonable doubt, such a determination does not necessarily preclude consideration of underlying facts of the offense at sentencing so long as those facts meet the reliability standard. The sentencing court was not relying on facts disclosed at trial to punish the defendant for the extraneous offense, but to justify the heavier penalties for the offense[] for which he was convicted.
+ </blockquote>
+<p id="Alpk">
+<em>
+   Juarez-Ortega,
+  </em>
+  <span class="citation" data-id="517630"><a href="/opinion/517630/united-states-v-esau-juarez-ortega/#749" aria-description="Citation for case: United States v. Esau Juarez-Ortega">866 F.2d at 749</a></span>.
+ </p>
+<p id="b835-6">
+  Isom has never disputed the fact that he operated the printing press and the reliability of that evidence remains unimpeached. Therefore, the district court could properly consider that fact to adjust the base offense level pursuant to § 2B5.1(b)(2).
+ </p>
+<p id="b835-10">
+  Finally, Isom argues that a showing of intent to defraud must be read into § 2B5.1(b)(2) under the directive of § lB1.3(a)(4). We find the argument completely without merit. Section IB 1.3 generally concerns what conduct may be considered by the sentencing court to determine the applicable sentencing guidelines range. In that regard, § 1B1.3(a)(4) permits consideration of “the defendant’s state of mind, intent, motive and purpose in committing the offense....” The relevant Commentary satisfactorily explains that the “guidelines also incorporate broader notions of intent or purpose that' are not elements of the offense,
+  <em>
+   e.g.,
+  </em>
+  whether the offense was committed for profit, or for the purpose of facilitating a more serious offense.”
+  <em>
+   See United States Sentencing Commission Guidelines Manual
+  </em>
+  at 1.20. The reference to intent in § lB1.3(a)(4) does not mandate proof beyond a reasonable doubt that Isom operated the press with an intent to defraud in order to enhance his offense level pursuant to § 2B5.1(b)(2).
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  Accordingly, we
+ </p>
+<p id="b835-11">
+  AFFIRM.
+ </p>
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b834-4">
+   . Section 2B5.1(b)(2) provides:
+  </p>
+<blockquote id="b834-5">
+   If the defendant manufactured or produced any counterfeit obligation or security of the United States, or possessed or had custody of or control over a counterfeiting device or materials used for counterfeiting, and the offense level as determined above is less that 15, increase to 15.
+  </blockquote>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b834-6">
+   . Although there may be issues for which pre-Guidelines case law may no longer be relevant, we believe the issue here concerning the meaning of a jury’s verdict of acquittal does not warrant such concern.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b834-10">
+   . For facts at sentencing, the burden of proof by a preponderance obviously differs in a significant way from proof beyond a reasonable doubt.
+   <em>
+    United States v. Urrego-Linares,
+   </em>
+   <span class="citation" data-id="526464"><a href="/opinion/526464/united-states-v-wilson-fernely-urrego-linares/#1237" aria-description="Citation for case: United States v. Wilson Fernely Urrego-Linares">879 F.2d 1234, 1237-38</a></span> (4th Cir.1989).
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b834-11">
+   . We find Isom’s reliance upon
+   <em>
+    United States v. Hansen,
+   </em>
+   <span class="citation" data-id="415372"><a href="/opinion/415372/united-states-v-arthur-hansen/" aria-description="Citation for case: United States v. Arthur Hansen">701 F.2d 1078</a></span> (2d Cir.1983), completely unavailing. Isom cites
+   <em>
+    <span class="citation" data-id="415372"><a href="/opinion/415372/united-states-v-arthur-hansen/" aria-description="Citation for case: United States v. Arthur Hansen">Hansen</a></span>
+   </em>
+   for the proposi
+   <span citation-index="1" class="star-pagination" label="739"> 
+    *739
+    </span>
+   tion that he cannot be punished for conduct,
+   <em>
+    i.e.
+   </em>
+   printing counterfeit money, for which he bears no criminal responsibility as a result of his acquittal. However, we read
+   <em>
+    <span class="citation" data-id="415372"><a href="/opinion/415372/united-states-v-arthur-hansen/" aria-description="Citation for case: United States v. Arthur Hansen">Hansen</a></span>
+   </em>
+   more narrowly. In
+   <em>
+    <span class="citation" data-id="415372"><a href="/opinion/415372/united-states-v-arthur-hansen/" aria-description="Citation for case: United States v. Arthur Hansen">Hansen</a></span>,
+   </em>
+   the Second Circuit held that a judge could not enhance a sentence for "conduct that may have been the product of mental illness.”
+   <span class="citation" data-id="415372"><a href="/opinion/415372/united-states-v-arthur-hansen/#1084" aria-description="Citation for case: United States v. Arthur Hansen"><em>
+    Id.
+   </em>
+   at 1084</a></span>. The court reasoned that had the defendant actually been prosecuted for the particular conduct, he would have been found insane and, therefore, not subject to punishment.
+  </p>
+<p id="b835-8">
+   The difference between
+   <em>
+    <span class="citation" data-id="415372"><a href="/opinion/415372/united-states-v-arthur-hansen/" aria-description="Citation for case: United States v. Arthur Hansen">Hansen</a></span>
+   </em>
+   and the case before us is that Hansen would not have been subjected to punishment for his conduct regardless of whether the government had actually proved a case against him. On the other hand, if Isom had been convicted of counterfeiting, he would have been subject to punishment. There would have been no exterior fact,
+   <em>
+    Le.
+   </em>
+   insanity, to preclude Isom from being held criminally responsible and punishable for his act.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b835-14">
+   . As the Commentary to § 2B5.1 points out, possession of counterfeiting devices and production of counterfeit items are "treated as aggravated form[s] of counterfeiting because of the sophistication and planning involved in manufacturing counterfeit obligations and the public policy interest in protecting the integrity of government obligations.”
+   <em>
+    See United States Sentencing Commission Guidelines Manual
+   </em>
+   § 2B5.1 at 2.27. Those purposes are served by considering Isom’s role in producing the counterfeit bills in this case. It seems quite evident from the record that Riddel could not have produced the counterfeit bills without Isom’s sophisticated knowledge and skill in printing. Furthermore, Isom clearly knew that printing the money was illegal.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="AWJ">
+   . We do not read Isom's brief to raise an argument concerning his general intent to participate as the printer. Indeed, we find it highly unlikely on the basis of the record before us that Isom could do so with a straight face. It was no accident or mistake that Isom manufactured the counterfeit money. He admitted to operating the printer deliberately and with the awareness that what he was doing was illegal.
+  </p>
+</div></div></opinion>

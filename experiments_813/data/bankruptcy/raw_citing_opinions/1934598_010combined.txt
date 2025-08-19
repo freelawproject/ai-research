@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b949-6">
+  MEMORANDUM AND ORDER
+ </p>
+<author id="b949-7">
+  JAMES A. PUSATERI, Bankruptcy Judge.
+ </author>
+<p id="b949-8">
+  In this chapter 13 proceeding, one student loan creditor, University of Kansas, objects to confirmation of the debtors’ plan in which the debtors propose no payments to unsecured creditors.
+ </p>
+<p id="b949-9">
+  The debtors are represented by Alan L. Tipton of Hamilton, Peterson, Tipton &amp; Muxlow, Topeka, Kansas. The University of Kansas is represented by Julia L. Young, Assistant Kansas Attorney General, Topeka, Kansas.
+ </p>
+<p id="b949-10">
+  The issues presented for determination are:
+ </p>
+<p id="b949-11">
+  1. What is the proper inquiry to determine if a chapter 13 plan should be confirmed in light of
+  <em>
+   In Re Flygare,
+  </em>
+  <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">709 F.2d 1344</a></span> (10th Cir.1983).
+ </p>
+<p id="b949-12">
+  2. Was the debtors’ plan proposed in good faith pursuant to <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3).
+ </p>
+<p id="b949-13">
+  A trial was conducted, briefs and stipulations have been submitted, and the Court is ready to rule.
+ </p>
+<p id="b949-14">
+  FINDINGS OF FACT
+ </p>
+<p id="b949-15">
+  The debtors, Majid and Hasiba Ali, filed a joint chapter 13 petition in bankruptcy on April 8, 1983. Their plan proposes to pay $89 per month to satisfy the fair market value of a 1979 Honda which they value at $2,000.00. The Honda is pledged as collateral to the School Employee’s Credit Union. The debtors propose to pay 0% to unsecured creditors, including a student loan creditor, University of Kansas.
+ </p>
+<p id="b949-16">
+  The debtors list the following unsecured debts in their schedules:
+ </p>
+<blockquote id="b949-17">
+  School Employee’s Credit Union $ 3,526.74
+ </blockquote>
+<blockquote id="b949-18">
+  American Express Co. 1,090.23
+ </blockquote>
+<blockquote id="b949-19">
+  Amoco Credit Corp. 215.00
+ </blockquote>
+<blockquote id="b949-20">
+  Greg Tire 142.00
+ </blockquote>
+<blockquote id="b949-21">
+  H. E. L. P. 15,000.00
+ </blockquote>
+<blockquote id="b949-22">
+  J.C. Penney 64.36
+ </blockquote>
+<blockquote id="b949-23">
+  K.U. Endowment Assoc. 1,151.00
+ </blockquote>
+<blockquote id="b949-24">
+  Lawrence Memorial Hospital 408.13
+ </blockquote>
+<blockquote id="b949-25">
+  MasterCard 576.24
+ </blockquote>
+<blockquote id="b949-26">
+  MasterCard 1,661.25
+ </blockquote>
+<blockquote id="b949-27">
+  MCI Telecommunications 264.83
+ </blockquote>
+<blockquote id="b949-28">
+  Mobile Oil Credit Corp. 474.05
+ </blockquote>
+<blockquote id="b949-29">
+  Montgomery Ward 224.10
+ </blockquote>
+<blockquote id="b949-30">
+  Phillips Petroleum 152.58
+ </blockquote>
+<blockquote id="b949-31">
+  Security Pacific Finance 1,318.22
+ </blockquote>
+<blockquote id="b949-32">
+  The Jones Store Co. 178.80
+ </blockquote>
+<blockquote id="b949-33">
+  Trans World 885.93
+ </blockquote>
+<blockquote id="b949-34">
+  University of Kansas 5,050.00
+ </blockquote>
+<blockquote id="b949-35">
+  VISA 569.82
+ </blockquote>
+<blockquote id="b949-36">
+  Total Unsecured Debt $32,953.28
+ </blockquote>
+<p id="b949-37">
+  Of the unsecured debt, the debtors are seeking to discharge student loans in the amount of $21,201.00, of which the instant creditor, University of Kansas (K.U.) is owed $5,000.00 plus $62.50 in unpaid interest.
+ </p>
+<p id="b949-38">
+  The bulk of the non-student loan debt was incurred in two areas. First, Mr. Ali travelled to Afghanistan to photograph the war in the hopes his pictures could be sold and generate a steady photo-journalistic job for him. His pictures were sold, but a job was not forthcoming. Second, the Ali’s travelled to Florida and New York to visit their families and attend a relative’s funeral.
+ </p>
+<p id="b949-39">
+  Mr. Ali and K.U. entered into a loan agreement under the National Direct Student Loan Program on or about March 31, 1976. K.U. advanced Mr. Ali $5,000.00, and interest in the amount of $62.50 has accrued. Repayment on the loan, after the expiration of the grace period, began on January 1, 1983, but Mr. Ali was given an additional deferment until July 1, 1983. Mr. Ali’s payments on this 3% loan were scheduled in the amount of $145.15 quarterly ($36.29 per month), but no payments were ever made because, before the deferment period expired, the instant chapter 13 petition was filed.
+ </p>
+<p id="b949-40">
+  The parties agree the loan in question is an educational loan made by a non-profit institution of higher learning and did not become due more than 5 years before the
+  <span citation-index="1" class="star-pagination" label="892"> 
+   *892
+   </span>
+  date upon which Mr. Ali filed his chapter 13 petition.
+ </p>
+<p id="b950-4">
+  The debtors reside in Lawrence, Kansas. Mr. Ali, after obtaining a GED, at 38 years of age enrolled at K.U. as a chemical engineering major. He was employed as a student chemical engineer with E.I. DuPont Co. In 1978 the debtors’ fourth child was born and the increased family and financial responsibilities interferred with his school work. He decided to change his major. Upon changing his major, the student employment at E.I. DuPont ceased. He consulted with a counsellor employed at K.U. and was advised he could not obtain a degree in journalism without delaying his graduation because he had not met certain course requisites. Mr. Ali testified he was advised that a degree in general studies with no major emphasis though of limited value would be better than no degree and he graduated from K.U. in 1981 with a Bachelor in General Studies.
+ </p>
+<p id="b950-5">
+  Since graduating, Mr. Ali has been employed at a number of jobs. He was employed as a director of a Youth Services Conservation Corps for two months but funding for the program expired. He was export manager on a commission basis of a company that became insolvent. He freelance photographed primarily for weddings; he was a car salesman for a foreign car dealer in Lawrence from August, 1982 to March, 1983. He testified the ear dealership was sold and all employees were terminated.
+ </p>
+<p id="b950-6">
+  Since March, 1983 Mr. Ali has done photography for weddings and for Volume Shoe Corporation. The work for Volume Shoe has ceased, however, because his contact at Volume Shoe is no longer employed there.
+ </p>
+<p id="b950-7">
+  Mr. Ali currently works for Man Power and earns approximately minimum wage. His take home pay hovers around $400 per month.
+ </p>
+<p id="b950-8">
+  Since March, 1983 Mr. Ali has applied for numerous jobs. Exhibit # 1 is a sampling of some of the application responses. Mr. Ali sought a job as an editor/proof reader on a local newspaper, photo-journalist on a Chicago publication, Parks and Recreation employee, computer programmer at a bank, research assistant at K.U. He has also sought employment as a dishwasher, cook, photographer, clerk, tutor and street coun-sellor.
+ </p>
+<p id="b950-10">
+  The debtors have four children, ages 4, 8, 14 and 20. The three younger children live at home. The 20 year old attends college in Colorado.
+ </p>
+<p id="b950-11">
+  Mrs. Ali is a teacher in the Lawrence school system. Her employment is not considered full-time, but rather 8/10 time. Her contract is for nine months, and each year she must reapply. Her monthly salary is $1,068.00.
+ </p>
+<p id="b950-12">
+  The debtors’ rent is $270 per month. They live in a 3-bedroom apartment in a low income tri-plex.
+ </p>
+<p id="b950-13">
+  They offered testimony that their utility bills are $138.00 per month. They spend $250 per month on food buying generic brands, day-old bread and do not eat red meat. In addition, other monthly expenses are as follows:
+ </p>
+<blockquote id="b950-14">
+  Clothing $ 25
+ </blockquote>
+<blockquote id="A9CF">
+  Laundry 40
+ </blockquote>
+<blockquote id="AXWA">
+  Periodicals 5
+ </blockquote>
+<blockquote id="APj">
+  Medical Expenses 90
+ </blockquote>
+<blockquote id="A0p7">
+  Transportation 80
+ </blockquote>
+<blockquote id="AOp">
+  Recreation 20
+ </blockquote>
+<blockquote id="AtI">
+  Insurance: Auto 38
+ </blockquote>
+<blockquote id="AGj">
+  Health 90
+ </blockquote>
+<blockquote id="AQv">
+  Taxes 14
+ </blockquote>
+<blockquote id="AqR">
+  Support 150 (for a 5 year old child of Mr. Ali’s who does not reside at home)
+ </blockquote>
+<blockquote id="AKDf">
+  Additional Support 30 (to the debtor's son in Colorado)
+ </blockquote>
+<blockquote id="AUpf">
+  Other 120 (Hilltop Child Care)
+ </blockquote>
+<p id="b950-22">
+  The debtors’ total expenses are $1,360.00. The debtors list total monthly income of $1,468.00. They propose to pay $89 per month into the plan, leaving a surplus of $19.
+ </p>
+<p id="b950-23">
+  Much was made by K.U. concerning these expenses, yet K.U. put on no evidence concerning the reasonableness of these expenses. By way of argument alone, counsel for K.U. asserts the expenses are unreasonable.
+ </p>
+<p id="b951-3">
+<span citation-index="1" class="star-pagination" label="893"> 
+   *893
+   </span>
+  K.U. asserts $30 per month support paid to the debtors’ son is unreasonable. The Court is unwilling to say it is unreasonable absent some evidence of its unreasonableness.
+ </p>
+<p id="b951-4">
+  K.U. asserts $40 per month for laundry is unreasonable. Absent some evidence, the Court cannot of its own knowledge, say this expense is unreasonable for a family of five.
+ </p>
+<p id="b951-5">
+  K.U. argues that additional medical expenses of $90 per month are unreasonable because Mrs. Ali’s job provides comprehensive group health insurance. The Court has no knowledge of the extent to which Mrs. Ali’s insurance would cover medical expenses. Mrs. Ali suffers from severe arthritis and has a problem with her feet preventing her from spending long periods on her feet. She must wear costly corrective inserts in her shoes. One child has double teeth and is in need of extensive and expensive orthodontist work. Without evidence presented by K.U., all the Court knows is that the Ali’s testified these expenses were not covered by insurance. Therefore, there is nothing presented by K.U. from which the Court could find anything other than these additional uninsured medical expenses are reasonable.
+ </p>
+<p id="b951-6">
+  K.U. argues that $25 per month for telephone service is unreasonable.
+ </p>
+<blockquote id="b951-7">
+  Although contact with families is not to be discouraged, in a bankruptcy situation, long distance communication becomes a luxury that cannot be indulged. Communication may be maintained by writing,
+ </blockquote>
+<p id="AF6">
+  (creditor brief, pg. 8). The Court does not believe $25 per month for telephone service is unreasonable, nor an impermissible luxury. Once again, K.U. presented no evidence concerning the reasonableness of this expense.
+ </p>
+<p id="b951-8">
+  In sum, the Court was presented with a budget and the debtors offered evidence that it was reasonable. K.U. offered no evidence in response. The Court cannot say the budget is unreasonable and in the absence of evidence to the contrary, the Court finds the budget within the realm of reason and views it as a realistic attempt to minimize expenses.
+ </p>
+<p id="b951-10">
+  Finally, the Ali’s attempted to resolve their financial difficulties by a plan to pay creditors through a consumer credit counseling program in Kansas City. This plan apparently was successful for one year until a secured creditor balked at the plan and refused to cooperate.
+ </p>
+<p id="b951-11">
+  CONCLUSIONS OF LAW
+ </p>
+<p id="b951-12">
+  The Tenth Circuit Court of Appeals recently ruled on the question of payments required in a chapter 13 proceeding. In
+  <em>
+   Flygare v. Boulden (In Re Flygare),
+  </em>
+  <span class="citation no-link">709 F.3d 1344</span> (10th Cir.1983), the Tenth Circuit rejected the “substantial payment” test, and listed 11 factors for the bankruptcy court to consider in determining whether a proposed chapter 13 plan complies with the “good faith” requirement of <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3):
+ </p>
+<p id="b951-13">
+  1. The amount of the proposed payments and the amount of the debtor’s surplus;
+ </p>
+<p id="b951-14">
+  2. The debtor’s employment history, ability to earn and likelihood of future increases in income;
+ </p>
+<p id="b951-15">
+  3. The probable or expected duration of the plan;
+ </p>
+<p id="b951-16">
+  4. The accuracy of the plan’s statement of the debts, expenses and percentage repayment of unsecured debt and whether any inaccuracies are an attempt to mislead the court;
+ </p>
+<p id="b951-17">
+  5. The extent of preferential treatment between classes of creditors;
+ </p>
+<p id="b951-18">
+  6. The extent to which secured claims aré modified;
+ </p>
+<p id="b951-19">
+  7. The type of debt sought to be discharged and whether any such debt is non-dischargeable in chapter 7;
+ </p>
+<p id="b951-20">
+  8. The existence of special circumstances such as inordinate medical expenses;
+ </p>
+<p id="b951-21">
+  9. The frequency with which the debtor has sought relief under the Bankruptcy Reform Act;
+ </p>
+<p id="b951-22">
+  10. The motivation and sincerity of the debtor in seeking chapter 13 relief; and
+ </p>
+<p id="b952-3">
+<span citation-index="1" class="star-pagination" label="894"> 
+   *894
+   </span>
+  11. The burden which the plan’s administration would place upon the trustee.
+ </p>
+<p id="b952-4">
+  <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/#1347" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">709 F.2d at 1347-48</a></span>. In adopting these factors, the circuit agreed with the rule announced by other circuits that addressed the issue. See
+  <em>
+   In Re Deans,
+  </em>
+  <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">692 F.2d 968</a></span> (4th Cir.1982);
+  <em>
+   In Re Rimgale,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/669/426/">669 F.2d 426</a></span> (7th Cir.1982);
+  <em>
+   In Re Estus,
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d 311</a></span> (8th Cir.1982);
+  <em>
+   In Re Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386</a></span> (9th Cir.1982);
+  <em>
+   In Re Kitchens,
+  </em>
+  <span class="citation" data-id="415578"><a href="/opinion/415578/in-re-charles-e-kitchens-and-olivia-l-kitchens-bankrupt-charles-e/" aria-description="Citation for case: In Re Charles E. Kitchens and Olivia L. Kitchens,...">702 F.2d 885</a></span> (11th Cir.1983);
+  <em>
+   In Re Barnes,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/689/193/">689 F.2d 193</a></span> (D.C.Cir.1982).
+ </p>
+<p id="b952-5">
+  In
+  <em>
+   In Re Garcia,
+  </em>
+  <span class="citation" data-id="1537853"><a href="/opinion/1537853/in-re-garcia/" aria-description="Citation for case: In Re Garcia">6 B.R. 35</a></span>, 6 BCD 1212 (Bkrtcy.D.Kan.1980), this Court reviewed a number of the early chapter 13 cases requiring “substantial” or “meaningful” payments to unsecured creditors before a plan could be confirmed. See, e.g.,
+  <em>
+   In Re Marlow,
+  </em>
+  <span class="citation" data-id="1970491"><a href="/opinion/1970491/matter-of-marlow/" aria-description="Citation for case: Matter of Marlow">3 B.R. 305</a></span>, 1 CBC2d 705 (Bkrtcy.N.D.Ill.1980);
+  <em>
+   In Re Beaver,
+  </em>
+  <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/" aria-description="Citation for case: In Re Beaver">2 B.R. 337</a></span>, 1 CBC2d 609 (Bkrtcy.S.D.Cal.1980);
+  <em>
+   In Re Iacavoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, 1 CBC2d 331 (Bkrtcy.D. Utah, 1980);
+  <em>
+   In Re Campbell,
+  </em>
+  <span class="citation" data-id="1970642"><a href="/opinion/1970642/in-re-campbell/" aria-description="Citation for case: In Re Campbell">3 B.R. 57</a></span>, 1 CBC2d 653 (Bkrtcy.S.D.Cal.1980);
+  <em>
+   In Re Burrell,
+  </em>
+  <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">2 B.R. 650</a></span>,1 CBC2d 474 (Bkrtcy.N.D.Cal.1980);
+  <em>
+   In Re Seman,
+  </em>
+  <span class="citation" data-id="1538714"><a href="/opinion/1538714/in-re-seman/" aria-description="Citation for case: In Re Seman">4 B.R. 568</a></span>, 6 BCD 626, 2 CBC2d 394 (Bkrtcy.S.D.N.Y.1980). Like the Tenth Circuit, this Court rejected the concept of a set minimum payment requirement. This Court also felt, however, it would not require an examination of the debtor’s ability to make greater plan payments if the creditors received what they would be paid in a chapter 7 proceeding pursuant to § 1325(a)(4). See, e.g.,
+  <em>
+   In Re McMinn,
+  </em>
+  <span class="citation" data-id="1538670"><a href="/opinion/1538670/in-re-mcminn/#152" aria-description="Citation for case: In Re McMinn">4 B.R. 150, 152</a></span>, 6 BCD 297 (Bkrtcy.D.Kan.1980). Under the Tenth Circuit’s recent
+  <em>
+   <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">Flygare</a></span>
+  </em>
+  decision, this Court is required to examine the debtor’s surplus income under § 1325(a)(3), and henceforth will do so upon objection by a party in interest pursuant to § 1324.
+ </p>
+<p id="b952-6">
+  In
+  <em>
+   In Re McMinn,
+  </em>
+  <span class="citation" data-id="1538670"><a href="/opinion/1538670/in-re-mcminn/" aria-description="Citation for case: In Re McMinn">4 B.R. 150</a></span>, 6 BCD 297 (Bkrtcy.D.Kan.1980), this Court held that a chapter 13 debtor owing a $44,000 unsecured judgment debt to a bank that would have been a non-dischargeable debt in a chapter 7 proceeding pursuant to <span class="citation no-link">11 U.S.C. § 523</span>(a)(2)(B), cannot have a 1% repayment plan confirmed. The Court’s reasoning was not that the plan was filed in bad faith in violation of § 1325(a)(3), but rather under § 1325(a)(4), an unsecured creditor must receive property of a value not less than what the creditor would be paid in a chapter 7 proceeding:
+ </p>
+<blockquote id="b952-8">
+  A creditor who receives a nondischargeable judgment in a Chapter 7 receives for its claim something of value. Though the theoretical value is $44,000, the actual value to be ascribed to such judgment is difficult to ascertain. Its actual value may range from full value to nominal value, dependent, among other possible considerations, on the persistence of the creditor, the resourcefulness and longevity of the debtor and the laws of the state pertaining to execution and collection of judgments. It can be said, however, that $440 is not likely to be the indubitable equivalent of a $44,000 nondischargeable judgment against the debtor.
+ </blockquote>
+<p id="b952-9">
+  Id. at 153, 6 BCD at 299. In light of this Court’s belief that § 1325(a)(3) did not require an examination of the debtor’s ability to provide greater payments,
+  <em>
+   <span class="citation" data-id="1538670"><a href="/opinion/1538670/in-re-mcminn/" aria-description="Citation for case: In Re McMinn">McMinn</a></span>
+  </em>
+  was an attempt to equitably prevent debtors from avoiding the payment of debts that would otherwise be excepted from discharge pursuant to §§ 523(a)(2), (4), (6).
+ </p>
+<p id="b952-10">
+  In
+  <em>
+   <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">Flygare</a></span>,
+  </em>
+  the Tenth Circuit indicated that two factors to consider under § 1325(a)(3) were the ability of the debtors to provide greater payments, and whether the type of debt sought to be discharged would be non-dischargeable in chapter 7. These factors are elements of good faith under § 1325(a)(3).
+ </p>
+<p id="b952-11">
+  Moreover,
+  <em>
+   In Re Rimgale,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/669/426/">669 F.2d 426</a></span> (7th Cir.1982) (cited with approval by the tenth circuit in
+  <em>
+   <span class="citation no-link">Flygare)</span>,
+  </em>
+  held that the creditor owed a debt that would be non-dis-chargeable in a chapter 7 cannot raise an objection to a chapter 13 debtor’s plan under § 1325(a)(4). Id at 430-31. Rather, the discharge in a chapter 13 proceeding of a debt otherwise non-dischargeable in a chapter 7 proceeding is a factor in determining good faith under § 1325(a)(3). Accordingly, this Court believes its holding in
+  <em>
+   <span class="citation" data-id="1538670"><a href="/opinion/1538670/in-re-mcminn/" aria-description="Citation for case: In Re McMinn">McMinn</a></span>
+  </em>
+  has been implicitly overruled by the Tenth Circuit in
+  <em>
+   <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">Flygare</a></span>.
+  </em>
+  No longer
+  <span citation-index="1" class="star-pagination" label="895"> 
+   *895
+   </span>
+  will the nondischargeability of a debt in a chapter 7 be an objection to confirmation under § 1325(a)(4). Rather, it is one of many factors to consider in determining whether a plan is proposed in good faith under § 1325(a)(3).
+ </p>
+<p id="b953-5">
+  In summary, this Court will henceforth examine all the factors enumerated by the Tenth Circuit to determine if a debtor has filed the chapter 13 plan in good faith.
+ </p>
+<p id="b953-6">
+  Thus, as noted in
+  <em>
+   In Re Estus,
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d 311</a></span> (8th Cir.1982), and
+  <em>
+   In Re Kitchens,
+  </em>
+  <span class="citation" data-id="814281"><a href="/opinion/814281/united-states-v-solomon-carpenter/" aria-description="Citation for case: United States v. Solomon Carpenter">702 F.3d 885</a></span> (11th Cir.1983), plans running less than 36 months paying nothing to unsecured creditors will be viewed with a critical eye, especially where a debt that would otherwise be excepted from discharge was to be paid nothing or the debtor has the ability to increase plan payments.
+ </p>
+<p id="b953-7">
+  As noted in
+  <em>
+   In Re Rimgale,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/669/426/">669 F.2d 426</a></span> (7th Cir.1982), plans running more than 42 months compromising at less than 11% a tort judgment creditor’s claim that would not be discharged in a chapter 7 pursuant to § 523(a)(4), (6), may or may not be filed in good faith depending on the accuracy of the debtor’s schedules, timing of the petition, the proportion of total unsecured claims to non-dischargeable claims, and the equity of classifying together general unsecured claims and claims that would be excepted from discharge in chapter 7.
+ </p>
+<p id="b953-8">
+  As noted in
+  <em>
+   In Re Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386</a></span> (9th Cir.1982), zero percent plans running 60 months, paying priority creditors in full, which is more than they would receive in chapter 7, and calling for the debtors to devote all their disposable income to plan payments are probably filed in good faith.
+ </p>
+<p id="b953-9">
+  As previously held by this Court in
+  <em>
+   In Re Chaffin,
+  </em>
+  <span class="citation" data-id="1538694"><a href="/opinion/1538694/in-re-chaffin/" aria-description="Citation for case: In Re Chaffin">4 B.R. 324</a></span>, 6 BCD 426, 2 CBC2d 229 (Bkrtcy.D.Kan.1980), the spirit of the Code under § 1325(a)(3) is violated if a chapter 13 plan proposes to pay zero percent to unsecured creditors over 27 months, after the debtor received a chapter 7 discharge only 4 years before filing his chapter 13 petition.
+ </p>
+<p id="b953-10">
+  As previously held by this Court in
+  <em>
+   In Re Garrison,
+  </em>
+  <span class="citation" data-id="1957229"><a href="/opinion/1957229/in-re-garrison/" aria-description="Citation for case: In Re Garrison">19 B.R. 679</a></span>, 6 CBC2d 498 (Bkrtcy. D.Kan.1981), § 1325(a)(3) does not permit a debtor to dismiss a pending chapter 13 case and refile a new chapter 13 case in an attempt to do in the new case what the Court would not permit in the previous case.
+ </p>
+<p id="b953-12">
+  And finally, as this Court stated in
+  <em>
+   In Re Garcia,
+  </em>
+  <span class="citation" data-id="1537853"><a href="/opinion/1537853/in-re-garcia/" aria-description="Citation for case: In Re Garcia">6 B.R. 35</a></span>, 6 BCD 1212 (Bkrtcy.D.Kan.1980):
+ </p>
+<blockquote id="b953-13">
+  the Court believes that a preferred method of filing a plan would include a designation of that portion of income the debt- or intends to pay into the plan as well as the period over which the plan is to extend, the classification of creditors to receive payment and the order in which payment is to be received. This method of planning allows unsecured creditors to see what resources are to be devoted to the plan, over what period of time the plan is to run and what creditors will precede them in payment.
+ </blockquote>
+<p id="b953-14">
+  <span class="citation" data-id="1537853"><a href="/opinion/1537853/in-re-garcia/#37" aria-description="Citation for case: In Re Garcia">Id. at 37</a></span>, 6 BCD at 1212.
+ </p>
+<p id="b953-15">
+  Turning to the case at bar, the University of Kansas objects to the debtors’ plan alleging it is not filed in good faith, pursuant to § 1325(a)(3). The University of Kansas also alleges its claim would not be dis-chargeable in a chapter 7 proceeding under <span class="citation no-link">11 U.S.C. § 523</span>(a)(8), and it must be paid the value of that non-dischargeable claim in this chapter 13 proceeding, citing
+  <em>
+   In Re McMinn,
+  </em>
+  <span class="citation" data-id="1538670"><a href="/opinion/1538670/in-re-mcminn/" aria-description="Citation for case: In Re McMinn">4 B.R. 150</a></span>, 6 BCD 297 (Bkrtcy.D.Kan.1980).
+ </p>
+<p id="b953-16">
+  Addressing the second objection, as previously discussed the Court will no longer adhere to its holding in
+  <em>
+   In Re McMinn
+  </em>
+  as a grounds for objection under § 1325(a)(4). Rather, this is simply one factor in considering good faith under § 1325(a)(3).
+ </p>
+<p id="b953-17">
+  Addressing the good faith objection, the Court will examine and apply the various factors enunciated' by the Tenth Circuit.
+ </p>
+<p id="b953-18">
+<em>
+   1. Debtors’ Surplus
+  </em>
+</p>
+<p id="b953-19">
+  In an amended family budget filed June 27, 1983 the debtors list total income of $1,468.00 per month and total expenses of $1,350.00. As the Court discussed in the Findings of Fact, these expenses and in
+  <span citation-index="1" class="star-pagination" label="896"> 
+   *896
+   </span>
+  come figures appear accurate and reasonable. Thus, the debtors have a surplus of $108 per month. They propose to devote $89 per month to the plan leaving a net surplus of $19.00 per month which the Court does not believe is unreasonable to cover the emergency and unexpected expenses that arise in the day to day existence we call life.
+ </p>
+<p id="b954-4">
+<em>
+   2. Employment History
+  </em>
+</p>
+<p id="b954-5">
+  Given the employment history of Mr. and Mrs. Ali, the Court cannot see any likelihood of future increases. Mr. Ali is a minimum wage employee. He has no formal specialized training and prospect of a regular job with substantially increased income is not great. Mrs. Ali’s job is year to year with no guarantee of renewal of her employment contract. Furthermore, her health brings into question her future ability to work.
+ </p>
+<p id="b954-6">
+<em>
+   3. Duration of the Plan
+  </em>
+</p>
+<p id="b954-7">
+  The debtors propose to pay only one secured creditor, the School Employees Credit Union. The debtors amended their schedules to assert the value of this creditor’s security (1979 Honda) is $2,000. The discount rate in the Ali case is 10.16% [see
+  <em>
+   In Re Fisher,
+  </em>
+  <span class="citation" data-id="1872343"><a href="/opinion/1872343/in-re-fisher/" aria-description="Citation for case: In Re Fisher">29 B.R. 542</a></span>, 10 BCD 858, 8 CBC2d 628 (Bkrtcy.D.Kan.1983) ]. Thus, the Ali’s would need just over 25 monthly payments of $89 each to satisfy the $2,000 claim at a 10.16% discount rate. Even with the trustee’s fee, the plan would pay out in less than 36 months. The Court would require the Ali’s to pay $89 per month for 36 months. See
+  <em>
+   In Re Estus,
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d 311</a></span> (8th Cir.1982).
+ </p>
+<p id="b954-8">
+<em>
+   4.Accuracy and % Repayment
+  </em>
+</p>
+<p id="b954-9">
+  The Court does not believe any inaccuracies in the debtors’ schedules were brought to light.
+ </p>
+<p id="b954-10">
+  The debtors are seeking to discharge over $30,000 in unsecured debts. The unsecured debts are broken into four categories. Health related unsecured debt is $408.13. Travel related unsecured debt (including American Express, MasterCard, VISA, Amoco, Greg Tire, Mobile, Phillips, Trans World) is $5,767.10. Student loan debt is over $20,000. Miscellaneous consumer debt is $1,871.51. Thus, student loan debts sought to be discharged account for over % of the debtors’ obligations. Only one student loan creditor, however, has objected, and its claim is $5,000.00, or only
+  <em>
+   Ve
+  </em>
+  of the total debts to be discharged.
+ </p>
+<p id="b954-12">
+<em>
+   5.Preferential Treatment
+  </em>
+</p>
+<p id="b954-13">
+  This factor is inapplicable in the instant case.
+ </p>
+<p id="b954-14">
+<em>
+   6.The Extent to Which Secured Claims are Modified
+  </em>
+</p>
+<p id="b954-15">
+  There is only one secured claim to be paid and the Court does not view the modification of that creditor’s claim as unusual in a chapter 13 proceeding.
+ </p>
+<p id="b954-16">
+<em>
+   7.Existence of Student Loan Debts Which Might not be discharged in Chapter
+  </em>
+  7
+ </p>
+<p id="b954-17">
+  In a chapter 7 proceeding, § 523 provides:
+ </p>
+<blockquote id="b954-18">
+  (a) A discharge under Section 727, 1141, or 1328(b) of this title does not discharge an individual debtor from any debt—
+ </blockquote>
+<blockquote id="b954-22">
+  (8) for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or nonprofit institution of higher education, unless— ...
+ </blockquote>
+<blockquote id="b954-23">
+  (B) exception of such debt from discharge under this paragraph will impose an undue hardship on the debtor and the debtor’s dependents, ....
+ </blockquote>
+<p id="b954-24">
+  Though the phrase undue hardship defies precise definition, legislative history and recent case law offer a number of relevant factors to aid in determining whether undue hardship exists, including:
+ </p>
+<p id="b954-25">
+  a. ability of the debtor to obtain, retain and continue employment;
+ </p>
+<p id="b954-26">
+  b. rate of pay to be expected;
+ </p>
+<p id="b955-4">
+<span citation-index="1" class="star-pagination" label="897"> 
+   *897
+   </span>
+  c. unearned income or wealth debtor can be expected to receive;
+ </p>
+<p id="b955-5">
+  d. total amount of income, its reliability and periodicity of its receipt compared to the income needed to maintain debtor at a minimal standard of living;
+ </p>
+<p id="b955-6">
+  e. was the financial benefit to debtor from the education financed by the loan;
+ </p>
+<p id="b955-7">
+  f. was discharge of the loan the dominant purpose for the filing of the bankruptcy petition;
+ </p>
+<p id="b955-8">
+  g. have any unusual or emergency liabilities arisen;
+ </p>
+<p id="b955-9">
+  h. efforts to get a job where debtor’s schooling would be compensated.
+ </p>
+<p id="b955-10">
+  See,
+  <em>
+   Communications from the Executive Director, Commission on the Bankruptcy Laws of the United States,
+  </em>
+  H.R.Doc. No. 93-137, 93rd Cong., 1st Sess., Pt. II (1973) 140-41, n. 17;
+  <em>
+   In Re Bagley,
+  </em>
+  <span class="citation" data-id="1538583"><a href="/opinion/1538583/connecticut-student-loan-foundation-inc-v-bagley-in-re-bagley/#250" aria-description="Citation for case: Connecticut Student Loan Foundation, Inc. v. Bagley (In...">4 B.R. 248,250</a></span>, 6 BCD 404, 2 CBC2d 251 (Bkrtcy.D.Ariz.1980);
+  <em>
+   In Re Bell,
+  </em>
+  <span class="citation" data-id="1535284"><a href="/opinion/1535284/georgia-higher-education-assistance-corp-v-bell-in-re-bell/" aria-description="Citation for case: Georgia Higher Education Assistance Corp. v. Bell (In Re...">5 B.R. 461</a></span>, 2 CBC2d 977 (Bkrtcy.N.D.Ga.1980);
+  <em>
+   In Re Fonzo,
+  </em>
+  <span class="citation" data-id="1975900"><a href="/opinion/1975900/matter-of-fonzo/" aria-description="Citation for case: Matter of Fonzo">1 B.R. 722</a></span> (Bkrtcy.S.D.N.Y.1979);
+  <em>
+   In Re Johnson,
+  </em>
+  5 BCD 532 (Bkrtcy.E.D.Pa.1979).
+ </p>
+<p id="b955-11">
+  The skills of the debtor must be taken into account. “Traditionally, a person with a marketable skill will qualify for a higher rate of pay than an unskilled worker.”
+  <em>
+   In Re Deborah Lee Johnson,
+  </em>
+  supra, at 537.
+ </p>
+<p id="b955-12">
+  Thus, it must be ascertained,
+ </p>
+<blockquote id="b955-13">
+  What sources of income are likely to be available to the debtor in the future, during the years when loan payments will be required, and whether this income will be sufficient to support the debtor — and his dependents — at a ‘minimal standard of living,’ in addition to funding repayment of the student loan.
+ </blockquote>
+<p id="b955-14">
+  Id. at 536. The debtor must show some form of
+ </p>
+<blockquote id="b955-15">
+  economic difficulty that is not common to all recent graduates. Repayment of student loans almost always imposes an immediate hardship on the debtor. The debts of recent graduates generally vastly outnumber their assets .... If there are no factors which indicate the [debt- or’s] ... plight differs from the great majority of student loan debtors, the undue hardship discharge will be denied.
+ </blockquote>
+<p id="AIg">
+  Kosel, Running the Gauntlet of “Undue Hardship” — The Discharge of Student Loans in Bankruptcy, 11 Golden Gate U.L. Rev. 457, 467 (1981).
+ </p>
+<p id="b955-17">
+  In examining the factors to determine if undue hardship exists, it is clear the debtors’ rate of pay will not likely increase, they have no unearned wealth, and they have irregular and unreliable income. Furthermore, Mr. Ali’s degree has been virtually valueless in helping him secure employment. He received no financial benefit from his degree, and in fact K.U. was aware of the minimal benefit of such a degree. Mr. Ali has made honest and extensive efforts to secure employment both in jobs for college graduates and menial labor jobs. The discharge of this student loan is a reason for the filing of the bankruptcy petition, but the Court cannot say it was the
+  <em>
+   dominant
+  </em>
+  purpose. Mr. Ali has at least $10,000 in other unsecured debt and $2,000 in secured debt with which he must contend. Therefore, it is clear that his attempt to discharge his student loan is borne out of survival, not bad faith.
+ </p>
+<p id="b955-18">
+  Under the circumstances the instant student loan debt may well be dischargeable in a chapter 7 proceeding based on the showing made by the debtors of undue hardship. In point of fact, K.U. did not present any evidence per se. The debtors were cross-examined. Counsel for K.U. offered argument that the debtors’ testimony was unreasonable, but the Court heard no
+  <em>
+   evidence.
+  </em>
+</p>
+<p id="b955-19">
+  In sum, the Court finds under good faith factor # 7, the debtors in this chapter 13 proceeding are not merely attempting to discharge an otherwise non-dischargeable debt.
+ </p>
+<p id="b955-20">
+<em>
+   8. Medical Expenses
+  </em>
+</p>
+<p id="b955-21">
+  The degenerative nature of Mrs. Ali’s condition compels this Court to believe things will only get worse for the debtors. The Court believes the debtors’ medical expenses will increase as time goes on and
+  <span citation-index="1" class="star-pagination" label="898"> 
+   *898
+   </span>
+  believes this is a “special circumstance” under factor # 8.
+ </p>
+<p id="b956-4">
+<em>
+   9. Frequency of Bankruptcy
+  </em>
+</p>
+<p id="b956-5">
+  There has not been any allegation or showing under this factor.
+ </p>
+<p id="b956-7">
+<em>
+   10. Motivation and Sincerity
+  </em>
+</p>
+<p id="b956-8">
+  The Court believes the debtors’ motivation and sincerity are genuine.
+ </p>
+<p id="b956-9">
+<em>
+   11. Burden of Administration
+  </em>
+</p>
+<p id="b956-10">
+  This factor is not in issue in this ease.
+ </p>
+<p id="b956-11">
+  The Court has weighed and considered the aforementioned factors and taken into account the debtors’ need for relief, ability to repay, age, needs of their dependents, attempt through credit counseling to repay their debts, and honesty of intention. Based on these considerations, the Court holds the debtors’ plan is proposed in good faith, if payments are made for 36 months.
+ </p>
+<p id="b956-12">
+  One final argument is made. K.U. argues the debtors do not have regular income because Mr. Ali is unemployed. Mrs. Ali, however, is employed. The chapter 13 petition is filed jointly and thus the debtors as a unit in fact have income sufficiently regular to satisfy the requirements of chapter 13.
+ </p>
+<p id="b956-13">
+  IT IS THEREFORE ORDERED that the objection of the University of Kansas to confirmation of the debtors’ plan is denied.
+ </p>
+</opinion>

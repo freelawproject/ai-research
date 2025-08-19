@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b636-3">
+  D. C. Riley, J.
+ </author>
+<p id="AzB">
+  On November 3, 1980, following an eight-week trial of plaintiff’s action for tortious interference with prospective advantageous economic relations, the jury returned a verdict in favor of plaintiff in the amount of $272,368. Defendant appeals as of right raising a plethora of issues for our consideration, many of which have not been preserved for appeal, and the remainder of which do not require reversal.
+ </p>
+<p id="b636-4">
+  Plaintiff is a Michigan corporation specializing in underground and heavy-duty construction. Defendant is a New York based firm of consulting engineers which had been retained by the City of Detroit Public Lighting Commission (hereinafter PLC) in 1971 in connection with the expansion of the PLC’s Mistersky Generating Station. Defendant’s main responsibilities under its contract with PLC were to prepare construction specifications, evaluate bids made by contractors and make recommendations to the PLC as to which contractor should be awarded contracts.
+ </p>
+<p id="b636-5">
+  In 1974, bids were solicited from contractors for performance of a contract designated as contract #306. Although plaintiff submitted the lowest bid, defendant recommended to the PLC that the contract be awarded to another contractor as it felt plaintiff was unqualified to perform the contract. Accordingly, the contract was awarded to another contractor. In 1976, bids were solicited for another project at the Mistersky Station and a contract designated as contract #323 was awarded to a local construction company which had designated plaintiff as its proposed excavation and piling
+  <span citation-index="1" class="star-pagination" label="625"> 
+   *625
+   </span>
+  subcontractor. However, defendant informed that company that plaintiff was unacceptable as the subcontractor and plaintiff was thereafter removed as the subcontractor. Plaintiff then commenced this action alleging that defendant wrongfully persuaded the PLC not to award plaintiff the general contract on #306 and a subcontract on #323.
+ </p>
+<p id="b637-3">
+  We consider defendant’s allegations of error in the sequence in which they arose in the trial court.
+ </p>
+<p id="b637-4">
+  I
+ </p>
+<p id="b637-5">
+  Statute of Limitations
+ </p>
+<p id="b637-6">
+  At the outset, we reject defendant’s contention that plaintiff’s cause of action is barred by the one-year statute of limitations applicable to libel and slander actions, MCL 600.5805(7); MSA 27A.5805(7). Defendant argues that the gravamen of plaintiff’s claim is the publication of various defamatory statements made by defendant to the PLC and that plaintiff’s designation of its claim as one for interference with prospective advantageous economic relations was merely an attempt to circumvent the shorter period of limitation applicable to actions based upon libel and slander.
+ </p>
+<p id="b637-7">
+  In
+  <em>
+   Wilkerson v Carlo,
+  </em>
+  <span class="citation" data-id="2055672"><a href="/opinion/2055672/wilkerson-v-carlo/#634" aria-description="Citation for case: Wilkerson v. Carlo">101 Mich App 629, 634</a></span>; <span class="citation" data-id="2055672"><a href="/opinion/2055672/wilkerson-v-carlo/" aria-description="Citation for case: Wilkerson v. Carlo">300 NW2d 658</a></span> (1980),
+  <em>
+   lv den
+  </em>
+  <span class="citation no-link">411 Mich 984</span> (1981), this Court held that tortious interference with economic relations is actionable in and of itself and is subject to the three-year period of limitations, MCL 600.5805(8); MSA 27A.5805(8), even though the interference is caused by defamatory statements. As plaintiff’s action was filed within the applicable three-year period of limitations, the
+  <span citation-index="1" class="star-pagination" label="626"> 
+   *626
+   </span>
+  trial court did not err in denying defendant’s motion for an accelerated judgment.
+ </p>
+<p id="b638-3">
+  II
+ </p>
+<p id="b638-4">
+  Evidentiary Rulings
+ </p>
+<p id="b638-5">
+  Defendant claims that the trial court erroneously ruled on the admissibility of evidence in five separate instances, thus depriving defendant of a fair trial. The first purported error occurred when the trial court allowed into evidence testimony of the PLC’s nonenforcement of a liquidated damages clause in contract #288 against plaintiff in relation to a contract for construction of an earlier PLC project at the Mistersky site. On contract #288, plaintiff was the general contractor and defendant was the consulting engineering firm. Although #288 is not the subject of this litigation, defendant argued that plaintiff’s unsatisfactory performance of contract #288 played an important role in plaintiff’s failure to obtain contract #306. In seeking to introduce evidence that it was not assessed liquidated damages by the PLC on contract #288, plaintiff was obviously trying to establish that its work under that contract was satisfactory. Defendant contends, for the first time on appeal, that this testimony was inadmissible hearsay.
+ </p>
+<p id="b638-6">
+  We must note that defendant has failed to preserve this issue for appeal. Evidentiary objections must be specific, citing the precise ground or grounds for the objection. Failure to state the proper reason for an objection precludes appellate review unless there is manifest injustice. MRE 103(a)(1);
+  <em>
+   People v Worrell,
+  </em>
+  <span class="citation" data-id="1764057"><a href="/opinion/1764057/people-v-worrell/#38" aria-description="Citation for case: People v. Worrell">111 Mich App 27, 38-39</a></span>; <span class="citation" data-id="1764057"><a href="/opinion/1764057/people-v-worrell/" aria-description="Citation for case: People v. Worrell">314 NW2d 516</a></span> (1981). In any event, a substan
+  <span citation-index="1" class="star-pagination" label="627"> 
+   *627
+   </span>
+  tive review of this claim reveals that it is without merit.
+ </p>
+<p id="b639-3">
+  First, the testimony that the City of Detroit had failed to enforce the liquidated damages clause against plaintiff in regard to contract #288 was not hearsay. The fact that the City of Detroit did not seek to enforce a contract provision cannot be said to constitute a statement within the meaning of MRE 801(a) and, therefore, it cannot be hearsay as defined in MRE 801(c). Although it is true that nonverbal conduct of a person can constitute hearsay if the conduct was intended by the person to be an assertion, MRE 801, subds (a)(2) and (c), there is nothing in the record to suggest that the City of Detroit intended that its failure to enforce the liquidated damages clause should be viewed as an assertion. Furthermore, any defect in the admission of this evidence was harmless since testimony to the same effect had already been admitted into evidence without objection.
+ </p>
+<p id="b639-4">
+  Secondly, defendant argues that the trial court erred in admitting into evidence, over its objection on the ground that it called for speculation and was irrelevant, excerpts of plaintiffs financial records regarding plaintiffs profits on previous jobs. This evidence was apparently introduced to demonstrate that plaintiff would have realized a profit on contract #306. In addition to asserting its claim of error on grounds of relevance, defendant now argues, for the first time on appeal, that this evidence constituted inadmissible hearsay. Once again, this issue has not been preserved for appeal due to defense counsel’s failure to make a proper objection.
+  <em>
+   People v <span class="citation" data-id="1764057"><a href="/opinion/1764057/people-v-worrell/" aria-description="Citation for case: People v. Worrell">Worrell, supra.</a></span>
+  </em>
+</p>
+<p id="b639-5">
+  In any event, we are not persuaded that plain
+  <span citation-index="1" class="star-pagination" label="628"> 
+   *628
+   </span>
+  tiffs profit summaries were irrelevant. MRE 401 broadly defines "relevant evidence” as evidence having any tendency to make the existence of any fact that is of consequence to the determination of the action more probable or less probable than it would be without the evidence. The admissibility of evidence rests with the trial court’s discretion and will not be set aside unless there has been an abuse of discretion.
+  <em>
+   Liberty Mutual Ins Co v Curtis Noll Corp,
+  </em>
+  <span class="citation" data-id="1299124"><a href="/opinion/1299124/liberty-mutual-insurance-v-curtis-noll-corp/#191" aria-description="Citation for case: Liberty Mutual Insurance v. Curtis Noll Corp.">112 Mich App 182, 191</a></span>; <span class="citation" data-id="1299124"><a href="/opinion/1299124/liberty-mutual-insurance-v-curtis-noll-corp/" aria-description="Citation for case: Liberty Mutual Insurance v. Curtis Noll Corp.">315 NW2d 890</a></span> (1982). A review of the record reveals that the challenged proofs submitted by plaintiff as to past profits were relevant to establish unrealized profits on contracts #306 and #323. Defendant’s objections that plaintiff’s proofs were inaccurate go to their weight and not to their admissibility.
+  <em>
+   Lorenz Supply Co v American Standard, Inc,
+  </em>
+  <span class="citation" data-id="2055732"><a href="/opinion/2055732/lorenz-supply-co-v-american-standard-inc/#613" aria-description="Citation for case: Lorenz Supply Co. v. American Standard, Inc.">100 Mich App 600, 613</a></span>; <span class="citation" data-id="2055732"><a href="/opinion/2055732/lorenz-supply-co-v-american-standard-inc/" aria-description="Citation for case: Lorenz Supply Co. v. American Standard, Inc.">300 NW2d 335</a></span> (1980). Furthermore, while plaintiff’s assessment of damages was incapable of precise determination, the amount of lost profits was shown with as much certainty as the situation allowed and, therefore, was admissible into evidence.
+  <em>
+   Stimac v Wissman,
+  </em>
+  <span class="citation" data-id="1230876"><a href="/opinion/1230876/stimac-v-wissman/#28" aria-description="Citation for case: Stimac v. Wissman">342 Mich 20, 28</a></span>; <span class="citation" data-id="1230876"><a href="/opinion/1230876/stimac-v-wissman/" aria-description="Citation for case: Stimac v. Wissman">69 NW2d 151</a></span> (1955).
+ </p>
+<p id="b640-5">
+  In addition, these profit receipts fell within the business records exception to the hearsay rule.
+ </p>
+<p id="b640-6">
+  MRE 803(6) provides:
+ </p>
+<blockquote id="b640-7">
+  "(6) Records of regularly conducted activity. A memorandum, report, record, or data compilation, in any form, of acts, transactions, occurrences, or events, made at or near the time by, or from information transmitted by, a person with knowledge, if kept in the course of a regularly conducted business activity, and if it was the regular practice of that business activity to make the memorandum, report, record, or data compilation, all as shown by the testimony of the custodian or other
+  <span citation-index="1" class="star-pagination" label="629"> 
+   *629
+   </span>
+  qualified witness, unless the source of information or the method or circumstances of preparation indicate lack of trustworthiness. The term 'business’ as used in this paragraph includes business, institution, association, profession, occupation, and calling of every kind, whether or not conducted for profit.”
+ </blockquote>
+<p id="b641-3">
+  The testimony adduced at trial indicated that the summaries were properly prepared by an accountant based upon daily reports of plaintiffs employees, as well as the accountant’s own independent certified audit of plaintiffs books. Also, it was shown that these summaries were prepared in the regular course of plaintiffs business. We are satisfied that these profit summaries were trustworthy and that they fell within the scope of MRE 803(6).
+ </p>
+<p id="b641-4">
+  Defendant also alleges that the trial court erred in refusing to allow the introduction of plaintiffs original financial records from which the profit summaries were derived. We disagree for two reasons. First, these records contained information concerning various noncomparable jobs and were, therefore, irrelevant to the question of whether plaintiff could have realized a profit on contract #306.
+ </p>
+<p id="b641-5">
+  Additionally, it should be noted that the trial court’s ruling excluding this evidence was motivated, at least in part, by defendant’s earlier objection to its admission. A party who procures the exclusion of evidence is estopped from later assigning as error the fact that such evidence was excluded. 5 CJS, Appeal &amp; Error, § 1506, p 904. Defense counsel cannot request a certain action in the trial court and then argue on appeal that it was error for the trial court to grant the request.
+  <em>
+   People v Murry,
+  </em>
+  <span class="citation" data-id="1674133"><a href="/opinion/1674133/people-v-murry/#262" aria-description="Citation for case: People v. Murry">106 Mich App 257, 262</a></span>; <span class="citation" data-id="1674133"><a href="/opinion/1674133/people-v-murry/" aria-description="Citation for case: People v. Murry">307 NW2d 464</a></span> (1981). Inasmuch as defense counsel in the case at bar objected to any reference to non-
+  <span citation-index="1" class="star-pagination" label="630"> 
+   *630
+   </span>
+  comparable construction jobs and to the introduction of financial records of these jobs, he cannot claim it was error for the trial court to sustain these objections and preclude him from pursuing this line of questioning. We hold that the trial court acted properly in admitting profit summaries of only the comparable jobs.
+ </p>
+<p id="b642-5">
+  Similarly, we reject defendant’s claim that the trial court abused its discretion in refusing to recall one of plaintiff’s witnesses for questioning regarding these financial records. The decision to allow a witness to be recalled is a matter within the discretion of the trial court.
+  <em>
+   Coburn v Goldberg,
+  </em>
+  <span class="citation" data-id="1271571"><a href="/opinion/1271571/coburn-v-goldberg/#285" aria-description="Citation for case: Coburn v. Goldberg">326 Mich 280, 285</a></span>; <span class="citation" data-id="1271571"><a href="/opinion/1271571/coburn-v-goldberg/" aria-description="Citation for case: Coburn v. Goldberg">40 NW2d 150</a></span> (1949). Absent an abuse of discretion, the "trial court’s denial of a request to recall a witness will not be reversed. Here we find no abuse of discretion.
+ </p>
+<p id="b642-6">
+  First, it should be noted that defendant had previously objected to this witness’s being recalled. Second, defendant’s intent in recalling this witness was to question him concerning evidence which had already been ruled inadmissible. Third, this particular witness had already testified three times and had been excused by the court. Under the circumstances, we cannot conclude that the trial court abused its discretion in refusing defendant’s request to recall this witness.
+ </p>
+<p id="b642-7">
+  Defendant’s next allegation of error concerns the trial court’s admission into evidence, over its objection, of a copy of the minutes of a meeting between the parties and the City of Detroit Purchasing Department. Defendant also contends that this error was compounded by the court’s refusal to permit defendant to supplement the record by the testimony of its employees regarding statements made at that meeting. The purpose of the meeting was to determine if plaintiff had adequate
+  <span citation-index="1" class="star-pagination" label="631"> 
+   *631
+   </span>
+  experience to perform contract #306. These minutes were transcribed by a secretary for the City of Detroit’s purchasing Department from her shorthand notes of the meeting.
+ </p>
+<p id="b643-3">
+  Defendant now contends, on appeal, that these minutes were inadmissible hearsay. We disagree. MRE 803(8)(A) provides that records, reports, statements, or data compilations, in any form, of public offices or agencies which set forth the activities of the office or agency are not excluded by the hearsay rule. The document in question clearly falls within this exception since it was a transcript of a meeting conducted by the purchasing department, an agency of the City of Detroit.
+ </p>
+<p id="b643-4">
+  We are unpersuaded by defendant’s contention that the public records and reports exception of MRE 803(8)(A) is limited to official records which the agency is required, either by statute or by the nature of its office, to maintain. Defendant cites no case law, either Michigan or federal, which would give MRE 803(8)(A) such a narrow construction. Such a construction would unduly limit the scope of this hearsay exception which allows introduction of such records due to their inherent trustworthiness.
+ </p>
+<p id="b643-5">
+  Similarly, we are unpersuaded by defendant’s claim that the trial court erred in admitting a copy of the minutes in lieu of the original. Under MRE 1004, an original is not required and other evidence of the contents of a writing is admissible if the original is lost or destroyed, unless the proponent acted in bad faith. Here, there was testimony that the original of the minutes had been destroyed and there was no showing of bad faith on the part of the plaintiff and, therefore, the copy was properly introduced.
+ </p>
+<p id="b643-6">
+  In addition, under MRE 1003, a duplicate such
+  <span citation-index="1" class="star-pagination" label="632"> 
+   *632
+   </span>
+  as a photostatic copy is admissible to the same extent as the original, unless a genuine question is raised as to the authenticity of the original, or if it would be unfair to admit the duplicate in lieu of the original. Here, defendant never claimed the existence of a genuine issue regarding the authenticity of the original.
+ </p>
+<p id="b644-5">
+  We also reject defendant’s contention that testimony regarding the minutes by two of its employees who attended the May 1, 1974, meeting was improperly excluded from evidence. Specifically, defendant’s claim that the trial court erred in not allowing its employees to testify that a statement attributable to one of them, to the effect that plaintiff’s performance on a previous contract was unsatisfactory, was incorrect. The ruling of the trial court in regard to this testimony was not erroneous. These witnesses were each allowed to testify that the statement contained in the minutes was not made. The trial court properly ruled that testimony as to what else was said at the meeting was hearsay. MRE 801(c). Furthermore, while it is true that testimony from witnesses present at a meeting may be used to supplement the record of the meeting, it may not be used to contradict the record of the meeting.
+  <em>
+   North Star Twp v Cowdry,
+  </em>
+  <span class="citation" data-id="7951021"><a href="/opinion/7997223/township-of-north-star-v-cowdry/#14" aria-description="Citation for case: Township of North Star v. Cowdry">212 Mich 7, 14-15</a></span>; <span class="citation" data-id="7951021"><a href="/opinion/7997223/township-of-north-star-v-cowdry/" aria-description="Citation for case: Township of North Star v. Cowdry">179 NW 259</a></span> (1920). In the case at bar, the testimony proffered by defendant was clearly intended to contradict the record of the meeting and, therefore, was properly excluded.
+ </p>
+<p id="b644-6">
+  Defendant’s last claim of error with regard to the trial court’s rulings on evidentiary issues concerns the trial court’s ruling prohibiting defense counsel from introducing evidence of a provision of the bid document which provided a method for resolving doubts as to its meaning. This evidence was properly excluded as irrelevant as defendant
+  <span citation-index="1" class="star-pagination" label="633"> 
+   *633
+   </span>
+  failed to lay a foundation establishing that there were any doubts as to the meaning of the bid document. MRE 401.
+ </p>
+<p id="b645-5">
+  Ill
+ </p>
+<p id="b645-6">
+  Directed Verdict
+ </p>
+<p id="b645-7">
+  Defendant argues that the trial court erred in refusing its motion for a directed verdict. At trial, defendant argued that it was entitled to a directed verdict on the ground that the plaintiff failed to overcome the presumption of good faith which defendant had by virtue of its contract and qualified privilege to make recommendations to the PLC. Now, however, defendant argues, for the first time on appeal, that it was entitled to a directed verdict as plaintiff failed to produce sufficient evidence to raise a question of fact as to a valid expectancy that the contracts would have been awarded to plaintiff absent defendant’s alleged interference.
+ </p>
+<p id="b645-8">
+  GCR 1963, 515.1 requires that specific grounds be stated for directed verdict motions. The purpose in specifying the grounds is,
+  <em>
+   inter alia,
+  </em>
+  to provide the focus for appellate review of the trial court’s ruling on the motion. 2 Honigman &amp; Hawkins, Michigan Court Rules Annotated (2d ed), p 529. Defendant’s failure to comply with GCR 1963, 515.1 technically precludes appellate review of this alleged error.
+ </p>
+<p id="b645-9">
+  Nevertheless, a substantive review of defendant’s claim shows it to be without merit. In considering a motion for a directed verdict the trial judge is required to view the evidence in a light most favorable to the nonmoving party. If the
+  <span citation-index="1" class="star-pagination" label="634"> 
+   *634
+   </span>
+  facts, when so viewed, indicate that reasonable minds could differ the trial judge should deny the motion.
+  <em>
+   Warren v McLouth Steel Corp,
+  </em>
+  <span class="citation" data-id="1764022"><a href="/opinion/1764022/warren-v-mclouth-steel-corp/#502" aria-description="Citation for case: Warren v. McLouth Steel Corp.">111 Mich App 496, 502</a></span>; <span class="citation" data-id="1764022"><a href="/opinion/1764022/warren-v-mclouth-steel-corp/" aria-description="Citation for case: Warren v. McLouth Steel Corp.">314 NW2d 666</a></span> (1981).
+ </p>
+<p id="b646-5">
+  The requisite elements for tortious interference with advantageous business relationships or prospective economic relations are: (1) the existence of a valid business relationship or expectancy; (2) knowledge of the relationship or expectancy on the part of the interferer; (3) an intentional interference causing a breach or termination of the relationship or expectancy; and (4) resulting damage to the party whose relationship or expectancy has been disrupted.
+  <em>
+   Wilkerson v Carlo, supra,
+  </em>
+  p 632.
+ </p>
+<p id="b646-6">
+  On appeal, defendant argues that the very nature of the discretionary factors going into the determination of who is the lowest qualified bidder precludes plaintiff from proving it had an expectation of being awarded the contracts.
+ </p>
+<p id="b646-7">
+  In
+  <em>
+   Schipani v Ford Motor Co,
+  </em>
+  <span class="citation" data-id="9730834"><a href="/opinion/2173787/schipani-v-ford-motor-co/#621" aria-description="Citation for case: Schipani v. Ford Motor Co.">102 Mich App 606, 621-623</a></span>; <span class="citation" data-id="9730834"><a href="/opinion/2173787/schipani-v-ford-motor-co/" aria-description="Citation for case: Schipani v. Ford Motor Co.">302 NW2d 307</a></span> (1981), this Court referred to decisions from other jurisdictions in discussing the expectation prerequisite. The
+  <em>
+   <span class="citation" data-id="9730834"><a href="/opinion/2173787/schipani-v-ford-motor-co/" aria-description="Citation for case: Schipani v. Ford Motor Co.">Schipani</a></span>
+  </em>
+  Court held that to survive a summary judgment motion, plaintiff must assert a
+  <em>
+   speciñc
+  </em>
+  and
+  <em>
+   reasonable
+  </em>
+  prospective economic advantage that was interfered with. In reaching this conclusion, the
+  <em>
+   <span class="citation" data-id="9730834"><a href="/opinion/2173787/schipani-v-ford-motor-co/" aria-description="Citation for case: Schipani v. Ford Motor Co.">Schipani</a></span>
+  </em>
+  Court quoted approvingly from
+  <em>
+   Behrend v Bell Telephone Co,
+  </em>
+  242 Pa Super 47, 62; <span class="citation" data-id="2398723"><a href="/opinion/2398723/behrend-v-bell-telephone-co/" aria-description="Citation for case: Behrend v. Bell Telephone Co.">363 A2d 1152</a></span> (1976), wherein it was stated:
+ </p>
+<blockquote id="b646-8">
+  " 'The tort of intentional interference with business requires, as a basis, that a business relationship be proved with some degree of specificity, at least to the point that future profit be a realistic expectation and not merely wishful thinking. It is true that where a
+  <span citation-index="1" class="star-pagination" label="635"> 
+   *635
+   </span>
+  prospective advantage is alleged, the plaintiff need not demonstrate a guaranteed relationship because "anything that is prospective in nature is necessarily uncertain. We are not here dealing with certainties, but with reasonable likelihood or probability. This must be something more than a mere hope or the innate optimism of the salesman.” ’ ”
+ </blockquote>
+<p id="b647-3">
+  We hold that plaintiff presented sufficient evidence to create a question of fact as to whether it was the lowest qualified bidder and thus had a legitimate expectancy in obtaining the contracts and, therefore, the trial court properly denied defendant’s motion for a directed verdict.
+ </p>
+<p id="b647-4">
+  We also reject defendant’s contention that plaintiff had no expectancy because plaintiff’s failure to comply with the requirements of the bid documents rendered its bids invalid, thus precluding the award of the contracts. The bid documents required bidders to provide certain information in addition to the price bid. There was, however, conflicting evidence on whether plaintiff’s bids provided the requisite information and, therefore, there was a question of fact for the jury’s resolution. Accordingly, defendant was not entitled to a directed verdict on this ground. Moreover, there was substantial evidence suggesting that even if a bid was technically incomplete, the bidder would not necessarily be precluded from being awarded the bid.
+ </p>
+<p id="b647-5">
+  We similarly reject defendant’s claim that plaintiff failed to adduce sufficient evidence to raise a question of fact on the issue of causation. There was evidence at trial to support plaintiff’s theory that defendant’s actions led to the PLC’s decision not to award the bid to plaintiff. Although, arguably, there was sufficient evidence to support a finding that the PLC arrived at its decision based
+  <span citation-index="1" class="star-pagination" label="636"> 
+   *636
+   </span>
+  upon its own independent investigation, this does not change the result. Once a plaintiff has presented sufficient facts to justify a verdict under one theory, the fact that other explanations may exist creates a question of fact for the jury.
+  <em>
+   Kaminski v Grand Trunk W R Co,
+  </em>
+  <span class="citation" data-id="2021933"><a href="/opinion/2021933/kaminski-v-grand-trunk-western-railroad/#422" aria-description="Citation for case: Kaminski v. Grand Trunk Western Railroad">347 Mich 417, 422</a></span>; <span class="citation" data-id="2021933"><a href="/opinion/2021933/kaminski-v-grand-trunk-western-railroad/" aria-description="Citation for case: Kaminski v. Grand Trunk Western Railroad">79 NW2d 899</a></span> (1956). There was sufficient evidence to support plaintiff’s theory of causation and, therefore, the trial court acted properly in refusing defendant’s motion for a directed verdict.
+ </p>
+<p id="b648-5">
+  IV
+ </p>
+<p id="b648-6">
+  Closing Argument
+ </p>
+<p id="b648-7">
+  Defendant claims the closing argument of plaintiff’s counsel was improper in three respects and that the trial court erred in not declaring a mistrial. First, defendant argues that plaintiff’s counsel improperly referred to rulings on evidence made outside the jury’s presence. More specifically, defendant objects to plaintiff’s counsel’s statement that evidence of profits made by plaintiff on other noncomparable jobs was not introduced due to defendant’s objection to the admission of such evidence. It must be pointed out that this statement was made to rebut defense counsel’s statement that plaintiff did not submit any evidence of loss or profit on other jobs because it only wanted the jury to learn about the profitable jobs. Although it is true that counsel should avoid suggesting inadmissible evidence to the jury, MRE 103(c), error may not be predicated on statements made by counsel in closing argument if given in response to arguments made by opposing counsel.
+  <em>
+   Carbonell v Bluhm,
+  </em>
+  <span class="citation" data-id="9684996"><a href="/opinion/1800207/carbonell-v-bluhm/" aria-description="Citation for case: Carbonell v. Bluhm">114 Mich App 216</a></span>; <span class="citation" data-id="9684996"><a href="/opinion/1800207/carbonell-v-bluhm/" aria-description="Citation for case: Carbonell v. Bluhm">318 NW2d 659</a></span> (1982);
+  <em>
+   Stephens v Spiwak,
+  </em>
+  <span class="citation" data-id="2183335"><a href="/opinion/2183335/stephens-v-spiwak/#651" aria-description="Citation for case: Stephens v. Spiwak">61 Mich App 647, 651</a></span>; <span class="citation" data-id="2183335"><a href="/opinion/2183335/stephens-v-spiwak/" aria-description="Citation for case: Stephens v. Spiwak">233 NW2d 124</a></span> (1975),
+  <em>
+   lv den
+  </em>
+  <span class="citation no-link">395 Mich 761</span>
+  <span citation-index="1" class="star-pagination" label="637"> 
+   *637
+   </span>
+  (1975). The trial court properly denied defendant’s motion for a mistrial and instructed the jury that remarks of counsel were not evidence.
+ </p>
+<p id="b649-3">
+  Next, defendant argues that plaintiffs counsel’s closing argument was improper as it injected issues into the trial broader than those of the particular case. Specifically, defendant complains that plaintiff’s counsel’s suggestion that the practice of accepting a contractor other than the lowest monetary bidder "could go on all the time if people like my client weren’t determined to put an end to it”. Defendant argues that this suggestion was an attempt to persuade the jury to award plaintiff a substantial verdict in order to protect the city treasury. Defendant contends that this statement constitutes the type of civic duty argument, appealing to the jury’s self-interests as taxpayers, which was condemned in
+  <em>
+   Wayne County Board of Road Comm’rs v GLS LeasCo,
+  </em>
+  <span class="citation" data-id="1286022"><a href="/opinion/1286022/wayne-county-board-of-road-commissioners-v-gls-leasco/" aria-description="Citation for case: Wayne County Board of Road Commissioners v. GLS Leasco">394 Mich 126</a></span>; <span class="citation" data-id="1286022"><a href="/opinion/1286022/wayne-county-board-of-road-commissioners-v-gls-leasco/" aria-description="Citation for case: Wayne County Board of Road Commissioners v. GLS Leasco">229 NW2d 797</a></span> (1975).
+ </p>
+<p id="b649-4">
+  Defendant’s failure to object to or request a cautionary instruction to plaintiffs counsel’s allegedly improper civic duty argument precludes appellate review.
+  <em>
+   Tiffany v The Christman Co,
+  </em>
+  <span class="citation" data-id="1810994"><a href="/opinion/1810994/tiffany-v-the-christman-co/#282" aria-description="Citation for case: Tiffany v. the Christman Co.">93 Mich App 267, 282</a></span>; <span class="citation" data-id="1810994"><a href="/opinion/1810994/tiffany-v-the-christman-co/" aria-description="Citation for case: Tiffany v. the Christman Co.">287 NW2d 199</a></span> (1979). Nevertheless, a substantive review of this claim does not persuade us that the statements complained of were improper. While the jury could have inferred from the challenged remarks that the city, or even the jurors themselves, could be benefitted from finding defendant liable, this clearly was not directly or explicitly argued to the jury. The remarks of plaintiffs counsel did not inject issues into the trial broader than those pled and brought out by the testimony below.
+ </p>
+<p id="b650-4">
+<span citation-index="1" class="star-pagination" label="638"> 
+   *638
+   </span>
+  Defendant’s last claim of error with regard to closing argument concerns comments made by plaintiffs counsel concerning testimony previously adduced at trial in connection with a settlement between the City of Detroit and plaintiff in regard to contract #288. Defendant contends that the testimony itself was inadmissible and the closing argument which referred to it was highly improper. Once again, defense counsel’s failure to object or request a curative instruction precludes appellate review of this claim.
+  <em>
+   Kujawski v Boyne Mountain Lodge, Inc,
+  </em>
+  <span class="citation" data-id="7953594"><a href="/opinion/7999633/kujawski-v-boyne-mountain-lodge-inc/" aria-description="Citation for case: Kujawski v. Boyne Mountain Lodge, Inc.">379 Mich 381</a></span>; <span class="citation" data-id="7953594"><a href="/opinion/7999633/kujawski-v-boyne-mountain-lodge-inc/" aria-description="Citation for case: Kujawski v. Boyne Mountain Lodge, Inc.">151 NW2d 794</a></span> (1967). In any event, the statements complained of were merely an accurate comment upon the evidence previously adduced at trial without objection. Moreover, this evidence did not violate MRE 408’s prohibition of introducing evidence of a compromise, as it was not introduced to prove liability under contract #288 but rather was introduced to negate defendant’s contention that plaintiffs performance of contract #288 was unsatisfactory. In summary, we find no reversible error in plaintiffs closing argument.
+ </p>
+<p id="b650-5">
+  V
+ </p>
+<p id="b650-6">
+  Jury Instructions
+ </p>
+<p id="b650-7">
+  Defendant argues that the instructions given by the trial court were erroneous in several aspects. First, defendant contends that the instructions were improper as to the requisite elements of qualified privilege and as to burden of proof. More specifically, defendant claims three instances of instructional error which require reversal: (1) the addition of "reasonableness” as a necessary element for qualified privilege; (2) instructing the jury that bad motive or unreasonable conduct on
+  <span citation-index="1" class="star-pagination" label="639"> 
+   *639
+   </span>
+  defendant’s part was sufficient to defeat the privilege; and (3) confusion and shifting of plaintiffs burden of proof to defendant.
+ </p>
+<p id="b651-5">
+  Once again it must be noted that defense counsel failed to make any objection to the instructions he assigns as erroneous on appeal. GCR 1963, 516.2 requires counsel to make a timely objection to instructions before the jury retires so as to allow the trial court an opportunity to correct or modify the questioned instructions before jury deliberations.
+  <em>
+   Kirby v Larson,
+  </em>
+  <span class="citation" data-id="9851263"><a href="/opinion/1282144/kirby-v-larson/#604" aria-description="Citation for case: Kirby v. Larson">400 Mich 585, 604</a></span>; <span class="citation" data-id="9851263"><a href="/opinion/1282144/kirby-v-larson/" aria-description="Citation for case: Kirby v. Larson">256 NW2d 400</a></span> (1977);
+  <em>
+   Moskalik v Dunn,
+  </em>
+  <span class="citation" data-id="9688193"><a href="/opinion/1842722/moskalik-v-dunn/#592" aria-description="Citation for case: Moskalik v. Dunn">392 Mich 583, 592</a></span>; <span class="citation" data-id="9688193"><a href="/opinion/1842722/moskalik-v-dunn/" aria-description="Citation for case: Moskalik v. Dunn">221 NW2d 313</a></span> (1974). Failure to make a timely and specific objection to jury instructions precludes appellate review unless manifest injustice would result.
+  <em>
+   Danaher v Partridge Creek Country Club,
+  </em>
+  <span class="citation" data-id="9689342"><a href="/opinion/1857103/danaher-v-partridge-creek-country-club/" aria-description="Citation for case: Danaher v. Partridge Creek Country Club">116 Mich App 305</a></span>; <span class="citation" data-id="9689342"><a href="/opinion/1857103/danaher-v-partridge-creek-country-club/" aria-description="Citation for case: Danaher v. Partridge Creek Country Club">323 NW2d 376</a></span> (1982);
+  <em>
+   Hilyer v Hole,
+  </em>
+  <span class="citation" data-id="1800815"><a href="/opinion/1800815/hilyer-v-hole/" aria-description="Citation for case: Hilyer v. Hole">114 Mich App 38</a></span>; <span class="citation" data-id="1800815"><a href="/opinion/1800815/hilyer-v-hole/" aria-description="Citation for case: Hilyer v. Hole">318 NW2d 598</a></span> (1982). Manifest injustice results where the defect in instruction is of such magnitude as to constitute plain error, requiring a new trial, or where it pertains to a basic and controlling issue in the case.
+  <em>
+   Gallaway v Chrysler Corp,
+  </em>
+  <span class="citation" data-id="2033972"><a href="/opinion/2033972/gallaway-v-chrysler-corp/#6" aria-description="Citation for case: Gallaway v. Chrysler Corp.">105 Mich App 1, 6</a></span>; <span class="citation" data-id="2033972"><a href="/opinion/2033972/gallaway-v-chrysler-corp/" aria-description="Citation for case: Gallaway v. Chrysler Corp.">306 NW2d 368</a></span> (1981). A careful review of the record convinces us that there is no plain error or manifest injustice.
+ </p>
+<p id="b651-6">
+  The trial court properly instructed the jury that defendant had the burden of proof as to the affirmative defense of justification. Michigan’s definition of tortious interference with prospective economic advantage does not place upon the plaintiff the duty of disproving justification. See
+  <em>
+   Wilkerson v Carlo, supra,
+  </em>
+  p 632. Rather, it appears that in the case at bar defendant had the burden of raising qualified privilege as an affirmative defense under GCR 1963, 111.7. Once plaintiff had estab
+  <span citation-index="1" class="star-pagination" label="640"> 
+   *640
+   </span>
+  lished a prima facie case of tortious interference with prospective advantageous economic relations, it was incumbent upon defendant to establish the defense of qualified privilege. 4 Restatement Torts, 2d, ch 37, pp 4-5; Prosser, Torts (4th ed), § 130, p 953.
+ </p>
+<p id="b652-5">
+  Moreover, the trial court properly instructed the jury that if it were established that defendant had a qualified privilege, defendant would be presumed to have acted in good faith and with a proper motive and that this presumption could be overcome if plaintiff produced evidence of bad faith or dishonest purpose. MRE 301. The trial court’s instructions did not impermissibly shift the burden of proof nor were they unduly confusing.
+ </p>
+<p id="b652-6">
+  Next, we reject defendant’s contention that the trial court misstated the elements of qualified privilege by including "reasonableness” as an element. The determination of whether the defendant’s conduct is privileged comprises a factual issue to be decided upon all the circumstances of the case including whether the conduct was fair and reasonable under the circumstances.
+  <em>
+   Lowell v Mother’s Cake &amp; Cookie Co,
+  </em>
+  79 Cal App 3d 13, 20-21; 144 Cal Rptr 664, 669-670; 6 ALR4th 184, 190 (1978), quoting with approval, 4 Restatement Torts, § 767, Comment d, pp 68-69. See, also,
+  <em>
+   American Surety Co v Schottenbauer,
+  </em>
+  257 F2d 6 (CA 8, 1958).
+ </p>
+<p id="b652-7">
+  Finally, we reject defendant’s contention that the trial court erred in instructing the jury that plaintiff was entitled to a verdict if it proved that defendant acted out of a purpose of causing harm to plaintiff. While it is true that if defendant has a
+  <span citation-index="1" class="star-pagination" label="641"> 
+   *641
+   </span>
+  legitimate interest to protect the existence of ill will toward plaintiff is irrelevant and will not defeat the qualified privilege,
+  <em>
+   Middlesex Concrete Products &amp; Excavating Corp v Carteret Industrial Ass’n,
+  </em>
+  37 NJ 507; <span class="citation" data-id="1958043"><a href="/opinion/1958043/middlesex-concrete-products-excavating-corp-v-carteret-industrial-assn/" aria-description="Citation for case: Middlesex Concrete Products &amp; Excavating Corp. v....">181 A2d 774</a></span> (1962), it is equally clear that where an interferer’s action is based on a purpose of harming the plaintiff rather than of furthering the interferer’s own legitimate interests, he is liable for the harm done regardless of the apparent existence of privilege.
+  <span class="citation" data-id="1958043"><a href="/opinion/1958043/middlesex-concrete-products-excavating-corp-v-carteret-industrial-assn/#519" aria-description="Citation for case: Middlesex Concrete Products &amp; Excavating Corp. v...."><em>
+   Middlesex, supra,
+  </em>
+  p 519</a></span>;
+  <em>
+   Bridges v Cal-Pacific Leasing Co, Inc,
+  </em>
+  16 Cal App 3d 118, 131-132; 93 Cal Rptr 796, 804 (1971). Contrary to defendant’s contention on appeal, the trial court did not instruct the jury that ill will, standing alone, was enough to defeat the defense of qualified privilege. It is clear that the trial court’s instructions were not erroneous since they correctly charged the jurors in accordance with the principles cited above,
+  <em>
+   i.e.,
+  </em>
+  that if the underlying purpose of the advice was malevolent, instead of to protect a legitimate interest, then the plaintiff would be entitled to a verdict. Defendant’s claim of instructional errors is without merit.
+ </p>
+<p id="b653-3">
+  VI
+ </p>
+<p id="b653-4">
+  Exemplary Damages
+ </p>
+<p id="b653-5">
+  Defendant’s final allegations of error concern the issue of exemplary damages. First, defendant contends that plaintiff is not entitled to recover exemplary damages as it was incapable of suffering the sort of injury for which exemplary damages are intended to compensate. Specifically, defendant contends: (1) that plaintiff suffered a purely monetary loss, and therefore, exemplary damages are not available, and (2) that a corporate body is incapable of suffering humiliation, sense of
+  <span citation-index="1" class="star-pagination" label="642"> 
+   *642
+   </span>
+  outrage, and indignity and, therefore, it is not entitled to recover exemplary damages.
+ </p>
+<p id="b654-3">
+  Once again, we must note that this issue was not properly preserved for appellate review. At trial, defendant objected to the trial court’s charge to the jury on exemplary damages as follows:
+ </p>
+<blockquote id="b654-4">
+<em>
+   ’’[Defense counsel]:
+  </em>
+  Our final objection is in regard to the giving of any instruction above and beyond actual damages. We previously talked about that, about the punitive damages aspect and we object to the court instructing the jury on that.”
+ </blockquote>
+<p id="b654-5">
+  The record does not reflect any such earlier conversation referred to in the objection. Plaintiff correctly points out that GCR 1963, 516.2, was not complied with inasmuch as the grounds for the objection were not specified and, therefore, appellate review of this issue is precluded. In any event, a substantive review of defendant’s claim reveals no error.
+ </p>
+<p id="b654-6">
+  Although it is true that, as a general rule, exemplary damages will not be awarded to compensate a purely pecuniary grievance susceptible to full and definite monetary compensation,
+  <em>
+   Durfee v
+  </em>
+  Newkirk, <span class="citation" data-id="7935017"><a href="/opinion/7982190/durfee-v-newkirk/" aria-description="Citation for case: Durfee v. Newkirk">83 Mich 522</a></span>; <span class="citation" data-id="7935017"><a href="/opinion/7982190/durfee-v-newkirk/" aria-description="Citation for case: Durfee v. Newkirk">47 NW 351</a></span> (1890), in the case at bar, the damage inflicted upon plaintiff was not susceptible to precise and definite measurement. In addition to suffering lost profits, which are inherently incapable of precise measurement, plaintiff may well have suffered injury to its reputation as a skillful and competent construction company. The testimony adduced at trial indicated that on at least two occasions plaintiff had been forced to explain why it had not been awarded contracts #306 and #323 when it was the low bidder.
+ </p>
+<p id="b655-2">
+<span citation-index="1" class="star-pagination" label="643"> 
+   *643
+   </span>
+  Furthermore, we are unpersuaded by defendant’s argument that plaintiffs status as a corporation precludes it from receiving exemplary damages. Defendant’s argument urges an unduly restrictive interpretation of the concept of exemplary damages. Exemplary damages are awarded not only to compensate for injured feelings but also to compensate for injuries not capable of precise computation resulting from malicious conduct. Our decision today is consistent with prior decisions of this Court which have approved the practice of awarding exemplary damages to corporations in the proper circumstances. See
+  <em>
+   Hayes-Albion Corp v Kuberski,
+  </em>
+  <span class="citation" data-id="2193951"><a href="/opinion/2193951/hayes-albion-corp-v-kuberski/" aria-description="Citation for case: Hayes-Albion Corp. v. Kuberski">108 Mich App 642</a></span>; <span class="citation" data-id="2193951"><a href="/opinion/2193951/hayes-albion-corp-v-kuberski/" aria-description="Citation for case: Hayes-Albion Corp. v. Kuberski">311 NW2d 122</a></span> (1981);
+  <em>
+   Shwayder Chemical Metallurgy Corp v Baum,
+  </em>
+  <span class="citation" data-id="1659692"><a href="/opinion/1659692/shwayder-chemical-metallurgy-corp-v-baum/" aria-description="Citation for case: Shwayder Chemical Metallurgy Corp. v. Baum">45 Mich App 220</a></span>; <span class="citation" data-id="1659692"><a href="/opinion/1659692/shwayder-chemical-metallurgy-corp-v-baum/" aria-description="Citation for case: Shwayder Chemical Metallurgy Corp. v. Baum">206 NW2d 484</a></span> (1973).
+ </p>
+<p id="b655-3">
+  Finally, we reject defendant’s contention that a principal is not chargeable with the malice of its agents for purposes of assessing punitive damages in the absence of knowledge of that malice. In
+  <em>
+   Ray v Detroit,
+  </em>
+  <span class="citation" data-id="1675950"><a href="/opinion/1675950/ray-v-city-of-detroit/" aria-description="Citation for case: Ray v. City of Detroit">67 Mich App 702</a></span>; <span class="citation" data-id="1675950"><a href="/opinion/1675950/ray-v-city-of-detroit/" aria-description="Citation for case: Ray v. City of Detroit">242 NW2d 494</a></span> (1976), this Court specifically held that a principal (in that case a municipal corporation) could be held liable for exemplary damages awarded for injuries sustained as the result of the intentional tortious conduct of its employee. We conclude that neither the trial court’s instructions on exemplary damages nor the jury’s award of exemplary damages were improper.
+ </p>
+<p id="b655-4">
+  Affirmed. Costs to appellee.
+ </p>
+</opinion>

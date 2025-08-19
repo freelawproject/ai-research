@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b742-22">
+  MEMORANDUM OF DECISION
+ </p>
+<author id="AYS">
+  ALFRED C. HAGAN, Chief Judge.
+ </author>
+<p id="b742-23">
+  The chapter 13 standing trustee does not recommend confirmation of the debtors’ chapter 13 plan. He alleges the plan does not comply with the provisions of <span class="citation no-link">11 U.S.C. § 1325</span> in that the plan unlawfully classifies certain unsecured creditors.
+ </p>
+<p id="b742-24">
+  The debtors’ proposed plan creates two classifications of unsecured claims. To quote from the debtors’ plan:
+ </p>
+<blockquote id="b742-25">
+  (2) Classification of Unsecured Claims. Class one unsecured creditor(s): In accordance with <span class="citation no-link">11 U.S.C. Sec. 1322</span>(b)(1) the following creditors shall be treated as Class One unsecured creditors so as to receive all available plan funds to the extent of their claims prior to dispursement, if any, of funds to other general unsecured claimants:
+ </blockquote>
+<blockquote id="b742-26">
+  All allowed proofs of claims for INSF cheeks will be paid the sums set forth herein. All other sums claimed due for said INSF check creditors in excess of the amounts identified herein are disputed....
+ </blockquote>
+<p id="b742-27">
+  The plan then goes on to list 10 creditors who apparently were issued insufficient fund checks by the debtors. The other class of unsecured creditors would apparently be those unsecured creditors who were not issued insufficient fund checks.
+ </p>
+<p id="b742-28">
+  <span class="citation no-link">11 U.S.C. § 1322</span>(b)(1)
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  is the pertinent statute.
+ </p>
+<p id="b743-4">
+<span citation-index="1" class="star-pagination" label="689"> 
+   *689
+   </span>
+  The debtors do not allege those claims for which they provide preferred treatment are claims that “an individual is liable on with the debtor differently than other unsecured claims”, as allowed by section 1322(b)(1). Nor do the debtors’ claim the non-privileged class are those “reasonable and necessary for administrative convenience” (<span class="citation no-link">11 U.S.C. § 1122</span>(b).
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+</p>
+<p id="b743-6">
+  While there are varying interpretations of the effect of <span class="citation no-link">11 U.S.C. § 1322</span>(b)(1),
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  the decision in
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (Bankr.D.Utah, 1980) makes the most sense. The
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  decision takes the position chapter 13 prohibits all discrimination between unsecured creditors who have claims of equal legal status except where the statutes specifically authorize discrimination, as in <span class="citation no-link">11 U.S.C. § 1122</span>(b) and <span class="citation no-link">11 U.S.C. § 1322</span>(b)(1). In the instant case, discrimination between unsecured creditors to whom the debtor delivered insufficient fund checks and other creditors who were not delivered insufficient fund checks is not authorized by statute and is not fair discrimination. As holders of unsecured claims, all unsecured creditors hold the same legal rights against the debtors.
+ </p>
+<p id="b743-7">
+  The trustee’s objection to confirmation is granted and confirmation is denied. A separate order will be entered.
+ </p>
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b742-15">
+   . <span class="citation no-link">11 U.S.C. § 1322</span>(b)(1) provides:
+  </p>
+<blockquote id="b742-16">
+   (b) Subject to subsections (a) and (c) of this section, the plan may—
+  </blockquote>
+<blockquote id="b742-17">
+   (1) designate a class or classes of unsecured claims, as provided in section 1122 of this title, but may not discriminate unfairly against any class so designated; however, such plan may treat claims for a consumer debt of the debtor if an individual is liable on such consumer debt with the debtor differently than other unsecured claims;
+  </blockquote>
+<p id="b742-30">
+   <span class="citation no-link">11 U.S.C. § 1322</span>(b)(1).
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b743-9">
+   . <span class="citation no-link">11 U.S.C. § 1122</span>(b) provides:
+  </p>
+<blockquote id="b743-10">
+   (b) A plan may designate a separate class of claims consisting only of every unsecured claim that is less than or reduced to an amount that the court approves as reasonable and necessary for administrative convenience.
+  </blockquote>
+<p id="b743-27">
+   <span class="citation no-link">11 U.S.C. § 1122</span>(b).
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b743-28">
+   .
+   <em>
+    See In re Kovich, 4
+   </em>
+   B.R. 403 (Bankr.W.D.Mich.1980) and discussion in
+   <em>
+    Epstein, Nickies, White Bankruptcy,
+   </em>
+   Volume
+   <em>
+    2,
+   </em>
+   Section 9.7, at p. 629
+   <em>
+    et seq.
+   </em>
+</p>
+</div></div></opinion>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b353-23">
+  MEMORANDUM OPINION
+ </p>
+<author id="b353-24">
+  HOBBS, District Judge.
+ </author>
+<p id="b353-25">
+  This case is now before the Court on appeal from an order of the Bankruptcy Court <span class="citation" data-id="1535243"><a href="/opinion/1535243/in-re-stollenwerck/" aria-description="Citation for case: In Re Stollenwerck">5 B.R. 616</a></span> entered on August 12, 1980. This Court has jurisdiction of this appeal pursuant to Section 405(c)(1) and (2) of the Bankruptcy Reform Act of 1978, Pub.L.N0.95-598, <span class="citation no-link">92 Stat. 2549</span> (1978). Upon consideration of said appeal, briefs and arguments of counsel, the Court affirms the decision of the Bankruptcy Court.
+ </p>
+<p id="b353-26">
+  FACTS
+ </p>
+<p id="b353-27">
+  The Bankruptcy Court’s Findings of Fact are not clearly erroneous, and this Court accepts those Facts, which in pertinent part are as follows:
+ </p>
+<p id="b353-28">
+  John D. Stollenwerck, Jr. and Susan C. Stollenwerck filed a joint Chapter 13 case in the Bankruptcy Court on May 9, 1980. The Stollenwercks offered to pay $200 per month to the secured creditors from their average excess disposable monthly income of approximately $400. They did not offer to pay anything to the unsecured creditors.
+ </p>
+<p id="b353-29">
+  Appellant, Transamerica Financial Services, Inc., has an unsecured claim against the Stollenwercks in the amount of $4,568.67. Appellant filed an objection and amended objection to the confirmation of the Stollenwercks’ plan. The Bankruptcy Court overruled appellant’s objections and confirmed the debtors’ plan. In confirming
+  <span citation-index="1" class="star-pagination" label="298"> 
+   *298
+   </span>
+  the plan, the Bankruptcy Judge expressly concluded that the plan was proposed in good faith as required by <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3).
+ </p>
+<p id="b354-4">
+  CONCLUSIONS OF LAW
+ </p>
+<p id="A6q">
+  Chapter 13 was added by the Bankruptcy Reform Act of 1978, Pub.L.No.95-598, <span class="citation no-link">92 Stat. 2549</span> (Nov. 6, 1978) and is codified as <span class="citation no-link">11 U.S.C. §§ 1301</span> et seq. Congress was aware “that most consumer debtors would rather work out a repayment plan than file straight bankruptcy,” and that the previous provisions for wage earner plans did “not provide the relief and fresh start for the debtor that is the essence of modern bankruptcy law.” H.R.95-595 at 117, U.S.Code Cong. &amp; Admin.News 1978, pp. 5787, 6077. Thus, Chapter 13 was “designed to facilitate adjustments of the debts of individuals with regular income through extension and composition plans funded out of future income, under the protection of the court.” 5
+  <em>
+   Collier on Bankruptcy
+  </em>
+  ¶ 1325.01[2][c] (15th Ed. 1979).
+ </p>
+<p id="b354-5">
+  After a debtor files a proposed Chapter 13 plan, the Bankruptcy Court is required after notice, to hold a hearing on the confirmation of the plan, <span class="citation no-link">11 U.S.C. § 1324</span>. The plan is to be confirmed if all of the provisions of <span class="citation no-link">11 U.S.C. § 1325</span> are satisfied. Two of the provisions of this section are at issue in this appeal. Section 1325(a)(3) requires that the plan be proposed in “good faith.” Section 1325(a)(4), often referred to as the “best interest of creditors” test, demands that
+ </p>
+<blockquote id="b354-6">
+  the value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim
+  <em>
+   is not less than
+  </em>
+  the amount that would be paid on such claim if the .estate of the debtors were liquidated under Chapter 7 of this title on such date. (Emphasis added)
+ </blockquote>
+<p id="b354-7">
+  Appellant concedes that if the Stollen-wercks proceeded under the straight bankruptcy provisions of Chapter 7, appellant would not be entitled to any money. Thus, the amount which appellant will receive under the plan approved by the Bankruptcy Court “is not less than” the amount which appellant and other unsecured creditors would receive under Chapter 7. Hence, the literal language of <span class="citation no-link">11 U.S.C. § 1325</span>(a)(4) has been satisfied.
+ </p>
+<p id="b354-10">
+  Appellant further contends, however, that by proposing to pay nothing to the unsecured creditors, the Stollenwercks have failed to satisfy the “good faith” requirement of <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3). The legislative history of this section does not reveal the rationale of this requirement. 5
+  <em>
+   Collier on Bankruptcy
+  </em>
+  ¶ 1325.01[2][c] (15th Ed. 1979). Moreover, there is a conflict among bankruptcy courts as to whether the “good faith” provision permits confirmation of a plan that proposes no payments to unsecured creditors.
+ </p>
+<p id="b354-12">
+  For example, in
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (Bkrtcy.D.Utah 1980), the Bankruptcy Judge denied confirmation of several Chapter 13 plans which offered no payments on unsecured claims. The court stated that “a proposal of meaningful repayment must be made, in light of the debtor’s particular circumstances, even, when ... all of the debtor’s assets are exempt. If no meaningful repayment [to unsecured creditors] can be proposed, the debtor is not entitled to Chapter 13 relief.”
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#268" aria-description="Citation for case: In Re Iacovoni"><em>
+   Id.
+  </em>
+  at 268</a></span>. See also
+  <em>
+   In re Hobday,
+  </em>
+  <span class="citation" data-id="1538731"><a href="/opinion/1538731/in-re-hobday/" aria-description="Citation for case: In Re Hobday">4 B.R. 417</a></span> (Bkrtcy.N.D.Ohio 1980);
+  <em>
+   In re Beaver,
+  </em>
+  <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/" aria-description="Citation for case: In Re Beaver">2 B.R. 337</a></span> (Bkrtcy.S.D.Cal.1980).
+ </p>
+<p id="b354-14">
+  On the other hand, some courts have confirmed plans which offered no, or only nominal, payments to unsecured creditors.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  In
+  <em>
+   In re Cloutier,
+  </em>
+  <span class="citation" data-id="1970505"><a href="/opinion/1970505/in-re-cloutier/#586" aria-description="Citation for case: In Re Cloutier">3 B.R. 584, 586</a></span> (Bkrtcy.D.Col.1980), the court expressly declined “to accept the
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  conclusion that payments to unsecured creditors are mandatory.” In doing so, the court stated that “good faith is lacking only in those unusual cases in which there has been an abuse of the provisions, purposes, or spirit of Chapter 13.”
+  <em>
+   <span class="citation" data-id="1970505"><a href="/opinion/1970505/in-re-cloutier/" aria-description="Citation for case: In Re Cloutier">Id.</a></span>
+  </em>
+  <span class="citation" data-id="1970505"><a href="/opinion/1970505/in-re-cloutier/#587" aria-description="Citation for case: In Re Cloutier">3 B.R. at 587</a></span>.
+ </p>
+<p id="b354-15">
+  This Court is of the opinion that the
+  <em>
+   <span class="citation" data-id="1970505"><a href="/opinion/1970505/in-re-cloutier/" aria-description="Citation for case: In Re Cloutier">Cloutier</a></span>
+  </em>
+  line of cases are better reasoned.
+  <span citation-index="1" class="star-pagination" label="299"> 
+   *299
+   </span>
+  If a debtor is trying to abuse the more liberal provisions of Chapter 13, the plan should not be confirmed. Clearly, the fact that a proposed plan offers no payment to unsecured creditors should be a strong factor pointing toward disapproval of the plan. The rights of unsecured creditors should be considered by the Bankruptcy Court as well as the rights of the bankrupt and the secured creditors. But a debtor who proposes to pay nothing to unsecured creditors is not thereby conclusively barred from utilizing Chapter 13.
+ </p>
+<p id="b355-4">
+  As noted in
+  <em>
+   <span class="citation" data-id="1970505"><a href="/opinion/1970505/in-re-cloutier/" aria-description="Citation for case: In Re Cloutier">Cloutier</a></span>,
+  </em>
+  there are several permissible reasons why a debtor may prefer a Chapter 13 plan to a discharge under Chapter 7. The debtor may desire to pay attorney’s fees through the plan [§ 1322(a)(2)], to cure a default on a home mortgage [§ 1322(b)(3)], or to protect secured property in accordance with the approved Chapter 13 plan [§ 1325(a)(5)(B)]. Thus, this Court holds that the “good faith” provision of <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3) does not require payments to be made to unsecured creditors but only that the proposed plan is not an attempt to abuse the provisions of Chapter 13.
+ </p>
+<p id="b355-5">
+  The determination of this issue is based upon many factors. This Court must give regard to the opportunity of the experienced and able Bankruptcy Judge to determine the credibility of witnesses. See Bankruptcy Rule 810. In the present case, the Bankruptcy Judge concluded that the Stollenwercks’ plan was proposed in good faith. This Court is of the opinion that the Bankruptcy Court did not abuse its discretion in making this conclusion.
+ </p>
+<p id="b355-6">
+  Appellant also contends that the Stollen-wercks’ offer to pay $200 per month to secured creditors out of their $400 excess income over expenses per month does not satisfy the good faith requirement. Appellant submits that a good faith effort would be monthly payments of $300. In support of this contention appellant cites
+  <em>
+   In re Tanke,
+  </em>
+  <span class="citation" data-id="1538853"><a href="/opinion/1538853/in-re-tanke/" aria-description="Citation for case: In Re Tanke">4 B.R. 339</a></span> (Bkrtcy.D.Col.1980). In that case, the debtors had approximately $900 of disposable monthly income in excess of living expenses but proposed to pay only $160 per month to secured creditors and $1 per month on unsecured claims. The Bankruptcy Court refused to confirm the plan stating that the “case couples recent egregious fraud with no good faith effort to repay the victim. To confirm this plan would, in effect, make the bankruptcy court the debtors’ instrument for perpetrating a fraud.”
+  <span class="citation" data-id="1538853"><a href="/opinion/1538853/in-re-tanke/#340" aria-description="Citation for case: In Re Tanke"><em>
+   Id.
+  </em>
+  at 340</a></span>.
+ </p>
+<p id="b355-8">
+  The present facts are drastically different from those in
+  <em>
+   <span class="citation" data-id="1538853"><a href="/opinion/1538853/in-re-tanke/" aria-description="Citation for case: In Re Tanke">Tanke</a></span>.
+  </em>
+  In
+  <em>
+   <span class="citation" data-id="1538853"><a href="/opinion/1538853/in-re-tanke/" aria-description="Citation for case: In Re Tanke">Tanke</a></span>,
+  </em>
+  the debtors had over twice as much excess income than do the Stollenwercks, but offered to pay less than the Stollenwercks offered. This Court cannot say that the Stollenwercks’ proposal is an attempt to perpetrate a fraud. Further, as already stated, this type of decision is one that is better left to the Bankruptcy Court which in this case has concluded that the payment of $200 per month by the Stollenwercks is a good faith effort.
+ </p>
+<p id="b355-9">
+  Based upon the above analysis, the Court is of the opinion that the Bankruptcy Court properly confirmed the Stollenwercks’ Chapter 13 plan and properly overruled the appellant’s objectives to said plan. An order will be entered in accordance with this opinion.
+ </p>
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b354-8">
+   . E. g.
+   <em>
+    In the Matter of Harland,
+   </em>
+   <span class="citation" data-id="1970774"><a href="/opinion/1970774/matter-of-harland/" aria-description="Citation for case: Matter of Harland">3 B.R. 597</a></span> (Bkrtcy.D.Neb.1980);
+   <em>
+    In re Terry,
+   </em>
+   <span class="citation" data-id="1970481"><a href="/opinion/1970481/tenney-v-terry-in-re-terry/" aria-description="Citation for case: Tenney v. Terry (In Re Terry)">3 B.R. 63</a></span> (Bkrtcy.W.D.Ark.1980).
+  </p>
+</div></div></opinion>

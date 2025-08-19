@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion data-order="11" data-type="opinion" id="x999-2" type="majority">
+<author id="b139-23">
+  PER CURIAM:
+ </author>
+<p id="b139-24">
+  Vincent Piteo appeals from a judgment of conviction entered in the United States District Court for the Southern District of New York, Robert W. Sweet,
+  <em>
+   Judge,
+  </em>
+  following his plea of guilty pursuant to a negotiated plea agreement. Piteo pled guilty to a two-count information that charged him with conspiracy to transport stolen goods in violation of <span class="citation no-link">18 U.S.C. § 2314</span> and conspiracy to receive stolen goods in violation of <span class="citation no-link">18 U.S.C. § 2315</span>. Piteo claims that because the government had introduced evidence of the same two crimes at a
+  <em>
+   Fatico
+  </em>
+  hearing,
+  <em>
+   see United States
+  </em>
+  v.
+  <em>
+   Fatico,
+  </em>
+  <span class="citation" data-id="358036"><a href="/opinion/358036/united-states-v-carmine-fatico-and-daniel-fatico/" aria-description="Citation for case: United States v. Carmine Fatico, and Daniel Fatico">579 F.2d 707</a></span> (2d Cir.1978);
+  <em>
+   United States v. Fatico,
+  </em>
+  <span class="citation" data-id="369003"><a href="/opinion/369003/united-states-v-daniel-fatico/" aria-description="Citation for case: United States v. Daniel Fatico">603 F.2d 1053</a></span> (2d Cir.1979),
+  <em>
+   cert, denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./444/1073/">444 U.S. 1073</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./100/1018/">100 S.Ct. 1018</a></span>, <span class="citation" data-id="9018442"><a href="/opinion/9025187/fatico-v-united-states/" aria-description="Citation for case: Fatico v. United States">62 L.Ed.2d 755</a></span> (1980), in an unrelated matter, his prosecution was barred by the double jeopardy clause of the fifth amendment. We disagree and affirm the conviction.
+ </p>
+<p id="b139-25">
+  On March 22, 1982, Piteo was sentenced in the Southern District of New York by
+  <span citation-index="1" class="star-pagination" label="54"> 
+   *54
+   </span>
+  Judge Kevin Duffy to three years imprisonment for offenses unrelated to the present guilty pleas.
+  <em>
+   United States v. Piteo,
+  </em>
+  Docket No. CR 80 587 (S.D.N.Y.). Before sentencing, Judge Duffy had conducted a
+  <em>
+   Fatico
+  </em>
+  sentencing hearing which revealed,
+  <em>
+   inter alia,
+  </em>
+  Piteo’s association with the Bonanno organized crime family, his complicity in the theft of a truckload of tuna fish, and his attempted robbery of the apartment of the Shah of Iran’s sister. When he imposed sentence, Judge Duffy noted that his decision would “of course * * * be influenced!’ by Piteo’s association with organized crime as shown at the
+  <em>
+   Fatico
+  </em>
+  hearing, and that the offense for which Piteo was then convicted “was not a one-time thing”. Judge Duffy then sentenced Piteo to concurrent terms of three years’ imprisonment.
+ </p>
+<p id="b140-4">
+  Three days later the government filed a superseding indictment in this case, adding Piteo as one of ten defendants in a four count indictment following a six year F.B.I. investigation into the activities of the Bonanno organized crime family. The prosecution of five of Piteo’s codefendants is described in some detail in our opinion in
+  <em>
+   United States v. Ruggiero,
+  </em>
+  <span class="citation" data-id="9471726"><a href="/opinion/430885/united-states-v-benjamin-ruggiero-nicholas-santora-anthony-rabito-and/" aria-description="Citation for case: United States v. Benjamin Ruggiero, Nicholas Santora,...">726 F.2d 913</a></span> (2nd Cir.1984), being filed simultaneously with this opinion. In that prosecution, which was brought under the Racketeer Influenced and Corrupt Organizations Act (RICO), <span class="citation no-link">18 U.S.C. §§ 1962</span>(c) and 1962(d), Piteo was charged with both substantive and conspiracy RICO crimes which exposed him to a potential sentence of 40 years in prison. The predicate acts charged against him were the theft of the tuna fish and the attempted robbery of the apartment of the Shah of Iran’s sister, two of the crimes that were revealed at his earlier
+  <em>
+   Fatico
+  </em>
+  hearing.
+ </p>
+<p id="b140-5">
+  Piteo negotiated a plea agreement under which he waived indictment and pled guilty before Judge Sweet to the two conspiracy charges, thereby reducing his maximum exposure to ten years. . In return, the government dismissed the RICO indictment against him. Judge Sweet sentenced Piteo on each count to concurrent prison terms of four years, to run consecutively to the three year sentence imposed earlier by Judge Duffy.
+ </p>
+<p id="b140-7">
+  Despite his having acknowledged before Judge Sweet that his plea of guilty abandoned all right to appeal, and despite his counsel’s acknowledgment that the district court had correctly refused to dismiss the RICO charges on double jeopardy grounds, Piteo now contends on appeal that the charges to which he pled guilty were barred by the double jeopardy clause of the fifth amendment because he had already received from Judge Duffy enhanced punishment based on the same two criminal events. We do not decide whether Piteo’s negotiated guilty plea waived his double jeopardy claim, but instead proceed directly to the merits of that claim.
+ </p>
+<p id="b140-8">
+  Piteo contends that Judge Duffy’s sentence represented “punishment” for the crimes described in the
+  <em>
+   Fatico
+  </em>
+  hearing and therefore' precludes the government from separately prosecuting him for those crimes. We disagree. The purpose of the
+  <em>
+   Fatico
+  </em>
+  hearing before Judge Duffy was not to try Piteo for additional crimes for which he could be punished. Rather, it was to develop information about Piteo that would enable Judge Duffy to determine a proper punishment for the crime of which Piteo then stood convicted. Such evidence is designed to enable the sentencing judge , “to gain a fuller assessment of the defendant so that the punishment will ‘fit the offender and not merely the crime’ for which he was convicted,” by shedding “new light upon the defendant’s ‘life, health, habits, conduct, and mental and moral propensities.’ ”
+  <em>
+   United States v. Hansen,
+  </em>
+  <span class="citation" data-id="415372"><a href="/opinion/415372/united-states-v-arthur-hansen/#1082" aria-description="Citation for case: United States v. Arthur Hansen">701 F.2d 1078, 1082</a></span> (2d Cir.1983),
+  <em>
+   quoting North Carolina v. Pearce,
+  </em>
+  <span class="citation" data-id="9424091"><a href="/opinion/107978/north-carolina-v-pearce/#723" aria-description="Citation for case: North Carolina v. Pearce">395 U.S. 711, 723</a></span>, <span class="citation" data-id="9424091"><a href="/opinion/107978/north-carolina-v-pearce/#2079" aria-description="Citation for case: North Carolina v. Pearce">89 S.Ct. 2072, 2079</a></span>, <span class="citation" data-id="9424091"><a href="/opinion/107978/north-carolina-v-pearce/" aria-description="Citation for case: North Carolina v. Pearce">23 L.Ed.2d 656</a></span> (1969),
+  <em>
+   quoting Williams
+  </em>
+  v.
+  <em>
+   New York,
+  </em>
+  <span class="citation" data-id="9420330"><a href="/opinion/104681/williams-v-new-york/#245" aria-description="Citation for case: Williams v. New York">337 U.S. 241, 245, 247</a></span>, <span class="citation" data-id="9420330"><a href="/opinion/104681/williams-v-new-york/#1082" aria-description="Citation for case: Williams v. New York">69 S.Ct. 1079, 1082, 1083</a></span>, <span class="citation" data-id="9420330"><a href="/opinion/104681/williams-v-new-york/" aria-description="Citation for case: Williams v. New York">93 L.Ed. 1337</a></span> (1949).
+ </p>
+<p id="b140-9">
+  We hold that Piteo’s guilty plea to the information charging him with the same offenses that had been presented at the earlier
+  <em>
+   Fatico
+  </em>
+  hearing on an unrelated charge did not violate his right to be free of double jeopardy under the fifth
+  <span citation-index="1" class="star-pagination" label="55"> 
+   *55
+   </span>
+  amendment.
+  <em>
+   See United States v. Grayson,
+  </em>
+  <span class="citation" data-id="9427313"><a href="/opinion/109922/united-states-v-grayson/" aria-description="Citation for case: United States v. Grayson">438 U.S. 41</a></span>, <span class="citation" data-id="9427313"><a href="/opinion/109922/united-states-v-grayson/" aria-description="Citation for case: United States v. Grayson">98 S.Ct. 2610</a></span>, <span class="citation" data-id="9427313"><a href="/opinion/109922/united-states-v-grayson/" aria-description="Citation for case: United States v. Grayson">57 L.Ed.2d 582</a></span> (1978);
+  <em>
+   United States
+  </em>
+  v. Wise, <span class="citation" data-id="369008"><a href="/opinion/369008/united-states-v-allen-harper-wise-aka-skip-wise-united-states-of/" aria-description="Citation for case: United States v. Allen Harper Wise, A/K/A Skip Wise,...">603 F.2d 1101</a></span> (4th Cir.1979);
+  <em>
+   United States v. Von Moos,
+  </em>
+  <span class="citation" data-id="395166"><a href="/opinion/395166/united-states-v-john-j-von-moos/" aria-description="Citation for case: United States v. John J. Von Moos">660 F.2d 748</a></span> (9th Cir.1981).
+ </p>
+<p id="b141-5">
+  Affirmed.
+ </p>
+</opinion>

@@ -1,0 +1,378 @@
+<pre class="inline">1   WO                                                                   
+2                                                                        
+3                                                                        
+4                                                                        
+5                                                                        
+6                 IN THE UNITED STATES DISTRICT COURT                    
+7                     FOR THE DISTRICT OF ARIZONA                        
+
+8                                                                        
+
+9   Katie Ogdon,                       No. CV-22-00477-PHX-DLR           
+
+10              Plaintiff,              ORDER                             
+
+11   v.                                                                   
+
+12   Grand Canyon University Incorporated, et                             
+    al.,                                                                 
+13                                                                        
+               Defendants.                                               
+14                                                                        
+15                                                                        
+16        At issue is a motion to dismiss Plaintiff Katie Ogdon’s first amended complaint 
+17   (“FAC”) filed on behalf of Defendants Grand Canyon University Incorporated (“GCU”), 
+18   Grand Canyon Education Incorporated (“GCE”), Brian Mueller, Dan Bachus, and Stan 
+19   Meyer. (Doc. 61.) The motion is fully briefed (Docs. 67, 71) and will be granted in part 
+20   and denied in part.1                                                 
+21     I.   Background2                                                   
+22        This case arises out of Ogdon’s enrollment in an online master’s degree program 
+23   offered by Grand Canyon University (“University”). GCE once operated the University as 
+24   a for-profit institution, but after the Department of Education imposed regulations on for-
+25   profit colleges to better inform prospective students about their odds of getting a job in 
+26   their chosen field, Defendants restructured in an effort to evade those new regulations. 
+
+27        1 The Court will address Defendants’ motion to strike certain allegations from the 
+    FAC (Doc. 60) via separate order.                                    
+28        2 The following summary is derived from the FAC (Doc. 18) and presumed true for 
+    purposes of this order. See Cousins v. Lockyer, </pre><span class="citation" data-id="1459853"><a href="/opinion/1459853/cousins-v-lockyer/#1067" aria-description="Citation for case: Cousins v. Lockyer">568 F.3d 1063, 1067</a></span><pre class="inline"> (9th Cir. 2009). 
+1   GCE,  a  for-profit  corporation,  sold  the  University’s  assets  to  GCU,  a  non-profit 
+2   corporation. At all relevant times, Mueller was the president GCU and GCE, Bachus was 
+3   the chief financial officer of GCE, and Meyer was the chief operating officer of GCE. 
+4   Though GCU maintained nominal control over the University, it outsourced operations to 
+5   GCE. GCU provides the academic instruction and receives tuition payments from students, 
+6   but it pays those tuition dollars to GCE for, among other things, marketing and recruiting 
+7   services. Ogdon alleges that a small fraction of the tuition dollars paid by students actually 
+8   goes toward academic instruction, with the rest going toward profit maximization. 
+9        In 2017, Ogdon began researching master’s degree programs with the goal of 
+10   obtaining a degree that would qualify her to work as a mental health therapist in California. 
+11   Ogdon was interested in online programs because of their flexibility. Her research turned 
+12   up the University. That summer, Ogdon completed a form on the University’s website and, 
+13   days later, was contacted by a counselor named Michael Granitz, who spent the next 
+14   several weeks convincing Ogdon to enroll. Granitz knew Ogdon lived in California and 
+15   wanted to practice there after graduation, and he assured her that the University’s program 
+16   would meet her needs. For example, Granitz assured Odgon that the University’s program 
+17   was  accredited  by  the  American  Psychological  Association  and  California  licensing 
+18   authorities,  and  that  the  University’s  regional  accreditation  from  Higher  Learning 
+19   Commission (“HLC”) acted like an umbrella that covered everything. This, according to 
+20   Ogdon, turned out to be false. Although the HLC accreditation allowed the University to 
+21   participate in the federal student loan program, it did not mean the University’s program 
+22   met the standards for licensure as a mental health therapist in California. 
+23        Based on Granitz’s assurances and on what Ogdon describes as high-pressure sales 
+24   tactics, Ogdon enrolled in the University in the Fall of 2017. Before starting classes, Ogdon 
+25   spoke with another counselor at the University, Sabrina Landa, about the University’s 
+26   accreditation to ensure that the program in which she had enrolled was sufficient to allow 
+27   her to become a mental health therapist in California. Landa assured Ogdon that the 
+28   program would do so.                                                 
+1        In  early  2019,  Ogdon  began  researching  the  process  to  become  licensed  in 
+2   California. She learned that 60 credits and an internship were required to become licensed. 
+3   Ogdon had completed only 36 credits and no internship. Ogdon asked another counselor, 
+4   Chelsea Bebb, about getting an internship. Bebb told Ogdon that her program did not 
+5   require an internship, and that Ogdon should take additional classes if she needed to earn 
+6   60 credits. Ogdon then began contacting organizations in California for information for 
+7   licensure and discovered that the University’s program did not meet the requirements for 
+8   becoming a licensed mental health therapist in that state.           
+9        Ogdon completed her 36-credit degree program in May 2019, but her program 
+10   would not be accepted by California licensing authorities. Ogdon tried to transfer her 
+11   credits to another school but found no school willing to give credit for the University’s 
+12   courses. Ogdon alleges she never  would have enrolled or stayed in the University’s 
+13   program had her various counselors not misled her into believing that the program met the 
+14   requirements for licensure in California. All told, Ogdon incurred over $22,000 in federal 
+15   student loan debt to obtain a degree that did not meet her needs.    
+16        Ogdon claims she was one of many victims of a racketeering scheme orchestrated 
+17   by Defendants to defraud students by advertising programs in professions traditionally 
+18   subject to state regulation as being suitable for employment even though those programs 
+19   do not meet the licensure standards in the states where students would seek employment. 
+20   She claims Defendants employed high pressure, deceptive sales tactics and published 
+21   misleading advertisements to trick students into enrolling, without regard for whether the 
+22   University’s programs were suitable for practicing those professions in those students’ 
+23   states. Further, Ogdon alleges that Defendants instruct their recruiters to use titles such as 
+24   “counselor” and “advisor” in order to mislead prospective students that they are qualified 
+25   to provide academic advice, when in reality they are marketing professionals financially 
+26   motivated to meet enrollment quotas. To that end, these recruiters are trained to obfuscate 
+27   when current or prospective students ask about whether the University’s professional 
+28   degree programs meet the requirements for professional licensure in their respective states.    
+1        Based on these allegations, Ogdon brings a five-count, 282-paragraph putative class 
+2   action complaint accusing all Defendants of violating the Racketeer Influenced and Corrupt 
+3   Organizations Act (“RICO”), </pre><span class="citation no-link">18 U.S.C. § 1962</span><pre class="inline">, and accusing GCU and GCE of violating 
+4   California’s False  Advertising Law (“FAL”), Unfair  Competition Law (“UCL”), and 
+5   Consumers Legal Remedies Act (“CLRA”), and of unjust enrichment. Defendants have 
+6   moved to dismiss Ogdon’s FAC in its entirety.                        
+7     II.  Legal Standard                                                
+8        “To avoid a Rule 12(b)(6) dismissal, a complaint need not contain detailed factual 
+9   allegations; rather, it must plead ‘enough facts to state a claim to relief that is plausible on 
+10   its face.’” Clemens v. DaimlerChrysler Corp., </pre><span class="citation" data-id="1199775"><a href="/opinion/1199775/clemens-v-daimlerchrysler-corp/#1022" aria-description="Citation for case: Clemens v. DaimlerChrysler Corp.">534 F.3d 1017, 1022</a></span><pre class="inline"> (9th Cir. 2008) 
+11   (quoting Bell Atl. Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544</a></span><pre class="inline"> (2007)). Well-pled factual allegations 
+12   are accepted as true and construed in the light most favorable to the plaintiff. Cousins v. 
+13   Lockyer, </pre><span class="citation" data-id="1459853"><a href="/opinion/1459853/cousins-v-lockyer/#1067" aria-description="Citation for case: Cousins v. Lockyer">568 F.3d 1063, 1067</a></span><pre class="inline"> (9th Cir. 2009). The Court’s task merely is to determine 
+14   whether those well-pled factual allegations plausibly state a claim to relief under governing 
+15   law. See Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662, 678</a></span><pre class="inline"> (2009).                
+16     III.  Analysis                                                     
+17     A. Rule 9(b)                                                       
+18        The Federal Rules of Civil Procedure ordinarily require a complaint to contain only 
+19   “a short and plain statement of the claim showing that the pleader is entitled to relief,” Fed. 
+20   R. Civ. P. 8(a)(2), but they set a heightened pleading standard for allegations of fraud. “In 
+21   alleging fraud . . . a party must state with particularity the circumstances constituting fraud 
+22   or mistake. Malice, intent, knowledge, and other conditions of a person’s mind maybe 
+23   alleged generally.” Fed. R. Civ. P. 9(b). “Averments of fraud must be accompanied by the 
+24   who, what, when, where, and how of the misconduct charged.” Vess v. Ciba-Geigy Corp. 
+25   USA, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1106" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d 1097, 1106</a></span><pre class="inline"> (9th Cir. 2003) (quotations and citation omitted). Typically, 
+26   Rule 9(b)’s heightened pleading standard applies only to averments of fraud; “[t]he rule 
+27   does not require that allegations supporting a claim be stated with particularity when those 
+28   allegations  describe  non-fraudulent  conduct.”  </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1104" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">Id.  at  1104</a></span><pre class="inline">.  But  “[i]n  some  cases,  the 
+1   plaintiff may allege a unified course of fraudulent conduct and rely entirely on that course 
+2   of conduct as the basis of a claim. In that event, the claim is said to be ‘grounded in fraud’ 
+3   or  to  ‘sound  in  fraud,’  and  the  pleading  of  that  claim  as  a  whole  must  satisfy  the 
+4   particularity requirement of Rule 9(b).” </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1103" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">Id. at 1103-04</a></span><pre class="inline">.             
+5        Defendants argue—and Ogdon doesn’t appear to dispute—that Counts I though IV 
+6   of the FAC are predicated on a unified course of fraudulent conduct, such that those claims 
+7   must be plead with the specificity Rule 9(b) demands. Defendants further argue the FAC 
+8   fails to satisfy Rule 9(b) because it (1) doesn’t specify which Defendants allegedly engaged 
+9   in specific instances of fraud and (2) doesn’t identify the specific content of any alleged 
+10   fraudulent statement. (Doc. 61-1 at 12-14.) The Court disagrees.     
+11        First, the FAC adequately identifies which Defendants are being sued for what. 
+12   When multiple defendants are sued in connection with an alleged fraudulent scheme, there 
+13   is no requirement that the plaintiff identify every instance of fraudulent conduct for every 
+14   defendant. Swartz v. KPMG LLP, </pre><span class="citation" data-id="796813"><a href="/opinion/796813/theodore-c-swartz-v-kpmg-llp-and-presidio-advisory-services-inc/#764" aria-description="Citation for case: Theodore C. Swartz v. Kpmg Llp, and Presidio Advisory...">476 F.3d 756, 764</a></span><pre class="inline"> (9th Cir. 2007). Though “Rule 9(b) 
+15   does not allow a complaint to merely lump multiple defendants together,” in fraud suits 
+16   involving multiple  defendants  it is sufficient for a plaintiff to identify the role each 
+17   defendant played in the alleged fraudulent scheme. </pre><span class="citation" data-id="796813"><a href="/opinion/796813/theodore-c-swartz-v-kpmg-llp-and-presidio-advisory-services-inc/#764" aria-description="Citation for case: Theodore C. Swartz v. Kpmg Llp, and Presidio Advisory...">Id. at 764-65</a></span><pre class="inline">. Here, the FAC identifies 
+18   the role each Defendant played in the alleged fraudulent scheme (Doc. 18 ¶¶ 229-233.) The 
+19   FAC also specifies when certain actions are alleged to have been taken on behalf or under 
+20   the supervision of Defendants, it identifies by name several University counselors who 
+21   made allegedly fraudulently representations, and for others it details job titles, training, and 
+22   supervision.  (Id.  ¶¶  113-25,  174-85,  195-96.)  These  allegations  are  sufficient  to  put 
+23   Defendants on notice of their roles in the alleged fraudulent scheme. 
+24        Next,  the  FAC  identifies  the  specific  content  of  the  alleged  fraud,  namely 
+25   misrepresentations about whether the University’s program met Ogdon’s needs. Ogdon 
+26   claims that her various counselors, both pre- and post-enrollment, knew she wanted to 
+27   practice in California and, when asked, repeatedly assured her that the program in which 
+28   she was enrolled would meet the requirements for licensure in California.  
+1        Defendants’ arguments to the contrary aren’t about the specificity with which 
+2   Ogdon has alleged the fraud. Instead, Defendants argue that these statements are not 
+3   actionable for reasons other than their specify.                     
+4        Defendants argue that Granitz’s assurance that the University had an excellent 
+5   program that would meet Ogdon’s needs is non-actionable puffery. The Court agrees that 
+6   describing the University’s program as “excellent” is non-actionable puffery but disagrees 
+7   that assuring Ogdon the program would meet her needs falls into the same category. 
+8   Whether the University’s program met the needs of someone like Ogdon who wanted to 
+9   practice as a mental health therapist in California is not necessarily a statement of opinion: 
+10   it’s plausibly a fact capable of verification.                       
+11        Defendants next argue that Granitz’s alleged representations about the University’s 
+12   accreditation are not actionable because they are true. This argument is unpersuasive for 
+13   two reasons. First, at this stage, the Court accepts the allegations in the complaint as true, 
+14   so the Court must presume that Ogdon’s program was not properly accredited. Second, on 
+15   this point the parties talk crossways. Defendants argue that Grantiz’s alleged representation 
+16   was true because the University is regionally accredited as an institution by HLC, and 
+17   California does not accredit discrete college programs. But in her response brief, Ogdon 
+18   explains that she has used the word “accreditation” in her FAC as a term of art to describe 
+19   whether a professional degree program meets the minimum requirements for obtaining a 
+20   corresponding professional license in a given state. And Ogdon plausibly alleges that the 
+21   program she completed at the University did not meet those requirements in California. 
+22   The Court won’t dismiss the FAC based on what might turn out to be a semantic dispute.  
+23        Finally, Defendants argue that post-enrollment statements by Landa and Bibb are 
+24   not actionable because Ogdon could not plausibly have relied on them in making her 
+25   decision to enroll at the University. This argument is unpersuasive for two reasons. First, 
+26   as the Court understands the FAC, Ogdon claims the post-enrollment statements of Landa 
+27   and Bibb induced her to maintain her enrollment at the University. Had she not been misled 
+28   into believing the University’s program would qualify her for licensure in California, 
+1   Ogdon might have cut her losses earlier and enrolled in a different institution. Second, 
+2   reasonable reliance generally is a question of fact inappropriate for resolution at the motion 
+3   to dismiss stage.                                                    
+4        “Rules 8(a) and 9(b) must be read in conjunction with one another.  [A] [p]laintiff 
+5   may state allegations of fraud in short, plain statements, provided that said statements put 
+6   [d]efendants on adequate notice of the conduct alleged to be fraudulent.”  Reilly v. Charles 
+7   M. Brewer, Ltd. Profit Sharing Plan, No. CIV 02-2218-PHX-EHC, </pre><span class="citation no-link">2004 WL 7339615</span><pre class="inline">, at 
+8   *4 (D. Ariz. Sep. 30, 2004). Indeed, Rule 9(b) serves four purposes: 
+9             First,  the  rule  ensures  that  the  defendant  has  sufficient 
+              information to formulate a defense by putting it on notice of 
+10             the conduct complained of. . . . Second, Rule 9(b) exists to 
+              protect defendants from frivolous suits.  A third reason for the 
+11             rule is to eliminate fraud actions in which all the facts are 
+              learned after discovery.  Finally, Rule 9(b) protects defendants 
+12             from harm to their goodwill and reputation.                
+13   U.S. ex rel. Stinson, Lyons, Gerlin &amp; Bustamante, P.A. v. Blue Cross Blue Shield of 
+14   Georgia, Inc., </pre><span class="citation" data-id="1427853"><a href="/opinion/1427853/united-states-ex-rel-stinson-lyons-gerlin-bustamante-pa-v-blue/#1056" aria-description="Citation for case: United States Ex Rel. Stinson, Lyons, Gerlin &amp;...">755 F. Supp. 1055, 1056-57</a></span><pre class="inline"> (S.D. Ga. 1990). “A court should hesitate to 
+15   dismiss a complaint under Rule 9(b) if the court is satisfied (1) that the defendant has been 
+16   made aware of the particular circumstances for which she will have to prepare a defense at 
+17   trial, and (2) that plaintiff has substantial prediscovery evidence of those facts.” Harrison 
+18   v. Westinghouse Savannah River Co., </pre><span class="citation" data-id="764072"><a href="/opinion/764072/edwin-p-harrison-and-united-states-of-america-party-in-interest-v/#784" aria-description="Citation for case: Edwin P. Harrison, and United States of America, Party in...">176 F.3d 776, 784</a></span><pre class="inline"> (4th Cir. 1999). Here, the Court 
+19   is satisfied that Ogdon has sufficient prediscovery evidence of the misconduct she has 
+20   alleged, and that the FAC is sufficiently detailed to put Defendants on fair notice of the 
+21   particular circumstances for which they will need to prepare a defense.  
+22     B. RICO                                                            
+23        Ogdon brings claims under RICO </pre><span class="citation no-link">18 U.S.C. § 1962</span><pre class="inline">(a), (c), and (d). To state a 
+24   plausible § 1962(c) claim, Ogdon must allege that Defendants “participate[d] in (1) the 
+25   conduct of (2) an enterprise that affects interstate commerce (3) through a pattern (4) of 
+26   racketeering activity[.]” Eclectic Properties East, LLC v. Marcus &amp; Millichap Co., 751 
+</pre><span class="citation" data-id="6931222"><a href="/opinion/7029292/weyherlivsey-constructors-inc-v-prevetire/#997" aria-description="Citation for case: Weyher/Livsey Constructors, Inc. v. Prevetire">27   F.3d 990, 997</a></span><pre class="inline"> (9th Cir. 2014). Section 1962(a) makes it unlawful for any person to reinvest 
+28   income received from a pattern of racketeering activity. And Section 1962(d) makes it 
+1   unlawful to conspire to violate these other provisions. Defendants raise a host of arguments 
+2   for why Ogdon’s RICO claims fail, but the Court need not address them all because it finds 
+3   two dispositive.                                                     
+4        First, Ogdon has not plausibly alleged that Defendants conducted the affairs of a 
+5   separate, distinct enterprise. RICO defines enterprise broadly to include “any individual, 
+6   partnership, corporation, association, or other legal entity, and any union or group of 
+7   individuals associated in fact although not a legal entity.”  </pre><span class="citation no-link">18 U.S.C. § 1961</span><pre class="inline">(4).  “[A]n 
+8   association-in-fact enterprise is . . . a continuing unit that functions with a common 
+9   purpose.” Boyle v. United States, </pre><span class="citation" data-id="145864"><a href="/opinion/145864/boyle-v-united-states/#944" aria-description="Citation for case: Boyle v. United States">556 U.S. 938, 944, 948</a></span><pre class="inline"> (2009). However, “proof of a 
+10   ‘pattern of racketeering activity’ is not, by itself, proof of an ‘enterprise.’”  Odom v. 
+11   Microsoft Corp., </pre><span class="citation" data-id="797760"><a href="/opinion/797760/james-odom-v-microsoft-corporation-a-washington-corporation-best-buy-co/#549" aria-description="Citation for case: James Odom v. Microsoft Corporation, a Washington...">486 F.3d 541, 549</a></span><pre class="inline"> (9th Cir. 2007) (internal citation omitted). “The 
+12   enterprise and its activity are two separate things,” </pre><span class="citation" data-id="797760"><a href="/opinion/797760/james-odom-v-microsoft-corporation-a-washington-corporation-best-buy-co/#551" aria-description="Citation for case: James Odom v. Microsoft Corporation, a Washington...">Id. at 551</a></span><pre class="inline">, and liability under RICO 
+13   “depends on showing that the defendants conducted or participated in the conduct of the 
+14   ‘enterprise’s affairs,’ and not just their own affairs.” Reves v. Ernst &amp; Young, </pre><span class="citation" data-id="112817"><a href="/opinion/112817/united-states-v-louisiana/#170" aria-description="Citation for case: United States v. Louisiana">507 U.S. 
+15   170, 185</a></span><pre class="inline"> (1993) (emphasis in original). Here, the FAC plausibly alleges that Defendants 
+16   fraudulently  induced  Ogdon  into  enrolling  and  maintaining  her  enrollment  at  the 
+17   University. But the FAC does not plausibly allege that Defendants’ conduct were anything 
+18   other  than  their  ordinary  business  affairs.  Indeed,  Ogdon  alleges  that  the  “common 
+19   purpose” underpinning the alleged enterprise was to enrich GCE, its officers, and its 
+20   shareholders. (Doc. 18 ¶¶ 51-55.) But profit maximization is a normal purpose of a for-
+21   profit corporation like GCE. Although Defendants are not entitled to conduct their business 
+22   affairs in a fraudulent manner, doing so does not transform those affairs into the conduct 
+23   of an association-in-fact enterprise that is separate and distinct from the business itself.  
+24        Second, Ogdon’s FAC does not allege each Defendant committed at least two acts 
+25   of racketeering activity. “[I]n a multi-defendant § 1962(c) action, such as this one, a 
+26   plaintiff must allege that each defendant individually committed at least two predicate 
+27   acts.” Kerrigan v. ViSalus, Inc., </pre><span class="citation" data-id="7232071"><a href="/opinion/7314166/kerrigan-v-visalus-inc/#605" aria-description="Citation for case: Kerrigan v. Visalus, Inc.">112 F. Supp. 3d 580, 605</a></span><pre class="inline"> (E.D. Mich. 2015). The FAC 
+28                                                                        
+1   fails to specifically and particularly allege that each named Defendant committed at least 
+2   two separate acts of mail or wire fraud.                             
+3        For these reasons, the Court dismisses Ogdon’s RICO claims.     
+4     C. State Law Claims                                                
+5        1.  FAL                                                         
+6        Ogdon claims Defendants violated California’s FAL, </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 
+7</span><pre class="inline">   17500, which makes it unlawful for a business to disseminate any statement that “is untrue 
+8   or misleading, and which is known, or which by the exercise of reasonable care should be 
+9   known, to be untrue or misleading.” Schellenbach v. GoDaddy.com, LLC, </pre><span class="citation" data-id="8777596"><a href="/opinion/8793587/schellenbach-v-godaddycom-llc/" aria-description="Citation for case: Schellenbach v. GoDaddy.com, LLC">321 F.R.D. 613</a></span><pre class="inline">, 
+10   619 (D. Ariz. 2017) (internal citations omitted). Defendants argue that this claim fails 
+11   because  it  is  predicated  on  private  conversations  between  Ogdon  and  University 
+12   counselors, rather than on advertisements disseminated to the public. 
+13        The Court is not persuaded that the FAL requires a plaintiff to allege reliance on a 
+14   public advertisement. “The [FAL’s] prohibition extends to the use of false or misleading 
+15   oral statements,” People v. Dollar Rent-A-Car Sys., Inc., </pre><span class="citation" data-id="2148959"><a href="/opinion/2148959/people-v-dollar-rent-a-car-systems-inc/#128" aria-description="Citation for case: People v. Dollar Rent-A-Car Systems, Inc.">211 Cal.App.3d 119, 128</a></span><pre class="inline"> (Cal. 
+</pre><span class="citation no-link">16   App. 1989</span><pre class="inline">), which is what Ogdon has alleged here. What’s more, Ogdon alleges that these 
+17   oral misrepresentations by counselors were part of a broader pattern of sales tactics to 
+18   induce students to enroll. These statements plausibly fall under the purview of the FAL. 
+19        In arguing otherwise, Defendants note that claims under the FAL are evaluated 
+20   under a “reasonable consumer standard,” which asks whether “members of the public are 
+21   likely to be deceived.” Williams v. Gerber Prods. Co., </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/#938" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d 934, 938</a></span><pre class="inline"> (9th Cir. 2008) 
+22   (internal quotations and citations omitted). Defendants extrapolate from this standard that 
+23   the only false or misleading statements cognizable under the FAL are those disseminated 
+24   to the public at large. But this conclusion doesn’t necessarily follow. To the contrary, “the 
+25   reasonable consumer standard requires a probability ‘that a significant portion of the 
+26   general  consuming  public  or  of  targeted  consumers,  acting  reasonably  in  the 
+27   circumstances, could be misled.’” Ebner v. Fresh, Inc., </pre><span class="citation" data-id="8414293"><a href="/opinion/8442970/ebner-v-fresh-inc/#965" aria-description="Citation for case: Ebner v. Fresh, Inc.">838 F.3d 958, 965</a></span><pre class="inline"> (9th Cir. 2016) 
+28   (emphasis added, and quoting Lavie v. Procter &amp; Gamble Co., </pre><span class="citation" data-id="9749498"><a href="/opinion/2283365/lavie-v-procter-gamble-co/" aria-description="Citation for case: Lavie v. Procter &amp; Gamble Co.">105 Cal.App.4th 496</a></span><pre class="inline">, (Cal. 
+</pre><span class="citation no-link">1   App. 2003</span><pre class="inline">)). Here, Ogdon plausibly alleges that the targeted consumers—current and 
+2   prospective students—were reasonably misled by Defendants’ statements concerning the 
+3   accreditation of its professional degree programs. This is sufficient to survive dismissal.  
+4        2.  CLRA                                                        
+5        The CLRA prohibits “unfair methods of competition and unfair or deceptive acts or 
+6   practices.” </pre><span class="citation no-link">Cal. Civ. Code § 1770</span><pre class="inline">. Defendants argue Ogdon’s CLRA claim fails because 
+7   she hasn’t alleged fraud with particularity, nor has she alleged actual or reasonable reliance 
+8   on Defendants’ purported misrepresentations. For reasons already discussed in this order, 
+9   the Court disagrees with both these arguments and therefore denies Defendants’ motion to 
+10   dismiss Ogdon’s CLRA claim.                                          
+11        3.  UCL                                                         
+12        The UCL prohibits unfair competition, defined as “any lawful, unfair or fraudulent 
+13   business act or practice and unfair, deceptive, untrue or misleading advertising.” Cal. Civ. 
+14   Code § 17200.                                                        
+15        Unlawful Practice. Under the “unlawful” prong, the UCL “borrows violations of 
+16   other laws and treats them as unlawful practices that [the UCL] makes independently 
+17   actionable.” Alvarez v. Chevron Corp., </pre><span class="citation" data-id="613006"><a href="/opinion/613006/alvarez-v-chevron-corp/" aria-description="Citation for case: Alvarez v. Chevron Corp.">656 F.3d 925</a></span><pre class="inline">, 933 n.8 (9th Cir. 2011) (internal 
+18   quotations and citation omitted). “If a plaintiff cannot state a claim under the predicate law, 
+19   . . . [the UCL] claim also fails.” Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F.Supp.3d 1074</a></span><pre class="inline">, 1094 
+20   (N.D.  Cal.  2017)  (citation  omitted).  Here,  Ogdon  alleges  Defendants  engaged  in  an 
+21   unlawful business act by violating (1) the Higher Education Act, (2) the FAL and CLRA, 
+22   and (3) unspecified federal and state laws and regulations.          
+23        Defendants argue that Odgon cannot maintain a UCL claim predicated on violations 
+24   of the HEA because that law lacks a private cause of action. See Parks School of Business, 
+25   Inc. v. Symington, </pre><span class="citation" data-id="693410"><a href="/opinion/693410/parks-school-of-business-inc-dba-parks-college-a-new-mexico-corporation/#1484" aria-description="Citation for case: Parks School of Business, Inc., Dba Parks College, a New...">51 F.3d 1480, 1484-85</a></span><pre class="inline"> (9th Cir. 1995) (explaining that the HEA does 
+26   not confer a private cause of action). The Court disagrees. Although the HEA “lacks an 
+27   express private cause of action, . . . private UCL claims are barred only when the underlying 
+28   statute either actually bars private rights of action or provides a ‘safe harbor’ that renders 
+1   the alleged conduct lawful. Walker v. Life Ins. Co. of the Sw., 681 Fed. App’x. 599, 601 
+2   (9th Cir. 2017). Defendants have not cited to the Court any provision of the HEA explicitly 
+3   barring private rights of action. The HEA simply lacks a provision expressly providing for 
+4   one, and the Ninth Circuit has declined to read one into the statute by implication. Nor have 
+5   Defendants identified any safe harbor provision in the HEA rendering their alleged conduct 
+6   lawful. For these reasons, the Court is unpersuaded by Defendants’ argument that Odgon 
+7   cannot maintain a UCL claim predicated on alleged violations of the HEA. 
+8        Defendants also argue that Odgon cannot maintain a UCL claim predicated on 
+9   violations of the FAL and CLRA because Ogdon fails to state plausible claims under those 
+10   provisions. For reasons already discussed, the Court finds the FAC plausibly states FAL 
+11   and CLRA claims and, therefore the Court rejects this portion of Defendants’ argument. 
+12        The Court agrees with Defendants, however, that Ogdon has not adequately alleged 
+13   a UCL claim predicated on violations of unspecified state and federal laws and regulations. 
+14   Defendants are entitled to know what specific predicate laws are at issue.  See Ketab Corp. 
+15   v. Mesriani &amp; Assocs., 2:14-cv-07241-RSWL (MRW), </pre><span class="citation no-link">2015 WL 8022874</span><pre class="inline">, at *4 (C.D. Cal. 
+16   Dec. 4, 2015) (dismissing UCL claims where the pleading failed to identify the specific 
+17   predicate law alleged to have been violated). This catch-all aspect of Ogdon’s unlawful 
+18   practices UCL claim is dismissed.                                    
+19         Fraudulent Business Act. The UCL also prohibits fraudulent business practices. 
+20   Defendants argue Ogdon hasn’t plausibly alleged a fraudulent business act UCL claim 
+21   because she has not alleged fraud with particularity. Because the Court finds Ogdon has 
+22   adequately alleged her fraud claim, it rejects this portion of Defendants’ argument. 
+23        Unfair Practices. Finally, “[t]he ‘unfair’ prong of the UCL creates a cause of action 
+24   for a business practice that is unfair even if not proscribed by some other law.” In re Adobe 
+25   Sys., Inc. Privacy Litig., </pre><span class="citation" data-id="7228410"><a href="/opinion/7310506/in-re-adobe-systems-inc-privacy-litigation/#1226" aria-description="Citation for case: In re Adobe Systems, Inc. Privacy Litigation">66 F.Supp.3d 1197, 1226</a></span><pre class="inline"> (N.D. Cal. 2014). California courts have 
+26   not settled on a definition of “unfair” conduct, but two possible tests have emerged: (1) the 
+27   so-called “tethering test,” under which requires the alleged unfair conduct to be tethered to 
+28   a specific constitutional, statutory, or regulatory provision, and (2) the “balancing test,” 
+1   under which the Court examines the challenges business practice and determines whether 
+2   it  is  “immoral,  unethical,  oppressive,  unscrupulous  or  substantially  injurious  to 
+3   consumers,” and “weigh[s] the utility of the defendant’s conduct against the gravity of the 
+4   harm to the alleged victim.” </pre><span class="citation" data-id="7228410"><a href="/opinion/7310506/in-re-adobe-systems-inc-privacy-litigation/" aria-description="Citation for case: In re Adobe Systems, Inc. Privacy Litigation">Id.</a></span><pre class="inline"> (internal quotations and citations omitted). 
+5        The Court finds the FAC plausibly states a claim under either test. Ogdon has 
+6   plausibly tethered the alleged unfair conduct to perceived violations of the HEA, FAL, and 
+7   CLRA. And, as alleged, Defendants’ conduct—at bottom, lying to or misleading current 
+8   and prospective students in order to induce them to enroll in degree programs that will 
+9   leave  them  in  debt  but  with  little  prosect  of  gainful  employment  in  their  chosen 
+10   professions—plausibly is immoral, unethical, unscrupulous, and substantially injurious to 
+11   consumers, and the Court can discern no utility in such conduct that would so clearly 
+12   outweigh such harms as to mandate dismissal of this claim. For these reasons, the Court 
+13   finds Ogdon has plausibly alleged a UCL unfair conduct claim.        
+14     D. Unjust Enrichment                                               
+15        Defendants argue Ogdon can’t bring an unjust enrichment claim because the parties’ 
+16   relationship is governed by a specific contract, namely her enrollment agreement with the 
+17   University. The Court denies Defendants’ motion to dismiss Ogdon’s unjust enrichment 
+18   claim because the alleged enrollment agreement is outside the pleadings. 
+19     E. Class Action Standing                                           
+20        Lastly, Defendants argue that Ogdon lacks class action standing to represent persons 
+21   who enrolled in degree programs other than her own. The Court agrees with Ogdon that 
+22   this argument is more appropriately raised and resolved at the class certification stage, 
+23   where the Court may more concretely grapple with whether Ogdon is an adequate and 
+24   typical  representative  of  the  class  she  seeks  to  certify.  The  Court  therefore  denies 
+25   Defendants’ request to dismiss Ogdon’s class action allegations to the extent they pertain 
+26   to degree programs other than her own, but without prejudice to Defendants’ reasserting 
+27   these standing arguments at the class certification stage, if appropriate. 
+28                                                                        
+ 1          IT IS ORDERED that Defendants’ motion to dismiss (Doc. 61) is GRANTED IN 
+     PART and DENIED IN PART as explained herein. 
+3          Dated this 8th day of August, 2023. 
+4 
+5 
+                                             Ls         Ue 
+8                                               States  Dictric Judge 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+
+                                         -13- </pre>

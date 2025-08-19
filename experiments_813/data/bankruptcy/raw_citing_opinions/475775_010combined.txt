@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b1124-19">
+  CORNELIA G. KENNEDY, Circuit Judge.
+ </author>
+<p id="b1124-20">
+  The Teamsters National Freight Industry Negotiating Committee (the Teamsters Committee), a creditor of U.S. Truck Company, Inc. (U.S. Truck) — the debtor-in-possession in this Chapter 11 bankruptcy proceeding — appeals the District Court’s order confirming U.S. Truck’s Fifth Amended Plan of Reorganization. The Teamsters Committee complains that the plan does not satisfy three of the requirements of <span class="citation no-link">11 U.S.C. § 1129</span>. The District Court, which presided over the matter after the resignation of Bankruptcy Judge Stanley B. Bernstein, held that the requirements of section 1129 had been satisfied. We agree.
+ </p>
+<p id="b1124-21">
+  I
+ </p>
+<p id="b1124-22">
+  Underlying this appeal is the Teamsters Committee’s claim that U.S. Truck is liable to its employees for rejecting a collective
+  <span citation-index="1" class="star-pagination" label="583"> 
+   *583
+   </span>
+  bargaining agreement between the local union and U.S. Truck. After filing its petition for relief under Chapter 11 of the Bankruptcy Code on June 11, 1982, U.S. Truck, a trucking company primarily engaged in intrastate shipping of parts and supplies for the automotive industry, sought to reject the collective bargaining agreement. U.S. Truck rejected the agreement with the approval of then-Bankruptcy-Judge Woods, in December 1982. Judge Woods found that rejection of the agreement was “absolutely necessary to save the debtor from collapse.” Memorandum Opinion and Order, December 6, 1982, at page 8. New agreements have been negotiated to the satisfaction of each participating local union. Such agreements have been implemented over the lone dissent of the Teamsters Joint Area Rider Committee. Under the most recently mentioned agreement in the record (due to have expired in March 1985), U.S. Truck was able to record monthly profits in the range of $125,000 to $250,000. These new agreements achieved such results by reducing wages and requiring employees to buy their own trucking equipment, which the employees then leased to the company.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+</p>
+<p id="b1125-5">
+  The parties agreed to an estimate of the size of the Teamsters Committee claim against U.S. Truck so that the confirmation plan could be considered. The District Court held a hearing to consider the plan on January 23, 1985. The court considered three objections by the Teamsters Committee to the plan.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  Consideration of the objections, and the court’s treatment of them, requires an understanding of the statutory scheme for approval of a chapter 11 reorganization plan.
+ </p>
+<p id="b1125-9">
+  II
+ </p>
+<p id="b1125-10">
+  Section 1129 contains two means by which a reorganization plan can be confirmed. The first way is to meet all eleven of the requirements of subsection (a), including (a)(8) which requires all impaired classes of claims or interests
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  to accept the plan. The other way is to meet the requirements of subsection (b), which, first, incorporates all of the requirements of subsection (a), except for that contained in subsection (a)(8), and, second, imposes two additional requirements.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  Confirmation under subsection (b) is commonly referred to as a “cram down” because it permits a reorganization plan to go into effect over the objections of one or more impaired classes of creditors. In this case, U.S. Truck sought approval of its plan under this “cram down” provision.
+ </p>
+<p id="b1125-11">
+  III
+ </p>
+<p id="b1125-12">
+  The Teamsters Committee’s first objection is that the plan does not meet the requirement that at least one class of im
+  <span citation-index="1" class="star-pagination" label="584"> 
+   *584
+   </span>
+  paired claims accept the plan,
+  <em>
+   see
+  </em>
+  <span class="citation no-link">11 U.S.C. § 1129</span>(a)(10), because U.S. Truck imper-missibly gerrymandered the classes in order to neutralize the Teamsters Committee’s dissenting vote. The reorganization plan contains twelve classes. The plan purports to impair five of these classes — Class VI (the secured claim of Manufacturer’s National Bank of Detroit based on a mortgage); Class VII (the secured claim of John Graham, Trustee of Transportation Services, Inc., based on a loan); Class IX (the Teamsters Committee’s claim based on rejection of the collective bargaining agreement); Class XI (all secured claims in excess of $200.00 including those arising from the rejection of executory contracts); and Class XII (the equity interest of the stockholder
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  of the debtor). As noted above, section 1129(a)(10), as incorporated into subsection (b)(1), requires at least one of these classes of impaired claims to approve the reorganization plan before it can be confirmed. The parties agree that approval by Class XII would not count because acceptance must be determined without including the acceptance of the plan by any insider.
+  <em>
+   See
+  </em>
+  <span class="citation no-link">11 U.S.C. § 1129</span>(a)(10). The Code’s definition of “insider” clearly includes McKinlay Transport, Inc.
+  <em>
+   See
+  </em>
+  <span class="citation no-link">11 U.S.C. § 101</span>(28)(B)(iii), (30). Thus, compliance with subsection (a)(10) depends on whether either of the other three classes that approved the plan — Class VI, Class VII, or Class XI — was a properly constructed impaired class. The Teamsters Committee argues that Classes VI and VII were not truly impaired classes and that Class XI should have included Class IX, and hence was an improperly constructed class.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  Because we find that Class XI was a properly constructed class of impaired claims, we hold that the plan complies with subsection (a)(10).
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+</p>
+<p id="b1126-7">
+  The issue raised by the Teamsters Committee’s challenge is under what circumstances does the Bankruptcy Code permit a debtor to keep a creditor out of a class of impaired claims which are of a similar legal nature and are against the same property as those of the “isolated” creditor. The District Court held that the Code permits such action here because of the following circumstances: (1) the employees represented by the Teamsters Committee have a unique continued interest in the ongoing business of the debtor; (2) the mechanics of the Teamsters Committee’s claim differ substantially from those of the Class XI claims; and (3) the Teamsters Committee’s claim is likely to become part of the agenda of future collective bargaining sessions between the union and the reorganized company.
+  <em>
+   See
+  </em>
+  47 B.R. at 939-40. Thus, according to the court, the interests of the Teamsters Committee are substantially dissimilar from those of the creditors in Class XI. We must decide whether the Code permits separate classification under such circumstances.
+ </p>
+<p id="b1126-8">
+  Congress has sent mixed signals on the issue that we must decide. Our starting point is <span class="citation no-link">11 U.S.C. § 1122</span>.
+ </p>
+<p id="b1126-9">
+  § 1122. Classification of claims or interests
+ </p>
+<blockquote id="b1126-10">
+  (a) Except as provided in subsection (b) of this section, a plan may place a claim or an interest in a particular class only if such claim or interest is substantially similar to the other claims or interests of such class.
+ </blockquote>
+<blockquote id="b1126-11">
+  (b) A plan may designate a separate class of claims consisting only of every unsecured claim that is less than or reduced to an amount that the court approves as reasonable and necessary for administrative convenience.
+ </blockquote>
+<p id="b1127-3">
+<span citation-index="1" class="star-pagination" label="585"> 
+   *585
+   </span>
+  The statute, by its express language, only addresses the problem of dissimilar claims being included in the same class. It does not address the correlative problem — the one we face here — of similar claims being put in different classes. Some courts have seized upon this omission, and have held that the Code does not require a debtor to put similar claims in the same class.
+ </p>
+<blockquote id="b1127-4">
+  We think the courts erred in holding that section 1122(a) prohibits classification based on the presence of a co-debtor. Section 1122(a) specifies that only claims which are “substantially similar” may be placed in the same class. It does not require that similar claims
+  <em>
+   must
+  </em>
+  be grouped together, but merely that any group created must be homogenous.
+  <em>
+   See
+  </em>
+  5 Collier on Bankruptcy 111122.03[l][b] at 1122-6 (15th ed. 1982);
+  <em>
+   accord, In re Gay,
+  </em>
+  <span class="citation" data-id="1970688"><a href="/opinion/1970688/in-re-gay/" aria-description="Citation for case: In Re Gay">3 B.R. 336</a></span> (Bkrtcy.D.Colo.1980);
+  <em>
+   In re Kovich,
+  </em>
+  <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">4 B.R. 403</a></span> (Bkrtcy.W.D.Mich. 1980). Although some courts have held that section 1122(a) prohibits classification based on any criterion other than legal right to the debtor’s assets,
+  <em>
+   see, e.g., In re Iacovoni, 2
+  </em>
+  B.R. 256, 260-61 (Bkrtcy.D.Utah), the plain language of the statute contradicts such a construction. Moreover, section 1122(a) so interpreted would conflict with section 1322(b)(1), which specifically authorizes designation of more than one class of unsecured creditor, each presumably with equal legal rights to the debtor’s estate.
+ </blockquote>
+<p id="b1127-5">
+<em>
+   Barnes v. Whelan,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/689/193/">689 F.2d 193</a></span>, 201 (D.C. Cir.1982) (emphasis in original) (holding that Chapter 13 debtor may group his unsecured debtors according to whether or not a co-debtor is present);
+  <em>
+   see also In re Planes,
+  </em>
+  <span class="citation" data-id="1552974"><a href="/opinion/1552974/in-re-planes-inc/#701" aria-description="Citation for case: In Re Planes, Inc.">48 B.R. 698, 701</a></span> (Bkrtcy.N.D.Ga. 1985);
+  <em>
+   In re Moore,
+  </em>
+  <span class="citation" data-id="1929333"><a href="/opinion/1929333/in-re-moore/#16" aria-description="Citation for case: In Re Moore">31 B.R. 12, 16</a></span> (Bkrtcy.D.S.C.1983).
+ </p>
+<p id="b1127-6">
+  Further evidence that Congress intentionally failed to impose a requirement that similar claims be classified together is found by examining the “classification” sections of the former Bankruptcy Act. The applicable former provisions were <span class="citation no-link">11 U.S.C., sections 597</span> (from former Chapter X) and 751 (from former Chapter XI).
+ </p>
+<p id="b1127-7">
+  § 597. Classification of creditors and stockholders
+ </p>
+<blockquote id="b1127-8">
+  For the purposes of the plan and its acceptance, the judge shall fix the division of creditors and stockholders into classes according to the nature of their respective claims and stock. For the purposes of such classification, the judge shall, if necessary, upon the application of the trustee, the debtor, any creditor, or an indenture trustee, fix a hearing upon notice to the holders of secured claims, the debtor, the trustee, and such other persons as the judge may designate, to determine summarily the value of the security and classify as unsecured the amount in excess of such value.
+ </blockquote>
+<p id="A8VQ">
+  § 751. Classification of creditors
+ </p>
+<blockquote id="b1127-9">
+  For the purposes of the arrangement and its acceptance, the court may fix the division of creditors into classes and, in the event of controversy, the court shall after hearing upon notice summarily determine such controversy.
+ </blockquote>
+<p id="b1127-10">
+  Section 597 was interpreted to require all creditors of equal rank with claims against the same property to be placed in the same class.
+  <em>
+   See In re Los Angeles Land and Investments, Ltd.,
+  </em>
+  <span class="citation" data-id="1509629"><a href="/opinion/1509629/in-re-los-angeles-land-and-investments-ltd/#453" aria-description="Citation for case: In Re Los Angeles Land and Investments, Ltd.">282 F.Supp. 448, 453</a></span> (D.Hawaii 1968) (quoting
+  <em>
+   In re Scherk v. Newton,
+  </em>
+  <span class="citation" data-id="1486562"><a href="/opinion/1486562/scherk-v-newton/" aria-description="Citation for case: Scherk v. Newton">152 F.2d 747</a></span> (10th Cir.1945),
+  <em>
+   aff'd,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/447/1366/">447 F.2d 1366</a></span> (9th Cir.1971)). Congress’ switch to less restrictive language in section 1122 of the Code seems to warrant a conclusion that Congress no longer intended to impose the now-omitted requirement that similar claims be classified together.
+  <em>
+   See Matter of Huckabee Auto Co.,
+  </em>
+  <span class="citation" data-id="1934553"><a href="/opinion/1934553/matter-of-huckabee-auto-co/#137" aria-description="Citation for case: Matter of Huckabee Auto Co.">33 B.R. 132, 137</a></span> (Bkrtcy.M.D.Ga.1981). However, the legislative history indicates that Congress may not have intended to change the prior rule. The Notes of the Senate Committee on the Judiciary state:
+ </p>
+<blockquote id="b1127-11">
+  This section [1122] codifies current case law surrounding the classification of claims and equity securities. It requires classification based on the nature of the claims or interests classified, and permits inclusion of claims or interests in a particular class only if the claim or interest
+  <span citation-index="1" class="star-pagination" label="586"> 
+   *586
+   </span>
+  being included is substantially similar to the other claims or interests of the class.
+ </blockquote>
+<p id="AU5">
+  S.Rep. No. 989, 95th Cong., 2d Sess. 118,
+  <em>
+   reprinted in
+  </em>
+  1978 U.S.Code Cong. &amp; Ad. News 5787, 5904.
+ </p>
+<p id="b1128-4">
+  It is difficult to follow Congress' instruction to apply the old case law to the new Code provision. The old case law comes from two different sources. Chapter X of the old Act was designed for thorough financial reorganizations of large corporations. It imposed a very formal and rigid structure to protect the investing public. Chapter XI was designed for small nonpublic businesses, did not permit the adjustment of a secured debt or of equity, and thus contained few investor-protection measures. The idea behind Chapter 11 of the Code was to combine the speed and flexibility of Chapter XI with some of the protection and remedial tools of Chapter X.
+  <em>
+   See
+  </em>
+  H.Rep. No. 595, 95th Cong.; 1st Sess. 221-23,
+  <em>
+   reprinted in
+  </em>
+  1978 U.S.Code Cong. &amp; Ad.News 5963, 6181-83; Blair,
+  <em>
+   Classification of Unsecured Claims in Chapter 11 Reorganization,
+  </em>
+  58 Am.Bankr.L.J. 197, 223 (1984). Thus, Congress has incorporated, for purposes of interpreting section 1122, the case law from two provisions with different language, that were adopted for different purposes, and that have been interpreted to mean different things.
+ </p>
+<p id="b1128-5">
+  In this case, U.S. Truck is using its classification powers to segregate dissenting (impaired) creditors from assenting (impaired) creditors (by putting the dissenters into a class or classes by themselves) and, thus, it is assured that at least one class of impaired creditors will vote for the plan and make it eligible for cram down consideration by the court. We agree with the Teamsters Committee that there must be some limit on a debtor’s power to classify creditors in such a manner. The potential for abuse would be significant otherwise. Unless there is some requirement of keeping similar claims together, nothing would stand in the way of a debtor seeking out a few impaired' creditors (or even one such creditor) who will vote for the plan and placing them in their own class.
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+</p>
+<p id="b1128-10">
+  We are unaware of any cases that deal with this problem as it arises in this case.
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+  As we noted above, the legislative history of the Code provides little assistance in determining what limits there are to segregating similar claims. Nevertheless, we do find one common theme in the prior case law that Congress incorporated into section 1122. In those pre-Code cases, the lower courts were given broad discretion to determine proper classification according to the factual circumstances of each individual case.
+  <em>
+   See
+  </em>
+  Anderson,
+  <em>
+   Classification of Claims and Interests in Reorganization Cases Under the New Bankruptcy Code,
+  </em>
+  58 Am.Bankr.L.J. 99, 107 (1984); Blair,
+  <em>
+   supra,
+  </em>
+  at 212. We also find some guidance in two cases that considered the need to adjust the classification of creditors to account for differing postures and interests.
+ </p>
+<p id="b1128-11">
+  In
+  <em>
+   First Nat’l Bank of Herkimer v. Poland Union,
+  </em>
+  <span class="citation" data-id="1500608"><a href="/opinion/1500608/first-nat-bank-of-herkimer-v-poland-union/" aria-description="Citation for case: First Nat. Bank of Herkimer v. Poland Union">109 F.2d 54</a></span> (2d Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./309/682/">309 U.S. 682</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./60/723/">60 S.Ct. 723</a></span>, <span class="citation" data-id="8155361"><a href="/opinion/8193426/poland-union-v-first-national-bank-of-herkimer/" aria-description="Citation for case: Poland Union v. First National Bank of Herkimer">84 L.Ed. 1026</a></span> (1940), two of the largest accepting creditors of a reorganization plan were also shareholders who stood to profit from a provision in the plan releasing their disputed liability to the debtor. The Second Circuit affirmed the lower court’s denial of
+  <span citation-index="1" class="star-pagination" label="587"> 
+   *587
+   </span>
+  confirmation, because it concluded that a lower court lacks the power to do what the plan required it to do — restrain suits against shareholders. The court also noted, “In such circumstances, it may be doubtful whether [the shareholders/creditors] should be permitted to vote in the same class with other creditors not so intimately connected with the enterprise.”
+  <em>
+   <span class="citation" data-id="1500608"><a href="/opinion/1500608/first-nat-bank-of-herkimer-v-poland-union/" aria-description="Citation for case: First Nat. Bank of Herkimer v. Poland Union">Id.,</a></span>
+  </em>
+  <span class="citation" data-id="1500608"><a href="/opinion/1500608/first-nat-bank-of-herkimer-v-poland-union/#55" aria-description="Citation for case: First Nat. Bank of Herkimer v. Poland Union">109 F.2d at 55</a></span>.
+ </p>
+<p id="b1129-5">
+  In
+  <em>
+   American United Mut. Life Ins. Co. v. City of Avon Park,
+  </em>
+  <span class="citation" data-id="103393"><a href="/opinion/103393/american-united-mutual-life-insurance-v-city-of-avon-park/" aria-description="Citation for case: American United Mutual Life Insurance v. City of Avon Park">311 U.S. 138</a></span>, <span class="citation" data-id="103393"><a href="/opinion/103393/american-united-mutual-life-insurance-v-city-of-avon-park/" aria-description="Citation for case: American United Mutual Life Insurance v. City of Avon Park">61 S.Ct. 157</a></span>, <span class="citation" data-id="103393"><a href="/opinion/103393/american-united-mutual-life-insurance-v-city-of-avon-park/" aria-description="Citation for case: American United Mutual Life Insurance v. City of Avon Park">85 L.Ed. 91</a></span> (1940), the city’s fiscal agent — who administered the reorganization — held claims on which he would enjoy significant profit from the plan. The Court refused confirmation because it was not clear that when the agent solicited the necessary votes from bondholders he had disclosed his interest. The Court noted that where investigation discloses “unfair dealing, a breach of fiduciary obligations, profiting from a trust, special benefits for the reorganizers, or the need for the protection of investors against an inside few, or of one class of investors from the encroachments of another, the court has ample power to adjust the remedy to meet the need.”
+  <em>
+   <span class="citation" data-id="103393"><a href="/opinion/103393/american-united-mutual-life-insurance-v-city-of-avon-park/" aria-description="Citation for case: American United Mutual Life Insurance v. City of Avon Park">Id.,</a></span>
+  </em>
+  <span class="citation" data-id="103393"><a href="/opinion/103393/american-united-mutual-life-insurance-v-city-of-avon-park/#146" aria-description="Citation for case: American United Mutual Life Insurance v. City of Avon Park">311 U.S. at 146</a></span>, <span class="citation" data-id="103393"><a href="/opinion/103393/american-united-mutual-life-insurance-v-city-of-avon-park/#162" aria-description="Citation for case: American United Mutual Life Insurance v. City of Avon Park">61 S.Ct. at 162</a></span>. One remedy the Court mentioned was “the separate classification of claimants.”
+  <em>
+   <span class="citation" data-id="103393"><a href="/opinion/103393/american-united-mutual-life-insurance-v-city-of-avon-park/" aria-description="Citation for case: American United Mutual Life Insurance v. City of Avon Park">Id.</a></span>
+  </em>
+  (citing
+  <em>
+   Poland Union).
+  </em>
+</p>
+<p id="b1129-6">
+  We find that the rationale of these two cases applies here. The District Court noted three important ways in which the interests of the Teamsters Committee differ substantially from those of the other impaired creditors. Because of these differences, the Teamsters Committee has a different stake in the future viability of the reorganized company and has alternative means at its disposal for protecting its claim. The Teamsters Committee’s claim is connected with the collective bargaining process. In the words of the Committee’s counsel, the union employees have a “virtually unique interest.”
+  <em>
+   See
+  </em>
+  47 B.R. at 939. These differences put the Teamsters Committee’s claim in a different posture than the Class XI claims. The Teamsters Committee may choose to reject the plan not because the plan is less than optimal to it as a creditor, but because the Teamsters Committee has a noncreditor
+  <em>
+   interest
+  </em>
+  — e.g., rejection will benefit its members in the ongoing employment relationship. Although the Teamsters Committee certainly is not intimately connected with the debtor, to allow the Committee to vote with the other impaired creditors would be to allow it to prevent a court from considering confirmation of a plan that a significant group of creditors with similar interests have accepted. Permitting separate classification of the Teamsters Committee’s claim does not automatically result in adoption of the plan. The Teamsters Committee is still protected by the provisions of subsections (a) and (b), particularly the requirements of subsection (b) that the plan not discriminate unfairly and that it be fair and equitable with respect to the Teamsters Committee’s claim. In fact, the Teamsters Committee invokes those requirements, but as we note in the following sections, the plan does not violate them.
+ </p>
+<p id="b1129-8">
+  IV
+ </p>
+<p id="b1129-9">
+  The Teamsters Committee’s second objection is that the plan is not fair and equitable. This objection focuses on the provision of the plan that allows McKinlay Transport, Inc. to purchase all 100,000 shares of common stock from U.S. Truck for $100,000. The Teamsters Committee notes that McKinlay currently owns all of the existing common stock in U.S. Truck, and thus the plan impermissibly permits an equity security holder (whose interest is junior to other creditors) to retain its ownership interest in the reorganized company. Section 1129(b) states:
+ </p>
+<blockquote id="b1129-10">
+  (2) For the purpose of this subsection, the condition that a plan be fair and equitable with respect to a class includes the following requirements:
+ </blockquote>
+<blockquote id="b1129-11">
+  (B) With respect to a class of unsecured claims—
+ </blockquote>
+<blockquote id="b1129-12">
+  (i) the plan provides that each holdei of a claim of such class receive or retain on account of such claim proper
+  <span citation-index="1" class="star-pagination" label="588"> 
+   *588
+   </span>
+  ty of a value, as of the effective date of the plan, equal to the allowed amount of the claim; or
+ </blockquote>
+<blockquote id="AH5Bx">
+  (ii) the holder of any claim or interest that is junior to the claims of such class will not receive or retain under the plan on account of such junior claim or interest any property.
+ </blockquote>
+<p id="b1130-4">
+  The parties agree.that subsection (B)(i) is not satisfied, and thus the issue is whether the Plan satisfies (B)(ii).
+ </p>
+<p id="b1130-5">
+  If McKinlay were retaining an interest without contributing any capital, the plan would clearly violate the Code.
+  <em>
+   See In re Genesee Cement, Inc.,
+  </em>
+  <span class="citation" data-id="1930281"><a href="/opinion/1930281/in-re-genesee-cement-inc/#443" aria-description="Citation for case: In Re Genesee Cement, Inc.">31 B.R. 442, 443</a></span> (Bkrtcy.E.D.Mich.1983). But McKinlay is giving up its prior interest and participating in the reorganized company by making a $100,000 contribution. The question, put in terms of the Code’s language, is whether McKinlay is receiving its interest in the reorganized company “on account of” its junior claim. This involves looking at the need for the contribution and whether McKinlay paid a fair price for its interest.
+ </p>
+<p id="b1130-6">
+  In
+  <em>
+   Case v. Los Angeles Lumber Prods. Co.,
+  </em>
+  <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">308 U.S. 106</a></span>, <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">60 S.Ct. 1</a></span>, <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">84 L.Ed. 110</a></span>,
+  <em>
+   reh’g denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./308/637/">308 U.S. 637</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./60/258/">60 S.Ct. 258</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed./84/529/">84 L.Ed. 529</a></span> (1939), the Court validated stockholder participation in a plan of reorganization of an insolvent debtor.
+ </p>
+<blockquote id="AVgg">
+  Especially in
+  <em>
+   [Kansas City Terminal Ry. v. Central Union Trust Co.,
+  </em>
+  <span class="citation" data-id="100898"><a href="/opinion/100898/kansas-city-terminal-railway-co-v-central-union-trust-co/" aria-description="Citation for case: Kansas City Terminal Railway Co. v. Central Union Trust Co.">271 U.S. 445</a></span>, <span class="citation" data-id="100898"><a href="/opinion/100898/kansas-city-terminal-railway-co-v-central-union-trust-co/" aria-description="Citation for case: Kansas City Terminal Railway Co. v. Central Union Trust Co.">46 S.Ct. 549</a></span>, <span class="citation" data-id="100898"><a href="/opinion/100898/kansas-city-terminal-railway-co-v-central-union-trust-co/" aria-description="Citation for case: Kansas City Terminal Railway Co. v. Central Union Trust Co.">70 L.Ed. 1028</a></span> (1926),] did this Court stress the necessity, at times, of seeking new money “essential to the success of the undertaking” from the old stockholders. Where that necessity exists and the old stockholders make a fresh contribution and receive in return a participation reasonably equivalent to their contribution, no objection can be made.
+ </blockquote>
+<p id="b1130-7">
+<em>
+   <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">Id.,</a></span>
+  </em>
+  <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/#121" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">308 U.S. at 121</a></span>, 60 S.Ct. at 10. Applying the Supreme Court’s standard to this case, we must decide whether the District Court was clearly erroneous in its findings supporting its conclusion that the contribution was substantial and “essential.”
+ </p>
+<p id="b1130-10">
+  The relevant evidence on this issue is set forth in the District Court’s opinion. 47 B.R. at 942-43. The Teamsters Committee argues that $100,000 cannot possibly be essential or substantial when the debtor is reporting monthly profits of over $100,000. Considered alone, the monthly profit statistics make a strong argument for the Teamsters Committee’s position. However, the District Court relied on other probative evidence that minimizes the relevance of those statistics. Significantly, the Teamsters Committee presented no independent evidence to support its objection. It relied solely on its ability to cross-examine U.S. Truck’s witnesses.
+ </p>
+<p id="b1130-11">
+  The District Court heard testimony that investment in the reorganized company would be a risky proposition. There was no labor stability in light of the imminent expiration of a collective bargaining agreement that had been negotiated shortly after U.S. Truck filed for. bankruptcy. As the Teamsters Committee points out, the then-current agreement was acceptable to the employees only because of the dire circumstances. Furthermore, the Teamsters Committee’s own claim against the debtor is a substantial one and has not been resolved. The debtor’s expert witness, Van Conway, testified that U.S. Truck was in a risky industry and that the other problems unique to it rendered income figures unreliable. Conway concluded that in light of all the facts, the contribution, was essential.
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+  Again, the Teamsters Committee offered no refuting evidence. Under such circumstances, we conclude that the District Court’s findings were not clearly erroneous.
+ </p>
+<p id="b1130-12">
+  V
+ </p>
+<p id="b1130-13">
+  The Teamsters Committee’s final objection is that the plan does not satisfy sub
+  <span citation-index="1" class="star-pagination" label="589"> 
+   *589
+   </span>
+  section 1129(a)(ll). That subsection states that the confirmation is permitted only if it is “not likely to be followed by the liquidation, or the need for further financial reorganization, of the debtor or any successor to the debtor under the plan....”
+  <a class="footnote" href="#fn11" id="fn11_ref">
+   11
+  </a>
+  The Teamsters Committee contends that because the debtor is under the control of a competitor, and will continue to be under such control as a reorganized company, the District Court erred in finding that it is not likely that the company will be liquidated.
+ </p>
+<p id="b1131-5">
+  The lines of corporate control indicate that U.S. Truck was, and will be, in the hands of a competing company. Agnes Anne Moroun will have sole ownership of the reorganized company.
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+  Moroun also holds 15% of the outstanding stock of Cen-Tra, Incorporated,
+  <a class="footnote" href="#fn13" id="fn13_ref">
+   13
+  </a>
+  which in turn owns all the outstanding stock of Central Transport Company, Central Cartage and GLS Leas-co.
+  <a class="footnote" href="#fn14" id="fn14_ref">
+   14
+  </a>
+  McKinlay acquired all of the stock of U.S. Truck immediately after U.S. Truck filed its Chapter 11 petition. Since then, U.S. Truck has vacated its terminals and relocated its freight operations to terminals owned by the Central Group. The Central Group has also leased new trailers, tractors and high-lows to U.S. Truck. The Teamsters Committee complains that the Central Group can divert U.S. Truck business to itself and thus leave the reorganized company high and dry. The Teamsters Committee also noted that U.S. Truck’s leases with the Central Group were oral and of unfixed duration, exposing the reorganized company to the risk that its favorable lease terms could be cancelled on a whim.
+ </p>
+<p id="b1131-6">
+  In light of the evidence available to the District Court, we conclude that the court’s finding that the reorganized company is unlikely to liquidate is not clearly erroneous. The following factors are relevant to such a finding: (1) the adequacy of the capital structure; (2) the earning power of the business; (3) economic conditions; (4) the ability of management; (5) the probability of the continuation of the same management; and (6) any other related matter which determines the prospects of a sufficiently successful operation to enable performance of the provisions of the plan.
+  <em>
+   See In re Landmark at Plaza Park, Ltd.,
+  </em>
+  <span class="citation" data-id="1992123"><a href="/opinion/1992123/matter-of-landmark-at-plaza-park-ltd/#659" aria-description="Citation for case: Matter of Landmark at Plaza Park, Ltd.">7 B.R. 653, 659</a></span> (Bkrtcy.D.N.J.1980). Neither party presented evidence or argument about the adequacy of the capital structure, although the Teamsters Committee has noted that U.S. Truck has resorted primarily to leasing of its equipment and machinery. The earning power, as discussed earlier, is a poor indicator of feasibility in this case. Management’s ability has not been impugned, except in connection with the Teamsters Committee’s argument that the Central Group will exert its control to the detriment of the reorganized company.
+ </p>
+<p id="b1131-10">
+  This case is largely controlled by “other related matter[s].” For example, the Teamsters Committee complained about the unwritten leases. However, that concern was rendered meritless when many of the leases were put into writing and fixed at three to five year terms. The Teamsters Committee has made no showing that there are other unwritten leases that continue to pose the alleged threat.
+ </p>
+<p id="b1131-11">
+  The next matter is the labor contracts. Although, as noted before, the reorganized company cannot count on the level of concessions it gained originally, labor has indicated a sincere willingness to cooperate and to ensure continued viability. It also should be noted that the Teamsters Committee and the union members as a whole—
+  <em>
+   i.e.,
+  </em>
+  the ones who have the greatest interest in preservation of the Class IX claim (among other claims) — have a significant
+  <span citation-index="1" class="star-pagination" label="590"> 
+   *590
+   </span>
+  role in the feasiblity of the plan. If they are truly concerned about feasibility, they are also able to help achieve it.
+ </p>
+<p id="b1132-4">
+  This leaves us with the question whether the Central Group will divert. business. The District Court found no evidence that this would happen. The Teamsters Committee has failed to offer a compelling reason to believe that the Central Group, which profits from U.S. Truck’s operations, would be motivated to shift that business around.
+ </p>
+<p id="b1132-5">
+  The District Court noted that there is an inherent tension in determining that a capital contribution by current shareholders is necessary (because of the precarious position of the reorganized company) and then determining that that plan is not likely to fail. In the context of this case, that tension is resolved by the court’s finding that the capital contribution is both necessary and sufficient to make the plan work. Neither that finding, nor any one of those mentioned above, is clearly erroneous.
+ </p>
+<p id="b1132-6">
+  The District Court’s judgment is affirmed.
+ </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b1125-6">
+   . This is referred to by the parties as the owner/operator system.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b1125-7">
+   . The District Court noted that objections to the plan were due on January 18, 1985, and that the Teamsters Committee’s objections were received that day by the Bankruptcy Clerk in the form of a telegram from the Teamsters Committee "which cursorily asserted two grounds for its objection to confirmation.” <span class="citation" data-id="1951678"><a href="/opinion/1951678/matter-of-us-truck-co-inc/#935" aria-description="Citation for case: Matter of US Truck Co., Inc.">47 B.R. 932, 935</a></span> (E.D.Mich.1985). The court noted that the telegram inadequately expressed the Committee’s position and that the Committee’s arguments were not properly presented until it delivered a supplemental brief three hours before the confirmation hearing was scheduled.
+   <em>
+    <span class="citation" data-id="1951678"><a href="/opinion/1951678/matter-of-us-truck-co-inc/" aria-description="Citation for case: Matter of US Truck Co., Inc.">Id.</a></span>
+   </em>
+   The court stated that such conduct, combined with the Committee's failure to present evidence at the confirmation hearing, permitted the inference that the objection was interposed for purposes of delay and tactical advantage.
+   <em>
+    <span class="citation" data-id="1951678"><a href="/opinion/1951678/matter-of-us-truck-co-inc/" aria-description="Citation for case: Matter of US Truck Co., Inc.">Id.,</a></span>
+   </em>
+   <span class="citation" data-id="1951678"><a href="/opinion/1951678/matter-of-us-truck-co-inc/" aria-description="Citation for case: Matter of US Truck Co., Inc.">47 B.R. at 935</a></span> n. 8. Nevertheless, the court went on to consider the merits of the Committee’s objections.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b1125-14">
+   . The Code defines impairment of claims or interests in <span class="citation no-link">11 U.S.C. § 1124</span>. As the District Court noted, generally speaking a creditor’s claim or interest is impaired if the plan fails to restore the creditor to its pre-petition position.
+   <em>
+    See
+   </em>
+   <span class="citation" data-id="1951678"><a href="/opinion/1951678/matter-of-us-truck-co-inc/" aria-description="Citation for case: Matter of US Truck Co., Inc.">47 B.R. at 940</a></span> n. 23.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b1125-15">
+   . Subsection (b)(1) reads:
+  </p>
+<blockquote id="b1125-16">
+   Notwithstanding section 510(a) of this title, if all of the applicable requirements of subsection (a) of this section other than paragraph (8) are met with respect to a plan, the court, on request of the proponent of the plan, shall confirm the plan notwithstanding the requirements of such paragraph if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan.
+  </blockquote>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b1126-4">
+   . At the time of the proposed reorganization, all of the stock of U.S. Truck was owned by McKin-lay Transport, Inc.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b1126-5">
+   . Had the debtor included the Teamsters Committee’s claim in Class XI, the Committee's vote to reject the plan would have swung the results of the Class XI vote from an acceptance to a rejection.
+   <em>
+    See
+   </em>
+   <span class="citation no-link">11 U.S.C. § 1126</span>(c) (setting forth the requirement that creditors holding at least two-thirds in
+   <em>
+    amount
+   </em>
+   of allowed claims of a class accept).
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b1126-13">
+   .For this reason, we need not decide the challenge to the status of Class VI and Class VII.
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b1128-6">
+   . We need not speculate in this case whether the purpose of separate classification was to line up the votes in favor of the plan. The debtor admitted that to the District Court.
+   <em>
+    See
+   </em>
+   Debtor’s Response to Objections to Confirmation Filed by the Teamsters National Freight Negotiating Committee, at 6 (Jan. 23, 1985).
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b1128-7">
+   . In those cases where the courts have held that, as a general rule, similar claims need not be classified together, the debtor had not created the separate classes for the purpose of assuring acceptance,
+   <em>
+    see, e.g., Planes,
+   </em>
+   <span class="citation" data-id="1552974"><a href="/opinion/1552974/in-re-planes-inc/#701" aria-description="Citation for case: In Re Planes, Inc.">48 B.R. at 701</a></span>, and the allegedly similar claims were treated differently under the plan,
+   <em>
+    see <span class="citation" data-id="1552974"><a href="/opinion/1552974/in-re-planes-inc/" aria-description="Citation for case: In Re Planes, Inc.">id.</a></span>
+   </em>
+   In those cases where the courts have held that similar claims must be classified together, they have often faced problems of discriminatory treatment,
+   <em>
+    see, e.g., In re Pine Lake Village Apartment Co.,
+   </em>
+   <span class="citation" data-id="1956417"><a href="/opinion/1956417/in-re-pine-lake-village-apartment-co/#831" aria-description="Citation for case: In Re Pine Lake Village Apartment Co.">19 B.R. 819, 831</a></span> (Bkrtcy.S.D.N.Y.),
+   <em>
+    reh’g denied,
+   </em>
+   <span class="citation" data-id="1994100"><a href="/opinion/1994100/in-re-pine-lake-village-apartment-co/" aria-description="Citation for case: In Re Pine Lake Village Apartment Co.">21 B.R. 478</a></span> (1982), and they have not had occasion to decide whether claims of the sort in this case
+   <em>
+    are
+   </em>
+   substantially similar,
+   <em>
+    see, e.g., In re Fantastic Homes Enterprises, Inc.,
+   </em>
+   <span class="citation" data-id="1968836"><a href="/opinion/1968836/in-re-fantastic-homes-enterprises-inc/#1000" aria-description="Citation for case: In Re Fantastic Homes Enterprises, Inc.">44 B.R. 999, 1000</a></span> (M.D.Fla.1984).
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b1130-8">
+   . Conway had testified that the contribution was important, but not crucial. The Teamsters Committee seized upon this distinction. The District Court found that to attempt to distinguish between “important" and "crucial" is to engage in hairsplitting. The court concluded upon all of the evidence that the contribution was essential to the debtor's future success. <span class="citation" data-id="1951678"><a href="/opinion/1951678/matter-of-us-truck-co-inc/" aria-description="Citation for case: Matter of US Truck Co., Inc.">47 B.R. at 943</a></span> n. 32.
+  </p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b1131-7">
+   . The subsection provides an exception where liquidation or reorganization is proposed in the plan. That exception does not apply in this case.
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="b1131-8">
+   . McKinlay Transport, which will purchase all of the common stock of the reorganized company, is a wholly-owned subsidiary of Flanvi Corporation. Moroun is the sole shareholder of Flanvi.
+  </p>
+</div><div class="footnote" id="fn13" label="13">
+<a class="footnote" href="#fn13_ref">
+   13
+  </a>
+<p id="b1131-14">
+   . Holdings by her family exceed 50%.
+  </p>
+</div><div class="footnote" id="fn14" label="14">
+<a class="footnote" href="#fn14_ref">
+   14
+  </a>
+<p id="b1131-15">
+   . Central Transport, Central Cartage and GLS Leasco are known collectively as the Central Group.
+  </p>
+</div></div></opinion>

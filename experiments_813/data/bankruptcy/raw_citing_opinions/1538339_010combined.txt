@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b674-19">
+  MEMORANDUM ON CONFIRMATION OF CHAPTER 13 PLAN
+ </p>
+<author id="b674-20">
+  RICHARD S. STAIR, JR., Bankruptcy Judge.
+ </author>
+<p id="b674-21">
+  At issue is whether the “Debtors’ Amended Plan” proposing payment of four secured claims and zero payment for unsecured claims is entitled to confirmation. <span class="citation no-link">11 U.S.C.A. § 1325</span> (West 1979 &amp; Supp.1986). Holding both a secured and an unsecured claim, Ford Motor Credit Company (FMCC) contends the debtors’ plan is not proposed in good faith and objects to confirmation. Asserting their amended plan represents their best effort, the debtors maintain it is filed in good faith.
+ </p>
+<p id="b674-22">
+  I
+ </p>
+<p id="b674-23">
+  On September 19, 1986, the debtors, Steven and Dorothy Lattimore, filed their Chapter 13 petition. They scheduled the following secured debts totaling $37,621.56:
+ </p>
+<blockquote id="b674-24">
+  Creditor Collateral Amount of Claim Market Value of Collateral
+ </blockquote>
+<blockquote id="A8cK">
+  Nat’l Mtg. Co. marital residence $21,752.02 $24,000.00
+ </blockquote>
+<blockquote id="AoIX">
+  FMCC 1985 Ford Tempo 9,241.95 5,500.00
+ </blockquote>
+<blockquote id="AdH">
+  K-25 al Union Feder-Credit 1983 Honda motorcycle 1,208.75 1,208.75
+ </blockquote>
+<blockquote id="AHO">
+  K-25 al Union Feder-Credit boat, motor and trailer 5,418.84 5,418.84
+ </blockquote>
+<p id="b675-3">
+<span citation-index="1" class="star-pagination" label="623"> 
+   *623
+   </span>
+  The debtors also originally scheduled seven unsecured creditors with debts totaling $3,696.17.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  (Combined with the $3,741.95 unsecured portion of the claim of FMCC, total unsecured claims against the debtors exceed $6,700.00.)
+ </p>
+<p id="b675-4">
+  Mr. Lattimore is a security inspector for Martin Marietta in Oak Ridge, Tennessee. Mrs. Lattimore is not employed. According to their Chapter 13 Statement, Mr. Lat-timore’s monthly take-home pay is $1,436.00. The debtors’ estimated average future monthly expenses total $1,248.00, leaving them a monthly surplus of $188.00.
+ </p>
+<p id="b675-5">
+  Pursuant to their amended plan, filed December 4, 1986, the debtors propose monthly payments of $214.00, an amount exceeding their current monthly surplus, for fifty-nine (59) months, plus $52.62 for one month, a total of $12,678.62.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  Specifically, the debtors propose: (1) to satisfy the $1,730.16 arrearage on their home mortgage through sixty (60) equal monthly installments;
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  (2) to pay FMCC $5,500.00, the present value of its security, plus ten (10) percent interest in fifty-eight (58) monthly installments of $120.43 each plus one payment in the amount of $26.54, for a total of $7,011.48; (3) to retain their 1983 Honda motorcycle and pay $28.22 monthly for sixty (60) months ($1,693.20)
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  to K-25 Federal Credit Union; (4) to pay $900.00 to Landmark Financial Services through sixty (60) monthly installments of $15.00;
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  and (5) to surrender their boat, motor and trailer to K-25 Federal Credit Union in satisfaction of that creditor’s $5,418.84 secured claim. Zero payment is proposed for creditors holding unsecured claims.
+ </p>
+<p id="b675-6">
+  II
+ </p>
+<p id="b675-7">
+  Section 1325 of Title 11 of the United States Code enacts in part:
+ </p>
+<blockquote id="b675-8">
+<em>
+   Confirmation of plan
+  </em>
+</blockquote>
+<blockquote id="A1a">
+  (a) Except as provided in subsection (b), the court shall confirm a plan if—
+ </blockquote>
+<blockquote id="b675-9">
+  (1) the plan complies with the provisions of this chapter and with the other applicable provisions of this title;
+ </blockquote>
+<blockquote id="b675-10">
+  (2) any fee, charge, or amount required under chapter 123 of title 28, or by the plan, to be paid before confirmation, has been paid;
+ </blockquote>
+<blockquote id="b675-11">
+  (3) the plan has been proposed in good faith and not by any means forbidden by law;
+ </blockquote>
+<blockquote id="b675-12">
+  (4) the value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under chapter 7 of this title on such date;
+ </blockquote>
+<blockquote id="b675-13">
+  (5) with respect to each allowed secured claim provided for by the plan—
+ </blockquote>
+<blockquote id="b675-14">
+  (A) the holder of such claim has accepted the plan;
+ </blockquote>
+<blockquote id="b675-15">
+  (B)(i) the plan provides that the holder of such claim retain the lien securing such claim; and
+ </blockquote>
+<blockquote id="b675-16">
+  (ii) the value, as of the effective date of the plan, of property to be distributed under the plan on account of such claim is not less than the allowed amount of such claim; or
+ </blockquote>
+<blockquote id="b675-17">
+  (C) the debtor surrenders the property securing such claim to such holder; and
+ </blockquote>
+<blockquote id="b676-3">
+<span citation-index="1" class="star-pagination" label="624"> 
+   *624
+   </span>
+  (6) the debtor will be able to make all payments under the plan and to comply with the plan.
+ </blockquote>
+<blockquote id="b676-4">
+  (b)(1) If the trustee or the holder of an allowed unsecured claim objects to the confirmation of the plan, then the court may not approve the plan unless, as of the effective date of the plan—
+ </blockquote>
+<blockquote id="b676-5">
+  (A) the value of the property to be distributed under the plan on account of such claim is not less than the amount of such claim; or
+ </blockquote>
+<blockquote id="b676-6">
+  (B) the plan provides that all of the debtor’s projected disposable income to be received in the three-year period beginning on the date that the first payment is due under the plan will be applied to make payments under the plan.
+ </blockquote>
+<blockquote id="b676-7">
+  (2) For purposes of this subsection, ‘disposable income’ means income which is received by the debtor and which is not reasonably necessary to be expended—
+ </blockquote>
+<blockquote id="b676-8">
+  (A) for the maintenance or support of the debtor or a dependent of the debtor; or
+ </blockquote>
+<blockquote id="b676-9">
+  (B) if the debtor is engaged in business, for the payment of expenditures necessary for the continuation, preservation, and operation of such business.
+ </blockquote>
+<p id="b676-10">
+  <span class="citation no-link">11 U.S.C.A. § 1325</span>(a) and (b) (West 1979 &amp; Supp. 1986).
+ </p>
+<p id="b676-11">
+  Subsection (b) of § 1325 was added by the Bankruptcy Amendments and Federal Judgeship Act of 1984, Pub.L.No. 98-353, <span class="citation no-link">98 Stat. 333</span> (1984). Prior to the 1984 amendment of § 1325, several circuit courts of appeal considered the issue whether substantial or meaningful repayments to unsecured creditors were necessary to satisfy the good faith requirement of § 1325(a)(3). See
+  <em>
+   In re Hines,
+  </em>
+  <span class="citation" data-id="428546"><a href="/opinion/428546/in-re-william-j-hines-and-patricia-hines-debtors-appeal-of-commonwealth/" aria-description="Citation for case: In Re William J. Hines and Patricia Hines, Debtors....">723 F.2d 333</a></span> (3rd Cir.1983) (proposed nominal repayment to unsecured creditors does not violate § 1325(a)(3) good faith standard);
+  <em>
+   Public Fin. Corp. v. Freeman,
+  </em>
+  <span class="citation" data-id="421736"><a href="/opinion/421736/public-finance-corporation-v-eddie-and-angela-freeman/#221" aria-description="Citation for case: Public Finance Corporation v. Eddie and Angela Freeman">712 F.2d 219, 221</a></span> (5th Cir.1983) (substantial repayment of unsecured claims not necessary to establish good faith, which must be determined in view of totality of circumstances of any given plan);
+  <em>
+   Flygare v. Boulden,
+  </em>
+  <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">709 F.2d 1344</a></span> (10th Cir.1983) (numerous factors must be considered to determine whether plan proposed in good faith);
+  <em>
+   Kitchens v. Georgia R.R. Bank and Trust,
+  </em>
+  <span class="citation" data-id="415578"><a href="/opinion/415578/in-re-charles-e-kitchens-and-olivia-l-kitchens-bankrupt-charles-e/#889" aria-description="Citation for case: In Re Charles E. Kitchens and Olivia L. Kitchens,...">702 F.2d 885, 889</a></span> (11th Cir.1983) (noted that exceptional circumstances may support finding of good faith even where a debtor has proposed no or only nominal payment to unsecured creditors);
+  <em>
+   United States v. Estus,
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/#316" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d 311, 316</a></span> (8th Cir.1982) (per se minimum payment requirement to unsecured creditors as an element of good faith infringes on flexibility of Chapter 13 and is not warranted);
+  <em>
+   Deans v. O’Donnell,
+  </em>
+  <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/#972" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">692 F.2d 968, 972</a></span> (4th Cir.1982) (amount of proposed payment to unsecured creditors is but one factor to consider in determining whether good faith requirement is met);
+  <em>
+   Barnes v. Whelan,
+  </em>
+  <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/#200" aria-description="Citation for case: Barnes v. Whelan">689 F.2d 193, 200</a></span> (D.C.Cir.1982) (adhering to traditional meaning of good faith as honesty of intention, § 1325(a)(3) does not prohibit nominal payment plan);
+  <em>
+   Goeb v. Heid,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1390" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386, 1390</a></span> (9th Cir.1982) (in determining good faith, proper inquiry is whether debtors are acting equitably in proposing their plan); and
+  <em>
+   Ravenot v. Rimgale,
+  </em>
+  <span class="citation" data-id="8914615"><a href="/opinion/8925138/ravenot-v-rimgale/#431" aria-description="Citation for case: Ravenot v. Rimgale">669 F.2d 426, 431</a></span> (7th Cir.1982) (disagree that Congress intended confirmation to be routine where § 1325(a)(4) “best interests” test satisfied).
+ </p>
+<p id="b676-14">
+  In
+  <em>
+   Tenney v. Terry,
+  </em>
+  <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">630 F.2d 634</a></span> (8th Cir.1980), the Chapter 13 debtors’ monthly expenses exceeded their income. All of their creditors were unsecured, and all of their property was exempt. Thus, there would be no dividend to creditors if the case were one under Chapter 7. The debtors’ plan proposed no payment whatsoever to creditors. Reasoning that the debtors’ income was sufficient to make the proposed “payments” since no payments were required, the bankruptcy court confirmed the debtors’ zero payment plan. Reversing, the court of appeals observed that the Bankruptcy Code’s definition of “individual with regular income”
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  contemplates pay
+  <span citation-index="1" class="star-pagination" label="625"> 
+   *625
+   </span>
+  ments by a Chapter 13 debtor. Because the debtors did not have excess income to make payments they were ineligible for Chapter 13 relief. The court further held that a zero payment Chapter 13 plan lacks good faith.
+ </p>
+<p id="b677-4">
+  The debtors contend their case is materially distinguished from
+  <em>
+   In re Terry
+  </em>
+  because they do propose to make payments. They insist their amended plan is their best effort and thus necessarily satisfies the good faith standard.
+ </p>
+<p id="b677-5">
+  The legislative history accompanying the Bankruptcy Reform Act of 1978, Pub.L.No. 95-598, <span class="citation no-link">92 Stat. 2549</span> (1978), recites in material part:
+ </p>
+<blockquote id="b677-6">
+  The purpose of chapter 13 is to enable an individual, under court supervision and protection, to develop and perform under a plan for the repayment of his debts over an extended period.
+  <em>
+   In some cases, the plan will call for full repayment In others, it may offer creditors a percentage of their claims in full settlement.
+  </em>
+  During the repayment period, creditors may not harass the debtor or seek to collect their debts. They must receive payments only under the plan. This protection relieves the debtor from indirect and direct pressures from creditors, and enables him to support himself and his dependents while repaying his creditors at the same time.
+ </blockquote>
+<blockquote id="b677-7">
+  The benefit to the debtor of developing a plan of repayment under chapter 13, rather than opting for liquidation under chapter 7, is that it permits the debtor to protect his assets. In a liquidation case, the debtor must surrender his nonexempt assets for liquidation and sale by the trustee.
+  <em>
+   Under chapter IS, the debtor may retain his property by agreeing to repay his creditors.
+  </em>
+  Chapter 13 also protects a debtor’s credit standing far better than a straight bankruptcy, because he is viewed by the credit industry as a better risk. In addition, it satisfies many debtors’ desire to avoid the stigma attached to straight bankruptcy and to retain the pride attendant on being able to meet one’s obligations. The benefit to creditors is self-evident: their losses will be significantly less than if their debtors opt for straight bankruptcy.
+ </blockquote>
+<p id="b677-10">
+  H.R.Rep. No. 595, 95th Cong., 1st Sess. 118,
+  <em>
+   reprinted in
+  </em>
+  1978 U.S. Code Cong. &amp; Admin. News 5787, 5963, 6079 (emphasis added).
+ </p>
+<p id="b677-11">
+  The accompanying Senate report recites: “It [the hardship discharge limitation of § 727(a)(9)] is also necessary to prevent chapter 13 plans from turning into mere offers of composition plans under which payments would equal only the non-exempt assets of the debtor.” S.Rep.No. 989, 95th Cong., 2d Sess. 12,
+  <em>
+   reprinted in
+  </em>
+  1978 U.S. Code Cong. &amp; Admin. News 5787, 5799. The same Senate report further provides: “Chapter 13 is designed to serve as a flexible vehicle for the repayment of part or all of the allowed claims of the debtor.” S.Rep.No. 989, 95th Cong., 2d Sess. 141,
+  <em>
+   reprinted in
+  </em>
+  1978 U.S. Code Cong. &amp; Admin. News 5787, 5927.
+ </p>
+<p id="b677-12">
+  This court is convinced that a plan proposing zero payment for unsecured claims is an abuse of the purpose and spirit of Chapter 13.
+  <em>
+   United States v. Temple,
+  </em>
+  <span class="citation" data-id="8489443"><a href="/opinion/8516981/united-states-v-temple-in-re-temple/#289" aria-description="Citation for case: United States v. Temple (In re Temple)">25 B.R. 285, 289</a></span> (W.D.Ark.1982) (Chapter 13 and § 1325 require some payment to unsecured creditors as a condition of confirmation);
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#264" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256, 264-65</a></span> (Bankr.D. Utah 1980) (confirmation of a Chapter 13 plan proposing no payment on unsecured claims is impermissible). See also
+  <em>
+   In re Heard,
+  </em>
+  <span class="citation" data-id="1538046"><a href="/opinion/1538046/in-re-heard/#880" aria-description="Citation for case: In Re Heard">6 B.R. 876, 880</a></span> (Bankr.W.D.Ky.1980) (repayment is a
+  <em>
+   sine qua non
+  </em>
+  of a Chapter 13 plan).
+  <em>
+   But cf. In re Greer,
+  </em>
+  <span class="citation" data-id="2004702"><a href="/opinion/2004702/in-re-greer/#554" aria-description="Citation for case: In Re Greer">60 B.R. 547, 554</a></span> (Bankr.C.D.Cal.1986) (Chapter 13 plan proposing nominal or zero payment on unsecured claims is confirmable).
+ </p>
+<p id="b677-13">
+  The term “good faith” is not defined in the Bankruptcy Code. Indeed, it has been observed:
+ </p>
+<blockquote id="b678-3">
+<span citation-index="1" class="star-pagination" label="626"> 
+   *626
+   </span>
+  A comprehensive definition of good faith is not practical. Broadly speaking, the basic inquiry should be whether or not under the circumstances of the case there has been an abuse of the provisions, purpose or spirit of [the Chapter] ... in the proposal [of the plan]_
+ </blockquote>
+<p id="b678-5">
+  9
+  <em>
+   Collier On Bankruptcy,
+  </em>
+  ¶ 9.20 at 319 (14th ed. 1978).
+ </p>
+<p id="b678-6">
+  Because the Debtors’ Amended Plan proposes zero payment on unsecured claims, in abuse of the purpose and spirit of Chapter 13, the proposed plan fails to satisfy the good faith standard. Accordingly, pursuant to § 1325(a)(1) and (3) confirmation must be denied. Further, because their proposed monthly payment ($214.00) exceeds their monthly disposable income ($188.00), § 1325(a)(6) also bars confirmation.
+ </p>
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b675-18">
+   . Landmark Financial Services, scheduled as an unsecured creditor, filed a secured claim in the amount of $705.92. The debtors’ amended plan recognizes Landmark as a secured creditor, thus reducing the amount of scheduled unsecured claims to $2,990.25.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b675-19">
+   . This sum includes $1,130.78 for anticipated administrative expenses plus $240.00 for the balance of the debtors’ attorney fee and is $27.00 less than the total payments proposed to be paid through the plan.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b675-20">
+   . No provision is made for interest on the ar-rearage.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b675-21">
+   . The proposed payment includes an interest factor of ten (10) percent.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b675-22">
+   . See note 1
+   <em>
+    supra.
+   </em>
+   The proposed payment includes a ten (10) percent interest factor.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b676-12">
+   . "Individual with regular incomes" means an individual whose income is sufficiently stable and regular to enable such individual to make payments under Chapter 13 of Title 11 of the
+   <span citation-index="1" class="star-pagination" label="625"> 
+    *625
+    </span>
+   United States Code, other than a stockbroker or a commodity broker. <span class="citation no-link">11 U.S.C.A. § 101</span>(27) (West Supp.1986).
+  </p>
+</div></div></opinion>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b532-15">
+  Per Curiam.
+ </author>
+<p id="AxCq">
+  This is a medical malpractice case. The jury returned a verdict for the defendants and plaintiff appeals as of right, alleging that the trial court erred so as to require reversal (1) by unduly restricting the scope of cross-examination of one of defendants’ expert witnesses and (2) by refusing to give the jury several instructions requested by plaintiff. We disagree and accordingly affirm.
+ </p>
+<p id="b532-16">
+  On March 5, 1981, plaintiff fell and injured her
+  <span citation-index="1" class="star-pagination" label="519"> 
+   *519
+   </span>
+  left arm. She went to a Lansing hospital emergency room, where she was treated by defendant Harry D. Allis, M.D., an orthopedic surgeon. He reviewed several x-rays of plaintiffs arm and diagnosed plaintiffs injury as "[extensively comminuted Colles’ fracture of the left wrist with dorsal dislocation of the bones of the wrist, due to displacement of radial fragments.”
+ </p>
+<p id="b533-5">
+  Defendant opted to treat the injury by closed reduction (i.e., without surgical intervention) and casting. Accordingly, he gave plaintiff a local anesthetic, set the broken bones by external manipulation, placed plaintiffs arm in a short-arm "Cutter” cast, and had additional x-rays taken.
+ </p>
+<p id="b533-6">
+  Because the second x-rays indicated that the bones in plaintiffs left arm were still not properly aligned, defendant removed the cast, further reduced the fracture, and ordered a third set of x-rays. Plaintiffs arm was then placed in a new "Cutter” cast and she was scheduled for a followup visit two weeks later, on March 19, 1981.
+ </p>
+<p id="b533-7">
+  On March 19, defendant replaced plaintiffs cast with another "Cutter” cast. After this visit, plaintiff continued to treat with defendant until October 19, 1981. During this period she registered continuing complaints of pain in her left arm.
+ </p>
+<p id="b533-8">
+  Subsequently, plaintiff began treatment with another orthopedic surgeon, Dr. Paul DeVito. Dr. DeVito described plaintiffs condition as of August 25, 1982, as follows:
+ </p>
+<blockquote id="b533-9">
+  Her range of motion was relatively good. She could almost fully move the arm. She did complain of pain. There was some prominence of the top of her wrist and of the ulna, and on x-ray she had evidence of an old fracture. It was not healed.
+ </blockquote>
+<p id="b533-10">
+  He hinted that some of plaintiffs complaints of
+  <span citation-index="1" class="star-pagination" label="520"> 
+   *520
+   </span>
+  pain might stem from "some psychological . . . overlay,” as she had a "somewhat depressed and anxious” personality. As of November, 1985, Dr. DeVito said there had been no significant change in plaintiff’s condition.
+ </p>
+<p id="b534-5">
+  On November 9, 1983, plaintiff filed the instant lawsuit. With few exceptions, the case involved the typical "battle of the experts” over whether defendant had violated the applicable standard of care for orthopedic specialists.
+ </p>
+<p id="b534-6">
+  Plaintiff presented the expert testimony of Dr. Sidney Schultz, an Albuquerque, New Mexico, orthopedic surgeon. In Dr. Schultz’s opinion, the standard of acceptable treatment required traction of plaintiff’s arm to maintain the overall length of the fractured bone and external fixation to maintain the bones’ length during the healing process. Dr. Schultz also concluded that defendant had violated the standard of care for orthopedic specialists by using local anesthesia when setting plaintiff’s wrist. According to Dr. Schultz, use of general anesthesia or an axillary block would allow the physician to better apply traction because the patient’s muscles would be more relaxed.
+ </p>
+<p id="b534-7">
+  Defendant presented the expert testimony of Dr. John DeBruin, Jr., M.D., a Lansing orthopedic specialist. Before Dr. DeBruin’s testimony, the trial court granted defendants’ motion in limine to exclude from evidence certain statements made by Dr. DeBruin to plaintiff’s counsel in January, 1985 (before the defendants had retained him as an expert witness), to the effect that plaintiff should find an out-of-town expert because a local physician would be reluctant to testify against another physician in the same community. The court ruled that this statement was irrelevant to the case but allowed plaintiff to cross-examine Dr. DeBruin concerning another statement, that he "would
+  <span citation-index="1" class="star-pagination" label="521"> 
+   *521
+   </span>
+  never testify against another local Lansing orthopedic doctor.” On cross-examination, Dr. DeBruin conceded that he had made that statement to plaintiff’s counsel.
+ </p>
+<p id="b535-5">
+  During direct examination, Dr. DeBruin testified that defendant had not breached the appropriate standard of care in treating plaintiff’s fractures. He stated that there were numerous complications possible with external fixation of fractures (including infection and damage to other nearby bodily structure) and other possible complications with general anesthesia (including death, pneumonia, atelectasis, and allergic reactions). Moreover, said Dr. DeBruin, even in the case of treatment using external fixation, a certain number of patients still experience a shortening of the radius, angulation, and prominence of the ulna — complications plaintiff suffered even without having such a procedure used. On cross-examination, Dr. DeBruin admitted that he had known defendant for "quite some time.” He also conceded that certain forms of external fixation such as the "pin and plaster” procedure were commonly used to treat fractures in Lansing and throughout the United States.
+ </p>
+<p id="b535-6">
+  Defendant also presented testimony from Dr. John C. Hall, M.D., an internist who was plaintiff’s primary care physician. He began treating plaintiff in 1977 for a "constellation of pain complaint” which he felt was "largely the manifestations of severe depression for which she was under the concurrent care of a Lansing psychiatrist.” From 1977 to 1981, said Dr. Hall,
+ </p>
+<blockquote id="b535-7">
+  [t]here were multiple visits, and the pattern was very consistent. Mrs. Beadle’s complaints were inevitably of pain involving the shoulders, arms, wrists, and legs. These complaints were evaluated repeatedly, without establishing any organic cause,
+  <span citation-index="1" class="star-pagination" label="522"> 
+   *522
+   </span>
+  and the multiple visits were felt to be related to underlying psychiatric illness.
+ </blockquote>
+<p id="b536-6">
+  When plaintiff went to Dr. Hall in June, 1982, complaining of pain in her wrist, Dr. Hall referred her to Dr. DeVito.
+ </p>
+<p id="b536-7">
+  Following the presentation of proofs, the trial court refused to give SJI2d 15.03, 50.04, and 50.11, requested by plaintiff. The court also refused to give several supplemental instructions requested by plaintiff. Plaintiff objected to the trial court’s refusal to instruct the jury as requested. After two hours of deliberation, the jury returned a verdict in favor of defendant.
+ </p>
+<p id="b536-8">
+  On appeal, plaintiff first contends that the trial court unduly restricted the scope of plaintiff’s cross-examination of defendant’s medical expert by refusing to allow the witness to be asked if he had told plaintiff’s counsel that it would be best if he went out of town to find an expert because it would be difficult to find a local physician to testify against another physician in the same community. We find no abuse of discretion in restricting the scope of plaintiff’s cross-examination of Dr. DeBruin. The specific testimony plaintiff sought to elicit was not relevant to the issues upon which Dr. DeBruin was called to testify. During his direct examination, Dr. DeBruin gave his opinion as to the relevant standard of care of an orthopedic specialist and whether Dr. Allis had breached that standard. He did not in any way suggest that an out-of-town orthopedic specialist such as plaintiff’s expert, Dr. Schultz, was not qualified or competent to offer similar testimony. A trial judge need not permit a party to cross-examine a witness concerning evidence which is marginally relevant to the case as a whole but which is beyond the scope of the witness’ testimony on direct examination.
+  <span citation-index="1" class="star-pagination" label="523"> 
+   *523
+   </span>
+  MRE 611(B). Thus, even though the trial court has the discretion "to permit questions concerning . . . the problems, if any, in securing the necessary expert testimony,”
+  <em>
+   Wilson v Stillwill,
+  </em>
+  <span class="citation" data-id="9733259"><a href="/opinion/2186610/wilson-v-stilwill/#601" aria-description="Citation for case: Wilson v. Stilwill">411 Mich 587, 601-602, n 3</a></span>; <span class="citation" data-id="9733259"><a href="/opinion/2186610/wilson-v-stilwill/" aria-description="Citation for case: Wilson v. Stilwill">309 NW2d 898</a></span> (1981), such questions may still be prohibited on cross-examination where they exceed the scope of direct examination of the same witness. MRE 611(B).
+ </p>
+<p id="b537-5">
+  Neither was the proffered testimony relevant to Dr. DeBruin’s credibility. No evidence of bias or prejudice on Dr. DeBruin’s part was indicated by the mere fact that he advised plaintiff’s counsel that it would be best for him to seek expert witnesses from some place other than Lansing due to the difficulty of convincing a local physician to testify against another physician in the same community. Moreover, to the extent that plaintiff desired to show that Dr. DeBruin, a Lansing orthopedic specialist himself, was part of this "conspiracy of silence,”
+  <em>
+   Kern v St Luke’s Hospital Ass’n of Saginaw,
+  </em>
+  <span class="citation" data-id="9741755"><a href="/opinion/2228571/kern-v-st-lukes-hospital-assn/#352" aria-description="Citation for case: Kern v. St. Luke&#x27;s Hospital Ass&#x27;n">404 Mich 339, 352</a></span>; <span class="citation" data-id="9741755"><a href="/opinion/2228571/kern-v-st-lukes-hospital-assn/" aria-description="Citation for case: Kern v. St. Luke&#x27;s Hospital Ass&#x27;n">273 NW2d 75</a></span> (1978), plaintiff was explicitly permitted to do so. Any remote indication of bias plaintiff sought to demonstrate by eliciting the content of Dr. DeBruin’s advice to plaintiff’s counsel was subsumed within Dr. DeBruin’s admission that he "would never testify against another local Lansing orthopedic doctor.” The court’s restriction removed no sting from plaintiff’s cross-examination of Dr. DeBruin.
+ </p>
+<p id="b537-6">
+  Plaintiff’s remaining arguments all deal with the trial court’s refusal to give certain standard and supplemental jury instructions. The applicable standard of review for the trial court’s refusal to give a standard jury instruction was recently set forth in
+  <em>
+   Johnson v Corbet,
+  </em>
+  <span class="citation" data-id="9849017"><a href="/opinion/1274918/johnson-v-corbet/" aria-description="Citation for case: Johnson v. Corbet">423 Mich 304</a></span>; <span class="citation" data-id="9849017"><a href="/opinion/1274918/johnson-v-corbet/" aria-description="Citation for case: Johnson v. Corbet">377 NW2d 713</a></span> (1985). The
+  <em>
+   <span class="citation" data-id="9849017"><a href="/opinion/1274918/johnson-v-corbet/" aria-description="Citation for case: Johnson v. Corbet">Johnson</a></span>
+  </em>
+  Court acknowledged that GCR 1963, 516.6(2), now MCR 2.516(D)(2), supplies the first step in the analysis of
+  <span citation-index="1" class="star-pagination" label="524"> 
+   *524
+   </span>
+  a trial court’s refusal to give a standard jury instruction. GCR 1963, 516.6(2) provided:
+ </p>
+<blockquote id="b538-5">
+  Pertinent portions of Michigan Standard Jury Instructions (sji) published under authority of this sub-rule shall be given in each civil case in which jury instructions are given if (a) they are applicable and (b) they accurately state the applicable law.
+ </blockquote>
+<p id="b538-6">
+  However, departing from prior case law, the
+  <em>
+   <span class="citation" data-id="9849017"><a href="/opinion/1274918/johnson-v-corbet/" aria-description="Citation for case: Johnson v. Corbet">Johnson</a></span>
+  </em>
+  Court held that a trial court’s failure to give a requested standard jury instruction in violation of MCR 2.516(D)(2) did not mandate reversal unless failure to vacate the jury verdict would be "inconsistent with substantial justice.”
+  <span class="citation" data-id="9849017"><a href="/opinion/1274918/johnson-v-corbet/#326" aria-description="Citation for case: Johnson v. Corbet"><em>
+   Id.,
+  </em>
+  326-327</a></span>. The Court specifically adopted the harmless error test in MCR 2.613(A), which provides:
+ </p>
+<blockquote id="b538-7">
+  Harmless Error. An error in the admission or the exclusion of evidence, an error in a ruling or order, or an error or defect in anything done or omitted by the court or by the parties is not ground for granting a new trial, for setting aside a verdict, or for vacating, modifying, or otherwise disturbing a judgment or order, unless refusal to take this action appears to the court inconsistent with substantial justice.
+ </blockquote>
+<p id="b538-8">
+  In the instant case, plaintiff requested the jury be read SJI2d 15.03, which states that there may be more than one proximate cause for an injury. The trial court rejected the use of SJI2d 15.03 on the ground that the question of multiple causation had not been an issue in the case. This was correct. SJI2d 15.03 should not be given if the only possible additional proximate cause is the conduct of the plaintiff.
+  <em>
+   Stephens v Spiwak,
+  </em>
+  <span class="citation" data-id="2183335"><a href="/opinion/2183335/stephens-v-spiwak/#652" aria-description="Citation for case: Stephens v. Spiwak">61 Mich App 647, 652</a></span>; <span class="citation" data-id="2183335"><a href="/opinion/2183335/stephens-v-spiwak/" aria-description="Citation for case: Stephens v. Spiwak">233 NW2d 124</a></span> (1975), lv den <span class="citation no-link">395 Mich 761</span> (1975). See also "Note on Use,” SJI2d 15.03.
+  <span citation-index="1" class="star-pagination" label="525"> 
+   *525
+   </span>
+  Here, the only other possible proximate cause for plaintiffs injuries suggested by defendant was the conduct and mental state of plaintiff herself. Thus, SJI2d 15.03 was properly refused as not applicable.
+ </p>
+<p id="b539-5">
+  Plaintiffs claim that the trial court erred in refusing to give SJI2d 50.04 (aggravation of preexisting ailment or condition as an element of damages) and SJI2d 50.11 (inability to separate damages caused by defendant’s conduct from those which were preexisting) presents a closer question.
+ </p>
+<p id="b539-6">
+  We believe the trial court erred in refusing to give SJI2d 50.04 and SJI2d 50.11. The evidence and arguments of both parties together presented a question for the jury as to whether the injury suffered by plaintiff was a combined product of both a preexisting disease (e.g., plaintiffs osteoarthritis), injury (e.g., the effects of plaintiffs fall), or state of health (e.g., alleged personality-related emotional problems), and defendant’s negligence. Thus, the instructions should have been given.
+ </p>
+<p id="b539-7">
+  Nevertheless, we are satisfied that reversal is not required. Both instructions relate to the issue of damages. The jury returned a verdict of no cause of action and never reached that issue. Thus, the absence of these alleged errors would not have changed the result and reversal on this basis is not required. See
+  <em>
+   Cornforth v Borman’s, Inc,
+  </em>
+  <span class="citation" data-id="1676840"><a href="/opinion/1676840/cornforth-v-bormans-inc/#478" aria-description="Citation for case: Cornforth v. Borman’s, Inc">148 Mich App 469, 478</a></span>; <span class="citation" data-id="1676840"><a href="/opinion/1676840/cornforth-v-bormans-inc/" aria-description="Citation for case: Cornforth v. Borman’s, Inc">385 NW2d 645</a></span> (1986).
+ </p>
+<p id="b539-8">
+  Plaintiff also argues that the trial court should have given her supplemental instruction No. 1, which read:
+ </p>
+<blockquote id="b539-9">
+  The Defendant’s field of medicine is known as Orthopedic Medicine and Surgery. A physician who practices in such a field of medicine is governed by a national standard of care. The Defendant owed to Doris Beadle the duty to act as a reasonable orthopedic surgeon practicing orthope
+  <span citation-index="1" class="star-pagination" label="526"> 
+   *526
+   </span>
+  die medicine in light of scientific knowledge available to an orthopedic physician in March of 1981.
+ </blockquote>
+<p id="b540-5">
+  We agree with plaintiffs assertion that this instruction was an accurate statement of the law. See, e.g.,
+  <em>
+   Francisco v Parchment Medical Clinic, PC,
+  </em>
+  <span class="citation" data-id="2118928"><a href="/opinion/2118928/francisco-v-parchment-medical-clinic-pc/#328" aria-description="Citation for case: Francisco v. Parchment Medical Clinic, PC">407 Mich 325, 328</a></span>; <span class="citation" data-id="2118928"><a href="/opinion/2118928/francisco-v-parchment-medical-clinic-pc/" aria-description="Citation for case: Francisco v. Parchment Medical Clinic, PC">285 NW2d 39</a></span> (1979);
+  <em>
+   Naccarato v Grob,
+  </em>
+  <span class="citation" data-id="1807231"><a href="/opinion/1807231/naccarato-v-grob/" aria-description="Citation for case: Naccarato v. Grob">384 Mich 248</a></span>; <span class="citation" data-id="1807231"><a href="/opinion/1807231/naccarato-v-grob/" aria-description="Citation for case: Naccarato v. Grob">180 NW2d 788</a></span> (1970). However, we do not believe that the instruction was so necessary to a fair determination on the merits that other instructions which were given could not take its place. The trial court gave the standard instruction on professional negligence, SJI2d 30.01. This instruction did not imply that an out-of-town specialist was somehow incompetent to testify regarding local specialists; rather it focused on whether defendant acted as a physician of ordinary learning, judgment, or skill would act under the same or similar circumstances. The charge given adequately and fairly represented the applicable law to the jury.
+ </p>
+<p id="b540-6">
+  Plaintiff also requested the following nonstandard jury instruction:
+ </p>
+<blockquote id="b540-7">
+  It is the duty of a physician in diagnosing a case and caring for his patient to use due diligence in ascertaining all available facts and collecting data essential to a proper diagnosis and to perform a thorough and careful examination, such as the patient’s condition and the attending circumstances would allow, with such diligence and methods as are usually approved and practiced by physicians of ordinary learning, judgment and skill.
+ </blockquote>
+<p id="b540-8">
+  This instruction is based on language in
+  <em>
+   Fortner v Koch,
+  </em>
+  <span class="citation" data-id="3492531"><a href="/opinion/3523231/fortner-v-koch/#281" aria-description="Citation for case: Fortner v. Koch">272 Mich 273, 281-282</a></span>; <span class="citation" data-id="3492531"><a href="/opinion/3523231/fortner-v-koch/" aria-description="Citation for case: Fortner v. Koch">261 NW 762</a></span> (1935). The trial court rejected this instruction on the ground that SJI2d 30.01, which as noted above was
+  <span citation-index="1" class="star-pagination" label="527"> 
+   *527
+   </span>
+  given, adequately instructed the jury on the duties of physicians.
+ </p>
+<p id="b541-5">
+  Although the requested instruction may accurately state the law, the trial court did not abuse its discretion in rejecting it. First, the "Note on Use” for SJI2d 30.01 explicitly states that the language in the instruction is supported by
+  <em>
+   <span class="citation" data-id="3492531"><a href="/opinion/3523231/fortner-v-koch/" aria-description="Citation for case: Fortner v. Koch">Fortner, supra,</a></span>
+  </em>
+  even though none of the actual language from it is used. Secondly, even though a requested nonstandard jury instruction accurately states the law, it still "must be modeled as nearly as practicable after the style of the sji, and must be concise, understandable, conversational, unslanted, and nonargumentative.” MCR 2.516(D)(4). In the context of the trial court’s succinct and extremely neutral jury instructions, the requested instruction could very well have "unduly emphasize[d] a potentially prejudicial aspect of the evidence, or simply add[ed] nothing to an otherwise balanced and fair jury charge.”
+  <span class="citation" data-id="9849017"><a href="/opinion/1274918/johnson-v-corbet/#327" aria-description="Citation for case: Johnson v. Corbet"><em>
+   Johnson, supra,
+  </em>
+  p 327</a></span>. We find no error.
+ </p>
+<p id="b541-6">
+  Finally, plaintiff contends that the trial court erred in refusing to give plaintiff the following nonstandard jury instructions, all based on
+  <em>
+   Rogers v Kee,
+  </em>
+  <span class="citation" data-id="7947109"><a href="/opinion/7993548/rogers-v-kee/#561" aria-description="Citation for case: Rogers v. Kee">171 Mich 551, 561-562</a></span>; <span class="citation" data-id="7947109"><a href="/opinion/7993548/rogers-v-kee/" aria-description="Citation for case: Rogers v. Kee">137 NW 260</a></span> (1912):
+ </p>
+<blockquote id="b541-7">
+  PLAINTIFF’S SUPPLEMENTAL JURY INSTRUCTION #5 (To be given following SJI2nd 30.03)
+ </blockquote>
+<blockquote id="b541-9">
+  Any lack of the proper degree of skill or care which diminishes one’s chances of a recovery, prolongs one’s illness, increases one’s suffering or, in short, makes one’s condition worse than it would have been if due skill and care had been used is, in a legal sense, an injury.
+ </blockquote>
+<blockquote id="b541-10">
+  PLAINTIFF’S SUPPLEMENTAL JURY INSTRUCTION #6 (to be given following Plaintiff’s supplemental Jury Instruction #5)
+ </blockquote>
+<blockquote id="b541-12">
+  A patient, such as Mrs. Beadle, was entitled to approved methods of treatment from which experi
+  <span citation-index="1" class="star-pagination" label="528"> 
+   *528
+   </span>
+  ence of the medical profession indicated beneficial results were probable and to be anticipated; and, if not an entire recovery, a better ultimate condition than if left to chance.
+ </blockquote>
+<blockquote id="b542-5">
+  plaintiff’s supplemental jury instruction #7 (To be given following SJI2d 50.11)
+ </blockquote>
+<blockquote id="b542-6">
+  If you find that the result to Mrs. Beadle’s wrist as it is here today is all that could reasonably be expected to result under all the circumstances of her case, as disclosed by the evidence, provided the fracture had been properly treated, then the present condition of the wrist would not form a basis for any damages in this case. If the result to the Plaintiff today is exactly what it would have been if the Defendant had properly treated the fracture, then she has sustained no damages on account of the condition of the wrist. But, if you find that the condition of Mrs. Beadle’s wrist is not all that could reasonably be expected to follow by reasonable and proper treatment of the fracture, and if you find that Mrs. Beadle experienced pain, bodily and mental, or either one, or both pain and suffering which she would not have experienced had the fracture been properly treated, then you may award her such sums as you deem just and reasonable in compensation for her pain and suffering resulting from Defendant’s negligence.
+ </blockquote>
+<p id="b542-7">
+  The trial court rejected all three proposed jury instructions because they were adequately covered by SJI2d 30.01 and SJI2d 30.03, and were too specific, confusing to the jury, and somewhat argumentative. The court conceded that with some modifications the instructions could adequately state the law for the jury, but saw no reason to depart from the standard jury instructions.
+ </p>
+<p id="b543-4">
+<span citation-index="1" class="star-pagination" label="529"> 
+   *529
+   </span>
+  Plaintiffs supplemental jury instruction No. 5 is a verbatim quote from
+  <em>
+   Rogers v <span class="citation" data-id="7947109"><a href="/opinion/7993548/rogers-v-kee/" aria-description="Citation for case: Rogers v. Kee">Kee, supra,</a></span>
+  </em>
+  and if it were in proper form, the trial court should have given it for the same reasons SJI2d 50.04 and SJI2d 50.11 should have been given. However, the instruction does not pass muster under MCR 2.516(D)(4). It is slanted toward plaintiffs theory of the case, and above all it is almost incomprehensible without the specific context supplied by the opinion from which it is extracted.
+ </p>
+<p id="b543-5">
+  Plaintiffs supplemental instruction No. 6 suffers from the same infirmities. In addition, this is an instance in which the reading of the instruction
+ </p>
+<blockquote id="b543-6">
+  would confuse the jurors or unnecessarily distract them from the material issues in the case, or extend the jury instruction process out of all proportion to the educational benefit to the jurors and fairness to the litigants, or unduly emphasize a potentially prejudicial aspect of the evidence, or simply add nothing to an otherwise balanced and fair jury charge nor enhance the ability of the jurors to decide the case intelligently, fairly, and impartially.
+  <span class="citation" data-id="9849017"><a href="/opinion/1274918/johnson-v-corbet/#327" aria-description="Citation for case: Johnson v. Corbet"><em>
+   [Johnson, supra,
+  </em>
+  p 327</a></span>.]
+ </blockquote>
+<p id="b543-7">
+  Plaintiffs supplemental instruction No. 7 is blatantly inconsistent with the mandate of MCR 2.516(D)(4). It is slanted, unclear, too lengthy and totally out of syncronization with the style of the Standard Jury Instructions.
+ </p>
+<p id="b543-8">
+  Moreover, since plaintiffs supplemental jury instructions Nos. 5, 6, and 7 all concern the issue of damages (an issue the jury never reached), their presence would not have changed the result in this case. Accordingly, reversal is not required.
+  <span class="citation" data-id="1676840"><a href="/opinion/1676840/cornforth-v-bormans-inc/#478" aria-description="Citation for case: Cornforth v. Borman’s, Inc"><em>
+   Cornforth, supra,
+  </em>
+  p 478</a></span>.
+ </p>
+<p id="b543-9">
+  Affirmed.
+ </p>
+</opinion>

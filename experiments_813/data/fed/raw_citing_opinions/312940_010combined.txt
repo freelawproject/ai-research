@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion data-order="11" data-type="opinion" id="x999-1" type="majority">
+<author id="b388-29">
+  RIVES, Circuit Judge:
+ </author>
+<p id="b388-30">
+  Appellants, Kenneth L. Musgrave and Marshall Womack, along with Jack Bryant and Homer E. Koon, Jr., were charged in a seven-count indictment
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+<span citation-index="1" class="star-pagination" label="329"> 
+   *329
+   </span>
+  with violation of <span class="citation no-link">18 U.S.C.A. §§ 371</span>,
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  657
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  and 1006
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  stemming from their involvement in a purported plot to defraud the Home Savings Association of Odessa, Texas. Appellants’ convictions in separate, prior trials were both reversed by this Court.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  On retrial below, Mus-grave was found guilty under Counts 1, 2, 4 and 6 and received a five-year concurrent sentence on each Count. Womack was convicted on Counts 1, 2 and 6 and acquitted on Count 4. He received a three-year concurrent sentence on each Count.
+ </p>
+<p id="b389-5">
+  Appellants’ able counsel weave a hy-pertechnieal web of ingenious arguments contending that the trial court made at least ten reversible errors. Nonetheless, we find that each appellant received a fair trial and we affirm.
+ </p>
+<p id="b389-21">
+  THE PLOT TO DEFRAUD
+ </p>
+<p id="b389-22">
+  The complex series of financial transactions which form the heart of the alleged fraud are lucidly delineated in this Court’s prior opinions in United States v. Musgrave, 5 Cir. 1971, <span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">444 F.2d 755</a></span>, and United States v. Womack, 5 <span class="citation" data-id="301345"><a href="/opinion/301345/united-states-v-marshall-womack/#1972" aria-description="Citation for case: United States v. Marshall Womack">Cir. 1972, 454 F.2d 1337</a></span>. We merely sketch the factual outline necessary for rational discussion of the contested portions of the trial below.
+ </p>
+<p id="b390-3">
+<span citation-index="1" class="star-pagination" label="330"> 
+   *330
+   </span>
+  The government alleged, and the jury must have found, the existence of a single multi-stage conspiracy which had as its central purpose defrauding the Odessa Home Savings Association.
+ </p>
+<p id="b390-4">
+  According to the prosecution, Mus-grave, then Chairman of the Board of the Association, arranged for the granting of two loans — one to Womack and the other to Womack’s nominee, Koon.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  The loans were designed to enable Womack to purchase Musgrave’s controlling interest in the Association [56% of the total outstanding shares]. Musgrave’s attorney, Bryant, prepared the contract, disbursed the loan proceeds, and collected a large fee.
+ </p>
+<p id="b390-5">
+  The two loans, purportedly prompted by Musgrave’s manipulations, consisted of a $960,000 loan to Womack secured by Womack’s interest in the Trans-American Building in Fort Worth, Texas, and a $500,000 loan to Koon secured by a 1,670 acre farm near Toyah, Texas.
+ </p>
+<p id="b390-17">
+  The various charges in the indictment stripped to their core comprise one basic allegation — that the four individuals named in the indictment misled the Association into making two extraordinarily large loans secured by grossly inadequate collateral. The strength of this central allegation rests almost entirely on the testimony of two government, expert witnesses, Charles Herman and E. T. Compere, who calculated the fair market value of Womack's interest in the Trans-American Building to be $145,000 and $232,000, respectively. Compere also placed a $110,000 value on the Toyah farm.
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+</p>
+<p id="b390-18">
+  Compared to the testimony of Herman and Compere, the original appraisals submitted to the Association by Mus-grave (which set the value of Womack’s interest in the Trans-American Building
+  <span citation-index="1" class="star-pagination" label="331"> 
+   *331
+   </span>
+  at $1,750,000 and the value of the Toyah farm at $667,000) were outrageously inflated.
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+</p>
+<p id="b391-6">
+  ISSUES ON APPEAL
+ </p>
+<p id="b391-7">
+  Musgrave raises eight issues on appeal, and Womack raises ten. With a few exceptions, each appellant seeks reversal on the same grounds. Some of the issues overlap, and others are too ephemeral to deserve extended discussion. Those asserted errors which merit appellate consideration are set out below with Musgrave’s and Womack’s distinct positions noted in the instances where they differ.
+ </p>
+<p id="b391-8">
+  I. AIDING AND ABETTING AN ACQUITTED PRINCIPAL
+ </p>
+<p id="b391-9">
+  A.
+  <em>
+   Count
+  </em>
+  4 — Count 4 of the indictment charged Musgrave and Womack with aiding and abetting Bryant who allegedly shared in the proceeds of the fraud. Both Appellants argue on appeal that Bryant’s acquittal in the first trial constitutes a binding judicial pronouncement that Bryant’s act was innocent, thereby absolving appellants from any crime predicated upon aiding Bryant.
+ </p>
+<p id="b391-10">
+  In a three-pronged response, the government argues that Bryant’s acquittal does not preclude conviction of Mus-grave and Womack in a subsequent trial under Count 4 because:
+ </p>
+<p id="b391-11">
+  1) Conviction of a principal is not a prerequisite to conviction of the principal’s aider or abettor; the only indispensable element in the conviction of the aider is the existence of a criminal act.
+ </p>
+<p id="b391-12">
+  2) The holding in United States v. <span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">Musgrave,
+  <em>
+   supra,
+  </em></a></span>
+  that no substantial evidence existed to support the jury’s verdict on any of the counts against Bryant established only that the government had failed to prove its case against Bryant beyond a reasonable doubt; it did not clothe Bryant’s act with a permanent cloak of innocence.
+ </p>
+<p id="b391-14">
+  The testimony of Nathan Brown [App. pp. 333-370], not available at Bryant’s trial, produced additional evidence at the second trial shedding new light on Bryant’s link with the alleged fraud.
+ </p>
+<p id="b391-15">
+  3) The court in United States v. <span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">Musgrave,
+  <em>
+   supra,
+  </em></a></span>
+  after ordering Bryant acquitted and reversing the conviction of Musgrave, remanded the case against Musgrave as to Count 4 impliedly endorsing reprosecution of Musgrave as Bryant’s abettor, or at least recognizing the possibility of such reprosecution.
+ </p>
+<p id="b391-16">
+  We agree with the government. Bryant’s acquittal does not foreclose appellants’ convictions under Count 4.
+ </p>
+<p id="b391-17">
+  Neither of the two principal cases upon which the appellants rely — Shut-tlesworth v. Birmingham, 1963, <span class="citation" data-id="106608"><a href="/opinion/106608/shuttlesworth-v-city-of-birmingham/" aria-description="Citation for case: Shuttlesworth v. City of Birmingham">373 U.S. 262</a></span>, <span class="citation" data-id="106608"><a href="/opinion/106608/shuttlesworth-v-city-of-birmingham/" aria-description="Citation for case: Shuttlesworth v. City of Birmingham">83 S.Ct. 1130</a></span>, <span class="citation" data-id="106608"><a href="/opinion/106608/shuttlesworth-v-city-of-birmingham/" aria-description="Citation for case: Shuttlesworth v. City of Birmingham">10 L.Ed.2d 335</a></span>, and Edwards v. United States, 5 <span class="citation" data-id="253037"><a href="/opinion/253037/james-p-edwards-jr-v-united-states/#1960" aria-description="Citation for case: James P. Edwards, Jr. v. United States">Cir. 1960, 286 F.2d 681</a></span> — are dispositive of the issue presented here.
+ </p>
+<p id="b391-18">
+  The two petitioners in
+  <em>
+   Shuttlesworth,
+  </em>
+  Negro ministers charged with inciting and aiding Negro students in a “sit-down demonstration,” were held incapable of being guilty of aiding principals whose own convictions had been overturned on the ground that their peaceful sit-down demonstration was a constitutionally protected act. Hence, the court merely reiterated the long-standing maxim that “there can be no conviction for aiding and abetting someone to do an innocent act.”
+ </p>
+<p id="b391-19">
+  In Edwards v. United States, this Court reversed Edwards’ conviction for aiding and abetting the principal, Evans, on the ground that the trial court’s charge to the jury erroneously directed a verdict of guilty against Edwards by referring to Evans’ guilty plea when no
+  <span citation-index="1" class="star-pagination" label="332"> 
+   *332
+   </span>
+  documentation establishing the existence of the guilty plea had been introduced.
+ </p>
+<p id="b392-4">
+  Neither of these cases control a situation like the instant case.
+  <em>
+   Shuttles-worth
+  </em>
+  stands for the proposition that an express judicial ruling that the principal’s act was constitutionally protected
+  <em>
+   [i. e.,
+  </em>
+  innocent] precludes any convictions for aiding that act. In the present case, there has been no immutable ruling that Bryant’s act was innocent; only a holding that insufficient evidence was developed in the first trial to establish Bryant’s guilt beyond a reasonable doubt.
+  <em>
+   Edwards
+  </em>
+  merely requires that sufficient evidence be presented to the jury to provide a basis for establishing the guilt of the principal before anyone can be convicted of aiding that principal. In the instant case, the prosecution did present evidence purportedly implicating Bryant in the scheme to defraud and some of that evidence was not available at the prior trial of Bryant.
+ </p>
+<p id="b392-5">
+  The government is, of course, barred by the Sixth Amendment from re-trying Bryant, but Bryant’s acquittal is not res judicata as to Musgrave and Womack.
+ </p>
+<p id="b392-6">
+  A judgment in a criminal case operates as res judicata in a second criminal case only where the parties to both proceedings are identical. Smith v. United States, 6 Cir. 1957, <span class="citation" data-id="242097"><a href="/opinion/242097/ralph-b-smith-v-united-states/" aria-description="Citation for case: Ralph B. Smith v. United States">243 F.2d 877</a></span>; United States v. Wapnick, D.C.N.Y.1961, <span class="citation" data-id="1671843"><a href="/opinion/1671843/united-states-v-wapnick/" aria-description="Citation for case: United States v. Wapnick">198 F.Supp. 359</a></span>, aff’d 2 Cir. 1963, <span class="citation multiple-matches"><a href="/c/F.2d/315/96/">315 F.2d 96</a></span>, cert. denied, <span class="citation multiple-matches"><a href="/c/U.S./374/829/">374 U.S. 829</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./83/1868/">83 S.Ct. 1868</a></span>, <span class="citation" data-id="8946796"><a href="/opinion/8955813/seafarers-international-union-v-castro/" aria-description="Citation for case: Seafarers International Union v. Castro">10 L.Ed.2d 1052</a></span>. See 9 A.L.R.3rd 203, 215. A judgment of acquittal of one defendant in a prior trial does not operate as res judicata in the prosecution of a second defendant in a later trial, even where the same transaction is involved and the second defendant is charged as an accessory to the first. Roberts v. People, 1938, <span class="citation" data-id="3313686"><a href="/opinion/3318572/roberts-v-people/" aria-description="Citation for case: Roberts v. People">103 Colo. 250</a></span>, <span class="citation" data-id="3313686"><a href="/opinion/3318572/roberts-v-people/" aria-description="Citation for case: Roberts v. People">87 P.2d 251</a></span>, cited in Annotation, 9 A.L.R.3rd 203, 218.
+ </p>
+<p id="b392-8">
+  In the instant case, the doctrine of res judicata is inapplicable. The defendants in the two prosecutions are not identical. New evidence was presented at the second trial from which the jury could properly determine that the principal, Bryant, had sufficient knowledge of the fraud to establish his commission of a criminal act.
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+</p>
+<p id="b392-9">
+  B.
+  <em>
+   Count
+  </em>
+  1 — In Count 1 of the indictment, all four defendants were charged with conspiring to defraud the Odessa Home Savings Association. Of the twenty-three overt acts assertedly committed in furtherance of the conspiracy, eight were attributed to Bryant and Koon.
+ </p>
+<p id="b392-10">
+  Citing Herman v. United States, 5 Cir. 1961, <span class="citation" data-id="253741"><a href="/opinion/253741/george-herman-v-united-states/" aria-description="Citation for case: George Herman v. United States">289 F.2d 362</a></span>, as authority, appellants argue that the trial court committed reversible error in sustaining their convictions while their coconspira-tors were acquitted in a prior trial on the same charge. Appellants further contend that, even if they can properly be found guilty of conspiring with acquitted codefendants, the prosecution is precluded from proving the conspiracy through overt acts attributable solely to the acquitted conspirators.
+ </p>
+<p id="b392-11">
+  The appellant in Herman v. United States,
+  <em>
+   supra,
+  </em>
+  was indicted along with two others for conspiring to receive stolen goods in interstate commerce. The conspiracy count alleged two overt acts. One was expunged, and the other was allegedly committed by Herman’s two co-defendants who were both acquitted. In reversing Herman’s conviction, this Court held that,
+ </p>
+<blockquote id="b392-12">
+  “To complete the crime of conspiracy at least one of the conspirators must be charged with the performance of at least one overt act in furtherance of the conspiracy [citing cases].”
+  <span citation-index="1" class="star-pagination" label="333"> 
+   *333
+   </span>
+  <span class="citation" data-id="253741"><a href="/opinion/253741/george-herman-v-united-states/#367" aria-description="Citation for case: George Herman v. United States">289 F.2d at 367</a></span>. In
+  <em>
+   <span class="citation" data-id="253741"><a href="/opinion/253741/george-herman-v-united-states/" aria-description="Citation for case: George Herman v. United States">Herman</a></span>,
+  </em>
+  the verdict? were returned by the same jury in a single joint trial.
+ </blockquote>
+<p id="b393-5">
+  As a general rule, the conviction of only one defendant in a conspiracy prosecution will not be upheld where all the other alleged coconspirators are acquitted, Farnsworth v. Zerbst, 5 Cir. 1938, <span class="citation" data-id="1508226"><a href="/opinion/1508226/farnsworth-v-zerbst/" aria-description="Citation for case: Farnsworth v. Zerbst">98 F.2d 541</a></span>; Thompson v. United States, 5 Cir. 1955, <span class="citation" data-id="237970"><a href="/opinion/237970/lester-julian-thompson-and-estelle-shell-goben-thompson-mrs-lester-julian/" aria-description="Citation for case: Lester Julian Thompson and Estelle Shell Goben Thompson...">227 F.2d 671</a></span>; 91 A. L.R.2d 700, 705; <span class="citation" data-id="3626687"><a href="/opinion/3642755/people-v-kuland/#1316" aria-description="Citation for case: People v. Kuland">97 A.L.R. 1311, 1316</a></span>. This rule has withstood the criticism voiced in People v. Rizzo, <span class="citation" data-id="3599358"><a href="/opinion/3616975/people-v-rizzo/" aria-description="Citation for case: People v. Rizzo">246 N.Y. 334</a></span>, <span class="citation" data-id="3599358"><a href="/opinion/3616975/people-v-rizzo/#889" aria-description="Citation for case: People v. Rizzo">158 N.E. 888, 889</a></span>, <span class="citation" data-id="3599358"><a href="/opinion/3616975/people-v-rizzo/" aria-description="Citation for case: People v. Rizzo">55 A.L.R. 711</a></span>, that a not guilty verdict is not necessarily synonymous with a declaration of innocence.
+ </p>
+<p id="b393-6">
+  However, it is .also generally held that where two or more defendants in a conspiracy prosecution have been lawfully convicted, the fact that additional defendants have been acquitted is immaterial.
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+  Annotation, <span class="citation no-link">91 A.L.R.2d 700</span>, 704; United States v. Austin-Bagley Corp., 2 Cir. 1929, <span class="citation" data-id="1496420"><a href="/opinion/1496420/united-states-v-austin-bagley-corporation/#233" aria-description="Citation for case: United States v. Austin-Bagley Corporation">31 F.2d 229, 233</a></span>.
+  <a class="footnote" href="#fn11" id="fn11_ref">
+   11
+  </a>
+</p>
+<p id="b393-7">
+  In the present case, two conspirators have been convicted, not just one, and, unlike the situation in
+  <em>
+   <span class="citation" data-id="253741"><a href="/opinion/253741/george-herman-v-united-states/" aria-description="Citation for case: George Herman v. United States">Herman</a></span>,
+  </em>
+  overt acts were attributed both to the convicted defendants and to. those theretofore found not guilty.
+ </p>
+<p id="b393-8">
+  The authorities discussed are not precisely applicable to the instant situation, .because here separate trials were had. In Annotation, <span class="citation no-link">91 A.L.R.2d 700</span>, 731, the note author refers to a Nebraska case, Platt v. State, 1943, <span class="citation" data-id="8038323"><a href="/opinion/8079282/platt-v-state/" aria-description="Citation for case: Platt v. State">143 Neb. 131</a></span>, <span class="citation" data-id="8038323"><a href="/opinion/8079282/platt-v-state/" aria-description="Citation for case: Platt v. State">8 N.W.2d 849</a></span>, involving a situation analogous to, but chronologically the reverse of, the present case. There one defendant was convicted of conspiracy while his coconspirator, tried separately and subsequently, was acquitted. The first defendant then appealed, and the Nebraska court held that, unlike a situation in a joint trial where failure of proof as to one conspirator would amount to failure of proof as to both, in consecutive trials the acquittal of the conspirator in the second trial amounts to no more than failure of proof as to him. We are impressed by Justice Carter’s scholarly opinion for the Nebraska Supreme Court.
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+  After an exhaustive discussion of the few pertinent authorities, he concluded :
+ </p>
+<blockquote id="b393-13">
+  “The rule contended for by defendant requires consistent, verdicts at separate trials. We know of no sound reason for demanding such a result, unless such verdicts stem from the identical evidence. It is not unusual in other types of crimes for one of two defendants to be convicted and the other to be acquitted where both equally participated in the same crime. Can it be said that the law is so consistent that the acquittal of one affects a discharge of the other? The question answers itself. It seems illogical to say that after one conspirator has been properly convicted he may have a second opportunity to escape punishment by the verdict in another case in which the evidence was altogether different and in which he may not even appear or testify.”
+ </blockquote>
+<p id="b393-14">
+  <span class="citation no-link">8 N.W.2d 855</span>.
+ </p>
+<p id="b393-15">
+  The same rationale applies with equal force to the converse chronology of the instant case. Musgrave and Womack were convicted at a second trial where new and arguably significant evidence was introduced. Overt acts were allegedly committed both by appellants and by their acquitted eodefendants. Assuming that the jury convicted appellants on the strength of the overt acts committed by their acquitted coconspirators, under the rationale of
+  <em>
+   <span class="citation" data-id="8038323"><a href="/opinion/8079282/platt-v-state/" aria-description="Citation for case: Platt v. State">Platt</a></span>,
+  </em>
+  they might properly have done so. If, of
+  <span citation-index="1" class="star-pagination" label="334"> 
+   *334
+   </span>
+  course, the jury convicted appellants on the strength of the overt acts attributable to them, then the general rule that two or more conspirators may be convicted while others go free would be applicable.
+ </p>
+<p id="b394-4">
+  II. BURDEN OF PROOF ON GOOD FAITH DEFENSE
+ </p>
+<p id="b394-5">
+  In his charge to the jury on the claimed defense of good faith, the trial judge stated that:
+ </p>
+<blockquote id="b394-6">
+  “As I have told you good faith on the part of the Defendant is a complete defense to the charge alleged in the indictment. For example,
+  <em>
+   if you believe beyond a reasonable doubt that the Defendant, Musgrave, in good faith
+  </em>
+  believed the market value of the collateral for the loans was adequate, or that he in good faith relied on the appraisals and financial statements submitted to him * * * then this good faith on his part is a complete defense to the relevant counts of the indictment.”
+ </blockquote>
+<p id="b394-8">
+  [Emphasis added.] [App., Vol. IV, p. 1475.]
+ </p>
+<p id="b394-9">
+  Continuing as to Womack, he charged:
+ </p>
+<blockquote id="b394-10">
+  “Similarly, should you find that the Defendant Womack acted in good faith as I have defined it to you concerning the actions mentioned in the indictment, his good faith, belief and reliance on the appraisals and financial statements * * * would likewise provide him a complete defense as to the relevant counts in the grand jury indictment.”
+ </blockquote>
+<p id="b394-11">
+  [App., Vol. IV, pp. 1475-1476.]
+ </p>
+<p id="b394-12">
+  Musgrave’s attorney objected
+  <a class="footnote" href="#fn13" id="fn13_ref">
+   13
+  </a>
+  to the good faith defense charge in the following exchange:
+ </p>
+<blockquote id="b394-13">
+  “MR. SMITH: Further that in instructing on the good faith of the Defendant, Musgrave, that the Court placed an illegal burden of proof on the Defendant Musgrave as to good faith. And also placed on him the—
+ </blockquote>
+<blockquote id="A74">
+  “THE COURT: Well tell us in what respect it’s an unlawful—
+ </blockquote>
+<blockquote id="b394-17">
+  “MR. SMITH: The Court put the burden on Musgrave to establish good faith and put the burden on the Government to establish bad faith beyond a reasonable doubt. And if I recall correctly, I do believe that the Court instructed the jury that as to good faith, it has the burden of Musgrave to prove his good faith beyond a reasonable doubt.
+ </blockquote>
+<blockquote id="b394-18">
+  “THE COURT: I sure didn’t think I did. I’ll call them back and recharge them on that if you think I did. ”
+ </blockquote>
+<p id="b394-19">
+  [Emphasis added.] [App., Vol. IV, p. I486.]
+ </p>
+<p id="b394-20">
+  At this juncture the prosecutor interrupted, “The only burden the Government has is to prove each and every essential element beyond a reasonable doubt and we don’t have to negate a defense.” [App. I486.] The trial judge, with his train of thought apparently severed by that rejoinder, did not rule directly on the objection to the good faith charge, but stated: “That’s right. All right, go ahead.” [App. 1487.]
+ </p>
+<p id="b394-21">
+  On appeal, both appellants urge reversal of their convictions on the ground that the quoted portion of the trial judge’s charge erroneously placed on defendants the burden of proof with regard to the crucial issue of good faith. The prejudicial effect of that erroneous charge could not, appellants argue, be cured by an inconsistent instruction, because that would be to speculate upon which part of the charge the jury relied.
+ </p>
+<p id="b394-22">
+  The government first contends that the failure of Musgrave’s counsel to follow up on his objection to the good faith charge after the court offered to recall the jury amounted to an invitation of
+  <span citation-index="1" class="star-pagination" label="335"> 
+   *335
+   </span>
+  error and a conscious abandonment of the proffered objection. Second,- the government argues that the whole charge, which contained numerous correct delineations of the reasonable doubt standard, cured any error contained in the isolated passage to which defendants object. We disagree with the first contention but agree with the second.
+ </p>
+<p id="b395-5">
+  Musgrave’s counsel’s failure to reiterate his objection to the good faith charge was clearly not, as the government argues, an express abandonment of that objection. See Locklear v. United States, 5 Cir. 1968, <span class="citation" data-id="279881"><a href="/opinion/279881/barney-locklear-v-united-states/" aria-description="Citation for case: Barney Locklear v. United States">393 F.2d 729</a></span>. Musgrave’s counsel cannot be faulted for failure to object twice to the same charge. The trial Judge’s initial response to the objection — the offer to recall the jury — plainly indicated the court’s recognition of defense counsel’s protest. Although defendants made a timely objection to the erroneous good faith charge, that charge, viewed in the context of the court’s entire instruction to the jury, did not affect substantial rights of either of the appellants. See Rule 52(a), F.R.Crim.P.
+ </p>
+<p id="b395-6">
+  This Court’s ruling in Price v. United States, 5 Cir. 1953, <span class="citation" data-id="230671"><a href="/opinion/230671/price-v-united-states/" aria-description="Citation for case: Price v. United States">200 F.2d 652</a></span>, does not belie our conclusion that the jurors in the present case, armed with the court’s full charge, applied the correct legal principles to the dispositive facts. The holding in
+  <em>
+   <span class="citation" data-id="230671"><a href="/opinion/230671/price-v-united-states/" aria-description="Citation for case: Price v. United States">Price</a></span>
+  </em>
+  did not create an iron-clad rule but, like most appellate determinations of the prejudicial effect of an erroneous charge, hinged upon the facts and circumstances of that particular case. Our perusal of the original record in
+  <em>
+   <span class="citation" data-id="230671"><a href="/opinion/230671/price-v-united-states/" aria-description="Citation for case: Price v. United States">Price</a></span>
+  </em>
+  reveals that the trial judge delivered a short, formalistic, oral charge, mentioning the reasonable doubt standard only twice. In his second and final instruction on reasonable doubt, the trial judge erroneously placed the burden of proof on the defendant, when he asserted that,
+ </p>
+<blockquote id="b395-7">
+  “There is evidence here of acting on the advice of counsel. In connection therewith, if you find and believe from the evidence, beyond a reasonable doubt, that counsel George Wilson was empowered and authorized to act as agent for the purchaser of these stocks, and that the delivery to him consummated and completed the sale, then, and in that event, the defendant would be entitled to an acquittal.”
+ </blockquote>
+<p id="b395-12">
+  [Original record in Price v. United States,
+  <em>
+   supra,
+  </em>
+  p. 345.] Given the clearly incorrect, culminating instruction on the burden of proving agency, the
+  <em>
+   <span class="citation" data-id="230671"><a href="/opinion/230671/price-v-united-states/" aria-description="Citation for case: Price v. United States">Price</a></span>
+  </em>
+  court, speaking through the present writer, understandably chose not to speculate as to which part of the charge (the initial correct instruction or the final erroneous one) the jury accepted.
+ </p>
+<p id="b395-13">
+  Both Price v. United States,
+  <em>
+   supra
+  </em>
+  and the case upon which the
+  <em>
+   <span class="citation" data-id="230671"><a href="/opinion/230671/price-v-united-states/" aria-description="Citation for case: Price v. United States">Price</a></span>
+  </em>
+  court relied, Kotteakos v. United States, 1945, <span class="citation" data-id="104321"><a href="/opinion/104321/kotteakos-v-united-states/" aria-description="Citation for case: Kotteakos v. United States">328 U.S. 750</a></span>, <span class="citation" data-id="104321"><a href="/opinion/104321/kotteakos-v-united-states/" aria-description="Citation for case: Kotteakos v. United States">66 S.Ct. 1239</a></span>, <span class="citation" data-id="104321"><a href="/opinion/104321/kotteakos-v-united-states/" aria-description="Citation for case: Kotteakos v. United States">90 L.Ed. 1557</a></span>, involved situations radically different from the one which confronts us now. In
+  <span class="citation" data-id="104321"><a href="/opinion/104321/kotteakos-v-united-states/#769" aria-description="Citation for case: Kotteakos v. United States"><em>
+   Kotteakos, supra,
+  </em>
+  p. 769</a></span>, 66 S. Ct. p. 1250, the Supreme Court stressed that the trial court’s erroneous instruction “permeated the entire charge, indeed the entire trial.” The pervasive error in the
+  <em>
+   <span class="citation" data-id="104321"><a href="/opinion/104321/kotteakos-v-united-states/" aria-description="Citation for case: Kotteakos v. United States">Kotteakos</a></span>
+  </em>
+  charge was held to have inevitably confused the jury; the one inadvertent remark attacked by the appellants here was surrounded by a sea of impeccable instructions.
+ </p>
+<p id="b395-14">
+  Each statement made by the judge to the jury must be examined in the light of the entire charge. Gurleski v. United States, 5 Cir. 1968, <span class="citation" data-id="9454142"><a href="/opinion/282906/michael-joseph-gurleski-and-dorothy-villafranca-v-united-states-of/" aria-description="Citation for case: Michael Joseph Gurleski and Dorothy Villafranca v. United...">405 F.2d 253</a></span>; United States v. Birnbaum, 2 Cir. 1967, <span class="citation" data-id="9452537"><a href="/opinion/274839/united-states-v-saul-i-birnbaum/" aria-description="Citation for case: United States v. Saul I. Birnbaum">373 F.2d 250</a></span>, cert. denied, <span class="citation multiple-matches"><a href="/c/U.S./389/837/">389 U.S. 837</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./88/53/">88 S.Ct. 53</a></span>, <span class="citation no-link">19 L.Ed.2d 99</span>. Isolated statements which appear prejudicial when taken out of context may be innocuous when viewed in the light of the entire trial. Locklear v. United States,
+  <em>
+   supra,
+  </em>
+  <span class="citation" data-id="279881"><a href="/opinion/279881/barney-locklear-v-united-states/" aria-description="Citation for case: Barney Locklear v. United States">393 F.2d 730</a></span>; United States v. Wilkinson, 5 Cir. 1972, <span class="citation" data-id="303570"><a href="/opinion/303570/united-states-v-eugene-davis-wilkinson/#732" aria-description="Citation for case: United States v. Eugene Davis Wilkinson">460 F.2d 725, 732</a></span>.
+ </p>
+<p id="b395-15">
+  In his lengthy charge to the jury in the present case, the trial judge correctly depicted the reasonable doubt standard at least nine times [App., Vol. IV, pp. 1439, 1440, 1444, 1447, 1466.] and
+  <span citation-index="1" class="star-pagination" label="336"> 
+   *336
+   </span>
+  climaxed his instructions with the following admonition:
+ </p>
+<blockquote id="b396-4">
+  “Now, in conclusion and summary, if the Government has established each and all of the essential elements contained and charged in the grand jury indictment beyond a reasonable doubt and all of the essential elements thereof beyond a reasonable doubt, then you should find the Defendant guilty on that particular count in the grand jury indictment.” [App., Vol. IV, p. 1478.]
+ </blockquote>
+<p id="b396-5">
+  The cumulative effect of the total jury instruction cured any prejudicial effect of the lone erroneous charge.
+ </p>
+<p id="b396-6">
+  III. DENIAL OF CONFRONTATION
+ </p>
+<p id="b396-7">
+  The crucial evidence which exposed the inflated appraisals consisted of expert opinion testimony based in part on secondhand sources. For example: E. T. Compere estimated the value of the Toyah farm by comparison with sales of 13 comparable tracts of land. Compere’s knowledge of the analogous land sales derived from out-of-court investigation of deed records and conversations with those involved in the sales; evidence of the parallel land value was not supported at trial by the introduction of certified deeds. [App. Vol. II, p. 777.]
+ </p>
+<p id="b396-8">
+  Musgrave objected to the introduction of that expert opinion testimony, exemplified by Compere’s valuation of the Toyah farm, based on secondhand sources. On appeal, he argues that its introduction both violated the hearsay rule and impermissibly encroached upon his sixth amendment right to confrontation.
+ </p>
+<p id="AlF">
+  In United States v. Williams, 5 Cir. 1971, <span class="citation" data-id="298872"><a href="/opinion/298872/united-states-v-james-w-williams/" aria-description="Citation for case: United States v. James W. Williams">447 F.2d 1285</a></span>, this Court, sitting en banc, ruled that:
+ </p>
+<p id="b396-10">
+  1) The admission into evidence of the opinion testimony of an expert witness in a criminal prosecution based upon the witnesses’ investigation of documents not introduced into evidence did not violate the defendant’s sixth amendment right of confrontation where the witness was personally available for cross-examination;
+ </p>
+<p id="b396-12">
+  2) the introduction of such evidence did not violate the hearsay rule; expert witness testimony may be based on secondhand sources even in criminal prosecutions.
+ </p>
+<p id="b396-13">
+  There are no factual distinctions favorable to appellants between this case and
+  <em>
+   Williams;
+  </em>
+  hence, Musgrave’s contention is foreclosed by
+  <em>
+   Williams.
+  </em>
+</p>
+<p id="b396-14">
+  IV. IMPROPER CONSPIRACY/ KNOWLEDGE CHARGE
+ </p>
+<p id="b396-15">
+  In his charge to the jury, the trial judge stated that,
+ </p>
+<blockquote id="b396-16">
+  “One may become a member of a conspiracy without full knowledge of all the details of the conspiracy or without being acquainted with all of the other conspirators.”
+ </blockquote>
+<p id="b396-17">
+  [App., Vol. IV, p. 1457.]
+ </p>
+<p id="b396-18">
+  Musgrave’s attorney objected to this portion of the conspiracy charge, explaining that,
+ </p>
+<blockquote id="b396-19">
+  “As to the issue on conspiracy that the Court, by the manner in which it charged on conspiracy, eliminated from the requirement that the Defendant Musgrave have actual knowledge of the falsity, if any, of the alleged appraisal reports and the inadequacy of the alleged inadequate appraisal reports.”
+ </blockquote>
+<p id="b396-20">
+  [App., Vol. IV, p. 1485.]
+ </p>
+<p id="b396-21">
+  Appellants rely upon United States v. Massiah, 2 Cir. 1962, <span class="citation" data-id="9448761"><a href="/opinion/258052/united-states-v-winston-massiah-mitchell-anfield-leonard-royal-aiken-and/" aria-description="Citation for case: United States v. Winston Massiah, Mitchell Anfield,...">307 F.2d 62</a></span>, to support their contention that use of the contested charge constituted reversible error. In
+  <em>
+   Massiah,
+  </em>
+  a prosecution for conspiracy to import prohibited drugs, two judges of the three-judge panel voted for reversal of the convictions on the conspiracy count, reasoning that the trial court’s charge, identical to the contested charge in the instant case, constituted an impermissible suggestion to the jury that knowledge of importation was not necessary for conviction under the conspiracy count.
+ </p>
+<p id="b397-4">
+<span citation-index="1" class="star-pagination" label="337"> 
+   *337
+   </span>
+  Nonetheless, we think that that ruling is inapplicable to the instant case. The court in
+  <em>
+   Massiah
+  </em>
+  (that is, the majority as concerns this issue) repeatedly stressed that, “the- trial judge failed
+  <em>
+   at any point
+  </em>
+  in his charge on the conspiracy count to instruct the jury that knowledge of illegal importation was a necessary element of the conspiracy.” <span class="citation" data-id="9448761"><a href="/opinion/258052/united-states-v-winston-massiah-mitchell-anfield-leonard-royal-aiken-and/#70" aria-description="Citation for case: United States v. Winston Massiah, Mitchell Anfield,...">307 F.2d at 70</a></span>. The trial judge in
+  <em>
+   Mas-siah
+  </em>
+  charged the necessity of knowledge on the substantive counts but not on the conspiracy count. The crucial error stemmed not from an incurable weakness in the quoted charge, but from a failure to supplement that charge with one clearly delineating the requirement of knowledge for conviction under the conspiracy count.
+ </p>
+<p id="b397-5">
+  In the present case, the trial judge a number of times carefully explained the requirement of knowledge for conviction under the conspiracy count, and in the sentence immediately succeeding the disputed language stated that, “On the other hand, a person who has no knowledge of a conspiracy but happens to act in a way which furthers some object or purpose of the conspiracy does not thereby become a conspirator.” [App., Vol. IV, p. 1457.]
+ </p>
+<p id="b397-6">
+  The precise language contained in the isolated charge to which appellants object was, in fact, utilized by the Supreme Court in Blumenthal v. United States, 1947, <span class="citation" data-id="104486"><a href="/opinion/104486/blumenthal-v-united-states/#557" aria-description="Citation for case: Blumenthal v. United States">332 U.S. 539, 557</a></span>, <span class="citation" data-id="104486"><a href="/opinion/104486/blumenthal-v-united-states/#256" aria-description="Citation for case: Blumenthal v. United States">68 S.Ct. 248, 256</a></span>, <span class="citation no-link">92 L.Ed. 154</span>, where the Court reasoned:
+ </p>
+<blockquote id="b397-7">
+  “Secrecy and concealment are essential features of successful conspiracy. The more completely they are achieved, the more successful the crime. Hence the law rightly gives room for allowing the conviction of those discovered upon showing sufficiently the essential nature of the plan and their connections with it,
+  <em>
+   without requiring evidence of knowledge of all its details or of the participation of others.”
+  </em>
+</blockquote>
+<p id="b397-8">
+  [Emphasis added.] See also cases cited in Wharton’s Criminal Law &amp; Procedure, Vol. I, p. 179 n. 4.
+ </p>
+<p id="b397-11">
+  V. AMENDMENT OF THE GRAND JURY INDICTMENT/IMPEACHMENT OF DEFENSE WITNESS BRYANT
+ </p>
+<p id="b397-12">
+  The first count of the indictment as drawn by the Grand Jury was worded as follows:
+ </p>
+<blockquote id="b397-13">
+  “From on or about May 25,1968, the exact date being to the grand jury unknown, and continuously thereafter until on or about July 25, 1968, in the Midland-Odessa Division of the Western District of Texas, and at divers other places without the jurisdiction of this Court,
+  <em>
+   Kenneth L. Musgrave, Marshall Womack, Jack Bryant, and Homer E. Koon, Jr., defendants herein,
+  </em>
+  willfully and knowingly did combine, conspire, confederate and agree together and with each other, and with persons whose names to the grand jury are not known, to commit offenses against the United States * * * »
+ </blockquote>
+<p id="b397-16">
+  (Emphasis added.)
+ </p>
+<p id="b397-17">
+  In reading the indictment to the jury, the trial judge altered the charging language of Count One so that Bryant and Koon were listed as coconspirators, but not as codefendants:
+ </p>
+<blockquote id="b397-18">
+  “From on or about May 25, 1968, the exact date being to the grand jurors unknown, and continuously thereafter until on or about July 25, 1968, in the Midland-Odessa Division of the Western District of Texas, and at divers other places without the jurisdiction of this Court,
+  <em>
+   Kenneth L. Mus-grave and Marshall Womack, defendants herein, and Jack Bryant and Homer E. Koon, Jr.,
+  </em>
+  willfully and knowingly did combine, conspire, confederate and agree together and with each other, and with persons whose names to the grand jury are not known, to commit offenses against the United States * *
+ </blockquote>
+<p id="b397-19">
+  (Emphasis added.)
+ </p>
+<p id="b397-20">
+  Musgrave, whose defense was partially predicated upon reliance on advice of counsel, called his former attorney, Bryant, to testify as a defense witness. Musgrave’s attorney argued that the
+  <span citation-index="1" class="star-pagination" label="338"> 
+   *338
+   </span>
+  court’s recital of Bryant’s name in the indictment as a coconspirator fatally undermined Musgrave’s defense and improperly impeached Bryant’s credibility. Accordingly, Musgrave’s attorney requested leave to rehabilitate Bryant’s veracity by proving that he had been acquitted in a prior trial. The trial judge refused that request [App. p. 1039].
+ </p>
+<p id="b398-4">
+  Musgrave argues on appeal that his conviction should be reversed because his chief defense witness’ credibility was improperly impeached by reference to his status as a coconspirator without proof of conviction. Womack argues, on the other hand, that the court’s alteration of the language in Count One amounted to an impermissible amendment of a substantive portion of the Grand Jury indictment. Neither of the appellants points to an error requiring reversal.
+ </p>
+<p id="b398-5">
+  A. Assuming that the court’s reference to Bryant as a coconspirator amounted to a viable impairment of Bryant’s credibility, the incident when viewed in context was neither improper nor fatally prejudicial.
+ </p>
+<p id="b398-6">
+  Although it is true that the mere fact of an arrest or indictment of a witness
+  <a class="footnote" href="#fn14" id="fn14_ref">
+   14
+  </a>
+  is not normally admissible for impeachment purposes,
+  <a class="footnote" href="#fn15" id="fn15_ref">
+   15
+  </a>
+  it is also true that where the evidence of an arrest or accusation arises out of the transaction from which the trial arose, it is admissible to show interest or bias on the part of the witness. Mallory v. United States, 9 Cir. 1942, <span class="citation" data-id="6884312"><a href="/opinion/6986160/mallory-v-united-states/" aria-description="Citation for case: Mallory v. United States">126 F.2d 192</a></span>; Alford v. United States, 1931, <span class="citation" data-id="101681"><a href="/opinion/101681/alford-v-united-states/" aria-description="Citation for case: Alford v. United States">282 U.S. 687</a></span>, <span class="citation" data-id="101681"><a href="/opinion/101681/alford-v-united-states/" aria-description="Citation for case: Alford v. United States">51 S.Ct. 218</a></span>, <span class="citation" data-id="101681"><a href="/opinion/101681/alford-v-united-states/" aria-description="Citation for case: Alford v. United States">75 L.Ed. 624</a></span> ; <span class="citation no-link">20 A.L.R.2d 1421</span>, 1446. In United States v. Dardi, 2 Cir. 1964, <span class="citation" data-id="263928"><a href="/opinion/263928/united-states-v-virgil-d-dardi-robert-b-gravis-charles-rosenthal-and/" aria-description="Citation for case: United States v. Virgil D. Dardi, Robert B. Gravis,...">330 F.2d 316</a></span>, a similar case arising in this Circuit, the government was allowed to introduce evidence of the defense witness’ arrest for embezzlement to show his bias and hostility towards the key prosecution witness who was responsible for the defense witness’ arrest.
+ </p>
+<p id="b398-12">
+  In the instant case, although Bryant had been acquitted, his prior status as a eoindictee certainly suggested a personal interest in the litigation,
+  <a class="footnote" href="#fn16" id="fn16_ref">
+   16
+  </a>
+  a potential lack of complete impartiality.
+ </p>
+<p id="b398-13">
+  The decision in Michelson v. United States, 1948, <span class="citation" data-id="9420246"><a href="/opinion/104607/michelson-v-united-states/" aria-description="Citation for case: Michelson v. United States">335 U.S. 469</a></span>, <span class="citation" data-id="9420246"><a href="/opinion/104607/michelson-v-united-states/" aria-description="Citation for case: Michelson v. United States">69 S.Ct. 213</a></span>, <span class="citation no-link">93 L.Ed. 168</span>, upon which Musgrave relies, did not involve an attempt to impeach a witness’ credibility by showing his bias and is therefore inapplicable.
+ </p>
+<p id="b398-14">
+  B. It is clear, as appellant Womack contends, that an indictment may not be amended consistent with the Fifth Amendment except by resubmission to the grand jury. Russell v. United States, 1962, <span class="citation" data-id="9422415"><a href="/opinion/106407/russell-v-united-states/#770" aria-description="Citation for case: Russell v. United States">369 U.S. 749, 770</a></span>, <span class="citation" data-id="9422415"><a href="/opinion/106407/russell-v-united-states/" aria-description="Citation for case: Russell v. United States">82 S.Ct. 1038</a></span>, <span class="citation" data-id="9422415"><a href="/opinion/106407/russell-v-united-states/" aria-description="Citation for case: Russell v. United States">8 L.Ed.2d 240</a></span>; Ex parte Bain, 1887, <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">121 U.S. 1</a></span>, <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">7 S.Ct. 781</a></span>, <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">30 L.Ed. 849</a></span>. However, it is equally clear that withdrawal of a portion of the indictment not supported by the evidence is not an impermissible amendment, providing that nothing is added to the indictment and the remaining allegations charge an offense. United States v. Ballard, 1944, <span class="citation" data-id="9419488"><a href="/opinion/103976/united-states-v-ballard/#90" aria-description="Citation for case: United States v. Ballard">322 U.S. 78, 90-91</a></span>, <span class="citation" data-id="9419488"><a href="/opinion/103976/united-states-v-ballard/" aria-description="Citation for case: United States v. Ballard">64 S.Ct. 882</a></span>, <span class="citation" data-id="9419488"><a href="/opinion/103976/united-states-v-ballard/" aria-description="Citation for case: United States v. Ballard">88 L.Ed. 1148</a></span> (Stone, C. J., dissenting); Overstreet v. United States, 5 Cir. 1963, <span class="citation" data-id="9449560"><a href="/opinion/261543/tillman-overstreet-v-united-states/" aria-description="Citation for case: Tillman Overstreet v. United States">321 F.2d 459</a></span>; Wright, Federal Practice and Procedure; Criminal, § 127, p. 275.
+ </p>
+<p id="b398-15">
+  The statement in Russell v. United States,
+  <em>
+   supra,
+  </em>
+  369 U.S. p. 770, 82 S.Ct. p. 1050, that “ * * * in the federal courts * * * an indictment may not be amended except by resubmission to the grand jury, unless the change is merely a matter of form,” has been in
+  <span citation-index="1" class="star-pagination" label="339"> 
+   *339
+   </span>
+  terpreted by this Court to be only a restatement of the general rule and not an expression intended to restrict the liberal deletion of surplusage from indictments. Marsh v. United States, 5 Cir. 1965, <span class="citation" data-id="267597"><a href="/opinion/267597/kenneth-r-marsh-and-marion-w-martinez-v-united-states/#322" aria-description="Citation for case: Kenneth R. Marsh and Marion W. Martinez v. United States">344 F.2d 317, 322</a></span>.
+ </p>
+<p id="b399-5">
+  By deleting from the indictment the reference to Bryant and Koon as codefendants, while retaining the reference to the same pair as coconspirators, the trial court added nothing to the indictment and subtracted only surplus-age. The remaining allegations charged precisely the same offense.
+ </p>
+<p id="b399-6">
+  We are impressed by the scrupulously fair rulings of the able trial judge. While he failed to attain a standard of perfection, a careful consideration of the entire record convinces us that the appellants were fairly tried and convicted. We find no reversible error. The judgments of conviction are affirmed.
+ </p>
+<p id="b399-7">
+  The separate petitions for rehearing filed by the defendant-appellant Mus-grave and by the defendant-appellant Womack are
+ </p>
+<p id="b399-8">
+  Denied.
+ </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b388-16">
+   . “The first count charged Musgrave, Bryant, Womack
+   <em>
+    and Koon
+   </em>
+   with conspiring to defraud the federally insured Association. The second count charged that Musgrave, aided and abetted by Womack, fraudulently prepared and submitted grossly inflated appraisal reports on real property securing the loans. The fourth count charged that Bryant, aided and . abetted by Musgrave and Womack, unlawfully ‘participated’ in the proceeds of the loans. The sixth count charged that
+   <span citation-index="1" class="star-pagination" label="329"> 
+    *329
+    </span>
+   Musgrave, as Chairman of the Board of the Association and aided and abetted by Womack and Bryant, fraudulently caused the Association to make the loans, knowing that they were not secured by sufficient collateral. The seventh count charged that Musgrave, aided and abetted by Womack and Bryant, unlawfully shared in the loan proceeds. Counts three and five were dismissed.”
+  </p>
+<p id="avi-dedup-0">
+   United States v. Womack, 5 Cir. 1972, <span class="citation" data-id="301345"><a href="/opinion/301345/united-states-v-marshall-womack/#1340" aria-description="Citation for case: United States v. Marshall Womack">454 F.2d 1337, 1340</a></span>.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b389-9">
+   . § 371 provides in pertinent part:
+  </p>
+<blockquote id="b389-10">
+   “If two or more persons conspire either to commit any offense against the United States, or to defraud the United States, or any agency thereof in any manner or for any purpose, and one or more of such persons do any act to effect the object of the conspiracy, each shall be fined not more than $10,000 or imprisoned not more than five years, or both.”
+  </blockquote>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b389-11">
+   . § 657 provides in pertinent part:
+  </p>
+<blockquote id="b389-12">
+   “Whoever, being an officer, agent or employee of or connected in any capacity with * * * any institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation * * *, embezzles, abstracts, purloins or willfully misapplies any monies, funds, credits, securities or other things of value belonging to such institution, or pledged or otherwise intrusted to its care, shall be fined not more than $5,000 or imprisoned not more than five years, or both * *
+  </blockquote>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b389-15">
+   . § 1006 provides in pertinent part:
+  </p>
+<blockquote id="Ay0">
+   “Whoever, being an officer, agent or employee of or connected in any capacity with * * * any institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation * * *, with intent to defraud any such institution * * makes any false entry in any book, report or statement of or to any such institution, or without being duly authorized, * * * issues, puts forth or assigns any note, debenture, bond or other obligation, or draft, bill of exchange, mortgage, judgment, or decree, or, with intent to defraud the United States or any agency thereof, or any corporation, institution, or association referred to in this section, participates or shares in or receives directly or indirectly any money, profit, property, or benefits through any transaction, loan, commission, contract, or any other act of any such corporation, institution, or association, shall be fined not more than $10,000 or imprisoned not more than five years, or both.”
+  </blockquote>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b389-26">
+   . In United States v. Musgrave, 5 Cir. 1971, <span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">444 F.2d 755</a></span>, Musgrave’s initial conviction was reversed on several grounds — the trial judge exhibited a prosecutor’s zeal by his inflammatory remarks to the jury and failed to instruct the jury on essential elements of the crimes charged in two of the Counts.
+  </p>
+<p id="azs-dedup-0">
+   In addition, Bryant, who had been convicted along with Musgrave, was ordered acquitted because no substantial evidence existed to support the jury’s verdict against him.
+  </p>
+<p id="b389-29">
+   In United States v. Womack, 5 Cir. 1972, <span class="citation" data-id="301345"><a href="/opinion/301345/united-states-v-marshall-womack/" aria-description="Citation for case: United States v. Marshall Womack">454 F.2d 1337</a></span>, Womack’s conviction, procured in a subsequent trial, was reversed on the ground that the trial judge erred in not withdrawing from the case after having made derogatory comments (in the first trial) indicating Wo-mack’s complicity in the fraud.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b390-6">
+   . Koon was acquitted by the jury in the first trial, United States v. <span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">Musgrave,
+   <em>
+    supra.
+   </em></a></span>
+</p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b390-7">
+   . Both Herman and Compere were MAI appraisers, that is, members of the American Institute of Real Estate Appraisers of the National Association of Real Estate Boards.
+  </p>
+<p id="b390-8">
+   Herman, in describing the Trans-American Building, testified that,
+  </p>
+<p id="b390-9">
+   1) it is on the perimeter of a good office-financial area [App., Vol. I, p. 393] ;
+  </p>
+<p id="b390-10">
+   2) it is a 17-story building [App., Vol. I, p. 393] ;
+  </p>
+<p id="b390-11">
+   3) the building was constructed in the late 20’s or early 30’s and is “sort of functionally obsolete in many respects today” [App. Vol. I, p. 394] ;
+  </p>
+<p id="b390-12">
+   4) only 41% of the floor area was leased in October, 1968 [App., Vol. I, p. 399] ;
+  </p>
+<p id="b390-13">
+   5) in the year prior to Herman’s inspection the building produced an income of $88,101, but incurred expenses totaling $111,000, suffering a net loss of $23,000 [App., Vol. II, p. 430],
+  </p>
+<p id="b390-14">
+   In his testimony, Herman delineated the three principal methods of appraisal:
+  </p>
+<p id="b390-15">
+   1) The
+   <em>
+    reproduction, cost
+   </em>
+   approach— the cost of building the structure today minus depreciation (both physical deterioration and economic obsolescence), plus the value of the land (based on sales of comparable land in the area) [App., Vol. II, p. 407].
+  </p>
+<p id="b390-20">
+   2) The
+   <em>
+    income or economic approach
+   </em>
+   —the gross income capability of the building with allowance for vacant floor area less operating expenses. The resulting net income is capitalized into an indication of the properties’ value [App., Vol. II, p. 408],
+  </p>
+<p id="b390-21">
+   3) The
+   <em>
+    market data approach
+   </em>
+   — a valuation based on the recent selling price of similar property in the vicinity of the appraised structure [App., Vol. II, p. 408].
+  </p>
+<p id="b390-22">
+   Utilizing the reproduction cost approach, Herman estimated the value of the Trans-American Building and land to be $657,000 [App., Vol. II, p. 471]. However, he placed more credence on the income approach, which yielded a smaller figure. Correlating all three approaches, he arrived at an average value of $600,-000 for the Trans-American Building.
+  </p>
+<p id="b390-23">
+   On the crucial leasehold interest which Womack owned, Herman placed a value of only $145,000 [App., Vol. II, p. 473], and Compere the value of $230,000 [App., Vol. II, p. 677].
+  </p>
+<p id="b390-25">
+   Mr. Compere, using the market data approach, derived a value of $110,000 for the Toyah farm based on the selling price of 13 comparable properties. [App., Vol. II, pp. 717, 743].
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b391-13">
+   . Although the Musgrave-tVomack contract called for MAI appraisals, Musgrave submitted valuations prepared by Vernon Thomas and himself, neither of whom were MAI qualified. Botli of the ap-l&gt;raisal figures submitted by Musgrave exceeded 133%% of the loan totals — a requirement for a 75% loan.
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b392-7">
+   . Nathan Brown, a real estate investor who acted as agent for All-Ways, Inc., the predecessor in title to the Toyah farm, testified at the second trial that Bryant was present during negotiations between Brown and Womack culminating in sale of the farm to Womack for $167,000. In addition, Brown intimated that Bryant was aware of the fact that the title insurance company refused to insure title to all of the land transferred from All-Ways to Womack [App. pp. 344, 345].
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b393-9">
+   . Except in a situation like Herman v. United States,
+   <em>
+    supra,
+   </em>
+   where the only conspirator who committed any overt act is acquitted in a joint trial.
+  </p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b393-10">
+   . In the case last cited, Judge Learned Hand noted the rational inconsistency of the holding, but explained why that was no more fatal than is the problem which arises when, the verdicts upon two counts are logically inconsistent.
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="b393-17">
+   . The decision has heretofore been cited with approval by this Circuit. Rosecrans v. United States, 1967, <span class="citation" data-id="276185"><a href="/opinion/276185/william-sterling-rosecrans-jr-v-united-states/" aria-description="Citation for case: William Sterling Rosecrans, Jr. v. United States">378 F.2d 561</a></span>, 567 n. 10.
+  </p>
+</div><div class="footnote" id="fn13" label="13">
+<a class="footnote" href="#fn13_ref">
+   13
+  </a>
+<p id="b394-14">
+   . The objection of Musgrave’s attorney was made after the jury had retired to consider its verdict, but he had not been accorded earlier adequate opportunity to make the objection (see. App., Vol. IV, pp. 1482-1485) as required by Rule 51, F.R.Civ.P. Hence the objection was timely.
+  </p>
+</div><div class="footnote" id="fn14" label="14">
+<a class="footnote" href="#fn14_ref">
+   14
+  </a>
+<p id="b398-7">
+   . Musgrave argues that the practical effect of listiDg Bryant as a coconspirator is the same as listing him as a codefendant— the jury will inevitably guess at his guilt or innocence. For purposes of argument, we assume that observation to be correct.
+  </p>
+</div><div class="footnote" id="fn15" label="15">
+<a class="footnote" href="#fn15_ref">
+   15
+  </a>
+<p id="b398-8">
+   . Wigmore explains the rule as founded upon the realization that, “the fact of arrest or indictment is quite consistent with innocence, and
+   <em>
+    * *
+   </em>
+   * the reception of such evidence is merely the reception of somebody’s hearsay assertion as to the witness’ guilt.” Wigmore on Evidence, Vol. IIIA, § 980a, p. 835.
+  </p>
+</div><div class="footnote" id="fn16" label="16">
+<a class="footnote" href="#fn16_ref">
+   16
+  </a>
+<p id="b398-17">
+   . In analogous cases where a nonacquitted coindictee testified for the accused, his situation has been viewed as one tempting him to exonerate the other accused and thus help towards his own freedom. See Wigmore on Evidence, Yol. IIIA, § 967, p. 816.
+  </p>
+</div></div></opinion>

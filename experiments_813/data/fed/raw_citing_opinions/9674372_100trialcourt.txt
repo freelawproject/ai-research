@@ -1,0 +1,714 @@
+<pre class="inline">                  UNITED STATES DISTRICT COURT                           
+              FOR THE NORTHERN DISTRICT OF ILLINOIS                      
+                        EASTERN DIVISION                                 
+
+IN RE: 100% GRATED PARMESAN CHEESE    )                                  
+MARKETING AND SALES PRACTICES         )  16 C 5802                       
+LITIGATION                            )  MDL 2705                        
+                                      )                                  
+                                      )  Judge Gary Feinerman            
+This Document Relates to All Cases    )                                  
+                  MEMORANDUM OPINION AND ORDER                           
+    Defendants in this multidistrict litigation are purveyors of grated parmesan cheese 
+products with labels stating “100% Grated Parmesan Cheese” or some variation thereof.  After 
+the Judicial Panel on Multidistrict Litigation assigned these suits to the undersigned judge, Doc. 
+1, Plaintiffs filed five consolidated class action complaints, Docs. 120-123, 143, which alleged 
+that they were misled by the “100% Grated Parmesan Cheese” labels because the products 
+contained non-cheese ingredients such as cellulose.  Defendants moved to dismiss the complaints 
+under Civil Rules 12(b)(1) and 12(b)(6).  The court denied the Rule 12(b)(1) motions but granted 
+the Rule 12(b)(6) motions without prejudice to repleading.  Docs. 215-216 (reported at </pre><span class="citation" data-id="7245285"><a href="/opinion/7327369/in-re-100-grated-parmesan-cheese-marketing-sales-practices-litigation/" aria-description="Citation for case: In re 100% Grated Parmesan Cheese Marketing &amp; Sales...">275 F. 
+Supp. 3d 910</a></span><pre class="inline"> (N.D. Ill. 2017)).                                           
+    Plaintiffs then filed five amended consolidated class action complaints.  Doc. 225 
+(against Kraft Heinz Company); Doc. 226 (against Publix Super Markets, Inc.); Doc. 227 
+(against Albertsons Companies, Inc., Albertsons LLC, and SuperValu, Inc.); Doc. 228 (against 
+Target Corp. and ICCO-Cheese Company, Inc.); Doc. 229 (against Wal-Mart Stores, Inc. and 
+ICCO-Cheese Company, Inc.).  Like the initial complaints, the amended complaints allege that 
+Plaintiffs were misled by the “100% Grated Parmesan Cheese” labels because the products in 
+fact contained cellulose.  In addition, the amended complaints except for the one against Publix 
+allege that the products’ ingredient lists were misleading because they represented that the 
+cellulose was added to prevent caking, when in fact the cellulose also acted as filler. 
+    Defendants moved to dismiss the amended complaints under Rule 12(b)(6).  Docs. 237, 
+238, 243, 246, 249.  Those motions were granted as to the claims based on the “100% Grated 
+
+Parmesan Cheese” label (the “100% claims”) and granted in part and denied in part as to the 
+claims based on the ingredient lists’ representation that cellulose was added to prevent caking 
+(the “Anticaking claims”), and Publix and Target/ICCO were dismissed as defendants.  Docs. 
+296-297 (reported at </pre><span class="citation" data-id="8312734"><a href="/opinion/8344298/in-re-100-grated-parmesan-cheese-mktg-sales-practices-litig/" aria-description="Citation for case: In re 100% Grated Parmesan Cheese Mktg. &amp; Sales Practices...">348 F. Supp. 3d 797</a></span><pre class="inline"> (N.D. Ill. 2018)).  Plaintiffs now move under Rule 
+15(a)(2) to amend their complaints to allege an Anticaking claim against Publix and to cure the 
+defects in their Anticaking claim against Target/ICCO, Doc. 306; Albertsons/SuperValu moves 
+under Rule 56 for partial summary judgment and under Rule 12(c) for partial judgment on the 
+pleadings, Doc. 309; and Kraft moves under Rule 12(c) for judgment on the pleadings, Doc. 314.  
+Plaintiffs’ motion is denied, and Albertsons/SuperValu’s and Kraft’s respective motions are 
+granted in part and denied in part.                                       
+
+                           Background                                    
+    When considering Albertsons/SuperValu’s motion for partial summary judgment, the 
+facts are construed as favorably to Plaintiffs, the non-movants, as the record and local Rule 56.1 
+permit.  See Johnson v. Advocate Health &amp; Hosps. Corp., </pre><span class="citation" data-id="9886540"><a href="/opinion/4505785/warren-johnson-v-advocate-health-and-hospitals/#893" aria-description="Citation for case: Warren Johnson v. Advocate Health and Hospitals">892 F.3d 887, 893</a></span><pre class="inline"> (7th Cir. 2018).  
+When considering Albertsons/SuperValu’s and Kraft’s Rule 12(c) motions, the court assumes the 
+truth of the operative complaints’ well-pleaded factual allegations, though not their legal 
+conclusions.  See Bishop v. Air Line Pilots Ass’n, Int’l, </pre><span class="citation" data-id="8410887"><a href="/opinion/8440061/bishop-v-air-line-pilots-assn/#397" aria-description="Citation for case: Bishop v. Air Line Pilots Ass&#x27;n">900 F.3d 388, 397</a></span><pre class="inline"> (7th Cir. 2018).  The 
+court must also consider “documents attached to the complaint[s], documents that are critical to 
+the complaint[s] and referred to in [them], and information that is subject to proper judicial 
+notice,” along with additional facts set forth in Plaintiffs’ opposition briefs, so long as those 
+additional facts “are consistent with the pleadings.”  Phillips v. Prudential Ins. Co. of Am., </pre><span class="citation" data-id="866703"><a href="/opinion/866703/zena-phillips-v-the-prudential-insurance-compa/#1019" aria-description="Citation for case: Zena Phillips v. The Prudential Insurance Compa">714 
+F.3d 1017, 1019-20</a></span><pre class="inline"> (7th Cir. 2013) (internal quotation marks omitted); see also N. Ind. Gun &amp; 
+Outdoor Shows, Inc. v. City of S. Bend, </pre><span class="citation" data-id="760151"><a href="/opinion/760151/northern-indiana-gun-outdoor-shows-inc-v-city-of-south-bend-stephen/#452" aria-description="Citation for case: Northern Indiana Gun &amp; Outdoor Shows, Inc. v. City of...">163 F.3d 449, 452</a></span><pre class="inline"> (7th Cir. 1998).  The facts are set forth 
+
+as favorably to Plaintiffs as those materials allow.  See Brown v. Dart, </pre><span class="citation" data-id="8415053"><a href="/opinion/8443632/brown-v-dart/#940" aria-description="Citation for case: Brown v. Dart">876 F.3d 939, 940</a></span><pre class="inline"> (7th 
+Cir. 2017).  The court must assume the truth of the facts relevant to each motion, but does not 
+vouch for them.  See Donley v. Stryker Sales Corp., </pre><span class="citation" data-id="8415155"><a href="/opinion/8443730/donley-v-stryker-sales-corp/#636" aria-description="Citation for case: Donley v. Stryker Sales Corp.">906 F.3d 635, 636</a></span><pre class="inline"> (7th Cir. 2018); 
+Goldberg v. United States, </pre><span class="citation" data-id="8410577"><a href="/opinion/8439773/goldberg-v-united-states/#531" aria-description="Citation for case: Goldberg v. United States">881 F.3d 529, 531</a></span><pre class="inline"> (7th Cir. 2018).             
+    A detailed description of Plaintiffs’ allegations appears in the court’s prior opinions, 
+familiarity with which is assumed.  In brief, Defendants Kraft Heinz Company, Albertsons 
+Companies, Inc., Albertsons LLC (the two Albertsons entities will be referred to together as 
+“Albertsons”), SuperValu, Inc., Target Corporation, Wal-Mart Stores, Inc., ICCO-Cheese 
+Company, Inc., and Publix Super Markets, Inc. design, develop, manufacture, sell, test, package, 
+label, distribute, promote, market, and/or advertise grated parmesan cheese products.  Doc. 225 
+
+at ¶ 19; Doc. 226 at ¶ 10; Doc. 227 at ¶ 16; Doc. 228 at ¶¶ 13-14; Doc. 229 at ¶¶ 15, 29.  
+(Albertsons and SuperValu, close corporate relatives, are named in one complaint.  Doc. 227.  
+ICCO manufactures the products for both Target and Wal-Mart, and is named as a defendant in 
+both the Target and Wal-Mart complaints.  Docs. 228-229.)  At all relevant times, Defendants’ 
+products bore labels stating “100% Grated Parmesan Cheese,” Doc. 225 at ¶ 21; Doc. 227 at 
+¶ 18; Doc. 228 at ¶ 18; Doc. 229 at ¶ 18, or some variation thereof, Doc. 225 at ¶ 21; Doc. 226 at 
+¶ 12; Doc. 227 at ¶ 18; Doc. 228 at ¶ 18; Doc. 229 at ¶ 18.               
+    Defendants’ products are comprised largely of cured, dried hard Italian cheeses, Doc. 225 
+at ¶ 26; Doc. 226 at ¶ 15; Doc. 227 at ¶ 22; Doc. 228 at ¶ 21; Doc. 229 at ¶ 22, but also include a 
+small but nontrivial percentage of cellulose, an organic polymer with no nutritional value that is 
+“often used as a filler.”  Doc. 225 at ¶¶ 23-24 (Kraft, 3.8%); Doc. 226 at ¶ 13 (Publix, “a 
+significant portion”); Doc. 227 at ¶¶ 19-20 (Albertsons/SuperValu, 8.8%); Doc. 228 at ¶ 19 
+(Target/ICCO, no percentage specified); Doc. 229 at ¶¶ 19-20 (Wal-Mart/ICCO, 7.8%).  Each 
+
+product’s ingredient list, located on the rear label, lists cellulose and asserts that the cellulose is 
+used to prevent “caking.”  Doc. 225 at ¶ 4; Doc. 227 at ¶ 4; Doc. 228 at ¶ 4; Doc. 229 at ¶ 4.  
+However, grated parmesan “usually available in the marketplace” is cured and dried in such a 
+way that there is “little problem of clumping or agglomeration,” so there in fact is little need to 
+ensure that grated parmesan does not clump or “cake.”  Doc. 225 at ¶ 26; Doc. 227 at ¶ 22; Doc. 
+228 at ¶ 21; Doc. 229 at ¶ 22.  According to the U.S. Food and Drug Administration (“FDA”), 
+dried cheese products should be, at most, 2% cellulose.  Grated Cheeses; Amendment of the 
+Standard of Identity, </pre><span class="citation no-link">51 Fed. Reg. 30,210</span><pre class="inline">, 30,210 (Aug. 25, 1986).  After commissioning an 
+independent laboratory to test several cured, dried cheese products, Bloomberg reported that 
+many such products contained significantly more than 2% cellulose and specified the percentage 
+
+of cellulose found in the Albertsons/SuperValu, Wal-Mart/ICCO, and Kraft products.  See Lydia 
+Mulvaney, The Parmesan Cheese You Sprinkle on Your Penne Could Be Wood, Bloomberg (Feb. 
+16, 2016, 4:00 AM), https://www.bloomberg.com/news/articles/2016-02-16/the-parmesan-
+cheese-you-sprinkle-on-your-penne-could-be-wood.                          
+    Plaintiffs are consumers who purchased Defendants’ products at grocery stores in 
+Alabama (Kraft, Albertsons/SuperValu, Wal-Mart/ICCO), California (Kraft, Target/ICCO, 
+Wal-Mart/ICCO), Connecticut (Kraft), Florida (Kraft, Publix, Target/ICCO, Wal-Mart/ICCO), 
+Illinois (Kraft, Albertsons/SuperValu, Target/ICCO), Michigan (Kraft), Minnesota (Kraft, 
+Wal-Mart/ICCO), Missouri (Target/ICCO), New Jersey (Wal-Mart/ICCO), and New York 
+(Kraft, Wal-Mart/ICCO).  Doc. 225 at ¶¶ 9-17; Doc. 226 at ¶¶ 8-9; Doc. 227 at ¶¶ 9-11; Doc. 
+228 at ¶¶ 9-12; Doc. 229 at ¶¶ 9-14.  Plaintiffs purchased the products believing that they 
+contained only cheese.  Doc. 225 at ¶¶ 9-17; Doc. 226 at ¶¶ 8-9; Doc. 227 at ¶¶ 9-11; Doc. 228 at 
+¶¶ 9-12; Doc. 229 at ¶¶ 9-14.  In addition, in every amended complaint except the one against 
+
+Publix, Plaintiffs allege that the products’ ingredient lists stated that cellulose was added “to 
+prevent caking,” Doc. 225 at ¶ 46; Doc. 227 at ¶ 39; Doc. 228 at ¶ 40; Doc. 229 at ¶ 4, but that 
+the amount of cellulose exceeded what was necessary to prevent caking, Doc. 225 at ¶ 27; Doc. 
+227 at ¶ 23; Doc. 228 at ¶ 22; Doc. 229 at ¶ 23, and therefore that the cellulose must also serve 
+the undisclosed purpose of acting as filler, Doc. 225 at ¶ 4; Doc. 227 at ¶ 4; Doc. 228 at ¶ 2; Doc. 
+229 at ¶ 4.                                                               
+                           Discussion                                    
+I.   Standing                                                             
+    As noted, Plaintiffs’ 100% claims have been dismissed, leaving only their Anticaking 
+claims.  Kraft argues that Plaintiffs cannot bring those claims in federal court because their 
+
+allegations do not satisfy the causation requirement of Article III standing.  Doc. 316 at 19-21.  
+As the court explained in its more recent opinion in this case—and as reiterated below—
+Plaintiffs by necessary implication allege in the operative complaints that they did not see the 
+Anticaking representation on the products’ ingredient labels before purchase.  </pre><span class="citation" data-id="8312734"><a href="/opinion/8344298/in-re-100-grated-parmesan-cheese-mktg-sales-practices-litig/#810" aria-description="Citation for case: In re 100% Grated Parmesan Cheese Mktg. &amp; Sales Practices...">348 F. Supp. 3d at 
+810</a></span><pre class="inline">.  Kraft reasons that because Plaintiffs never saw the Anticaking representation, they cannot 
+have sustained an injury that is “fairly traceable to” that statement and thus do not have standing.  
+Spokeo, Inc. v. Robins, </pre><span class="citation" data-id="9823248"><a href="/opinion/3203762/spokeo-inc-v-robins/#1547" aria-description="Citation for case: Spokeo, Inc. v. Robins">136 S. Ct. 1540, 1547</a></span><pre class="inline"> (2016).                     
+    Kraft’s argument fails for the reasons given in the court’s first opinion in this case.  </pre><span class="citation" data-id="7245285"><a href="/opinion/7327369/in-re-100-grated-parmesan-cheese-marketing-sales-practices-litigation/#918" aria-description="Citation for case: In re 100% Grated Parmesan Cheese Marketing &amp; Sales...">275 
+F. Supp. 3d at 918-19</a></span><pre class="inline">.  As the court explained, under In re Aqua Dots Products Liability 
+Litigation, </pre><span class="citation" data-id="223433"><a href="/opinion/223433/in-re-aqua-dots-products-liability-litigation/#750" aria-description="Citation for case: In Re Aqua Dots Products Liability Litigation">654 F.3d 748, 750-51</a></span><pre class="inline"> (7th Cir. 2011), a plaintiff has standing to bring a consumer 
+protection claim if the allegedly deceptive practice caused her to pay more for the product than 
+she otherwise would have paid.  That test is satisfied here: If Defendants had disclosed on their 
+labels that cellulose was added in part as filler, at least some consumers would not have 
+
+purchased the products or would not have been willing to pay as much for them, which—
+applying basic supply-and-demand principles—would have driven down the price for all 
+consumers, even those who did not read the labels.  Indeed, that Defendants included the 
+Anticaking representation on the products’ ingredient labels—even though, as they conceded at 
+the motion hearing, the representation is not required by law, Doc. 341—strongly suggests that 
+the representation helped Defendants sell more cheese at higher prices, thereby driving up the 
+price for all consumers.  Plaintiffs therefore have Article III standing to pursue the Anticaking 
+claims.                                                                   
+II.  Plaintiffs’ Motion for Leave to Amend as to Publix and Target/ICCO   
+    Plaintiffs move for leave to file second amended consolidated complaints against Publix 
+
+and Target/ICCO.  Doc. 306.  The court’s more recent opinion dismissed Publix and Target as 
+defendants after holding that Plaintiffs did not bring an Anticaking claim against Publix and that 
+their Anticaking claims against Target/ICCO were too vague to satisfy federal pleading standards 
+because they did not allege the percentage of cellulose in the Target/ICCO products.  </pre><span class="citation" data-id="8312734"><a href="/opinion/8344298/in-re-100-grated-parmesan-cheese-mktg-sales-practices-litig/#803" aria-description="Citation for case: In re 100% Grated Parmesan Cheese Mktg. &amp; Sales Practices...">348 
+F. Supp. 3d at 803, 808, 818</a></span><pre class="inline">.  Plaintiffs attempt in their proposed second amended complaints to 
+remedy both defects by bringing Anticaking claims against Publix and by alleging the amount of 
+cellulose in the Publix and Target/ICCO products.  Doc. 306 at 2.         
+    The parties dispute which standard governs Plaintiffs’ motion.  Plaintiffs contend that the 
+lenient Rule 15(a)(2) standard applies.  Doc. 306 at 2; Doc. 327 at 2-4.  Publix and Target/ICCO 
+contend that the court’s more recent order must be considered a final judgment dismissing all 
+claims against them with prejudice, and therefore that the more demanding standards for 
+amending a judgment under Rule 59(e) or Rule 60(b) govern.  Doc. 324 at 5-9; Doc. 325 at 10-
+11.  The court need not resolve the dispute because Plaintiffs’ motion fails even under the more 
+
+lenient Rule 15(a)(2) standard.                                           
+    Rule 15(a)(2) provides that leave to amend “shall be freely given when justice so 
+requires.”  Fed. R. Civ. P. 15(a)(2).  That said, district courts “have broad discretion to deny 
+leave to amend where there is undue delay, bad faith, dilatory motive, repeated failure to cure 
+deficiencies, undue prejudice to the defendants, or where the amendment would be futile.”  Right 
+Field Rooftops, LLC v. Chi. Cubs Baseball Club, LLC, </pre><span class="citation" data-id="4200777"><a href="/opinion/4423524/right-field-rooftops-llc-v-chicago-cubs-baseball-club-llc/#693" aria-description="Citation for case: Right Field Rooftops, LLC v. Chicago Cubs Baseball Club, LLC">870 F.3d 682, 693</a></span><pre class="inline"> (7th Cir. 2017).  
+Although a plaintiff ordinarily should be given at least one opportunity to amend, see Pension 
+Trust Fund for Operating Eng’rs v. Kohl’s Corp., </pre><span class="citation" data-id="9886827"><a href="/opinion/4516417/pension-trust-fund-for-operating-engrs-v-kohls-corp/#941" aria-description="Citation for case: Pension Trust Fund for Operating Eng&#x27;rs v. Kohl&#x27;s Corp.">895 F.3d 933, 941</a></span><pre class="inline"> (7th Cir. 2018), she is not 
+entitled to additional opportunities if she fails to remedy defects apparent at the time of the prior 
+amendment, nor is she entitled to amend if she made a considered, strategic choice not to include 
+
+information known to her at that time.  See Mulvania v. Sheriff of Rock Island Cnty., </pre><span class="citation" data-id="8414547"><a href="/opinion/8443198/mulvania-v-sheriff-of-rock-island-county/#855" aria-description="Citation for case: Mulvania v. Sheriff of Rock Island County">850 F.3d 
+849, 855</a></span><pre class="inline"> (7th Cir. 2017) (affirming the district court’s denial of leave to amend to assert an ADA 
+claim where the plaintiff “could have alleged the ADA claim at the beginning of the suit,” “[t]he 
+lengthy delay could not be justified by newly discovered information,” and “the [district] court 
+suggested that the delay was strategic”); McCoy v. Iberdrola Renewables, Inc., </pre><span class="citation" data-id="2708372"><a href="/opinion/2708372/aaron-mccoy-v-iberdrola-renewables-inc/#687" aria-description="Citation for case: Aaron McCoy v. Iberdrola Renewables, Inc.">760 F.3d 674, 
+687</a></span><pre class="inline"> (7th Cir. 2014) (“Outland presented no excuse for omitting … three [proposed legal] 
+theories originally, and the unexplained delay looks more like procedural gamesmanship than 
+legitimate ignorance or oversight.”); First Wis. Fin. Corp. v. Yamaguchi, </pre><span class="citation" data-id="483600"><a href="/opinion/483600/first-wisconsin-financial-corporation-v-thomas-yamaguchi/#373" aria-description="Citation for case: First Wisconsin Financial Corporation v. Thomas Yamaguchi">812 F.2d 370, 373</a></span><pre class="inline"> (7th 
+Cir. 1987) (“By its own account, First Wisconsin did not try to amend the complaint for six 
+months after learning of Yamaguchi’s complicity.  First Wisconsin explains that it waited 
+because it did not want to risk a postponement of the trial scheduled for May 1986.  This damns 
+rather than justifies the delay, however; First Wisconsin concedes that it tried to split this case 
+and, for its own convenience, obtain two trials.  District courts are entitled to protect themselves, 
+
+and other litigants whose cases would be affected, against such strategic conduct.”). 
+    Here, Plaintiffs were on notice after the court issued its first opinion, which dismissed 
+without prejudice their 100% claims, that those claims suffered from serious and potentially 
+irremediable defects.  When Plaintiffs filed their amended complaints, they not only repleaded 
+their 100% claims, but also added Anticaking claims (except against Publix), undoubtedly 
+because they realized that their 100% claims might again be dismissed.  Docs. 225 at ¶ 50; Doc. 
+227 at ¶ 43; Doc. 228 at ¶ 44; Doc. 229 at ¶ 46.  To support their Anticaking claims against 
+Kraft, Wal-Mart/ICCO, and Albertsons/SuperValu, Plaintiffs alleged the percentage of cellulose 
+in those Defendants’ products, but their Target/ICCO amended complaint did not allege 
+comparable information about the Target/ICCO product.  Doc. 225 at ¶ 23; Doc. 227 at ¶ 19; 
+
+Doc. 229 at ¶ 19.                                                         
+    At a hearing shortly after Plaintiffs filed their present motion for leave to amend, the 
+court asked them to explain the discrepancies between the Publix amended complaint (which did 
+not bring an Anticaking claim) and Target/ICCO amended complaint (which brought an 
+Anticaking claim but did not allege the amount of cellulose in the Target/ICCO product), on the 
+one hand, and the amended complaints against the other Defendants (which brought Anticaking 
+claims and alleged the amount of cellulose in the other Defendants’ products), on the other.  In 
+response, Plaintiffs stated that even though “there were people in the [Plaintiff] group that had 
+done some tests” to determine the amount of cellulose in the Publix and Target/ICCO products, 
+Plaintiffs decided to base their Anticaking allegations solely on the Bloomberg data—which did 
+not include the amounts of cellulose in the Target/ICCO and Publix products—because the 
+Bloomberg tests were “publicly done by an independent organization.”  Doc. 324-2 at 14-15; see 
+also Doc. 327 at 6 (“Plaintiffs decided to plead certain test results from a single, publicly 
+
+available report in complaints filed against certain other defendants in this MDL, but not private 
+testing results relating to Publix’s and Target/ICCO’s products … .”).    
+    Thus, when they filed their amended complaints, Plaintiffs knew that their 100% claims 
+might not survive, were sufficiently attuned to that danger that they added Anticaking claims, 
+and had the information needed to allege the amount of cellulose in all Defendants’ products, 
+including the Publix and Target/ICCO products.  Yet Plaintiffs’ amended complaint against 
+Target/ICCO did not allege the percentage of cellulose in the Target/ICCO product, and their 
+amended complaint against Publix did not bring an Anticaking claim at all.  Those choices had 
+consequences during the second round of Rule 12(b)(6) motions: (1) with the dismissal of 
+Plaintiffs’ amended 100% claims against Publix, Publix was dismissed from the suit altogether 
+
+because there were no Anticaking claims to consider; and (2) the court was put to the task of 
+evaluating whether the Anticaking claims against Target/ICCO could survive dismissal given 
+that Plaintiffs did not allege the percentage of cellulose in the Target/ICCO product, and held 
+that they could not, which led to the dismissal of the Target/ICCO amended complaint in its 
+entirety.  </pre><span class="citation" data-id="8312734"><a href="/opinion/8344298/in-re-100-grated-parmesan-cheese-mktg-sales-practices-litig/#803" aria-description="Citation for case: In re 100% Grated Parmesan Cheese Mktg. &amp; Sales Practices...">348 F. Supp. 3d at 803, 808, 818</a></span><pre class="inline">.                              
+    Given these circumstances, Plaintiff will not be given an opportunity to do in second 
+amended complaints against Publix and Target/ICCO what they should and easily could have 
+done in their first amended complaints.  The court “can only assume that [Plaintiffs’] decisions 
+not to attempt” to plead an Anticaking claim against Publix despite having information about the 
+percentage of cellulose in the Publix product, and not to use the information they had to allege 
+the percentage of cellulose in the Target/ICCO product, “were strategic, and so their attempts to 
+take those steps now are unavailing.”  Lowinger v. Oberhelman, </pre><span class="citation" data-id="4395528"><a href="/opinion/4618275/robert-lowinger-v-douglas-oberhelman/#370" aria-description="Citation for case: Robert Lowinger v. Douglas Oberhelman">924 F.3d 360, 370</a></span><pre class="inline"> (7th Cir. 
+2019).  Plaintiffs certainly were entitled to withhold the Anticaking claim from the Publix 
+
+amended complaint, and to withhold the percentage of cellulose in the Target/ICCO product 
+from the Target/ICCO amended complaint, and hope that their claims against those Defendants 
+would nonetheless satisfy federal pleading standards.  But having gambled and lost, Plaintiffs 
+“must live with the consequences of [their] strategic decision.”  Int’l Coll. of Surgeons v. City of 
+Chicago, </pre><span class="citation" data-id="6973725"><a href="/opinion/7069390/international-college-of-surgeons-v-city-of-chicago/#366" aria-description="Citation for case: International College of Surgeons v. City of Chicago">153 F.3d 356, 366</a></span><pre class="inline"> (7th Cir. 1998); see also Dyson, Inc. v. SharkNinja Operating LLC, 
+</pre><span class="citation no-link">2019 WL 1454509</span><pre class="inline">, at *9 (N.D. Ill. Mar. 31, 2019) (collecting cases).      
+    In so holding, the court acknowledges that “[d]elay by itself is normally an insufficient 
+reason to deny a motion for leave to amend.  Delay must be coupled with some other reason … , 
+[t]ypically, … prejudice to the non-moving party … .”  Liebhart v. SPX Corp., </pre><span class="citation" data-id="4374430"><a href="/opinion/4597177/william-liebhart-v-spx-corporation/#965" aria-description="Citation for case: William Liebhart v. SPX Corporation">917 F.3d 952, 965</a></span><pre class="inline"> 
+(7th Cir. 2019).  But there are reasons other than delay to deny leave to amend here, namely, 
+
+Plaintiffs’ strategic conduct in purposely omitting from the Publix and Target/ICCO amended 
+complaints the claim (as to Publix) and factual content (as to Publix and Target/ICCO) they now 
+seek to add.  Granting leave to amend would be particularly inappropriate as to Publix because 
+Publix’s motion to dismiss the original complaint expressly highlighted the weaknesses in the 
+100% claim for which the new Anticaking claim is designed to compensate.  Doc. 174 at 7-13.  
+An amendment at this late stage, following two hard-fought Rule 12(b)(6) rounds that took 
+significant time and effort for the parties to litigate and for the court to resolve, would therefore 
+prejudice Publix and Target/ICCO by “forcing [them] to articulate [even more] reasons for 
+dismissal, and, at the same time providing [Plaintiffs] with the opportunity to correct mistakes 
+facially apparent since the first complaint after the defendants had shown their hand.”  Thompson 
+v. Ill. Dep’t of Prof’l Regulation, </pre><span class="citation multiple-matches"><a href="/c/F.3d/300/750/">300 F.3d 750</a></span><pre class="inline">, 759 (7th Cir. 2002).    
+    For these reasons, Plaintiffs’ motion for leave to file second amended complaints against 
+Publix and Target/ICCO is denied.                                         
+
+III.  Consumer Protection Claims                                          
+    The court’s more recent opinion dismissed Plaintiffs’ Anticaking claims under the 
+Alabama, California, Florida, Minnesota, New Jersey, and New York consumer protection 
+statutes, reasoning that those statutes “require some form of causal connection between the 
+alleged misrepresentation and the plaintiff’s alleged injury” and that the Anticaking 
+representation could not have caused (under the causation standard applicable to those statutes) 
+Plaintiffs’ injury because they did not see that representation prior to purchase.  </pre><span class="citation" data-id="8312734"><a href="/opinion/8344298/in-re-100-grated-parmesan-cheese-mktg-sales-practices-litig/#809" aria-description="Citation for case: In re 100% Grated Parmesan Cheese Mktg. &amp; Sales Practices...">348 F. Supp. 3d 
+at 809-11</a></span><pre class="inline">.  Kraft and Albertsons/SuperValu now argue that Plaintiffs’ claims under the 
+Connecticut Unfair Trade Practices Act, </pre><span class="citation no-link">Conn. Gen. Stat. § 42</span><pre class="inline">-110b (“CUTPA”), Doc. 225 at 
+¶¶ 140-147 (Kraft), the Michigan Consumer Protection Act, </pre><span class="citation no-link">Mich. Comp. Laws § 445.903</span><pre class="inline"> et 
+seq. (“MCPA”), Doc. 225 at ¶¶ 172-182 (Kraft), and the Illinois Consumer Fraud and Deceptive 
+
+Business Practices Act, 815 ILCS 505/2 (“ICFA”), Doc. 225 at ¶¶ 132-139 (Kraft); Doc. 227 at 
+¶¶ 74-81 (Albertsons/SuperValu), fail on the same ground.  Doc. 311 at 9-11; Doc. 316 at 12-14.  
+(Contrary to Plaintiffs’ understanding, Doc. 336 at 5, the court’s more recent opinion did not 
+consider and reject those arguments, as no Defendant has yet argued that causation is a necessary 
+element of a CUTPA, ICFA, or MCPA claim.)                                 
+    Plaintiffs retort that their Kraft and Albertsons/SuperValu amended complaints do, in 
+fact, allege that they saw the ingredient lists’ Anticaking representations because the complaints 
+allege that (1) each Plaintiff saw the label on Defendants’ products, (2) the label contained an 
+Anticaking representation, and (3) Defendants’ “affirmations of fact and descriptions of the 
+Products formed the basis of the bargain between” Plaintiffs and Defendants.  Doc. 335 at 11-12 
+(citing Doc. 225 at ¶¶ 34, 46-47); but see Doc. 336 at 5 (admitting that the amended complaints 
+do not “explicitly state” that the Plaintiffs saw the ingredient list).  That is an implausible reading 
+of the amended complaints.  The amended complaints’ allegations that the Anticaking 
+
+representations formed the basis of the bargain between Defendants and Plaintiffs is disregarded 
+because the court does not credit a complaint’s legal conclusions in resolving a Rule 12(c) 
+motion.  See Bishop, </pre><span class="citation" data-id="8410887"><a href="/opinion/8440061/bishop-v-air-line-pilots-assn/#397" aria-description="Citation for case: Bishop v. Air Line Pilots Ass&#x27;n">900 F.3d at 397</a></span><pre class="inline">.  Plaintiffs’ factual allegations, which the court does credit, 
+show that Plaintiffs saw the 100% statement on the products’ labels and inferred from that 
+statement that the products contained no non-cheese ingredients.  Doc. 225 at ¶¶ 9-17; Doc. 227 
+at ¶¶ 9-11.  Had Plaintiffs also seen the ingredient lists, they of course would have known that 
+the products contained cellulose—and thus could not possibly have alleged as an essential 
+predicate of their 100% claims that they were fooled into thinking that the products were 
+composed of 100% cheese.  Doc. 225 at ¶ 46; Doc. 227 at ¶ 39.  Therefore, the only plausible 
+inference from Plaintiffs’ well-pleaded factual allegations is that they did not read the products’ 
+
+ingredient lists before purchase.  </pre><span class="citation" data-id="8312734"><a href="/opinion/8344298/in-re-100-grated-parmesan-cheese-mktg-sales-practices-litig/#810" aria-description="Citation for case: In re 100% Grated Parmesan Cheese Mktg. &amp; Sales Practices...">348 F. Supp. 3d at 810</a></span><pre class="inline">.                
+    Plaintiffs’ failure to allege that they saw the ingredient lists’ Anticaking representations 
+dooms their ICFA, CUTPA, and MCPA claims.  ICFA does not require a plaintiff to prove 
+reliance, but it does require the plaintiff to show that the ICFA violation proximately caused her 
+damages.  See Oshana v. Coca-Cola Co., </pre><span class="citation" data-id="796351"><a href="/opinion/796351/carol-b-oshana-v-coca-cola-company-a-delaware-corporation/#513" aria-description="Citation for case: Carol B. Oshana v. Coca-Cola Company, a Delaware Corporation">472 F.3d 506, 513-14</a></span><pre class="inline"> (7th Cir. 2006) (“[A] damages 
+claim under the ICFA requires that the plaintiff was deceived in some manner and damaged by 
+the deception.”); Connick v. Suzuki Motor Co., </pre><span class="citation" data-id="9735588"><a href="/opinion/2199738/connick-v-suzuki-motor-co-ltd/#593" aria-description="Citation for case: Connick v. Suzuki Motor Co., Ltd.">675 N.E.2d 584, 593</a></span><pre class="inline"> (Ill. 1996) (“[A] valid claim 
+must show that the consumer fraud proximately caused plaintiff’s injury.”).  “[T]o properly plead 
+the element of proximate causation in a private cause of action for deceptive advertising brought 
+under the [ICFA], a plaintiff must allege that he was, in some manner, deceived.”  Oliveira v. 
+Amoco Oil Co., </pre><span class="citation no-link">776 N.E.2d 134</span><pre class="inline">, 164 (Ill. 2002); see also Oshana, </pre><span class="citation" data-id="796351"><a href="/opinion/796351/carol-b-oshana-v-coca-cola-company-a-delaware-corporation/#513" aria-description="Citation for case: Carol B. Oshana v. Coca-Cola Company, a Delaware Corporation">472 F.3d at 513-14</a></span><pre class="inline"> (“[A] 
+damages claim under the ICFA requires that the plaintiff was deceived in some manner and 
+damaged by the deception.”).  As noted, Plaintiffs did not see the ingredient lists’ Anticaking 
+
+representations, so those representations could not possibly have deceived them.  Plaintiffs 
+therefore have no viable Anticaking claim under ICFA.                     
+    As under ICFA, a CUTPA plaintiff need not show reliance, but must prove proximate 
+cause.  See Landmark Inv. Grp., LLC v. CALCO Const. &amp; Dev. Co., </pre><span class="citation no-link">124 A.3d 847</span><pre class="inline">, 868 (Conn. 
+2015); Hinchliffe v. Am. Motors Corp., </pre><span class="citation" data-id="7838724"><a href="/opinion/7891650/hinchliffe-v-american-motors-corp/#814" aria-description="Citation for case: Hinchliffe v. American Motors Corp.">440 A.2d 810, 814</a></span><pre class="inline"> (Conn. 1981) (holding that a CUTPA 
+plaintiff must prove that the challenged practice caused her to suffer an “ascertainable loss” by 
+demonstrating that she “purchased an item partially as a result of an unfair or deceptive practice 
+or act and that the item is different from that for which [s]he bargained”); see also Collins v. 
+Anthem Health Plans, Inc., </pre><span class="citation" data-id="1488106"><a href="/opinion/1488106/collins-v-anthem-health-plans-inc/#120" aria-description="Citation for case: Collins v. Anthem Health Plans, Inc.">880 A.2d 106, 120</a></span><pre class="inline"> (Conn. 2005) (“emphasiz[ing] that, in order for a 
+class member to obtain relief from the defendant under [CUTPA], the plaintiffs must prove, inter 
+
+alia, that that class member suffered a loss that was caused by the challenged policies of the 
+defendant,” and holding that individualized inquiries were required to determine “whether the 
+challenged business policies were the cause of [each plaintiff’s] injury”); D’Angelo Dev. &amp; 
+Const. Corp. v. Cordovano, </pre><span class="citation" data-id="2077440"><a href="/opinion/2077440/dangelo-development-construction-corp-v-cordovano/#89" aria-description="Citation for case: D&#x27;Angelo Development &amp; Construction Corp. v. Cordovano">995 A.2d 79, 89-90</a></span><pre class="inline"> (Conn. App. 2010) (holding that the plaintiffs 
+could not recover under CUTPA because they did not establish that the challenged practice 
+caused their damages).  Plaintiffs contend that a plaintiff may satisfy CUTPA’s causation 
+requirement merely by alleging that the defendant’s statement was false or likely to mislead.  
+Doc. 335 at 19 (citing Izzarelli v. R.J. Reynolds Tobacco Co., </pre><span class="citation" data-id="2450252"><a href="/opinion/2450252/izzarelli-v-rj-reynolds-tobacco-co/#176" aria-description="Citation for case: Izzarelli v. R.J. Reynolds Tobacco Co.">117 F. Supp. 2d 167, 176</a></span><pre class="inline"> (D. 
+Conn. 2000)).  That contention cannot be reconciled with the Connecticut Supreme Court’s 
+holding that “in order to prevail in a CUTPA action, a plaintiff must establish both that the 
+defendant has engaged in a prohibited act and that, as a result of this act, the plaintiff suffered an 
+injury.”  Abrahams v. Young &amp; Rubicam, Inc., </pre><span class="citation" data-id="7844735"><a href="/opinion/7896969/abrahams-v-young-rubicam-inc/#712" aria-description="Citation for case: Abrahams v. Young &amp; Rubicam, Inc.">692 A.2d 709, 712</a></span><pre class="inline"> (Conn. 1997) (internal 
+quotation marks omitted).  Kraft therefore is entitled to judgment on Plaintiffs’ Anticaking claim 
+
+under CUTPA.                                                              
+    As for the MCPA, Plaintiffs acknowledge that they must plead reliance to state an MCPA 
+claim based on a fraudulent misrepresentation, but they argue that they need not plead reliance to 
+state an MCPA claim based on a material omission.  Doc. 335 at 17.  Plaintiffs contend that their 
+Anticaking claim is omission-based, alleging that Kraft misled consumers by stating that 
+cellulose was used to prevent caking while omitting the fact that it also was used as filler.  Id. at 
+17-18.  But an omission can ground an MCPA claim only if it is “material,” i.e., only if it is 
+“important to the transaction or affects the consumer’s decision to enter into the transaction.”  
+Zine v. Chrysler Corp., </pre><span class="citation" data-id="1310471"><a href="/opinion/1310471/zine-v-chrysler-corp/#398" aria-description="Citation for case: Zine v. Chrysler Corp.">600 N.W.2d 384, 398</a></span><pre class="inline"> (Mich. App. 1999).  The Anticaking representation 
+and corresponding “filler” omission could not have been material to Plaintiffs’ decisions to buy 
+
+the Kraft product because they did not see the ingredient label, and thus they neither knew that 
+the product contained cellulose nor saw the representation (that cellulose was used to prevent 
+caking) that allegedly made Kraft’s failure to disclose additional information (that the cellulose 
+was also used as filler) deceptive and misleading.  Kraft therefore is entitled to judgment on the 
+Anticaking claims under MCPA.  See </pre><span class="citation" data-id="1310471"><a href="/opinion/1310471/zine-v-chrysler-corp/" aria-description="Citation for case: Zine v. Chrysler Corp.">ibid.</a></span><pre class="inline"> (holding that the plaintiff did not state an MCPA 
+claim where the omission did not affect the plaintiff’s decision to purchase the product).  Nor 
+does reframing the Anticaking claim as omission-based change the outcome under ICFA or 
+CUTPA because, under both statutes, the plaintiff must show that the omission contributed in 
+some way to the plaintiff’s damages, and the Anticaking representation cannot have done so 
+because Plaintiffs did not see it.  See De Bouse v. Bayer, </pre><span class="citation" data-id="9729889"><a href="/opinion/2169210/de-bouse-v-bayer-ag/#316" aria-description="Citation for case: De Bouse v. Bayer AG">922 N.E.2d 309, 316</a></span><pre class="inline"> (Ill. 2009) (“[W]e 
+have repeatedly emphasized that in a consumer fraud action, the plaintiff must actually be 
+deceived by a statement or omission.  If there has been no communication with the plaintiff, 
+there have been no statements and no omissions.  In such a situation, a plaintiff cannot prove 
+
+proximate cause.”); Haesche v. Kissner, </pre><span class="citation" data-id="7843280"><a href="/opinion/7895726/haesche-v-kissner/#92" aria-description="Citation for case: Haesche v. Kissner">640 A.2d 89, 92</a></span><pre class="inline"> (Conn. 1994) (affirming judgment on a 
+CUPTA claim based on the defendant’s failure to warn the plaintiff that a BB gun could cause 
+eye injuries, where the summary judgment record showed that the plaintiff would have used the 
+BB gun anyway).                                                           
+    Accordingly, Plaintiffs’ ICFA, CUTPA, and MCPA claims against Kraft and their ICFA 
+claims against Albertsons/SuperValu are dismissed.  Given this disposition, the court need not 
+reach Kraft’s argument that Plaintiffs cannot state a claim under those statutes because the 
+Anticaking representation is accurate and not misleading.  Doc. 316 at 14-16. 
+II.  Express and Implied Warranty Claims                                  
+    A.   Albertsons/SuperValu                                            
+
+    Albertsons/SuperValu’s second Rule 12(b)(6) motion sought dismissal of the amended 
+complaint’s express and implied warranty claims on the ground that Plaintiffs did not provide 
+Albertsons/SuperValu with pre-suit notice in a reasonable time as required by 810 ILCS 5/2-
+607(3)(a) and Ala. Code. § 7-2-607(3)(a).  Doc. 157 at 27-28.  The court rejected that argument 
+because the amended complaint alleged generally that Plaintiffs satisfied all conditions precedent 
+to their warranty claims.  </pre><span class="citation" data-id="8312734"><a href="/opinion/8344298/in-re-100-grated-parmesan-cheese-mktg-sales-practices-litig/#812" aria-description="Citation for case: In re 100% Grated Parmesan Cheese Mktg. &amp; Sales Practices...">348 F. Supp. 3d at 812-13, 815</a></span><pre class="inline">.  Albertsons/SuperValu now move for 
+summary judgment based on evidence that they did not, in fact, receive pre-suit notice from 
+Plaintiffs.  Doc. 311 at 11-16.  In response, Plaintiffs admit that they did not send Albertsons or 
+SuperValu a pre-suit notice letter, Doc. 336-1 at ¶¶ 20-21, 28-29, 36-37, but they argue that the 
+notice requirement was satisfied because the Bloomberg article gave Albertsons/SuperValu 
+actual notice of the defect at the heart of the Anticaking claims.  Doc. 336 at 10-12.   
+    Under Illinois warranty law, “direct notice is not required when … the seller has actual 
+knowledge of the defect of the particular product.”  Connick, </pre><span class="citation" data-id="9735588"><a href="/opinion/2199738/connick-v-suzuki-motor-co-ltd/#589" aria-description="Citation for case: Connick v. Suzuki Motor Co., Ltd.">675 N.E.2d at 589</a></span><pre class="inline">.  “Actual 
+
+knowledge” for this purpose does not mean knowledge of “the facts” underlying the plaintiff’s 
+claim—“which the seller presumably knows quite as well as, if not better than, the buyer”—but 
+rather knowledge “of [the] buyer’s claim that [those facts] constitute a breach.”  </pre><span class="citation" data-id="9735588"><a href="/opinion/2199738/connick-v-suzuki-motor-co-ltd/#590" aria-description="Citation for case: Connick v. Suzuki Motor Co., Ltd.">Id. at 590</a></span><pre class="inline"> 
+(internal quotation marks omitted).  Put another way, “[i]t is essential that the seller be notified 
+that this particular transaction is troublesome and must be watched.”  </pre><span class="citation" data-id="9735588"><a href="/opinion/2199738/connick-v-suzuki-motor-co-ltd/" aria-description="Citation for case: Connick v. Suzuki Motor Co., Ltd.">Ibid.</a></span><pre class="inline"> (internal quotation 
+marks omitted).  Thus, the actual knowledge exception to the direct notice requirement “is 
+satisfied only where the manufacturer is somehow apprised of the trouble with the particular 
+product purchased by a particular buyer”—not where “a manufacturer is aware of problems with 
+a particular product line.”  </pre><span class="citation" data-id="9735588"><a href="/opinion/2199738/connick-v-suzuki-motor-co-ltd/" aria-description="Citation for case: Connick v. Suzuki Motor Co., Ltd.">Ibid.</a></span><pre class="inline">  Applying that principle in Connick, the Supreme Court of 
+Illinois held that the defendant did not have actual knowledge that the car it sold to the plaintiffs 
+
+posed certain safety risks, even though the very same risks had caused a consumer organization 
+to give that make and model a “not acceptable” rating and had prompted investigations by seven 
+state attorneys general.  </pre><span class="citation" data-id="9735588"><a href="/opinion/2199738/connick-v-suzuki-motor-co-ltd/#589" aria-description="Citation for case: Connick v. Suzuki Motor Co., Ltd.">Id. at 589-91</a></span><pre class="inline">; see also Anthony v. Country Life Mfg., LLC, </pre><span class="citation no-link">2002 WL 
+31269621</span><pre class="inline">, at *4 (N.D. Ill. Oct. 9, 2002) (holding that the defendant did not have actual 
+knowledge of the plaintiff’s claim that the defendant’s snack bars contained unwholesome 
+ingredients, even though the defendants knew that those ingredients were in their snack bars), 
+aff’d, </pre><span class="citation" data-id="8417160"><a href="/opinion/8445658/anthony-v-country-life-manufacturing-llc/" aria-description="Citation for case: Anthony v. Country Life Manufacturing, LLC.">70 F. App’x 379</a></span><pre class="inline"> (7th Cir. 2003).                                   
+    Here, Plaintiffs argue that Albertsons/SuperValu had actual knowledge that cellulose was 
+used as filler because Bloomberg published a report showing that its product was 8.8% cellulose, 
+while FDA standards provided that a dried cheese product should be 2% cellulose or less.  Doc. 
+336 at 11-12.  At best, Plaintiffs allege that Albertsons/SuperValu was aware of “problems with 
+[its] particular product line.”  Connick, </pre><span class="citation" data-id="9735588"><a href="/opinion/2199738/connick-v-suzuki-motor-co-ltd/#590" aria-description="Citation for case: Connick v. Suzuki Motor Co., Ltd.">675 N.E.2d at 590</a></span><pre class="inline">.  This falls far short of an allegation 
+that Albertsons/SuperValu was on notice that the “particular transaction[s]” in which the 
+
+“particular product[s]” at issue were “purchased by [the] particular buyers” now bringing suit 
+were “troublesome and must be watched.”  </pre><span class="citation" data-id="9735588"><a href="/opinion/2199738/connick-v-suzuki-motor-co-ltd/#590" aria-description="Citation for case: Connick v. Suzuki Motor Co., Ltd.">Id. at 590</a></span><pre class="inline">.  Accordingly, Albertsons/SuperValu did 
+not receive adequate pre-suit notice under Illinois warranty law.         
+    As for the Alabama warranty claims, Plaintiffs make no argument and cite no authority to 
+support their contention that Alabama law recognizes an actual knowledge exception to the 
+notice requirement, thereby forfeiting the issue.  See M.G. Skinner &amp; Assocs. Ins. Agency, Inc. v. 
+Norman-Spencer Agency, Inc., </pre><span class="citation" data-id="4113125"><a href="/opinion/4335864/m-g-skinner-associates-insurance-agency-inc-v-norman-spencer-agency/#321" aria-description="Citation for case: M. G. Skinner &amp; Associates Insurance Agency, Inc. v....">845 F.3d 313, 321</a></span><pre class="inline"> (7th Cir. 2017) (“Perfunctory and undeveloped 
+arguments are waived, as are arguments unsupported by legal authority.”).  Even if Alabama 
+recognized an actual knowledge exception, but see Smith v. Apple, Inc., </pre><span class="citation no-link">2009 WL 3958096</span><pre class="inline">, at *1 
+(N.D. Ala. Nov. 4, 2009) (“declin[ing] plaintiffs’ invitation to create” an exception to the notice 
+
+requirement for circumstances where the defendant is “aware of the alleged defects,” and 
+predicting that the Alabama Supreme Court would not endorse such an exception) (internal 
+quotation marks omitted), Plaintiffs have forfeited any argument that the Alabama actual notice 
+exception differs from the Illinois exception, which as shown above is not satisfied here.  
+    For these reasons, Albertsons/SuperValu is entitled to judgment on Plaintiffs’ Illinois and 
+Alabama express and implied warranty claims.                              
+    B.   Kraft                                                           
+    Kraft moves under Rule 12(c) for judgment on the Connecticut implied warranty claims, 
+the Florida express warranty claims, and the Minnesota and California express and implied 
+warranty claims on the ground that Plaintiffs do not allege reliance (Florida, Minnesota, and 
+California) or privity (Connecticut and California).  Doc. 316 at 16-18.  (Again, Plaintiffs are 
+wrong to say that the court already “upheld” those warranty claims against all challenges to their 
+sufficiency.  Doc. 335 at 11.  Kraft did not previously raise, and the court has not yet decided, the 
+
+reliance and privity issues presented in the current motion.)             
+    Kraft contends that a plaintiff can bring a Connecticut implied warranty claim only if she 
+is in privity with the defendant.  Doc. 316 at 16-17.  Plaintiffs effectively concede that they are 
+not in privity with Kraft and admit that privity is ordinarily required.  But citing Hamon v. 
+Digliani, </pre><span class="citation" data-id="2203843"><a href="/opinion/2203843/hamon-v-digliani/#297" aria-description="Citation for case: Hamon v. Digliani">174 A.2d 294, 297-98</a></span><pre class="inline"> (Conn. 1961), Plaintiffs argue that Connecticut law relaxes the 
+privity requirement where (1) “the manufacturer or producer makes representations in his 
+advertisements or by the labels on his products as an inducement to the ultimate purchaser,” (2) 
+the purchaser “buys the product in reliance on the representations,” and (3) she “later suffers an 
+injury because the product fails to conform to them.”  Doc. 335 at 21.    
+    That argument fails for two reasons.  First, as noted, Plaintiffs did not see the ingredient 
+
+label’s Anticaking representation, and thus could not have bought “the product[s] in reliance on” 
+it.  Second, as the court explained in its more recent opinion, the exception described in Hamon 
+applies only when the product causes physical injury, which is not alleged here.  </pre><span class="citation" data-id="8312734"><a href="/opinion/8344298/in-re-100-grated-parmesan-cheese-mktg-sales-practices-litig/#813" aria-description="Citation for case: In re 100% Grated Parmesan Cheese Mktg. &amp; Sales Practices...">348 F. Supp. 3d 
+at 813</a></span><pre class="inline">.  Kraft therefore is entitled to judgment on the Connecticut implied warranty claims. 
+    Kraft next contends that a plaintiff can bring a Florida express warranty claim only if she 
+relied on the warranty.  Doc. 316 at 17-18.  The great weight of authority—including every 
+Florida intermediate appellate court decision the parties cite, see In re Zimmer, NexGen Knee 
+Implant Prod. Liab. Litig., </pre><span class="citation" data-id="8410643"><a href="/opinion/8439829/in-re-zimmer-nexgen-knee-implant-prods-liab-ltd/#751" aria-description="Citation for case: In re Zimmer, Nexgen Knee Implant Prods. Liab. Ltd.">884 F.3d 746, 751</a></span><pre class="inline"> (7th Cir. 2018) (instructing that where a state’s 
+highest court has not resolved an issue of state law, a federal court should follow decisions 
+issued by the state intermediate appellate court absent a strong countervailing reason)—supports 
+Kraft’s position.  See, e.g., Hobco, Inc. v. Tallahassee Assocs., </pre><span class="citation" data-id="480788"><a href="/opinion/480788/hobco-inc-v-tallahassee-associates/#1533" aria-description="Citation for case: Hobco, Inc. v. Tallahassee Associates">807 F.2d 1529, 1533</a></span><pre class="inline"> (11th Cir. 
+1987) (“Under Florida law, an express warranty may arise only where justifiable reliance upon 
+assertions or affirmations is part of the basis of the bargain.”); Royal Typewriter Co. v. 
+
+Xerographic Supplies Corp., </pre><span class="citation" data-id="426248"><a href="/opinion/426248/royal-typewriter-company-a-division-of-litton-business-systems-inc-a/#1101" aria-description="Citation for case: Royal Typewriter Company, a Division of Litton Business...">719 F.2d 1092, 1101</a></span><pre class="inline"> (11th Cir. 1983) (similar); Spolski Gen. 
+Contractor, Inc. v. Jett-Aire Corp. Aviation Mgmt. of Cent. Fla., </pre><span class="citation" data-id="1127011"><a href="/opinion/1127011/spolski-gen-contr-v-jett-aire-corp/#970" aria-description="Citation for case: SPOLSKI GEN. CONTR. v. Jett-Aire Corp.">637 So. 2d 968, 970</a></span><pre class="inline"> (Fla. App. 
+1994) (affirming judgment on the pleadings on an express warranty claim, in part, because the 
+plaintiff did not plead reliance); Thursby v. Reynolds Metals Co., </pre><span class="citation" data-id="1137861"><a href="/opinion/1137861/thursby-v-reynolds-metals-co/#250" aria-description="Citation for case: Thursby v. Reynolds Metals Co.">466 So. 2d 245, 250</a></span><pre class="inline"> (Fla. App. 
+1984) (“[A]n express warranty is generally considered to arise only where the seller asserts a fact 
+… on which the buyer justifiably relies as part of the basis of the bargain.”) (internal quotation 
+marks omitted); Escambia Chem. Corp. v. Indus.-Marine Supply Co., </pre><span class="citation" data-id="7432623"><a href="/opinion/7509303/escambia-chemical-corp-v-industrial-marine-supply-co/#775" aria-description="Citation for case: Escambia Chemical Corp. v. Industrial-Marine Supply Co.">223 So. 2d 773, 775</a></span><pre class="inline"> (Fla. 
+App. 1969) (similar).  Given this authority, including the Eleventh Circuit’s published decisions 
+in Hobco and Royal Typewriter, the court declines Plaintiffs’ invitation to follow Southern 
+Broadcast Group, LLC v. Gem Broadcasting, Inc., </pre><span class="citation" data-id="2421430"><a href="/opinion/2421430/southern-broadcast-group-llc-v-gem-broadcasting-inc/#1324" aria-description="Citation for case: Southern Broadcast Group, LLC v. Gem Broadcasting, Inc.">145 F. Supp. 2d 1316, 1324</a></span><pre class="inline"> (M.D. Fla. 2001), 
+
+aff’d without opinion sub nom. S. Broad. v. GEM Broad., </pre><span class="citation no-link">49 F. App’x 288</span><pre class="inline"> (11th Cir. 2002), 
+which reached the opposite conclusion.                                    
+    Plaintiffs retort that Southern Broadcast Group finds support in Comment 3 to the 
+Uniform Commercial Code’s express warranty provision, which states that “affirmations of fact 
+made by the seller about the goods during a bargain are regarded as part of the description of 
+those goods; hence no particular reliance on such statements need be shown in order to weave 
+them into the fabric of the agreement.”  U.C.C. § 2-313 cmt. n.3.  But Florida courts have held 
+that they are not bound by U.C.C. comments, see PMT NPL Fin. 2015-1 v. Centurion Sys., LLC, 
+</pre><span class="citation" data-id="4309171"><a href="/opinion/4531918/pmt-npl-financing-v-centurion-systems/" aria-description="Citation for case: PMT NPL Financing v. Centurion Systems">257 So. 3d 516</a></span><pre class="inline">, 519 n.2 (Fla. App. 2018); Corfan Banco Asuncion Paraguay v. Ocean Bank, </pre><span class="citation" data-id="1792732"><a href="/opinion/1792732/corfan-banco-v-ocean-bank/#971" aria-description="Citation for case: Corfan Banco v. Ocean Bank">715 
+So. 2d 967, 971</a></span><pre class="inline"> (Fla. App. 1998), and, more to the point, have consistently held (notwithstanding 
+Comment 3) that reliance is required to state an express warranty claim.  It also bears noting that 
+Comment 3 has appeared in the U.C.C. commentary since 1952, see U.C.C. § 2-313 (Am. Law 
+Inst. &amp; Unif. Law Comm’n 1952); see also Carter Hawley Hale Stores, Inc. v. Conley, </pre><span class="citation" data-id="1727853"><a href="/opinion/1727853/carter-hawley-hale-stores-inc-v-conley/#968" aria-description="Citation for case: Carter Hawley Hale Stores, Inc. v. Conley">372 So. 
+
+2d 965, 968</a></span><pre class="inline"> (Fla. App. 1979) (quoting the comment)—long before the above-cited Eleventh 
+Circuit and Florida appellate decisions were issued.  Accordingly, Kraft is entitled to judgment 
+on the Florida express warranty claims.                                   
+    Kraft next argues that Plaintiffs must allege reliance to state express or implied warranty 
+claims under Minnesota law.  Doc. 316 at 17-18.  Minnesota law is somewhat unsettled on that 
+point.  The Minnesota Supreme Court endorsed a reliance requirement in Midland Loan 
+Financial Co. v. Madsen, </pre><span class="citation" data-id="3506454"><a href="/opinion/3535469/midland-loan-finance-co-v-madsen/#481" aria-description="Citation for case: Midland Loan Finance Co. v. Madsen">14 N.W.2d 475, 481</a></span><pre class="inline"> (Minn. 1944), and applied that requirement in 
+Alley Construction Co. v. State, </pre><span class="citation" data-id="1696292"><a href="/opinion/1696292/alley-construction-co-inc-v-state/#924" aria-description="Citation for case: Alley Construction Co., Inc. v. State">219 N.W.2d 922, 924-25</a></span><pre class="inline"> (Minn. 1974).  (Contrary to Plaintiffs’ 
+understanding, Doc. 335 at 25, Midland did not limit the reliance rule to cases alleging 
+observable defects, but rather held categorically that reliance is required and pointed to 
+
+observable defects merely as an example of a situation where the requirement would not be met.)  
+In setting forth the elements of a warranty claim in Peterson v. Bendix Home Systems, Inc., </pre><span class="citation" data-id="1800517"><a href="/opinion/1800517/peterson-v-bendix-home-systems-inc/#52" aria-description="Citation for case: Peterson v. Bendix Home Systems, Inc.">318 
+N.W.2d 50, 52-53</a></span><pre class="inline"> (Minn. 1982), however, the court did not mention reliance or cite Midland or 
+Alley.  The plaintiff in Lyon Financial Services, Inc. v. Illinois Paper &amp; Copier Co., </pre><span class="citation" data-id="2682738"><a href="/opinion/2682738/lyon-financial-services-incorporated-dba-us-bancorp-business/" aria-description="Citation for case: Lyon Financial Services, Incorporated, d/b/a U.S. Bancorp...">848 N.W.2d 
+539</a></span><pre class="inline"> (Minn. 2014), brought that discrepancy to the Minnesota Supreme Court’s attention, arguing 
+that Peterson had implicitly overruled Midland and Alley, but the court did not reach that issue.  
+See </pre><span class="citation" data-id="2682738"><a href="/opinion/2682738/lyon-financial-services-incorporated-dba-us-bancorp-business/" aria-description="Citation for case: Lyon Financial Services, Incorporated, d/b/a U.S. Bancorp...">id.</a></span><pre class="inline"> at 544 n.6.                                                       
+    Federal courts are bound by state supreme court decisions interpreting state law.  See 
+Wash. State Dep’t of Licensing v. Cougar Den, Inc., </pre><span class="citation" data-id="4378331"><a href="/opinion/4601078/washington-state-dept-of-licensing-v-cougar-den-inc/#1010" aria-description="Citation for case: Washington State Dept. of Licensing v. Cougar Den, Inc.">139 S. Ct. 1000, 1010</a></span><pre class="inline"> (2019); Trytko v. 
+Hubbell, Inc., </pre><span class="citation" data-id="673475"><a href="/opinion/673475/john-e-trytko-jr-v-hubbell-inc-cross-appellee/#719" aria-description="Citation for case: John E. Trytko, Jr. v. Hubbell, Inc., Cross-Appellee">28 F.3d 715, 719</a></span><pre class="inline"> (7th Cir. 1994).  Midland directly addressed the issue at hand, 
+holding that reliance is a required element of a Minnesota warranty claim; Peterson did not 
+expressly overrule Midland or explicitly hold that reliance was not required; and Lyon Financial 
+did not resolve whether Midland remains good law.  Therefore, despite the uncertainty created 
+
+by Peterson, the court will follow the Minnesota Supreme Court’s only explicit pronouncement 
+on the issue (in Midland) and hold that Plaintiffs must show reliance to succeed on an express or 
+implied warranty claim.  See Hendricks v. Callahan, </pre><span class="citation" data-id="9001995"><a href="/opinion/9009127/hendricks-v-callahan/#194" aria-description="Citation for case: Hendricks v. Callahan">972 F.2d 190, 194</a></span><pre class="inline"> (8th Cir. 1992) 
+(following Midland’s reliance rule, in part, “because the Minnesota Supreme Court has not 
+expressly overruled Midland”); Residential Funding Co. v. Americash, </pre><span class="citation no-link">2014 WL 3577312</span><pre class="inline">, at *2 
+n.3 (D. Minn. July 21, 2014) (same, given the Minnesota Supreme Court’s decision not to 
+resolve the issue in Lyon Financial).  Although Plaintiffs are correct that at least one 
+unpublished, non-precedential Minnesota intermediate court decision went the other way, see 
+Krause v. City of Elk River, </pre><span class="citation no-link">2015 WL 3823093</span><pre class="inline">, at *3 &amp; n.2 (Minn. App. June 22, 2015), 
+intermediate state court opinions countermanding state supreme court decisions do not relieve 
+
+federal courts of their obligation to follow state supreme court decisions.  See Luna v. United 
+States, </pre><span class="citation" data-id="794986"><a href="/opinion/794986/patricia-a-luna-v-united-states/#636" aria-description="Citation for case: Patricia A. Luna v. United States">454 F.3d 631, 636</a></span><pre class="inline"> (7th Cir. 2006) (holding that the district court erred in failing to follow 
+a state supreme court decision and instead adhering to later intermediate appellate court 
+decisions suggesting that the supreme court case was wrongly decided).  Accordingly, because 
+Plaintiffs have not alleged that they relied on the ingredient labels’ Anticaking representations, 
+Kraft is entitled to judgment on the Minnesota express and implied warranty claims. 
+    Finally, Kraft argues that California requires express warranty plaintiffs to plead reliance.  
+As in Minnesota, the issue is unsettled in California.  Pre-U.C.C. California Supreme Court 
+decisions held that express warranty plaintiffs must plead and prove reliance.  See, e.g., Burr v. 
+Sherwin Williams Co., </pre><span class="citation" data-id="1221373"><a href="/opinion/1221373/burr-v-sherwin-williams-co/#1048" aria-description="Citation for case: Burr v. Sherwin Williams Co.">268 P.2d 1041, 1048-49</a></span><pre class="inline"> (Cal. 1954) (holding that reliance is required 
+absent privity); Grinnell v. Charles Pfizer &amp; Co., </pre><span class="citation" data-id="2197836"><a href="/opinion/2197836/grinnell-v-charles-pfizer-co/#378" aria-description="Citation for case: Grinnell v. Charles Pfizer &amp; Co.">79 Cal. Rptr. 369, 378</a></span><pre class="inline"> (Cal. App. 1969) 
+(holding that reliance is an “essential ingredient[ ]” of any express warranty claim).  But the 
+court later recognized in Hauter v. Zogarts, </pre><span class="citation" data-id="9553353"><a href="/opinion/1190081/hauter-v-zogarts/" aria-description="Citation for case: Hauter v. Zogarts">534 P.2d 377</a></span><pre class="inline"> (Cal. 1975) (en banc), that the U.C.C.’s 
+
+adoption in California worked “a significant change in the law of warranties” by replacing the 
+traditional reliance element with a requirement that the challenged representation form the “basis 
+of the bargain.”  </pre><span class="citation" data-id="9553353"><a href="/opinion/1190081/hauter-v-zogarts/" aria-description="Citation for case: Hauter v. Zogarts">Id.</a></span><pre class="inline"> at 383 (citing Grinnell).  Specifically, Hauter held that this basis-of-the-
+bargain requirement either “shift[ed] the burden of proving non-reliance to the seller” or 
+“eliminat[ed] the concept of reliance altogether.”  </pre><span class="citation" data-id="9553353"><a href="/opinion/1190081/hauter-v-zogarts/#384" aria-description="Citation for case: Hauter v. Zogarts">Id. at 384</a></span><pre class="inline">.  Hauter found support for each of 
+those competing views in the U.C.C. commentary and scholarly work on the subject, and 
+ultimately declined to decide between them.  </pre><span class="citation" data-id="9553353"><a href="/opinion/1190081/hauter-v-zogarts/" aria-description="Citation for case: Hauter v. Zogarts">Ibid.</a></span><pre class="inline"> (citing </pre><span class="citation no-link">Cal. Com. Code § 2313</span><pre class="inline"> cmt. nn.3-4). 
+    No consensus on that question has emerged since Hauter.  Most decisions hold that the 
+basis-of-the-bargain requirement has one of three effects: (1) eliminating the reliance 
+requirement, see, e.g., Weinstat v. Dentsply Internat., Inc., </pre><span class="citation" data-id="2255890"><a href="/opinion/2255890/weinstat-v-dentsply-international-inc/#626" aria-description="Citation for case: Weinstat v. Dentsply International, Inc.">103 Cal. Rptr. 3d 614, 626-29</a></span><pre class="inline"> (Cal. 
+
+App. 2010); Rikos v. Procter &amp; Gamble Co., </pre><span class="citation" data-id="9810664"><a href="/opinion/2828910/dino-rikos-v-the-procter-gamble-co/#513" aria-description="Citation for case: Dino Rikos v. The Procter &amp; Gamble Co.">799 F.3d 497, 513</a></span><pre class="inline"> (6th Cir. 2015); In re Nexus 6P 
+Prod. Liab. Litig., </pre><span class="citation" data-id="7246673"><a href="/opinion/7328757/in-re-nexus-6p-prods-liab-litig/#915" aria-description="Citation for case: In re Nexus 6P Prods. Liab. Litig.">293 F. Supp. 3d 888, 915-16</a></span><pre class="inline"> (N.D. Cal. 2018); Karim v. Hewlett-Packard Co., 
+</pre><span class="citation" data-id="8774710"><a href="/opinion/8790758/karim-v-hewlett-packard-co/#574" aria-description="Citation for case: Karim v. Hewlett-Packard Co.">311 F.R.D. 568, 574-75</a></span><pre class="inline"> (N.D. Cal. 2015); (2) keeping the reliance requirement, but shifting the 
+burden to the defendant to show that the “bargain d[id] not rest at all on the representation,” 
+Keith v. Buchanan, </pre><span class="citation" data-id="2108129"><a href="/opinion/2108129/keith-v-buchanan/#398" aria-description="Citation for case: Keith v. Buchanan">220 Cal. Rptr. 392, 398</a></span><pre class="inline"> (Cal. App. 1985); see also, e.g., Davis v. Louisiana-
+Pac. Corp., </pre><span class="citation no-link">2008 WL 2030495</span><pre class="inline">, at *12 (Cal. App. May 13, 2008); Ibrahim v. Ford Motor Co., 
+</pre><span class="citation" data-id="2117408"><a href="/opinion/2117408/ibrahim-v-ford-motor-co/#890" aria-description="Citation for case: Ibrahim v. Ford Motor Co.">214 Cal. App. 3d 878, 890</a></span><pre class="inline"> (1989); Wilson v. Metals, USA, Inc., </pre><span class="citation no-link">2017 WL 2972608</span><pre class="inline">, at *13 (E.D. 
+Cal. July 12, 2017); Karim v. Hewlett-Packard Co., </pre><span class="citation no-link">2014 WL 555934</span><pre class="inline">, at *6 (N.D. Cal. Feb. 10, 
+2014); or (3) changing the role of reliance where the parties are in privity, but maintaining the 
+reliance requirement where the parties are not in privity, see Hardage Hotels X, LLC v. First Co., 
+</pre><span class="citation no-link">2010 WL 1512138</span><pre class="inline">, at *9 (Cal. App. Apr. 16, 2010); Wiley v. Yihua Int&#x27;l Grp., </pre><span class="citation no-link">2009 WL 
+3720903</span><pre class="inline">, at *6 (Cal. App. Nov. 9, 2009); Keegan v. Am. Honda Motor Co., </pre><span class="citation" data-id="8765908"><a href="/opinion/8782150/keegan-v-american-honda-motor-co/#546" aria-description="Citation for case: Keegan v. American Honda Motor Co.">284 F.R.D. 504, 546</a></span><pre class="inline"> 
+(C.D. Cal. 2012); Coleman v. Bos. Sci. Corp., </pre><span class="citation no-link">2011 WL 3813173</span><pre class="inline">, at *4 (E.D. Cal. Aug. 29, 
+
+2011).                                                                    
+    Two considerations persuade the court that the California Supreme Court likely would 
+not adopt the first approach and eliminate the reliance requirement altogether, but instead would 
+adopt the second or third approaches and merely modify the requirement.  First, the second and 
+third approaches have greater purchase with California Courts of Appeal.  This court has not 
+identified, and the parties have not cited, any California Court of Appeal case other than 
+Weinstat to have eliminated the reliance requirement altogether, while multiple California Court 
+of Appeal decisions have adopted either the second or third approaches.  Second, as noted, 
+reliance and privity played important roles in the California Supreme Court’s pre-U.C.C 
+jurisprudence, suggesting that, if asked to choose between two defensible approaches that are 
+
+equally consistent with the U.C.C. commentary, the state supreme court would preserve at least 
+some role for reliance.  See Sutula-Johnson v. Office Depot, Inc., </pre><span class="citation" data-id="8410787"><a href="/opinion/8439967/sutula-johnson-v-office-depot-inc/#971" aria-description="Citation for case: Sutula-Johnson v. Office Depot, Inc.">893 F.3d 967, 971</a></span><pre class="inline"> (7th Cir. 
+2018) (“Under Erie Railroad Co. v. Tompkins, </pre><span class="citation" data-id="9418969"><a href="/opinion/103012/erie-railroad-v-tompkins/" aria-description="Citation for case: Erie Railroad v. Tompkins">304 U.S. 64</a></span><pre class="inline"> (1938), our role is to decide 
+questions of state law as we predict the [state] [s]upreme [c]ourt would decide them.”); 
+Hendricks v. Novae Corp. Underwriting, </pre><span class="citation" data-id="8414871"><a href="/opinion/8443474/hendricks-v-novae-corporate-underwriting-ltd/#547" aria-description="Citation for case: Hendricks v. Novae Corporate Underwriting, Ltd.">868 F.3d 542, 547</a></span><pre class="inline"> (7th Cir. 2017) (“When a state 
+supreme court has not squarely addressed a question, our task is to predict what the state’s 
+highest court would do if presented with the same issue.”) (internal quotation marks omitted).  
+As an additional consideration, even if the three theories’ likelihood of adoption were in 
+equipoise, this court would follow the Seventh Circuit’s instruction to favor a “narrower 
+interpretation [of state law] which restricts liability”—here, one of the two approaches that 
+preserves some role for reliance—over a “more expansive interpretation which creates 
+substantially more liability”—here, the approach that eliminates the reliance requirement 
+altogether.  Home Valu, Inc. v. Pep Boys, </pre><span class="citation" data-id="768850"><a href="/opinion/768850/home-valu-inc-v-pep-boys-manny-moe-and-jack-of-delaware-inc/#963" aria-description="Citation for case: Home Valu, Inc. v. Pep Boys Manny, Moe and Jack of...">213 F.3d 960, 963</a></span><pre class="inline"> (7th Cir. 2000); see also Pisciotta v. 
+
+Old Nat. Bancorp, </pre><span class="citation" data-id="1363007"><a href="/opinion/1363007/pisciotta-v-old-national-bancorp/#635" aria-description="Citation for case: Pisciotta v. Old National Bancorp">499 F.3d 629, 635-36</a></span><pre class="inline"> (7th Cir. 2007) (same); S. Ill. Riverboat Casino Cruises, 
+Inc. v. Triangle Insulation &amp; Sheet Metal Co., </pre><span class="citation" data-id="779023"><a href="/opinion/779023/southern-illinois-riverboat-casino-cruises-inc-dba-players-island/#676" aria-description="Citation for case: Southern Illinois Riverboat Casino Cruises, Inc., D/B/A...">302 F.3d 667, 676</a></span><pre class="inline"> (7th Cir. 2002) (same). 
+    Having determined that the California Supreme Court would not adopt the first approach, 
+the court need not decide between the second and third approaches because Kraft would prevail 
+under either—Plaintiffs are not in privity with Kraft, and the Kraft amended complaint 
+necessarily shows that Plaintiffs did not rely on the Anticaking representation prior to purchase.  
+Kraft therefore is entitled to judgment on the California express warranty claims. 
+    Kraft argues that it is also entitled to judgment on the California implied warranty claims 
+because implied warranty claims based on a product’s failure to “conform to the promises or 
+affirmations of fact” on the label rise or fall with express warranty claims based on the same 
+
+representation.  Doc. 316 at 17 n.5 (quoting Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1106" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 
+1106</a></span><pre class="inline"> (N.D. Cal. 2017), and Hendricks v. StarKist Co., </pre><span class="citation" data-id="7225356"><a href="/opinion/7307453/hendricks-v-starkist-co/#933" aria-description="Citation for case: Hendricks v. Starkist Co.">30 F. Supp. 3d 917, 933</a></span><pre class="inline"> (N.D. Cal. 
+2014)); Doc. 338 at 17 (same).  Plaintiffs do not respond to that argument, thereby forfeiting the 
+issue and the California implied warranty claims.  See Lee v. Ne. Illinois Reg&#x27;l Commuter R.R. 
+Corp., </pre><span class="citation" data-id="8415261"><a href="/opinion/8443835/lee-v-ne-ill-regl-commuter-rr-corp/#1054" aria-description="Citation for case: Lee v. Ne. Ill. Reg&#x27;l Commuter R.R. Corp.">912 F.3d 1049, 1054</a></span><pre class="inline"> (7th Cir. 2019) (“[The forfeiture] rule applies when a party fails to 
+develop arguments related to a discrete issue or when a litigant effectively abandons the 
+litigation by not responding to alleged deficiencies in a motion to dismiss.”); Alioto v. Town of 
+Lisbon, </pre><span class="citation" data-id="220490"><a href="/opinion/220490/alioto-v-town-of-lisbon/#721" aria-description="Citation for case: Alioto v. Town of Lisbon">651 F.3d 715, 721</a></span><pre class="inline"> (7th Cir. 2011) (“We apply [the forfeiture] rule … where a litigant 
+effectively abandons the litigation by not responding to alleged deficiencies in a motion to 
+dismiss.”).                                                               
+    Accordingly, Kraft is entitled to judgment on the California, Florida, and Minnesota 
+express warranty claims and the California, Minnesota, and Connecticut implied warrant claims. 
+
+IV.  Unjust Enrichment Claims                                             
+    Albertsons/SuperValu and Kraft move for judgment on all remaining unjust enrichment 
+claims against them.                                                      
+    Kraft contends that the Illinois unjust enrichment claims fail because Plaintiffs do not 
+sufficiently allege that they suffered a detriment or that there was a “connection between the 
+detriment and the defendant’s retention of the benefit.”  Cleary v. Philip Morris Inc., </pre><span class="citation" data-id="612578"><a href="/opinion/612578/cleary-v-philip-morris-inc/#518" aria-description="Citation for case: Cleary v. Philip Morris Inc.">656 F.3d 
+511, 518-19</a></span><pre class="inline"> (7th Cir. 2011).  (Kraft relies on Cleary for judgment on Plaintiffs’ unjust 
+enrichment claims under New York, Connecticut, Minnesota, Florida, California, Alabama, and 
+Michigan law, Doc. 316 at 18-19, but Cleary interpreted Illinois law, and Kraft makes no 
+argument and cites no authority to support the proposition that Cleary reflects the law of any 
+
+other State.  Accordingly, any such argument is forfeited.  See G &amp; S Holdings LLC v. Cont’l 
+Cas. Co., </pre><span class="citation no-link">697 F.3d 534</span><pre class="inline">, 538 (7th Cir. 2012) (“We have repeatedly held that a party waives an 
+argument by failing to make it before the district court.”); Alioto, </pre><span class="citation" data-id="220490"><a href="/opinion/220490/alioto-v-town-of-lisbon/#721" aria-description="Citation for case: Alioto v. Town of Lisbon">651 F.3d at 721</a></span><pre class="inline"> (“We apply 
+[the forfeiture] rule where a party fails to develop arguments related to a discrete issue … .”).)  In 
+Cleary, a class of Illinois cigarette purchasers to whom the health risks of cigarettes were not 
+adequately disclosed argued that they could prevail on an unjust enrichment claim against the 
+cigarette manufacturer without proving “deception, causation, or actual harm with regard to 
+individual members of the plaintiff class.”  Cleary, </pre><span class="citation" data-id="612578"><a href="/opinion/612578/cleary-v-philip-morris-inc/#518" aria-description="Citation for case: Cleary v. Philip Morris Inc.">656 F.3d at 518</a></span><pre class="inline">.  The Seventh Circuit 
+disagreed, holding that “the mere violation of a consumer’s legal right to know about a product’s 
+risks … cannot support a claim that the manufacturer unjustly retained the revenue from the 
+product’s sale to the consumer’s detriment.”  </pre><span class="citation" data-id="612578"><a href="/opinion/612578/cleary-v-philip-morris-inc/#519" aria-description="Citation for case: Cleary v. Philip Morris Inc.">Id. at 519</a></span><pre class="inline">.  As the Seventh Circuit explained, a 
+plaintiff must show a “greater connection” between the unjust enrichment and the detriment to 
+the plaintiff—for example, that “the revenue was obtained in a manner that caused injury to the 
+
+plaintiffs, or … by deceiving the plaintiffs, or … by an inadvertent misrepresentation relied upon 
+by the plaintiffs.”  </pre><span class="citation" data-id="612578"><a href="/opinion/612578/cleary-v-philip-morris-inc/#519" aria-description="Citation for case: Cleary v. Philip Morris Inc.">Id. at 519-20</a></span><pre class="inline">.                                       
+    Plaintiffs maintain that they have shown the requisite connection by alleging that they 
+suffered damages as a result of the Anticaking representation.  Doc. 335 at 27-28.  The only 
+damages that can be inferred from the Kraft amended complaint are the kinds of damages that 
+support Plaintiffs’ standing, namely, the generalized effect of the Anticaking representation on 
+the Kraft product’s purchase price.  But Cleary held that that a consumer cannot make out an 
+unjust enrichment claim merely by alleging that the defendant withheld information about a 
+product’s undesirable qualities, even though disclosure of such information would have affected 
+overall consumer behavior in such a way as to drive down the price for every consumer.  See 
+
+Cleary, </pre><span class="citation" data-id="612578"><a href="/opinion/612578/cleary-v-philip-morris-inc/#518" aria-description="Citation for case: Cleary v. Philip Morris Inc.">656 F.3d at 518-20</a></span><pre class="inline"> (holding that the plaintiffs did not state an unjust enrichment claim 
+where they alleged that the defendants had not adequately disclosed cigarettes’ health hazards 
+and that the omission was “to plaintiffs’ detriment”).  It follows that a plaintiff cannot establish 
+the requisite connection between her detriment and the defendant’s alleged unjust enrichment by 
+showing that the defendant’s representations or omissions affected the price that all consumers 
+paid.  Accordingly, Kraft is entitled to judgment on the Illinois unjust enrichment claims against 
+it; the same holds for the materially identical Illinois unjust enrichment claims against 
+Albertsons/SuperValu.                                                     
+    SuperValu argues that the Alabama unjust enrichment claims fail because: (1) unjust 
+enrichment under Alabama law “sounds in the nature of quasi-contract,” (2) courts generally do 
+not find implied contracts, including quasi-contracts, where the parties have entered into an 
+express contract concerning the same subject matter, (3) the allegations supporting Plaintiffs’ 
+
+express warranty claim show that the parties entered into an express contract based on the 
+Anticaking representations, and therefore, (4) Plaintiffs cannot maintain an unjust enrichment 
+cause of action based on an implied quasi-contract.  Doc. 311 at 18-19 (citing White v. Microsoft 
+Corp., </pre><span class="citation" data-id="2317200"><a href="/opinion/2317200/white-v-microsoft-corp/#1132" aria-description="Citation for case: White v. Microsoft Corp.">454 F. Supp. 2d 1118, 1132</a></span><pre class="inline"> (S.D. Ala. 2006) (collecting cases)).  That argument fails to 
+persuade.  Although Plaintiffs cannot recover for unjust enrichment if an express contract covers 
+the same subject matter, they still may pursue express warranty claims and unjust enrichment 
+claims in the alternative so long as a factfinder could plausibly determine that no express 
+contract existed.  See Fed. R. Civ. P. 8(d)(2); Kennedy v. Polar-BEK &amp; Baker Wildwood P’ship, 
+</pre><span class="citation" data-id="1687132"><a href="/opinion/1687132/kennedy-v-polar-bek-baker-wildwood/#447" aria-description="Citation for case: Kennedy v. Polar-BEK &amp; Baker Wildwood">682 So. 2d 443, 447</a></span><pre class="inline"> (Ala. 1996) (holding that “the existence of an express contract … [is] a 
+question of fact” and that a court “may recognize an implied contract where the existence of an 
+
+express contract on the same subject matter is not proven”).  SuperValu has not even attempted 
+to establish that an express contract indisputably existed here, and thus it has not shown that 
+Plaintiffs are precluded from pleading unjust enrichment in the alternative. 
+    SuperValu retorts that if the court grants its motion for summary judgment as to the 
+Alabama express warranty claims—which, for the reasons given above, the court has done—then 
+the court must also find that there was an express warranty in the first place.  Doc. 338 at 10-11.  
+That is incorrect.  SuperValu is entitled to judgment on the Alabama express warranty claim 
+because even if the Anticaking representation created an express warranty under Alabama law, 
+Plaintiffs still could not recover because they did not provide SuperValu with adequate pre-suit 
+notice.  In so holding, the court did not reach the question whether the Anticaking representation 
+in fact created an express warranty, and SuperValu has not provided any argument or cited any 
+case law showing that it did, thereby forfeiting the issue.  See G &amp; S Holdings, 697 F.3d at 538; 
+Alioto, </pre><span class="citation" data-id="220490"><a href="/opinion/220490/alioto-v-town-of-lisbon/#721" aria-description="Citation for case: Alioto v. Town of Lisbon">651 F.3d at 721</a></span><pre class="inline">.  Accordingly, SuperValu is not entitled to judgment on the Alabama 
+
+unjust enrichment claims.                                                 
+    In sum, Plaintiffs’ Illinois unjust enrichment claims against Albertsons/SuperValu and 
+Kraft are dismissed, but their remaining unjust enrichment claims can proceed. 
+                           Conclusion                                    
+    Plaintiffs’ motion for leave to file second amended complaints against Publix and 
+Target/ICCO is denied.  The claims against Publix and Target/ICCO remain dismissed. 
+    As to Kraft, Plaintiffs’ CUTPA, ICFA, and MCPA claims; their California, Florida, and 
+Minnesota express warranty claims; their California, Connecticut, and Minnesota implied 
+warranty claims; and their Illinois unjust enrichment claims are dismissed.  Plaintiffs’ New York, 
+Connecticut, Minnesota, Florida, California, Alabama, and Michigan unjust enrichment claims 
+
+against Kraft may proceed, along with their Alabama express warranty claims and Michigan 
+implied warranty claims (neither of which were addressed in Kraft’s Rule 12(c) motion). 
+    As to Albertsons/SuperValu, Plaintiffs’ ICFA claims; their Illinois and Alabama express 
+warranty claims; their Illinois implied warranty claims; and their Illinois unjust enrichment claim 
+are dismissed.  Plaintiffs’ Alabama unjust enrichment claim against SuperValu may proceed.  As 
+there are no remaining claims against Albertsons, it is dismissed as a defendant. 
+    The dismissed claims against Publix, Target/ICCO, Kraft, and Albertsons/SuperValu are 
+dismissed with prejudice.  Plaintiffs were on notice of the reliance and causation issues that 
+resulted in the dismissals at least since the court issued its more recent opinion.  They have not 
+proposed, in either their motion for leave to amend or their responses to Kraft’s and 
+Albertsons/SuperValu’s present motions, a way to amend their complaint to sufficiently allege 
+reliance or causation.  Moreover, Plaintiffs have from the beginning of this litigation known what 
+information they saw and relied upon at the time they purchased Defendants’ products. 
+Permitting them to amend those allegations at this late stage, following three protracted and 
+resource-intensive rounds of briefing, would prejudice Defendants and waste judicial resources. 
+See Thompson, 300 F.3d at 759 (holding that defendants are prejudiced when they are forced to 
+respond to new allegations that could have been raised earlier in the litigation). 
+
+July 16, 2019
+                                         United States District Judge 
+
+                                     29 </pre>

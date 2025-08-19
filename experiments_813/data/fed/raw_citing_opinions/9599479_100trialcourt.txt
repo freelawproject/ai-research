@@ -1,0 +1,429 @@
+<pre class="inline">1                                                                         
+
+2                                                                         
+
+3                                                                         
+
+4                                                                         
+
+5                                                                         
+
+6                                                                         
+
+7                                                                         
+
+8                      UNITED STATES DISTRICT COURT                       
+
+9                                                                         
+                      NORTHERN DISTRICT OF CALIFORNIA                     
+10                                                                         
+                             SAN JOSE DIVISION                            
+11                                                                         
+
+12    ABDISAMAD AHMED, et al.,         Case No. 20-CV-05498-LHK            
+
+13              Plaintiffs,                                                
+                                      ORDER GRANTING MOTION TO            
+                                      DISMISS WITH PREJUDICE IN PART      
+14          v.                                                             
+                                      AND WITH LEAVE TO AMEND IN          
+                                      PART                                
+15    COUNTY OF SANTA CLARA, et al.                                        
+                                      Re: Dkt. No. 9                      
+16              Defendants.                                                
+17                                                                         
+18        Plaintiffs Abdisamad Ahmed and Kim Hadd (collectively, “Plaintiffs”) sue the County of 
+19   Santa Clara (“The County”) and individuals whose identities are unknown to Plaintiffs 
+20   (collectively, “Defendants”) for (1) general negligence; (2) public entity negligence; and (3) 
+21   violation of rights under </pre><span class="citation no-link">42 U.S.C. § 1983</span><pre class="inline">. Before the Court is the County’s motion to dismiss 
+22   Plaintiffs’ complaint. Having considered the parties’ submissions, the relevant law, and the record 
+23   in this case, the Court GRANTS the County’s motion to dismiss with prejudice in part and with 
+24   leave to amend in part.1                                              
+25                                                                         
+
+26                                                                         
+    1 The County’s motion to dismiss contains a notice of motion paginated separately from the 
+27   memorandum of points and authorities in support of the motion. ECF No. 9 at 1–2. Civil Local 
+                                    1                                     
+    I.   BACKGROUND                                                       
+1                                                                         
+      A. Factual Background                                               
+2                                                                         
+         On March 15, 2019, Harris Ahmed (“Harris”), Plaintiffs’ 21-year-old son, was admitted to 
+3                                                                         
+    the Barbara Arons Pavilion of the Santa Clara Valley Medical Center, which is owned and 
+4                                                                         
+    operated by the County. ECF No. 1-1 (“Compl.”) ¶¶ 10, 12.             
+5                                                                         
+         According to Plaintiffs, Harris was admitted to receive acute psychiatric services after he 
+6                                                                         
+    attempted to run across Interstate 280. </pre><span class="citation no-link">Id. ¶ 10</span><pre class="inline">. Plaintiffs allege that the notice accompanying 
+7                                                                         
+    Harris’s admission “designated him as gravely disabled[,] describing [Harris] as very 
+8                                                                         
+    unpredictable, agitated, hyper-religious, threatening at times, yelling and unable to care for 
+9                                                                         
+    himself.” </pre><span class="citation no-link">Id.</span><pre class="inline">                                                         
+10                                                                         
+         Plaintiffs further allege that the notice ordered that Harris be held in the Santa Clara Valley 
+11                                                                         
+    Medical Center until March 29, 2019. </pre><span class="citation no-link">Id.</span><pre class="inline"> Despite the notice, Harris was allegedly released on 
+12                                                                         
+    March 26, 2019. </pre><span class="citation no-link">Id.</span><pre class="inline"> On the day Harris was released, he allegedly displayed the same behavior 
+13                                                                         
+    described in the notice. </pre><span class="citation no-link">Id.</span><pre class="inline"> On March 28, 2019, two days after his release, Harris walked across 
+14                                                                         
+    Interstate 280 and was struck and killed by a vehicle. </pre><span class="citation no-link">Id.</span><pre class="inline">            
+15                                                                         
+         Plaintiffs allege that the County “knew or should have known that [Harris] was unfit to be 
+16                                                                         
+    released prematurely” but “failed to take necessary steps to prevent [Harris’s] release.” </pre><span class="citation no-link">Id. ¶ 12</span><pre class="inline">. 
+17                                                                         
+    Plaintiffs allege that, as a result of the County’s failure, Harris “remained in an unfit and delirious 
+18                                                                         
+    state, entered onto [I]nterstate 280 . . . and was struck and killed.” </pre><span class="citation no-link">Id.</span><pre class="inline">  
+19                                                                         
+         Following Harris’ death, Plaintiffs filed a claim with the County on September 25, 2019. 
+20                                                                         
+    Haley Decl. Exh. A. The County denied the claim on November 1, 2019 and mailed the notice that 
+21                                                                         
+    the claim had been denied on the same day. ECF No. 10 Exh. A. The notice had a section entitled 
+22                                                                         
+    “Warning,” which stated that “[s]ubject to certain exceptions, you have only six (6) months from 
+23                                                                         
+    the date this notice was personally delivered or deposited in the mail to file a court action on this 
+24                                                                         
+25                                                                         
+26   Rule 7-2(b) provides that the notice of motion and points and authorities should be contained in 
+    one document with the same pagination.                                
+27                                                                         
+                                    2                                     
+1   claim.” </pre><span class="citation no-link">Id.</span><pre class="inline">                                                           
+2     B.  Procedural History                                              
+3        On June 4, 2020, Plaintiffs filed suit in the California Superior Court for the County of 
+4   Santa Clara as heirs to Harris and representatives of Harris’s estate. ECF No. 1-1. The Complaint 
+5   alleges three causes of action: (1) general negligence under California Government Code § 815.2; 
+6   (2) public entity negligence under California Government Code §§ 815.2 and 820;2 and (3) 
+7   violation of rights under </pre><span class="citation no-link">42 U.S.C. § 1983</span><pre class="inline">. </pre><span class="citation no-link">Id.</span><pre class="inline"> On July 9, 2020, Plaintiffs served the Complaint on 
+8   the County. ECF No. 1 ¶ 1. On August 7, 2020, the County removed the instant case to this Court. 
+9   ECF No. 1.                                                            
+10        On August 14, 2020, the County filed the instant motion to dismiss Plaintiffs’ Complaint, 
+11   ECF No. 9 (“Mot.”), and filed a request for judicial notice in support of its motion to dismiss, ECF 
+12   No. 10. On August 28, 2020, Plaintiffs filed an opposition, which was supported by a declaration 
+13   from Plaintiffs’ counsel, Matthew Haley. ECF No. 12 (“Opp’n”); Haley Decl. On September 4, 
+14   2020, the County filed a reply. ECF No. 13 (“Reply”).                 
+15        The Court may take judicial notice of matters that are either “generally known within the 
+16   trial court’s territorial jurisdiction” or “can be accurately and readily determined from sources 
+17   whose accuracy cannot reasonably be questioned.” Fed. R. Evid. 201(b). Public records are proper 
+18   subjects of judicial notice. See, e.g., United States v. Black, </pre><span class="citation" data-id="9843311"><a href="/opinion/797418/united-states-v-jasper-black/#1041" aria-description="Citation for case: United States v. Jasper Black">482 F.3d 1035, 1041</a></span><pre class="inline"> (9th Cir. 2007). 
+19   However, to the extent any facts in documents subject to judicial notice are subject to reasonable 
+20   dispute, the Court will not take judicial notice of those facts. See Lee v. City of Los Angeles, 250 
+</pre><span class="citation no-link">21   F.3d 668</span><pre class="inline">, 689 (9th Cir. 2001), overruled on other grounds by Galbraith v. County of Santa Clara, 
+22   </pre><span class="citation" data-id="7014886"><a href="/opinion/7108812/galbraith-v-county-of-santa-clara/" aria-description="Citation for case: Galbraith v. County of Santa Clara">307 F.3d 1119</a></span><pre class="inline"> (9th Cir. 2002).                                        
+23        Here, the County requests judicial notice of the County’s November 1, 2019 notice 
+24                                                                         
+
+25   2 The header in Plaintiffs’ complaint for the second cause of action references California Evidence 
+    Code § 669. However, that section solely governs when the failure of a person to exercise due care 
+26   is presumed, and it does not give rise to a cause of action. In addition, the paragraphs in support of 
+    the second cause of action reference California Government Code sections 815.2(a) and 820(a). 
+27   Thus, the Court considers the second cause of action as if it were brought under those sections.  
+                                    3                                     
+1   rejecting Plaintiffs’ claim pursuant to the California Government Claims Act (CGCA), California 
+2   Government Code § 810 et seq. ECF No. 10. Plaintiffs do not contest the validity of the notice. 
+3   Courts routinely conclude that such notices are public records that are proper subjects of judicial 
+4   notice. See, e.g., Williams v. Nat’l R.R. Passenger Corp., Case No. 19-CV-00576-YGR, </pre><span class="citation no-link">2019 WL 
+5</span><pre class="inline">   4848577, at *1 n.2 (N.D. Cal. Oct. 1, 2019) (taking judicial notice of a City’s notice rejecting the 
+6   plaintiff’s claim); Roy v. Contra Costa County, Case No. 15-CV-02676-TEH, </pre><span class="citation no-link">2015 WL 5698743</span><pre class="inline">, 
+7   at *2 n.6 (N.D. Cal. Sept. 29, 2015) (concluding that a City’s notice rejecting the plaintiff’s claim 
+8   was the proper subject of judicial notice); Wilhite v. City of Bakersfield, Case No. 11-CV-1692-
+9   AWI, </pre><span class="citation no-link">2012 WL 273088</span><pre class="inline">, at *3 n.4 (E.D. Cal. Jan. 30, 2012) (taking judicial notice of a County’s 
+10   responses to plaintiff’s claim as public records). Similarly, the Court concludes in the instant case 
+11   that the County’s letter denying Plaintiffs’ claim is a public record that is a proper subject of 
+12   judicial notice. Thus, the Court GRANTS the County’s request for judicial notice.  
+13   II.  LEGAL STANDARD                                                   
+14     A. Dismissal Pursuant to Federal Rule of Civil Procedure 12(b)(6)   
+15        Rule 8(a) of the Federal Rules of Civil Procedure requires a complaint to include “a short 
+16   and plain statement of the claim showing that the pleader is entitled to relief.” Fed. R. Civ. P. 8(a). 
+17   A complaint that fails to meet this standard may be dismissed pursuant to Federal Rule of Civil 
+18   Procedure 12(b)(6). Rule 8(a) requires a plaintiff to plead “enough facts to state a claim to relief 
+19   that is plausible on its face.” Bell Atlantic Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 570</a></span><pre class="inline"> (2007). “A claim 
+20   has facial plausibility when the plaintiff pleads factual content that allows the court to draw the 
+21   reasonable inference that the defendant is liable for the misconduct alleged.” Ashcroft v. Iqbal, 556 
+</pre><span class="citation no-link">22   U.S. 662</span><pre class="inline">, 678 (2009). “The plausibility standard is not akin to a probability requirement, but it 
+23   asks for more than a sheer possibility that a defendant has acted unlawfully.” </pre><span class="citation no-link">Id.</span><pre class="inline"> (internal 
+24   quotation marks omitted). For purposes of ruling on a Rule 12(b)(6) motion, the Court “accept[s] 
+25   factual allegations in the complaint as true and construe[s] the pleadings in the light most 
+26   favorable to the nonmoving party.” Manzarek v. St. Paul Fire &amp; Marine Ins. Co., </pre><span class="citation" data-id="1194077"><a href="/opinion/1194077/manzarek-v-st-paul-fire-marine-insurance/" aria-description="Citation for case: Manzarek v. St. Paul Fire &amp; Marine Insurance">519 F.3d 1025</a></span><pre class="inline">, 
+27                                                                         
+                                    4                                     
+1   1031 (9th Cir. 2008).                                                 
+2        The Court, however, need not accept as true allegations contradicted by judicially 
+3   noticeable facts, see Shwarz v. United States, </pre><span class="citation" data-id="6990180"><a href="/opinion/7084861/shwarz-v-united-states/#435" aria-description="Citation for case: Shwarz v. United States">234 F.3d 428, 435</a></span><pre class="inline"> (9th Cir. 2000), and it “may look 
+4   beyond the plaintiff’s complaint to matters of public record” without converting the Rule 12(b)(6) 
+5   motion into a motion for summary judgment, Shaw v. Hahn, </pre><span class="citation" data-id="697357"><a href="/opinion/697357/gina-shaw-v-james-k-hahn-john-emerson-james-pearson-thomas-hokinson/" aria-description="Citation for case: Gina Shaw v. James K. Hahn John Emerson James Pearson...">56 F.3d 1128</a></span><pre class="inline">, 1129 n.1 (9th Cir. 
+6   1995). Nor must the Court “assume the truth of legal conclusions merely because they are cast in 
+7   the form of factual allegations.” Fayer v. Vaughn, </pre><span class="citation" data-id="216101"><a href="/opinion/216101/fayer-v-vaughn/#1064" aria-description="Citation for case: Fayer v. Vaughn">649 F.3d 1061, 1064</a></span><pre class="inline"> (9th Cir. 2011) (per 
+8   curiam) (quoting W. Mining Council v. Watt, </pre><span class="citation multiple-matches"><a href="/c/F.2d/643/618/">643 F.2d 618</a></span><pre class="inline">, 624 (9th Cir. 1981)). Mere 
+9   “conclusory allegations of law and unwarranted inferences are insufficient to defeat a motion to 
+10   dismiss.” Adams v. Johnson, </pre><span class="citation" data-id="8408553"><a href="/opinion/8438027/adams-v-johnson/#1183" aria-description="Citation for case: Adams v. Johnson">355 F.3d 1179, 1183</a></span><pre class="inline"> (9th Cir. 2004).      
+11     B.  Leave to Amend                                                  
+12        If the Court determines that a complaint should be dismissed, it must then decide whether 
+13   to grant leave to amend. Under Rule 15(a) of the Federal Rules of Civil Procedure, leave to amend 
+14   “shall be freely given when justice so requires,” bearing in mind “the underlying purpose of Rule 
+15   15 to facilitate decisions on the merits, rather than on the pleadings or technicalities.” Lopez v. 
+</pre><span class="citation no-link">16   Smith, 203</span><pre class="inline"> F.3d 1122, 1127 (9th Cir. 2000) (en banc) (alterations and internal quotation marks 
+17   omitted). When dismissing a complaint for failure to state a claim, “&#x27;a district court should grant 
+18   leave to amend even if no request to amend the pleading was made, unless it determines that the 
+19   pleading could not possibly be cured by the allegation of other facts.” </pre><span class="citation no-link">Id. at 1130</span><pre class="inline"> (internal 
+20   quotation marks omitted). Accordingly, leave to amend generally shall be denied only if allowing 
+21   amendment would unduly prejudice the opposing party, cause undue delay, or be futile, or if the 
+22   moving party has acted in bad faith. Leadsinger, Inc. v. BMG Music Publ’g, </pre><span class="citation" data-id="1446183"><a href="/opinion/1446183/leadsinger-inc-v-bmg-music-publishing/" aria-description="Citation for case: Leadsinger, Inc. v. BMG Music Publishing">512 F.3d 522</a></span><pre class="inline">, 532 
+23   (9th Cir. 2008).                                                      
+24   III.  DISCUSSION                                                      
+25        Plaintiffs bring three claims: (1) general negligence under California Government Code § 
+26   815.2; (2) public entity negligence under California Government Code §§ 815.2 and 820; and (3) 
+27                                                                         
+                                    5                                     
+1   violation of rights under </pre><span class="citation no-link">42 U.S.C. § 1983</span><pre class="inline">. </pre><span class="citation no-link">Id.</span><pre class="inline"> The County moves to dismiss all three claims. The 
+2   Court first addresses the two state law claims. The Court then addresses the Section 1983 claim.  
+3     A. State Law Claims                                                 
+4        The County argues that Plaintiffs’ two state law claims should be dismissed with prejudice 
+5   because Plaintiffs did not file their complaint within the statute of limitations under the CGCA. 
+6   Mot at 5–6. The Court agrees for the reasons explained below.         
+7        Before a plaintiff can sue a public entity or employee for monetary damages, he or she 
+8   must first file a claim with a governmental entity pursuant to the CGCA. Cal. Gov’t Code § 945.4; 
+9   Briggs v. Lawrence, </pre><span class="citation" data-id="2114919"><a href="/opinion/2114919/briggs-v-lawrence/#613" aria-description="Citation for case: Briggs v. Lawrence">230 Cal. App. 3d 605, 613</a></span><pre class="inline"> (1991). The plaintiff must file a claim no more 
+10   than six months after the cause of action has accrued. Cal. Gov’t Code § 911.2; Curtis T. v. County 
+11   of Los Angeles, </pre><span class="citation" data-id="2256277"><a href="/opinion/2256277/curtis-t-v-county-of-los-angeles/#1415" aria-description="Citation for case: CURTIS T. v. County of Los Angeles">123 Cal. App. 4th 1405, 1415</a></span><pre class="inline"> (2004). The plaintiff must then sue no more than six 
+12   months after a public entity mails written notice that it has rejected the plaintiff’s claim. Cal. Gov’t 
+13   Code § 945.6(a)(1); County of Los Angeles v. Superior Court, </pre><span class="citation" data-id="2262501"><a href="/opinion/2262501/county-of-los-angeles-v-superior-court/" aria-description="Citation for case: County of Los Angeles v. Superior Court">127 Cal. App. 4th 1263</a></span><pre class="inline">, 1267–68 
+14   (2005). This six-month period applies from the date the public entity mails the written notice, 
+15   regardless of whether the plaintiff actually receives the mailed notice. County of Los Angeles, 127 
+16   Cal. App. 4th at 1271 (“That [Plaintiff’s counsel] never received the notice that the claim had been 
+17   deemed denied is irrelevant.”). “Failure to comply with this six-month limitation mandates 
+18   dismissal of the lawsuit.” Apollo v. Gyaami, </pre><span class="citation" data-id="2259880"><a href="/opinion/2259880/apollo-v-gyaami/" aria-description="Citation for case: Apollo v. Gyaami">167 Cal. App. 4th 1468</a></span><pre class="inline">, 1486 n.14 (2008); see also 
+19   Martell v. Antelope Valley Hosp. Med. Ctr., </pre><span class="citation" data-id="5663582"><a href="/opinion/5808239/martell-v-antelope-valley-hospital-medical-center/" aria-description="Citation for case: Martell v. Antelope Valley Hospital Medical Center">67 Cal. App. 4th 978</a></span><pre class="inline">, 982–83 (1998) (dismissing a 
+20   lawsuit for failure to comply with the six-month limitation because “[w]ith rare exceptions, courts 
+21   have held that the six-month statute of limitations is inviolate”) (quoting Anson v. County of 
+22   Merced, </pre><span class="citation" data-id="2138005"><a href="/opinion/2138005/anson-v-county-of-merced/#1200" aria-description="Citation for case: Anson v. County of Merced">202 Cal. App. 3d 1195, 1200</a></span><pre class="inline"> (1988)); Dowell v. County of Contra Costa, </pre><span class="citation no-link">173 Cal. App. 
+23</span><pre class="inline">   3d 896, 901 (1985) (“Where the notice of rejection complies with [California Government Code] 
+24   [S]ection 913[,] the six-month statute of limitations cannot be extended by provisions outside the 
+25   Tort Claims Act.”).                                                   
+26        In the instant case, the County denied Plaintiffs’ claim on November 1, 2019. See ECF No. 
+27                                                                         
+                                    6                                     
+1   10 Exh. A (“Notice of Rejection of Claim”). The County mailed the notice that the claim had been 
+2   denied that same day. See ECF No. 10 Exh. A (“Proof of Service by Mail”). Accordingly, the 
+3   CGCA gave Plaintiffs until May 1, 2020, six months after the County mailed the notice, to sue. 
+4   Cal. Gov’t Code § 945.6(a)(1); County of Los Angeles, 127 Cal. App. 4th at 1270–71. 
+5        As Plaintiffs point out, the Superior Court for the County of Santa Clara designated March 
+6   17, 2020 to March 27, 2020; March 30, 2020 to April 28, 2020; and April 29, 2020 to May 29, 
+7   2020 as holidays in response to the coronavirus pandemic. Haley Decl. Exh. C-1 (“For purposes of 
+8   computing time for filing papers with the Court under Code of Civil Procedure sections 12 and 
+9   12a, the time from March 17, 2020 to March 27, 2020, inclusive, is deemed to be holidays . . .”) ; 
+10   Exh. C-2 (stating the same as to the time from March 30, 2020 to April 28, 2020); Exh. C-3 
+11   (stating the same as to the time from April 29, 2020 to May 29, 2020). Section 12 of the California 
+12   Code of Civil Procedure provides that “[t]he time in which any act provided by law is to be done 
+13   is computed by excluding the first day, and including the last, unless the last day is a holiday, and 
+14   then it is also excluded.” Cal. Code Civ. Proc. § 12. Similarly, Section 12a states that “[i]f the last 
+15   day for the performance of any act provided or required by law to be performed within a specified 
+16   period of time is a holiday, then that period is hereby extended to and including the next day that 
+17   is not a holiday.” Cal. Code Civ. Proc. § 12a(a).                     
+18        May 1, 2020 through May 29, 2020 were holidays, so the period of time in which Plaintiffs 
+19   could file their complaint extended until the next day that was not a holiday. Because May 30, 
+20   2020 was a Saturday, the next day that was not a holiday was Monday, June 1, 2020. Accordingly, 
+21   Plaintiffs had to file their complaint by June 1, 2020. However, Plaintiffs did not file their 
+22   complaint until June 4, 2020. See Compl. Thus, Plaintiffs’ complaint is untimely.  
+23        Plaintiffs argue that the holidays designated in response to the coronavirus pandemic 
+24   (March 17, 2020 to March 27, 2020; March 30, 2020 to April 28, 2020; and April 29, 2020 to May 
+25   29, 2020) tolled the statute of limitations at least 59 days, permitting Plaintiffs to file by July 1, 
+26   2020. Opp’n at 6–7. However, the statutes merely state that holidays have an impact when they 
+27                                                                         
+                                    7                                     
+1   occur on the last day to perform an act, in which case the act can be performed on the next day that 
+2   is not a holiday. See Cal. Code Civ. Proc. §§ 12, 12a.                
+3         Under the previous version of Section 12a, Plaintiffs’ position would have more merit. 
+4   Section 12a used to state: “As to any act provided or required by law to be performed within a 
+5   specified period of time, such period of time is hereby extended . . . [b]y such number of days as 
+6   equals the number of holidays (other than special holidays) appointed by the President or by the 
+7   Governor and which occur within or during such period.” Laubisch v. Roberdo, </pre><span class="citation" data-id="1416959"><a href="/opinion/1416959/laubisch-v-roberdo/" aria-description="Citation for case: Laubisch v. Roberdo">277 P.2d 9</a></span><pre class="inline">, 13 
+8   (Cal. 1954) (quoting Cal. Code Civ. Prod. § 12a (1954)). By contrast, the current version of 
+9   Section 12a states that a holiday is only excluded if the holiday occurs on the last day of the 
+10   limitations period. See Cal. Code Civ. Proc. § 12a(a). Thus, under the current version of Section 
+11   12a, a holiday does not have an impact unless it occurs on the last day of the limitations period. 
+12        Accordingly, several courts have dismissed complaints as untimely when the complaint 
+13   was not filed on the next day that is not a holiday. See Beriones v. California, Case No. 05-CV-
+14   1747-LAB, </pre><span class="citation no-link">2007 WL 173868</span><pre class="inline">, at *3 (S.D. Cal. Jan. 8, 2007) (concluding that the plaintiff had 
+15   missed the six month limitations period where the last day to file was a holiday and the plaintiff 
+16   did not file on the day following the holiday); see also K.C. ex rel. Rick v. Upland Unified Sch. 
+17   Dist., Case No. EDCV-06-1314-VAP, </pre><span class="citation no-link">2008 WL 4553212</span><pre class="inline">, at *3 n.7 (C.D. Cal. Oct. 7, 2008) 
+18   (concluding that claims were untimely where the last day to file was a holiday and the plaintiff 
+19   filed the claims two days after the first day following the holiday). Similarly, the Court concludes 
+20   that Plaintiffs’ complaint was untimely filed. Because Plaintiffs did not timely file, the Court must 
+21   dismiss Plaintiffs’ state law claims. See Apollo, </pre><span class="citation" data-id="2259880"><a href="/opinion/2259880/apollo-v-gyaami/" aria-description="Citation for case: Apollo v. Gyaami">167 Cal. App. 4th at 1486</a></span><pre class="inline"> n.14 (“Failure to 
+22   comply with [the] six-month limitation mandates dismissal of the lawsuit.”).  
+23        The Court now considers whether to dismiss Plaintiffs’ state law claims with prejudice or 
+24   leave to amend. Dismissal with prejudice is warranted when amendment would be futile, unduly 
+25   prejudice the opposing party, or cause undue delay, or the moving party has acted in bad faith. See 
+26   Leadsinger, </pre><span class="citation" data-id="1446183"><a href="/opinion/1446183/leadsinger-inc-v-bmg-music-publishing/#532" aria-description="Citation for case: Leadsinger, Inc. v. BMG Music Publishing">512 F.3d at 532</a></span><pre class="inline">. Because Plaintiffs did not timely file, amendment would be futile. 
+27                                                                         
+                                    8                                     
+1   See Hoang v. Bank of America, N.A., </pre><span class="citation" data-id="4348022"><a href="/opinion/4570769/jerry-hoang-v-bank-of-america-na/#1103" aria-description="Citation for case: Jerry Hoang v. Bank of America, N.A.">910 F.3d 1096, 1103</a></span><pre class="inline"> (9th Cir. 2018) (“[L]eave to amend 
+2   need not be granted when ‘any amendment would be an exercise in futility,’ . . . such as when the 
+3   claims are barred by the applicable statute of limitations.”) (quotation omitted); Platt Elec. Supply, 
+4   Inc. v. EOFF Elec., Inc., </pre><span class="citation" data-id="1240877"><a href="/opinion/1240877/platt-electrical-supply-inc-v-eoff-electrical-inc/#1060" aria-description="Citation for case: Platt Electrical Supply, Inc. v. Eoff Electrical, Inc.">522 F.3d 1049, 1060</a></span><pre class="inline"> (9th Cir. 2008) (affirming district court’s denial of 
+5   leave to amend where “[Plaintiff’s] claims are barred by the statute of limitations, [so] any 
+6   amendments would have been futile”). Thus, the Court GRANTS the County’s motion to dismiss 
+7   Plaintiffs’ state law claims with prejudice.                          
+8     B.  Section 1983 Claim                                              
+9        The County next argues that Plaintiffs’ claim under </pre><span class="citation no-link">42 U.S.C. § 1983</span><pre class="inline"> should be dismissed. 
+10   Mot. at 8–10. To state a Section 1983 claim, plaintiffs must plead that “(1) the defendants acted 
+11   under color of state law and (2) deprived plaintiff of rights secured by the Constitution or federal 
+12   statutes.” WMX Techs., Inc. v. Miller, </pre><span class="citation multiple-matches"><a href="/c/F.3d/197/367/">197 F.3d 367</a></span><pre class="inline">, 372 (9th Cir. 1999) (en banc) (quoting Gibson 
+13   v. United States, </pre><span class="citation multiple-matches"><a href="/c/F.2d/781/1334/">781 F.2d 1334</a></span><pre class="inline">, 1338 (9th Cir. 1986)).               
+14        “In order for a person acting under color of state law to be liable under section 1983[,] 
+15   there must be a showing of personal participation in the alleged rights deprivation: there is no 
+16   respondeat superior liability under section 1983.” Jones v. Williams, </pre><span class="citation" data-id="7012309"><a href="/opinion/7106340/jones-v-williams/#934" aria-description="Citation for case: Jones v. Williams">297 F.3d 930, 934</a></span><pre class="inline"> (9th Cir. 
+17   2002).3 “A government entity cannot be held liable under </pre><span class="citation no-link">42 U.S.C. § 1983</span><pre class="inline">, unless a policy, 
+18   practice, or custom of the entity can be shown to be a moving force behind a violation of 
+19   constitutional rights.” Dougherty v. City of Covina, </pre><span class="citation" data-id="9442171"><a href="/opinion/223270/dougherty-v-city-of-covina/#900" aria-description="Citation for case: Dougherty v. City of Covina">654 F.3d 892, 900</a></span><pre class="inline"> (9th Cir. 2011) (citing 
+20   Monell v. Dep’t of Soc. Servs. of the City of New York, </pre><span class="citation" data-id="9427232"><a href="/opinion/109881/monell-v-new-york-city-dept-of-social-servs/#691" aria-description="Citation for case: Monell v. New York City Dept. of Social Servs.">436 U.S. 658, 691</a></span><pre class="inline"> (1978)). To establish a 
+21                                                                         
+
+22   3 The Complaint does not make it clear whether the Section 1983 claim is brought just against the 
+    County or also against individual defendants whose identities are unknown to Plaintiffs. The 
+23   Complaint says that the claim is “Against Defendant” in the singular, and the Complaint’s 
+    allegations are against the County. See Compl. ¶¶ 31, 32, 34, 35. Both suggest that the claim is 
+24   against only the County. Even if the claim were against individual defendants whose identities are 
+    unknown to Plaintiffs, the Complaint does not allege any facts about those individual defendants’ 
+25   “personal participation” in the alleged rights deprivation. Without such facts, Plaintiffs have failed 
+    to state a Section 1983 claim against individual defendants. Jones, </pre><span class="citation" data-id="7012309"><a href="/opinion/7106340/jones-v-williams/#934" aria-description="Citation for case: Jones v. Williams">297 F.3d at 934</a></span><pre class="inline"> (9th Cir. 2002); 
+26   accord Ahmed v. City of Antioch, Case No. 16-CV-01693-HSG, </pre><span class="citation no-link">2016 WL 8729938</span><pre class="inline">, at *2 (N.D. 
+    Cal. July 1, 2016) (“Without allegations of personal participation by [the individual defendants], 
+27   Plaintiffs’ claim must fail.”).                                       
+                                    9                                     
+1   governmental entity’s liability, a plaintiff must show: “(1) that [the plaintiff] possessed a 
+2   constitutional right of which [s]he was deprived; (2) that the municipality had a policy; (3) that 
+3   this policy amounts to deliberate indifference to the plaintiff’s constitutional right; and (4) that the 
+4   policy is the moving force behind the constitutional violation.” </pre><span class="citation no-link">Id.</span><pre class="inline"> at 900 (quoting Plumeau v. Sch. 
+5   Dist. No. 40 Cty. Of Yamhill, </pre><span class="citation" data-id="748641"><a href="/opinion/748641/barbara-plumeau-personally-amanda-barton-plumeau-by-her-mother-and/#438" aria-description="Citation for case: Barbara Plumeau, Personally Amanda Barton-Plumeau, by Her...">130 F.3d 432, 438</a></span><pre class="inline"> (9th Cir. 1997)).     
+6        As the Ninth Circuit has stated, “[d]eliberate indifference is a ‘stringent standard of fault.’” 
+7   Patel v. Kent Sch. Dist., </pre><span class="citation" data-id="220740"><a href="/opinion/220740/patel-ex-rel-ah-v-kent-school-district/#974" aria-description="Citation for case: Patel Ex Rel. A.H. v. Kent School District">648 F.3d 965, 974</a></span><pre class="inline"> (9th Cir. 2011) (quoting Bryan Cnty. v. Brown, 520 
+</pre><span class="citation" data-id="6607571"><a href="/opinion/6726317/young-v-bank-of-alexandria/#410" aria-description="Citation for case: Young v. Bank of Alexandria">8   U.S. 397, 410</a></span><pre class="inline"> (1997)). Deliberate indifference “is a higher standard than gross negligence because 
+9   ‘it requires a culpable mental state,’ meaning that ‘[t]he state actor must recognize[ ] [an] 
+10   unreasonable risk and actually intend[ ] to expose the plaintiff to such risks without regard to the 
+11   consequences to the plaintiff.’” Campbell v. State of Wash. Dep’t of Soc. &amp; Health Servs., 671 
+</pre><span class="citation no-link">12   F.3d 837</span><pre class="inline">, 846 (9th Cir. 2011) (quoting Patel, </pre><span class="citation" data-id="220740"><a href="/opinion/220740/patel-ex-rel-ah-v-kent-school-district/#974" aria-description="Citation for case: Patel Ex Rel. A.H. v. Kent School District">648 F.3d at 974</a></span><pre class="inline">).       
+13        To meet the deliberate indifference requirement, Plaintiffs allege that the County “knew or 
+14   should have known that [Harris] was unfit to be released prematurely.” Compl. ¶ 12.4 Plaintiffs 
+15   further allege that the County’s discharge of Harris “lowered the safety and security conferred on 
+16   [Harris] under federal, state, and/or local laws without due process and/or proper governmental 
+17   purpose, thereby creating a danger to which [Harris] [fell] victim and doing so with deliberate 
+18   indifference to the known and obvious danger [Harris] posed to himself.” Id. ¶ 31. Plaintiffs then 
+19   reiterate that the County’s discharge of Harris “was a deliberate indifference to federal, state, 
+20   and/or local law.” Id. ¶ 34.                                          
+21         These allegations are conclusory, merely asserting that the County exhibited deliberate 
+22   indifference without alleging facts that support that legal conclusion. Such conclusory allegations 
+23   are insufficient to state a claim. See Iqbal, 556 U.S. at 1949–50 (stating that courts are “not bound 
+24   to accept as true a legal conclusion couched as a factual allegation”) (quoting Twombly, </pre><span class="citation" data-id="9435104"><a href="/opinion/145747/watters-v-wachovia-bank-n-a/" aria-description="Citation for case: Watters v. Wachovia Bank, N. A.">550 U.S. 
+25</a></span><pre class="inline">                                                                         
+    4 This allegation does not suggest deliberate indifference but rather negligence, which is a lower 
+26                                                                         
+    standard of fault. Even if the County “knew or should have known” that Harris should not have 
+27   been released, the County would merely be exhibiting negligence.      
+                                    10                                    
+1   at 555); Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1100" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1100</a></span><pre class="inline"> (N.D. Cal. 2017) (“Twombly 
+2   and Iqbal . . . require Plaintiff to plead facts, not conclusory allegations.”). 
+3        In addition, Plaintiffs have not identified a County policy or custom that “amounts to 
+4   deliberate indifference to the plaintiff’s constitutional right” and was “the moving force behind the 
+5   constitutional violation.” Dougherty, </pre><span class="citation" data-id="9442171"><a href="/opinion/223270/dougherty-v-city-of-covina/#900" aria-description="Citation for case: Dougherty v. City of Covina">654 F.3d at 900</a></span><pre class="inline"> (quotation omitted). Indeed, nowhere in the 
+6   Complaint do Plaintiffs identify any County policy or custom, nor do they allege that the policy or 
+7   custom amounted to deliberate indifference or was the moving force behind the alleged 
+8   constitutional violation in the instant case. This failure mandates dismissal of Plaintiffs’ claim. </pre><span class="citation" data-id="9442171"><a href="/opinion/223270/dougherty-v-city-of-covina/" aria-description="Citation for case: Dougherty v. City of Covina">Id.</a></span><pre class="inline"> 
+9   at 900–01 (affirming dismissal of Section 1983 claim because the Complaint did not allege “any 
+10   facts demonstrating that [the] constitutional deprivation was the result of a custom or practice of 
+11   the City. . . or that the custom or practice was the ‘moving force’ behind [the] constitutional 
+12   deprivation”); accord A.E. ex rel. Hernandez v. County of Tulare, </pre><span class="citation" data-id="621643"><a href="/opinion/621643/ae-ex-rel-hernandez-v-county-of-tulare/" aria-description="Citation for case: AE Ex Rel. Hernandez v. County of Tulare">666 F.3d 631</a></span><pre class="inline">, 636–38 (9th Cir. 
+13   2012) (concluding that the plaintiff had not stated a Section 1983 claim because the plaintiff had 
+14   failed to plausibly allege that the County had a policy or custom).5   
+15        Based on these deficiencies, another Court in this District concluded that the plaintiffs had 
+16   failed to state a Section 1983 claim. In Ahmed v. City of Antioch, the successors-in-interest to a 
+17   decedent brought Section 1983 claims against several individuals and two municipalities after the 
+18   decedent was released from a psychiatric hold at a medical center based on suicidal ideation, and 
+19   the decedent subsequently jumped out of a taxi. </pre><span class="citation no-link">2016 WL 8729938</span><pre class="inline">, at *2. The plaintiffs alleged 
+20   that the defendants “‘knew, or should have known’ that it was ‘necessary to safeguard’ or 
+21   continually supervise an individual threatening suicide such as the decedent.” </pre><span class="citation no-link">Id.</span><pre class="inline"> The Court 
+22                                                                         
+23                                                                         
+    5 Plaintiffs cite the Ninth Circuit’s decision in Lee v. City of Los Angeles, which states that “a 
+24   claim of municipal liability under section 1983 is sufficient to withstand a motion to dismiss ‘even 
+    if the claim is based on nothing more than a bare allegation that the individual officers’ conduct 
+25   conformed to official policy, custom, or practice.’” 250 F.3d at 682–83 (quotation omitted). 
+    However, following the Supreme Court’s decisions in Twombly and Iqbal, the Ninth Circuit 
+26   subsequently overruled this holding. See A.E., 666 F.3d at 636–38. Furthermore, even if Plaintiffs 
+    were right about the state of the law, Plaintiffs never made bare allegations that the County’s 
+27   conduct conformed to an official policy, custom, or practice.         
+                                    11                                    
+1   concluded that the plaintiffs had failed to state a claim because “nothing in the complaint plausibly 
+2   suggests that [the City] acted with the stringent levels of knowledge and intent that deliberate 
+3   indifference requires.” </pre><span class="citation no-link">Id. at *3</span><pre class="inline">. The Court also concluded that the plaintiffs had failed to state a 
+4   claim because “Plantiffs fail[ed] to allege that [the City] possessed a policy that was the moving 
+5   force behind [the decedent’s] suicide.” </pre><span class="citation no-link">Id.</span><pre class="inline"> For the same reasons, the Court concludes that 
+6   Plaintiffs have failed to state a Section 1983 claim in the instant case. Thus, the Court grants the 
+7   County’s motion to dismiss Plaintiffs’ Section 1983 claim.            
+8        The remaining question is whether the motion should be granted with prejudice or leave to 
+9   amend. Dismissal with prejudice is warranted when amendment would be futile, unduly prejudice 
+10   the opposing party, or cause undue delay, or the moving party has acted in bad faith. See 
+11   Leadsinger, </pre><span class="citation" data-id="1446183"><a href="/opinion/1446183/leadsinger-inc-v-bmg-music-publishing/#532" aria-description="Citation for case: Leadsinger, Inc. v. BMG Music Publishing">512 F.3d at 532</a></span><pre class="inline">. In the instant case, the Court is unsure whether Plaintiffs will be able 
+12   to state a Section 1983 claim. However, Plaintiffs have not yet had an opportunity to amend their 
+13   complaint. As a result, the Court cannot necessarily find that amendment would be futile, unduly 
+14   prejudice Defendants, or cause undue delay. See A.E., 666 F.3d at 637–38 (concluding that the 
+15   district court abused its discretion by denying leave to amend where the plaintiff’s allegation of 
+16   plausible facts could have cured the deficiency in his Section 1983 claim). In addition, Plaintiffs 
+17   have not acted in bad faith. Thus, the Court GRANTS leave to amend.   
+18   IV.  CONCLUSION                                                       
+19        For the foregoing reasons, the Court GRANTS the County’s motion to dismiss Plaintiffs’ 
+20   state law claims with prejudice and GRANTS the County’s motion to dismiss Plaintiffs’ Section 
+21   1983 claim with leave to amend. Plaintiffs shall file any amended complaint within 30 days of this 
+22   Order. Failure to do so, or failure to cure deficiencies identified herein or identified in the instant 
+23   motion to dismiss, will result in dismissal of the deficient claim with prejudice. Plaintiffs may not 
+24   add new causes of action or add new parties without stipulation or leave of the Court. Plaintiffs are 
+25   directed to file a redlined complaint comparing the complaint to any amended complaint as an 
+26   attachment to Plaintiffs’ amended complaint.                          
+27                                                                         
+                                    12                                    
+    1    IT IS SO ORDERED. 
+    2    Dated: December 8, 2020 
+                                                               beh 
+                                               LUCY   H. KOH 
+    4                                          United States District Judge 
+    5 
+    6 
+    7 
+    8 
+    9 
+   10 
+   1] 
+3a    12
+
+
+Oo 
+   15 
+   16 
+
+    il 
+
+Z    18 
+   19 
+   20 
+   21 
+   22 
+   23 
+   24 
+   25 
+   26 
+   27 
+                                               13 
+   28    Case No. 20-CV-05498-LHK 
+        ORDER GRANTING MOTION TO DISMISS WITH PREJUDICE IN PART AND WITH LEAVE TO AMEND IN </pre>

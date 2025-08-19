@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b1437-17">
+  SEYMOUR, Circuit Judge.
+ </author>
+<p id="b1437-18">
+  Gordon and Sharon Flygare appeal the denial of confirmation of their Chapter 13 bankruptcy plan. They argue that the denial was based on an erroneous construction of the “good faith” requirement of <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3) (Supp. IY 1980). We agree and remand for further proceedings.
+ </p>
+<p id="b1437-19">
+  The Flygares first filed a Chapter 13 petition in April 1980. The bankruptcy court denied confirmation and dismissed the case in June. The Flygares filed a second petition in July 1980. The second plan was similar to the first; however, the length of the plan was increased from thirty-six months to fifty months. At the confirmation hearing, the second plan was modified to extend for sixty months. The plan also provided for payment of a larger sum to cure the Flygares’ default on their home mortgage. Under the plan, the unsecured creditors would be paid approximately three percent of their claims.
+ </p>
+<p id="b1437-20">
+  The bankruptcy court denied confirmation for two reasons. First, it held that the plan was “essentially similar to the earlier plan” which had been denied confirmation.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  Rec., vol. II, at 17. Second, it found
+  <span citation-index="1" class="star-pagination" label="1346"> 
+   *1346
+   </span>
+  that “a payment of 1 percent or 2 percent to creditors on the facts of the case is not a meaningful payment as required under the good faith provisions of Chapter 13.”
+  <span class="citation no-link"><em>
+   Id.
+  </em>
+  at 18</span>. With respect to the latter holding, the court specifically relied on its prior decision in
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (Bkrtcy.D.Utah 1980). The Flygares appealed to the district court, which cited
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  and affirmed the bankruptcy court’s order. This appeal followed.
+ </p>
+<p id="b1438-4">
+  Chapter 13 of the Bankruptcy Code, <span class="citation no-link">11 U.S.C. §§ 1301-1330</span> (Supp. IV 1980), contains liberalized provisions that enable certain debtors to repay all or a percentage of their debts according to a court-approved plan. Rather than having to surrender all non-exempt assets for distribution to creditors as required by Chapter 7, <span class="citation no-link">11 U.S.C. §§ 701-728</span> (Supp. IV 1980), Chapter 13 debtors make payments to creditors out of future income over a three-to-five year period, <span class="citation no-link">11 U.S.C. § 1322</span>(e), after which they are entitled to a broad discharge of their obligations, <span class="citation no-link">11 U.S.C. § 1328</span>(a). The bankruptcy court must confirm a Chapter 13 plan if it meets the criteria Congress set out in section 1325(a).
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  We are concerned here with the meaning of the section 1325(a)(3) requirement that “the plan has been proposed in good faith and not by any means forbidden by law.”
+ </p>
+<p id="b1438-5">
+  In
+  <em>
+   In re Iacovoni,
+  </em>
+  the bankruptcy court considered eight Chapter 13 plans that proposed nominal or in some cases no payments to unsecured creditors. The court construed the “good faith” requirement of section 1325(a)(3) to mean “a good faith effort to make
+  <em>
+   meaningful payment
+  </em>
+  to holders of unsecured claims.” <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#267" aria-description="Citation for case: In Re Iacovoni">2 B.R. at 267</a></span> (emphasis added).
+ </p>
+<blockquote id="b1438-15">
+  “A proposal of meaningful repayment must be made, in light of the debtor’s particular circumstances, even, when, as in these cases, all of the debtor’s assets are exempt. If no meaningful repayment can be proposed, the debtor is not entitled to Chapter 13 relief.”
+ </blockquote>
+<p id="b1438-16">
+<span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#268" aria-description="Citation for case: In Re Iacovoni"><em>
+   Id.
+  </em>
+  at 268</a></span>.
+ </p>
+<p id="b1438-17">
+  The meaning of “good faith” in section 1325(a)(3) has engendered no small controversy among the bankruptcy courts.
+  <em>
+   Compare, e.g., In re Iacovoni with, e.g., In re Cloutier,
+  </em>
+  <span class="citation" data-id="1970505"><a href="/opinion/1970505/in-re-cloutier/" aria-description="Citation for case: In Re Cloutier">3 B.R. 584</a></span> (Bkrtcy.D.Colo.1980).
+  <em>
+   See
+  </em>
+  5 L. King, Collier on Bankruptcy ¶ 1325.01[c] at 1325-8.6 (15th ed. 1982) (“With the possible exception of the ‘adequate protection’ test, the controversy concerning good faith under Chapter 13 has resulted in more litigation than any other issue to have arisen during the year immediately following the effective date of the Bankruptcy Code.”).
+ </p>
+<p id="b1438-18">
+  The various bankruptcy court interpretations of the “good faith” requirement fall into three broad categories.
+  <em>
+   See United States v. Estus (In re Estus),
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/#314" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d 311, 314-16</a></span> (8th Cir.1982).
+  <em>
+   In re Iacovoni
+  </em>
+  is an example of cases holding that good faith
+  <span citation-index="1" class="star-pagination" label="1347"> 
+   *1347
+   </span>
+  requires substantial or meaningful repayment to unsecured creditors.
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/#314" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United..."><em>
+   Id.
+  </em>
+  at 314</a></span>. Cases at the other extreme seem to attach little independent meaning to the “good faith” requirement of section 1325(a)(3). These cases look only to the requirement of section 1325(a)(4) that Chapter 13 creditors receive as much as they would receive under Chapter 7. Because many consumer debtors have no nonexempt assets, their unsecured creditors would receive nothing in a Chapter 7 liquidation and hence a Chapter 13 plan providing for no payments to unsecured creditors would meet the subsection (a)(4) test.
+  <em>
+   <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">Id.</a></span>
+  </em>
+</p>
+<p id="b1439-4">
+  Those cases adopting a “middle road” approach do not find the amount of the payment dispositive of the issue of good faith.
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/#315" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United..."><em>
+   Id.
+  </em>
+  at 315-16</a></span>.
+ </p>
+<blockquote id="b1439-5">
+  “These courts do not automatically reject a plan which proposes nominal payments to unsecured creditors, but neither do they automatically confirm a plan as meeting the subsection (a)(3) good faith requirement if the subsection (a)(4) ‘best interests’ test is met. Instead these courts reason that a finding of good faith requires an inquiry, on a case-by-case basis, into whether the plan abuses the provisions, purpose or spirit of Chapter 13.”
+ </blockquote>
+<p id="A_7">
+<span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/#315" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United..."><em>
+   Id.
+  </em>
+  at 315</a></span>.
+ </p>
+<p id="b1439-6">
+  Six circuits have recently considered the divergent views of the bankruptcy courts, and all of them have adopted some formulation of the “middle road” approach.
+  <em>
+   Kitchens v. Georgia Railroad Bank &amp; Trust Co. (In re Kitchens),
+  </em>
+  <span class="citation" data-id="415578"><a href="/opinion/415578/in-re-charles-e-kitchens-and-olivia-l-kitchens-bankrupt-charles-e/" aria-description="Citation for case: In Re Charles E. Kitchens and Olivia L. Kitchens,...">702 F.2d 885</a></span> (11th Cir.1983);
+  <em>
+   In re Estus,
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d 311</a></span>;
+  <em>
+   Deans v. O’Donnell (In re Deans),
+  </em>
+  <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">692 F.2d 968</a></span> (4th Cir.1982);
+  <em>
+   Barnes v. Whelan (In re Barnes),
+  </em>
+  <span class="citation" data-id="409199"><a href="/opinion/409199/wavalene-n-barnes-v-hon-roger-m-whelan-bankruptcy-judge-cynthia-a/" aria-description="Citation for case: Wavalene N. Barnes v. Hon. Roger M. Whelan, Bankruptcy...">689 F.2d 193</a></span> (D.C.Cir.1982);
+  <em>
+   Goeb v. Heid (In re Goeb),
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386</a></span> (9th Cir.1982);
+  <em>
+   Ravenot v. Rimgale (In re Rimgale),
+  </em>
+  <span class="citation" data-id="398967"><a href="/opinion/398967/in-re-donald-s-rimgale-debtor-appellant-mary-ravenot-incompetent-by/" aria-description="Citation for case: In Re Donald S. Rimgale, Debtor-Appellant. Mary Ravenot,...">669 F.2d 426</a></span> (7th Cir.1982). We also conclude that this analysis is appropriate.
+ </p>
+<blockquote id="b1439-7">
+  “[T]he proper inquiry should follow the analysis adopted by the Fourth Circuit
+  <em>
+   [In re Deans,
+  </em>
+  <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">692 F.2d 968</a></span>]: whether the plan constitutes an abuse of the provisions, purpose or spirit of Chapter 13. The bankruptcy court must utilize its fact-finding expertise and judge each ease on its own facts after considering all the circumstances of the case. If, after weighing all the facts and circumstances, the plan is determined to constitute an abuse of the provisions, purpose or spirit of Chapter 13, confirmation must be denied.
+ </blockquote>
+<blockquote id="b1439-9">
+  “Certainly an important factor the courts must weigh in their analysis is the percentage of payment to unsecured creditors which the plan proposes. A low percentage proposal should cause the courts to look askance at the plan since repayment is one purpose of a Chapter 13 plan. However, the amount of the proposed repayment to unsecured creditors is only one of the many factors which the courts must consider in determining whether the plan meets the statutory good faith requirement. Other factors or exceptional circumstances might exist which would preclude a finding of bad faith even though only a nominal repayment to unsecured creditors is proposed.”
+ </blockquote>
+<p id="A5FS">
+<em>
+   In re Estus,
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/#316" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d at 316-17</a></span>.
+ </p>
+<p id="b1439-10">
+  We adopt the factors the Eighth Circuit listed as relevant to a determination of good faith. We reproduce them here for guidance on remand:
+ </p>
+<blockquote id="b1439-11">
+  “(1) the amount of the proposed payments and the amount of the debtor’s - surplus;
+ </blockquote>
+<blockquote id="b1439-12">
+  (2) the debtor’s employment history, ability to earn and likelihood of future increases in income;
+ </blockquote>
+<blockquote id="b1439-13">
+  (3) the probable or expected duration of the plan;
+ </blockquote>
+<blockquote id="b1439-14">
+  (4) the accuracy of the plan’s statements of the debts, expenses and percentage repayment of unsecured debt and whether any inaccuracies are an attempt to mislead the court;
+ </blockquote>
+<blockquote id="b1439-15">
+  (5) the extent of preferential treatment between classes of creditors;
+ </blockquote>
+<blockquote id="b1439-16">
+  (6) the extent to which secured claims are modified;
+ </blockquote>
+<blockquote id="b1439-17">
+  (7) the type of debt sought to be discharged and whether any such debt is non-dischargeable in Chapter 7;
+ </blockquote>
+<blockquote id="b1440-3">
+<span citation-index="1" class="star-pagination" label="1348"> 
+   *1348
+   </span>
+  (8) the existence of special circumstances such as inordinate medical expenses;
+ </blockquote>
+<blockquote id="b1440-4">
+  (9) the frequency with which the debt- or has sought relief under the Bankruptcy Reform Act;
+ </blockquote>
+<blockquote id="b1440-5">
+  (10) the motivation and sincerity of the debtor in seeking Chapter 13 relief; and
+ </blockquote>
+<blockquote id="b1440-6">
+  (11) the burden which the plan’s administration would place upon the trustee.”
+ </blockquote>
+<p id="b1440-7">
+<span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/#317" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United..."><em>
+   Id.
+  </em>
+  at 317</a></span>. This list is not exhaustive, and the weight given each factor will necessarily vary with the facts and circumstances of each case.
+ </p>
+<p id="b1440-8">
+  In its determination that the Flygares’ plan was not in good faith, the bankruptcy court made no findings but only cited its earlier decision in
+  <em>
+   In re
+  </em>
+  Iacovoni.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  The record contains no evidence that the court considered any factor other than the small percentage of payment to unsecured creditors. The court’s summary treatment of the Flygares’ petition indicates that it was applying a per se rule. We agree with the Eighth Circuit that “[a] per se minimum payment requirement to unsecured creditors as an element of good faith would infringe on the desired flexibility of Chapter 13 and is unwarranted.”
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+<em>
+   In re Estus,
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/#316" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d at 316</a></span> (footnotes omitted).
+ </p>
+<p id="b1440-9">
+  Accordingly, we reverse and remand for further proceedings consistent with this opinion.
+ </p>
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b1437-12">
+   . The trustee urges us to affirm on this ground. She argues: “Where the issue of the adequacy of the plan is essentially identical since the plan is not significantly different, the doctrine of res judicata should be determinative of the issue.” Brief of Respondent at 22. We disagree with
+   <span citation-index="1" class="star-pagination" label="1346"> 
+    *1346
+    </span>
+   this assertion. If nothing else, the fact that the second plan was for 60 months renders it sufficiently different from the first, which was for 36 months.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b1438-7">
+   . Section 1325(a) provides:
+  </p>
+<blockquote id="b1438-8">
+   “The court shall confirm a plan if—
+  </blockquote>
+<blockquote id="b1438-9">
+   (1) The plan complies with the provisions of this chapter and with other applicable provisions of this title;
+  </blockquote>
+<blockquote id="b1438-10">
+   (2) any fee, charge, or amount required , under chapter 123 of title 28, or by the plan,
+  </blockquote>
+<blockquote id="b1438-11">
+   to be paid before confirmation, has been paid;
+  </blockquote>
+<blockquote id="b1438-12">
+   (3) the plan has been proposed in good faith and not by any means forbidden by law;
+  </blockquote>
+<blockquote id="b1438-13">
+   (4) the value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under chapter 7 of this title on such date;
+  </blockquote>
+<blockquote id="b1438-20">
+   (5) with respect to each allowed secured claim provided for by the plan—
+  </blockquote>
+<blockquote id="b1438-21">
+   (A) the holder of such claim has accepted the plan;
+  </blockquote>
+<blockquote id="b1438-22">
+   (B)(i) the plan provides that the holder of such claim retain the lien securing such claim; and
+  </blockquote>
+<blockquote id="b1438-23">
+   (ii) the value, as of the effective date of the plan, of property to be distributed under the plan on account of such claim is not less than the allowed amount of such claim; or
+  </blockquote>
+<blockquote id="b1438-24">
+   (C) the debtor surrenders the property securing such claim to such holder; and
+  </blockquote>
+<blockquote id="b1438-25">
+   (6) the debtor will be able to make all payments under the plan and to comply with the plan.
+  </blockquote>
+<p id="b1438-26">
+   <span class="citation no-link">11 U.S.C. § 1325</span>(a) (Supp. IV 1980).
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b1440-11">
+   . The record contains no indication that the Flygares proposed their plan in bad faith. The plan showed Gordon Flygare’s take-home pay as $1,840 per month. Monthly expenses for the Flygares and their six children totaled $1,720, leaving a surplus of $110 per month. From that the Flygares proposed to make payments under the plan of $106 per month for five years.
+   <em>
+    See Goeb v. Heid (In re Goeb),
+   </em>
+   <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1391" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386, 1391</a></span> (9th Cir.1982).
+   <em>
+    Cf. In re Tanke,
+   </em>
+   <span class="citation" data-id="1538853"><a href="/opinion/1538853/in-re-tanke/" aria-description="Citation for case: In Re Tanke">4 B.R. 339</a></span> (Bkrtcy.D.Colo.1980) (confirmation of plan denied for lack of good faith where debtors had monthly uncommitted income of $901.65 yet proposed to pay only $160.00 per month, including only $1.00 to unsecured creditor whom they had defrauded).
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b1440-26">
+   .
+   <em>
+    See
+   </em>
+   5
+   <em>
+    L. King,
+   </em>
+   Collier
+   <em>
+    on
+   </em>
+   Bankruptcy ¶ 1325.-01 [c] at 1325-8.5 (“There is nothing in the statutory language or the legislative history either of the Bankruptcy Act or of the Bankruptcy Code, nor is there anything in the case law decided under the Bankruptcy Act, to suggest that ‘good faith’ was intended to play any role whatever in determining the quantum of payments or dividends to be proposed by the plan.”).
+  </p>
+</div></div></opinion>

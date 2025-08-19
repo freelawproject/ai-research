@@ -1,0 +1,260 @@
+<pre class="inline">1                                                                        
+2                                                                        
+3                                                                        
+4                                                                        
+5                                                                        
+6                                                                        
+7                                                                        
+8                      UNITED STATES DISTRICT COURT                      
+9                     EASTERN DISTRICT OF CALIFORNIA                     
+10                                                                        
+11   MATTHEW HAWKINS, on behalf of   No.  1:24-cv-00374-KES-SKO           
+    himself and all others similarly situated,                           
+12                                                                        
+                 Plaintiff,                                              
+13                                   ORDER GRANTING MOTION TO DISMISS     
+         v.                                                              
+14                                                                        
+    WALMART, INC.,                                                       
+15                                   (Doc. 8)                             
+                 Defendant.                                              
+16                                                                        
+
+17                                                                        
+18       Plaintiff Matthew Hawkins brings this putative class action against defendant Walmart, 
+19  Inc., alleging false and deceptive advertising and labeling in connection with the sale of 
+20  Walmart’s Great Value Avocado Oil (“Avocado Oil”).  Complaint, Exhibit 1 to Notice of 
+21  Removal (“Complaint”), Doc. 1-1.  Walmart moves to dismiss this action.  Motion to Dismiss 
+22  (“Motion”), Doc. 8.  This matter is suitable for resolution without a hearing pursuant to Local 
+23  Rule 230(g).  Doc. 18.  The Court has considered the parties’ briefs and notices of supplemental 
+24  authority, and for the reasons explained below, grants the motion to dismiss. 
+25    I.  BACKGROUND                                                      
+26       On February 20, 2024, Hawkins filed this action on behalf of himself, and others similarly 
+27  situated, alleging violations of California’s (1) Consumer Legal Remedies Act (“CLRA”), Cal. 
+28  Civ. Code § 1750, et seq., (2) False Advertising Law (“FAL”), </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17500</span><pre class="inline">, 
+1  et seq., (3) Unfair Competition Law (“UCL”), </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code §§ 17200</span><pre class="inline"> et seq., 
+2  (4) breach of express warranty, </pre><span class="citation no-link">Cal. Com. Code § 2313</span><pre class="inline">; (5) breach of implied warranty, Cal. 
+3  Com. Code § 2314(2)(f); and (6) intentional misrepresentation.  Walmart removed this action 
+4  from Tuolumne Superior Court pursuant to the Class Action Fairness Act (“CAFA”), 28 U.S.C. 
+5  § 1332.  Notice of Removal, Doc. 1.                                   
+6       The following facts are taken from the complaint:1               
+7       Walmart markets, labels, advertises, and sells its Great Value Avocado Oil (“Avocado 
+8  Oil”) with packaging that “prominently” contains an “unequivocal message” that the product is 
+9  pure avocado oil.  Complaint, Doc. 1-1 ¶¶ 1-2, 14-15.  The front of the bottle identifies the 
+10  product as “Refined Avocado Oil.”  Id. at 6.  The message that the product is pure avocado oil is 
+11  reinforced by the ingredient list on the back label, which lists avocado oil as the only ingredient.  
+12  Id. ¶ 15.  Moreover, Walmart’s website lists pure avocado oil as the only ingredient.  Id. ¶ 17.  
+13  Based on that representation, reasonable consumers believe that the oil is pure avocado oil.  Id. 
+14  ¶ 3.  However, unbeknownst to consumers, the Avocado Oil is adulterated with other oils.  Id. ¶ 3.   
+15       Hawkins purchased a bottle of Avocado Oil at a Walmart store in Sonora, California, 
+16  reasonably believing and relying on the claim that the product was pure avocado oil.  Id. ¶¶ 3, 8.  
+17  Hawkins would not have purchased the Avocado Oil, or would have only paid a lower price for it, 
+18  had he known that the product was not pure avocado oil.  Id. ¶ 2.  If Hawkins knew that the 
+19  Avocado Oil was pure, he would continue purchasing it, but he is refraining from making further 
+20  purchases for the time being.  Id. ¶ 9.                               
+21       Walmart moves to dismiss the complaint, arguing among other grounds that Hawkins fails 
+22  to sufficiently allege that Walmart made claims as to the Avocado Oil that would mislead a 
+23  reasonable consumer and fails to state a claim.  See Motion, Doc. 8; Reply to Motion, Doc. 16.  
+24  Hawkins opposes dismissal, arguing that his complaint contains allegations sufficient to state a 
+25  claim.  Opposition to Motion (“Opposition”), Doc. 14.  Hawkins also filed two notices of 
+26  supplemental authority.  Docs. 15, 17.                                
+27                                                                        
+   1 The factual allegations in the complaint are presumed to be true for purposes of the motion to 
+28  dismiss.  See Murguia v. Langdon, </pre><span class="citation no-link">61 F.4th 1096</span><pre class="inline">, 1106 (9th Cir. 2023). 
+1   II.  LEGAL STANDARD                                                  
+2       Federal Rule of Civil Procedure 12(b)(6) tests the legal sufficiency of a complaint.  
+3  Navarro v. Block, </pre><span class="citation" data-id="6998032"><a href="/opinion/7092494/navarro-v-block/#732" aria-description="Citation for case: Navarro v. Block">250 F.3d 729, 732</a></span><pre class="inline"> (9th Cir. 2001).  “Dismissal can be based on the lack of a 
+4  cognizable legal theory or the absence of sufficient facts alleged under a cognizable legal theory.”  
+5  Balistreri v. Pacifica Police Dep’t, </pre><span class="citation" data-id="9480248"><a href="/opinion/540085/jena-balistreri-v-pacifica-police-department-al-olsen-police-chief/#699" aria-description="Citation for case: Jena Balistreri v. Pacifica Police Department Al Olsen,...">901 F.2d 696, 699</a></span><pre class="inline"> (9th Cir. 1990).  In evaluating a motion to 
+6  dismiss under Rule 12(b)(6), the Court presumes the factual allegations within the complaint to be 
+7  true and draws all reasonable inferences in favor of the nonmoving party.  Murguia v. Langdon, 
+8  </pre><span class="citation no-link">61 F.4th 1096</span><pre class="inline">, 1106 (9th Cir. 2023) (citing Usher v. City of L.A., </pre><span class="citation" data-id="493965"><a href="/opinion/493965/sterling-usher-v-city-of-los-angeles-richard-a-gonzales-michael-e/#561" aria-description="Citation for case: Sterling Usher v. City of Los Angeles, Richard A....">828 F.2d 556, 561</a></span><pre class="inline"> (9th Cir. 
+9  1987)).                                                               
+10       Rule 8(a) requires that a pleading contain “a short and plain statement of the claim 
+11  showing that the pleader is entitled to relief.”  Fed. R. Civ. P. 8(a); see also Ashcroft v. Iqbal, 556 
+</pre><span class="citation no-link">12  U.S. 662</span><pre class="inline">, 677–78 (2009).  Under federal notice pleading standards, the complaint must “give the 
+13  defendant fair notice of what the . . . claim is and the grounds upon which it rests.”  Bell Atlantic 
+14  v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#555" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 555</a></span><pre class="inline"> (2007) (internal citation and quotations omitted).  “This simplified 
+15  notice pleading standard relies on liberal discovery rules and summary judgment motions to 
+16  define disputed facts and issues and to dispose of unmeritorious claims.”  Swierkiewicz v. Sorema 
+17  N.A., </pre><span class="citation" data-id="118482"><a href="/opinion/118482/swierkiewicz-v-sorema-n-a/#512" aria-description="Citation for case: Swierkiewicz v. Sorema N. A.">534 U.S. 506, 512</a></span><pre class="inline"> (2002).  Though Rule 8(a) does not require detailed factual allegations, a 
+18  plaintiff is required to allege “enough facts to state a claim to relief that is plausible on its face.”  
+19  Bell Atl. Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 570</a></span><pre class="inline"> (2007); Iqbal, 556 U.S. at 677–78.  “[I]t demands 
+20  more than an unadorned, the-defendant-unlawfully-harmed-me accusation.”  Iqbal, 556 U.S. at 
+21  678.  “[B]are assertions . . . amount[ing] to nothing more than a formulaic recitation of the 
+22  elements . . . are not entitled to be assumed true.”  Id. at 681.  “A claim has facial plausibility 
+23  when the plaintiff pleads factual content that allows the court to draw the reasonable inference 
+24  that the defendant is liable for the misconduct alleged.”  Id. at 678.  The complaint must contain 
+25  facts that “nudge [the plaintiff’s] claims across the line from conceivable to plausible.”  Twombly, 
+26  </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. at 570</a></span><pre class="inline">.                                                      
+27       “In alleging fraud or mistake, a party must state with particularity the circumstances 
+28  constituting fraud or mistake.”  Fed. R. Civ. P. 9(b).  To plead fraud with particularity under Rule 
+1  9(b), “a pleading must identify the who, what, when, where, and how of the misconduct charged, 
+2  as well as what is false or misleading about the purportedly fraudulent statement, and why it is 
+3  false.”  Davidson v. Kimberly-Clark Corp., </pre><span class="citation" data-id="9015730"><a href="/opinion/9022504/davidson-v-kimberly-clark-corp/#964" aria-description="Citation for case: Davidson v. Kimberly-Clark Corp.">889 F.3d 956, 964</a></span><pre class="inline"> (9th Cir. 2018) (quoting Cafasso, 
+4  U.S. ex rel. v. Gen. Dynamics C4 Sys., Inc., </pre><span class="citation" data-id="213165"><a href="/opinion/213165/cafasso-v-general-dynamics-c4-systems-inc/#1055" aria-description="Citation for case: Cafasso v. General Dynamics C4 Systems, Inc.">637 F.3d 1047, 1055</a></span><pre class="inline"> (9th Cir. 2011) (internal 
+5  quotation marks omitted).  Rule 9(b) requires that the circumstances constituting the alleged fraud 
+6  be “specific enough to give defendants notice of the particular misconduct . . . so that they can 
+7  defend against the charge and not just deny that they have done anything wrong.”  </pre><span class="citation" data-id="213165"><a href="/opinion/213165/cafasso-v-general-dynamics-c4-systems-inc/" aria-description="Citation for case: Cafasso v. General Dynamics C4 Systems, Inc.">Id.</a></span><pre class="inline"> (quoting 
+8  Kearns v. Ford Motor Co., </pre><span class="citation" data-id="1208595"><a href="/opinion/1208595/kearns-v-ford-motor-co/#1124" aria-description="Citation for case: Kearns v. Ford Motor Co.">567 F.3d 1120, 1124</a></span><pre class="inline"> (9th Cir. 2009) (internal quotation marks 
+9  omitted)).                                                            
+10       If a court dismisses a complaint for failure to state a claim, it should “freely give leave” to 
+11  amend “when justice so requires.”  Fed. R. Civ. P. 15(a)(2).  The “underlying purpose of Rule 15 
+12  [is] to facilitate decisions on the merits, rather than on the pleadings or technicalities.”  Lopez v. 
+</pre><span class="citation no-link">13  Smith, 203</span><pre class="inline"> F.3d 1122, 1127 (9th Cir. 2000) (en banc) (cleaned up).  However, a court has 
+14  discretion to deny leave to amend due to “undue delay, bad faith or dilatory motive on the part of 
+15  the movant, repeated failure to cure deficiencies by amendment previously allowed, undue 
+16  prejudice to the opposing party by virtue of allowance of the amendment, [or] futility of 
+17  amendment.”  Leadsinger, Inc. v. BMG Music Pub., </pre><span class="citation" data-id="1446183"><a href="/opinion/1446183/leadsinger-inc-v-bmg-music-publishing/#532" aria-description="Citation for case: Leadsinger, Inc. v. BMG Music Publishing">512 F.3d 522, 532</a></span><pre class="inline"> (9th Cir. 2008). 
+18   III.  ANALYSIS                                                       
+19       Walmart argues that this action should be dismissed because Hawkins fails to plausibly 
+20  allege that reasonable consumers would be misled by the Avocado Oil label and fails to 
+21  sufficiently allege claims for breach of the implied warranty of merchantability and intentional 
+22  misrepresentation.  Motion, Doc. 8 at 2.  The Court first examines whether Hawkins has 
+23  sufficiently alleged that Walmart’s Avocado Oil product representations would mislead a 
+24  reasonable consumer.                                                  
+25     A.  False Advertising                                              
+26       Hawkins alleges that the representation that the Avocado Oil was pure avocado oil is 
+27  misleading in violation of California’s CLRA and FAL, and under each prong of the UCL.  
+28  Complaint, Doc. 1.  The allegedly deceptive label serves as the basis for each claim, with the 
+1  alleged FAL and CLRA violations serving as the predicate unlawful conduct under the UCL.  </pre><span class="citation" data-id="1446183"><a href="/opinion/1446183/leadsinger-inc-v-bmg-music-publishing/" aria-description="Citation for case: Leadsinger, Inc. v. BMG Music Publishing">Id.</a></span><pre class="inline"> 
+2  ¶¶ 36-61.  “Because the same standard for fraudulent activity governs all three statutes, courts 
+3  often analyze the three statutes together.”  Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074</a></span><pre class="inline">, 
+4  1089, 1094–95, (N.D. Cal. 2017); Moore v. Mars Petcare US, Inc., </pre><span class="citation no-link">966 F.3d 1007</span><pre class="inline">, 1016, n.7 (9th 
+5  Cir. 2020) (“Because the cause of action under each California state law is premised on the same 
+6  allegedly misleading acts in this case . . . [the Court] evaluate[s] the UCL, FAL, and CLRA 
+7  claims collectively[.]”).                                             
+8       The CLRA prohibits “unfair methods of competition and unfair or deceptive acts or 
+9  practices[,]” which includes representing that goods have “characteristics, ingredients, uses, 
+10  benefits, or quantities that they do not have[,]” representing that a good is of a “particular 
+11  standard, quality or grade” if it is not, and “[a]dvertising goods or services with intent not to sell 
+12  them as advertised.”  </pre><span class="citation no-link">Cal. Civ. Code § 1770</span><pre class="inline">(a).  The FAL prohibits dissemination of a statement 
+13  concerning a product “which is untrue or misleading, and which is known, or which by the 
+14  exercise of reasonable care should be known, to be untrue or misleading[.]”  Cal. Bus. &amp; Prof. 
+15  Code § 17500.  The UCL prohibits business practices that are unlawful, unfair, or fraudulent.  
+16  </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline">.  Each prong under the UCL provides a separate theory of 
+17  liability.  Lozano v. AT&amp;T Wireless Servs., Inc., </pre><span class="citation" data-id="1429600"><a href="/opinion/1429600/lozano-v-at-t-wireless-services-inc/#731" aria-description="Citation for case: Lozano v. AT &amp; T Wireless Services, Inc.">504 F.3d 718, 731</a></span><pre class="inline"> (9th Cir. 2007). 
+18       California’s CLRA, FAL, and UCL “require basic fairness in advertising” and “prohibit 
+19  not only false advertising, but also advertising that is ‘either actually misleading or which has a 
+20  capacity, likelihood or tendency to deceive or confuse the public.’”  Whiteside v. Kimberly Clark 
+21  Corp., </pre><span class="citation no-link">108 F.4th 771</span><pre class="inline">, 777 (9th Cir. 2024) (quoting Williams v. Gerber Prods. Co., </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d 934</a></span><pre class="inline">, 
+22  938 (9th Cir. 2008)).  Claims under the CLRA, FAL, and UCL are governed by the “reasonable 
+23  consumer standard.”  </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/" aria-description="Citation for case: Williams v. Gerber Products Co.">Id.</a></span><pre class="inline">  “This is not a negligible burden.”  Moore v. Trader Joe’s Co., </pre><span class="citation no-link">4 F.4th 
+24</span><pre class="inline">  874, 882 (9th Cir. 2021).                                             
+25       Under the reasonable consumer standard, a plaintiff must show a probability “that a 
+26  significant portion of the general consuming public or of targeted consumers, acting reasonably in 
+27  the circumstances, could be misled” by the defendant’s marketing claims.  Whiteside, 108 F.4th at 
+28  778.  “[W]hether a practice is deceptive will usually be a question of fact not appropriate for 
+1  decision on demurrer or motions to dismiss.”  Moore v. Mars Petcare US, Inc., 966 F.3d at 1017  
+2  (internal quotation marks and citation omitted).  However, “if common sense would not lead 
+3  anyone to be misled, then the claim may be disposed of at a motion to dismiss stage.”  Moore v. 
+4  Mars Petcare US, Inc., 966 F.3d at 1018.  Dismissal of CLRA, FAL, and UCL claims at the 
+5  pleading stage is appropriate when “the advertisement itself [makes] it impossible for the plaintiff 
+6  to prove that a reasonable consumer [is] likely to be deceived.”  Whiteside, 108 F.4th at 778 
+7  (internal quotation marks and citation omitted).                      
+8       Hawkins alleges that the Avocado Oil representation is deceptive because it falsely claims 
+9  that the product contains only avocado oil.  Opposition, Doc. 14 at 9.  According to Hawkins, 
+10  listing the product as “Refined Avocado Oil” and listing avocado oil as the only ingredient in the 
+11  back of the label leads a reasonable consumer to believe that the product is pure avocado oil.  
+12  Complaint, Doc. 1-1 ¶15-18.  Further, Walmart’s website lists the product as pure avocado oil. 
+13  Id. ¶ 17.  Hawkins alleges that third-party laboratory testing confirms that the “fatty acid and 
+14  sterol profiles” of the Avocado Oil show that it is not “pure” avocado oil.  Id. ¶ 19.       
+15       Although Hawkins asserts that the Avocado Oil conveys that the product is “pure,” the 
+16  label itself does not contain any such statement.  There is no assertion on the label that the 
+17  avocado oil is “pure” or “100%” avocado oil.  While Walmart’s website stated that the product 
+18  was “Pure Avocado Oil,” that is not reflected on the label or elsewhere on the product.  Even 
+19  considering this reference on the website in conjunction with the label, Hawkins has failed to 
+20  establish any defined meaning of the term “pure” based on which a reasonable consumer would 
+21  be misled.                                                            
+22       Hawkins points to Koller v. Med Foods, Inc., to support his argument that he sufficiently 
+23  pled that the label was misleading.  No. 14-CV-02400-RS, </pre><span class="citation no-link">2015 WL 13653887</span><pre class="inline"> (N.D. Cal. Jan. 6, 
+24  2015).  However, the plaintiff in Koller pleaded that the oils did not meet established standards 
+25  for “extra virgin” olive oil when bottled and/or through degradation resulting from the 
+26  defendant’s packaging and handling practices.  </pre><span class="citation no-link">Id. at *3</span><pre class="inline">.  The Koller court held that those 
+27  allegations were sufficiently detailed and plausible to establish a claim.  In contrast, Hawkins’ 
+28  complaint does not contain any such type of allegations or identify any defined meaning of the 
+1  term “pure.”                                                          
+2       In McConnon v. Kroger Co., the plaintiff made similar vague allegations that an avocado 
+3  oil was not “pure.”  No. 2:24-CV-02601-SB-E, </pre><span class="citation no-link">2024 WL 3941340</span><pre class="inline">, at *3 (C.D. Cal. June 21, 
+4  2024).  The McConnon court held that plaintiff’s failure to define “pure” warranted dismissal 
+5  because the court could not evaluate the merits of the claim.  </pre><span class="citation no-link">Id.</span><pre class="inline">  In reaching that conclusion, the 
+6  McConnon court noted that purity could have different meaning, including whether the only 
+7  ingredient used was avocado, whether there were no impurities, or whether a different oil or 
+8  ingredient was introduced to render the product impure.  </pre><span class="citation no-link">Id.</span><pre class="inline">  Similarly, Hawkins vaguely alleges 
+9  that third-party laboratory testing confirmed that the oil was not “pure,” but Hawkins provides no 
+10  allegation as to why the “fatty acid and sterol profiles” mean that the avocado oil is not pure, no 
+11  measure for purity, no allegation as to whether or how any such “purity” was compromised 
+12  during the manufacturing or processing process, and no specific facts as to any other oils or 
+13  ingredients allegedly present in the Avocado Oil.  See Tran v. Sioux Honey Ass&#x27;n, Coop., </pre><span class="citation no-link">471 F. 
+14</span><pre class="inline">  Supp. 3d 1019, 1028 (C.D. Cal. 2020) (noting that the term ‘pure’ has no fixed meaning); see also 
+15  In re Avocado Oil Mktg. &amp; Sales Pracs. Litig., No. MDL 3133, </pre><span class="citation no-link">2025 WL 428016</span><pre class="inline">, at *1 (U.S. 
+16  Jud. Pan. Mult. Lit. Feb. 6, 2025) (holding that avocado oil litigations could not be centralized, 
+17  because, among other reasons, the results of a study of oils produced widely varying results 
+18  regarding the oils’ chemical profiles).                               
+19       Because the complaint fails to provide sufficient allegations to provide Walmart with 
+20  notice as to what makes the Avocado Oil representation misleading, Hawkins has not adequately 
+21  pled that the representation is misleading.  Accordingly, the CLRA, FAL, and UCL claims fail 
+22  and are dismissed with leave to amend.                                
+23     B.  Implied Warranty of Merchantability                            
+24       Walmart also argues that Hawkins fails to allege a breach of the implied warranty of 
+25  merchantability.  Motion, Doc. 8 at 18-19.  A contract for the sale of goods implies a warranty of 
+26  merchantability that goods are fit for ordinary purposes for which such goods are used.  Birdsong 
+27  v. Apple, Inc., </pre><span class="citation" data-id="1434048"><a href="/opinion/1434048/birdsong-v-apple-inc/#958" aria-description="Citation for case: Birdsong v. Apple, Inc.">590 F.3d 955, 958</a></span><pre class="inline"> (9th Cir. 2009); </pre><span class="citation no-link">Cal. Com. Code § 2314</span><pre class="inline">(2)(c).  The implied 
+28  warranty “provides for a minimum level of quality.”  Birdsong, </pre><span class="citation" data-id="1434048"><a href="/opinion/1434048/birdsong-v-apple-inc/#958" aria-description="Citation for case: Birdsong v. Apple, Inc.">590 F.3d at 958</a></span><pre class="inline"> (internal 
+1  quotation marks and citation omitted).  A breach of the implied warranty of merchantability 
+2  occurs if the product lacks “even the most basic degree of fitness for ordinary use.”  </pre><span class="citation" data-id="1434048"><a href="/opinion/1434048/birdsong-v-apple-inc/" aria-description="Citation for case: Birdsong v. Apple, Inc.">Id.</a></span><pre class="inline"> (internal 
+3  quotation marks and citation omitted).  The California Commercial Code also requires 
+4  merchantable goods to “[c]onform to the promises or affirmations of fact made on the container 
+5  or label if any.”  </pre><span class="citation no-link">Cal. Com. Code § 2314</span><pre class="inline">(2)(f).                       
+6       Hawkins does not allege that the avocado oil was unfit for consumption.  Rather, Hawkins 
+7  asserts that Walmart breached the implied warranty of merchantability because the representation 
+8  that the Avocado Oil was “pure” constitutes an implied promise that the product is pure avocado 
+9  oil and the product failed to conform to that promise.  Opposition, Doc. 14 at 16.  “When 
+10  an implied warranty of merchantability cause of action is based solely on whether the product in 
+11  dispute conforms to the promises or affirmations of fact on the packaging of the product, 
+12  the implied warranty of merchantability claim rises and falls with express warranty claims 
+13  brought for the same product.”  Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7245130"><a href="/opinion/7327214/hadley-v-kellogg-sales-co/#1096" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">273 F. Supp. 3d 1052, 1096</a></span><pre class="inline"> (N.D. 
+</pre><span class="citation no-link">14  Cal. 2017</span><pre class="inline">).  As set forth above, the allegations set forth in the complaint fail to sufficiently allege 
+15  facts showing a representation concerning the Avocado Oil that would mislead a reasonable 
+16  consumer.  Accordingly, Hawkins’ claim for breach of the implied warranty of merchantability 
+17  must also be dismissed.  The dismissal is likewise with leave to amend. 
+18     C.  Intentional Misrepresentation                                  
+19       Walmart also seeks to dismiss Hawkins’ claim for intentional misrepresentation, arguing 
+20  that Hawkins failed to allege intent and knowledge to sufficiently plead intentional 
+21  misrepresentation.  Motion, Doc. 8 at 19-20.  Intentional misrepresentation claims require that the 
+22  defendant knew of the material fact and either misrepresented or concealed that fact to induce 
+23  reliance by the plaintiff.  Chapman v. Skype Inc., </pre><span class="citation" data-id="1043329"><a href="/opinion/1043329/chapman-v-skype-inc/" aria-description="Citation for case: Chapman v. Skype, Inc.">220 Cal. App. 4th 217</a></span><pre class="inline">, 230–31 (“The essential 
+24  elements of a count for intentional misrepresentation are (1) a misrepresentation, (2) knowledge 
+25  of falsity, (3) intent to induce reliance, (4) actual and justifiable reliance, and (5) resulting 
+26  damage.”); see also Tomek v. Apple Inc., </pre><span class="citation" data-id="9821315"><a href="/opinion/3172693/alex-tomek-v-apple-inc/#713" aria-description="Citation for case: Alex Tomek v. Apple, Inc.">636 F. App’x 712, 713</a></span><pre class="inline"> (9th Cir. 2016). 
+27       Because the complaint fails to sufficiently allege a misrepresentation, the intentional 
+28  misrepresentation claim also fails.  Accordingly, Hawkins’ claim for intentional 
+1  |  misrepresentation is dismissed, also with leave to amend. 
+2}    IV.    CONCLUSION 
+3          Based upon the foregoing, it is ORDERED that: 
+4          1.  Defendant’s motion to dismiss, Doc. 8, is granted; 
+5          2.  Plaintiffs’ complaint is dismissed with leave to amend; 
+6          3.  Within thirty (30) days of the date of this order, Hawkins shall either (1) file a  first 
+7             amended complaint or (2) notify the Court that he does not wish to file an amended 
+8             complaint. 
+9          4.  The failure to comply with this order may result in dismissal of this action due to 
+10             failure to prosecute and to comply with a Court order. 
+11 
+12 
+13  |  □□ □□ SO ORDERED.                                _
+14       Dated:  _ February 13, 2025                   4h 
+                                              UNITED STATES DISTRICT   JUDGE 
+
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28</pre>

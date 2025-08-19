@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b69-18">
+  MEMORANDUM AND ORDER
+ </p>
+<author id="b69-19">
+  J. BRATTON DAVIS, Bankruptcy Judge.
+ </author>
+<p id="b69-20">
+  FINDINGS OF FACT
+ </p>
+<p id="b69-21">
+  John Henry Moore and Billie Jean Moore filed a petition for- relief under Chapter 13 of the United States Bankruptcy Code (<span class="citation no-link">11 U.S.C. §
+  <em>
+   130
+  </em></span>
+<a class="footnote" href="#fn1" id="fn1_ref">
+<em>
+    1
+   </em>
+</a>
+<em>
+   et seq.)
+  </em>
+  on October 7, 1982. The debtors’ plan of payment proposes that all priority and secured debt be paid in full, and proposes that the unsecured creditors be divided into two classes. The result would be that the Class 1 claim, which consists of an unsecured debt which has been co-signed by a third party, will be paid in full, and the Class 2 claims, which consist of all other unsecured debts, will be paid approximately thirty-seven (37%) percent of the amount of the claims.
+ </p>
+<p id="b69-22">
+  The schedules show that the debtors have a monthly income of $2,049.52, with monthly living expenses of $1,442.50. Their plan calls for them to make monthly payments of $606.17 for a period of sixty (60) months.
+ </p>
+<p id="b69-23">
+  The debtors own no real property, and do not own any personal property over the value above that which they may exempt. The debtors’ unsecured creditors would receive nothing in a Chapter 7 liquidation.
+ </p>
+<p id="b69-24">
+  At the confirmation hearing, Landmark Finance Company, whose lien the debtors propose to avoid pursuant to § 522(f)(2), objected to the confirmation of the plan on the ground that the classification of unsecured creditors into two classes does not meet the confirmation requirements of § 1325(a).
+ </p>
+<p id="b69-25">
+  The issue to be decided by this court is whether or not a Chapter 13 plan which provides for a separate class of unsecured claims based on the existence of a co-debt
+  <span citation-index="1" class="star-pagination" label="14"> 
+   *14
+   </span>
+  meets the confirmation requirements of § 1325, which states:
+ </p>
+<blockquote id="b70-4">
+  (a) The court shall confirm a plan if—
+ </blockquote>
+<blockquote id="b70-5">
+  (1) the plan complies with the provisions of this chapter and with other applicable provisions of this title;
+ </blockquote>
+<blockquote id="b70-6">
+  (2) any fee, charge, or amount required under chapter 123 of title 28, or by the plan, to be paid before confirmation, has been paid;
+ </blockquote>
+<blockquote id="b70-7">
+  (3) the plan has been proposed in good faith and not by any means forbidden by law;
+ </blockquote>
+<blockquote id="b70-8">
+  (4) the value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under chapter 7 of this title on such date;
+ </blockquote>
+<blockquote id="b70-9">
+  (5) with respect to each allowed secured claim provided for by the plan—
+ </blockquote>
+<blockquote id="b70-10">
+  (A) the holder of such claim has accepted the plan;
+ </blockquote>
+<blockquote id="b70-11">
+  (B)(i) the plan provides that the holder of such claim retain the lien securing such claim; and
+ </blockquote>
+<blockquote id="b70-12">
+  (ii) the value, as of the effective date of the plan, of property to be distributed under the plan on account of such claim is not less than the allowed amount of such claim; or
+ </blockquote>
+<blockquote id="b70-13">
+  (C) the debtor surrenders the property securing such claim to such holder; and
+ </blockquote>
+<blockquote id="b70-14">
+  (6) the debtor will be able to make all payments under the plan and to comply with the plan.
+ </blockquote>
+<blockquote id="b70-15">
+  (b) After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.
+ </blockquote>
+<p id="b70-16">
+  At the confirmation hearing the court found that the plan has been proposed in good faith and that all other provisions of the subsections — except (a)(1) — of this code section have been met.
+ </p>
+<p id="b70-17">
+  DISCUSSION AND CONCLUSION
+ </p>
+<p id="Ah">
+  I
+ </p>
+<p id="b70-18">
+  MAY A PLAN SEPARATELY CLASSIFY FROM OTHER UNSECURED CLAIMS, THOSE UNSECURED CLAIMS WHICH HAVE BEEN GUARANTEED BY THIRD PARTIES?
+ </p>
+<p id="b70-19">
+  Section 1322 provides, in pertinent part:
+ </p>
+<blockquote id="Anu">
+  (a) The plan shall—
+ </blockquote>
+<blockquote id="b70-21">
+  ******
+ </blockquote>
+<blockquote id="b70-22">
+  (3) if the plan classifies claims, provide the same treatment for each claim within a particular class.
+ </blockquote>
+<blockquote id="b70-23">
+  (b) Subject to subsections (a) and (c) of this section, the plan may—
+ </blockquote>
+<blockquote id="b70-24">
+  (1) designate a class or classes of unsecured claims, as provided in section 1122 of this title, but may not discriminate unfairly against any class so designated; * * *.
+ </blockquote>
+<p id="b70-25">
+  Section 1322(b)(1) allows a plan to “designate a class or classes of unsecured claims, as provided in” § 1122, which states:
+ </p>
+<blockquote id="b70-26">
+  (a) Except as provided in subsection (b) of this section, a plan may place a claim or an interest in a particular class only if such claim or interest is substantially similar to the other claims or interests of such class.
+ </blockquote>
+<blockquote id="b70-27">
+  (b) A plan may designate a separate class of claims consisting only of every unsecured claim that is less than or reduced to an amount that the court approves as reasonable and necessary for administrative convenience.
+ </blockquote>
+<p id="b70-28">
+  These sections of the Bankruptcy Code have been considered in numerous cases. Many cases have interpreted § 1122(a) as prohibiting a classification of unsecured debt based solely on the presence of a co-debtor.
+  <em>
+   See, In re Utter,
+  </em>
+  <span class="citation" data-id="1970452"><a href="/opinion/1970452/matter-of-utter/" aria-description="Citation for case: Matter of Utter">6 B.C.D. 230</a></span>, <span class="citation" data-id="1970452"><a href="/opinion/1970452/matter-of-utter/" aria-description="Citation for case: Matter of Utter">3 B.R. 369</a></span>, 1 C.B.C.2d 930 (Bkrtcy.W.D.N.Y. 1980);
+  <em>
+   In re Wade,
+  </em>
+  <span class="citation" data-id="1538635"><a href="/opinion/1538635/in-re-wade/" aria-description="Citation for case: In Re Wade">4 B.R. 98</a></span> (Bkrtcy.M.D.Tenn.1980);
+  <em>
+   In re Montano,
+  </em>
+  <span class="citation" data-id="1538767"><a href="/opinion/1538767/in-re-montano/" aria-description="Citation for case: In Re Montano">6 B.C.D. 487</a></span>, <span class="citation" data-id="1538767"><a href="/opinion/1538767/in-re-montano/" aria-description="Citation for case: In Re Montano">4 B.R. 535</a></span>, 2 C.B.C.2d 431 (Bkrtcy.D.D.C. 1980)
+  <em>
+   aff’d
+  </em>
+  in part, vacated in part, sub nom.
+  <em>
+   Barnes v. Whelan,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/689/193/">689 F.2d 193</a></span>, <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/" aria-description="Citation for case: Barnes v. Whelan">9 B.C.D. 626</a></span> (D.C.Cir.1982);
+  <em>
+   In re Barker,
+  </em>
+  7
+  <span citation-index="1" class="star-pagination" label="15"> 
+   *15
+   </span>
+  B.R. 707 (Bkrtcy. W.D.Mo.1980). These cases relied on
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation no-link">5 B.C.D. 1270</span>, <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, 1 C.B.C.2d 331 (Bkrtcy.D.Utah 1980) as authority for such interpretation.
+ </p>
+<p id="b71-5">
+<em>
+   Iacovoni
+  </em>
+  relied on 5
+  <em>
+   Collier on Bankruptcy
+  </em>
+  ¶ 1122.03 at 1122.7 (15th ed. 1979), where “substantially similar” is construed to mean “similar in legal character or affect as a claim against a debtor’s assets or as an interest in the debtor.”
+  <em>
+   Iacovoni
+  </em>
+  states that such construction means that “only debts which have identical legal right in the debtor’s (or the estate’s) assets may be classified together,” and then concludes that since all unsecured creditors have similar rights, § 1122 does not allow classification of a co-signed debt.
+  <em>
+   Iacovoni,
+  </em>
+  5 B.C.D. at 1272, <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#260" aria-description="Citation for case: In Re Iacovoni">2 B.R. at 260</a></span>, 1 C.B.C.2d at 338.
+ </p>
+<p id="b71-6">
+  Another view was expressed in
+  <em>
+   In re Sutherland,
+  </em>
+  <span class="citation" data-id="1970742"><a href="/opinion/1970742/in-re-sutherland/" aria-description="Citation for case: In Re Sutherland">6 B.C.D. 13</a></span>, <span class="citation" data-id="1970742"><a href="/opinion/1970742/in-re-sutherland/" aria-description="Citation for case: In Re Sutherland">3 B.R. 420</a></span> (Bkrtcy.W.D.Ark.1980) when the court held that classification of unsecured debts was allowed because there was no unfair discrimination since the plan proposed to pay each unsecured creditor at least as much as he would receive in a Chapter 7 case. This view of classification of debts and unfair discrimination has not been widely followed.
+ </p>
+<p id="b71-7">
+  The majority of the reported cases indicate the view that each case must be considered on the basis of its facts in determining whether the classification unfairly discriminates against a class of claims.
+  <em>
+   Barnes v. Whelan,
+  </em>
+  <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/" aria-description="Citation for case: Barnes v. Whelan">689 F.2d 193</a></span>, <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/" aria-description="Citation for case: Barnes v. Whelan">9 B.C.D. 626</a></span> (D.C.Cir.1982);
+  <em>
+   Worthen Bank &amp; Trust Co. v. Cook,
+  </em>
+  <span class="citation" data-id="1802489"><a href="/opinion/1802489/worthen-bank-trust-co-v-cook-in-re-cook/" aria-description="Citation for case: Worthen Bank &amp; Trust Co. v. Cook (In Re Cook)">26 B.R. 187</a></span>, <span class="citation" data-id="1802489"><a href="/opinion/1802489/worthen-bank-trust-co-v-cook-in-re-cook/" aria-description="Citation for case: Worthen Bank &amp; Trust Co. v. Cook (In Re Cook)">9 B.C.D. 1377</a></span> (D.C.N.M.1982);
+  <em>
+   In re Dziedzic,
+  </em>
+  <span class="citation" data-id="1548269"><a href="/opinion/1548269/in-re-dziedzic/" aria-description="Citation for case: In Re Dziedzic">7 B.C.D. 497</a></span>, <span class="citation" data-id="1548269"><a href="/opinion/1548269/in-re-dziedzic/" aria-description="Citation for case: In Re Dziedzic">9 B.R. 424</a></span> (Bkrtcy.S.D.Tex.1981);
+  <em>
+   In re Kovich,
+  </em>
+  <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">4 B.R. 403</a></span>, 2 C.B.C.2d 203 (Bkrtcy. W.D.Mich.1980). This approach has been said to be the best reasoned and most consistent with the Bankruptcy Code’s purpose that Chapter 13 be a flexible vehicle for reorganization of debts.
+  <em>
+   Worthen Bank &amp; Trust Co. v. Cook,
+  </em>
+  <span class="citation" data-id="1802489"><a href="/opinion/1802489/worthen-bank-trust-co-v-cook-in-re-cook/#190" aria-description="Citation for case: Worthen Bank &amp; Trust Co. v. Cook (In Re Cook)">26 B.R. at 190</a></span>, <span class="citation" data-id="1802489"><a href="/opinion/1802489/worthen-bank-trust-co-v-cook-in-re-cook/#1378" aria-description="Citation for case: Worthen Bank &amp; Trust Co. v. Cook (In Re Cook)">9 B.C.D. at 1378</a></span>. Furthermore, this approach is necessary if the classification provisions of § 1322(b)(1) are to have any meaning.
+  <em>
+   Id.
+  </em>
+</p>
+<p id="b71-8">
+  The court, in
+  <em>
+   Barnes v. <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/" aria-description="Citation for case: Barnes v. Whelan">Whelan, supra,</a></span>
+  </em>
+  refusing to follow the holding in
+  <em>
+   Iacovoni,
+  </em>
+  stating that the “plain language of the statute [<span class="citation no-link">11 U.S.C. § 1122</span>(a) ] contradicts such a construction.”
+  <em>
+   Barnes v. Whelan,
+  </em>
+  <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/#201" aria-description="Citation for case: Barnes v. Whelan">689 F.2d at 201</a></span>, <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/#634" aria-description="Citation for case: Barnes v. Whelan">9 B.C.D. at 634</a></span>.
+  <em>
+   Barnes v. Whelan, <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/" aria-description="Citation for case: Barnes v. Whelan">id.</a></span>
+  </em>
+  goes on to state:
+ </p>
+<blockquote id="b71-10">
+  Moreover, section 1122(a) so interpreted would conflict with section 1322(b)(1), which specifically authorizes designation of more than one class of unsecured creditor, each presumably with equal legal rights to the debtor’s estate. We therefore hold that section 1122(a) does not prohibit Montano from grouping his unsecured obligations according to whether or not a codebtor is present.
+ </blockquote>
+<p id="b71-11">
+<em>
+   In re Hill,
+  </em>
+  <span class="citation" data-id="1538831"><a href="/opinion/1538831/in-re-hill/" aria-description="Citation for case: In Re Hill">6 B.C.D. 568</a></span>, <span class="citation" data-id="1538831"><a href="/opinion/1538831/in-re-hill/" aria-description="Citation for case: In Re Hill">4 B.R. 694</a></span>, 2 C.B.C.2d 681 (Bkrtcy.D.Kan.1980) adopted this posture, stating:
+ </p>
+<blockquote id="b71-12">
+  Sections 1322 and 1122(a) as well as 5 Collier on Bankruptcy, 15th Ed. § 1322.01 at 1322-7 leaves the impression that the permissive ability in the debtor to designate classes among his unsecured creditors is there not as mere decoration but to be used. The Collier comment, supra, at 1322-7 states:
+ </blockquote>
+<blockquote id="b71-13">
+  “Unfair discrimination against a class of claims would therefore seem to have reference either to the order of distribution or the percentage to be paid the particular class. If courts were to construe as unfair discrimination a proposal to pay a particular class of claims a greater percentage than some other class, section 1322(b)(1) would be deprived of most of its meaning.
+ </blockquote>
+<blockquote id="b71-14">
+  The comment further states that designation of. classes of unsecured claims restricted by substantial similarity of claims is permitted by section 1322(b)(1). The two mentioned Collier sections seem either to be diametrically opposed or to recognize that interpretations applicable for individuals in Chapter 11 and vice versa. It is this latter alternative that this court believes is meant by the diverse Collier comments. Reliance on definitions in and interpretation of Section 1122 and its forerunner cases is of little help in the classification problems confronting courts in Chapter 13. The defi
+  <span citation-index="1" class="star-pagination" label="16"> 
+   *16
+   </span>
+  nitions and interpretations given are clearly tailored for either Chapter XI or 11.
+ </blockquote>
+<p id="b72-4">
+<em>
+   In re Hill,
+  </em>
+  6 B.C.D. at 570-571, <span class="citation" data-id="1538831"><a href="/opinion/1538831/in-re-hill/#698" aria-description="Citation for case: In Re Hill">4 B.R. at 698</a></span>, 2 C.B.C.2d at 686.
+ </p>
+<p id="b72-5">
+  This court holds that the Bankruptcy Code does not require that all claims that are substantially similar be placed in the same class, it only requires that a class must contain claims which are homogeneous or substantially similar.
+  <em>
+   Barnes v. Whelan,
+  </em>
+  <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/#201" aria-description="Citation for case: Barnes v. Whelan">689 F.2d at 201</a></span>, <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/#634" aria-description="Citation for case: Barnes v. Whelan">9 B.C.D. at 634</a></span>. As such claims which have been guaranteed by third parties may be classified separately from other unsecured claims if there is no unfair discrimination between the classes of claims which are so classified.
+ </p>
+<p id="b72-6">
+  II
+ </p>
+<p id="b72-7">
+  DOES THE PLAN UNFAIRLY DISCRIMINATE AGAINST THE CLASS OF UNSECURED CLAIMS WHICH HAVE NOT BEEN GUARANTEED BY THIRD PARTIES?
+ </p>
+<p id="b72-8">
+  If a plan classifies claims, § 1322(b)(1) requires that the plan “may not discriminate unfairly against any class so designated.”
+ </p>
+<blockquote id="b72-9">
+  A classification is not ipso facto unfairly discriminatory because it provides for a greater percentage of payment to some unsecured creditors than to others. A debtor, however, bears the burden of showing that the proposed classification does not unfairly discriminate.
+  <em>
+   In re Wolff,
+  </em>
+  22 Bankr. 510 (Bankr.App. 9th Cir.1982). This is consistent with the burden on the Chapter 13 debtor to show that the proposed plan ought to be confirmed.
+  <em>
+   In re Elkind,
+  </em>
+  11 Bankr. 473 (Bankr.D.Co. 1981);
+  <em>
+   In re Crago,
+  </em>
+  4 Bankr. 483 (Bankr. S.D.OH 1980).
+ </blockquote>
+<p id="b72-10">
+<em>
+   Worthen Bank &amp; Trust Co. v. Cook,
+  </em>
+  <span class="citation" data-id="1802489"><a href="/opinion/1802489/worthen-bank-trust-co-v-cook-in-re-cook/#190" aria-description="Citation for case: Worthen Bank &amp; Trust Co. v. Cook (In Re Cook)">26 B.R. at 190</a></span>, <span class="citation" data-id="1802489"><a href="/opinion/1802489/worthen-bank-trust-co-v-cook-in-re-cook/#1378" aria-description="Citation for case: Worthen Bank &amp; Trust Co. v. Cook (In Re Cook)">9 B.C.D. at 1378</a></span>.
+ </p>
+<p id="b72-11">
+  The early attempts to formulate a rule for unfair discrimination used the “rational” approach. Under this approach, courts looked to see if there was a rational basis for the discrimination between the two classes to determine if the discrimination was “fair”.
+ </p>
+<p id="b72-13">
+  Looking at whether there was a rational reason for the separate treatment, each case was determined on its own facts and the outcome has been quite diverse.
+ </p>
+<p id="b72-14">
+<em>
+   In re Fizer,
+  </em>
+  <span class="citation" data-id="1975313"><a href="/opinion/1975313/in-re-fizer/" aria-description="Citation for case: In Re Fizer">5 B.C.D. 1052</a></span>, <span class="citation" data-id="1975313"><a href="/opinion/1975313/in-re-fizer/" aria-description="Citation for case: In Re Fizer">1 B.R. 400</a></span> (Bkrtcy.S.D.Ohio 1979), found “no rational basis” for a plan which paid one hundred (100%) percent to one class and nothing to the other class; plan denied.
+  <em>
+   In re Curtis,
+  </em>
+  <span class="citation" data-id="1887416"><a href="/opinion/1887416/matter-of-curtis/" aria-description="Citation for case: Matter of Curtis">5 B.C.D. 1214</a></span>, <span class="citation" data-id="1887416"><a href="/opinion/1887416/matter-of-curtis/" aria-description="Citation for case: Matter of Curtis">2 B.R. 43</a></span> (Bkrtcy.W.D.Mo.1979) found a rational basis for a plan which paid one hundred (100%) percent to a claim for child support and ten (10%) percent to the other unsecured claims; plan approved.
+  <em>
+   In re Haag,
+  </em>
+  <span class="citation" data-id="1970857"><a href="/opinion/1970857/in-re-haag/" aria-description="Citation for case: In Re Haag">3 B.R. 649</a></span> (Bkrtcy. D.Or.1980) found a rational basis for a plan which paid one hundred (100%) percent of a claim for child support arrearages and only twenty-five (25%) percent to other unsecured claims; plan approved.
+  <em>
+   In re Tatum,
+  </em>
+  <span class="citation" data-id="1975245"><a href="/opinion/1975245/in-re-tatum/" aria-description="Citation for case: In Re Tatum">5 B.C.D. 1069</a></span>, <span class="citation" data-id="1975245"><a href="/opinion/1975245/in-re-tatum/" aria-description="Citation for case: In Re Tatum">1 B.R. 445</a></span> (Bkrtcy.S.D.Ohio 1979), found no rational justification for a plan which paid some claims outside the plan even though all allowed claims were to be paid in full; plan denied.
+ </p>
+<p id="b72-15">
+<em>
+   In re <span class="citation" data-id="1538831"><a href="/opinion/1538831/in-re-hill/" aria-description="Citation for case: In Re Hill">Hill, supra;</a></span>
+  </em>
+  found a rational basis in plans which paid medical bills in full and nothing to the other claims; plan approved.
+  <span class="citation" data-id="1538767"><a href="/opinion/1538767/in-re-montano/" aria-description="Citation for case: In Re Montano"><em>
+   In re Montano,
+  </em>
+  supra;</a></span> found that when no reasons are offered for a plan which paid one hundred (100%) percent to some and one (1%) percent to others then there is no rational basis for the plan; plan denied.
+  <em>
+   See also,
+  </em>
+  3
+  <em>
+   R. Maloy, Bankruptcy Practice Manual,
+  </em>
+  50 (1982).
+ </p>
+<p id="b72-16">
+  The “rational” basis test still underlies the determination of whether a plan discriminates unfairly in many of the later cases. However, recent cases have held that fairness involves more than the rationality of the debtor’s classifications.
+  <em>
+   See, Barnes v. <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/" aria-description="Citation for case: Barnes v. Whelan">Whelan, supra;</a></span> In re <span class="citation" data-id="1548269"><a href="/opinion/1548269/in-re-dziedzic/" aria-description="Citation for case: In Re Dziedzic">Dziedzic, supra;</a></span>
+  </em>
+  and
+  <em>
+   In re <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">Kovich, supra.</a></span>
+  </em>
+  There is also a need to consider: the debtor’s reasons and good faith in setting up the different classes, practical considerations such as the creditors’ rights against the third parties, the importance of the classification to the debtor’s fresh start and the debtor’s ability
+  <span citation-index="1" class="star-pagination" label="17"> 
+   *17
+   </span>
+  to perform under the plan.
+  <em>
+   See, In re Gay,
+  </em>
+  <span class="citation" data-id="1970688"><a href="/opinion/1970688/in-re-gay/" aria-description="Citation for case: In Re Gay">6 B.C.D. 149</a></span>, <span class="citation" data-id="1970688"><a href="/opinion/1970688/in-re-gay/" aria-description="Citation for case: In Re Gay">3 B.R. 336</a></span>, (Bkrtcy.D.Colo. 1980).
+ </p>
+<p id="b73-5">
+  In addressing the issue of unfair discrimination the District of Columbia Court of Appeals states that: “... an inquiry into fairness plainly involves more than the rationality of the debtor’s classification of some minimum amount creditors must receive.”
+  <em>
+   Barnes v. Whelan,
+  </em>
+  <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/#201" aria-description="Citation for case: Barnes v. Whelan">689 F.2d at 201</a></span>, <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/#634" aria-description="Citation for case: Barnes v. Whelan">9 B.C.D. at 634</a></span>.
+ </p>
+<p id="b73-6">
+  What constitutes fair discrimination will vary from case to case, and we cannot offer a generally applicable definition. The court must examine the amounts proposed for each class in light of the debtor’s reasons for classification, and exercise sound discretion.
+ </p>
+<p id="b73-7">
+  Four factors often used in determining whether the classification is unfairly discriminatory are: (1) whether there is a reasonable basis for the classification; (2) whether the debtor can perform the plan without the classification; (this court is of the opinion that this factor should be stated as follows: whether the classification is necessary to the debtor’s rehabilitation under Chapter 13)
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  ; (3) whether the discriminatory classification is proposed in good faith; (4) whether there is a meaningful payment to the class discriminated against.
+  <em>
+   Worthen Bank &amp; Trust v. <span class="citation" data-id="1802489"><a href="/opinion/1802489/worthen-bank-trust-co-v-cook-in-re-cook/" aria-description="Citation for case: Worthen Bank &amp; Trust Co. v. Cook (In Re Cook)">Cook, supra;</a></span> In re <span class="citation" data-id="1548269"><a href="/opinion/1548269/in-re-dziedzic/" aria-description="Citation for case: In Re Dziedzic">Dziedzic, supra;</a></span> In re <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">Kovich, supra.</a></span>
+  </em>
+</p>
+<p id="b73-8">
+  Another factor which this court feels should be considered in determining whether the plan discriminates unfairly against a class of claims is the difference between what the creditors discriminated against will receive as the plan is proposed, and the amount they would receive if there was no separate classification.
+ </p>
+<p id="b73-9">
+  With these factors in mind the court finds:
+ </p>
+<blockquote id="b73-10">
+  1. That there is a reasonable basis for the classification in this case;
+ </blockquote>
+<blockquote id="b73-11">
+  2. That the debtors have not met their burden of proving that they could not perform the plan without the classification in that they have presented no evidence to show that the classification is necessary to their rehabilitation, mere speculation will not justify a discriminatory classification.
+  <em>
+   In re Dziedzic,
+  </em>
+  <span class="citation" data-id="1548269"><a href="/opinion/1548269/in-re-dziedzic/#499" aria-description="Citation for case: In Re Dziedzic">7 B.C.D. at 499</a></span>, <span class="citation" data-id="1548269"><a href="/opinion/1548269/in-re-dziedzic/#427" aria-description="Citation for case: In Re Dziedzic">9 B.R. at 427</a></span>. To allow discriminatory classification without sufficient justification would encourage arbitrary and unfair discriminatory classifications.
+  <em>
+   Id.
+  </em>
+</blockquote>
+<blockquote id="b73-14">
+  3. That the classification is proposed in good faith;
+ </blockquote>
+<blockquote id="b73-15">
+  4. That even though there is a meaningful payment to the class discriminated against, the degree of discrimination is still great while the justification for such discrimination is insufficient,
+  <em>
+   In re Dziedzic,
+  </em>
+  <span class="citation" data-id="1548269"><a href="/opinion/1548269/in-re-dziedzic/#500" aria-description="Citation for case: In Re Dziedzic">7 B.C.D. at 500</a></span>, <span class="citation" data-id="1548269"><a href="/opinion/1548269/in-re-dziedzic/#427" aria-description="Citation for case: In Re Dziedzic">9 B.R. at 427</a></span>; and
+ </blockquote>
+<blockquote id="b73-16">
+  5. That with the discriminatory classification, the general unsecured creditors will receive a thirty-seven (37%) percent payment on their claims; without the discriminatory classification an additional $6,200.40 (the payment originally alloted to be paid to the Class I claim) would be available for all unsecured creditors including the creditor with the co-signed debt so that all unsecured creditors could receive a forty-six (46%) percent payment on their claims.
+ </blockquote>
+<p id="b73-17">
+  Because the debtors have not met their burden of proving that the proposed classification is not unfairly discriminatory, the plan does not satisfy the requirements of § 1322(b)(1) and § 1325(a)(1); therefore, confirmation of the plan, as presently proposed, should be denied. The debtors are given fifteen (15) days from the date of the filing of this order within which to file an amended plan in accordance with the provisions of this order.
+ </p>
+<p id="b73-18">
+  ORDER
+ </p>
+<p id="b73-19">
+  It is, therefore, ORDERED, ADJUDGED AND DECREED that:
+ </p>
+<blockquote id="b73-20">
+  1. Confirmation of the debtors’ proposed plan filed December 23, 1982 is hereby denied, and;
+ </blockquote>
+<blockquote id="b74-3">
+<span citation-index="1" class="star-pagination" label="18"> 
+   *18
+   </span>
+  2. The debtors are given fifteen (15) days from the date of the filing of this order within which to file an amended plan in accordance with the provisions of this order; if no such amended plan is filed within fifteen (15) days of the filing of this order, the case will be dismissed without further order.
+ </blockquote>
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b69-12">
+   . Further reference to sections of the 1978 Bankruptcy Code will omit the identically numbered sections of Title 11, United States Code.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b73-12">
+   . For example: Will the discriminatory classification enable the debtor to maintain the future cooperation of the co-debtor necessary to the debtor’s rehabilitation.
+  </p>
+</div></div></opinion>

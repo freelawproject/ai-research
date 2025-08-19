@@ -1,0 +1,801 @@
+<pre class="inline">           UNITED STATES DISTRICT COURT FOR THE                          
+               NORTHERN DISTRICT OF ILLINOIS                             
+                      EASTERN DIVISION                                   
+
+MAROON SOCIETY, a California                                             
+Corporation,                                                             
+
+           Plaintiff,                                                    
+                                No. 19 C 05117                           
+              v.                                                         
+                                Judge Mary M. Rowland                    
+UNISON CONSULTING INC., an                                               
+Illinois Corporation, doing busi-                                        
+ness in California,                                                      
+
+          Defendant.                                                     
+
+
+               MEMORANDUM OPINION &amp; ORDER                                
+
+    For the reasons set forth below, Defendant’s motion to dismiss is granted. 
+Counts II and V are dismissed with prejudice. All other Counts are dismissed without 
+prejudice. The Court grants Plaintiff leave to file an amended complaint by Septem-
+ber 30, 2020. But if Plaintiff intends to replead a claim under California False Claims 
+Act, (Count IV), it must first seek leave of court.                       
+                        BACKGROUND                                       
+    The Court has gleaned the following factual background from Plaintiff’s Com-
+plaint. Maroon Society (Maroon or Plaintiff), a California corporation, provides data 
+compilation and data analysis services to various other entities. (Dkt. 1, ¶¶ 1, 8). 
+Unison Consulting Inc. (Unison or Defendant), an Illinois corporation, is a consulting 
+firm that provides guest satisfaction surveys for airports. (Id. at ¶ 2). Plaintiff was 
+hired  by  Defendant as  a  subcontractor  to  participate  in  several  survey  projects 
+between 2011 and 2016. (Id. at ¶ 9). The crux of this suit derives from two subcon-
+tracts related to work performed for the Los Angeles International Airport (“LAX”). 
+    Plaintiff alleges that Unison entered into a prime contract (“2015 Prime Con-
+
+tract”) with the City of Los Angeles (“City”) on or about January 14, 2015 for LAX’s 
+2015 Survey project (“2015 Survey”). (Dkt. 1, ¶ 10). Unison then entered into a sub-
+contract with Plaintiff for the 2015 Survey on February 24, 2015 (“2015 Subcon-
+tract”).  (Id. at ¶ 11). While Plaintiff was performing under the 2015 Subcontract, 
+LAWA, the governmental authority in charge of operating LAX, released a request 
+for proposal for the design and performance of guest satisfaction surveys at LAX. (Id. 
+
+at ¶ 12). Unison requested that Maroon prepare a sub-bid to incorporate into Unison’s 
+bid for the request for proposal. Maroon submitted a sub-bid in the amount of $99,300. 
+(Id. at ¶ 13).                                                            
+    Unison submitted its bid to LAWA. Plaintiff alleges that Unison’s June 2015 
+bid identified Plaintiff as the subcontractor, but Unison unilaterally reduced the 
+amount of Plaintiff’s sub-bid to $88,505. (Dkt. 1, ¶¶ 14-15). When confronted in May 
+2016 about the sub-bid reduction, Defendant apparently represented to Plaintiff that 
+
+it had reduced Plaintiff’s sub-bid further to $80,450. (Id.). LAWA accepted Unison’s 
+bid and, on December 3, 2015, LAWA entered into a prime contract with Unison for 
+the guest surveys at LAX (“2016 Prime Contract”). (Id. at ¶¶ 19-20). The term period 
+in the 2016 Prime Contract stated: “…the term of this Contract shall commence on 
+the Effective Date and shall expire no later than one (1) year thereafter, unless earlier 
+terminated pursuant to the terms of the Contract. Notwithstanding the foregoing, 
+City shall have two (2) one-year option to extend the term of this contract….” (Dkt.1, 
+Ex. C, 20).                                                               
+    In March 2016, Plaintiff alleges that it was not receiving timely payments for 
+
+work under the 2015 Subcontract. (Dkt. 1, ¶¶ 29, 31). When Plaintiff confronted 
+Unison, Unison promised to monitor the payment intervals by LAWA on behalf of 
+Plaintiff and that Unison would grant Plaintiff an additional contract if Plaintiff con-
+tinued working on the 2015 and 2016 surveys. (Id. at ¶¶ 31, 36). Plaintiff argues that 
+Unison’s response constitutes a binding oral agreement.                   
+    Plaintiff was apparently satisfied by Unison’s response and continued to work 
+
+on the surveys. In May of 2016, Unison had still failed to pay Plaintiff’s invoices. 
+Plaintiff then demanded full payment of outstanding invoices for that work. (Dkt.1, 
+¶ 31). At that time, Plaintiff learned that Unison had unilaterally reduced Plaintiff’s 
+sub-bid to $80,450 without Plaintiff’s knowledge. (Id. at ¶ 32). Plaintiff attempted to 
+negotiate with Defendant to have the subcontract reflect the original amount of the 
+sub-bid, $99,300. The declaration attached to Plaintiff’s response brief states that 
+Plaintiff negotiated with Unison to have the written subcontract reflect the original 
+
+$99,300 sub-bid, but that such efforts were unsuccessful.1                
+    On June 20, 2016, despite the unilateral reduction in Plaintiff’s sub-bid, Plain-
+tiff and Defendant entered a written subcontract for the 2016 LAX survey work 
+
+
+
+1 Plaintiff began performing work related to the 2016 Prime Contract before Plaintiff and Defendant 
+entered into a written contract for that work. (Dkt. 1, ¶¶ 29. 33, 38). Plaintiff soon learned of a “se-
+ries of omissions committed by Defendant.” (Dkt. 58, 8).                  
+(“2016 Subcontract”). (Dkt. 1, ¶ 23).2 The 2016 Subcontract included an Illinois choice 
+of  law  provision.3  The  2016  Subcontract  also  included  the  following  integration 
+clause: “Entire Agreement. This Agreement contains the entire agreement and un-
+
+derstanding of the parties with respect to the subject matter hereof, and supersedes 
+and  replaces  any  and  all  prior  discussion,  representations  and  understandings, 
+whether oral or written.” (Dkt. 1, Ex. D, ¶ 19(j)). Regarding manner and timing of 
+payment, the 2016 Subcontract states:                                     
+    Once each month, Subcontractor shall by the 10th day of each month   
+    prepare and submit to UNISON an invoice showing services performed,  
+    fees earned during the preceding month calculated in accordance with 
+    the Payment Schedule, and expenses incurred during the preceding     
+    month, together with such supporting documentation as may be re-     
+    quired by UNISON. Unison shall pay the Subcontractor within seven (7) 
+    days after receipt of payment from [LAX] attributable to Subcontractor’s 
+    services.                                                            
+
+(Id. at ¶ 2(b)). The 2015 Subcontract has substantially similar terms, with the only 
+difference being the last sentence which states: “Except as may otherwise be stated 
+in the Payment Schedule, Unison shall use good faith efforts to pay Subcontractor 
+within forty-five (45) days after receipt of Subcontractor’s invoice…but not later than 
+seven (7) days after receipt of payment from [LAX] attributable to Subcontractor’s 
+services.” (Dkt. 1, Ex. B, ¶ 2(b)). Because Plaintiff was anxious about receiving timely 
+
+2 The Court notes that this paragraph states: “Before any wrong was detected, however, MAROON 
+SOCIETY and UNISON entered into a second subcontract for the performance of the Guest Satisfac-
+tion Surveys on or about June 20, 2016.” (Dkt. 1, ¶ 23). However, paragraphs 15, 31, and 33 establish 
+that Plaintiff knew Unison had not paid its invoices before the June 26, 2016 agreement was signed. 
+And the Complaint states that Plaintiff knew Unison had lowered the amount of Plaintiff’s sub-bid in 
+March 2016 and May 2016, before entering into the June agreement. (Complaint ¶ 33) (Unison “ad-
+mitted at or around [March or May 2016], that it had submitted a false and improperly inaccurate 
+bid/budget on behalf” of Plaintiff.)                                      
+3 The 2015 Subcontract included a California choice of law provision. (Dkt. 1, Ex. B, ¶ 19(e)). 
+payments, the parties added specific language to Schedule B of the Payment Schedule 
+in the 2016 agreement. That language states:                              
+    UNISON agrees to promptly submit its invoices to [LAX] and to use good 
+    faith efforts to obtain payment from [LAX] in accordance with [LAX’s] 
+    prompt payment policies. If [LAX] has not paid UNISON within thirty  
+    (30) calendar days of UNISON’s invoice to [LAX], UNISON will advise  
+    Subcontractor of payment status and continue to advise Subcontractor 
+    of payment status not less often than once every five (5) business days 
+    thereafter until payment is received from [LAX].                     
+
+(Dkt. 1, Ex D, Payment Schedule ¶ 4). Those are the only terms regarding payment 
+in the Subcontracts attached to Plaintiff’s Complaint.4 Contrary to Plaintiff’s allega-
+tions, there is no requirement in either Subcontract that Unison pay Maroon “within 
+seven (7) days of receipt by UNISON of [Maroon’s] invoices.” (Dkt. 1, ¶ 27). 
+    Plaintiff  alleges  that  after  entering  into  the  2016  Subcontract,  Unison 
+breached the agreement by failing to timely submit invoices to LAWA. (Dkt. 1, ¶ 40). 
+The Complaint contains no examples of the delay, but Plaintiff’s response brief states 
+that Plaintiff submitted an invoice to Unison on July 25, 2016 and that Unison did 
+not submit the invoice to LAWA until October 13, 2016.  (Dkt. 58, 10). Plaintiff alleg-
+edly confronted Unison in October 2016, demanding that Unison deposit its own 
+money in an account, in advance of work performed, to ensure timely payment to 
+Plaintiff. (Id. at ¶¶ 42, 44). Unison declined to do so.                  
+    In addition to failing to timely pay invoices, Plaintiff alleges that Unison made 
+several misrepresentations to the City. Maroon alleges that Unison falsely told the 
+
+4 The Court may consider documents attached to the complaint and referred to in the complaint with-
+out converting a motion to dismiss under Rule 12(b)(6) into a motion for summary judgment. 
+PharMerica Chi., Inc. v. Meisels, </pre><span class="citation no-link">722 F.Supp.2d 938</span><pre class="inline">, 947 (N.D. Ill. 2011). 
+City that “MAROON SOCIETY was demanding 50% advanced payments on work not 
+yet performed,” (Dkt. 1, ¶ 47), and that Maroon was “delaying the project” and “re-
+fusing to perform work on the project.” (Id. at ¶ 91). According to Maroon, Unison 
+
+feared that Maroon would report Unison’s violations to LAWA, and Unison made 
+these representations in an attempt to disparage Maroon before Maroon could report 
+the violations. (Id. at ¶ 47).5                                           
+    Unison terminated the Subcontract in January 2017, at or around the same 
+time Unison paid all of Maroon’s outstanding invoices. (Dkt. 1, ¶ 49) Indeed, an ear-
+lier declaration of Aaron Celious, attached to Unison’s motion to dismiss, states that 
+
+“[a]t and around the time of Unison’s termination of Maroon, Unison made payments 
+on all outstanding invoices owed to Maroon.” (Dkt. 51, Ex. 2, ¶ 53) (emphasis added).  
+    Plaintiff’s eight count Complaint asserts breach of contract, interference with 
+prospective business relationship, fraud, negligence, trade libel, violations of the Cal-
+ifornia False Claims Act and California’s unfair competition law. Defendant moves to 
+dismiss.                                                                  
+                       LEGAL STANDARD                                    
+
+    Under Federal Rule of Civil Procedure 12(b)(6), “[t]o survive a motion to dis-
+miss, a complaint must contain sufficient factual allegations to state a claim for relief 
+that is plausible on its face.” Ill. Bible Coll. Ass’n v. Anderson, </pre><span class="citation" data-id="8414927"><a href="/opinion/8443522/illinois-bible-colleges-assn-v-anderson/#636" aria-description="Citation for case: Illinois Bible Colleges Ass&#x27;n v. Anderson">870 F.3d 631, 636</a></span><pre class="inline"> (7th 
+Cir. 2017), as amended (Oct. 5, 2017), cert denied sub nom. Ill. Bible Coll. Ass’n v. 
+Cross, </pre><span class="citation" data-id="9331072"><a href="/opinion/9335734/thackrey-v-illinois/" aria-description="Citation for case: Thackrey v. Illinois">138 S. Ct. 1021</a></span><pre class="inline"> (2018). “A claim has facial plausibility when the plaintiff pleads 
+
+
+5 In arguing for dismissal, and as discussed more below, Unison asserts that these allegedly false 
+statements are asserted as true by Plaintiff in the Complaint. (Dkt 51, 9). 
+factual content that allows the court to draw the reasonable inference that the de-
+fendant is liable for the misconduct alleged.” Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662, 678</a></span><pre class="inline"> 
+(2009) (citing Bell Atl. Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#556" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 556</a></span><pre class="inline"> (2007)). “While a plaintiff 
+
+need not plead ‘detailed factual allegations’ to survive a motion to dismiss, she still 
+must provide more than mere ‘labels and conclusions or a formulaic recitation of the 
+elements of a cause of action’ for her complaint to be considered adequate….” Bell v. 
+City of Chi., </pre><span class="citation" data-id="8414229"><a href="/opinion/8442916/bell-v-city-of-chicago/#738" aria-description="Citation for case: Bell v. City of Chicago">835 F.3d 736, 738</a></span><pre class="inline"> (7th Cir. 2016) (quoting Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. at 678</a></span><pre class="inline">).  
+    A motion to dismiss under Federal Rule of Civil Procedure 12(b)(1) challenges 
+whether the court has subject matter jurisdiction to hear a case. Fed. R. Civ. P. 
+
+12(b)(1). If a court lacks subject matter jurisdiction, it “is without power to adjudicate” 
+and the case must be dismissed. Legacy Seating, Inc. v. Commercial Plastics Co., </pre><span class="citation" data-id="7228272"><a href="/opinion/7310368/legacy-seating-inc-v-commercial-plastics-co/#548" aria-description="Citation for case: Legacy Seating, Inc. v. Commercial Plastics Co.">65 
+F.Supp.3d 542, 548</a></span><pre class="inline"> (N.D. Ill. 2014) (citing Stewart v. United States, </pre><span class="citation" data-id="230314"><a href="/opinion/230314/stewart-v-united-states/#519" aria-description="Citation for case: Stewart v. United States">199 F.2d 517, 519</a></span><pre class="inline"> 
+(7th Cir. 1952)). When considering a factual challenge to jurisdiction, courts “may 
+properly look beyond the jurisdictional allegations of the complaint and view what-
+ever evidence has been submitted on the issue to determine whether in fact subject 
+matter jurisdiction exists.” Apex Digital, Inc. v. Sears, Roebuck &amp; Co., </pre><span class="citation" data-id="1450300"><a href="/opinion/1450300/apex-digital-inc-v-sears-roebuck-co/#444" aria-description="Citation for case: Apex Digital, Inc. v. Sears, Roebuck &amp; Co.">572 F.3d 440, 
+
+444</a></span><pre class="inline"> (7th Cir. 2009) (quoting Evers v. Astrue, </pre><span class="citation" data-id="3002982"><a href="/opinion/3002982/teknek-llc-v-systems-division-inc/#656" aria-description="Citation for case: Teknek, LLC v. Systems Division Inc">563 F.3d 651, 656-57</a></span><pre class="inline"> (7th Cir. 2008)). 
+Once challenged, the plaintiff must produce “‘competent proof’—that is a showing by 
+preponderance  of  the  evidence”—that  jurisdiction  exists.  Legacy  Seating,  </pre><span class="citation" data-id="7228272"><a href="/opinion/7310368/legacy-seating-inc-v-commercial-plastics-co/" aria-description="Citation for case: Legacy Seating, Inc. v. Commercial Plastics Co.">65 
+F.Supp.3d at 548</a></span><pre class="inline"> (citing Lee v. City of Chi., </pre><span class="citation" data-id="9496080"><a href="/opinion/782110/mark-a-lee-v-city-of-chicago/#468" aria-description="Citation for case: Mark A. Lee v. City of Chicago">330 F.3d 456, 468</a></span><pre class="inline"> (7th Cir. 2003)).  
+                     PROCEDURAL ISSUES                                   
+A. Subject Matter Jurisdiction                                            
+    Under </pre><span class="citation no-link">28 U.S.C. § 1332</span><pre class="inline">, federal courts have jurisdiction over civil suits be-
+
+tween citizens of different states “where the matter in controversy exceeds the sum 
+or value of $75,000, exclusive of interests and costs.” </pre><span class="citation no-link">28 U.S.C. § 1332</span><pre class="inline">(a). The parties 
+agree that the case has diversity of citizenship, as the suit is between a California 
+entity and Illinois entity, but contest whether the amount in controversy has been 
+met. Initially, a federal court reads a complaint liberally, accepting as true all well-
+pleaded allegations. However, once the party opposing federal jurisdiction challenges 
+
+the allegations of jurisdictional facts, the party seeking the federal forum must 
+demonstrate those facts by a preponderance of the evidence. Meridian Sec. Ins. Co. v. 
+Sadowski, </pre><span class="citation" data-id="793695"><a href="/opinion/793695/meridian-security-insurance-co-v-david-l-sadowski/#543" aria-description="Citation for case: Meridian Security Insurance Co. v. David L. Sadowski">441 F.3d 536, 543</a></span><pre class="inline"> (7th Cir. 2008). Once that threshold is met, the case can 
+be dismissed for lack of jurisdiction only if it is “legally certain” that the recovery from 
+the judgment will be less than the amount in controversy requirement. </pre><span class="citation" data-id="793695"><a href="/opinion/793695/meridian-security-insurance-co-v-david-l-sadowski/" aria-description="Citation for case: Meridian Security Insurance Co. v. David L. Sadowski">Id.</a></span><pre class="inline"> “[U]ncer-
+tainty about whether the plaintiff can prove its substantive claim…does not justify 
+dismissal.” </pre><span class="citation" data-id="793695"><a href="/opinion/793695/meridian-security-insurance-co-v-david-l-sadowski/" aria-description="Citation for case: Meridian Security Insurance Co. v. David L. Sadowski">Id.</a></span><pre class="inline">                                                           
+
+    Defendant points out that Maroon alleges diversity of citizenship, but fails to 
+allege any amount in controversy in its Complaint. Defendant thus urged the Court 
+to dismiss on this basis. In response, Maroon filed a second declaration of Aaron Ce-
+lious and stated, for the first time in its response brief, that it is seeking the following 
+damages: 1) $48,525 that Maroon could have earned if the 2016 Subcontract had not 
+been terminated; 2) $84,297 to $94,297 that Maroon could have earned because the 
+2016 Prime Survey Contract was extended, and Maroon would have been the subcon-
+tractor under that extension had the 2016 Subcontract not been terminated; and 3) 
+over $100,000 Maroon lost when not chosen by an unnamed private marketing com-
+
+pany for an alleged consulting contract. (Dkt. 58, Ex. B, ¶¶ 23-24, 33; Dkt. 58, 14). 
+The only evidence or “competent proof” that Plaintiff provides is the Celious declara-
+tion. Defendant repeatedly points out that these damages are not alleged anywhere 
+in the Complaint.                                                         
+    Defendant argues that these damages cannot satisfy the jurisdictional require-
+ments because none of them are recoverable as a matter of law under the claims ac-
+
+tually alleged in the Complaint. The issue, therefore, is whether it is legally possible 
+that the amount in controversy meets the minimum requirement. See Workman v. 
+United Parcel Serv., Inc., </pre><span class="citation" data-id="771404"><a href="/opinion/771404/rex-a-workman-v-united-parcel-service-inc/#999" aria-description="Citation for case: Rex A. Workman v. United Parcel Service, Inc.">234 F.3d 998, 999</a></span><pre class="inline"> (7th Cir. 2000). For example, Defendant 
+argues that the only breach of contract theory alleged in the Complaint is that Unison 
+failed to make timely payments under the 2016 Subcontract. This failure could not 
+have proximately caused the damages cited (the $48,525 that Maroon could have 
+earned if the 2016 Subcontract had not been terminated; and the $84,297 to $94,297 
+
+that Maroon could have earned because the 2016 Prime Survey Contract was ex-
+tended). The two damage numbers cited by Maroon arise out of a wrongful termina-
+tion claim, not a claim for failure to timely pay invoices. And as discussed more below, 
+the Complaint only brings the latter claim. These damages are thus not cognizable 
+under the breach of contract claim alleged. See LM Ins. Corp. v. Spaulding Enter-
+prises Inc., </pre><span class="citation" data-id="1235012"><a href="/opinion/1235012/lm-ins-corp-v-spaulding-enterprises-inc/#554" aria-description="Citation for case: LM Ins. Corp. v. Spaulding Enterprises Inc.">533 F.3d 542, 554</a></span><pre class="inline"> (7th Cir. 2008) (finding jurisdictional amount not met 
+for fraud claims where damages claimed by plaintiff were not recoverable under a 
+fraud theory). Indeed, Maroon has admitted that Unison cured any alleged payment 
+breaches by paying all of Maroon’s invoices for work performed under the 2016 Sub-
+
+contract. (Dkt. 51, Ex. 2, ¶ 53). The Court thus agrees that the $48,525 and $84,297 
+to $94,297 are not cognizable damages under Maroon’s alleged breach of contract 
+claim.                                                                    
+    The Court additionally agrees with Defendant that the $100,000 Maroon al-
+legedly lost when not hired by the unnamed private marketing company is likely not 
+recoverable under Plaintiff’s breach of contract theory as pled. However, Plaintiff 
+
+brings more than a breach of contract claim. Plaintiff also asserts claims for fraud, 
+trade libel, interference with a business relationship, and business defamation. De-
+fendant has provided no arguments suggesting that the $100,000 is not recoverable 
+under Plaintiff’s other claims, and the Court is aware of none. Accordingly, the Court 
+cannot say with a “legal certainty” that the potential recovery is less than the juris-
+dictional floor. Sadowski, </pre><span class="citation" data-id="793695"><a href="/opinion/793695/meridian-security-insurance-co-v-david-l-sadowski/#543" aria-description="Citation for case: Meridian Security Insurance Co. v. David L. Sadowski">441 F.3d at 543</a></span><pre class="inline">. This $100,000 amount satisfies the amount 
+in controversy requirement at this time. The Court shall exercise jurisdiction.6 
+
+B. Choice of Law                                                          
+    A federal court sitting in diversity applies state law. West Side Salvage, Inc. v. 
+RSUI Indemnity Co., </pre><span class="citation" data-id="8410538"><a href="/opinion/8439736/west-side-salvage-inc-v-rsui-indemnity-co/#223" aria-description="Citation for case: West Side Salvage, Inc. v. RSUI Indemnity Co.">878 F.3d 219, 223</a></span><pre class="inline"> (7th Cir. 2017). Plaintiff briefly and haphaz-
+ardly asserts that California law should apply, despite an Illinois choice of law 
+
+
+
+6 If Plaintiff files an amended Complaint, it must allege recoverable and cognizable damages in its 
+amended complaint.                                                        
+provision in the 2016 Subcontract. Defendant argues that Plaintiff has failed to 
+demonstrate a conflict warranting a choice of law analysis.               
+    “A district court is required to engage in a choice of law analysis only ‘if there 
+
+is a conflict between Illinois law and the law of another state such that a difference 
+in law will make a difference in the outcome.’” Board of Forensic Document Examin-
+ers, Inc. v. American Bar Assoc., </pre><span class="citation" data-id="4393021"><a href="/opinion/4615768/board-of-forensic-document-exa-v-american-bar-association/#831" aria-description="Citation for case: Board of Forensic Document Exa v. American Bar Association">922 F.3d 827, 831</a></span><pre class="inline"> (7th Cir. 2019) (citing West Side 
+Salvage, </pre><span class="citation" data-id="8410538"><a href="/opinion/8439736/west-side-salvage-inc-v-rsui-indemnity-co/#223" aria-description="Citation for case: West Side Salvage, Inc. v. RSUI Indemnity Co.">878 F.3d at 223</a></span><pre class="inline">). It is incumbent on Plaintiff, “as the party seeking a choice 
+of law determination, to ‘establish the existence of an outcome-determinative con-
+flict.’” </pre><span class="citation" data-id="8410538"><a href="/opinion/8439736/west-side-salvage-inc-v-rsui-indemnity-co/" aria-description="Citation for case: West Side Salvage, Inc. v. RSUI Indemnity Co.">Id.</a></span><pre class="inline"> Plaintiff has failed to do so. It has not identified any conflicts between Illi-
+
+nois law and California law. It has only asserted that California law should apply. 
+Because Plaintiff has not met its burden, the Court applies the law of the forum state, 
+Illinois. </pre><span class="citation" data-id="8410538"><a href="/opinion/8439736/west-side-salvage-inc-v-rsui-indemnity-co/" aria-description="Citation for case: West Side Salvage, Inc. v. RSUI Indemnity Co.">Id.</a></span><pre class="inline"> (“If the party fails to establish the existence of [ ] a conflict, the court 
+applies the law of the forum state.”).                                    
+                           ANALYSIS                                      
+A. Count I—Breach of Contract                                             
+    Defendant argues that this claim must be dismissed because Plaintiff failed to 
+
+allege that Defendant breached the contract and damages caused by that breach. Un-
+der Illinois law, a Plaintiff must allege: (1) the existence of a valid and enforceable 
+contract; (2) performance by the plaintiff; (3) a breach by the defendant; and (4) re-
+sultant damages. Reger Development, LLC v. National City Bank, </pre><span class="citation" data-id="1356497"><a href="/opinion/1356497/reger-development-llc-v-national-city-bank/#764" aria-description="Citation for case: Reger Development, LLC v. National City Bank">592 F.3d 759, 764</a></span><pre class="inline"> 
+(7th Cir. 2010). Although Plaintiff references several contracts in the Complaint, 
+Count I alleges a breach of only the 2015 Subcontract and the 2016 Subcontract.  
+    The breach identified in the Complaint is that Unison failed “to pay as set forth 
+in the agreement.” (Dkt. 1, ¶ 54). The only payment obligation in the two Subcontracts 
+was that Unison pay Maroon within seven days of receiving payment from the City. 
+
+Despite the Complaint’s incorrect allegation that Defendant was required to pay 
+Plaintiff’s invoices within seven (7) days of receipt, (Dkt. 1, ¶ 27), the contracts pro-
+vide that Unisom pay Maroon with seven days of receiving payment from the City.  
+There is no allegation that Unison failed to pay Maroon within seven days of receiving 
+payment from the City.                                                    
+    Rather, Plaintiff alleges that Unison breached the Subcontracts by not submit-
+
+ting Unison’s own invoices to the City in a timely manner. Yet there was no obligation 
+to do so in either of the contracts. The 2015 Subcontract states that Unison shall use 
+good faith efforts to pay Maroon’s invoices within 45 days, but Unison was not re-
+quired to do so. The 2016 Subcontract did not have this good faith provision, or any 
+provision regarding submittal of Unison’s invoices to the City. Without such a con-
+tractual provision, Plaintiff has failed to allege that Unison breached any of the Sub-
+contracts terms. Plaintiff has accordingly failed to allege a breach of the Subcontracts 
+
+based upon the timing of payments.                                        
+    Defendant next argues that Plaintiff has failed to allege plausible damages 
+from the alleged breach. As noted above, Maroon concedes in the declaration of Aaron 
+Celious that Unison paid all of Maroon’s invoices. (Dkt. 51, Ex. 2, ¶ 53). There are 
+accordingly no damages alleged for breaching the Subcontract’s payment terms. In 
+its response brief, Maroon alleges reputational damages. Although the parties do not 
+identify any Illinois cases on point, it appears that courts consistently hold that rep-
+utational damages cannot be recovered under a breach of contract theory. See Rice v. 
+Community Health Ass’n, </pre><span class="citation" data-id="767597"><a href="/opinion/767597/david-j-rice-v-community-health-association-dba-jackson-general/#288" aria-description="Citation for case: David J. Rice v. Community Health Association, D/b/a/...">203 F.3d 283, 288</a></span><pre class="inline"> (4th Cir. 2000) (“Courts have universally 
+
+rejected claims for damages to reputation in breach of contract actions reasoning that 
+such damages are too speculative and could not reasonably be presumed to have been 
+contemplated by the parties when they formed the contracts.”); Wilder v. Cody Coun-
+try Chamber of Commerce, </pre><span class="citation" data-id="1375524"><a href="/opinion/1375524/wilder-v-cody-country-chamber-of-commerce/#1105" aria-description="Citation for case: Wilder v. Cody Country Chamber of Commerce">933 P.2d 1098, 1105</a></span><pre class="inline"> (Wyo. 1997) (“The district court 
+properly ruled as a matter of law that [plaintiff’s] business reputations damages were 
+not proper under a breach of contract/promissory estoppel theory.”); O’Leary v. Ster-
+
+ling Extruder Corp., </pre><span class="citation" data-id="1508252"><a href="/opinion/1508252/oleary-v-sterling-extruder-corp/#1209" aria-description="Citation for case: O&#x27;LEARY v. Sterling Extruder Corp.">533 F.Supp. 1205, 1209-10</a></span><pre class="inline"> (E.D. Wis. 1982) (“The courts seem to 
+be in general agreement that damages for injury to reputation are not properly 
+awardable in a breach of contract suit.”). Accordingly, Plaintiff has failed to plausibly 
+allege any recoverable damages.                                           
+    In its response brief, Plaintiff posits a new theory of recovery—wrongful termi-
+nation of the 2016 Subcontract. Maroon argues that the California Subletting Act, 
+</pre><span class="citation no-link">Cal. Pub. Cont. Code § 4100</span><pre class="inline"> et seq., prohibited Unison from replacing Maroon on the 
+
+2016 Prime Survey Contract. The claims for wrongful termination and a violation of 
+the California Subletting Act appear nowhere in Maroon’s original Complaint, and 
+Maroon cites to no relevant allegations in the Complaint. Maroon cites to Holladay v. 
+CME Group to argue that it may provide new factual allegations in a response brief 
+if the new allegations are consistent with the complaint. No. 11 C 8226, </pre><span class="citation no-link">2012 WL 
+3096698</span><pre class="inline">, at *2 (N.D. Ill. July 30, 2012).                                 
+    Maroon is correct that courts have allowed plaintiffs to include additional fac-
+tual material in responding to a motion to dismiss so long as those facts are consistent 
+with the original complaint. However, “the Seventh Circuit has not authorized a 
+
+plaintiff to embark on completely new avenues in his answer to a motion to dismiss 
+that were not included in the complaint.” Ahr. v. Commonwealth Edison Co., No. 03 
+C 6645, </pre><span class="citation no-link">2005 WL 6115023</span><pre class="inline">, at *7 (N.D. Ill. Feb. 24, 2005). The Ahr Court stated:  
+    Plaintiffs do not seek to expand upon an issue already touched upon in 
+    the complaint. Plaintiffs have attached multiple affidavits to their an-
+    swer to the motion to dismiss which contain an entire body of facts per-
+    taining to the exhaustion of administrative remedies. Plaintiffs in es-
+    sence seek to have that new body of facts to be incorporated into their 
+    complaint. If such a maneuver is allowed, a plaintiff could simply avoid 
+    a dismissal by shifting positions throughout the entire pleadings stage 
+    and the court and defendant would be uncertain as to what allegations 
+    the action is based upon.                                            
+
+Id. at *8. Such is the case here. Plaintiff has attached the declaration of Aaron Celious 
+to add factual allegations regarding damages and the wrongful termination theory. 
+The response brief includes a “Statement of Facts” section with enumerated para-
+graphs reminiscent of a Local Rule 56.1 statement of facts in support of summary 
+judgment. Plaintiff is not merely adjusting a legal theory or expanding upon an issue 
+touched on in the Complaint. Plaintiff is embarking on an entirely new avenue, new 
+theory, new cause of action, new body of facts, and new theories of damages.7 The 
+
+7 Unison takes issue with the fact that Maroon claimed it was only seeking to recover damages to its 
+reputation before the California district court, and has since changed positions in its response brief, 
+adding allegations of breach of contract damages in the amount of $48,525, $84,297 to $94,297, and 
+$100,000. See (Dkt. 21, 8) (“Unison does not address the fact that the gravamen of Maroon’s complaint 
+is rooted in tort, with the Complaint acknowledging that invoices under the 4 contracts were eventu-
+ally paid by Unison but that Unison then engaged in unfair tactics, fraudulent representations, and 
+trade libel to damage Maroon’s business reputation.”). It is clear that Maroon is not clarifying damages 
+already alleged, but adding completely new theories of recovery.          
+Court will “not sift through Plaintiffs’ answer to the instant motion and speculate as 
+to what amendments to the complaint have been made via” the response brief, and 
+“thereby speculate regarding the basis of this action.” Id. Plaintiff has failed to state 
+
+a claim for breach of contract based on wrongful termination. Count I is dismissed 
+without prejudice.                                                        
+B. Count II—Breach of Oral Contract                                       
+    Plaintiff’s Complaint alleges that the parties entered into an oral agreement 
+“around March of 2016 and May of 2016.” (Dkt. 1, ¶ 62). The parties agreed that 
+Unison would monitor LAWA’s late payments and recommend Plaintiff for another 
+
+upcoming survey contract, and in exchange Plaintiff would continue working on the 
+guest satisfaction surveys. (Id.). Plaintiff alleges that Unison breached this agree-
+ment by failing to monitor LAWA’s late payments and failing to recommend Plaintiff 
+for the upcoming project. Defendant moves to dismiss this Count on two grounds: 1) 
+Plaintiff has failed to allege consideration; and 2) the 2016 Subcontract contained an 
+integration clause that supersedes an alleged oral agreement. While Plaintiff only 
+responds to the first of these two arguments, the second is dispositive.  
+
+    In order to plead the existence of a valid, enforceable contract in Illinois, a 
+plaintiff must allege facts sufficient to constitute an offer, acceptance, and consider-
+ation. See Tindall Corp. v. Mondelez Int’l, Inc., </pre><span class="citation" data-id="7243192"><a href="/opinion/7325280/tindall-corp-v-mondelez-international-inc/#904" aria-description="Citation for case: Tindall Corp. v. Mondelez International, Inc.">248 F.Supp.3d 895, 904</a></span><pre class="inline"> (N.D. Ill. 
+2017). In Count II, Maroon alleges that the parties entered into an oral contract when 
+Unison offered to manage and monitor the payments from LAWA and to recommend 
+Maroon for a future contract with the City. Maroon alleges that it accepted this offer 
+by continuing to work on the 2016 Survey.                                 
+    Assuming for the sake of argument that any oral agreement was supported by 
+
+consideration, any oral promise allegedly made in March or May 2016 was super-
+seded by the 2016 Subcontract. The 2016 Subcontract contains an integration clause 
+which states that the Subcontract “supersedes and replaces any prior discussions, 
+representations, and understandings, whether oral or written.” (Dkt. 1, Ex D, ¶ 19(j)); 
+see Magnus v. Lutheran General Health System, </pre><span class="citation" data-id="7025521"><a href="/opinion/7118459/magnus-v-lutheran-general-health-care-system/#182" aria-description="Citation for case: Magnus v. Lutheran General Health Care System">235 Ill.App.3d 173, 182</a></span><pre class="inline">, </pre><span class="citation" data-id="7025521"><a href="/opinion/7118459/magnus-v-lutheran-general-health-care-system/#914" aria-description="Citation for case: Magnus v. Lutheran General Health Care System">601 N.E.2d 
+907, 914</a></span><pre class="inline"> (1st Dist. 1992) (holding that written contract containing unambiguous in-
+
+tegration clause supersedes all prior agreements on the same subject matter). The 
+Court is persuaded that this integration clause supersedes any alleged oral agree-
+ment.                                                                     
+    Plaintiff provides no response to Defendant’s integration argument, instead 
+asserting for the first time in the response brief that an oral agreement was entered 
+into in October 2016, which would postdate the execution of the 2016 Subcontract. 
+(Dkt. 58, 21). This allegation does not appear anywhere in the Complaint and, like 
+
+the allegations in Count I, does more than expand on existing allegations.  Plaintiff 
+impermissibly attempts to amend the Complaint through its response brief with al-
+legations that contradict the allegations contained in the Complaint.     
+    Considering the new allegations, Plaintiff claims that the October 2016 prom-
+ise “was supported by consideration in the form of Plaintiff’s continued performance 
+under  the  2016  Subcontract  despite  Defendant’s  breach.”  (Dkt.  58,  21).  This 
+allegation fails to properly allege consideration. Consideration cannot be something 
+that the promisor is already obliged to give the promisee; it must be something addi-
+tional or new. In re Globe Bldg. Materilas, Inc., </pre><span class="citation multiple-matches"><a href="/c/F.3d/484/946/">484 F.3d 946</a></span><pre class="inline">, 949 (7th Cir. 2007). The 
+
+performance of a legal duty already owed to a promisor is not consideration. Chicago 
+College of Osteopathic Medicine v. George A. Fuller Co., </pre><span class="citation" data-id="8936143"><a href="/opinion/8945559/chicago-college-of-osteopathic-medicine-v-george-a-fuller-co/#208" aria-description="Citation for case: Chicago College of Osteopathic Medicine v. George A....">776 F.2d 198, 208</a></span><pre class="inline"> (7th Cir. 
+1985) (“Under the preexisting duty rule, agreement to do what one is contractually 
+obligated to do is not valid consideration.”).                            
+    Maroon does not allege that it gave anything additional or new in exchange for 
+Unison’s alleged promise. The only alleged consideration is Maroon’s continued work 
+
+on the 2016 survey—work it was already obligated to perform. Maroon’s continued 
+work cannot be consideration for Unison’s alleged promises. In response, Maroon ar-
+gues that Unison’s promise was supported by consideration in the form of Plaintiff 
+refraining from pursuing its breach of contract claim and Plaintiff’s continued work 
+on the 2016 survey before the written 2016 Subcontract. Plaintiff has provided no 
+authority that the former constitutes valid consideration. And the latter is inapposite, 
+as Maroon agreed to work on the 2016 Surveys before the alleged oral agreement. 
+
+Maroon was thus obligated to perform that work, and that work cannot be the basis 
+for new consideration.                                                    
+    Continuing to perform work that Plaintiff was legally obligated to perform can-
+not be sufficient consideration. Plaintiff has failed to state a breach of oral contract 
+claim. Count II is dismissed with prejudice.                              
+C. Count III—Fraudulent Misrepresentation                                 
+    Defendant argues that Maroon’s fraudulent misrepresentation claim fails to 
+comply with the heightened pleading standard of Rule 9(b). Unison identifies two 
+
+specific issues with this Count. First, Unison argues that Plaintiff can only recover 
+for misrepresentations made to Plaintiff; Plaintiff cannot recover for misrepresenta-
+tions made to the City. Second, Plaintiff’s Complaint establishes that Plaintiff could 
+not have relied on the misrepresentations as Plaintiff knew they were false before 
+entering into the 2016 Subcontract. Plaintiff fails to make responsive arguments, 
+merely restating the allegations in the Complaint.                        
+
+    To state a claim for fraudulent misrepresentation in Illinois, a plaintiff must 
+allege: (1) a false statement of material fact; (2) defendant’s knowledge that the state-
+ment was false; (3) defendant’s intent that the statement induce the plaintiff to act; 
+(4) plaintiff’s reliance on the truth of the statement; and (5) plaintiff’s damages re-
+sulting from reliance on that statement. Fire ‘Em Up, Inc. v. Technocarb Equip. 
+(2004) Ltd., </pre><span class="citation" data-id="2116617"><a href="/opinion/2116617/fire-em-up-inc-v-technocarb-equipment-2004-ltd/#853" aria-description="Citation for case: Fire &#x27;Em Up, Inc. v. Technocarb Equipment (2004) Ltd.">799 F.Supp.2d 846, 853</a></span><pre class="inline"> (N.D. Ill. 2011) (citing Connick v. Suzuki Motor 
+Co., </pre><span class="citation" data-id="9735588"><a href="/opinion/2199738/connick-v-suzuki-motor-co-ltd/" aria-description="Citation for case: Connick v. Suzuki Motor Co., Ltd.">174 Ill.2d 482</a></span><pre class="inline">, </pre><span class="citation" data-id="9735588"><a href="/opinion/2199738/connick-v-suzuki-motor-co-ltd/" aria-description="Citation for case: Connick v. Suzuki Motor Co., Ltd.">221 Ill.Dec. 389</a></span><pre class="inline">, </pre><span class="citation" data-id="9735588"><a href="/opinion/2199738/connick-v-suzuki-motor-co-ltd/#591" aria-description="Citation for case: Connick v. Suzuki Motor Co., Ltd.">675 N.E.2d 584, 591</a></span><pre class="inline"> (1996)). Maroon alleges that 
+
+Unison misrepresented to the City the amount of Maroon’s budget and Maroon’s 
+hourly rate. Maroon alleges that Unison misrepresented to Maroon: (i) that Unison 
+was submitting invoices to the City on time; (ii) that Unison had reduced its contract 
+price with the City; (iii) that Unison was unaware of the error in Maroon’s budget; 
+and (iv) that Unison was reducing Unison’s fees. (Dkt. 1, ¶ 68).          
+    The Court agrees with Unison that Maroon cannot recover for any misrepre-
+sentations made to the City. In order to recover, Unison must have made direct rep-
+resentations to Maroon, or Maroon must have specifically relied on the indirect state-
+
+ments made to someone else. See Amerigas Propane, L.P. v. BP America, Inc., </pre><span class="citation" data-id="2532737"><a href="/opinion/2532737/amerigas-propane-lp-v-bp-america-inc/#853" aria-description="Citation for case: Amerigas Propane, L.P. v. BP America, Inc.">691 
+F.Supp.2d 844, 853</a></span><pre class="inline"> (N.D. Ill. 2010) (plaintiffs could not maintain fraud claim where 
+defendant had not made any false statements to them and they had not indirectly 
+relied on any specific false statements). Maroon admits that at the time the misrep-
+resentations were made to the City, it was unaware of them. (Dkt. 1, ¶¶ 38, 47) (stat-
+ing that Plaintiff later learned of the misrepresentations made to the City). The al-
+
+leged misrepresentations made to the City cannot support Plaintiff’s claim for fraud.  
+    With respect to false statement allegedly made to Maroon, the Court agrees 
+that Maroon’s allegations suggest that Maroon could not have relied on any of the 
+alleged misrepresentations before entering into the 2016 Subcontract. Plaintiff’s 
+Complaint states that Plaintiff became aware of Unison’s misrepresentations at the 
+latest in May 2016. (Dkt. 1, ¶ 15). That is, Plaintiff knew the representations were 
+false in May 2016. (Dkt. 1, ¶¶ 15, 31, 33). Plaintiff then executed the 2016 Subcontract 
+
+in June 2016. Plaintiff has accordingly failed to allege that it relied on the truth of 
+Unison’s statements in entering the 2016 Subcontract. Plaintiff is not able to state a 
+claim for fraudulent misrepresentation based on Unison’s statements to LAWA. 
+Count III is otherwise dismissed without prejudice.                       
+D. Count IV—California False Claims Act                                   
+    Defendant contends Plaintiff fails to state a claim under the California False 
+Claims Act (“CFCA”). Cal. Gov’t Code § 12650 et seq. The CFCA is a whistleblower 
+
+statute that allows individuals to bring a private action on behalf of the state of Cal-
+ifornia or another political subdivision as a qui tam plaintiff to recover for a false 
+claim on public funds. Section 12652(c) of the CFCA sets forth specific procedures that 
+must be followed in order to bring such an action. The statute requires that the com-
+plaint be filed under seal and that notice be provided to the Attorney General. § 
+12652(c)(2)-(3). A plaintiff may continue to prosecute the action only if the Attorney 
+
+General gives the court notice that the State does not intend to intervene and take 
+over the case. § 12652(c)(6). Maroon does not allege that it followed any of these pro-
+cedures in filing its Complaint. Dismissal is warranted on this basis alone. See 
+Chaffey Joint Union High Sch. Dist. v. FieldTurf USA, Inc., </pre><span class="citation no-link">2016 WL 11499348</span><pre class="inline">, at 
+*4 (C.D. Cal. Apr. 28, 2016) (dismissing plaintiff’s CFCA claim as deficient because 
+there was no allegation that the action was brought by the Attorney General, or as a 
+qui tam plaintiff). In response to Unison identifying these deficiencies, Plaintiff fails 
+
+to allege that it followed the proper procedures. In fact, Plaintiff does not address 
+Defendant’s arguments or the procedural requirements at all. Plaintiff merely states 
+that its claim is not frivolous, and that Defendant is only entitled to attorneys’ fees 
+incurred “excessively” to defend against the CFCA claim. (Dkt. 58, 23) (citing John 
+Russo Inds. Sheetmetal Inc. v. City of Los Angeles Dep’t of Airports, </pre><span class="citation" data-id="6106989"><a href="/opinion/6240057/john-russo-indus-sheetm-v-city-of-l-a-dept-of-airports/#388" aria-description="Citation for case: John Russo Indus. Sheetm v. City of L. A. Dep&#x27;t of Airports">29 Cal. App. 5th 
+378, 388</a></span><pre class="inline"> (2018)). There is no indication Plaintiff has met the CFCA procedural re-
+quirements.                                                               
+    For the foregoing reasons, the Court believes amendment to the CFCA claim 
+
+may be futile. If Plaintiff seeks to raise a CFCA claim in an amended complaint, 
+Plaintiff must first file a motion for leave to amend that addresses the issues raised 
+herein. If Plaintiff pursues a CFCA claim without complying with the procedural re-
+quirements, the court will impose sanctions. Count IV is dismissed without prejudice.  
+E. Count V—Negligence                                                     
+    Unison argues that this claim should be dismissed under the Moorman doc-
+
+trine. Under the “economic loss rule” found in Moorman Mfg. Co. v. Nat’l Tank Co., a 
+plaintiff cannot recover solely economic loss under tort theories. </pre><span class="citation" data-id="9535798"><a href="/opinion/2055758/moorman-manufacturing-co-v-national-tank-co/#91" aria-description="Citation for case: Moorman Manufacturing Co. v. National Tank Co.">91 Ill.2d 69, 91</a></span><pre class="inline"> 
+(1982); Anderson Electric, Inc. v. Ledbetter Erection Corp., </pre><span class="citation" data-id="9718789"><a href="/opinion/2107848/anderson-electric-inc-v-ledbetter-erection-corp/" aria-description="Citation for case: Anderson Electric, Inc. v. Ledbetter Erection Corp.">115 Ill.2d 146</a></span><pre class="inline"> (1986). “A 
+plaintiff seeking to recover purely economic losses due to defeated expectations of a 
+commercial bargain cannot recover in tort, regardless of the plaintiff’s inability to 
+recover under an action in contract.” Anderson Electric, </pre><span class="citation" data-id="9718789"><a href="/opinion/2107848/anderson-electric-inc-v-ledbetter-erection-corp/#153" aria-description="Citation for case: Anderson Electric, Inc. v. Ledbetter Erection Corp.">115 Ill.2d at 153</a></span><pre class="inline">.  
+    Unison notes that Maroon alleges “no source of duty independent of the parties’ 
+
+contractual relationship, and pleads no conduct other than that on which it relies to 
+allege breach of contract.” (Dkt. 51, 19). Because Maroon’s negligence claim is based 
+on alleged obligations under the parties’ Subcontracts, Unison argues, the negligence 
+claim is barred by the Moorman doctrine. (Id. at 20). Unison further asserts that 
+Maroon seeks damages only for economic losses. Plaintiff provides no arguments in 
+response. Count V is dismissed with prejudice.                            
+F. Count VI—Intentional Interference with Prospective Economic Ad-        
+vantage                                                                   
+
+    In Illinois, to state a claim for intentional interference with a prospective eco-
+nomic advantage, a plaintiff must allege: (1) a reasonable expectancy of entering into 
+a valid business relationship; (2) the defendant’s knowledge of such expectancy; (3) 
+an intentional and unjustified interference by the defendant that induced or caused 
+a breach or termination of the expectancy; and (4) damage to the plaintiff resulting 
+from the defendant’s interference. Kapotas v. Better Government Ass’n, </pre><span class="citation" data-id="2803443"><a href="/opinion/2803443/kapotas-v-better-government-assn/" aria-description="Citation for case: Kapotas v. Better Government Ass&#x27;n">2015 IL App 
+(1st) 140534</a></span><pre class="inline">, </pre><span class="citation no-link">391 Ill.Dec. 302</span><pre class="inline">, </pre><span class="citation" data-id="2790492"><a href="/opinion/2790492/kapotas-v-better-government-association/" aria-description="Citation for case: Kapotas v. Better Government Association">30 N.E.3d 572</a></span><pre class="inline">. Unison moves to dismiss this claim, 
+asserting that Maroon has not alleged sufficient facts.                   
+    Unison first argues that Maroon has not alleged sufficient facts showing it had 
+an expectation of entering into a contract with the City. To establish an actionable 
+expectancy, a plaintiff must allege more than that it was involved in negotiations 
+
+with a third party regarding a potential business relationship. Hoopla Sports and 
+Entertainment, Inc. v. Nike, Inc., </pre><span class="citation" data-id="1453700"><a href="/opinion/1453700/hoopla-sports-entertainment-inc-v-nike-inc/#358" aria-description="Citation for case: Hoopla Sports &amp; Entertainment, Inc. v. Nike, Inc.">947 F.Supp. 347, 358</a></span><pre class="inline"> (N.D. Ill. 1996). “The hope of 
+receiving a[n]…offer is not a sufficient expectancy. </pre><span class="citation" data-id="1453700"><a href="/opinion/1453700/hoopla-sports-entertainment-inc-v-nike-inc/" aria-description="Citation for case: Hoopla Sports &amp; Entertainment, Inc. v. Nike, Inc.">Id.</a></span><pre class="inline"> (promoter of basketball tour-
+nament did not allege sufficient business expectancy where it alleged only that it had 
+sought sponsorships from various companies); see also Davidson v. Schneider, No. 10 
+C 2101, </pre><span class="citation no-link">2014 WL 656780</span><pre class="inline">, at *6 (N.D. Ill. Feb. 20, 2014) (plaintiff did not establish 
+sufficient business expectancy where it could not identify any individual customer 
+
+with whom it had begun negotiations toward a potential sale).             
+    Here, Maroon alleges that Unison “interfered with Maroon’s prospective eco-
+nomic relations with [the City] for the additional survey project granted by the City 
+to Unison in 2017.” (Dkt. 1, ¶ 84) (emphasis added). In Maroon’s own allegations, 
+Maroon acknowledges that any expectation it had of future work on City contracts 
+was through Maroon’s expectation that Unison would hire Maron as a subcontractor, 
+
+not that the City would contract directly with Maroon. (Dkt. 1, ¶ 84). There are no 
+allegations that Maroon had ever previously had any direct contracts with the City. 
+In its response brief, Plaintiff asserts for the first time that it would have received 
+additional survey work from the City, and that Plaintiff would have been a leading 
+candidate for a prime bid under the City’s 2018 request for proposal but for Defend-
+ant’s interference. (Dkt. 58, 24). This additional information does little to save Plain-
+
+tiff’s claim. There are no allegations regarding negotiations, or a specific business 
+arrangement between Plaintiff and the City. Plaintiff only identifies that it would 
+have been the subcontractor for Unison’s contract with the City, and that Plaintiff 
+independently applied for a direct contract with the City for the first time in 2018. 
+Plaintiff has failed to allege that it had a sufficient expectancy of a relationship with 
+the City.                                                                 
+    Unison next argues that any interference by Unison was privileged. Illinois 
+
+recognizes that a defendant’s interference is privileged if the defendant is acting to 
+protect its own financial interest. See Royal Imperial Group, Inc. v. Joseph Blumberg 
+&amp; Assoc., Inc., </pre><span class="citation" data-id="2105722"><a href="/opinion/2105722/royal-imperial-group-inc-v-joseph-blumberg-associates-inc/" aria-description="Citation for case: Royal Imperial Group, Inc. v. Joseph Blumberg &amp;...">240 Ill.App.3d 360</a></span><pre class="inline">. </pre><span class="citation" data-id="2105722"><a href="/opinion/2105722/royal-imperial-group-inc-v-joseph-blumberg-associates-inc/" aria-description="Citation for case: Royal Imperial Group, Inc. v. Joseph Blumberg &amp;...">608 N.E.2d 178</a></span><pre class="inline"> (1st Dist. 1992); Bank Computer 
+Network Corp. v. Continental Illinois National Bank and Trust Co. of Chicago, </pre><span class="citation" data-id="2170185"><a href="/opinion/2170185/mitchell-v-united-asbestos-corp/#500" aria-description="Citation for case: Mitchell v. United Asbestos Corp.">100 
+Ill.App.3d 492, 500-501</a></span><pre class="inline">, </pre><span class="citation" data-id="2056044"><a href="/opinion/2056044/bk-comp-net-corp-v-cont-ill-natl-bk/#592" aria-description="Citation for case: Bk Comp. Net. Corp. v. Cont. Ill. Nat&#x27;l Bk">442 N.E.2d 586, 592-93</a></span><pre class="inline"> (1st Dist. 1982). Where the defend-
+ant’s conduct is privileged, the plaintiff bears the burden to plead and prove that the 
+conduct was unjustified. MidAmerican Energy Co. v. Utility Resources Corp., No. 03 
+C 2313, </pre><span class="citation no-link">2003 WL 22359526</span><pre class="inline">, at *3 (N.D. Ill. Oct. 15, 2003). Unison claims that its 
+representations to the City regarding Maroon’s payment demands “could only be con-
+
+strued as an effort to maintain [Unison’s] contract to perform the 2016 Survey.” (Dkt. 
+51, 22). Unison asserts that it was acting to preserve its own economic interest, such 
+action is privileged, and privileged conduct cannot form the basis of a tortious inter-
+ference with prospective economic advantage. Plaintiff’s brief provides no response to 
+Unison’s arguments that any alleged interference was privileged.          
+    For the foregoing reasons, Count VI is dismissed without prejudice.  
+
+G. Count VII—Trade Libel/Business Defamation                              
+    Count VII of Plaintiff’s Complaint brings a claim for “Trade Libel/Business 
+Defamation.” In Illinois, trade libel (known as commercial disparagement) and busi-
+ness defamation are two distinct torts. See Crinkley v. Dow Jones &amp; Co., </pre><span class="citation" data-id="2061986"><a href="/opinion/2061986/crinkley-v-dow-jones-co/#876" aria-description="Citation for case: Crinkley v. Dow Jones &amp; Co.">67 Ill.App.3d 
+869, 876</a></span><pre class="inline"> (1st Dist. 1978); Brown &amp; Williamson Tobacco Corp. v. Jacobson, </pre><span class="citation" data-id="422088"><a href="/opinion/422088/brown-williamson-tobacco-corporation-v-walter-jacobson-and-cbs-inc/#269" aria-description="Citation for case: Brown &amp; Williamson Tobacco Corporation v. Walter Jacobson...">713 F.2d 
+262, 269</a></span><pre class="inline"> (7th Cir. 1983). Business defamation occurs when the integrity or credit of 
+a business has been impugned; trade libel or commercial disparagement occurs when 
+
+the quality of the goods or services are demeaned. </pre><span class="citation" data-id="422088"><a href="/opinion/422088/brown-williamson-tobacco-corporation-v-walter-jacobson-and-cbs-inc/" aria-description="Citation for case: Brown &amp; Williamson Tobacco Corporation v. Walter Jacobson...">Id.</a></span><pre class="inline"> The Complaint alleges that 
+Unison made the following statements to the City: “Maroon was refusing to perform 
+work on the project, and/or refusing to provide work unless it received an advance 
+payment of 50% of work not yet performed; had been paid in full; was delaying the 
+project; was in breach….” (Dkt. 1, ¶ 91). Maroon argues that it has stated a claim for 
+trade  libel  because  Defendant’s  statement  disparaged  Plaintiff’s  services  by 
+suggesting “Plaintiff modified the terms of the subcontract without reason and that 
+Plaintiff was refusing to perform the services required under the subcontract.” (Dkt. 
+58, 26). Contrary to Maroon’s assertion, these statements do not disparage the quality 
+
+of Maroon’s goods or services as required for a commercial disparagement claim. Ma-
+roon has thus failed to state a claim for trade libel or commercial disparagement. See 
+Crinkley, </pre><span class="citation" data-id="2061986"><a href="/opinion/2061986/crinkley-v-dow-jones-co/#877" aria-description="Citation for case: Crinkley v. Dow Jones &amp; Co.">67 Ill.App.3d at 877</a></span><pre class="inline">.                                           
+    To state a claim for business defamation in Illinois, a plaintiff must show: (1) 
+falsity; (2) unprivileged publication; and (3) damages. Green v Rogers, </pre><span class="citation" data-id="2026654"><a href="/opinion/2026654/green-v-rogers/" aria-description="Citation for case: Green v. Rogers">234 Ill.2d 478</a></span><pre class="inline">, 
+</pre><span class="citation" data-id="2026654"><a href="/opinion/2026654/green-v-rogers/" aria-description="Citation for case: Green v. Rogers">917 N.E.2d 450</a></span><pre class="inline"> (2009). This standard applies to both individuals and corporations. 
+
+See Brown, </pre><span class="citation" data-id="422088"><a href="/opinion/422088/brown-williamson-tobacco-corporation-v-walter-jacobson-and-cbs-inc/#269" aria-description="Citation for case: Brown &amp; Williamson Tobacco Corporation v. Walter Jacobson...">713 F.2d at 269</a></span><pre class="inline">. Unison argues that the Complaint admits the truth of 
+the statements Unison allegedly made to the City. See Philips v. Quality Terminal 
+Servs., LLC, </pre><span class="citation" data-id="8697829"><a href="/opinion/8714636/phillips-v-quality-terminal-services-llc/#786" aria-description="Citation for case: Phillips v. Quality Terminal Services, LLC">855 F.Supp.2d 764, 786</a></span><pre class="inline"> (N.D. Ill. 2012) (holding that true statements 
+cannot support a claim for defamation because truth is an absolute defense to defa-
+mation). A defendant need only show the “substantial truth” of the alleged statements 
+to establish this defense. </pre><span class="citation" data-id="8697829"><a href="/opinion/8714636/phillips-v-quality-terminal-services-llc/" aria-description="Citation for case: Phillips v. Quality Terminal Services, LLC">Id.</a></span><pre class="inline"> (citing J. Maki Const. Co. v. Chicago Regional Council 
+of Carpenters, </pre><span class="citation" data-id="2176538"><a href="/opinion/2176538/j-maki-construction-co-v-chicago-regional-council-of-carpenters/" aria-description="Citation for case: J. Maki Construction Co. v. Chicago Regional Council of...">379 Ill.App.3d 189</a></span><pre class="inline">, </pre><span class="citation no-link">318 Ill.Dec. 50</span><pre class="inline">, </pre><span class="citation" data-id="2176538"><a href="/opinion/2176538/j-maki-construction-co-v-chicago-regional-council-of-carpenters/" aria-description="Citation for case: J. Maki Construction Co. v. Chicago Regional Council of...">882 N.E.2d 1173</a></span><pre class="inline"> (2d Dist. 2008)). 
+
+Substantial truth is demonstrated when the defendant has shown that the “gist” or 
+“sting” of the alleged defamatory statement is true. </pre><span class="citation" data-id="2176538"><a href="/opinion/2176538/j-maki-construction-co-v-chicago-regional-council-of-carpenters/" aria-description="Citation for case: J. Maki Construction Co. v. Chicago Regional Council of...">Id.</a></span><pre class="inline"> Unison argues that the Com-
+plaint demonstrates the substantial truth of Unison’s statements. For example, Ma-
+roon alleges that Unison misled the City by stating that Maroon was demanding ad-
+vance payment for work not yet performed. (Dkt. 1, ¶ 47). Unison then points to par-
+agraph 46 of the Complaint which states that Maroon requested monies be deposited 
+in an account before Maroon commenced work on the Surveys. (Id. at ¶ 46). Maroon 
+alleges that Unison misled the City into thinking Maroon was not compliant with the 
+Subcontract, yet Maroon’s attached declaration alleges that it made extra-contractual 
+
+demands after performance had already begun. Compare (Dkt. 1, ¶ 47) with (Dkt. 51, 
+Ex. 2, ¶¶ 27, 36(b), 49). Maroon’s Complaint thus support’s Unison’s argument that 
+the alleged statements were substantially true.                           
+    In addition, Unison argues that its statements were privileged. “An otherwise 
+defamatory statement is not actionable if made under a qualified privilege.” Phillips, 
+855 F.Supp. at 786 (citing Haywood v. Lucent Technologies, Inc., </pre><span class="citation" data-id="2424345"><a href="/opinion/2424345/haywood-v-lucent-technologies-inc/#916" aria-description="Citation for case: Haywood v. Lucent Technologies, Inc.">169 F.Supp.2d 890, 
+
+916</a></span><pre class="inline"> (N.D. Ill. 2001) aff’d by </pre><span class="citation no-link">323 F.2d 524</span><pre class="inline"> (7th Cir. 2003)). Illinois law confers a privi-
+lege upon statements made within a legitimate business context. </pre><span class="citation no-link">Id.</span><pre class="inline"> (citing Republic 
+Tobacco Co. v. N. Atl. Trading Co., Inc., </pre><span class="citation" data-id="787544"><a href="/opinion/787544/republic-tobacco-co-plaintiff-appelleecross-appellant-v-north-atlantic/#727" aria-description="Citation for case: Republic Tobacco Co., Plaintiff-Appellee/cross-Appellant...">381 F.3d 717, 727</a></span><pre class="inline"> (7th Cir. 2004)). If a qual-
+ified privilege is established, the communication becomes actionable only if the priv-
+ilege was abused. </pre><span class="citation" data-id="787544"><a href="/opinion/787544/republic-tobacco-co-plaintiff-appelleecross-appellant-v-north-atlantic/" aria-description="Citation for case: Republic Tobacco Co., Plaintiff-Appellee/cross-Appellant...">Id.</a></span><pre class="inline"> Unison argues that any statements made to the City regarding 
+Maroon were privileged because they were made within the legitimate business con-
+text of Unison’s prime bid with the City.                                 
+
+    Plaintiff’s counterarguments are rather unclear. Plaintiff appears to argue 
+that Defendant’s statements were misleading because Defendant did not inform 
+LAWA that Plaintiff was making those demands as a result of not receiving payment. 
+Maroon argues that Defendant’s statement that Plaintiff was paid in full was false, 
+as was Defendant’s statement that Plaintiff was delaying the project. Plaintiff alleges 
+that these statements served as pretext to remove Plaintiff from the survey project. 
+Because of these statements, Plaintiff claims that LAWA allowed Unison to remove 
+Plaintiff as a subcontractor, LAWA rejected Plaintiff’s bid for the 2018 Request for 
+Proposal because it viewed Plaintiff as an unworthy business partner, and Plaintiff 
+
+was deprived a consulting contract with a private marketing and media company. 
+Plaintiff failed to counter Unison’s arguments regarding privilege.       
+    The allegations in the Complaint demonstrate that some of Unison’s allegedly 
+false statements were, according to the Complaint, true. Furthermore, as currently 
+pled, the allegations indicate that Unison made these statements to the City in a 
+business capacity. This claim as it is currently pled is deficient and is dismissed with-
+
+out prejudice.                                                            
+H. Count VIII—California’s Unfair Competition Law                         
+     California’s Unfair Competition Law (“UCL”) prohibits any unlawful, unfair, 
+or fraudulent business act or practice, deceptive or misleading advertising, and any 
+act prohibited under certain chapters of the California Business and Professional 
+Code. </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline"> (West). There are three ways to bring a cause 
+of action under the UCL: (1) alleging unlawful conduct that violates another law; (2) 
+
+alleging fraudulent conduct likely to deceive members of the public; and (3) alleging 
+unfair conduct relating to an actual or threatened impact on competition. See Hadley 
+v. Kellog Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1089" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F.Supp.3d 1074, 1089</a></span><pre class="inline"> (N.D. Cal. 2017). Each “prong” of the 
+UCL provides a separate and distinct theory of liability. </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">Id.</a></span><pre class="inline"> The “unlawful” prong 
+borrows violations of other laws and treats them as an unlawful practice. McVicar v. 
+Goodham Global Inc., </pre><span class="citation" data-id="7222826"><a href="/opinion/7304923/mcvicar-v-goodman-global-inc/#1053" aria-description="Citation for case: McVicar v. Goodman Global, Inc.">1 F.Supp.3d 1044, 1053</a></span><pre class="inline"> (C.D. Cal. 2014). Under the fraudulent 
+prong, “it is necessary only to show that members of the public are likely to be de-
+ceived.” In re Tobacco II Cases, </pre><span class="citation" data-id="9685293"><a href="/opinion/1801796/in-re-tobacco-ii-cases/#312" aria-description="Citation for case: In Re Tobacco II Cases">46 Cal. 4th 298, 312</a></span><pre class="inline"> (2009). Common law elements of 
+fraud, such as actual falsehood, knowledge of falsity, and a victim’s reliance on the 
+
+false statements, are not required to show a violation of the UCL. </pre><span class="citation" data-id="9685293"><a href="/opinion/1801796/in-re-tobacco-ii-cases/" aria-description="Citation for case: In Re Tobacco II Cases">Id.</a></span><pre class="inline"> Maroon only 
+asserts claims under the unlawful and fraudulent prongs.                  
+    In its opening brief, Unison argued that Maroon failed to allege facts sufficient 
+to meet the first two prongs. For the unlawful prong, Unison argues that Maroon 
+failed to allege facts showing Unison violated a predicate law. See Tan v. GrubHub, 
+Inc., </pre><span class="citation" data-id="7237112"><a href="/opinion/7319202/tan-v-grubhub-inc/#1010" aria-description="Citation for case: Tan v. Grubhub, Inc.">171 F.Supp.3d 998, 1010-11</a></span><pre class="inline"> (N.D. Cal. 2016) (where the UCL claim is premised 
+
+on the same acts alleged in the complaint’s other causes of action, and those causes 
+of action fail, the UCL claims must likewise be dismissed); see also Hadley, </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1089" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 
+F.Supp.3d at 1089</a></span><pre class="inline">. Maroon’s Complaint alleges that Unison violated the “Consumer 
+Legal Remedies Act, California False Claims Act, California Whistleblower statutes, 
+and various other laws, regulations, statutes, and/or commercial law duties.” (Dkt. 1, 
+¶ 101). The Court already determined that Maroon has failed to state a claim under 
+the California False Claims Act. Regarding the whistleblower statutes, Maroon fails 
+
+to identify which specific whistleblower statute Unison allegedly violated. Maroon 
+also fails to identify what “other laws, regulations, statutes, and/or common law du-
+ties” Unison violated. Any UCL claim on those bases must fail as Maroon has failed 
+to allege sufficient factual material.                                    
+    Unison additionally argues that Maroon has failed to state a claim under the 
+Consumer Legal Remedies Act (“CLRA”). The CLRA protects ordinary consumers 
+from misleading advertisements of goods and services. See Hadley, </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1089" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F.Supp.3d at 
+1089</a></span><pre class="inline">; </pre><span class="citation no-link">Cal. Civ. Code § 1761</span><pre class="inline">(d) (defining “consumer” as an individual who seeks or 
+acquires, by purchase or lease, any goods or services for personal, family, or house-
+
+hold purposes). Maroon does not allege that the City or Maroon is an ordinary con-
+sumer in this situation, and no other ordinary consumers are mentioned in the Com-
+plaint. Maroon has accordingly failed to state a predicate violation of the CLRA, and 
+thus a violation of the UCL as well.                                      
+    In response, Maroon once again adds additional factual allegations and legal 
+theories not found in the Complaint. Maroon alleges that the predicate unlawful ac-
+
+tion was Unison’s violation of the California Subletting Act. The California Subletting 
+Act prohibits “bid chiseling,” that is, where the prime contractor uses a public con-
+tract award to pressure its sub-bidders to further lower prices under threat of losing 
+the work. See R.M. Sherman Co v. W.R. Thomason Inc., </pre><span class="citation" data-id="2119075"><a href="/opinion/2119075/r-m-sherman-co-v-w-r-thomason-inc/#567" aria-description="Citation for case: R. M. Sherman Co. v. W. R. Thomason, Inc.">191 Cal. App. 3d 559, 567</a></span><pre class="inline"> 
+(1987). Maroon alleges that Unison engaged in the practice of “bid chiseling” by uni-
+laterally reducing Maroon’s sub-bid from $99,300 to $88,505. Maroon also alleges that 
+Unison used another LAWA contract to pressure Plaintiff to lower its sub-bid to 
+
+$93,300. Finally, Maroon alleges that Unison removed Maroon from the survey pro-
+ject without following the procedures of the Subletting Act.              
+    But there is no reference to the California Subletting Act or bid chiseling in the 
+Complaint. Like the breach of contract claim above, Plaintiff is not merely adjusting 
+a legal theory or expanding upon an issue touched on in the Complaint. The new 
+allegations and theories go well beyond permissible modifications. Maroon cannot 
+amend its pleading by way of response brief. Plaintiff has accordingly failed to plead 
+a UCL claim under the “unlawful” prong.                                   
+    As for the “fraudulent” prong of the UCL, that prong relates to allegations of 
+
+fraudulent conduct likely to deceive members of the public. In making a claim under 
+this prong of the UCL, a plaintiff must satisfy the heightened pleading requirements 
+of Rule 9(b). Hadley, 243. F.Supp.3d at 1090 (to satisfy Rule 9(b)’s standard for a UCL 
+claim, a plaintiff must allege an account of the time, place, and specific content of the 
+false representations as well as the identities of the parties to the misrepresentations; 
+“plaintiff must set forth what is false or misleading about a statement, and why it is 
+
+false”). Plaintiff’s Complaint fails to satisfy these requirements. The Complaint fails 
+to allege specific fraudulent conduct likely to deceive members of the public. 
+    Plaintiff’s response brief alleges that Unison engaged in deceptive and mis-
+leading conduct regarding the LAWA 2018 Request for Proposal. Plaintiff claims that, 
+in response to the 2018 Request for Proposal, Defendant falsely asserted that that 
+the subcontractor identified in Unison’s bid had conducted over 100,000 passen-
+ger/rider surveys of which 30,000 were specific to airports, and that Unison and the 
+
+subcontractor had worked together on several other airport survey project at Los An-
+geles, Bob Hope Burbank and Louis Armstrong New Orleans. (Dkt. 58, 29). According 
+to Plaintiff, those characteristics describe Plaintiff’s experience and relationship to 
+Defendant, not the subcontractor Defendant used for the 2018 Request for Proposal. 
+Plaintiff argues that Unison’s misrepresentations “deceived LAWA into believing 
+that the identified subcontractor was responsible for and completed similar work at 
+other airports.” (/d.). Unison protests that these allegations are nowhere in the Com- 
+plaint, Maroon has failed to allege that these representations harmed members of the 
+public in any way, and any statements by Unison were made to the City not to Ma- 
+roon. 
+     The Court is persuaded by Unison’s arguments. Plaintiff&#x27;s new allegations re- 
+garding Unison’s statements to LAWA do not belong in a response brief. Plaintiff&#x27;s 
+Complaint has failed to plead  a UCL fraud count with the requisite particularity. 
+Count VIII is dismissed without prejudice. 
+                              CONCLUSION 
+     For the reasons stated above, Defendants’ motion to dismiss is granted. Counts 
+II and V are dismissed with prejudice. All other Counts are dismissed without preju- 
+dice.  But if Plaintiff intends to replead a claim under California False  Claims Act 
+(currently Count IV), it must first seek leave of court. The Court grants Plaintiff leave 
+to file an amended complaint by September 30, 2020. 
+
+                                       ENTER: 
+
+                                       Woy           boule 
+Dated: August 26, 2020
+                                      “MARYM.ROWLAND 
+                                       United States District Judge 
+
+                                     31 </pre>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b1046-3">
+<span citation-index="1" class="star-pagination" label="970"> 
+   *970
+   </span>
+  ALARCON, Circuit Judge:
+ </author>
+<p id="b1046-4">
+  Defendants-Appellants Jose Adeodato Ibarra-Alcarez (hereinafter Jose Ibarra) and Noel Ibarra-Alcarez (hereinafter Noel Ibarra) appeal from the judgment of conviction for conspiracy, in violation of <span class="citation no-link">18 U.S.C. § 2</span> (1982), and for transporting United States currency in excess of $10,000 from the United States into Canada without filing a report in violation of <span class="citation no-link">31 U.S.C. §§ 5316</span>(a) (1982 &amp; Supp. Ill 1985) and 5322(a) (Supp. Ill 1985). They seek reversal on two grounds.
+ </p>
+<p id="b1046-5">
+  One. Failure to file a report of the transportation of United States currency is not a crime because the Secretary of the Treasury did not publish regulations specifying the information to be reported or the form which must be used.
+ </p>
+<p id="b1046-6">
+  Two. The trial court erred on refusing to instruct the jury on good faith reliance on the advice of counsel and ignorance of the law.
+ </p>
+<p id="b1046-7">
+  The primary question we must decide is whether the Secretary of the Treasury must publish, as a regulation, the form used for reporting the transportation of United States currency in excess of $10,000 (hereinafter Form 4790) before failure to file such a report can be punished as a criminal violation under <span class="citation no-link">31 U.S.C. § 5316</span>(a). We affirm the judgment. Form 4790 does not impose a duty not already contained in published regulations and the jury was properly instructed.
+ </p>
+<p id="b1046-8">
+  FACTUAL BACKGROUND
+ </p>
+<p id="b1046-9">
+  Jose Ibarra and Noel Ibarra are brothers who live in Tucson, Arizona. Their father, Adeodato Ibarra, was in the money exchange business in Nogales, Arizona, at the border between the United States and Mexico. Jose Ibarra has a construction firm in Mexico. Noel Ibarra did odd jobs for his brother. On November 22, 1985, Noel Ibarra left Tucson in a Chevrolet Blazer Jeep. The vehicle contained $2.1 million hidden in an ice chest and a tire. He arrived at Blaine, Washington at 3:00 a.m. on November 25, 1985. Later that morning, Noel Ibarra met his brother, Jose Ibarra, at a restaurant in Blaine. A tire containing $800,000 was placed in the trunk of a car rented by Jose Ibarra in Vancouver, British Columbia. The car had British Columbia license plates. The brothers then attempted to enter Surrey, British Columbia at the Pacific Highway crossing. They were stopped by Canadian customs officers. Jose Ibarra was asked by a primary inspection officer if he had anything in the vehicle besides personal clothing. Jose Ibarra responded: “Nothing, nothing at all.” The primary inspection officer opened the trunk of the automobile. Inside he discovered two spare tires. The brothers were referred to a secondary customs inspector for further search of the vehicle. The secondary inspector noticed that one of the tires in the trunk had a slash in the sidewall. The tire was cut open. Four paper bags containing United States currency were found in the tire.
+ </p>
+<p id="b1046-11">
+  The Canadian customs inspectors notified a United States customs officer that United States currency had been transported into Canada by the Ibarra brothers. The money was sealed in a box and returned to Jose Ibarra. The Ibarra brothers were permitted to confer with counsel by the Canadian officials. Jose and Noel Ibarra were informed that they would not be allowed to remain in Canada. They were ordered to return to the United States immediately. Jose Ibarra was instructed by a Canadian customs inspector to disclose the money when he returned to the United States.
+ </p>
+<p id="b1046-12">
+  Upon their reentry into the United States, the Ibarra brothers were detained and questioned. They were followed into the United States by their lawyers. Jose Ibarra was asked if he had anything to declare. He replied that he had $900,000 in United States currency and wanted to fill out the form. The occupants of the automobile were told to park their car and go inside the building for further inspection. Jose Ibarra filled out a copy of Form 4790 on which he stated he had more than $10,-000 to declare. In the presence of his attorney, Jose Ibarra showed the box containing the currency to the United States customs inspectors. After he was arrested, Jose Ibarra requested permission to fill
+  <span citation-index="1" class="star-pagination" label="971"> 
+   *971
+   </span>
+  out a copy of Form 4790 to report taking more than $10,000 in United States currency into Canada earlier that day. His request was denied. He was told that it should have been filled out prior to his departure from the United States.
+ </p>
+<p id="b1047-5">
+  DISCUSSION
+ </p>
+<p id="b1047-6">
+  A.
+  <em>
+   Sufficiency of the Reporting Regulations
+  </em>
+</p>
+<p id="b1047-7">
+  The Ibarra brothers argue that their conviction for failing to report the transportation of United States currency from the United States in excess of $10,000 must be reversed because the Secretary of the Treasury did not publish the reporting requirements set forth in Form 4790 in the Federal Register. They contend that Form 4790 contains a legislative rule which supplies the sole basis for a prosecution under <span class="citation no-link">31 U.S.C. § 5316</span>.
+ </p>
+<p id="b1047-8">
+  The interpretation of the requirements of a statute is a question of law we review
+  <em>
+   de novo. United States v. Doubleday,
+  </em>
+  <span class="citation" data-id="478998"><a href="/opinion/478998/united-states-v-morgan-doubleday/#1093" aria-description="Citation for case: United States v. Morgan Doubleday">804 F.2d 1091, 1093</a></span> (9th Cir.1986) (per curiam),
+  <em>
+   cert. denied,
+  </em>
+  —U.S.-, <span class="citation multiple-matches"><a href="/c/S.Ct./107/1628/">107 S.Ct. 1628</a></span>, <span class="citation" data-id="9061276"><a href="/opinion/9067591/lockett-v-south-carolina/" aria-description="Citation for case: Lockett v. South Carolina">95 L.Ed.2d 201</a></span> (1987). The Ibarra brothers were charged with violating <span class="citation no-link">31 U.S.C. § 5316</span>. Section 5316(a) provides in pertinent part as follows:
+ </p>
+<blockquote id="b1047-11">
+  [A] person ... shall file a report under subsection (b) of this section when the person ... knowingly — [11] (1) transports ... monetary instruments of more than $10,000 at one time — [¶] (A) from a place in the United States to or through a place outside the United States —
+ </blockquote>
+<p id="b1047-12">
+  Section 5316(b) provides that “[a] report under this section shall be filed at the
+  <em>
+   time
+  </em>
+  and
+  <em>
+   place
+  </em>
+  the Secretary of the Treasury prescribes.” (Emphasis added). The statute does not set forth the time or place that the report must be filed. Congress delegated this duty to the Secretary. The statute itself does not proscribe conduct. Section 5316(b) enables the Secretary to promulgate regulations setting forth the time and place that a person must report the transportation, to or from the United States, of United States currency in excess of $10,000. No punishment can be imposed for such transportation in the absence of a properly promulgated regulation. In
+  <em>
+   California Bankers Ass’n v. Shultz,
+  </em>
+  <span class="citation" data-id="9425671"><a href="/opinion/109005/california-bankers-assn-v-shultz/" aria-description="Citation for case: California Bankers Assn. v. Shultz">416 U.S. 21</a></span>, <span class="citation" data-id="9425671"><a href="/opinion/109005/california-bankers-assn-v-shultz/" aria-description="Citation for case: California Bankers Assn. v. Shultz">94 S.Ct. 1494</a></span>, <span class="citation" data-id="9425671"><a href="/opinion/109005/california-bankers-assn-v-shultz/" aria-description="Citation for case: California Bankers Assn. v. Shultz">39 L.Ed.2d 812</a></span> (1974), the Supreme Court held that
+ </p>
+<blockquote id="Adi">
+  [t]he Act’s civil and criminal penalties attach only upon violation of regulations promulgated by the Secretary; if the Secretary were to do nothing, the Act itself would impose no penalties on anyone.
+ </blockquote>
+<p id="b1047-14">
+<span class="citation" data-id="9425671"><a href="/opinion/109005/california-bankers-assn-v-shultz/#26" aria-description="Citation for case: California Bankers Assn. v. Shultz"><em>
+   Id.,
+  </em>
+  at 26</a></span>, <span class="citation" data-id="9425671"><a href="/opinion/109005/california-bankers-assn-v-shultz/#1500" aria-description="Citation for case: California Bankers Assn. v. Shultz">94 S.Ct. at 1500</a></span>.
+ </p>
+<p id="b1047-15">
+  Thus, our responsibility is to review the regulations promulgated by the Secretary of the Treasury to determine if they set forth the time and place that the report required by section 5316(a) must be filed.
+ </p>
+<p id="b1047-16">
+  The Secretary of the Treasury has promulgated two regulations pursuant to the direction of Congress in section 5316(a) and (b). These regulations provide as follows:
+ </p>
+<blockquote id="b1047-17">
+<em>
+   Each person who physically transports,
+  </em>
+  mails,
+  <em>
+   or
+  </em>
+  ships, or causes to be physically transported, mailed, or shipped, or attempts to physically transport, mail or ship, or attempts to cause to be physically transported, mailed or shipped,
+  <em>
+   currency or
+  </em>
+  other monetary instruments in an aggregate amount exceeding $10,000 on any one occasion
+  <em>
+   from the United States to any place outside the United States,
+  </em>
+  or into the United States from any place outside the United States,
+  <em>
+   shall make a report thereof.
+  </em>
+  A person is deemed to have caused such transportation, mailing or shipping when he aids, abets, counsels, commands, procures, or requests it be done by a financial institution or any other person.
+ </blockquote>
+<p id="b1047-18">
+  <span class="citation no-link">31 C.F.R. § 103.23</span>(a) (1986) (emphasis added).
+ </p>
+<blockquote id="b1047-19">
+<em>
+   Reports
+  </em>
+  required to be filed by § 103.23(a)
+  <em>
+   shall be filed at the time of entry into the United States or at the time of departure,
+  </em>
+  mailing or shipping from the United States, unless otherwise directed or permitted by the Commissioner of Customs.
+  <em>
+   They shall be filed with the Customs officer in charge
+  </em>
+  at any Customs port of entry or departure, or
+  <span citation-index="1" class="star-pagination" label="972"> 
+   *972
+   </span>
+  as otherwise permitted or directed by the Commissioner of Customs. If the currency or other monetary instruments with respect to which a report is required do not accompany a person entering or departing from the United States, such reports may be filed by mail on or before the date of entry, departure, mailing or shipping, with the Commissioner of Customs, Attention: Currency Transportation Reports, Washington, D.C. 20226.
+  <em>
+   They shall he on forms to be prescribed by the Secretary and all information called for in such forms shall be furnished.
+  </em>
+</blockquote>
+<p id="b1048-4">
+  <span class="citation no-link">31 C.F.R. § 103.26</span>(b) (1986) (emphasis added).
+ </p>
+<p id="b1048-5">
+  In <span class="citation no-link">31 C.F.R. § 103.23</span>(a), the Secretary of the Treasury has set forth the duty imposed pursuant to the express provisions of section 5316(a) that every person who transports more than $10,000 in currency in or out of the United States must file a report. Persons directed to file the report required by section 5316(a) and <span class="citation no-link">31 C.F.R. § 103.23</span>(a) are clearly informed by 31 C.F. R. § 103.26(b) that they must do so at the time of entry or departure with the customs officer at any port of entry and departure. These regulations provide the notice and the specification of the time and the place of reporting of the transportation of currency required by Congress in section 5316(b). Accordingly, the penalties set forth in <span class="citation no-link">31 U.S.C. § 5322</span>(a) are applicable to any person who knowingly violates the reporting requirement of section 5316(a).
+ </p>
+<p id="b1048-6">
+  Appellants’ contention that Form 4790 prescribes a legislative rule having the force of law which must be subject to the notice and comment requirements of section 553 of the Administrative Procedure Act, <span class="citation no-link">5 U.S.C. §§ 553-559</span> is unpersuasive. This argument was rejected by the Eleventh Circuit in
+  <em>
+   United States v. Palzer,
+  </em>
+  <span class="citation" data-id="442950"><a href="/opinion/442950/united-states-v-lewis-palzer/" aria-description="Citation for case: United States v. Lewis Palzer">745 F.2d 1350</a></span> (11th Cir.1984). In
+  <em>
+   <span class="citation" data-id="442950"><a href="/opinion/442950/united-states-v-lewis-palzer/" aria-description="Citation for case: United States v. Lewis Palzer">Palzer</a></span>,
+  </em>
+  as here, appellant contended that Form 4790 was void because it was not properly promulgated under the Administrative Procedure Act.
+  <em>
+   <span class="citation" data-id="442950"><a href="/opinion/442950/united-states-v-lewis-palzer/" aria-description="Citation for case: United States v. Lewis Palzer">Id.</a></span>
+  </em>
+  at 1357 n. 14. The Eleventh Circuit responded to this claim as follows:
+ </p>
+<blockquote id="b1048-7">
+  The substance of the indictment in this case charges Palzer with willfully failing to report the fact that he was bringing more than $5,000 in currency into the country. Nothing in the content of Form 4790, which Palzer now challenges, is implicated in the offense charged in the indictment,
+  <em>
+   i.e.,
+  </em>
+  the willful failure to report the fact that he was bringing in more than $5,000. Section 103.23(a), 31 C.F.R., clearly informed Palzer of the requirement to report the fact that he was carrying more than $5,000 in currency. Section 103.25(b), 31 C.F.R., reiterates the reporting requirement, and specifies the time, place, and manner in which the report is to be made.
+ </blockquote>
+<p id="b1048-8">
+<span class="citation" data-id="442950"><a href="/opinion/442950/united-states-v-lewis-palzer/#1358" aria-description="Citation for case: United States v. Lewis Palzer"><em>
+   Id.
+  </em>
+  at 1358</a></span>.
+ </p>
+<p id="b1048-9">
+  Appellants’ reliance on
+  <em>
+   United States v. Reinis,
+  </em>
+  <span class="citation" data-id="472236"><a href="/opinion/472236/united-states-v-ruben-reinis/" aria-description="Citation for case: United States v. Ruben Reinis">794 F.2d 506</a></span> (9th Cir.1986) in challenging the validity of their conviction is misplaced. We reversed the conviction in
+  <em>
+   <span class="citation" data-id="472236"><a href="/opinion/472236/united-states-v-ruben-reinis/" aria-description="Citation for case: United States v. Ruben Reinis">Reinis</a></span>
+  </em>
+  on the ground that the instructions on Currency Transaction Reporting Form 4789 could not be enforced because they imposed duties upon banks not contained in existing regulations.
+  <span class="citation" data-id="472236"><a href="/opinion/472236/united-states-v-ruben-reinis/#508" aria-description="Citation for case: United States v. Ruben Reinis"><em>
+   Id.
+  </em>
+  at 508</a></span>.
+ </p>
+<p id="b1048-11">
+  Form 4790 does not impose a duty not already required by regulations contained in <span class="citation no-link">31 C.F.R. §§ 103.23</span>(a) and 103.26(b). Form 4790 is simply a piece of paper upon which the report of the transportation of currency required by <span class="citation no-link">31 U.S.C. § 5316</span>(a) is made. The information called for on Form 4790 is limited to the identification of the person reporting and the amount of currency being transported.
+  <em>
+   See
+  </em>
+  Appendix. The Secretary of the Treasury was not required to publish Form 4790 because it does not contain a statement implementing, interpreting, or prescribing a law, policy, or procedure not already defined in published regulations. Jose Ibarra and Noel Ibarra were properly charged with a crime in violation of <span class="citation no-link">31 U.S.C. § 5316</span>(a) and the implementing regulations mandated by <span class="citation no-link">31 U.S.C. § 5316</span>(b).
+ </p>
+<p id="b1048-14">
+  B.
+  <em>
+   Adequacy of the Court’s Instructions
+  </em>
+</p>
+<p id="b1048-15">
+  Jose Ibarra and Noel Ibarra also claim that the district court erred in refusing to
+  <span citation-index="1" class="star-pagination" label="973"> 
+   *973
+   </span>
+  instruct the jury on the legal effect of a defendant’s good faith reliance on the advice of counsel and the defense of ignorance of the law.
+ </p>
+<p id="b1049-5">
+  A defendant is entitled to an instruction covering a theory of defense if it has a basis in law and there is some foundation for it in the evidence.
+  <em>
+   United States v. Hayes,
+  </em>
+  <span class="citation" data-id="9475068"><a href="/opinion/472649/united-states-v-jude-r-hayes/#1350" aria-description="Citation for case: United States v. Jude R. Hayes">794 F.2d 1348, 1350-51</a></span> (9th Cir.1986),
+  <em>
+   cert. denied,
+  </em>
+  —U.S.-, <span class="citation multiple-matches"><a href="/c/S.Ct./107/1289/">107 S.Ct. 1289</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/94/146/">94 L.Ed.2d 146</a></span> (1987);
+  <em>
+   United States v. Escobar De Bright,
+  </em>
+  <span class="citation" data-id="440513"><a href="/opinion/440513/united-states-v-hilda-escobar-de-bright/#1198" aria-description="Citation for case: United States v. Hilda Escobar De Bright">742 F.2d 1196, 1198</a></span> (9th Cir.1984).
+ </p>
+<p id="b1049-8">
+  A trial court’s determination that the evidence was insufficient to justify the giving of an instruction on a theory of defense is a question of law.
+  <em>
+   Doubleday,
+  </em>
+  <span class="citation" data-id="478998"><a href="/opinion/478998/united-states-v-morgan-doubleday/#1093" aria-description="Citation for case: United States v. Morgan Doubleday">804 F.2d at 1093</a></span>;
+  <em>
+   see United States v. Brandon,
+  </em>
+  <span class="citation" data-id="383692"><a href="/opinion/383692/united-states-v-michael-s-brandon-united-states-of-america-v-melanie-r/#778" aria-description="Citation for case: United States v. Michael S. Brandon, United States of...">633 F.2d 773, 778</a></span> (9th Cir.1980) (refusal to give an entrapment instruction “constitutes a determination as [a] matter of law that the defense may not be raised”).
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  We review a trial court’s determination of a question of law
+  <em>
+   de novo. McConney,
+  </em>
+  728 F.2d at 1201.
+ </p>
+<p id="b1049-9">
+  The adequacy of jury instructions is determined by examining them as a whole.
+  <em>
+   Hayes,
+  </em>
+  <span class="citation" data-id="9475068"><a href="/opinion/472649/united-states-v-jude-r-hayes/#1351" aria-description="Citation for case: United States v. Jude R. Hayes">794 F.2d at 1351</a></span>. It is not error to refuse a proposed instruction if the other instructions, when viewed in their entirety, cover that theory.
+  <em>
+   <span class="citation" data-id="9475068"><a href="/opinion/472649/united-states-v-jude-r-hayes/" aria-description="Citation for case: United States v. Jude R. Hayes">Id.</a></span>
+  </em>
+</p>
+<p id="b1049-10">
+  “Advice of counsel is not regarded as a separate and distinct defense but rather as a circumstance indicating good faith which the trier of fact is entitled to consider on the issue of fraudulent intent.”
+  <em>
+   Bisno v. United States,
+  </em>
+  <span class="citation" data-id="9448373"><a href="/opinion/256358/alexander-bisno-v-united-states/#719" aria-description="Citation for case: Alexander Bisno v. United States">299 F.2d 711, 719</a></span> (9th Cir.1961),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./370/952/">370 U.S. 952</a></span>, <span class="citation no-link">82 S.Ct. 1602</span>, <span class="citation no-link">8 L.Ed.2d 818</span> (1962). To qualify for an advice of counsel instruction, the defendant must show that there was full disclosure to his attorney of all material facts, and that he relied in good faith on the specific course of conduct recommended by the attorney.
+  <span class="citation no-link"><em>
+   Id.
+  </em>
+  at 720</span>;
+  <em>
+   United States v. Conforte,
+  </em>
+  <span class="citation" data-id="379565"><a href="/opinion/379565/united-states-v-joseph-conforte-and-sally-conforte/#877" aria-description="Citation for case: United States v. Joseph Conforte and Sally Conforte">624 F.2d 869, 877</a></span> (9th Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./449/1012/">449 U.S. 1012</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./101/568/">101 S.Ct. 568</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/66/470/">66 L.Ed.2d 470</a></span> (1980).
+ </p>
+<p id="b1049-13">
+  The district court did not err in refusing to instruct the jury on the legal effect of a defendant’s reliance on the advice of counsel. The evidence does not show that Jose Ibarra made a full disclosure to his attorney of his intention to transport more than $10,000 in United States currency
+  <em>
+   out
+  </em>
+  of the United States.
+ </p>
+<p id="b1049-14">
+  On September 5, 1985, approximately six weeks before his arrest, Jose Ibarra attended a meeting to discuss the currency exchange’s responsibility to file reports. Present at this meeting were his father, their attorney, and several United States government officials. In dispute was a particular transaction in which a courier delivered money to the currency exchange from Mexico. The attorney stated in Jose Ibarra’s presence that the courier, not the currency exchange, would have the responsibility of filing Form 4790.
+ </p>
+<p id="b1049-15">
+  Jose testified that he could not follow the discussion, but that his father told him afterward that “we don’t have anything to do with this ... it [isn’t] our place as an exchange house in Nogales, Arizona to fill out those papers.” No evidence was presented to the jury that Jose Ibarra informed his attorney at any time that he planned to transport large sums of money to Canada, nor is there any proof in the record that counsel advised him that it was lawful to export more than $10,000 in United States currency to another country without filing a report. In fact, counsel advised Jose Ibarra that a person who trans
+  <span citation-index="1" class="star-pagination" label="974"> 
+   *974
+   </span>
+  ports money must file a report. We recognize that a trial judge must instruct the jury on the effect of good faith reliance even if the evidence presented by the defense was “fragile, weak[,] insufficient, inconsistent or of doubtful credibility.”
+  <em>
+   United States v. Musgrave,
+  </em>
+  <span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/#764" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">444 F.2d 755, 764-65</a></span> (5th Cir.1971) (citation omitted). Because Jose Ibarra failed to disclose all the material facts to his attorney, refusal of the instruction on good faith reliance on the advice of counsel was not error.
+ </p>
+<p id="b1050-4">
+  Jose Ibarra and Noel Ibarra also claim that the district court failed to give an adequate instruction on the effect of ignorance of the requirement to file reports prior to transporting out of this country more than $10,000 in United States currency. We disagree.
+ </p>
+<p id="b1050-5">
+  In a prosecution pursuant to <span class="citation no-link">31 U.S.C. § 5316</span>(a), the government is required to prove that the defendants knew (1) they were transporting funds in excess of $10,-000 and (2) that the law required them to file a report.
+  <em>
+   See United States v. Carrier,
+  </em>
+  <span class="citation" data-id="392355"><a href="/opinion/392355/united-states-v-robert-carrier/#561" aria-description="Citation for case: United States v. Robert Carrier">654 F.2d 559, 561</a></span>. (9th Cir.1981) (requirement that act be “willful” means that it must be done “deliberately and with knowledge”). The trial court was under a duty to instruct the jury that appellants were aware of the reporting laws and willfully failed to file a report. It is undisputed that Jose Ibarra and Noel Ibarra knew they were exporting in excess of $10,000.
+ </p>
+<p id="b1050-6">
+  The court gave the following instruction to the jury:
+ </p>
+<blockquote id="b1050-7">
+  An act is done knowingly if the defendant realized what he or she was doing and did not act through
+  <em>
+   ignorance,
+  </em>
+  mistake, or accident.
+ </blockquote>
+<blockquote id="b1050-8">
+  An act is done willfully if done knowingly, intentionally, and deliberately, with the
+  <em>
+   purposes of avoiding a known legal duty.
+  </em>
+</blockquote>
+<blockquote id="b1050-9">
+  You may consider the evidence of the defendant’s acts and words, along with all the other evidence, in deciding whether that defendant acted knowingly or willfully.
+ </blockquote>
+<p id="b1050-10">
+  (Emphasis added). This instruction properly incorporated the defense of ignorance of the legal duty to file a report. The district court did not err in refusing appellants’ formulation of this theory of defense.
+ </p>
+<p id="b1050-11">
+  CONCLUSION
+ </p>
+<p id="b1050-12">
+  Appellants were lawfully charged and convicted of transporting more than $10,-000 in United States currency to Canada without filing a report in violation of <span class="citation no-link">31 U.S.C. § 3156</span>(a). The Secretary of the Treasury properly promulgated regulations giving notice of the time and place of reporting such currency transportation as directed by Congress in <span class="citation no-link">31 U.S.C. § 3156</span>(b). The Secretary of the Treasury was not required to publish Form 4790 under the Administrative Procedure Act because it does not impose any liability not already set forth in properly promulgated regulations.
+ </p>
+<p id="b1050-13">
+  AFFIRMED.
+ </p>
+<p id="b1051-4">
+<span citation-index="1" class="star-pagination" label="975"> 
+   *975
+   </span>
+  [[Image here]]
+ </p>
+<p id="b1052-4">
+<span citation-index="1" class="star-pagination" label="976"> 
+   *976
+   </span>
+  [[Image here]]
+ </p>
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b1049-11">
+   . In
+   <em>
+    United States v. Diggs,
+   </em>
+   <span class="citation" data-id="390554"><a href="/opinion/390554/united-states-v-jerry-diggs-united-states-of-america-v-peter-oliverez/" aria-description="Citation for case: United States v. Jerry Diggs, United States of America v....">649 F.2d 731</a></span> (9th Cir.),
+   <em>
+    cert. denied,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/U.S./454/970/">454 U.S. 970</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./102/516/">102 S.Ct. 516</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/70/387/">70 L.Ed.2d 387</a></span> (1981), we stated "[w]hether there exist issues of fact as to a defense of entrapment is properly a question for the trial judge, the standard of review being abuse of discretion.”
+   <em>
+    Id.
+   </em>
+   at 738. In
+   <em>
+    United States v. Fleishman,
+   </em>
+   <span class="citation" data-id="406824"><a href="/opinion/406824/united-states-v-leslie-fleishman-united-states-of-america-v-peter-combs/" aria-description="Citation for case: United States v. Leslie Fleishman, United States of...">684 F.2d 1329</a></span> (9th Cir.),
+   <em>
+    cert. denied,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/U.S./459/1044/">459 U.S. 1044</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./103/464/">103 S.Ct. 464</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/74/614/">74 L.Ed.2d 614</a></span> (1982) we cited
+   <em>
+    <span class="citation" data-id="390554"><a href="/opinion/390554/united-states-v-jerry-diggs-united-states-of-america-v-peter-oliverez/" aria-description="Citation for case: United States v. Jerry Diggs, United States of America v....">Diggs</a></span>
+   </em>
+   for the proposition that the standard of review to determine "[w]hether there exist issues of fact as to a defense of entrapment is properly a question for the trial judge, the standard of review being abuse of discretion.”
+   <em>
+    Id.
+   </em>
+   at 1342. Neither
+   <em>
+    <span class="citation" data-id="390554"><a href="/opinion/390554/united-states-v-jerry-diggs-united-states-of-america-v-peter-oliverez/" aria-description="Citation for case: United States v. Jerry Diggs, United States of America v....">Diggs</a></span>
+   </em>
+   nor
+   <em>
+    <span class="citation" data-id="406824"><a href="/opinion/406824/united-states-v-leslie-fleishman-united-states-of-america-v-peter-combs/" aria-description="Citation for case: United States v. Leslie Fleishman, United States of...">Fleishman</a></span>
+   </em>
+   cited
+   <em>
+    United States v. Brandon. Diggs
+   </em>
+   and
+   <em>
+    <span class="citation" data-id="406824"><a href="/opinion/406824/united-states-v-leslie-fleishman-united-states-of-america-v-peter-combs/" aria-description="Citation for case: United States v. Leslie Fleishman, United States of...">Fleishman</a></span>
+   </em>
+   have been overruled
+   <em>
+    sub silentio
+   </em>
+   on the appropriate standard of review by our en banc decision in
+   <em>
+    United States v. McConney,
+   </em>
+   <span class="citation" data-id="9471865"><a href="/opinion/431931/united-states-v-winston-bryant-mcconney/#1201" aria-description="Citation for case: United States v. Winston Bryant McConney">728 F.2d 1195, 1201</a></span> (9th Cir.),
+   <em>
+    cert. denied,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/U.S./469/824/">469 U.S. 824</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./105/101/">105 S.Ct. 101</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/83/46/">83 L.Ed.2d 46</a></span> (1984).
+  </p>
+</div></div></opinion>

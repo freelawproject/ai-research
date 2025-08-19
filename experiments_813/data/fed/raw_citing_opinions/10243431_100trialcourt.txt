@@ -1,0 +1,768 @@
+<pre class="inline">1                                                                            
+2                                                                            
+
+3                                                                            
+4                                                                            
+5                                                                            
+6                                                                            
+7                                                                            
+                     UNITED STATES DISTRICT COURT                            
+                   WESTERN DISTRICT OF WASHINGTON                            
+8                                                                            
+                              AT SEATTLE                                     
+
+9                                                                            
+10       RENEE VIVEROS, et al.,          CASE NO. C23-0925JLR                 
+11                      Plaintiffs,      ORDER                                
+             v.                                                              
+12                                                                            
+        AUDIBLE, INC.,                                                       
+13                                                                            
+                       Defendant.                                            
+14                                                                            
+
+15                         I.  INTRODUCTION                                   
+16       Before the court is Defendant Audible, Inc.’s (“Audible”) motion to dismiss 
+17  Plaintiffs Renee Viveros and Christine Bias’s (collectively, “Plaintiffs”) putative class 
+18  action complaint.  (Mot. (Dkt. # 22); Reply (Dkt. # 26).)  Plaintiffs oppose the motion.  
+19  (Resp. (Dkt. # 24).)  The court has considered the parties’ submissions, the relevant 
+20  //                                                                        
+21  //                                                                        
+22  //                                                                        
+1  portions of the record, and the governing law.  Being fully advised,1 the court GRANTS 
+2  Audible’s motion to dismiss.                                              
+
+3                         II.  BACKGROUND                                    
+4       Plaintiffs filed this action against Audible on May 26, 2023.  (See Compl. 
+5  (Dkt. # 1-2).)  They bring this putative class action on behalf of all persons who 
+6  (1) “enrolled in an Audible Subscription while in California, within the applicable statute 
+7  of limitations, up to and including the filing of this complaint, and who were 
+8  subsequently assessed an automatic renewal fee associated with their Audible 
+
+9  Subscription,” or (2) “attempted to cancel an Audible Subscription while in California 
+10  since July 1, 2022, and who were subsequently assessed an automatic renewal fee 
+11  associated with their Audible Subscription.”  (Id. ¶ 81.)  Plaintiffs raise claims 
+12  alleging:  (1) violations of the California Unfair Competition Law (“UCL”), California 
+13  Business and Professions Code § 17200 et seq.; (2) conversion; (3) violations of the 
+
+14  California Consumer Legal Remedies Act (“CLRA”), California Civil Code § 1750 et 
+15  seq.; and (4) “unjust enrichment/restitution.”  (Compl. ¶¶ 93-136 (capitalization altered).)  
+16  Plaintiffs’ UCL and CLRA claims, in turn, are based in part on Audible’s alleged 
+17  violations of California’s Automatic Renewal Law (“ARL”), California Business and 
+18  Professions Code § 17600 et seq.  (Id. ¶¶ 96, 123.)  Plaintiffs seek damages, restitution, 
+
+19  declaratory relief, private injunctive relief, and public injunctive relief.  (Id. at 49-50.)   
+20       The court describes the relevant factual background below.           
+
+21                                                                            
+        1  The parties request oral argument.  (See Mot. at 1; Resp. at 1.)  The court, however, 
+   concludes that oral argument would not be helpful to its disposition of the motion.  See Local 
+22                                                                            
+   Rules W.D. Wash. LCR 7(b)(4).                                             
+1  A.   Audible’s Subscription Enrollment and Cancellation Processes         
+2       Audible “is an international media company that produces and distributes 
+
+3  audiobooks, podcasts, and other similar media online via . . . a subscription-based 
+4  business model.”  (Id. ¶ 1.)  To attract new customers, Audible advertises 30-day “gift 
+5  trial[s],” which users may sign up for through audible.com, amazon.com, or Audible’s 
+6  mobile app.  (Id. ¶¶ 3, 11, 40; see also Mot. at 4.)  According to Plaintiffs, “[w]hen 
+7  consumers sign up for an Audible Product,” Audible “enrolls them into an . . . automatic 
+8  renewal subscription program.”  (Compl. ¶ 1.)                             
+
+9       The process any given customer uses to enroll in an Audible Subscription is 
+10  “substantially the same, regardless of the medium used and location of the consumer.”  
+11  (Id. ¶ 41.)  Before subscribing, customers must input their payment information on 
+12  Audible’s “Check Out” page.  (Id.)  The top of that page states in large, bold font, 
+13  “You’re in the home stretch for your 30-day, free trial!”  (Id. (screenshot of the 
+
+14  “Check Out” page) (emphasis in original).2)  To process the transaction, customers must 
+15  click a button at the bottom of the page labeled “Try for $0.00.”  (Compl. ¶ 41.)  
+16  Immediately above that button is a short paragraph, in a font the same size as the text 
+17  requesting information such as the customer’s name and credit card number, which reads 
+18  in its entirety:  “By clicking ‘Try for $0.00,’ you agree to our Conditions Of Use and 
+
+19  Amazon’s Privacy Notice and permit Audible to charge your default card or another card 
+20  on file.  Membership continues until cancelled for $14.95/mo. + taxes.  Cancel anytime 
+21                                                                            
+
+        2  (See also Buckley Decl. ¶ 2, Ex. 1 (Dkt. # 22-2) (higher-resolution image of the “Check 
+22                                                                            
+   Out page).)                                                               
+1  via Account Details.”  (Id. (emphasis in original).)  The phrases “Conditions Of Use” and 
+2  “Privacy Notice” appear as blue hyperlinks, meaning a customer who wants to review the 
+
+3  “complete Audible Subscription offer terms” before beginning their free trial must hover 
+4  over “Conditions Of Use” and click the hyperlink, which directs them to a different page. 
+5  (Id. ¶¶ 41, 52.)                                                          
+6       After subscribing, the customer receives “an email confirming . . . the purchase.”  
+7  (Id. ¶ 57.)  Plaintiffs allege this confirmation email does not describe Audible’s 
+8  “cancellation policy and how to cancel the Audible Subscription” or “the length of the 
+
+9  Audible Subscription as required by the ARL.”  (Id.)  Plaintiffs do not, however, quote 
+10  the emails in or attach them to their complaint or opposition brief.  (See generally id.; 
+11  Resp.)                                                                    
+12  B.   Plaintiff Renee Viveros                                              
+13       Ms. Viveros is a California resident who signed up for an Audible subscription 
+
+14  “on a gift trial basis” in January 2020.  (Compl. ¶ 62.)  Ms. Viveros “provided her Billing 
+15  Information directly to” Audible at the time she signed up.  (Id.)  She wanted to cancel 
+16  her subscription around December 2021, but she could not locate an “‘exclusively online’ 
+17  cancellation feature,” so she called Audible’s customer service for assistance.  (Id. ¶ 66.)  
+18  After speaking with a customer service representative, Ms. Viveros believed “she would 
+
+19  lose all of her downloaded audiobooks” if she cancelled, so she elected to pause her 
+20  subscription for three months.  (Id.)  Her subscription resumed in March 2022, and she 
+21  has remained an Audible subscriber “through the present.”  (Id. ¶¶ 65-66.)  Plaintiffs 
+22  allege that, had Ms. Viveros “been fully informed of Defendant’s Audible Subscription 
+1  offer terms, . . . she would not have been enrolled into the Audible Subscription in or 
+2  around January 2020.”  (Id. ¶ 67.)  Plaintiffs also allege that “Ms. Viveros would have 
+
+3  cancelled her Audible Subscription in December 2021” had Audible “fully disclosed 
+4  its . . . cancellation policies and procedures.”  (Id.)  Ms. Viveros “has yet been unable to 
+5  effectuate the cancellation of her Audible Subscription,” “continues to be charged” 
+6  (Resp. at 3), and, according to Plaintiffs, “remains at risk of further harm resulting from 
+7  Defendant’s continued non-compliance with the ARL” (Compl. ¶ 68).         
+8  C.   Plaintiff Christine Bias                                             
+
+9       Ms. Bias also subscribed to Audible “on a gift trial basis” “while residing in 
+10  California.”  (Compl. ¶ 71.)  She did so in May 2022, signing up through her “existing 
+11  Amazon Account” and receiving “a one-month free credit.”  (Id.)  Ms. Bias clicked 
+12  through the “Check Out” page to complete her subscription, and Audible “sent her an 
+13  email confirming her order.”  (Id. ¶¶ 72-73.)  Plaintiffs allege, however, that Audible did 
+
+14  not disclose to her the required terms of the subscription offer or Audible’s cancellation 
+15  policy and that Ms. Bias was “completely unaware that . . . she was engaging in an 
+16  automatic renewal of any kind.”  (Id. ¶ 72.)  After Ms. Bias’s free trial expired, Audible 
+17  charged her $14.95 each month until she “cancel[ed] her Audible Subscription in or 
+18  around December 2022.”  (Id. ¶ 77.)  Plaintiffs allege that “Ms. Bias would not have 
+
+19  consented to her initial ordered [sic] nor would she have consented to the Audible 
+20  Subscription” had she “received the complete Audible Subscription offer terms in the 
+21  manner mandated by the ARL.”  (Id.)                                       
+22  //                                                                        
+1                          III.  ANALYSIS                                    
+2       Audible moves to dismiss Plaintiffs’ entire complaint with prejudice pursuant to 
+
+3  Federal Rules of Civil Procedure 12(b)(6) and 12(b)(1).  (See generally Mot.; Reply.)  
+4  Audible argues that Plaintiffs’ complaint must be dismissed under Rule 12(b)(6) because 
+5  Plaintiffs fail to state plausible claims for relief with respect to their UCL, CLRA, 
+6  conversion, and unjust enrichment claims.  (See Mot. at 5-16.)  Audible further argues 
+7  that the court should dismiss Plaintiffs’ requests for restitution and injunctive relief 
+8  pursuant to Rule 12(b)(1) because Plaintiffs lack Article III standing to seek such relief.  
+
+9  (See id. at 17-18.)                                                       
+10       The court begins by discussing Audible’s arguments under Rule 12(b)(6). 
+11  A.   Rule 12(b)(6) Failure to State a Claim                               
+12       Federal Rule of Civil Procedure 12(b)(6) provides for dismissal of a complaint 
+13  upon the plaintiff’s “failure to state a claim upon which relief can be granted.”  Fed. R. 
+
+14  Civ. P. 12(b)(6).  A Rule 12(b)(6) dismissal may “be based on the lack of a cognizable 
+15  legal theory or the absence of sufficient facts alleged under a cognizable legal theory.”  
+16  Balistreri v. Pacifica Police Dep’t, </pre><span class="citation" data-id="9480248"><a href="/opinion/540085/jena-balistreri-v-pacifica-police-department-al-olsen-police-chief/#699" aria-description="Citation for case: Jena Balistreri v. Pacifica Police Department Al Olsen,...">901 F.2d 696, 699</a></span><pre class="inline"> (9th Cir. 1988).  A plaintiff’s 
+17  complaint must “contain sufficient factual matter, accepted as true, to ‘state a claim to 
+18  relief that is plausible on its face.’”  Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662, 678</a></span><pre class="inline"> (2009) (quoting 
+
+19  Bell Atl. Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 570</a></span><pre class="inline"> (2007)).  Although the pleading standard 
+20  announced by Federal Rule of Civil Procedure 8 does not require “detailed factual 
+21  allegations,” it demands more than “an unadorned, the-defendant-unlawfully-harmed-me 
+22  accusation.”  </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">Id.</a></span><pre class="inline"> (requiring the plaintiff to “plead[] factual content that allows the court to 
+1  draw the reasonable inference that the defendant is liable for the misconduct alleged” 
+2  (citing Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#556" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. at 556</a></span><pre class="inline">)); see also Fed. R. Civ. P. 8(a)(2).     
+
+3       When considering a Rule 12(b)(6) motion, the court takes the well-pleaded factual 
+4  allegations as true and views such allegations in the light most favorable to the plaintiff.  
+5  Wyler Summit P’ship v. Turner Broad. Sys., Inc., </pre><span class="citation multiple-matches"><a href="/c/F.3d/135/658/">135 F.3d 658</a></span><pre class="inline">, 661 (9th Cir. 1998).  The 
+6  court need not, however, accept as true a legal conclusion presented as a factual 
+7  allegation, Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. at 678</a></span><pre class="inline">, nor is the court required to accept as true “allegations 
+8  that are merely conclusory, unwarranted deductions of fact, or unreasonable inferences,” 
+
+9  Sprewell v. Golden State Warriors, </pre><span class="citation" data-id="7006046"><a href="/opinion/7100340/sprewell-v-golden-state-warriors/#988" aria-description="Citation for case: Sprewell v. Golden State Warriors">266 F.3d 979, 988</a></span><pre class="inline"> (9th Cir. 2001).  “In the event 
+10  dismissal is warranted, it is generally without prejudice, unless it is clear the complaint 
+11  cannot be saved by any amendment.”  Masuda v. Citibank, N.A., </pre><span class="citation" data-id="7226015"><a href="/opinion/7308112/masuda-v-citibank-na/" aria-description="Citation for case: Masuda v. Citibank, N.A.">38 F. Supp. 3d 1130</a></span><pre class="inline">, 
+12  1133 (N.D. Cal. 2014) (citing Sparling v. Daou, </pre><span class="citation" data-id="8409575"><a href="/opinion/8438896/sparling-v-daou/#1013" aria-description="Citation for case: Sparling v. Daou">411 F.3d 1006, 1013</a></span><pre class="inline"> (9th Cir. 2005)).  
+13       Below, the court resolves the parties’ dispute regarding the applicability of Rule 
+
+14  9(b)’s heightened pleading standard for claims sounding in fraud.  The court then 
+15  addresses the merits of Audible’s motion to dismiss, examining Plaintiffs’ UCL and 
+16  CLRA claims before turning to their conversion and unjust enrichment claims.   
+17       1.  Rule 9(b)’s Heightened Pleading Standard                         
+18       Federal Rule of Civil Procedure 9(b) provides that, “[i]n alleging fraud or mistake, 
+
+19  a party must state with particularity the circumstances constituting fraud or mistake.”  
+20  Fed. R. Civ. P. 9(b).  “The purpose of this rule is to ensure that defendants accused of the 
+21  conduct specified have adequate notice of what they are alleged to have done, so that they 
+22  may defend against the accusations.”  Concha v. London, </pre><span class="citation" data-id="6935792"><a href="/opinion/7033447/concha-v-london/#1502" aria-description="Citation for case: Concha v. London">62 F.3d 1493, 1502</a></span><pre class="inline"> (9th Cir. 
+1  1995).  To meet this standard, “[t]he complaint must specify such facts as the times, 
+2  dates, places, benefits received, and other details of the alleged fraudulent activity.”  In re 
+
+3  Finjan Holdings, Inc. Secs. Litig., </pre><span class="citation no-link">58 F.4th 1048</span><pre class="inline">, 1057 (9th Cir. 2023) (quoting 
+4  Neubronner v. Milken, </pre><span class="citation" data-id="654272"><a href="/opinion/654272/d-neubronner-v-michael-r-milken/#672" aria-description="Citation for case: D. Neubronner v. Michael R. Milken">6 F.3d 666, 672</a></span><pre class="inline"> (9th Cir. 1993)).                   
+5       Audible argues Plaintiffs’ claims “are all subject to the heightened pleading 
+6  requirements of Rule 9(b)” because their “claims sound in fraud.”  (Mot. at 6.)  As 
+7  Audible points out, the Ninth Circuit has “specifically ruled that Rule 9(b)’s heightened 
+8  pleading standards apply to claims for violations of the CLRA and UCL.”  Kearns v. 
+
+9  Ford Motor Co., </pre><span class="citation" data-id="1208595"><a href="/opinion/1208595/kearns-v-ford-motor-co/#1125" aria-description="Citation for case: Kearns v. Ford Motor Co.">567 F.3d 1120, 1125</a></span><pre class="inline"> (9th Cir. 2009) (citing Vess v. Ciba-Geigy Corp. 
+10  USA, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1102" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d 1097, 1102-05</a></span><pre class="inline"> (9th Cir. 2003)).  The Ninth Circuit has determined that, 
+11  “where fraud is not a necessary element of a claim” but the plaintiff “allege[s] a unified 
+12  course of fraudulent conduct” that forms “the basis of [the plaintiff’s] claim,” “the claim 
+13  is said to be ‘grounded in fraud’ . . . and the pleading of that claim as a whole must 
+
+14  satisfy the particularity requirement of Rule 9(b).”  Vess, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1103" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d at 1103-04</a></span><pre class="inline">.   
+15       Plaintiffs respond that Rule 9(b)’s heightened pleading requirements do not apply 
+16  because their “claims are premised on Defendant’s unlawful practices, not fraud.”  (Resp. 
+17  at 5 (emphasis in original).)  The court is not persuaded.  “Where an ‘unlawful’ claim 
+18  sounds in fraud, it too must meet Rule 9(b)’s pleading standards.”  Aerojet Rocketdyne, 
+
+19  Inc. v. Glob. Aerospace, Inc., No. 2:17-cv-01515-KJM-AC, </pre><span class="citation no-link">2020 WL 3893395</span><pre class="inline">, at *6 
+20  (E.D. Cal. July 10, 2020) (citing Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074</a></span><pre class="inline">, 
+21  1094 (N.D. Cal. 2017)).  “Fraud can be averred by specifically alleging fraud, or by 
+22  //                                                                        
+1  alleging acts that necessarily constitute fraud (even if the word ‘fraud’ is not used).”  
+2  Vess, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1105" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d at 1105</a></span><pre class="inline">.                                                   
+
+3       Here, although Plaintiffs insist that their claims are premised on unlawful, not 
+4  fraudulent, conduct (Resp. at 5), they allege that Audible (1) acted “knowingly, willfully, 
+5  and with oppression, fraud, and/or malice” (Compl. ¶ 115); (2) deployed “an artifice 
+6  devised . . . to lure thousands of consumers[,] bilking them for unauthorized and 
+7  unwanted monthly fees” (id. ¶ 29); and (3) engaged in “acts, omissions,   
+8  nondisclosures, . . . misleading statements” and “misrepresentations” that were “intended 
+
+9  to deceive Plaintiffs and the Class” (id. ¶¶ 102, 122, 124).  These allegations sound in 
+10  fraud and are therefore subject to Rule 9(b).  See Aerojet, </pre><span class="citation no-link">2020 WL 3893395</span><pre class="inline">, at *3 
+11  (finding that Rule 9(b) applied to “the entirety of [the plaintiff’s] UCL claim” where the 
+12  plaintiff alleged “malice, oppression and/or fraud”); Durgan v. U-Haul Int’l Inc., No. 
+13  CV-22-01565-PHX-MTL, </pre><span class="citation no-link">2023 U.S. Dist. LEXIS 131177</span><pre class="inline"> at *24, *28 (D. Ariz. July 27, 
+
+14  2023) (noting that the plaintiffs’ argument that Rule 9(b) should not apply to the unfair 
+15  prong “ignore[d] the words appearing in their [c]omplaint” that “constitute[d] de facto 
+16  averments of fraud” (citing Vess, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1105" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d at 1105</a></span><pre class="inline">)); Chong v. Nestlé Waters N. Am., 
+17  Inc., No. CV 19-10901-DMG (KSx), </pre><span class="citation no-link">2020 WL 7690175</span><pre class="inline">, at *5 (C.D. Cal. Nov. 30, 2020) 
+18  (holding allegations of “misrepresentation” “sound[ed] in fraud”).  Because all of 
+
+19  Plaintiffs’ claims are rooted in Audible’s allegedly misleading and deceptive subscription 
+20  practices, the court finds that Plaintiffs’ “entire complaint . . . alleges a unified course of 
+21  fraudulent conduct” and is therefore “grounded in fraud.”  Vess, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1108" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d at 1108</a></span><pre class="inline">. 
+22  //                                                                        
+1       Accordingly, Rule 9(b)’s heightened pleading standard applies to the entirety of 
+2  Plaintiffs’ complaint.                                                    
+
+3       2.  Plaintiffs’ UCL and CLRA Claims                                  
+4       Audible argues that Plaintiffs’ UCL and CLRA claims, which are primarily 
+5  premised on Audible’s alleged violations of the ARL, must be dismissed because:  
+6  (a) Plaintiffs lack statutory standing; (b) Plaintiffs fail to allege any violation of the ARL; 
+7  (c) Plaintiffs fail to allege any UCL or CLRA violations independent of the ARL; and 
+8  (d) Plaintiffs fail to allege reliance, causation, or injury.  (See Mot. at 6-16; Reply at 2-9.)  
+
+9  The court addresses each of these arguments in turn.                      
+10         a.  Statutory Standing                                             
+11       The court concludes that Plaintiffs meet the statutory standing requirements with 
+12  respect to their UCL and CLRA claims based on Audible’s alleged failure to adequately 
+13  disclose its automatic renewal terms, obtain Plaintiffs’ affirmative consent to those terms, 
+
+14  or provide an appropriate acknowledgment.  Only Ms. Viveros, however, meets the 
+15  statutory standing requirements with respect to Plaintiffs’ UCL and CLRA claims based 
+16  on Audible’s alleged failure to provide an ARL-compliant subscription cancellation 
+17  mechanism.  Plaintiffs have not alleged facts sufficient to plausibly establish that Ms. 
+18  Bias has standing to bring such claims, and the court therefore DISMISSES her claims 
+
+19  concerning Audible’s cancellation mechanism.                              
+20       “The ARL doesn’t include a private right of action . . . [b]ut consumers may bring 
+21  claims to enforce the ARL under California’s Unfair Competition Law . . . and Consumer 
+22  Legal Remedies Act.”  Debono v. Cerebral Inc., No. 22-cv-03378-AGT, </pre><span class="citation no-link">2023 WL 
+1</span><pre class="inline">  300141, at *1 (N.D. Cal. Jan. 18, 2023).  Consequently, to bring claims premised on 
+2  violations of the ARL, “Plaintiffs must establish standing under [these] statutes.”  Zeller 
+
+3  v. Optavia, LLC, No. 22-cv-434-DMS-MSB, </pre><span class="citation no-link">2022 WL 17858032</span><pre class="inline">, at *9 (S.D. Cal. Dec. 
+4  22, 2022).  Standing under the UCL and CLRA requires a plaintiff “to (1) plead an 
+5  economic injury, and (2) show that the injury was caused by the challenged conduct.”  
+6  Rutter v. Apple Inc., No. 21-cv-04077-HSG, </pre><span class="citation no-link">2022 WL 1443336</span><pre class="inline">, at *4 (N.D. Cal. May 6, 
+7  2022).  An “economic injury” is one that results in “lost money or property.”  Hinojos v. 
+8  Kohl’s Corp., </pre><span class="citation" data-id="9506398"><a href="/opinion/868499/antonio-hinojos-v-kohls-corporation/#1104" aria-description="Citation for case: Antonio Hinojos v. Kohl&#x27;s Corporation">718 F.3d 1098, 1104</a></span><pre class="inline"> (9th Cir. 2013) (quoting Kwikset Corp. v. Superior 
+
+9  Ct., </pre><span class="citation" data-id="5452558"><a href="/opinion/5608107/kwikset-corp-v-superior-court/#885" aria-description="Citation for case: Kwikset Corp. v. Superior Court">246 P.3d 877, 885</a></span><pre class="inline"> (Cal. 2011)).  But “[i]t is not enough that a plaintiff lost money; to 
+10  have standing, there must be a causal link between the unlawful practice and the loss.”  
+11  Mayron v. Google LLC, </pre><span class="citation no-link">269 Cal. Rptr. 3d 86</span><pre class="inline">, 91 (Ct. App. 2020).           
+12       To establish causation, “the questions are twofold:  whether [the defendant’s] 
+13  failure to adequately disclose that [its subscription] plan would automatically renew each 
+
+14  month caused [the] plaintiff to spend money he otherwise would not have spent; or 
+15  alternatively, whether [the defendant’s] failure to provide an easy cancellation 
+16  mechanism caused [the] plaintiff to continue to spend money on a service he would have 
+17  discontinued.”  Id. at 92; see also Morrell v. WW Int’l, Inc., </pre><span class="citation no-link">551 F. Supp. 3d 173</span><pre class="inline">, 184 
+18  (S.D.N.Y. 2021) (standing to bring UCL claims based on alleged ARL violations requires 
+
+19  that the “allegedly defective disclosures caused [the plaintiffs] to spend money on 
+20  services [they] never intended to purchase”).  Thus, Plaintiffs can establish statutory 
+21  standing if they plead facts showing that they lost money and that their loss resulted from 
+22  either (1) Audible’s failure to adequately disclose the automatic renewals, or 
+1  (2) Audible’s failure to provide a compliant cancellation mechanism.  The court first 
+2  addresses statutory standing with respect to Plaintiffs’ claims premised on Audible’s 
+
+3  alleged failure to disclose, obtain consent to, or provide an acknowledgment of its 
+4  automatic renewal offer terms.  The court then considers whether Plaintiffs have standing 
+5  to bring their claims based on Audible’s alleged failure to provide an adequate 
+6  cancellation mechanism under the ARL.                                     
+7       First, Plaintiffs’ claims based on violations of Sections 17602(a)(1)-(3) stem from 
+8  allegations that they lost money due to Audible’s failure to adequately disclose the 
+
+9  automatic renewals.  Plaintiffs allege that they “would not have subscribed 
+10  to . . . Audible” “[h]ad Defendant fully and clearly disclosed the terms associated with 
+11  their Audible Subscription” and, as a result, were “charged for Audible Products.”  
+12  (Compl. ¶ 124.)  Ms. Viveros appears to have initially paid $14.95 to try Audible in 
+13  January 2020 (id. ¶ 62), but she “did not see . . . the automatic renewal offer terms” and 
+
+14  “would not have . . .  enrolled” had she known that Audible would “charge her Billing 
+15  Information for the Audible Products associated with the Audible Subscription” (id. 
+16  ¶¶ 63, 67).  Similarly, “Ms. Bias was completely unaware that . . . she was engaging in an 
+17  automatic renewal of any kind” and “did not see . . . the automatic renewal offer terms 
+18  associated with the Audible Subscription.”  (Id. ¶ 72.)  She “believed that her May 2022 
+
+19  order was a single, one-month, free transaction that would not automatically renew.”  (Id. 
+20  ¶ 75.)                                                                    
+21       Plaintiffs’ allegations plausibly demonstrate that, as a result of Audible’s 
+22  “defective disclosures,” they were “not aware that [their] subscription[s] would 
+1  automatically renew” and therefore “lost money” each month.  Morrell, </pre><span class="citation no-link">551 F. Supp. 3d 
+2</span><pre class="inline">  at 183.  Such allegations are sufficient to bring claims based on a defendant’s failure to 
+
+3  fully disclose, obtain consent to, or provide an adequate acknowledgment of its automatic 
+4  renewal offer terms.  Plaintiffs allege that they suffered a monetary loss as a result of 
+5  Audible’s deficient disclosures because they “would not have subscribed” had Audible 
+6  “fully and clearly disclosed the terms associated with their Audible Subscription.”  
+7  (Compl. ¶ 124); see also Zeller, </pre><span class="citation no-link">2022 WL 17858032</span><pre class="inline">, at *10 (finding statutory standing 
+8  where plaintiffs alleged that they were “enrolled . . . without their knowledge” and 
+
+9  “would not have purchased any products . . . or enrolled in recurring purchases” “had 
+10  they known they were being enrolled”).  Accordingly, Plaintiffs have standing to pursue 
+11  their UCL and CLRA claims concerning the sufficiency of Audible’s automatic renewal 
+12  offer terms, Plaintiffs’ consent to those terms, and the required acknowledgment.3   
+13       Second, Plaintiffs allege that they suffered injury cognizable under the UCL and 
+
+14  CLRA based on Audible’s alleged failure “to provide an immediately available and 
+15  ‘exclusively online’ cancellation mechanism.”  (Compl. ¶ 43; see also id. ¶ 96 (alleging 
+16  that Audible failed to provide consumers an adequate means “to terminate the automatic 
+17                                                                            
+        3  Audible asserts that the court need not take Plaintiffs’ allegations that Audible’s 
+18  conduct caused them harm as true due to several contradictions in the complaint.  (Mot. at 7-8.)  
+   For example, Plaintiffs state that compliant disclosures would have prevented their enrollment 
+19  but at the same time allege that they “did not see” the automatic renewal terms on the “Check 
+   Out” page.  (Compl. ¶¶ 63, 72.)  At this early stage in the proceedings, however, the court must 
+20  examine the complaint in the light most favorable to Plaintiffs.  Wyler Summit P’ship, 135 F.3d 
+   at 661.  The fact that Plaintiffs did not see the renewal terms on the enrollment page does not 
+   mean that they would not have seen disclosures that were clearer or more conspicuous, as 
+21                                                                            
+   Plaintiffs assert is required by the ARL.  See Rutter, </pre><span class="citation no-link">2022 WL 1443336</span><pre class="inline">, at *4-6 (concluding that 
+   the plaintiffs “met their burden of alleging the elements of standing” even though the complaint 
+22                                                                            
+   did “not allege that any of the [p]laintiffs even read the iCloud Terms and Conditions”).  
+1  renewal . . . in violation of . . . § 17602(d)(1)(A)-(B)”).)  Ms. Viveros “wanted to cancel 
+2  her Audible Subscription” in December 2021 but “did not know how to” do so because 
+
+3  Audible allegedly “did not provide that information to her.”  (Id. ¶ 66.)  Plaintiffs allege 
+4  that Ms. Viveros was not “made aware of an ‘exclusively online’ cancellation mechanism 
+5  in December 2021” and, had she known how to do so, “would have cancelled . . . then 
+6  instead of incurring additional and unauthorized monthly charges.”  (Id.)  These 
+7  allegations plausibly establish that Ms. Viveros suffered an economic harm, in the form 
+8  of monthly subscription fees, as a result of Audible’s alleged failure to provide an 
+
+9  ARL-complaint cancellation mechanism.  Accordingly, Ms. Viveros has standing to 
+10  bring her claims challenging the adequacy of Audible’s cancellation mechanism.  
+11       Plaintiffs, however, have not alleged facts plausibly demonstrating that Ms. Bias 
+12  suffered an economic loss due to the lack of an ARL-compliant cancellation mechanism, 
+13  and Ms. Bias therefore lacks standing to proceed with these claims.  Ms. Bias “was able 
+
+14  to cancel her Audible Subscription online” in December 2022 after “learn[ing] that her 
+15  initial order . . . automatically renew[ed].”  (Id. ¶¶ 76-77.)  Plaintiffs do not allege that 
+16  Ms. Bias incurred any economic losses as a result of an allegedly deficient cancellation 
+17  process.  (See id. ¶ 77 (“[A]lthough she was able to cancel her Audible Subscription[,] 
+18  . . . Ms. Bias was not provided with a one-step ‘prominently located’ cancellation button 
+
+19  or link . . . .”).)  Although Ms. Bias alleges that she “spent much time and energy 
+20  searching for . . . [the] cancellation button” (id. ¶ 76), Plaintiffs’ allegations of harm fall 
+21  short of the statutory requirements, which demand “an ‘economic injury,’” Rutter, 2022 
+</pre><span class="citation no-link">22  WL 1443336</span><pre class="inline">, at *4.                                                        
+1       In sum, the court concludes that Plaintiffs have alleged sufficient facts to “plead an 
+2  economic injury” and “show that the injury was caused by the challenged conduct” with 
+
+3  respect to their claims concerning Audible’s disclosures, Plaintiffs’ consent to the offer 
+4  terms, and the acknowledgment.  Rutter, </pre><span class="citation no-link">2022 WL 1443336</span><pre class="inline">, at *4.  Furthermore, 
+5  Plaintiffs have alleged sufficient facts for Ms. Viveros to pursue claims concerning 
+6  Audible’s cancellation mechanism.  Plaintiffs have not, however, alleged sufficient facts 
+7  to establish that Ms. Bias has standing to bring UCL and CLRA claims concerning the 
+8  cancellation mechanism.                                                   
+
+9       The court therefore DISMISSES Ms. Bias’s UCL and CLRA claims brought under 
+10  Section 17602(d) for lack of standing.                                    
+11         b.  ARL Violations                                                 
+12       Plaintiffs allege that Audible violated the ARL in four discrete ways:  (1) by 
+13  failing to fully disclose the complete Audible subscription offer terms, see Cal. Bus. &amp; 
+
+14  Prof. Code § 17602(a)(1); (2) by failing to obtain Plaintiffs’ affirmative consent to those 
+15  terms, see id. § 17602(a)(2); (3) by failing to provide an adequate acknowledgment of the 
+16  subscription offer terms, see id. § 17602(a)(3); and (4) by failing to provide an adequate 
+17  cancellation process, see id. § 17602(d).  Audible argues that the court must dismiss 
+18  Plaintiffs’ UCL and CLRA claims because Plaintiffs have failed to allege facts 
+
+19  demonstrating any violation of the ARL.  The court addresses these arguments in turn.  
+20  //                                                                        
+
+21  //                                                                        
+
+22  //                                                                        
+1            i.  Automatic Renewal Offer Terms                               
+2       Pursuant to ARL Section 17602(a)(1), ARL-compliant “[a]utomatic renewal offer 
+
+3  terms” must make “the following clear and conspicuous disclosures,” as defined by 
+4  Section 17601(b):                                                         
+5       (1) That the subscription or purchasing agreement will continue until the 
+        consumer cancels.                                                    
+6       (2) The description of the cancellation policy that applies to the offer. 
+        (3) The recurring charges that will be charged to the consumer’s credit or 
+7       debit card or payment account with a third party as part of the automatic 
+        renewal plan or arrangement, and that the amount of the charge may change, 
+8       if that is the case, and the amount to which the charge will change, if known. 
+        (4) The length of the automatic renewal term or that the service is continuous, 
+9       unless the length of the term is chosen by the consumer.             
+        (5) The minimum purchase obligation, if any.                         
+10                                                                            
+   Id. § 17601(b).  To comply with the statute, businesses must present these “terms in a 
+11                                                                            
+   clear and conspicuous manner before the subscription or purchasing agreement is 
+12                                                                            
+   fulfilled and in visual proximity . . . to the request for consent to the offer.”  Id. 
+13                                                                            
+   § 17602(a)(1).  If the offer “includes a free gift or trial,” it must “include a clear and 
+14                                                                            
+   conspicuous explanation of the price that will be charged after the trial ends or the 
+15                                                                            
+   manner in which the subscription or purchasing agreement pricing will change upon 
+16                                                                            
+   conclusion of the trial.”  Id.  The statute defines a “clear and conspicuous” disclosure as 
+17                                                                            
+   one “in larger type than the surrounding text, or in contrasting type, font, or color to the 
+18                                                                            
+   surrounding text of the same size, or set off from the surrounding text of the same size by 
+19                                                                            
+   symbols or other marks, in a manner that clearly calls attention to the language.”  Id. 
+20                                                                            
+   § 17601(c).  Audible argues that Plaintiffs fail to state any UCL or CLRA claims based 
+21                                                                            
+   //                                                                        
+22                                                                            
+1  on a violation of Section 17602(a)(1) because its enrollment page “plainly satisfies those 
+2  requirements.”  (Mot. at 9.)  The court agrees.                           
+
+3       Audible’s renewal offer on the “Check Out” page includes all of the required clear 
+4  and conspicuous disclosures.  The disclosures required by ARL Sections 17601(b)(1) and 
+5  (3)-(5) appear in the only underlined text on Audible’s enrollment page:  the language 
+6  above the “Try for $0.00” button stating that “Membership continues until cancelled for 
+7  $14.95/mo. + taxes.  Cancel anytime via Account Details.”  (Compl. ¶ 41 (emphasis in 
+8  original).)  This language makes clear (1) that subscribers must cancel to terminate the 
+
+9  membership; (2) the amount of each recurring monthly charge:  $14.95 plus taxes; 
+10  (3) that the membership is continuous until the subscriber cancels; and (4) that there is no 
+11  minimum purchase obligation, as subscribers may “[c]ancel anytime” during the free 
+12  trial.  (Compl. ¶ 41.)  The underlined text satisfies Section 17601(c)’s “clear and 
+13  conspicuous” requirement because it appears in a “contrasting type[ or] font . . . to the 
+
+14  surrounding text of the same size.”  See </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17601</span><pre class="inline">(c).  Several 
+15  disclosures are reiterated in a box in the upper left of the “Check Out” page, including the 
+16  amount of each monthly charge, that the charges begin after 30 days, and that there are 
+17  “[n]o commitments” and a subscriber may “[c]ancel anytime.”  (Compl. ¶ 41); see Cal. 
+18  Bus. &amp; Prof. Code § 17601(c) (stating that a disclosure is “clear and conspicuous” if it is 
+
+19  “set off from the surrounding text of the same size by symbols or other marks, in a 
+20  manner that clearly calls attention to the language”).                    
+21       The court also concludes that Audible’s description of its cancellation policy is 
+22  sufficient under ARL Section 17601(b)(1).  At least one court has held that disclosures of 
+1  cancellation policies under ARL Section 17601(b)(1) are adequate where the defendant’s 
+2  notice “provide[s] information about how and when [the plaintiff] could cancel, with 
+
+3  hyperlinks to the relevant contact information.”  Hall v. Time, No. SACV 19-01153-
+4  CJC(ADSx), </pre><span class="citation no-link">2020 WL 2303088</span><pre class="inline">, at *4 (C.D. Cal. Mar. 13, 2020), aff’d, </pre><span class="citation no-link">857 F. App’x 
+5</span><pre class="inline">  385 (9th Cir. 2021).  Here, the “Check Out” page informs the subscriber that they may 
+6  “[c]ancel anytime” by visiting “Account Details,” and the paragraph above this language 
+7  includes a blue hyperlink to Audible’s “Conditions Of Use,” which, according to 
+8  Plaintiffs, include Audible’s complete offer terms.  (Compl. ¶¶ 41-42, 52.)  These 
+
+9  disclosures satisfy the ARL’s requirement that renewal offer terms clearly and 
+10  conspicuously disclose the cancellation policy.  Moreover, Plaintiffs’ reliance on Lopez v. 
+11  Stages of Beauty, LLC, </pre><span class="citation" data-id="7247843"><a href="/opinion/7329927/lopez-v-stages-of-beauty-llc/" aria-description="Citation for case: Lopez v. Stages of Beauty, LLC">307 F. Supp. 3d 1058</a></span><pre class="inline"> (S.D. Cal. Feb. 9, 2018) is misplaced.  
+12  (Resp. at 10.)  In Lopez, “the only information regarding cancellation” in the disclosure 
+13  instructed subscribers “to call a particular phone number” and failed to mention that “the 
+
+14  subscriber . . . must call that phone number at least one day prior to . . . the next monthly” 
+15  installment.  </pre><span class="citation" data-id="7247843"><a href="/opinion/7329927/lopez-v-stages-of-beauty-llc/#1071" aria-description="Citation for case: Lopez v. Stages of Beauty, LLC">307 F. Supp. 3d at 1071</a></span><pre class="inline">.  Here, in contrast, Audible’s disclosure informs 
+16  users that they may cancel anytime online through the Account Details portion of their 
+17  profile, and that is exactly what Ms. Bias did.  (See Compl. ¶¶ 41, 77.)    
+18       In sum, Plaintiffs do not plausibly allege that Audible failed to clearly and 
+
+19  conspicuously disclose its automatic renewal offer terms in violation of Section 
+20  17602(a)(1).  Plaintiffs’ allegations fall short of satisfying the requirements of Rule 8(a) 
+21  and Rule 9(b) in light of the clear and conspicuous disclosures on Audible’s enrollment 
+22  //                                                                        
+1  page.  The court therefore DISMISSES Plaintiffs’ UCL and CLRA claims based on 
+2  violations of Section 17602(a)(1) related to Audible’s automatic renewal offer terms.   
+
+3            ii.  Affirmative Consent                                        
+4       Section 17602(a)(2) of the ARL prohibits companies from “[c]harg[ing] the 
+5  consumer’s credit or debit card . . . for an automatic renewal or continuous service 
+6  without first obtaining the consumer’s affirmative consent to the agreement containing 
+7  the automatic renewal offer terms.”  </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17602</span><pre class="inline">(a)(2).  Plaintiffs 
+8  argue that “affirmative consent” requires something akin to “a separate checkbox for the 
+
+9  automatic renewal.”  (Resp. at 14.)  The court disagrees.  Affirmative consent requires 
+10  that “[d]efendants conspicuously disclose[] their renewal polic[ies] in plain language.”  
+</pre><span class="citation no-link">11  Hall, 2020</span><pre class="inline"> WL 2303088, at *4.  It does not, however, require a separate checkbox 
+12  indicating consent to the automatic renewal terms.  See id.; see also Cal. Bus. &amp; Prof. 
+13  Code § 17602(a)(2) (making no reference to the need for a checkbox or other means to 
+
+14  indicate affirmative consent separate from the ordering process).  In Hall, the district 
+15  court held that the “[p]laintiff affirmatively consented to the agreement containing [the 
+16  automatic renewal] terms by entering her payment information and submitting her order 
+17  after receiving notice of those terms.”  </pre><span class="citation no-link">2020 WL 2303088</span><pre class="inline">, at *4.  The Ninth Circuit 
+18  affirmed, rejecting the plaintiff’s argument that Section 17602(a)(2) requires “a 
+
+19  consumer’s affirmative consent to the automatic renewal offer terms, separate from and 
+20  in addition to ‘the agreement containing [such] automatic renewal offer terms.’”  Hall v. 
+21  Time, Inc., </pre><span class="citation no-link">857 F. App’x 385</span><pre class="inline">, 386 (9th Cir. 2021); accord Walkingeagle v. Google LLC, 
+22  No. 3:22-cv-00763-MO, </pre><span class="citation no-link">2023 WL 3981334</span><pre class="inline">, at *5 (D. Or. June 12, 2023) (interpreting 
+1  nearly identical language in Oregon’s ARL and holding that “affirmative consent” only 
+2  requires that the “consumer [be] presented with the automatic renewal terms in a clear 
+
+3  and conspicuous manner before having the option to start the trial”).  In particular, the 
+4  Ninth Circuit described the plaintiff’s argument that the ARL requires “a consumer’s 
+5  affirmative consent to the automatic renewal terms specifically,” rather than the 
+6  agreement in general, as “extra-textual” and in contravention to “California’s principles 
+7  of statutory interpretation.”  Hall, 857 F. App’x at 386-87.              
+8       Here, the court has already concluded that Audible satisfied its disclosure 
+
+9  obligations.  (See supra § (III)(A)(2)(b)(i).)  Thus, Plaintiffs affirmatively consented to 
+10  “the agreement containing the automatic renewal offer terms” when they visited the 
+11  “Check Out” page, entered their billing information, and clicked the “Try for $0.00” 
+12  button.  Hall, </pre><span class="citation no-link">2020 WL 2303088</span><pre class="inline">, at *4.  Indeed, Plaintiffs themselves expressly allege 
+13  that “Defendant’s ‘Check Out’ page . . . requests consent to the automatically renewing 
+
+14  Audible Subscriptions.”  (Compl. ¶ 54.)  Thus, the court concludes that Audible obtained 
+15  Plaintiffs’ affirmative consent as required by ARL Section 17602(a)(2).     
+16       To support their position to the contrary, Plaintiffs cite several unpublished 
+17  California Superior Court cases.4  (See Resp. at 14-15.)  All three of those orders, 
+18  however, represent the courts’ entry of final judgments and injunctions pursuant to 
+
+19  stipulations entered into by the State of California and the defendants in those cases.  (See 
+20                                                                            
+
+21                                                                            
+        4 All three such cases are unpublished California Superior Court orders, which carry 
+   minimal persuasive value and cannot be “cited or relied upon” in California courts.  See Lebrilla 
+22                                                                            
+   v. Farmers Grp., Inc., </pre><span class="citation" data-id="2292129"><a href="/opinion/2292129/lebrilla-v-farmers-group-inc/#31" aria-description="Citation for case: Lebrilla v. Farmers Group, Inc.">16 Cal. Rptr. 3d 25, 31</a></span><pre class="inline"> (Ct. App. 2004); see also Cal. R. Ct. 8.1115(a).   
+1  Solomon Decl. (Dkt. # 25) ¶ 3, Exs. 2-4.)  None of those orders cite or purport to 
+2  interpret Section 17602(b).  (See generally id.)  Plaintiffs also cite the Southern District 
+
+3  of California’s decision in Turnier v. Bed Bath &amp; Beyond Inc., </pre><span class="citation no-link">517 F. Supp. 3d 1132</span><pre class="inline">, 
+4  1140 (S.D. Cal. 2021), asserting that “the court in Turnier rejected the same argument 
+5  Defendant makes here.”  (Resp. at 15.)  Plaintiffs, however, mischaracterize Turnier by 
+6  quoting a portion of the district court’s discussion concerning Section 17602(a)(1) while 
+7  omitting the court’s holding that there were “insufficient factual allegations to show 
+8  Defendant did not comply with” Section 17602(a)(2)’s affirmative consent requirement.  
+
+9  517 F. Supp. 3d at 1140.                                                  
+10       Accordingly, the court DISMISSES Plaintiffs’ UCL and CLRA claims based on 
+11  violations of ARL Section 17602(a)(2) related to affirmative consent.     
+12            iii. Required Acknowledgment                                    
+13       ARL Section 17602(a)(3) makes it unlawful to “[f]ail to provide an   
+
+14  acknowledgment that includes the automatic renewal offer terms or continuous service 
+15  offer terms, cancellation policy, and information regarding how to cancel in a manner 
+16  that is capable of being retained by the consumer.”  Cal. Bus. &amp; Prof. Code 
+17  § 17602(a)(3).  “If the automatic renewal offer or continuous service offer includes a free 
+18  gift or trial, the business shall also disclose in the acknowledgment how to cancel, and 
+
+19  allow the consumer to cancel, the automatic renewal or continuous service before the 
+20  consumer pays for the goods or services.”  Id.  Section 17602(a)(3)’s acknowledgment 
+21  requirement may be fulfilled “prior to the completion of the initial order” or “after 
+22  completion of the initial order.”  See id. § 17602(f)(1).                 
+1       Plaintiffs focus their argument on the confirmation emails Audible sends after 
+2  customers complete their subscription purchase.  (Resp. at 17; see Compl. ¶ 57.)  In 
+
+3  particular, Plaintiffs allege that Audible’s confirmation emails fail to comply with Section 
+4  17602(a)(3) because they do not “provide the complete Audible Subscription offer terms, 
+5  cancellation policy, and information regarding cancellation policies in a manner that is 
+6  capable of being retained by the consumer.”  (Compl. ¶ 59; see also id. ¶ 64 (“Ms. 
+7  Viveros’s Confirmation Email did not provide the complete automatic renewal terms that 
+8  applied to the Audible Subscription in a manner that included a full description of 
+
+9  Defendant’s cancellation policy, how Ms. Viveros can cancel her Audible Subscription, 
+10  or the precise length of Defendant’s Audible Subscription renewal term.”).)  Plaintiffs do 
+11  not, however, provide screenshots of the emails, quote the emails, or otherwise describe 
+12  the contents of the emails.  The court concludes that Plaintiffs’ allegations fall short of 
+13  satisfying Rule 9(b), which “requires particularity,” Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#686" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. at 686</a></span><pre class="inline">, and Rule 
+
+14  8(a)(2), which “demands more than an unadorned, the-defendant-unlawfully-harmed-me 
+15  accusation” consisting of “labels of conclusions,” </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/" aria-description="Citation for case: Ashcroft v. Iqbal">id.</a></span><pre class="inline"> at 678 (quoting Twombly, </pre><span class="citation" data-id="9435104"><a href="/opinion/145747/watters-v-wachovia-bank-n-a/#555" aria-description="Citation for case: Watters v. Wachovia Bank, N. A.">550 U.S. 
+16  at 555</a></span><pre class="inline">).                                                                  
+17       Because Plaintiffs’ allegations concerning Audible’s confirmation emails “tender[] 
+18  ‘naked assertion[s]’ devoid of ‘further factual enhancement,’” </pre><span class="citation" data-id="9435104"><a href="/opinion/145747/watters-v-wachovia-bank-n-a/" aria-description="Citation for case: Watters v. Wachovia Bank, N. A.">id.</a></span><pre class="inline"> (quoting Twombly, 550 
+
+19  U.S. at 557), the court DISMISSES Plaintiffs’ UCL and CLRA claims based on 
+20  violations of ARL Section 17602(a)(3).                                    
+21  //                                                                        
+
+22  //                                                                        
+1            iv. Sufficiency of Audible’s Cancellation Process               
+2       Because Ms. Bias lacks standing to challenge the sufficiency of Audible’s 
+
+3  cancellation mechanism, the court’s analysis is limited to evaluating Ms. Viveros’s 
+4  allegations.  The court concludes that Ms. Viveros fails to state a plausible claim for 
+5  relief.                                                                   
+6       Section 17602(d)(1) of the ARL requires that businesses “allow a consumer to 
+7  terminate the automatic renewal or continuous service exclusively online” and to 
+8  “provide a method of termination that is online in the form of either” (A) “[a] 
+
+9  prominently located direct link or button which may be located within either a customer 
+10  account or profile,” or (B) “[b]y an immediately accessible termination email formatted 
+11  and provided by the business that a consumer can send to the business without additional 
+12  information.”  </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17602</span><pre class="inline">(d)(1)(A)-(B).  Importantly, Section 
+13  17602(d) went into effect on July 1, 2022.  Ms. Viveros does not allege a plausible 
+
+14  violation of Section 17602(d) because, as Audible points out, she “alleges only that she 
+15  tried to cancel her membership a single time in December 2021.”  (Mot. at 13 (citing 
+16  Compl. ¶ 66) (emphasis in original)); see also Hall, </pre><span class="citation no-link">2020 WL 2303088</span><pre class="inline">, at *5 (holding a 
+17  claim brought under a portion of the ARL that “was not added to the [statute] until after 
+18  the parties executed the agreement . . . fail[ed] as a matter of law” (emphasis in original)).  
+
+19  Plaintiffs’ complaint is devoid of any factual allegations suggesting that Ms. Viveros has 
+20  attempted to cancel her membership since Section 17602(d) took effect.  (See Compl. 
+21  ¶¶ 62-68 (alleging facts relating to Ms. Viveros’s experience with Audible).)  The court 
+22  also agrees with Audible that Ms. Viveros has not alleged any violation of the ARL as it 
+1  existed when she allegedly tried to cancel her membership in 2021.  (See Mot. at 13.)  
+2  Accordingly, the court concludes that Ms. Viveros has failed to allege facts sufficient to 
+
+3  state a plausible claim for relief concerning Audible’s cancellation mechanism and 
+4  DISMISSES Ms. Viveros’s UCL and CLRA claims based on violations of ARL Section 
+5  17602(d).                                                                 
+6         c.  UCL or CLRA Violations Independent of the ARL                  
+7       Audible next seeks dismissal of Plaintiffs’ UCL and CLRA claims to the extent 
+8  they are premised on conduct independent of the ARL.  (Mot. at 14-15.)  Audible argues 
+
+9  that Plaintiffs allege no facts to support their allegations that Audible engaged in various 
+10  misrepresentations, false representations, and unlawful practices beyond the facts 
+11  underlying Plaintiffs’ claims based on the ARL.  (Id. at 14 (quoting Compl. ¶¶ 99, 122).)   
+12       Plaintiffs do not respond to this argument.  (See generally Resp.)  Thus, they have 
+13  conceded Audible’s point.  See Carvalho v. Equifax Info. Servs., LLC, </pre><span class="citation" data-id="8411833"><a href="/opinion/8440856/carvalho-v-equifax-information-services-llc/" aria-description="Citation for case: Carvalho v. Equifax Information Services, LLC">629 F.3d 876</a></span><pre class="inline">, 888 
+
+14  (9th Cir. 2010) (“A plaintiff who makes a claim . . . in his complaint, but fails to raise the 
+15  issue in response to a defendant’s motion to dismiss . . . has effectively abandoned his 
+16  claim, and cannot raise it on appeal.” (quoting Walsh v. Nev. Dept’ of Human Res., 471 
+</pre><span class="citation" data-id="9843133"><a href="/opinion/664111/esther-marcus-v-donna-e-shalala-secretary-of-health-and-human-services/#1037" aria-description="Citation for case: Esther Marcus v. Donna E. Shalala, Secretary of Health...">17  F.3d 1033, 1037</a></span><pre class="inline"> (9th Cir. 2006))); see also Greenawalt v. Ricketts, </pre><span class="citation" data-id="8994100"><a href="/opinion/9001553/greenawalt-v-ricketts/" aria-description="Citation for case: Greenawalt v. Ricketts">943 F.2d 1020</a></span><pre class="inline">, 1027 
+18  (9th Cir. 1991) (noting that a “failure to argue the issue” results in “conce[ssion]”).  
+
+19  Accordingly, the court DISMISSES Plaintiffs’ UCL and CLRA claims based on conduct 
+20  independent of Audible’s alleged violations of the ARL.                   
+21  //                                                                        
+22  //                                                                        
+1       3.  Plaintiffs’ Conversion and Unjust Enrichment Claims              
+2       Audible argues that “Plaintiffs’ claims for conversion and ‘unjust   
+
+3  enrichment/restitution’ are duplicative of their ARL-predicated claims and fail for the 
+4  same reasons.”  (Mot. at 16; see also Compl. ¶¶ 110, 130.)  Plaintiffs confirm that their 
+5  conversion and unjust enrichment/restitution claims are based on Audible’s alleged 
+6  violations of the ARL and provide no other bases for these claims.  (Resp. at 20.)   
+7       Because the court concludes that Plaintiffs have not adequately alleged any 
+8  violations of the ARL, Plaintiffs’ claims for conversion and unjust enrichment/restitution 
+
+9  are DISMISSED.                                                            
+10  B.   Standing to Seek Restitution and Injunctive Relief                   
+11       Because the court dismisses all of Plaintiffs’ claims pursuant to Rule 12(b)(6), the 
+12  court need not consider Audible’s argument that, “[p]ursuant to Rule 12(b)(1), the [c]ourt 
+13  should dismiss Plaintiffs’ claims for restitution and injunctive relief for lack of 
+
+14  subject-matter jurisdiction because Plaintiffs have no standing.”  (Mot. at 17.)  
+15  Accordingly, the court DENIES Audible’s motion to dismiss Plaintiffs’ claims for 
+16  restitution and injunctive relief as moot.                                
+17  C.   Leave to Amend                                                       
+18       On a Rule 12(b)(6) motion, “a district court should grant leave to amend even if no 
+
+19  request to amend the pleading was made, unless it determines that the pleading could not 
+20  possibly be cured by the allegation of other facts.”  Cook, Perkiss &amp; Liehe, Inc. v. N. Cal. 
+21  Collection Serv., Inc., </pre><span class="citation multiple-matches"><a href="/c/F.2d/911/242/">911 F.2d 242</a></span><pre class="inline">, 247 (9th Cir. 1990).  Where “amendment would be 
+22  //                                                                        
+1  futile,” the “district court does not err in denying leave to amend.”  DeSoto v. Yellow 
+2  Freight Sys., Inc., </pre><span class="citation" data-id="578335"><a href="/opinion/578335/john-desoto-v-yellow-freight-systems-inc/#658" aria-description="Citation for case: John Desoto v. Yellow Freight Systems, Inc.">957 F.2d 655, 658</a></span><pre class="inline"> (9th Cir. 1992).                    
+
+3       Plaintiffs ask the court to grant them leave to amend their complaint, but they fail 
+4  to identify the additional facts they would plead or otherwise explain why the court 
+5  should grant leave to amend.  (Resp. at 25.)  The court GRANTS in part and DENIES in 
+6  part Plaintiffs’ request for leave to amend.                              
+7       The court concludes that amendment of Plaintiffs’ UCL and CLRA claims based 
+8  on ARL Sections 17602(a)(1)-(2), as well as any alleged violations of the UCL or CLRA 
+
+9  independent of the ARL, would be futile for three reasons.  First, Audible’s enrollment 
+10  page contains the required automatic renewal offer terms in clear and conspicuous text.  
+11  (See supra § (III)(A)(2)(b)(i).)  Plaintiffs allege that they both reviewed pages that were 
+12  “substantively the same as the image” the court reviewed, and thus they cannot allege 
+13  new and different facts that would overcome dismissal.  (Compl. ¶¶ 63, 72.)  Second, 
+
+14  Plaintiffs’ affirmative consent argument relies on an “extra-textual” reading of the ARL, 
+15  which the court declines to adopt.  See Hall, 857 F. App’x at 386.  The statute merely 
+16  requires that Audible conspicuously disclose its renewal policy in plain language before a 
+17  customer subscribes, and the “Check Out” page Plaintiffs visited does just that.  (See 
+18  supra § (III)(A)(2)(b)(ii).)  Third, by failing to respond to Audible’s argument that any 
+
+19  alleged UCL or CLRA violations independent of their ARL-predicated claims fail to state 
+20  a claim, Plaintiffs have conceded the issue.  (See supra § (III)(A)(2)(c).)  Therefore, the 
+21  court DENIES Plaintiffs leave to amend these claims.                      
+22  //                                                                        
+1       It is possible, however, that Plaintiffs could cure their UCL and CLRA claims 
+2  based on ARL Sections 17602(a)(3) and 17602(d).  For example, Plaintiffs might be able 
+
+3  to allege facts sufficient to state a plausible claim that Audible’s confirmation email 
+4  failed to “include[] the automatic renewal offer terms or continuous service offer terms, 
+5  cancellation policy, and information regarding how to cancel,” and that Plaintiffs suffered 
+6  harm as a result in violation of Section 17602(a)(3).  Cal. Bus. &amp; Prof. Code 
+7  § 17602(a)(3).  Plaintiffs may also be able to plead facts sufficient to suggest that Ms. 
+8  Bias and Ms. Viveros suffered economic losses as a result of Audible’s cancellation 
+
+9  mechanism.  Because Plaintiffs may be able to cure the deficiencies in their UCL and 
+10  CLRA claims based on violations of ARL Sections 17602(a)(3) and 17602(d), the court 
+11  GRANTS Plaintiffs leave to amend these claims.                            
+12                        IV.  CONCLUSION                                     
+13       For the foregoing reasons, the court GRANTS Audible’s motion to dismiss (Dkt. 
+
+14  # 22).  The court DISMISSES Plaintiffs’ UCL and CLRA claims based on violations of 
+15  ARL Sections 17602(a)(1)-(2) and any UCL and CLRA claims arising independently of 
+16  the ARL with prejudice and without leave to amend.  The court DISMISSES Plaintiffs’ 
+17  UCL and CLRA claims based on violations of ARL Sections 17602(a)(3) and 17602(d) 
+18  without prejudice and with leave to amend.  To the extent Plaintiffs’ conversion and 
+
+19  unjust enrichment claims are based on violations of ARL Sections 17602(a)(1)-(2), they 
+20  are DISMISSED with prejudice and without leave to amend; to the extent such claims are 
+21  based on violations of ARL Sections 17602(a)(3) and 17602(d), the court GRANTS 
+22  Plaintiffs leave to amend these claims.  Plaintiffs may amend their complaint by no later 
+1  than November 10, 2023.  The court warns Plaintiffs that failure to timely file an 
+2  amended complaint that remedies the deficiencies identified above will result in the 
+
+3  dismissal of their entire complaint with prejudice.                       
+4        Dated this 20th day of October, 2023.                               
+                                       A                                     
+5                                                                            
+                                      JAMES L. ROBART                        
+6                                     United States District Judge           
+7                                                                            
+8                                                                            
+9                                                                            
+10                                                                            
+11                                                                            
+12                                                                            
+13                                                                            
+14                                                                            
+15                                                                            
+16                                                                            
+17                                                                            
+18                                                                            
+
+19                                                                            
+20                                                                            
+21                                                                            
+22                                                                            </pre>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b598-3">
+<span citation-index="1" class="star-pagination" label="550"> 
+   *550
+   </span>
+  CALKINS, J.
+ </author>
+<p id="b598-4">
+  [¶ 1] William J. Estabrook appeals from a judgment entered in Superior Court (Aroostook County,
+  <em>
+   Hunter, J.)
+  </em>
+  convicting him of unlawful trafficking in scheduled drugs (Class C), 17-A M.R.S. § 1103(1-A)(E) (2006), and unlawful possession of scheduled drugs (Class C), 17-A M.R.S. § 1107-A(1)(B)(3) (2006), to which he had entered conditional pleas of guilty. He argues that the court erred in relying on the good faith exception of
+  <em>
+   United States v. Leon,
+  </em>
+  <span class="citation" data-id="9429766"><a href="/opinion/111262/united-states-v-leon/" aria-description="Citation for case: United States v. Leon">468 U.S. 897</a></span>, <span class="citation" data-id="9429766"><a href="/opinion/111262/united-states-v-leon/" aria-description="Citation for case: United States v. Leon">104 S.Ct. 3405</a></span>, <span class="citation" data-id="9429766"><a href="/opinion/111262/united-states-v-leon/" aria-description="Citation for case: United States v. Leon">82 L.Ed.2d 677</a></span> (1984), to deny his motion to suppress evidence. We agree with the Superior Court that the seized evidence should not be suppressed, but we reach that conclusion on the ground that the affidavit supporting the search warrant sets forth probable cause for the issuance of the warrant. On that basis, we affirm the judgment.
+ </p>
+<p id="b598-5">
+  I. BACKGROUND
+ </p>
+<p id="b598-6">
+  [¶2] On November 15, 2005, an officer from the Maine Drug Enforcement Agency (MDEA) obtained a search warrant to search Estabrook’s residence in Ludlow. In executing the warrant, law enforcement officers seized a number of items, including a locked safe. When Estabrook declined to open the safe, another MDEA officer obtained a warrant to open the safe, and the officers seized items from the safe.
+ </p>
+<p id="b598-7">
+  [¶ 3] Following his indictment on the two drug charges, Estabrook moved to suppress the evidence obtained from the searches. Specifically, he alleged that the affidavit for the initial warrant “fail[ed] to state a date and time of the occurrences referred to by the Confidential Source.”
+ </p>
+<p id="b598-10">
+  [¶ 4] The Superior Court held a suppression hearing and issued a written decision denying the motion. The court agreed with Estabrook that the MDEA officer’s affidavit in support of the first warrant lacked probable cause because of the dearth of information about when the confidential source acquired his information or made his observations. However, the court found that the officer submitted the affidavit in good faith, and therefore, pursuant to
+  <em>
+   Leon,
+  </em>
+  <span class="citation" data-id="9429766"><a href="/opinion/111262/united-states-v-leon/" aria-description="Citation for case: United States v. Leon">468 U.S. 897</a></span>, <span class="citation" data-id="9429766"><a href="/opinion/111262/united-states-v-leon/" aria-description="Citation for case: United States v. Leon">104 S.Ct. 3405</a></span>, suppression was not required. Thereafter, Estabrook entered conditional guilty pleas to the two charges and noticed his appeal.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+</p>
+<p id="b598-11">
+  II. DISCUSSION
+ </p>
+<p id="b598-12">
+  [¶ 5] “When reviewing a denial of a motion to suppress, we review directly the finding of probable cause made by the magistrate who issued the warrant, affording great deference to the issuing magistrate.”
+  <em>
+   State v. Wright,
+  </em>
+  <span class="citation" data-id="1493880"><a href="/opinion/1493880/state-v-wright/#8" aria-description="Citation for case: State v. Wright">2006 ME 13, ¶ 8</a></span>, <span class="citation" data-id="1493880"><a href="/opinion/1493880/state-v-wright/#705" aria-description="Citation for case: State v. Wright">890 A.2d 703, 705</a></span>. We draw all reasonable inferences from the affidavit to support the finding of probable cause, and we limit our inquiry to whether there is a substantial basis for the finding of probable cause under the totality of the circumstances test.
+  <em>
+   State v. Diamond,
+  </em>
+  <span class="citation" data-id="9630243"><a href="/opinion/1438803/state-v-diamond/#1033" aria-description="Citation for case: State v. Diamond">628 A.2d 1032, 1033</a></span> (Me.1993). The totality of the circumstances test “requires a practical, common-sense decision whether, given all the circumstances set forth in the affidavit ... including the veracity and basis of knowledge of persons supplying hearsay information, there is a fair probability that
+  <span citation-index="1" class="star-pagination" label="551"> 
+   *551
+   </span>
+  contraband or evidence of a crime will be found in a particular place.”
+  <em>
+   Wright,
+  </em>
+  <span class="citation" data-id="1493880"><a href="/opinion/1493880/state-v-wright/#8" aria-description="Citation for case: State v. Wright">2006 ME 13, ¶ 8</a></span>, <span class="citation" data-id="1493880"><a href="/opinion/1493880/state-v-wright/#705" aria-description="Citation for case: State v. Wright">890 A.2d at 705</a></span> (quotation marks omitted). In determining probable cause, “[c]ourts must give the affidavit a positive reading and review the affidavit with all reasonable inferences that may be drawn to support the magistrate’s determination.”
+  <em>
+   State v. Rabon,
+  </em>
+  <span class="citation" data-id="9754604"><a href="/opinion/2330498/state-v-rabon/#22" aria-description="Citation for case: State v. Rabon">2007 ME 113, ¶ 22</a></span>, <span class="citation" data-id="9754604"><a href="/opinion/2330498/state-v-rabon/#276" aria-description="Citation for case: State v. Rabon">930 A.2d 268, 276</a></span> (quoting
+  <em>
+   State v. Higgins,
+  </em>
+  <span class="citation" data-id="2054479"><a href="/opinion/2054479/state-v-higgins/#20" aria-description="Citation for case: State v. Higgins">2002 ME 77, ¶ 20</a></span>, <span class="citation" data-id="2054479"><a href="/opinion/2054479/state-v-higgins/#56" aria-description="Citation for case: State v. Higgins">796 A.2d 50, 56</a></span>).
+ </p>
+<p id="b599-5">
+  [¶ 6] Estabrook contends that the MDEA officer did not have probable cause for the initial warrant. The affidavit signed by the MDEA officer contains numerous paragraphs, most of them detailing Estabrook’s history of drugs and encounters with police from 2001 to January 2005. However, the second numbered paragraph of the affidavit sets forth the recent information. The paragraph is quite lengthy as it includes the background of the confidential source as well as the information about Estabrook relayed by the source. We quote from the paragraph, but because the reliability of the source is not an issue, we delete from the paragraph several sentences attesting to the confidential source’s reliability.
+ </p>
+<blockquote id="b599-6">
+  2. I talked to a Confidential Source (CS) on November 15, 2005. This source is on probation for trafficking in scheduled drugs, and has a violation pending. CS provided information on others involved in drug trafficking hoping for a benefit from the judicial system on the probation violation. CS was released from jail and issued a summons to appear in court after he provided this information, in addition to other information on criminal activity not relevant to this investigation.... CS advised that Willie Estabrook in Ludlow has 15-20 pounds of marijuana in an ice shack behind his house. CS advised he had accompanied Travis McNinch to Esta-brook’s house. At this time McNinch received about 1 pound of marijuana from Estabrook, which was fronted to him. CS stated he did not leave the vehicle with McNinch. CS saw both McNinch and Estabrook walk out of site (sic) behind Estabrook’s residence. McNinch later advised CS that Esta-brook has what he estimated to be 15-20 pounds of marijuana in an ice shack out back of his residence. CS indicated that Estabrook has motion-sensing cameras in that area. CS said he smoked some of the marijuana and knew it was marijuana. A recent arrest report shows that CS was with Travis McNinch when McNinch was caught with drugs and a gun. CS said Scott Totten lives in the trailer next to Estabrook’s house, and sells marijuana from there. CS said he has bought marijuana directly from Es-tabrook in the past.
+ </blockquote>
+<p id="b599-8">
+  [¶ 7] “Probable cause exists when, based on the totality of the circumstances, there is a fair probability that contraband or evidence of a crime will be found in a particular place.”
+  <em>
+   State v. Samson,
+  </em>
+  <span class="citation" data-id="4963026"><a href="/opinion/5142881/state-v-samson/#12" aria-description="Citation for case: State v. Samson">2007 ME 33, ¶ 12</a></span>, <span class="citation" data-id="4963026"><a href="/opinion/5142881/state-v-samson/#981" aria-description="Citation for case: State v. Samson">916 A.2d 977, 981</a></span> (quotation marks omitted). Although the affidavit at issue in this case contains several pages about Estabrook’s history, that history in and of itself, would not provide probable cause for the issuance of the warrant. The historical paragraphs provide background and are part of the totality of the circumstances. Nonetheless, the history alone would not give a prudent person reason to believe that evidence of crimes or contraband exist in the place to be searched.
+ </p>
+<p id="b599-9">
+  [¶ 8] However, paragraph two of the affidavit, when read as it must be by a reviewing court with all reasonable inferences to be drawn in support of the finding of probable cause, is sufficient for the finding. It states that the affiant talked to the confi
+  <span citation-index="1" class="star-pagination" label="552"> 
+   *552
+   </span>
+  dential source on November 15, the same day that the affidavit was signed. The confidential source told the affiant that Estabrook
+  <em>
+   has
+  </em>
+  fifteen to twenty pounds of marijuana in a shack behind his house. The affidavit uses the present tense of the possessory verb “to have.” The present tense and the large quantity allow an inference that marijuana can be found currently in the shack. The affidavit goes on to state how the confidential source came to have this information and how he knew it was marijuana.
+ </p>
+<p id="b600-4">
+  [¶ 9] To be sure, the affidavit does not expressly state when the confidential source learned his information, and it is better practice for an affidavit to expressly provide the timeliness of the information upon which it relies. Still, given that the source’s reliability is not an issue in this case, this particular affidavit is sufficient because of the favorable inferences that can and should be drawn from paragraph two. Because probable cause existed for the issuance of the warrant, the court correctly denied the motion to suppress.
+ </p>
+<p id="b600-5">
+  The entry is:
+ </p>
+<p id="b600-6">
+  Judgment affirmed.
+ </p>
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b598-8">
+   . Estabrook also appeals the denial of his motion for an evidentiary hearing pursuant to
+   <em>
+    Franks v. Delaware,
+   </em>
+   <span class="citation" data-id="9427321"><a href="/opinion/109925/franks-v-delaware/" aria-description="Citation for case: Franks v. Delaware">438 U.S. 154</a></span>, <span class="citation" data-id="9427321"><a href="/opinion/109925/franks-v-delaware/" aria-description="Citation for case: Franks v. Delaware">98 S.Ct. 2674</a></span>, <span class="citation" data-id="9427321"><a href="/opinion/109925/franks-v-delaware/" aria-description="Citation for case: Franks v. Delaware">57 L.Ed.2d 667</a></span> (1978). His motion for a
+   <em>
+    <span class="citation" data-id="9427321"><a href="/opinion/109925/franks-v-delaware/" aria-description="Citation for case: Franks v. Delaware">Franks</a></span>
+   </em>
+   hearing states that the confidential source lied to the officer who signed the affidavit. Estabrook did not allege that the officer himself was untruthful or that the officer recklessly disregarded the truth. Our review of the record discloses that his argument on this issue is meritless, and we do not further discuss it.
+  </p>
+</div></div></opinion>

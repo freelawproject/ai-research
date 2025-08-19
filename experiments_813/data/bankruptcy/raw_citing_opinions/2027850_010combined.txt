@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b652-18">
+  OPINION AND ORDER
+ </p>
+<author id="b652-19">
+  ROBERT G. MOOREMAN, Bankruptcy Judge.
+ </author>
+<p id="b652-20">
+  The debtor in the instant case, Lorretta Joyce Taylor, is legally divorced from her husband. She was awarded custody of her minor child under the Decree of Dissolution and now regularly receives $107.50 monthly in child support from her former husband to devote towards the payment of debts and living expenses relating to the support of the child. These payments constitute her sole source of income; however, it appears from the record that she resides with relatives and is not otherwise obligated to pay room and board thereby enabling her to devote a fixed portion of the monthly support payments to the funding of a Chapter 13 plan.
+ </p>
+<p id="b652-21">
+  On September 18, 1981, the debtor filed a petition for relief under Chapter 13 of the Bankruptcy Code. The only issue before this court was raised by the trustee at the confirmation hearing, that is, whether an individual debtor receiving child support payments as a sole source of income is eligible for Chapter 13 relief. In confirming the plan, the court holds herein that regular child support payments constitute
+  <em>
+   regular income
+  </em>
+  as contemplated under <span class="citation no-link">11 U.S.C. § 101</span>(24) of the Bankruptcy Code.
+ </p>
+<p id="b652-22">
+  In order to qualify for Chapter 13 relief, the Bankruptcy Code requires under <span class="citation no-link">11 U.S.C. § 109</span>(e) that a debtor must be an individual:
+ </p>
+<blockquote id="b652-23">
+  .. . with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $100,000 and noncontin-gent, liquidated, secured debts of less than $350,000, . . .
+ </blockquote>
+<p id="b652-24">
+  An “individual with regular income” is defined in <span class="citation no-link">11 U.S.C. § 101</span>(24) as:
+ </p>
+<blockquote id="b653-4">
+<span citation-index="1" class="star-pagination" label="597"> 
+   *597
+   </span>
+  . .. [one] whose income is sufficiently stable and regular to enable such individual to make payments under a plan under Chapter 13 of this title, other than a stockbroker or a commodity broker; . . .
+ </blockquote>
+<p id="b653-5">
+  As a result of these statutory provisions, the court’s determination must focus on whether Sec. 101(24) of the Bankruptcy Code contemplates the inclusion of child support payments as “regular income.” The answer to this question has been held to be in essence a determination as to whether or not the Bankruptcy Court has jurisdiction to entertain the debtor’s petition under Chapter 13.
+  <em>
+   In re Mozer,
+  </em>
+  <span class="citation" data-id="1975684"><a href="/opinion/1975684/in-re-mozer/" aria-description="Citation for case: In Re Mozer">1 B.R. 350</a></span> (Bkrtcy.D.Colo.1979).
+ </p>
+<p id="b653-6">
+  The new Bankruptcy Code, effective October 1, 1979, relaxed the rigid requirements of its predecessor in order to make Chapter 13 relief more widely available to individuals in need of its rehabilitative effects. As
+  <em>
+   Collier on Bankruptcy
+  </em>
+  suggests, the type or source of income is no longer a rigid criteria for determining a debtor’s eligibility to Chapter 13 relief.
+  <em>
+   Collier
+  </em>
+  states:
+ </p>
+<blockquote id="AsQ">
+  Section 101(24) permits access to chapter 13 by individuals with regular income, without regard to the type or source of their income. . . . Section 101(24) thus implements an important chapter 13 reform, by eliminating the income-source test as a barrier to rehabilitative relief. 5
+  <em>
+   Collier on Bankruptcy,
+  </em>
+  ¶ 1300.40[1] (15th Ed. 1979).
+ </blockquote>
+<p id="b653-8">
+  The Congressional intent to relax the eligibility standards for Chapter 13 relief under the Bankruptcy Code was noted in the case of
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (Bkrtcy.Utah 1980) wherein the Utah court stated:
+ </p>
+<blockquote id="ATJ">
+  The legislative history makes clear that the present definition under the new Code is to be interpreted broadly, and that any stable, regular income from any source, specifically including “welfare, social security, fixed pension incomes, or ... investment incomes,” is sufficient to qualify the individual for Chapter 13 relief. H.R.Rep.No.95-595, 95th Cong., 1st Sess. 312 (1977) S.Rep.No.95-989, 95th Cong., 2d Sess. 24 (1978), U.S.Code Cong. 6 Admin.News, pp. 5787, 5810.
+ </blockquote>
+<p id="b653-10">
+  Further support for a liberal application of the Bankruptcy Code provision concerning “regular income” is found in the ease of
+  <em>
+   Matter of Cole,
+  </em>
+  <span class="citation" data-id="1970651"><a href="/opinion/1970651/matter-of-cole/" aria-description="Citation for case: Matter of Cole">3 B.R. 346</a></span> (Bkrtcy.S.D.W.Va.1980), a case in which the court found that a laborer doing only “odd jobs” was entitled to Chapter 13 relief and, although the plan was not confirmed under the good faith provisions, the court found that the debtor otherwise met the jurisdictional “regular income” requirement. In so holding, it stated:
+ </p>
+<blockquote id="b653-11">
+  Under the new bankruptcy code, a petitioner need not be a wage earner to qualify for relief under Chapter 13. The test is no longer the nature of the income but rather its stability and regularity. The income of most petitioners will still be derived from wages but Congress has made clear its intent to expand the eligibility for this form of relief to include the self-employed, even certain non-employed persons, conditioned only on the regularity and stability of income to support a Chapter 13 plan.
+ </blockquote>
+<p id="b653-12">
+  Examples in which courts have held that income, analogous to child support, is a proper source of funding for a Chapter 13 plan, include the following:
+ </p>
+<p id="b653-13">
+  In the case of
+  <em>
+   In re Dawson,
+  </em>
+  <span class="citation" data-id="2024577"><a href="/opinion/2024577/in-re-dawson/" aria-description="Citation for case: In Re Dawson">13 B.R. 107</a></span> (Bkrtcy.M.D.Ala.1981), the court held that disability benefits were income which would qualify an individual to file under Chapter 13, and further held that the Alabama State Retirement System was required to comply with the court’s orders and make the necessary deductions to fund the plan. The same court in
+  <em>
+   In re Devall,
+  </em>
+  <span class="citation" data-id="1548438"><a href="/opinion/1548438/in-re-devall/" aria-description="Citation for case: In Re Devall">9 B.R. 41</a></span> (Bkrtcy.M.D.Ala.1980) held that Social Security benefits were also a proper source of funding for a Chapter 13 plan as did the Tennessee court in
+  <em>
+   In re Buren,
+  </em>
+  <span class="citation" data-id="1538841"><a href="/opinion/1538841/in-re-buren/" aria-description="Citation for case: In Re Buren">4 B.R. 109</a></span> (Bkrtcy.M.D.Tenn.1980). Welfare payments were considered a sufficiently stable source of income for a Chapter 13 plan in
+  <em>
+   In re <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni, supra.</a></span>
+  </em>
+</p>
+<p id="b653-14">
+  The foregoing decisions lead this court to conclude that child support payments which constitute a debtor’s sole source of income also fall within the definition of “regular income” as contemplated by Congress in
+  <span citation-index="1" class="star-pagination" label="598"> 
+   *598
+   </span>
+  enacting the Bankruptcy Code provisions relating to Chapter 13.
+ </p>
+<p id="b654-4">
+  It is also apparent to the court from the record herein that denying the debtor in this case the relief accorded under Chapter 13 would be in direct contravention to the “fresh start” policy of the new Bankruptcy Code. The child support payments at issue here merely substitute the regular income that the debtor would be forced to earn for support if she were required by the lack of any such payments to leave the sheltered home and support herself and her child through full time employment. It therefore is the true substance of the source rather than its form that qualifies income as “regular income” under Section 101(24) of the Code. By analysis, a debtor in this economic situation is burdened with many of the same debts as one receiving Social Security benefits or welfare payments and, to the same extent, deserves the same equitable considerations of the Bankruptcy Court in affording relief under the Bankruptcy Code.
+ </p>
+<p id="b654-5">
+  IT IS THEREFORE ORDERED that child support payments received by the debtor constitute regular income under <span class="citation no-link">11 U.S.C. § 101</span>(24), thereby allowing this court to take jurisdiction in this case and the debtor’s plan is confirmed as conforming in all other respects to the requirements set forth in Chapter 13 of the Bankruptcy Code.
+ </p>
+<p id="b654-6">
+  Pursuant to FRCP 52, this opinion and order shall constitute findings of fact and conclusions of law herein.
+ </p>
+</opinion>

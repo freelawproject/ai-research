@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b600-16">
+  RALPH R. MABEY, Bankruptcy Judge.
+ </author>
+<p id="b600-17">
+  On October 25, 1979, the debtors filed a Chapter 13 petition under the Bankruptcy Code. On their schedule of creditors, they listed $130.00 owed to the Internal Revenue Service, $250 owed on credit card purchases, $280 owed on a repair bill, and $11,200 owed in student loans. Also listed was a possible deficiency due on a repossessed truck which by affidavit of the finance manager of the creditor, Rick Warner Ford, is claimed in the amount of $5,445.84. Two secured creditors, who apparently hold non-possessory, non-purchase money security interests in household goods, were listed as being owed $1,800 and $600. All property owned by the debtors was claimed as exempt.
+ </p>
+<p id="b600-18">
+  The debtors filed an amended plan in which they proposed to pay $58.68 per month for 30 months with $50 per month going to pay unsecured creditors. The secured creditors were not included in the plan, and the debtors expressed their intention to have the security interests set aside under <span class="citation no-link">11 U.S.C. § 522</span>(f). In their fixed monthly budget, however, the debtors subtract $36.00 per month for payment to be made to General Finance, which is one of these secured creditors. Utah Technical College, a creditor holding a claim arising from a student loan, objected to the confirmation of the plan and also to the discharge of its debt under Chapter 13. The Court allowed the college opportunity to file a memorandum in support of its contentions and the debtors opportunity to respond. At the confirmation hearing, the Court ruled that the plan as proposed did not meet the “good faith” requirements imposed by
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (D.Utah 1980), but agreed to allow further amendment of the plan, subject to the Court’s ruling on the issues raised by the college. Thereafter, on March 4, 1980, the Court heard oral argu
+  <span citation-index="1" class="star-pagination" label="545"> 
+   *545
+   </span>
+  ment on Utah Technical College’s contentions and took the matter under advisement.
+ </p>
+<p id="b601-5">
+  In the memorandum filed by Utah Technical College which was elucidated by oral argument, the college makes three claims. First, it alleges that student loans are not dischargeable under Chapter 13. Second, it argues that its debt should be treated as a long-term debt under Section 1322(b)(5) and hence not discharged under the plan. Last, the college argues that even if its debt is dischargeable, the plan as proposed does not comply with the requirement of “good faith” and thus, cannot be confirmed.
+ </p>
+<p id="b601-6">
+  The first contention of the college is based upon its reading of the legislative history and specific provisions of the Code. It claims that Congress never intended to allow the discharge of student loans, debts incurred by fraud and the like in Chapter 13 and that the present wording of <span class="citation no-link">11 U.S.C. § 1328</span>(a)(2), excepting only support and alimony debts from discharge, was erroneously drafted. In support of this contention, the college argues that no security can be taken to protect the government as insurer of a student loan and that the viability of the program depends on repayment. Therefore, Congress, in recognition of the unique nature of these debts, could not have intended that these debts be discharged in Chapter 13. The college emphasizes what it considers to be an inconsistency in the Code: namely, that those who are less able to pay their debts are ultimately saddled with more continuing burdens through debts being held nondischargeable while those who are
+  <em>
+   more
+  </em>
+  able to pay their debts acquire greater relief under the Code through a broader discharge. The college then cites the Technical Amendments Bill which proposes to eliminate the broader Chapter 13 discharge as support for its contention of erroneous drafting. Also cited are the discussions in Congress concerning the original decision to include educational loan debts as nondischargeable under <span class="citation no-link">11 U.S.C. § 523</span>(a)(8).
+ </p>
+<p id="b601-7">
+  A review of the legislative history and statutory provisions of Chapter 13 discloses an unmistakable intent by Congress to except student loans and other comparable Section 523(a) debts from discharge in Chapter 13.
+  <em>
+   See In re <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni, supra.</a></span>
+  </em>
+  The legislative history of Chapter 13 reveals throughout a concern of Congress to encourage Chapter 13 repayment plans as beneficial for both the debtor and the creditors.
+  <em>
+   See, e. g.,
+  </em>
+  Commission on the Bankruptcy Laws of the U.S., H.R.Doc.No.93-137, 93rd Cong., 1st Sess., Pt. I at 15 (1973) (“The preponderant majority of debtors desire some means of paying their debts in preference to incurring the stigma and other consequences of bankruptcy.”); Commission on the Bankruptcy Laws of the U.S., H.R.Doc.No.93-137,
+  <em>
+   supra
+  </em>
+  at 164; S.Rep. No.95-989, 95th Cong., 2d Sess. 12 (1978); H.R.Rep.No.95-595, 95th Cong., 1st Sess. 5 (1977), U.S.Code Cong. &amp; Admin.News 1978, pp. 5787, 5963; H.R.Debates, 123 Cong.Ree. H11690-92, H-11696-710, IV-12 (Daily ed. October 27, 1977) (“Partial repayment” is preferable to the almost certain non-payment of debts in “straight bankruptcy” where “both the debtor and his creditors are the losers.”). As the implementation of a Chapter 13 plan requires a greater commitment from the debtor and a long-term effort to repay his creditors, the Congress recognized that to encourage its use, incentives would have to be given. As pointed out in
+  <em>
+   In re <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni, supra,</a></span>
+  </em>
+  statutory incentives include limiting creditors’ rights to oppose a proposed plan of repayment, affording the opportunity under Section 1322(b)(8) to repay debts with property as well as out of future income, and the granting of a more liberal discharge under Chapter 13 than is available under Chapter 7. This inclusion of the more liberal discharge was a reasoned decision made for the purpose of encouraging repayment of debts under Chapter 13.
+ </p>
+<p id="b601-9">
+  The House Report explains Section 1328 as follows:
+ </p>
+<blockquote id="b601-10">
+  The discharge is of all debts except alimony, maintenance or support, and certain long-term obligations specially provided for under the plan.
+ </blockquote>
+<p id="b602-3">
+<span citation-index="1" class="star-pagination" label="546"> 
+   *546
+   </span>
+  H.R.Rep.No.95-595,
+  <em>
+   supra
+  </em>
+  at 430, U.S.Code Cong. &amp; Admin.News 1978, p. 6386. This broad discharge was then differentiated from the hardship discharge to be granted under proposed Section 1328(b). The hardship discharge, which is available to a debt- or who has paid into the plan at least as much as would have been distributed under Chapter 7, but who is unable to complete his plan due to circumstances beyond his control, is limited by Section 1328(c) to exclude those debts which are nondischargeable under Chapter 7 pursuant to Section 523(a). This, the hardship discharge, which can be issued once repayment is at least equivalent to what would have been available in a Chapter 7 liquidation, is correspondingly diminished to become co-extensive with the Chapter 7 discharge. Only when the higher repayment objective is fulfilled by completion of a Chapter 13 plan is the broader discharge available.
+  <em>
+   See also
+  </em>
+  S.Rep.No.95-989, 95th Cong., 2d Sess. 142 (1978).
+ </p>
+<p id="b602-4">
+  The explanations given and the differences between the regular and hardship discharges evidence a clear intent to provide an incentive for repayment under Chapter 13 by providing a broader discharge than is allowed under Chapter 7. This incentive includes the discharge of student loans. Only if the debtor fails to complete his plan but qualifies for a hardship discharge will his discharge be pruned to fit the Chapter 7 discharge.
+ </p>
+<p id="b602-5">
+  Rather than being intrinsically inconsistent, as contended by the college, the broader discharge of Chapter 13 appears to be based on sound, well-reasoned policy. The fact that the Technical Amendments Bill proposes to eliminate the broader discharge dictates not a conclusion that the broader discharge was never intended in the first place but rather an evidence that the Congress may be reconsidering its original policy decision in light of practices that have developed under the law. Until this is changed, however, the broader discharge stands, fully supported by the legislative history.
+ </p>
+<p id="b602-6">
+  The college’s arguments as to the unique nature of educational debts which must have convinced Congress not to discharge them is not defensible in light of the congressional debates on the subject. These debates show that originally Congress was reluctant to include educational loan debts as nondischargeable at all. Rather, it was only after lengthy discussions evidencing much disagreement over the propriety of exempting these debts from any discharge, that an amendment making educational debts nondischargeable passed in any context. The House Judiciary Committee had voted in full to reject an amendment to make student loans non-dischargeable. Therefore, the House Report originally recommended, upon consideration of a GAO study, not to except educational loans from discharge. H.R.Rep.No. 95-595,
+  <em>
+   supra
+  </em>
+  at 132
+  <em>
+   et seq.
+  </em>
+  The Report indicated that, in its view, the problem in the educational loan program was not in defaults due to bankruptcy filings, but in the general mismanagement of the program and the failure to follow up on loans which were granted. This original recommendation was made with full consideration of the “unique” nature of education loan debts,
+  <em>
+   i. e.,
+  </em>
+  that they are made without any other security than the projected future earnings of the recipient. After arguments were made both for and against it, an amendment was offered by Congressman Ertel to again make student loans nondischargeable under the new law. After a lengthy and heated argument, the amendment was finally passed. H.R.Debates, 123 Cong.Rec. H11690-92, H11696-710, at IV-5 (daily ed. Oct. 27, 1977); 124 Cong.Rec. H457-78, at IV-154
+  <em>
+   et seq.
+  </em>
+  (daily ed. Feb. 1, 1978). Strong comments were made, however, by the amendment’s opposition. Congressman Dodd from Connecticut pointed out several misconceptions about bankruptcies and student loans and warned of the class discrimination he thought this exception would create against students.
+  <em>
+   Id.
+  </em>
+  at IV-156. Congressman Cornell offered a compromise amendment to the Ertel amendment which would only make student loans nondis-chargeable if they constituted 65% or more
+  <span citation-index="1" class="star-pagination" label="547"> 
+   *547
+   </span>
+  of the total debt.
+  <em>
+   Id.
+  </em>
+  at IV-160. This amendment was, however, defeated by a vote of 34 to 21.
+  <em>
+   Id.
+  </em>
+  at IV-166. Thus, contrary to the college’s arguments, the discharge of student loans in Chapter 13 was no inadvertence. All of the policy arguments made by the college were carefully considered by the Congress in making its final decision on the treatment of student loans in both the context of Chapter 7 and Chapter 13.
+ </p>
+<p id="b603-5">
+  The college next argues that its debt should be treated as a long-term debt under Section 1322(b)(5) and hence, a debt not discharged under the plan. Section 1322(b)(5) specifies that
+ </p>
+<blockquote id="APnf">
+  the plan may . . . (5) . . . provide for the curing of any default within a reasonable time and maintenance of payments while the case is pending on any unsecured claim or secured claim on which the last payment is due after the date on which the final payment under the plan is due.
+ </blockquote>
+<p id="AH7">
+  The college apparently asks the Court to force the debtors to treat their debt as long-term and thus, by terms of Section 1328(a), except it from the Chapter 13 discharge.
+ </p>
+<p id="b603-6">
+  Although, as recognized by the college, there exists little legislative history on the subject, that which is available along with the plain wording of the statute seems to reject the college’s interpretation. Section 1322 is permissive, not mandatory. The legislative history on the subject reinforces the permissive wording of Section 1322(b)(5). The House Report explains:
+ </p>
+<blockquote id="At0">
+  Paragraph (5) concerns long-term debt, such as mortgage debt. It
+  <em>
+   permits
+  </em>
+  the plan to provide for the curing any default within a reasonable time, and maintenance of payments while the case is pending on any unsecured claim or secured claim on which the last payment is due after the date on which the final payment under the plan is due. (Emphasis added.)
+ </blockquote>
+<p id="AOP">
+  H.R.Rep.No.95-595,
+  <em>
+   supra
+  </em>
+  at 429, U.S.Code Cong. &amp; Admin.News 1978, p. 6384. The Senate Report states:
+ </p>
+<blockquote id="b603-7">
+  Subsection (b)
+  <em>
+   permits
+  </em>
+  a Chapter 13 plan to ... (5) provide for curing any default on any secured or unsecured claim on which the final payment is due after the proposed final payment under the plan. (Emphasis added.)
+ </blockquote>
+<p id="b603-12">
+  S.Rep.No.95-989,
+  <em>
+   supra
+  </em>
+  at 141, U.S.Code Cong. &amp; Admin.News 1978, p. 5927.
+ </p>
+<p id="b603-13">
+  Section 1322(b)(5) affords a benefit to the debtor and is not intended to bestow a right upon creditors. As explained in 5 Collier on Bankruptcy ¶ 1322.01[E], at 1322-11 (15th ed. 1980), this section was included to permit “the debtor to take advantage of a contract repayment period which is longer than the Chapter 13 extension period which may not exceed five years under any circumstances.” Debts whose lengthy contract repayment periods are not disturbed by the debtor’s plan are excepted from discharge under Section 1328(a) to prevent prejudice to the creditor. “It would be inequitable to provide for payment of long term debts in accordance with an installment payment schedule extending beyond the term of the plan and still discharge those debts upon completion of payments under the plan.” 5 Collier on Bankruptcy ¶ 1328.01[l][c][l], at 1328-4 (15th ed. 1980). Not all long-term debts are entitled to be excepted from discharge, as the college contends, but only those debts which the debtor wishes to continue treating as long-term debts. The Court has no power to force the debtor to treat any specific debt as a long-term debt as a condition to confirming its plan.
+ </p>
+<p id="b603-14">
+  The Court now turns to the final issue raised by the college, that of “good faith” under Section 1325(a)(3). The college contends that the debtors are improperly using Chapter 13 to discharge their student loans. As evidence of this fact, they cite the statement of debtor’s attorney at the meeting of creditors that in his opinion the primary practical use of Chapter 13 is to avoid Section 523(a) debts such as student loans and debts incurred by fraud. Secondly, the proportion of the student loan debts to other debts and the proposed handling of the debts, the college states, evidence a lack of good faith. The student
+  <span citation-index="1" class="star-pagination" label="548"> 
+   *548
+   </span>
+  loans comprise approximately 66% of the debtors’ unsecured debt. The proposed repayment on unsecured debts is approximately a 16% return. If the non-possesso-ry, non-purchase money debts were avoided and included with these unsecured creditors, the student loans would comprise approximately 58% of the debts with a repayment on the debts of approximately 14%. The college complains that the monthly payment terms of the student loans equal only slightly more than the proposed monthly payment on the student loans under the plan, yet the payments under the plan will end long before the loans are repaid. The student loans were made between 1974 and 1978. The original loan balances are not known.
+ </p>
+<p id="b604-4">
+  Several courts have questioned the propriety of considering the presence of debts which could not be dischargeable in Chapter 7 in deciding whether the good faith requirement of Section 1325(a)(3) is met.
+  <em>
+   See In re Cloutier,
+  </em>
+  <span class="citation" data-id="1970505"><a href="/opinion/1970505/in-re-cloutier/" aria-description="Citation for case: In Re Cloutier">3 B.R. 584</a></span> (D.Col.1980);
+  <em>
+   In re Seely,
+  </em>
+  <span class="citation" data-id="1538137"><a href="/opinion/1538137/johnson-v-seely-in-re-seely/" aria-description="Citation for case: Johnson v. Seely (In Re Seely)">6 B.C.D. 1003</a></span>, <span class="citation" data-id="1538137"><a href="/opinion/1538137/johnson-v-seely-in-re-seely/" aria-description="Citation for case: Johnson v. Seely (In Re Seely)">6 B.R. 309</a></span> (Bkrtcy.E.D.Va.1980). As explained in
+  <em>
+   In re Iaco-voni, supra,
+  </em>
+  however, this Court concludes that the existence of such debts is relevant as a factor to be considered in determining whether a plan is proposed in good faith. While a broader discharge is, as noted, clearly intended in Chapter 13, that broad discharge cannot properly be used to scuttle the primary statutory intent of effecting meaningful repayment to creditors. As noted in
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>,
+  </em>
+  it may be that the presence of these debts requires a greater repayment effort by debtors to make certain that no abuse of the Chapter occurs. In fact, the
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  inquiry, which includes consideration of the presence of otherwise nondischargeable debts, is intended precisely to insure that there is no “abuse of the provisions, purpose or spirit” of Chapter 13.
+  <em>
+   In re Village Men’s Shops, Inc.,
+  </em>
+  <span class="citation" data-id="2373991"><a href="/opinion/2373991/in-re-village-mens-shops-inc/#129" aria-description="Citation for case: In Re Village Men&#x27;s Shops, Inc.">186 F.Supp. 125, 129</a></span> (S.D.Ind.1960);
+  <span class="citation" data-id="1970505"><a href="/opinion/1970505/in-re-cloutier/#587" aria-description="Citation for case: In Re Cloutier"><em>
+   In re Cloutier, supra
+  </em>
+  at 587</a></span>. The Court agrees that standing alone, “it is not bad faith to utilize the liberal discharge provisions of Chapter 13.”
+  <span class="citation" data-id="1538137"><a href="/opinion/1538137/johnson-v-seely-in-re-seely/#1005" aria-description="Citation for case: Johnson v. Seely (In Re Seely)"><em>
+   In re Seely, supra
+  </em>
+  at 1005</a></span>, <span class="citation" data-id="1538137"><a href="/opinion/1538137/johnson-v-seely-in-re-seely/" aria-description="Citation for case: Johnson v. Seely (In Re Seely)">6 B.R. 309</a></span>. But it may be bad faith to utilize these provisions without a corresponding attempt to répay creditors a meaningful amount. Although the Court must also agree that it is not its place to adjudicate at the confirmation hearing the nondischargeability of certain debts, this is not necessary to fulfill the requirements of
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>.
+  </em>
+  On their face, schedules often reveal the presence of probable nondischargeable debts such as the student loans here. Likewise, as the onus lies with the trustee or creditors to object when they feel the “good faith” requirement is not being met, possibly nondischargeable debts may be brought into question by creditors.
+ </p>
+<p id="b604-6">
+  In the present case, considering the high percentage of debts comprising student loans, and the relatively small repayment attempted, the Court finds that the “good faith” requirement of Section 1325(a)(3) has not been met. Accordingly, confirmation must be denied. The record shows that an order of confirmation was erroneously entered. It is vacated, and confirmation is denied.
+ </p>
+<p id="b604-7">
+  The Court further notes that the file reveals the return of the erroneously executed order of confirmation from Magcober Dresser Industries, the purported employer of the debtor, John Smith. Noted on this returned copy is a statement from the company that John Smith is no longer employed there. This being the case, and no further evidence being submitted that the debtor has gained other employment, it appears that proper confirmation cannot be granted at this time, in any case, as no Chapter 13 plan based on his previous earnings is now feasible. Likewise, if the debtor has not obtained other employment, he would no longer qualify as an individual with regular income under Section 109(e).
+ </p>
+<p id="b604-8">
+  ORDER
+ </p>
+<p id="b604-9">
+  In accordance with this memorandum decision, the order of confirmation dated May 29, 1980 is vacated and confirmation is denied.
+ </p>
+</opinion>

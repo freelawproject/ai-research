@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b500-21">
+  VOTOLATO, Chief Judge.
+ </author>
+<p id="b500-22">
+  The appellants, David C. and Wilhelmina M. Lilley, filed a motion to convert their Chapter 7 case to one under Chapter 13 of the Bankruptcy Code, and the motion was denied. The Lilleys subsequently filed a motion to amend the motion to convert, and this motion was also denied by the bankruptcy judge. It is from the denial of the motion to amend that the Lilleys appeal.
+ </p>
+<p id="b500-23">
+  The facts found by the bankruptcy judge are as follows:
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+</p>
+<p id="b500-24">
+  The Lilleys filed a Chapter 7 petition on July 26, 1982, and on November 18, 1982, they filed a motion to convert their case to one under Chapter 13. In their schedules, the Lilleys listed their take-home income as
+  <span citation-index="1" class="star-pagination" label="443"> 
+   *443
+   </span>
+  $1390.28 per month, with monthly expenses of $1208.00. The bankruptcy judge found that the difference of $182.28 was not sufficient to pay the arrearages owed to secured creditors, which totalled $6710.00. The plan, which offered no payment to unsecured creditors, provided for payments of $167.50 per month to secured creditors, plus $16.75 in administrative expenses. The total monthly payment of $184.25 was approximately two dollars more than the excess of the Lilleys’ take-home income over monthly expenses. Accordingly, the bankruptcy judge denied the motion to convert, finding that the debtors’ income was inadequate to support a feasible plan.
+ </p>
+<p id="b501-5">
+  On November 24, 1982 the Lilleys filed a motion to amend the motion to convert to a case under Chapter 13, alleging that their schedules understated their net monthly income by $43.30. The bankruptcy judge denied this motion on November 29, finding that there was “still not a feasible good faith plan,” and from that action the Lilleys filed this appeal.
+ </p>
+<p id="b501-6">
+  The Lilleys contend that their amended income figures provide a surplus of approximately $40.00 per month of income over expenses and cost of the plan, and that they met all the requirements for confirmation of a plan under <span class="citation no-link">11 U.S.C. § 1325</span>(a). Accordingly, they argue that the bankruptcy judge erred in denying their motion to amend the motion to convert the case to one under Chapter 13.
+ </p>
+<p id="b501-8">
+  This appellate panel “shall accept the bankruptcy judge’s findings of fact unless they are clearly erroneous, and shall give due regard to the opportunity of the bankruptcy judge to judge the credibility of the witnesses.” Rule 16, First Circuit Rules Governing Appeals from Bankruptcy Judges to District Courts, Appellate Panels, and Court of Appeals. The bankruptcy judge found that the debtors’ income was not sufficient to allow them to carry out a feasible plan, and on this ground
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  he denied their motion to amend.
+ </p>
+<p id="b501-9">
+  The bankruptcy judge found that the Lil-leys’ proposed plan unrealistically provided no amount for entertainment or contingencies, and he adjusted their budget to include minimal amounts for expenditures in these areas. With these adjustments, the combined monthly income of the Lilleys was not sufficient to pay the $6710.00 arrearage in the thirty-six month plan which they proposed. Finding that conversion to Chapter 13 would be an exercise in futility on the facts of the case, the bankruptcy judge denied the relief sought by the debtors.
+ </p>
+<p id="b501-10">
+  We conclude that the bankruptcy judge’s findings are not clearly erroneous, and that he had sound reasons for determining that the debtors’ income was not sufficient to make all payments under the plan. Section 1325(a)(6) requires that a plan be confirmed only if “the debtor will be able to make all payments under the plan and to comply with the plan.”
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  The bankruptcy judge
+  <span citation-index="1" class="star-pagination" label="444"> 
+   *444
+   </span>
+  therefore denied the motion to amend the motion to convert the Chapter 7 case.
+ </p>
+<p id="b502-4">
+  Being adequately supported by the record, the bankruptcy judge’s findings and conclusions are not clearly erroneous. Accordingly, the order appealed from is affirmed.
+ </p>
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b500-14">
+   . The bankruptcy judge expeditiously submitted findings and conclusions at the request of this appellate panel. In response to the debtors’ motion for expedited mark-up and hearing, filed because of the imminent foreclosure of their home, an order was entered expeditiously (on April 22, 1983) by this appellate panel. This decision provides the rationale for our April 22 order.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b501-7">
+   . The bankruptcy judge denied the motion to amend because he found that there was “still not a feasible good faith plan.” The appellants, apparently contending that the bankruptcy judge erred in finding that the plan was not proposed in good faith, argue at length in their brief that their proposing a plan which provides no payment to unsecured creditors is not a ground for finding lack of good faith. The bankruptcy judge specifically found, however, that even if the zero payment plan were a good faith proposal, the combined income of the debtors was insufficient to enable them to carry out a “feasible plan.” Because the bankruptcy judge’s findings and conclusions center on the debtors’ financial inability to comply with the proposed plan, we need not address the issue of whether the plan was proposed in good faith.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b501-11">
+   . The brief of the debtors-appellants makes frequent reference to
+   <em>
+    In re lacovoni,
+   </em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (Bkrtcy.D.Utah 1980). The bankruptcy judge in
+   <em>
+    lacovoni,
+   </em>
+   however, reached the following conclusions about the requirements of § 1325(a)(6):
+  </p>
+<blockquote id="A8W">
+   <span class="citation no-link">11 U.S.C. § 1325</span>(a)(6) requires, as a prerequisite to confirmation, that the debtor be able to make “all payments under the plan and to comply with the plan.” ... Under the section, the Court is to determine whether the plan is feasible,
+   <em>
+    i.e.,
+   </em>
+   in light of the debtor’s budget, whether the proposed payments can be made. It anticipates that the debtor live within a proposed budget to make such payments. One may reasonably conclude from this requirement for confirmation that if a debtor cannot feasibly make any payments under a plan, because the debtor has no ex
+   <span citation-index="1" class="star-pagination" label="444"> 
+    *444
+    </span>
+   cess income, then his “plan” cannot be confirmed, and he is left with the remedy of Chapter 7 liquidation.
+  </blockquote>
+<p id="b502-25">
+   <span class="citation no-link">id. at 262</span> (emphasis omitted).
+  </p>
+</div></div></opinion>

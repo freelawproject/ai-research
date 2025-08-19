@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b919-8">
+  RONEY, Circuit Judge:
+ </author>
+<p id="b919-9">
+  The defendants were indicted for a conspiracy to deprive the inmates of the Mobile County jail of their rights and privileges as citizens of the United States, which resulted in the shooting death of an inmate during an escape attempt. <span class="citation no-link">18 U.S.C.A. § 241</span>. The district court dismissed the indictment for its failure to allege intent in specific words. The United States appeals. We reverse. The allegations in the indictment were not fatally deficient for lack of some special formula of words to specify intent, and they fairly inform defendants of the charge against them.
+ </p>
+<p id="b919-10">
+  The indictment charged nine defendants with conspiracy in violation of <span class="citation no-link">18 U.S.C.A. § 241</span>.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  It is alleged that defendants, “while acting as officials of the Mobile County [Alabama] Sheriff’s Department” in the summer of 1976, decided that future escape attempts from the Mobile County jail could be deterred only by the death of an escaping inmate. In furtherance of this plan and having learned of a planned escape attempt through a hole in the north wall, defendants agreed to monitor progress, conceal themselves, and ambush the escaping prisoners. As a result, the indictment alleges, a deputy sheriff shot inmate Louis Wallace to death when he attempted to escape through the hole. The indictment charges that this shooting was “part of the plan and purpose” of the conspiracy and was “without lawful authority.”
+ </p>
+<p id="b919-14">
+  The defendants moved to dismiss on the ground that the indictment was defective. The district court dismissed the indictment without prejudice.
+  <em>
+   United States v. Purvis,
+  </em>
+  <span class="citation" data-id="8846755"><a href="/opinion/8861234/united-states-v-purvis/" aria-description="Citation for case: United States v. Purvis">436 F.Supp. 770</a></span> (S.D.Ala.1977). It held that the indictment failed to allege that defendants specifically intended to deprive Wallace of rights secured by the Constitution, relying on
+  <em>
+   United States v. Cruikshank,
+  </em>
+  92 U.S. (2 Otto) 542, <span class="citation" data-id="9417049"><a href="/opinion/89309/united-states-v-cruikshank/" aria-description="Citation for case: United States v. Cruikshank">23 L.Ed. 588</a></span> (1876), and
+  <em>
+   Wilkins v. United States,
+  </em>
+  <span class="citation" data-id="275648"><a href="/opinion/275648/collie-leroy-wilkins-jr-and-eugene-thomas-v-united-states/" aria-description="Citation for case: Collie Leroy Wilkins, Jr., and Eugene Thomas v. United...">376 F.2d 552</a></span> (5th Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./389/964/">389 U.S. 964</a></span>, <span class="citation" data-id="8960098"><a href="/opinion/8968643/nielsen-v-nebraska-ex-rel-nebraska-state-bar-assn/" aria-description="Citation for case: Nielsen v. Nebraska ex rel. Nebraska State Bar Ass&#x27;n">88 S.Ct. 342</a></span>, <span class="citation no-link">19 L.Ed.2d 379</span> (1967).
+ </p>
+<p id="b919-15">
+  Because the Grand Jury which returned the indictment remained sitting even at the time this appeal was argued, the matter could have been returned to it for a rewritten indictment. The United States, however, concerned with other similarly worded indictments framed under this standard charge, argues that the language of the present indictment is satisfactory.
+ </p>
+<p id="b919-16">
+  The requisites of a valid indictment under <span class="citation no-link">18 U.S.C.A. § 241</span> were addressed by the Supreme Court in
+  <em>
+   United States v. <span class="citation" data-id="9417049"><a href="/opinion/89309/united-states-v-cruikshank/" aria-description="Citation for case: United States v. Cruikshank">Cruikshank, supra,</a></span>
+  </em>
+  in discussing its predecessor statute.
+  <em>
+   <span class="citation" data-id="9417049"><a href="/opinion/89309/united-states-v-cruikshank/" aria-description="Citation for case: United States v. Cruikshank">Cruikshank</a></span>
+  </em>
+  held an indictment to be vague and uncertain because it failed to specify the particular right conspired against and merely averred a conspiracy against “every, each, all, and singular” of the rights granted by the Constitution. The Court stated that the object of an indictment is
+ </p>
+<blockquote id="b919-17">
+  first, to furnish the accused with such a description of the charge against him as will enable him to make his defence, and avail himself of his conviction or acquittal
+  <span citation-index="1" class="star-pagination" label="856"> 
+   *856
+   </span>
+  for protection against a further prosecution for the same cause; and, second, to inform the court of the facts alleged, so that it may decide whether they are sufficient in law to support a conviction, if one should be had. For this, facts are to be stated, not conclusions of law alone. A crime is made up of acts and intent; and these must be set forth in the indictment, with reasonable particularity of time, place, and circumstances.
+ </blockquote>
+<p id="b920-4">
+  92 U.S. (2 Otto) at 558.
+ </p>
+<p id="b920-5">
+  In
+  <em>
+   Wilkins v. United States, supra,
+  </em>
+  this Court considered the essential requisites of a valid indictment under <span class="citation no-link">18 U.S.C.A. § 241</span>. In that case, citing
+  <em>
+   <span class="citation" data-id="9417049"><a href="/opinion/89309/united-states-v-cruikshank/" aria-description="Citation for case: United States v. Cruikshank">Cruikshank</a></span>,
+  </em>
+  we indicated that a valid indictment
+ </p>
+<blockquote id="AYS">
+  must allege that it was the intent of the defendants, by their conspiracy, to hinder or prevent the enjoyment of some right granted or secured by the Constitution, and must charge positively and not inferentially everything essential . .
+ </blockquote>
+<p id="b920-13">
+  <span class="citation" data-id="275648"><a href="/opinion/275648/collie-leroy-wilkins-jr-and-eugene-thomas-v-united-states/#562" aria-description="Citation for case: Collie Leroy Wilkins, Jr., and Eugene Thomas v. United...">376 F.2d at 562</a></span>.
+ </p>
+<p id="b920-14">
+  “The validity of an indictment is determined from reading the indictment as a whole and . . . must be determined by practical, not technical, considerations.”
+  <em>
+   United States v. Markham,
+  </em>
+  <span class="citation" data-id="336344"><a href="/opinion/336344/united-states-v-e-l-markham-jr/#192" aria-description="Citation for case: United States v. E. L. Markham, Jr.">537 F.2d 187, 192</a></span> (5th Cir. 1976) (citations omitted), cert.
+  <em>
+   denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./429/1041/">429 U.S. 1041</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./97/739/">97 S.Ct. 739</a></span>, <span class="citation" data-id="9003958"><a href="/opinion/9011048/canadian-parkhill-pipe-stringing-ltd-v-united-states/" aria-description="Citation for case: Canadian Parkhill Pipe Stringing, Ltd. v. United States">50 L.Ed.2d 752</a></span> (1977).
+ </p>
+<p id="b920-16">
+  The issue before us is whether the indictment, set forth in full below,
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  which tracks the statutory language of <span class="citation no-link">18 U.S.C.A. § 241</span> in charging that defendants conspired “to injure, oppress, threaten and intimidate” citizen inmates “in the free exercise and enjoyment of the right and privilege se
+  <span citation-index="1" class="star-pagination" label="857"> 
+   *857
+   </span>
+  cured to them by the Constitution and the laws of the United States not to be deprived of life without due process of law” is legally sufficient where the indictment does not expressly allege that defendants specifically intended to deprive citizens of constitutional rights.
+ </p>
+<p id="b921-5">
+  It should be noted that the point at issue here concerns only the
+  <em>
+   form
+  </em>
+  of the indictment. In its argument, the Government correctly recognizes that it must prove specific intent to deprive a citizen of constitutional rights to sustain a conviction under <span class="citation no-link">18 U.S.C.A. § 241</span>. Mere evidence of an intent to kill Wallace would not prove an offense under the federal statute; deprivation of a constitutional right must be intended.
+  <em>
+   United States v. <span class="citation" data-id="9417049"><a href="/opinion/89309/united-states-v-cruikshank/" aria-description="Citation for case: United States v. Cruikshank">Cruikshank, supra;</a></span> Wilkins v. United States, supra. See United States v. Guest,
+  </em>
+  <span class="citation" data-id="9423200"><a href="/opinion/107201/united-states-v-guest/#760" aria-description="Citation for case: United States v. Guest">383 U.S. 745, 760</a></span>, <span class="citation" data-id="9423200"><a href="/opinion/107201/united-states-v-guest/" aria-description="Citation for case: United States v. Guest">86 S.Ct. 1170</a></span>, <span class="citation" data-id="9423200"><a href="/opinion/107201/united-states-v-guest/" aria-description="Citation for case: United States v. Guest">16 L.Ed.2d 239</a></span> (1966). Therefore, we address only the narrow issue of the sufficiency of the instant indictment.
+ </p>
+<p id="b921-6">
+  At the outset, it should be noted that <span class="citation no-link">18 U.S.C.A. § 241</span> itself does not include the term “intentionally” or “willfully” or derivations thereof. Consequently, a different issue is presented here than in the cases cited to us where the statute includes terms omitted from the indictment.
+  <em>
+   Pullen v. United States,
+  </em>
+  <span class="citation" data-id="9637750"><a href="/opinion/1481187/pullen-v-united-states/" aria-description="Citation for case: Pullen v. United States">164 F.2d 756</a></span> (5th Cir. 1947) (for violation of <span class="citation no-link">18 U.S.C.A. § 242</span>);
+  <em>
+   United States v. Musgrave,
+  </em>
+  <span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">444 F.2d 755</a></span> (5th Cir. 1971) (for violation of <span class="citation no-link">18 U.S.C.A. §§ 371</span>, 657, 1006),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./414/1023/">414 U.S. 1023</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./94/447/">94 S.Ct. 447</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/38/315/">38 L.Ed.2d 315</a></span> (1973).
+ </p>
+<p id="b921-7">
+  The issue presented here can be precisely stated: when a statute which fails to stipulate that the proscribed acts be done with specific intent has been interpreted to require proof of such intent in order to sustain a conviction, must the indictment contain certain formal legal terms alleging specific intent? No case has been cited or found in which an indictment similar to the one used here has been held invalid under <span class="citation no-link">18 U.S.C.A. § 241</span>. Nor has a case been found dismissing an indictment which tracks the statutory language. While the terms with “intent to deprive” as suggested by the district court, <span class="citation" data-id="8846755"><a href="/opinion/8861234/united-states-v-purvis/#772" aria-description="Citation for case: United States v. Purvis">436 F.Supp. at 772</a></span>, or “unlawfully, willfully and knowingly” as contained in the indictment in
+  <em>
+   Anderson v. United States,
+  </em>
+  <span class="citation" data-id="9425741"><a href="/opinion/109053/anderson-v-united-states/" aria-description="Citation for case: Anderson v. United States">417 U.S. 211</a></span>, <span class="citation" data-id="9425741"><a href="/opinion/109053/anderson-v-united-states/" aria-description="Citation for case: Anderson v. United States">94 S.Ct. 2253</a></span>, <span class="citation" data-id="9425741"><a href="/opinion/109053/anderson-v-united-states/" aria-description="Citation for case: Anderson v. United States">41 L.Ed.2d 20</a></span> (1974) (also an <span class="citation no-link">18 U.S.C.A. § 241</span> prosecution), quoted by the district court, <span class="citation" data-id="8846755"><a href="/opinion/8861234/united-states-v-purvis/#773" aria-description="Citation for case: United States v. Purvis">436 F.Supp. at 773</a></span>, allege intent, they are by no means the exclusive formula by which it may be charged.
+ </p>
+<p id="b921-9">
+  Rule 7(c) of the Federal Rules of Criminal Procedure requires that an indictment “be a plain, concise and definite written statement of the essential facts constituting the offense charged.” This rule has put to an end “the rules of technical and formalized pleading which had characterized an earlier era.”
+  <em>
+   Russell v. United States,
+  </em>
+  <span class="citation" data-id="9422415"><a href="/opinion/106407/russell-v-united-states/#762" aria-description="Citation for case: Russell v. United States">369 U.S. 749, 762</a></span>, <span class="citation" data-id="9422415"><a href="/opinion/106407/russell-v-united-states/#1046" aria-description="Citation for case: Russell v. United States">82 S.Ct. 1038, 1046</a></span>, <span class="citation" data-id="9422415"><a href="/opinion/106407/russell-v-united-states/" aria-description="Citation for case: Russell v. United States">8 L.Ed.2d 240</a></span> (1962) (indictment for failure to answer question pertinent to congressional inquiry invalid for failure to identify subject under inquiry, thereby making determination of pertinency speculative). In reflecting upon the impact of the rule, this Court has said that
+ </p>
+<blockquote id="b921-10">
+  [t]he cynically technical approach which formerly enshrouded the consideration of even the plainest and simplest indictments, and, in many instances, made a mockery of simple justice, no longer governs their consideration.
+ </blockquote>
+<blockquote id="b921-11">
+  On the contrary, the trial court and this court are enjoined to, and do, examine into, and determine, the validity of attacks upon indictments, especially of this kind, from the broad and enlightened standpoint of common sense and right reason rather than from the narrow standpoint of petty preciosity, pettifogging, technicality or hair splitting fault finding.
+ </blockquote>
+<p id="b921-12">
+<em>
+   Parsons
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="6908405"><a href="/opinion/7008189/parsons-v-united-states/#253" aria-description="Citation for case: Parsons v. United States">189 F.2d 252, 253</a></span> (5th Cir. 1951) (footnotes omitted). Although indictments must be specific and precise as to the acts and crime charged, the law does not compel a ritual of words.
+ </p>
+<p id="b921-13">
+  Taken as a whole, the facts set forth in the indictment here sufficiently allege an intent by defendants to deprive the inmates of their constitutional right to due process.
+ </p>
+<p id="b922-3">
+<span citation-index="1" class="star-pagination" label="858"> 
+   *858
+   </span>
+  Tlie indictment alleges that defendants intended to demonstrate by their actions that a prisoner seeking to escape from the Mobile County jail would be shot without a trial, whether or not the escape could have been prevented by other measures. The key to the message which defendants are alleged to want to communicate to the inmates was that they would not just be charged with escape or attempted escape and tried under the protections of due process of law, but they would be deprived of that due process right guaranteed to them by the Constitution. So read, the indictment alleges sufficient facts to show an intent to deprive the inmates of a constitutional right, without the recitation of the words “knowing” and “willful” or “intentional,” or any of their derivations.
+ </p>
+<p id="b922-4">
+<em>
+   <span class="citation" data-id="9417049"><a href="/opinion/89309/united-states-v-cruikshank/" aria-description="Citation for case: United States v. Cruikshank">Cruikshank</a></span>
+  </em>
+  does not stand, as argued, for the proposition that intent must be charged by specific words. The indictment in that case failed because it baldly alleged that defendants conspired to deprive citizens of “every, each, all, and singular” rights without specification of any particular right. The
+  <em>
+   <span class="citation" data-id="8846755"><a href="/opinion/8861234/united-states-v-purvis/" aria-description="Citation for case: United States v. Purvis">Purvis</a></span>
+  </em>
+  indictment specifies which constitutional right is at issue, namely the deprivation of the right to due process.
+ </p>
+<p id="b922-5">
+<em>
+   <span class="citation" data-id="275648"><a href="/opinion/275648/collie-leroy-wilkins-jr-and-eugene-thomas-v-united-states/" aria-description="Citation for case: Collie Leroy Wilkins, Jr., and Eugene Thomas v. United...">Wilkins</a></span>
+  </em>
+  was cited by the district court for the proposition that a more specific charge is necessary. In
+  <em>
+   <span class="citation" data-id="275648"><a href="/opinion/275648/collie-leroy-wilkins-jr-and-eugene-thomas-v-united-states/" aria-description="Citation for case: Collie Leroy Wilkins, Jr., and Eugene Thomas v. United...">Wilkins</a></span>,
+  </em>
+  the indictment upon which a conviction was upheld was, in all practical effects, identical to the one at issue here. In that case, defendants argued that the indictment did not state an offense against the United States. The district court attached considerable significance to the
+  <em>
+   <span class="citation" data-id="275648"><a href="/opinion/275648/collie-leroy-wilkins-jr-and-eugene-thomas-v-united-states/" aria-description="Citation for case: Collie Leroy Wilkins, Jr., and Eugene Thomas v. United...">Wilkins</a></span>
+  </em>
+  court’s remark that “[appellants never at any time objected to or took exception to the form of the indictment but stood on the proposition that it charged no offense . . . .”
+  <em>
+   Wilkins v. United States,
+  </em>
+  <span class="citation" data-id="275648"><a href="/opinion/275648/collie-leroy-wilkins-jr-and-eugene-thomas-v-united-states/#562" aria-description="Citation for case: Collie Leroy Wilkins, Jr., and Eugene Thomas v. United...">376 F.2d 552, 562</a></span> (5th Cir.), cert.
+  <em>
+   denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./389/964/">389 U.S. 964</a></span>, <span class="citation" data-id="8960098"><a href="/opinion/8968643/nielsen-v-nebraska-ex-rel-nebraska-state-bar-assn/" aria-description="Citation for case: Nielsen v. Nebraska ex rel. Nebraska State Bar Ass&#x27;n">88 S.Ct. 342</a></span>, <span class="citation no-link">19 L.Ed.2d 379</span> (1967), quoted in
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Purvis,
+  </em>
+  <span class="citation" data-id="8846755"><a href="/opinion/8861234/united-states-v-purvis/#772" aria-description="Citation for case: United States v. Purvis">436 F.Supp. 770, 772</a></span> (S.D.Ala. 1977). Apparently, the district court read this statement as an intimation that the form was suspect and vulnerable to attack. It says as much in discussing
+  <em>
+   United States v. Price,
+  </em>
+  <span class="citation" data-id="107202"><a href="/opinion/107202/united-states-v-price/" aria-description="Citation for case: United States v. Price">383 U.S. 787</a></span>, <span class="citation" data-id="107202"><a href="/opinion/107202/united-states-v-price/" aria-description="Citation for case: United States v. Price">86 S.Ct. 1152</a></span>, <span class="citation" data-id="107202"><a href="/opinion/107202/united-states-v-price/" aria-description="Citation for case: United States v. Price">16 L.Ed.2d 267</a></span> (1966), and
+  <em>
+   United States v. Guest,
+  </em>
+  <span class="citation" data-id="9423200"><a href="/opinion/107201/united-states-v-guest/" aria-description="Citation for case: United States v. Guest">383 U.S. 745</a></span>, <span class="citation" data-id="9423200"><a href="/opinion/107201/united-states-v-guest/" aria-description="Citation for case: United States v. Guest">86 S.Ct. 1170</a></span>, <span class="citation" data-id="9423200"><a href="/opinion/107201/united-states-v-guest/" aria-description="Citation for case: United States v. Guest">16 L.Ed.2d 239</a></span> (1966). Admitting that the indictments in these § 241 cases were “very similar in wording to Count One in this case,” the court stated that the cases “offer nothing in terms of authority on the issue of the absence of an allegation of specific intent in the indictment
+  <em>
+   if properly presented to the court.”
+  </em>
+  <span class="citation" data-id="8846755"><a href="/opinion/8861234/united-states-v-purvis/#773" aria-description="Citation for case: United States v. Purvis">436 F.Supp. at 773</a></span> (emphasis added). The court sought to distinguish
+  <em>
+   Hayes v. United States,
+  </em>
+  <span class="citation" data-id="9458557"><a href="/opinion/305004/fred-loyd-hayes-and-kenneth-ray-mcmaster-v-united-states/" aria-description="Citation for case: Fred Loyd Hayes and Kenneth Ray McMaster v. United States">464 F.2d 1252</a></span> (5th Cir. 1972), which sustained a similar indictment, in the same fashion.
+ </p>
+<p id="b922-11">
+  The omission of an element of the crime, however, is not a mere formality that may be waived. “An indictment that fails to allege each material element of an offense fails to charge that offense.”
+  <em>
+   United States v. London,
+  </em>
+  <span class="citation" data-id="343299"><a href="/opinion/343299/united-states-v-carl-j-london/#211" aria-description="Citation for case: United States v. Carl J. London">550 F.2d 206, 211</a></span> (5th Cir. 1977). A motion for dismissal for failure to state an offense “shall be noticed by the court at any time during the pendency of the proceedings.” Fed.R.Crim.P. 12(b)(2).
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  The court can raise the issue
+  <em>
+   sua sponte.
+  </em>
+  The objection raised in
+  <em>
+   <span class="citation" data-id="275648"><a href="/opinion/275648/collie-leroy-wilkins-jr-and-eugene-thomas-v-united-states/" aria-description="Citation for case: Collie Leroy Wilkins, Jr., and Eugene Thomas v. United...">Wilkins</a></span>,
+  </em>
+  moreover, necessarily included the specific intent issue. Failure to charge specific intent is but a particular aspect of the failure to charge an offense. The
+  <em>
+   <span class="citation" data-id="275648"><a href="/opinion/275648/collie-leroy-wilkins-jr-and-eugene-thomas-v-united-states/" aria-description="Citation for case: Collie Leroy Wilkins, Jr., and Eugene Thomas v. United...">Wilkins</a></span>
+  </em>
+  court did have the question of the validity of the form before it, an issue which it considered.
+ </p>
+<p id="b922-12">
+  None of the other cases cited by defendants compels a contrary result.
+  <em>
+   United States v. Musgrave,
+  </em>
+  <span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">444 F.2d 755</a></span> (5th Cir. 1971),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./414/1023/">414 U.S. 1023</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./94/447/">94 S.Ct. 447</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/38/315/">38 L.Ed.2d 315</a></span> (1973);
+  <em>
+   United States v. Morrison,
+  </em>
+  <span class="citation" data-id="336007"><a href="/opinion/336007/united-states-v-robert-c-morrison/" aria-description="Citation for case: United States v. Robert C. Morrison">536 F.2d 286</a></span> (9th Cir. 1976).
+ </p>
+<p id="b923-4">
+<span citation-index="1" class="star-pagination" label="859"> 
+   *859
+   </span>
+  In
+  <em>
+   <span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">Musgrave</a></span>,
+  </em>
+  cited for the proposition that an indictment omitting an essential element is fatally defective, the Government conceded that that element was missing.
+ </p>
+<p id="b923-5">
+  The Ninth Circuit in
+  <em>
+   <span class="citation" data-id="336007"><a href="/opinion/336007/united-states-v-robert-c-morrison/" aria-description="Citation for case: United States v. Robert C. Morrison">Morrison</a></span>
+  </em>
+  struck down an indictment alleging misappropriation of less than $100.00 in postal funds in violation of <span class="citation no-link">18 U.S.C.A. § 1711</span> because it failed to allege specific intent even though the statute does not identify the element of intent. The allegation in that indictment that the defendant “did convert . without authorization by law . . .,” <span class="citation" data-id="336007"><a href="/opinion/336007/united-states-v-robert-c-morrison/#289" aria-description="Citation for case: United States v. Robert C. Morrison">536 F.2d at 289</a></span>, the court noted, was inherently ambiguous and could have charged a tort of conversion instead of a crime.
+ </p>
+<p id="b923-7">
+  Conspiracy is the gravamen of the offense under <span class="citation no-link">18 U.S.C.A. § 241</span>.
+  <em>
+   United States v. Guest,
+  </em>
+  <span class="citation" data-id="9423200"><a href="/opinion/107201/united-states-v-guest/#753" aria-description="Citation for case: United States v. Guest">383 U.S. 745, 753-754</a></span>, <span class="citation" data-id="9423200"><a href="/opinion/107201/united-states-v-guest/" aria-description="Citation for case: United States v. Guest">86 S.Ct. 1170</a></span>, <span class="citation" data-id="9423200"><a href="/opinion/107201/united-states-v-guest/" aria-description="Citation for case: United States v. Guest">16 L.Ed.2d 239</a></span> (1966). The 1874 revision of this statute deleted the redundant language “with intent” from its first paragraph. “Conspiracy” incorporates willfulness and specific intent. As the Supreme Court stated in
+  <em>
+   Frohwerk v. United States,
+  </em>
+  <span class="citation" data-id="99321"><a href="/opinion/99321/frohwerk-v-united-states/#209" aria-description="Citation for case: Frohwerk v. United States">249 U.S. 204, 209</a></span>, <span class="citation" data-id="99321"><a href="/opinion/99321/frohwerk-v-united-states/#251" aria-description="Citation for case: Frohwerk v. United States">39 S.Ct. 249, 251</a></span>, <span class="citation" data-id="99321"><a href="/opinion/99321/frohwerk-v-united-states/" aria-description="Citation for case: Frohwerk v. United States">63 L.Ed. 561</a></span> (1919) (brought under the Espionage Act of 1917), “intent to accomplish an object cannot be alleged more clearly than by stating that parties conspired to accomplish it.”
+ </p>
+<p id="b923-8">
+  The indictment in question adequately contains the elements of the offense charged and fairly informs defendants of this charge. It enables them to plead an acquittal or conviction in bar of future prosecutions for the same offense. While this objection could have been forestalled by the inclusion of technical “intent” terms, such formality is unnecessary where the statute itself contains no such terms and the indictment clearly sets forth a charge of specific intent in the factual averment. The defendants are of course entitled to an adequate jury instruction regarding the intent necessary for conviction.
+ </p>
+<p id="b923-9">
+  REVERSED AND REMANDED.
+ </p>
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b919-11">
+   . <span class="citation no-link">18 U.S.C.A. § 241</span> reads:
+  </p>
+<blockquote id="b919-12">
+<em>
+    Conspiracy against rights of citizens
+   </em>
+</blockquote>
+<blockquote id="A5r">
+   If two or more persons conspire to injure, oppress, threaten, or intimidate any citizen in the free exercise or enjoyment of any right or privilege secured to him by the Constitution or laws of the United States, or because of his having so exercised the same; or
+  </blockquote>
+<blockquote id="AT8">
+   If two or more persons go in disguise on the highway, or on the premises of another, with intent to prevent or hinder his free exercise or enjoyment of any right or privilege so secured—
+  </blockquote>
+<blockquote id="b919-19">
+   They shall be fined not more than $10,000 or imprisoned not more than ten years, or both; and if death results, they shall be subject to imprisonment for any term of years or for life.
+  </blockquote>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b920-6">
+   . COUNT ONE
+  </p>
+<p id="b920-7">
+   From in or about the summer of 1976, to on or about October 12, 1976, in the Southern Division of the Southern District of Alabama, the defendants, THOMAS J. PURVIS, CHARLES C. WIMBERLY, SR., WILLIAM L. SHIRLEY, JR., JOHN C. McCORVEY, JR., HAROLD E. DONALD, HARRY L. HUTTON, JR., JAMES J. MANNING, CECIL E. BYRD and JAMES H. STANFORD, while acting as officials of the Mobile County Sheriffs Department, conspired together, with each other, and with other persons to the Grand Jury known and unknown, to injure, oppress, threaten and intimidate inmates of the Mobile County Jail who were citizens of the United States in the free exercise and enjoyment of the right and privilege secured to them by the Constitution and laws of the United States not to be deprived of life without due process of law, which conspiracy resulted in the death of Louis Wallace, an inmate at the Mobile County Jail.
+  </p>
+<p id="b920-8">
+   It was part of the plan and purpose of the conspiracy that the conspirators would, without lawful authority, shoot from ambush one or more of the said inmates during a planned escape attempt which was to occur through a hole dug in the wall of the Mobile County Jail, of which escape attempt the conspirators had prior knowledge.
+  </p>
+<p id="b920-9">
+   OVERT ACTS
+  </p>
+<p id="b920-10">
+   In furtherance of the aforesaid conspiracy, and to accomplish its objectives, the following overt acts, among others, were committed within the Southern Division of the Southern District of Alabama:
+  </p>
+<blockquote id="b920-11">
+   (1) In or about the summer of 1976, at the Mobile County Jail, some of the conspirators decided to shoot an inmate during a future escape in order to bring such escapes to a halt.
+  </blockquote>
+<blockquote id="b920-18">
+   (2) On October 12, 1976, prior to the death of Louis Wallace, at the Mobile County Jail, and after discovering that inmates in Cellblock 205 were attempting to dig a hole through the north wall of the jail in order to escape, some of the conspirators, at a staff meeting, discussed the upcoming escape attempt and agreed not to stop it and to ambush the inmates as they attempted to escape through the hole in the wall, with the intention of shooting one or more of the said inmates.
+  </blockquote>
+<blockquote id="b920-19">
+   (3) On October 12, 1976, at the Mobile County Jail, some of the conspirators caused the north wall of the jail to be surveilled during the day from out of sight of the inmates in order to observe the progress of the escape attempt.
+  </blockquote>
+<blockquote id="b920-20">
+   (4) On the evening of October 12, 1976, at the Mobile County Jail, some of the conspirators concealed themselves in the vicinity of the jail in order to carry out the planned ambush and communicated by radio between themselves as to the progress of the digging of the hole in the north wall of the jail.
+  </blockquote>
+<blockquote id="b920-21">
+   (5) On the evening of October 12, 1976, at the Mobile County Jail, in furtherance of the aforementioned conspiracy, Deputy Sheriff James H. Stanford shot to death inmate Louis Wallace when Wallace attempted to escape through the hole dug in the north wall of the jail.
+  </blockquote>
+<p id="b920-22">
+   In violation of Title <span class="citation no-link">18, United States Code, Section 241</span>.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b922-7">
+   . Fed.R.Crim.P. 12(b)(2) reads:
+  </p>
+<blockquote id="b922-8">
+   (b)
+   <em>
+    Pretrial Motions.
+   </em>
+   Any defense, objection, or request which is capable of determination without the trial of the general issue may be raised before trial by motion. . The following must be raised prior to trial:
+  </blockquote>
+<blockquote id="b922-13">
+   (2) Defenses and objections based on defects in the indictment or information (other than that it fails to show jurisdiction in the court or to charge an offense which objections shall be noticed by the court at any time during the pendency of the proceedings); .
+  </blockquote>
+</div></div></opinion>

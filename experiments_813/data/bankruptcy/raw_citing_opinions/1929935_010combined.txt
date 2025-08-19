@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b543-3">
+<span citation-index="1" class="star-pagination" label="487"> 
+   *487
+   </span>
+  MEMORANDUM OPINION
+ </p>
+<author id="b543-4">
+  FREDERICK J. HERTZ, Bankruptcy Judge.
+ </author>
+<p id="b543-5">
+  This cause of action is brought by the Illinois Department of Public Aid (hereinafter referred to as “I.D.P.A.”) against Verna Jones (hereinafter referred to as “debt- or”), objecting to the confirmation of a proposed Chapter 13 plan.
+ </p>
+<p id="b543-6">
+  The debtor filed her petition for relief under Chapter 13 on August 14, 1982. All of the scheduled debts are unsecured and total approximately $28,230.00. The principal portion of the scheduled debt is a judgment obtained by I.D.P.A. in the Circuit Court of Cook County, Illinois, against the debtor for $18,288.00. The judgment was based on a suit by I.D.P.A. to recover overpayment of public aid benefits made to the debtor.
+ </p>
+<p id="b543-7">
+  Under the terms of the proposed plan, the debtor provides for a 10% repayment of all allowed unsecured claims. The plan is to last for thirty-six (36) months, with payments of $210.00 per month. After fixed expenses and plan payments, the debtor projects a surplus income of only $80.00 per month to be applied toward other necessary living expenses. (The debtor, who is divorced, has four children.)
+ </p>
+<p id="b543-8">
+  The basic requirements for the confirmation of a Chapter 13 plan are set forth in Section 1325(a), which provides:
+ </p>
+<blockquote id="b543-9">
+  (a) The court shall confirm a plan if—
+ </blockquote>
+<blockquote id="b543-10">
+  (1) the plan complies with the provisions of this chapter and with other applicable provisions of this title;
+ </blockquote>
+<blockquote id="b543-11">
+  (2) any fee, charge, or amount required under chapter 123 of title 28, or by the plan, to be paid before confirmation, has been paid;
+ </blockquote>
+<blockquote id="b543-12">
+  (3) the plan has been proposed in good faith and not by any means forbidden by law;
+ </blockquote>
+<blockquote id="b543-13">
+  (4) the value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim. is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under chapter 7 of this title on such date...
+ </blockquote>
+<p id="b543-15">
+  <span class="citation no-link">11 U.S.C. § 1325</span>(a) (Supp. V. 1981).
+ </p>
+<p id="Agt">
+  I.D.P.A. contends that the debtor’s plan does not meet the good faith standard that is a necessary element for every Chapter 13 plan. Specifically, the claimant argues that the debtor’s plan should treat the debt owed to it separately • and apart from other claims. Consequently, this court must determine whether the debtor’s plan, as currently proposed, meets the necessary good faith standard.
+ </p>
+<p id="b543-16">
+  In this case, a determination of good faith requires a two-step analysis: (1) whether a debtor can discharge 90% of a claim which is non-dischargeable under Section 523(a)(2)(A), and (2) if such claim is dischargeable, whether the plan satisfies the good faith requirement of Section 1325(a)(3).
+ </p>
+<p id="b543-17">
+  Under Section 523(a)(2)(A), a discharge under Sections 727,1141 or 1328(b) does not discharge a debtor from any debt incurred by false pretenses, false representation or actual fraud. Section 1328(a), however, provides that:
+ </p>
+<blockquote id="b543-18">
+  (a) As soon as practicable after completion by the debtor of all payments under the plan, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan or disallowed under section 502 of this title, except any debt—
+ </blockquote>
+<blockquote id="b543-19">
+  (1) provided for under section 1322(b)(5) of this title;
+ </blockquote>
+<blockquote id="b543-20">
+  or
+ </blockquote>
+<blockquote id="b543-21">
+  (2) of the kind specified in section 523(a)(5) of this title.
+ </blockquote>
+<p id="b543-22">
+  <span class="citation no-link">11 U.S.C. § 1328</span>(a) (Supp. V. 1981).
+ </p>
+<p id="b543-23">
+  In
+  <em>
+   In re Rimgale,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/669/426/">669 F.2d 426</a></span>, 428 (7th Cir.1982), the Seventh Circuit construed Section 1328(a) to mean that “a chapter 13 debtor may be discharged from a variety of debts that a chapter 7 bankrupt remains obligated to pay at the conclusion of a liquidation.” In
+  <em>
+   Rimgale,
+  </em>
+  a judgment was entered against the debtor for the fraudu
+  <span citation-index="1" class="star-pagination" label="488"> 
+   *488
+   </span>
+  lent conversion of a widow’s insurance proceeds. The debtor subsequently filed a petition for relief under Chapter 13. The plan, as confirmed, effectively discharged a sizeable portion of the judgment. The widow objected to the confirmation of the plan, claiming that a non-dischargeable debt under Chapter 7 is also non-dischargeable under Chapter 13. The court, however, held that the provisions of Section 1328(a) mandate that the debtor can effectively discharge a debt which is non-dischargeable under Chapter 7, subject to the good faith provisions of <span class="citation no-link">11 U.S.C. § 1325</span>.
+  <em>
+   Accord, In re Syrus,
+  </em>
+  <span class="citation" data-id="1901942"><a href="/opinion/1901942/in-re-syrus/" aria-description="Citation for case: In Re Syrus">12 B.R. 605</a></span> (Bkrtcy.D.Kan.1981) (student loan is dischargeable under Chapter 13 even though non-dischargeable under <span class="citation no-link">11 U.S.C. § 523</span>(a)(8)).
+ </p>
+<p id="b544-4">
+  The
+  <em>
+   Rimgale
+  </em>
+  court’s interpretation of Section 1328(a) is consistent with the congressional intent and purpose of Chapter 13 reform. Legislative history shows that Congress fully intended to promote more widespread use of Chapter 13 than was realized under Chapter XIII of the Bankruptcy Act.
+ </p>
+<blockquote id="b544-5">
+  The premises of the bill with respect to consumer bankruptcy are that the use of the bankruptcy law should be a last resort; that if it is used, debtors should attempt repayment under Chapter 13, Adjustment of Debts of an Individual with Regular Income; and finally, whether the debtor uses Chapter 7, Liquidation, or Chapter 13, Adjustment of Debts of an Individual, bankruptcy relief should be effective, and should provide the debtor with a fresh start.... The two most important aspects of the fresh start available under the bankruptcy laws are the provision of adequate property for a return to normal life, and the discharge, with the release from creditor collection efforts.
+ </blockquote>
+<blockquote id="b544-6">
+<em>
+   See
+  </em>
+  5
+  <em>
+   Collier on Bankruptcy,
+  </em>
+  ¶ 1325.01, at 1325-8-7,1325-8-8 (15th ed. 1982).
+ </blockquote>
+<p id="b544-7">
+  This court recently addressed this issue in
+  <em>
+   In re Vratanina,
+  </em>
+  <span class="citation" data-id="1820381"><a href="/opinion/1820381/security-insurance-co-of-hartford-v-vratanina-in-re-vratanina/" aria-description="Citation for case: Security Insurance Co. of Hartford v. Vratanina (In Re...">22 B.R. 453</a></span> (Bkrtcy.N.D.Ill.1982). In
+  <em>
+   <span class="citation" data-id="1820381"><a href="/opinion/1820381/security-insurance-co-of-hartford-v-vratanina-in-re-vratanina/" aria-description="Citation for case: Security Insurance Co. of Hartford v. Vratanina (In Re...">Vratanina</a></span>,
+  </em>
+  a judgment was entered against the debtor for the recovery of a payment made by plaintiff insurance company to debtor’s former employer. The payment to the employer was compensation for losses incurred as a result of the debt- or’s conversion of his property. This court held that “the controlling precedent in
+  <em>
+   Rim-gale
+  </em>
+  has established that a non-dischargea-ble claim under Chapter 7 can be effectively discharged under Chapter 13.”
+  <span class="citation" data-id="1820381"><a href="/opinion/1820381/security-insurance-co-of-hartford-v-vratanina-in-re-vratanina/#455" aria-description="Citation for case: Security Insurance Co. of Hartford v. Vratanina (In Re..."><em>
+   Id.
+  </em>
+  at 455</a></span>.
+ </p>
+<p id="b544-9">
+  Claimant, in the case at bar, argues that a discharge of 90% of its claim violates the good faith provision of Section 1325(a)(3). Claimant cites several cases that it contends stand for the proposition that 10% is a proposal of nominal repayment and is, therefore, a lack of the requisite good faith.
+  <em>
+   See In re Marlow,
+  </em>
+  <span class="citation" data-id="1970491"><a href="/opinion/1970491/matter-of-marlow/#308" aria-description="Citation for case: Matter of Marlow">3 B.R. 305, 308</a></span> (Bkrtcy.N.D.Ill.1980) (it is of paramount importance, in the determination of good faith, to ascertain whether the payments represent the debtor’s best efforts);
+  <em>
+   In re Bloom,
+  </em>
+  <span class="citation" data-id="1970474"><a href="/opinion/1970474/in-re-bloom/#468" aria-description="Citation for case: In Re Bloom">3 B.R. 467, 468</a></span> (Bkrtcy.C.D.Cal.1980) (the plan must propose to pay to creditors a reasonable sum based upon the debtor's ability to pay);
+  <em>
+   In re Murallo,
+  </em>
+  <span class="citation" data-id="1538740"><a href="/opinion/1538740/matter-of-murallo/#669" aria-description="Citation for case: Matter of Murallo">4 B.R. 666, 669</a></span> (Bkrtcy.D.Conn.1980) (where a debtor files under Chapter 13 admittedly to take advantage of its liberal discharge provisions, the plan is not proposed in good faith).
+ </p>
+<p id="b544-10">
+  This court disagees that these cases stand for such a proposition. Rather, the overall message of these cases is that “[t]he ‘good faith’ requirement must be applied in light of the debtor’s particular circumstances.”
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#268" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256, 268</a></span> (Bkrtcy. D.Utah 1980). As is noted in
+  <em>
+   <span class="citation" data-id="1820381"><a href="/opinion/1820381/security-insurance-co-of-hartford-v-vratanina-in-re-vratanina/" aria-description="Citation for case: Security Insurance Co. of Hartford v. Vratanina (In Re...">Vratanina</a></span>,
+  </em>
+  courts have reached various conclusions in interpreting the good faith provision.
+  <em>
+   Vra-tanina,
+  </em>
+  <span class="citation" data-id="1820381"><a href="/opinion/1820381/security-insurance-co-of-hartford-v-vratanina-in-re-vratanina/#455" aria-description="Citation for case: Security Insurance Co. of Hartford v. Vratanina (In Re...">22 B.R. at 455</a></span>. In light of the different and sometimes conflicting interpretations of good faith, it is clear that “a comprehensive definition of good faith is not practical.”
+  <em>
+   In re Terry,
+  </em>
+  <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/#635" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">630 F.2d 634, 635</a></span> (8th Cir.1980).
+ </p>
+<p id="b544-11">
+  It is also clear that Section 1325(a)(3) cannot be construed as setting any minimum repayment requirement. “Proper statutory construction does not permit a finding that Congress simply forgot to include such a [minimum requirement] in Section 1325(a) and this court can
+  <span citation-index="1" class="star-pagination" label="489"> 
+   *489
+   </span>
+  not assume any such oversight.”
+  <em>
+   In re Burrell,
+  </em>
+  <span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/#366" aria-description="Citation for case: In Re Burrell">6 B.R. 360, 366</a></span> (Bkrtcy.N.D.Cal.1980). The only minimum requirement relating to Chapter 13 plans is Section 1325(a)(4), under which the total payments to the creditor, discounted to present value, must not be less than the creditor would receive in a straight liquidation. The latter amount “does not include additional amounts that a creditor may be able to collect after a liquidation if he can keep the judgment alive.”
+  <em>
+   Rimgale,
+  </em>
+  669 F.2d at 430. (“The presence of an explicit statutory standard [in Section 1325(a)(4) ] ... strongly suggests that Congress did not intend to substitute a more rigorous standard when it imposed a general good faith requirement.”)
+  <em>
+   See In re Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1388" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386, 1388</a></span> (9th Cir.1982).
+ </p>
+<p id="b545-5">
+  Turning to the case at bar, this court finds that the debtor’s plan satisfies the requirements of Section 1325(a)(4). Under the terms of the proposed plan, I.D.P.A. is not receiving less than it would were the debtor to proceed under Chapter 7. The fact that I.D.P.A.’s claim is non-dischargea-ble under Chapter 7 does not affect this result. Otherwise, any creditor with a non-dischargeable debt would have the power to block a Chapter 13 plan. “The generous discharge provisions of Chapter 13 would be illusory, subject to abrogation whenever a creditor with [a non-dischargeable] claim ... objected to the plan.”
+  <em>
+   Rimgale,
+  </em>
+  669 F.2d at 431. Consequently, this court must now determine whether the debtor’s plan satisfies the requisite good faith standard.
+ </p>
+<p id="b545-6">
+  Recognizing the difficulty of adopting a policy to aid in determining whether a plan was proposed in good faith, the
+  <em>
+   Rimgale
+  </em>
+  court adopted the analysis used by the court in
+  <em>
+   In re Burrell,
+  </em>
+  <span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/" aria-description="Citation for case: In Re Burrell">6 B.R. 360</a></span> (Bkrtcy.N.D.Cal. 1980). In
+  <em>
+   <span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/" aria-description="Citation for case: In Re Burrell">Burrell</a></span>,
+  </em>
+  the court stated:
+ </p>
+<blockquote id="b545-7">
+  The correct approach * * * is to treat issues of substantiality and best effort as elements of good faith. Unless the courts have discretion to consider such factors, the danger exists that Chapter 13 plans become shams that would emasculate the safeguards that Congress has included in Chapter 7 to prevent debtor abuse of the bankruptcy laws. The courts retain discretion to prevent such abuse, and that discretion can be exercised effectively through a meaningful interpretation of the good faith requirement of § 1325(a)(3). In each case, the bankruptcy court must consider the debtor’s entire circumstances to determine whether his plan proposes to make meaningful payments to unsecured creditors. In making that determination, the courts should be mindful of the fact that the unsecured creditors must rely on the court to give meaning to the congressional intent that they receive substantial payments. Within these guidelines, the courts should proceed on a case-by-case basis.
+ </blockquote>
+<blockquote id="b545-9">
+<em>
+   In re Burrell,
+  </em>
+  <span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/#366" aria-description="Citation for case: In Re Burrell">6 B.R. at 366</a></span>,
+  <em>
+   quoted in Rimgale,
+  </em>
+  669 F.2d at 432.
+ </blockquote>
+<p id="b545-10">
+  To further aid in implementing the above analysis, the
+  <em>
+   Rimgale
+  </em>
+  court listed several factors to be considered in determining whether or not a plan is being proposed in good faith. These factors include:
+ </p>
+<blockquote id="b545-11">
+  (1) Does the proposed plan state [the debtor’s] secured and unsecured debts accurately?
+ </blockquote>
+<blockquote id="b545-12">
+  (2) Does it state [the debtor’s] expenses accurately?
+ </blockquote>
+<blockquote id="b545-13">
+  (3) Is the percentage of repayment of unsecured claims correct?
+ </blockquote>
+<blockquote id="b545-14">
+  (4) If there are or have been deficiencies in the plan, do the inaccuracies amount to an attempt to mislead the bankruptcy court?
+ </blockquote>
+<blockquote id="b545-15">
+  (5) Do the proposed payments indicate “a fundamental fairness in dealing with one’s creditors?”
+ </blockquote>
+<p id="b545-16">
+  The guidelines as set forth by the
+  <em>
+   Rim-gale
+  </em>
+  court were recognized by the court in
+  <em>
+   In re Bassak,
+  </em>
+  81 C 2778 (N.D.Ill. April 5, 1982),
+  <em>
+   appeal dismissed,
+  </em>
+  <span class="citation" data-id="416945"><a href="/opinion/416945/in-the-matter-of-anthony-j-bassak-debtor-yorkville-national-bank-v/" aria-description="Citation for case: In the Matter of Anthony J. Bassak, Debtor. Yorkville...">705 F.2d 234</a></span> (7th Cir.1983). In
+  <em>
+   Bassak,
+  </em>
+  the debtor fraudulently secured a loan from a bank. He subsequently filed a petition for relief under Chapter 13. The terms of the debtor’s plan proposed only a partial repayment to the bank. The
+  <em>
+   Bassak
+  </em>
+  court, relying on
+  <em>
+   Rimgale,
+  </em>
+  held that a debtor could discharge a portion of a claim that would be non-dis-chargeable under Chapter 7. The case was
+  <span citation-index="1" class="star-pagination" label="490"> 
+   *490
+   </span>
+  then remanded to the Bankruptcy court for a determination of good faith in line with the
+  <em>
+   Rimgale
+  </em>
+  guidelines.
+ </p>
+<p id="b546-4">
+  The
+  <em>
+   Rimgale
+  </em>
+  rationale regarding good faith has been followed in other Circuits.
+  <em>
+   See In re Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1390" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386, 1390</a></span> (9th Cir.1982) (a 1% payment to unsecured creditors may be acceptable, as substantial repayment is not determinative of good faith);
+  <em>
+   Barnes v. Whelan,
+  </em>
+  <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/#198" aria-description="Citation for case: Barnes v. Whelan">689 F.2d 193, 198</a></span> (D.C.Cir.1982) (§ 1325(a)(3) does not require any particular level of repayment to unsecured creditors);
+  <em>
+   Deans v. O’Donnell,
+  </em>
+  <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/#970" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">692 F.2d 968, 970</a></span> (4th Cir.1982) (rather than imposing a per se substantial repayment requirement, a court should take all the debtor’s relevant circumstances into account);
+  <em>
+   In re Estus,
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/#315" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d 311, 315</a></span> (8th Cir.1982) (a per se minimum requirement would infringe on the desired flexibility of Chapter 13 and is unwarranted).
+ </p>
+<p id="b546-5">
+  Applying these guidelines to the case at bar, this court holds that the debtor satisfies the good faith requirement of Section 1325(a)(3). The debtor’s plan accurately stated all outstanding debts, as evidenced by the absence of any claims by creditors disputing the scheduled debts. Further, the expenses, percentage of repayment, and scheduled income were accurately listed. Finally, there have been no deficiencies in the plan, and the debtor has not attempted to mislead the bankruptcy court.
+ </p>
+<p id="b546-6">
+  Whether the plan indicates a fundamental fairness in dealing with the creditors is a more difficult question. The proposed plan represents a 10% repayment of the scheduled unsecured claims, leaving surplus income of $80.00 per month for the debtor. I.D.P.A. argues that this does not constitute the requisite meaningful effort on the part of the debtor.
+ </p>
+<p id="b546-7">
+  Although the debtor projects surplus income after plan payments and fixed monthly expenses, this court does not find that the plan violates fundamental fairness. The debtor is divorced and has four children. As this court recognized in
+  <em>
+   Vratani-na,
+  </em>
+  the debtor’s projection of monthly expenses could be subject to a wide variance due to items such as medical bills and clothing for her children. The purpose behind Chapter 13 is to provide debtors with a meaningful opportunity to rehabilitate.
+  <em>
+   See In re Taddeo,
+  </em>
+  <span class="citation" data-id="1548450"><a href="/opinion/1548450/di-pierro-v-cullen-in-re-taddeo/#303" aria-description="Citation for case: Di Pierro v. Cullen (In Re Taddeo)">9 B.R. 299, 303</a></span> (Bkrtcy.E.D.N.Y.1981) (pervasive theme of Chapter 13 is debtor rehabilitation),
+  <em>
+   aff’d,
+  </em>
+  <span class="citation" data-id="2028170"><a href="/opinion/2028170/dipierro-v-taddeo-in-re-taddeo/" aria-description="Citation for case: DiPierro v. Taddeo (In Re Taddeo)">15 B.R. 273</a></span> (E.D.N.Y.1981),
+  <em>
+   aff’d,
+  </em>
+  <span class="citation" data-id="406834"><a href="/opinion/406834/in-re-joseph-c-taddeo-and-ellen-a-taddeo-debtors-elfriede-di-pierro-v/" aria-description="Citation for case: In Re Joseph C. Taddeo and Ellen A. Taddeo, Debtors....">685 F.2d 24</a></span> (2d Cir. 1982).
+  <em>
+   See also In re Young,
+  </em>
+  <span class="citation" data-id="1820658"><a href="/opinion/1820658/st-paul-federal-savings-loan-assn-of-chicago-v-young-in-re-young/#622" aria-description="Citation for case: St. Paul Federal Savings &amp; Loan Ass&#x27;n of Chicago v. Young...">22 B.R. 620, 622</a></span> (N.D.Ill.1982) (of the different approaches to Chapter 13, “the principle of debtor rehabilitation [is] most persuasive.”). In this case, a higher percentage of repayment from the debtor would hinder her efforts to economically rehabilitate and, consequently, would defeat the overriding rehabilitative purpose of Chapter 13.
+ </p>
+<p id="b546-9">
+  Accordingly, this court holds that the debtor’s plan was proposed in good faith and denies I.D.P.A.’s objection to confirmation of the plan. The debtor is to furnish a draft order in accordance with this opinion within five (5) days.
+ </p>
+</opinion>

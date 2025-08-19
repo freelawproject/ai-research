@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b1373-25">
+  JOHNSON, Circuit Judge:
+ </author>
+<p id="b1373-26">
+  Jack William Carpenter (“Carpenter”) appeals from his conviction, by a jury, of four
+  <span citation-index="1" class="star-pagination" label="1292"> 
+   *1292
+   </span>
+  counts of willfully failing to file an income tax return as proscribed by 26 U.S.C. § -7203. Carpenter raises three issues on appeal. First, Carpenter argues that the trial judge committed reversible error because of certain comments he made to defense counsel during Carpenter’s testimony. Second, Carpenter asserts that the prosecutor committed reversible error when the prosecutor asked the Internal Revenue Service (“IRS”) case agent why the case agent thought that Carpenter’s actions were willful. Third, Carpenter asserts that the district court erred in overruling his motion for a new trial on the ground that Carpenter’s trial counsel was automatically disqualified from practicing before the district court. This Court finds no reversible error, and the convictions are affirmed.
+ </p>
+<p id="b1374-4">
+  I. FACTS AND PROCEDURAL HISTORY
+ </p>
+<p id="b1374-5">
+  Carpenter was charged with four counts of failing to file income tax returns, one count for each of the years 1978, 1979, 1980, and 1981. For the year 1978, the Government’s evidence demonstrated that Carpenter’s income was $31,078.71. For the year 1979, his income was $59,184.50, while in 1980 his income was $15,733.90. In 1981, the evidence showed that Carpenter’s income was $61,061.79. It was undisputed that Carpenter did not file returns for any of these years. It was also undisputed that Carpenter’s income exceeded the statutory amount beyond which the filing of an income tax return is required.
+ </p>
+<p id="b1374-6">
+  The heart of Carpenter’s defense was that his failure to file was not willful. Along with other evidence, the Government put forth the following testimony in order to demonstrate willfullness. First, the secretary-receptionist for one of Carpenter’s former employers testified that Carpenter boasted to her that he was not going to file an income tax return for tax year 1981, and that he had not filed a return for some time. Second, the IRS case agent testified that Carpenter stated to the agent that he (Carpenter) did not believe in the federal tax system. Finally, and perhaps most probative, Carpenter admitted that he claimed exempt status on his W-4 withholding forms filed with various employers when he knew in fact that he would owe taxes at the end of the year.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+</p>
+<p id="b1374-9">
+  Carpenter testified on his own behalf. Carpenter stated that he did not file his income tax returns because he was afraid he would be prosecuted for filing a fraudulent return. Carpenter asserted that each time that he had filed a form itemizing deductions, he had been audited or threatened with an audit, and that even though he believed that his deductions were legitimate, he was told by the IRS that he could be prosecuted if they, in fact, were not legitimate deductions. Carpenter also testified that he thought the IRS would file returns for him if he failed to file, and that he did not know that it was a crime not to file the returns.
+ </p>
+<p id="b1374-10">
+  The jury returned a guilty verdict on each count. The district court sentenced Carpenter to four consecutive one year prison terms. Carpenter now appeals his convictions. This Court finds no reversible error, and the convictions are affirmed.
+ </p>
+<p id="b1374-11">
+  II. DISCUSSION
+ </p>
+<p id="b1374-12">
+  A.
+  <em>
+   Judicial Intervention in the Trial
+  </em>
+</p>
+<p id="b1374-13">
+  All parties concede that the sole disputed issue at trial was whether Carpenter’s failure to file his returns was willful. Because the sole issue was willfulness, Carpenter asserts that the trial court committed reversible error when it commented in the presence of the jury during the
+  <span citation-index="1" class="star-pagination" label="1293"> 
+   *1293
+   </span>
+  Court’s own examination of Carpenter that “I was just trying to figure out what his defense is, counsel and I still haven’t heard one.” Record Vol. 5 at 156. Carpenter argues that the tenor of the comment as well as the comment itself communicated to the jury that the district court did not believe that Carpenter had a credible defense to the offense charged. Consequently, Carpenter argues that the comment deprived him of a fair and impartial trial. This Court concludes that the district court’s comments were in error, but this Court further concludes that Carpenter has not demonstrated that the error was substantial and that it prejudiced his case.
+ </p>
+<p id="b1375-5">
+  The district court’s comment occurred in the course of defense counsel’s direct examination of Carpenter. Although lengthy, the entire colloquy follows:
+ </p>
+<blockquote id="AE6">
+  [Defense counsel]: Mr. Carpenter, directing your attention to the year 1978, the tax year 1978 on to the present, did you file tax returns?
+ </blockquote>
+<blockquote id="b1375-6">
+  [Carpenter]: No, sir I didn’t.
+ </blockquote>
+<blockquote id="b1375-7">
+  [Counsel]: Would you please explain to the jury and the Court why you did not?
+ </blockquote>
+<blockquote id="Abd">
+  [Carpenter]: At this point, particularly having custody of two children in ’78 and ’79, being the sole support, I was being — maybe paranoid is wrong a word [sic] — I was afraid to file a form. I finally got it [my tax refund] on the ’77 and it was after the fact and there was no explanation. In ’78 and ’79 I knew I could get in trouble for what I put on the form.
+ </blockquote>
+<blockquote id="b1375-8">
+  The Court: Which form?
+ </blockquote>
+<blockquote id="b1375-9">
+  [Carpenter]: On these 1040’s I had been told I could be prosecuted for fraud. I had no idea until just recently I could be prosecuted for what I didn’t put on the form.
+ </blockquote>
+<blockquote id="b1375-10">
+  [Counsel]: Mr. Carpenter, are you saying you did not file a return because you figured, feared criminal prosecution?
+ </blockquote>
+<blockquote id="AMQ">
+  [Carpenter]: That’s right.
+ </blockquote>
+<blockquote id="b1375-11">
+  [Counsel]: Mr. Carpenter, do you pay taxes?
+ </blockquote>
+<blockquote id="b1375-12">
+  [Carpenter]: Yes, sir, I do.
+ </blockquote>
+<blockquote id="b1375-13">
+  [Counsel]: What taxes have you paid?
+ </blockquote>
+<blockquote id="b1375-14">
+  The Court:
+  <em>
+   I’m sorry, I’m trying to find out what your defense is here and I don’t understand it.
+  </em>
+  You are saying you did not file a return for the 1978 taxable year, which would have been in 1979, because you had not received your refund for 1977?
+ </blockquote>
+<blockquote id="b1375-15">
+  [Carpenter]: I didn’t receive it until a year and a half later.
+ </blockquote>
+<blockquote id="b1375-16">
+  [Counsel]: When did you get your refund in 1977?
+ </blockquote>
+<blockquote id="b1375-17">
+  [Carpenter]: Approximately about a year and a half after I filed. I filed — it was probably ’78.
+ </blockquote>
+<blockquote id="b1375-18">
+  [Counsel]: So you got your refund in 1979. Was it before or after April 15?
+ </blockquote>
+<blockquote id="b1375-19">
+  [Carpenter]: Probably before.
+ </blockquote>
+<blockquote id="b1375-20">
+  [Counsel]: So you got your refund in ’79 before you got the ’78 tax return filed?
+ </blockquote>
+<blockquote id="b1375-21">
+  [Carpenter]: Yes, sir.
+ </blockquote>
+<blockquote id="b1375-22">
+  The Court: Why didn’t you file your 1978 tax return before April 15 of 1979?
+ </blockquote>
+<blockquote id="b1375-23">
+  [Carpenter]: Because at that point I did not intend to file because I did not commit a crime.
+ </blockquote>
+<blockquote id="b1375-24">
+  The Court: How would you commit a crime by filing your return?
+ </blockquote>
+<blockquote id="b1375-25">
+  [Carpenter]: By filing a fraudulent return.
+ </blockquote>
+<blockquote id="b1375-26">
+  The Court: Did you intend to file a fraudulent return?
+ </blockquote>
+<blockquote id="b1375-27">
+  [Carpenter]: No, sir I never intended to file. I was told in ’72 I had.
+ </blockquote>
+<blockquote id="b1375-28">
+  The Court: So you say you didn’t file a return in 1978 because you feared if you did file one you would be prosecuted?
+ </blockquote>
+<blockquote id="b1375-29">
+  [Carpenter]: I figured there’s a good possibility, yes sir.
+ </blockquote>
+<blockquote id="b1375-30">
+  The Court: Had you ever been prosecuted for filing a tax return before in your life?
+ </blockquote>
+<blockquote id="b1375-31">
+  [Carpenter]: No.
+ </blockquote>
+<blockquote id="b1375-32">
+  The Court: Why did you have the fear in ’79?
+ </blockquote>
+<blockquote id="b1375-33">
+  [Carpenter]: Because it was the second time I tried to file the form other than the short form and at this point, as Mr. Gregorski brought out, my wages had gone up along with inflation and to file a short form would be awfully hard.
+ </blockquote>
+<blockquote id="b1376-3">
+<span citation-index="1" class="star-pagination" label="1294"> 
+   *1294
+   </span>
+  The Court: You’d be paying too much taxes?
+ </blockquote>
+<blockquote id="b1376-4">
+  [Carpenter]: To a certain extent I tried to overpay every year since then, since ’72.
+ </blockquote>
+<blockquote id="b1376-5">
+  The Court: You didn’t try very hard in ’78 when you stopped filing those forms.
+ </blockquote>
+<blockquote id="AvW">
+  [Carpenter]: ’78 I didn’t file a form.
+ </blockquote>
+<blockquote id="b1376-6">
+  The Court: Go ahead.
+  <em>
+   I was just trying to figure out what his defense is, counsel and I still haven’t heard one.
+  </em>
+  Go ahead.
+ </blockquote>
+<p id="b1376-7">
+  Record Yol. 5 at 153-56 (emphasis added).
+ </p>
+<p id="b1376-8">
+  This Court has described the role of the trial judge in detail in
+  <em>
+   Moore v. United States,
+  </em>
+  <span class="citation" data-id="366042"><a href="/opinion/366042/bobby-lee-moore-v-united-states/" aria-description="Citation for case: Bobby Lee Moore v. United States">598 F.2d 439</a></span> (5th Cir.1979):
+ </p>
+<blockquote id="b1376-9">
+  It is axiomatic ... that the trial judge has a duty to conduct the trial carefully, patiently, and impartially. He must be above even the appearance of being partial to the prosecution. On the other hand, a federal judge is not a mere moderator of proceedings. He is a common law judge having that authority historically exercised by judges in the common law process. He may comment on the evidence, may question witnesses and elicit facts not yet adduced or clarify those previously presented, and may maintain the pace of the trial by interrupting or cutting off counsel as a matter of discretion. Only when the judge’s conduct strays from neutrality is the defendant thereby denied a constitutionally fair trial.
+ </blockquote>
+<p id="b1376-10">
+<span class="citation" data-id="366042"><a href="/opinion/366042/bobby-lee-moore-v-united-states/#442" aria-description="Citation for case: Bobby Lee Moore v. United States"><em>
+   Id.
+  </em>
+  at 442</a></span> (citations and quotation omitted).
+  <em>
+   See also Quercia v. United States,
+  </em>
+  <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/" aria-description="Citation for case: Quercia v. United States">289 U.S. 466</a></span>, <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/" aria-description="Citation for case: Quercia v. United States">53 S.Ct. 698</a></span>, <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/" aria-description="Citation for case: Quercia v. United States">77 L.Ed. 1321</a></span> (1933);
+  <em>
+   United States v. Adkins,
+  </em>
+  <span class="citation" data-id="440118"><a href="/opinion/440118/united-states-v-glen-adkins-aka-alan-perlman-tom-adkins-walter/#747" aria-description="Citation for case: United States v. Glen Adkins, A/K/A Alan Perlman, Tom...">741 F.2d 744, 747-48</a></span> (5th Cir.1984),
+  <em>
+   cert. denied,
+  </em>
+  - U.S. -<span class="citation multiple-matches"><a href="/c/S.Ct./105/2113/">105 S.Ct. 2113</a></span>, <span class="citation no-link">85 L.Ed.2d 478</span> (1985).
+ </p>
+<p id="b1376-12">
+  In determining whether the trial judge overstepped the limits imposed on the judge’s conduct, this Court must view the proceedings as a whole.
+  <em>
+   United States v. Middlebrooks,
+  </em>
+  <span class="citation" data-id="376681"><a href="/opinion/376681/united-states-v-david-leslie-middlebrooks/#277" aria-description="Citation for case: United States v. David Leslie Middlebrooks">618 F.2d 273, 277</a></span> (5th Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./449/984/">449 U.S. 984</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./101/401/">101 S.Ct. 401</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/66/246/">66 L.Ed.2d 246</a></span> (1980);
+  <em>
+   United States v. Davis,
+  </em>
+  <span class="citation" data-id="341371"><a href="/opinion/341371/united-states-v-kenneth-w-davis-james-b-cobb-and-ferrell-bennett-jr/" aria-description="Citation for case: United States v. Kenneth W. Davis, James B. Cobb and...">546 F.2d 617</a></span> (5th Cir.1977). Furthermore, this Court is particularly sensitive to a trial judge’s questioning of the defendant, because “[w]hen a defendant takes the stand in his own behalf, any unnecessary comments by the court are too likely to have a detrimental effect on the jury’s ability to decide the case impartially.”
+  <em>
+   Middlebrooks,
+  </em>
+  <span class="citation" data-id="376681"><a href="/opinion/376681/united-states-v-david-leslie-middlebrooks/#277" aria-description="Citation for case: United States v. David Leslie Middlebrooks">618 F.2d at 277</a></span>. Nevertheless, “even if the trial judge does commit error in such a respect, the complaining party must prove that the error was substantial and that it prejudiced his case.”
+  <em>
+   Adkins,
+  </em>
+  <span class="citation" data-id="440118"><a href="/opinion/440118/united-states-v-glen-adkins-aka-alan-perlman-tom-adkins-walter/#748" aria-description="Citation for case: United States v. Glen Adkins, A/K/A Alan Perlman, Tom...">741 F.2d at 748</a></span>;
+  <em>
+   Ruiz v. Estelle,
+  </em>
+  <span class="citation" data-id="404985"><a href="/opinion/404985/david-r-ruiz-united-states-of-america-intervenor-appellee-v-w-j/#1129" aria-description="Citation for case: David R. Ruiz, United States of America,...">679 F.2d 1115, 1129</a></span> (5th Cir.1982),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./460/1042/">460 U.S. 1042</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./103/1438/">103 S.Ct. 1438</a></span>, <span class="citation" data-id="9037705"><a href="/opinion/9044343/gomez-gomez-v-immigration-naturalization-service/" aria-description="Citation for case: Gomez-Gomez v. Immigration &amp; Naturalization Service">75 L.Ed.2d 795</a></span> (1983).
+ </p>
+<p id="b1376-14">
+  This Court must conclude that it was error for the district court to state in the presence of the jury that the court still had not heard a defense. The Government argues that the district court was genuinely confused as to Carpenter’s reasons for not filing his returns. This Court’s review of the record supports that contention. Carpenter asserted that he failed to file because he was afraid that the IRS would bring a criminal prosecution against him in the event a deduction Carpenter thought to be legitimate turned out not to be legitimate. Carpenter also asserted that he did not file because he thought the IRS would file for him. In addition, he stated that he did not know that it was a crime not to file. Carpenter’s testimony also indicated that he did not file his returns because he did not want to file without itemizing his deductions. Finally, defense counsel, in his opening statement, indicated that Carpenter’s testimony would demonstrate that Carpenter tried to comply with the tax laws but became confused and was unable to comply.
+ </p>
+<p id="b1376-15">
+  To state that Carpenter’s defense was confusing is to understate the matter. The district court was legitimately concerned with determining the thrust of Carpenter’s defense or defenses so that it could properly instruct the jury, which it did.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  Nevertheless, by telling counsel that the district court had yet to hear a defense, the district
+  <span citation-index="1" class="star-pagination" label="1295"> 
+   *1295
+   </span>
+  court erred. Any such discussion, even if it arose out of the district court’s frustration with what it perceived to be inadequate organization and presentation by defense counsel, should have taken place out of the presence of the jury. This Court further concludes, however, that Carpenter has not demonstrated that the error was substantial and that it prejudiced his case.
+ </p>
+<p id="b1377-5">
+  This Court concludes that the error was not substantial and prejudicial for several reasons. First, no objection was made. Consequently, this Court reviews Carpenter’s contention under the plain error doctrine.
+  <em>
+   See United States v. Lanham,
+  </em>
+  <span class="citation" data-id="286790"><a href="/opinion/286790/united-states-v-luther-lee-lanham/#1143" aria-description="Citation for case: United States v. Luther Lee Lanham">416 F.2d 1140, 1143</a></span> (5th Cir.1969).
+  <em>
+   Cf. Moore,
+  </em>
+  <span class="citation" data-id="366042"><a href="/opinion/366042/bobby-lee-moore-v-united-states/#443" aria-description="Citation for case: Bobby Lee Moore v. United States">598 F.2d at 443</a></span>;
+  <em>
+   United States v. Stone,
+  </em>
+  <span class="citation" data-id="292272"><a href="/opinion/292272/united-states-v-s-montague-stone/#1291" aria-description="Citation for case: United States v. S. Montague Stone">431 F.2d 1286, 1291</a></span> (5th Cir.1970),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./401/912/">401 U.S. 912</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./91/879/">91 S.Ct. 879</a></span>, <span class="citation no-link">27 L.Ed.2d 811</span> (1971).
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</p>
+<p id="b1377-6">
+  Second, the trial as a whole was conducted in an impartial manner. The district court intervened on several occasions to direct the prosecutor to spped up her presentation. The district court
+  <em>
+   sua sponte
+  </em>
+  objected to the IRS case agent speculating about Carpenter’s motives, and the court directed the agent to testify only to the facts. Furthermore, the district court pointedly questioned the agent concerning the
+  <em>
+   Miranda
+  </em>
+  warnings given to Carpenter before the court would allow the agent to testify about a statement made by Carpenter.
+ </p>
+<p id="b1377-7">
+  The district court also interrupted defense counsel at least twice in counsel’s direct examination of Carpenter, both times to prevent counsel from harming his client’s case. Initially, the district court
+ </p>
+<p id="b1377-11">
+  directed defense counsel to address his client as
+  <em>
+   Mr.
+  </em>
+  Carpenter. Thereafter, the district court cut off questions propounded by defense counsel concerning prior criminal activity that might not have been admissible under Fed.R.Evid. 609. As a whole, the trial was conducted impartially.
+ </p>
+<p id="b1377-12">
+  Third, this Court notes that the Government presented substantial evidence tending to show willfulness.
+  <em>
+   See Middle-brooks,
+  </em>
+  <span class="citation" data-id="376681"><a href="/opinion/376681/united-states-v-david-leslie-middlebrooks/#277" aria-description="Citation for case: United States v. David Leslie Middlebrooks">618 F.2d at 277</a></span>. Carpenter admitted filing W-4 forms claiming exempt status. The Government amply demonstrated, however, that Carpenter was not entitled to that status. Moreover, the testimony indicated that Carpenter was made aware of the fact that falsely claiming such exemptions was not legal. Testimony was elicited that Carpenter boasted that he did not intend to file a return for 1981, and that he had not filed returns for some time prior to that date. The case agent testified that Carpenter stated that he did not believe in the federal tax system. There was abundant evidence on which to find willfulness in this case. Thus, to the extent that the Court’s comment was error, it likely had little influence on the jury in light of all the evidence presented.
+ </p>
+<p id="b1377-13">
+  Fourth, the district court clearly instructed the jury that it was not to consider the district court’s questions or comments in making its determination. The district court made it clear that the jury was the sole factfinder in the case, and that they were to disregard anything that the court said that might indicate that it had an opinion on the defendant’s guilt.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  How
+  <span citation-index="1" class="star-pagination" label="1296"> 
+   *1296
+   </span>
+  ever, it is recognized that some comments or remarks are so prejudicial that even the strongest instructions to the jury to disregard the judge’s questions or comments will not suffice.
+  <em>
+   Middlebrooks,
+  </em>
+  <span class="citation" data-id="376681"><a href="/opinion/376681/united-states-v-david-leslie-middlebrooks/#277" aria-description="Citation for case: United States v. David Leslie Middlebrooks">618 F.2d at 277</a></span>;
+  <em>
+   Bursten v. United States,
+  </em>
+  <span class="citation" data-id="9453697"><a href="/opinion/280456/leonard-l-bursten-v-united-states/#984" aria-description="Citation for case: Leonard L. Bursten v. United States">395 F.2d 976, 984</a></span> (5th Cir.1968),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./409/843/">409 U.S. 843</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./93/44/">93 S.Ct. 44</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/34/83/">34 L.Ed.2d 83</a></span> (1972). While this Court recognizes that an egregious error may not necessarily be cured by such an instruction, this Court does not find that to be the situation in this case.
+ </p>
+<p id="ACS">
+  In support of his contention that the judge’s comment requires reversal, the defendant relies particularly on the cases of
+  <em>
+   United States v. Sheldon,
+  </em>
+  <span class="citation" data-id="340075"><a href="/opinion/340075/united-states-v-scott-sheldon-and-mitchell-paul-solomon/" aria-description="Citation for case: United States v. Scott Sheldon and Mitchell Paul Solomon">544 F.2d 213</a></span> (5th Cir.1976);
+  <em>
+   United States v. Cisneros,
+  </em>
+  <span class="citation" data-id="316922"><a href="/opinion/316922/united-states-v-manuel-rivas-cisneros/" aria-description="Citation for case: United States v. Manuel Rivas Cisneros">491 F.2d 1068</a></span> (5th Cir.1974);
+  <em>
+   United States v. Hoker,
+  </em>
+  <span class="citation" data-id="312944"><a href="/opinion/312944/united-states-v-dennis-frederick-hoker/" aria-description="Citation for case: United States v. Dennis Frederick Hoker">483 F.2d 359</a></span> (5th Cir.1973);
+  <em>
+   Lanham,
+  </em>
+  <span class="citation" data-id="286790"><a href="/opinion/286790/united-states-v-luther-lee-lanham/" aria-description="Citation for case: United States v. Luther Lee Lanham">416 F.2d 1140</a></span> (5th Cir.1969); and
+  <em>
+   Bursten,
+  </em>
+  <span class="citation" data-id="9453697"><a href="/opinion/280456/leonard-l-bursten-v-united-states/" aria-description="Citation for case: Leonard L. Bursten v. United States">395 F.2d 976</a></span> (5th Cir.1968). This Court finds that the conduct of which the appellants complained in those cases is of a level substantially removed and far more serious than the conduct of the district court in the instant case. Those cases do not command a different outcome in the instant case.
+ </p>
+<p id="b1378-5">
+  Carpenter also argues that the court’s comment was tantamount to the district court expressing the opinion that Carpenter was guilty. This Court does not disagree that the district court may not express to the jury that, in the court’s opinion, the defendant is guilty.
+  <em>
+   See United States v. Van Horn,
+  </em>
+  <span class="citation" data-id="9463758"><a href="/opinion/344920/united-states-v-roy-f-van-horn/" aria-description="Citation for case: United States v. Roy F. Van Horn">553 F.2d 1092</a></span> (8th Cir.1977);
+  <em>
+   United States v. Musgrave,
+  </em>
+  <span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/#763" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">444 F.2d 755, 763</a></span> (5th Cir.1971),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./414/1023/">414 U.S. 1023</a></span> and 1025, <span class="citation multiple-matches"><a href="/c/S.Ct./94/447/">94 S.Ct. 447</a></span> and 450, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/38/315/">38 L.Ed.2d 315</a></span> and 316 (1973). This is not that case, however. Here it is readily apparent that the comment was designed to prompt defense counsel to make a clearer presentation.
+ </p>
+<p id="b1378-10">
+  This Court concludes that although the district court’s comment was error, it was neither so substantial nor prejudicial as to command reversal.
+  <em>
+   See Adkins,
+  </em>
+  <span class="citation" data-id="440118"><a href="/opinion/440118/united-states-v-glen-adkins-aka-alan-perlman-tom-adkins-walter/#748" aria-description="Citation for case: United States v. Glen Adkins, A/K/A Alan Perlman, Tom...">741 F.2d at 748</a></span>. As this Court stated in
+  <em>
+   <span class="citation" data-id="440118"><a href="/opinion/440118/united-states-v-glen-adkins-aka-alan-perlman-tom-adkins-walter/" aria-description="Citation for case: United States v. Glen Adkins, A/K/A Alan Perlman, Tom...">Adkins</a></span>,
+  </em>
+  “[tjhus, while we disapprove of the trial court's conduct in the respects noted, we hold that [the defendant was] not denied a fair trial by it.”
+  <em>
+   <span class="citation" data-id="440118"><a href="/opinion/440118/united-states-v-glen-adkins-aka-alan-perlman-tom-adkins-walter/" aria-description="Citation for case: United States v. Glen Adkins, A/K/A Alan Perlman, Tom...">Id.</a></span>
+  </em>
+</p>
+<p id="b1378-11">
+  B.
+  <em>
+   Improper Questioning of the Case Agent
+  </em>
+</p>
+<p id="b1378-12">
+  As his second point of error, Carpenter contends that the prosecutor committed reversible error by asking the case agent the following question: “Why do you believe, however, that his [Carpenter’s] failure to file an income tax return in that year [1978] is willful?” Record Vol. 5 at 131. Even if this Court agreed that the question was improper because it asked the case agent to speculate on the motives and state of mind of the defendant,
+  <em>
+   see United States v. Ellsworth,
+  </em>
+  <span class="citation" data-id="437744"><a href="/opinion/437744/united-states-v-john-a-ellsworth-united-states-of-america-v-mary-a/#336" aria-description="Citation for case: United States v. John A. Ellsworth, United States of...">738 F.2d 333, 336-37</a></span> (5th Cir.1984),
+  <em>
+   cert. denied,
+  </em>
+  - U.S. -, <span class="citation multiple-matches"><a href="/c/S.Ct./105/528/">105 S.Ct. 528</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/83/415/">83 L.Ed.2d 415</a></span> (1985), there is no reversible error in this case because the agent, in fact, did not answer that question. Rather, the agent continued to summarize the evidence against Carpenter. When the agent began to discuss the agent’s perception of Carpenter’s motives, the district court
+  <em>
+   sua sponte
+  </em>
+  intervened and instructed the agent to testify only to the facts.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  The question was not answer
+  <span citation-index="1" class="star-pagination" label="1297"> 
+   *1297
+   </span>
+  ed, and the district court instructed the jury that counsel’s questions were not evidence. Record Vol. 5 at 186. Consequently, this contention is without merit.
+ </p>
+<p id="b1379-4">
+  C.
+  <em>
+   Appeal from Motion for New Trial
+  </em>
+</p>
+<p id="b1379-5">
+  Finally, Carpenter contends that the district court erred in overruling his motion for a new trial based on newly discovered evidence.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  This Court concludes that the district court did not err.
+ </p>
+<p id="b1379-6">
+  In his motion for new trial, Carpenter claimed that he had recently discovered that Mr. Terry Bowerstock, who represented Carpenter at trial, was not properly licensed to practice law in any state. Based on that information, Carpenter contended that Bowerstock was automatically disqualified from representing him and that this factor constituted a per se violation of the sixth amendment.
+ </p>
+<p id="b1379-7">
+  The facts are as follows. Bowerstock was admitted to the Ohio State Bar on April 30, 1976. Based on his Ohio State Bar membership, he was admitted to the Bar of the United States District Court for the Northern District of Ohio. To proceed in the instant case, Bowerstock filed a Local Rule 1 motion petitioning the district court to allow him to practice in the Southern District of Texas based on his admission to the Bar of the Northern District of Ohio. The district court granted that motion. Bowerstock’s good standing with the Ohio State Bar had lapsed, however, due to Bowerstock’s failure to pay his state bar dues in Ohio.
+ </p>
+<p id="b1379-8">
+  The trial court determined that simply because Bowerstock was not in good standing with the Ohio Supreme Court, Bower-stock was not automatically disqualified from practicing in federal district court. This Court agrees. In
+  <em>
+   Theard v. United States,
+  </em>
+  <span class="citation" data-id="105535"><a href="/opinion/105535/theard-v-united-states/" aria-description="Citation for case: Theard v. United States">354 U.S. 278</a></span>, <span class="citation" data-id="105535"><a href="/opinion/105535/theard-v-united-states/" aria-description="Citation for case: Theard v. United States">77 S.Ct. 1274</a></span>, <span class="citation" data-id="105535"><a href="/opinion/105535/theard-v-united-states/" aria-description="Citation for case: Theard v. United States">1 L.Ed.2d 1342</a></span> (1957), the Supreme Court ruled that an attorney disbarred from a state bar association may not be summarily disbarred from practicing before a federal court even when that state bar membership was the predicate upon which the lawyer was admitted to the federal court. There was no evidence that Bowerstock was not in good standing in the Northern District of Ohio, notwithstanding the fact that his Ohio State Bar membership had lapsed. Thus, the district court correctly determined that Bowerstock was indeed not disqualified from practicing in the Northern District of Ohio.
+ </p>
+<p id="b1379-13">
+  The local rules of the Southern District of Texas provide that “any ... attorney who is a member in good standing of the Bar of any other United States District Court,” may be permitted to practice in the Southern District of Texas. The district court concluded that Bowerstock still met that requirement and that the initial granting of the Local Rule 1 Motion was not in error. The district court did not commit error by denying Carpenter’s motion for a new trial on this ground.
+  <em>
+   See United States v. Hoffman,
+  </em>
+  <span class="citation" data-id="9472117"><a href="/opinion/435084/united-states-v-barry-j-hoffman/" aria-description="Citation for case: United States v. Barry J. Hoffman">733 F.2d 596</a></span> (9th Cir.1984), ce
+  <em>
+   rt. denied,
+  </em>
+  - U.S. -, <span class="citation multiple-matches"><a href="/c/S.Ct./105/521/">105 S.Ct. 521</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/83/409/">83 L.Ed.2d 409</a></span> (1985);
+  <em>
+   Beto v. Barfield,
+  </em>
+  <span class="citation" data-id="279271"><a href="/opinion/279271/dr-george-j-beto-director-texas-department-of-corrections-v-thomas/" aria-description="Citation for case: Dr. George J. Beto, Director, Texas Department of...">391 F.2d 275</a></span> (5th Cir.) (per curiam),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./393/888/">393 U.S. 888</a></span>, <span class="citation no-link">89 S.Ct. 205</span>, <span class="citation no-link">21 L.Ed.2d 166</span> (1968).
+ </p>
+<p id="b1379-16">
+  III. CONCLUSION
+ </p>
+<p id="b1379-17">
+  For the reasons stated above, the convictions are
+ </p>
+<p id="b1379-18">
+  AFFIRMED.
+ </p>
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b1374-7">
+   . Carpenter admitted signing the W-4 forms which contained a certification, under penalty of perjury, that the number of exemptions claimed did not exceed the number to which the taxpayer was entitled, that the taxpayer had no liability for federal income tax the previous year, and that the taxpayer anticipated that the taxpayer would incur no liability for the year in question.
+   <em>
+    See, e.g.,
+   </em>
+   Record Vol. 5 at 77. Nevertheless, Carpenter filed a W-4 form claiming exempt status in 1978 when in fact he had incurred and paid taxes in 1977, which was the last year Carpenter filed a return.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b1376-16">
+   . Record Vol. 5 at 195.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b1377-8">
+   . This Court does not mean to indicate that an objection must be made to the judge’s conduct in the presence of the jury. Rather, the objection should be made at the first opportunity out of the presence of the jury. Fed R.Evid. 614(c).
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b1377-9">
+   . The jury was instructed as follows:
+  </p>
+<blockquote id="b1377-10">
+   I hope in this case ... that by my demeanor or the manner in which I asked the question or by the text of the question itself that I left no inference with you that I thought Mr. Carpenter was guilty or not guilty, because that’s not my job. It is not my job to determine guilt or innocence. I didn’t take an oath to return a true verdict in this case. You did this and you must return your own verdict.
+  </blockquote>
+<blockquote id="b1377-14">
+   Do not infer from any ruling I made during the course of the trial or any question I may have asked the witness that I have a leaning one way or the other. My purpose in asking questions is two fold. First of all, I want to be sure I understand what a witness’s position is or what a witness is saying so I know how to charge you in the case and, secondly, when I ask a witness a question, the reason I ask the question is because I want you as jurors to hear the answer from that witness to that question. Pure and simple that is my purpose in asking the question. Then I leave it up to
+   <span citation-index="1" class="star-pagination" label="1296"> 
+    *1296
+    </span>
+   you to decide whether that answer helps you in the case one way or the other or doesn't help you in the case one way or the other. That is the only purpose I have in asking the question. I don’t mean by asking the question to infer that I believe what a witness is saying or I don't believe what a witness is saying. I just want you to hear that answer and then you decide whether or not that answer is a truthful one, logical one and would make sense or not.
+  </blockquote>
+<p id="b1378-7">
+   Record Vol. 5 at 186-87.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b1378-8">
+   . The case agent’s actual response and the prosecutor’s subsequent questions are as follows:
+  </p>
+<blockquote id="b1378-15">
+   [Case Agent]: As I was saying, up through 1977 Mr. Carpenter had filed timely returns and had withholdings deducted from his paychecks. After 1977, early in 1978 he began filing W4’s claiming exempt which meant there was no withholding deducted from his salary. From that point on he did not file an income tax return. His income through 1976, in 1976, my recollection is approximately nineteen thousand dollars. In
+   <em>
+    'll
+   </em>
+   it went up to about thirty-five thousand dollars. When his income increased that come [sic] to the point where he decided to stop filing income tax returns.
+  </blockquote>
+<blockquote id="b1379-9">
+<span citation-index="1" class="star-pagination" label="1297"> 
+    *1297
+    </span>
+   [Prosecutor]: Have you made any attempt to determine whether the defendant would have owed any income tax during the years in question, that would be 1978 through ’81.
+  </blockquote>
+<blockquote id="Ai2">
+   [Case Agent]: Yes I did.
+  </blockquote>
+<blockquote id="AeTS">
+   [Prosecutor]: What was the purpose of that analysis?
+  </blockquote>
+<blockquote id="Ag_">
+   [Case Agent]: Well, seems as though the reason he filed the exempt W4’s is he didn’t want to pay taxes—
+  </blockquote>
+<blockquote id="b1379-19">
+   The Court:
+   <em>
+    III sustain any objection.
+   </em>
+   You are wandering too far. Just ask about the facts of the case, the jury will figure everything out.
+  </blockquote>
+<p id="Aiv">
+   Record Vol. 5 at 132-33 (emphasis added).
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b1379-20">
+   . Carpenter filed his motion for a new trial after the appeal had been filed in the instant case. Carpenter appealed the denial of the motion for a new trial, and that appeal was consolidated with the instant appeal by order of September 3, 1985.
+  </p>
+</div></div></opinion>

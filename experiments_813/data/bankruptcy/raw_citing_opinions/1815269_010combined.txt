@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b612-14">
+  OPINION
+ </p>
+<author id="b612-15">
+  D. JOSEPH De VITO, Bankruptcy Judge.
+ </author>
+<p id="b612-16">
+  Michael S. Reines and Linda H. Reines (Debtors), residing at 897 Franklin Lakes Road, Franklin Lakes, Bergen County, New Jersey, propose a Chapter 13 plan, opposed by the Standing Trustee, John J. Scura (Trustee), and two unsecured creditors, Sperry Owens, Inc. (Sperry), Michael Re-ines’ former employer, and Elliott Meyer (Meyer), principal stockholder in Sperry. The objectors seek dismissal of debtors’ proposed plan on two distinguishable aspects of the § 1325[a][3], 11 U.S.C. 1325[a][3]. Firstly, that the plan is too speculative and, thus, constitutes a bad faith effort to meet Chapter 13 payment requirements; secondly, that the plan does not meet § 1325[a][3] statutory requirements of “good faith”, specifically, that it was filed primarily to avoid a nondischargeable debt.
+ </p>
+<p id="b612-17">
+  A summary of the relevant facts follows:
+ </p>
+<p id="b612-18">
+  On February 4, 1982, Michael S. Reines and Linda H. Reines filed a Chapter 7 voluntary petition, apparently triggered by the entry of the judgment against them in the Superior Court of New Jersey in an action brought by Sperry and Meyer, the objecting creditors. Summary judgment was entered against the debtors in the sum of $16,639.60 on promissory notes executed by the debtors. Debtors’ counterclaim was unavailing.
+ </p>
+<p id="b612-19">
+  On May 10, 1982, following an unsuccessful attempt to reach a settlement, the objecting creditors filed a complaint with the Court, seeking to have their claims against the debtors declared nondischargeable pursuant to 11 U.S.C. 523[c], alleging underlying fraud.
+ </p>
+<p id="b612-20">
+  On June 4, 1982, the debtors petitioned the Court to convert the case from Chapter 7 to a Chapter 13 proceeding. On June 17, 1982, an order was entered providing for the conversion. Thereafter, following a hearing before the Court, the adversarial
+  <span citation-index="1" class="star-pagination" label="557"> 
+   *557
+   </span>
+  complaint re the nondischargeability of the judgment debt noted above was dismissed, pursuant to an order dated July 14, 1982.
+ </p>
+<p id="b613-5">
+  A final hearing on the confirmation of the plan and trustee’s motion to dismiss Chapter 13 proceedings was held before this Court on November 17, 1982.
+ </p>
+<p id="b613-6">
+  Michael Reines avers he has been a self-employed business consultant for United Therapeutic Laboratories, a corporation without a business location, which entity allegedly makes cosmetics and natural products. The trustee does not contest the fact that the debtor meets the requirement of being “an individual with a regular income” pursuant to § 109[e]. Debtor states that his current annual pay is approximately $52,000. His dependents include his- wife and two minor children. His monthly take home pay is listed at $4,333.00. After monthly expenses totaling $3,889.00, $444.00 remains for possible distribution to unsecured creditors. Unsecured debt totals $82,841.77.
+ </p>
+<p id="b613-7">
+  The essence of the Chapter 13 plan proposed by debtors follows. Priority personal income taxes owed to the Internal Revenue Service, State of New York, and State of New Jersey amount to $24,165.70. These taxes would be paid directly, outside the plan, at a minimum of $200.00 quarterly, to be distributed pro rata ($67.00 per month); the amount due and owing to be paid, in any event, within 36 months from the entry of the order confirming the plan. This plan has not been approved by the taxing authorities involved. $150.00 would be submitted each month to the trustee for 36 months, for disbursement of a total of $5,400.00 to the remaining unsecured debtors pro rata, who are owed $58,676.07. (The plan provides for a total payout of approximately 10 per cent.)
+ </p>
+<p id="b613-8">
+  Additionally, debtors plan to vest their claim against Elliott Meyer, Sperry Owens, Inc., and National Dynamics Corporation in the trustee. The debtors value this claim at approximately $300,000, with the net recovery to be allocated as follows: (a) $7,900.00 to each of the debtors pursuant to 11 U.S.C. 522[d][5]; (b) payment of the amounts remaining due on the priority unpaid personal income taxes; (c) the balance to be distributed pro rata to general unsecured creditors. The trustee has declined to undertake such a lawsuit, pursuant to § 554 of the Code. Debtors unsuccessfully asserted the counterclaim in the state court action referred to supra.
+ </p>
+<p id="b613-10">
+  Although debtors have not stated a definite percentage of recovery which unsecured creditors would receive, the trustee estimates payment to be 7 per cent, disregarding the speculative lawsuit. Since the plan is not feasible as proposed, pursuant to § 1325[a], the trustee asks the Court to find a lack of “good faith”. He also objects to taxes being paid outside of - the plan as causing administrative difficulties. § 1302.
+ </p>
+<p id="b613-11">
+  Sperry and Meyer, unsecured creditors holding $31,370.67 of liquidated and unliqui-dated claims, representing 36 per cent of the unsecured debt, join the trustee in his objections to the plan’s deficiencies. They also allege that the conversion to a Chapter 13 proceeding was effectuated primarily to avoid a nondischargeable debt; that, as a result, the plan does not fulfill the “good faith” requirement of <span class="citation no-link">11 U.S.C. § 1325</span>[a][3] or § 1325[a][4],
+ </p>
+<p id="b613-12">
+  The issue here, whether the debtor has met the “good faith test” pursuant to § 1325[a] et seq., has prompted more litigation than any other issue arising under the Bankruptcy Code, Cyr,
+  <em>
+   The Chapter IS “Good Faith” Tempest: An Analysis and Proposal for Change,
+  </em>
+  55 Am.Bankr.L.J. 271, 273 (Summer 1981).
+ </p>
+<p id="b613-13">
+  Before a Chapter 13 plan may be confirmed, there are six requirements which must be met. Section 1325[a] states the Court shall confirm a plan if:
+ </p>
+<blockquote id="b613-14">
+  (1) the plan complies with the provisions of this chapter and with other applicable provisions of this title;
+ </blockquote>
+<blockquote id="b613-15">
+  (2) any fee, charge, or amount required under Chapter 123 of Title 28, or by the plan, to be paid before confirmation, has been paid;
+ </blockquote>
+<blockquote id="b614-3">
+<span citation-index="1" class="star-pagination" label="558"> 
+   *558
+   </span>
+  (3) the plan has been proposed in good faith and not by any means forbidden by law;
+ </blockquote>
+<blockquote id="b614-4">
+  (4) the value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under Chapter 7 of this title on such date;
+ </blockquote>
+<blockquote id="b614-5">
+  (5) with respect to each allowed secured claim provided for by the plan:
+ </blockquote>
+<blockquote id="b614-6">
+  (A) the holder of such claim has accepted the plan;
+ </blockquote>
+<blockquote id="b614-7">
+  (B)(i) the plan provides that the holder of such claim retain the lien securing such claim; and
+ </blockquote>
+<blockquote id="b614-8">
+  (ii) the,value, as of the effective date of the plan, of property to be distributed under the plan on account of such claim is not less than the allowed amount of such claim; or
+ </blockquote>
+<blockquote id="b614-9">
+  (C) the debtor surrenders the property securing such claim to such holder; and
+ </blockquote>
+<blockquote id="b614-10">
+  (6) the debtor will be able to make all payments under the plan and to comply with the plan.
+ </blockquote>
+<p id="b614-11">
+  Both the House of Representatives and the Senate have considered bills which, had they been enacted, would explicate the meaning of “good faith” in the context of a Chapter 13 confirmation. As stated by the House:
+ </p>
+<blockquote id="b614-12">
+  “Chapter 13 is designed to induce eligible debtors to repay their just obligations from future income, as a means of avoiding waste, hardship and social economic disruptions usually attendant upon liquidation bankruptcy proceedings under Chapter 7.. .. It is both fair and reasonable that a Chapter 13 debtor should therefore present a plan which demonstrates his willingness to satisfy the just claims of creditors through bona fide efforts to make payments reasonably commensurate with his ability to do so in the circumstances.” H.Rep. No. 96-1195, 96th Cong., 2d Sess. pp. 24-26 (1980) quoted in Cohen,
+  <em>
+   Bankruptcy, Secured Transactions and Other Debtor-Creditor Matters,
+  </em>
+  254 n. 19 (1981).
+ </blockquote>
+<p id="b614-13">
+  Regarding the prospective amendment, it is stated:
+ </p>
+<blockquote id="b614-14">
+  “This amendment
+  <em>
+   clarifies
+  </em>
+  (emphasis added) that the character of performance by the debtor envisioned by a Chapter 13 proceeding is that the plan will provide payments to creditors consistent with the debtor’s ability after account is taken of monthly budgeted personal and family needs. This provision will require the Court to determine, as a prerequisite to the confirmation of any Chapter 13 plan not only that the debtor has proposed the plan in good faith and not by any means contrary to law, but that the proposed plan contemplates a ‘good faith’
+  <em>
+   effort
+  </em>
+  (emphasis added) by the debtor in terms of the promised future payments as measured by the
+  <em>
+   ability
+  </em>
+  (emphasis added) of the debtor to make such payments.” Id. at 255.
+ </blockquote>
+<p id="b614-15">
+  The most recent version of the amendment proposed and passed in the Senate alters § 1325[a] by conditioning confirmation specifically on a showing that “such plan represents the debtor’s bona fide effort” to repay creditors. Bankruptcy Amendments Act of 1981, S. 863, 97 Cong. 1st Sess. 1981, Section 128[b] quoted in
+  <em>
+   In re Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1389" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386, 1389</a></span> (9th Cir.1982).
+ </p>
+<p id="b614-16">
+  Despite the fact that these amendments have not been enacted, it is clearly shown that both houses of Congress intend that two distinguishable but interrelated good faith standards be used by the Courts. One deals with the debtor’s intent to effectuate the plan and the legal results of confirmation. The other, “good faith effort” or “bona fide effort” test looks to the debt- or’s ability to make the proposed payments. It necessitates inquiry into facts, from which the true intent of the debtor may be determined and those facts relating to the debtor’s economic status and the plan’s feasibility as a legitimate effort to repay creditors. No arbitrary payment levels are required; the minimum level remains as stated in § 1325[a][4],
+  <em>
+   Cohen, supra
+  </em>
+  at 255-257.
+ </p>
+<p id="b615-3">
+<span citation-index="1" class="star-pagination" label="559"> 
+   *559
+   </span>
+  At least one commentator argues that it was the intention of Congress from the beginning to use the debtor’s ability to pay as a measure of the adequacy of his payments, and that these proposed Congressional amendments would not change the existing law but would merely illuminate the law as it now stands; that courts which view the debtor’s relative effort in light of his ability to pay may be considered to be acting pursuant to the intent of Congress. Emrich, De Minimis Plans and Good Faith, 9 Hofstra L.Rev. 593, 623 (1981). This Court agrees with the commentator’s analysis.
+ </p>
+<p id="b615-4">
+  Four Circuit Courts have recently decided cases interpreting “good faith” in the setting of Chapter 13:
+  <em>
+   In Re Rimgale,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/669/426/">669 F.2d 426</a></span> (7th Cir.1982);
+  <em>
+   In Re Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386</a></span> (9th Cir.1982);
+  <em>
+   In Re Barnes,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/689/193/">689 F.2d 193</a></span> (D.C.Cir., 1982);
+  <em>
+   In re Deans,
+  </em>
+  <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">692 F.2d 968</a></span> (4th Cir.1982). Previously,
+  <em>
+   In Re Terry,
+  </em>
+  <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">630 F.2d 634</a></span> (8th Cir.1980) had been the only Court of Appeals opinion regarding the “good faith” requirement.
+ </p>
+<p id="b615-5">
+  The cited cases provide guidance in analyzing “good faith” for application to the case presently before the Court.
+  <em>
+   In Re Rimgale,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/669/426/">669 F.2d 426</a></span>, 429-431 (7th Cir. 1982) deals,
+  <em>
+   inter alia,
+  </em>
+  with the two aspects of good faith at issue in the Reines case, whether good faith precludes scheduling a debt which would be nondischargeable in a Chapter 7 proceeding and under what circumstances, if ever, can nominal repayment comport with good faith. The Chapter 13 debtor in
+  <em>
+   Rimgale
+  </em>
+  filed a plan which included a tort judgment against him. Rimgale and his wife had induced Mrs. Ravenot, a young widow undergoing psychiatric treatment, to turn over to them the proceeds of her late husband’s life insurance. The bankruptcy court awarded Mrs. Ravenot $25,000.00 for part of her claim treated as secured. She was also awarded a premium of 11 per cent on $24,799.54 of the claim considered unsecured. Mrs. Ravenot’s conservator appealed. It was argued,
+  <em>
+   inter alia,
+  </em>
+  that since the debt would not have been discharged under Chapter 7, she would receive more than she would upon completion of the Chapter 13 plan; therefore, the “best interests” test of § 1325[a][4] could not be met, and the proposal violated good faith in § 1325[a][3].
+ </p>
+<p id="b615-7">
+  The District Court held that the creditor’s objections were sufficient to indicate that the claim under Chapter 7 was worth more than she would receive as an unsecured creditor pursuant to Chapter 13. This holding was reversed by the Circuit Court. Chief Judge Cummings stated that the District Court’s analysis would enable any creditor with a dischargeable claim to block a Chapter 13 plan by insisting his claim might be satisfied fully at some later date. This would result in granting creditors a veto and would obstruct Congressional intent to provide a more generous Chapter 13 discharge than is provided in Chapter 7. Judge Cummings states that this reading of the “best interests” test undercuts the limiting of creditor’s power and the inducement of broad discharges, both integral parts of Congress’ revision of Chapter 13. Even if the “best interests” test of § 1325[a][4] is met, this does not eliminate further scrutiny of the plan by the bankruptcy court to evaluate the good faith of the plan under § 1325[a][3]. Id. at 431. When “good faith” is at issue, the approach is:
+ </p>
+<blockquote id="b615-8">
+  “to treat the issues of substantiality and best effort as elements of good faith. Unless the courts have discretion to consider such factors, the danger exists that Chapter 13 plans could become shams that would emasculate the safeguards that Congress has included in Chapter 7 to prevent debtor abuse of the bankruptcy laws. The courts retain discretion to prevent such abuse, and that discretion can be exercised effectively through a meaningful interpretation of the good faith requirement of § 1325[a][3]. In each case, the bankruptcy court must consider the debtor’s entire circumstances to determine whether his plan proposes to make meaningful payments to unsecured creditors ... within these guidelines the courts should proceed on a case-by-case basis.” Id. at 432 (quoting
+  <em>
+   In Re Burrell,
+  </em>
+  <span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/#366" aria-description="Citation for case: In Re Burrell">6 B.R. 360, 366</a></span> (D.C.N.D.Cal.1980).
+ </blockquote>
+<p id="b616-3">
+<span citation-index="1" class="star-pagination" label="560"> 
+   *560
+   </span>
+  The contention of the
+  <em>
+   Rimgale
+  </em>
+  court that use of the generous discharge provisions of Chapter 13 is not grounds for dismissal as a lack of good faith is strongly supported by precedent. Accord
+  <em>
+   In Re Tramonto,
+  </em>
+  <span class="citation" data-id="2016134"><a href="/opinion/2016134/in-re-tramonto/" aria-description="Citation for case: In Re Tramonto">23 B.R. 464</a></span>, <span class="citation" data-id="2016134"><a href="/opinion/2016134/in-re-tramonto/" aria-description="Citation for case: In Re Tramonto">9 B.C.D. 861</a></span> (Bkrtcy.W.D.N.Y.1982);
+  <em>
+   In Re Slade,
+  </em>
+  <span class="citation" data-id="2027479"><a href="/opinion/2027479/bank-of-america-national-trust-savings-assn-v-slade-in-re-slade/" aria-description="Citation for case: Bank of America National Trust &amp; Savings Ass&#x27;n v. Slade...">8 B.C.D. 558</a></span> (Bkrtcy.E.D.Cal.1981);
+  <em>
+   In Re Keckler,
+  </em>
+  <span class="citation" data-id="1970746"><a href="/opinion/1970746/cleveland-trust-co-v-keckler-in-re-keckler/" aria-description="Citation for case: Cleveland Trust Co. v. Keckler (In Re Keckler)">3 B.R. 155</a></span>, <span class="citation" data-id="1970746"><a href="/opinion/1970746/cleveland-trust-co-v-keckler-in-re-keckler/" aria-description="Citation for case: Cleveland Trust Co. v. Keckler (In Re Keckler)">6 B.C.D. 14</a></span> (Bkrtcy.N.D.Ohio 1980);
+  <em>
+   In Re Seely,
+  </em>
+  <span class="citation" data-id="1538137"><a href="/opinion/1538137/johnson-v-seely-in-re-seely/" aria-description="Citation for case: Johnson v. Seely (In Re Seely)">6 B.R. 309</a></span>, <span class="citation" data-id="1538137"><a href="/opinion/1538137/johnson-v-seely-in-re-seely/" aria-description="Citation for case: Johnson v. Seely (In Re Seely)">6 B.C.D. 1003</a></span> (Bkrtcy.E.D.Va.1980);
+  <em>
+   In Re Koerperich,
+  </em>
+  <span class="citation" data-id="1534838"><a href="/opinion/1534838/benkelman-cooperative-equity-exchange-v-koerperich-in-re-koerperich/" aria-description="Citation for case: Benkelman Cooperative Equity Exchange v. Koerperich (In...">5 B.R. 752</a></span>, <span class="citation" data-id="1534838"><a href="/opinion/1534838/benkelman-cooperative-equity-exchange-v-koerperich-in-re-koerperich/" aria-description="Citation for case: Benkelman Cooperative Equity Exchange v. Koerperich (In...">6 B.C.D. 970</a></span> (Bkrtcy.D.Neb.1980). By reason of the foregoing, this Court finds that even if debtors have converted the Chapter 7 petition into a Chapter 13 petition in order to take advantage of Chapter 13 § 1328 discharge, dismissal by this Court on these grounds is not warranted.
+ </p>
+<p id="b616-4">
+  As to the other component of “good faith”, specifically, as to what payment requirements comport with “good faith effort” sufficient to gain confirmation of the plan, there exists a lack of unanimity in court decisions.
+ </p>
+<p id="b616-5">
+<em>
+   In Re Terry,
+  </em>
+  <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">630 F.2d 634</a></span> (8th Cir.1980) is a case proposing a Chapter 13 plan where all creditors were unsecured and all of debtors’ property was exempt under § 522[d]. The trustee appealed confirmation,
+  <em>
+   inter alia,
+  </em>
+  on basis that the bankruptcy court had erred in finding debtors had proposed the plan in good faith. The court found that a plan to pay nothing cannot be in good faith, because it is an abuse of § 1328 granting debtors a more generous discharge than Chapter 7 and is not in the spirit of the Chapter which contemplated debtors “making payments under a plan.” Id. at 635. Accord
+  <em>
+   In Re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (Bkrtcy.D.Utah 1980).
+  <em>
+   But see In Re Thebeau,
+  </em>
+  <span class="citation" data-id="1970442"><a href="/opinion/1970442/in-re-thebeau/#538" aria-description="Citation for case: In Re Thebeau">3 B.R. 537, 538</a></span> (Bkrtcy.E.D.Ark.1980). In
+  <em>
+   <span class="citation" data-id="1970442"><a href="/opinion/1970442/in-re-thebeau/" aria-description="Citation for case: In Re Thebeau">Thebeau</a></span>,
+  </em>
+  the court held that “good faith” does not require a payment to creditors, and that “good faith” had been shown on' the facts. The debtors’ plan provided fees only for administration and the attorney. Secured creditors had already repossessed the collateral. The debtors had no non-exempt property and did not propose to pay unsecured creditors. In reaching its decision, the
+  <em>
+   <span class="citation" data-id="1970442"><a href="/opinion/1970442/in-re-thebeau/" aria-description="Citation for case: In Re Thebeau">Thebeau</a></span>
+  </em>
+  court, looking to <span class="citation no-link">11 U.S.C. § 1325</span> which provides that the court
+  <em>
+   shall
+  </em>
+  confirm if the minimum conditions set forth are met, stated:
+ </p>
+<blockquote id="b616-7">
+  “Without any express legislative history on the meaning of ‘good faith’, this Court does not choose to presume that Congress intended for the Courts to assume their legislative powers in Chapter 13 cases... However, Congress is not silent about the payments a plan must propose both for secured and unsecured. <span class="citation no-link">11 U.S.C. § 1325</span>[a][4 &amp; 5]. ‘Good faith’ must mean something other than the amount of payments unless one chooses to say that the handywork of Congress is innerly redundant. .. Since the passage of the Chandler Act in 1898, the remedial nature of the bankruptcy laws has been recognized and they have been construed with liberality in favor of affording relief to debtors from their debts.” <span class="citation no-link">Id. at 538</span>.
+ </blockquote>
+<p id="b616-8">
+<em>
+   Also see In Re Scher,
+  </em>
+  <span class="citation" data-id="1902118"><a href="/opinion/1902118/matter-of-scher/#273" aria-description="Citation for case: Matter of Scher">12 B.R. 258, 273</a></span> (Bkrtcy.S.D.N.Y.1981). “A Chapter 13 plan need make no provisions to pay unsecured creditors anything.”
+ </p>
+<p id="b616-9">
+  In
+  <em>
+   In Re Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1387" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386, 1387</a></span> (9th Cir.1982), the issue considered was whether a Chapter 13 plan must provide for
+  <em>
+   substantial
+  </em>
+  repayment of unsecured loans. The debtors had submitted a five year plan which would have fully repaid secured debt of $64,967.00 and priority debt consisting mainly of taxes in the amount of $11,851.00, but would only have paid unsecured creditors one per cent of $20,597.00 owed. Significantly, the court found that the Goebs could not afford larger payments to unsecured creditors. Therefore, though payments to unsecured creditors were not substantial, debtors had acted equitably and in good faith. In discussing the case, the Circuit Court found sufficient militating facts evidencing good faith: debtors did not select Chapter 13 over Chapter 7 to cheat creditors; secured creditors were being fully repaid; under Chapter 7, secured creditors would not receive greater repayment; and debtors had no surplus income after the monthly payment to the trustee. Although the opinion did not require substantial repayment of unsecured creditors, it expressly does not give a general endorsement to
+  <span citation-index="1" class="star-pagination" label="561"> 
+   *561
+   </span>
+  nominal repayment plans. Instead, the court views nominal repayment as one piece of evidence which may mean the debtor is acting in bad faith. <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1391" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">Id. at 1391</a></span>.
+ </p>
+<p id="b617-5">
+<em>
+   In Re Barnes,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/689/193/">689 F.2d 193</a></span> (D.C.Cir., 1982) interprets good faith as honesty of intention. In stating that a low level of repayment to unsecured creditors does not necessarily negate good faith, the court held that § 1325[a][3] does not prohibit nominal repayment, and that a ruling otherwise would be contrary to Congressional intent.
+ </p>
+<p id="b617-6">
+  The most recent circuit case dealing with whether good faith pursuant to § 1325[a][3] requires substantial or meaningful repayment to unsecured creditors is
+  <em>
+   In Re Deans,
+  </em>
+  <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">692 F.2d 968</a></span> (4th Cir.1982). The plan provided no payment for unsecured creditors. The court, however, concluded that since the proposed plan paid secured creditors $120.00 per month for three years and required virtually all of the debtor’s surplus funds after expenses, it was the debtor’s best effort, supporting the presence of “good faith”. In reaching its decision, the court held § 1325[a] precludes the integration of a
+  <em>
+   per se
+  </em>
+  rule of substantial repayment into the good faith test under all circumstances.
+ </p>
+<p id="b617-7">
+  “Rather than manipulating the good faith requirement so as to impose a rigid requirement of substantial repayment in every case, we think the proper course is to apply the statute as written and to allow Congress, should it choose, to add additional conditions for confirmation of Chapter 13 plans.”
+ </p>
+<p id="b617-8">
+  “... Our rejection of an implied per se substantial repayment requirement should not suggest any endorsement of minimal or no repayment plans. Congress never intended, of course, that Chapter 13 serve as a haven for debtors who wish to receive a discharge of unsecured debts without making an honest effort to pay those debts.”
+ </p>
+<p id="b617-9">
+  “... Broadly speaking the basic inquiry should be whether or not under the circumstances of the case there has been an abuse of the provisions, purpose, or spirit of Chapter 13 in the proposal or plan.” Id. slip op. at 971-72.
+ </p>
+<p id="b617-10">
+  With the exception of
+  <em>
+   <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">Terry</a></span>,
+  </em>
+  the Circuit Court decisions do not imply that, absent independent evidence of bad faith, a debt- or’s plan would not be confirmable if it did not provide for substantial payments to unsecured creditors. Significantly, in cases where minimum or zero payments to unsecured creditors were approved, the Circuit Courts pointedly evaluated the facts and found evidence that the debtors had shown an effort to repay their debts and had, therefore, acted equitably under the circumstances. The debtors in these cases had little or no excess income after making the payments scheduled in their plans.
+ </p>
+<p id="b617-11">
+  Viewing the case before the Court in the light of
+  <em>
+   Rimgale, Goeb, Barnes,
+  </em>
+  and
+  <em>
+   <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">Deans</a></span>,
+  </em>
+  this Court does not find § 1325[a] to require substantial repayment of secured creditors in every case; however, the Court is, nonetheless, compelled to determine whether, under all the facts, the debtors have acted equitably and shown an effort to repay unsecured creditors. This effort must be measured by the debtors’ ability to repay their debts, weighing all relevant factors.
+ </p>
+<p id="b617-12">
+  The Reines’ income is $52,000.00 a year, approximately $1,000 a week or $4,333 per month. Since expenses listed total $3,889.00, $444 per month remains for distribution to creditors. Debts total $82,-841.77 to approximately 27 unsecured creditors. Of this, $24,165.70 is owed for personal income tax and received priority status and purportedly would be repaid. Stripped of the speculative lawsuit, the other creditors would receive approximately 7 per cent of their claims. In addition to the $31,-370.67 owed Sperry and Meyers, debtors seek discharge of $28,850.00 in loans made by friends and family, legal fees from three separate law firms of $7,125.00, leasing fees of $5,500.00, camp fees of $1,750.00, and department store charges of $2,980.06, to list only the largest debts. Debtors have previously received a Chapter 7 discharge in 1975. They have shown no inclination to manage their financial affairs or modify their lifestyle in order to repay their debts.
+ </p>
+<p id="b617-13">
+  Debtors propose to pay $150.00 to the trustee and $67.00 directly to taxing enti
+  <span citation-index="1" class="star-pagination" label="562"> 
+   *562
+   </span>
+  ties. Subtracting these two sums from the $444.00 remaining after payment of expenses, leaves the debtors with an excess of $227.00. In view of the Circuit Court decisions,
+  <em>
+   Rimgale, Goeb, Barnes,
+  </em>
+  and
+  <em>
+   <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">Deans</a></span>,
+  </em>
+  Congressional intent, and the circumstances of this case, including $227.00 excess funds available to creditors, we do not confirm this plan as proposed, since it does not comport with the “good faith” standard of § 1325[a][3], specifically, that the plan does not demonstrate a reasonable effort by debtors to repay unsecured creditors.
+ </p>
+<p id="b618-4">
+  Additionally, there is no indication that the taxing authorities would be willing to receive payments outside of the plan. To avoid administrative confusion, the trustee should control these distributions. § 1322. Finally, it is evident that the plan as proposed is not feasible, since it is, in part, predicated on the highly speculative return from a lawsuit which the trustee understandably declines to pursue. § 554. Therefore, the debtor will be unable to make the payments proposed.
+ </p>
+<p id="b618-5">
+  Consistent with the equitable principles of the Bankruptcy Code, the Court will permit the debtors to modify their Chapter 13 petition, rather than granting a dismissal of the case. Submit an order in accordance with the above.
+ </p>
+</opinion>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b354-13">
+  Per Curiam.
+ </author>
+<p id="AiT">
+  Plaintiffs appeal as of right from a June 26, 1981, jury verdict of no cause of action in favor of both defendants. While the jury found General Motors Corporation to be negligent, it determined that its negligence was not a proximate cause of plaintiff Tim Warner’s injury. The jury also found that Jim Vetter Chevrolet did not breach any implied warranty.
+ </p>
+<p id="b354-14">
+  Plaintiffs purchased a new 1972 Chevrolet Vega from Vetter during May, 1972. GM had marked the Vega as being designed for the consumer who cared to do his or her own routine maintenance.
+  <span citation-index="1" class="star-pagination" label="343"> 
+   *343
+   </span>
+  The Vega came equipped with a "do-it-yourself’ service manual. On June 18, 1974, plaintiff changed the oil in the Vega and left the car running while he cleaned up. The car stopped running and he could not restart it. He referred to the do-it-yourself manual but could not ascertain the problem. Plaintiff attempted to "prime” the car by pouring gasoline into the carburetor but still could not get it started.
+ </p>
+<p id="b355-3">
+  On June 27, 1974, the car was towed to plaintiff’s father-in-law’s home to facilitate repair. At one point, plaintiff again "primed the car” by pouring gasoline from a quart jar into the carburetor. The carburetor evidently backfired, spitting flame which followed the gas back into the jar. Gas spilled on plaintiff’s shirt, and it ignited. When plaintiff could not remove his burning shirt, he ran down to a lake behind his father-in-law’s house and dove into the water. The water was very shallow and his face hit the bottom of the lake, breaking his neck. Plaintiff was not burned as a result of the accident but was rendered quadriplegic.
+ </p>
+<p id="b355-4">
+  It was subsequently determined that plaintiff had tripped an oil pressure switch while changing the oil in the car. The oil pressure switch was a safety device intended to stop the flow of gasoline from the fuel pump to the engine when the engine oil pressure became too low. This information about the switch was apparently not included in the do-it-yourself manual.
+ </p>
+<p id="b355-5">
+  Due to the design of the carburetor, operation of the car without the air filter posed a significant fire hazard. This fact was contained in the 1971 owner’s manual and the first and third editions of the 1972 owner’s manual. The second edition published in 1972, however, did not contain this warn
+  <span citation-index="1" class="star-pagination" label="344"> 
+   *344
+   </span>
+  ing and was the one supplied with plaintiffs’ Vega. Plaintiff conceded that the manual referred him to a dealer when the car would not start and that priming the carburetor was his own idea.
+ </p>
+<p id="b356-5">
+  On appeal, plaintiffs challenge various aspects of the court’s jury instruction and its refusal to admit five of their proposed exhibits while permitting defendants to argue and present evidence on their theory that plaintiff was careless and would have disregarded any warning. Also, plaintiffs allege that defendant GM made numerous attempts to prejudice the jury throughout the trial.
+ </p>
+<p id="b356-6">
+  Plaintiffs’ first allegation of error is premised upon the trial court’s refusal to give their requested instructions concerning proximate causation.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  The trial court’s instruction on proximate
+  <span citation-index="1" class="star-pagination" label="345"> 
+   *345
+   </span>
+  causation was drawn directly from SJI2d 15.01 and 15.02. After deliberating for a short period of time, the jury sent a note to the court stating: "We would like the exact definition of proximate cause.” The trial court responded by rereading SJI2d 15.01. Both 15.01 and 15.02 have been recognized as being a correct and proper statement of the law in Michigan.
+  <em>
+   Stephens v Spiwak,
+  </em>
+  <span class="citation" data-id="2183335"><a href="/opinion/2183335/stephens-v-spiwak/#651" aria-description="Citation for case: Stephens v. Spiwak">61 Mich App 647, 651</a></span>; <span class="citation" data-id="2183335"><a href="/opinion/2183335/stephens-v-spiwak/" aria-description="Citation for case: Stephens v. Spiwak">233 NW2d 124</a></span> (1975);
+  <em>
+   Thornton v City of Flint,
+  </em>
+  <span class="citation" data-id="1650555"><a href="/opinion/1650555/thornton-v-city-of-flint/#269" aria-description="Citation for case: Thornton v. City of Flint">39 Mich App 260, 269</a></span>; <span class="citation" data-id="1650555"><a href="/opinion/1650555/thornton-v-city-of-flint/" aria-description="Citation for case: Thornton v. City of Flint">197 NW2d 485</a></span> (1972).
+  <em>
+   Cf. Zeni v Anderson,
+  </em>
+  <span class="citation" data-id="9573487"><a href="/opinion/1311071/zeni-v-anderson/#127" aria-description="Citation for case: Zeni v. Anderson">397 Mich 117, 127</a></span>; <span class="citation" data-id="9573487"><a href="/opinion/1311071/zeni-v-anderson/" aria-description="Citation for case: Zeni v. Anderson">243 NW2d 270</a></span> (1976);
+  <em>
+   Advisory Opinion re Constitutionality of <span class="citation" data-id="9541951"><a href="/opinion/2059987/advisory-opinion-re-constitutionality-of-1972-pa-294/" aria-description="Citation for case: Advisory Opinion Re Constitutionality of 1972 PA 294">1972 PA 294</a></span>,
+  </em>
+  <span class="citation" data-id="9541951"><a href="/opinion/2059987/advisory-opinion-re-constitutionality-of-1972-pa-294/#480" aria-description="Citation for case: Advisory Opinion Re Constitutionality of 1972 PA 294">389 Mich 441, 480</a></span>; <span class="citation" data-id="9541951"><a href="/opinion/2059987/advisory-opinion-re-constitutionality-of-1972-pa-294/" aria-description="Citation for case: Advisory Opinion Re Constitutionality of 1972 PA 294">208 NW2d 469</a></span> (1973).
+ </p>
+<p id="b357-3">
+  GCR 1963, 516.6(2) requires that an applicable standard jury instruction be given when the instruction is properly requested and an evidentiary basis for the request can be found in the record.
+  <em>
+   Javis v Ypsilanti Bd of Ed,
+  </em>
+  <span class="citation" data-id="9528265"><a href="/opinion/2041656/javis-v-board-of-education-of-the-school-district/#697" aria-description="Citation for case: Javis v. Board of Education of the School District">393 Mich 689, 697-698</a></span>; <span class="citation" data-id="9528265"><a href="/opinion/2041656/javis-v-board-of-education-of-the-school-district/" aria-description="Citation for case: Javis v. Board of Education of the School District">227 NW2d 543</a></span> (1975);
+  <em>
+   Johnson v Corbet,
+  </em>
+  <span class="citation" data-id="1733439"><a href="/opinion/1733439/johnson-v-corbet/#807" aria-description="Citation for case: Johnson v. Corbet">127 Mich App 804, 807-808</a></span>; <span class="citation" data-id="1733439"><a href="/opinion/1733439/johnson-v-corbet/" aria-description="Citation for case: Johnson v. Corbet">339 NW2d 648</a></span> (1983). Deviation from an applicable and accurate standard jury instruction gives rise to the presumption of prejudicial error provided that the instruction was properly requested at trial.
+  <em>
+   <span class="citation" data-id="9528265"><a href="/opinion/2041656/javis-v-board-of-education-of-the-school-district/" aria-description="Citation for case: Javis v. Board of Education of the School District">Javis, supra,</a></span>
+  </em>
+  <span class="citation multiple-matches"><a href="/c/Mich/393/702/">393 Mich 702</a></span>. However, a trial judge must still use discretion to determine whether an instruction is factually appropriate and accurately states the law.
+  <em>
+   Socha v Passino,
+  </em>
+  <span class="citation" data-id="1726221"><a href="/opinion/1726221/socha-v-passino/#467" aria-description="Citation for case: Socha v. Passino">405 Mich 458, 467</a></span>; <span class="citation" data-id="1726221"><a href="/opinion/1726221/socha-v-passino/" aria-description="Citation for case: Socha v. Passino">275 NW2d 243</a></span> (1979). A trial court’s refusal to give a certain requested instruction is not error where the instruction given clearly states the applicable law.
+  <em>
+   Basic Food Industries, Inc v Grant,
+  </em>
+  <span class="citation" data-id="1605517"><a href="/opinion/1605517/basic-food-industries-inc-v-grant/#696" aria-description="Citation for case: BASIC Food INDUSTRIES, INC v. GRANT">107 Mich App 685, 696</a></span>; <span class="citation" data-id="1605517"><a href="/opinion/1605517/basic-food-industries-inc-v-grant/" aria-description="Citation for case: BASIC Food INDUSTRIES, INC v. GRANT">310 NW2d 26</a></span> (1981)._
+ </p>
+<p id="b358-4">
+<span citation-index="1" class="star-pagination" label="346"> 
+   *346
+   </span>
+  While the trial court in the present case refused to include plaintiffs’ requested instruction in its charge to the jury, the instruction which was given regarding proximate cause accurately stated the applicable law. No error resulted from the trial court’s denial of plaintiffs’ request.
+ </p>
+<p id="b358-5">
+  Plaintiffs also argue that the trial court improperly charged that plaintiffs were required to prove that any defect in the product was known to, or readily ascertainable by, defendant Vetter before they could recover for breach of implied warranty against Vetter. The court instructed as follows:
+ </p>
+<p id="b358-6">
+  "I charge you members of the jury, as the seller of the 1972 Chevrolet Vega, which is the subject of this lawsuit, the defendant, Jim Vetter Chevrolet, owed a duty to plaintiffs to protect and/or warn for any known or visible defects that were readily ascertainable; or, stated in a different way, owed no duty for any defects that were hidden or unknown to the seller.”
+ </p>
+<p id="b358-7">
+  The instruction given states the generally accepted rule regarding a manufacturer’s or seller’s duty to warn.
+  <em>
+   Bradbury v Ford Motor Co,
+  </em>
+  <span class="citation" data-id="1898541"><a href="/opinion/1898541/bradbury-v-ford-motor-co/#186" aria-description="Citation for case: Bradbury v. Ford Motor Co.">123 Mich App 179, 186</a></span>; <span class="citation" data-id="1898541"><a href="/opinion/1898541/bradbury-v-ford-motor-co/" aria-description="Citation for case: Bradbury v. Ford Motor Co.">333 NW2d 214</a></span> (1983); see, also,
+  <em>
+   Camden Fire Ins Co v Peterman,
+  </em>
+  <span class="citation" data-id="3498782"><a href="/opinion/3528762/camden-fire-ins-co-v-peterman/#618" aria-description="Citation for case: Camden Fire Ins. Co. v. Peterman.">278 Mich 615, 618-619</a></span>; <span class="citation" data-id="3498782"><a href="/opinion/3528762/camden-fire-ins-co-v-peterman/" aria-description="Citation for case: Camden Fire Ins. Co. v. Peterman.">270 NW 807</a></span> (1937);
+  <em>
+   Losinski v Ford Motor Co,
+  </em>
+  <span class="citation" data-id="1645899"><a href="/opinion/1645899/losinski-v-ford-motor-co/#121" aria-description="Citation for case: Losinski v. Ford Motor Co.">43 Mich App 114, 121-122</a></span>; <span class="citation" data-id="1645899"><a href="/opinion/1645899/losinski-v-ford-motor-co/" aria-description="Citation for case: Losinski v. Ford Motor Co.">204 NW2d 49</a></span> (1972). The instruction accurately stated Vetter’s duty to warn.
+ </p>
+<p id="b358-8">
+  Plaintiffs’ remaining challenges to the court’s charge merit little discussion. The record does not disclose that plaintiffs requested the trial court to instruct the jury that assumption of risk is not recognized as the law of Michigan. While they did complain during defense counsel’s opening statement, they did not pursue their request for an appropriate jury instruction. Therefore, they have
+  <span citation-index="1" class="star-pagination" label="347"> 
+   *347
+   </span>
+  waived the right to complain on appeal that the instruction should have been given by the trial court.
+  <em>
+   Perry v Hazel Park Harness Raceway,
+  </em>
+  <span class="citation" data-id="1924587"><a href="/opinion/1924587/perry-v-hazel-park-harness-raceway/" aria-description="Citation for case: Perry v. Hazel Park Harness Raceway">123 Mich App 542</a></span>; <span class="citation" data-id="1924587"><a href="/opinion/1924587/perry-v-hazel-park-harness-raceway/" aria-description="Citation for case: Perry v. Hazel Park Harness Raceway">332 NW2d 601</a></span> (1983); GCR 1963, 516.1.
+ </p>
+<p id="b359-3">
+  The trial court also properly refused plaintiffs’ request to charge the jury regarding expert witness evidence.
+  <em>
+   Wilson v Stilwill,
+  </em>
+  <span class="citation" data-id="9733259"><a href="/opinion/2186610/wilson-v-stilwill/#603" aria-description="Citation for case: Wilson v. Stilwill">411 Mich 587, 603-605</a></span>; <span class="citation" data-id="9733259"><a href="/opinion/2186610/wilson-v-stilwill/" aria-description="Citation for case: Wilson v. Stilwill">309 NW2d 898</a></span> (1981);
+  <em>
+   Wolak v Walczak,
+  </em>
+  <span class="citation" data-id="2002242"><a href="/opinion/2002242/wolak-v-walczak/#275" aria-description="Citation for case: Wolak v. Walczak">125 Mich App 271, 275</a></span>; <span class="citation" data-id="2002242"><a href="/opinion/2002242/wolak-v-walczak/" aria-description="Citation for case: Wolak v. Walczak">335 NW2d 908</a></span> (1983). As in those cases, defense counsel’s reference to one of plaintiffs’ experts as a "professional witness” was brief and singular. Further, counsel was immediately interrupted by plaintiffs’ counsel, and the trial court immediately reminded the jury that defense counsel was only giving an opinion. There was no harassment or belittlement of plaintiffs’ expert on the part of defense counsel.
+  <em>
+   <span class="citation" data-id="2002242"><a href="/opinion/2002242/wolak-v-walczak/" aria-description="Citation for case: Wolak v. Walczak">Wolak, supra,</a></span>
+  </em>
+  <span class="citation" data-id="2002242"><a href="/opinion/2002242/wolak-v-walczak/" aria-description="Citation for case: Wolak v. Walczak">125 Mich App 275</a></span>.
+ </p>
+<p id="b359-4">
+  Plaintiffs next challenge a number of the trial court’s evidentiary rulings. Plaintiffs’ case was premised upon defendants’ duty to warn Tim Warner against the danger of operating the Vega without the air filter being in place. Defendants sought to counter with evidence that plaintiff habitually ignored warnings and was careless while handling gasoline. As part of its case, GM’s counsel was permitted to cross-examine Mrs. Warner about whether her husband drank or smoked cigarettes in the evening, stored gasoline in the shed, and how he handled gasoline generally. Plaintiff was also cross-examined, over objection, concerning whether he poured gasoline into a heated power mower or smoked while filling the gas tank of his car. Plaintiff was questioned about his smoking habits on the evening of the incident and in general. Defense counsel also asked questions con
+  <span citation-index="1" class="star-pagination" label="348"> 
+   *348
+   </span>
+  cerning the method used to syphon gas from the tank of the Vega in preparation for changing the fuel pump. Questions were also asked relating to other warnings contained within the owner’s manual. These included questioning plaintiff about whether he used a seatbelt or removed the battery cables from the battery before jacking up the front end of the car.
+ </p>
+<p id="b360-5">
+  In order to recover on a failure to warn theory, a plaintiff must prove each of the four elements of negligence: (1) that defendant owed a duty to plaintiff; (2) that defendant violated that duty; (3) that defendant’s breach of duty was a proximate cause of the damages suffered by plaintiff; and (4) that plaintiff suffered damages.
+  <em>
+   Falkner v John E Fetzer, Inc,
+  </em>
+  <span class="citation" data-id="9663195"><a href="/opinion/1641520/falkner-v-john-e-fetzer-inc/#503" aria-description="Citation for case: Falkner v. John E Fetzer, Inc">113 Mich App 500, 503</a></span>; <span class="citation" data-id="9663195"><a href="/opinion/1641520/falkner-v-john-e-fetzer-inc/" aria-description="Citation for case: Falkner v. John E Fetzer, Inc">317 NW2d 337</a></span> (1982);
+  <em>
+   Beals v Walker,
+  </em>
+  <span class="citation" data-id="9728490"><a href="/opinion/2163635/beals-v-walker/#224" aria-description="Citation for case: Beals v. Walker">98 Mich App 214, 224</a></span>; <span class="citation" data-id="9728490"><a href="/opinion/2163635/beals-v-walker/" aria-description="Citation for case: Beals v. Walker">296 NW2d 828</a></span> (1980). In
+  <em>
+   <span class="citation" data-id="9663195"><a href="/opinion/1641520/falkner-v-john-e-fetzer-inc/" aria-description="Citation for case: Falkner v. John E Fetzer, Inc">Falkner</a></span>,
+  </em>
+  this Court found a defendant was entitled to a directed verdict because the plaintiff failed to present any evidence to show that, if a proper warning had been given, she would have taken precautions to prevent the injury. <span class="citation multiple-matches"><a href="/c/Mich%20App/113/503/">113 Mich App 503</a></span>.
+ </p>
+<p id="b360-6">
+  In the present case, defendant sought to show that plaintiff knew or should have known of the danger inherent in working with gasoline and he would not have followed any additional warnings because he had repeatedly ignored other safety warnings. The trial court accepted this argument and determined most of the questioning to be relevant. The court, however, did prohibit some general questioning regarding plaintiff’s smoking and use of a seat belt.
+ </p>
+<p id="b360-7">
+  Admissibility of evidence is within the trial judge’s discretion, and his determination will not be set aside by this Court unless there has been an abuse of that discretion.
+  <em>
+   Gagnon v Dresser Indus
+  </em>
+<span citation-index="1" class="star-pagination" label="349"> 
+   *349
+   </span>
+<em>
+   tries Corp,
+  </em>
+  <span class="citation" data-id="1246631"><a href="/opinion/1246631/gagnon-v-dresser-industries-corp/#463" aria-description="Citation for case: Gagnon v. Dresser Industries Corp.">130 Mich App 452, 463</a></span>; <span class="citation" data-id="1246631"><a href="/opinion/1246631/gagnon-v-dresser-industries-corp/" aria-description="Citation for case: Gagnon v. Dresser Industries Corp.">344 NW2d 582</a></span> (1983). In the present case, the trial court properly permitted plaintiffs to be cross-examined concerning Tim Warner’s drinking and smoking on the evening of the accident.
+  <em>
+   Cf. Rittenhouse v Erhart,
+  </em>
+  <span class="citation" data-id="1760288"><a href="/opinion/1760288/rittenhouse-v-erhart/#681" aria-description="Citation for case: Rittenhouse v. Erhart">126 Mich App 674, 681</a></span>; <span class="citation" data-id="1760288"><a href="/opinion/1760288/rittenhouse-v-erhart/" aria-description="Citation for case: Rittenhouse v. Erhart">337 NW2d 626</a></span> (1983);
+  <em>
+   Anderson v Harry’s Army Surplus, Inc,
+  </em>
+  <span class="citation" data-id="1579768"><a href="/opinion/1579768/anderson-v-harrys-army-surplus-inc/#608" aria-description="Citation for case: Anderson v. Harry’s Army Surplus, Inc">117 Mich App 601, 608-610</a></span>; <span class="citation" data-id="1579768"><a href="/opinion/1579768/anderson-v-harrys-army-surplus-inc/" aria-description="Citation for case: Anderson v. Harry’s Army Surplus, Inc">324 NW2d 96</a></span> (1982). This was relevant evidence, as defined in MRE 401.
+ </p>
+<p id="b361-3">
+  The remaining evidence challenged at trial was introduced to prove plaintiff’s propensity to ignore instructions or warnings contained within the owner’s manual and his carelessness while handling gasoline. Defense counsel could properly cross-examine concerning plaintiff’s disregard for other warnings in the manual to rebut plaintiff’s previous testimony that he had relied upon the manual and the absence of a proper warning to his detriment. The trial court restricted this line of questioning to the car repair episode. While this evidence may have included similar acts evidence, such evidence is admissible pursuant to MRE 404(b) to show plaintiff’s preparation or system used to repair his Vega. MRE 404(b);
+  <em>
+   cf. Scott v Hurd-Corrigan Moving &amp; Storage Co, Inc,
+  </em>
+  <span class="citation" data-id="2173664"><a href="/opinion/2173664/scott-v-hurd-corrigan-moving-storage-co-inc/#341" aria-description="Citation for case: Scott v. Hurd-Corrigan Moving &amp; Storage Co, Inc">103 Mich App 322, 341</a></span>; <span class="citation" data-id="2173664"><a href="/opinion/2173664/scott-v-hurd-corrigan-moving-storage-co-inc/" aria-description="Citation for case: Scott v. Hurd-Corrigan Moving &amp; Storage Co, Inc">302 NW2d 867</a></span> (1981).
+ </p>
+<p id="b361-4">
+  The final evidentiary error alleged by plaintiffs on appeal is premised upon the court’s refusal to admit five of plaintiffs’ proposed exhibits: a magazine article and defendant’s owner’s manual for a 1972 Chevrolet Chevelle, proposed to show the foreseeability of priming a vehicle in the manner engaged in by plaintiff; two sets of safety standards recommendations published by the American Standards Association for the National Safety Council, proposed as being necessary to plaintiffs’ experts’ testimony regarding the standard warning
+  <span citation-index="1" class="star-pagination" label="350"> 
+   *350
+   </span>
+  signs available in industrial society; and the Operations and Instructions Manual for the Lake Superior &amp; Ishpeming Railroad, proposed as an example of a proper set of instructions for the job task undertaken by plaintiff. The trial court rejected these exhibits as either being irrelevant or cumulative to testimony offered by plaintiffs’ expert witnesses. This Court’s review of these rulings discloses no abuse of discretion on the part of the trial court.
+  <em>
+   Cf. <span class="citation" data-id="1246631"><a href="/opinion/1246631/gagnon-v-dresser-industries-corp/" aria-description="Citation for case: Gagnon v. Dresser Industries Corp.">Gagnon, supra,</a></span>
+  </em>
+  <span class="citation" data-id="1246631"><a href="/opinion/1246631/gagnon-v-dresser-industries-corp/" aria-description="Citation for case: Gagnon v. Dresser Industries Corp.">130 Mich App 462</a></span>;
+  <em>
+   Mumaw v Mumaw,
+  </em>
+  <span class="citation" data-id="1898912"><a href="/opinion/1898912/mumaw-v-mumaw/#121" aria-description="Citation for case: Mumaw v. Mumaw">124 Mich App 114, 121</a></span>; <span class="citation" data-id="1898912"><a href="/opinion/1898912/mumaw-v-mumaw/" aria-description="Citation for case: Mumaw v. Mumaw">333 NW2d 599</a></span> (1983).
+ </p>
+<p id="b362-5">
+  Plaintiffs’ remaining issue alleges that defendant GM engaged in an attempt throughout trial to prejudice the jury. Many of the arguments contained in this issue were dealt with in issues previously discussed. While plaintiffs have argued that defendants repeatedly engaged in attempts to inject the issue of insurance into the trial, they cite only one fleeting reference in the transcript to support their argument. This Court’s review of the transcript does not disclose any reference to insurance other than the one cited by plaintiffs, nor does it disclose any objection on their part at the trial level.
+ </p>
+<p id="b362-6">
+  Defense counsel’s alleged impeachment on collateral matters appears to be nothing other than acceptable cross-examination. The trial court permitted defense counsel to pursue, by way of cross-examination, defendants’ theory that Tim Warner may have been smoking while working on the Vega. This line of questioning was eventually terminated by the court pursuant to plaintiffs’ objection. The range of cross-examination is very liberal and its duration and scope are in the discretion of the trial court.
+  <em>
+   Wilson v <span class="citation" data-id="9733259"><a href="/opinion/2186610/wilson-v-stilwill/" aria-description="Citation for case: Wilson v. Stilwill">Stilwill, supra,</a></span>
+  </em>
+  <span class="citation multiple-matches"><a href="/c/Mich/411/599/">411 Mich 599</a></span>. Given plaintiff’s smoking
+  <span citation-index="1" class="star-pagination" label="351"> 
+   *351
+   </span>
+  habit and the nature of the accident, the trial court did not abuse its discretion by allowing limited cross-examination in this area, nor can it be cited as indicative of a practiced attempt to inject prejudice into the proceedings below.
+ </p>
+<p id="b363-3">
+  Plaintiffs also argue that defense counsel engaged in "phantom impeachment” while cross-examining Dr. Henderson, a labor economist, and plaintiff concerning their previous deposition testimony. The brief questioning of Henderson cited by plaintiffs was done without objection.
+ </p>
+<p id="b363-4">
+  As to plaintiff, he was questioned regarding previous statements he made during a video deposition taken pursuant to GCR 1963, 315. This deposition had not been transcribed and defense counsel began an obvious attempt to treat the deposition testimony as an oral statement for impeachment purposes pursuant to MRE 613(a). Plaintiffs objected, arguing that GCR 1963, 306.3(2) prohibits use of recorded deposition testimony at trial unless it has been transcribed. See also
+  <em>
+   Keefer v C R Bard, Inc,
+  </em>
+  <span class="citation" data-id="9725580"><a href="/opinion/2144794/keefer-v-c-r-bard-inc/#581" aria-description="Citation for case: Keefer v. C R Bard, Inc">110 Mich App 563, 581-582</a></span>; <span class="citation" data-id="9725580"><a href="/opinion/2144794/keefer-v-c-r-bard-inc/" aria-description="Citation for case: Keefer v. C R Bard, Inc">313 NW2d 151</a></span> (1981). Defendants countered these arguments by arguing that videotape depositions are governed by GCR 315 which imposes no such requirement. The trial court concluded that the videotape deposition was properly taken and was a part of the court record. Accordingly, it permitted defendants to impeach plaintiff by reference to the deposition. Plaintiff subsequently acknowledged making the deposition and statements contained therein.
+ </p>
+<p id="b363-5">
+  Plaintiffs have not asked this Court to consider the propriety of the trial court’s evidentiary ruling. They only cite these circumstances as being "phantom impeachment” and indicative of defense counsel’s injection of prejudice into the proceed
+  <span citation-index="1" class="star-pagination" label="352"> 
+   *352
+   </span>
+  ings. We disagree. Even if defense counsel had been incorrect, the position was at least arguable and cannot be attributed to an effort to instill prejudice.
+ </p>
+<p id="b364-5">
+  Finally, this Court has considered plaintiffs’ argument that defense counsel made an obvious attempt to prejudice the jury by hanging a United States naval officer’s uniform with three rows of battle ribbons in defense counsel’s parked car. The trial court found, after investigation pursuant to plaintiff’s post-trial motion for a new trial, that counsel was justified in having the uniform in his car. It appears that the display of the tunic was inadvertent and it was removed from the car at the court’s request. Any attempt by the court to ascertain at trial whether any of the jurors had noticed the tunic would only have exacerbated an otherwise innocuous situation.
+ </p>
+<p id="b364-6">
+  Affirmed. Costs to defendant.
+ </p>
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b356-7">
+   Plaintiffs requested Special Instruction No. 27, which read in its entirety as follows:
+  </p>
+<p id="b356-8">
+   "Once negligence is established, it matters not that the precise harm that was visited on the victim was unpredictable.
+   <em>
+    Green Mountain Power Corp v General Electric Corp,
+   </em>
+   <span class="citation" data-id="2350454"><a href="/opinion/2350454/green-mountain-power-corp-v-general-electric-corp/#174" aria-description="Citation for case: Green Mountain Power Corp. v. General Electric Corp.">496 F Supp 169, 174</a></span> (D Vt, 1980);
+   <em>
+    Oestrike v Neifert,
+   </em>
+   <span class="citation" data-id="3502517"><a href="/opinion/3532114/oestrike-v-neifert/#464" aria-description="Citation for case: Oestrike v. Neifert">267 Mich 462, 464</a></span>; <span class="citation" data-id="3502517"><a href="/opinion/3532114/oestrike-v-neifert/" aria-description="Citation for case: Oestrike v. Neifert">255 NW 226</a></span> (1934);
+   <em>
+    LaPointe v Chevrette,
+   </em>
+   <span class="citation" data-id="3498945"><a href="/opinion/3528913/lapointe-v-chevrette/#491" aria-description="Citation for case: Lapointe v. Chevrette">264 Mich 482, 491</a></span>; <span class="citation" data-id="3498945"><a href="/opinion/3528913/lapointe-v-chevrette/" aria-description="Citation for case: Lapointe v. Chevrette">250 NW 272</a></span> (1933).”
+  </p>
+<p id="b356-9">
+   Plaintiffs alternatively requested Special Instruction No. 27A, which read in its entirety as follows:
+  </p>
+<p id="b356-10">
+   "Where an act is negligent, to render it a proximate cause, it is not necessary that the one committing the act might have foreseen the particular consequence, or injury, or the particular manner in which it occurred, if by the exercise of reasonable care, it might have been anticipated that some injury might occur.
+   <em>
+    Baker v Michigan Central R Co,
+   </em>
+   <span class="citation" data-id="7946916"><a href="/opinion/7993371/baker-v-michigan-central-railroad/#618" aria-description="Citation for case: Baker v. Michigan Central Railroad">169 Mich 609, 618</a></span>; <span class="citation" data-id="7946916"><a href="/opinion/7993371/baker-v-michigan-central-railroad/#940" aria-description="Citation for case: Baker v. Michigan Central Railroad">135 NW 937, 940</a></span> (1912);
+   <em>
+    LaPointe v Chevrette,
+   </em>
+   <span class="citation" data-id="3498945"><a href="/opinion/3528913/lapointe-v-chevrette/#491" aria-description="Citation for case: Lapointe v. Chevrette">264 Mich 482, 491</a></span>; <span class="citation" data-id="3498945"><a href="/opinion/3528913/lapointe-v-chevrette/#275" aria-description="Citation for case: Lapointe v. Chevrette">250 NW 272, 275</a></span> (1933);
+   <em>
+    Oestrike v Neifert,
+   </em>
+   <span class="citation" data-id="3502517"><a href="/opinion/3532114/oestrike-v-neifert/#464" aria-description="Citation for case: Oestrike v. Neifert">267 Mich 462, 464</a></span>; <span class="citation" data-id="3502517"><a href="/opinion/3532114/oestrike-v-neifert/#227" aria-description="Citation for case: Oestrike v. Neifert">255 NW 226, 227</a></span> (1934);
+   <em>
+    Green Mountain Power Corp v General Electric Corp,
+   </em>
+   <span class="citation" data-id="2350454"><a href="/opinion/2350454/green-mountain-power-corp-v-general-electric-corp/#174" aria-description="Citation for case: Green Mountain Power Corp. v. General Electric Corp.">496 F Supp 169, 174</a></span> (D Vt, 1980).”
+  </p>
+<p id="b356-11">
+   The trial court instructed the jury regarding probable cause as follows:
+  </p>
+<p id="b356-12">
+   "Well, members of the jury, I charge you, when I use the words, 'proximate cause’, I mean first, that there must have been a connection between the conduct of the defendants, General Motors Corporation, which the plaintiff claims was negligent and the injury complained of by the plaintiff, and second, that the occurrence which is claimed to have produced that injury was a natural and probably result of such conduct of the defendant, General Motors Corporation.
+  </p>
+<p id="b356-13">
+   "I charge you, when I use the words 'proximately contributed’, I
+   <span citation-index="1" class="star-pagination" label="345"> 
+    *345
+    </span>
+   mean first, that there must have been a connection between the conduct of the plaintiff which defendant claims was negligent and the injury of which plaintiff complains, and second, that the occurrence which is claimed to have produced that injury was a natural and probable result of such conduct of the plaintiff.”
+  </p>
+</div></div></opinion>

@@ -1,0 +1,1034 @@
+<pre class="inline">1                                                                            
+2                                                                            
+3                                                                            
+4                                                                            
+5                                                                            
+6                                                                            
+7                                                                            
+8                    UNITED STATES DISTRICT COURT                            
+9                  SOUTHERN DISTRICT OF CALIFORNIA                           
+10                                                                            
+11  GOPHER MEDIA LLC, et al.,            Case No.:  3:21-cv-01909-RBM-VET     
+
+12                            Plaintiffs,                                     
+                                        ORDER GRANTING PLAINTIFFS            
+13  v.                                   AND COUNTER-DEFENDANTS’              
+                                        MOTION FOR JUDGMENT ON THE           
+14  ANDREW MELONE, et al.,                                                    
+                                        PLEADINGS AS TO DEFENDANTS           
+15                          Defendants.  AND COUNTERCLAIMANTS’                
+                                        FIRST AMENDED                        
+16                                                                            
+                                        COUNTERCLAIMS [FRCP 12(C)]           
+17                                                                            
+                                        [Doc. 56]                            
+18                                                                            
+19                                                                            
+20       Before the Court is Gopher Media LLC, doing business as Doctor Multimedia 
+21  (“DMM”), and Ajay Thakore’s (collectively, the “Plaintiffs” or “Cross-Complainants”) 
+22  motion  for  judgment  on  the  pleadings  as  to  Defendants  and  Counterclaimants’  first 
+23  amended counterclaims (“Motion”).1  (Doc. 56.)  Andrew Melone and AGFM Family 
+24                                                                            
+25                                                                            
+26                                                                            
+   1 As explained infra at III.C, while Plaintiffs’ Motion challenges Defendants’ first amended 
+27  counterclaims, it is apparent to the Court that Plaintiffs intended to challenge Defendants’ 
+   Second  Amended  Counterclaims  (Doc.  36,  “SACC”)—the  operative  pleading.    The 
+28                                                                            
+1  Enterprises,  LLC,  doing  business  as  American  Pizza  Manufacturing  (“APM”) 
+2  (collectively, the “Defendants” or “Counter-Claimants”), filed an opposition to Plaintiffs’ 
+3  Motion (“Opposition”).  (Doc. 60.)  Plaintiffs filed a reply brief in response to Defendants’ 
+4  Opposition (“Reply”).  (Doc. 63.)                                         
+5       In  Plaintiffs’  First  Amended  Complaint,  they  allege  Defendants  engaged  and 
+6  continue to engage in a harassment campaign against them.  (Doc. 1.)  They assert 18 
+7  causes of action concerning, inter alia, Defendants’ alleged violations of their free speech 
+8  rights, discrimination on the basis of race, unfair business practices, false advertising, 
+9  defamation, trade libel, negligence per se, intentional infliction of emotional distress, 
+10  harassment, and filing of a false police report.  (Id.)  The Court granted the parties’ joint 
+11  motion to dismiss the 18th cause of action for filing a false police report.  (Docs. 58–59.)   
+12       In Plaintiffs’ Motion, they argue that Defendant Melone does not have standing to 
+13  bring any of the claims alleged in the SACC.  (Doc. 56-1 at 13–15, 26, 29–31.)2  Plaintiffs 
+14  argue Defendants’ trade libel claim (First Cause of Action) fails because they do not allege 
+15  special damages, the statements at issue are not false statements of fact, and the statements 
+16  do not concern the quality of APM’s products or services.  (Id. at 15–25.)  Plaintiffs argue 
+17  Defendants’ intentional interference with prospective economic advantage claim (Second 
+18  Cause of Action) fails because they do not identify an economic relationship with a 
+19  probability of future economic benefit.  (Id. at 25–29.)  Plaintiffs contend Defendants’ 
+20  negligent interference with prospective economic advantage claim (Third Cause of Action) 
+21  fails for the same reasons and because Defendants did not identify a duty Plaintiffs owed 
+22  to Defendants.  (Id. at 29.)  Plaintiffs argue Defendants’ Unfair Competition Law (“UCL”) 
+23  claim (Fourth Cause of Action) fails because Defendants are neither aggrieved customers 
+24  nor  competitors  and  they  do  not  identify  an  underlying  constitutional,  statutory,  or 
+25  regulatory provision.  (Id. at 29–31.)  Lastly, Plaintiffs contend Defendants’ declaratory 
+26                                                                            
+27                                                                            
+28                                                                            
+   2                                                                         
+1  relief claim (Fifth Cause of Action) is not ripe and is duplicative of other causes of action.  
+2  (Id. at 31–33.)                                                           
+3       The Court finds the matter suitable for determination on the papers and without oral 
+4  argument  pursuant  to  Civil  Local  Rule  7.1(d)(1).    For  the  reasons  discussed  below, 
+5  Plaintiffs’ Motion (Doc. 56) is GRANTED WITHOUT PREJUDICE.                
+6                            I.  BACKGROUND                                  
+7       The facts alleged in Defendants’ SACC are as follows.                
+8    A. Inception of Dispute                                                 
+9       The City of San Diego converted the parking spaces outside of Defendant APM into 
+10  15-minute parking zones.  (SACC ¶ 9.)  Beginning in October 2020, Plaintiff Thakore, on 
+11  a daily or weekly basis, illegally parked his luxury high-end vehicles outside of Defendant 
+12  APM.  (Id.)  Upon information and belief, Plaintiff Thakore was unhappy with the parking 
+13  zone changes because it “somehow impeded his ability to frequent other La Jolla business 
+14  establishments, mainly the neighboring Carino’s Restaurant and Verde’s El Ranchero.”  
+15  (Id. ¶ 10.)  Defendants believe Plaintiff Thakore has a financial, personal, or some other 
+16  substantial interest or relationship in Carino’s due to his “multi-hour visits to the restaurant 
+17  and his promotion of Carino’s in his targeted attacks against [Defendant] APM.”  (Id.) 
+18    B. Fake Negative Reviews                                                
+19       On August 12 and 24, 2021, Plaintiff Thakore used Plaintiff DMM “to post more 
+20  than  a  hundred  fake  negative  reviews  against  [Defendant  APM],  its  employees,  and 
+21  [Defendant] Melone personally on Google and Yelp.”  (Id. ¶ 11.)  Many of the reviews 
+22  “originated from [Plaintiff DMM] and employees within the company or included [Plaintiff 
+23  DMM’s] company logo in their review.”  (Id.)  The reviews caused Defendant APM’s 
+24  Google rating to drop from 5 to 2.9 stars during its busy summer season.  (Id.)  Before 
+25  these reviews, Defendant APM received an average of 6 reviews per month, and very few, 
+26  if any, were negative.  (Id.)  A private investigation confirmed that more than 140 false 
+27  reviews were posted during this time; many reviewers who posted multiple reviews had 
+28  public ties to Plaintiffs.  (Id.)  Google representatives who assisted in removing the fake 
+1  reviews told Defendants they recognized Plaintiffs as “past offenders of posting false 
+2  reviews, which Google relied on to expedite the removal of the false reviews.”  (Id. ¶ 15.)  
+3       The falsity of the reviews was evidenced by claims such as “[Defendant] APM 
+4  selling burnt pizza when the business does not even cook the pizza (since it is meant to 
+5  take home and cook).”  (Id. ¶ 11.)  Other false statements included claiming Defendant 
+6  APM “smelled like old fish inside,” “[t]he owner laughed at me when I said my name for 
+7  the order.  No respect for humans or animals here,” and “[w]orst pizza ever, I got food 
+8  poisoning.” (Id.)                                                         
+9       Upon  information  and  belief,  Plaintiff  Thakore  “paid  or  otherwise  encouraged 
+10  employees and agents of [Plaintiff DMM] to post the negative reviews.”  (Id. ¶ 12.)  At 
+11  least  one  former  Plaintiff  DMM  employee  informed  Defendants  that  Plaintiff  DMM 
+12  encouraged this behavior, and Plaintiff Thakore engaged in the conduct in the past.  (Id.)  
+13  In 2019, a separate lawsuit was filed against Plaintiffs in the Superior Court of California, 
+14  County of San Diego (Marinkovich, et al. v. Thakore, et al., Case No. 37-2019-00063378), 
+15  alleging similar payments and encouragement to post false reviews.  (Id.) 
+16       On August 14, 2021, Defendant Melone asked Plaintiff Thakore to take down the 
+17  reviews and Plaintiff Thakore responded “this is only the beginning.”  (Id. ¶ 13.)  On 
+18  August 20, 2021, Plaintiff Thakore approached Defendant Melone and said “How do you 
+19  like those reviews?  Get ready.  There’s a 1,000 more where those came from.”  (Id. ¶ 14.)   
+20    C. Storefront                                                           
+21       At times, Plaintiff Thakore “would sit in his vehicle outside of [Defendant APM] 
+22  while  blowing  marijuana  smoke  into  the  restaurant  and  toward  its  employees  and 
+23  customers.”  (Id. ¶ 16.)  On at least one occasion, he “threw marijuana paraphernalia at an 
+24  [APM] employee who was also a minor.”  (Id.)                              
+25       At other times, he would display messages on his vehicle attacking Defendant APM, 
+26  including on September 26, 2021, putting a sign on his Ferrari that read “[o]nly losers get 
+27  Take N Bake pizza.”  (Id. ¶ 17.)  Between September 29 and October 2, 2021, Plaintiff 
+28  Thakore parked his Maybach in front of Defendant APM with the sign “Take N Bake Pizza 
+1  Sucks.”  (Id. ¶ 18.)  On October 4, 2021, he parked his Ford Raptor in front of Defendant 
+2  APM for several days displaying “gun scopes” over the sign “Take N Bake Pizza” and 
+3  leveled false accusations of racism targeting Defendant APM.  (Id. ¶ 19.)  On at least two 
+4  occasions on October 3 and 9, 2021, Defendants are informed and believe Plaintiff Thakor 
+5  commissioned planes to fly over Defendant APM with messages including “Carinos Pizza 
+6  is Better Than Take-n-Bake” and “Just Say No to Take-n-Bake Pizza.”  (Id. ¶ 20.)  On one 
+7  occasion, Plaintiff Thakore disrupted Defendant APM’s business by parking all of his cars 
+8  in front of the store to block customer parking and honked his horn for 30 seconds two 
+9  times during business hours.  (Id. ¶ 25.)                                 
+10    D. Payment to Harass                                                    
+11       On  multiple  occasions,  Plaintiff  Thakore  publicly  paid  individuals  to  harass 
+12  Defendant APM on Instagram, including by ordering from Carino’s pizza and mentioning 
+13  Defendant  APM  “sucks”  in  exchange  for  $100  worth  of  free  food.    (Id.  ¶  21.)  
+14  Consequently, on one occasion, Defendant APM received seven calls in five minutes with 
+15  messages such as “[y]our pizza fucking sucks,” “[f]uck you for kicking dogs and being 
+16  racist,” and “I’ll never come eat at your restaurant, ever.”  (Id. ¶ 22.)  The messages 
+17  pertained to inflammatory and objectively false statements Plaintiff Thakore posted to 
+18  social media, including that Defendant APM “[k]icks handicapped dogs, uses frozen crust, 
+19  hates anyone of color, despises the first amendment and gets sued for 10 million dollars.  
+20  If you support Take n Bake pizza you support animal abuse, racism and frozen crust” and 
+21  that “he” at “Take n Bake” called Plaintiff Thakore a “sandn***er.”  (Id. ¶ 23.) 
+22    E. Customer Harassment                                                  
+23       On October 5, 2021, an APM customer entered Defendant APM crying, asking to 
+24  use  their  business  phone  after  she  confronted  Plaintiff  Thakore  about  the 
+25  derogatory/inflammatory vehicle wraps.  (Id. ¶ 24.)  The customer explained Plaintiff 
+26  Thakore and his associate “retaliated by accosting and taking her phone away from her.  
+27  She called the police and filed a report.”  (Id.)                         
+28  ///                                                                       
+1    F. Conduct After Filing of This Case (Complaint Filed November 9, 2021) 
+2       On November 10, 2021, Plaintiff Thakore parked in front of Defendant APM and 
+3  opened a briefcase with thousands of dollars, dumping it on the sidewalk in front of 
+4  customers and stating, “This is suit money motherf**er!”  (Id. ¶ 26.)  On December 8, 
+5  2021, while Defendant Malone was speaking with customers, Plaintiff Thakore yelled 
+6  “You’re going down b**ch!”  (Id. ¶ 27.)                                   
+7    G. Plaintiff Thakore’s Criminal History                                 
+8       Plaintiff Thakore’s increasingly volatile conduct is concerning given his criminal 
+9  history.  (Id. ¶ 28.)  On Augst 23, 2019, Plaintiff Thakore pled guilty to making a criminal 
+10  threat (</pre><span class="citation no-link">Cal. Penal Code § 422</span><pre class="inline">) and vandalism (</pre><span class="citation no-link">Cal. Penal Code § 594</span><pre class="inline">).  (Id.)   
+11    H. Response to Counterclaims (Initial Counterclaims filed January 3, 2021) 
+12       When Defendants filed their initial counterclaims in this matter, “[Defendant] APM 
+13  experienced a series of attacks and vandalism at its store.”  (Id. ¶ 29.)  On January 12, 2022, 
+14  Defendant APM’s sign was slashed, and a police report was filed.  (Id.)  On February 11, 
+15  2022, the day after Plaintiff Thakore accused Defendant APM of calling the police on him 
+16  for illegally parking in front of the store, Defendant APM’s window was smashed.  (Id.)  
+17  Several  weeks  later,  Defendant  APM  was  vandalized  when  an  individual  appearing 
+18  identical to the individual who smashed the window spray painted graffiti on its wall.  (Id.)  
+19  Upon information and belief, Defendants believe these incidents occurred at the direction 
+20  of or in coordination with Plaintiffs.  (Id.)                             
+21                          II.  LEGAL STANDARD                               
+22       Federal Rule of Civil Procedure 12(c) allows parties to move for judgment on the 
+23  pleadings after the pleadings have been closed but prior to trial, and “within such time as 
+24  not to delay the trial.”  Fed. R. Civ. P. 12(c).  The standard for determining a Rule 12(c) 
+25  motion for judgment on the pleadings is the same as the standard for a Rule 12(b)(6) motion 
+26  to dismiss.  Cafasso, U.S. ex rel. v. Gen. Dynamics C4 Sys., Inc., </pre><span class="citation" data-id="213165"><a href="/opinion/213165/cafasso-v-general-dynamics-c4-systems-inc/" aria-description="Citation for case: Cafasso v. General Dynamics C4 Systems, Inc.">637 F.3d 1047</a></span><pre class="inline">, 1053 &amp; 
+27  n.4 (9th Cir. 2011) (“Rule 12(c) is ‘functionally identical’ to Rule 12(b)(6) and that ‘the 
+28  same standard of review’ applies to motions brought under either rule.”) (quoting Dworkin 
+1  v. Hustler Magazine Inc., </pre><span class="citation" data-id="518481"><a href="/opinion/518481/andrea-dworkin-priscilla-moree-judith-fouts-v-hustler-magazine-inc/#1192" aria-description="Citation for case: Andrea Dworkin Priscilla Moree Judith Fouts v. Hustler...">867 F.2d 1188, 1192</a></span><pre class="inline"> (9th Cir. 1989)).  “Judgment on the 
+2  pleadings is proper when the moving party clearly establishes on the face of the pleadings 
+3  that no material issue of fact remains to be resolved and that it is entitled to judgment as a 
+4  matter of law.”  Hal Roach Studios, Inc. v. Richard Feiner and Co., Inc., </pre><span class="citation" data-id="537184"><a href="/opinion/537184/hal-roach-studios-inc-a-delaware-corporation-v-richard-feiner-and/" aria-description="Citation for case: Hal Roach Studios, Inc., a Delaware Corporation v....">896 F.2d 1542</a></span><pre class="inline">, 
+5  1550 (9th Cir. 1989).  A court must not consider matters beyond the pleadings; otherwise, 
+6  such a proceeding must properly be treated as a motion for summary judgment.  Id.; see 
+7  also Yakima Valley Mem’l Hosp. v. Wash. State Dep’t of Health, </pre><span class="citation" data-id="223637"><a href="/opinion/223637/yakima-valley-memorial-hospital-v-washington-state-department-of-health/" aria-description="Citation for case: Yakima Valley Memorial Hospital v. Washington State...">654 F.3d 919</a></span><pre class="inline">, 925 n.6 
+8  (9th Cir. 2011) (“Judgment on the pleadings is limited to material included in the pleadings 
+9  … [o]therwise, the proceeding is converted to summary judgment.”) (citations omitted). 
+10       “A motion to dismiss under Federal Rule of Civil Procedure 12(b)(6) for failure to 
+11  state a claim upon which relief can be granted ‘tests the legal sufficiency of a claim.’” 
+12  Conservation Force v. Salazar, </pre><span class="citation" data-id="221641"><a href="/opinion/221641/conservation-force-v-salazar/" aria-description="Citation for case: Conservation Force v. Salazar">646 F.3d 1240</a></span><pre class="inline">, 1241–42 (9th Cir. 2011) (quoting Navarro 
+13  v. Block, </pre><span class="citation" data-id="6998032"><a href="/opinion/7092494/navarro-v-block/#732" aria-description="Citation for case: Navarro v. Block">250 F.3d 729, 732</a></span><pre class="inline"> (9th Cir. 2001)).  An action may be dismissed for failure to 
+14  allege “enough facts to state a claim to relief that is plausible on its face.”  Bell Atl. Corp. 
+15  v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 570</a></span><pre class="inline"> (2007).  “A claim has facial plausibility when the plaintiff 
+16  pleads factual content that allows the court to draw the reasonable inference that the 
+17  defendant is liable for the misconduct alleged.  The plausibility standard is not akin to a 
+18  ‘probability requirement,’ but it asks for more than a sheer possibility that a defendant 
+19  acted unlawfully.”  Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662, 678</a></span><pre class="inline"> (2009) (internal citations omitted).  
+20  For purposes of ruling on a Rule 12(b)(6) motion, the Court “accept[s] factual allegations 
+21  in the complaint as true and construe[s] the pleadings in the light most favorable to the 
+22  nonmoving party.”  Manzarek v. St. Paul Fire &amp; Marine Ins. Co., </pre><span class="citation" data-id="1194077"><a href="/opinion/1194077/manzarek-v-st-paul-fire-marine-insurance/" aria-description="Citation for case: Manzarek v. St. Paul Fire &amp; Marine Insurance">519 F.3d 1025</a></span><pre class="inline">, 1031 
+23  (9th Cir. 2008).                                                          
+24                            III.  DISCUSSION                                
+25    A. Extrinsic Evidence                                                   
+26       Defendants cite extrinsic evidence in support of their Opposition.  (See Doc. 60.) 
+27  Plaintiffs cite extrinsic evidence in support of their Reply.  (See Doc. 63.)  However, 
+28  Plaintiffs object to the Court considering Defendants’ extrinsic evidence because Plaintiffs 
+1  must be given notice and an opportunity to present all their evidence prior to the Motion 
+2  being converted into a motion for summary judgment.  (See </pre><span class="citation" data-id="1194077"><a href="/opinion/1194077/manzarek-v-st-paul-fire-marine-insurance/" aria-description="Citation for case: Manzarek v. St. Paul Fire &amp; Marine Insurance">id.</a></span><pre class="inline"> at 4–5.)    
+3       The Court declines to exercise its discretion to convert Plaintiffs’ Motion into a 
+4  motion for summary judgment.  See Yakima Valley Mem’l Hosp., </pre><span class="citation" data-id="223637"><a href="/opinion/223637/yakima-valley-memorial-hospital-v-washington-state-department-of-health/" aria-description="Citation for case: Yakima Valley Memorial Hospital v. Washington State...">654 F.3d at 925</a></span><pre class="inline"> n.6 (“The 
+5  district court had discretion not to convert the motion for judgment on the pleadings into a 
+6  summary judgment motion.”).  The Court is not persuaded Plaintiffs’ Reply presents a 
+7  sufficient opportunity for Plaintiffs to present evidence relevant to a motion for summary 
+8  judgment under Rule 12(d).3  See Open Text Corp. v. Hyland Software, Inc., Case Nos. 
+9  8:20-cv-2116 DOC (ADSx), 8:20-cv-2123 DOC (ADSx), </pre><span class="citation no-link">2021 WL 3558788</span><pre class="inline">, at *2 (C.D. 
+10  Cal. May 28, 2021) (“It is reversible error for a court to grant a motion to dismiss that has 
+11  been converted to one for summary judgment, without providing all parties a reasonable 
+12  opportunity to present material relevant to a Rule 56 motion.”) (citations omitted).   
+13       Thus,  the  Court  will  not  consider  extrinsic  evidence  submitted  by  the  parties.  
+14  Similarly, the Court will not address arguments solely relying on such extrinsic evidence. 
+15    B. Judicial Notice                                                      
+16       Defendants request that the Court take judicial notice of Plaintiff Thakore’s other 
+17  publicly filed lawsuits against Defendant Melone’s girlfriend, an APM customer, former 
+18  employees of DMM, and a DMM competitor.  (Doc. 60 at 13–14; Doc. 60-8.)  Under 
+19  Federal Rule of Evidence 201(b), a court may take judicial notice, either on its own accord 
+20  or by a party’s request, of facts that are not subject to reasonable dispute because they are 
+21  (1) “generally known within the trial court’s territorial jurisdiction; or (2) can be accurately 
+22  and readily determined from sources whose accuracy cannot reasonably be questioned.” 
+23  Fed. R. Evid. 201(b).  “Because judicial notice ‘bypasses the safeguards which are involved 
+24                                                                            
+25                                                                            
+26                                                                            
+   3 Rule 12(d) specifically provides: “If, on a motion under Rule 12(b)(6) or 12(c), matters 
+27  outside the pleadings are presented to and not excluded by the court, the motion must be 
+   treated as one for summary judgment under Rule 56.  All parties must be given a reasonable 
+28                                                                            
+1  with the usual process of proving facts by competent evidence in district court,’ the process 
+2  of ‘taking . . . judicial notice of facts is, as a matter of evidence law, a highly limited 
+3  process.’”  Harner v. USAA Gen. Indem. Co., Case No. 18cv01993-LL-MDD, </pre><span class="citation no-link">2022 WL 
+4</span><pre class="inline">  1271136, at *1 (S.D. Cal. Apr. 28, 2022) (quoting Dippin’ Dots, Inc. v. Frosty Bites 
+5  Distrib., LLC, </pre><span class="citation" data-id="76594"><a href="/opinion/76594/dippin-dots-inc-v-frosty-bites-distribution-llc/" aria-description="Citation for case: Dippin&#x27; Dots, Inc. v. Frosty Bites Distribution, LLC">369 F.3d 1197</a></span><pre class="inline">, 1204–05 (11th Cir. 2004)).                  
+6       Defendants have not explained why these publicly filed lawsuits are relevant to 
+7  resolving whether the specific claims in the SACC are adequately pled and the alleged facts 
+8  in the complaints in these other cases are presumably disputed.  See Lee v. City of Los 
+9  Angeles, </pre><span class="citation" data-id="6998020"><a href="/opinion/7092482/lee-v-city-of-los-angeles/#690" aria-description="Citation for case: Lee v. City of Los Angeles">250 F.3d 668, 690</a></span><pre class="inline"> (9th Cir. 2001) (noting district court may not take judicial 
+10  notice of disputed facts stated in public records from other court proceedings).   
+11       Thus, the Court will not take judicial notice of the other lawsuits. 
+12    C. Facial Deficiency                                                    
+13       Defendants argue Plaintiffs’ Motion should be denied because the caption and body 
+14  of Plaintiffs’ Motion challenge Defendants’ First Amended Counterclaims instead of the 
+15  SACC.  (Doc. 60 at 14.)  However, all of Plaintiffs’ arguments in their Motion pertain to 
+16  the claims in the SACC and each paragraph of the SACC cited in the Motion is correct.  
+17  (See Doc. 56.)  Additionally, Defendants have identified no prejudice in construing the 
+18  Motion as applying to the SACC.  See Shame on You Prods., Inc. v. Elizabeth Banks, 120 
+</pre><span class="citation" data-id="8312186"><a href="/opinion/8343750/confederated-tribes-bands-of-the-yakama-nation-v-united-states-fish/" aria-description="Citation for case: Confederated Tribes &amp; Bands of the Yakama Nation v....">19  F. Supp. 3d 1123</a></span><pre class="inline">, 1140–41 (C.D. Cal. 2015) (construing motion for judgment on the 
+20  pleadings to apply to amended complaint to avoid needless refiling because issues at work 
+21  are the same and there was no prejudice to plaintiff).                    
+22       Thus, the Court will not deny Plaintiffs’ Motion as facially deficient and construes 
+23  Plaintiffs’ Motion as applying to the SACC.                               
+24    D. Timeliness                                                           
+25       Defendants argue Plaintiffs’ Motion is untimely and will delay trial.  (Doc. 60 at 14–
+26  15.)  Plaintiffs respond that a motion for judgment on the pleadings may be brought after 
+27  pleadings close, discovery is complete, and note that a trial date has not been set in this 
+28  case.  (Doc. 63 at 2.)                                                    
+1       Rule 12(c) allows parties to move for judgment on the pleadings after the pleadings 
+2  have been closed but prior to trial, and “within such time as not to delay the trial.”  Fed. R. 
+3  Civ. P. 12(c).  Plaintiffs filed their Motion on the final day for pretrial motions pursuant to 
+4  the scheduling order in this case.  (See Docs. 32, 53.)  In light of Plaintiffs’ Motion, the 
+5  Court vacated remaining pretrial deadlines on July 20, 2023.  (Doc. 68.)  While discovery 
+6  has closed, a trial date has not been set.  See Jaeger v. Howmedica Osteonics Corp., Case 
+7  No. 15-cv-00164-HSG, </pre><span class="citation no-link">2016 WL 520985</span><pre class="inline">, at *6 (N.D. Cal. Feb. 10, 2016) (finding motion 
+8  for judgment on the pleadings not untimely where trial date was over seven months away); 
+9  Perez v. Wells Fargo &amp; Co., </pre><span class="citation" data-id="7229065"><a href="/opinion/7311161/perez-v-wells-fargo-co/#1190" aria-description="Citation for case: Perez v. Wells Fargo &amp; Co.">75 F. Supp. 3d 1184, 1190</a></span><pre class="inline"> (N.D. Cal. 2014) (finding 12(c) 
+10  motion not untimely where trial date was not set and the idea that the motion cannot lie 
+11  where substantial discovery has taken place “does not appear to be supported by Rule 
+12  12(c)”).  Defendants’ reliance on United States Commodity Futures Trading Commission 
+13  v. Maggio, No. C05-5766RJB, </pre><span class="citation no-link">2007 WL 2900180</span><pre class="inline">, at *6 (W.D. Wash. Oct. 1, 2007) is 
+14  misplaced.  Even if the Maggio court did construe the defendants’ Rule 9(b) motion as a 
+15  motion for judgment on the pleadings (it is not clear that it did), the motion was filed too 
+16  close to the trial date.  See </pre><span class="citation no-link">id.</span><pre class="inline">  Conversely here, no trial date has been set.  
+17       Thus, Plaintiffs’ Motion is timely.                                  
+18    E. Standing of Defendant Melone                                         
+19       Plaintiffs contend that Defendant Melone lacks standing to assert each cause of 
+20  action.  (Doc. 56-1 at 13.)  Plaintiffs explain these contentions further for the trade libel, 
+21  intentional and negligent interference with prospective economic advantage, and unfair 
+22  competition law claims, but not the declaratory relief claim.  (See </pre><span class="citation no-link">id.</span><pre class="inline"> at 14–15, 26, 29–30.)  
+23  The  Court  will  first  consider  Defendant  Melone’s  standing  for  the  trade  libel  and 
+24  intentional and negligent interference with prospective economic advantage claims.  Later, 
+25  the Court will consider Defendants’ standing for the unfair competition law claim.  The 
+26  Court does not reach the standing issue on the declaratory relief claim.  
+27         a.  Trade Libel                                                    
+28       Plaintiffs argue Defendant Melone does not have standing to bring a trade libel claim 
+1  because trade libel concerns false statements about one’s business or products.  (Doc. 56-
+2  1 at 14–15.)  Defendants respond that Plaintiffs’ libel specifically targeted Defendant 
+3  Melone, and he has a direct personal interest in APM affording him standing to pursue a 
+4  trade libel claim.  (Doc. 60 at 24–25.)  Plaintiffs respond that Defendant Melone, as an 
+5  individual, is not a business or product that can assert a trade libel claim and no alleged 
+6  false statements in the SACC refer to Melone directly.  (Doc. 63 at 6–7.) 
+7       Plaintiffs have pointed to no case where an owner of a business did not have standing 
+8  to bring a trade libel claim concerning the quality of the goods they sell.  (See Doc. 56-1 at 
+9  14–15.)  A review of case law in this area reveals that most trade libel claims are brought 
+10  by businesses.  However, the Court has identified several cases where owners, or both 
+11  owners and their businesses, brought trade libel claims.  See Kovesdy v. Kovesdy, No. C 
+12  10-02012 SBA, </pre><span class="citation no-link">2010 WL 3619826</span><pre class="inline">, at *4 (N.D. Cal. Sept. 13, 2010) (finding plaintiff, a 
+13  sole proprietor, adequately pled a claim for trade libel for false statements directed at the 
+14  character of his business i.e., his competence to provide tax preparation services); Allen v. 
+15  Ghoulish Gallery, Civil No. 06cv371 NLS, </pre><span class="citation no-link">2007 WL 4207923</span><pre class="inline">, at *15–16 (S.D. Cal. Nov. 
+16  20, 2007) (denying business owner’s trade libel claim because the alleged statements about 
+17  the quality of his goods were not sufficiently factual to be proven right or wrong); Franklin 
+18  v. Dynamic Details, Inc., </pre><span class="citation" data-id="2276671"><a href="/opinion/2276671/franklin-v-dynamic-details-inc/" aria-description="Citation for case: Franklin v. Dynamic Details, Inc.">116 Cal. App. 4th 375</a></span><pre class="inline">, 383–90 (2004) (denying owner and his 
+19  company’s trade libel claim because the emails at issue were opinions, vague, or true 
+20  statements); Erlich v. Etner, </pre><span class="citation" data-id="2197589"><a href="/opinion/2197589/erlich-v-etner/" aria-description="Citation for case: Erlich v. Etner">224 Cal. App. 2d 69</a></span><pre class="inline">, 73–76 (1964) (holding owner’s trade 
+21  libel claim failed due to not alleging special damages).  Thus, Defendant Melone has 
+22  standing to sue for trade libel concerning false statements about Defendant APM.   
+23         b.  Intentional and Negligent Interference with Economic Advantage 
+24       Plaintiffs argue Defendant Melone cannot assert an intentional interference with 
+25  prospective  economic  advantage  claim  because  there  are  no  facts  pled  that  show  a 
+26  prospective advantage to Defendant Melone and that the claim solely concerns prospective 
+27  economic relations between Plaintiff APM and its potential customers.  (Doc. 56-1 at 26.)  
+28  Plaintiffs point to no statute or case law to support their position.  (See id.)  Plaintiffs 
+1  reassert all arguments concerning the intentional interference with economic advantage 
+2  claim for the negligent interference with economic advantage claim.  (Doc. 56-1 at 29.) 
+3       Defendants, including Defendant Melone, allege that they “were in an economic 
+4  relationship with potential and actual customers of its pizza business that would have 
+5  resulted in an economic benefit” to them and that Plaintiffs disrupted their relationship with 
+6  some customers.  (SACC ¶¶ 42, 45.)  This is sufficient for standing purposes for the 
+7  common law claims of intentional and negligent interference with prospective economic 
+8  advantage.  See Sacramento E.D.M., Inc. v. Hynes Aviation Indus., Inc., </pre><span class="citation" data-id="2660122"><a href="/opinion/2660122/mcnamara-v-picken/#1141" aria-description="Citation for case: McNamara v. Picken">965 F. Supp. 2d 
+9  1141, 1146, 1153</a></span><pre class="inline"> (E.D. Cal. 2013) (denying motion to dismiss intentional and negligent 
+10  interference  with  prospective  economic  advantage  claims  brought  by  company  and 
+11  company’s president); c.f. Davis v. Maryland Bank, No. 00-04191, </pre><span class="citation no-link">2002 WL 32713429</span><pre class="inline">, at 
+12  *7 (N.D. Cal. June 19, 2002) (finding a company did not have standing for an intentional 
+13  interference with prospective economic advantage claim because the complaint alleged the 
+14  individual plaintiff was the one with prospective contracts that were terminated as a result 
+15  of the defendant’s willful conduct, not the company); Billmeyer v. Plaza Bank of Com., 42 
+</pre><span class="citation" data-id="2253276"><a href="/opinion/2253276/people-v-muniz/" aria-description="Citation for case: People v. Muniz">16  Cal. App. 4th 1086</a></span><pre class="inline">, 1098–99 (1995) (finding individual plaintiffs lacked standing for 
+17  intentional interference with economic relationship claim where the complaint alleged the 
+18  bankruptcy estate, not the individual plaintiffs, suffered damages from the interference).  
+19  Thus, Defendant Melone has standing to sue for intentional and negligent interference with 
+20  prospective economic advantage.                                           
+21    F. Trade Libel (First Cause of Action)                                  
+22       “Trade libel is defined as ‘an intentional disparagement of the quality of property, 
+23  which results in pecuniary damage....’”  Aetna Cas. &amp; Sur. Co. v. Centennial Ins. Co., 838 
+</pre><span class="citation" data-id="6836937"><a href="/opinion/6940099/ross-v-international-life-ins/#351" aria-description="Citation for case: Ross v. International Life Ins.">24  F.2d 346, 351</a></span><pre class="inline"> (9th Cir. 1988) (quoting Erlich, </pre><span class="citation" data-id="2197589"><a href="/opinion/2197589/erlich-v-etner/#73" aria-description="Citation for case: Erlich v. Etner">224 Cal. App. 2d at 73</a></span><pre class="inline">).  “Unlike classic 
+25  defamation, they are not directed at the plaintiff’s personal reputation but rather at the 
+26  goods a plaintiff sells or the character of his other business.”  </pre><span class="citation" data-id="2197589"><a href="/opinion/2197589/erlich-v-etner/" aria-description="Citation for case: Erlich v. Etner">Id.</a></span><pre class="inline"> (citing Guess, Inc. v. 
+27  Superior Court, </pre><span class="citation" data-id="2122978"><a href="/opinion/2122978/guess-inc-v-superior-court/#479" aria-description="Citation for case: Guess, Inc. v. Superior Court">176 Cal. App. 3d 473, 479</a></span><pre class="inline"> (1986)).                        
+28       “To prove trade libel, Plaintiff must show (1) a statement that (2) was false, (3) 
+1  disparaging, (4) published to others in writing, (5) induced others not to deal with it, and 
+2  (6) caused special damages.”  TYR Sport Inc. v. Warnaco Swimwear Inc., </pre><span class="citation" data-id="2487092"><a href="/opinion/2487092/felter-v-salazar/#1120" aria-description="Citation for case: Felter v. Salazar">679 F. Supp. 2d 
+3  1120, 1140</a></span><pre class="inline"> (C.D. Cal. 2009) (citing Atlantic Mut. Ins. Co. v. J. Lamb. Inc., </pre><span class="citation" data-id="3294806"><a href="/opinion/3296084/regalia-v-mariani/" aria-description="Citation for case: Regalia v. Mariani">100 Cal. App. 
+4</a></span><pre class="inline">  4th 1017, 1035 (2002)).  “Like defamation, trade libel requires a false statement of fact, 
+5  not an expression of an opinion.”  J-M Mfg. Co. v. Phillips &amp; Cohen LLP, </pre><span class="citation no-link">247 Cal. App. 
+6</span><pre class="inline">  4th 87, 97 (2016).  The statement “must be made with actual malice, that is, with knowledge 
+7  it was false or with reckless disregard for whether it was true or false.”  </pre><span class="citation no-link">Id.</span><pre class="inline">  California 
+8  courts  look  to  the  Restatement  (Second)  of  Torts  in  evaluating  trade  libel  claims.  
+9  Leonardini v. Shell Oil Co., </pre><span class="citation" data-id="2174864"><a href="/opinion/2174864/leonardini-v-shell-oil-co/#572" aria-description="Citation for case: Leonardini v. Shell Oil Co.">216 Cal. App. 3d 547, 572</a></span><pre class="inline"> (1990).            
+10         a.  False Statements                                               
+11       Plaintiffs argue all the statements alleged to be trade libel are not false statements 
+12  but rather they are opinions, advertisements, commercial speech, or hyperbole.  (Doc. 56-
+13  1 at 17–24.)  Defendants respond that Plaintiffs statements were false statements intended 
+14  to cause them harm.  (Doc. 60 at 16–18.)                                  
+15       “To constitute trade libel, a statement must be false.”  ComputerXpress, Inc. v. 
+16  Jackson, </pre><span class="citation" data-id="2282346"><a href="/opinion/2282346/computerxpress-inc-v-jackson/#1010" aria-description="Citation for case: ComputerXpress, Inc. v. Jackson">93 Cal. App. 4th 993, 1010</a></span><pre class="inline"> (2001) (citing Leonardini, </pre><span class="citation" data-id="2174864"><a href="/opinion/2174864/leonardini-v-shell-oil-co/#572" aria-description="Citation for case: Leonardini v. Shell Oil Co.">216 Cal. App. 3d at 572</a></span><pre class="inline">)).  
+17  “Since mere opinions cannot by definition be false statements of fact, opinions will not 
+18  support a cause of action for trade libel.”  </pre><span class="citation" data-id="2174864"><a href="/opinion/2174864/leonardini-v-shell-oil-co/" aria-description="Citation for case: Leonardini v. Shell Oil Co.">Id.</a></span><pre class="inline"> at 1010–11 (citing Hofmann Co. v. E.I. Du 
+19  Pont De Nemours &amp; Co., </pre><span class="citation" data-id="2137818"><a href="/opinion/2137818/hofmann-co-v-e-i-du-pont-de-nemours-co/#397" aria-description="Citation for case: Hofmann Co. v. E. I. Du Pont De Nemours &amp; Co.">202 Cal. App. 3d 390, 397</a></span><pre class="inline"> (1988)).  “Whether a statement is one 
+20  of fact or opinion is a question of law to be decided by the court.”  Melaleuca, Inc. v. Clark, 
+21  </pre><span class="citation" data-id="2256968"><a href="/opinion/2256968/melaleuca-inc-v-clark/#1353" aria-description="Citation for case: Melaleuca, Inc. v. Clark">66 Cal. App. 4th 1344, 1353</a></span><pre class="inline"> (1998) (citing Baker v. Los Angeles Herald Exam’r, </pre><span class="citation no-link">42 Cal. 
+22</span><pre class="inline">  3d 254, 260 (1986)).  “To decide whether a statement is fact or opinion, a court must put 
+23  itself in the place of an average reader and determine the natural and probable effect of the 
+24  statement, considering both the language and the context.  However, where a statement is 
+25  ambiguous or susceptible of an innocent meaning, it is incumbent upon the plaintiff to 
+26  plead the facts showing its defamatory meaning.”  ComputerXpress, Inc., </pre><span class="citation no-link">93 Cal. App. 4th 
+27</span><pre class="inline">  at 1011 (citations omitted).  In addition to the language, the court must “look at the nature 
+28  and full content of the communication and to the knowledge and understanding of the 
+1  audience to whom the publication was directed.”  Hofman Co., </pre><span class="citation" data-id="2137818"><a href="/opinion/2137818/hofmann-co-v-e-i-du-pont-de-nemours-co/" aria-description="Citation for case: Hofmann Co. v. E. I. Du Pont De Nemours &amp; Co.">202 Cal. App. 3d at 398</a></span><pre class="inline"> 
+2  (citation omitted).  “If a statement of opinion implies a knowledge of facts which may lead 
+3  to a defamatory conclusion, the implied facts must themselves be true.”  Prehired, LLC v. 
+4  Provins, No. 2:22-cv-00384-TLN-AC, </pre><span class="citation no-link">2022 WL 1093237</span><pre class="inline">, at *4 (E.D. Cal. Apr. 12, 2022) 
+5  (quoting Piping Rock Partners, Inc. v. David Lerner Assocs., Inc., </pre><span class="citation" data-id="8708651"><a href="/opinion/8725454/piping-rock-partners-inc-v-david-lerner-associates-inc/" aria-description="Citation for case: Piping Rock Partners, Inc. v. David Lerner Associates, Inc.">946 F. Supp. 2d 957</a></span><pre class="inline">, 
+6  972 (N.D. Cal. 2013)).  In the Ninth Circuit, “plaintiffs must identify specific statements 
+7  constituting trade libel.”  </pre><span class="citation" data-id="8708651"><a href="/opinion/8725454/piping-rock-partners-inc-v-david-lerner-associates-inc/" aria-description="Citation for case: Piping Rock Partners, Inc. v. David Lerner Associates, Inc.">Id.</a></span><pre class="inline"> at *3 (citing First Advantage Background Servs. v. Private 
+8  Eyes, Inc., </pre><span class="citation" data-id="1518095"><a href="/opinion/1518095/first-advantage-background-services-corp-v-private-eyes-inc/#937" aria-description="Citation for case: First Advantage Background Services Corp. v. Private...">569 F. Supp. 2d 929, 937</a></span><pre class="inline"> (N.D. Cal. 2008)).                   
+9       The Court finds that Defendants have identified several allegedly false statements 
+10  concerning the quality of their goods.  Those statements, subject to proof of falsehood, 
+11  include that “[Defendant] APM sell[s] burnt pizza,” Defendant APM “smelled like old fish 
+12  inside,” and that a customer “got food poisoning” from Defendant APM.  (See SACC ¶ 
+13  11.)  These allegations, in the form of false reviews of Defendant APM online, along with 
+14  Plaintiff Thakore’s statements, raise a reasonable inference of an intent to harm Defendant 
+15  APM’s business.  (See id. ¶¶ 13 (“this is only the beginning”), 14 (“How do you like those 
+16  reviews?  Get ready.  There’s a 1,000 more where those came from.”).)  See Hartford Cas. 
+17  Ins. Co. v. Swift Distrib., Inc., </pre><span class="citation" data-id="2678184"><a href="/opinion/2678184/hartford-casualty-insurance-v-swift-distribution-inc/#288" aria-description="Citation for case: Hartford Casualty Insurance v. Swift Distribution, Inc.">59 Cal. 4th 277, 288</a></span><pre class="inline"> (2014) (noting that under Restatement 
+18  (Second) of Torts Section 629, a statement is disparaging if it casts doubt upon the quality 
+19  of another’s property, the publisher intends the statement to cast doubt, and the recipient’s 
+20  understanding of it as casting doubt was reasonable).  Another allegedly false statement 
+21  concerning the quality of Defendant APM’s goods is a post with a picture of Defendant 
+22  APM’s store and the statement that it “uses frozen crust.”  (See SACC ¶ 23.) 
+23       Moreover, the Court finds that Defendants have identified several other allegedly 
+24  false statements that arguably concern the character of Defendant APM’s business.  Those 
+25  statements include (1) a false review stating that “[t]he owner laughed at me when I said 
+26                                                                            
+27                                                                            
+28                                                                            
+1  my name for the order;”  (2) a post with a picture of Defendant APM’s store and a statement 
+2  that it “[k]icks handicapped dogs;” and (2) a post stating “he” called Plaintiff Thakore a 
+3  “sandn***er” as he walked by “Take N Bake.”5  (See id. ¶¶ 11, 23.)  Those alleged 
+4  statements arguably pertain to the character of Defendant APM’s business, including the 
+5  allegation of making a specific racist statement to someone walking by the business.  C.f. 
+6  Overhill Farms, Inc. v. Lopez, </pre><span class="citation" data-id="5665319"><a href="/opinion/5809901/overhill-farms-inc-v-lopez/#1262" aria-description="Citation for case: Overhill Farms, Inc. v. Lopez">190 Cal. App. 4th 1248, 1262</a></span><pre class="inline"> (2010) (“The assertion of 
+7  racism,  when  viewed  in  that  specific  factual  context,  is  not  merely  a  hyperbolic 
+8  characterization  of  Overhill’s  black  corporate  heart—it  represents  an  accusation  of 
+9  concrete, wrongful conduct.”).  They explicitly and implicitly implore customers not to 
+10  support Defendant APM, at least in part, because the business engages in animal abuse and 
+11  racism.  See Kovesdy, </pre><span class="citation no-link">2011 WL 3619826</span><pre class="inline">, at *4.                             
+12       Lastly, the Court concludes that the remaining alleged statements are opinions, not 
+13  statements of fact.  They concern opinions about Defendants and their product, (see SACC 
+14  ¶¶ 11, 17–21, 23), or general allegations of racism, (see </pre><span class="citation no-link">id. ¶ 19</span><pre class="inline">).  See Lopez, </pre><span class="citation no-link">190 Cal. App. 
+15</span><pre class="inline">  4th at 1262 (“We agree that general statements charging a person with being racist, unfair, 
+16                                                                            
+
+17                                                                            
+   4 While Plaintiffs argue Defendant Melone is one of several owners of APM, the SACC 
+18                                                                            
+   alleges Defendant Melone is “the owner and operator” of APM.  (SACC ¶ 3) (emphasis 
+19  added.)  In resolving Plaintiffs’ Motion, the Court must “accept[s] factual allegations in 
+   the  [SACC]  as true  and  construe[s]  the  pleadings  in  the  light  most  favorable to  the 
+20                                                                            
+   nonmoving party.”  Manzarek, </pre><span class="citation" data-id="1194077"><a href="/opinion/1194077/manzarek-v-st-paul-fire-marine-insurance/#1031" aria-description="Citation for case: Manzarek v. St. Paul Fire &amp; Marine Insurance">519 F.3d at 1031</a></span><pre class="inline">.                            
+21  5 This reference to “Take N Bake” must be understood in the context of Plaintiff Thakore’s 
+   other alleged statements and actions, including placing signs on his vehicles outside of 
+22                                                                            
+   Defendant APM, flying a plane over Defendant APM, and posting a picture of APM’s 
+23  store, all while criticizing “Take N Bake” pizza.  (See SACC ¶¶ 17–20, 23.)  That Plaintiff 
+   Thakore was walking by “Take N Bake” can be understood by reasonable implication to 
+24                                                                            
+   refer to Defendant APM.  See Hartford Cas. Ins. Co., </pre><span class="citation" data-id="2678184"><a href="/opinion/2678184/hartford-casualty-insurance-v-swift-distribution-inc/#293" aria-description="Citation for case: Hartford Casualty Insurance v. Swift Distribution, Inc.">59 Cal. 4th at 293</a></span><pre class="inline"> (“To meet this 
+25  demand at the pleading stage, a plaintiff must allege that ‘the statement at issue either 
+   expressly mentions him or refers to him by reasonable implication.’”) (quoting Total Call 
+26                                                                            
+   Internat. Inc. v. Peerless Ins. Co., </pre><span class="citation" data-id="2246700"><a href="/opinion/2246700/total-call-international-inc-v-perless-insurance/#170" aria-description="Citation for case: Total Call International, Inc. v. Perless Insurance">181 Cal. App. 4th 161, 170</a></span><pre class="inline"> (2010)).  Additionally, 
+27  whether this allegedly false statement refers to a statement by Defendant Melone or another 
+   employee of APM makes no difference.  Either way, it arguably imputes the character of 
+28                                                                            
+1  or unjust—without more—such as contained in the signs carried by protestors, constitute 
+2  mere name calling and do not contain a provably false assertion of fact.”).  The Court also 
+3  concludes Defendant Melone may not proceed on a theory of trade libel for any allegedly 
+4  false statement concerning his reputation.  (See e.g., SACC ¶¶ 11 (“The owner Andrew is 
+5  a real rude person”).)  See Mann v. Quality Old Time Serv., Inc., </pre><span class="citation" data-id="2305623"><a href="/opinion/2305623/mann-v-quality-old-time-service-inc/" aria-description="Citation for case: Mann v. Quality Old Time Service, Inc.">139 Cal. App. 4th 328</a></span><pre class="inline">, 
+6  340 (2006) (“Whereas defamation concerns injury to the reputation of a person or business, 
+7  trade libel involves false disparagement of the quality of goods or services.”).   
+8         b.  Special Damages                                                
+9        Plaintiffs  argue  Defendants  failed  to  allege  special  damages,  including  by 
+10  identifying particular customers and transactions of which Defendants were deprived due 
+11  to Plaintiffs’ trade libel.  (Doc. 56-1 at 15–17.)  Defendants respond they need not identify 
+12  particular customers or transactions, even though they do identify some on the receiving 
+13  end of the libel, because they assert a loss of market theory.  (Doc. 60 at 18–14.)6   
+14       “Under  California law,  ‘a cause of  action  for damages  for trade libel  requires 
+15  pleading and proof of special damages in the form of pecuniary loss.’”  Isuzu Motors Ltd. 
+16  v. Consumers Union of U.S., Inc., </pre><span class="citation" data-id="2499024"><a href="/opinion/2499024/isuzu-motors-ltd-v-consumers-union-of-united-states-inc/#1043" aria-description="Citation for case: Isuzu Motors Ltd. v. Consumers Union of United States, Inc.">12 F. Supp. 2d 1035, 1043</a></span><pre class="inline"> (C.D. Cal. 1998) (citation 
+17  omitted).  “If an item of special damage is claimed, it must be specifically stated.”  Fed. R. 
+18  Civ. P. 9(g); see also NPK Indus. v. Hunter, Case No. 15-cv-00811-SI, </pre><span class="citation no-link">2015 WL 5461667</span><pre class="inline">, 
+19  at *4 (N.D. Cal. Sept. 16, 2015) (“[A] cause of action for damages for trade libel requires 
+20  pleading and proof of special damages in the form of pecuniary loss.”) (internal citations 
+21  omitted).  The plaintiff must “identify particular customers and transactions of which it 
+22  was deprived as a result of the libel.”  Hunter, </pre><span class="citation no-link">2015 WL 5461667</span><pre class="inline">, at *4 (quoting Mann v. 
+23  Quality Old Time Serv., Inc., 120 Cal. App. 4th at 109 (2004)).           
+24                                                                            
+25                                                                            
+26                                                                            
+   6 The Court will not consider Defendants’ evidence concerning lost profits and their 
+27  expert’s opinion concerning the impact of a decreased online rating.  The Court declines to 
+   consider this evidence because, as discussed supra at III.A, the Court will not consider 
+28                                                                            
+1       Alternatively, the plaintiff can proceed on a theory of loss of market or general 
+2  business loss where they can plead the loss with reasonable certainty and eliminate other 
+3  causes.  See Bilinski v. Keith Haring Found., Inc., </pre><span class="citation" data-id="3159278"><a href="/opinion/3159278/bilinski-v-keith-haring-foundation-inc/" aria-description="Citation for case: Bilinski v. Keith Haring Foundation, Inc.">632 F. App’x 637</a></span><pre class="inline">, 641–42 (2d Cir. 2015) 
+4  (finding plaintiffs failed to meet their pleading burden for loss of the market in part because 
+5  plaintiffs failed to plead the causation requirement of Section 633).  Under the Restatement 
+6  (Second) of Torts Section 626 (Disparagement of Quality–Trade Libel) comment (e), 
+7  recoverable pecuniary loss is cross-defined in Section 633.  Comment (h) of Section 633 
+8  explains that “[w]idely disseminated injurious falsehood may … cause serious and genuine 
+9  pecuniary loss by affecting the conduct of a number of persons whom the plaintiff is unable 
+10  to identify and so depriving him of a market that he would otherwise have found.  When 
+11  this can be shown with reasonable certainty, the rule requiring the identification of specific 
+12  purchasers is relaxed and recovery is permitted for the loss of the market.” (emphasis 
+13  added).  Comment (h) goes on to explain that such loss, analogous to the loss of profits of 
+14  an established business, “may be proved by circumstantial evidence showing that the loss 
+15  has in fact occurred, and eliminating other causes.”                      
+16       In Homeland Housewares, LLC v. Euro-Pro Operating LLC, the plaintiffs argued 
+17  they sufficiently established special damages for trade libel by pleading they suffered “lost 
+18  sales, disruption of business relationships, loss of market share and of customer goodwill 
+19  and by requesting $3 million dollars in damages in their prayer for relief.”  No. CV 14-
+20  03954 DDP (MANx), </pre><span class="citation no-link">2014 WL 6892141</span><pre class="inline">, at *4 (C.D. Cal. Nov. 5, 2014).  The district 
+21  court held the plaintiffs’ general statements of economic loss did not sufficiently identify 
+22  special damages, including what portion was attributable to the alleged libelous statements.  
+23  </pre><span class="citation no-link">Id.</span><pre class="inline">  The district court also explained that, to recover damages based on general business 
+24  loss, Plaintiffs “should have alleged facts showing an established business, the amount of 
+25  sales for a substantial period preceding the publication, the amount of sales subsequent to 
+26  the publication, [and] facts showing that such loss in sales were the natural and probable 
+27  result of such publication.”  </pre><span class="citation no-link">Id.</span><pre class="inline"> (quoting Isuzu Motors Ltd., </pre><span class="citation" data-id="2499024"><a href="/opinion/2499024/isuzu-motors-ltd-v-consumers-union-of-united-states-inc/#1047" aria-description="Citation for case: Isuzu Motors Ltd. v. Consumers Union of United States, Inc.">12 F. Supp. 2d at 1047</a></span><pre class="inline">); see 
+28  also Franklin Fueling Sys., Inc. v. Veeder-Root Co., Civ. No. S-09-580 FCD/JFM, 2009 
+</pre><span class="citation no-link">1  WL 2462505</span><pre class="inline">, at *5–6 (E.D. Cal. Aug. 11, 2009) (finding plaintiff adequately pled special 
+2  damages in the form of lost sales evidenced by its decrease in market share due to the 
+3  defendant’s dissemination of alleged false statements).                   
+4       Here, Defendants do not identify particular customers and transactions they lost as 
+5  a result of Plaintiffs’ trade libel.  Nor do Defendants allege sufficient facts to show, with 
+6  reasonable certainty, general business loss or loss of the market.  See Restatement (Second) 
+7  of Torts Section 633, comment (h); Homeland Housewares, LLC, </pre><span class="citation no-link">2014 WL 6892141</span><pre class="inline">, at 
+8  *4; see also New.Net, Inc. v. Lavasoft, </pre><span class="citation" data-id="2573234"><a href="/opinion/2573234/new-net-inc-v-lavasoft/#1113" aria-description="Citation for case: New. Net, Inc. v. Lavasoft">356 F. Supp. 2d 1090, 1113</a></span><pre class="inline"> (C.D. Cal. 2004) 
+9  (holding plaintiff failed to plead special damages where plaintiff did not specify amount of 
+10  damages nor provide sufficient information to recover for damages for a general loss of 
+11  customers).  Defendants also fail to allege other factors did not cause their loss or specify 
+12  what portion of the loss is attributable to the alleged libelous statements.  See Restatement 
+13  (Second) of Torts Section 633, comment (h); Bilinski, 632 F. App’x at 641–42; Homeland 
+14  Housewares, LLC, </pre><span class="citation no-link">2014 WL 6892141</span><pre class="inline">, at *4.                                  
+15       While Defendants point to slander of title cases that have endorsed attorneys’ fees 
+16  and costs as evidence of pecuniary damages or even special damages, (see Doc. 60 at 22–
+17  23), California courts have not extended this principle to trade libel.  See Storm Mfg. Grp. 
+18  Inc. v. Weather Tec Corp., No. CV 12-10849(CAS) (FFMx), </pre><span class="citation no-link">2013 WL 5352698</span><pre class="inline">, at *9 
+19  (C.D. Cal. Sept. 23, 2013) (“While plaintiff is correct that attorney’s fees and costs often 
+20  constitute a form of special damages … they are not on their own a sufficient basis for a 
+21  trade libel claim; plaintiff must allege special damages incurred by its business as a result 
+22  of defendants’ statements, and not as a result of plaintiff’s own prosecution of a lawsuit.”); 
+23  Robinson v. HSBC Bank USA, </pre><span class="citation" data-id="2467081"><a href="/opinion/2467081/robinson-v-hsbc-bank-usa/#986" aria-description="Citation for case: Robinson v. HSBC BANK USA">732 F. Supp. 2d 976, 986</a></span><pre class="inline"> (N.D. Cal. 2010) (“If a claim for 
+24  attorneys fees and costs of suit could qualify as pecuniary or special damages for purposes 
+25  of pleading a trade libel claim, then each and every false statement would be actionable 
+26  without a showing that the false statement caused damage to an individual’s trade or 
+27  property.”).                                                              
+28       Moreover,  Defendants’  reliance  on  the  Restatement  (Second)  of  Torts  Section 
+1  633(2)(b) is misplaced.  (See Doc. 60 at 23.)  Section 633(2)(b) concerns “proof that the 
+2  loss has resulted from the conduct of a number of persons whom it is impossible to 
+3  identify,” not impossible-to-identify lost customers.  Nor were Defendants in the business 
+4  of mail-only orders through which lost customers are impossible to identify.  (See </pre><span class="citation" data-id="2467081"><a href="/opinion/2467081/robinson-v-hsbc-bank-usa/" aria-description="Citation for case: Robinson v. HSBC BANK USA">id.</a></span><pre class="inline"> at 
+5  15–16.)  See Charles Atlas, Ltd. v. Time-Life Books, Inc., </pre><span class="citation" data-id="1437013"><a href="/opinion/1437013/charles-atlas-ltd-v-time-life-books-inc/" aria-description="Citation for case: Charles Atlas, Ltd. v. Time-Life Books, Inc.">570 F. Supp. 150</a></span><pre class="inline">, 155–57 
+6  (S.D.N.Y. 1983).                                                          
+7       Thus, Plaintiffs’ Motion is GRANTED for the trade libel claim.7      
+8    G. Intentional Interference with Prospective Economic Relations (Second Cause 
+        of Action)8                                                          
+9                                                                            
+
+10       Plaintiffs argue Defendants failed to identify a specific economic relationship with 
+11  a probability of future economic benefit as opposed to a hope or desire of the same.  (Doc. 
+12  56-1 at 25–29.)  Defendants respond Plaintiff Thakore harassed Defendants’ existing 
+13  customers, inspired or funded vandalism of APM, which deterred customers from coming 
+14  to APM, and incentivized unknown potential or existing customers to indicate they will 
+15  never eat at APM.  (Doc. 60 at 26–28.)9  Plaintiffs respond that Defendants failed to plead 
+16  a probability of future economic benefit from a business relationship and failed to identify 
+17  such an economic relationship with a third party that was disrupted.  (Doc. 63 at 10–11.) 
+18       To prove intentional interference with prospective economic advantage, a plaintiff 
+19  must prove the following elements: “(1) an economic relationship between the plaintiff and 
+20                                                                            
+21                                                                            
+22                                                                            
+   7 Because the Court grants Plaintiffs’ motion for the trade libel claim, any injunctive relief 
+23  requested by Defendants arising from trade libel necessarily fails.  (See Doc. 60 at 24; 
+   SACC, Prayer for Relief.)                                                 
+24                                                                            
+   8 While Defendants title their second and third causes of action intentional and negligent 
+25  interference with prospective economic relations, it is clear to the Court that Defendants 
+   mean  the  causes  of  action  of  intentional  and  negligent  interference  with  economic 
+26                                                                            
+   advantage recognized in California.                                       
+27  9 The Court will not consider Defendants’ expert report.  The Court declines to consider 
+   this evidence because, as discussed supra at III.A, the Court will not consider documents 
+28                                                                            
+1  some third party, with the probability of future economic benefit to the plaintiff; (2) the 
+2  defendant’s knowledge of the relationship; (3) intentional acts on the part of the defendant 
+3  designed to disrupt the relationship; (4) actual disruption of the relationship; and (5) 
+4  economic harm to the plaintiff proximately caused by the acts of the defendant.”  Korea 
+5  Supply Co. v. Lockheed Martin Corp., </pre><span class="citation" data-id="9796353"><a href="/opinion/2630547/korea-supply-co-v-lockheed-martin-corp/#1153" aria-description="Citation for case: Korea Supply Co. v. Lockheed Martin Corp.">29 Cal. 4th 1134, 1153</a></span><pre class="inline"> (2003) (citing Westside Ctr. 
+6  Assocs. v. Safeway Stores 23, Inc., </pre><span class="citation" data-id="2258330"><a href="/opinion/2258330/westside-center-associates-v-safeway-stores-23-inc/" aria-description="Citation for case: Westside Center Associates v. Safeway Stores 23, Inc.">42 Cal. App. 4th 507</a></span><pre class="inline">, 521–22 (1996)) (internal quotation 
+7  marks omitted).  Additionally, the plaintiff must prove (6) “defendant’s interference was 
+8  wrongful ‘by some measure beyond the fact of the interference itself.’”  Della Penna v. 
+9  Toyota Motor Sales, U.S.A., Inc., </pre><span class="citation" data-id="9790695"><a href="/opinion/2607092/della-penna-v-toyota-motor-sales-usa-inc/" aria-description="Citation for case: Della Penna v. Toyota Motor Sales, USA, Inc.">11 Cal. 4th 376</a></span><pre class="inline">, 392–93 (1995) (citation omitted).  “[A]n 
+10  act  is  independently  wrongful  if  it  is  unlawful,  that  is,  if  it  is  proscribed  by  some 
+11  constitutional, statutory, regulatory, common law, or other determinable legal standard.”  
+12  Korea Supply Co., </pre><span class="citation" data-id="9796353"><a href="/opinion/2630547/korea-supply-co-v-lockheed-martin-corp/#1159" aria-description="Citation for case: Korea Supply Co. v. Lockheed Martin Corp.">29 Cal. 4th at 1159</a></span><pre class="inline">.  Plaintiffs seek dismissal based on the first and 
+13  fourth elements.                                                          
+14         a.  Economic Relationship                                          
+15       Intentional interference with prospective economic advantage applies to “existing 
+16  noncontractual relations which hold the promise of future economic advantage.”  Westside 
+17  Ctr. Assocs., </pre><span class="citation" data-id="2258330"><a href="/opinion/2258330/westside-center-associates-v-safeway-stores-23-inc/#524" aria-description="Citation for case: Westside Center Associates v. Safeway Stores 23, Inc.">42 Cal. App. 4th at 524</a></span><pre class="inline"> (emphasis in original).  “The law precludes recovery 
+18  for overly speculative expectancies by initially requiring proof the business relationship 
+19  contained the probability of future economic benefit to the plaintiff.”  </pre><span class="citation" data-id="2258330"><a href="/opinion/2258330/westside-center-associates-v-safeway-stores-23-inc/#522" aria-description="Citation for case: Westside Center Associates v. Safeway Stores 23, Inc.">Id. at 522</a></span><pre class="inline"> (internal 
+20  quotation marks and citations omitted).  “Merely referring to customers in general is not 
+21  sufficient to show a specific prospective business relationship.”  Nestle USA, Inc. v. Crest 
+22  Foods, Inc., No. LA CV16-07519 JAK (AFMx), </pre><span class="citation no-link">2017 WL 3267665</span><pre class="inline">, at *14 (C.D. Cal. July 
+23  28, 2017) (citation omitted).  Nor do “general conclusory allegations regarding lost sales 
+24  and the damage to the relationships between Plaintiff and its customers … satisfy the 
+25  pleading requirements” of the first element of the claim.  Vascular Imaging Pros., Inc. v. 
+26  Digirad Corp., </pre><span class="citation no-link">401 F. Supp. 3d 1005</span><pre class="inline">, 1013 (S.D. Cal. 2019).               
+27       Defendants argue they have an economic relationship with a promise of future 
+28  economic advantage from the existing customers that Plaintiff Thakore allegedly yelled, 
+1  honked his horn, threw cash, and blew marijuana smoke at, as well as those who saw 
+2  Plaintiff Thakore’s sign that read “[o]nly losers get Take n Bake pizza.”  (See Doc. 60 at 
+3  25;  SACC  ¶¶  16–17,  25–27.)    It  is  not  clear  whether  Plaintiff  Thakore’s  yelling  at 
+4  Defendant Melone while he was speaking with customers or throwing cash in the presence 
+5  of customers in a reference to a lawsuit outside of APM was aimed at customers of APM 
+6  as opposed to Defendants.  But even viewed in a light most favorable to Defendants that 
+7  this conduct was directed at their existing customers, they fail to identify those customers, 
+8  even in a categorical sense, with whom they have an existing economic relationship. 
+9       To overcome this issue, Defendants point to Oracle Am., Inc. v. CedarCrestone, Inc., 
+10  No. 12-cv-04626 NC, </pre><span class="citation no-link">2013 WL 3243885</span><pre class="inline"> (N.D. Cal. June 26, 2013).  In Oracle Am., Inc., 
+11  the district court held the plaintiff adequately pled the requisite economic relationship with 
+12  some third party even though it did not plead the elements of the claim specifically as to 
+13  each customer.  See </pre><span class="citation no-link">id. at *4</span><pre class="inline">.  The alleged customers at issue were the plaintiff’s software 
+14  licensee and support customers who became the defendant’s clients.  </pre><span class="citation no-link">Id.</span><pre class="inline">  The district court 
+15  determined that the economic relationship was adequately pled because the defendant 
+16  should possess the identities of those customers or should be able to obtain them in 
+17  discovery.  </pre><span class="citation no-link">Id.</span><pre class="inline">  Here, the SACC does not identify the customers at issue beyond specifying 
+18  the conduct of Plaintiff Thakore during which existing customers were present.  Defendants 
+19  have not argued that Plaintiffs possess the identities of these customers or could obtain 
+20  them in discovery.10                                                      
+21       Additionally, the SACC does not identify either existing or prospective customers 
+22  that were deterred by Plaintiffs alleged directed or inspired vandalism.  (See SACC ¶ 29.)  
+23  In any event, unidentified prospective customers would be insufficient to prove an existing 
+24                                                                            
+25                                                                            
+26                                                                            
+   10 Defendants argue that their proposed third amended counterclaims include allegations of 
+27  customers Defendants had personal knowledge of interfering with.  (See Doc. 60 at 27.)  
+   The Court declines to consider this argument because (as discussed supra at III.A) the 
+28                                                                            
+1  economic relationship.  See Westside Ctr. Assocs., 42 Cal. App. 4th at 522–24.  Lastly, 
+2  Defendants claim that the unknown individuals Plaintiffs allegedly paid and called APM 
+3  with messages such as “[y]our pizza fucking sucks” and “I’ll never come eat at your 
+4  restaurants, ever” may include prospective and current customers.  (See Doc. 60 at 26; 
+5  SACC ¶ 22.)  Even if Plaintiffs may have the identities of these individuals due to Plaintiff 
+6  Thakore’s Instagram offer for payment (see SACC ¶ 21), see Oracle Am., Inc., </pre><span class="citation no-link">2013 WL 
+7</span><pre class="inline">  3243885, at *4, there is no factual allegation in the SACC from which the Court can 
+8  reasonably infer these individuals may have been existing customers of APM.  Thus, 
+9  Defendants have failed to allege an economic relationship with the probability of future 
+10  economic benefit to Defendants.                                           
+11         b.  Actual Disruption                                              
+12       Defendants’ claim also fails to allege the element of actual disruption beyond the 
+13  conclusory assertion that Defendants’ “relationship with some customers was disrupted.”  
+14  (See SACC ¶ 46.)  See Silicon Knights, Inc. v. Crystal Dynamics, Inc., </pre><span class="citation" data-id="1989612"><a href="/opinion/1989612/silicon-knights-inc-v-crystal-dynamics-inc/" aria-description="Citation for case: Silicon Knights, Inc. v. Crystal Dynamics, Inc.">983 F. Supp. 1303</a></span><pre class="inline">, 
+15  1311–12 (N.D. Cal. 1997) (finding plaintiffs failed to allege that their relationship with a 
+16  third  party  was  “actually  disrupted”  due  to  the  defendants’  actions  in  inducing  the 
+17  plaintiff’s former employees to leave their company or that alleged defamatory statements 
+18  disturbed negotiations or awards of business with a third party).  Nowhere in the SACC do 
+19  Defendants  allege  they  lost  the  business  of  existing  customers  because  of  Plaintiffs’ 
+20  actions.  See Sybersound Recs., Inc. v. UAV Corp., </pre><span class="citation" data-id="1462778"><a href="/opinion/1462778/sybersound-records-inc-v-uav-corp/#1151" aria-description="Citation for case: Sybersound Records, Inc. v. UAV Corp.">517 F.3d 1137, 1151</a></span><pre class="inline"> (9th Cir. 2008) 
+21  (“In its complaint, Sybersound merely states in a conclusory manner that it ‘has been 
+22  harmed because its ongoing business and economic relationships with Customers have 
+23  been disrupted.’ Sybersound does not allege, for example, that it lost a contract nor that a 
+24  negotiation with a Customer failed.”).                                    
+25       Thus, Plaintiffs’ Motion is GRANTED for intentional interference with prospective 
+26  economic advantage.                                                       
+27  ///                                                                       
+28  ///                                                                       
+1    H. Negligent Interference with Prospective Economic Relations (Third Cause of 
+2       Action)                                                              
+3       Plaintiffs argue the negligent interference with prospective economic relations claim 
+4  must fail for the same reasons the intentional interference with prospective economic 
+5  relations claim failed and that Defendants failed to allege a duty Plaintiffs owed them.  
+6  (Doc. 56-1 at 29.)  Defendants incorporate their response as to the intentional interference 
+7  with prospective economic advantage claim.  (Doc. 60 at 28.)              
+8       “[A] plaintiff bringing a claim for negligent interference with prospective economic 
+9  advantage must sufficiently allege: (1) an economic relationship existed between the 
+10  plaintiff and a third party which contained a reasonably probable future economic benefit 
+11  or advantage to plaintiff; (2) the defendant knew of the existence of the relationship and 
+12  was aware or should have been aware that if it did not act with due care its actions would 
+13  interfere with this relationship and cause plaintiff to lose in whole or in part the probable 
+14  future economic benefit or advantage of the relationship; (3) the defendant was negligent; 
+15  and (4) such negligence cause[d] damage to plaintiff in that the relationship was actually 
+16  interfered with or disrupted and plaintiff lost in whole or in part the economic benefits or 
+17  advantage reasonably expected from the relationship.”  F.M. Tarbell Co. v. A &amp; L Partners, 
+18  Inc., No. CV 10-1589 PSG (Ex), </pre><span class="citation no-link">2011 WL 1153539</span><pre class="inline">, at *5 (C.D. Cal. Mar. 23, 2011) (citing 
+19  N. Am. Chem. Co. v. Superior Ct., </pre><span class="citation" data-id="2243821"><a href="/opinion/2243821/north-american-chemical-co-v-superior-court-of-los-angeles-county/#786" aria-description="Citation for case: North American Chemical Co. v. Superior Court of Los...">59 Cal. App. 4th 764, 786</a></span><pre class="inline"> (1997)).      
+20       Defendants allege Plaintiffs “failed to act with reasonable care by engaging in a 
+21  campaign of unlawful harassment” against Defendants and they “knew or should have 
+22  known” Defendants’ relationship with potential or actual customers would be disrupted.”  
+23  (SACC ¶¶ 52–53.)  Such an allegation concerning a lack of ordinary care, even without the 
+24  presence of a specific duty of care, is sufficient for negligent interference with prospective 
+25  economic advantage.  See J’Aire Corp. v. Gregory, </pre><span class="citation" data-id="1218182"><a href="/opinion/1218182/jaire-corp-v-gregory/" aria-description="Citation for case: J&#x27;Aire Corp. v. Gregory">24 Cal. 3d 799</a></span><pre class="inline">, 805–06 (1979) (“This 
+26  court has repeatedly eschewed overly rigid common law formulations of duty in favor of 
+27  allowing compensation for foreseeable injuries caused by a defendant’s want of ordinary 
+28  care … Similarly, respondent is liable if his lack of ordinary care caused foreseeable injury 
+1  to the economic interests of appellant.”).                                
+2       However, for the reasons discussed supra at II.G concerning intentional interference, 
+3  this  cause  of  action  fails.    Defendants  have  failed  to  identify  an  existing  economic 
+4  relationship with the probability of future economic benefit or advantage to Defendants 
+5  and actual disruption with that relationship.                             
+6       Thus, Plaintiffs’ Motion is GRANTED for negligent interference with prospective 
+7  economic advantage.                                                       
+8    I.  Unfair Competition (Fourth Cause of Action)                         
+9       Plaintiffs argue neither Defendant has alleged facts establishing either are aggrieved 
+10  customers or competitors entitled to invoke the protections of Business &amp; Professions Code 
+11  § 17200, otherwise known as the Unfair Competition Law (“UCL”).  (Doc. 56-1 at 29–32.)  
+12  Defendants respond, due to Plaintiffs’ ownership interest in Carino’s, Plaintiffs are their 
+13  competitors.  (Doc. 60 at 28.)                                            
+14       Additionally, Plaintiffs argue Defendants’ UCL claim fails because it is untethered 
+15  to any constitutional, statutory, or regulatory provision.  (Doc. 56-1 at 31.)  Defendants 
+16  respond that if identifying statutes is required, they request leave to amend to cite at least 
+17  California Civil Code § 43 and § 1708.  (Doc. 60 at 28–29.)               
+18       The UCL’s purpose is “to protect both consumers and competitors by promoting fair 
+19  competition in commercial markets for goods and services.”  Kasky v. Nike, Inc., </pre><span class="citation no-link">27 Cal. 
+20</span><pre class="inline">  4th 939, 949 (2002).  The UCL prohibits “unlawful, unfair or fraudulent business act[s] or 
+21  practice[s].”  </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline">.  “Each of these three adjectives captures a 
+22  separate and distinct theory of liability.”  Rubio v. Capital One Bank, </pre><span class="citation" data-id="9436692"><a href="/opinion/151207/rubio-v-capital-one-bank/" aria-description="Citation for case: Rubio v. Capital One Bank">613 F.3d 1195</a></span><pre class="inline">, 1203 
+23  (9th Cir. 2010) (quotation marks and citations omitted).                  
+24         a.   Standing of Defendants                                        
+25       In 2004, the voters of California passed Proposition 64, which restricted standing for 
+26                                                                            
+27                                                                            
+28                                                                            
+1  individuals alleging UCL claims to persons  who “ha[ve] suffered injury in fact and ha[ve] 
+2  lost money or property as a result of the unfair competition.”  Hinojos v. Kohl’s Corp., 718 
+</pre><span class="citation" data-id="629029"><a href="/opinion/629029/united-states-v-kevin-r-smith-dalian-c-stewart-and-steve-taylor/#1103" aria-description="Citation for case: United States v. Kevin R. Smith, Dalian C. Stewart, and...">3  F.3d 1098, 1103</a></span><pre class="inline"> (9th Cir. 2013) (quoting </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17204</span><pre class="inline">)).  “The ‘lost 
+4  money or property’ requirement therefore requires a plaintiff to demonstrate ‘some form 
+5  of economic injury’ as a result of his transactions with the defendant.”  See </pre><span class="citation no-link">id.</span><pre class="inline"> at 1104 
+6  (citing Kwikset Corp. v. Superior Ct., </pre><span class="citation" data-id="5452558"><a href="/opinion/5608107/kwikset-corp-v-superior-court/#323" aria-description="Citation for case: Kwikset Corp. v. Superior Court">51 Cal. 4th 310, 323</a></span><pre class="inline"> (2011)).  “[T]he quantum of lost 
+7  money or property necessary to show standing is only so much as would suffice to establish 
+8  [Article III] injury in fact.”  See </pre><span class="citation" data-id="5452558"><a href="/opinion/5608107/kwikset-corp-v-superior-court/" aria-description="Citation for case: Kwikset Corp. v. Superior Court">id.</a></span><pre class="inline"> (citing Kwikset Corp., </pre><span class="citation" data-id="5452558"><a href="/opinion/5608107/kwikset-corp-v-superior-court/#324" aria-description="Citation for case: Kwikset Corp. v. Superior Court">51 Cal. 4th at 324</a></span><pre class="inline">).  The core 
+9  inquiry is whether the plaintiff has suffered “economic injury ... caused by ... the unfair ... 
+10  practice ... that is the gravamen of the claim.”  Cal. Med. Ass’n v. Aetna Health of Cal. Inc., 
+11  </pre><span class="citation no-link">14 Cal. 5th 1075</span><pre class="inline">, 1086 (2023) (citing Kwikset Corp., </pre><span class="citation" data-id="5452558"><a href="/opinion/5608107/kwikset-corp-v-superior-court/#322" aria-description="Citation for case: Kwikset Corp. v. Superior Court">51 Cal. 4th at 322</a></span><pre class="inline">) (emphasis in 
+12  original).  “There are innumerable ways in which economic injury from unfair competition 
+13  may be shown.  A plaintiff may (1) surrender in a transaction more, or acquire in a 
+14  transaction less, than he or she otherwise would have; (2) have a present or future property 
+15  interest diminished; (3) be deprived of money or property to which he or she has a 
+16  cognizable claim; or (4) be required to enter into a transaction, costing money or property, 
+17  that would otherwise have been unnecessary.  Neither the text of Proposition 64 nor the 
+18  ballot arguments in support of it purport to define or limit the concept of lost money or 
+19  property, nor can or need we supply an exhaustive list of the ways in which unfair 
+20  competition may cause economic harm.”  Kwikset Corp., </pre><span class="citation" data-id="5452558"><a href="/opinion/5608107/kwikset-corp-v-superior-court/#323" aria-description="Citation for case: Kwikset Corp. v. Superior Court">51 Cal. 4th at 323</a></span><pre class="inline"> (internal 
+21  quotation marks and citations omitted).                                   
+22       Plaintiffs are incorrect that Defendants must be aggrieved consumers or competitors 
+23  of Plaintiffs to have standing to bring a UCL claim.  (See Doc. 56-1 at 30–31.)  In Linear 
+24  Technology Corp. v. Applied Materials, Inc., while the court stated the “alleged victims are 
+25                                                                            
+
+26                                                                            
+27  11 Person under the UCL includes “natural persons, corporations, firms, partnerships, joint 
+   stock companies, associations and other organizations of persons.”  Cal. Bus. &amp; Prof. Code 
+28                                                                            
+1  neither competitors nor powerless, unwary consumers,” it went on to explain that the 
+2  plaintiff and other alleged victims were “sophisticated corporate customers who have 
+3  entered or will enter their own contracts with respondents.”  </pre><span class="citation" data-id="5664889"><a href="/opinion/5809491/linear-technology-corp-v-applied-materials-inc/" aria-description="Citation for case: Linear Technology Corp. v. Applied Materials, Inc.">152 Cal. App. 4th 115</a></span><pre class="inline">, 135 
+4  (2007).  The court concluded that, under those circumstances, and to the extent the plaintiff 
+5  purports  to  represent  other  customers,  permitting  its  UCL  claim  could  deprive  the 
+6  defendant’s “alleged victims of the individual opportunity to seek remedies far more 
+7  extensive than those available under the UCL.”  </pre><span class="citation" data-id="5664889"><a href="/opinion/5809491/linear-technology-corp-v-applied-materials-inc/" aria-description="Citation for case: Linear Technology Corp. v. Applied Materials, Inc.">Id.</a></span><pre class="inline"> (quoting Rosenbluth Int’l, Inc. v. 
+8  Superior Ct., </pre><span class="citation multiple-matches"><a href="/c/Cal.%20App.%204th/101/1073/">101 Cal. App. 4th 1073</a></span><pre class="inline">, 1079 (Sept. 11, 2002)).12           
+9       Here, Defendants do not assert a representative UCL claim nor were they in a 
+10  contract with Plaintiffs.  (See SACC ¶¶ 58–61.)  To the extent Plaintiffs argue Sacramento 
+11  E.D.M., Inc. v, </pre><span class="citation" data-id="2660122"><a href="/opinion/2660122/mcnamara-v-picken/" aria-description="Citation for case: McNamara v. Picken">965 F. Supp. 2d at 1151</a></span><pre class="inline"> and Dillon v. NBCUniversal Media LLC, No. CV 
+12  12-09728 SJO (AJWx), </pre><span class="citation no-link">2013 WL 3581938</span><pre class="inline">, at *7 (C.D. Cal. June 18, 2013) extended 
+13  Linear  Technology  Corp.  to  prohibit  any  UCL  claim  not  brought  by  a  consumer  or 
+14  competitor, the Court rejects such an argument.  Section 17204 is clear that persons, 
+15  including corporations under § 17201, who have suffered “injury in fact” and “lost money 
+16  or property as a result of” the business act or practice at issue may bring a UCL claim.  See 
+17  Cal. Med. Ass’n, 14 Cal. 5th at 1086.  However, Defendants have failed to allege an 
+18  economic injury in the form of lost money or property resulting from any specific unlawful 
+19  or unfair act of Defendants anywhere in the SACC.                         
+20         b.  Unlawful, Unfair or Fraudulent Business Act or Practice        
+21       “The  California  Supreme  Court  has  held  that  [S]ection  17200  defines  ‘unfair 
+22  competition’ very broadly, to include anything that can properly be called a business 
+23                                                                            
+
+24                                                                            
+25  12  In  Rosenbluth  International,  Inc.,  the  court  similarly  did  not  allow  the  plaintiff’s 
+   representative  UCL  claim  to  proceed  because  the  alleged  victims  were  sophisticated 
+26                                                                            
+   corporations  “each  of  which  negotiates  contracts  individually  with  [Defendant]”  and 
+27  allowing  plaintiff’s  representative  claim  could  deprive  other  alleged  victims  “of  the 
+   individual opportunity to seek remedies far more extensive than those available under the 
+28                                                                            
+1  practice and that at the same time is forbidden by law.”  Chabner v. United of Omaha Life 
+2  Ins. Co., </pre><span class="citation" data-id="770328"><a href="/opinion/770328/howard-l-chabner-v-united-of-omaha-life-insurance-company/#1048" aria-description="Citation for case: Howard L. Chabner v. United of Omaha Life Insurance Company">225 F.3d 1042, 1048</a></span><pre class="inline"> (9th Cir. 2000) (citing Farmers Ins. Exch. v. Superior Ct., 2 
+</pre><span class="citation multiple-matches"><a href="/c/Cal.%204th/3/377/">3  Cal. 4th 377</a></span><pre class="inline">, 395  (1992)  (internal  quotation  marks  omitted)).    “By  proscribing  ‘any 
+4  unlawful’ business practice, section 17200 ‘borrows’ violations of other laws and treats 
+5  them  as  unlawful  practices  that  the  unfair  competition  law  makes  independently 
+6  actionable.”  Cel-Tech Commc’ns , Inc. v. Los Angeles Cellular Tel. Co., </pre><span class="citation" data-id="9567993"><a href="/opinion/1301891/cel-tech-communications-inc-v-los-angeles-cellular-telephone-co/" aria-description="Citation for case: Cel-Tech Communications, Inc. v. Los Angeles Cellular...">20 Cal. 4th 163</a></span><pre class="inline">, 
+7  180 (1999) (internal quotation marks omitted).                            
+8       “To prevail on a claim under the unlawful prong of the unfair competition law, the 
+9  plaintiff must show that a challenged advertisement or practice violates any federal or 
+10  California ‘statute or regulation.’”  Beasley v. Tootsie Roll Indus., Inc., </pre><span class="citation no-link">85 Cal. App. 5th 
+11</span><pre class="inline">  901, 912 (2022) (quoting Shaeffer v. Califia Farms, LLC, </pre><span class="citation no-link">44 Cal. App. 5th 1125</span><pre class="inline">, 1136 
+12  (2020)).  “Virtually any law—federal, state or local—can serve as a predicate for an action 
+13  under [the UCL].”  Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1094" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1094</a></span><pre class="inline"> (N.D. Cal. 
+14  2017) (quoting Smith v. State Farm Mut. Auto. Ins. Co., </pre><span class="citation" data-id="2282385"><a href="/opinion/2282385/smith-v-state-farm-mutual-automobile-insurance/#718" aria-description="Citation for case: Smith v. State Farm Mutual Automobile Insurance">93 Cal. App. 4th 700, 718</a></span><pre class="inline"> (2001)).  
+15  “If a plaintiff cannot state a claim under the predicate law, however, [the UCL] claim also 
+16  fails.”  </pre><span class="citation" data-id="2282385"><a href="/opinion/2282385/smith-v-state-farm-mutual-automobile-insurance/" aria-description="Citation for case: Smith v. State Farm Mutual Automobile Insurance">Id.</a></span><pre class="inline"> (quoting Stokes v. CitiMortgage, Inc., No. CV 14–00278 BRO (SHx), </pre><span class="citation no-link">2014 WL 
+17</span><pre class="inline">  4359193, at *11 (C.D. Cal. Sept. 3, 2014)); see also Ingels v. Westwood One Broad. Servs., 
+18  Inc., </pre><span class="citation" data-id="2255528"><a href="/opinion/2255528/ingels-v-westwood-one-broadcasting-services-inc/#1060" aria-description="Citation for case: Ingels v. Westwood One Broadcasting Services, Inc.">129 Cal. App. 4th 1050, 1060</a></span><pre class="inline"> (2005) (“A defendant cannot be liable under § 17200 
+19  for committing ‘unlawful business practices’ without having violated another law.  Here 
+20  no violation of the Unruh Act is capable of proof given the facts placed before this court 
+21  … If the Unruh Act claim is dismissed, then there is no ‘unlawful’ act upon which to base[ ] 
+22  the derivative Unfair Competition claim.”).                               
+23       However, the statutory language also “makes clear that a practice may be deemed 
+24  unfair even if not specifically proscribed by some other law.”  Id.  “Under the UCL’s 
+25  unfairness prong, courts consider either: (1) whether the challenged conduct is ‘tethered to 
+26  any underlying constitutional, statutory or regulatory provision, or that it threatens an 
+27  incipient violation of an antitrust law, or violates the policy or spirit of an antitrust law,’ 
+28  (2) whether the practice is ‘immoral, unethical, oppressive, unscrupulous or substantially 
+1  injurious to consumers,’ or (3) whether the practice’s impact on the victim outweighs ‘the 
+2  reasons, justifications and motives of the alleged wrongdoer.’” Doe v. CVS Pharmacy, Inc., 
+3  </pre><span class="citation no-link">982 F.3d 1204</span><pre class="inline">, 1214–15 (9th Cir. 2020) (internal citations omitted).      
+4       The  first  “tethered”  unfairness  prong  concerns  unfair  competition  claims  by  a 
+5  competitor.  See Durell v. Sharp Healthcare, </pre><span class="citation" data-id="2282785"><a href="/opinion/2282785/durell-v-sharp-healthcare/#1364" aria-description="Citation for case: Durell v. Sharp Healthcare">183 Cal. App. 4th 1350, 1364</a></span><pre class="inline"> (2010) (“[I]n 
+6  the context of an unfair competition claim by a competitor, the term ‘unfair’ in [Business 
+7  and Professions Code] section 17200 ‘means conduct that threatens an incipient violation 
+8  of an antitrust law, or violates the policy or spirit of one of those laws because its effects 
+9  are comparable to or the same as a violation of the law, or otherwise significantly threatens 
+10  or harms competition.’”) (quoting Cel-Tech Commc’ns, Inc., </pre><span class="citation" data-id="9567993"><a href="/opinion/1301891/cel-tech-communications-inc-v-los-angeles-cellular-telephone-co/#187" aria-description="Citation for case: Cel-Tech Communications, Inc. v. Los Angeles Cellular...">20 Cal. 4th at 187</a></span><pre class="inline">).  Some 
+11  California courts have applied the latter two unfairness prongs only to consumer actions.  
+12  See Morgan v. AT&amp;T Wireless Servs., Inc., </pre><span class="citation" data-id="2275753"><a href="/opinion/2275753/morgan-v-att-wireless-services-inc/" aria-description="Citation for case: Morgan v. AT&amp;T Wireless Services, Inc.">177 Cal. App. 4th 1235</a></span><pre class="inline">, 1254–55 (2009) 
+13  (explaining the definition of “unfair” business practice in the context of consumer actions 
+14  is less settled than in competitor actions and some Courts of Appeal apply the pre-Cel-Tech 
+15  Communications, Inc. definitions of “unfair”).  Other California courts have applied a 
+16  different test to consumer actions articulated in Camacho v. Auto. Club of S. California, 
+17  </pre><span class="citation" data-id="2296700"><a href="/opinion/2296700/camacho-v-auto-club-of-so-california/#1403" aria-description="Citation for case: Camacho v. AUTO. CLUB OF SO. CALIFORNIA">142 Cal. App. 4th 1394, 1403</a></span><pre class="inline"> (2006).  See Klein v. Chevron U.S.A., Inc., </pre><span class="citation" data-id="5666229"><a href="/opinion/5810777/people-v-covarrubias/#1342" aria-description="Citation for case: People v. Covarrubias">202 Cal. App. 4th 
+18  1342, 1376</a></span><pre class="inline"> (2012) (“In consumer cases arising under the UCL, a business practice is 
+19  ‘unfair’ if (1) the consumer injury is substantial; (2) the injury is not outweighed by any 
+20  countervailing  benefits  to  consumers  or  competition;  and  (3)  the  injury  could  not 
+21  reasonably have been avoided by consumers themselves.”) (citing Camacho, </pre><span class="citation no-link">202 Cal. App. 
+22</span><pre class="inline">  4th at 1376).                                                             
+23       Here,  Defendants  allege  Plaintiffs’  actions  articulated  in  the  SACC  “constitute 
+24  unlawful and unfair business practices” under the UCL.  (SACC ¶ 59.)  Yet, under the 
+25  unlawful prong, Defendants do not adequately allege any predicate violation of other laws 
+26  in the SACC, nor will the inadequately pled causes of action above suffice.  See Doe, 982 
+27  F.3d at 1214 (finding UCL claim under unlawfulness prong failed for the other predicate 
+28  claims the district court dismissed but was adequately pled for the predicate claim the Ninth 
+1  Circuit ruled was adequately pled).                                       
+2       Moreover, for the unfairness prong, Defendants allege Plaintiffs engaged in a slew 
+3  of immoral, unethical, and oppressive conduct.14  But Defendants do not allege they are 
+4  consumers of Plaintiffs subject to that relaxed standard.  See Morgan, </pre><span class="citation" data-id="2275753"><a href="/opinion/2275753/morgan-v-att-wireless-services-inc/" aria-description="Citation for case: Morgan v. AT&amp;T Wireless Services, Inc.">177 Cal. App. 4th at 
+5</a></span><pre class="inline">  1254–55; Camacho, </pre><span class="citation" data-id="5666229"><a href="/opinion/5810777/people-v-covarrubias/#1376" aria-description="Citation for case: People v. Covarrubias">202 Cal. App. 4th at 1376</a></span><pre class="inline">.  Nor do they allege they are competitors 
+6  of Plaintiff DMM.  And even if the Court were to accept that Defendants are competitors 
+7  with Plaintiff Thakore because they pled he had a financial, personal, or other substantial 
+8  interest  in  Defendants’  direct  competitor,  Carino’s  Restaurant,  (see  SACC  ¶  10), 
+9  Defendants have not pled that any of Plaintiff Thakore’s actions violate a “constitutional, 
+10  statutory or regulatory provision, or that it threatens an incipient violation of an antitrust 
+11  law, or violates the policy or spirit of an antitrust law.”  Durell, </pre><span class="citation" data-id="2282785"><a href="/opinion/2282785/durell-v-sharp-healthcare/#1364" aria-description="Citation for case: Durell v. Sharp Healthcare">183 Cal. App. 4th at 1364</a></span><pre class="inline">. 
+12       Thus, Plaintiffs’ Motion is GRANTED for the UCL claim.               
+13    J.  Declaratory Relief                                                  
+14       Plaintiffs argue Defendants’ request for declaratory relief is duplicative of other 
+15  causes of action and should be dismissed.  (Doc. 56-1 at 31–32.)  Plaintiffs also argue that 
+16  whether they must cease all alleged harassing and unlawful conduct is a jury question, not 
+17  one for declaratory relief.  (Id. at 32–33.)  Defendants respond that Plaintiffs’ conduct is 
+18  ongoing and thus they request declaratory or injunctive relief from the Court.  (Doc. 60 at 
+19  29.)  Plaintiffs respond that declaratory relief is both duplicative of other causes of action 
+20  and the alleged tortious actions it would cover have already occurred.  (Doc. 63 at 11.) 
+21       Defendants’ claim for declaratory relief is pursuant to California Code of Civil 
+22                                                                            
+23                                                                            
+24                                                                            
+   13 While Defendants in their opposition identify California Civil Code § 43 and § 1708, 
+25  (see Doc. 60 at 21–22), they failed to identify these statutes in the SACC. 
+   14 Specifically, Plaintiffs’ posting fake negative reviews of Defendant APM, throwing 
+26                                                                            
+   marijuana paraphernalia at an APM employee who is a minor, taking an APM customer’s 
+27  phone, parking cars in front of Defendant APM and honking the horn on two occasions for 
+   30 seconds each, and directed or coordinated vandalism of Defendant APM.  (See SACC 
+28                                                                            
+1  Procedure § 1060.  (SACC ¶ 64.)  Under § 1060, “[t]o qualify for declaratory relief, [a 
+2  party] would have to demonstrate its action presented two essential elements: ‘(1) a proper 
+3  subject of declaratory relief, and (2) an actual controversy involving justiciable questions 
+4  relating to [the party’s] rights or obligations.’”  Jolley v. Chase Home Fin., LLC, </pre><span class="citation no-link">213 Cal. 
+5</span><pre class="inline">  App. 4th 872, 909 (2013) (quoting Wilson &amp; Wilson v. City Council of Redwood City, 191 
+</pre><span class="citation" data-id="2297551"><a href="/opinion/2297551/sosinsky-v-grant/#1582" aria-description="Citation for case: Sosinsky v. Grant">6  Cal. App. 4th 1559, 1582</a></span><pre class="inline"> (2011)).                                         
+7       Although the parties do not raise the issue, because this Court’s jurisdiction over this 
+8  case arises out of its federal question jurisdiction, the Court must consider “whether the 
+9  federal Declaratory Judgment Act (“DJA”), </pre><span class="citation no-link">28 U.S.C. § 2201</span><pre class="inline">, or the California Declaratory 
+10  Relief Act (“CDRA”), </pre><span class="citation no-link">Cal. Civ. Proc. Code § 1060</span><pre class="inline">, applies to [Defendants’] cause of 
+11  action for declaratory relief.”  Diamond Real Est. v. Am. Brokers Conduit, Case No. 16-
+12  CV-03937-HSG,  </pre><span class="citation no-link">2017  WL  412527</span><pre class="inline">,  at  *10  (N.D.  Cal.  Jan.  31,  2017).    Due  to  the 
+13  procedural, rather than substantive, nature of the DJA, the Court finds the DJA applies to 
+14  Defendants’ claim for declaratory relief.  See In re Adobe Sys., Inc. Priv. Litig., </pre><span class="citation" data-id="8892235"><a href="/opinion/8905039/porter-v-megow/" aria-description="Citation for case: Porter v. Megow">66 F. Supp. 
+15</a></span><pre class="inline">  3d 1197, 1219 (N.D. Cal. 2014) (in federal diversity case, explaining California district 
+16  courts are split on whether to apply the CDRA or DJA in diversity jurisdiction cases and 
+17  finding DJA governs declaratory relief) (citing Golden Eagle Ins. Co. v. Travelers Cos., 
+18  </pre><span class="citation" data-id="732379"><a href="/opinion/732379/golden-eagle-insurance-company-v-travelers-companies/#753" aria-description="Citation for case: Golden Eagle Insurance Company v. Travelers Companies">103 F.3d 750, 753</a></span><pre class="inline"> (9th Cir. 1996), overruled on other grounds by Gov’t Emps. Ins. Co. v. 
+19  Dizol, </pre><span class="citation" data-id="750661"><a href="/opinion/750661/98-cal-daily-op-serv-291-98-daily-journal-dar-398-government/" aria-description="Citation for case: 98 Cal. Daily Op. Serv. 291, 98 Daily Journal D.A.R. 398...">133 F.3d 1220</a></span><pre class="inline"> (1998) (en banc) (“[w]hen [defendant] removed the case to federal 
+20  court, based on diversity of citizenship, the claim remained one for declaratory relief, but 
+21  the question whether to exercise federal jurisdiction to resolve the controversy became a 
+22  procedural question of federal law.”)).                                   
+23       The DJA states in part:                                              
+24       In a case of actual controversy within its jurisdiction … any court of the United 
+        States, upon the filing of an appropriate pleading, may declare the rights and other 
+25                                                                            
+        legal relations of any interested party seeking such declaration, whether or not 
+26       further relief is or could be sought. Any such declaration shall have the force and 
+        effect of a final judgment or decree and shall be reviewable as such. 
+27                                                                            
+
+28  </pre><span class="citation no-link">28 U.S.C. § 2201</span><pre class="inline">(a).                                                      
+1       Under the DJA, “[c]ourts conduct a two-part analysis to determine if declaratory 
+2  relief is appropriate under the circumstances: (1) the court determines whether an ‘actual 
+3  controversy’ exists between the parties as required by Article III of the Constitution; and 
+4  (2) the court considers, in its discretion, whether its jurisdiction should be extended over 
+5  the actual controversy.”  Dias v. Spartan Micro, Inc., Case No. 8:22-cv-00834-JVS (KES), 
+6  </pre><span class="citation no-link">2022 WL 17216820</span><pre class="inline">, at *7 (C.D. Cal. Sept. 14, 2022).15  “Article III requires that there be 
+7  a substantial controversy ... of sufficient immediacy and reality to warrant the issuance of 
+8  a declaratory judgment.’”  </pre><span class="citation no-link">Id.</span><pre class="inline"> at *8 (quoting Aydin Corp. v. Union of India, </pre><span class="citation" data-id="9481901"><a href="/opinion/565284/aydin-corporation-v-union-of-india/" aria-description="Citation for case: Aydin Corporation v. Union of India">940 F.2d 527</a></span><pre class="inline">, 
+9  528 (9th Cir. 1991)).  “The dispute must be (1) ‘definite and concrete, touching the legal 
+10  relations of parties having adverse legal interests’; (2) ‘real and substantial’; and (3) 
+11  ‘admit[ting] of specific relief through a decree of a conclusive character, as distinguishable 
+12  from an opinion advising what the law would be upon a hypothetical state of facts.’”  </pre><span class="citation" data-id="9481901"><a href="/opinion/565284/aydin-corporation-v-union-of-india/" aria-description="Citation for case: Aydin Corporation v. Union of India">Id.</a></span><pre class="inline"> 
+13  (quoting In re Adobe Sys., Inc. Priv. Litig., 66 F. Supp. 3d at 1221).    
+14       “Federal courts do not have a duty to grant declaratory judgment; therefore, it is 
+15  within a district court’s discretion to dismiss an action for declaratory judgment.”  Padres 
+16  Hacia Una Vida Mejor v. McCarthy, </pre><span class="citation" data-id="9808481"><a href="/opinion/2809908/el-pueblo-para-el-aire-y-agua-v-lisa-jackson/#896" aria-description="Citation for case: El Pueblo Para El Aire Y Agua v. Lisa Jackson">614 F. App’x 895, 896</a></span><pre class="inline"> (9th Cir. 2015) (quoting 
+17  Leadsinger, Inc. v. BMG Music Publ’g, </pre><span class="citation" data-id="1446183"><a href="/opinion/1446183/leadsinger-inc-v-bmg-music-publishing/#533" aria-description="Citation for case: Leadsinger, Inc. v. BMG Music Publishing">512 F.3d 522, 533</a></span><pre class="inline"> (9th Cir. 2008)).  In determining 
+18  whether maintaining jurisdiction over a declaratory judgment action is appropriate, a 
+19  district court is to consider a variety of factors, including whether retaining jurisdiction 
+20  would “serve a useful purpose in clarifying the legal relations at issue.”  </pre><span class="citation" data-id="1446183"><a href="/opinion/1446183/leadsinger-inc-v-bmg-music-publishing/" aria-description="Citation for case: Leadsinger, Inc. v. BMG Music Publishing">Id.</a></span><pre class="inline"> at 896–97 
+21  (quoting Allstate Ins. Co. v. Herron, </pre><span class="citation" data-id="206466"><a href="/opinion/206466/allstate-insurance-companies-v-charles-herron/#1107" aria-description="Citation for case: Allstate Insurance Companies v. Charles Herron">634 F.3d 1101, 1107</a></span><pre class="inline"> (9th Cir. 2011)).  
+22       “As a procedural statute dependent on an underlying cause of action, the DJA makes 
+23  available an ‘additional remedy to litigants without creating an independent ‘theory of 
+24                                                                            
+25                                                                            
+26                                                                            
+   15 “[A]s a threshold requirement, a declaratory relief action must involve an actual ‘case or 
+27  controversy’ so the court does not render an impermissible advisory opinion.”   Veoh 
+   Networks, Inc. v. UMG Recordings, Inc., </pre><span class="citation" data-id="1519300"><a href="/opinion/1519300/veoh-networks-inc-v-umg-recordings-inc/#1268" aria-description="Citation for case: Veoh Networks, Inc. v. UMG Recordings, Inc.">522 F. Supp. 2d 1265, 1268</a></span><pre class="inline"> (S.D. Cal. 2007) 
+28                                                                            
+1  recovery.’”  Diamond Real Est., </pre><span class="citation no-link">2017 WL 412527</span><pre class="inline">, at *10 (citing Team Enters., LLC v. W. 
+2  Inv. Real Estate Tr., </pre><span class="citation" data-id="2542542"><a href="/opinion/2542542/team-enterprises-llc-v-western-investment-real-estate-trust/#911" aria-description="Citation for case: Team Enterprises, LLC v. Western Investment Real Estate...">721 F. Supp. 2d 898, 911</a></span><pre class="inline"> (E.D. Cal. 2010)).  However, ‘where the 
+3  plaintiff’s underlying claims fail, so too does his declaratory relief claim.’”  </pre><span class="citation" data-id="2542542"><a href="/opinion/2542542/team-enterprises-llc-v-western-investment-real-estate-trust/" aria-description="Citation for case: Team Enterprises, LLC v. Western Investment Real Estate...">Id.</a></span><pre class="inline"> (quoting 
+4  Canatella v. Reverse Mortg. Sols. Inc., Case No. 13-cv-05937-HSG, </pre><span class="citation no-link">2016 WL 6070508</span><pre class="inline">, 
+5  at *7 (N.D. Cal. Oct. 17, 2016).                                          
+6       Defendants assert an “actual controversy” exists giving “rise to questions about the 
+7  parties’ rights and obligations” and that Defendants seek a declaration that Plaintiffs “must 
+8  cease all harassing and unlawfully disparaging conduct toward [Defendants].”  (SACC 
+9  ¶¶ 63–64.)  Defendants do not assert or state a cause of action concerning harassment or 
+10  specify the unlawful disparaging conduct that is subject to declaratory relief.  And even if 
+11  Defendants tie their request for declaratory relief to another cause of action, “[s]ince the 
+12  Court dismisses the underlying claims, the Court also [grants] Defendant’s motion to 
+13  dismiss the declaratory judgment cause of action.”  Fallbrook Hosp. Corp. v. California 
+14  Nurses Ass’n/Nat. Nurses Org. Comm., No. 13cv1233-GPC(WVG), </pre><span class="citation no-link">2013 WL 5347271</span><pre class="inline">, at 
+15  *3 (S.D. Cal. Sept. 23, 2013); see also Javaheri v. JPMorgan Chase Bank, N.A., No. 2:10-
+16  cv-08185-ODW(FFMx), </pre><span class="citation no-link">2012 WL 6140962</span><pre class="inline">, at *8 (C.D. Cal. Dec. 11, 2012) (“Declaratory 
+17  and injunctive relief do not lie where all other claims have been dismissed.”). 
+18       Thus, Plaintiffs’ Motion is GRANTED for the declaratory relief claim. 
+19    K. Leave to Amend                                                       
+20         a.  Existing Claims                                                
+21       Defendants request that, if the Court grants any portion of the Motion, that they be 
+22  granted leave to amend; they argue there is no prejudice to Plaintiffs who were aware of 
+23  the new facts alleged in their third amended counterclaims and that Plaintiffs perpetrated 
+24  those alleged facts.  (Doc. 60 at 30.)                                    
+25       While courts exercise broad discretion in deciding whether to allow amendment of 
+26  a pleading, they have generally adopted a liberal policy.  See U.S. for Benefit &amp; Use of 
+27  Ehmcke Sheet Metal Works v. Wausau Ins. Cos., </pre><span class="citation" data-id="1428073"><a href="/opinion/1428073/us-for-benefit-of-ehmcke-sheet-metal-v-wausau/#908" aria-description="Citation for case: US for Benefit of Ehmcke Sheet Metal v. Wausau">755 F. Supp. 906, 908</a></span><pre class="inline"> (E.D. Cal. 1991) 
+28  (citing Jordan v. Cnty. of L.A., </pre><span class="citation" data-id="9468861"><a href="/opinion/399152/charles-l-jordan-plaintiff-appellant-v-county-of-los-angeles/#1324" aria-description="Citation for case: Charles L. JORDAN, Plaintiff-Appellant, v. COUNTY OF LOS...">669 F.2d 1311, 1324</a></span><pre class="inline"> (9th Cir. 1982), rev’d on other grounds, 
+1  </pre><span class="citation multiple-matches"><a href="/c/U.S./459/810/">459 U.S. 810</a></span><pre class="inline"> (1982)).  Accordingly, leave is generally granted unless the Court harbors 
+2  concerns “such as undue delay, bad faith or dilatory motive on the part of the movant, 
+3  repeated failure to cure deficiencies by amendments previously allowed, undue prejudice 
+4  to the opposing party by virtue of allowance of the amendment, futility of the amendment, 
+5  etc.”  Foman v. Davis, </pre><span class="citation" data-id="106497"><a href="/opinion/106497/foman-v-davis/#182" aria-description="Citation for case: Foman v. Davis">371 U.S. 178, 182</a></span><pre class="inline"> (1962).  “[I]t is the consideration of prejudice to 
+6  the opposing party that carries the greatest weight.”  Eminence Cap., LLC v. Aspeon, Inc., 
+7  </pre><span class="citation" data-id="9495724"><a href="/opinion/780573/eminence-capital-llc-and-jay-spechler-v-aspeon-inc-richard-p-stack/#1052" aria-description="Citation for case: Eminence Capital, Llc, and Jay Spechler v. Aspeon, Inc....">316 F.3d 1048, 1052</a></span><pre class="inline"> (9th Cir. 2003).  “The party opposing leave to amend bears the burden 
+8  of showing prejudice.”  Serpa v. SBC Telecomms., </pre><span class="citation" data-id="2472957"><a href="/opinion/2472957/serpa-v-sbc-telecommunications-inc/#870" aria-description="Citation for case: Serpa v. SBC Telecommunications, Inc.">318 F. Supp. 2d 865, 870</a></span><pre class="inline"> (N.D. Cal. 
+9  2004) (citing DCD Programs, Ltd. v. Leighton, </pre><span class="citation" data-id="497054"><a href="/opinion/497054/dcd-programs-ltd-v-michael-w-leighton-hill-farrer-burrill/#187" aria-description="Citation for case: Dcd Programs, Ltd. v. Michael W. Leighton, Hill, Farrer &amp;...">833 F.2d 183, 187</a></span><pre class="inline"> (9th Cir. 1987)). 
+10       With respect to the claims in the SACC, Plaintiffs have set forth no basis upon which 
+11  granting leave to amend would prejudice them, would cause undue delay, or that the 
+12  request involves bad faith.  Plaintiffs merely state leave to amend should not be granted.  
+13  (See Doc. 56-1 at 13, 33; Doc. 63 at 4, 11.)  Defendants have not previously sought leave 
+14  to amend their counterclaims, despite amending once as of right to properly identify 
+15  Plaintiffs.  (See Docs. 34, 36.)  And Plaintiffs are presumably aware of the evidence 
+16  uncovered in discovery that would underly any allegations added to the claims already pled 
+17  in the SACC.  The Court also does not find that amendment would be futile. 
+18         b.  New Claim                                                      
+19       Defendants request the Court allow them to add a new claim for defamation based 
+20  on the same allegations supporting their trade libel claim.  (Doc. 60 at 30–32.)  Defendants 
+21  argue adding a defamation claim would be based on the same facts alleged in the original 
+22  counterclaims filed in January 2022, no new discovery would be necessary, and there is 
+23  inherent overlap between trade libel and defamation claims.  (Id. at 31–32.)   
+24       Defendants could have raised this claim back in January 2022.  Thus, the Court 
+25  concludes Defendants engaged in undue delay in not seeking to add the claim until now.  
+26  See Acri v. Int’l Ass’n of Machinists &amp; Aerospace Workers, </pre><span class="citation" data-id="8937744"><a href="/opinion/8947101/acri-v-international-assn-of-machinists-aerospace-workers/" aria-description="Citation for case: Acri v. International Ass&#x27;n of Machinists &amp; Aerospace...">781 F.2d 1393</a></span><pre class="inline"> (9th Cir. 1986) 
+27  (“late amendments to assert new theories are not reviewed favorably when the facts and 
+28  the theory have been known to the party seeking amendment since the inception of the 
+1  cause of action.”) (citing M/V Am. Queen v. San Diego Marine Const. Corp., </pre><span class="citation no-link">708 F.2d 
+2</span><pre class="inline">  1483, 1492 (9th Cir. 1983)); see also Jackson v. Bank of Hawaii, </pre><span class="citation" data-id="8979995"><a href="/opinion/8987920/jackson-v-bank-of-hawaii/#1388" aria-description="Citation for case: Jackson v. Bank of Hawaii">902 F.2d 1385, 1388</a></span><pre class="inline"> (9th 
+3  Cir. 1990) (“Relevant to evaluating the delay issue is whether the moving party knew or 
+4  should  have  known  the  facts  and  theories  raised  by  the  amendment  in  the  original 
+5  pleading.”).                                                              
+6       However, “delay alone no matter how lengthy is an insufficient ground for denial of 
+7  leave to amend.”  United States v. Webb, </pre><span class="citation" data-id="392902"><a href="/opinion/392902/united-states-v-hiram-webb/#980" aria-description="Citation for case: United States v. Hiram Webb">655 F.2d 977, 980</a></span><pre class="inline"> (9th Cir. 1981).  “Only where 
+8  prejudice is shown or the movant acts in bad faith are courts protecting the judicial system 
+9  or other litigants when they deny leave to amend a pleading.”  </pre><span class="citation" data-id="392902"><a href="/opinion/392902/united-states-v-hiram-webb/" aria-description="Citation for case: United States v. Hiram Webb">Id.</a></span><pre class="inline"> (quoting Howey v. United 
+10  States, </pre><span class="citation" data-id="312391"><a href="/opinion/312391/frank-howey-v-united-states-of-america-and-third-party-v-radio/" aria-description="Citation for case: Frank Howey v. United States of America, and Third-Party...">481 F.2d 1187</a></span><pre class="inline"> (9th Cir. 1973)).  Plaintiffs bear the burden of demonstrating 
+11  prejudice from the proposed amendment.  See DCD Programs, Ltd., </pre><span class="citation" data-id="497054"><a href="/opinion/497054/dcd-programs-ltd-v-michael-w-leighton-hill-farrer-burrill/#187" aria-description="Citation for case: Dcd Programs, Ltd. v. Michael W. Leighton, Hill, Farrer &amp;...">833 F.2d at 187</a></span><pre class="inline">.  Yet 
+12  Plaintiffs do not specifically address Defendants’ request for leave to amend to add the 
+13  defamation claim nor articulate how adding such a claim would cause prejudice to them.  
+14  Plaintiffs do not argue Defendants’ request was due to bad faith.  Nor do Plaintiffs argue 
+15  that such a claim would require additional discovery, while Defendants contend that it 
+16  would not, (see Doc. 60 at 31).  Plaintiffs have presented no reason for this Court to believe 
+17  that amendment would greatly alter the nature of this litigation.  See Morongo Band of 
+18  Mission Indians v. Rose, </pre><span class="citation" data-id="534877"><a href="/opinion/534877/morongo-band-of-mission-indians-plaintiff-counter-defendantappellant-v/#1079" aria-description="Citation for case: Morongo Band of Mission Indians,...">893 F.2d 1074, 1079</a></span><pre class="inline"> (9th Cir. 1990) (finding district court did not 
+19  abuse discretion in denying leave to amend due to a two-year delay and the new claims 
+20  would “greatly alter[ ] the nature of the litigation and would have required defendants to 
+21  have undertaken, at a late hour, an entirely new course of defense.”).    
+22       Thus, the Court GRANTS Defendants’ request for leave to amend.       
+23                            IV.  CONCLUSION                                 
+24       For  the  foregoing  reasons,  Plaintiffs’  Motion  is  GRANTED  WITHOUT 
+25  PREJUDICE.  Defendants must file their amended counterclaims on or before January 
+26  12, 2023.  Plaintiffs’ response to the amended counterclaims must be filed on or before 
+27  January 26, 2023.                                                         
+28  ///                                                                       
+1       IT IS SO ORDERED.                                                    
+2  DATE:  December 19, 2023                                                  
+3                                        _____________________________________ 
+                                         HON. RUTH BERMUDEZ MONTENEGRO       
+4                                                                            
+                                                                         UNITED STATES DISTRICT JUDGE 
+5                                                                            
+6                                                                            
+7                                                                            
+8                                                                            
+9                                                                            
+10                                                                            
+11                                                                            
+12                                                                            
+13                                                                            
+14                                                                            
+15                                                                            
+16                                                                            
+17                                                                            
+18                                                                            
+19                                                                            
+20                                                                            
+21                                                                            
+22                                                                            
+23                                                                            
+24                                                                            
+25                                                                            
+26                                                                            
+27                                                                            
+28                                                                            </pre>

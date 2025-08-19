@@ -1,0 +1,614 @@
+<pre class="inline">1                                                                         
+2                                                                         
+3                                                                         
+4                      UNITED STATES DISTRICT COURT                       
+5                     NORTHERN DISTRICT OF CALIFORNIA                     
+6                            SAN JOSE DIVISION                            
+7                                                                         
+8    VAHE TASHJIAN,                   Lead Case No.     19-cv-01536-EJD   
+               Plaintiff,             Member Case No.   20-cv-08816-EJD   
+9                                                                         
+           v.                         ORDER GRANTING PLANET HOME          
+10                                     LENDING, LLC&#x27;S MOTION FOR           
+11    I eN t aV l.I ,C   TUS RESIDENTIAL POOLER - 2A,  S AU S M MM OA OR TY  M J OU TD IG OM N E TN OT  E;  XD CE LN UY DIN EG    
+                                      EXPERT REPORTS AND TESTIMONY        
+12              Defendants.            OF DOUGLAS A. MINOR                 
+
+13                                                                         
+     VAHE TASHJIAN,                   Re: ECF Nos. 221, 222               
+14                                                                         
+               Plaintiff,                                                 
+15                                                                         
+           v.                                                             
+16                                                                         
+     PLANET HOME LENDING, LLC, et al.,                                    
+17                                                                         
+               Defendants.                                                
+18                                                                         
+
+19                                                                         
+20        This action consolidates two lawsuits brought by Plaintiff Vahe Tashjian (“Mr. Tashjian”) 
+21   against various mortgage lenders and mortgage loan servicers in connection with payments on a 
+22   mortgage loan of over $3,300,000 issued to Mr. Tashjian in January 2018.  In his second lawsuit, 
+23   Mr. Tashjian sued Planet Home Lending, LLC (“Planet Home”), Sprout Mortgage Asset Trust 
+24   (“Sprout Mortgage”), and Prestige Default Services (“Prestige”), alleging the following 10 claims:  
+25   (1) breach of written contract; (2) breach of the covenant of good faith and fair dealing; (3) unfair 
+26   business practices in violation of California’s Unfair Competition Law (“UCL”), Cal. Bus. &amp; Prof. 
+27   Code § 17,200, et seq.; (4) violation of the Fair Credit Reporting Act (“FCRA”), </pre><span class="citation no-link">15 U.S.C. § 
+1</span><pre class="inline">   1681, et seq.; (5) intentional misrepresentation; (6) negligent misrepresentation; (7) violation of 
+2   the California Homeowner Bill of Rights (“HBOR”), </pre><span class="citation no-link">Cal. Civ. Code §§ 2923.5</span><pre class="inline">, 2924.9, and 
+3   2924.17; (8) violation of the HBOR, </pre><span class="citation no-link">Cal. Civ. Code § 2923.55</span><pre class="inline">; (9) wrongful foreclosure; and (10) 
+4   injunctive relief.  See First Am. Compl. (“FAC”), ECF No. 3-1 (N.D. Cal., No. 20-cv-08816-
+5   EJD).1  Sprout Mortgage Asset Trust and Prestige Default Services are no longer parties to this 
+6   action.  See ECF Nos. 109, 201.  Now pending before the Court is Planet Home’s motion for 
+7   summary judgment on all claims in the FAC, see Mot. Summ. J. (“MSJ”), ECF No. 222, as well as 
+8   Planet Home’s Daubert motion to exclude the reports and testimony of Mr. Tashjian’s damages 
+9   expert, see Mot. to Exclude Reports and Testimony of Douglas A. Minor (“Daubert Mot.”), ECF 
+10   No. 221.  Mr. Tashjian opposed both the summary judgment motion, see Opp’n to Mot. Summ. J. 
+11   (“MSJ Opp’n”), ECF No. 225, and the Daubert motion, see Opp’n to Daubert Mot. (“Daubert 
+12   Opp’n”), ECF No. 226.  Planet Home filed a reply in support of each motion.  See Reply in Supp. 
+13   of Mot. Summ. J. (“MSJ Reply”), ECF No. 232; Reply in Supp. of Daubert Mot. (“Daubert 
+14   Reply”), ECF No. 231.  The Court took both motions under submission without oral argument 
+15   pursuant to Civil Local Rule 7-1(b).  See ECF Nos. 239, 241.          
+16        Having considered the parties’ arguments, factual evidence, and the relevant law, the Court 
+17   hereby GRANTS Planet Home’s Motion for Summary Judgment and DENIES AS MOOT its 
+18   Motion to Exclude Expert Reports and Testimony for the reasons below. 
+19   I.   BACKGROUND                                                       
+20        A.   Factual Background                                          
+21        The following facts are undisputed unless otherwise noted.       
+22             1.   Loan Terms and Modifications                           
+23        On January 31, 2018, Mr. Tashjian entered into a loan agreement (the “Loan”) with 
+24   Recovco Mortgage Management, LLC (“Recovco”) under which Recovco agreed to provide a 
+25   mortgage loan to Mr. Tashjian in the principal sum of $3,307,500.  See FAC ¶ 16 &amp; Exh. A; Decl. 
+26                                                                         
+
+27                                                                         
+    1 Unless otherwise stated, as here, all docket citations refer to the lead case. 
+1   of Michael A. Iannucci in Supp. of Mot. (“Iannucci Decl.”), Exh. 2, at 2, ECF No. 222-5.  The 
+2   Loan was secured by a Deed of Trust in favor of Recovco for a residential property located at 901 
+3   Loyola Drive, Los Altos Hills, CA 94024 (the “Property”), and evidence by a Fixed/Adjustable 
+4   Rate Note (the “Note”).  See FAC, Exh. A; Iannucci Decl., Exh. 2, at 2; see also Decl. of Vahe 
+5   Tashjian in Opp’n to Mot. (“Tashjian Decl.”) ¶ 3, ECF No. 225-1.2  The terms of the Loan 
+6   included a letter from Recovco to Mr. Tashjian, executed on January 30, 2018 (the “January 30 
+7   Letter”), under which Mr. Tashjian would owe interest-only payments for the first seven years of 
+8   the Loan.  See FAC, Exh. A; Iannucci Decl., Exh. 2, at 3; Tashjian Decl. ¶ 4.  The amount of each 
+9   monthly interest-only payment was $17,226.56.  See Tashjian Decl. ¶ 15. 
+10        On December 21, 2018, Mr. Tashjian executed a modification agreement regarding the 
+11   Loan (the “Modification Agreement” and, with the Loan, the Deed of Trust, the Note, and the 
+12   January 30 Letter, the “Loan Documents”) with the then-servicer of the Loan.  See Iannucci Decl., 
+13   Exh. 6 (“Mod. Agr.”), ECF No. 222-9.  According to the Modification Agreement, the principal 
+14   balance on the Loan remained $3,307,500.  See </pre><span class="citation no-link">id. at 1</span><pre class="inline">.  Further, Mr. Tashjian owed an arrearage 
+15   balance on the Loan of $155,039.04—composed of nine months of non-payment of the 
+16   $17,226.56 interest-only payments—and that the arrearage would be deferred and owed in full at 
+17   the occurrence of any of the following events:  the end of the Loan term; the refinancing of the 
+18   Loan; an acceleration of the Loan balance pursuant to a default on the Loan; or the sale of the 
+19   Property.  See </pre><span class="citation no-link">id.</span><pre class="inline">  The Modification Agreement set forth a payment schedule under which Mr. 
+20   Tashjian was responsible for monthly payments consisting of both the interest-only payments and 
+21   an “Estimated Monthly Escrow Payment Amount.”  See </pre><span class="citation no-link">id. at 2</span><pre class="inline">.  Mr. Tashjian further agreed:  “I 
+22   will be in default if I do not comply with the terms of the Loan Documents, as modified by this 
+23   [Modification] Agreement.”  </pre><span class="citation no-link">Id.</span><pre class="inline">                                       
+24        Mr. Tashjian asserts that on January 22, 2019, he—through counsel—notified the then-
+25   servicer of the Loan of a mistake in the Modification Agreement.  See Tashjian Decl. ¶ 20 &amp; Exh. 
+26                                                                         
+
+27   2 The Court addresses Planet Home’s objection to the admissibility of the Tashjian Declaration in 
+    Part III of this order.                                               
+1   A.  Planet Home disputes the admissibility of this evidence.  See infra, at Part III. 
+2             2.   Mr. Tashjian’s Payment History                         
+3        Between May 29, 2019, and May 31, 2019, Mr. Tashjian made seven separate payments to 
+4   the then-loan servicer.  See Iannucci Decl., Exh. 17 (“O’Connell TRO Decl.”) ¶¶ 6–7, ECF No. 
+5   222-20.   These payments were applied to the amounts due for the months of December 2018 
+6   through June 2019.  See </pre><span class="citation no-link">id.</span><pre class="inline">  The seven payments included four payments of $19,391.24 and three 
+7   payments of $22,235.10, and were consistent with the payment amounts due under the 
+8   Modification Agreement.  See </pre><span class="citation no-link">id.</span><pre class="inline"> ¶¶ 6–8.  Mr. Tashjian has not made any other payments on the 
+9   Loan.  See Iannucci Decl., Exh. 1-A, ECF No. 222-4.                   
+10             3.   Planet Home’s Actions Regarding Loan                   
+11        The Loan has been repeatedly sold or otherwise reassigned, and the servicers of the Loan 
+12   have also changed over time.  See generally Iannucci Decl., Exhs. 8–16, ECF Nos. 222-11–222-
+13   19.  Planet Home became the Loan servicer on November 8, 2019.  See Iannucci Decl., Exh. 10, 
+14   ECF No. 222-13; </pre><span class="citation no-link">id.</span><pre class="inline"> at Exh. 9 (“Tashjian Dep. Tr.”) 234:15–235:3, ECF No. 222-12.  The prior 
+15   loan servicer informed Mr. Tashjian of the transfer to Planet Home in a letter dated October 23, 
+16   2019.  See </pre><span class="citation no-link">id.</span><pre class="inline"> at Exh. 10.  Mr. Tashjian states that Planet Home notified him of its status as the 
+17   new Loan servicer in December 2019.  See Tashjian Decl. ¶ 14.         
+18        On December 17, 2019, Planet Home issued Mr. Tashjian a document titled “Mortgage 
+19   Loan Statement” indicating a “Regular Monthly Payment” of $0.00 in principal, $17,226.56 in 
+20   interest, and $5,008.54 in escrow for “[t]axes and [i]nsurance.”  See O’Connell TRO Decl. ¶ 12 &amp; 
+21   Exh. 3.  Mr. Tashjian asserts that he, through counsel, “offered the correct interest only payment 
+22   due of $17,226.56,” and that the offer was rejected.  Tashjian Decl. ¶ 16.  Mr. Tashjian further 
+23   states that Planet Home subsequently “threatened to commence foreclosure proceedings against 
+24   the Property, based in part on the accrued principal erroneously claims by prior lenders.”  </pre><span class="citation no-link">Id.</span><pre class="inline"> 
+25        On December 26, 2019, Planet Home sent Mr. Tashjian a document titled “Notice of 
+26                                                                         
+27                                                                         
+1   Default and Intent to Accelerate” (the “Default Notice”).  See O’Connell TRO Decl., Exh. 43; 
+2   Tashjian Decl. ¶ 17.  The Default Notice stated that the Loan was in default and due from July 1, 
+3   2019, and that curing the default required a payment of $292,610.49—consisting of $133,410.60 
+4   in “Total Past Due Payments,” $155,039.04 in “Other Fees,” and $4,160.85 in “Corporate 
+5   Advance Balance”—to be received by Planet Home on or before January 25, 2020.  See 
+6   O’Connell TRO Decl., Exh. 4, at 1.  The Default Notice further stated that if payment was not 
+7   timely received, Planet Home “may accelerate the maturity date of your note” and the “entire 
+8   principal balance may be declared due without further demand and the noteholder may proceed to 
+9   foreclosure and sell the property in accordance with the terms” of the Loan and applicable law.  </pre><span class="citation no-link">Id.</span><pre class="inline">  
+10   The Default Notice additionally stated that Mr. Tashjian had “the right to assert in the foreclosure 
+11   proceeding or to bring a court action to assert, the non-existence of a default or any other defense 
+12   you may have to acceleration and sale.”  </pre><span class="citation no-link">Id. at 2</span><pre class="inline">.                    
+13        On April 2, 2020, Planet Home sent Mr. Tashjian a letter requesting that Mr. Tashjian 
+14   contact Planet Home “to assess [Mr. Tashjian’s] financial situation and explore potential options 
+15   that may be available to you to avoid foreclosure.”  </pre><span class="citation no-link">Id.</span><pre class="inline"> at Exh. 5.  Mr. Tashjian asserts that: 
+
+16             [o]n or around Spring of 2020, [he], through . . . counsel, demanded 
+              that [Planet Home] correct the error of claiming allegedly accrued 
+17             principal[]  [and]  accept  [his]  correct  and  proper  monthly  loan 
+              payments,  and  notified  [Planet  Home]  to  cease  any  foreclosure 
+18             activities based upon its error in determining the amounts due under 
+              the Loan, and demanded that it cease and/or immediately correct 
+19             reporting any derogatory or incorrect default reporting against [him] 
+              to credit reporting agencies.                               
+20                                                                         
+    Tashjian Decl. ¶ 18.                                                  
+21                                                                         
+         On May 18, 2020, Planet Home, as the Loan servicer for Sprout Mortgage, recorded a 
+22                                                                         
+    Substitution of Trustee naming Prestige Default as the substituted trustee for the Deed of Trust.  
+23                                                                         
+    See Iannucci Decl., Exh. 14, ECF No 222-17.  Mr. Tashjian has stated he has no reason to dispute 
+24                                                                         
+    the authenticity of this document.  See Tashjian Dep. Tr. 247:12–23.  On May 21, 2020, Planet 
+25                                                                         
+
+26                                                                         
+    3 Although the parties and the original declaration to which this exhibit is attached all state that the 
+27   declaration is titled “Notice of Default and Intent to Foreclose,” see, e.g., MSJ 4; Tashjian Decl. ¶ 
+    17; O’Connell TRO Decl. ¶ 13, a review of the exhibit indicates the correct title. 
+1   Home recorded a Notice of Default on the Loan.  See Tashjian Decl. ¶ 7. 
+2        On August 11, 2020, an attorney purporting to act on behalf of Mr. Tashjian sent a letter to 
+3   Planet Home seeking information and documentation on Planet Home’s “attempt to claim a notice 
+4   of default or a right to foreclose.”  FAC, Exh. C, at 4–5.  Planet Home responded the next day, 
+5   stating that it was “reviewing the loan to ensure a thorough response.”  </pre><span class="citation no-link">Id. at 10</span><pre class="inline">. 
+6        A signed Notice of Trustee’s Sale of the Property was recorded on September 10, 2020 in 
+7   Santa Clara County.  See Iannucci Decl., Exh. 5, ECF No. 222-8.  The Notice of Trustee’s Sale 
+8   indicated a sale date of October 26, 2020.  See </pre><span class="citation no-link">id.</span><pre class="inline">  Mr. Tashjian asserts that a Notice of Trustee’s 
+9   Sale for the Property with a sale date of October 26, 2020 was “tacked to [his] door” at the 
+10   Property on September 14, 2020, but that the Notice was unsigned.  See Tashjian Decl. ¶ 7.    Mr. 
+11   Tashjian further asserts that he received an unsigned Notice of Sale on November 4, 2020, and that 
+12   at some point in time, the Property was scheduled to be sold at a foreclosure auction on November 
+13   9, 2020.  See </pre><span class="citation no-link">id. ¶¶ 2, 8</span><pre class="inline">.                                            
+14             4.   Enjoinment of Foreclosure                              
+15        As discussed below, see infra, at Part I(B), Mr. Tashjian first sued Planet Home in 
+16   connection with the Loan and the Property on October 9, 2020 in state court in an action titled 
+17   Vahe Tashjian v. Planet Home Lending, LLC, et al. (Superior Court of California, County of Santa 
+18   Clara, No. 20-cv-371971).  On November 13, 2020, Mr. Tashjian filed a motion in that state court 
+19   action seeking a preliminary injunction enjoining Planet Home, Sprout Mortgage, and Prestige 
+20   from foreclosing on or taking any other action with respect to the Property.  See Iannucci Decl. ¶ 
+21   4.  The state court granted the injunction on December 9, 2020.  See </pre><span class="citation no-link">id.</span><pre class="inline">  Planet Home then 
+22   canceled an ongoing foreclosure proceeding on the Property.  See </pre><span class="citation no-link">id.</span><pre class="inline">  Although this Court later 
+23   granted Planet Home’s motion to dissolve the state court’s preliminary injunction, see ECF No. 
+24   118, Planet Home has not foreclosed on the Property to date.  See </pre><span class="citation no-link">id.</span><pre class="inline">  Mr. Tashjian continues to 
+25   reside at the Property.  See Tashjian Decl. ¶ 27; Tashjian Dep. Tr. 227:23–24. 
+26                                                                         
+27                                                                         
+1        B.   Procedural History                                          
+2             1.   Filing of Suits, Removal to Federal Court, Relation, and Consolidation 
+3        This consolidated action began on March 11, 2019, when Mr. Tashjian brought a suit in 
+4   state court titled Vahe Tashjian v. Invictus Residential Pooler – 2A, et al. (Superior Court of 
+5   California, County of Santa Clara, No. 19-cv-344317), relating to the Loan and the Property.  The 
+6   action was removed to this Court on March 25, 2019.  See Not. Of Removal, ECF No. 1.  Planet 
+7   Home, Sprout Mortgage, and Prestige were not named as defendants in that action.  See Compl., 
+8   ECF No. 1.  Rather, Mr. Tashjian sued Planet Home, Sprout Mortgage, and Prestige on October 9, 
+9   2020 in state court in the Vahe Tashjian v. Planet Home Lending, LLC action.  See Compl., ECF 
+10   No. 3-1 (N.D. Cal., No. 20-cv-08816-EJD).  Mr. Tashjian then filed the FAC against Planet 
+11   Home, Sprout Mortgage, and Prestige in state court on November 13, 2020, i.e., the same day he 
+12   filed the motion for preliminary injunction.  See FAC.  That state court action was subsequently 
+13   removed to federal court on December 11, 2020.  See Not. of Removal, ECF No. 3 (N.D. Cal., No. 
+14   20-cv-08816-EJD).  Planet Home answered the FAC on December 18, 2020.  See Answer, ECF 
+15   No. 9 (N.D. Cal., No. 20-cv-08816-EJD).                               
+16        The Court related the Invictus and Planet Home suits brought by Mr. Tashjian on January 
+17   6, 2021, and consolidated them on March 29, 2021.  See ECF Nos. 75, 84.  Mr. Tashjian has not 
+18   filed a consolidated amended complaint; accordingly, the operative complaint against Planet 
+19   Home is the FAC filed in the Planet Home state court action prior to removal to federal court. 
+20             2.   Status of Sprout Mortgage and Prestige                 
+21        The two other defendants named in the Planet Home action were Sprout Mortgage and 
+22   Prestige.  See FAC.  On December 1, 2021, pursuant to a stipulation submitted by Prestige and 
+23   Mr. Tashjian, the Court issued an order holding that (1) the FAC names Prestige as a defendant 
+24   based upon its “limited role handling non-judicial foreclosure . . . and solely for the purpose of 
+25   having all necessary parties before the Court”; (2) that the FAC does not allege any misconduct by 
+26   Prestige; (3) that Prestige is not liable to Mr. Tashjian for any monetary damages, attorney fees, or 
+27   costs; and (4) that Prestige was not required to participate further in this action—except by 
+1   responding to any discovery as a non-party—although it would be bound by any Court order 
+2   relating to the relevant Deed of Trust on the Property.  See ECF No. 109.  On July 6, 2023, the 
+3   Clerk of Court entered default as to Sprout Mortgage.  See ECF No. 201.   
+4             3.   The Instant Motions                                    
+5        On October 30, 2023, Planet Home moved for summary judgment of all claims in the 
+6   FAC.  See MSJ.  Planet Home also filed a concurrent Daubert motion to exclude the reports and 
+7   testimony of Mr. Tashjian’s damages expert, Douglas A. Minor.  See Daubert Mot.  Both motions 
+8   were fully briefed on December 4, 2023.  The Court took both motions under submission.  See 
+9   ECF Nos. 239, 241.                                                    
+10        The Court first addresses the Daubert motion and then reviews other evidentiary 
+11   objections before evaluating Planet Home’s motion for summary judgment. 
+12   II.  MOTION TO EXCLUDE EXPERT REPORTS AND TESTIMONY                   
+13        Planet Home moves to exclude the reports and testimony of Douglas A. Minor.  See 
+14   Daubert Mot.  Mr. Tashjian opposes the motion, arguing that Mr. Minor’s opinions on credit 
+15   impact and damages are admissible.  See Daubert Opp’n.  Because the Court finds that none of 
+16   Mr. Tashjian’s claims survive summary judgment—a result independent of the contents of Mr. 
+17   Minor’s reports—it will deny as moot Planet Home’s motion to exclude Mr. Minor’s reports and 
+18   testimony.                                                            
+19   III.  EVIDENTIARY OBJECTIONS                                          
+20        Mr. Tashjian makes no objections to the evidence presented by Planet Home.  See 
+21   generally MSJ Opp’n.  Planet Home objects to two items of evidence submitted in support of Mr. 
+22   Tashjian’s opposition to the summary judgment motion:  (1) a letter dated January 22, 2019 from 
+23   Brendan J. Dooley, Esq. to the then-servicer of the Loan, Shellpoint Mortgage Servicing (the 
+24   “Letter”); and (2) Mr. Tashjian’s declaration to which the letter is attached (the “Tashjian 
+25   Declaration”).  See MSJ Reply 11–13.  Because the Court finds that none of Mr. Tashjian’s claims 
+26   survive summary judgment, even considering these items of evidence, it DENIES AS MOOT 
+27   Planet Home’s evidentiary objections.                                 
+1   IV.  MOTION FOR SUMMARY JUDGMENT                                      
+2        A.   Legal Standard                                              
+3        Summary judgment is proper where the pleadings and evidence demonstrate “there is no 
+4   genuine issue as to any material fact and . . . the movant is entitled to judgment as a matter of 
+5   law.”  Fed. R. Civ. P. 56(a); Celotex Corp. v. Catrett, </pre><span class="citation" data-id="9430607"><a href="/opinion/111722/celotex-corp-v-catrett-administratrix-of-the-estate-of-catrett/#322" aria-description="Citation for case: Celotex Corp. v. Catrett, Administratrix of the Estate of...">477 U.S. 317, 322</a></span><pre class="inline"> (1986).  The moving 
+6   party “always bears the initial responsibility of informing the district court of the basis for its 
+7   motion, and identifying those portions of the pleadings and admissions on file, together with the 
+8   affidavits, if any, which it believes demonstrate the absence of a genuine issue of material fact.”  
+9   </pre><span class="citation" data-id="9430607"><a href="/opinion/111722/celotex-corp-v-catrett-administratrix-of-the-estate-of-catrett/#323" aria-description="Citation for case: Celotex Corp. v. Catrett, Administratrix of the Estate of...">Id. at 323</a></span><pre class="inline">.  If the moving party makes such a showing, the burden then shifts to the nonmoving 
+10   party to produce evidence supporting its claims or defenses.  Nissan Fire &amp; Marine Ins. Co. v. 
+11   Fritz Cos., Inc., </pre><span class="citation multiple-matches"><a href="/c/F.3d/210/1099/">210 F.3d 1099</a></span><pre class="inline">, 1103 (9th Cir. 2000).  In evaluating evidence at the summary 
+12   judgment stage, the Court “does not assess credibility or weigh the evidence, but simply 
+13   determines whether there is a genuine factual issue for trial.”  House v. Bell, </pre><span class="citation" data-id="9434937"><a href="/opinion/145648/house-v-bell/" aria-description="Citation for case: House v. Bell">547 U.S. 518</a></span><pre class="inline">, 559–60 
+14   (2006).  A fact is “material” if it “might affect the outcome of the suit under the governing law,” 
+15   and a “genuine” dispute of material fact exists if there is sufficient evidence for a reasonable trier 
+16   of fact to decide in favor of the nonmoving party.  Anderson v. Liberty Lobby, Inc., </pre><span class="citation" data-id="9430599"><a href="/opinion/111719/anderson-v-liberty-lobby-inc/" aria-description="Citation for case: Anderson v. Liberty Lobby, Inc.">477 U.S. 242</a></span><pre class="inline">, 
+17   248 (1986).  Summary judgment must be denied if “a fair-minded jury could return a verdict for 
+18   the [non-moving party] on the evidence presented.”  </pre><span class="citation" data-id="9430599"><a href="/opinion/111719/anderson-v-liberty-lobby-inc/#252" aria-description="Citation for case: Anderson v. Liberty Lobby, Inc.">Id. at 252</a></span><pre class="inline">.       
+19        B.   Discussion                                                  
+20        Mr. Tashjian brings 10 claims against Planet Home4:  (1) breach of written contract; (2) 
+21   breach of the covenant of good faith and fair dealing; (3) unfair business practices in violation of 
+22   California’s Unfair Competition Law (“UCL”), </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17</span><pre class="inline">,200, et seq.; (4) 
+23   violation of the Fair Credit Reporting Act (“FCRA”), </pre><span class="citation no-link">15 U.S.C. § 1681</span><pre class="inline">, et seq.; (5) intentional 
+24   misrepresentation; (6) negligent misrepresentation; (7) violation of the California Homeowner Bill 
+25   of Rights (“HBOR”), </pre><span class="citation no-link">Cal. Civ. Code §§ 2923.5</span><pre class="inline">, 2924.9, and 2924.17; (8) violation of the HBOR, 
+26                                                                         
+
+27   4 Although the claims do not name Planet Home specifically, each claim is brought against either 
+    “Lenders” or “Defendants,” and Planet Home is included in both terms.  See FAC at 1; </pre><span class="citation no-link">id.</span><pre class="inline"> ¶¶ 7–8. 
+1   </pre><span class="citation no-link">Cal. Civ. Code § 2923.55</span><pre class="inline">; (9) wrongful foreclosure; and (10) injunctive relief.  See FAC ¶¶ 89–
+2   242.  Planet Home moves for summary judgment on each of the ten claims.  See generally MSJ.  
+3   The Court addresses these claims in turn.                             
+4             1.   Claim 1:  Breach of Written Contract                   
+5        Mr. Tashjian alleges that Planet Home breached the written terms of the Loan by 
+6   demanding incorrect payments under Loan, failing to accept correct monthly, wrongfully initiating 
+7   foreclosure proceedings on the Property, incorrectly reporting to credit reporting agencies that Mr. 
+8   Tashjian had defaulted on the Loan, and failing to ensure that the credit reporting agencies’ 
+9   records were corrected.  See FAC ¶¶ 89–92.  Under California law, a breach of contract claim 
+10   requires “(1) the existence of the contract, (2) plaintiff’s performance or excuse for nonperformance, 
+11   (3) defendant’s breach, and (4) the resulting damages to the plaintiff.”  Oasis W. Realty, LLC v. 
+12   Goldman, </pre><span class="citation" data-id="9504103"><a href="/opinion/844289/oasis-west-realty-v-goldman/#821" aria-description="Citation for case: Oasis West Realty v. Goldman">51 Cal. 4th 811, 821</a></span><pre class="inline"> (2011).  Planet Home argues that Mr. Tashjian cannot prove the first 
+13   three elements of a breach of contract claim.  See MSJ 7–12.  Mr. Tashjian does not address this claim 
+14   in his opposition papers.  See generally MSJ Opp’n.  Planet Home argues that Mr. Tashjian has 
+15   thereby abandoned this claim and the seven other claims not addressed in the opposition, see MSJ 
+16   Reply 1–2, but Mr. Tashjian indicates that he challenges the summary judgment motion in its entirety, 
+17   see MSJ Opp’n 1, 13.  As such, the Court will review each claim under the standard summary 
+18   judgment lens and evaluate whether there exists a material dispute of fact as to any element of the 
+19   claim based on the evidence submitted by the parties.                 
+20        As noted by Planet Home, none of the Loan Documents—i.e., the Loan, the Deed of Trust, 
+21   the Note, the January 30 Letter, and the Modification Agreement—name Planet Home as a party.  
+22   See FAC Exh. A; Mod. Agr.  Further, although Mr. Tashjian appended two items of 
+23   correspondence between his counsel and Planet Home—a letter and a response—neither document 
+24   indicates anything other than Planet Home’s role as a servicer on the Loan.  See Tashjian Decl., 
+25   Exh. B, at 4–5, 10–11.                                                
+26        “The general rule in California is that ‘only a signatory to a contract may be liable for any 
+27   breach.’”  St. Vincent Med. Ctr. v. Mega Life &amp; Health Ins. Co., </pre><span class="citation" data-id="2741745"><a href="/opinion/2741745/st-vincent-medical-center-v-mega-life-and-health-insurance/#419" aria-description="Citation for case: St. Vincent Medical Center v. Mega Life and Health Insurance">585 F. App’x 417, 419</a></span><pre class="inline"> (9th Cir. 
+1   2014) (quoting Clemens v. Am. Warranty Corp., </pre><span class="citation" data-id="2137403"><a href="/opinion/2137403/clemens-v-american-warranty-corp/#452" aria-description="Citation for case: Clemens v. American Warranty Corp.">193 Cal. App. 3d 444, 452</a></span><pre class="inline"> (1987)); see also, e.g., 
+2   Tri-Continent Int’s Corp. v. Paris Sav. &amp; Loan Ass’n, </pre><span class="citation" data-id="2257567"><a href="/opinion/2257567/tri-continent-international-corp-v-paris-savings-loan-assn/#1359" aria-description="Citation for case: Tri-Continent International Corp. v. Paris Savings &amp; Loan...">12 Cal. App. 4th 1354, 1359</a></span><pre class="inline"> (1993) (“Tri–
+3   Continent cannot assert a claim for breach of contract against one who is not a party to the 
+4   contract.”).  As such, Mr. Tashjian may not bring a claim against Planet Home for breach of 
+5   contract based on the Loan Documents.  See, e.g., Howard v. First Horizon Home Loan Corp., No. 
+6   12–cv–05735, </pre><span class="citation no-link">2013 WL 3146792</span><pre class="inline">, at *2 (N.D. Cal. June 18, 2013) (“Under California law, a 
+7   mortgagor cannot bring a claim for breach of contract against a servicer premised on the deed of 
+8   trust because a loan servicer is not a party to the deed of trust.”) (citing cases); Lomboy v. SCME 
+9   Mortg. Bankers, No. 09-cv-1160, </pre><span class="citation no-link">2009 WL 1457738</span><pre class="inline">, at *5 (N.D. Cal. May 26, 2009) (dismissing 
+10   borrower’s California breach of contract claim against loan servicer after rejecting argument that 
+11   servicing fee implied existence of contract between borrower and loan servicer); Conder v. Home 
+12   Savs. of Am., </pre><span class="citation" data-id="2485925"><a href="/opinion/2485925/conder-v-home-savings-of-america/#1174" aria-description="Citation for case: Conder v. Home Savings of America">680 F. Supp. 2d 1168, 1174</a></span><pre class="inline"> (C.D. Cal. 2010) (“The fact that [Loan Servicer] entered 
+13   into a contract with [Lender] to service Plaintiff’s loan does not create contractual privity between 
+14   [Loan Servicer] and Plaintiff.”) (citing Lomboy, </pre><span class="citation no-link">2009 WL 1457738</span><pre class="inline">, at *5).     
+15        At least two California appellate courts have approved of this line of reasoning, albeit in 
+16   unpublished decisions.  See Brooks v. Quantum Servicing Corp., No. __, </pre><span class="citation no-link">2012 WL 1898941</span><pre class="inline">, at *3 
+17   (Cal. Ct. App. May 25, 2012) (“[F]ederal courts applying California law have brusquely dismissed 
+18   the notion that loan servicers, as agents for the holder of the loan, are parties to deeds of trust or 
+19   the mortgage, or that a loan servicer is in privity with the holder of the loan. . . . No contrary 
+20   conclusion is required here.”) (citations omitted); Bundick v. Penny Mac Loan Servs. LLC, No. 
+21   C079577, </pre><span class="citation no-link">2021 WL 2309954</span><pre class="inline">, at *22 (Cal. Ct. App. June 7, 2021) (finding no contractual 
+22   relationship between borrower and loan servicer after noting that “we have not readily found 
+23   California appellate cases directly on point, [but] those federal courts applying California law that 
+24   have considered the issue have concluded that, under California law, a loan servicer is not party to 
+25   a deed of trust”).                                                    
+26        Accordingly, in light of the Loan Documents supplied by Planet Home, the lack of 
+27   opposition by Mr. Tashjian, and the Court’s analysis of the governing law, the Court finds that 
+1   there is no genuine dispute of fact that no contract existed between Mr. Tashjian and Planet Home.  
+2   The Court will grant summary judgment on Mr. Tashjian’s breach of contract claim. 
+3             2.   Claim 2:  Breach of Implied Covenant of Good Faith and Fair Dealing 
+4        Mr. Tashjian alleges that Planet Home breached the implied covenant of good faith and 
+5   fair dealing.  See FAC ¶¶ 89–92.  Planet Home argues that summary judgment must be granted on 
+6   this claim as a matter of law, see MSJ 12–13, and Mr. Tashjian does not address Planet Home’s 
+7   arguments, see generally MSJ Opp’n.  Because the Court has found that no contract exists between 
+8   Mr. Tashjian and Planet Home, see supra, at Part IV(B)(1), the claim for breach of the implied 
+9   covenant of good faith and fair dealing cannot survive.  See, e.g., Rosal v. First Fed. Bank of Cal., 
+10   </pre><span class="citation" data-id="2407948"><a href="/opinion/2407948/rosal-v-first-federal-bank-of-california/#1129" aria-description="Citation for case: Rosal v. First Federal Bank of California">671 F. Supp. 2d 1111, 1129</a></span><pre class="inline"> (N.D. Cal. 2009) (“To establish a breach of an implied covenant of 
+11   good faith and fair dealing, a plaintiff must establish the existence of a contractual obligation, 
+12   along with conduct that frustrates the other party&#x27;s rights to benefit from the contract.”) (citing 
+13   Racine &amp; Laramie, Ltd. v. Dep’t of Parks &amp; Rec., </pre><span class="citation" data-id="2283927"><a href="/opinion/2283927/racine-laramie-ltd-v-department-of-parks-recreation/#1031" aria-description="Citation for case: Racine &amp; Laramie, Ltd. v. Department of Parks &amp; Recreation">11 Cal. App. 4th 1026, 1031</a></span><pre class="inline"> (1992)).  The 
+14   Court will therefore grant summary judgment on this claim.            
+15             3.   Claim 3:  UCL Violation                                
+16        “The UCL proscribes three varieties of competition: ‘acts or practices which are unlawful, 
+17   or unfair, or fraudulent.’”  Henard v. HSBC Bank USA, N.A., No. 5:17-cv-01222, </pre><span class="citation no-link">2017 WL 
+18</span><pre class="inline">   4809750, at *7 (N.D. Cal. Oct. 25, 2017) (quoting Khoury v. Maly’s of California, Inc., </pre><span class="citation no-link">14 Cal. 
+19</span><pre class="inline">   App. 4th 612, 618–19 (1993)).  Mr. Tashjian’s third claim alleges that Planet Home violated each 
+20   of the unfair, unlawful, and fraudulent prongs of the UCL.  See FAC ¶¶ 100–122. 
+21        For purposes of the UCL, “unlawful” business practices are those that are “forbidden by 
+22   law, be it civil or criminal, federal, state, or municipal, statutory, regulatory, or court-made.”  
+23   Saunders v. Super. Ct., </pre><span class="citation" data-id="2296407"><a href="/opinion/2296407/saunders-v-superior-court/#838" aria-description="Citation for case: Saunders v. Superior Court">27 Cal. App. 4th 832, 838</a></span><pre class="inline"> (1999).  “Unfair” practices constitute “conduct 
+24   that threatens an incipient violation of an antitrust law, or violates the policy or spirit of one of 
+25   those laws because its effects are comparable to or the same as a violation of the law, or otherwise 
+26   significantly threatens or harms competition.”  Cal-Tech Commc&#x27;ns, Inc. v. L.A. Cellular Tel. Co., 
+27   </pre><span class="citation" data-id="9567993"><a href="/opinion/1301891/cel-tech-communications-inc-v-los-angeles-cellular-telephone-co/#187" aria-description="Citation for case: Cel-Tech Communications, Inc. v. Los Angeles Cellular...">20 Cal. 4th 163, 187</a></span><pre class="inline"> (1999); see also Ticconi v. Blue Shield of Cal. Life &amp; Health Ins. Co., 160 
+</pre><span class="citation no-link">1   Cal. App. 4th 528</span><pre class="inline">, 539 (2008) (“An ‘unfair’ business practice occurs when that practice ‘offends 
+2   an established public policy or when the practice is immoral, unethical, oppressive, unscrupulous 
+3   or substantially injurious to consumers.”) (citation and internal alterations omitted).  Lastly, a 
+4   “fraudulent” business practice “is one which is likely to deceive the public.”  McKell v. Wash. 
+5   Mut., Inc., </pre><span class="citation multiple-matches"><a href="/c/Cal.%20App.%204th/142/1457/">142 Cal. App. 4th 1457</a></span><pre class="inline">, 1471 (2006) (citations omitted).  The Court addresses each of 
+6   the three prongs in turn.                                             
+7                  a.   Unlawful Conduct Under the UCL                    
+8        Mr. Tashjian’s first UCL claim alleges that Planet Home engaged in unlawful business 
+9   practices by “violat[ing] various state and federal laws, including but not limited to those alleged 
+10   herein,” most concretely by “providing false or misleading information” and “failing to honor 
+11   proper state law mandated foreclosure proceedings.”  FAC ¶ 104; see also id. ¶ 103.  A claim 
+12   under the “unlawful” prong of the UCL “hinges upon whether a plaintiff can formulate a claim 
+13   under the predicate law.”  Eidmann v. Walgreen Co., </pre><span class="citation no-link">522 F. Supp. 3d 634</span><pre class="inline">, 647 (N.D. Cal. 2021) 
+14   (citing Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1094" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1094</a></span><pre class="inline"> (N.D. Cal. 2017)).  Planet Home 
+15   argues that Mr. Tashjian is unable to identify any specific act that violated any particular law, and 
+16   that to the extent this claim is premised on a violation of the FCRA, the HBOR, or a wrongful 
+17   foreclosure, he is unable to establish the predicate violations.  See MSJ 13–14.  Mr. Tashjian 
+18   argues that his claim is “tethered to Defendant’s violation of [Cal.] Civ[.] Code § 2924.17.”  MSJ 
+19   Opp’n 12.                                                             
+20        Because the Court finds that Mr. Tashjian is unable to state a claim for a violation of 
+21   California Civil Code § 2924.17, see infra, at Part IV(B)(6), and that none of his other claims 
+22   survive, this UCL claim must also fail for lack of a predicate violation.  See Eidmann, </pre><span class="citation no-link">522 F. 
+23</span><pre class="inline">   Supp. at 647 (“Thus, if the plaintiff cannot state a claim under the predicate law[,] the UCL claim 
+24   also fails.”) (internal alterations and citation omitted).  The Court will grant summary judgment on 
+25   this claim.                                                           
+26                  b.   Unfair Conduct Under the UCL                      
+27        Mr. Tashjian alleges that Planet Home violated the UCL’s prohibition of unfair business 
+1   practices to the extent Planet Home (1) failed to properly notify Mr. Tashjian of his rights to 
+2   dispute an alleged default per the signed Deed of Trust, California law, and California public 
+3   policy,” FAC ¶ 107; (2) failed to permit him to cure the alleged default in a timely manner, see id.; 
+4   (3) failed to notify and allow Mr. Tashjian to seek legally permissible alternatives to foreclosure, 
+5   id.; (4) subjected Mr. Tashjian to wrongful foreclosure, id.; (5) “failed to record Substitutions of 
+6   Trustee, not only for Plaintiff, but for a large part of the general public, as required by the Deed of 
+7   Trust, California law, and California public policy,” </pre><span class="citation no-link">id. ¶ 108</span><pre class="inline">; (6) failed to notify Mr. Tashjian of 
+8   the acceleration of his debt, </pre><span class="citation no-link">id. ¶ 109</span><pre class="inline">; and (7) unfairly held itself out as having proper authority to 
+9   file publicly recorded documents and foreclose on the Property even though it was not a “lawful 
+10   agent[], beneficiar[y], or trustee[] for the true and legal owner of the [N]ote,” </pre><span class="citation no-link">id. ¶ 110</span><pre class="inline">.  Planet 
+11   Home argues that the undisputed facts require summary judgment on this claim.  See MSJ 14–15.  
+12   Mr. Tashjian counters that he rescinded the Modification Agreement on January 22, 2019, based 
+13   on a mutual mistake, so that Planet Home’s foreclosure enforcement based on a purported default 
+14   under the terms of the Modification Agreement constituted an unfair business practice.  See MSJ 
+15   Opp’n 10–11.                                                          
+16                       i.   Challenged Practices (1), (2), (3), &amp; (6)    
+17        The facts before the Court are as follows.  The prior loan servicer informed Mr. Tashjian of 
+18   the transfer to Planet Home in a letter dated October 23, 2019.  See Iannucci Decl., Exh. 10.  Mr. 
+19   Tashjian states that Planet Home notified him of its status as the new Loan servicer in December 
+20   2019.  See Tashjian Decl. ¶ 14.  Mr. Tashjian does not dispute that Planet Home is the Loan 
+21   servicer.  See FAC ¶ 12; Tashjian Decl. ¶ 5.  On December 26, 2019, Planet Home sent Mr. 
+22   Tashjian a document titled “Notice of Default and Intent to Accelerate” (the “Default Notice”).  
+23   See O’Connell TRO Decl., Exh. 4; Tashjian Decl. ¶ 17.  The Default Notice stated that the Loan 
+24   was in default and due from July 1, 2019, and that curing the default required a payment of 
+25   $292,610.49, to be received by Planet Home on or before January 25, 2020.  See O’Connell TRO 
+26   Decl., Exh. 4, at 1.  The Default Notice further stated that if payment was not timely received, 
+27   Planet Home “may accelerate the maturity date of your note” and the “entire principal balance 
+1   may be declared due without further demand and the noteholder may proceed to foreclosure and 
+2   sell the property in accordance with the terms” of the Loan and applicable law.  </pre><span class="citation no-link">Id.</span><pre class="inline">  The Default 
+3   Notice additionally stated that Mr. Tashjian had “the right to assert in the foreclosure proceeding 
+4   or to bring a court action to assert, the non-existence of a default or any other defense you may 
+5   have to acceleration and sale.”  </pre><span class="citation no-link">Id. at 2</span><pre class="inline">.  Mr. Tashjian does not submit any contradictory evidence.  
+6   As such, the undisputed facts foreclose Mr. Tashjian’s claim for unfair conduct based on the first, 
+7   second, third, and sixth practices listed above.                      
+8                       ii.  Challenged Practices (4), (5), &amp; (7)         
+9        The evidence further shows that the Loan was secured by a Deed of Trust for the Property.  
+10   See Tashjian Decl. ¶ 3.  Pursuant to the Modification Agreement, Mr. Tashjian was responsible for 
+11   monthly payments consisting of both the interest-only payments and an “Estimated Monthly 
+12   Escrow Payment Amount.”  See Mod. Agr. 2.  In executing the Modification Agreement, Mr. 
+13   Tashjian agreed, “I will be in default if I do not comply with the terms of the Loan Documents, as 
+14   modified by this [Modification] Agreement.”  </pre><span class="citation no-link">Id.</span><pre class="inline">  Although Mr. Tashjian argues that Planet Home 
+15   unfairly foreclosed on the Property because the Modification Agreement had been rescinded due 
+16   to mutual mistake, his position fails for multiple reasons.  First, the FAC does not allege the 
+17   rescission as a theory of liability for a violation of the UCL.  See FAC ¶¶ 105–110.  In fact, 
+18   although Mr. Tashjian does allege that the Modification Agreement was rescinded, see </pre><span class="citation no-link">id.</span><pre class="inline"> ¶¶ 38–
+19   40 &amp; Exh. B, there is no allegation anywhere in the FAC as to the theory of mutual mistake.  A 
+20   plaintiff generally may not raise a new theory of liability for the first time in opposition to 
+21   summary judgment.  See, e.g., Lavin v. United Techs. Corp., No. 13–cv–09384, </pre><span class="citation no-link">2015 WL 847392</span><pre class="inline">, 
+22   at *20 (C.D. Cal. Feb. 23, 2015) (citing Patel v. City of Long Beach, </pre><span class="citation" data-id="2657313"><a href="/opinion/2657313/jayantibhai-patel-v-city-of-long-beach/#882" aria-description="Citation for case: Jayantibhai Patel v. City of Long Beach">564 F. App’x 881, 882</a></span><pre class="inline"> (9th 
+23   Cir. 2014)).  Further, even if the Court considers the rescission allegations and Exhibit B to the 
+24   FAC—i.e., the January 22, 2019 letter—to constitute a sufficient basis for the present argument, 
+25   and assuming the letter accomplished a valid rescission, Mr. Tashjian subsequently made seven 
+26   payments in May 2019 pursuant to the terms of the Modification Agreement.  See O’Connell TRO 
+27   Decl. ¶¶ 6–8.  Such conduct ratified the Modification Agreement.  See Monfort v. Adomani, No. 
+1   18-CV-05211, </pre><span class="citation no-link">2019 WL 6311378</span><pre class="inline">, at *6 (N.D. Cal. Nov. 25, 2019) (“Ratification occurs when the 
+2   [] party, ‘with full knowledge of the material facts permitting rescission, has engaged in some 
+3   unequivocal conduct giving rise to a reasonable inference that he or she intended the conduct to 
+4   amount to a ratification.’”) (citation omitted).                      
+5        The evidence additionally shows that the payments demanded by Planet Home only sought 
+6   interest and escrow fees, i.e., Planet Home did not demand payment of any portion of the principal 
+7   amount of the Loan.  See Tashjian Dep. Tr. 257:10–258:17; O’Connell TRO Decl. ¶ 12 &amp; Exh. 3.  
+8   The interest payment on the loan was $17,226.56, and the escrow fee was $5,008.54.  See 
+9   O’Connell TRO Decl., Exh. 3.  Mr. Tashjian tendered a payment of $17,226.56, which was 
+10   rejected.  Tashjian Decl. ¶ 16.  As such, Mr. Tashjian has not made any payments on the Loan 
+11   since May 31, 2019, including since Planet Home became the Loan servicer in November 2019.  
+12   See Iannucci Decl., Exh. 1-A.                                         
+13        Planet Home recorded a Substitution of Trustee on May 18, 2020, see Iannucci Decl., Exh. 
+14   14, and Mr. Tashjian does not dispute its authenticity, see Tashjian Dep. Tr. 247:12–23.  Planet 
+15   Home then recorded a Notice of Default on the Loan on May 21, 2020, see Tashjian Decl. ¶ 7, and 
+16   recorded a signed Notice of Trustee’s sale on September 10, 2020, see Iannucci Decl., Exh. 5.   
+17        Based on the foregoing facts, the Court finds there is no genuine dispute of fact that Planet 
+18   Home did not engage in the fourth, fifth, and seventh unfair practices described above. 
+19                       iii.  Conclusion                                  
+20          In sum, Mr. Tashjian has provided no evidence that Planet Home acted in a manner 
+21   consistent with the concept of unfairness under the UCL, i.e., there is no evidence of immoral, 
+22   unscrupulous, or otherwise unethical behavior on the part of Planet Home.  Accordingly, the Court 
+23   will grant summary judgment on this claim.                            
+24                  c.   Fraudulent Conduct Under the UCL                  
+25        Mr. Tashjian also alleges a violation of the “fraudulent” prong of the UCL, based on 
+26   allegations that Planet Home’s actions—such as “making material misrepresentations or 
+27   omissions, knowingly filing false instruments for the general public to view . . . [and/or] without 
+1   requiring declarations, failing to properly notify Plaintiff of his rights to dispute alleged defaults 
+2   and wrongful foreclosure[,] . . . unlawfully fil[ing] public documents . . . without the authority to 
+3   do so,” FAC ¶¶ 112–113—were undertaken as part of a fraudulent scheme to attempt to “sell 
+4   property in order to profit,” </pre><span class="citation no-link">id. ¶ 114</span><pre class="inline">.  He further alleges that Planet Home’s actions were “likely 
+5   to not only deceive Plaintiff, but [were] likely to deceive the public in general.”  </pre><span class="citation no-link">Id. ¶ 112</span><pre class="inline">.  Planet 
+6   Home argues that Mr. Tashjian does not identify any specific misrepresentation by Planet Home, 
+7   and that no evidence supports this claim.  See MSJ 15–16.  Mr. Tashjian does not address these 
+8   arguments.  See generally MSJ Opp’n.                                  
+9        As described in more detail above, see supra, at Part IV(B)(3)(b), the evidence before the 
+10   Court indicates that Planet Home properly notified Mr. Tashjian of his rights and that Mr. Tashjian 
+11   does not dispute Planet Home’s status as the Loan servicer or the authenticity of the documents 
+12   recorded by Planet Home with respect to the Property.  Mr. Tashjian has provided no evidence to 
+13   the contrary.  Therefore, the Court will grant summary judgment on this claim.   
+14             4.   Claim 4:  FCRA Violation                               
+15        Mr. Tashjian’s fourth claim alleges that Planet Home violated the FCRA by failing to 
+16   conduct a reasonable investigation into the accuracy of the payments due under the Loan 
+17   Documents and thus reporting that the Loan was in default, and by failing to update incomplete or 
+18   inaccurate information it had previously reported to credit reporting agencies.  See FAC ¶¶ 123–
+19   132.  “To state a claim under the FCRA, a plaintiff must show that: (1) he found an inaccuracy in 
+20   his credit report; (2) he notified a credit reporting agency; (3) the credit reporting agency notified 
+21   the furnisher of the information about the dispute; and (4) the furnisher failed to investigate the 
+22   inaccuracies or otherwise failed to comply with the requirements of 15 U.S.C. § 1681s–
+23   2(b)(1)(A)–(E).”  Biggs v. Experian Info. Sols., Inc., </pre><span class="citation" data-id="7239857"><a href="/opinion/7321947/biggs-v-experian-information-solutions-inc/#1144" aria-description="Citation for case: Biggs v. Experian Information Solutions, Inc.">209 F. Supp. 3d 1142, 1144</a></span><pre class="inline"> (N.D. Cal. 2016) 
+24   (citation omitted).  An FCRA violation may be either negligent or willful.  See Moran v. Screening 
+25   Pros, LLC, </pre><span class="citation no-link">25 F.4th 722</span><pre class="inline">, 728 (9th Cir. 2022) (citation omitted).  A negligent violation involves a 
+26   defendant’s objectively unreasonable interpretation of the statute, and a willful violation requires 
+27   either a knowing or reckless violation of a statutory standard.  See </pre><span class="citation no-link">id.</span><pre class="inline"> (citations omitted).  Planet 
+1   Home argues that Mr. Tashjian’s FCRA claim “fails because (1) he has no evidence from which a 
+2   trier of fact could reasonably infer that Planet Home committed a willful or negligent violation of 
+3   the FCRA, and (2) his alleged damages are unrecoverable as a matter of law.”  MSJ 18; see </pre><span class="citation no-link">id.</span><pre class="inline"> at 
+4   16–22.  Mr. Tashjian does not address Planet Home’s arguments as to this claim. 
+5        The undisputed evidence submitted by Planet Home establishes that Mr. Tashjian made 
+6   seven payments pursuant to the terms of the Modification Agreement, after which he failed to 
+7   make any payments on the Loan.  See O’Connell TRO Decl. ¶¶ 6–10.  Planet Home notified Mr. 
+8   Tashjian of his status of default in December 2019, and Mr. Tashjian did not cure the default.  See 
+9   </pre><span class="citation no-link">id.</span><pre class="inline"> ¶¶ 10–13; Tashjian Dep. Tr. 254:15–16.  In August 2020, Mr. Tashjian, through counsel, 
+10   sought documentation from Planet Home regarding its right to attempt to enforce a default or 
+11   foreclosure, and Planet Home responded the next day stating it was reviewing its documents to 
+12   make a thorough response.  See FAC, Exh. C, at 4–5, 10.  To the extent Mr. Tashjian’s declaration 
+13   states otherwise, see, e.g., Tashjian Decl. ¶ 10, it consists of legal conclusions, contradicts his 
+14   sworn testimony, and provides no supporting evidence, and thus does not create a genuine dispute 
+15   of material fact.  See Nilsson v. City of Mesa, </pre><span class="citation" data-id="1218458"><a href="/opinion/1218458/nilsson-v-city-of-mesa/" aria-description="Citation for case: Nilsson v. City of Mesa">503 F.3d 947</a></span><pre class="inline">, 952 n.2 (9th Cir. 2007) (“[A] 
+16   conclusory, self-serving affidavit, lacking detailed facts and any supporting evidence, is 
+17   insufficient to create a genuine issue of material fact.”) (citation omitted); Monfort, </pre><span class="citation no-link">2019 WL 
+18</span><pre class="inline">   6311378, at *7 (“Courts need not consider a new affidavit that contradicts sworn testimony or 
+19   interrogatory answers.”) (citation omitted).                          
+20        The Court accordingly finds that the undisputed facts show that Planet Home’s report of 
+21   Mr. Tashjian’s default was accurate, and that no evidence indicates some other violation of the 
+22   FCRA.  The Court therefore need not and does not address Planet Home’s arguments as to Mr. 
+23   Tashjian’s lack of damages, see MSJ 20–22, and will grant summary judgment on this claim.   
+24             5.   Claims 5 &amp; 6:  Intentional and Negligent Misrepresentation 
+25        Mr. Tashjian’s fifth claim alleges that Planet Home intentionally misrepresented that it was 
+26   a valid servicer of the Loan and valid authority to foreclose on the Property.  See FAC ¶¶ 139–
+27   140; see generally </pre><span class="citation no-link">id.</span><pre class="inline"> ¶¶ 133–160.  His sixth claim alleges that Planet Home made unspecified 
+1   negligent misrepresentations “more fully set forth in the First Cause of Action [for breach of 
+2   contract]” and related to the “unlawful acceleration of debt instrument.”  See </pre><span class="citation no-link">id. ¶¶ 163, 168</span><pre class="inline">; see 
+3   generally </pre><span class="citation no-link">id.</span><pre class="inline"> ¶¶ 161–174.  Planet Home argues that these claims fail because no link exists 
+4   between Planet Home’s attempted foreclosure on the Property and any alleged false 
+5   representation.  See MSJ 22–23.  Mr. Tashjian does not address these arguments. 
+6        As noted above, see supra, at Parts IV(B)(1), IV(B)(3), the undisputed evidence indicates 
+7   that Mr. Tashjian does not have a breach of contract claim against Planet Home, and that Planet 
+8   Home is the valid Loan servicer and followed proper procedures in notifying Mr. Tashjian of his 
+9   default and subsequently attempting to foreclose on the Property.  Mr. Tashjian has provided no 
+10   evidence creating a genuine issue of material fact suggesting any false representation made by 
+11   Planet Home.  Accordingly, the Court will grant summary judgment on the claims for intentional 
+12   and negligent misrepresentation.                                      
+13             6.   Claims 7–8:  HBOR Violations (</pre><span class="citation no-link">Cal. Civ. Code §§ 2923.5</span><pre class="inline">, 2923.55, 
+                            2924.9, &amp; 2924.17)                            
+14                                                                         
+         Mr. Tashjian’s seventh claim alleges that Planet Home violated the HBOR as to California 
+15                                                                         
+    Civil Code §§ 2923.5, 2924.9, and 2924.17, and his eight claim alleges an HBOR violation as to 
+16                                                                         
+    California Civil Code § 2923.55.  See FAC ¶¶ 175–225.  As relevant here, the four challenged 
+17                                                                         
+    sections of the HBOR require servicers, prior to a foreclosure, to timely communicate with the 
+18                                                                         
+    homeowner both prior and subsequent to recording a notice of default, see </pre><span class="citation no-link">Cal. Civil Code §§ 
+19</span><pre class="inline">                                                                         
+    2923.5, 2923.55, 2924.9, and to ensure the accuracy and completeness of all foreclosure 
+20                                                                         
+    documents, see </pre><span class="citation no-link">Cal. Civil Code § 2924.17</span><pre class="inline">.  Planet Home argues that no evidence supports Mr. 
+21                                                                         
+    Tashjian’s claims that it did not comply with the HBOR, including to the extent that the theory of 
+22                                                                         
+    liability is based on the validity of Planet Home’s status as the Loan servicer.  See MSJ 24.  Planet 
+23                                                                         
+    Home further argues that Mr. Tashjian’s claims under the HBOR are effectively moot because 
+24                                                                         
+    Planet Home is statutorily barred from using the September 2020 Notice of Default as the basis for 
+25                                                                         
+    a foreclosure, so that any alleged flaws with the relevant notices are inconsequential.  See </pre><span class="citation no-link">id.</span><pre class="inline"> 
+26                                                                         
+    (citing Cal. Civ. Code § 2924g(c)(2)).  Mr. Tashjian responds only as to § 2924.17, and argues that 
+27                                                                         
+1   Planet Home’s foreclosure notice documents were inaccurate because they were based on a 
+2   purported default under the Modification Agreement, which Mr. Tashjian argues was rescinded.  
+3   See MSJ Opp’n 12–13.                                                  
+4        Mr. Tashjian’s sole argument fails because the Court has found his May 2019 payments 
+5   ratified the Modification Agreement.  See supra, at Part IV(B)(3)(b)(ii).  In considering the 
+6   claimed HBOR violations as a whole, the undisputed evidence before the Court indicates that 
+7   Planet Home was the valid servicer of the Loan and acted in accordance with the requirements of 
+8   the HBOR.  Mr. Tashjian has provided no evidence to the contrary except for his declaration, 
+9   which, as the Court has noted, does not create a genuine dispute of fact because it is full of legal 
+10   conclusions, contradicts Mr. Tashjian’s sworn testimony and the documentary evidence before the 
+11   Court, and is unsupported by any other documentation.  See supra, at Part IV(B)(4) (citing 
+12   Monfort, </pre><span class="citation no-link">2019 WL 6311378</span><pre class="inline">, at *7).  Accordingly, the Court need not reach Planet Home’s 
+13   mootness argument, and will grant summary judgment on these claims.   
+14             7.   Claim 9:  Wrongful Foreclosure                         
+15        Mr. Tashjian’s ninth claim alleges wrongful foreclosure based on the alleged falsity of 
+16   statements in the recorded instruments related to the attempted foreclosure of the Property.  This 
+17   claim is not yet ripe, as a wrongful foreclosure claim cannot be asserted prior to a completed 
+18   trustee’s sale.  See Henard, </pre><span class="citation no-link">2017 WL 4809750</span><pre class="inline">, at *3 (citing cases); see also, e.g., Saterbak v. 
+19   JPMorgan Chase Bank, N.A., </pre><span class="citation" data-id="3177591"><a href="/opinion/3177609/saterbak-v-jp-morgan-chase-bank-ca41/#814" aria-description="Citation for case: Saterbak v. JP Morgan Chase Bank CA4/1">245 Cal. App. 4th 808, 814</a></span><pre class="inline"> (2016) (“California courts do not allow 
+20   such preemptive suits [to prevent a foreclosure sale] because they would result in the 
+21   impermissible interjection of the courts into a nonjudicial scheme enacted by the California 
+22   Legislature.”) (internal quotation marks and citation omitted).  Here, the undisputed facts show 
+23   that the Property has not been sold and that Mr. Tashjian continues to reside therein.  See Iannucci 
+24   Decl. ¶ 4; Tashjian Dep. Tr. 227:23–228:3, 254:4–16.  The Court will therefore grant summary 
+25   judgment on this claim.                                               
+26             8.   Claim 10:  Injunctive Relief                           
+27        Lastly, Mr. Tashjian brings a claim for injunctive relief to preliminarily and permanently 
+    1    enjoin Planet Home from foreclosing on or taking any other action with respect to the Property. 
+    2  || See FAC 4] 238-242.  California law does not permit a standalone claim for injunctive relief.  See, 
+    3    e.g., Ivanoff v. Bank of Am., N.A., </pre><span class="citation" data-id="4152155"><a href="/opinion/4374902/ivanoff-v-bank-of-america-na/#734" aria-description="Citation for case: Ivanoff v. Bank of America, N.A.">9 Cal. App. 5th 719, 734</a></span><pre class="inline"> (2017) (“Injunctive relief is a remedy, 
+    4  || nota cause of action.”).  Accordingly, Mr. Tashjian’s claim for injunctive relief must fail. 
+    5  || V.     ORDER 
+    6          For the foregoing reasons, the Court hereby ORDERS as follows: 
+    7             1.  Planet Home’s motion for summary judgment is GRANTED IN FULL; 
+    8             2.  Planet Home’s motion to exclude the expert reports and testimony of Douglas A. 
+    9                Minor is DENIED AS MOOT; 
+   10             3.  Planet Home’s evidentiary objections are DENIED AS MOOT; and 
+   11             4.  The status conference set for April 4, 2024 regarding trial scheduling for Mr. 
+    12                Tashjian’s case against Planet Home is TERMINATED AS MOOT. 
+
+           IT IS SO ORDERED. 
+ 3    15    Dated: February 26, 2024 
+     16 
+
+                                                   aD. 
+                                                        EDWARD J. DAVILA 
+2    18                                                    United States District Judge 
+   19 
+   20 
+   21 
+   22 
+   23 
+   24 
+   25 
+   26 
+   27 
+   28  || Case No.: 19-cv-01536-EJD 
+        ORDER GRANTING PHL’S MOT. SUMM. J -, DENYING AS MOOT DAUBERT MOT. </pre>

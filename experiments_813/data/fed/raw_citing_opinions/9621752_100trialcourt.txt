@@ -1,0 +1,429 @@
+<pre class="inline">1                     UNITED STATES DISTRICT COURT                           
+2                   SOUTHERN DISTRICT OF CALIFORNIA                          
+3  Aparna VASHISHT-ROTA,                Case No.:  20-cv-0959-AGS-KSC        
+4                             Plaintiff,  ORDER GRANTING IN PART AND         
+                                        DENYING IN PART DEFENDANT’S          
+5  v.                                                                        
+                                        MOTION TO DISMISS (ECF 49),          
+6  OTTAWA UNIVERSITY,                   CLOSING CASE, AND GRANTING           
+                                        LEAVE TO AMEND                       
+7                           Defendant.                                       
+8                                                                            
+9       Plaintiff originally sued Ottawa University for disclosing to her former employer a 
+10  confidential complaint she made about that employer. She amended her complaint to add 
+11  claims that Ottawa helped her former employer harass her. Ottawa moves to dismiss, 
+12  arguing that her new claims are late and that her complaint does not state a claim. 
+13                              BACKGROUND                                    
+14       Plaintiff Dr. Aparna Vashisht-Rota alleges she works in the “niche market” of 
+15  international  student  recruitment  through  “curricular  practical  training”  programs. 
+16  (ECF 48, at 3.) That is, students who “are in between visa classes (student to work)” “enroll 
+17  in these so-called CPT programs that allow a university to issue work authorization at the 
+18  university level while the students await their work visas.” (Id. at 4.) Through her then-
+19  employer  “Main  Agent,”1  Vashisht-Rota  helped  found  a  CPT  program  at  Ottawa 
+20  University. In 2017, after she and Main Agent had a falling out, Main Agent “prohibited 
+21  Plaintiff,” refused to pay her, and sued her. (Id. at 5.)                 
+22       Years later, in November 2019, she filed a “confidential complaint” against Main 
+23  Agent  with  Ethics  Point,  a  third-party  vendor  retained  by  Ottawa  to  process  such 
+24                                                                            
+25                                                                            
+26                                                                            
+        1 In the second amended complaint, Vashisht-Rota repeatedly refers to her employer 
+27  only as “Main Agent,” which does not appear to be that entity’s actual name. (See ECF 52, 
+   at  5  (referring  to  the  employer  as  Howell  Management  Services).)  The  Court  will 
+28                                                                            
+1  grievances. (ECF 25, at 3.) Ethics Point’s website “stresses repeatedly that communication 
+2  is anonymous, confidential, and private.” (Id. at 4.) Nevertheless, an Ottawa employee 
+3  contacted Main Agent and “revealed, without Plaintiff’s permission, her confidential and 
+4  private mental health information” and the content of her complaint. (Id. at 5.) So, she sued 
+5  Ottawa in May 2020, shortly thereafter amending her complaint in August 2020, based on 
+6  breaches of fiduciary duty and privacy, infliction of emotional distress, and negligence. 
+7  (See ECF 1 &amp; 25.)                                                         
+8       After her first amended complaint was dismissed, Vashisht-Rota filed a second 
+9  amended complaint that explained the sensitive content of the Ethics Point grievance: Main 
+10  Agent had not paid her for “two years of work” and subjected her to “harassment,” 
+11  including “grooming” and “unwanted sexual advances.” (ECF 48, at 5, 10.) She claims two 
+12  Ottawa employees—DeWald and Stevens—passed along this information and other secret 
+13  complaints she’d made to Main Agent. (Id. at 6.)                          
+14       Ottawa now seeks to dismiss the second amended complaint. (See ECF 49.) Ottawa 
+15  argues that most of her claims are untimely because the statute of limitations has run, and 
+16  the claims do not relate back. (Id.) In addition, Ottawa contends that the new complaint 
+17  fails to state a claim. (See id.)                                         
+18                               DISCUSSION                                   
+19  A.   Timeliness                                                           
+20       Ottawa asserts that counts 2 to 4 and 7 to 9 are untimely based on their statute of 
+21  limitations. (See ECF 62, at 8, 8 n.2.) “Under California law, a statute of limitations runs 
+22  from the moment a claim accrues.” Wu v. Sunrider Corp., </pre><span class="citation no-link">793 F. App’x 507</span><pre class="inline">, 509 (9th Cir. 
+23  2019).  But  even  “[a]n  otherwise  time-barred  claim  in  an  amended  pleading”  can  be 
+24  “deemed timely if it relates back to the date of a timely original pleading.” ASARCO, LLC 
+25  v. Union Pac. R. Co., </pre><span class="citation" data-id="8413135"><a href="/opinion/8441949/asarco-llc-v-union-pacific-railroad/#1004" aria-description="Citation for case: ASARCO, LLC v. Union Pacific Railroad">765 F.3d 999, 1004</a></span><pre class="inline"> (9th Cir. 2014). A new claim “relates back” if it 
+26  arises “out of the conduct, transaction, or occurrence set out in the original pleading.” Id. 
+27  (cleaned up). The relation-back doctrine, which must be “liberally applied,” looks to 
+28                                                                            
+1  whether the pleadings “share a common core of operative facts so that the adverse party 
+2  has fair notice of the transaction, occurrence, or conduct called into question.” Id. 
+3       1.  Non-Sexual Harassment Claims (Counts 2, 4, 7–9)                  
+4       Most  of  Vashisht-Rota’s  claims  have  two  important  deadlines  for  statute-of-
+5  limitations purposes. First, there is an initial deadline for filing a “verified complaint” with 
+6  the  California  Department  of  Fair  Employment  and  Housing.  See  Cal.  Gov’t  Code 
+7  § 12960(b). Second, after DFEH finishes its investigation and issues a right-to-sue letter, 
+8  “plaintiff may file a lawsuit in court within one year.” Lopez-Rodriguez v. Kern Med. 
+9  Surgery Ctr., LLC, No. 120CV01187ADACDB, </pre><span class="citation no-link">2022 WL 17904540</span><pre class="inline">, at *4 (E.D. Cal. 
+10  Dec. 23, 2022); see also Cal. Gov’t Code § 12965(c)(1)(C).                
+11       Vashisht-Rota claims she filed her complaint with DFEH on “January 5, 2020,” and 
+12  received her right-to-sue letter the same day.2 (See ECF 48, at 2.) She then filed an 
+13  “amended complaint” with DFEH in March 2020, which DFEH “deemed to have the same 
+14  filing date of the original complaint and the original Right to Sue letter dated January 5, 
+15  2020.” (Id.) So, the Court will use the January 5, 2020 date to gauge the timeliness of the 
+16  claims under the Fair Employment and Housing Act and the Unruh Civil Rights Act. 
+17       a.  FEHA (Counts 2 &amp; 4)                                              
+18       At the time of the alleged actions, FEHA had a one-year statute of limitations for 
+19  filing  a  verified  complaint  with  DFEH.  See  Cal.  Gov’t  Code  §  12960(d)  (effective 
+20  January 1, 2018, to December 31, 2019). But starting January 1, 2020, California extended 
+21  that period to three years. See Cal. Gov’t Code § 12960(e) (effective January 1, 2020, to 
+22  December 31, 2021). Although the Act “shall not be interpreted to revive lapsed claims,” 
+23                                                                            
+                                                                             
+24                                                                            
+25       2  The  Court  seriously  doubts  that  DFEH  completed  its  usually  months-long 
+   investigation and issued a right-to-sue letter the very same day Vashisht-Rota filed her 
+26                                                                            
+   complaint with that agency. But at this stage, the Court must accept all facts pleaded in the 
+27  complaint as true, even if they seem unlikely. See Bell Atl. Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#555" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 
+   544, 555</a></span><pre class="inline"> (2007). At any rate, neither party attached the relevant right-to-sue letter—or the 
+28                                                                            
+1  no 2019 claims had yet lapsed on its effective date of January 1, 2020. See A.B. No. 9 § 3, 
+2  2019-20 Sess. (Cal. 2019). Because California’s normal rule is that an enlarged statute of 
+3  limitations applies to claims that have not yet expired, “the current three-year period 
+4  applies to any FEHA claim that accrued . . . on or after January 1, 2019.” Gillespie v. 
+5  Centerra Servs. Int’l, Inc., No. EDCV212028JGBSHKX, </pre><span class="citation no-link">2022 WL 16964007</span><pre class="inline">, at *8 (C.D. 
+6  Cal. Sept. 7, 2022), motion to certify appeal granted, No. EDCV 21-2028 JGB (SHKx), 
+7  </pre><span class="citation no-link">2022 WL 18584762</span><pre class="inline"> (C.D. Cal. Oct. 26, 2022).                               
+8       According to Vashisht-Rota, each of these claims accrued when an Ottawa employee 
+9  “forwarded the messages to the implicated party putting him on notice about Plaintiff[’s] 
+10  complaint which resulted [in] Main Agent doubling the severity of its harassing and 
+11  retaliatory actions against Plaintiff.” (ECF 48, at 8.) It’s unclear whether Vashisht-Rota is 
+12  referring  to  “messages”  she  sent  in  “Jan-Feb  2019”  or  the  complaint  filed  “around 
+13  November 22, 2019.” (See </pre><span class="citation no-link">id.</span><pre class="inline"> at 5–6.) But the earliest accrual date appears to be in January 
+14  2019. In any event, she was well within the three-year period to file her DFEH grievance. 
+15       The next issue is whether she brought her FEHA claims to court within one year of 
+16  receiving DFEH’s right-to-sue letter. That letter was issued on January 5, 2020, and over a 
+17  year later, on January 11, 2021, she filed her second amended complaint, which first 
+18  mentioned her FEHA-related causes of action. (See ECF 48.) So, unless those claims relate 
+19  back to her August 2020 first amended complaint, they are late.           
+20       The relation-back inquiry turns on whether these claims share a “common core of 
+21  operative facts” with the earlier pleading. The first amended complaint involved privacy 
+22  claims arising from an Ottawa employee disclosing Vashisht-Rota’s “confidential” Ethics 
+23  Point report to her former employer. (See ECF 25, at 5–11.) Similarly, in her second 
+24  amended complaint, the basis of Vashisht-Rota’s FEHA claims is that an Ottawa employee 
+25  “forwarded” her complaints to her former employer, who then “doubl[ed] the severity” of 
+26  its harassment towards her. (See ECF 48, at 8.) Although the second amended complaint’s 
+27  FEHA claims are slightly broader that the allegations in the first amended complaint, 
+28  encompassing a few messages before the Ethics Point report, they nonetheless arise from 
+1  the same general “occurrence or transaction” and “share a common core of operative facts.” 
+2  See ASARCO, </pre><span class="citation" data-id="8413135"><a href="/opinion/8441949/asarco-llc-v-union-pacific-railroad/#1004" aria-description="Citation for case: ASARCO, LLC v. Union Pacific Railroad">765 F.3d at 1004</a></span><pre class="inline">. Applying the relation-back doctrine liberally, as this Court 
+3  must, these claims relate back to the August 2020 amended complaint, which was filed the 
+4  same year as the right-to-sue letter. (See ECF 25.) Thus, the request to dismiss the FEHA 
+5  claims as time-barred is denied.                                          
+6       b.  Unruh and Section 51.5 (Counts 7–9)                              
+7       A one-year statute of limitations for alerting DFEH applies to Vashisht-Rota’s 
+8  Unruh Act and California Civil Code § 51.5 claims. See Cal. Gov’t Code § 12960(e); Cal. 
+9  Gov’t Code § 12960(d) (effective Jan. 1, 2018, to December 31, 2019).     
+10       For  count 7,  it  is  impossible  to  determine  from  Vashisht-Rota’s  conclusory 
+11  allegations when Ottawa “fail[ed] to accommodate and discriminated against Plaintiff 
+12  based on Plaintiff’s gender and race.” (See ECF 48, at 15.) Regardless, when a plaintiff 
+13  does not plead enough information to determine the accrual date, the court cannot dismiss 
+14  based on the statute of limitations. See Supermail Cargo, Inc. v. United States, </pre><span class="citation no-link">68 F.3d 
+15</span><pre class="inline">  1204,  1207  (9th  Cir.  1995)  (noting  that  motions  to  dismiss  are  a  disfavored  way  to 
+16  adjudicate timeliness unless “it appears beyond doubt that the plaintiff can prove no set of 
+17  facts that would establish the timeliness of the claim”); see also Ortega v. Santa Clara 
+18  Cnty. Jail, No. 19-17547, </pre><span class="citation no-link">2021 WL 5855066</span><pre class="inline">, at *1 (9th Cir. Dec. 9, 2021) (“Plaintiffs are 
+19  generally not required to plead around affirmative defenses.” (cleaned up)). 
+20       But counts 8 and 9 are a different matter. Both arise from the November 2019 Ethics 
+21  Point report. So, when Vashisht-Rota filed her DFEH complaint a couple months later on 
+22  January 5, 2020, she was well within the one-year deadline for complaining to DFEH. And, 
+23  like the FEHA-only claims discussed earlier, the relation-back doctrine brings these counts 
+24  within the one-year court-filing deadline. So, the timeliness attack fails here, too. 
+25       2.  Sexual Harassment (Count 3)                                      
+26       A  two-year  statute  of  limitations  applies  for  normal  California  Civil  Code 
+27  section 51.9 sexual-harassment claims. See W. Shield Investigations &amp; Sec. Consultants v. 
+28  Super. Ct., </pre><span class="citation" data-id="2268011"><a href="/opinion/2268011/west-shield-investigations-security-consultants-v-superior-court/#624" aria-description="Citation for case: West Shield Investigations &amp; Security Consultants v....">98 Cal. Rptr. 2d 612, 624</a></span><pre class="inline"> (Cal. 2000) (holding that section 51.9 claims use the 
+1  “limitations  period  for  personal  injury  actions”);  Avalos  v.  Kirchen-Rolph,  No. 
+2  121CV00084CDBPC, </pre><span class="citation no-link">2023 WL 5935698</span><pre class="inline">, at *4 (E.D. Cal. Sept. 12, 2023) (noting the 
+3  two-year “statute of limitations for personal injury claims” (citing Cal. Civ. Proc. Code 
+4  § 335.1)). But Vashisht-Rota doesn’t bring a standard section 51.9 claim. That is, she 
+5  doesn’t contend that Ottawa made sexual advances or the like, but instead that it “aid[ed] 
+6  and abett[ed]” Main Agent’s sexual harassment of her. (ECF 48, at 9.) Section 51.9 does 
+7  not mention aider-or-abettor liability. But FEHA does. See Cal. Gov’t Code § 12940(i) 
+8  (prohibiting “aid[ing]” or “abet[ting]” sexual harassment).               
+9       Either  way,  the  sexual-harassment  claim  is  timely.  Vashisht-Rota  reported  this 
+10  harassment  to  Ottawa  in  November 2019,  and  she  brought  this  claim  in  her  second 
+11  amended  complaint  over  a  year  later  in  January 2021.  This  falls  within  the  standard 
+12  two-year deadline for section 51.9 claims. But even if the FEHA limitations period applies, 
+13  this claim would relate back in the same manner discussed earlier.        
+14       Therefore, based on the current evidence, Vashisht-Rota’s claims are all timely. 
+15  B.   Motion to Dismiss for Failing to State a Claim                       
+16       To survive a motion to dismiss, a complaint must contain enough facts to “state a 
+17  claim to relief that is plausible on its face.” Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662, 678</a></span><pre class="inline"> (2009); 
+18  see also Fed. R. Civ. P. 12(b)(6). Facial plausibility requires more than mere “conclusions” 
+19  or a “formulaic recitation” of elements; it must be based on “factual allegations” that “raise 
+20  a right to relief above the speculative level.” Bell Atl. Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544</a></span><pre class="inline">, 555 
+21  (2007) (cleaned up).                                                      
+22       1.  Vicarious Liability for Negligence (Count 1)                     
+23       In count 1, Vashisht-Rota generally alleges that Ottawa is vicariously liable for 
+24  “Main Agent’s negligence,” on an agency theory. (ECF 48, at 7.) She also claims that 
+25  Ottawa is responsible for the actions of its employees, DeWald and Stevens, who failed to 
+26  “appropriately handle protected activity by a minority woman” and who “shared private 
+27  information with the implicated party,” respectively. (Id.) Ottawa responds that there are 
+28                                                                            
+1  insufficient allegations that it is in an agency relationship with Main Agent or these 
+2  employees. Moreover, it argues that there are no plausible negligence allegations. 
+3       a.  Agency Relationship                                              
+4       Vicarious  liability  or  “respondeat  superior”  imposes  liability  on  a  “principal” 
+5  (typically an employer) for the actions of its “agents” (typically employees). Jones v. Royal 
+6  Admin. Servs., Inc., </pre><span class="citation" data-id="9015724"><a href="/opinion/9022499/jones-v-royal-admin-servs-inc/#450" aria-description="Citation for case: Jones v. Royal Admin. Servs., Inc.">887 F.3d 443, 450</a></span><pre class="inline"> (9th Cir. 2018). “In determining whether vicarious 
+7  liability may be imposed, the extent of control exercised by the principal is the essential 
+8  ingredient.” </pre><span class="citation" data-id="9015724"><a href="/opinion/9022499/jones-v-royal-admin-servs-inc/" aria-description="Citation for case: Jones v. Royal Admin. Servs., Inc.">Id.</a></span><pre class="inline"> (cleaned up). To prove that Ottawa exercises that level of control over Main 
+9  Agent, Vashisht-Rota points to the following allegations:                 
+10       Defendant  has  delegated  the  Main  Agent  [to]  act  . . .  on  its  behalf  for 
+        international recruitment. Defendant controls the activities of the Main Agent 
+11                                                                            
+        with  respect  to  Defendant’s  recruitment  due  to  US  immigration  laws. 
+12       Defendant decides recruitment and admissions policies that the Main Agent 
+        has to follow. Defendant has the right to control the activities of the alleged 
+13                                                                            
+        Main Agent and controls the Main Agent.                              
+14                                                                            
+   (ECF 48, at 4.)                                                           
+15                                                                            
+        The problem is that this critical paragraph is entirely conclusory, save the assertion 
+16                                                                            
+   that Ottawa “decides recruitment and admissions policies” that Main Agent must “follow.” 
+17                                                                            
+   But that lone factual allegation is not enough to push the complaint beyond the speculative. 
+18                                                                            
+   Vashisht-Rota must do more than establish that Ottawa has “some control” over Main 
+19                                                                            
+   Agent, and even setting unrelated “guidelines and procedures” is not enough to trigger 
+20                                                                            
+   vicarious liability. See Jones, </pre><span class="citation" data-id="9015724"><a href="/opinion/9022499/jones-v-royal-admin-servs-inc/#451" aria-description="Citation for case: Jones v. Royal Admin. Servs., Inc.">887 F.3d at 451</a></span><pre class="inline">. In short, there is nothing in the complaint to 
+21                                                                            
+   plausibly suggest Ottawa is vicariously liable for Main Agent’s employment actions or 
+22                                                                            
+   decisions. See Vashisht-Rota v. Harrisburg Univ., No. 3:20-cv-00967-RBM-KSC, 2023 
+</pre><span class="citation no-link">23                                                                            
+   WL 35216</span><pre class="inline">, at *8 (S.D. Cal. Jan. 4, 2023) (finding implausible Vashisht-Rota’s similar 
+24                                                                            
+   allegations linking Harrisburg University and Main Agent).                
+25                                                                            
+        DeWald and Stephens are another matter, however. Vashisht-Rota alleges they are 
+26                                                                            
+   Ottawa’s direct employees, and she even provides their titles: “supervisor for international 
+27                                                                            
+   recruitment” and “supervisor for compliance.” (ECF 48, at 7.) She also asserts that they 
+28                                                                            
+1  received details of complaints about a university contractor—which presumably are only 
+2  available to university employees—and then passed those details on to Main Agent. (See 
+3  id.) These facts plausibly allege that DeWald and Stephens were Ottawa’s employees and 
+4  “acting within the scope of [their] employment” when they engaged in the criticized 
+5  conduct. See Lee v. Bank of Am., N.A., No. 21-CV-07231-JSC, </pre><span class="citation no-link">2022 WL 595877</span><pre class="inline">, at *6 
+6  (N.D. Cal. Feb. 28, 2022).                                                
+7       b.  Negligence                                                       
+8       Even if Ottawa is responsible for DeWald and Stephens’s actions, Ottawa objects 
+9  that it had no duty to Vashisht-Rota that they could have violated. To plausibly allege 
+10  negligence, plaintiffs must establish that “defendant had a duty to use due care, that he 
+11  breached that duty, and that the breach was the proximate or legal cause of the resulting 
+12  injury.”  See Brown v. USA Taekwondo, </pre><span class="citation no-link">483 P.3d 159</span><pre class="inline">, 164 (Cal. 2021) (emphasis added).  
+13       In Count 1, Vashisht-Rota fails to explain what duty DeWald, Stephens, or Ottawa 
+14  owed her. There is no evidence that Ottawa ever employed her. Several years before this 
+15  lawsuit, she worked for an Ottawa contractor, but she doesn’t offer any explanation for 
+16  how a past relationship with another business created any duty for Ottawa. Although 
+17  Ottawa spent several pages arguing this point (see ECF 49-1, at 19–22), Vashisht-Rota 
+18  didn’t respond to it at all. (See generally ECF 52.) The closest she comes to any rebuttal is 
+19  in the “Factual Background” section of her opposition brief. There she lays out in more 
+20  detail3 the contact with DeWald and Stephens and then simply declares, without citation, 
+21                                                                            
+                                                                             
+22                                                                            
+23       3 The Court has not considered these new details or the many documents attached to 
+   Vashisht-Rota’s responsive papers, as the second amended complaint must be judged on 
+24                                                                            
+   its own merits without supplementation. “As a general rule, a district court may not 
+25  consider any material beyond the pleadings in ruling on a Rule 12(b)(6) motion.” Lee v. 
+   City of L.A., </pre><span class="citation" data-id="773312"><a href="/opinion/773312/mary-sanders-lee-individually-and-as-the-conservator-for-the-estate-of/#688" aria-description="Citation for case: Mary Sanders Lee, Individually and as the Conservator for...">250 F.3d 668, 688</a></span><pre class="inline"> (9th Cir. 2001) (cleaned up). The Court already explained 
+26                                                                            
+   this legal principle once to Vashisht-Rota in a related case. See Vashisht-Rota, </pre><span class="citation no-link">2023 WL 
+27</span><pre class="inline">  35216,  at  *3.  Similarly,  defendant’s  request  to  take  judicial  notice  of  15 exhibits  is 
+   DENIED. (See generally ECF 49-2.) To adjudicate the pending motion to dismiss, the 
+28                                                                            
+1  that Ottawa violated its “duty.” (Id. at 6–7.) “In most circumstances, failure to respond in 
+2  an opposition brief to an argument put forward in an opening brief constitutes waiver or 
+3  abandonment in regard to the uncontested issue.” Beaver v. Omni Hotels Mgmt. Corp., No. 
+4  20-CV-00191-AJB-KSC, </pre><span class="citation no-link">2021 WL 1174719</span><pre class="inline">, at *9 (S.D. Cal. Mar. 29, 2021). Because 
+5  Vashisht-Rota’s second amended complaint does not allege any violated duty that could 
+6  support a negligence claim—and her brief ignores the issue—the Court grants the motion 
+7  to dismiss Count 1 in its entirety.                                       
+8       2.  FEHA (Counts 2–4)                                                
+9       Ottawa  moves  to  dismiss  the  FEHA  claims  on  the  grounds  that  it  was  not 
+10  Vashisht-Rota’s boss and she has not plausibly alleged harassment or retaliation. 
+11       a.  Employer                                                         
+12       First, Ottawa contends that it “was not Plaintiff’s employer as defined under FEHA.” 
+13  (ECF 49-1, at 25.) In fact, the second amended complaint explicitly states that “Main 
+14  Agent”—not Ottawa—was Vashisht-Rota’s “former employer.” (ECF 48, at 3.)  
+15       But  this  is  not  a  basic  employment-discrimination  case,  which  may  “only”  be 
+16  brought against “an employer.” See Reno v. Baird, </pre><span class="citation" data-id="9849187"><a href="/opinion/1275413/reno-v-baird/#1335" aria-description="Citation for case: Reno v. Baird">957 P.2d 1333, 1335</a></span><pre class="inline"> (Cal. 1998). 
+17  Rather, Vashisht-Rota alleges claims that reach a broader array of defendants. Under 
+18  FEHA, non-employers may be liable for retaliation (count 2), harassment (count 3), and 
+19  aiding and abetting (count 4). See Cal Gov’t Code § 12940(h) (forbidding retaliation by 
+20  “any employer, labor organization, employment agency, or person” (emphasis added)); id. 
+21  § 12940(i) (forbidding “any person to aid” or “abet” “any of the acts forbidden under this 
+22  part” (emphasis added)); id. § 12940(j)(1) (forbidding harassment by an “employer . . . or 
+23  any other person” (emphasis added)); see also id. § 12925 (defining “Person” broadly to 
+24  include “individuals, partnerships, associations, corporations, limited liability companies, 
+25  legal representatives, trustees, trustees in bankruptcy, and receivers or other fiduciaries”); 
+26  Reno, </pre><span class="citation" data-id="9849187"><a href="/opinion/1275413/reno-v-baird/#1335" aria-description="Citation for case: Reno v. Baird">957 P.2d at 1335</a></span><pre class="inline"> (explaining that FEHA treats discrimination and harassment 
+27  “differently,” as “only ‘an employer’” can be sued for discrimination, but “an employer 
+28  . . . or any other person” may be liable for harassing an employee” (emphasis added)). 
+1       So, Vashisht-Rota need not allege that Ottawa was her employer for counts 2 to 4. 
+2       b.  Harassment and Retaliation                                       
+3       Next, Ottawa protests that Vashisht-Rota fails to plausibly plead she faced either 
+4  harassment or retaliation. In each of counts 2 through 4, she alleges that Main Agent 
+5  harassed her and that Ottawa, in various ways, bolstered or aided that harassment in 
+6  retaliation for her complaint. (See ECF 48, at 8 (Count 2: “[Ottawa’s employee] forwarded 
+7  the messages to the implicated party putting him on notice about Plaintiff[’s] complaint 
+8  which resulted [in] Main Agent doubling the severity of its harassing and retaliatory actions 
+9  against Plaintiff.”); id. at 10 (Count 3: “Main Agent made unwelcome sexual advances 
+10  towards Plaintiff,” and Ottawa “aided [the] harassment and abuse of power by Main 
+11  Agent.”); id. at 12 (Count 4: “Defendant knew and should have known of the conduct given 
+12  the complaints and failed to take immediate and corrective action.”).)    
+13       The problem with Vashisht-Rota’s factual allegations is that they are devoid of 
+14  details about the harassment’s severity. The second amended complaint instead simply—
+15  and repeatedly—declares it severe and pervasive. (See, e.g., id. at 5 (“Plaintiff alleges she 
+16  faced harassment.”); id. at 11 (“Plaintiff alleges that a reasonable person in Plaintiff’s 
+17  circumstances would have considered the environment with the Defendant and the Main 
+18  Agent hostile, intimidating, abusive, oppressive, coercive, and offensive.”); id. at 12 (“The 
+19  harassment is severe and pervasive lasting 5 years.”).) That will not do. These are mere 
+20  “conclusions” or “formulaic recitation[s]” of elements, which are insufficient to state a 
+21  claim. See Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#555" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. at 555</a></span><pre class="inline">. Thus, counts 2 to 4 must also be dismissed. 
+22       3.  Unfair Competition (Count 5)                                     
+23       Vashisht-Rota’s Unfair Competition Law claim also falls, as it is derivative of other 
+24  claims that are now dismissed. California prohibits unfair competition by means of “any 
+25  unlawful, unfair or fraudulent business act or practice.” </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline"> 
+26  (emphasis added). “Because the statute is written in the disjunctive, it is violated where a 
+27  defendant’s act or practice violates any of the foregoing prongs.” Davis v. HSBC Bank 
+28  Nevada, N.A., </pre><span class="citation" data-id="807798"><a href="/opinion/807798/gary-davis-v-hsbc-bank-nevada-na/#1168" aria-description="Citation for case: Gary Davis v. Hsbc Bank Nevada, N.A.">691 F.3d 1152, 1168</a></span><pre class="inline"> (9th Cir. 2012). Vashisht-Rota contends that she meets 
+1  the “unlawful” prong with allegations of “retaliating,” “aiding and abetting harassment,” 
+2  and  “failing  to  prevent  harassment.”  (ECF  48,  at  12.)  In  other  words,  she  links  her 
+3  “unlawful prong” proof to counts 2 to 4. Since those predicate FEHA claims are dismissed 
+4  for failing to state a claim, her Unfair Competition Law claim must meet the same fate. See 
+5  Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1094" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1094</a></span><pre class="inline"> (N.D. Cal. 2017). 
+6       4.  Cartwright Act (Count 6)                                         
+7       Ottawa also attacks Vashisht-Rota’s Cartwright Act claim. In count 6, she asserts 
+8  that  Ottawa  and  others  “agreed  to  boycott  Plaintiff  with  the  purpose  to  restrain[] 
+9  competition and to ‘block her.’” (ECF 48, at 13.) Such a restraint-of-trade claim “must 
+10  allege (1) the formation and operation of the conspiracy, (2) the wrongful act or acts done 
+11  pursuant thereto, and (3) the damage resulting from such act or acts.” Kunert v. Mission 
+12  Fin. Servs. Corp., </pre><span class="citation" data-id="2273513"><a href="/opinion/2273513/kunert-v-mission-financial-services-corp/" aria-description="Citation for case: Kunert v. MISSION FINANCIAL SERVICES CORP.">1 Cal. Rptr. 3d 589</a></span><pre class="inline">, 605 n.15 (Ct. App. 2003). The pleading of such 
+13  violations “demands a high degree of particularity.” Starlight Cinemas v. Regal Ent. Grp., 
+14  No. CV 14-5463-R, </pre><span class="citation no-link">2014 WL 7781018</span><pre class="inline">, *1 (C.D. Cal. Oct. 23, 2014). “General allegations 
+15  of a conspiracy unaccompanied by a statement of facts constituting the conspiracy and 
+16  explaining its objectives and impact in restraint of trade will not suffice.” </pre><span class="citation no-link">Id.</span><pre class="inline"> 
+17       Other than conclusory allegations, however, Vashisht-Rota has not described any 
+18  conspiracy—or any agreement whatsoever—involving Ottawa. She offers some vague 
+19  assertions about how Main Agent restricted her trade by requiring her to get “approvals” 
+20  from it (ECF 48, at 14), but she never sufficiently alleges that Ottawa agreed with Main 
+21  Agent to do so. (See generally ECF 48, at 13–14.) This same failing was identified in one 
+22  of Vashisht-Rota’s related cases, and the criticism remains just as valid here: The operative 
+23  complaint  “merely  contains  a  conclusory  allegation  that  Defendant  and  Main  Agent 
+24  ‘agreed to boycott Plaintiff with the purpose to restrain[] competition and to block her.’ 
+25  The [complaint] offers no details as to a specific time, place, or person involved in how 
+26  Defendant allegedly ‘agreed to boycott Plaintiff.’ [It] therefore insufficiently shows the 
+27  formation and operation of a conspiracy.” Vashisht-Rota, </pre><span class="citation no-link">2023 WL 35216</span><pre class="inline">, at *7 (cleaned 
+28  up). Count 6 cannot stand.                                                
+1       5.  Unruh Civil Rights Act (Counts 7 &amp; 9)                            
+2       In counts 7 and 9, Vashisht-Rota alleges violations of the Unruh Civil Rights Act 
+3  (California  Civil  Code  section  51),  but  this  law  “has  no  application  to  employment 
+4  discrimination” or any other issue in this case. See Brennon B. v. Super. Ct., </pre><span class="citation no-link">513 P.3d 971</span><pre class="inline">, 
+5  988 (Cal. 2022). This statute is exclusively concerned with non-discriminatory access to 
+6  California businesses by that business’s “clients, patrons or customers.” Alcorn v. Anbro 
+7  Eng’g,  Inc.,  </pre><span class="citation multiple-matches"><a href="/c/P.2d/468/216/">468  P.2d  216</a></span><pre class="inline">,  220  (Cal.  1970).  It  cannot  serve  as  the  basis  for  an 
+8  employment-discrimination  claim,  as  that  “would  create  an  end-run  around  the 
+9  administrative procedures of FEHA.” Bass v. Cty. of Butte, </pre><span class="citation multiple-matches"><a href="/c/F.3d/458/978/">458 F.3d 978</a></span><pre class="inline">, 982 (9th Cir. 
+10  2006). Counts 7 and 9 are dismissed.4                                     
+11       6.  Civil Code Section 51.5 (Count 8)                                
+12       In count 8, Vashisht-Rota alleges a violation of California Civil Code section 51.5 
+13  that seems to be missing any allegations regarding the essential element of “intentional 
+14  discrimination.” See Long v. Playboy Enters. Int’l, Inc., </pre><span class="citation" data-id="2657873"><a href="/opinion/2657873/long-v-playboy-enterprises-international-inc/#647" aria-description="Citation for case: Long v. Playboy Enterprises International, Inc.">565 F. App’x 646, 647</a></span><pre class="inline"> (9th Cir. 
+15  2014). Section 51.5 requires, in pertinent part, that “no business establishment of any kind 
+16  whatsoever shall discriminate against, boycott or blacklist . . . any person in this state on 
+17  account of [gender].” </pre><span class="citation no-link">Cal. Civ. Code § 51.5</span><pre class="inline">(a). Although Vashisht-Rota insists that Ottawa 
+18  has a gender animus, her allegations are conclusory. (See ECF 48, at 16 (“Based on 
+19  stereotypes and personal biases, Defendant created a harassment reporting policy that 
+20  treated Plaintiff less favorably than others.”).)                         
+21       The nearest she comes to addressing this element is claiming that Ottawa treated her 
+22  differently than Main Agent. Specifically, she charges that, based “on misogyny” and 
+23  “gender roles,” Ottawa “failed to implement the same harassment policy for the Main 
+24  Agent.” (ECF 48, at 17.) But that’s not an apples-to-apples comparison. She has not alleged 
+25                                                                            
+                                                                             
+26                                                                            
+27       4  In  count  7,  Vashisht-Rota  also  references  a  FEHA  provision:  California 
+   Government Code section 12948. To the extent she intends this as a FEHA claim, it is 
+28                                                                            
+1  that  Main  Agent—or  any  other  male  individual—used  the  Ethics  Point  complaint 
+2  procedure as she had, but was treated differently. Comparator allegations can establish the 
+3  necessary discriminatory motive, but those comparators must be “similarly situated” to 
+4  plaintiff “in all material respects.” Moran v. Selig, </pre><span class="citation" data-id="794296"><a href="/opinion/794296/moran-v-selig/#755" aria-description="Citation for case: Moran v. Selig">447 F.3d 748, 755</a></span><pre class="inline"> (9th Cir. 2006). Since 
+5  Main Agent never utilized the complaint structure, it is not similarly situated to Vashisht-
+6  Rota in this most crucial respect. And so that lone allegation doesn’t move the needle 
+7  towards plausibility, and count 8 fails, too.                             
+8  C.   Leave to Amend                                                       
+9       Courts  should  not  dismiss  complaints  by  unrepresented  plaintiffs,  like 
+10  Vashisht-Rota, without offering them at least one opportunity to remedy identified defects, 
+11  “unless it is absolutely clear that the deficiencies of the complaint could not be cured by 
+12  amendment.” Akhtar v. Mesa, </pre><span class="citation" data-id="811260"><a href="/opinion/811260/javiad-akhtar-v-j-mesa/#1212" aria-description="Citation for case: Javiad Akhtar v. J. Mesa">698 F.3d 1202, 1212</a></span><pre class="inline"> (9th Cir. 2012). Vashisht-Rota has 
+13  already amended her complaint twice, and she even benefitted from a judicial critique of 
+14  the deficiencies in her prior complaint. (See ECF 38.) Nonetheless, in an abundance of 
+15  caution,  the  Court  will  offer  Vashisht-Rota  one  last  opportunity  to  cure  the  defects 
+16  identified above. If Vashisht-Rota’s next amended complaint is also dismissed for failure 
+17  to state a claim, the Court would plan to dismiss her case with prejudice. 
+18                              CONCLUSION                                    
+19       Defendants’ motion to dismiss is GRANTED IN PART and DENIED IN PART. 
+20  By November 6, 2023, Vashisht-Rota may file a third amended complaint addressing the 
+21  deficiencies discussed in this order. Vashisht-Rota may not add new defendants nor new 
+22  causes of action to any such amended complaint; she may only add facts that address the 
+23  defects identified above. Any such amended complaint “must be complete in itself without 
+24  reference to” any prior complaints, see S.D. Cal. CivLR 15.1, and any claim not realleged 
+25  in the third amended complaint will be considered waived, see Lacey v. Maricopa Cty., 
+26  </pre><span class="citation" data-id="9501261"><a href="/opinion/807646/michael-lacey-v-joseph-arpaio/#928" aria-description="Citation for case: Michael Lacey v. Joseph Arpaio">693 F.3d 896, 928</a></span><pre class="inline"> (9th Cir. 2012).                                        
+27       The Clerk is directed to close this case. If Vashisht-Rota files an amended complaint 
+28  by the deadline, the Clerk will reopen the case. If Vashisht-Rota affirmatively notifies the 
+1    Court that she will not amend, the  Clerk may promptly issue a judgment.  Otherwise,  if 
+2 || Vashisht-Rota  has  not  filed  a  new  complaint  by  the  deadline,  the  Clerk  will  issue  a 
+3   ||judgment on November 7, 2023. 
+4   ||Dated:  September 22, 2023 
+
+6                                          Hon.     rew G. Schopler 
+,                                          United States District Judge 
+
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+                                             14 </pre>

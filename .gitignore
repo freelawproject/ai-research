@@ -12,3 +12,12 @@ experiments_701/bankruptcy/data/raw_citing_opinions/
 experiments_718/scotus_dockets/
 experiments_718/data/cl_lower_courts/
 experiments_819/data/raw_citing_opinions/
+experiments_826/cl_courts/
+experiments_826/ap08on.txt
+experiments_826/ap71to07.txt
+experiments_826/circuits_no_docket_match.csv
+experiments_826/cl_circuits_clean.csv
+experiments_826/cl_circuits.csv
+experiments_826/fjc_cl_circuit_merged.csv
+experiments_826/fjc_cleaned.csv
+experiments_826/manual_docket_reviews.csv

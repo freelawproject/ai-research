@@ -96,7 +96,3 @@ def extract_with_llm(
                 logging.error(f"Error processing batch {batch_idx}: {e}")
 
     return raw_output, parsed_output
-
-# parsed_output = [{"001": ["80", "184"], "002": ["940, Misc."]}, {"003": ["11850"]}]
-
-# batches = [[{'1003': 'Nos. 1, 2, 3, and 11 Originals'}, {'1004': 'Nos. 87, 88'}]]

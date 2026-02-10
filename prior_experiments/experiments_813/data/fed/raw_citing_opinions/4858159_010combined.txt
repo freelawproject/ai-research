@@ -1,0 +1,2406 @@
+<pre class="inline">        USCA11 Case: 19-10676     Date Filed: 02/22/2021   Page: 1 of 51
+
+
+
+                                                                      [PUBLISH]
+
+
+
+              IN THE UNITED STATES COURT OF APPEALS
+
+                       FOR THE ELEVENTH CIRCUIT
+                         ________________________
+
+                               No. 19-10676
+                         ________________________
+
+                   D.C. Docket No. 9:18-cr-80122-DMM-1
+
+
+
+UNITED STATES OF AMERICA,
+
+                                                                Plaintiff-Appellee,
+
+
+                                    versus
+
+
+ARMAN ABOVYAN,
+
+                                                           Defendant-Appellant.
+
+                         ________________________
+
+                 Appeal from the United States District Court
+                     for the Southern District of Florida
+                       ________________________
+
+                             (February 22, 2021)
+
+Before WILLIAM PRYOR, Chief Judge, HULL and MARCUS, Circuit Judges.
+
+HULL, Circuit Judge:
+
+     After a jury trial, Arman Abovyan appeals his convictions and sentences for
+           USCA11 Case: 19-10676          Date Filed: 02/22/2021      Page: 2 of 51
+
+
+
+conspiring to commit healthcare fraud, conspiring to possess with intent to
+
+dispense controlled substances, and seven counts of unlawfully dispensing a
+
+controlled substance. On appeal, he argues that insufficient evidence supported his
+
+convictions, the jury instructions were improper, and his sentences were
+
+improperly calculated. After review, and with the benefit of oral argument, we
+
+affirm Abovyan’s convictions and sentences.
+
+                            I. FACTUAL BACKGROUND
+
+       This healthcare fraud conspiracy was orchestrated by Kenneth Chatman, a
+
+convicted felon with no medical training. Chatman owned and operated two
+
+substance-abuse treatment centers, Reflections Treatment Center (“Reflections”)
+
+and Journey to Recovery (“Journey”), in South Florida.1 The Facilities offered
+
+various levels of outpatient substance-abuse treatment for individuals suffering
+
+from drug and alcohol addiction, some of whom resided at separate “sober homes”
+
+and “halfway houses.” 2
+
+       The defendant Arman Abovyan was a primary-care physician, board-
+
+certified in internal medicine, with a private medical practice. Although Abovyan
+
+
+
+       1
+         When we refer to Reflections and Journey collectively, we use the term “Facilities.” On
+paper, Chatman’s wife owned the Facilities because Chatman was a convicted felon. But in
+reality, Chatman was the true owner and operator.
+       2
+         At trial, the terms “sober homes” and “halfway houses” were used for residences for
+patients attending outpatient drug treatment.
+
+
+
+                                               2
+           USCA11 Case: 19-10676          Date Filed: 02/22/2021      Page: 3 of 51
+
+
+
+had no prior experience in substance-abuse medicine, Chatman recruited him to be
+
+the medical director of the Facilities.
+
+       In July 2016, Abovyan became medical director of Reflections and of
+
+Journey when it opened in October 2016. As medical director, Abovyan’s duties
+
+included providing substance-abuse treatment, authorizing and ordering drug
+
+testing, and prescribing drug-treatment medication. Abovyan’s employment
+
+contract specified that he would work around 18.5 hours per week and be paid
+
+$11,000 per month. In practice, Abovyan was present at the Facilities only about
+
+nine hours per week or less. Abovyan remained the Facilities’ medical director
+
+until federal authorities executed search warrants and shut them down in December
+
+2016. Below, we describe the healthcare fraud scheme and Abovyan’s role in it.
+
+A. The Healthcare Fraud Scheme
+
+       Chatman’s healthcare fraud scheme involved over 20 individuals. 3 Chatman
+
+paid kickbacks to the owners of sober homes and halfway houses in exchange for
+
+them sending their patients to the Facilities for treatment and drug testing.
+
+       For example, Anthony Jackson testified that he met Chatman around August
+
+
+
+
+       3
+        Before Abovyan’s trial, Chatman pled guilty to conspiring to commit healthcare fraud,
+conspiring to commit money laundering, and conspiring to commit sex trafficking and was
+sentenced to imprisonment terms of 120 months on the healthcare fraud conspiracy, 240 months
+on the money laundering conspiracy, and 330 months on the sex trafficking conspiracy, all to run
+concurrent.
+
+
+
+                                               3
+           USCA11 Case: 19-10676         Date Filed: 02/22/2021      Page: 4 of 51
+
+
+
+2015, when Jackson owned a sober home. 4 Most of Jackson’s residents had
+
+insurance. Chatman paid Jackson to send his sober home residents to attend
+
+Reflections for treatment and testing. Jackson later became program director at
+
+Reflections.
+
+       Chatman required his employees at the Facilities to collect urine and saliva
+
+from their patients three times per week and send them for drug testing to specific
+
+toxicology labs, including Smart Lab and Ally Clinical Diagnostics (“Ally”). The
+
+labs charged thousands of dollars per specimen tested, for which the labs billed the
+
+Facilities’ patients’ insurance. In return, Chatman received kickbacks for sending
+
+specimens to Smart Lab and Ally for testing.
+
+       For example, from the summer of 2016 until 2017, Bosco Vega was a sales
+
+representative for Smart Lab. Its CEO was Hawkeye Wayne. Vega testified that
+
+the more testing he procured for Smart Lab, the more he was paid in commissions
+
+and the more kickbacks Chatman received. Vega had an arrangement with
+
+Chatman and Wayne, whereby Vega gave Chatman half of his net commissions as
+
+a kickback on all urine testing Reflections ordered from Smart Lab through Vega.5
+
+During Vega’s time as a Smart Lab sales rep, he paid Chatman kickbacks of
+
+
+       4
+       Before Abovyan’s trial, Jackson pled guilty to conspiring to commit healthcare fraud
+and was sentenced to 42 months’ imprisonment.
+       5
+        Before Abovyan’s trial, Vega pled guilty to money laundering but had not been
+sentenced.
+
+
+
+                                              4
+           USCA11 Case: 19-10676          Date Filed: 02/22/2021      Page: 5 of 51
+
+
+
+approximately $40,000 in cash. Vega also was paid between $10,000 and $20,000
+
+per month to “oversee[]” the organization and transportation of samples to Smart
+
+Lab.
+
+       Similarly, Stefan Gatt worked for Ally as a medical sales representative.
+
+Gatt testified that, starting in February 2016, he paid Chatman kickbacks to use
+
+Ally for saliva testing.6 Gatt was a partial owner of Journey with Chatman. Gatt
+
+admitted that he oversaw the urine and saliva testing that both Smart Lab and Ally
+
+provided for the Facilities’ patients.
+
+B. Abovyan’s Role in Ordering Tests
+
+       To help Chatman submit as many specimens as possible to Smart Lab and
+
+Ally, Abovyan ordered and authorized excessive lab drug testing that was
+
+medically unnecessary. Abovyan’s predecessor at Reflections was Dr. Aron
+
+Tendler. Chatman fired Dr. Tendler after he attempted to curtail the excessive and
+
+medically unnecessary testing at Reflections. Chatman recruited Abovyan as
+
+Tendler’s replacement.
+
+       When Abovyan started at Reflections, he wrote a letter adopting the testing
+
+regime that Dr. Tendler had unsuccessfully tried to curtail. The July 15, 2016,
+
+letter, typed on Reflections letterhead and signed by Abovyan, stated:
+
+
+       6
+        Before Abovyan’s trial, Gatt pled guilty to conspiring to commit healthcare fraud and
+finished serving his 18 months’ sentence.
+
+
+
+                                               5
+           USCA11 Case: 19-10676           Date Filed: 02/22/2021       Page: 6 of 51
+
+
+
+       I am the new Medical Director for Reflections Treatment Center. Prior
+       to my hire, [Dr. Tendler] left his post without reviewing and signing off
+       on client charts. We have been unsuccessful in our attempts to reach
+       him and rectify this situation.
+
+       As a result, I have reviewed the orders and progress notes. I agree with
+       the factual and medical recommendations of the previous Medical
+       Director.
+
+       Abovyan then wrote “standing orders” authorizing the testing of the
+
+Facilities’ patients’ urine at least two to three times weekly. For example, one of
+
+these standing orders, titled “Urine Drug Test Protocol,” signed by Abovyan,
+
+established that, for every patient, “Point of Care Cup testing will be used for rapid
+
+detection and the specimen will be sent to a separate lab for Confirmation.” 7
+
+Abovyan’s standing order authorized a laboratory testing frequency of “2-3
+
+Scheduled times per week and up to 2 random times per week” and stated that
+
+Abovyan “confirm[ed] that the Urine Drug Screening &amp; Confirmation tests
+
+ordered by me are medically necessary for the diagnosis and treatment plan and
+
+will be documented in patients[’] chart[s] as medically necessary.” Based on that
+
+protocol, Abovyan signed consent forms authorizing Smart Lab “to perform the
+
+toxicology testing for patient specimens from [the Facilities] based off of the
+
+individual requisition forms.”
+
+
+       7
+         There are different levels of urine testing. A “point of care” test is done in the office
+where the patient is getting care and involves an inexpensive cup and dipstick. Lab testing, also
+called “definitive or confirmatory testing,” is not done on-site, is expensive, and requires a
+doctor’s order.
+
+
+
+                                                 6
+            USCA11 Case: 19-10676      Date Filed: 02/22/2021   Page: 7 of 51
+
+
+
+         Facilities employees then used these requisition forms to order the lab drug
+
+tests for each individual specimen. The Facilities used different requisition forms
+
+depending on the type of specimen (urine or saliva) because they used Smart Lab
+
+for urine testing and Ally for saliva testing. The Smart Lab requisition forms had
+
+the Smart Lab logo at the top, a space for patient information, diagnosis codes, and
+
+a series of boxes to check to indicate which types of drugs the urine was to be
+
+tested for. Because Abovyan established standing orders and consent forms for
+
+Smart Lab testing, he did not sign each requisition form. Instead, Abovyan’s name
+
+was listed as the “Ordering Provider” on each form.
+
+         Ally’s requisition forms were similar to Smart Lab’s, with an Ally logo at
+
+the top, a space for patient information, and drug-test-request checkboxes. Instead
+
+of establishing standing orders and consent forms like he did with Smart Lab,
+
+Abovyan pre-signed Ally’s testing requisition forms, leaving the patient
+
+information blank, but checking boxes for full comprehensive tests for all available
+
+drugs.
+
+         Co-conspirator Gatt testified that Abovyan pre-signed Ally saliva testing
+
+requisition forms so that Gatt and others could make copies of them. Abovyan
+
+knew that they were photocopying his pre-signed requisition forms so that he “did
+
+not have to continually sign off on each individual form.” Gatt testified that either
+
+he or a staff member filled in the patient information and checked boxes for
+
+
+
+                                            7
+           USCA11 Case: 19-10676          Date Filed: 02/22/2021       Page: 8 of 51
+
+
+
+various testing, and Abovyan knew about it because Gatt filled out one of the
+
+sheets in front of Abovyan and Abovyan signed it.
+
+       These tests were not specialized to a named patient or a patient’s
+
+background. Rather, Abovyan admitted that he established this testing protocol
+
+because that was “what Kenneth Chatman . . . wanted.” Even if a patient were
+
+addicted only to cocaine, Abovyan admitted they would “test for everything.” In
+
+many instances, this meant that a lab tested specimens for over 100 substances,
+
+including drugs that would not meaningfully inform treatment because they were
+
+non-addictive or rarely abused. Each lab urine test costs between $1,000 and
+
+$6,000.8
+
+       Patricia LaFrance, a Behavioral Health Technician, worked directly for
+
+Chatman at Reflections from July 2015 until around October 2016 and at Journey
+
+from October 2016 until the Facilities closed. LaFrance monitored patient
+
+urinalysis. LaFrance collected a cup of urine from every patient three times per
+
+week and performed a cup and dipstick test on every sample. Regardless of the
+
+cup test results, LaFrance sent the urine to the lab for further testing using lab
+
+requisition forms that Abovyan authorized in his standing orders. Another
+
+employee trained LaFrance to fill out the Smart Lab requisition forms with the
+
+
+       8
+        Most uninsured patients did not receive this expensive lab testing and were tested only
+once per month with an on-site cup/dipstick test that cost around $3.
+
+
+
+                                                8
+         USCA11 Case: 19-10676        Date Filed: 02/22/2021   Page: 9 of 51
+
+
+
+patient’s information and to check the appropriate boxes so that the lab tested the
+
+sample for a myriad of different drugs.
+
+      When a patient did not show up for testing, various staff provided their own
+
+urine for lab analysis, at Chatman’s direction. LaFrance also collected saliva
+
+samples and filled out Abovyan’s pre-signed Ally requisition forms, which she
+
+gave to Gatt.
+
+C. Abovyan’s Role in “Treatment”
+
+      The Facilities also made money by billing patients’ insurance for outpatient
+
+“treatment.” The Facilities’ treatment services included therapy sessions, medical
+
+checkups, and drug-treatment medication. In reality though, the patients received
+
+no real medical treatment.
+
+      In addition to excessive drug testing orders, Abovyan prescribed Suboxone
+
+to his patients, even though he was not licensed to do so. Suboxone is a controlled
+
+substance that contains the Schedule III narcotic buprenorphine. The Drug
+
+Addiction Treatment Act of 2000 requires physicians who are not addiction
+
+specialists to take a training course and obtain a special license before they can
+
+prescribe buprenorphine for addiction treatment, in light of the drug’s potential for
+
+abuse and risk of side effects, including death. See </pre><span class="citation no-link">21 U.S.C. § 823</span><pre class="inline">(g).
+
+      After completing a specialized training course and registering, doctors apply
+
+for a DEA certificate and receive an X Number, which allows them to lawfully
+
+
+
+                                          9
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021    Page: 10 of 51
+
+
+
+prescribe buprenorphine for addiction treatment. This special license, including
+
+the X Number, is not needed when buprenorphine is prescribed to treat other
+
+things, like pain. Until September 2016, Abovyan did not have an X Number.
+
+      To get around the X Number requirement between July and September,
+
+2016, Abovyan indicated on the Facilities’ patients’ buprenorphine prescriptions a
+
+diagnosis of “pain” or “withdrawal” (instead of drug addiction), even though
+
+patients’ charts did not indicate that they were, in fact, experiencing pain or
+
+withdrawal.
+
+      Although ordering drug tests and prescribing buprenorphine, Abovyan often
+
+did so without actually examining patients, making assessments, or creating
+
+individualized treatment plans. Then, Abovyan rarely showed or discussed the lab
+
+drug test results with patients. Although Abovyan noted in many patient charts,
+
+“[r]eviewed and will discuss at next patient encounter,” there was no such follow-
+
+up. Even when patients tested positive for drug use, there was no evidence in
+
+patients’ charts or elsewhere that Abovyan discussed this with patients or modified
+
+treatment. In some instances, Abovyan noted that a patient was “doing well” or
+
+“normal” or “clean for a while” even though the test results indicated otherwise.
+
+      Despite being the Facilities’ main doctor, Abovyan largely delegated his
+
+treatment duties. He pre-signed prescription pads for his nurses to fill in the
+
+patient name, drug, and diagnosis without his being present. Jackson testified that
+
+
+
+                                          10
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021   Page: 11 of 51
+
+
+
+he saw Abovyan’s nurse practitioners with blank prescription pads signed by
+
+Abovyan. Abovyan also gave the nurses his log-in credentials to edit patients’
+
+electronic medical records. When Abovyan did meet with the Facilities’ patients,
+
+it typically was for only around five minutes. Reflections even stored medications
+
+on site, and, if a patient was prescribed buprenorphine, Reflections would give the
+
+patient the medication from storage instead of waiting until the prescription was
+
+filled at the pharmacy.
+
+D. Federal Investigation
+
+      When the Facilities were shut down in December 2016, the Federal Bureau
+
+of Investigation (“FBI”) agents discovered Abovyan’s signature on stacks of Ally
+
+testing requisition forms. The test forms had no patient names or information but
+
+did have diagnosis codes completed on the forms and boxes pre-checked to request
+
+full-panel lab testing.
+
+      Agents also searched the storage unit of Tina Barbuto, the clinical director of
+
+Reflections and Abovyan’s codefendant. Agents found, inter alia, patient
+
+documents, test results, and pill bottles containing controlled substances, including
+
+Suboxone—which contains buprenorphine—that had been prescribed by Abovyan
+
+to the Facilities’ patients. Jackson testified he saw Barbuto with blank prescription
+
+pads signed by Abovyan. At Reflections, agents found a November 2016 letter
+
+directed to Abovyan from an insurance company, which stated that, “[d]ue to
+
+
+
+                                         11
+            USCA11 Case: 19-10676         Date Filed: 02/22/2021        Page: 12 of 51
+
+
+
+ongoing and serious investigations regarding member safety and potential
+
+insurance fraud, we are temporarily suspending all approval of authorization for
+
+treatment at Reflections Treatment Center and payment of claims for any treatment
+
+at this facility.”
+
+       In April 2017, a UnitedHealthcare investigator interviewed Abovyan.
+
+Abovyan said that working at Reflections “was easy money,” but also the “biggest
+
+mistake of his life.” Abovyan admitted that he ordered the lab urine tests for
+
+patients at Reflections to be conducted two to three times per week.
+
+       The FBI interviewed Abovyan in June 2017. Abovyan admitted that he: (1)
+
+signed the standing lab orders; (2) ordered whatever lab tests that Chatman wanted
+
+three times per week per patient 9; (3) provided the nurse practitioners with pre-
+
+signed, blank prescription pads; and (4) received additional payments for detox and
+
+treatment services, and was paid $5,000 per month “so that Kenny Chatman could
+
+use [Abovyan’s] medical license to bill insurance.”10
+
+                              II. INDICTMENT &amp; TRIAL
+
+       In 2018, a superseding indictment charged Abovyan and Tina Barbuto with:
+
+
+       9
+         Abovyan told the FBI that he reviewed the lab test results for each patient and signed the
+electronic medical records indicating that he reviewed the results. However, at trial, patients and
+others testified that he did not review the test results with patients.
+       10
+         In some months, the $5,000 appears to be over and above his $11,000 salary, as the
+record shows that he was paid $19,000 in October and $17,300 in December 2016. In November
+2016, he was paid $15,300.
+
+
+
+                                                12
+         USCA11 Case: 19-10676      Date Filed: 02/22/2021    Page: 13 of 51
+
+
+
+conspiracy to commit healthcare fraud, in violation of </pre><span class="citation no-link">18 U.S.C. § 1349</span><pre class="inline"> (Count
+
+One); conspiracy to possess with intent to distribute and dispense controlled
+
+substances, including buprenorphine and others, in violation of </pre><span class="citation no-link">21 U.S.C. § 846</span><pre class="inline">
+
+(Count Two); unlawful dispensing of a controlled substance, buprenorphine, to
+
+specific patients (Counts Three through Nine), in violation of </pre><span class="citation no-link">21 U.S.C.
+
+§ 841</span><pre class="inline">(a)(1) and </pre><span class="citation no-link">18 U.S.C. § 2</span><pre class="inline">; and possession with intent to distribute controlled
+
+substances, in violation of § 841(a)(1) and § 2 (Count Ten). Codefendant Barbuto
+
+pled guilty to conspiracy to commit healthcare fraud. Chatman and around 15
+
+others were already charged in separate indictments for their roles in the healthcare
+
+fraud scheme.
+
+      During Abovyan’s eight-day jury trial, the government presented over 20
+
+witnesses and overwhelming evidence of the above healthcare fraud scheme at the
+
+Facilities. Among the witnesses, the government called former employees of
+
+Smart Lab, Ally, and the Facilities; nurse practitioners; an expert on addiction
+
+medicine; former Reflections patients; Abovyan’s private practice manager; the
+
+UnitedHealthcare investigator; and several FBI agents. Three witnesses, Jackson,
+
+Vega, and Gatt, were already convicted for their roles in the scheme. The evidence
+
+also included thousands of pages of patient records, supporting documents, and
+
+photographs.
+
+      While the above evidence recounted Abovyan’s overall role in the scheme,
+
+
+
+                                         13
+         USCA11 Case: 19-10676      Date Filed: 02/22/2021   Page: 14 of 51
+
+
+
+we now detail more testimony about Abovyan’s conduct.
+
+A. Abovyan’s Two Nurse Practitioners
+
+      Andrea Buehler was a nurse practitioner who worked for Abovyan from
+
+September 2016 until January 2018. Buehler did office work for Abovyan’s
+
+private practice. Initially, Abovyan would have Buehler go to Reflections on
+
+Mondays and Wednesdays for around three hours each day. Sometimes Abovyan
+
+accompanied her, sometimes not. At first, Abovyan spent up to three hours with
+
+her there each day, but he was there less as time went on. Later on, Buehler went
+
+to Journey exclusively around twice per week; Abovyan accompanied Buehler to
+
+Journey only once or twice.
+
+      For each patient at Reflections and later at Journey, Buehler discussed the
+
+patient’s drug use, did a physical examination, and sometimes wrote prescriptions.
+
+She never discussed drug test results with patients. Buehler wrote prescriptions for
+
+buprenorphine on pre-signed prescription pads, and Abovyan instructed her to
+
+write “drug dependence pain withdrawal” as the prescription diagnosis. She
+
+accessed patients’ electronic medical records with Abovyan’s log-in credentials.
+
+      Lindsey Callaghan was a nurse practitioner who worked for Abovyan from
+
+around June until October 2016. For Abovyan’s private practice patients,
+
+Callaghan would see patients for routine physicals, sick visits, and medication
+
+refills. Callaghan went to Reflections on Tuesday and Thursday mornings for
+
+
+
+                                         14
+         USCA11 Case: 19-10676      Date Filed: 02/22/2021    Page: 15 of 51
+
+
+
+around four hours each day. She refilled patients’ medications and performed
+
+quick physicals. Abovyan sometimes accompanied her to Reflections but did not
+
+always stay the entire time. Callaghan wrote prescriptions on a pre-signed
+
+prescription pad that Abovyan gave her. At Abovyan’s instruction, Callaghan
+
+wrote “Drug dependence, withdrawal, pain” as the diagnosis on the prescriptions.
+
+Generally, Callaghan did not review any drug test results. She also accessed
+
+patients’ electronic medical records with Abovyan’s log-in credentials.
+
+B. Patients’ Testimony
+
+      Patient A.B. was an insured Reflections patient addicted to heroin. She
+
+became a patient on August 31, 2016. A.B. stayed at a halfway house and attended
+
+therapy at Reflections. She said that, during group therapy sessions at Reflections,
+
+her fellow patients “were nodding out” and “obviously high.” A.B.’s fellow
+
+patients and even the managers of her halfway house were using drugs. A.B.
+
+witnessed Chatman give other patients “street drugs.” Although A.B. remained
+
+drug-free at first, she became desperate and started using heroin again. When she
+
+told Chatman that she was using heroin again, he said, “okay.” After that, A.B.
+
+overdosed on heroin at the halfway house. Another patient overdosed and died at
+
+the halfway house.
+
+      Reflections tested A.B.’s urine every day she attended Reflections. Yet
+
+neither Abovyan nor the nurse practitioners ever talked to her about the results.
+
+
+
+                                         15
+            USCA11 Case: 19-10676       Date Filed: 02/22/2021   Page: 16 of 51
+
+
+
+Even though A.B.’s urine tested positive for heroin, nothing about her treatment
+
+changed. Reflections also tested A.B.’s saliva, and she never saw the results. A.B.
+
+spoke to Abovyan only once for about 20 minutes during her initial visit. She
+
+received her prescriptions, including Suboxone, from a nurse practitioner written
+
+on pre-signed prescription pads. A.B. testified that the Suboxone “didn’t really
+
+help” her, but she continued to take it because “[she] knew [she] could get high off
+
+of it.”
+
+          Patient H.F. was another insured Reflections patient starting in July 2016.
+
+She was prescribed Suboxone and subjected to rigorous blood, urine, saliva, and
+
+allergy testing, despite not having allergies. Her urine was lab tested about four
+
+times per week—a frequency that she felt “unnecessary to be able to catch
+
+someone using.” H.F. never saw the results of any tests. Chatman made it difficult
+
+for patients to leave treatment. When H.F. decided to leave, Chatman kept her
+
+identification, phone, clothes, and medication under his control.
+
+          Patient J.B. was an insured patient at Reflections in 2016. J.B. saw Abovyan
+
+once, and Abovyan did not spend much time with her. Abovyan prescribed her
+
+three different anxiety medications. J.B. did not see Abovyan again, but she
+
+continued receiving prescriptions with Abovyan’s signature on them. J.B. saw pre-
+
+signed prescription pads bearing Abovyan’s signature on Chatman’s desk. J.B.
+
+lived in a halfway house during her Reflections treatment and did not have to pay
+
+
+
+                                            16
+         USCA11 Case: 19-10676        Date Filed: 02/22/2021    Page: 17 of 51
+
+
+
+rent. Her fellow Reflections patients in the halfway house were drinking and using
+
+drugs, and, at one point, there were “needles everywhere.” One patient overdosed
+
+in the house.
+
+      During his FBI interview, Abovyan explained his attitude about patients’
+
+drug use after they left daily “treatment” at Reflections and returned to the halfway
+
+houses: “whatever happens happens.”
+
+C. Dr. Kelly Clark
+
+      The government called Dr. Kelly Clark as an expert witness. Dr. Clark, a
+
+board-certified physician in addiction medicine and psychiatry, is the President of
+
+the American Society of Addiction Medicine. Dr. Clark spent 100 hours reviewing
+
+patient files and other documents from the Facilities. She explained the legal
+
+requirements and best practices for addiction treatment centers and their medical
+
+duties, and how Abovyan failed to follow them. As to drug tests, Dr. Clark
+
+testified that: (1) drug testing always should be tailored to the patient, especially
+
+when ordering expensive confirmatory lab testing; (2) Abovyan improperly
+
+ordered across-the-board lab testing for every patient multiple times per week,
+
+every week; (3) a doctor “[a]bsolutely” should discuss the outcome of each test
+
+with the patient, particularly if they fail; and (4) there was no documentation in the
+
+charts that test results were ever discussed with the Facilities’ patients.
+
+      As to prescriptions, Dr. Clark explained that: (1) Florida law does not allow
+
+
+
+                                           17
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021    Page: 18 of 51
+
+
+
+nurse practitioners to practice medicine without the supervision of a physician; (2)
+
+nurse practitioners may not write controlled substance prescriptions on a
+
+prescription pad that the doctor already has signed; (3) it is never appropriate for a
+
+doctor to sign blank prescriptions and give them to a staff member to fill in the
+
+patient name and drug; and (4) a doctor should not share his own log-in
+
+information for a patient’s medical record with others.
+
+      As to buprenorphine, Abovyan improperly prescribed it without examining
+
+the patient, having a doctor–patient relationship, or making an assessment and
+
+individualized treatment plan. Dr. Clark testified that: (1) Abovyan signed
+
+prescriptions for buprenorphine to treat “pain/withdrawal”; (2) there was no
+
+documentation in the charts that the patients, in fact, had pain or withdrawal; and
+
+(3) those prescriptions were written to treat opioid addiction—and not for a
+
+withdrawal period, but as ongoing management.
+
+      Dr. Clark also testified that: (1) the amounts billed for urine testing were
+
+“outrageous”; (2) each lab test cost from over $1,000 to over $6,000 per urine
+
+specimen; (3) testing was done two to three times per week, with no patient follow-
+
+up; and (4) these tests thus were not used for treatment purposes.
+
+      Dr. Clark discussed the buprenorphine prescriptions charged in Counts
+
+Three through Nine. The Reflections patient in Count Three was E.L., who had an
+
+opioid and cocaine addiction. On July 12, Reflections sent E.L.’s urine sample to
+
+
+
+                                          18
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021    Page: 19 of 51
+
+
+
+Smart Lab for an “extraordinarily high” 100-panel drug test that included drugs not
+
+ordinarily tested in the treatment or assessment of an addiction patient. On both
+
+July 13 and July 15, E.L.’s urine was extensively tested again. E.L.’s saliva was
+
+tested on July 14 and 28. Dr. Clark testified that “[t]here [was] no reason for doing
+
+both” saliva and urine tests simultaneously.
+
+      On July 20, 2016, Abovyan prescribed E.L. Suboxone for “pain” and
+
+“withdrawal,” even though E.L.’s chart had no indication that he was experiencing
+
+pain or withdrawal or that Abovyan had seen him. Dr. Clark testified that the
+
+Suboxone prescription “was not for a legitimate medical purpose.”
+
+      E.L.’s three July drug tests showed continued drug use. After E.L. stopped
+
+coming to Reflections, Abovyan electronically signed all three July test results
+
+without any patient discussion. Yet, Abovyan added the note, “Reviewed and will
+
+discuss at next patient encounter.” There was no follow-up discussion. Dr. Clark
+
+testified that the manner in which the urine testing was performed—ordering
+
+additional tests before receiving the results of prior tests and not discussing those
+
+results with E.L.—was “[n]ot for a legitimate medical purpose.” This same pattern
+
+continued with the other patients.
+
+      Counts Four and Eight involved Reflections patient H.F., who had cocaine,
+
+opioid, and alcohol addictions. H.F.’s urine was also tested by labs at an
+
+“inappropriate” frequency: July 7, 8, 9, 11, 13, 15, 22, and 24. Although many
+
+
+
+                                          19
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021   Page: 20 of 51
+
+
+
+tests revealed continued drug abuse, Abovyan electronically signed them with his
+
+standard notation, “Reviewed and will discuss at next patient encounter.” There
+
+was no follow-up discussion.
+
+      On July 25, 2016, Abovyan prescribed H.F. Suboxone with a
+
+“pain/withdrawal” diagnosis (Count Four) and, a month later, on August 29,
+
+Abovyan again prescribed H.F. Suboxone for drug dependence, pain, and
+
+withdrawal (Count Eight). Dr. Clark explained that, because H.F.’s actual
+
+diagnosis was drug addiction, Abovyan could not have lawfully prescribed
+
+Suboxone without an X Number, which he did not have.
+
+      Count Five involved Reflections patient A.C., who had an opioid addiction.
+
+A.C.’s urine was tested on June 15, 17, 20, 22, 27, and 29, and July 1, 4, 6, 11, 13,
+
+and 15, 2016. On July 27, Abovyan signed the results as “normal,” even though
+
+results showed tampering and drug abuse. On August 4, Abovyan wrote a progress
+
+note stating that A.C. was “clean for a while,” which plainly contradicted A.C.’s
+
+failed drug tests that Abovyan had reviewed and signed days earlier. On July 25,
+
+Abovyan prescribed A.C. Suboxone with a “pain/withdrawal” diagnosis. Again,
+
+Dr. Clark concluded that this Suboxone prescription was illegitimate because
+
+Abovyan falsely indicated that it was meant to treat “pain/withdrawal,” when it
+
+was in fact treating drug addiction, and Abovyan did not yet have an X Number.
+
+      Count Six involved Reflections patient D.W., who had a cocaine and opioid
+
+
+
+                                          20
+         USCA11 Case: 19-10676      Date Filed: 02/22/2021    Page: 21 of 51
+
+
+
+addiction. The results of D.W.’s urine test on July 15, 2016, indicated tampering,
+
+yet Abovyan signed off on the results as “normal.” Abovyan’s progress notes
+
+stated that D.W. was “doing well,” even though he repeatedly failed drug tests.
+
+Although D.W. did not complain of pain, Abovyan prescribed Suboxone for
+
+“withdrawal/pain” on July 27, 2016.
+
+      Count Seven involved Reflections patient C.D., who came for an opioid
+
+addiction treatment from June until August 2016. C.D. provided urine specimens
+
+multiple times per week for expensive lab testing. Dr. Clark testified that the
+
+frequency of C.D.’s testing was “inappropriate” and lacked utility, that the money
+
+billed was “amazing,” and that the results were never discussed with the patient.
+
+Although C.D. did not complain of pain, Abovyan prescribed Suboxone for
+
+“pain/withdrawal” on August 3, 2016. In reality, Abovyan was prescribing the
+
+Suboxone for treatment of an opioid addiction, but he still did not have the
+
+required X Number.
+
+      Count Nine involved Reflections patient A.B., who had no pain complaints.
+
+On August 31, Abovyan, without an X Number, prescribed A.B. Suboxone for
+
+drug dependence, withdrawal, and pain.
+
+      Dr. Clark explained that Abovyan pretextually prescribing Suboxone for
+
+“pain/withdrawal” without an X Number was only one of many factors underlying
+
+her opinion that Abovyan’s prescriptions were not for a legitimate medical
+
+
+
+                                         21
+           USCA11 Case: 19-10676     Date Filed: 02/22/2021    Page: 22 of 51
+
+
+
+purpose. Dr. Clark explained that Suboxone is an excellent medication for use in
+
+treatment of an opioid disorder. But Abovyan was only prescribing controlled
+
+substances and was not treating his patients. Medical treatment requires assessing
+
+the information, working with the patient, coming up with a treatment plan for that
+
+patient, getting more information, following up on tests and reviewing them with
+
+the patient, assessing the additional information, and working more with the patient
+
+and the treatment plan. None of that occurred here. Abovyan’s patients repeatedly
+
+failed their drug tests, but he and his nurses never talked about it with them.
+
+“There was no treatment.”
+
+      Dr. Clark also noticed that “scholarship” patients without insurance
+
+generally would not receive a single expensive 100-panel lab test. Scholarship
+
+patients received a 12-panel cup/dipstick test once per month that cost a few
+
+dollars.
+
+      At the close of the government’s evidence, Abovyan moved for judgment of
+
+acquittal under Federal Rule of Criminal Procedure 29, which the district court
+
+denied as to Counts One through Nine and reserved ruling as to Count Ten.
+
+D. Defense and Verdict
+
+      Abovyan’s defense was that he was an “unwitting patsy,” who was used by
+
+Chatman and others for their criminal scheme. Abovyan did not testify, but
+
+presented an expert witness, Dr. Kenneth Starr, who is a board-certified physician
+
+
+
+                                          22
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021     Page: 23 of 51
+
+
+
+in emergency and addiction medicine. Dr. Starr spent “[m]aybe six” hours
+
+preparing for the case and did not review any patient files. Dr. Starr confirmed that
+
+buprenorphine may be prescribed for pain without an X Number, but that the
+
+X Number is required for use in addiction treatment. Dr. Starr admitted that it was
+
+not a common practice to pre-sign blank prescriptions, and that the drugs found in
+
+some of Abovyan’s patients’ test results would be something that he would want to
+
+discuss with the patients. At the close of evidence, Abovyan renewed his Rule 29
+
+motion, and the district court maintained its earlier ruling.
+
+       In closing argument, Abovyan’s counsel acknowledged that “[Gatt] and
+
+Kenny Chatman essentially conspired . . . to defraud the insurance companies,”
+
+and LaFrance “dummied up these [requisition] forms.” But he argued that
+
+“Abovyan had no knowledge” about excessive urine testing. The jury convicted
+
+Abovyan on Counts One through Nine and acquitted him on Count Ten. The
+
+district court denied Abovyan’s motion for judgment notwithstanding the verdict
+
+or for a new trial.
+
+       The district court sentenced Abovyan to 120 months’ imprisonment on his
+
+Counts One through Eight convictions, to run concurrently, and a consecutive
+
+15-month sentence on his Count Nine conviction. The district court ordered
+
+$1,058,097.88 in restitution to the defrauded insurance companies.
+
+
+
+
+                                          23
+         USCA11 Case: 19-10676        Date Filed: 02/22/2021   Page: 24 of 51
+
+
+
+                   III. SUFFICIENCY OF THE EVIDENCE
+
+      On appeal, Abovyan argues that the government’s evidence is insufficient to
+
+support his convictions. We review de novo Abovyan’s sufficiency-of-the-
+
+evidence claims, taking all evidence and drawing all reasonable inferences in the
+
+light most favorable to the government. United States v. Chalker, </pre><span class="citation no-link">966 F.3d 1177</span><pre class="inline">,
+
+1184 (11th Cir. 2020).
+
+A. Conspiracy to Commit Healthcare Fraud (Count One)
+
+      Abovyan accepts that the healthcare fraud conspiracy existed at the
+
+Facilities, but contends the government’s evidence was insufficient to prove his
+
+knowledge of and participation in it. At most, he argues, the government showed
+
+negligent medical practices on his part, not willful participation in a criminal
+
+conspiracy. He asserts that there is not “a shred of evidence” that he agreed with
+
+anyone to engage in healthcare fraud and that “the [g]overnment still has not
+
+identified a single text, email, document, or snippet of testimony that there was
+
+ever any conversation or communication between Abovyan and any other person
+
+about engaging in any illegal act.”
+
+      “For a defendant to be found guilty of conspiracy, the government must
+
+prove beyond a reasonable doubt (1) that a conspiracy existed; (2) that the
+
+defendant knew of it; and (3) that the defendant, with knowledge, voluntarily
+
+joined it.” United States v. Vernon, </pre><span class="citation" data-id="1035595"><a href="/opinion/1035595/united-states-v-chris-vernon/#1273" aria-description="Citation for case: United States v. Chris Vernon">723 F.3d 1234, 1273</a></span><pre class="inline"> (11th Cir. 2013)
+
+
+
+                                          24
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021   Page: 25 of 51
+
+
+
+(quotation marks omitted). “Because the crime of conspiracy is predominantly
+
+mental in composition, it is frequently necessary to resort to circumstantial
+
+evidence to prove its elements.” United States v. Toler, </pre><span class="citation" data-id="9415395"><a href="/opinion/72914/united-states-v-toler/#1426" aria-description="Citation for case: United States v. Toler">144 F.3d 1423, 1426</a></span><pre class="inline"> (11th
+
+Cir. 1998) (quotation marks and citations omitted).
+
+      A healthcare fraud conspiracy exists when defendants agree to submit false
+
+claims to a healthcare benefit program, such as an insurance plan. See United
+
+States v. Ruan, </pre><span class="citation no-link">966 F.3d 1101</span><pre class="inline">, 1142 (11th Cir. 2020); </pre><span class="citation no-link">18 U.S.C. §§ 24</span><pre class="inline">(b), 1347.
+
+“[A] defendant can be convicted of conspiracy if the evidence demonstrates that he
+
+was aware of the conspiracy’s essential nature, even if he did not know all of its
+
+details, played only a minor role in the overall scheme, did not have direct contact
+
+with other alleged co-conspirators, or did not participate in every stage of the
+
+conspiracy.” United States v. Sosa, </pre><span class="citation" data-id="2775600"><a href="/opinion/2775600/united-states-v-yosany-sosa/#1290" aria-description="Citation for case: United States v. Yosany Sosa">777 F.3d 1279, 1290</a></span><pre class="inline"> (11th Cir. 2015).
+
+      First, we reject Abovyan’s claim that the government must present direct
+
+evidence that Abovyan agreed to join the conspiracy. It is well settled that the
+
+government may prove a conspiracy through circumstantial evidence or inferences
+
+from the defendant’s conduct. See United States v. Moran, </pre><span class="citation" data-id="2779689"><a href="/opinion/2779689/united-states-v-anthony-roberts/#960" aria-description="Citation for case: United States v. Anthony Roberts">778 F.3d 942, 960</a></span><pre class="inline">
+
+(11th Cir. 2015); United States v. Molina, </pre><span class="citation" data-id="77252"><a href="/opinion/77252/united-states-v-eliany-molina/#828" aria-description="Citation for case: United States v. Eliany Molina">443 F.3d 824, 828</a></span><pre class="inline"> (11th Cir. 2006). The
+
+government can show participation “through proof of surrounding circumstances
+
+such as acts committed by the defendant which furthered the purpose of the
+
+conspiracy.” Moran, </pre><span class="citation" data-id="2779689"><a href="/opinion/2779689/united-states-v-anthony-roberts/#961" aria-description="Citation for case: United States v. Anthony Roberts">778 F.3d at 961</a></span><pre class="inline"> (quotation marks omitted).
+
+
+
+                                          25
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021    Page: 26 of 51
+
+
+
+       Second, although largely circumstantial, the government introduced ample
+
+evidence to support Abovyan’s conviction for conspiring to commit healthcare
+
+fraud. The evidence showed that Abovyan: (1) created Smart Lab standing orders
+
+so that the Facilities could order expensive and medically unnecessary lab urine
+
+tests three times per week per patient; (2) pre-signed requisition forms so that the
+
+Facilities could order even more unnecessary testing from other labs, like Ally;
+
+(3) forwent lab testing for uninsured patients; (4) reviewed and signed off on
+
+certain lab test results without discussing them with the patients; (5) admitted the
+
+Facilities would “test for everything,” even non-addictive drugs not ordinarily
+
+tested in addiction treatment; (6) provided his medical record log-in and pre-signed
+
+prescription pads for his nurses to prescribe drugs to patients without him being
+
+present; (7) received a letter alerting him that insurance billing issues existed and
+
+did nothing; (8) admitted that he allowed Chatman to make all testing decisions—
+
+“what [Chatman] wanted”—even though Chatman had no medical training and the
+
+testing was excessive; and (9) admitted that he received $5,000 per month for
+
+Chatman to use his medical license to bill insurance for “treatment” at the
+
+Facilities.
+
+       Abovyan’s full cooperation with Chatman, along with Abovyan’s own
+
+medical conduct, advanced the healthcare fraud scheme. The government proved
+
+Abovyan not only agreed to join the conspiracy but also willfully participated in it
+
+
+
+                                          26
+         USCA11 Case: 19-10676        Date Filed: 02/22/2021    Page: 27 of 51
+
+
+
+and knew of its essential nature. See Ruan, 966 F.3d at 1143–44 (finding sufficient
+
+evidence of conspiracy to commit healthcare fraud where defendant doctors
+
+(1) ordered “expensive off-site urine screen tests that were medically unnecessary,”
+
+and (2) “rarely discussed inconsistent test results with patients, whether to counsel
+
+them into compliance or fire them as patients”); see also United States v. Mateos,
+
+</pre><span class="citation" data-id="177471"><a href="/opinion/177471/united-states-v-mateos/#1362" aria-description="Citation for case: United States v. Mateos">623 F.3d 1350, 1362</a></span><pre class="inline"> (11th Cir. 2010) (“While it is hypothetically possible that a
+
+person under these circumstances could have been ignorant of the [conspiracy to
+
+commit healthcare] fraud, the jury was entitled to draw the reasonable inference
+
+from this evidence that [the defendant] was in on the scheme.”).
+
+      Abovyan relies on United States v. Willner, </pre><span class="citation" data-id="3042497"><a href="/opinion/3042497/united-states-v-mark-willner-md/" aria-description="Citation for case: United States v. Mark Willner, M.D.">795 F.3d 1297</a></span><pre class="inline"> (11th Cir. 2015),
+
+and United States v. Ganji, </pre><span class="citation" data-id="4240390"><a href="/opinion/4463137/united-states-v-pramela-ganji/" aria-description="Citation for case: United States v. Pramela Ganji">880 F.3d 760</a></span><pre class="inline"> (5th Cir. 2018), which reversed
+
+healthcare fraud conspiracy convictions. The evidence against Abovyan, however,
+
+is substantially stronger and materially different than in these cases.
+
+      In Willner, we reversed Dr. Abreu’s conviction, despite her being the
+
+program director at a sleep clinic that defrauded Medicare. </pre><span class="citation" data-id="3042497"><a href="/opinion/3042497/united-states-v-mark-willner-md/#1303" aria-description="Citation for case: United States v. Mark Willner, M.D.">795 F.3d at 1303</a></span><pre class="inline">,
+
+1305–10. The government contended that Dr. Abreu (1) “falsified patient files” to
+
+make it appear that patients were eligible for the clinic’s partial hospitalization
+
+program, and (2) “admitted or participated in the admission of ineligible patients”
+
+into the program. </pre><span class="citation" data-id="3042497"><a href="/opinion/3042497/united-states-v-mark-willner-md/#1306" aria-description="Citation for case: United States v. Mark Willner, M.D.">Id. at 1306, 1309</a></span><pre class="inline">. Although Dr. Abreu admitted some ineligible
+
+patients (cognitively impaired, elderly patients), no evidence showed that it was
+
+
+
+                                          27
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021   Page: 28 of 51
+
+
+
+anything more than “poor admission decisions on occasion.” </pre><span class="citation" data-id="3042497"><a href="/opinion/3042497/united-states-v-mark-willner-md/#1309" aria-description="Citation for case: United States v. Mark Willner, M.D.">Id. at 1309</a></span><pre class="inline">. Unlike
+
+Abovyan, Dr. Abreu did not gain anything from the criminal conspiracy. </pre><span class="citation" data-id="3042497"><a href="/opinion/3042497/united-states-v-mark-willner-md/#1310" aria-description="Citation for case: United States v. Mark Willner, M.D.">Id. at
+
+1310</a></span><pre class="inline">. While Dr. Abreu knew Dr. Gumer was signing charts without reading them,
+
+this Court explained that this evidence about chart signing “does not support an
+
+inference that Dr. Abreu knew that the patients were ineligible, that they had not
+
+received partial hospitalization services, or that Dr. Gumer had not treated the
+
+patients.” </pre><span class="citation" data-id="3042497"><a href="/opinion/3042497/united-states-v-mark-willner-md/#1309" aria-description="Citation for case: United States v. Mark Willner, M.D.">Id. at 1309</a></span><pre class="inline">. The government’s circumstantial evidence against
+
+Dr. Abreu was weak, and her conduct was isolated and peripheral at best. It pales
+
+compared to the overwhelming evidence showing Abovyan’s role and conduct that
+
+was central to the criminal conspiracy and its success, his consistent and ongoing
+
+participation in the scheme throughout his tenure as medical director, and his
+
+significant financial gains from the scheme.
+
+      Similarly, in Ganji, the Fifth Circuit reversed the healthcare fraud conspiracy
+
+conviction of a physician serving as the medical director of a home healthcare
+
+agency. 880 F.3d at 763–64. The evidence was only that: (1) another doctor,
+
+Dr. Winston Murray, who previously held a similar position, defrauded Medicare;
+
+(2) when Dr. Ganji accepted the job, she received a monthly check of $1,000; and
+
+(3) Dr. Ganji’s referral of patients to the agency increased after she became
+
+medical director. Id. at 771. No evidence supported any inference that Dr. Ganji
+
+acted in the same fraudulent manner as Dr. Murray. Id. Dr. Ganji’s increase in
+
+
+
+                                         28
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021    Page: 29 of 51
+
+
+
+referrals was not nefarious; rather, her patients simply followed her when she
+
+became affiliated with the home healthcare agency. Id. at 773. And Dr. Ganji
+
+“provided testimony of her innocence that went unanswered by the [g]overnment,”
+
+including her explanation that certain blank sheets she signed were bundled with
+
+other documents she reviewed. Id. at 771. The Fifth Circuit emphasized that
+
+“[t]he trial record rebut[ted] the [g]overnment’s theory.” Id. at 772.
+
+      Again, in stark contrast, the government’s evidence here was powerful and
+
+showed Abovyan’s key role, conduct, and participation in the healthcare fraud
+
+scheme. Abovyan knew he pre-signed all the prescription pads, signed the
+
+standing orders for excessive lab testing, was not seeing or following up with
+
+patients at the Facilities, was not doing or revising individualized treatment plans,
+
+gave his log-in credentials to his nurses, and did not have the required training and
+
+X Number to prescribe Suboxone. Abovyan even admitted that he was paid “easy
+
+money” for “Chatman [to] use [Abovyan’s] medical license to bill insurance.”
+
+Given our extensive record review recounted above, we readily conclude that the
+
+government’s evidence sufficiently supported Abovyan’s conviction for conspiracy
+
+to commit healthcare fraud.
+
+B. The Controlled Substances Act Counts (Counts Two through Nine)
+
+      Counts Two through Nine involve the conspiracy and substantive counts as
+
+to the buprenorphine prescriptions. Abovyan argues that the government failed to
+
+
+
+                                          29
+         USCA11 Case: 19-10676        Date Filed: 02/22/2021    Page: 30 of 51
+
+
+
+prove his buprenorphine prescriptions were not for a legitimate medical purpose or
+
+were outside the scope of professional practice.
+
+      Under the Controlled Substances Act, it is unlawful, except as otherwise
+
+authorized, “for any person knowingly or intentionally . . . to manufacture,
+
+distribute, or dispense . . . a controlled substance.” </pre><span class="citation no-link">21 U.S.C. § 841</span><pre class="inline">(a)(1); see also
+
+</pre><span class="citation no-link">21 U.S.C. § 846</span><pre class="inline"> (making it unlawful to conspire to violate § 841). An unlawful
+
+distribution occurs in the medical context when “1) the prescription was not for a
+
+legitimate medical purpose or 2) the prescription was not made in the usual course
+
+of professional practice.” United States v. Joseph, </pre><span class="citation" data-id="9502807"><a href="/opinion/821104/united-states-v-jack-kelly-joseph/#1102" aria-description="Citation for case: United States v. Jack Kelly Joseph">709 F.3d 1082, 1102</a></span><pre class="inline"> (11th Cir.
+
+2013) (quotation marks omitted). The rule is disjunctive, and a doctor violates the
+
+law if he falls short of either requirement. See Ruan, 966 F.3d at 1172. “The
+
+appropriate focus is not on the subjective intent of the doctor, but rather it rests
+
+upon whether the physician prescribes medicine in accordance with a standard of
+
+medical practice generally recognized and accepted in the United States.” United
+
+States v. Merrill, </pre><span class="citation" data-id="77911"><a href="/opinion/77911/united-states-v-merrill/#1306" aria-description="Citation for case: United States v. Merrill">513 F.3d 1293, 1306</a></span><pre class="inline"> (11th Cir. 2008) (quotation marks omitted).
+
+      Here, Abovyan violated </pre><span class="citation no-link">21 U.S.C. § 823</span><pre class="inline">(g) when he prescribed
+
+buprenorphine without an X Number. See </pre><span class="citation no-link">21 U.S.C. § 823</span><pre class="inline">(g)(2)(E)(i). We agree
+
+with Abovyan that this is not a per se violation of § 841(a), and, more importantly,
+
+this alone does not support a § 841(a) conviction. However, as Dr. Clark testified,
+
+Abovyan’s lack of an X Number was not the only problem with his buprenorphine
+
+
+
+                                           30
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021    Page: 31 of 51
+
+
+
+prescriptions. Abovyan prescribed buprenorphine for pain/withdrawal when
+
+patients did not have pain/withdrawal. Further, he provided no medical addiction
+
+treatment and, without accompanying treatment, Abovyan’s buprenorphine
+
+prescriptions did not serve a legitimate medical purpose.
+
+      Dr. Clark explained that buprenorphine can be a very effective drug when
+
+used in addiction treatment, but she unequivocally stated that Abovyan’s patients
+
+were not actually being treated. Prescribing buprenorphine to drug addicts without
+
+more is not medical treatment. Viewing the evidence in the light most favorable to
+
+the government, Abovyan prescribed buprenorphine after conducting no physical
+
+examinations or only a cursory physical examination, having no doctor–patient
+
+relationship, and making no assessment or treatment plan. Abovyan generally
+
+delegated the prescribing of buprenorphine to his nurse practitioners,
+
+inappropriately giving them blank prescription pads and access to his log-in
+
+credentials for patients’ electronic medical records. When many patients he was
+
+supposedly “treating” with buprenorphine failed subsequent drug tests, he did
+
+nothing. Patients rarely even saw their test results. Dr. Clark testified that
+
+Abovyan’s use of buprenorphine deviated from professional standards of medical
+
+addiction treatment, and the prescriptions were “not for a legitimate medical
+
+purpose.”
+
+      Thus, setting aside the X Number issue, Abovyan either prescribed
+
+
+
+                                          31
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021    Page: 32 of 51
+
+
+
+buprenorphine for “pain/withdrawal” to patients who were not experiencing pain
+
+or withdrawal, or he prescribed it to “treat addiction” without actually treating
+
+addiction. Either way, under the particular circumstances here, the prescriptions
+
+did not serve a legitimate medical purpose and were not done in the usual course of
+
+professional practice.
+
+      Our decision in United States v. Joseph, </pre><span class="citation" data-id="9502807"><a href="/opinion/821104/united-states-v-jack-kelly-joseph/" aria-description="Citation for case: United States v. Jack Kelly Joseph">709 F.3d 1082</a></span><pre class="inline">, is instructive. In
+
+Joseph, Spurgeon Green Jr., a physician, and Dorothy Mack, a physician’s
+
+assistant, were convicted under § 841(a). Id. at 1087–88. They conceded their
+
+federal-regulation violation by not properly dating and signing the prescriptions.
+
+Id. at 1102. Mack admitted that she, as a physician’s assistant, lacked the authority
+
+to write prescriptions for Schedule II substances under Georgia law. Id. This
+
+Court agreed that their violation of the federal regulation did not constitute a per se
+
+violation of § 841(a). Id. Nonetheless, “the jury was entitled to infer, based on
+
+Green’s pre-signing and pre-dating of the prescriptions and Mack’s delivery of
+
+those prescriptions to Green’s patients, that they violated [§ 841(a)].” Id. We
+
+observed that “a physician’s delivery of a prescription without conducting any
+
+physical examination of the patient provides strong evidence to support a
+
+conviction under [§ 841(a)].” Id.
+
+      Here, Abovyan violated federal law by prescribing a drug, buprenorphine,
+
+without the required training, licensing, and X Number. Although this does not
+
+
+
+                                          32
+            USCA11 Case: 19-10676        Date Filed: 02/22/2021      Page: 33 of 51
+
+
+
+constitute a per se violation of § 841(a), “the jury was entitled to infer” that
+
+Abovyan violated § 841(a) based on all of his conduct described above, including
+
+how Abovyan was not actually treating his patients for their addiction. See id.
+
+       We also reject Abovyan’s claim that the prescriptions, nonetheless, served a
+
+legitimate medical purpose because “these patients were addicts who needed [the]
+
+buprenorphine that Dr. Abovyan prescribed.” The question is not whether a doctor
+
+could prescribe buprenorphine for legitimate medical addiction treatment actually
+
+being rendered, but whether Abovyan himself did prescribe buprenorphine for such
+
+actual addiction treatment. Based on the cumulative evidence about the patients
+
+and these prescriptions, a jury could reasonably find that Abovyan was not legally
+
+prescribing buprenorphine, especially given that the addicts were not being treated,
+
+were failing drug tests, were not in withdrawal or pain, and were not being seen by
+
+him.11 Therefore, we conclude sufficient evidence supported Abovyan’s
+
+convictions on Counts Two through Nine.12
+
+
+
+       11
+          For example, the jury could infer from the evidence that Abovyan’s buprenorphine
+prescriptions were intended mainly as window-dressing so that the Facilities appeared to be
+providing drug “treatment” when their real purpose was to conduct expensive and unnecessary
+tests on the patients that could be billed to their insurance.
+       12
+          To the extent Abovyan argues that he did not know about or join a conspiracy to
+unlawfully dispense buprenorphine (Count Two), his argument fails for the same reasons it fails
+as to the conspiracy element in Count One. Abovyan’s prescribing of buprenorphine was part of
+the overall healthcare fraud scheme that Abovyan knew about and joined. Chatman told
+Abovyan that he should prescribe buprenorphine; the prescriptions were part of the purported
+“treatment” that the Facilities billed to insurance but were not really providing.
+
+
+
+                                              33
+             USCA11 Case: 19-10676           Date Filed: 02/22/2021         Page: 34 of 51
+
+
+
+                                IV. JURY INSTRUCTIONS
+
+        Abovyan also challenges various jury instructions, which we discuss in turn.
+
+A. Instructions as to Count One
+
+        On appeal, Abovyan argues for the first time that the district court plainly
+
+erred in failing to instruct the jury on the elements of substantive healthcare fraud,
+
+which was the object of the healthcare fraud conspiracy charge in Count One.
+
+Abovyan did not object to this omission in the instructions, and plain-error review
+
+applies. See United States v. Benjamin, </pre><span class="citation no-link">958 F.3d 1124</span><pre class="inline">, 1133 (11th Cir.), cert.
+
+denied, __ U.S. __, </pre><span class="citation no-link">141 S. Ct. 561</span><pre class="inline"> (2020).13
+
+        The district court adequately instructed the jury as to the elements of a
+
+criminal conspiracy and that its object was healthcare fraud. For example, the
+
+district court instructed that the jury had to find Abovyan “agreed to try to
+
+accomplish a common and unlawful plan to commit health care fraud, as charged
+
+in the superseding indictment” and that, knowing “the unlawful purpose of the
+
+plan,” he “willfully joined in it.” In turn, the unlawful purpose of the conspiracy,
+
+as described in the superseding indictment, was that Abovyan conspired to: “(a)
+
+defraud health care benefit programs . . . ; and (b) obtain, by means of materially
+
+
+
+        13
+         Plain error requires (1) error, (2) that is plain, and (3) that affects substantial rights.
+Benjamin, 958 F.3d at 1133. But even if all these elements exist, this Court may exercise its
+discretion to correct the error only if such error seriously affects the fairness, integrity, or public
+reputation of the judicial proceedings. Id. We reject the government’s contention that defense
+counsel invited the error.
+
+
+                                                  34
+            USCA11 Case: 19-10676        Date Filed: 02/22/2021      Page: 35 of 51
+
+
+
+false and fraudulent pretenses, representations, and promises, any of the money
+
+and property owned by, and under the custody and control of, health care benefit
+
+programs . . . .” Superseding Indictment at 9 (emphasis added). The district court,
+
+itself, however, did not expressly instruct the jury as to the elements of a healthcare
+
+fraud offense.
+
+       The Supreme Court has explained that “an instruction that omits an element
+
+of the offense does not necessarily render a criminal trial fundamentally unfair or
+
+an unreliable vehicle for determining guilt or innocence.” Neder v. United States,
+
+</pre><span class="citation" data-id="9433818"><a href="/opinion/118298/neder-v-united-states/#9" aria-description="Citation for case: Neder v. United States">527 U.S. 1, 9</a></span><pre class="inline">, </pre><span class="citation" data-id="9433818"><a href="/opinion/118298/neder-v-united-states/#1833" aria-description="Citation for case: Neder v. United States">119 S. Ct. 1827, 1833</a></span><pre class="inline"> (1999). Although such an omission may
+
+constitute plain error, that is not always the case. See United States v. Musgrave,
+
+</pre><span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/#764" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">444 F.2d 755, 764</a></span><pre class="inline"> (5th Cir. 1971) (“[T]he trial judge’s failure here to instruct the
+
+jury on all the essential elements of the crimes in counts two and four, even though
+
+not requested, [is] plain error.”) 14; United States v. Hensel, </pre><span class="citation" data-id="421227"><a href="/opinion/421227/united-states-v-david-keith-hensel-and-timothy-d-leonard/#1005" aria-description="Citation for case: United States v. David Keith Hensel and Timothy D. Leonard">711 F.2d 1000, 1005</a></span><pre class="inline">
+
+(11th Cir. 1983) (“Musgrave does not hold that every failure to charge on all the
+
+essential elements of the crime results in plain error.”).
+
+       In United States v. Gonzalez, the defendant argued that the district court
+
+plainly erred by failing to instruct the jury on the elements required to prove a
+
+violation of the federal anti-kickback statute, which was one of the objects of the
+
+       14
+        In Bonner v. City of Prichard, </pre><span class="citation" data-id="396175"><a href="/opinion/396175/larry-bonner-v-city-of-prichard-alabama/#1209" aria-description="Citation for case: Larry Bonner v. City of Prichard, Alabama">661 F.2d 1206, 1209</a></span><pre class="inline"> (11th Cir. 1981) (en banc), this
+Court adopted as precedent the decisions of the former Fifth Circuit handed down prior to
+October 1, 1981.
+
+
+
+                                              35
+         USCA11 Case: 19-10676         Date Filed: 02/22/2021   Page: 36 of 51
+
+
+
+conspiracy. </pre><span class="citation" data-id="4027644"><a href="/opinion/4250383/united-states-v-carmen-gonzalez/#1225" aria-description="Citation for case: United States v. Carmen Gonzalez">834 F.3d 1206, 1225</a></span><pre class="inline"> (11th Cir. 2016). We held that the failure to
+
+explain the term “kickback” was not “a clear or obvious error.” </pre><span class="citation" data-id="4027644"><a href="/opinion/4250383/united-states-v-carmen-gonzalez/" aria-description="Citation for case: United States v. Carmen Gonzalez">Id.</a></span><pre class="inline"> One reason
+
+was because “the indictment essentially quoted the entire relevant portion of the
+
+anti-kickback statute.” </pre><span class="citation" data-id="4027644"><a href="/opinion/4250383/united-states-v-carmen-gonzalez/#1226" aria-description="Citation for case: United States v. Carmen Gonzalez">Id. at 1226</a></span><pre class="inline">.
+
+      Similarly, here the district court referred to an “unlawful plan to commit
+
+health care fraud, as charged in the superseding indictment.” The jury had a
+
+redacted copy of the superseding indictment, which incorporated the statutory
+
+elements of healthcare fraud into the conspiracy charge. See </pre><span class="citation no-link">18 U.S.C. § 1347</span><pre class="inline">(a).
+
+The superseding indictment described healthcare fraud as a scheme to both
+
+“(a) defraud health care benefit programs . . . ; and (b) obtain, by means of
+
+materially false and fraudulent pretenses . . . any of the money and property owned
+
+by . . . health care benefit programs,” which tracks almost verbatim the language of
+
+</pre><span class="citation no-link">18 U.S.C. § 1347</span><pre class="inline">(a)(1) and (2). Superseding Indictment at 9 (emphasis added). If
+
+anything, the description in the superseding indictment required more than the
+
+statute, which only requires proof of one of those two elements. See </pre><span class="citation no-link">18 U.S.C.
+
+§ 1347</span><pre class="inline">(a)(1)–(2).
+
+      Moreover, in this particular case, there was no dispute that there was a
+
+healthcare fraud conspiracy and its object—healthcare fraud—did occur. Even if it
+
+was plain error, the omission of the elements of healthcare fraud from the
+
+instructions did not affect Abovyan’s substantial rights. See Benjamin, 958 F.3d at
+
+
+
+                                           36
+         USCA11 Case: 19-10676        Date Filed: 02/22/2021    Page: 37 of 51
+
+
+
+1133. Abovyan’s theory of defense acknowledged that there was a healthcare
+
+fraud scheme but asserted that he was merely an “unwitting patsy.” By the time of
+
+Abovyan’s trial, numerous people were already convicted for their involvement in
+
+Chatman’s healthcare fraud scheme at the Facilities, and three of them testified in
+
+Abovyan’s trial. Abovyan argued solely that he was unaware of any conspiracy
+
+and did not agree to join it. Under the actual circumstances of this case, any error
+
+in failing to explain the elements of the substantive healthcare fraud did not affect
+
+Abovyan’s substantial rights, given the jury charge, the superseding indictment,
+
+and that all parties agreed the substantive offense had been committed by others at
+
+the Facilities. See Gonzalez, </pre><span class="citation" data-id="4027644"><a href="/opinion/4250383/united-states-v-carmen-gonzalez/#1225" aria-description="Citation for case: United States v. Carmen Gonzalez">834 F.3d at 1225</a></span><pre class="inline"> (“[I]n reviewing jury instructions,
+
+our task is also to view the charge itself as part of the whole trial.” (quotation
+
+marks omitted)).
+
+B. Denial of Abovyan’s Requested Instruction
+
+      Next, Abovyan argues that, as to Counts Two through Nine, the district court
+
+abused its discretion by declining to give his requested instruction on the
+
+difference between criminal and civil liability. We review for an abuse of
+
+discretion a refusal of the district court to give a requested jury instruction. Joseph,
+
+</pre><span class="citation" data-id="9502807"><a href="/opinion/821104/united-states-v-jack-kelly-joseph/#1093" aria-description="Citation for case: United States v. Jack Kelly Joseph">709 F.3d at 1093</a></span><pre class="inline">. “When we review the refusal to give an instruction for abuse of
+
+discretion, we ask whether the requested instruction is correct, not adequately
+
+covered by the charge given, and involves a point so important that failure to give
+
+
+
+                                           37
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021    Page: 38 of 51
+
+
+
+the instruction seriously impaired the party’s ability to present an effective case.”
+
+United States v. Duperval, </pre><span class="citation" data-id="9805972"><a href="/opinion/2777832/united-states-v-jean-rene-duperval/#1334" aria-description="Citation for case: United States v. Jean Rene Duperval">777 F.3d 1324, 1334</a></span><pre class="inline"> (11th Cir. 2015) (quotation marks
+
+omitted).
+
+      The district court did not abuse its discretion in refusing to give Abovyan’s
+
+requested instruction because it was not a correct statement of the law. Abovyan’s
+
+proposed instruction stated, among other things: “the [g]overnment must prove
+
+beyond a reasonable doubt that Dr. Abovyan was not acting as a doctor but as a
+
+drug dealer,” that “[t]he essential issue for your determination is whether
+
+Dr. Abovyan acted not as a doctor, or even as a bad doctor, but as a ‘pusher,’” and
+
+that he was engaged in criminal activity, like “knowingly selling narcotics to a
+
+‘patient’ who was not really sick but wanted drugs for recreational purposes.”
+
+Contrary to Abovyan’s proposed instruction, and as explained above, the law
+
+requires only that the jury find the doctor prescribed a drug “not for a legitimate
+
+medical purpose” or not “in the usual course of professional practice.” See Ruan,
+
+966 F.3d at 1136 (quotation marks omitted). The district court properly declined to
+
+give Abovyan’s proposed instruction.
+
+C. Instructions as to X Number
+
+      Abovyan also argues that the instructions created strict § 841(a) liability for
+
+the violation of § 823(g), which contains the licensing requirement for an
+
+X Number. We review de novo whether a given jury instruction misstated the law.
+
+
+
+                                          38
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021    Page: 39 of 51
+
+
+
+United States v. Melgen, </pre><span class="citation no-link">967 F.3d 1250</span><pre class="inline">, 1259 (11th Cir. 2020). “[W]e will reverse
+
+a conviction due to an erroneous jury instruction only when ‘the issues of law were
+
+presented inaccurately, or the charge improperly guided the jury in such a
+
+substantial way as to violate due process.’” Gonzalez, </pre><span class="citation" data-id="4027644"><a href="/opinion/4250383/united-states-v-carmen-gonzalez/" aria-description="Citation for case: United States v. Carmen Gonzalez">834 F.3d at 1222</a></span><pre class="inline"> (quoting
+
+United States v. Williams, </pre><span class="citation" data-id="77956"><a href="/opinion/77956/united-states-v-williams/#1320" aria-description="Citation for case: United States v. Williams">526 F.3d 1312, 1320</a></span><pre class="inline"> (11th Cir. 2008)). “We must have
+
+‘a substantial and ineradicable doubt as to whether the jury was properly guided in
+
+its deliberations’ before reversing a conviction on a challenge to the jury charge.”
+
+United States v. Joyner, </pre><span class="citation" data-id="4247597"><a href="/opinion/4470344/united-states-v-keenan-joyner/#1375" aria-description="Citation for case: United States v. Keenan Joyner">882 F.3d 1369, 1375</a></span><pre class="inline"> (11th Cir. 2018) (quoting United
+
+States v. House, </pre><span class="citation" data-id="802697"><a href="/opinion/802697/united-states-v-stephen-g-house/#1196" aria-description="Citation for case: United States v. Stephen G. House">684 F.3d 1173, 1196</a></span><pre class="inline"> (11th Cir. 2012)).
+
+      The jury instructions accurately stated the law. First, the district court
+
+correctly described the elements of a § 841(a) violation. The district court
+
+explained that Abovyan was guilty under § 841(a) if the government proved
+
+beyond a reasonable doubt that he “dispensed . . . not for a legitimate medical
+
+purpose or outside the usual course of professional practice, the controlled
+
+substance, as charged.” The instructions charged that § 841(a) has a mens rea of
+
+“knowingly and intentionally” and that Abovyan cannot “knowingly” do
+
+something “because of a mistake or by accident.”
+
+      Second, appearing to reference </pre><span class="citation no-link">21 C.F.R. § 1306.05</span><pre class="inline">, the district court
+
+properly instructed that prescriptions must “be dated as of, and signed on, the day
+
+when issued” and that “the prescribing practitioner is responsible in case the
+
+
+
+                                          39
+           USCA11 Case: 19-10676    Date Filed: 02/22/2021    Page: 40 of 51
+
+
+
+prescription does not conform in all essential aspects to the law and regulations.”
+
+      Third, the district court precisely recited the X Number requirement in
+
+§ 823(g), the process to obtain it, and the consequences for non-compliance, as
+
+follows:
+
+      [I]n order to prescribe buprenorphine for detoxification and
+      maintenance treatment, a practitioner is required to obtain a waiver
+      under the Drug Addiction Treatment Act of 2000. The practitioner
+      must apply to the Substance Abuse and Mental Health Services
+      Administration (“SAMHSA”), under the Secretary of Health and
+      Human Services, who verifies that the practitioner meets the
+      requirements, including completion of not less than eight hours of a
+      qualified training course by the physician. After SAMHSA notifies the
+      Drug Enforcement Administration (“DEA”) that the requirements have
+      been met, DEA then assigns the practitioner a special registration
+      number, known as a “DEA X-number.” If a practitioner is in violation
+      of these conditions and dispenses buprenorphine for maintenance
+      treatment or detoxification treatment, the Attorney General may
+      consider the practitioner to have committed an act that renders the
+      registration of the practitioner pursuant to subsection (f) to be
+      inconsistent with the public interest.
+
+           A prescription for buprenorphine for “detoxification treatment”
+      or “maintenance treatment” must include the practitioner’s DEA X-
+      number.
+
+      Fourth, the instructions well explained “the usual course of professional
+
+practice,” as follows:
+
+      A controlled substance is prescribed by a physician in the usual course
+      of professional practice and, therefore, lawfully, if the substance is
+      prescribed by him as part of his or her medical treatment for the patient
+      in accordance with the standards of medical practice generally
+      recognized and accepted in the United States. The appropriate standard
+      of care is based on the knowledge, circumstances and standards that are
+      recognized as acceptable and appropriate at the time the physician
+
+                                         40
+            USCA11 Case: 19-10676         Date Filed: 02/22/2021        Page: 41 of 51
+
+
+
+       acted. The fact that bad results follow treatment rendered by a
+       physician does not, in itself, mean that the physician’s conduct fell
+       below the appropriate standard of care.
+
+       Finally, the instructions rightly reiterated that, to convict Abovyan for
+
+violating § 841(a), the government had to prove that his “actions were not for
+
+legitimate medical purposes or were outside the usual course of professional
+
+practice.”
+
+       At no point did the district court instruct the jury that a violation of the
+
+X Number-licensing requirement necessitated a finding of guilt on Counts Two
+
+through Nine. As discussed above, we agree that a violation of § 823(g) is not a
+
+per se violation of § 841(a). And the district court here did not instruct the jury
+
+that it was. We thus conclude that these instructions, considered as a whole, did
+
+not create strict § 841(a) liability for the violation of the X Number license
+
+requirement.15 Because the issues of law were presented accurately to the jury,
+
+there was no error.16 See Gonzalez, </pre><span class="citation" data-id="4027644"><a href="/opinion/4250383/united-states-v-carmen-gonzalez/#1222" aria-description="Citation for case: United States v. Carmen Gonzalez">834 F.3d at 1222</a></span><pre class="inline">.
+
+
+
+       15
+          We recognize that, at the charge conference, the district court and the government made
+some statements that seemed to suggest Abovyan’s alleged violation of § 823(g) made him
+“strict[ly] liab[le]” under § 841(a). But the instructions themselves did not charge that. Further,
+to the extent that Abovyan contends that the refusal to give his requested instruction, combined
+with the above instructions actually given, resulted in reversible error, we disagree because the
+district court did not err in either instance.
+       16
+          Abovyan also challenges two evidentiary rulings during his trial. He claims that the
+district court abused its discretion in admitting evidence of Abovyan’s gambling hobby and in
+improperly limiting cross-examination of the government’s case agent. We conclude that these
+claims wholly lack merit and do not warrant further discussion.
+
+
+
+                                                41
+         USCA11 Case: 19-10676        Date Filed: 02/22/2021   Page: 42 of 51
+
+
+
+                                    V. SENTENCES
+
+      Abovyan also challenges his sentences. We review how the district court
+
+calculated Abovyan’s advisory guidelines range and then his claims on appeal.
+
+A. Guidelines Calculation
+
+      The presentence investigation report (“PSI”) determined that, during
+
+Abovyan’s five-month employment at Reflections, 42 insurers were billed a total
+
+of $11,345,741.55, from which Reflections received $1,058,097.88 in
+
+reimbursements, and Abovyan was responsible for the intended loss of
+
+$11,345,741.55.
+
+      For Count One, the PSI calculated an offense level of 32, consisting of: (1) a
+
+base offense level of 6, under U.S.S.G. § 2B1.1(a)(2); (2) a 20-level increase based
+
+on an intended loss of between $9.5 million and $25 million, under
+
+§ 2B1.1(b)(1)(K); (3) a 2-level increase because the offense involved more than ten
+
+victims, under § 2B1.1(b)(2)(A); (4) a 2-level increase, under § 3A1.1(b)(1),
+
+because Abovyan knew or should have known the victims were vulnerable; and (5)
+
+a 2-level increase, under § 3B1.3, because Abovyan used his skill as a medical
+
+doctor to facilitate the offense.
+
+      For Counts Two through Nine, the PSI used the base offense level of 24
+
+because the offense involved a drug equivalency of between 100 and 400
+
+kilograms of marijuana. See U.S.S.G. § 2D1.1(a)(5) and (c)(8).
+
+
+
+                                          42
+           USCA11 Case: 19-10676       Date Filed: 02/22/2021   Page: 43 of 51
+
+
+
+         After making the multiple-count adjustment under § 3D1.4(a)–(c), the PSI
+
+recommended a combined adjusted offense level of 33. Based on an offense level
+
+of 33 and a criminal history category of I, Abovyan’s advisory guidelines range
+
+was 135 to 168 months’ imprisonment.
+
+         Abovyan objected to the PSI’s use of intended loss, instead of actual loss, to
+
+calculate his advisory guidelines range. He acknowledged that the Sentencing
+
+Guidelines define loss as the greater of actual or intended loss. See U.S.S.G.
+
+§ 2B1.1 cmt. n.3(A). Here, the amount that Abovyan helped the Facilities and labs
+
+bill to the insurance companies was approximately $11.3 million (intended loss),
+
+but the insurance companies only reimbursed approximately $1 million (actual
+
+loss).
+
+         Abovyan argued that the use of the higher intended loss would cause an
+
+unwarranted disparity among similarly situated defendants. His codefendant
+
+Barbuto was held accountable only for the actual loss, as stipulated in her plea
+
+agreement. The PSI also referenced other co-conspirators’ convictions; they pled
+
+guilty too, and their sentences were based on actual loss.
+
+         At the sentencing hearing, the district court overruled Abovyan’s objection
+
+and used the intended loss amount. The district court adopted the PSI’s findings
+
+and guidelines calculations and sentenced Abovyan to 120 months’ imprisonment
+
+on his Counts One through Eight convictions, to run concurrently, and a
+
+
+
+                                            43
+            USCA11 Case: 19-10676         Date Filed: 02/22/2021        Page: 44 of 51
+
+
+
+consecutive 15-month sentence on his Count Nine conviction.
+
+B. Sentencing Disparity Argument
+
+       Abovyan argues that the district court erred in calculating his advisory
+
+guidelines range based on intended loss, instead of actual loss. Because actual loss
+
+was the basis for his codefendant and his other co-conspirators’ sentences,
+
+Abovyan contends the district court created an unwarranted sentencing disparity by
+
+using the higher intended loss to calculate his guidelines range. 17
+
+       First, there is no guidelines-calculation error. The guidelines define loss as
+
+the greater of actual or intended loss. See U.S.S.G. § 2B1.1 cmt. n.3(A). The
+
+district court correctly used the intended loss here because it was greater than the
+
+actual loss. See id.
+
+       Second, the essence of Abovyan’s argument is more that there is an
+
+unwarranted sentencing disparity, which addresses the reasonableness of the
+
+sentences. In imposing a sentence, district courts must consider several factors,
+
+including the need “to avoid unwarranted sentence disparities among defendants
+
+with similar records who have been found guilty of similar conduct.” </pre><span class="citation no-link">18 U.S.C.
+
+§ 3553</span><pre class="inline">(a)(6). “[D]efendants who cooperate with the government and enter a
+
+
+
+       17
+          “This Court reviews de novo the District Court’s interpretation of the guidelines and its
+application of the guidelines to the facts.” United States v. Fox, </pre><span class="citation" data-id="4406703"><a href="/opinion/4629450/united-states-v-ralph-herman-fox-jr/#1278" aria-description="Citation for case: United States v. Ralph Herman Fox, Jr.">926 F.3d 1275, 1278</a></span><pre class="inline"> (11th Cir.),
+cert. denied, __ U.S. __, </pre><span class="citation multiple-matches"><a href="/c/S.%20Ct./140/639/">140 S. Ct. 639</a></span><pre class="inline"> (2019). We review the reasonableness of a sentence for
+abuse of discretion. Williams, </pre><span class="citation" data-id="77956"><a href="/opinion/77956/united-states-v-williams/#1321" aria-description="Citation for case: United States v. Williams">526 F.3d at 1321</a></span><pre class="inline">.
+
+
+
+                                                44
+            USCA11 Case: 19-10676         Date Filed: 02/22/2021      Page: 45 of 51
+
+
+
+written plea agreement are not similarly situated to a defendant who provides no
+
+assistance to the government and proceeds to trial.” United States v. Docampo,
+
+</pre><span class="citation" data-id="9416205"><a href="/opinion/78398/united-states-v-docampo/#1101" aria-description="Citation for case: United States v. Docampo">573 F.3d 1091, 1101</a></span><pre class="inline"> (11th Cir. 2009); see also United States v. Jayyousi, </pre><span class="citation" data-id="613864"><a href="/opinion/613864/united-states-v-jayyousi/" aria-description="Citation for case: United States v. Jayyousi">657 F.3d
+
+1085</a></span><pre class="inline">, 1117–18 (11th Cir. 2011). “There is no unwarranted disparity even when
+
+the sentence the cooperating defendant receives is substantially shorter.”
+
+Docampo, </pre><span class="citation" data-id="9416205"><a href="/opinion/78398/united-states-v-docampo/#1101" aria-description="Citation for case: United States v. Docampo">573 F.3d at 1101</a></span><pre class="inline"> (quotation marks omitted).
+
+       Because codefendant Barbuto and the other co-conspirators involved in the
+
+fraud scheme all pled guilty and their plea agreements provided for how loss was
+
+to be determined, those defendants are not “similarly situated” to Abovyan. See </pre><span class="citation" data-id="9416205"><a href="/opinion/78398/united-states-v-docampo/" aria-description="Citation for case: United States v. Docampo">id.</a></span><pre class="inline">
+
+Therefore, any disparity between the sentences of Abovyan and them is not an
+
+“unwarranted” sentence disparity within the meaning of § 3553(a)(6), much less
+
+one that required the district court to impose a lower sentence regardless of the
+
+other § 3553(a) factors. See </pre><span class="citation no-link">18 U.S.C. § 3553</span><pre class="inline">(a) (requiring the district court to
+
+consider multiple factors, only one of which is the need to avoid unwarranted
+
+sentence disparities, in choosing the appropriate sentence). 18 The district court did
+
+
+
+       18
+         To the extent Abovyan argues that the district court’s use of intended loss was
+unconstitutional because it unfairly penalized him for going to trial, his argument is meritless.
+See Frank v. Blackburn, </pre><span class="citation" data-id="9467823"><a href="/opinion/389495/jimmy-frank-v-frank-blackburn-warden-louisiana-state-penitentiary/" aria-description="Citation for case: Jimmy Frank v. Frank Blackburn, Warden, Louisiana State...">646 F.2d 873</a></span><pre class="inline">, 882–83 (5th Cir. 1980) (en banc), modified on other
+grounds, </pre><span class="citation" data-id="9467826"><a href="/opinion/389496/jimmy-frank-v-frank-blackburn-warden-louisiana-state-penitentiary/" aria-description="Citation for case: Jimmy Frank v. Frank Blackburn, Warden, Louisiana State...">646 F.2d 902</a></span><pre class="inline"> (5th Cir. 1981) (en banc) (explaining that “the mere imposition of a
+longer sentence than defendant would have received had he pleaded guilty” is not automatically
+unconstitutional punishment). Further, Abovyan does not point to any evidence that the district
+court imposed a sentence within the correctly calculated advisory guidelines range to punish him
+for exercising his right to go to trial.
+
+
+
+                                               45
+            USCA11 Case: 19-10676         Date Filed: 02/22/2021       Page: 46 of 51
+
+
+
+not err in calculating Abovyan’s advisory guidelines range or abuse its discretion
+
+in sentencing him.
+
+C. Loss Amount and Foreseeability
+
+       Abovyan also argues that the district court erred in determining the amount
+
+of the intended loss because it was not supported by a preponderance of the
+
+evidence. He asserts that the district court failed to make underlying findings as to
+
+the scope of the criminal activity that Abovyan agreed to undertake and the
+
+reasonable foreseeability of the loss amount attributed to him. 19
+
+       Abovyan waived these arguments because he did not object to the amount of
+
+the intended loss in the PSI or its foreseeability and, instead, repeatedly told the
+
+court that he challenged only the use of intended instead of actual loss.20 See
+
+United States v. Bennett, </pre><span class="citation" data-id="77543"><a href="/opinion/77543/united-states-v-carl-bennett/#832" aria-description="Citation for case: United States v. Carl Bennett">472 F.3d 825, 832</a></span><pre class="inline"> (11th Cir. 2006) (“[C]hallenges to the
+
+facts contained in the PSI must be asserted with specificity and clarity. Otherwise,
+
+the objection is waived.” (citation omitted)); United States v. Wade, </pre><span class="citation" data-id="77448"><a href="/opinion/77448/united-states-v-earl-robert-wade/#1277" aria-description="Citation for case: United States v. Earl Robert Wade">458 F.3d
+
+1273, 1277</a></span><pre class="inline"> (11th Cir. 2006) (“It is the law of this circuit that a failure to object to
+
+
+
+
+       19
+          “We review a district court’s determination of the loss amount under the Sentencing
+Guidelines for clear error.” Melgen, 967 F.3d at 1265. “Because the district court is in a unique
+position to assess the evidence and estimate the loss based upon that evidence, its loss
+determination is entitled to appropriate deference.” Id. (citing U.S.S.G. § 2B1.1 cmt. n.3(C)).
+       20
+         Although Abovyan suggested at one point that the loss amount was “not reasonably
+foreseeable” for him, he then clarified that he “agree[d] with the numbers” but objected to using
+the intended loss amount.
+
+
+
+                                               46
+         USCA11 Case: 19-10676        Date Filed: 02/22/2021    Page: 47 of 51
+
+
+
+allegations of fact in a PSI admits those facts for sentencing purposes.”).
+
+      In any event, Abovyan’s arguments are meritless. Under the Sentencing
+
+Guidelines, a defendant’s offense level shall be adjusted based on the reasonably
+
+foreseeable activity of co-conspirators that is within the scope of and in furtherance
+
+of the conspiracy. U.S.S.G. § 1B1.3(a)(1)(B). “[T]o determine a defendant’s
+
+liability for the acts of others, the district court must first make individualized
+
+findings concerning the scope of criminal activity undertaken by a particular
+
+defendant.” United States v. Hunter, </pre><span class="citation" data-id="76119"><a href="/opinion/76119/united-states-v-lisa-hunter-aka-lesa-hunter/#1319" aria-description="Citation for case: United States v. Lisa Hunter, a.k.a. Lesa Hunter">323 F.3d 1314, 1319</a></span><pre class="inline"> (11th Cir. 2003)
+
+(quotation marks omitted). The district court may determine reasonable
+
+foreseeability only after it makes those individualized findings. </pre><span class="citation" data-id="76119"><a href="/opinion/76119/united-states-v-lisa-hunter-aka-lesa-hunter/" aria-description="Citation for case: United States v. Lisa Hunter, a.k.a. Lesa Hunter">Id.</a></span><pre class="inline"> However, this
+
+Court will not vacate a defendant’s sentence based on the district court’s failure to
+
+make specific findings “[i]f the record otherwise supports the court’s
+
+determination.” United States v. Baldwin, </pre><span class="citation" data-id="2762102"><a href="/opinion/2762102/united-states-v-lineten-belizaire/#727" aria-description="Citation for case: United States v. Lineten Belizaire">774 F.3d 711, 727</a></span><pre class="inline"> (11th Cir. 2014).
+
+      At sentencing, the government presented testimony of an Internal Revenue
+
+Service special agent, who prepared a “loss amount” chart based on records from
+
+insurance companies and the Facilities. The billing information contained in the
+
+chart concerned only the period that Abovyan worked at the Facilities. The chart
+
+showed that the Facilities billed a total of $1,892,273.15 to seven insurance
+
+companies for treatment services, but the chart did not include amounts billed to
+
+the other defrauded insurance companies. The chart showed that Smart Lab billed
+
+
+
+                                           47
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021    Page: 48 of 51
+
+
+
+$9,453,468.40 to insurance, but the chart did not include amounts billed by other
+
+labs, like Ally. Based on those limited numbers alone, the chart calculated that
+
+insurance companies were billed a total of $11,345,741.55.
+
+      After the special agent’s testimony, the district court found that (1) the loss
+
+amounts presented by the government relate only to the time when Abovyan was
+
+there and are actually conservative in terms of total billings, and (2) the
+
+$11.3 million figure accurately reflects the loss amount.
+
+      The record supports the district court’s findings. As medical director,
+
+Abovyan authorized the Facilities’ urine testing protocol and signed standing
+
+consent orders that allowed the Facilities to send urine samples out for lab testing
+
+at least two to three times per week. He pre-signed Ally requisition forms knowing
+
+that they would be filled in and copied by Facilities employees. He approved any
+
+outstanding orders by Dr. Tendler. Abovyan admitted that the Facilities would
+
+“test for everything,” meaning full panels of tests on each sample, and he reviewed
+
+and electronically signed the test results. Abovyan knew that the Facilities were
+
+billing insurance for patient “treatment,” as he admitted that Chatman paid him to
+
+“use his medical license to bill insurance.” Given Abovyan’s key role in the
+
+healthcare fraud scheme, the amounts billed to the insurance companies were
+
+reasonably foreseeable to him. Plus, as the district court noted, the $11.3 million
+
+figure is conservative because it does not include the amounts billed by toxicology
+
+
+
+                                          48
+         USCA11 Case: 19-10676        Date Filed: 02/22/2021     Page: 49 of 51
+
+
+
+labs other than Smart Lab, like Ally, and only includes amounts billed by the
+
+Facilities to a subset of the 42 defrauded insurance companies. See Melgen, 967
+
+F.3d at 1265 (“[T]he district court need only reach a reasonable estimate of loss.”).
+
+Therefore, the district court did not clearly err in reaching its loss findings.
+
+D. Count Two Statutory Penalty
+
+      Finally, Abovyan argues that his Count Two sentence exceeds the statutory
+
+maximum penalty. Count Two alleged that Abovyan conspired to distribute
+
+controlled substances spanning Schedules II, III, and IV, each of which carries a
+
+different statutory maximum penalty. Generally, the statutory maximum penalty
+
+for a Schedule II drug is 20 years, a Schedule III drug is 10 years, and a Schedule
+
+IV drug is 5 years. </pre><span class="citation no-link">21 U.S.C. § 841</span><pre class="inline">(b)(1)(C), (b)(1)(E), (b)(2). The jury rendered
+
+a general guilty verdict for the Count Two conspiracy offense and did not specify
+
+which substance was involved.
+
+      The government conceded for sentencing purposes that, because the jury did
+
+not make a specific drug-type finding, Abovyan’s statutory maximum penalty
+
+should not exceed the penalty for conspiring to dispense the Schedule III
+
+buprenorphine involved in Counts Three through Nine. On appeal, Abovyan
+
+contends that, due to the ambiguity, he should receive the most lenient statutory
+
+
+
+
+                                           49
+            USCA11 Case: 19-10676         Date Filed: 02/22/2021        Page: 50 of 51
+
+
+
+maximum penalty of 5 years (Schedule IV). 21
+
+       Because Abovyan did not raise this objection at the sentencing hearing, we
+
+review for plain error. See United States v. Deason, </pre><span class="citation no-link">965 F.3d 1252</span><pre class="inline">, 1265 (11th
+
+Cir. 2020). In United States v. Candelario, </pre><span class="citation" data-id="772164"><a href="/opinion/772164/united-states-v-jose-manuel-candelario/" aria-description="Citation for case: United States v. Jose Manuel Candelario">240 F.3d 1300</a></span><pre class="inline"> (11th Cir. 2001), the
+
+defendant was convicted of conspiring to traffic, and possessing with intent to
+
+distribute, crack cocaine. </pre><span class="citation" data-id="772164"><a href="/opinion/772164/united-states-v-jose-manuel-candelario/#1303" aria-description="Citation for case: United States v. Jose Manuel Candelario">Id. at 1303</a></span><pre class="inline">. During the trial, Candelario’s codefendant
+
+testified that, as part of the conspiracy, Candelario sold him nine ounces of crack
+
+cocaine for distribution. </pre><span class="citation" data-id="772164"><a href="/opinion/772164/united-states-v-jose-manuel-candelario/#1303" aria-description="Citation for case: United States v. Jose Manuel Candelario">Id. at 1303, 1312</a></span><pre class="inline">. The jury, however, did not find the
+
+drug quantity as to either Candelario’s substantive or conspiracy convictions. See
+
+</pre><span class="citation" data-id="772164"><a href="/opinion/772164/united-states-v-jose-manuel-candelario/" aria-description="Citation for case: United States v. Jose Manuel Candelario">id.</a></span><pre class="inline"> at 1311–12. Despite the district court’s plain error, we declined to vacate the
+
+defendant’s conspiracy sentence because “Count One of the indictment, the
+
+conspiracy count, necessarily subsumes the amount of cocaine in the possession
+
+charge.” </pre><span class="citation" data-id="772164"><a href="/opinion/772164/united-states-v-jose-manuel-candelario/#1312" aria-description="Citation for case: United States v. Jose Manuel Candelario">Id. at 1312</a></span><pre class="inline">. “Because the jury found at least nine ounces of crack
+
+cocaine in the possession charge, the jury also must have determined that at least
+
+nine ounces were involved in the conspiracy.” </pre><span class="citation" data-id="772164"><a href="/opinion/772164/united-states-v-jose-manuel-candelario/" aria-description="Citation for case: United States v. Jose Manuel Candelario">Id.</a></span><pre class="inline">
+
+       The same principle is applied here. It is plain error for a district court to
+
+“sentence a defendant beyond the maximum sentence for the least serious
+
+
+
+       21
+         Abovyan also contends, in a passing statement in his brief, that his total sentence should
+not have exceeded 10 years, but he does not explain why or cite any law in support.
+Accordingly, we deem that issue abandoned. See United States v. Jernigan, </pre><span class="citation" data-id="9415779"><a href="/opinion/76282/united-states-v-jernigan/" aria-description="Citation for case: United States v. Jernigan">341 F.3d 1273</a></span><pre class="inline">, 1283
+n.8 (11th Cir. 2003).
+
+
+
+                                                50
+         USCA11 Case: 19-10676       Date Filed: 02/22/2021   Page: 51 of 51
+
+
+
+substance charged in a multi-object drug conspiracy” “in the absence of a special
+
+verdict.” United States v. Grow, </pre><span class="citation no-link">977 F.3d 1310</span><pre class="inline">, 1330–31 (11th Cir. 2020)
+
+(quotation marks omitted). But like in Candelario, this error did not affect
+
+Abovyan’s substantial rights. Because the jury returned convictions for seven
+
+substantive counts of unlawful distribution of buprenorphine, a Schedule III drug,
+
+it “also must have determined” that buprenorphine was involved in the conspiracy
+
+to distribute a controlled substance, permitting a statutory penalty of 10 years on
+
+Count Two. See Candelario, </pre><span class="citation" data-id="772164"><a href="/opinion/772164/united-states-v-jose-manuel-candelario/#1312" aria-description="Citation for case: United States v. Jose Manuel Candelario">240 F.3d at 1312</a></span><pre class="inline">; </pre><span class="citation no-link">21 U.S.C. § 841</span><pre class="inline">(b)(1)(E); </pre><span class="citation no-link">21
+
+C.F.R. § 1308.13</span><pre class="inline">(e)(2)(i).
+
+                               VI. CONCLUSION
+
+      For the foregoing reasons, we affirm Abovyan’s convictions and sentences.
+
+      AFFIRMED.
+
+
+
+
+                                         51
+</pre>

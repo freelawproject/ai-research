@@ -1,0 +1,1100 @@
+filename,citing_cluster_id,citing_decision_name,cited_cluster_id,cited_decision_name,overruled
+0001.91306_cites_88061.txt,91306,"Morgan v. United States,113 U.S. 476  (1885)",88061,Texas v. White (1869),yes
+0002.91306_cites_88994.txt,91306,"Morgan v. United States,113 U.S. 476  (1885)",88994,Vermilye & Co. v. Adams Express Co. (1875),no
+0003.91306_cites_87633.txt,91306,"Morgan v. United States,113 U.S. 476  (1885)",87633,Murray v. Lardner (1865),no
+0004.91306_cites_88240.txt,91306,"Morgan v. United States,113 U.S. 476  (1885)",88240,Texas v. Hardenberg (1869),no
+0005.91306_cites_88693.txt,91306,"Morgan v. United States,113 U.S. 476  (1885)",88693,Huntington v. Texas (1873),no
+0006.91306_cites_88924.txt,91306,"Morgan v. United States,113 U.S. 476  (1885)",88924,National Bank of Washington v. Texas (1874),no
+0007.91306_cites_89668.txt,91306,"Morgan v. United States,113 U.S. 476  (1885)",89668,Cromwell v. County of Sac (1878),no
+0008.91306_cites_90400.txt,91306,"Morgan v. United States,113 U.S. 476  (1885)",90400,Railroad Co. v. Sprague (1881),no
+0009.92059_cites_91368.txt,92059,"In re Ayers,123 U.S. 443  (1887)",91368,Poindexter v. Greenhow (1885),no
+0010.92059_cites_91371.txt,92059,"In re Ayers,123 U.S. 443  (1887)",91371,Allen v. Baltimore & Ohio Railroad (1885),no
+0011.92059_cites_88673.txt,92059,"In re Ayers,123 U.S. 443  (1887)",88673,Davis v. Gray (1873),no
+0012.92059_cites_87371.txt,92059,"In re Ayers,123 U.S. 443  (1887)",87371,"Commonwealth of Ky. v. DENNISON, GOVERNOR, &C. (1861)",no
+0013.92059_cites_91583.txt,92059,"In re Ayers,123 U.S. 443  (1887)",91583,Hagood v. Southern (1886),no
+0014.92059_cites_90667.txt,92059,"In re Ayers,123 U.S. 443  (1887)",90667,United States v. Lee (1882),no
+0015.92059_cites_85451.txt,92059,"In re Ayers,123 U.S. 443  (1887)",85451,Osborn v. Bank of United States (1824) ,yes
+0016.92291_cites_88699.txt,92291,"Leloup v. Port of Mobile,127 U.S. 640  (1888)",88699,Osborne v. Mobile (1873),yes
+0017.92291_cites_89664.txt,92291,"Leloup v. Port of Mobile,127 U.S. 640  (1888)",89664,Pensacola Telegraph Co. v. Western Union Telegraph Co. (1878),no
+0018.92291_cites_90600.txt,92291,"Leloup v. Port of Mobile,127 U.S. 640  (1888)",90600,Telegraph Co. v. Texas (1882),no
+0019.92291_cites_91869.txt,92291,"Leloup v. Port of Mobile,127 U.S. 640  (1888)",91869,Robbins v. Shelby County Taxing District (1887),no
+0020.92291_cites_91985.txt,92291,"Leloup v. Port of Mobile,127 U.S. 640  (1888)",91985,Philadelphia & Southern Steamship Co. v. Pennsylvania (1887),no
+0021.93311_cites_92988.txt,93311,"Brenham v. German American Bank,144 U.S. 173  (1892)",92988,Merrill v. Monticello (1891),no
+0022.93311_cites_87743.txt,93311,"Brenham v. German American Bank,144 U.S. 173  (1892)",87743,Rogers v. Burlington (1866),yes
+0023.93311_cites_91125.txt,93311,"Brenham v. German American Bank,144 U.S. 173  (1892)",91125,Claiborne County v. Brooks (1884),no
+0024.93311_cites_87776.txt,93311,"Brenham v. German American Bank,144 U.S. 173  (1892)",87776,Mitchell v. Burlington (1867),yes
+0025.93311_cites_88640.txt,93311,"Brenham v. German American Bank,144 U.S. 173  (1892)",88640,Police Jury v. Britton (1873),no
+0026.93904_cites_93354.txt,93904,"Roberts v. Lewis,153 U.S. 367  (1894)",93354,Roberts v. Lewis (1892),no
+0027.93904_cites_87423.txt,93904,"Roberts v. Lewis,153 U.S. 367  (1894)",87423,Suydam v. Williamson (1861),no
+0028.93904_cites_84798.txt,93904,"Roberts v. Lewis,153 U.S. 367  (1894)",84798,Lambert's Lessee v. Payne (1805),no
+0029.93904_cites_89382.txt,93904,"Roberts v. Lewis,153 U.S. 367  (1894)",89382,Brant v. Virginia Coal & Iron Co. (1876),no
+0030.93904_cites_90983.txt,93904,"Roberts v. Lewis,153 U.S. 367  (1894)",90983,Howard v. Carusi (1884),no
+0031.93904_cites_93152.txt,93904,"Roberts v. Lewis,153 U.S. 367  (1894)",93152,Potter v. Couch (1891),no
+0032.93904_cites_90455.txt,93904,"Roberts v. Lewis,153 U.S. 367  (1894)",90455,Giles v. Little (1881),yes
+0033.98124_cites_96356.txt,98124,"Garland v. Washington,232 U.S. 642  (1914)",96356,Rogers v. Peck (1905),no
+0034.98124_cites_94455.txt,98124,"Garland v. Washington,232 U.S. 642  (1914)",94455,Crain v. United States (1896),yes
+0035.98917_cites_97893.txt,98917,"Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)",97893,Bauer & Cie v. O'Donnell (1913),no
+0036.98917_cites_97584.txt,98917,"Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)",97584,Henry v. A. B. Dick Co. (1912),yes
+0037.98917_cites_96878.txt,98917,"Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)",96878,Continental Paper Bag Co. v. Eastern Paper Bag Co. (1908),no
+0038.98917_cites_93828.txt,98917,"Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)",93828,Dunlap v. Schofield (1894),no
+0039.98917_cites_94177.txt,98917,"Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)",94177,Keeler v. Standard Folding Bed Co. (1895),no
+0040.98917_cites_89595.txt,98917,"Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)",89595,Keystone Bridge Co. v. Phoenix Iron Co. (1877),no
+0041.98917_cites_90432.txt,98917,"Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)",90432,Railroad Co. v. Mellon (1881),no
+0042.98917_cites_91637.txt,98917,"Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)",91637,Yale Lock Manufacturing Co. v. Greenleaf (1886),no
+0043.98917_cites_93161.txt,98917,"Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)",93161,McClain v. Ortmayer (1891),no
+0044.98917_cites_94711.txt,98917,"Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)",94711,United States v. American Bell Telephone Co. (1897),no
+0045.98917_cites_93908.txt,98917,"Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)",93908,Ashley v. Ryan (1894),no
+0046.98917_cites_96107.txt,98917,"Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)",96107,Ohio Ex Rel. Lloyd v. Dollison (1904),no
+0047.98917_cites_95670.txt,98917,"Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)",95670,Bement v. National Harrow Co. (1902),no
+0048.98917_cites_98575.txt,98917,"Motion Picture Patents Co. v. Universal Film Manufacturing Co.,243 U.S. 502  (1917)",98575,Bailey v. Baker Ice MacHine Co. (1915),no
+0049.99004_cites_95042.txt,99004,"Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)",95042,Lake Shore & Michigan Southern Railway Co. v. Smith (1899),yes
+0050.99004_cites_3483537.txt,99004,"Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)",3485674,Penna. R.R. Co. v. Public Ser. Com. (1915),no
+0051.99004_cites_93379.txt,99004,"Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)",93379,Interstate Com. Commiss. v. B. & O. RAILROAD (1892),no
+0052.99004_cites_98392.txt,99004,"Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)",98392,"Norfolk and Western Railway Company v. Conley, Attorney General of the State of West Virginia (1913)",no
+0053.99004_cites_98391.txt,99004,"Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)",98391,Northern Pacific Railway Co. v. North Dakota Ex Rel. McCue (1915),no
+0054.99004_cites_95555.txt,99004,"Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)",95555,Louisville & Nashville Railroad v. Kentucky (1902),no
+0055.99004_cites_97966.txt,99004,"Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)",8180960,The Minnesota Rate Cases (1913),no
+0056.99004_cites_96710.txt,99004,"Pennsylvania Railroad v. Towers,245 U.S. 6  (1917)",96710,Interstate Consolidated Street Railway Co. v. Massachusetts (1907),no
+0057.99901_cites_89506.txt,99901,"Terral v. Burke Construction Co.,257 U.S. 529  (1922)",89506,Doyle v. Continental Insurance (1877),yes
+0058.99901_cites_96471.txt,99901,"Terral v. Burke Construction Co.,257 U.S. 529  (1922)",96471,Security Mutual Life Insurance v. Prewitt (1906),yes
+0059.99901_cites_93467.txt,99901,"Terral v. Burke Construction Co.,257 U.S. 529  (1922)",93467,Iowa v. Illinois (1893),no
+0060.99901_cites_88953.txt,99901,"Terral v. Burke Construction Co.,257 U.S. 529  (1922)",88953,Home Ins. Co. v. Morse (1874),no
+0061.99901_cites_91911.txt,99901,"Terral v. Burke Construction Co.,257 U.S. 529  (1922)",91911,Barron v. Burnside (1887),no
+0062.99901_cites_93431.txt,99901,"Terral v. Burke Construction Co.,257 U.S. 529  (1922)",93431,Southern Pacific Co. v. Denton (1892),no
+0063.99901_cites_93803.txt,99901,"Terral v. Burke Construction Co.,257 U.S. 529  (1922)",93803,Martin's Administrator v. Baltimore & Ohio Railroad (1894),no
+0064.99901_cites_94850.txt,99901,"Terral v. Burke Construction Co.,257 U.S. 529  (1922)",94850,Barrow Steamship Co. v. Kane (1898),no
+0065.99901_cites_97283.txt,99901,"Terral v. Burke Construction Co.,257 U.S. 529  (1922)",97283,"Herndon v. Chicago, Rock Island & Pacific Railway Co. (1910)",no
+0066.99901_cites_98085.txt,99901,"Terral v. Burke Construction Co.,257 U.S. 529  (1922)",98085,Harrison v. St. Louis & San Francisco Railroad (1914),no
+0067.99901_cites_98747.txt,99901,"Terral v. Burke Construction Co.,257 U.S. 529  (1922)",98747,Donald v. Philadelphia & Reading Coal & Iron Co. (1916),no
+0068.101368_cites_92485.txt,101368,"Gleason v. Seaboard Air Line Railway,278 U.S. 349  (1929)",92485,Friedlander v. Texas & Pacific Railway Co. (1889),yes
+0069.101368_cites_4727363.txt,101368,"Gleason v. Seaboard Air Line Railway,278 U.S. 349  (1929)",4920593,Roy & Roy v. Northern Pacific Railway Co. (1906),no
+0070.101368_cites_5562591.txt,101368,"Gleason v. Seaboard Air Line Railway,278 U.S. 349  (1929)",5712559,Planters' Rice-Mill Co. v. Merchants' National Bank (1887),no
+0071.101368_cites_3678043.txt,101368,"Gleason v. Seaboard Air Line Railway,278 U.S. 349  (1929)",3931352,Havens v. Bank of Tarboro (1903),no
+0072.101750_cites_3589385.txt,101750,"East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)",3607596,Pennsylvania Gas Co. v. Public Service Commission (1919),yes
+0073.101750_cites_3486521.txt,101750,"East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)",3488586,West Virginia & Maryland Gas Co. v. Towers (1919),no
+0074.101750_cites_99524.txt,101750,"East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)",99524,Pennsylvania Gas Co. v. Public Service Commission (1920),no
+0075.101750_cites_101295.txt,101750,"East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)",101295,Sprout v. South Bend (1928),no
+0076.101750_cites_1578327.txt,101750,"East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)",1578327,Pullman Co. v. Richardson (1923),no
+0077.101750_cites_101176.txt,101750,"East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)",101176,Atlantic Coast Line Railroad v. Standard Oil Co. of Kentucky (1927),no
+0078.101750_cites_101497.txt,101750,"East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)",101497,New Jersey Bell Telephone Co. v. State Board of Taxes & Assessments (1930),no
+0079.101750_cites_100442.txt,101750,"East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)",100442,Missouri Ex Rel. Barrett v. Kansas Natural Gas Co. (1924),no
+0080.101750_cites_100987.txt,101750,"East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)",100987,Public Utilities Commission v. Attleboro Steam & Electric Co. (1927),no
+0081.101750_cites_100829.txt,101750,"East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)",100829,Peoples Natural Gas Co. v. Public Service Commission (1926),no
+0082.101750_cites_85534.txt,101750,"East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)",85534,Brown v. Maryland (1827),no
+0083.101750_cites_92767.txt,101750,"East Ohio Gas Co. v. Tax Commission of Ohio,283 U.S. 465  (1931)",92767,Leisy v. Hardin (1890),no
+0084.101913_cites_99897.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",99897,Gillespie v. Oklahoma (1922),no
+0085.101913_cites_89542.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",89542,Forbes v. Gracey (1877),no
+0086.101913_cites_99943.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",99943,Irwin v. Wright (1922),no
+0087.101913_cites_101632.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",101632,Willcutts v. Bunn (1931),no
+0088.101913_cites_96768.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",96768,Elder v. Wood (1908),no
+0089.101913_cites_101762.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",101762,Indian Motocycle Co. v. United States (1931),no
+0090.101913_cites_101894.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",101894,Burnet v. Coronado Oil & Gas Co. (1932),no
+0091.101913_cites_99339.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",99339,Union Oil Co. of Cal. v. Smith (1919),no
+0092.101913_cites_92685.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",92685,Wisconsin Central Railroad v. Price County (1890),no
+0093.101913_cites_101648.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",101648,Educational Films Corp. of America v. Ward (1931),no
+0094.101913_cites_85777.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",85777,Grant v. Raymond (1832),no
+0095.101913_cites_101268.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",101268,City of New Brunswick v. United States (1928),no
+0096.101913_cites_85911.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",85911,Wheaton and Donaldson v. Peters and Grigg (1834),no
+0097.101913_cites_85272.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",85272,M'culloch v. State of Maryland (1819),no
+0098.101913_cites_96154.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",96154,Baltimore Shipbuilding & Dry Dock Co. v. Baltimore (1904),no
+0099.101913_cites_101154.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",101154,Northwestern Mutual Life Insurance v. Wisconsin (1928),no
+0100.101913_cites_101291.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",101291,Long v. Rockwood (1928),yes
+0101.101913_cites_98481.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",98481,Bothwell v. Bingham County (1915),no
+0102.101913_cites_101272.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",101272,Shaw v. Gibson-Zahniser Oil Corp. (1928),no
+0103.101913_cites_87219.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",87219,Kendall v. Winsor (1859),no
+0104.101913_cites_86324.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",86324,Carroll v. Safford (1845),no
+0105.101913_cites_99638.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",99638,Johnson v. Maryland (1920),no
+0106.101913_cites_91588.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",91588,Van Brocklin v. Tennessee (1886),no
+0107.101913_cites_97614.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",97614,Gromer v. Standard Dredging Co. (1912),no
+0108.101913_cites_97103.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",97103,Caliga v. Inter Ocean Newspaper Co. (1909),no
+0109.101913_cites_94416.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",94416,Central Pacific Railroad v. California (1896),no
+0110.101913_cites_88789.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",88789,Railroad Co. v. Peniston (1873),no
+0111.101913_cites_87768.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",87768,Witherspoon v. Duncan (1867),no
+0112.101913_cites_96731.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",96731,American Tobacco Co. v. Werckmeister (1907),no
+0113.101913_cites_99040.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",99040,Crew Levick Co. v. Pennsylvania (1917),no
+0114.101913_cites_101731.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",101731,Group No. 1 Oil Corp. v. Bass (1931),no
+0115.101913_cites_101733.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",101733,Susquehanna Power Co. v. State Tax Comm'n of Md. (No. 1) (1931),no
+0116.101913_cites_96874.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",96874,Globe Newspaper Co. v. Walker (1908),no
+0117.101913_cites_96878.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",96878,Continental Paper Bag Co. v. Eastern Paper Bag Co. (1908),no
+0118.101913_cites_99829.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",99829,"Choctaw, Oklahoma & Gulf Railroad v. MacKey (1921)",no
+0119.101913_cites_101497.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",101497,New Jersey Bell Telephone Co. v. State Board of Taxes & Assessments (1930),no
+0120.101913_cites_101371.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",101371,"Exchange Trust Co. v. Drainage Dist. No. 7, Poinsett Cty. (1929)",no
+0121.101913_cites_99196.txt,101913,"Fox Film Corp. v. Doyal,286 U.S. 123  (1932)",99196,United States Glue Co. v. Town of Oak Creek (1918),no
+0122.102164_cites_3548121.txt,102164,"Funk v. United States,290 U.S. 371  (1933)",3568583,"Reno Smelting, Milling & Reduction Works v. Stevenson (1889)",no
+0123.102164_cites_93442.txt,102164,"Funk v. United States,290 U.S. 371  (1933)",93442,Benson v. United States (1892),no
+0124.102164_cites_94828.txt,102164,"Funk v. United States,290 U.S. 371  (1933)",94828,Holden v. Hardy (1898),no
+0125.102164_cites_93322.txt,102164,"Funk v. United States,290 U.S. 371  (1933)",93322,Logan v. United States (1892),no
+0126.102164_cites_86700.txt,102164,"Funk v. United States,290 U.S. 371  (1933)",86700,United States v. Reid (1852),no
+0127.102164_cites_91054.txt,102164,"Funk v. United States,290 U.S. 371  (1933)",91054,Hurtado v. California (1884),no
+0128.102164_cites_101558.txt,102164,"Funk v. United States,290 U.S. 371  (1933)",101558,Patton v. United States (1930),no
+0129.102164_cites_97335.txt,102164,"Funk v. United States,290 U.S. 371  (1933)",97335,Hendrix v. United States (1911),yes
+0130.102164_cites_99065.txt,102164,"Funk v. United States,290 U.S. 371  (1933)",99065,Rosen v. United States (1918),no
+0131.102164_cites_99658.txt,102164,"Funk v. United States,290 U.S. 371  (1933)",99658,Jin Fuey Moy v. United States (1920),yes
+0132.102784_cites_100181.txt,102784,"West Coast Hotel Co. v. Parrish,300 U.S. 379  (1937)",100181,Adkins v. Children's Hospital of Columbia (1923),yes
+0133.102784_cites_102681.txt,102784,"West Coast Hotel Co. v. Parrish,300 U.S. 379  (1937)",102681,Morehead v. New York Ex Rel. Tipaldo (1936),no
+0134.102784_cites_102224.txt,102784,"West Coast Hotel Co. v. Parrish,300 U.S. 379  (1937)",102224,Nebbia v. New York (1934),no
+0135.102784_cites_97368.txt,102784,"West Coast Hotel Co. v. Parrish,300 U.S. 379  (1937)",97368,"Chicago, Burlington & Quincy Railroad v. McGuire (1911)",no
+0136.102784_cites_94828.txt,102784,"West Coast Hotel Co. v. Parrish,300 U.S. 379  (1937)",94828,Holden v. Hardy (1898),no
+0137.103012_cites_101265.txt,103012,"Erie Railroad v. Tompkins,304 U.S. 64  (1938)",101265,Black & White Taxicab & Transfer Co. v. Brown & Yellow Taxicab & Transfer Co. (1928),no
+0138.103012_cites_93638.txt,103012,"Erie Railroad v. Tompkins,304 U.S. 64  (1938)",93638,Baltimore & Ohio Railroad v. Baugh (1893),no
+0139.103012_cites_3847696.txt,103012,"Erie Railroad v. Tompkins,304 U.S. 64  (1938)",4088490,Falchetti v. Pennsylvania R. R. (1932),no
+0140.103012_cites_86188.txt,103012,"Erie Railroad v. Tompkins,304 U.S. 64  (1938)",86188,Swift v. Tyson (1842),yes
+0141.103172_cites_88308.txt,103172,"Graves v. New York ex rel. O’Keefe,306 U.S. 466  (1939)",88308,Collector v. Day (1871),yes
+0142.103172_cites_103047.txt,103172,"Graves v. New York ex rel. O’Keefe,306 U.S. 466  (1939)",103047,Helvering v. Gerhardt (1938),no
+0143.103172_cites_85272.txt,103172,"Graves v. New York ex rel. O’Keefe,306 U.S. 466  (1939)",85272,M'culloch v. State of Maryland (1819),no
+0144.103172_cites_100771.txt,103172,"Graves v. New York ex rel. O’Keefe,306 U.S. 466  (1939)",100771,Metcalf & Eddy v. Mitchell (1926),no
+0145.103172_cites_102734.txt,103172,"Graves v. New York ex rel. O’Keefe,306 U.S. 466  (1939)",102734,New York Ex Rel. Rogers v. Graves (1937),yes
+0146.103172_cites_86223.txt,103172,"Graves v. New York ex rel. O’Keefe,306 U.S. 466  (1939)",86223,Dobbins v. Commissioners of Erie County (1842),no
+0147.103172_cites_102783.txt,103172,"Graves v. New York ex rel. O’Keefe,306 U.S. 466  (1939)",102783,Brush v. Commissioner (1937),no
+0148.103214_cites_94174.txt,103214,"O’Malley v. Woodrough,307 U.S. 277  (1939)",94174,Pollock v. Farmers' Loan & Trust Co. (1895),no
+0149.103214_cites_3484932.txt,103214,"O’Malley v. Woodrough,307 U.S. 277  (1939)",3487033,Gordy v. Dennis (1939),no
+0150.103214_cites_100693.txt,103214,"O’Malley v. Woodrough,307 U.S. 277  (1939)",100693,Miles v. Graham (1925),yes
+0151.103214_cites_85272.txt,103214,"O’Malley v. Woodrough,307 U.S. 277  (1939)",85272,M'culloch v. State of Maryland (1819),no
+0152.103214_cites_99610.txt,103214,"O’Malley v. Woodrough,307 U.S. 277  (1939)",99610,Evans v. Gore (1920),yes
+0153.103198_cites_97661.txt,103198,"Rochester Telephone Corp. v. United States,307 U.S. 125  (1939)",97661,Procter & Gamble Co. v. United States (1912),yes
+0154.103198_cites_101973.txt,103198,"Rochester Telephone Corp. v. United States,307 U.S. 125  (1939)",101973,Alton Railroad v. United States (1932),no
+0155.103198_cites_102669.txt,103198,"Rochester Telephone Corp. v. United States,307 U.S. 125  (1939)",102669,United States v. Corrick (1936),no
+0156.103198_cites_101012.txt,103198,"Rochester Telephone Corp. v. United States,307 U.S. 125  (1939)",101012,United States v. Los Angeles & Salt Lake Railroad (1927),no
+0157.103198_cites_96063.txt,103198,"Rochester Telephone Corp. v. United States,307 U.S. 125  (1939)",96063,Interstate Commerce Commission v. Baird (1904),no
+0158.103198_cites_98242.txt,103198,"Rochester Telephone Corp. v. United States,307 U.S. 125  (1939)",98242,Intermountain Rate Cases (1914),no
+0159.103198_cites_102969.txt,103198,"Rochester Telephone Corp. v. United States,307 U.S. 125  (1939)",102969,United States v. Griffin (1938),no
+0160.103292_cites_102488.txt,103292,"Helvering v. Hallock,309 U.S. 106  (1940)",102488,Helvering v. St. Louis Union Trust Co. (1935),yes
+0161.103292_cites_101723.txt,103292,"Helvering v. Hallock,309 U.S. 106  (1940)",101723,Klein v. United States (1931),no
+0162.103292_cites_101780.txt,103292,"Helvering v. Hallock,309 U.S. 106  (1940)",101780,Cyrus H. McCormick v. David Burnet (1931),no
+0163.103292_cites_101552.txt,103292,"Helvering v. Hallock,309 U.S. 106  (1940)",101552,May v. Heiner (1930),no
+0164.103292_cites_1477043.txt,103292,"Helvering v. Hallock,309 U.S. 106  (1940)",1477043,Commissioner of Internal Revenue v. Schwarz (1935),no
+0165.103292_cites_1474615.txt,103292,"Helvering v. Hallock,309 U.S. 106  (1940)",1474615,Commissioner of Internal Revenue v. Hallock (1939),no
+0166.103292_cites_102489.txt,103292,"Helvering v. Hallock,309 U.S. 106  (1940)",102489, Becker v. St. Louis Union Trust Co (1935),yes
+0167.103290_cites_102529.txt,103290,"Madden v. Kentucky,309 U.S. 83  (1940)",102529,Colgate v. Harvey (1935),yes
+0168.103290_cites_88661.txt,103290,"Madden v. Kentucky,309 U.S. 83  (1940)",88661,Butchers' Benevolent Ass'n v. Crescent City Live-Stock Landing & Slaughter-House Co. (1873),no
+0169.103290_cites_96885.txt,103290,"Madden v. Kentucky,309 U.S. 83  (1940)",96885,Twining v. New Jersey (1908),no
+0170.103290_cites_103226.txt,103290,"Madden v. Kentucky,309 U.S. 83  (1940)",103226,Haguer v. Committee for Industrial Organization (1939),no
+0171.103351_cites_103227.txt,103351,"Tigner v. Texas,310 U.S. 141  (1940)",103227,"United States v. Rock Royal Co-Operative, Inc. (1939)",no
+0172.103351_cites_101217.txt,103351,"Tigner v. Texas,310 U.S. 141  (1940)",101217,Liberty Warehouse Co. v. Burley Tobacco Growers' Co-Operative Marketing Assn. (1928),no
+0173.103351_cites_96354.txt,103351,"Tigner v. Texas,310 U.S. 141  (1940)",96354,Carroll v. Greenwich Ins. Co. of NY (1905),no
+0174.103351_cites_98219.txt,103351,"Tigner v. Texas,310 U.S. 141  (1940)",98219,International Harvester Co. of America v. Missouri (1914),no
+0175.103351_cites_102224.txt,103351,"Tigner v. Texas,310 U.S. 141  (1940)",102224,Nebbia v. New York (1934),no
+0176.103351_cites_101842.txt,103351,"Tigner v. Texas,310 U.S. 141  (1940)",101842,United States Navigation Co. v. Cunard Steamship Co. (1932),no
+0177.103351_cites_100052.txt,103351,"Tigner v. Texas,310 U.S. 141  (1940)",100052,Keogh v. Chicago & Northwestern Railway Co. (1922),no
+0178.103351_cites_98166.txt,103351,"Tigner v. Texas,310 U.S. 141  (1940)",98166,German Alliance Insurance v. Lewis (1914),no
+0179.103351_cites_103191.txt,103351,"Tigner v. Texas,310 U.S. 141  (1940)",103191,Mulford v. Smith (1939),no
+0180.103351_cites_102457.txt,103351,"Tigner v. Texas,310 U.S. 141  (1940)",102457,Aero Mayflower Transit Co. v. Georgia Public Service Commission (1935),no
+0181.103351_cites_95612.txt,103351,"Tigner v. Texas,310 U.S. 141  (1940)",95612,Connolly v. Union Sewer Pipe Co. (1902),yes
+0182.103557_cites_99670.txt,103557,"Edwards v. California,314 U.S. 160  (1941)",99670,United States v. Wheeler (1920),no
+0183.103557_cites_96885.txt,103557,"Edwards v. California,314 U.S. 160  (1941)",96885,Twining v. New Jersey (1908),no
+0184.103557_cites_87885.txt,103557,"Edwards v. California,314 U.S. 160  (1941)",87885,Crandall v. Nevada (1868),no
+0185.103557_cites_102529.txt,103557,"Edwards v. California,314 U.S. 160  (1941)",102529,Colgate v. Harvey (1935),no
+0186.103557_cites_86014.txt,103557,"Edwards v. California,314 U.S. 160  (1941)",86014,Mayor of New York v. Miln (1837) ,yes
+0187.103505_cites_101453.txt,103505,"Nye v. United States,313 U.S. 33  (1941)",101453,Sinclair v. United States (1929),no
+0188.103505_cites_99206.txt,103505,"Nye v. United States,313 U.S. 33  (1941)",99206,Toledo Newspaper Co. v. United States (1918),yes
+0189.103505_cites_88890.txt,103505,"Nye v. United States,313 U.S. 33  (1941)",88890,Ex Parte Robinson (1874),no
+0190.103505_cites_92542.txt,103505,"Nye v. United States,313 U.S. 33  (1941)",92542,Savin (1889),no
+0191.103505_cites_92543.txt,103505,"Nye v. United States,313 U.S. 33  (1941)",92543,Cuddy (1889),no
+0192.103522_cites_101315.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",101315,Ribnik v. McBride (1928),yes
+0193.103522_cites_100181.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",100181,Adkins v. Children's Hospital of Columbia (1923),no
+0194.103522_cites_101029.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",101029,Tyson & Brother v. Banton (1927),no
+0195.103522_cites_101356.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",101356,Williams v. Standard Oil Co. of La. (1929),no
+0196.103522_cites_102681.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",102681,Morehead v. New York Ex Rel. Tipaldo (1936),no
+0197.103522_cites_101511.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",101511,Tagg Bros. & Moorhead v. United States (1930),no
+0198.103522_cites_101636.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",101636,"O'Gorman & Young, Inc. v. Hartford Fire Ins. Co. (1931)",no
+0199.103522_cites_102224.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",102224,Nebbia v. New York (1934),no
+0200.103522_cites_102322.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",102322,Hegeman Farms Corp. v. Baldwin (1934),no
+0201.103522_cites_102602.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",102602,"BORDEN’S FARM PRODUCTS CO., INC. v. TEN EYCK, COMMISSIONER OF AGRICULTURE & MARKETS OF NEW YORK, Et Al. (1936)",no
+0202.103522_cites_102402.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",102402,"Baldwin v. G. A. F. Seelig, Inc. (1935)",no
+0203.103522_cites_102603.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",102603,"Mayflower Farms, Inc. v. Ten Eyck (1936)",no
+0204.103522_cites_102784.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",102784,West Coast Hotel Co. v. Parrish (1937),no
+0205.103522_cites_102835.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",102835,Townsend v. Yeomans (1937),no
+0206.103522_cites_103191.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",103191,Mulford v. Smith (1939),no
+0207.103522_cites_103133.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",103133,Currin v. Wallace (1939),no
+0208.103522_cites_103227.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",103227,"United States v. Rock Royal Co-Operative, Inc. (1939)",no
+0209.103522_cites_103362.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",103362,Sunshine Anthracite Coal Co. v. Adkins (1940),no
+0210.103522_cites_103442.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",103442,United States v. Darby (1941),no
+0211.103522_cites_98749.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",98749,Brazee v. Michigan (1916),no
+0212.103522_cites_101887.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",101887,New State Ice Co. v. Liebmann (1932),no
+0213.103522_cites_102713.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",102713,Old Dearborn Distributing Co. v. Seagram-Distillers Corp. (1936),no
+0214.103522_cites_102662.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",102662,Carter v. Carter Coal Co. (1936),no
+0215.103522_cites_101413.txt,103522,"Olsen v. Nebraska ex rel. Western Reference & Bond Ass’n,313 U.S. 236  (1941)",101413,Highland v. Russell Car & Snow Plow Co. (1929),no
+0216.103555_cites_90350.txt,103555,"Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)",90350,Dietzsch v. Huidekoper (1881),no
+0217.103555_cites_100061.txt,103555,"Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)",100061,Kline v. Burke Construction Co. (1922),no
+0218.103555_cites_96399.txt,103555,"Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)",96399,Gunter v. Atlantic Coast Line Railroad (1906),no
+0219.103555_cites_89070.txt,103555,"Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)",89070,French v. Hay (1875),no
+0220.103555_cites_89712.txt,103555,"Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)",89712,Dial v. Reynolds (1878),no
+0221.103555_cites_99752.txt,103555,"Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)",99752,Supreme Tribe of Ben-Hur v. Cauble (1921),yes
+0222.103555_cites_93714.txt,103555,"Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)",93714,Root v. Woolworth (1893),no
+0223.103555_cites_95802.txt,103555,"Toucey v. New York Life Insurance Co.,314 U.S. 118  (1941)",95802,Prout v. Starr (1903),no
+0224.103493_cites_95346.txt,103493,"United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)",95346,Scranton v. Wheeler (1900),no
+0225.103493_cites_97899.txt,103493,"United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)",97899,United States v. Chandler-Dunbar Water Power Co. (1913),no
+0226.103493_cites_95793.txt,103493,"United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)",95793,United States v. Lynah (1903),yes
+0227.103493_cites_98902.txt,103493,"United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)",98902,United States v. Cress (1917),no
+0228.103493_cites_87748.txt,103493,"United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)",87748,Gilman v. Philadelphia (1866),no
+0229.103493_cites_94650.txt,103493,"United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)",94650,Gibson v. United States (1897),no
+0230.103493_cites_103413.txt,103493,"United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)",103413,United States v. Appalachian Electric Power Co. (1941),no
+0231.103493_cites_87367.txt,103493,"United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)",87367,State of Alabama v. State of Georgia (1860),no
+0232.103493_cites_98436.txt,103493,"United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)",98436,Greenleaf Johnson Lumber Co. v. Garrison (1915),no
+0233.103493_cites_98694.txt,103493,"United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)",98694,Willink v. United States (1916),no
+0234.103493_cites_97900.txt,103493,"United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad,312 U.S. 592  (1941)",97900,Lewis Blue Point Oyster Cultivation Co. v. Briggs (1913),no
+0235.103442_cites_103133.txt,103442,"United States v. Darby,312 U.S. 100  (1941)",103133,Currin v. Wallace (1939),no
+0236.103442_cites_2516349.txt,103442,"United States v. Darby,312 U.S. 100  (1941)",95716,Reid v. Colorado (1902),no
+0237.103442_cites_103191.txt,103442,"United States v. Darby,312 U.S. 100  (1941)",103191,Mulford v. Smith (1939),no
+0238.103442_cites_98832.txt,103442,"United States v. Darby,312 U.S. 100  (1941)",98832,Clark Distilling Co. v. Western Maryland Railway Co. (1917),no
+0239.103442_cites_98608.txt,103442,"United States v. Darby,312 U.S. 100  (1941)",98608,Seven Cases of Eckman's Alternative v. United States (1916),no
+0240.103442_cites_99412.txt,103442,"United States v. Darby,312 U.S. 100  (1941)",99412,United States v. Ferger (1919),no
+0241.103442_cites_100469.txt,103442,"United States v. Darby,312 U.S. 100  (1941)",100469,James Everard's Breweries v. Day (1924),no
+0242.103442_cites_98232.txt,103442,"United States v. Darby,312 U.S. 100  (1941)",98232,"Houston, East & West Texas Railway Co. v. United States (1914)",no
+0243.103442_cites_99906.txt,103442,"United States v. Darby,312 U.S. 100  (1941)",99906,"Wisconsin RR Comm. v. C., B. & QRR CO. (1922)",no
+0244.103442_cites_102204.txt,103442,"United States v. Darby,312 U.S. 100  (1941)",102204,"Local 167, International Brotherhood of Teamsters v. United States (1934)",no
+0245.103442_cites_97451.txt,103442,"United States v. Darby,312 U.S. 100  (1941)",97451,Balt. & Ohio RR v. Int. Com. Comm. (1911),no
+0246.103442_cites_100188.txt,103442,"United States v. Darby,312 U.S. 100  (1941)",100188,Board of Trade of Chicago v. Olsen (1923),no
+0247.103442_cites_2621060.txt,103442,"United States v. Darby,312 U.S. 100  (1941)",2621060,Bunting v. Oregon (1917),no
+0248.103442_cites_99190.txt,103442,"United States v. Darby,312 U.S. 100  (1941)",99190,Hammer v. Dagenhart (1918),yes
+0249.103639_cites_2620693.txt,103639,"Graves v. Schmidlapp,315 U.S. 657  (1942)",2620693,Bullen v. Wisconsin (1916),no
+0250.103639_cites_103220.txt,103639,"Graves v. Schmidlapp,315 U.S. 657  (1942)",103220,Graves v. Elliott (1939),no
+0251.103639_cites_100955.txt,103639,"Graves v. Schmidlapp,315 U.S. 657  (1942)",100955,Wachovia Bank & Trust Co. v. Doughton (1926),yes
+0252.103639_cites_103219.txt,103639,"Graves v. Schmidlapp,315 U.S. 657  (1942)",103219,Curry v. McCanless (1939),no
+0253.103639_cites_96658.txt,103639,"Graves v. Schmidlapp,315 U.S. 657  (1942)",96658,Chanler v. Kelsey (1907),no
+0254.103639_cites_95546.txt,103639,"Graves v. Schmidlapp,315 U.S. 657  (1942)",95546,Orr v. Gilman (1902),no
+0255.103639_cites_101237.txt,103639,"Graves v. Schmidlapp,315 U.S. 657  (1942)",101237,Saltonstall v. Saltonstall (1928),no
+0256.103639_cites_101277.txt,103639,"Graves v. Schmidlapp,315 U.S. 657  (1942)",101277,Blodgett v. Silberman (1928),no
+0257.103736_cites_96454.txt,103736,"Williams v. North Carolina,317 U.S. 287  (1942)",96454,Haddock v. Haddock (1906),yes
+0258.103736_cites_95457.txt,103736,"Williams v. North Carolina,317 U.S. 287  (1942)",95457,Atherton v. Atherton (1901),no
+0259.103736_cites_87830.txt,103736,"Williams v. North Carolina,317 U.S. 287  (1942)",87830,Christmas v. Russell (1866),no
+0260.103736_cites_95458.txt,103736,"Williams v. North Carolina,317 U.S. 287  (1942)",95458,Bell v. Bell (1901),no
+0261.103736_cites_102404.txt,103736,"Williams v. North Carolina,317 U.S. 287  (1942)",102404,Alaska Packers Assn. v. Industrial Accident Comm'n of Cal. (1935),no
+0262.103736_cites_98476.txt,103736,"Williams v. North Carolina,317 U.S. 287  (1942)",98476,Hood v. McGehee (1915),no
+0263.103736_cites_102412.txt,103736,"Williams v. North Carolina,317 U.S. 287  (1942)",102412,Broderick v. Rosner (1935),no
+0264.103736_cites_97084.txt,103736,"Williams v. North Carolina,317 U.S. 287  (1942)",97084,Fall v. Eastin (1909),no
+0265.103736_cites_96865.txt,103736,"Williams v. North Carolina,317 U.S. 287  (1942)",96865,Fauntleroy v. Lum (1908),no
+0266.103736_cites_103417.txt,103736,"Williams v. North Carolina,317 U.S. 287  (1942)",103417,Milliken v. Meyer (1941),no
+0267.103761_cites_101495.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",101495,Johnson v. United States Shipping Bd. Emergency Fleet Corporation (1930),yes
+0268.103761_cites_102049.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",102049,Vancouver Steamship Co. v. Rice (1933),no
+0269.103761_cites_102479.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",102479,The Admiral Peoples (1935),no
+0270.103761_cites_100968.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",100968,Eastern Transportation Co. v. United States (1927),no
+0271.103761_cites_101230.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",101230,United States Shipping Bd. Emergency Fleet Corporation v. Rosenberg Brothers & Co. (1928),no
+0272.103761_cites_99419.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",99419,The Lake Monroe (1919),no
+0273.103761_cites_99982.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",99982,Sloan Shipyards Corp. v. United States Shipping Bd. Emergency Fleet Corporation (1922),no
+0274.103761_cites_103165.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",103165,Keifer & Keifer v. Reconstruction Finance Corp. (1939),no
+0275.103761_cites_103302.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",103302,"Federal Housing Administration, Region No. 4 v. Burr (1940)",no
+0276.103761_cites_102452.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",102452,Federal Land Bank v. Priddy (1935),no
+0277.103761_cites_103439.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",103439,Reconstruction Finance Corporation v. JG Menihan Corp. (1941),no
+0278.103761_cites_99972.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",99972,Dahn v. Davis (1922),no
+0279.103761_cites_93000.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",93000,Guaranty Trust and Safe Deposit Co. v. Green Cove Springs and Melrose Railroad (1891),no
+0280.103761_cites_103284.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",103284,Yearsley v. W. A. Ross Construction Co. (1940),no
+0281.103761_cites_95660.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",95660,Minnesota v. Hitchcock (1902),no
+0282.103761_cites_84992.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",84992,Dunlop v. Munroe (1812),no
+0283.103761_cites_92277.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",92277,Robertson v. Sichel (1888),no
+0284.103761_cites_94400.txt,103761,"Brady v. Roosevelt Steamship, Co.,317 U.S. 575  (1943)",94400,Spalding v. Vilas (1896),no
+0285.103831_cites_103705.txt,103831,"Murdock v. Pennsylvania,319 U.S. 105 (1943)",103705,Jones v. Opelika (1942),yes
+0286.103831_cites_103355.txt,103831,"Murdock v. Pennsylvania,319 U.S. 105 (1943)",103355,Cantwell v. Connecticut (1940),no
+0287.103831_cites_102601.txt,103831,"Murdock v. Pennsylvania,319 U.S. 105 (1943)",102601,Grosjean v. American Press Co. (1936),no
+0288.103831_cites_101773.txt,103831,"Murdock v. Pennsylvania,319 U.S. 105 (1943)",101773,Near v. Minnesota Ex Rel. Olson (1931),no
+0289.103869_cites_103816.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",103816,Board of County Commissioners v. Seber (1943),no
+0290.103869_cites_102466.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",102466,Superintendent of Five Civilized Tribes v. Commissioner (1935),no
+0291.103869_cites_101272.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",101272,Shaw v. Gibson-Zahniser Oil Corp. (1928),no
+0292.103869_cites_103192.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",103192,United States Trust Co. v. Helvering (1939),no
+0293.103869_cites_97425.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",97425,Tiger v. Western Investment Co. (1911),no
+0294.103869_cites_102986.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",102986,Helvering v. Mountain Producers Corp. (1938),no
+0295.103869_cites_95792.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",95792,United States v. Rickert (1903),no
+0296.103869_cites_103172.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",103172,Graves v. New York Ex Rel. O'Keefe (1939),no
+0297.103869_cites_99097.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",99097,Brader v. James (1918),no
+0298.103869_cites_98296.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",98296,"Choctaw, Oklahoma & Gulf Railroad v. Harrison (1914)",no
+0299.103869_cites_98689.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",98689,Indian Territory Illuminating Oil Co. v. Oklahoma (1916),no
+0300.103869_cites_100916.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",100916,Jaybird Mining Co. v. Weir (1926),no
+0301.103869_cites_99897.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",99897,Gillespie v. Oklahoma (1922),no
+0302.103869_cites_101499.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",101499,Carpenter v. Shaw (1930),no
+0303.103869_cites_97639.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",97639,Choate v. Trapp (1912),no
+0304.103869_cites_99118.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",99118,McCurdy v. United States (1918),no
+0305.103869_cites_100830.txt,103869,"Oklahoma Tax Commission v. United States,319 U.S. 598  (1943)",100830, Childers v. Beaver (1926),yes
+0306.103870_cites_103373.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",103373,Minersville School District v. Gobitis (1940),yes
+0307.103870_cites_102334.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",102334,Hamilton v. Regents of the University of California (1934),no
+0308.103870_cites_100694.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",100694,Pierce v. Society of Sisters (1925),no
+0309.103870_cites_101741.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",101741,Stromberg v. California (1931),no
+0310.103870_cites_103705.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",103705,Jones v. Opelika (1942),no
+0311.103870_cites_102580.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",102580,United States v. Butler (1936),no
+0312.103870_cites_103017.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",103017,United States v. Carolene Products Co. (1938),no
+0313.103870_cites_96087.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",96087,"Missouri, Kansas & Texas Railway Co. v. May (1904)",no
+0314.103870_cites_96042.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",96042,Rippey v. Texas (1904),no
+0315.103870_cites_103508.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",103508,Skiriotes v. Florida (1941),no
+0316.103870_cites_102879.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",102879,Palko v. Connecticut (1937),no
+0317.103870_cites_91054.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",91054,Hurtado v. California (1884),no
+0318.103870_cites_96230.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",96230,Jacobson v. Massachusetts (1905),no
+0319.103870_cites_1303501.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",1303501,Shoemaker v. Keely (1793),no
+0320.103870_cites_101011.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",101011,"Farrington, Governor v. T. Tokushige (1927)",no
+0321.103870_cites_99296.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",99296,Schenck v. United States (1919),no
+0322.103870_cites_103795.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",103795,Helvering v. Griffiths (1943),no
+0323.103870_cites_99053.txt,103870,"West Virginia State Board of Education v. Barnette,319 U.S. 624  (1943)",99053,Selective Draft Law Cases (1918),no
+0324.103915_cites_103633.txt,103915,"Federal Power Commssion v. Hope Natural Gas Co.,320 U.S. 591  (1944)",103633,Federal Power Commission v. Natural Gas Pipeline Co. (1942),no
+0325.103915_cites_101364.txt,103915,"Federal Power Commssion v. Hope Natural Gas Co.,320 U.S. 591  (1944)",101364,United Fuel Gas Co. v. Railroad Commission (1929),no
+0326.103915_cites_102280.txt,103915,"Federal Power Commssion v. Hope Natural Gas Co.,320 U.S. 591  (1944)",102280,Columbus Gas & Fuel Co. v. Public Util. Comm'n of Ohio (1934),no
+0327.103915_cites_102091.txt,103915,"Federal Power Commssion v. Hope Natural Gas Co.,320 U.S. 591  (1944)",102091,Los Angeles Gas & Electric Corp. v. Railroad Commission (1933),no
+0328.103915_cites_102270.txt,103915,"Federal Power Commssion v. Hope Natural Gas Co.,320 U.S. 591  (1944)",102270,Dayton Power & Light Co. v. Public Utilities Commission (1934),no
+0329.103915_cites_92743.txt,103915,"Federal Power Commssion v. Hope Natural Gas Co.,320 U.S. 591  (1944)",92743,"Chicago, Milwaukee & St. Paul Railway Co. v. Minnesota (1890)",no
+0330.103915_cites_101492.txt,103915,"Federal Power Commssion v. Hope Natural Gas Co.,320 U.S. 591  (1944)",101492,United Rs. & Elec. Co. of Baltimore v. West (1930),yes
+0331.103927_cites_95840.txt,103927,"Mahnich v. Southern Steamship Co.,321 U.S. 96  (1944)",95840,The Osceola (1903),no
+0332.103927_cites_100007.txt,103927,"Mahnich v. Southern Steamship Co.,321 U.S. 96  (1944)",100007,Carlisle Packing Co. v. Sandanger (1922),no
+0333.103927_cites_103121.txt,103927,"Mahnich v. Southern Steamship Co.,321 U.S. 96  (1944)",103121,Socony-Vacuum Oil Co. v. Smith (1939),no
+0334.103927_cites_101292.txt,103927,"Mahnich v. Southern Steamship Co.,321 U.S. 96  (1944)",101292,"Plamals v. S. S. ""Pinar Del Rio"" (1928)",yes
+0335.103927_cites_102648.txt,103927,"Mahnich v. Southern Steamship Co.,321 U.S. 96  (1944)",102648,The Arizona v. Anelich (1936),no
+0336.103916_cites_101696.txt,103916,"Mercoid Corp. v. Mid-Continent Co.,320 U.S. 661  (1944)",101696,Carbice Corp. of America v. American Patents Development Corp. (1931),no
+0337.103916_cites_97018.txt,103916,"Mercoid Corp. v. Mid-Continent Co.,320 U.S. 661  (1944)",97018,Leeds & Catlin Company v. Victor Talking Machine Company (No. 2) (1909),yes
+0338.103916_cites_102889.txt,103916,"Mercoid Corp. v. Mid-Continent Co.,320 U.S. 661  (1944)",102889,Leitch Manufacturing Co. v. Barber Co. (1938),no
+0339.103916_cites_98917.txt,103916,"Mercoid Corp. v. Mid-Continent Co.,320 U.S. 661  (1944)",98917,Motion Picture Patents Co. v. Universal Film Manufacturing Co. (1917),no
+0340.103916_cites_103578.txt,103916,"Mercoid Corp. v. Mid-Continent Co.,320 U.S. 661  (1944)",103578,B. B. Chemical Co. v. Ellis (1942),no
+0341.103916_cites_103678.txt,103916,"Mercoid Corp. v. Mid-Continent Co.,320 U.S. 661  (1944)",103678,United States v. Masonite Corp. (1942),no
+0342.103962_cites_103531.txt,103962,"Smith v. Allwright,321 U.S. 649  (1944)",103531,United States v. Classic (1941),no
+0343.103962_cites_102431.txt,103962,"Smith v. Allwright,321 U.S. 649  (1944)",102431,Grovey v. Townsend (1935),yes
+0344.103962_cites_101911.txt,103962,"Smith v. Allwright,321 U.S. 649  (1944)",101911,Nixon v. Condon (1932),no
+0345.103962_cites_3981612.txt,103962,"Smith v. Allwright,321 U.S. 649  (1944)",4209365,Bell v. Hill (1934),no
+0346.104285_cites_101446.txt,104285,"Girouard v. United States,328 U.S. 61  (1946)",101446,United States v. Schwimmer (1929),yes
+0347.104285_cites_101765.txt,104285,"Girouard v. United States,328 U.S. 61  (1946)",101765,United States v. MacIntosh (1931),yes
+0348.104285_cites_101766.txt,104285,"Girouard v. United States,328 U.S. 61  (1946)",101766,United States v. Bland (1931),yes
+0349.104285_cites_103367.txt,104285,"Girouard v. United States,328 U.S. 61  (1946)",103367,Apex Hosiery Co. v. Leader (1940),no
+0350.104380_cites_3663548.txt,104380,"Angel v. Bullington,330 U.S. 183  (1947)",3917155,Bullington v. . Angel (1941),no
+0351.104380_cites_1116658.txt,104380,"Angel v. Bullington,330 U.S. 183  (1947)",104182,Guaranty Trust Co. v. York (1945),no
+0352.104380_cites_97674.txt,104380,"Angel v. Bullington,330 U.S. 183  (1947)",97674,David Lupton's Sons Co. v. Automobile Club of America (1912),yes
+0353.104380_cites_103012.txt,104380,"Angel v. Bullington,330 U.S. 183  (1947)",103012,Erie Railroad v. Tompkins (1938),no
+0354.2764117_cites_104139.txt,2764117,"Sherrer v. Sherrer,334 U.S. 343  (1948)",104139,Williams v. North Carolina (1945),no
+0355.2764117_cites_103096.txt,2764117,"Sherrer v. Sherrer,334 U.S. 343  (1948)",103096,Stoll v. Gottlieb (1938),no
+0356.2764117_cites_103736.txt,2764117,"Sherrer v. Sherrer,334 U.S. 343  (1948)",103736,Williams v. North Carolina (1943),no
+0357.2764117_cites_103084.txt,2764117,"Sherrer v. Sherrer,334 U.S. 343  (1948)",103084,Davis v. Davis (1938),no
+0358.2764117_cites_103236.txt,2764117,"Sherrer v. Sherrer,334 U.S. 343  (1948)",103236,Treinies v. Sunshine Mining Co. (1940),no
+0359.2764117_cites_95768.txt,2764117,"Sherrer v. Sherrer,334 U.S. 343  (1948)",95768,Andrews v. Andrews (1903),yes
+0360.2764117_cites_98932.txt,2764117,"Sherrer v. Sherrer,334 U.S. 343  (1948)",98932,Chicago Life Insurance v. Cherry (1917),no
+0361.2764117_cites_101758.txt,2764117,"Sherrer v. Sherrer,334 U.S. 343  (1948)",101758,Baldwin v. Iowa State Traveling Men's Assn. (1931),no
+0362.2764117_cites_103264.txt,2764117,"Sherrer v. Sherrer,334 U.S. 343  (1948)",103264,Chicot County Drainage District v. Baxter State Bank (1940),no
+0363.104704_cites_104459.txt,104704,"Cosmopolitan Shipping Co. v. McAllister,337 U.S. 783  (1949)",104459,Caldarola v. Eckert (1947),no
+0364.104704_cites_104320.txt,104704,"Cosmopolitan Shipping Co. v. McAllister,337 U.S. 783  (1949)",104320,"Hust v. Moore-McCormack Lines, Inc. (1946)",yes
+0365.104704_cites_1476725.txt,104704,"Cosmopolitan Shipping Co. v. McAllister,337 U.S. 783  (1949)",1476725,McAllister v. Cosmopolitan Shipping Co. (1948),no
+0366.104704_cites_103979.txt,104704,"Cosmopolitan Shipping Co. v. McAllister,337 U.S. 783  (1949)",103979,"National Labor Relations Board v. Hearst Publications, Inc. (1944)",no
+0367.104704_cites_104389.txt,104704,"Cosmopolitan Shipping Co. v. McAllister,337 U.S. 783  (1949)",104389,"American Stevedores, Inc. v. Porello (1947)",no
+0368.104704_cites_103761.txt,104704,"Cosmopolitan Shipping Co. v. McAllister,337 U.S. 783  (1949)",103761,Brady v. Roosevelt Steamship Co. (1943),no
+0369.104610_cites_103522.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",103522,"Olsen v. Nebraska Ex Rel. Western Reference & Bond Assn., Inc. (1941)",no
+0370.104610_cites_102784.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",102784,West Coast Hotel Co. v. Parrish (1937),no
+0371.104610_cites_3648247.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",3902209,State v. . Whitaker (1947),no
+0372.104610_cites_104041.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",104041,Wallace Corp. v. National Labor Relations Board (1944),no
+0373.104610_cites_102167.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",102167,Home Building & Loan Assn. v. Blaisdell (1934),no
+0374.104610_cites_103342.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",103342,Veix v. Sixth Ward Building & Loan Assn. of Newark (1940),no
+0375.104610_cites_104191.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",104191,East New York Savings Bank v. Hahn (1945),no
+0376.104610_cites_97368.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",97368,"Chicago, Burlington & Quincy Railroad v. McGuire (1911)",no
+0377.104610_cites_102614.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",102614,Bayside Fish Flour Co. v. Gentry (1936),no
+0378.104610_cites_98279.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",98279,Sage v. Hampe (1914),no
+0379.104610_cites_96764.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",96764,Adair v. United States (1908),yes
+0380.104610_cites_96276.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",96276,Lochner v. New York (1905),no
+0381.104610_cites_94631.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",94631,Allgeyer v. Louisiana (1897),no
+0382.104610_cites_98337.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",98337,Coppage v. Kansas (1915),yes
+0383.104610_cites_103344.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",103344,Osborn v. Ozlin (1940),no
+0384.104610_cites_98999.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",98999,Adams v. Tanner (1917),no
+0385.104610_cites_100246.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",100246,Chas. Wolff Packing Co. v. Court of Industrial Relations (1923),no
+0386.104610_cites_100628.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",100628,Chas. Wolff Packing Co. v. Court of Industrial Relations of Kansas (1925),no
+0387.104610_cites_102224.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",102224,Nebbia v. New York (1934),no
+0388.104610_cites_103442.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",103442,United States v. Darby (1941),no
+0389.104610_cites_103518.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",103518,Phelps Dodge Corp. v. National Labor Relations Board (1941),no
+0390.104610_cites_103870.txt,104610,"Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,335 U.S. 525  (1949)",103870,West Virginia State Board of Education v. Barnette (1943),no
+0391.104641_cites_102539.txt,104641,"Oklahoma Tax Commission v. Texas Co.,336 U.S. 342  (1949)",102539,"Oklahoma Ex Rel. Oklahoma Tax Commission v. Barnsdall Refineries, Inc. (1936)",yes
+0392.104641_cites_102986.txt,104641,"Oklahoma Tax Commission v. Texas Co.,336 U.S. 342  (1949)",102986,Helvering v. Mountain Producers Corp. (1938),no
+0393.104641_cites_98296.txt,104641,"Oklahoma Tax Commission v. Texas Co.,336 U.S. 342  (1949)",98296,"Choctaw, Oklahoma & Gulf Railroad v. Harrison (1914)",yes
+0394.104641_cites_102861.txt,104641,"Oklahoma Tax Commission v. Texas Co.,336 U.S. 342  (1949)",102861,James v. Dravo Contracting Co. (1937),no
+0395.104641_cites_98689.txt,104641,"Oklahoma Tax Commission v. Texas Co.,336 U.S. 342  (1949)",98689,Indian Territory Illuminating Oil Co. v. Oklahoma (1916),yes
+0396.104641_cites_8181584.txt,104641,"Oklahoma Tax Commission v. Texas Co.,336 U.S. 342  (1949)",8181584,Howard v. Gipsy Oil Co. (1918),yes
+0397.104641_cites_8181635.txt,104641,"Oklahoma Tax Commission v. Texas Co.,336 U.S. 342  (1949)",8181635,Large Oil Co. v. Howard (1919),yes
+0398.105014_cites_98362.txt,105014,"Joseph Burstyn, Inc. v. Wilson,343 U.S. 495  (1952)",98362,Mutual Film Corp. v. Industrial Commission of Ohio (1915),yes
+0399.105014_cites_101773.txt,105014,"Joseph Burstyn, Inc. v. Wilson,343 U.S. 495  (1952)",101773,Near v. Minnesota Ex Rel. Olson (1931),no
+0400.105014_cites_102991.txt,105014,"Joseph Burstyn, Inc. v. Wilson,343 U.S. 495  (1952)",102991,Lovell v. City of Griffin (1938),no
+0401.105014_cites_104623.txt,105014,"Joseph Burstyn, Inc. v. Wilson,343 U.S. 495  (1952)",104623,Kovacs v. Cooper (1949),no
+0402.105014_cites_103355.txt,105014,"Joseph Burstyn, Inc. v. Wilson,343 U.S. 495  (1952)",103355,Cantwell v. Connecticut (1940),no
+0403.105014_cites_102601.txt,105014,"Joseph Burstyn, Inc. v. Wilson,343 U.S. 495  (1952)",102601,Grosjean v. American Press Co. (1936),no
+0404.105014_cites_2568568.txt,105014,"Joseph Burstyn, Inc. v. Wilson,343 U.S. 495  (1952)",2568568,"MATTER OF JOSEPH BURSTYN, INC. v. Wilson (1951)",no
+0405.104965_cites_96482.txt,104965,"Standard Oil Co. v. Peck,342 U.S. 382  (1952)",96482,Ayer & Lord Co. v. Commonwealth of Kentucky (1906),yes
+0406.104965_cites_93124.txt,104965,"Standard Oil Co. v. Peck,342 U.S. 382  (1952)",93124,Pullman's Palace Car Co. v. Pennsylvania (1891),no
+0407.104965_cites_96299.txt,104965,"Standard Oil Co. v. Peck,342 U.S. 382  (1952)",96299,Old Dominion Steamship Co. v. Virginia (1905),yes
+0408.104965_cites_96495.txt,104965,"Standard Oil Co. v. Peck,342 U.S. 382  (1952)",96495,New York Ex Rel. New York Central & Hudson River Railroad v. Miller (1906),no
+0409.104965_cites_88336.txt,104965,"Standard Oil Co. v. Peck,342 U.S. 382  (1952)",88336,St. Louis v. Ferry Co. (1871),yes
+0410.104965_cites_104628.txt,104965,"Standard Oil Co. v. Peck,342 U.S. 382  (1952)",104628,"Ott, Commissioner of Public Finance v. Mississippi Barge Line Co. (1949)",no
+0411.104965_cites_103990.txt,104965,"Standard Oil Co. v. Peck,342 U.S. 382  (1952)",103990,"Northwest Airlines, Inc. v. Minnesota (1944)",no
+0412.104965_cites_96335.txt,104965,"Standard Oil Co. v. Peck,342 U.S. 382  (1952)",96335,Union Refrigerator Transit Co. v. Kentucky (1905),no
+0413.105319_cites_103173.txt,105319,"Carroll v. Lanza,349 U.S. 408  (1955)",103173,Pacific Employers Insurance v. Industrial Accident Comm'n (1939),no
+0414.105319_cites_101915.txt,105319,"Carroll v. Lanza,349 U.S. 408  (1955)",101915,Bradford Elec. Light Co. v. Clapper (1932),yes
+0415.105319_cites_102412.txt,105319,"Carroll v. Lanza,349 U.S. 408  (1955)",102412,Broderick v. Rosner (1935),no
+0416.105319_cites_3526916.txt,105319,"Carroll v. Lanza,349 U.S. 408  (1955)",3551998,Bunner v. Patti (1938),no
+0417.105319_cites_104916.txt,105319,"Carroll v. Lanza,349 U.S. 408  (1955)",104916,Hughes v. Fetter (1951),no
+0418.105525_cites_93107.txt,105525,"Reid v. Covert,354 U.S. 1  (1957)",93107,In Re Ross (1891),no
+0419.105525_cites_105326.txt,105525,"Reid v. Covert,354 U.S. 1  (1957)",105326,United States Ex Rel. Toth v. Quarles (1955),no
+0420.105525_cites_96130.txt,105525,"Reid v. Covert,354 U.S. 1  (1957)",96130,Dorr v. United States (1904),no
+0421.105525_cites_105412.txt,105525,"Reid v. Covert,354 U.S. 1  (1957)",105412,Kinsella v. Krueger (1956),yes
+0422.105525_cites_95504.txt,105525,"Reid v. Covert,354 U.S. 1  (1957)",95504,Downes v. Bidwell (1901),no
+0423.105525_cites_95894.txt,105525,"Reid v. Covert,354 U.S. 1  (1957)",95894,Hawaii v. Mankichi (1903),no
+0424.105525_cites_85272.txt,105525,"Reid v. Covert,354 U.S. 1  (1957)",85272,M'culloch v. State of Maryland (1819),no
+0425.105525_cites_2181793.txt,105525,"Reid v. Covert,354 U.S. 1  (1957)",2181793,In Re Di Bartolo (1943),no
+0426.105525_cites_105004.txt,105525,"Reid v. Covert,354 U.S. 1  (1957)",105004,Madsen v. Kinsella (1952),no
+0427.105525_cites_1528394.txt,105525,"Reid v. Covert,354 U.S. 1  (1957)",1528394,Ex Parte Milligan (1867),no
+0428.105525_cites_99954.txt,105525,"Reid v. Covert,354 U.S. 1  (1957)",99954,Balzac v. Porto Rico (1922),no
+0429.105525_cites_105413.txt,105525,"Reid v. Covert,354 U.S. 1  (1957)",105413,"Reid v. Covert, 351 U.S. 487 (1956)",yes
+0430.105543_cites_103736.txt,105543,"Vanderbilt v. Vanderbilt,354 U.S. 416  (1957)",103736,Williams v. North Carolina (1943),no
+0431.105543_cites_89656.txt,105543,"Vanderbilt v. Vanderbilt,354 U.S. 416  (1957)",89656,Pennoyer v. Neff (1878),no
+0432.105543_cites_97747.txt,105543,"Vanderbilt v. Vanderbilt,354 U.S. 416  (1957)",97747,Thompson v. Thompson (1913),yes
+0433.105543_cites_104568.txt,105543,"Vanderbilt v. Vanderbilt,354 U.S. 416  (1957)",104568,Estin v. Estin (1948),no
+0434.106235_cites_104252.txt,106235,"James v. United States,366 U.S. 213  (1961)",104252,Commissioner v. Wilcox (1946),no
+0435.106235_cites_104992.txt,106235,"James v. United States,366 U.S. 213  (1961)",104992,Rutkin v. United States (1952),no
+0436.106235_cites_1495711.txt,106235,"James v. United States,366 U.S. 213  (1961)",1495711,McKnight v. Commissioner of Internal Revenue (1942),no
+0437.106235_cites_101568.txt,106235,"James v. United States,366 U.S. 213  (1961)",101568,Corliss v. Bowers (1930),no
+0438.106235_cites_101083.txt,106235,"James v. United States,366 U.S. 213  (1961)",101083,United States v. Sullivan (1927),no
+0439.106235_cites_103292.txt,106235,"James v. United States,366 U.S. 213  (1961)",103292,Helvering v. Hallock (1940),no
+0440.106235_cites_101937.txt,106235,"James v. United States,366 U.S. 213  (1961)",101937,North American Oil Consolidated v. Burnet (1932),no
+0441.106235_cites_104867.txt,106235,"James v. United States,366 U.S. 213  (1961)",104867,United States v. Lewis (1951),no
+0442.106285_cites_104709.txt,106285,"Mapp v. Ohio,367 U.S. 643  (1961)",104709,Wolf v. Colorado (1949),yes
+0443.106285_cites_3580565.txt,106285,"Mapp v. Ohio,367 U.S. 643  (1961)",3599253,People v. Defore (1926),no
+0444.106285_cites_104943.txt,106285,"Mapp v. Ohio,367 U.S. 643  (1961)",104943,Rochin v. California (1952),no
+0445.106285_cites_106107.txt,106285,"Mapp v. Ohio,367 U.S. 643  (1961)",106107,Elkins v. United States (1960),no
+0446.106285_cites_98094.txt,106285,"Mapp v. Ohio,367 U.S. 643  (1961)",98094,Weeks v. United States (1914),no
+0447.106285_cites_105194.txt,106285,"Mapp v. Ohio,367 U.S. 643  (1961)",105194,Irvine v. California (1954),no
+0448.106285_cites_1237532.txt,106285,"Mapp v. Ohio,367 U.S. 643  (1961)",1237532,People v. Cahan (1955),no
+0449.106285_cites_91573.txt,106285,"Mapp v. Ohio,367 U.S. 643  (1961)",91573,Boyd v. United States (1886),no
+0450.106576_cites_100181.txt,106576,"Ferguson v. Skrupa,372 U.S. 726  (1963)",100181,Adkins v. Children's Hospital of Columbia (1923),no
+0451.106576_cites_96276.txt,106576,"Ferguson v. Skrupa,372 U.S. 726  (1963)",96276,Lochner v. New York (1905),no
+0452.106576_cites_101029.txt,106576,"Ferguson v. Skrupa,372 U.S. 726  (1963)",101029,Tyson & Brother v. Banton (1927),no
+0453.106576_cites_103522.txt,106576,"Ferguson v. Skrupa,372 U.S. 726  (1963)",103522,"Olsen v. Nebraska Ex Rel. Western Reference & Bond Assn., Inc. (1941)",no
+0454.106576_cites_101935.txt,106576,"Ferguson v. Skrupa,372 U.S. 726  (1963)",101935,Sproles v. Binford (1932),no
+0455.106576_cites_104610.txt,106576,"Ferguson v. Skrupa,372 U.S. 726  (1963)",104610,Lincoln Federal Labor Union v. Northwestern Iron & Metal Co. (1949),no
+0456.106576_cites_105285.txt,106576,"Ferguson v. Skrupa,372 U.S. 726  (1963)",105285,"Williamson v. Lee Optical of Oklahoma, Inc. (1955)",no
+0457.106576_cites_2093296.txt,106576,"Ferguson v. Skrupa,372 U.S. 726  (1963)",2093296,"Home Budget Service, Inc. v. Boston Bar Association (1957)",no
+0458.106576_cites_98999.txt,106576,"Ferguson v. Skrupa,372 U.S. 726  (1963)",98999,Adams v. Tanner (1917),yes
+0459.106883_cites_106545.txt,106883,"Escobedo v. Illinois,378 U.S. 478  (1964)",106545,Gideon v. Wainwright (1963),no
+0460.106883_cites_2193029.txt,106883,"Escobedo v. Illinois,378 U.S. 478  (1964)",2193029,The PEOPLE v. Escobedo (1963),no
+0461.106883_cites_106822.txt,106883,"Escobedo v. Illinois,378 U.S. 478  (1964)",106822,Massiah v. United States (1964),no
+0462.106883_cites_105750.txt,106883,"Escobedo v. Illinois,378 U.S. 478  (1964)",105750,Cicenia v. Lagay (1958),yes
+0463.106883_cites_106595.txt,106883,"Escobedo v. Illinois,378 U.S. 478  (1964)",106595,White v. Maryland (1963),no
+0464.106883_cites_105917.txt,106883,"Escobedo v. Illinois,378 U.S. 478  (1964)",105917,Spano v. New York (1959),no
+0465.106883_cites_105745.txt,106883,"Escobedo v. Illinois,378 U.S. 478  (1964)",105745,Crooker v. California (1958),yes
+0466.106883_cites_106300.txt,106883,"Escobedo v. Illinois,378 U.S. 478  (1964)",106300,Hamilton v. Alabama (1961),no
+0467.107121_cites_105848.txt,107121,"Harris v. United States,382 U.S. 162  (1965)",105848,Brown v. United States (1959),yes
+0468.107121_cites_268056.txt,107121,"Harris v. United States,382 U.S. 162  (1965)",268056,United States v. Andimo Pappadio (1965),no
+0469.107121_cites_267423.txt,107121,"Harris v. United States,382 U.S. 162  (1965)",267423,United States v. Carmine Tramunti (1965),no
+0470.107121_cites_92334.txt,107121,"Harris v. United States,382 U.S. 162  (1965)",92334,Ex Parte Terry (1888),no
+0471.107121_cites_106057.txt,107121,"Harris v. United States,382 U.S. 162  (1965)",106057,Levine v. United States (1960),no
+0472.107121_cites_266063.txt,107121,"Harris v. United States,382 U.S. 162  (1965)",266063,United States v. Anthony Castaldi (1964),no
+0473.107121_cites_267864.txt,107121,"Harris v. United States,382 U.S. 162  (1965)",267864,United States v. Salvatore Shillitani (1965),no
+0474.107081_cites_104790.txt,107081,"United States v. Brown,381 U.S. 437  (1965)",104790,American Communications Assn. v. Douds (1950),yes
+0475.107081_cites_106267.txt,107081,"United States v. Brown,381 U.S. 437  (1965)",106267,Communist Party of United States v. Subversive Activities Control Bd. (1961),no
+0476.107081_cites_104353.txt,107081,"United States v. Brown,381 U.S. 437  (1965)",104353,Board of Governors of the Federal Reserve System v. Agnew (1947),no
+0477.107081_cites_87778.txt,107081,"United States v. Brown,381 U.S. 437  (1965)",87778,Cummings v. Missouri (1867),no
+0478.107081_cites_104303.txt,107081,"United States v. Brown,381 U.S. 437  (1965)",104303,United States v. Lovett (1946),no
+0479.107081_cites_94855.txt,107081,"United States v. Brown,381 U.S. 437  (1965)",94855,Hawker v. New York (1898),no
+0480.107081_cites_106534.txt,107081,"United States v. Brown,381 U.S. 437  (1965)",106534,Kennedy v. Mendoza-Martinez (1963),no
+0481.107252_cites_106625.txt,107252,"Miranda v. Arizona,384 U.S. 436  (1966)",106625,Haynes v. Washington (1963),no
+0482.107252_cites_94782.txt,107252,"Miranda v. Arizona,384 U.S. 436  (1966)",94782,Bram v. United States (1897),no
+0483.107252_cites_106883.txt,107252,"Miranda v. Arizona,384 U.S. 436  (1966)",106883,Escobedo v. Illinois (1964),no
+0484.107252_cites_106862.txt,107252,"Miranda v. Arizona,384 U.S. 436  (1966)",106862,Malloy v. Hogan (1964),no
+0485.107252_cites_105745.txt,107252,"Miranda v. Arizona,384 U.S. 436  (1966)",105745,Crooker v. California (1958),yes
+0486.107252_cites_103981.txt,107252,"Miranda v. Arizona,384 U.S. 436  (1966)",103981,Ashcraft v. Tennessee (1944),no
+0487.107252_cites_106558.txt,107252,"Miranda v. Arizona,384 U.S. 436  (1966)",106558,Lynumn v. Illinois (1963),no
+0488.107252_cites_100471.txt,107252,"Miranda v. Arizona,384 U.S. 436  (1966)",100471,Ziang Sung Wan v. United States (1924),no
+0489.107252_cites_104108.txt,107252,"Miranda v. Arizona,384 U.S. 436  (1966)",104108,Malinski v. New York (1945),no
+0490.107252_cites_91057.txt,107252,"Miranda v. Arizona,384 U.S. 436  (1966)",91057,Hopt v. People of Territory of Utah (1884),no
+0491.107252_cites_105750.txt,107252,"Miranda v. Arizona,384 U.S. 436  (1966)",105750,Cicenia v. Lagay (1958),yes
+0492.107464_cites_105658.txt,107464,"Afroyim v. Rusk,387 U.S. 253  (1967)",105658,Perez v. Brownell (1958),yes
+0493.107464_cites_94842.txt,107464,"Afroyim v. Rusk,387 U.S. 253  (1967)",94842,United States v. Wong Kim Ark (1898),no
+0494.107464_cites_91470.txt,107464,"Afroyim v. Rusk,387 U.S. 253  (1967)",91470,Kurtz v. Moffitt (1885),no
+0495.107464_cites_105659.txt,107464,"Afroyim v. Rusk,387 U.S. 253  (1967)",105659,Trop v. Dulles (1958),no
+0496.107464_cites_98579.txt,107464,"Afroyim v. Rusk,387 U.S. 253  (1967)",98579,MacKenzie v. Hare (1915),no
+0497.107473_cites_105880.txt,107473,"Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)",105880,Frank v. Maryland (1959),yes
+0498.107473_cites_106109.txt,107473,"Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)",106109,Ohio Ex Rel. Eaton v. Price (1960),no
+0499.107473_cites_106641.txt,107473,"Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)",106641,Ker v. California (1963),no
+0500.107473_cites_2305304.txt,107473,"Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)",2305304,Givner v. State (1956),no
+0501.107473_cites_106777.txt,107473,"Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)",106777,Stoner v. California (1964),no
+0502.107473_cites_104605.txt,107473,"Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)",104605,McDonald v. United States (1948),no
+0503.107473_cites_2062881.txt,107473,"Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)",2062881,Paquette v. City of Fall River (1959),no
+0504.107473_cites_2008391.txt,107473,"Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)",2008391,Commonwealth v. Hadley (1966),no
+0505.107473_cites_3620827.txt,107473,"Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)",3637215,Adamec v. Post (1937),no
+0506.107473_cites_107262.txt,107473,"Camara v. Municipal Court of San Francisco,387 U.S. 523  (1967)",107262,Schmerber v. California (1966),no
+0507.107564_cites_107483.txt,107564,"Katz v. United States,389 U.S. 347  (1967)",107483,Berger v. New York (1967),no
+0508.107564_cites_107465.txt,107564,"Katz v. United States,389 U.S. 347  (1967)",107465,"Warden, Maryland Penitentiary v. Hayden (1967)",no
+0509.107564_cites_106187.txt,107564,"Katz v. United States,389 U.S. 347  (1967)",106187,Silverman v. United States (1961),no
+0510.107564_cites_106622.txt,107564,"Katz v. United States,389 U.S. 347  (1967)",106622,Lopez v. United States (1963),no
+0511.107564_cites_106641.txt,107564,"Katz v. United States,389 U.S. 347  (1967)",106641,Ker v. California (1963),no
+0512.107564_cites_106108.txt,107564,"Katz v. United States,389 U.S. 347  (1967)",106108,Rios v. United States (1960),no
+0513.107564_cites_2443377.txt,107564,"Katz v. United States,389 U.S. 347  (1967)",103664,Goldman v. United States (1942),yes
+0514.107564_cites_101320.txt,107564,"Katz v. United States,389 U.S. 347  (1967)",101320,Olmstead v. United States (1928),yes
+0515.107343_cites_104974.txt,107343,"Keyishian v. Board of Regents,385 U.S. 589  (1967)",104974,Adler v. Board of Ed. of City of New York (1952),yes
+0516.107343_cites_106837.txt,107343,"Keyishian v. Board of Regents,385 U.S. 589  (1967)",106837,Baggett v. Bullitt (1964),no
+0517.107343_cites_107210.txt,107343,"Keyishian v. Board of Regents,385 U.S. 589  (1967)",107210,Elfbrandt v. Russell (1966),no
+0518.107343_cites_106514.txt,107343,"Keyishian v. Board of Regents,385 U.S. 589  (1967)",106514,National Ass'n for the Advancement of Colored People v. Button (1963),no
+0519.107343_cites_105751.txt,107343,"Keyishian v. Board of Regents,385 U.S. 589  (1967)",105751,Speiser v. Randall (1958),no
+0520.107343_cites_106142.txt,107343,"Keyishian v. Board of Regents,385 U.S. 589  (1967)",106142,Shelton v. Tucker (1960),no
+0521.107343_cites_105537.txt,107343,"Keyishian v. Board of Regents,385 U.S. 589  (1967)",105537,Yates v. United States (1957),no
+0522.107343_cites_106311.txt,107343,"Keyishian v. Board of Regents,385 U.S. 589  (1967)",106311,Cramp v. Board of Public Instruction of Orange Cty. (1961),no
+0523.107689_cites_106050.txt,107689,"Carafas v. LaVallee,391 U.S. 234  (1968)",106050,Parker v. Ellis (1960),yes
+0524.107689_cites_264986.txt,107689,"Carafas v. LaVallee,391 U.S. 234  (1968)",264986,"United States of America Ex Rel. James P. Carafas v. J. Edwin Lavallee, Warden, Auburn Prison, Auburn, New York (1964)",no
+0525.107689_cites_107408.txt,107689,"Carafas v. LaVallee,391 U.S. 234  (1968)",107408,Nowakowski v. Maroney (1967),no
+0526.107689_cites_104336.txt,107689,"Carafas v. LaVallee,391 U.S. 234  (1968)",104336,Fiswick v. United States (1946),no
+0527.107689_cites_265136.txt,107689,"Carafas v. LaVallee,391 U.S. 234  (1968)",265136,"Nathan Thomas v. W. K. Cunningham, Jr., Superintendent of the Virginia State Penitentiary (1964)",no
+0528.107689_cites_107084.txt,107689,"Carafas v. LaVallee,391 U.S. 234  (1968)",107084,Linkletter v. Walker (1965),no
+0529.107689_cites_106285.txt,107689,"Carafas v. LaVallee,391 U.S. 234  (1968)",106285,Mapp v. Ohio (1961),no
+0530.107689_cites_107663.txt,107689,"Carafas v. LaVallee,391 U.S. 234  (1968)",107663,Ginsberg v. New York (1968),no
+0531.107689_cites_95249.txt,107689,"Carafas v. LaVallee,391 U.S. 234  (1968)",95249,Ex Parte Baez (1900),no
+0532.107689_cites_1425143.txt,107689,"Carafas v. LaVallee,391 U.S. 234  (1968)",1425143,United States Ex Rel. Rivera v. Reeves (1965),no
+0533.107689_cites_105176.txt,107689,"Carafas v. LaVallee,391 U.S. 234  (1968)",105176,United States v. Morgan (1954),no
+0534.107689_cites_107631.txt,107689,"Carafas v. LaVallee,391 U.S. 234  (1968)",107631,Walker v. Wainwright (1968),no
+0535.107689_cites_105722.txt,107689,"Carafas v. LaVallee,391 U.S. 234  (1968)",105722,Eskridge v. Washington State Board of Prison Terms & Paroles (1958),no
+0536.107689_cites_103486.txt,107689,"Carafas v. LaVallee,391 U.S. 234  (1968)",103486,Ex Parte Hull (1941),no
+0537.107685_cites_102879.txt,107685,"Duncan v. Louisiana,391 U.S. 145  (1968)",102879,Palko v. Connecticut (1937),no
+0538.107685_cites_106862.txt,107685,"Duncan v. Louisiana,391 U.S. 145  (1968)",106862,Malloy v. Hogan (1964),no
+0539.107685_cites_107014.txt,107685,"Duncan v. Louisiana,391 U.S. 145  (1968)",107014,Pointer v. Texas (1965),no
+0540.107685_cites_1236300.txt,107685,"Duncan v. Louisiana,391 U.S. 145  (1968)",1236300,Powell v. Alabama (1932),no
+0541.107685_cites_102801.txt,107685,"Duncan v. Louisiana,391 U.S. 145  (1968)",102801,District of Columbia v. Clawans (1937),no
+0542.107685_cites_106545.txt,107685,"Duncan v. Louisiana,391 U.S. 145  (1968)",106545,Gideon v. Wainwright (1963),no
+0543.107685_cites_95204.txt,107685,"Duncan v. Louisiana,391 U.S. 145  (1968)",95204,Maxwell v. Dow (1900),yes
+0544.107685_cites_106259.txt,107685,"Duncan v. Louisiana,391 U.S. 145  (1968)",106259,Irvin v. Dowd (1961),no
+0545.107746_cites_105055.txt,107746,"Lee v. Florida,392 U.S. 378  (1968)",105055,Schwartz v. Texas (1952),yes
+0546.107746_cites_104709.txt,107746,"Lee v. Florida,392 U.S. 378  (1968)",104709,Wolf v. Colorado (1949),no
+0547.107746_cites_102883.txt,107746,"Lee v. Florida,392 U.S. 378  (1968)",102883,Nardone v. United States (1937),no
+0548.107746_cites_98094.txt,107746,"Lee v. Florida,392 U.S. 378  (1968)",98094,Weeks v. United States (1914),no
+0549.107746_cites_106107.txt,107746,"Lee v. Florida,392 U.S. 378  (1968)",106107,Elkins v. United States (1960),no
+0550.107606_cites_104585.txt,107606,"Marchetti v. United States,390 U.S. 39  (1968)",104585,Shapiro v. United States (1948),no
+0551.107606_cites_105090.txt,107606,"Marchetti v. United States,390 U.S. 39  (1968)",105090,United States v. Kahriger (1953),yes
+0552.107606_cites_101083.txt,107606,"Marchetti v. United States,390 U.S. 39  (1968)",101083,United States v. Sullivan (1927),no
+0553.107606_cites_105280.txt,107606,"Marchetti v. United States,390 U.S. 39  (1968)",105280,Lewis v. United States (1955),yes
+0554.107606_cites_107110.txt,107606,"Marchetti v. United States,390 U.S. 39  (1968)",107110,Albertson v. Subversive Activities Control Board (1966),no
+0555.107606_cites_106864.txt,107606,"Marchetti v. United States,390 U.S. 39  (1968)",106864,Murphy v. Waterfront Commission of New York Harbor (1964),no
+0556.107679_cites_102317.txt,107679,"Peyton v. Rowe,391 U.S. 54  (1968)",102317,McNally v. Hill (1934),yes
+0557.107679_cites_106507.txt,107679,"Peyton v. Rowe,391 U.S. 54  (1968)",106507,Jones v. Cunningham (1963),no
+0558.107679_cites_100122.txt,107679,"Peyton v. Rowe,391 U.S. 54  (1968)",100122,Moore v. Dempsey (1923),no
+0559.107679_cites_106548.txt,107679,"Peyton v. Rowe,391 U.S. 54  (1968)",106548,Fay v. Noia (1963),no
+0560.107980_cites_107685.txt,107980,"Benton v. Maryland,395 U.S. 784  (1969)",107685,Duncan v. Louisiana (1968),no
+0561.107980_cites_102879.txt,107980,"Benton v. Maryland,395 U.S. 784  (1969)",102879,Palko v. Connecticut (1937),yes
+0562.107980_cites_94515.txt,107980,"Benton v. Maryland,395 U.S. 784  (1969)",94515,United States v. Ball (1896),no
+0563.107980_cites_107730.txt,107980,"Benton v. Maryland,395 U.S. 784  (1969)",107730,Sibron v. New York (1968),no
+0564.107980_cites_106862.txt,107980,"Benton v. Maryland,395 U.S. 784  (1969)",106862,Malloy v. Hogan (1964),no
+0565.107965_cites_104914.txt,107965,"Brandenburg v. Ohio,395 U.S. 444  (1969)",104914,Dennis v. United States (1951),no
+0566.107965_cites_102821.txt,107965,"Brandenburg v. Ohio,395 U.S. 444  (1969)",102821,Herndon v. Lowry (1937),no
+0567.107965_cites_105537.txt,107965,"Brandenburg v. Ohio,395 U.S. 444  (1969)",105537,Yates v. United States (1957),no
+0568.107965_cites_99321.txt,107965,"Brandenburg v. Ohio,395 U.S. 444  (1969)",99321,Frohwerk v. United States (1919),no
+0569.107965_cites_99322.txt,107965,"Brandenburg v. Ohio,395 U.S. 444  (1969)",99322,Debs v. United States (1919),no
+0570.107965_cites_101097.txt,107965,"Brandenburg v. Ohio,395 U.S. 444  (1969)",101097,Whitney v. California (1927),yes
+0571.107979_cites_104769.txt,107979,"Chimel v. California,395 U.S. 752  (1969)",104769,United States v. Rabinowitz (1950),yes
+0572.107979_cites_106641.txt,107979,"Chimel v. California,395 U.S. 752  (1969)",106641,Ker v. California (1963),no
+0573.107979_cites_106021.txt,107979,"Chimel v. California,395 U.S. 752  (1969)",106021,Abel v. United States (1960),no
+0574.107979_cites_98094.txt,107979,"Chimel v. California,395 U.S. 752  (1969)",98094,Weeks v. United States (1914),no
+0575.107979_cites_104576.txt,107979,"Chimel v. California,395 U.S. 752  (1969)",104576,Trupiano v. United States (1948),no
+0576.107979_cites_101164.txt,107979,"Chimel v. California,395 U.S. 752  (1969)",101164,Marron v. United States (1927),no
+0577.107979_cites_101643.txt,107979,"Chimel v. California,395 U.S. 752  (1969)",101643,Go-Bart Importing Co. v. United States (1931),no
+0578.107979_cites_107729.txt,107979,"Chimel v. California,395 U.S. 752  (1969)",107729,Terry v. Ohio (1968),no
+0579.107979_cites_100567.txt,107979,"Chimel v. California,395 U.S. 752  (1969)",100567,Carroll v. United States (1925),no
+0580.107979_cites_104422.txt,107979,"Chimel v. California,395 U.S. 752  (1969)",104422,Harris v. United States (1947),yes
+0581.107748_cites_90897.txt,107748,"Jones v. Alfred H. Mayer Co.,392 U.S. 409  (1969)",90897,Civil Rights Cases (1883),no
+0582.107748_cites_104546.txt,107748,"Jones v. Alfred H. Mayer Co.,392 U.S. 409  (1969)",104546,Hurd v. Hodge (1948),no
+0583.107748_cites_1447641.txt,107748,"Jones v. Alfred H. Mayer Co.,392 U.S. 409  (1969)",1447641,Hodges v. United States (1906),yes
+0584.107748_cites_100887.txt,107748,"Jones v. Alfred H. Mayer Co.,392 U.S. 409  (1969)",100887,Corrigan v. Buckley (1926),no
+0585.107748_cites_90040.txt,107748,"Jones v. Alfred H. Mayer Co.,392 U.S. 409  (1969)",90040,Virginia v. Rives (1880),no
+0586.107973_cites_1178568.txt,107973,"Lear, Inc. v. Adkins,395 U.S. 653  (1969)",1178568,"Adkins v. Lear, Inc. (1967)",no
+0587.107973_cites_106758.txt,107973,"Lear, Inc. v. Adkins,395 U.S. 653  (1969)",106758,"Compco Corp. v. Day-Brite Lighting, Inc. (1964)",no
+0588.107973_cites_104816.txt,107973,"Lear, Inc. v. Adkins,395 U.S. 653  (1969)",8928994,"Automatic Radio Mfg. Co., Inc. v. Hazeltine Research, Inc (1950)",yes
+0589.107973_cites_106757.txt,107973,"Lear, Inc. v. Adkins,395 U.S. 653  (1969)",106757,"Sears, Roebuck & Co. v. Stiffel Co. (1964)",no
+0590.107973_cites_100520.txt,107973,"Lear, Inc. v. Adkins,395 U.S. 653  (1969)",100520,Westinghouse Electric & Manufacturing Co. v. Formica Insulation Co. (1924),no
+0591.107973_cites_104194.txt,107973,"Lear, Inc. v. Adkins,395 U.S. 653  (1969)",104194,Scott Paper Co. v. Marcalus Manufacturing Co. (1945),no
+0592.107973_cites_103320.txt,107973,"Lear, Inc. v. Adkins,395 U.S. 653  (1969)",103320,McGoldrick v. Compagnie Generale Transatlantique (1940),no
+0593.107973_cites_104256.txt,107973,"Lear, Inc. v. Adkins,395 U.S. 653  (1969)",104256,Wilson v. Cook (1946),no
+0594.107973_cites_106930.txt,107973,"Lear, Inc. v. Adkins,395 U.S. 653  (1969)",106930,Brulotte v. Thys Co. (1964),no
+0595.107919_cites_106850.txt,107919,"Moore v. Ogilvie,394 U.S. 814  (1969)",106850,Reynolds v. Sims (1964),no
+0596.107919_cites_104593.txt,107919,"Moore v. Ogilvie,394 U.S. 814  (1969)",104593,MacDougall v. Green (1948),yes
+0597.107919_cites_107449.txt,107919,"Moore v. Ogilvie,394 U.S. 814  (1969)",107449,Dusch v. Davis (1967),no
+0598.107919_cites_104311.txt,107919,"Moore v. Ogilvie,394 U.S. 814  (1969)",104311,Colegrove v. Green (1946),no
+0599.107919_cites_106366.txt,107919,"Moore v. Ogilvie,394 U.S. 814  (1969)",106366,Baker v. Carr (1962),no
+0600.108114_cites_105687.txt,108114,"Ashe v. Swenson,397 U.S. 436  (1970)",105687,Hoag v. New Jersey (1958),yes
+0601.108114_cites_105860.txt,108114,"Ashe v. Swenson,397 U.S. 436  (1970)",105860,Abbate v. United States (1959),no
+0602.108114_cites_107978.txt,108114,"Ashe v. Swenson,397 U.S. 436  (1970)",107978,North Carolina v. Pearce (1969),no
+0603.108114_cites_107980.txt,108114,"Ashe v. Swenson,397 U.S. 436  (1970)",107980,Benton v. Maryland (1969),no
+0604.108114_cites_105594.txt,108114,"Ashe v. Swenson,397 U.S. 436  (1970)",105594,Green v. United States (1957),no
+0605.108154_cites_106432.txt,108154,"Boys Markets, Inc. v. Retail Clerk’s Union,398 U.S. 235  (1970)",106432,Sinclair Refining Co. v. Atkinson (1962),yes
+0606.108154_cites_105511.txt,108154,"Boys Markets, Inc. v. Retail Clerk’s Union,398 U.S. 235  (1970)",105511,Textile Workers v. Lincoln Mills of Ala. (1957),no
+0607.108154_cites_107655.txt,108154,"Boys Markets, Inc. v. Retail Clerk’s Union,398 U.S. 235  (1970)",107655,"Avco Corp. v. Aero Lodge No. 735, International Ass'n of MacHinists & Aerospace Workers (1968)",no
+0608.108154_cites_103292.txt,108154,"Boys Markets, Inc. v. Retail Clerk’s Union,398 U.S. 235  (1970)",103292,Helvering v. Hallock (1940),no
+0609.108164_cites_105594.txt,108164,"Price v. Georgia,398 U.S. 323  (1970)",105594,Green v. United States (1957),no
+0610.108164_cites_1276937.txt,108164,"Price v. Georgia,398 U.S. 323  (1970)",1276937,Price v. State (1968),no
+0611.108164_cites_97237.txt,108164,"Price v. Georgia,398 U.S. 323  (1970)",5726506,Brantley v. Georgia (1910),yes
+0612.108164_cites_94515.txt,108164,"Price v. Georgia,398 U.S. 323  (1970)",94515,United States v. Ball (1896),no
+0613.108164_cites_1395638.txt,108164,"Price v. Georgia,398 U.S. 323  (1970)",1395638,Price v. State (1968),no
+0614.108164_cites_268703.txt,108164,"Price v. Georgia,398 U.S. 323  (1970)",8887067, (1965),no
+0615.108186_cites_107685.txt,108186,"Williams v. Florida,399 U.S. 78  (1970)",107685,Duncan v. Louisiana (1968),no
+0616.108186_cites_94866.txt,108186,"Williams v. Florida,399 U.S. 78  (1970)",94866,Thompson v. Utah (1898),yes
+0617.108186_cites_95043.txt,108186,"Williams v. Florida,399 U.S. 78  (1970)",95043,Capital Traction Co. v. Hof (1899),no
+0618.108186_cites_106862.txt,108186,"Williams v. Florida,399 U.S. 78  (1970)",106862,Malloy v. Hogan (1964),no
+0619.108186_cites_96270.txt,108186,"Williams v. Florida,399 U.S. 78  (1970)",96270,Rassmussen v. United States (1905),no
+0620.108186_cites_92280.txt,108186,"Williams v. Florida,399 U.S. 78  (1970)",92280,Callan v. Wilson (1888),no
+0621.108186_cites_106641.txt,108186,"Williams v. Florida,399 U.S. 78  (1970)",106641,Ker v. California (1963),no
+0622.108186_cites_102801.txt,108186,"Williams v. Florida,399 U.S. 78  (1970)",102801,District of Columbia v. Clawans (1937),no
+0623.108186_cites_107486.txt,108186,"Williams v. Florida,399 U.S. 78  (1970)",107486,United States v. Wade (1967),no
+0624.108362_cites_90728.txt,108362,"Griffin v. Breckenridge,403 U.S. 88  (1971)",90728,United States v. Harris (1883),no
+0625.108362_cites_107201.txt,108362,"Griffin v. Breckenridge,403 U.S. 88  (1971)",107201,United States v. Guest (1966),no
+0626.108362_cites_107748.txt,108362,"Griffin v. Breckenridge,403 U.S. 88  (1971)",107748,Jones v. Alfred H. Mayer Co. (1968),no
+0627.108362_cites_96885.txt,108362,"Griffin v. Breckenridge,403 U.S. 88  (1971)",96885,Twining v. New Jersey (1908),no
+0628.108362_cites_104918.txt,108362,"Griffin v. Breckenridge,403 U.S. 88  (1971)",104918,"Collins v. Hardyman, 341 U.S. 651 (1951)",yes
+0629.108350_cites_103548.txt,108350,"Perez v. Campbell,402 U.S. 637  (1971)",103548,Reitz v. Mealey (1941),yes
+0630.108350_cites_1198518.txt,108350,"Perez v. Campbell,402 U.S. 637  (1971)",1198518,Schecter v. Killingsworth (1963),no
+0631.108350_cites_288328.txt,108350,"Perez v. Campbell,402 U.S. 637  (1971)",288328, (1970),no
+0632.108350_cites_106365.txt,108350,"Perez v. Campbell,402 U.S. 637  (1971)",106365,Kesler v. Department of Public Safety of Utah (1962),yes
+0633.108350_cites_100616.txt,108350,"Perez v. Campbell,402 U.S. 637  (1971)",100616,Lewis v. Roberts (1925),no
+0634.108730_cites_104590.txt,108730,"Braden v. 30th Judicial Circuit Court,410 U.S. 484  (1973)",104590,Ahrens v. Clark (1948),yes
+0635.108730_cites_107824.txt,108730,"Braden v. 30th Judicial Circuit Court,410 U.S. 484  (1973)",107824,Smith v. Hooey (1969),no
+0636.108730_cites_107679.txt,108730,"Braden v. 30th Judicial Circuit Court,410 U.S. 484  (1973)",107679,Peyton v. Rowe (1968),no
+0637.108730_cites_91598.txt,108730,"Braden v. 30th Judicial Circuit Court,410 U.S. 484  (1973)",91598,Ex Parte Royall (1886),no
+0638.108730_cites_108193.txt,108730,"Braden v. 30th Judicial Circuit Court,410 U.S. 484  (1973)",108193,Nelson v. George (1970),no
+0639.108721_cites_102839.txt,108721,"Lehnhausen v. Lake Shore Auto Parts Co.,410 U.S. 356  (1973)",102839,Carmichael v. Southern Coal & Coke Co. (1937),no
+0640.108721_cites_2042261.txt,108721,"Lehnhausen v. Lake Shore Auto Parts Co.,410 U.S. 356  (1973)",2042261,Lake Shore Auto Parts Co. v. Korzen (1971),no
+0641.108721_cites_103290.txt,108721,"Lehnhausen v. Lake Shore Auto Parts Co.,410 U.S. 356  (1973)",103290,Madden v. Kentucky Ex Rel. Commissioner (1940),no
+0642.108721_cites_97378.txt,108721,"Lehnhausen v. Lake Shore Auto Parts Co.,410 U.S. 356  (1973)",97378,Flint v. Stone Tracy Co. (1911),no
+0643.108721_cites_101317.txt,108721,"Lehnhausen v. Lake Shore Auto Parts Co.,410 U.S. 356  (1973)",101317,Quaker City Cab Co. v. Commonwealth of Pennsylvania (1928),yes
+0644.108889_cites_101340.txt,108889,"North Dakota State Board of Pharmacy v. Snyder’s Drug Stores, Inc.,414 U.S. 156  (1973)",101340,Louis K. Liggett Co. v. Baldridge (1928),yes
+0645.108889_cites_107235.txt,108889,"North Dakota State Board of Pharmacy v. Snyder’s Drug Stores, Inc.,414 U.S. 156  (1973)",107235,Mills v. Alabama (1966),no
+0646.108889_cites_86449.txt,108889,"North Dakota State Board of Pharmacy v. Snyder’s Drug Stores, Inc.,414 U.S. 156  (1973)",86449,Forgay v. Conrad (1848),no
+0647.108889_cites_104183.txt,108889,"North Dakota State Board of Pharmacy v. Snyder’s Drug Stores, Inc.,414 U.S. 156  (1973)",104183,"Radio Station Wow, Inc. v. Johnson (1945)",no
+0648.108990_cites_96819.txt,108990,"Edelman v. Jordan,415 U.S. 651  (1974)",96819,Ex Parte Young (1908),no
+0649.108990_cites_106821.txt,108990,"Edelman v. Jordan,415 U.S. 651  (1974)",106821,Parden v. Terminal Railway of Alabama State Docks Department (1964),no
+0650.108990_cites_108763.txt,108990,"Edelman v. Jordan,415 U.S. 651  (1974)",108763,Employees of Department of Public Health v. Department of Public Health (1973),no
+0651.108990_cites_105869.txt,108990,"Edelman v. Jordan,415 U.S. 651  (1974)",105869,Petty v. Tennessee-Missouri Bridge Commission (1959),no
+0652.108990_cites_104057.txt,108990,"Edelman v. Jordan,415 U.S. 651  (1974)",104057,Ford Motor Co. v. Department of Treasury (1945),no
+0653.108990_cites_307980.txt,108990,"Edelman v. Jordan,415 U.S. 651  (1974)",307980,"John Jordan, by His Next Friend, Jeanette Bryant, Individually and on Behalf of All Other Persons Similarly Situated, Cross-Appellees v. Edward T. Weaver, Cross-Appellants (1973)",no
+0654.108990_cites_108113.txt,108990,"Edelman v. Jordan,415 U.S. 651  (1974)",108113,Rosado v. Wyman (1970),no
+0655.108990_cites_107743.txt,108990,"Edelman v. Jordan,415 U.S. 651  (1974)",107743,King v. Smith (1968),no
+0656.108990_cites_305771.txt,108990,"Edelman v. Jordan,415 U.S. 651  (1974)",8901897,"Edna Rothstein v. George K. Wyman, as Commissioner of the Department of Social Services of the State of New York, and the Department of Social Services of the State of New York (1972) ",no
+0657.108990_cites_102271.txt,108990,"Edelman v. Jordan,415 U.S. 651  (1974)",102271,Principality of Monaco v. Mississippi (1934),no
+0658.108990_cites_107901.txt,108990,"Edelman v. Jordan,415 U.S. 651  (1974)",107901,Shapiro v. Thompson (1969),yes
+0659.108990_cites_108075.txt,108990,"Edelman v. Jordan,415 U.S. 651  (1974)",108075,Wyman v. Bowens (1970),yes
+0660.108990_cites_8989511.txt,108990,"Edelman v. Jordan,415 U.S. 651  (1974)",8989511,"Sterrett v. Mothers' & Children's Rights Organization, 409 U.S. 809 (1972)",yes
+0661.108990_cites_8988675.txt,108990,"Edelman v. Jordan,415 U.S. 651  (1974)",8988675,"State Department of Health & Rehabilitative Services of Florida v. Zarate, 407 U.S. 918 (1972)",yes
+0662.109252_cites_88869.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",88869,The Pennsylvania (1874),no
+0663.109252_cites_108166.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",108166,"Moragne v. States Marine Lines, Inc. (1970)",no
+0664.109252_cites_1473714.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",1473714,Oriental Trading & Transport Co. v. Gulf Oil Corp. (1949),no
+0665.109252_cites_92846.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",92846,The Max Morris (1890),no
+0666.109252_cites_105170.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",105170,"Pope & Talbot, Inc. v. Hawn (1953)",no
+0667.109252_cites_106640.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",106640,Fitzgerald v. United States Lines Co. (1963),no
+0668.109252_cites_105837.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",105837,Kermarec v. Compagnie Generale Transatlantique (1959),no
+0669.109252_cites_88790.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",88790,The Sapphire (1874),no
+0670.109252_cites_90646.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",90646,"The"" North Star"" (1882)",no
+0671.109252_cites_99959.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",99959,"White Oak Transportation Co. v. Boston, Cape Cod & New York Canal Co. (1922)",no
+0672.109252_cites_96972.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",96972,The Eugene F. Moran (1909),no
+0673.109252_cites_89024.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",89024,Atlee v. Packet Co. (1875),no
+0674.109252_cites_102766.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",102766,Morley Construction Co. v. Maryland Casualty Co. (1937),no
+0675.109252_cites_104637.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",104637,Graver Tank & Mfg. Co. v. Linde Air Products Co. (1949),no
+0676.109252_cites_107344.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",107344,"Berenyi v. District Director, Immigration & Naturalization Service (1966)",no
+0677.109252_cites_106562.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",106562,Weyerhaeuser Steamship Co. v. United States (1963),no
+0678.109252_cites_104954.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",104954,Halcyon Lines v. Haenn Ship Ceiling & Refitting Corp. (1952),no
+0679.109252_cites_108637.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",108637,Union Oil Co. of Cal. v. the San Jacinto (1972),no
+0680.109252_cites_1087619.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",1087619,The City of New York (1893),no
+0681.109252_cites_94772.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",94772,The Victory & the Plymothian (1897),no
+0682.109252_cites_94658.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",94658,The Umbria (1897),no
+0683.109252_cites_94202.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",94202,The Oregon (1895),no
+0684.109252_cites_94137.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",94137,The Ludvig Holberg (1895),no
+0685.109252_cites_101894.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",101894,Burnet v. Coronado Oil & Gas Co. (1932),no
+0686.109252_cites_86919.txt,109252,"United States v. Reliable Transfer Co.,421 U.S. 397  (1975)",86919,The Schooner Catharine v. Dickinson (1855),yes
+0687.109514_cites_321071.txt,109514,"City of New Orleans v. Dukes,427 U.S. 297  (1976)",321071, (1974),no
+0688.109514_cites_105546.txt,109514,"City of New Orleans v. Dukes,427 U.S. 297  (1976)",105546,Morey v. Doud (1957),yes
+0689.109514_cites_105285.txt,109514,"City of New Orleans v. Dukes,427 U.S. 297  (1976)",105285,"Williamson v. Lee Optical of Oklahoma, Inc. (1955)",no
+0690.109514_cites_106576.txt,109514,"City of New Orleans v. Dukes,427 U.S. 297  (1976)",106576,Ferguson v. Skrupa (1963),no
+0691.109514_cites_107256.txt,109514,"City of New Orleans v. Dukes,427 U.S. 297  (1976)",107256,Katzenbach v. Morgan (1966),no
+0692.109570_cites_1489061.txt,109570,"Craig v. Boren,429 U.S. 190  (1976)",1489061,Walker v. Hall (1975),no
+0693.109570_cites_109235.txt,109570,"Craig v. Boren,429 U.S. 190  (1976)",109235,Stanton v. Stanton (1975),no
+0694.109570_cites_108404.txt,109570,"Craig v. Boren,429 U.S. 190  (1976)",108404,Reed v. Reed (1971),no
+0695.109570_cites_105152.txt,109570,"Craig v. Boren,429 U.S. 190  (1976)",105152,Barrows v. Jackson (1953),no
+0696.109570_cites_108497.txt,109570,"Craig v. Boren,429 U.S. 190  (1976)",108497,Stanley v. Illinois (1972),no
+0697.109570_cites_109013.txt,109570,"Craig v. Boren,429 U.S. 190  (1976)",109013,Kahn v. Shevin (1974),no
+0698.109570_cites_108781.txt,109570,"Craig v. Boren,429 U.S. 190  (1976)",108781,Frontiero v. Richardson (1973),no
+0699.109570_cites_108489.txt,109570,"Craig v. Boren,429 U.S. 190  (1976)",108489,Eisenstadt v. Baird (1972),no
+0700.109570_cites_109132.txt,109570,"Craig v. Boren,429 U.S. 190  (1976)",109132,Schlesinger v. Ballard (1975),no
+0701.109570_cites_104606.txt,109570,"Craig v. Boren,429 U.S. 190  (1976)",104606,Goesaert v. Cleary (1948),yes
+0702.109346_cites_108288.txt,109346,"Dove v. United States,423 U.S. 325  (1976)",108288,Durham v. United States (1971),yes
+0703.109532_cites_108605.txt,109532,"Gregg v. Georgia,428 U.S. 153  (1976)",108605,Furman v. Georgia (1972),no
+0704.109532_cites_105659.txt,109532,"Gregg v. Georgia,428 U.S. 153  (1976)",105659,Trop v. Dulles (1958),no
+0705.109532_cites_1220970.txt,109532,"Gregg v. Georgia,428 U.S. 153  (1976)",1220970,Coley v. State (1974),no
+0706.109532_cites_1391146.txt,109532,"Gregg v. Georgia,428 U.S. 153  (1976)",1391146,Jarrell v. State (1975),no
+0707.109532_cites_1335744.txt,109532,"Gregg v. Georgia,428 U.S. 153  (1976)",1335744,Gregg v. State (1974),no
+0708.109532_cites_97242.txt,109532,"Gregg v. Georgia,428 U.S. 153  (1976)",97242,Weems v. United States (1910),no
+0709.109532_cites_1260876.txt,109532,"Gregg v. Georgia,428 U.S. 153  (1976)",1260876,People v. Anderson (1972),no
+0710.109532_cites_1381163.txt,109532,"Gregg v. Georgia,428 U.S. 153  (1976)",1381163,Moore v. State (1975),no
+0711.109532_cites_2097666.txt,109532,"Gregg v. Georgia,428 U.S. 153  (1976)",2097666,Commonwealth v. O'NEAL (1975),no
+0712.109532_cites_106451.txt,109532,"Gregg v. Georgia,428 U.S. 153  (1976)",106451,Robinson v. California (1962),no
+0713.109532_cites_108329.txt,109532,"Gregg v. Georgia,428 U.S. 153  (1976)",108329,McGautha v. California (1971),yes
+0714.109390_cites_104216.txt,109390,"Hudgens v. National Labor Relations Board,424 U.S. 507  (1976)",104216,Marsh v. Alabama (1946),no
+0715.109390_cites_107692.txt,109390,"Hudgens v. National Labor Relations Board,424 U.S. 507  (1976)",107692,"Amalgamated Food Employees Union Local 590 v. Logan Valley Plaza, Inc. (1968)",yes
+0716.109390_cites_108592.txt,109390,"Hudgens v. National Labor Relations Board,424 U.S. 507  (1976)",108592,Lloyd Corp. v. Tanner (1972),no
+0717.109390_cites_105389.txt,109390,"Hudgens v. National Labor Relations Board,424 U.S. 507  (1976)",105389,National Labor Relations Board v. Babcock & Wilcox Co. (1956),no
+0718.109390_cites_108591.txt,109390,"Hudgens v. National Labor Relations Board,424 U.S. 507  (1976)",108591,Central Hardware Co. v. National Labor Relations Board (1972),no
+0719.109508_cites_105999.txt,109508,"Lodge 76, International Association of Machinists & Aerospace Workers v. Wisconsin Employment Relations Commission,427 U.S. 132  (1976)",105999,National Labor Relations Board v. Insurance Agents' International Union (1960),no
+0720.109508_cites_104636.txt,109508,"Lodge 76, International Association of Machinists & Aerospace Workers v. Wisconsin Employment Relations Commission,427 U.S. 132  (1976)",104636,"International Union, U. A. W. A., A. F. of L., Local 232 v. Wisconsin Employment Relations Board (1949)",yes
+0721.109508_cites_105866.txt,109508,"Lodge 76, International Association of Machinists & Aerospace Workers v. Wisconsin Employment Relations Commission,427 U.S. 132  (1976)",105866,San Diego Building Trades Council v. Garmon (1959),no
+0722.109508_cites_107123.txt,109508,"Lodge 76, International Association of Machinists & Aerospace Workers v. Wisconsin Employment Relations Commission,427 U.S. 132  (1976)",107123,"Hanna Mining Co. v. District 2, Marine Engineers Beneficial Ass'n (1965)",no
+0723.109508_cites_106827.txt,109508,"Lodge 76, International Association of Machinists & Aerospace Workers v. Wisconsin Employment Relations Commission,427 U.S. 132  (1976)",106827,"Local 20, Teamsters, Chauffeurs & Helpers Union v. Morton (1964)",no
+0724.109508_cites_107886.txt,109508,"Lodge 76, International Association of Machinists & Aerospace Workers v. Wisconsin Employment Relations Commission,427 U.S. 132  (1976)",107886,Brotherhood of Railroad Trainmen v. Jacksonville Terminal Co. (1969),no
+0725.109344_cites_85534.txt,109344,"Michelin Tire Corp. v. Wages,423 U.S. 276  (1976)",85534,Brown v. Maryland (1827),no
+0726.109344_cites_88429.txt,109344,"Michelin Tire Corp. v. Wages,423 U.S. 276  (1976)",88429,Low v. Austin (1872),yes
+0727.109344_cites_105833.txt,109344,"Michelin Tire Corp. v. Wages,423 U.S. 276  (1976)",105833,Youngstown Sheet & Tube Co. v. Bowers (1959),no
+0728.109344_cites_86429.txt,109344,"Michelin Tire Corp. v. Wages,423 U.S. 276  (1976)",86429,Thurlow v. Massachusetts (1847),no
+0729.109499_cites_104222.txt,109499,"National League of Cities v. Usery,426 U.S. 833  (1976)",104222,New York v. United States (1946),no
+0730.109499_cites_109259.txt,109499,"National League of Cities v. Usery,426 U.S. 833  (1976)",109259,Fry v. United States (1975),no
+0731.109499_cites_107734.txt,109499,"National League of Cities v. Usery,426 U.S. 833  (1976)",107734,Maryland v. Wirtz (1968),yes
+0732.109499_cites_102593.txt,109499,"National League of Cities v. Usery,426 U.S. 833  (1976)",102593,United States v. California (1936),no
+0733.109499_cites_103442.txt,109499,"National League of Cities v. Usery,426 U.S. 833  (1976)",103442,United States v. Darby (1941),no
+0734.109499_cites_85412.txt,109499,"National League of Cities v. Usery,426 U.S. 833  (1976)",85412,Gibbons v. Ogden (1824),no
+0735.109499_cites_104231.txt,109499,"National League of Cities v. Usery,426 U.S. 833  (1976)",104231,Case v. Bowles (1946),no
+0736.109499_cites_103047.txt,109499,"National League of Cities v. Usery,426 U.S. 833  (1976)",103047,Helvering v. Gerhardt (1938),no
+0737.109499_cites_97448.txt,109499,"National League of Cities v. Usery,426 U.S. 833  (1976)",97448,Coyle v. Smith (1911),no
+0738.109499_cites_87985.txt,109499,"National League of Cities v. Usery,426 U.S. 833  (1976)",87985,Lane County v. Oregon (1869),no
+0739.109499_cites_106821.txt,109499,"National League of Cities v. Usery,426 U.S. 833  (1976)",106821,Parden v. Terminal Railway of Alabama State Docks Department (1964),no
+0740.109499_cites_108763.txt,109499,"National League of Cities v. Usery,426 U.S. 833  (1976)",108763,Employees of Department of Public Health v. Department of Public Health (1973),no
+0741.109450_cites_108848.txt,109450,"Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)",108848,Pittsburgh Press Co. v. Pittsburgh Commission on Human Relations (1973),no
+0742.109450_cites_109271.txt,109450,"Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)",109271,Bigelow v. Virginia (1975),no
+0743.109450_cites_106761.txt,109450,"Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)",106761,New York Times Co. v. Sullivan (1964),no
+0744.109450_cites_2239749.txt,109450,"Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)",2239749,Patterson Drug Company v. Kingery (1969),no
+0745.109450_cites_103347.txt,109450,"Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)",103347,Thornhill v. Alabama (1940),no
+0746.109450_cites_2098134.txt,109450,"Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)",2098134,"Virginia Citizens Consumer Council, Inc. v. State Board of Pharmacy (1974)",no
+0747.109450_cites_103654.txt,109450,"Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)",103654,Valentine v. Chrestensen (1942),yes
+0748.109450_cites_105285.txt,109450,"Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)",105285,"Williamson v. Lee Optical of Oklahoma, Inc. (1955)",no
+0749.109450_cites_107970.txt,109450,"Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)",107970,National Labor Relations Board v. Gissel Packing Co. (1969),no
+0750.109450_cites_108444.txt,109450,"Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.,425 U.S. 748  (1976)",8985546,"Dun & Bradstreet, Inc. v. C. R. Grove, Trustee (1971)",no
+0751.109615_cites_104587.txt,109615,"Complete Auto Transit, Inc. v. Brady,430 U.S. 274  (1977)",104587,Memphis Natural Gas Co. v. Stone (1948),no
+0752.109615_cites_109239.txt,109615,"Complete Auto Transit, Inc. v. Brady,430 U.S. 274  (1977)",109239,Colonial Pipeline Co. v. Traigle (1975),no
+0753.109615_cites_104869.txt,109615,"Complete Auto Transit, Inc. v. Brady,430 U.S. 274  (1977)",104869,"Spector Motor Service, Inc. v. O'Connor (1951)",yes
+0754.109615_cites_102972.txt,109615,"Complete Auto Transit, Inc. v. Brady,430 U.S. 274  (1977)",102972,Western Live Stock v. Bureau of Revenue (1938),no
+0755.109615_cites_105828.txt,109615,"Complete Auto Transit, Inc. v. Brady,430 U.S. 274  (1977)",105828,"Railway Express Agency, Inc. v. Virginia (1959)",no
+0756.109716_cites_107491.txt,109716,"Continental T.V., Inc. v. GTE Sylvania,433 U.S. 36  (1977)",107491,"United States v. Arnold, Schwinn & Co. (1967)",yes
+0757.109716_cites_336461.txt,109716,"Continental T.V., Inc. v. GTE Sylvania,433 U.S. 36  (1977)",336461,"Gte Sylvania Incorporated v. Continental T v.  Inc., a Corporation (1976)",no
+0758.109716_cites_105646.txt,109716,"Continental T.V., Inc. v. GTE Sylvania,433 U.S. 36  (1977)",105646,Northern Pacific Railway Co. v. United States (1958),no
+0759.109716_cites_1458770.txt,109716,"Continental T.V., Inc. v. GTE Sylvania,433 U.S. 36  (1977)",1458770,"United States v. Arnold, Schwinn & Co. (1965)",no
+0760.109580_cites_86317.txt,109580,"Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)",86317,Pollard's Lessee v. HAGAN (1845),no
+0761.109580_cites_108897.txt,109580,"Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)",108897,Bonelli Cattle Co. v. Arizona (1973),yes
+0762.109580_cites_93804.txt,109580,"Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)",93804,Shively v. Bowlby (1894),no
+0763.109580_cites_102485.txt,109580,"Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)",102485,"Borax Consolidated, Ltd. v. Los Angeles (1935)",no
+0764.109580_cites_89473.txt,109580,"Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)",89473,Barney v. Keokuk (1877),no
+0765.109580_cites_89097.txt,109580,"Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)",89097,County of St. Clair v. Lovingston (1874),no
+0766.109580_cites_107555.txt,109580,"Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)",107555,Hughes v. Washington (1967),no
+0767.109580_cites_96443.txt,109580,"Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)",96443,Joy v. City of St. Louis (1906),no
+0768.109580_cites_86113.txt,109580,"Oregon ex rel. State Land Board v. Corvallis Sand & Gravel Co.,429 U.S. 363  (1977)",86113,Wilcox v. Jackson (1839),no
+0769.109835_cites_109344.txt,109835,"Department of Revenue v. Ass’n of Washington Stevedoring Cos.,435 U.S. 734  (1978)",109344,Michelin Tire Corp. v. Wages (1976),no
+0770.109835_cites_109615.txt,109835,"Department of Revenue v. Ass’n of Washington Stevedoring Cos.,435 U.S. 734  (1978)",109615,"Complete Auto Transit, Inc. v. Brady (1977)",no
+0771.109835_cites_104388.txt,109835,"Department of Revenue v. Ass’n of Washington Stevedoring Cos.,435 U.S. 734  (1978)",104388,Joseph v. Carter & Weekes Stevedoring Co. (1947),yes
+0772.109835_cites_104859.txt,109835,"Department of Revenue v. Ass’n of Washington Stevedoring Cos.,435 U.S. 734  (1978)",104859,Canton Railroad v. Rogan (1951),no
+0773.109835_cites_102972.txt,109835,"Department of Revenue v. Ass’n of Washington Stevedoring Cos.,435 U.S. 734  (1978)",102972,Western Live Stock v. Bureau of Revenue (1938),no
+0774.109835_cites_102857.txt,109835,"Department of Revenue v. Ass’n of Washington Stevedoring Cos.,435 U.S. 734  (1978)",102857,Puget Sound Stevedoring Co. v. State Tax Commission (1937),yes
+0775.109881_cites_106170.txt,109881,"Monell v. Department of Social Services,436 U.S. 658  (1978)",106170,Monroe v. Pape (1961),yes
+0776.109881_cites_86231.txt,109881,"Monell v. Department of Social Services,436 U.S. 658  (1978)",86231,Prigg v. Pennsylvania (1842),no
+0777.109881_cites_108782.txt,109881,"Monell v. Department of Social Services,436 U.S. 658  (1978)",108782,Moor v. County of Alameda (1973),no
+0778.109881_cites_334135.txt,109881,"Monell v. Department of Social Services,436 U.S. 658  (1978)",334135,"12 Fair empl.prac.cas. 836, 11 Empl. Prac. Dec. P 10,755 Jane Monell v. Department of Social Services of the City of New York, Defendants (1976)",no
+0779.109881_cites_88174.txt,109881,"Monell v. Department of Social Services,436 U.S. 658  (1978)",88174,Supervisors v. Durant (1870),no
+0780.109881_cites_88308.txt,109881,"Monell v. Department of Social Services,436 U.S. 658  (1978)",88308,Collector v. Day (1871),no
+0781.109881_cites_108813.txt,109881,"Monell v. Department of Social Services,436 U.S. 658  (1978)",108813,City of Kenosha v. Bruno (1973),no
+0782.109881_cites_108375.txt,109881,"Monell v. Department of Social Services,436 U.S. 658  (1978)",108375,Bivens v. Six Unknown Named Agents of Federal Bureau of Narcotics (1971),no
+0783.109881_cites_108913.txt,109881,"Monell v. Department of Social Services,436 U.S. 658  (1978)",108913,Cleveland Board of Education v. LaFleur (1974),no
+0784.109881_cites_109574.txt,109881,"Monell v. Department of Social Services,436 U.S. 658  (1978)",109574,Mt. Healthy City School District Board of Education v. Doyle (1977),no
+0785.109881_cites_90041.txt,109881,"Monell v. Department of Social Services,436 U.S. 658  (1978)",90041,Ex Parte Virginia (1880),no
+0786.109881_cites_109503.txt,109881,"Monell v. Department of Social Services,436 U.S. 658  (1978)",109503,Aldinger v. Howard (1976),no
+0787.109895_cites_109631.txt,109895,"United States v. Scott,437 U.S. 82  (1978)",109631,United States v. Martin Linen Supply Co. (1977),no
+0788.109895_cites_109688.txt,109895,"United States v. Scott,437 U.S. 82  (1978)",109688,Lee v. United States (1977),no
+0789.109895_cites_109200.txt,109895,"United States v. Scott,437 U.S. 82  (1978)",109200,United States v. Wilson (1975),no
+0790.109895_cites_109201.txt,109895,"United States v. Scott,437 U.S. 82  (1978)",109201,United States v. Jenkins (1975),yes
+0791.109895_cites_105594.txt,109895,"United States v. Scott,437 U.S. 82  (1978)",105594,Green v. United States (1957),no
+0792.109895_cites_94515.txt,109895,"United States v. Scott,437 U.S. 82  (1978)",94515,United States v. Ball (1896),no
+0793.109895_cites_109773.txt,109895,"United States v. Scott,437 U.S. 82  (1978)",109773,Arizona v. Washington (1978),no
+0794.109895_cites_96129.txt,109895,"United States v. Scott,437 U.S. 82  (1978)",96129,Kepner v. United States (1904),no
+0795.109895_cites_109204.txt,109895,"United States v. Scott,437 U.S. 82  (1978)",109204,Serfass v. United States (1975),no
+0796.109895_cites_108233.txt,109895,"United States v. Scott,437 U.S. 82  (1978)",108233,United States v. Jorn (1971),no
+0797.109895_cites_106359.txt,109895,"United States v. Scott,437 U.S. 82  (1978)",106359,Fong Foo v. United States (1962),no
+0798.110063_cites_94405.txt,110063,"Hughes v. Oklahoma,441 U.S. 322  (1979)",94405,Geer v. Connecticut (1896),yes
+0799.110063_cites_100325.txt,110063,"Hughes v. Oklahoma,441 U.S. 322  (1979)",100325,Lacoste v. Department of Conservation of Louisiana (1924),no
+0800.110063_cites_101328.txt,110063,"Hughes v. Oklahoma,441 U.S. 322  (1979)",101328,Foster-Fountain Packing Co. v. Haydel (1928),no
+0801.110063_cites_104652.txt,110063,"Hughes v. Oklahoma,441 U.S. 322  (1979)",104652,"H. P. Hood & Sons, Inc. v. Du Mond (1949)",no
+0802.110063_cites_97421.txt,110063,"Hughes v. Oklahoma,441 U.S. 322  (1979)",97421,West v. Kansas Natural Gas Co. (1911),no
+0803.110063_cites_108085.txt,110063,"Hughes v. Oklahoma,441 U.S. 322  (1979)",108085,"Pike v. Bruce Church, Inc. (1970)",no
+0804.110063_cites_109662.txt,110063,"Hughes v. Oklahoma,441 U.S. 322  (1979)",109662,"Douglas v. Seacoast Products, Inc. (1977)",no
+0805.110063_cites_109868.txt,110063,"Hughes v. Oklahoma,441 U.S. 322  (1979)",109868,Baldwin v. Fish and Game Comm'n of Mont. (1978),no
+0806.110063_cites_109916.txt,110063,"Hughes v. Oklahoma,441 U.S. 322  (1979)",109916,City of Philadelphia v. New Jersey (1978),no
+0807.110063_cites_104563.txt,110063,"Hughes v. Oklahoma,441 U.S. 322  (1979)",104563,Toomer v. Witsell (1948),no
+0808.110212_cites_105789.txt,110212,"Trammel v. United States,445 U.S. 40  (1980)",105789,Hawkins v. United States (1958),yes
+0809.110212_cites_102164.txt,110212,"Trammel v. United States,445 U.S. 40  (1980)",102164,Funk v. United States (1933),no
+0810.110212_cites_106048.txt,110212,"Trammel v. United States,445 U.S. 40  (1980)",106048,Wyatt v. United States (1960),no
+0811.110212_cites_102181.txt,110212,"Trammel v. United States,445 U.S. 40  (1980)",102181,Wolfle v. United States (1934),no
+0812.110212_cites_86090.txt,110212,"Trammel v. United States,445 U.S. 40  (1980)",86090,Stein v. Bowman (1839),no
+0813.110212_cites_104845.txt,110212,"Trammel v. United States,445 U.S. 40  (1980)",104845,Blau v. United States (1951),no
+0814.110325_cites_106022.txt,110325,"United States v. Salvucci,448 U.S. 83  (1980)",106022,Jones v. United States (1960),yes
+0815.110325_cites_107636.txt,110325,"United States v. Salvucci,448 U.S. 83  (1980)",107636,Simmons v. United States (1968),no
+0816.110325_cites_108760.txt,110325,"United States v. Salvucci,448 U.S. 83  (1980)",108760,Brown v. United States (1973),no
+0817.110325_cites_107872.txt,110325,"United States v. Salvucci,448 U.S. 83  (1980)",107872,Alderman v. United States (1969),no
+0818.110563_cites_109615.txt,110563,"Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)",109615,"Complete Auto Transit, Inc. v. Brady (1977)",no
+0819.110563_cites_109835.txt,110563,"Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)",109835,Department of Revenue v. Ass'n of Washington Stevedoring Companies (1978),no
+0820.110563_cites_877181.txt,110563,"Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)",877181,Commonwealth Edison Co. v. State (1980),no
+0821.110563_cites_104253.txt,110563,"Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)",104253,Nippert v. City of Richmond (1946),no
+0822.110563_cites_110488.txt,110563,"Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)",110488,Maryland v. Louisiana (1981),no
+0823.110563_cites_102972.txt,110563,"Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)",102972,Western Live Stock v. Bureau of Revenue (1938),no
+0824.110563_cites_106846.txt,110563,"Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)",106846,General Motors Corp. v. Washington (1964),no
+0825.110563_cites_103186.txt,110563,"Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)",103186,"Clark v. Paul Gray, Inc. (1939)",no
+0826.110563_cites_100063.txt,110563,"Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)",100063,Heisler v. Thomas Colliery Co. (1922),yes
+0827.110563_cites_105195.txt,110563,"Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)",105195,Michigan-Wisconsin Pipe Line Co. v. Calvert (1954),no
+0828.110563_cites_102777.txt,110563,"Commonwealth Edison Co. v. Montana,453 U.S. 609  (1981)",102777,Ingels v. Morf (1937),no
+0829.110799_cites_2226827.txt,110799,"Sporhase v. Nebraska ex rel. Douglas,458 U.S. 941  (1982)",2226827,State Ex Rel. Douglas v. Sporhase (1981),no
+0830.110799_cites_1818257.txt,110799,"Sporhase v. Nebraska ex rel. Douglas,458 U.S. 941  (1982)",1818257,"City of Altus, Oklahoma v. Carr (1966)",no
+0831.110799_cites_96834.txt,110799,"Sporhase v. Nebraska ex rel. Douglas,458 U.S. 941  (1982)",96834,Hudson County Water Co. v. McCarter (1908),yes
+0832.110799_cites_97421.txt,110799,"Sporhase v. Nebraska ex rel. Douglas,458 U.S. 941  (1982)",97421,West v. Kansas Natural Gas Co. (1911),no
+0833.110799_cites_94405.txt,110799,"Sporhase v. Nebraska ex rel. Douglas,458 U.S. 941  (1982)",94405,Geer v. Connecticut (1896),no
+0834.110719_cites_110119.txt,110719,"United States v. Ross,456 U.S. 798  (1982)",110119,Arkansas v. Sanders (1979),no
+0835.110719_cites_100567.txt,110719,"United States v. Ross,456 U.S. 798  (1982)",100567,Carroll v. United States (1925),no
+0836.110719_cites_109714.txt,110719,"United States v. Ross,456 U.S. 798  (1982)",109714,United States v. Chadwick (1977),no
+0837.110719_cites_110558.txt,110719,"United States v. Ross,456 U.S. 798  (1982)",110558,Robbins v. California (1981),yes
+0838.110719_cites_108184.txt,110719,"United States v. Ross,456 U.S. 798  (1982)",108184,Chambers v. Maroney (1970),no
+0839.110719_cites_392944.txt,110719,"United States v. Ross,456 U.S. 798  (1982)",392944,"United States v. Albert Ross, Jr. (1981)",no
+0840.110719_cites_108377.txt,110719,"United States v. Ross,456 U.S. 798  (1982)",108377,Coolidge v. New Hampshire (1971),no
+0841.111218_cites_104463.txt,111218,"Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)",104463,United States v. Yellow Cab Co. (1947),yes
+0842.111218_cites_104915.txt,111218,"Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)",104915,Timken Roller Bearing Co. v. United States (1951),no
+0843.111218_cites_104839.txt,111218,"Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)",104839,"Kiefer-Stewart Co. v. Joseph E. Seagram & Sons, Inc. (1951)",no
+0844.111218_cites_107732.txt,111218,"Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)",107732,"Perma Life Mufflers, Inc. v. International Parts Corp. (1968)",no
+0845.111218_cites_102041.txt,111218,"Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)",102041,"Appalachian Coals, Inc. v. United States (1933)",no
+0846.111218_cites_104037.txt,111218,"Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)",104037,United States v. Crescent Amusement Co. (1944),no
+0847.111218_cites_1292673.txt,111218,"Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)",1292673,United States v. American Tobacco Co. (1911),no
+0848.111218_cites_106009.txt,111218,"Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)",106009,"United States v. Parke, Davis & Co. (1960)",no
+0849.111218_cites_409686.txt,111218,"Copperweld Corp. v. Independence Tube Corp.,467 U.S. 752  (1984)",409686, (1982),no
+0850.111103_cites_102987.txt,111103,"United States v. One Assortment of 89 Firearms,465 U.S. 354  (1984)",102987,Helvering v. Mitchell (1938),no
+0851.111103_cites_110331.txt,111103,"United States v. One Assortment of 89 Firearms,465 U.S. 354  (1984)",110331,United States v. Ward (1980),no
+0852.111103_cites_106534.txt,111103,"United States v. One Assortment of 89 Firearms,465 U.S. 354  (1984)",106534,Kennedy v. Mendoza-Martinez (1963),no
+0853.111103_cites_407595.txt,111103,"United States v. One Assortment of 89 Firearms,465 U.S. 354  (1984)",407595,"United States v. One Assortment of 89 Firearms, National Rifle Association of America, Amicus Curiae (1982)",no
+0854.111103_cites_108643.txt,111103,"United States v. One Assortment of 89 Firearms,465 U.S. 354  (1984)",108643,One Lot Emerald Cut Stones and One Ring v. United States (1972),no
+0855.111103_cites_106087.txt,111103,"United States v. One Assortment of 89 Firearms,465 U.S. 354  (1984)",106087,Flemming v. Nestor (1960),no
+0856.111103_cites_8178595.txt,111103,"United States v. One Assortment of 89 Firearms,465 U.S. 354  (1984)",8178595,"Coffey v. United States, 116 U.S. 436 (1886)",yes
+0857.111308_cites_109499.txt,111308,"Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)",109499,National League of Cities v. Usery (1976),yes
+0858.111308_cites_110881.txt,111308,"Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)",110881,Equal Employment Opportunity Commission v. Wyoming (1983),no
+0859.111308_cites_110516.txt,111308,"Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)",110516,"Hodel v. Virginia Surface Mining & Reclamation Assn., Inc. (1981)",no
+0860.111308_cites_110673.txt,111308,"Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)",110673,United Transportation Union v. Long Island Rail Road (1982),no
+0861.111308_cites_104222.txt,111308,"Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)",104222,New York v. United States (1946),no
+0862.111308_cites_110718.txt,111308,"Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)",110718,Federal Energy Regulatory Commission v. Mississippi (1982),no
+0863.111308_cites_109259.txt,111308,"Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)",109259,Fry v. United States (1975),no
+0864.111308_cites_107734.txt,111308,"Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)",107734,Maryland v. Wirtz (1968),no
+0865.111308_cites_2239255.txt,111308,"Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)",2239255,San Antonio Metropolitan Transit Authority v. Donovan (1983),no
+0866.111308_cites_102330.txt,111308,"Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)",102330,Helvering v. Powers (1934),no
+0867.111308_cites_96357.txt,111308,"Garcia v. San Antonio Metropolitan Transit Authority,469 U.S. 528  (1985)",96357,South Carolina v. United States (1905),no
+0868.111404_cites_91894.txt,111404,"United States v. Miller,471 U.S. 130  (1985)",91894,Ex Parte Bain (1887),yes
+0869.111404_cites_105978.txt,111404,"United States v. Miller,471 U.S. 130  (1985)",105978,Stirone v. United States (1960),no
+0870.111404_cites_423986.txt,111404,"United States v. Miller,471 U.S. 130  (1985)",423986,United States v. James Rual Miller (1983),no
+0871.111404_cites_102436.txt,111404,"United States v. Miller,471 U.S. 130  (1985)",102436,Berger v. United States (1935),no
+0872.111404_cites_106407.txt,111404,"United States v. Miller,471 U.S. 130  (1985)",106407,Russell v. United States (1962),no
+0873.111404_cites_103976.txt,111404,"United States v. Miller,471 U.S. 130  (1985)",103976,United States v. Ballard (1944),no
+0874.111404_cites_100951.txt,111404,"United States v. Miller,471 U.S. 130  (1985)",100951,Salinger v. United States (1926),no
+0875.111555_cites_110478.txt,111555,"Daniels v. Williams,474 U.S. 327  (1986)",110478,Parratt v. Taylor (1981),yes
+0876.111555_cites_111252.txt,111555,"Daniels v. Williams,474 U.S. 327  (1986)",111252,Hudson v. Palmer (1984),no
+0877.111555_cites_109635.txt,111555,"Daniels v. Williams,474 U.S. 327  (1986)",109635,Ingraham v. Wright (1977),no
+0878.111555_cites_109561.txt,111555,"Daniels v. Williams,474 U.S. 327  (1986)",109561,Estelle v. Gamble (1976),no
+0879.111555_cites_109097.txt,111555,"Daniels v. Williams,474 U.S. 327  (1986)",109097,Wolff v. McDonnell (1974),no
+0880.111555_cites_110132.txt,111555,"Daniels v. Williams,474 U.S. 327  (1986)",110132,Baker v. McCollan (1979),no
+0881.111555_cites_87021.txt,111555,"Daniels v. Williams,474 U.S. 327  (1986)",87021,South v. Maryland Ex Rel. Pottle (1856),no
+0882.111555_cites_106170.txt,111555,"Daniels v. Williams,474 U.S. 327  (1986)",106170,Monroe v. Pape (1961),no
+0883.111555_cites_108430.txt,111555,"Daniels v. Williams,474 U.S. 327  (1986)",108430,Groppi v. Leslie (1972),no
+0884.111555_cites_110169.txt,111555,"Daniels v. Williams,474 U.S. 327  (1986)",110169,Martinez v. California (1980),no
+0885.111940_cites_87371.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",87371,"Commonwealth of Ky. v. DENNISON, GOVERNOR, &C. (1861)",yes
+0886.111940_cites_109961.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",109961,Michigan v. Doran (1978),no
+0887.111940_cites_105312.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",105312,Brown v. Board of Education (1955),no
+0888.111940_cites_111492.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",111492,Jean v. Nelson (1985),no
+0889.111940_cites_105221.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",105221,Brown v. Board of Education (1954),no
+0890.111940_cites_105766.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",105766,Cooper v. Aaron (1958),no
+0891.111940_cites_96519.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",96519,Appleyard v. Massachusetts (1906),no
+0892.111940_cites_467594.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",467594,Commonwealth of Puerto Rico v. Terry E. Branstad (1986),no
+0893.111940_cites_111916.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",111916,"California v. Superior Court of Cal., San Bernardino Cty. (1987)",no
+0894.111940_cites_99021.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",99021,Biddinger v. Commissioner of Police of City of New York (1917),no
+0895.111940_cites_110926.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",110926,Kolender v. Lawson (1983),no
+0896.111940_cites_102605.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",102605,Ashwander v. Tennessee Valley Authority (1936),no
+0897.111940_cites_110322.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",110322,Maine v. Thiboutot (1980),no
+0898.111940_cites_109490.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",109490,"Examining Bd. of Engineers, Architects and Surveyors v. Flores De Otero (1976)",no
+0899.111940_cites_96819.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",96819,Ex Parte Young (1908),no
+0900.111940_cites_96915.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",96915,New York Ex Rel. Kopel v. Bingham (1909),no
+0901.111940_cites_107705.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",107705,Green v. County School Board of New Kent County (1968),no
+0902.111940_cites_89308.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",89308,Board of Liquidation v. McComb (1876),no
+0903.111940_cites_110718.txt,111940,"Puerto Rico v. Branstad,483 U.S. 219  (1987)",110718,Federal Energy Regulatory Commission v. Mississippi (1982),no
+0904.111948_cites_107953.txt,111948,"Solorio v. United States,483 U.S. 435  (1987)",107953,O'Callahan v. Parker (1969),yes
+0905.111948_cites_105326.txt,111948,"Solorio v. United States,483 U.S. 435  (1987)",105326,United States Ex Rel. Toth v. Quarles (1955),no
+0906.111948_cites_108280.txt,111948,"Solorio v. United States,483 U.S. 435  (1987)",8982256,"Relford v. Commandant, US Disciplinary Barracks, Fort Leavenworth (1971)",no
+0907.111948_cites_105525.txt,111948,"Solorio v. United States,483 U.S. 435  (1987)",105525,Reid v. Covert (1957),no
+0908.111948_cites_105981.txt,111948,"Solorio v. United States,483 U.S. 435  (1987)",105981,Kinsella v. United States Ex Rel. Singleton (1960),no
+0909.111948_cites_89821.txt,111948,"Solorio v. United States,483 U.S. 435  (1987)",89821,Coleman v. Tennessee (1879),no
+0910.112040_cites_111308.txt,112040,"South Carolina v. Baker,485 U.S. 505  (1988)",111308,Garcia v. San Antonio Metropolitan Transit Authority (1985),no
+0911.112040_cites_104222.txt,112040,"South Carolina v. Baker,485 U.S. 505  (1988)",104222,New York v. United States (1946),no
+0912.112040_cites_103172.txt,112040,"South Carolina v. Baker,485 U.S. 505  (1988)",103172,Graves v. New York Ex Rel. O'Keefe (1939),no
+0913.112040_cites_103047.txt,112040,"South Carolina v. Baker,485 U.S. 505  (1988)",103047,Helvering v. Gerhardt (1938),no
+0914.112040_cites_110718.txt,112040,"South Carolina v. Baker,485 U.S. 505  (1988)",110718,Federal Energy Regulatory Commission v. Mississippi (1982),no
+0915.112040_cites_101762.txt,112040,"South Carolina v. Baker,485 U.S. 505  (1988)",101762,Indian Motocycle Co. v. United States (1931),no
+0916.112040_cites_94174.txt,112040,"South Carolina v. Baker,485 U.S. 505  (1988)",94174,Pollock v. Farmers' Loan & Trust Co. (1895),yes
+0917.112276_cites_1098406.txt,112276,"Alabama v. Smith,490 U.S. 794  (1989)",1098406,Ex Parte Smith (1988),no
+0918.112276_cites_107978.txt,112276,"Alabama v. Smith,490 U.S. 794  (1989)",107978,North Carolina v. Pearce (1969),yes
+0919.112276_cites_108569.txt,112276,"Alabama v. Smith,490 U.S. 794  (1989)",108569,Colten v. Kentucky (1972),no
+0920.112276_cites_111602.txt,112276,"Alabama v. Smith,490 U.S. 794  (1989)",111602,Texas v. McCullough (1986),no
+0921.112276_cites_110748.txt,112276,"Alabama v. Smith,490 U.S. 794  (1989)",110748,United States v. Goodwin (1982),no
+0922.112301_cites_111683.txt,112301,"Healy v. The Beer Institute,491 U.S. 324  (1989)",111683,Brown-Forman Distillers Corp. v. New York State Liquor Authority (1986),no
+0923.112301_cites_107217.txt,112301,"Healy v. The Beer Institute,491 U.S. 324  (1989)",107217,"Joseph E. Seagram & Sons, Inc. v. Hostetter (1966)",yes
+0924.112301_cites_102402.txt,112301,"Healy v. The Beer Institute,491 U.S. 324  (1989)",102402,"Baldwin v. G. A. F. Seelig, Inc. (1935)",no
+0925.112301_cites_110758.txt,112301,"Healy v. The Beer Institute,491 U.S. 324  (1989)",110758,Edgar v. Mite Corp. (1982),no
+0926.112301_cites_507765.txt,112301,"Healy v. The Beer Institute,491 U.S. 324  (1989)",507765, (1988),no
+0927.112301_cites_2370562.txt,112301,"Healy v. The Beer Institute,491 U.S. 324  (1989)",2370562,United States Brewers Ass'n v. Healy (1987),no
+0928.112258_cites_109016.txt,112258,"Thornburgh v. Abbott,490 U.S. 401  (1989)",109016,Procunier v. Martinez (1974),yes
+0929.112258_cites_111904.txt,112258,"Thornburgh v. Abbott,490 U.S. 401  (1989)",111904,Turner v. Safley (1987),no
+0930.112258_cites_109718.txt,112258,"Thornburgh v. Abbott,490 U.S. 401  (1989)",109718,"Jones v. North Carolina Prisoners' Labor Union, Inc. (1977)",no
+0931.112258_cites_109079.txt,112258,"Thornburgh v. Abbott,490 U.S. 401  (1989)",109079,Pell v. Procunier (1974),no
+0932.112258_cites_492021.txt,112258,"Thornburgh v. Abbott,490 U.S. 401  (1989)",492021,"Jack Abbott v. Edwin Meese, Iii, Attorney General of the United States (1987)",no
+0933.112258_cites_110075.txt,112258,"Thornburgh v. Abbott,490 U.S. 401  (1989)",110075,Bell v. Wolfish (1979),no
+0934.112471_cites_94866.txt,112471,"Collins v. Youngblood,497 U.S. 37  (1990)",94866,Thompson v. Utah (1898),yes
+0935.112471_cites_100734.txt,112471,"Collins v. Youngblood,497 U.S. 37  (1990)",100734,Beazell v. Ohio (1925),no
+0936.112471_cites_90760.txt,112471,"Collins v. Youngblood,497 U.S. 37  (1990)",90760,Kring v. Missouri (1883),yes
+0937.112471_cites_1787505.txt,112471,"Collins v. Youngblood,497 U.S. 37  (1990)",1787505,Bogany v. State (1983),no
+0938.112471_cites_98427.txt,112471,"Collins v. Youngblood,497 U.S. 37  (1990)",98427,Malloy v. South Carolina (1915),no
+0939.112608_cites_110719.txt,112608,"California v. Acevedo,500 U.S. 565  (1991)",110719,United States v. Ross (1982),no
+0940.112608_cites_109714.txt,112608,"California v. Acevedo,500 U.S. 565  (1991)",109714,United States v. Chadwick (1977),no
+0941.112608_cites_110119.txt,112608,"California v. Acevedo,500 U.S. 565  (1991)",110119,Arkansas v. Sanders (1979),yes
+0942.112608_cites_111305.txt,112608,"California v. Acevedo,500 U.S. 565  (1991)",111305,United States v. Johns (1985),no
+0943.112608_cites_100567.txt,112608,"California v. Acevedo,500 U.S. 565  (1991)",100567,Carroll v. United States (1925),no
+0944.112608_cites_104504.txt,112608,"California v. Acevedo,500 U.S. 565  (1991)",104504,Johnson v. United States (1948),no
+0945.112608_cites_108184.txt,112608,"California v. Acevedo,500 U.S. 565  (1991)",108184,Chambers v. Maroney (1970),no
+0946.112608_cites_110979.txt,112608,"California v. Acevedo,500 U.S. 565  (1991)",110979,United States v. Place (1983),no
+0947.112608_cites_110558.txt,112608,"California v. Acevedo,500 U.S. 565  (1991)",110558,Robbins v. California (1981),no
+0948.112640_cites_111020.txt,112640,"Coleman v. Thompson,501 U.S. 722  (1991)",111020,Michigan v. Long (1983),no
+0949.112640_cites_112205.txt,112640,"Coleman v. Thompson,501 U.S. 722  (1991)",112205,Harris v. Reed (1989),no
+0950.112640_cites_109717.txt,112640,"Coleman v. Thompson,501 U.S. 722  (1991)",109717,Wainwright v. Sykes (1977),no
+0951.112640_cites_106548.txt,112640,"Coleman v. Thompson,501 U.S. 722  (1991)",106548,Fay v. Noia (1963),yes
+0952.112640_cites_105074.txt,112640,"Coleman v. Thompson,501 U.S. 722  (1991)",105074,Brown v. Allen (1953),no
+0953.112640_cites_110692.txt,112640,"Coleman v. Thompson,501 U.S. 722  (1991)",110692,Engle v. Isaac (1982),no
+0954.112640_cites_111880.txt,112640,"Coleman v. Thompson,501 U.S. 722  (1991)",111880,Pennsylvania v. Finley (1987),no
+0955.112640_cites_111727.txt,112640,"Coleman v. Thompson,501 U.S. 722  (1991)",111727,Murray v. Carrier (1986),no
+0956.112640_cites_1280169.txt,112640,"Coleman v. Thompson,501 U.S. 722  (1991)",1280169,O'BRIEN v. Socony Mobil Oil Company (1967),no
+0957.112640_cites_106591.txt,112640,"Coleman v. Thompson,501 U.S. 722  (1991)",106591,Sanders v. United States (1963),no
+0958.112640_cites_536051.txt,112640,"Coleman v. Thompson,501 U.S. 722  (1991)",536051,"Roger K. Coleman v. Charles Thompson, Warden (1990)",no
+0959.112640_cites_109439.txt,112640,"Coleman v. Thompson,501 U.S. 722  (1991)",109439,Francis v. Henderson (1976),no
+0960.112609_cites_1573917.txt,112609,"Exxon Corp. v. Central Gulf Lines, Inc.,500 U.S. 603  (1991)",1573917,"Exxon Corp. v. Central Gulf Lines, Inc. (1989)",no
+0961.112609_cites_88300.txt,112609,"Exxon Corp. v. Central Gulf Lines, Inc.,500 U.S. 603  (1991)",88300,Insurance Co. v. Dunham (1871),no
+0962.112609_cites_105375.txt,112609,"Exxon Corp. v. Central Gulf Lines, Inc.,500 U.S. 603  (1991)",105375,Archawski v. Hanioti (1956),no
+0963.112609_cites_86949.txt,112609,"Exxon Corp. v. Central Gulf Lines, Inc.,500 U.S. 603  (1991)",86949,Minturn v. Maynard (1855),yes
+0964.112728_cites_112640.txt,112728,"Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)",112640,Coleman v. Thompson (1991),no
+0965.112728_cites_106544.txt,112728,"Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)",106544,Townsend v. Sain (1963),yes
+0966.112728_cites_112573.txt,112728,"Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)",112573,McCleskey v. Zant (1991),no
+0967.112728_cites_105074.txt,112728,"Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)",105074,Brown v. Allen (1953),no
+0968.112728_cites_109717.txt,112728,"Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)",109717,Wainwright v. Sykes (1977),no
+0969.112728_cites_111727.txt,112728,"Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)",111727,Murray v. Carrier (1986),no
+0970.112728_cites_556624.txt,112728,"Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)",556624,Jose Tamayo-Reyes v. J.C. Keeney (1991),no
+0971.112728_cites_111235.txt,112728,"Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)",111235,Reed v. Ross (1984),no
+0972.112728_cites_109439.txt,112728,"Keeney v. Tamayo-Reyes,504 U.S. 1  (1992)",109439,Francis v. Henderson (1976),no
+0973.112739_cites_109615.txt,112739,"Quill Corp. v. North Dakota,504 U.S. 298  (1992)",109615,"Complete Auto Transit, Inc. v. Brady (1977)",no
+0974.112739_cites_1591860.txt,112739,"Quill Corp. v. North Dakota,504 U.S. 298  (1992)",1591860,State Ex Rel. Heitkamp v. Quill Corp. (1991),no
+0975.112739_cites_107425.txt,112739,"Quill Corp. v. North Dakota,504 U.S. 298  (1992)",107425,"National Bellas Hess, Inc. v. Department of Revenue (1967)",yes
+0976.112739_cites_109630.txt,112739,"Quill Corp. v. North Dakota,504 U.S. 298  (1992)",109630,National Geographic Society v. California Board of Equalization (1977),no
+0977.112739_cites_110563.txt,112739,"Quill Corp. v. North Dakota,504 U.S. 298  (1992)",110563,Commonwealth Edison Co. v. Montana (1981),no
+0978.112739_cites_112066.txt,112739,"Quill Corp. v. North Dakota,504 U.S. 298  (1992)",112066,"D. H. Holmes Co., Ltd. v. McNamara (1988)",no
+0979.112739_cites_105829.txt,112739,"Quill Corp. v. North Dakota,504 U.S. 298  (1992)",105829,Northwestern States Portland Cement Co. v. Minnesota (1959),no
+0980.112739_cites_110927.txt,112739,"Quill Corp. v. North Dakota,504 U.S. 298  (1992)",110927,Arkansas Electric Cooperative Corp. v. Arkansas Public Service Commission (1983),no
+0981.112906_cites_92534.txt,112906,"United States v. Dixon,509 U.S. 688  (1993)",92534,Nielsen (1889),no
+0982.112906_cites_112432.txt,112906,"United States v. Dixon,509 U.S. 688  (1993)",112432,Grady v. Corbin (1990),yes
+0983.112906_cites_109695.txt,112906,"United States v. Dixon,509 U.S. 688  (1993)",109695,Brown v. Ohio (1977),no
+0984.112906_cites_96689.txt,112906,"United States v. Dixon,509 U.S. 688  (1993)",96689,Grafton v. United States (1907),no
+0985.112906_cites_109736.txt,112906,"United States v. Dixon,509 U.S. 688  (1993)",109736,Harris v. Oklahoma (1977),no
+0986.112906_cites_110307.txt,112906,"United States v. Dixon,509 U.S. 688  (1993)",110307,Illinois v. Vitale (1980),no
+0987.112906_cites_111893.txt,112906,"United States v. Dixon,509 U.S. 688  (1993)",111893,Young v. United States Ex Rel. Vuitton Et Fils S. A. (1987),no
+0988.112906_cites_97395.txt,112906,"United States v. Dixon,509 U.S. 688  (1993)",97395,Gavieres v. United States (1911),no
+0989.112906_cites_96480.txt,112906,"United States v. Dixon,509 U.S. 688  (1993)",96480,Burton v. United States (1906),no
+0990.112906_cites_107686.txt,112906,"United States v. Dixon,509 U.S. 688  (1993)",107686,Bloom v. Illinois (1968),no
+0991.112906_cites_105594.txt,112906,"United States v. Dixon,509 U.S. 688  (1993)",105594,Green v. United States (1957),no
+0992.117947_cites_110338.txt,117947,"Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)",110338,Fullilove v. Klutznick (1980),no
+0993.117947_cites_112176.txt,117947,"Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)",112176,City of Richmond v. J. A. Croson Co. (1989),no
+0994.117947_cites_112484.txt,117947,"Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)",112484,"Metro Broadcasting, Inc. v. Federal Communications Commission (1990)",yes
+0995.117947_cites_111669.txt,117947,"Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)",111669,Wygant v. Jackson Board of Education (1986),no
+0996.117947_cites_109930.txt,117947,"Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)",109930,Regents of the University of California v. Bakke (1978),no
+0997.117947_cites_103875.txt,117947,"Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)",103875,Hirabayashi v. United States (1943),no
+0998.117947_cites_105222.txt,117947,"Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)",105222,Bolling v. Sharpe (1954),no
+0999.117947_cites_663717.txt,117947,"Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)",1879640, (1994),no
+1000.117947_cites_109469.txt,117947,"Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)",109469,Washington v. Davis (1976),no
+1001.117947_cites_104040.txt,117947,"Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)",104040,Korematsu v. United States (1945),no
+1002.117947_cites_111827.txt,117947,"Adarand Constructors, Inc. v. Pena,515 U.S. 200  (1995)",111827,United States v. Paradise (1987),no
+1003.117931_cites_105287.txt,117931,"Hubbard v. United States,514 U.S. 695  (1995)",105287,United States v. Bramblett (1955),yes
+1004.117931_cites_112296.txt,117931,"Hubbard v. United States,514 U.S. 695  (1995)",112296,Patterson v. McLean Credit Union (1989),no
+1005.117931_cites_258536.txt,117931,"Hubbard v. United States,514 U.S. 695  (1995)",258536,Daniel Jackson Oliver Wendel Holmes Morgan v. United States (1962),no
+1006.117931_cites_276778.txt,117931,"Hubbard v. United States,514 U.S. 695  (1995)",276778,United States v. James Ralph Erhardt (1967),no
+1007.117931_cites_109680.txt,117931,"Hubbard v. United States,514 U.S. 695  (1995)",109680,Illinois Brick Co. v. Illinois (1977),no
+1008.117931_cites_101894.txt,117931,"Hubbard v. United States,514 U.S. 695  (1995)",101894,Burnet v. Coronado Oil & Gas Co. (1932),no
+1009.117958_cites_101414.txt,117958,"United States v. Gaudin,515 U.S. 506  (1995)",101414,Sinclair v. United States (1929),yes
+1010.117958_cites_112848.txt,117958,"United States v. Gaudin,515 U.S. 506  (1995)",112848,United States v. Olano (1993),no
+1011.117958_cites_673512.txt,117958,"United States v. Gaudin,515 U.S. 506  (1995)",673512,United States v. Michael E. Gaudin (1994),no
+1012.117958_cites_112868.txt,117958,"United States v. Gaudin,515 U.S. 506  (1995)",112868,Sullivan v. Louisiana (1993),no
+1013.117958_cites_109698.txt,117958,"United States v. Gaudin,515 U.S. 506  (1995)",109698,Patterson v. New York (1977),no
+1014.117958_cites_94082.txt,117958,"United States v. Gaudin,515 U.S. 506  (1995)",94082,Sparf v. United States (1895),no
+1015.117958_cites_112052.txt,117958,"United States v. Gaudin,515 U.S. 506  (1995)",112052,Kungys v. United States (1988),no
+1016.118023_cites_110312.txt,118023,"44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)",110312,Central Hudson Gas & Electric Corp. v. Public Service Commission (1980),no
+1017.118023_cites_109450.txt,118023,"44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)",109450,"Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc. (1976)",no
+1018.118023_cites_111744.txt,118023,"44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)",111744,Posadas De Puerto Rico Associates v. Tourism Co. of Puerto Rico (1986),no
+1019.118023_cites_117924.txt,118023,"44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)",117924,Rubin v. Coors Brewing Co. (1995),no
+1020.118023_cites_1877168.txt,118023,"44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)",1877168,"44 Liquor Mart, Inc. v. Racine (1993)",no
+1021.118023_cites_112836.txt,118023,"44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)",112836,"City of Cincinnati v. Discovery Network, Inc. (1993)",no
+1022.118023_cites_112899.txt,118023,"44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)",112899,United States v. Edge Broadcasting Co. (1993),no
+1023.118023_cites_109649.txt,118023,"44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)",109649,"Linmark Associates, Inc. v. Township of Willingboro (1977)",no
+1024.118023_cites_117963.txt,118023,"44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)",117963,"Florida Bar v. Went for It, Inc. (1995)",no
+1025.118023_cites_2040250.txt,118023,"44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)",2040250,Michigan Beer & Wine Wholesalers Ass'n v. Attorney General (1985),no
+1026.118023_cites_108636.txt,118023,"44 Liquormart, Inc. v. Rhode Island,517 U.S. 484  (1996)",108636,"California v. LaRue, 409 U.S. 109 (1973)",yes
+1027.118011_cites_92702.txt,118011,"Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)",92702,Hans v. Louisiana (1890),no
+1028.118011_cites_84681.txt,118011,"Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)",84681,Chisholm v. Georgia (1793),no
+1029.118011_cites_112291.txt,118011,"Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)",112291,Pennsylvania v. Union Gas Co. (1989),yes
+1030.118011_cites_111503.txt,118011,"Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)",111503,Atascadero State Hospital v. Scanlon (1985),no
+1031.118011_cites_102271.txt,118011,"Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)",102271,Principality of Monaco v. Mississippi (1934),no
+1032.118011_cites_96819.txt,118011,"Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)",96819,Ex Parte Young (1908),no
+1033.118011_cites_85330.txt,118011,"Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)",85330,Cohens v. Virginia (1821),no
+1034.118011_cites_109520.txt,118011,"Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)",109520,Fitzpatrick v. Bitzer (1976),no
+1035.118011_cites_111949.txt,118011,"Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)",111949,Welch v. Texas Department of Highways & Public Transportation (1987),no
+1036.118011_cites_112800.txt,118011,"Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)",112800,"Puerto Rico Aqueduct and Sewer Authority v. Metcalf & Eddy, Inc. (1993)",no
+1037.118011_cites_658639.txt,118011,"Seminole Tribe of Florida v. Florida,517 U.S. 44  (1996)",658639, (1994),no
+1038.118133_cites_112887.txt,118133,"Agostini v. Felton,521 U.S. 203  (1997)",112887,Zobrest v. Catalina Foothills School District (1993),no
+1039.118133_cites_111506.txt,118133,"Agostini v. Felton,521 U.S. 203  (1997)",111506,Aguilar v. Felton (1985),yes
+1040.118133_cites_111561.txt,118133,"Agostini v. Felton,521 U.S. 203  (1997)",111561,Witters v. Washington Department of Services for the Blind (1986),no
+1041.118133_cites_111505.txt,118133,"Agostini v. Felton,521 U.S. 203  (1997)",111505,School District of Grand Rapids v. Ball (1985),yes
+1042.118133_cites_108380.txt,118133,"Agostini v. Felton,521 U.S. 203  (1997)",108380,Lemon v. Kurtzman (1971),no
+1043.118133_cites_438842.txt,118133,"Agostini v. Felton,521 U.S. 203  (1997)",438842, (1984),no
+1044.118133_cites_117870.txt,118133,"Agostini v. Felton,521 U.S. 203  (1997)",117870,Board of Ed. of Kiryas Joel Village School Dist. v. Grumet (1994),no
+1045.118133_cites_109251.txt,118133,"Agostini v. Felton,521 U.S. 203  (1997)",109251,Meek v. Pittenger (1975),no
+1046.118133_cites_112679.txt,118133,"Agostini v. Felton,521 U.S. 203  (1997)",112679,Rufo v. Inmates of Suffolk County Jail (1992),no
+1047.118133_cites_117967.txt,118133,"Agostini v. Felton,521 U.S. 203  (1997)",117967,Rosenberger v. Rector & Visitors of University of Virginia (1995),no
+1048.118133_cites_112138.txt,118133,"Agostini v. Felton,521 U.S. 203  (1997)",112138,Bowen v. Kendrick (1988),no
+1049.118155_cites_112259.txt,118155,"Hudson v. United States,522 U.S. 93  (1997)",112259,United States v. Halper (1989),yes
+1050.118155_cites_106534.txt,118155,"Hudson v. United States,522 U.S. 93  (1997)",106534,Kennedy v. Mendoza-Martinez (1963),no
+1051.118155_cites_1087946.txt,118155,"Hudson v. United States,522 U.S. 93  (1997)",1087946,Department of Revenue of Mont. v. Kurth Ranch (1994),no
+1052.118155_cites_110331.txt,118155,"Hudson v. United States,522 U.S. 93  (1997)",110331,United States v. Ward (1980),no
+1053.118155_cites_118052.txt,118155,"Hudson v. United States,522 U.S. 93  (1997)",118052,United States v. Ursery (1996),no
+1054.118155_cites_102987.txt,118155,"Hudson v. United States,522 U.S. 93  (1997)",102987,Helvering v. Mitchell (1938),no
+1055.118155_cites_106087.txt,118155,"Hudson v. United States,522 U.S. 93  (1997)",106087,Flemming v. Nestor (1960),no
+1056.118155_cites_112906.txt,118155,"Hudson v. United States,522 U.S. 93  (1997)",112906,United States v. Dixon (1993),no
+1057.118149_cites_107615.txt,118149,"State Oil Co. v. Khan,522 U.S. 3  (1997)",107615,Albrecht v. Herald Co. (1968),yes
+1058.118149_cites_109716.txt,118149,"State Oil Co. v. Khan,522 U.S. 3  (1997)",109716,Continental T. v.  Inc. v. GTE Sylvania Inc. (1977),no
+1059.118149_cites_725024.txt,118149,"State Oil Co. v. Khan,522 U.S. 3  (1997)",725024,"Barkat U. Khan and Khan & Associates, Inc. v. State Oil Company (1996)",no
+1060.118149_cites_112425.txt,118149,"State Oil Co. v. Khan,522 U.S. 3  (1997)",112425,Atlantic Richfield Co. v. USA Petroleum Co. (1990),no
+1061.118149_cites_110747.txt,118149,"State Oil Co. v. Khan,522 U.S. 3  (1997)",110747,Arizona v. Maricopa County Medical Society (1982),no
+1062.118149_cites_107491.txt,118149,"State Oil Co. v. Khan,522 U.S. 3  (1997)",107491,"United States v. Arnold, Schwinn & Co. (1967)",no
+1063.118230_cites_104079.txt,118230,"Hohn v. United States,524 U.S. 236  (1998)",104079,House v. Mayo (1945),yes
+1064.118230_cites_1087822.txt,118230,"Hohn v. United States,524 U.S. 236  (1998)",103707,Ex Parte Quirin (1942),no
+1065.118230_cites_112643.txt,118230,"Hohn v. United States,524 U.S. 236  (1998)",112643,Payne v. Tennessee (1991),no
+1066.118230_cites_111885.txt,118230,"Hohn v. United States,524 U.S. 236  (1998)",111885,Gray v. Mississippi (1987),no
+1067.118317_cites_118011.txt,118317,"College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)",118011,Seminole Tribe of Florida v. Florida (1996),no
+1068.118317_cites_108763.txt,118317,"College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)",108763,Employees of Department of Public Health v. Department of Public Health (1973),no
+1069.118317_cites_106821.txt,118317,"College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)",106821,Parden v. Terminal Railway of Alabama State Docks Department (1964),yes
+1070.118317_cites_111949.txt,118317,"College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)",111949,Welch v. Texas Department of Highways & Public Transportation (1987),no
+1071.118317_cites_111503.txt,118317,"College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)",111503,Atascadero State Hospital v. Scanlon (1985),no
+1072.118317_cites_112291.txt,118317,"College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)",112291,Pennsylvania v. Union Gas Co. (1989),no
+1073.118317_cites_110880.txt,118317,"College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)",110880,"White v. Massachusetts Council of Construction Employers, Inc. (1983)",no
+1074.118317_cites_105513.txt,118317,"College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)",105513,California v. Taylor (1957),no
+1075.118317_cites_109520.txt,118317,"College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,527 U.S. 666  (1999)",109520,Fitzpatrick v. Bitzer (1976),no
+1076.118386_cites_118133.txt,118386,"Mitchell v. Helms,530 U.S. 793  (2000)",118133,Agostini v. Felton (1997),no
+1077.118386_cites_112887.txt,118386,"Mitchell v. Helms,530 U.S. 793  (2000)",112887,Zobrest v. Catalina Foothills School District (1993),no
+1078.118386_cites_111561.txt,118386,"Mitchell v. Helms,530 U.S. 793  (2000)",111561,Witters v. Washington Department of Services for the Blind (1986),no
+1079.118386_cites_107737.txt,118386,"Mitchell v. Helms,530 U.S. 793  (2000)",107737,Board of Ed. of Central School Dist. No. 1 v. Allen (1968),no
+1080.118386_cites_104373.txt,118386,"Mitchell v. Helms,530 U.S. 793  (2000)",104373,Everson v. Board of Ed. of Ewing (1947),no
+1081.118386_cites_109722.txt,118386,"Mitchell v. Helms,530 U.S. 793  (2000)",109722,Wolman v. Walter (1977),yes
+1082.118386_cites_109251.txt,118386,"Mitchell v. Helms,530 U.S. 793  (2000)",109251,Meek v. Pittenger (1975),yes
+1083.118386_cites_111003.txt,118386,"Mitchell v. Helms,530 U.S. 793  (2000)",111003,Mueller v. Allen (1983),no
+1084.118386_cites_108380.txt,118386,"Mitchell v. Helms,530 U.S. 793  (2000)",108380,Lemon v. Kurtzman (1971),no
+1085.118386_cites_117967.txt,118386,"Mitchell v. Helms,530 U.S. 793  (2000)",117967,Rosenberger v. Rector & Visitors of University of Virginia (1995),no
+1086.118428_cites_99610.txt,118428,"United States v. Hatter,532 U.S. 557  (2001)",99610,Evans v. Gore (1920),yes
+1087.118428_cites_103214.txt,118428,"United States v. Hatter,532 U.S. 557  (2001)",103214,O'MALLEY v. Woodrough (1939),no
+1088.118428_cites_110365.txt,118428,"United States v. Hatter,532 U.S. 557  (2001)",110365,United States v. Will (1980),no
+1089.118428_cites_702629.txt,118428,"United States v. Hatter,532 U.S. 557  (2001)",702629,Hatter v. United States (1995),no
+1090.118273_cites_111516.txt,118273,"Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)",111516,Oregon Department of Fish & Wildlife v. Klamath Indian Tribe (1985),no
+1091.118273_cites_96304.txt,118273,"Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)",96304,United States v. Winans (1905),no
+1092.118273_cites_746267.txt,118273,"Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)",746267, (1997),no
+1093.118273_cites_94506.txt,118273,"Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)",94506,Ward v. Race Horse (1896),yes
+1094.118273_cites_110146.txt,118273,"Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)",110146,Washington v. Washington State Commercial Passenger Fishing Vessel Assn. (1979),no
+1095.118273_cites_2261846.txt,118273,"Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)",2261846,Mille Lacs Band of Chippewa Indians v. Minnesota (1994),no
+1096.118273_cites_105018.txt,118273,"Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)",105018,Youngstown Sheet & Tube Co. v. Sawyer (1952),no
+1097.118273_cites_98773.txt,118273,"Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)",98773,New York Ex Rel. Kennedy v. Becker (1916),no
+1098.118273_cites_103642.txt,118273,"Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)",103642,Tulee v. Washington (1942),no
+1099.118273_cites_96748.txt,118273,"Minnesota v. Mille Lacs Band of Chippewa Indians,526 U.S. 172  (1999) (in part)",96748,Winters v. United States (1908),no

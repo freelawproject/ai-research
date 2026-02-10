@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b653-3">
+<span citation-index="1" class="star-pagination" label="603"> 
+   *603
+   </span>
+<em>
+   MEMORANDUM
+  </em>
+</p>
+<author id="b653-4">
+  KEITH M. LUNDIN, Bankruptcy Judge.
+ </author>
+<p id="b653-5">
+  A judgment lien creditor objects to this Chapter 13 Debtor’s motions to partially avoid the judicial lien and for turnover of a car on the ground that the Debtor is not eligible for Chapter 13. The issue is whether an unconditional written commitment to make plan payments by the financially able person with whom this unmarried Debtor shares a home constitutes “regular income” for eligibility purposes. This Debtor has regular income and is eligible for Chapter 13. The following are findings of fact and conclusions of law. Fed.R.BanKR.P. 7052.
+ </p>
+<p id="b653-6">
+  I.
+ </p>
+<p id="b653-7">
+  For 11 years, the Debtor has shared a household with Sam Hambrick. The home is owned by Mr. Hambrick and his elderly mother.
+ </p>
+<p id="b653-8">
+  Mr. Hambrick’s twin daughters (now 16 years old) live with the Debtor and Mr. Hambrick and have been raised by the Debt- or. One of the twins has asthma and needs special medical attention. The Debtor also takes care of Mr. Hambrick’s and her own elderly parents.
+ </p>
+<p id="b653-9">
+  Mr. Hambrick is a self-employed businessman. He nets $3,800 per month from his businesses. At times during the past 11 years, the Debtor worked at a market owned by Mr. Hambrick. The market closed two or three years ago and the Debtor has not worked outside-the home since then.
+ </p>
+<p id="b653-10">
+  Throughout their relationship, Mr. Ham-brick has deposited money into the Debtor’s bank account each month from which the Debtor pays her separate bills. Mr. Ham-brick pays all of the utilities and other household expenses for “their family” and typically deposits $800 a month into the Debtor’s account.
+ </p>
+<p id="b653-11">
+  The Debtor owns a 1994 Cadillac. The monthly installment note on this car was paid before bankruptcy from the bank account funded by Mr. Hambrick. At the petition, the holder of this note, First Indiana National Bank, was owed $5,700. The car was scheduled by the Debtor with a value of $14,750.
+ </p>
+<p id="b653-15">
+  In July of 1998, Constance Morris took a default judgment against the Debtor in the General Sessions Court for Davidson County, Tennessee for $15,000.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  Ms. Morris executed on this judgment during the first week of August 1998 and the sheriff seized the Debt- or’s 1994 Cadillac. This Chapter 13 case was filed on August 12, 1998, after seizure but before sale of the ear to satisfy thé judgment.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+</p>
+<p id="b653-16">
+  The statements and schedules show current income and expenses of the Debtor’s household with Mr. Hambrick. Attached to the schedules is an “affidavit of Samuel Ham-brick” which recites “I hereby agree to. make [Brenda Jean Murphy’s] Chapter 13- plan payment on her behalf,-in a timely manner, and in the court order amounts, until completion of the plan.”
+ </p>
+<p id="b653-17">
+  Under the proposed plan, the Chapter 13 trustee will receive $600 per month for three years. The first lien holder on the car will be paid in full with interest. Constance Morris is treated as a partially secured creditor and the plan provides that the Debtor will avoid the judicial lien “to extent of $4,000 exemption.” The portion of Ms. Morris’s lien that remains after lien avoidance will be paid in full with interest. Unsecured creditors will receive at least 20% on allowed claims.
+ </p>
+<p id="b653-18">
+  The Debtor filed a motion to partially avoid the Morris lien and a motion for turnover of the 1994 Cadillac. Ms. Morris objected arguing that the Debtor is not eligible for Chapter 13 because the Debtor does not have “regular income” as required by <span class="citation no-link">11 U.S.C. §§ 109</span>(e) and 101(30). In the alternative, Ms. Morris argues that her judicial lien is not adequately protected.
+ </p>
+<p id="b653-19">
+  II.
+ </p>
+<p id="b653-20">
+  Bankruptcy Code § 109(e) provides, “only an individual with
+  <em>
+   regular income
+  </em>
+  ... may
+  <span citation-index="1" class="star-pagination" label="604"> 
+   *604
+   </span>
+  be a debtor under Chapter 13 of this title.” <span class="citation no-link">11 U.S.C. § 109</span>(e) (emphasis added). Section 101(30) of the Code further defines “individual with regular income” to mean “individual whose income is sufficiently stable and regular to enable such individual to make payments under a plan under chapter 13 of this title.” <span class="citation no-link">11 U.S.C. § 101</span>(30). The Bankruptcy Code does not define the word “income” within § 101(30).
+ </p>
+<p id="A8Mg">
+  That § 101(30) defines individual with regular income by reference to stability and regularity suggests that the existence of regular income is predominantly a fact question answered by examining the flow of money available to the debtor. Put another way, the Bankruptcy Code does not specifically exclude any
+  <em>
+   source
+  </em>
+  of funding from the regular income calculus; the Code does require that whatever source of income is claimed by a debtor, it must be regular and stable enough to fund a plan. The stable and regular focus of § 101(30) has led several courts to state that “the test for ‘regular income’ is not the type or source of income, but rather its regularity and stability.”
+  <em>
+   In re Fischel,
+  </em>
+  <span class="citation" data-id="1867843"><a href="/opinion/1867843/in-re-fischel/#48" aria-description="Citation for case: In Re Fischel">103 B.R. 44, 48</a></span> (Bankr.N.D.N.Y.1989);
+  <em>
+   In re Antoine,
+  </em>
+  <span class="citation" data-id="1962843"><a href="/opinion/1962843/in-re-antoine/#20" aria-description="Citation for case: In Re Antoine">208 B.R. 17, 20</a></span> (Bankr.E.D.N.Y.1997);
+  <em>
+   In re Varian,
+  </em>
+  <span class="citation" data-id="1919976"><a href="/opinion/1919976/in-re-varian/#653" aria-description="Citation for case: In Re Varian">91 B.R. 653, 653</a></span> (Bankr.D.Conn.1988) (citing
+  <em>
+   In re Campbell,
+  </em>
+  <span class="citation" data-id="2023804"><a href="/opinion/2023804/in-re-campbell/#195" aria-description="Citation for case: In Re Campbell">38 B.R. 193, 195</a></span> (Bankr.E.D.N.Y.1984) (quoting
+  <em>
+   In re Cole,
+  </em>
+  <span class="citation" data-id="1970651"><a href="/opinion/1970651/matter-of-cole/#349" aria-description="Citation for case: Matter of Cole">3 B.R. 346, 349</a></span> (Bankr.S.D.W.Va.1980))).
+ </p>
+<p id="Aiib">
+  If the monthly contribution of money committed by Mr. Hambrick to the Debtor is income, the facts overwhelmingly support the finding that this Debtor’s income is sufficiently regular and stable to fund a Chapter 13 plan. For 11 years Mr. Hambrick has maintained unbroken financial support to the Debtor. The Debtor has raised Mr. Ham-brick’s twin daughters and taken care of Mr. Hambrick’s elderly parent while maintaining a home for herself, Mr. Hambrick, and Mr. Hambrick’s children. Mr. Hambrick’s income is substantial and regular and for many years has produced at least the amount he has committed to funding this plan. The expenses in the budget for the Debtor and Mr. Hambrick are comprehensive, modest and appropriate. Mr. Hambrick has signed an unconditional written commitment to provide the Debtor with money sufficient to fund the proposed Chapter 13 plan. Mr. Ham-brick was forthright and honest in his testimony. Both Mr. Hambrick and the Debtor presented undisputed and convincing evidence of their commitment to each other and to their collective family and of their intent and ability to fund a Chapter 13 plan.
+ </p>
+<p id="A1G">
+  If Congress intended the word “income” in § 101(30) to excluded the money Mr. Hambrick will pay to the Debtor, that less inclusive definition is not apparent in the Bankruptcy Code or its legislative history. The Code easily could but does not restrict the notion of income to wages, salary, return on investment or any of the other restrictions suggested in reported cases.
+  <em>
+   See, e.g., In re Hanlin,
+  </em>
+  <span class="citation" data-id="1979224"><a href="/opinion/1979224/in-re-hanlin/#149" aria-description="Citation for case: In Re Hanlin">211 B.R. 147, 149</a></span> (Bankr.W.D.N.Y.1997) (citing dictionary definitions of income). The legislative history of what is now <span class="citation no-link">11 U.S.C. § 101</span>(30) is unusually clear that Congress intended to expand and broadly define “individual with regular income” to include funding from diverse and nontraditional sources. As explained in the Senate Report:
+ </p>
+<blockquote id="AFxz">
+  Paragraph [ (30) ] defines “individual with regular income.” The effect of this definition, and of its use in section 109(e), is to expand substantially the kinds of individuals that are eligible for relief under chapter 13, Adjustment of Debts of an Individual with Regular Income. Chapter XIII is now available only for wage earners. The definition encompasses all individuals with incomes that are sufficiently stable and regular to enable them to make payments under a chapter 13 plan. Thus, individuals on welfare, social security, fixed pension incomes, or who live on investment incomes, will be able to work out repayment plans with their creditors rather than being forced into straight bankruptcy. Also, self-employed individuals will be eligible to use chapter 13 if they have regular incomes.
+ </blockquote>
+<p id="ApC7">
+  S.Rep. No. 95-989, at 24 (1978).
+  <em>
+   See also
+  </em>
+  H.Rep. No. 95-595, at 311-12 (1977).
+ </p>
+<p id="AivN">
+  The examples in the legislative reports demonstrate congressional intent that regular income need not have as its source employment or the provision by the debtor of
+  <span citation-index="1" class="star-pagination" label="605"> 
+   *605
+   </span>
+  services or property to another. Income includes entitlements and benefits that can be freely given and freely taken away by governments. The legislative history of § 101(30) supports the view that the touchstone for an individual with regular income is not the source of the income, but its regularity and stability.
+ </p>
+<p id="b655-4">
+  Many reported decisions recognize that nontraditional sources of money can generate income for § 101(30) purposes. Social security benefits can be regular income.
+  <em>
+   In re Murray,
+  </em>
+  <span class="citation" data-id="1552675"><a href="/opinion/1552675/in-re-murray/" aria-description="Citation for case: In Re Murray">199 B.R. 165</a></span> (Bankr. M.D.Tenn.1996);
+  <em>
+   In re Cornelius,
+  </em>
+  <span class="citation" data-id="1886285"><a href="/opinion/1886285/in-re-cornelius/" aria-description="Citation for case: In Re Cornelius">195 B.R. 831</a></span> (Bankr.N.D.N.Y.1995);
+  <em>
+   In re Crowder,
+  </em>
+  <span class="citation" data-id="1885432"><a href="/opinion/1885432/in-re-crowder/" aria-description="Citation for case: In Re Crowder">179 B.R. 571</a></span> (Bankr.E.D.Ark.1995). Disability benefits can be regular income.
+  <em>
+   In re Tucker,
+  </em>
+  <span class="citation" data-id="1861761"><a href="/opinion/1861761/in-re-tucker/" aria-description="Citation for case: In Re Tucker">34 B.R. 257</a></span> (Bankr.W.D.Okla.1983);
+  <em>
+   In re Dawson,
+  </em>
+  <span class="citation" data-id="2024577"><a href="/opinion/2024577/in-re-dawson/" aria-description="Citation for case: In Re Dawson">13 B.R. 107</a></span> (Bankr.M.D.Ala. 1981);
+  <em>
+   In re Howell,
+  </em>
+  <span class="citation" data-id="1538595"><a href="/opinion/1538595/in-re-howell/" aria-description="Citation for case: In Re Howell">4 B.R. 102</a></span> (Bankr. M.D.Tenn.1980). Unemployment compensation can be regular income.
+  <em>
+   In re McMonagle,
+  </em>
+  <span class="citation" data-id="1815153"><a href="/opinion/1815153/in-re-mcmonagle/" aria-description="Citation for case: In Re McMonagle">30 B.R. 899</a></span> (Bankr.D.S.D.1983);
+  <em>
+   In re Overstreet,
+  </em>
+  <span class="citation" data-id="2015865"><a href="/opinion/2015865/in-re-overstreet/" aria-description="Citation for case: In Re Overstreet">23 B.R. 712</a></span> (Bankr.W.D.La.1982). Aid to Families with Dependent Children can be regular income.
+  <em>
+   Bibb County Dep’t of Family &amp; Children’s Sens. v. Hope (In re Hammonds),
+  </em>
+  <span class="citation" data-id="432325"><a href="/opinion/432325/in-re-callie-jean-hammonds-debtor-in-re-frances-collins-debtor-bibb/" aria-description="Citation for case: In Re Callie Jean Hammonds, Debtor. In Re Frances...">729 F.2d 1391</a></span> (11th Cir.1984);
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (Bankr.D.Utah 1980). A debtor who was employed, but then became unemployed may have regular income.
+  <em>
+   McMonagle,
+  </em>
+  <span class="citation" data-id="1815153"><a href="/opinion/1815153/in-re-mcmonagle/#902" aria-description="Citation for case: In Re McMonagle">30 B.R. at 902-03</a></span>. A self-employed debtor who essentially determines his or her own income can have regular income.
+  <em>
+   See In re Monaco,
+  </em>
+  <span class="citation" data-id="1811031"><a href="/opinion/1811031/matter-of-monaco/" aria-description="Citation for case: Matter of Monaco">36 B.R. 882</a></span> (Bankr.M.D.Fla.1983);
+  <em>
+   Margrafv. Oliver (In re Oliver),
+  </em>
+  <span class="citation" data-id="1958517"><a href="/opinion/1958517/margraf-v-oliver-in-re-oliver/" aria-description="Citation for case: Margraf v. Oliver (In Re Oliver)">28 B.R. 420</a></span> (Bankr.S.D.Ohio 1983);
+  <em>
+   In re Wilhelm,
+  </em>
+  <span class="citation" data-id="1537926"><a href="/opinion/1537926/in-re-wilhelm/" aria-description="Citation for case: In Re Wilhelm">6 B.R. 905</a></span> (Bankr. E.D.N.Y.1980);
+  <em>
+   In re Ballard,
+  </em>
+  <span class="citation" data-id="1538647"><a href="/opinion/1538647/in-re-ballard/" aria-description="Citation for case: In Re Ballard">4 B.R. 271</a></span> (Bankr.E.D.Va.1980). Odd jobs can produce regular income.
+  <em>
+   In re Cole,
+  </em>
+  <span class="citation" data-id="1970651"><a href="/opinion/1970651/matter-of-cole/" aria-description="Citation for case: Matter of Cole">3 B.R. 346</a></span> (Bankr.S.D.W.Va.1980). Several courts have held that a nonfiling spouse’s income can be regular income for § 101(30) purpose.
+  <em>
+   See In re Sigfrid,
+  </em>
+  <span class="citation" data-id="1548578"><a href="/opinion/1548578/in-re-sigfrid/" aria-description="Citation for case: In Re Sigfrid">161 B.R. 220</a></span> (Bankr.D.Minn. 1993);
+  <em>
+   In re McLeroy,
+  </em>
+  <span class="citation" data-id="1919106"><a href="/opinion/1919106/in-re-mcleroy/" aria-description="Citation for case: In Re McLeroy">106 B.R. 147</a></span> (Bankr. W.D.Tenn.1989);
+  <em>
+   In re Estalella,
+  </em>
+  <span class="citation" data-id="1918088"><a href="/opinion/1918088/in-re-estalella/" aria-description="Citation for case: In Re Estalella">101 B.R. 391</a></span> (Bankr.S.D.Fla.1989);
+  <em>
+   In re Varian,
+  </em>
+  <span class="citation" data-id="1919976"><a href="/opinion/1919976/in-re-varian/" aria-description="Citation for case: In Re Varian">91 B.R. 653</a></span> (Bankr.D.Conn.1988).
+ </p>
+<p id="b655-5">
+  Use of the word “income” elsewhere in Chapter 13 supports the conclusion that income is broadly defined for eligibility purposes. Income appears prominently in the disposable income test in § 1325(b). On objection to confirmation, a Chapter 13 plan may not be confirmed unless the plan pays allowed unsecured claims in full or “the plan provides that all of the debtor’s projected disposable income to be received in the three-year period beginning on the date that the first payment is due under the plan will be applied to make payments under the plan.” <span class="citation no-link">11 U.S.C. § 1325</span>(b)(1)(B). “Disposable income” is defined as “income which is received by the debtor and which is not reasonably necessary to be expended — (A) for the maintenance or support of the debtor or a dependent of the debtor; and (B) if the debtor is engaged in business, for the payment of expenditures necessary for the continuation, preservation, and operation of such business.” <span class="citation no-link">11 U.S.C. § 1325</span>(b)(2).
+ </p>
+<p id="b655-7">
+  A broader definition of income for § 1325(b) purposes works to the advantage of creditors because, to accomplish confirmation, debtors typically must propose to pay all projected disposable income into the plan for at least three years. At confirmation and at modification after confirmation,
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  many courts have applied a very broad notion of income through the disposable income test to capture for creditors money that comes to the debtor from almost any source. The Court of Appeals for the Sixth Circuit has instructed the bankruptcy courts to interpret broadly the concept of disposable income in § 1325(b).
+  <em>
+   Freeman v. Schulman (In re Freeman),
+  </em>
+  <span class="citation" data-id="719750"><a href="/opinion/719750/in-re-david-michael-freeman-and-genevieve-bizzell-freeman-debtors/" aria-description="Citation for case: In Re David Michael Freeman and Genevieve Bizzell...">86 F.3d 478</a></span> (6th Cir.1996) (income for purposes of § 1325(b) includes tax refunds notwithstanding claims of exemption). Contributions from nonfiling spouses, from (unrelated) roommates and from others who are making financial contributions to the debtor have been included for projecting disposable income under § 1325(b).
+  <em>
+   See In re Carter,
+  </em>
+  <span class="citation" data-id="1527994"><a href="/opinion/1527994/in-re-carter/" aria-description="Citation for case: In Re Carter">205 B.R. 733</a></span> (Bankr.E.D.Pa.1996) (nonfiling spouse’s income);
+  <em>
+   In re Rothman,
+  </em>
+  <span class="citation" data-id="1836936"><a href="/opinion/1836936/in-re-rothman/" aria-description="Citation for case: In Re Rothman">204 B.R. 143</a></span> (Bankr.E.D.Pa.1996) (nondebtor spouse’s income);
+  <em>
+   In re Cardillo,
+  </em>
+  <span class="citation" data-id="1551544"><a href="/opinion/1551544/in-re-cardillo/" aria-description="Citation for case: In Re Cardillo">170 B.R. 490</a></span> (Bankr.D.N.H.1994) (nondebtor spouse’s income);
+  <em>
+   In re Schnabel,
+  </em>
+  153 B.R. 809
+  <span citation-index="1" class="star-pagination" label="606"> 
+   *606
+   </span>
+  (Bankr.N.D.Ill.1993) (nondebtor spouse’s social security benefits);
+  <em>
+   In re Belt,
+  </em>
+  <span class="citation" data-id="1919361"><a href="/opinion/1919361/matter-of-belt/" aria-description="Citation for case: Matter of Belt">106 B.R. 553</a></span> (Bankr.N.D.Ind.1989) (nondebtor spouse’s income);
+  <em>
+   In re McKern,
+  </em>
+  <span class="citation" data-id="1822335"><a href="/opinion/1822335/in-re-mckean/" aria-description="Citation for case: In Re McKean">81 B.R. 9</a></span> (Bankr.W.D.Tex.1987) (obligation of a co-tenant to contribute to payment of a mortgage);
+  <em>
+   In re Saunders,
+  </em>
+  <span class="citation" data-id="2004781"><a href="/opinion/2004781/matter-of-saunders/" aria-description="Citation for case: Matter of Saunders">60 B.R. 187</a></span> (Bankr.N.D.Ohio 1986) (nonfiling spouse’s income). Exempt property such as workers’ compensation has been included as income even though such benefits could not be reached by creditors and are of uncertain duration.
+  <em>
+   Stuart v. Koch (In re Koch),
+  </em>
+  <span class="citation" data-id="9490143"><a href="/opinion/738552/in-re-eugene-wayne-koch-debra-marie-nelson-koch-debtors-barbara-g/" aria-description="Citation for case: In Re Eugene Wayne Koch, Debra Marie Nelson-Koch,...">109 F.3d 1285</a></span> (8th Cir. 1997);
+  <em>
+   Hagel v. Drummond (In re Hagel),
+  </em>
+  <span class="citation" data-id="1869535"><a href="/opinion/1869535/hagel-v-drummond-in-re-hagel/" aria-description="Citation for case: Hagel v. Drummond (In Re Hagel)">184 B.R. 793</a></span> (9th Cir. BAP 1995) (exempt social security income);
+  <em>
+   Watters v. McRoberts,
+  </em>
+  <span class="citation" data-id="1915982"><a href="/opinion/1915982/watters-v-mcroberts/" aria-description="Citation for case: Watters v. McRoberts">167 B.R. 146</a></span> (S.D.Ill.1994) (exempt personal injury recovery);
+  <em>
+   In re Lush,
+  </em>
+  <span class="citation" data-id="1540376"><a href="/opinion/1540376/in-re-lush/" aria-description="Citation for case: In Re Lush">213 B.R. 152</a></span> (Bankr.C.D.Ill.1997);
+  <em>
+   Gaertner v. Claude (In re Claude),
+  </em>
+  <span class="citation" data-id="1840251"><a href="/opinion/1840251/gaertner-v-claude-in-re-claude/" aria-description="Citation for case: Gaertner v. Claude (In Re Claude)">206 B.R. 374</a></span> (Bankr. W.D.Pa.1997);
+  <em>
+   In re Minor,
+  </em>
+  <span class="citation" data-id="1977564"><a href="/opinion/1977564/in-re-minor/" aria-description="Citation for case: In Re Minor">177 B.R. 576</a></span> (Bankr.E.D.Tenn.1995) (workers’ compensation settlement);
+  <em>
+   In re Jackson,
+  </em>
+  <span class="citation" data-id="1814179"><a href="/opinion/1814179/in-re-jackson/" aria-description="Citation for case: In Re Jackson">173 B.R. 168</a></span> (Bankr.E.D.Mo.1994).
+ </p>
+<p id="b656-4">
+  Well-founded canons of statutory construction support the argument that income means the same in § 101(30) as it does in § 1325(b).
+  <em>
+   See, e.g., Commissioner v. Lundy,
+  </em>
+  <span class="citation" data-id="9433237"><a href="/opinion/117992/commissioner-v-lundy/#250" aria-description="Citation for case: Commissioner v. Lundy">516 U.S. 235, 250</a></span>, <span class="citation" data-id="9433237"><a href="/opinion/117992/commissioner-v-lundy/#655" aria-description="Citation for case: Commissioner v. Lundy">116 S.Ct. 647, 655</a></span>, <span class="citation" data-id="9433237"><a href="/opinion/117992/commissioner-v-lundy/" aria-description="Citation for case: Commissioner v. Lundy">133 L.Ed.2d 611</a></span> (1996);
+  <em>
+   In re Merchants Grain, Inc.,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.3d/93/1347/">93 F.3d 1347</a></span>, 1356 (7th Cir.1996) (quoting
+  <em>
+   Atlantic Cleaners &amp; Dyers v. United States,
+  </em>
+  <span class="citation" data-id="101939"><a href="/opinion/101939/atlantic-cleaners-dyers-inc-v-united-states/#433" aria-description="Citation for case: Atlantic Cleaners &amp; Dyers, Inc. v. United States">286 U.S. 427, 433</a></span>, <span class="citation" data-id="101939"><a href="/opinion/101939/atlantic-cleaners-dyers-inc-v-united-states/#609" aria-description="Citation for case: Atlantic Cleaners &amp; Dyers, Inc. v. United States">52 S.Ct. 607, 609</a></span>, <span class="citation" data-id="101939"><a href="/opinion/101939/atlantic-cleaners-dyers-inc-v-united-states/" aria-description="Citation for case: Atlantic Cleaners &amp; Dyers, Inc. v. United States">76 L.Ed. 1204</a></span> (1932)). A debtor who must account for the income of a significant other to accomplish confirmation for § 1325(b) purposes is reasonable to demand consideration of that same income to determine eligibility at the door to Chapter 13.
+ </p>
+<p id="b656-5">
+  Some courts have narrowed the definition of income for § 101(30) purposes by requiring that the debtor have a “legal right” to the funding or that the source have a “legal duty” to make payments to the debtor. In cases involving contributions by a significant other of the debtor, some decisions use the absence of a “legal duty of support” as the basis for finding the debtor ineligible.
+  <em>
+   See Hanlin,
+  </em>
+  <span class="citation" data-id="1979224"><a href="/opinion/1979224/in-re-hanlin/#148" aria-description="Citation for case: In Re Hanlin">211 B.R. at 148</a></span> (parents);
+  <em>
+   Fischel,
+  </em>
+  <span class="citation" data-id="1867843"><a href="/opinion/1867843/in-re-fischel/#48" aria-description="Citation for case: In Re Fischel">103 B.R. at 48-49</a></span>.
+  <em>
+   See also Cohen v. Werner (In re Cohen),
+  </em>
+  <span class="citation" data-id="2024834"><a href="/opinion/2024834/cohen-v-werner-in-re-cohen/" aria-description="Citation for case: Cohen v. Werner (In Re Cohen)">13 B.R. 350</a></span> (Bankr.E.D.N.Y. 1981).
+ </p>
+<p id="b656-6">
+  What does legal duty or legal right mean in this context? By statute or common law spouses, for example, have a mutual duty or right of support.
+  <em>
+   See, e.g., Antoine,
+  </em>
+  <span class="citation" data-id="1962843"><a href="/opinion/1962843/in-re-antoine/#20" aria-description="Citation for case: In Re Antoine">208 B.R. at 20</a></span> (spouse’s “legal duty to provide spousal support” provides income to unemployed debtor for eligibility purposes). But the absence of similar law with respect to the support obligations of unmarried couples hardly proves the absence of income for § 101(30) purposes. In states like Tennessee, in the absence of a contrary contract or overriding public interest, an employer has the right to fire an employee at will and without cause.
+  <em>
+   See Clanton v. Cain-Sloan Co.,
+  </em>
+  <span class="citation" data-id="2468203"><a href="/opinion/2468203/clanton-v-cain-sloan-co/#443" aria-description="Citation for case: Clanton v. Cain-Sloan Co.">677 S.W.2d 441, 443</a></span> (Tenn.1984) (citing
+  <em>
+   Payne v. Western &amp; Atlantic Railroad Co.,
+  </em>
+  <span class="citation" data-id="3894889"><a href="/opinion/4132255/payne-v-western-atlantic-railroad/" aria-description="Citation for case: Payne v. Western &amp; Atlantic Railroad">81 Tenn. 507</a></span> (1884)).
+  <em>
+   See also Stein v. Davidson Hotel Co.,
+  </em>
+  <span class="citation" data-id="1060994"><a href="/opinion/1060994/stein-v-davidson-hotel-co/#716" aria-description="Citation for case: Stein v. Davidson Hotel Co.">945 S.W.2d 714, 716</a></span> (Tenn.1997) (noting exceptions). There is no “legal right” in Tennessee to continued employment — it depends on the pleasure of the employer, the quality of a debtor’s work, the success of the employer’s business, the weather, the economy in Asia — conditions to a debtor’s right to wages that are in many ways less within a debtor’s control than this Debtor’s relationship to Mr. Hambrick. Yet, no one would seriously contend that the money a debtor expects to receive from employment is not income for § 101(30) purposes just because the debtor has no legal right to continued employment. A definition of income for Chapter 13 eligibility purposes cannot be bottomed alone on the presence or absence of statutory or common law support obligations.
+ </p>
+<p id="b656-7">
+  Maybe these cornos mean that there is income only if a debtor has a remedy through the courts if payments stop. This notion is also too narrow for § 101(30) purposes. Entitlements such as welfare and social security are income for eligibility purposes in a Chapter 13 case yet such benefit programs can be limited or abolished at the will of the legislature. And once (constitutionally) altered by the legislature, there is no recourse through the courts to force the payment of benefits.
+ </p>
+<p id="A_0T">
+<span citation-index="1" class="star-pagination" label="607"> 
+   *607
+   </span>
+  Mr. Hambrick could employ the Debtor to take care of his twin teenagers
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  and that employment would most likely be found to produce income for § 101(30) purposes.
+  <em>
+   See In re Ellenburg,
+  </em>
+  <span class="citation" data-id="1809860"><a href="/opinion/1809860/in-re-ellenburg/#260" aria-description="Citation for case: In Re Ellenburg">89 B.R. 258, 260</a></span> (Bankr. N.D.Ga.1988) ($500 per month for “bookkeeping services for her husband” constitutes regular income). In Tennessee, Mr. Ham-brick could also fire the Debtor from that employment at any time, with or without cause. Mr. Hambrick’s written promise to fund this Chapter 13 plan coupled with Mr. Hambriek’s convincing testimonial commitments is at least as formal and concrete as legislative largess in a welfare program or as an employer’s promises of work in the typical Chapter 13 ease.
+ </p>
+<p id="As_c">
+  Mr. Hambrick’s promise to fund this plan together with continued performance by this Debtor may generate rights and obligations that are every bit as enforceable as an employment contract. Reported decisions from many jurisdictions confirm that on theories of unjust enrichment, quantum meruit, restitution and express or implied contract, unmarried individuals sharing a household have successfully enforced financial commitments by their significant others.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  These cases are not based on marital support obligations found in statutes. Rather, recoveries typically are allowed on contract theories. If there is an amorphous requirement of legal rights or legal duties as predicate to a finding of income for § 101(30) purposes, such rights and duties are found in the promises and performance by unmarried couples like this Debtor and Mr. Hambrick.
+ </p>
+<p id="AIBX">
+  III.
+ </p>
+<p id="ArDQ">
+  The Debtor can use § 522(f) to partially avoid the judgment line of Constance Morris. It is undisputed that the debtor has a $4,000 exemption in the car. The statements and schedules value the car at $14,750. There is a first lien of $5,700. The sum of the first lien and the Debtor’s $4,000 exemption is $9,700, resulting in equity in the vehicle of $5,050. As the Court of Appeals for the Sixth Circuit, recently clarified in
+  <em>
+   Holland v. Star Bank, N.A. (In re Holland), 151
+  </em>
+  F.3d 547 (6th Cir.1998), the Morris judgment lien impairs the Debtor’s exemption and § 522(f) is available to avoid the lien to the extent of the impairment. The Debtor’s lien avoidance right is limited by the $4,000 exemption and the lien remains in place to the
+  <span citation-index="1" class="star-pagination" label="608"> 
+   *608
+   </span>
+  extent of value in the car above the sum of the first lien plus the Debtor’s exemption.
+  <em>
+   See Id.
+  </em>
+  at 549-50.
+  <em>
+   See also East Cambridge Savs. Bank v. Silveira (In re Silveira),
+  </em>
+  <span class="citation" data-id="197912"><a href="/opinion/197912/east-cambridge-savings-bank-v-silveira-in-re-silveira/#38" aria-description="Citation for case: East Cambridge Savings Bank v. Silveira (In Re Silveira)">141 F.3d 34, 38</a></span> (1st Cir.1998).
+ </p>
+<p id="b658-4">
+  IV.
+ </p>
+<p id="b658-5">
+  Ms. Morris argues that the remnant of her hen is not adequately protected because the Debtor’s casualty insurance does not name Ms. Morris as a loss payee. The Debtor has offered to add Ms. Morris as a loss payee.
+ </p>
+<p id="b658-6">
+  Ms. Morris argues lack of adequate protection because part of her lien will be “irretrievably” lost through lien avoidance under § 522(f), notwithstanding that this Chapter 13 case might be dismissed before the Debtor is entitled to a discharge. Ms. Morris’s right to adequate protection is limited by the extent of her interest in property that the Debtor may use.
+  <em>
+   See
+  </em>
+  <span class="citation no-link">11 U.S.C. §§ 361</span>, 363(e);
+  <em>
+   United Savs. Ass’n of Texas v. Timbers of Inwood Forest Associates., Ltd.,
+  </em>
+  <span class="citation" data-id="111984"><a href="/opinion/111984/united-sav-assn-of-tex-v-timbers-of-inwood-forest-associates-ltd/#370" aria-description="Citation for case: United Sav. Assn. of Tex. v. Timbers of Inwood Forest...">484 U.S. 365, 370-71</a></span>, <span class="citation" data-id="111984"><a href="/opinion/111984/united-sav-assn-of-tex-v-timbers-of-inwood-forest-associates-ltd/#630" aria-description="Citation for case: United Sav. Assn. of Tex. v. Timbers of Inwood Forest...">108 S.Ct. 626, 630</a></span>, <span class="citation" data-id="111984"><a href="/opinion/111984/united-sav-assn-of-tex-v-timbers-of-inwood-forest-associates-ltd/" aria-description="Citation for case: United Sav. Assn. of Tex. v. Timbers of Inwood Forest...">98 L.Ed.2d 740</a></span> (1988). Ms. Morris’s lien is
+  <em>
+   voided
+  </em>
+  by § 522(f) to the extent described above. The voided portion of her lien is not an interest in property and is not entitled to adequate protection. The Debtor has begun making payments to the Chapter 13 trustee consistent with the proposed plan. Those payments are held by the trustee pending confirmation and cannot be returned to the Debtor without notice and opportunity for a hearing in the event of conversion or dismissal before confirmation.
+  <em>
+   See
+  </em>
+  <span class="citation no-link">11 U.S.C. § 1326</span>(a). Ms. Morris’s argument for other remedies in the event of dismissal after confirmation are properly addressed at dismissal in the form of a request for conditions under <span class="citation no-link">11 U.S.C. § 349</span>.
+ </p>
+<p id="b658-8">
+  Although not argued by Ms. Morris, notice of and “perfection” of her judicial lien is currently accomplished by constructive possession of the car. As adequate protection for the unavoidable portion of the lien, upon turnover of the car, the Debtor shall note Ms. Morris’s lien on the title to the car.
+ </p>
+<p id="b658-9">
+  An appropriate order will be entered.
+ </p>
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b653-12">
+   . The underlying dispute involved a lease of property from Ms. Morris.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b653-21">
+   . The car became property of the Chapter 13 estate as explained in
+   <em>
+    National City Bank v. Elliott (In re Elliott),
+   </em>
+   <span class="citation" data-id="1843687"><a href="/opinion/1843687/national-city-bank-v-elliott-in-re-elliott/" aria-description="Citation for case: National City Bank v. Elliott (In Re Elliott)">214 B.R. 148</a></span> (6th Cir. BAP 1997).
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b655-8">
+   . See <span class="citation no-link">11 U.S.C. § 1329</span>.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="A1N">
+   . At what price!?
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="AKF">
+   . A cross section of such cases might include:
+   <em>
+    Marvin v. Marvin,
+   </em>
+   <span class="citation" data-id="9538168"><a href="/opinion/1148641/marvin-v-marvin/" aria-description="Citation for case: Marvin v. Marvin">18 Cal.3d 660</a></span>, <span class="citation" data-id="9538168"><a href="/opinion/1148641/marvin-v-marvin/" aria-description="Citation for case: Marvin v. Marvin">134 Cal.Rptr. 815</a></span>, <span class="citation" data-id="9538168"><a href="/opinion/1148641/marvin-v-marvin/" aria-description="Citation for case: Marvin v. Marvin">557 P.2d 106</a></span> (1976) (allegation that woman gave up career to become companion, cook and housekeeper in exchange for man's promise of financial support stated a cause of action based on an express contract);
+   <em>
+    Levar v. Elkins,
+   </em>
+   <span class="citation" data-id="2614802"><a href="/opinion/2614802/levar-v-elkins/" aria-description="Citation for case: Levar v. Elkins">604 P.2d 602</a></span> (Alaska 1980) (jury verdict on express or implied contractual theory where 20 years of cohabitation included promise to provide financial support in exchange for services as a homemaker and caretaker of children);
+   <em>
+    Burns v. Koellmer,
+   </em>
+   <span class="citation" data-id="7852428"><a href="/opinion/7903884/burns-v-koellmer/" aria-description="Citation for case: Burns v. Koellmer">11 Conn.App. 375</a></span>, <span class="citation" data-id="7852428"><a href="/opinion/7903884/burns-v-koellmer/" aria-description="Citation for case: Burns v. Koellmer">527 A.2d 1210</a></span> (1987) (quantum meruit and unjust enrichment may support recovery between unmarried couple);
+   <em>
+    Bright v. Kuehl,
+   </em>
+   <span class="citation" data-id="9737886"><a href="/opinion/2212332/bright-v-kuehl/#315" aria-description="Citation for case: Bright v. Kuehl">650 N.E.2d 311, 315</a></span> (Ind.Ct.App.1995) ("a party who cohabits with another without subsequent marriage is entitled to relief upon a showing of an express contract or available equitable theory such as an implied contract or unjust enrichment.”);
+   <em>
+    Wilcox v. Trautz,
+   </em>
+   <span class="citation" data-id="6451497"><a href="/opinion/6577612/wilcox-v-trautz/" aria-description="Citation for case: Wilcox v. Trautz">427 Mass. 326</a></span>, <span class="citation" data-id="6451497"><a href="/opinion/6577612/wilcox-v-trautz/" aria-description="Citation for case: Wilcox v. Trautz">693 N.E.2d 141</a></span> (1998) (contractual agreement between unmarried co-habitates is enforceable so long as it conforms with ordinary rules of contract law);
+   <em>
+    Hudson
+   </em>
+   v.
+   <em>
+    DeLonjay,
+   </em>
+   <span class="citation" data-id="1745694"><a href="/opinion/1745694/hudson-v-delonjay/" aria-description="Citation for case: Hudson v. DeLonjay">732 S.W.2d 922</a></span> (Mo.Ct.App.1987) (implied contract to share assets between parties living together);
+   <em>
+    Kinkenon v. Hue,
+   </em>
+   <span class="citation" data-id="9701396"><a href="/opinion/1960836/kinkenon-v-hue/" aria-description="Citation for case: Kinkenon v. Hue">207 Neb. 698</a></span>, <span class="citation" data-id="9701396"><a href="/opinion/1960836/kinkenon-v-hue/" aria-description="Citation for case: Kinkenon v. Hue">301 N.W.2d 77</a></span> (1981) (express oral contract regarding disposition of personal property between cohabitants);
+   <em>
+    Dominguez v. Cruz,
+   </em>
+   <span class="citation" data-id="1149654"><a href="/opinion/1149654/dominguez-v-cruz/" aria-description="Citation for case: Dominguez v. Cruz">95 N.M. 1</a></span>, <span class="citation" data-id="1149654"><a href="/opinion/1149654/dominguez-v-cruz/" aria-description="Citation for case: Dominguez v. Cruz">617 P.2d 1322</a></span> (App.1980) ("It is well-established that this state does not recognize "common law marriage.'... [T]he presence or absence of the marital state is not relevant in this action :... [I]f an agreement such as an oral contract can exist between business associates, one can exist between cohabiting adults who are not married if the essential elements of the contractual relationship are present.”) (internal citations omitted);
+   <em>
+    Crowe v. De Gioia,
+   </em>
+   <span class="citation" data-id="2349489"><a href="/opinion/2349489/crowe-v-de-gioia/" aria-description="Citation for case: Crowe v. De Gioia">203 N.J.Super. 22</a></span>, <span class="citation" data-id="2349489"><a href="/opinion/2349489/crowe-v-de-gioia/" aria-description="Citation for case: Crowe v. De Gioia">495 A.2d 889</a></span> (App.Div.1985) (court should enforce contracts between unmarried, parties so long as not based only on a promise to marry);
+   <em>
+    Suggs v. Norris,
+   </em>
+   <span class="citation" data-id="1372419"><a href="/opinion/1372419/suggs-v-norris/" aria-description="Citation for case: Suggs v. Norris">88 N.C.App. 539</a></span>, <span class="citation" data-id="1372419"><a href="/opinion/1372419/suggs-v-norris/" aria-description="Citation for case: Suggs v. Norris">364 S.E.2d 159</a></span> (1988) (agreements regarding finances and property of unmarried cohabiting couple whether express or implied are enforceable as long as sexual services or promises thereof do not provide the consideration);
+   <em>
+    McHenry v. Smith,
+   </em>
+   <span class="citation" data-id="1430544"><a href="/opinion/1430544/mchenry-v-smith/" aria-description="Citation for case: McHenry v. Smith">45 Or.App. 813</a></span>, <span class="citation" data-id="1430544"><a href="/opinion/1430544/mchenry-v-smith/" aria-description="Citation for case: McHenry v. Smith">609 P.2d 855</a></span> (1980) (enforcing oral agreements with respect to pooling income, providing companionship, cooking and homemaking);
+   <em>
+    Knauer v. Knauer,
+   </em>
+   <span class="citation" data-id="1462170"><a href="/opinion/1462170/knauer-v-knauer/" aria-description="Citation for case: Knauer v. Knauer">323 Pa.Super. 206</a></span>, <span class="citation" data-id="1462170"><a href="/opinion/1462170/knauer-v-knauer/" aria-description="Citation for case: Knauer v. Knauer">470 A.2d 553</a></span> (1983) (agreements between nonmarried co-habitors are enforceable in an action for breach of contract);
+   <em>
+    Brooks v. Steffes,
+   </em>
+   <span class="citation" data-id="9738618"><a href="/opinion/2216882/in-matter-of-estate-of-steffes/" aria-description="Citation for case: In Matter of Estate of Steffes">95 Wis.2d 490</a></span>, <span class="citation" data-id="9738618"><a href="/opinion/2216882/in-matter-of-estate-of-steffes/" aria-description="Citation for case: In Matter of Estate of Steffes">290 N.W.2d 697</a></span> (1980) (implied contract between housekeeper and former partner for personal services).
+  </p>
+</div></div></opinion>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b478-19">
+  MEMORANDUM OPINION
+ </p>
+<author id="b478-20">
+  JOHN R. BLINN, Bankruptcy Judge:
+ </author>
+<p id="b478-21">
+  The Amended Chapter 13 Plan of John and Elizabeth Dziedzic came on for a confirmation hearing on November 20, 1980. At that hearing the trustee recommended confirmation be denied because of the treatment of the unsecured claim of the Houston Police Federal Credit Union (“HPFCU”).
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  While all other unsecured debts would be paid through the plan at the rate of 26%, the debtors intend to pay the HPFCU in full by payroll deductions outside of the plan.
+ </p>
+<p id="b478-22">
+  Officer Dziedzic testified that the HPFCU should be treated differently from the other creditors for several reasons. First, he is employed by the police department and his failure to pay this debt completely would allegedly harm his job standing. Second, he claims his social relationships with fellow employees would be subjected to embarrassment. Finally, Officer Dziedzic testified he would be put in jeopardy of physical abuse including threats against his life.
+ </p>
+<p id="b478-23">
+  While the Court is inclined to believe that no creditor can be paid outside of a Chapter 13 plan,
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  the decision in this case will rest entirely on two more limited issues. First, may a creditor with an unsecured claim ever receive differential treatment from
+  <span citation-index="1" class="star-pagination" label="425"> 
+   *425
+   </span>
+  other like creditors? Second, what are the appropriate circumstances, if any, for granting differential treatment?
+ </p>
+<p id="b479-4">
+  Section 1322 of the Bankruptcy Code states:
+ </p>
+<blockquote id="b479-5">
+  (a) The plan shall—
+ </blockquote>
+<blockquote id="b479-6">
+  (3) if the plan classifies claims, provide the same treatment for each claim within a particular class.
+ </blockquote>
+<blockquote id="b479-7">
+  (b) Subject to subsections (a) and (e) of this section, the plan may—
+ </blockquote>
+<blockquote id="b479-8">
+  (1) designate a class or classes of unsecured claims, as provided in § 1122 of this title, but may not discriminate unfairly against any class so designated.
+ </blockquote>
+<p id="ANo">
+  Referring to § 1122, we find:
+ </p>
+<blockquote id="b479-9">
+  (a) Except as provided in subsection (b) of this section, a plan may place a claim or an interest in a particular class only if such claim or interest is substantially similar to the other claims or interests of such class.
+ </blockquote>
+<blockquote id="b479-10">
+  (b) A plan may designate a separate class of claims consisting only of every unsecured claim that is less than or reduced to an amount that the court approves as reasonable and necessary for administrative convenience.
+ </blockquote>
+<p id="b479-11">
+  Construing these sections to determine how much classification was "intended to be allowed has caused courts great difficulty. Under old Chapter XIII no separation of creditors into classes existed; therefore there is no historical background to turn to for dealing with the concept. Many courts have decided to read § 1322 and § 1122 restrictively, drawing criticism from other courts that the new sections are “emasculated” unless read liberally. The case law is in a state of utter confusion, with opinions coming strongly on both extremes of interpretation. Most make sweeping pronouncements without the facts and circumstances of the individual situations.
+ </p>
+<p id="b479-12">
+  To add to the chaos,
+  <em>
+   Collier on Bankruptcy
+  </em>
+  straddles the two camps and is widely quoted by all courts, usually with little effect. The Collier’s position is that:
+ </p>
+<blockquote id="AR50">
+  .... No class of claims may be unfairly discriminated against. ... Unfair discrimination against a class of claims would therefore seem to have reference either to the order of distribution or the percentage to be paid the particular class. If the courts were to construe as unfair discrimination a proposal to pay a particular class of claims a greater percentage than some other class, § 1322(b)(1) would be deprived of most of its meaning. On the other hand, a proposal to defer distribution on the claims of one class of general unsecured claims until after the completion of payments to another class might very well be considered unfair discrimination against the deferred class, depending on the circumstances of the case.
+ </blockquote>
+<blockquote id="b479-17">
+  5 Collier on Bankruptcy § 1322.01 at 1322-7 (15th ed. 1980)
+ </blockquote>
+<p id="b479-18">
+  Under the analysis of § 1122,
+  <em>
+   Collier’s
+  </em>
+  further states that unsecured claims “may be divided into separate classes if separate classification is reasonable.”
+  <em>
+   Collier, supra,
+  </em>
+  § 1122.03 at 1122-7.
+ </p>
+<p id="b479-19">
+  Early cases in trying to draw guidance from this language in
+  <em>
+   Collier’s
+  </em>
+  interpreted “reasonable” to mean “rational,” then normally found whatever the debtor had done to be lacking a rational basis. In most cases this seems from an objective standpoint to be an incorrect application of that concept, at least in comparison with actions scrutinized on constitutional grounds (which usually manage to pass “rational basis” tests). However, in most cases the debtor did not give evidence as to why one creditor was preferred over another, although reasons could certainly have been found to support full payments to landlords, car dealers, etc.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</p>
+<p id="b479-20">
+  Possibly the courts were secretly supporting the more restrictive standard of “substantial justification” developed by Judge Sidman in several cases.
+  <em>
+   In re Blevins,
+  </em>
+  <span class="citation" data-id="1975518"><a href="/opinion/1975518/in-re-blevins/" aria-description="Citation for case: In Re Blevins">1 B.R. 442</a></span> (S.D.Ohio 1979) dealt with a situation almost identical to the instant case involving a partially-secured claim which was to be paid in full outside the plan, with
+  <span citation-index="1" class="star-pagination" label="426"> 
+   *426
+   </span>
+  all other creditors with unsecured claims receiving only 30%. The creditors with unsecured claims in
+  <em>
+   In re Fizer,
+  </em>
+  <span class="citation" data-id="1975313"><a href="/opinion/1975313/in-re-fizer/" aria-description="Citation for case: In Re Fizer">1 B.R. 400</a></span> (S.D.Ohio 1979), an opinion rendered two days before
+  <em>
+   <span class="citation" data-id="1975518"><a href="/opinion/1975518/in-re-blevins/" aria-description="Citation for case: In Re Blevins">Blevins</a></span>,
+  </em>
+  were to receive nothing, while two creditors with partially secured claims were to be paid 100%. Judge Sidman held that “this discriminatory treatment, which is unfair on its face, has not been justified to this Court.” <span class="citation" data-id="1975313"><a href="/opinion/1975313/in-re-fizer/#402" aria-description="Citation for case: In Re Fizer">1 B.R. 400 at 402</a></span>.
+ </p>
+<p id="b480-4">
+  An interesting approach was taken in a widely-followed opinion,
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (D.Utah 1980). Judge Mabey resolved the controversy surrounding § 1822 by concluding the drafters had intended only “debts which have identical legal rights in the debtor’s (or estate’s) assets may be classified together.” <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#260" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256 at 260</a></span>.
+  <em>
+   In re McKenzie,
+  </em>
+  <span class="citation" data-id="1538917"><a href="/opinion/1538917/in-re-mckenzie/" aria-description="Citation for case: In Re McKenzie">4 B.R. 88</a></span> (W.D.N.Y.1980) adopted this position, stating that “the criteria by which similarity or dissimilarity of interests or rights is to be deter-: mined are to be found in the nature of those interests or rights, vis-a-vis only the bankruptcy estate.” <span class="citation" data-id="1538917"><a href="/opinion/1538917/in-re-mckenzie/#90" aria-description="Citation for case: In Re McKenzie">4 B.R. 88 at 90</a></span>. However, while this approach may on its face appear to include the decision in
+  <em>
+   In re Hill,
+  </em>
+  <span class="citation" data-id="1538831"><a href="/opinion/1538831/in-re-hill/" aria-description="Citation for case: In Re Hill">4 B.R. 694</a></span> (D.Kan.1980), which allowed similar creditors (i. e., doctors) to be grouped together and given differential treatment,
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  mandates only minimal classification, since it refused to confirm a plan which paid in full a debt on which there was a cosigner. The presumption in
+  <em>
+   Iacovo-ni
+  </em>
+  seems to be that all creditors with unsecured claims have identical legal rights in the debtor’s estate, and it takes some extraordinary difference between them to allow division into classes. An earlier case,
+  <em>
+   In re Curtis,
+  </em>
+  <span class="citation" data-id="1887416"><a href="/opinion/1887416/matter-of-curtis/" aria-description="Citation for case: Matter of Curtis">2 B.R. 43</a></span> (W.D.Mo.1979) found such a difference. Using the “rational” standard, Judge Stewart held that child support payments could be made in full, even if other creditors were disadvantaged, since child support is a nondischargeable debt.
+ </p>
+<p id="b480-5">
+  On the liberal side of the fence,
+  <em>
+   In re Sutherland,
+  </em>
+  <span class="citation" data-id="1970742"><a href="/opinion/1970742/in-re-sutherland/" aria-description="Citation for case: In Re Sutherland">3 B.R. 420</a></span>, <span class="citation" data-id="1970742"><a href="/opinion/1970742/in-re-sutherland/" aria-description="Citation for case: In Re Sutherland">6 B.C.D. 13</a></span> (W.D.Ark.1980) rejected
+  <em>
+   any
+  </em>
+  sort of standard, claiming that no such animal as “unfair discrimination” could exist when the debtor was not obligated to pay the creditors anything more than they would receive under a Chapter 7 (i. e., nothing). Most of the cases that follow
+  <em>
+   <span class="citation" data-id="1970742"><a href="/opinion/1970742/in-re-sutherland/" aria-description="Citation for case: In Re Sutherland">Sutherland</a></span>
+  </em>
+  rest on the assumption that virtually all Chapter 13 plans are confirmable, even those with minimal or 0% payout on unsecured claims. Courts that lean towards the 70% or “meaningful contribution” positions on Chapter 13 plans tend to find differing payouts unfair discrimination prohibited by the Code. In any case, the
+  <em>
+   <span class="citation" data-id="1970742"><a href="/opinion/1970742/in-re-sutherland/" aria-description="Citation for case: In Re Sutherland">Sutherland</a></span>
+  </em>
+  view that “unfair discrimination” was irrelevant language in the Code, capable of being totally ignored, has not been widely adopted.
+ </p>
+<p id="b480-7">
+  The emerging trend, as much as one can be discerned, seems to be a close analysis of the “unfairly discriminatory” language with an eye towards what is practical for the debtor. Thus many courts have found payment in full on cosigned debts to be unfairly discriminatory (especially when the cosigner is a member of the debtor’s family), at least without a showing as to why this particular debt or particular relationship with the cosigner deserves preference.
+  <em>
+   In re Cooper,
+  </em>
+  <span class="citation" data-id="1970483"><a href="/opinion/1970483/in-re-cooper/" aria-description="Citation for case: In Re Cooper">3 B.R. 246</a></span> (S.D.Cal.1980) (discriminates on face by paying cosigned debt in full);
+  <em>
+   In re Montano,
+  </em>
+  <span class="citation" data-id="1538767"><a href="/opinion/1538767/in-re-montano/" aria-description="Citation for case: In Re Montano">4 B.R. 535</a></span> (D.C. 1980) (mere existence of a co-debtor is not legally sufficient to justify separate classification);
+  <em>
+   In re Crago,
+  </em>
+  <span class="citation" data-id="1538826"><a href="/opinion/1538826/in-re-crago/" aria-description="Citation for case: In Re Crago">4 B.R. 483</a></span> (S.D.Ohio 1980) (discriminatory treatment of cosigner who was father of one of the debtors);
+  <em>
+   In re Wade,
+  </em>
+  <span class="citation" data-id="1538635"><a href="/opinion/1538635/in-re-wade/" aria-description="Citation for case: In Re Wade">4 B.R. 98</a></span> (M.D.Tenn.1980) (discriminatory treatment of debts cosigned by debtors’ family). The need for an explanation of differing treatment of certain unsecured debts in
+  <em>
+   In re Cadogan,
+  </em>
+  <span class="citation" data-id="1538710"><a href="/opinion/1538710/in-re-cadogan/" aria-description="Citation for case: In Re Cadogan">4 B.R. 598</a></span> (W.D.La.1980) was a sufficient omission for the plan to be denied, while the court in
+  <em>
+   In re Gay,
+  </em>
+  <span class="citation" data-id="1970688"><a href="/opinion/1970688/in-re-gay/" aria-description="Citation for case: In Re Gay">3 B.R. 336</a></span> (D.Colo.1980) required even more from the debtor, holding that payment on bad checks was unfairly discriminatory if the debtor could not show that potential criminal charges or other adverse consequences would be more than speculative. Running counter to the trend are
+  <em>
+   In re Garcia,
+  </em>
+  <span class="citation" data-id="1537853"><a href="/opinion/1537853/in-re-garcia/" aria-description="Citation for case: In Re Garcia">6 B.R. 35</a></span> (D.Kan.1980), which allowed cosigned debts and attorney’s
+  <span citation-index="1" class="star-pagination" label="427"> 
+   *427
+   </span>
+  fees (the attorney was working on a non-bankruptcy matter for the debtor) to be paid in full, and
+  <em>
+   <span class="citation" data-id="1538831"><a href="/opinion/1538831/in-re-hill/" aria-description="Citation for case: In Re Hill">Hill, supra,</a></span>
+  </em>
+  which approved payment on cosigned debts and doctor bills.
+ </p>
+<p id="b481-4">
+  As mentioned above, one case leans heavily on the “practicality” aspect of the debt- or’s situation. The court in
+  <em>
+   In re Kovich,
+  </em>
+  <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">4 B.R. 403</a></span> (W.D.Mich.1980) held that a debtor may have to make special arrangements to avail himself of Chapter 13 relief as compared to Chapter. 7. In the
+  <em>
+   <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">Kovich</a></span>
+  </em>
+  situation, those arrangements included payment in full on a cosigned debt and back rent. The standards for determining whether such arrangements are unfairly discriminatory are: (1) whether the discrimination has a reasonable basis; (2) whether the debtor can carry out a plan without such discrimination; (3) whether such discrimination is proposed in good faith; and (4) the treatment of the class discriminated against. <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/#407" aria-description="Citation for case: In Re Kovich">4 B.R. 403 at 407</a></span>. A later case,
+  <em>
+   In re Blackwell,
+  </em>
+  <span class="citation" data-id="1534850"><a href="/opinion/1534850/in-re-blackwell/" aria-description="Citation for case: In Re Blackwell">5 B.R. 748</a></span> (W.D.Mich.1980) adopted much of the reasoning in
+  <em>
+   <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">Kovich</a></span>,
+  </em>
+  adding that “each case must be decided on its own merits, and one consideration in determining whether a Chapter 13 plan discriminates unfairly is the treatment of the class discriminated against, and, specifically, whether those creditors are to receive a meaningful payment.” <span class="citation" data-id="1534850"><a href="/opinion/1534850/in-re-blackwell/#751" aria-description="Citation for case: In Re Blackwell">5 B.R. 748 at 751</a></span>.
+  <em>
+   <span class="citation" data-id="1534850"><a href="/opinion/1534850/in-re-blackwell/" aria-description="Citation for case: In Re Blackwell">Blackwell</a></span>
+  </em>
+  refused to allow a 100% payment to the debtor’s landlord when the rest of the creditors with unsecured claims received only 5%. From these two eases, a workable interpretation for § 1322 and § 1122 may finally have arisen.
+ </p>
+<p id="b481-5">
+  Applying this newly-evolved standard to the Dziedzic situation, the Court finds that the answer to the first issue— whether a creditor may ever receive differential treatment from other creditors with unsecured claims — must be yes. While the Dziedzics may not meet the
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  guidelines since there is no legal difference between the HPFCU’s claim and any other unsecured claim, there is sufficient authority that differential treatment, as long as it’s not
+  <em>
+   unfair,
+  </em>
+  may be allowed.
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  and its progeny seem to have a better grasp of the concept of a Chapter 13 plan than some of the newer cases, yet it does not make sense that § 1322 would have been created only to cover extraordinary circumstances. On the other hand, the exclusion of “administrative convenience” payoffs in § 1122(b) is good evidence that the term “unfair discrimination” would have had big enough teeth to deny that type of differential treatment if it were not explicitly allowed. The
+  <em>
+   <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">Kovich</a></span>
+  </em>
+  guidelines coupled with
+  <em>
+   Blackwell’s
+  </em>
+  concern for the impact on the other creditors strikes a good balance between the clashing concepts. However, while unsecured claims may under some circumstances be treated differently, the Dziedzic’s situation does not qualify. Under the
+  <em>
+   <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">Kovich</a></span>
+  </em>
+  standards, the debtors fall short on both numbers (2) and (4).
+ </p>
+<p id="b481-7">
+  While Officer Dziedzic alleged that failure to pay would harm his employment prospects and cause problems with social relationships, such testimony is as speculative as that in the
+  <em>
+   <span class="citation" data-id="1970688"><a href="/opinion/1970688/in-re-gay/" aria-description="Citation for case: In Re Gay">Gay</a></span>
+  </em>
+  case, especially when joined by allegations that his life would be placed in peril.
+  <em>
+   <span class="citation" data-id="1538917"><a href="/opinion/1538917/in-re-mckenzie/" aria-description="Citation for case: In Re McKenzie">McKenzie, supra,</a></span>
+  </em>
+  rejected an almost identical argument (at least on the first two points) in dealing with a debt cosigned by a fellow employee; although the debtor claimed that he would face embarrassment and pressure by not paying in full, this was considered insufficient reason for the discriminatory treatment. At the least, Officer Dziedzic would have to put on more evidence to make his claims more concrete. If a plan could be confirmed on such flimsy evidence of consequences, every debtor would be free to pick and choose which creditors to be paid off, no doubt benefiting those such as friends or family whose relationship with the debtor were least in jeopardy.
+ </p>
+<p id="b481-8">
+  Finally there is a great differential between the 100% payout proposed to the HPFCU and the 30% on other claims. The degree of discrimination is high; the justification for it insufficient. For all of these reasons, confirmation of the plan will be
+  <span citation-index="1" class="star-pagination" label="428"> 
+   *428
+   </span>
+  denied. The Trustee is to submit an appropriate order within five days of this date.
+ </p>
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b478-15">
+   . The HPFCU claim is actually partially secured by a 1976 Ford Granada. However, no valuation testimony has been put on to separate the secured from the unsecured portion, and it will be dealt with as unsecured.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b478-24">
+   . Unsecured or secured claims, including the residential mortgage in this plan.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b479-13">
+   . See
+   <em>
+    Sutherland, infra,
+   </em>
+   where the court did provide reasons for the debtor’s classification.
+  </p>
+</div></div></opinion>

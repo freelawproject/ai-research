@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b652-9">
+  MEMORANDUM DECISION AND ORDER
+ </p>
+<author id="b652-10">
+  JUDITH A. BOULDEN, Bankruptcy Judge.
+ </author>
+<p id="b652-11">
+  Thomas and Peggy Whitelock (White-locks), the debtors in this chapter 13 case, sought confirmation of a plan providing full payment plus interest of a specially classified cosigned unsecured claim. Non-cosigned unsecured claimants were to receive a thirty percent dividend on their claims. Barbara W. Richman (Richman), the Standing Chapter 13 Trustee, objected to confirmation asserting the separate classification and disparate treatment were im-permissively discriminatory. This court concurs with Richman and, based upon the unfair discrimination against unsecured creditors contained in the plan and other factors, denies confirmation of the White-locks’ plan.
+ </p>
+<p id="b652-14">
+  JURISDICTION
+ </p>
+<p id="b652-15">
+  The court has jurisdiction over the parties to and the subject matter of this contested matter pursuant to <span class="citation no-link">28 U.S.C. §§ 157</span>(b) and 1334(b). Venue in this division is proper. This is a core proceeding within the meaning of <span class="citation no-link">28 U.S.C. § 157</span>(b)(2)(L).
+ </p>
+<p id="b652-16">
+  FACTS
+ </p>
+<p id="b652-17">
+  On February 7, 1990, the Whitelocks filed a petition for relief under chapter 13 of the Bankruptcy Code.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  The facts which, in part, necessitated the filing are as follows. In 1985, Thomas Whitelock incurred a substantial debt to the Internal Revenue Service (IRS). The evidence presented was inconclusive regarding whether the tax liability was consumer or business related. On October 11, 1985, Thomas Whitelock borrowed $15,898.38 at 15.66% interest from First Security Financial (FSF) to satisfy the IRS obligation. The payment schedule on the note required forty-seven monthly payments of $220 with a balloon payment of $14,842.78 on the October 26, 1989, due date. Though no separate evidence was presented to the court, the note evidencing the debt to FSF indicated that the loan was secured by real property, a single family residence, located at 255 Browning Avenue, Salt Lake City, Utah. The note allocated the distribution of the $15,432.38 loan proceeds to “makers and I.R.S.”
+ </p>
+<p id="b652-18">
+  On November 6, 1989, shortly after the balloon payment was due and a little over ninety days prior to filing this petition, Thomas Whitelock along with his mother, Erma S. Whitelock, executed a second note in favor of First Security Bank of Utah, N.A. (FSB) that was used to pay off the
+  <span citation-index="1" class="star-pagination" label="585"> 
+   *585
+   </span>
+  prior FSF note. The second loan was secured by a deed of trust on Erma White-lock’s home, also indicated as being located at 255 Browning Avenue, Salt Lake City, Utah. Thomas Whitelock possessed no legal interest in the real property, but Erma Whitelock executed the deed of trust to assist him in acquiring the loan. The second note, in the amount of $18,186.30 with a fixed 13.46% a.p.r., required 108 monthly payments of $286.52 but contained no balloon payment. According to the White-locks’ chapter 13 statement, only $573 had been paid on the FSB note as of the date of filing.
+ </p>
+<p id="b653-4">
+  Thomas Whitelock alleges he was not contemplating filing bankruptcy at the time the second loan was obtained three months before this filing. Even if the court were inclined to accept this statement as true, it is evident that the Whitelocks were in serious financial circumstances at the time. On their original chapter 13 statement, the Whitelocks listed their total debts as $89,-698, of which $35,993 comprised unsecured claims.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  Assets were valued at $51,076. The dates upon which the unsecured debts were incurred were omitted from the chapter 13 statement. An amendment ordered by the court revealed that these unsecured claims were incurred within approximately two years of the filing of the petition, and all were in existence at or prior to the November 6, 1989, transaction with FSB. With exception of the FSB cosigned claim of $17,500, nine of the Whitelocks’
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  remaining ten unsecured obligations were credit card debts, each having a substantial balance.
+ </p>
+<p id="b653-8">
+  Thomas Whitelock testified that the expenses in November 1989 for his family of three
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  were approximately the same as the expenses set forth in the monthly budget filed with the February 1990 petition. The Whitelocks amended their budget on August 7, 1990, however, to increase their total monthly expenses from $1,139 to $1,406. The amendment increased the expenses for utilities from $164 to $231, home maintenance from $25 to $50,
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  automobile insurance from $50 to $72, transportation from $100 to $150, food from $250 to $300, medical from $25 to $55, laundry from $20 to $25, periodicals from $10 to $16, recreation from $40 to $50, and haircare from $20 to $27. Only one item, the expense for clothing, was decreased from $50 to $45.
+ </p>
+<p id="b653-9">
+  Peggy Whitelock was unemployed at the time of the FSB transaction. Previously, she had been employed at Wescom Marketing for part of 1989. Thomas Whitelock testified Peggy Whitelock was looking for work at the time of the FSB transaction, and he anticipated her income to satisfy the obligation. A response filed to the trustee’s objection to confirmation and signed by the Whitelock’s counsel indicated Peggy Whitelock had elected to remain at home with her minor child. Peggy Whitelock filed a petition for relief under chapter 7 of the Bankruptcy Code on September 15, 1989, and received a discharge of her debts on January 2, 1990, one month before this filing.
+ </p>
+<p id="b654-3">
+<span citation-index="1" class="star-pagination" label="586"> 
+   *586
+   </span>
+  At the time, three months prior to filing, that he signed the second note to FSB, Thomas Whitelock was employed as a salesperson for Marshall Industries, where he had worked since January of 1988. He earned $2,200 as a monthly gross base salary plus an average of $600 to $700 in incentives. He testified his income fluctuated monthly in the range of $100 to $1,000 in excess of his regular salary depending upon the incentive program. Thomas Whitelock testified that he received an increase of approximately $150 a month in his salary shortly before this filing. However, he indicated the increase in sales income that he anticipated when he signed the second note to FSB was not forthcoming. The amended chapter 13 budget reflected only $2,079 net income. The court cannot reconcile the income figures in the sworn statements with Thomas Whitelock’s testimony.
+ </p>
+<p id="b654-4">
+  The amended plan dated July 19, 1990, proposed to submit payments of $673 per month (the Whitelocks’ entire projected disposable monthly income) for sixty months, plus a contribution of the funds paid into the plan prior to confirmation. The plan classified into one class all unsecured claims except the FSB cosigned claim that was separately classified. Unsecured claimants except FSB would be paid thirty percent of their claims, but the plan proposed full payment of the FSB claim plus a thirteen percent discount factor. This treatment would result in the accelerated payment of FSB’s claim in 60 months, instead of the 108 months provided by the terms of the note.
+ </p>
+<p id="b654-5">
+  The Whitelocks are poised to benefit from the proposed plan through the elimination of several monthly obligations. They are surrendering a 1988 Pontiac Grand Am, a snowmobile, and a rental residence, none of which have any marketable equity. The file reflects the monthly payment on the automobile as $348.54, on the snowmobile as $90.38, and on the real property as $380.93. Collectively, the White-locks are saving payments of $819.85 per month by this filing and the surrender of the collateral.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  Their payment into the plan for distribution to all remaining debt, however, is only $673. While the Bankruptcy Code permits and encourages such consolidation, it is some indication of the Whitelocks’ ability to service debt prepetition and concurrently the inaccuracy of their amended budget.
+ </p>
+<p id="b654-8">
+  Thomas Whitelock stated his reason for filing the chapter 13 petition was to forestall FSB from foreclosing on Erma White-lock’s home. He testified that he felt payments toward his mother’s obligation took precedence over payments to other creditors. No evidence suggests that FSB has either approached Erma Whitelock for payments, attempted to foreclose, or filed a proof of claim in this case. Nor is there any indication FSB has required that the note be paid on an accelerated basis. No notice of the bankruptcy petition had been given to Erma Whitelock, and her son testified she had no knowledge of this proceeding, even though she is a co-obligor and as such is a contingent claimant of this estate.
+ </p>
+<p id="b654-9">
+  LEGAL ANALYSIS
+ </p>
+<p id="b654-10">
+  The Whitelocks argue that they may properly categorize the cosigned claim and accord it special treatment pursuant to section 1322(b)(1). Further, they assert that their proposed separate classification does not discriminate unfairly and that the different treatment is allowed because the debt is a consumer debt upon which Erma Whitelock is jointly liable.
+ </p>
+<p id="b654-11">
+  A. CONSUMER DEBT
+ </p>
+<p id="b654-12">
+  The threshold issue is whether the debt owed to FSB is a consumer debt. Section 101(7) defines a consumer debt as “debt incurred by an individual primarily
+  <span citation-index="1" class="star-pagination" label="587"> 
+   *587
+   </span>
+  for a personal, family, or household purpose.” The legislative history of the section points out that the definition was adapted from the “definition used in various consumer protection laws.” H.R.Rep. No. 595, 95th Cong., 1st Sess. 309 (1977); S.Rep. No. 989, 95th Cong., 2d Sess. 22 (1978); 124 Cong.Rep. Hll,090; S17,406; 1978 U.S.Code Cong. &amp; Admin.News 5787, 5808, 6266. The Tenth Circuit Court of Appeals has adhered to the intent of Congress and the rationale of consumer laws, stating that the “courts have turned to the test articulated in cases decided under those [consumer protection] laws to determine when a debt falls within the above description.”
+  <em>
+   Citizens Nat’l Bank v. Burns (In re Burns),
+  </em>
+  <span class="citation" data-id="535325"><a href="/opinion/535325/in-re-randall-clark-burns-and-deborah-a-burns-debtors-citizens-national/#363" aria-description="Citation for case: In Re Randall Clark Burns and Deborah A. Burns, Debtors....">894 F.2d 361, 363</a></span> (10th Cir.1990).
+ </p>
+<p id="b655-4">
+  Although the Whitelocks possess no legal interest in the real property owned by Erma Whitelock, the property secures the note in favor of FSB. This security interest is relevant in that the legislative history of section 101(7) provides the following limitation: “A consumer debt does not include a debt to any extent the debt is secured by real property.” 124 Cong.Rec. Hll,090 (daily ed. Sept. 28, 1978) (statement of Rep. Edwards); 124 Cong.Rec. S17,406 (daily ed. Oct. 6, 1978) (statement of Sen. DeConcini). There exists a split of authority relating to whether obligations secured by real property constitute consumer debts.
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+</p>
+<p id="b655-8">
+  The court must look to the purpose of the debt to determine its inclusion within the consumer debt definition. Thomas Whitelock testified that the purpose of the original loan with FSF was to pay off a debt to the IRS, and that the purpose of the renegotiated loan with FSB was to pay off the FSF note.
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+  The FSB loan is an expenditure that serves a family or household purpose. The converse of a business debt in a chapter 13 context is presumptively a consumer debt. There is no substantial indication that the repayment of the FSF debt was in any manner business related.
+ </p>
+<p id="b655-9">
+  Notwithstanding the fact the underlying debt in this case is secured by real property, this court finds that the debt is a consumer debt. The court agrees with the Ninth Circuit statement in
+  <em>
+   Kelly
+  </em>
+  that the statutory scheme so “clearly contemplates
+  <span citation-index="1" class="star-pagination" label="588"> 
+   *588
+   </span>
+  that consumer debt include debt secured by real property that there is no room left for any other conclusion.”
+  <em>
+   Kelly,
+  </em>
+  841 F.2d at 912.
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+  Furthermore, reliance on conflicting legislative history rather than on the language of the statute “stands the process of statutory interpretation on its head.” 841 F.2d at 912.
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+  Nevertheless, the evidence regarding the nature of the tax claim is so inconclusive that the court will consider it a consumer debt.
+ </p>
+<p id="b656-4">
+  B. CLASSIFICATION OF UNSECURED CLAIMS AND UNFAIR DISCRIMINATION
+ </p>
+<p id="b656-5">
+  The Whitelocks’ plan separately classifies the cosigned unsecured claim of FSB from other unsecured claims. Richman argues that this categorization is an improper classification. Section 1322(b)(1) provides that a plan may
+ </p>
+<blockquote id="b656-6">
+  designate a class or classes of unsecured claims, as provided in section 1122 of this title, but may not discriminate unfairly against any class so designated; however, such plan may treat claims for a consumer debt of the debtor if an individual is liable on such consumer debt with the debtor differently than other unsecured claims.
+ </blockquote>
+<p id="b656-7">
+  Subsection 1322(b)(1) was specifically amended by the Bankruptcy Amendments and Federal Judgeship Act of 1984 (BAF-JA) to allow cosigned consumer debts to be treated differently than other unsecured claims.
+  <a class="footnote" href="#fn11" id="fn11_ref">
+   11
+  </a>
+  There being no official legislative history on the 1984 amendment to section 1322(b)(1), this court finds instructive the BAFJA quasi-legislative history:
+ </p>
+<blockquote id="b656-8">
+  “Although there may be no theoretical differences between co-debtor claims and others, there are important practical differences” that must be recognized. Because codebtors are often relatives or friends, the debtor may feel a great need to pay the debt in full, even if that is not permitted within the chapter 13 plan. If the debtor can be required to devote all disposable income to the plan, the conflicting desire to voluntarily make payments outside the plan on a cosigned debt may spell failure for the plan by leaving insufficient income to keep up plan payments. “If, as a practical matter, the debtor is going to pay the codebt- or claim, he should be permitted to separately classify it in chapter 13.”
+ </blockquote>
+<p id="b656-13">
+  5
+  <em>
+   Collier on Bankruptcy
+  </em>
+  II 1322.05[1] at 1322-10 (15th ed. 1989) citing S.Rep. No. 65, 98th Cong., 1st Sess. 17-18 (1983). One stated reason for the amendment and debtors’ increased flexibility to classify claims was to encourage individuals to file their petitions under chapter 13 instead of chapter 7.
+  <em>
+   See In re Perkins,
+  </em>
+  <span class="citation" data-id="1543477"><a href="/opinion/1543477/in-re-perkins/#425" aria-description="Citation for case: In Re Perkins">55 B.R. 422, 425</a></span>. (Bankr.N.D.Okla.1985). The limitations imposed in sections 1322(a)(3) and (b)(1) pose no prohibition against the Whitelocks’ proposed classification.
+ </p>
+<p id="b656-14">
+  The court need not find if the different treatment of FSB's claim discriminates against a certain class, it need only determine if the discrimination is unfair. The decision is to be made on a flexible, case-by-case approach, taking into account the particular facts and circumstances of each case. The debtors have the burden of establishing the rationale and fairness of a discriminatory treatment of unsecured claims.
+  <em>
+   In re Furlow,
+  </em>
+  <span class="citation" data-id="1909764"><a href="/opinion/1909764/in-re-furlow/#977" aria-description="Citation for case: In Re Furlow">70 B.R. 973, 977</a></span> (Bankr.E.D.Pa.1987);
+  <em>
+   In re Cook,
+  </em>
+  <span class="citation" data-id="1802489"><a href="/opinion/1802489/worthen-bank-trust-co-v-cook-in-re-cook/#190" aria-description="Citation for case: Worthen Bank &amp; Trust Co. v. Cook (In Re Cook)">26 B.R. 187, 190</a></span> (Bankr.N.M.1982).
+ </p>
+<p id="b657-3">
+<span citation-index="1" class="star-pagination" label="589"> 
+   *589
+   </span>
+  The Ninth Circuit Bankruptcy Appellate Panel in
+  <em>
+   Amfac Distrib. Corp. v. Wolff (In re Wolff),
+  </em>
+  <span class="citation" data-id="9686594"><a href="/opinion/1821177/amfac-distribution-corp-v-wolff-in-re-wolff/" aria-description="Citation for case: Amfac Distribution Corp. v. Wolff (In Re Wolff)">22 B.R. 510</a></span> (Bankr. 9th Cir.1982) (per curiam) delineated a four-factor test to determine fairness.
+  <em>
+   Wolff
+  </em>
+  held that different treatment and classification do not unfairly discriminate if the following factors are fulfilled:
+ </p>
+<blockquote id="b657-4">
+  1. The discrimination has a reasonable basis,
+ </blockquote>
+<blockquote id="b657-5">
+  2. The debtor cannot carry out a plan without such discrimination,
+ </blockquote>
+<blockquote id="b657-6">
+  3. The discrimination is proposed in good faith, and
+ </blockquote>
+<blockquote id="b657-7">
+  4. The degree of discrimination is directly related to the basis or rationale for the discrimination.
+ </blockquote>
+<p id="b657-8">
+<span class="citation" data-id="9686594"><a href="/opinion/1821177/amfac-distribution-corp-v-wolff-in-re-wolff/#512" aria-description="Citation for case: Amfac Distribution Corp. v. Wolff (In Re Wolff)"><em>
+   Id.
+  </em>
+  at 512</a></span>. The panel recognized the above factors enunciated in
+  <em>
+   In re Kovich,
+  </em>
+  <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">4 B.R. 403</a></span> (Bankr.W.D.Mich.1980) and
+  <em>
+   In re Dziedzic,
+  </em>
+  <span class="citation" data-id="1548269"><a href="/opinion/1548269/in-re-dziedzic/" aria-description="Citation for case: In Re Dziedzic">9 B.R. 424</a></span> (Bankr.S.D.Tex.1981) and followed by most courts that have dealt with this issue. This court will utilize the
+  <em>
+   Wolff
+  </em>
+  test as one of several possible elements in determining fairness. The third factor of the test has become convoluted as a result of the plethora of cases that have attempted to define good faith. Therefore, the third factor is modified so as to inquire whether the discrimination manipulates the bankruptcy system and thereby abuses the provisions, purpose, or spirit of chapter 13.
+ </p>
+<p id="b657-9">
+  The Whitelocks present the analysis of two cases to support their contention:
+  <em>
+   In re Lawson,
+  </em>
+  <span class="citation" data-id="2005397"><a href="/opinion/2005397/in-re-lawson/" aria-description="Citation for case: In Re Lawson">93 B.R. 979</a></span> (Bankr.N.D.Ill. 1988) and
+  <em>
+   In re Hamilton,
+  </em>
+  <span class="citation" data-id="1819916"><a href="/opinion/1819916/in-re-hamilton/" aria-description="Citation for case: In Re Hamilton">102 B.R. 498</a></span> (Bankr.W.D.Va.1989). The Whitelocks and the court in
+  <em>
+   <span class="citation" data-id="2005397"><a href="/opinion/2005397/in-re-lawson/" aria-description="Citation for case: In Re Lawson">Lawson</a></span>
+  </em>
+  prefer replacing the long established four-part test for determining unfairness with the following test: “[A] discrimination is ‘fair,’ and therefore permissible, to the extent, and only to the extent, that it rationally furthers an articulated, legitimate interest of the debtor.” <span class="citation" data-id="1819916"><a href="/opinion/1819916/in-re-hamilton/#502" aria-description="Citation for case: In Re Hamilton">102 B.R. at 502</a></span>.
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+  In
+  <em>
+   <span class="citation" data-id="2005397"><a href="/opinion/2005397/in-re-lawson/" aria-description="Citation for case: In Re Lawson">Lawson</a></span>,
+  </em>
+  however, the court specifically interpreted section 1322(b)(1) to disallow a chapter 13 debtor from “advancing]
+  <em>
+   any
+  </em>
+  personal interest by discriminating in the treatment of unsecured creditors.” <span class="citation" data-id="2005397"><a href="/opinion/2005397/in-re-lawson/#984" aria-description="Citation for case: In Re Lawson">93 B.R. at 984</a></span>.
+  <em>
+   <span class="citation" data-id="2005397"><a href="/opinion/2005397/in-re-lawson/" aria-description="Citation for case: In Re Lawson">Lawson</a></span>
+  </em>
+  reasoned that this type of discrimination “could lead to approval of discrimination on purely personal grounds, like family relationships and friendship” a situation analogous to that of the Whitelocks. <span class="citation" data-id="2005397"><a href="/opinion/2005397/in-re-lawson/#984" aria-description="Citation for case: In Re Lawson">93 B.R. at 984</a></span>. In
+  <em>
+   <span class="citation" data-id="1819916"><a href="/opinion/1819916/in-re-hamilton/" aria-description="Citation for case: In Re Hamilton">Hamilton</a></span>,
+  </em>
+  a chapter 13 plan that classified cosigned debts on student loans incurred by and solely for the benefit of the debtors’ children separately from the other unsecured debts and paid approximately fourteen percent and five percent of the claims in each class, respectively, was held to unfairly discriminate. The court held that “the desire of parents to protect their children from the claims of creditors” did not “constitute a legitimate interest of the debtor.” <span class="citation" data-id="1819916"><a href="/opinion/1819916/in-re-hamilton/#502" aria-description="Citation for case: In Re Hamilton">102 B.R. at 502</a></span>.
+ </p>
+<p id="b657-12">
+  1. Reasonable Basis for Discrimination
+ </p>
+<p id="b657-13">
+  The court in
+  <em>
+   In re Green,
+  </em>
+  <span class="citation" data-id="1909912"><a href="/opinion/1909912/in-re-green/#166" aria-description="Citation for case: In Re Green">70 B.R. 164, 166-67</a></span> (Bankr.W.D.Ark.1986),
+  <a class="footnote" href="#fn13" id="fn13_ref">
+   13
+  </a>
+  established that the determinative factors in the fairness of a proposed discrimination are whether the discrimination is supported by a reasonable basis and whether there is significant justification for dissimilar treatment. Certain justifications have been found not to provide a reasonable basis: the imposition of a criminal jail sentence upon nonpayment of restitution,
+  <em>
+   In re Bowles,
+  </em>
+  <span class="citation" data-id="1552837"><a href="/opinion/1552837/in-re-bowles/#508" aria-description="Citation for case: In Re Bowles">48 B.R. 502, 508</a></span> (Bankr.E.D.Va.1985); the existence of cosigned student
+  <span citation-index="1" class="star-pagination" label="590"> 
+   *590
+   </span>
+  loans,
+  <em>
+   Hamilton,
+  </em>
+  <span class="citation" data-id="1819916"><a href="/opinion/1819916/in-re-hamilton/#501" aria-description="Citation for case: In Re Hamilton">102 B.R. at 501</a></span>; the contingent nature of a claim,
+  <em>
+   In re Diaz,
+  </em>
+  <span class="citation" data-id="1533754"><a href="/opinion/1533754/in-re-diaz/#905" aria-description="Citation for case: In Re Diaz">97 B.R. 903, 905</a></span> (Bankr.S.D. Ohio 1989); personal animus toward the creditor,
+  <em>
+   In re Storberg,
+  </em>
+  <span class="citation" data-id="1972455"><a href="/opinion/1972455/in-re-storberg/#146" aria-description="Citation for case: In Re Storberg">94 B.R. 144, 146</a></span> (Bankr.D.Minn.1988). Discrimination on the basis that past due nondischargeable alimony or child support obligations are involved is reasonable.
+  <a class="footnote" href="#fn14" id="fn14_ref">
+   14
+  </a>
+  Where the debtor found it imperative to maintain confidence and harmony with his police street partner, discrimination was rationally based.
+  <em>
+   In re Todd,
+  </em>
+  <span class="citation" data-id="1831859"><a href="/opinion/1831859/in-re-todd/#253" aria-description="Citation for case: In Re Todd">65 B.R. 249, 253</a></span> (Bankr.N.D.Ill.1986). Another acceptable rationale is the facilitation or improvement of a debtor’s rehabilitation.
+  <a class="footnote" href="#fn15" id="fn15_ref">
+   15
+  </a>
+</p>
+<p id="b658-4">
+  The mere fact that real property owned by Erma Whitelock secures FSB’s claim is not valid justification for paying FSB excessively more than other unsecured claimants on an accelerated basis. This is the type of discrimination based upon purely personal grounds that
+  <em>
+   <span class="citation" data-id="2005397"><a href="/opinion/2005397/in-re-lawson/" aria-description="Citation for case: In Re Lawson">Lawson</a></span>
+  </em>
+  cautioned against. Fair discrimination requires more justification than simply the personal preference of a debtor; accordingly, dissimilar treatment must be justified as fair and reasonable.
+  <em>
+   In re Hosler,
+  </em>
+  <span class="citation" data-id="1902183"><a href="/opinion/1902183/in-re-hosler/#396" aria-description="Citation for case: In Re Hosler">12 B.R. 395, 396</a></span> (Bankr.S.D. Ohio 1981). The Whitelocks have not indicated that Erma Whitelock cannot make the payments on the obligation that she cosigned or that FSB intends to foreclose if it is not treated as set forth in the plan. Indeed, it would be extremely unusual for a banking institution to require acceleration of a note in this manner. Thomas Whitelock asserts that he feels a strong moral obligation to repay the debt in full, as he rightfully should. That feeling alone, however, is insufficient to indicate that the discrimination against other unsecured creditors is fair.
+ </p>
+<p id="b658-9">
+  2. Ability to Carry Out a Plan Without Such Discrimination
+ </p>
+<p id="b658-10">
+  The Whitelocks have put forth no evidence that their plan could not be carried out without the proposed discrimination. Determination of the ability to effectuate a plan without disparate treatment of a disfavored class generally necessitates an examination of whether the treatment protects a relationship with a specific creditor that the debtors need to reorganize successfully.
+  <em>
+   See generally In re Perskin,
+  </em>
+  <span class="citation" data-id="1547941"><a href="/opinion/1547941/in-re-perskin/#632" aria-description="Citation for case: In Re Perskin">9 B.R. 626, 632</a></span> (Bankr.N.D.Tex.1981) (debt- or’s occupation as traveling salesperson required favored treatment of two credit card claimants). The section 1301(a) stay protection for codebtors insulates the White-locks from indirect creditor pressure that might be exerted against cosigners or guarantors. FSB’s possible action against Erma Whitelock, to the extent permitted by section 1301(a), poses minimal threat to the viability of an amended nondiscriminatory plan.
+  <a class="footnote" href="#fn16" id="fn16_ref">
+   16
+  </a>
+  Furthermore, there is no evidence that either Erma Whitelock or FSB assert an overbearing control over the White-locks’ employment or financial affairs.
+ </p>
+<p id="b658-11">
+  3. Discrimination is Not Manipulative of the Bankruptcy System
+ </p>
+<p id="b658-12">
+  Despite the inclusion of a good
+  <span citation-index="1" class="star-pagination" label="591"> 
+   *591
+   </span>
+  faith factor
+  <a class="footnote" href="#fn17" id="fn17_ref">
+   17
+  </a>
+  within the long-established
+  <em>
+   Wolff
+  </em>
+  four-prong test, a more limited focus on whether the proposed discrimination manipulated the bankruptcy system and abused the provisions, purpose, or spirit of chapter 13 would be helpful. Therefore, a court should preliminarily investigate the intent or motive of the debtor in proposing the discrimination in question.
+  <a class="footnote" href="#fn18" id="fn18_ref">
+   18
+  </a>
+  The Whitelocks testified that full payment to FSB was a primary feature of the plan to avoid any consequence resulting from action taken by FSB to collect on or foreclose the interest in Erma Whitelock’s home.
+ </p>
+<p id="b659-4">
+  The court, recognizing that a plan may appropriately be proposed for various reasons, has considered the Whitelocks’ single-minded purpose. However, although there exists a “certain latitude in discriminating between some claims[,] that latitude is circumscribed still by the measurements of equity and fairness.”
+  <em>
+   In re Young,
+  </em>
+  <span class="citation" data-id="1819765"><a href="/opinion/1819765/in-re-young/#1023" aria-description="Citation for case: In Re Young">102 B.R. 1022, 1023</a></span> (Bankr.W.D.Mo.1989). An inquiry into fairness involves more than ascertaining the rationality of the debtors’ proposed discrimination.
+ </p>
+<p id="b659-5">
+  The Whitelocks’ attempt to convert an obligation that would be paid over 108 months by its contractual terms and now accelerate the payment over only 60 months, to the considerable disadvantage of their unsecured creditors, is indicative of abuse of the chapter 13 system. Payments on the FSB obligations would have amortized at $286.52 per month. Now the obligation will be paid at almost twice that rate, with little left for other creditors. Thomas Whitelock’s cavalier attitude toward paying unsecured claims other than FSB’s claim is additional indication of the unfairness in the disparate treatment. Consequently, the intent of the Whitelocks and their concomitant attempt to shorten the time within which the FSB debt is repaid at the expense of other unsecured creditors evidences a manipulation of the chapter 13 system.
+ </p>
+<p id="b659-10">
+  4. Degree of Discrimination Relates to the Basis for Discrimination
+ </p>
+<p id="b659-11">
+  There is a distinction between treating a claim differently and discriminating against it unfairly.
+  <a class="footnote" href="#fn19" id="fn19_ref">
+   19
+  </a>
+  Considering the circumstances presented here, a seventy percent differential in the amounts paid on cosigned versus non-cosigned debts is unfair.
+  <em>
+   See Hosler,
+  </em>
+  <span class="citation" data-id="1902183"><a href="/opinion/1902183/in-re-hosler/#396" aria-description="Citation for case: In Re Hosler">12 B.R. at 396</a></span> (a twenty percent versus one hundred percent return difference was determined significant). Furthermore, the degree of differential treatment does not directly relate to the discrimination’s basis.
+  <em>
+   See Freshley,
+  </em>
+  69 B.R. at 97. The court finds useful an examination of the amounts proposed “for repayment to each class of unsecured claims in light of the rationale for separate classification.”
+  <em>
+   In re Johnson,
+  </em>
+  <span class="citation" data-id="1538195"><a href="/opinion/1538195/in-re-johnson/#729" aria-description="Citation for case: In Re Johnson">69 B.R. 726, 729</a></span> (Bankr.W.D.N.Y.1987) (an eighty-five percent differential in the amount paid each class was unfair). No bright-line test on the percentage difference between the classes is available, any more than a certain percentage return constitutes good faith. However, a grossly disproportionate percentage repayment, an unjustifiable order of payment, a discount factor with no reasonable basis or, as in this case, an accelerated payment beyond a legal obligation at the expense of other creditors, are all indicia of unfairness.
+ </p>
+<p id="b660-3">
+<span citation-index="1" class="star-pagination" label="592"> 
+   *592
+   </span>
+  C. CONFIRMATION OF THE PLAN UNDER SECTION 1325
+ </p>
+<p id="b660-4">
+  1. Good Faith
+ </p>
+<p id="b660-5">
+  Section 1325(a)(3) mandates that the court “confirm a plan if ... the plan has been proposed in good faith and not by any means forbidden by law.” The Tenth Circuit has interpreted section 1325(a)(3) to require “an inquiry, on a case-by-case basis, into whether the plan abuses the provisions, purpose or spirit of Chapter 13.”
+  <em>
+   Flygare v. Boulden,
+  </em>
+  <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/#1347" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">709 F.2d 1344, 1347</a></span> (10th Cir.1983) citing
+  <em>
+   United States v. Estus (In re Estus),
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/#315" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d 311, 315</a></span> (8th Cir.1982). The more recent opinion of
+  <em>
+   Pioneer Bank v. Rasmussen (In re Rasmussen),
+  </em>
+  <span class="citation" data-id="531287"><a href="/opinion/531287/in-re-elmer-claire-rasmussen-pioneer-bank-of-longmont-creditor-appellant/#704" aria-description="Citation for case: In Re Elmer Claire Rasmussen. Pioneer Bank of Longmont,...">888 F.2d 703, 704</a></span> (10th Cir.1989) has reinforced the continuing tenacity of
+  <em>
+   Fly-gare
+  </em>
+  as good law by favorably reiterating the eleven-factor guideline adopted in
+  <em>
+   <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">Flygare</a></span>.
+  </em>
+<a class="footnote" href="#fn20" id="fn20_ref">
+<em>
+    20
+   </em>
+</a>
+<em>
+</em>
+  Of the eleven elements set forth in
+  <em>
+   <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">Flygare</a></span>,
+  </em>
+  at least five of the elements suggesting bad faith are present in this case. The Whitelocks’ schedules are incomplete and their budget at variance with Thomas Whitelock’s testimony. The seventy percent differential proposed by the plan, demonstrates extreme preferential treatment between classes of creditors.
+ </p>
+<p id="b660-6">
+  No extraordinary reasons or unforeseen circumstances triggered the filing of the petition. To the contrary, it is apparent the debt existed at the time the obligation with FSB was incurred. Peggy Whitelock received a discharge of her debts immediately prior to this filing. According to the Tenth Circuit, both “pre-petition conduct and prior bankruptcy filings by the debtor may be relevant to the good faith inquiry under § 1325(a)(3).”
+  <em>
+   Rasmussen,
+  </em>
+  <span class="citation" data-id="531287"><a href="/opinion/531287/in-re-elmer-claire-rasmussen-pioneer-bank-of-longmont-creditor-appellant/#704" aria-description="Citation for case: In Re Elmer Claire Rasmussen. Pioneer Bank of Longmont,...">888 F.2d at 704</a></span>, citing
+  <em>
+   Neufeld v. Freeman,
+  </em>
+  <span class="citation" data-id="472172"><a href="/opinion/472172/william-neufeld-creditor-v-susan-k-freeman-debtor-and-emily-y-wilson/#150" aria-description="Citation for case: William Neufeld, Creditor v. Susan K. Freeman, Debtor,...">794 F.2d 149, 150</a></span> (4th Cir.1986). The court remains unconvinced as to the Whitelocks’ desire to repay creditors other than FSB, given Thomas Whitelock’s adamant testimony regarding his moral obligation to repay this debt at the expense of others. The amendment to the budget increasing virtually all expenses and reflecting income at variance with Thomas Whitelock’s testimony is also indicative of the Whitelocks’ motivation and lack of sincerity. The court finds it telling that the current filing was initiated only one month following Peggy Whitelock's discharge in the chapter 7 case and slightly more than ninety days after the FSB note was renegotiated.
+ </p>
+<p id="b660-9">
+  A determination of good faith under the
+  <em>
+   <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">Flygare</a></span>
+  </em>
+  totality of the circumstances approach dictates against confirmation of the Whitelocks’ plan. Approving confirmation would have the effect of unfairly manipulating the chapter 13 bankruptcy system, an action prohibited by
+  <em>
+   Rasmussen.
+  </em>
+  Thomas Whitelock’s statement that he had no intention to file this petition at the time he incurred the FSB obligation is not credible. Little change of circumstances occurred in the ninety-day interval except that Peggy Whitelock received her chapter 7 discharge. The totality of the foregoing facts and circumstances, inclusive of the inordinately unfair discrimination against unsecured claimants other than FSB, evidences a less than good faith proposal of the plan.
+ </p>
+<p id="b660-10">
+  2. Projected Disposable Income
+ </p>
+<p id="b660-11">
+  Section 1325(b) provides that if the trustee objects to confirmation, the court may not approve a plan unless unsecured claims are to be paid in full or the plan commits the debtors’ projected disposable income for three years. Disposable income is defined in section 1325(b)(2)(A) as income not reasonably necessary for the mainte
+  <span citation-index="1" class="star-pagination" label="593"> 
+   *593
+   </span>
+  nance or support of the debtors or their dependents. The 1984 amendment adding the disposable income test did not obviate all the circumstances utilized to determine good faith previous to 1984.
+  <a class="footnote" href="#fn21" id="fn21_ref">
+   21
+  </a>
+</p>
+<p id="b661-5">
+  This court has reviewed countless chapter 13 budgets and has an understanding of the amounts customarily listed as necessary expenses for a family of three in this area. While the amended budget of the Whitelocks is not extravagant, neither is it spartan. The upward adjustment of almost all categories, and the inclusion of cumulatively generous amounts for recreation, home maintenance, clothing, and personal grooming, demonstrate the Whitelocks’ unwillingness to modify their lifestyle to satisfy their obligations. The cumulative evidence indicates that the inflated amended budget contains expenses not reasonably necessary for the Whitelocks’ support or maintenance.
+ </p>
+<p id="b661-6">
+  CONCLUSION
+ </p>
+<p id="b661-7">
+  This court holds that the debt involved in this case is a consumer debt within the meaning of section 101(7), notwithstanding the accompanying conflicting legislative history. Although the claim fits within the exception in section 1322(b)(1) for consumer debts, the Whitelocks’ plan unfairly discriminates against unsecured creditors holding non-cosigned debts, and consequently violates section 1322(b)(1) and therefore also section 1325(a)(1). Even under the
+  <em>
+   <span class="citation" data-id="2005397"><a href="/opinion/2005397/in-re-lawson/" aria-description="Citation for case: In Re Lawson">Lawson</a></span>
+  </em>
+  test cited by the White-locks, the accelerated payment of FSB’s claim fails to rationally further an articulated, legitimate interest of the debtors. Independent of the Whitelocks’ failure to prove the fairness of the proposed discrimination, the plan would not be confirmable for other reasons. As presently drafted, the plan violates section 1325(a)(3), which requires that the plan be proposed in good faith, and violates section 1325(b), which requires that the plan commit the debtors’ projected disposable income for payments under the plan. Therefore, it is hereby
+ </p>
+<p id="b661-9">
+  ORDERED, that confirmation of the plan proposed by the Whitelocks is denied.
+ </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b652-12">
+   . All statutory references throughout are to Title 11 of the U.S.Code, unless otherwise specified.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b653-5">
+   . If this case were liquidated under chapter 7, the pro rata return to unsecured creditors would be zero. If the plan in its present state were to be confirmed, FSB would be paid in full and other unsecured claimants would receive more than they would have received in a chapter 7 liquidation.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b653-6">
+   . The Whitelocks’ attorney represented that the majority of the listed debt was incurred by Thomas Whitelock, Peggy Whitelock having received a chapter 7 discharge only one month prior to this filing. Despite the requirement in Official Form Number 10 that such information be provided in the chapter 13 statement, none of the documentation signed under oath specifically set forth whether the debt was jointly owed or that of Thomas Whitelock only.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b653-10">
+   . Thomas Whitelock testified as to the existence of Peggy Whitelock’s daughter, a dependent undisclosed on the chapter 13 statement. White-lock’s attorney later represented to the court that the family included two children, not one. The chapter 13 statement is to be amended to accurately reflect the size of this family.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b653-11">
+   . The Whitelocks’ chapter 13 statement does not list any real property other than a rental property that is to be surrendered to the secured creditor. Therefore, the $50 for home maintenance must either be in error or for the upkeep of an apartment.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b654-6">
+   . Included as collateral for secured claims not surrendered through the plan were a barbecue with a listed fair market value of $482 and wedding rings listed at $1,691. The plan provided for payment of a debt as a secured claim for federal income taxes owed for 1986 and 1988 in the amount of $2,747 with an eleven percent discount rate. The court lifted the automatic stay to allow an offset of a tax refund, so the remaining $2,775.59 claim of the IRS is now filed as an unsecured priority claim.
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b655-5">
+   . The following cases hold that debts secured by realty are not consumer debts:
+   <em>
+    In re Circle Five, Inc.,
+   </em>
+   <span class="citation" data-id="1541580"><a href="/opinion/1541580/in-re-circle-five-inc/" aria-description="Citation for case: In Re Circle Five, Inc.">75 B.R. 686</a></span> (Bankr.D.Idaho 1987) (the court held that a consumer debt is not one secured by real estate and that for definitional purposes, the term "family" does not include adult children or relatives who are not part of the debtor’s household);
+   <em>
+    In re Green,
+   </em>
+   <span class="citation" data-id="1909912"><a href="/opinion/1909912/in-re-green/#166" aria-description="Citation for case: In Re Green">70 B.R. 164, 166</a></span> (Bankr.W.D.Ark.1986) (a debt secured by real property owned by the debtor’s mother was considered a “nonconsumer" debt);
+   <em>
+    In re Walton,
+   </em>
+   <span class="citation" data-id="1538292"><a href="/opinion/1538292/in-re-walton/" aria-description="Citation for case: In Re Walton">69 B.R. 150</a></span>, 17 Collier Bankr.Cas.2d (MB) 124, 130 (E.D.Mo.1986) (the secured portion of a mortgage debt owed to HUD was not a consumer debt).
+  </p>
+<p id="b655-6">
+   Other courts adopt the differing holding:
+   <em>
+    McDaniel
+   </em>
+   v.
+   <em>
+    Nationwide,
+   </em>
+   <span class="citation" data-id="1905025"><a href="/opinion/1905025/mcdaniel-v-nationwide/#70" aria-description="Citation for case: McDaniel v. Nationwide">85 B.R. 69, 70</a></span> (Bankr.N.D.Ill.1988) (a consumer debt, within the meaning of exception to avoidability for certain preferential transfers made by debtors with primarily consumer debts, can include debts secured by realty);
+   <em>
+    Zolg v. Kelly (In re Kelly),
+   </em>
+   <span class="citation" data-id="8958278"><a href="/opinion/8966900/zolg-v-kelly-in-re-kelly/" aria-description="Citation for case: Zolg v. Kelly (In re Kelly)">841 F.2d 908</a></span> (9th Cir.1988),
+   <em>
+    aff’g
+   </em>
+   <span class="citation" data-id="1553445"><a href="/opinion/1553445/in-re-kelly/" aria-description="Citation for case: In Re Kelly">57 B.R. 536</a></span> (Bankr.D.Ariz.1986) (the court held that consumer debt may include debt secured by real property; however, “the exclusion of debts secured by real property is logical and consistent with the purpose behind section 707(b)”). The courts in
+   <em>
+    <span class="citation" data-id="1905025"><a href="/opinion/1905025/mcdaniel-v-nationwide/" aria-description="Citation for case: McDaniel v. Nationwide">McDaniel</a></span>
+   </em>
+   and
+   <em>
+    Kelly
+   </em>
+   construed section 101(7)’s definition of consumer debt in the context of the section 547(c)(7) exception to avoida-bility. The cases gave rise to a reference to the Code provision that states approval of a reaffirmation agreement is not required "to the extent that such debt is a consumer debt secured by real property.” <span class="citation no-link">11 U.S.C. § 524</span>(c)(6)(B). Both courts reasoned that if a debt secured by realty could never be a consumer debt, then <span class="citation no-link">11 U.S.C. § 524</span>(c)(6)(B) would make no sense.
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b655-11">
+   . The evidence establishing the nature of the tax liability Thomas Whitelock owed so as to require incurring the original obligation is inconclusive, though the amount of the debt, and the subsequent obligations incurred in 1986 may indicate involvement in a business enterprise rather than wage earner income taxes. The court in
+   <em>
+    Harrison v. IRS (In re Harrison),
+   </em>
+   <span class="citation" data-id="1945776"><a href="/opinion/1945776/harrison-v-internal-revenue-service-in-re-harrison/#558" aria-description="Citation for case: Harrison v. Internal Revenue Service (In Re Harrison)">82 B.R. 557, 558</a></span> (Bankr.D.Colo.1987), held that "a tax liability is in no way a consumer debt because it originates from the earning of income not in the course of a consumption activity. "However, the
+   <em>
+    Harrison
+   </em>
+   decision may properly be narrowed to <span class="citation no-link">11 U.S.C. § 1301</span>(a) injunctions against collection of a consumer debt against a codebt- or.
+   <em>
+    See also Pressimone v. IRS (In re Pressimone),
+   </em>
+   <span class="citation" data-id="2007273"><a href="/opinion/2007273/pressimone-v-internal-revenue-service-in-re-pressimone/#245" aria-description="Citation for case: Pressimone v. Internal Revenue Service (In Re Pressimone)">39 B.R. 240, 245</a></span> (N.D.N.Y.1984) (not a consumer debt within meaning of <span class="citation no-link">11 U.S.C. § 1301</span>(a)).
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b656-9">
+   . This rationale may be limited to purposes of determining substantial abuse under <span class="citation no-link">11 U.S.C. § 707</span>(b) and for consumer debts under <span class="citation no-link">11 U.S.C. §§ 521</span>(2), 524(c)(6)(B) and 524(d)(2).
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b656-11">
+   . The Ninth Circuit stated that explanatory floor statements of legislators should not be used to expand the plain language of the congressional statement. The official committee reports provide the authoritative guide to deciphering legislative intent.
+   <em>
+    Garcia v. United. States,
+   </em>
+   <span class="citation" data-id="9429794"><a href="/opinion/111287/garcia-v-united-states/" aria-description="Citation for case: Garcia v. United States">469 U.S. 70</a></span>, <span class="citation" data-id="9429794"><a href="/opinion/111287/garcia-v-united-states/" aria-description="Citation for case: Garcia v. United States">105 S.Ct. 479</a></span>, <span class="citation" data-id="9429794"><a href="/opinion/111287/garcia-v-united-states/" aria-description="Citation for case: Garcia v. United States">83 L.Ed.2d 472</a></span> (1984). However, it is appropriate to go beyond a statute and review the legislative history only when the statute is ambiguous.
+   <em>
+    United States v. Locke,
+   </em>
+   <span class="citation" data-id="9429994"><a href="/opinion/111403/united-states-v-locke/#95" aria-description="Citation for case: United States v. Locke">471 U.S. 84, 95</a></span>, <span class="citation" data-id="9429994"><a href="/opinion/111403/united-states-v-locke/#1792" aria-description="Citation for case: United States v. Locke">105 S.Ct. 1785, 1792-93</a></span>, <span class="citation" data-id="9429994"><a href="/opinion/111403/united-states-v-locke/" aria-description="Citation for case: United States v. Locke">85 L.Ed.2d 64</a></span> (1985).
+  </p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b656-16">
+   .<span class="citation no-link">Pub.L. No. 98-353, 98</span> Stat. 333. The 1984 amendment in effect overruled those aspects of
+   <em>
+    In re lacovoni,
+   </em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (Bankr.D. Utah 1980) that declared the impropriety of separately classifying cosigned unsecured claims from other unsecured claims based solely on the existence of a co-obligor.
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="b657-10">
+   . The language relating to "an articulated, legitimate interest" is borrowed from the landmark constitutional rights case of
+   <em>
+    San Antonio Indep. School Dist. v. Rodriguez,
+   </em>
+   <span class="citation" data-id="9425231"><a href="/opinion/108751/san-antonio-independent-school-district-v-rodriguez/#17" aria-description="Citation for case: San Antonio Independent School District v. Rodriguez">411 U.S. 1, 17</a></span>, <span class="citation" data-id="9425231"><a href="/opinion/108751/san-antonio-independent-school-district-v-rodriguez/#1288" aria-description="Citation for case: San Antonio Independent School District v. Rodriguez">93 S.Ct. 1278, 1288</a></span>, <span class="citation" data-id="9425231"><a href="/opinion/108751/san-antonio-independent-school-district-v-rodriguez/" aria-description="Citation for case: San Antonio Independent School District v. Rodriguez">36 L.Ed.2d 16</a></span> (1973). In
+   <em>
+    <span class="citation" data-id="9425231"><a href="/opinion/108751/san-antonio-independent-school-district-v-rodriguez/" aria-description="Citation for case: San Antonio Independent School District v. Rodriguez">Rodriguez</a></span>,
+   </em>
+   the U.S. Supreme Court examined whether a Texas system of school financing violated the equal protection clause of the Constitution by determining the extent to which the financing "rationally further[ed] some legitimate, articulated state purpose.” <span class="citation" data-id="9425231"><a href="/opinion/108751/san-antonio-independent-school-district-v-rodriguez/#17" aria-description="Citation for case: San Antonio Independent School District v. Rodriguez">411 U.S. at 17</a></span>, <span class="citation" data-id="9425231"><a href="/opinion/108751/san-antonio-independent-school-district-v-rodriguez/#1288" aria-description="Citation for case: San Antonio Independent School District v. Rodriguez">93 S.Ct. at 1288</a></span>. This court is reluctant to bring forward and adopt the panoply of constitutional and judicial scrutiny analysis entailed in Rodriguez and its progeny construing the legitimate interest articulation.
+  </p>
+</div><div class="footnote" id="fn13" label="13">
+<a class="footnote" href="#fn13_ref">
+   13
+  </a>
+<p id="b657-15">
+   .
+   <em>
+    <span class="citation" data-id="1909912"><a href="/opinion/1909912/in-re-green/" aria-description="Citation for case: In Re Green">Green</a></span>
+   </em>
+   contains facts most analogous to the case at hand. The debtors in
+   <em>
+    <span class="citation" data-id="1909912"><a href="/opinion/1909912/in-re-green/" aria-description="Citation for case: In Re Green">Green</a></span>
+   </em>
+   proposed full payment on an unsecured claim in which the real property was owned by one debtor’s mother. The remaining unsecured claimants were to be paid approximately twenty-five percent on their claims. The court found that debtors failed to prove significant justification for the dissimilar treatment and denied confirmation.
+  </p>
+</div><div class="footnote" id="fn14" label="14">
+<a class="footnote" href="#fn14_ref">
+   14
+  </a>
+<p id="b658-5">
+   .
+   <em>
+    In re Whittaker,
+   </em>
+   <span class="citation" data-id="1990086"><a href="/opinion/1990086/in-re-whittaker/#534" aria-description="Citation for case: In Re Whittaker">113 B.R. 531, 534</a></span> (Bankr.D.Minn.1990);
+   <em>
+    In re Storberg,
+   </em>
+   <span class="citation" data-id="1972455"><a href="/opinion/1972455/in-re-storberg/#146" aria-description="Citation for case: In Re Storberg">94 B.R. 144, 146-48</a></span> (Bankr.D.Minn.1988);
+   <em>
+    In re Davidson,
+   </em>
+   <span class="citation" data-id="1531148"><a href="/opinion/1531148/in-re-davidson/#387" aria-description="Citation for case: In Re Davidson">72 B.R. 384, 387</a></span> (Bankr.D.Colo.1987).
+  </p>
+</div><div class="footnote" id="fn15" label="15">
+<a class="footnote" href="#fn15_ref">
+   15
+  </a>
+<p id="b658-6">
+   .
+   <em>
+    In re Terry,
+   </em>
+   <span class="citation" data-id="1973007"><a href="/opinion/1973007/in-re-terry/#173" aria-description="Citation for case: In Re Terry">78 B.R. 171 at 173</a></span> (Bankr.E.D.Tenn.1987) ("A debtor’s rehabilitation may be improved as the result of higher payments to doctors, hospitals, merchants, or schools with whom the debtor may deal in the future.”);
+   <em>
+    In re Freshley,
+   </em>
+   <span class="citation" data-id="1538376"><a href="/opinion/1538376/in-re-freshley/#98" aria-description="Citation for case: In Re Freshley">69 B.R. 96, 98</a></span> (Bankr.N.D.Ga.1986) (a plan that proposed repayment of the debtor’s student loan so that he could return to school and earn a degree was found necessary for the debtor’s rehabilitation.)
+  </p>
+</div><div class="footnote" id="fn16" label="16">
+<a class="footnote" href="#fn16_ref">
+   16
+  </a>
+<p id="b658-7">
+   . It is not unforeseeably improbable that if debtors are required to amend their plan to pay cosigned claims less than full payment, that they may nevertheless surreptitiously cause additional payments to be made so that cosigned claimants are paid in full. However, the White-locks in this case possess the capability to pay more to the disfavored unsecured class as a result of their surrender of certain collateral that previously required substantial monthly expenditures. The court is not necessarily enjoining the Whitelocks or other chapter 13 debtors from paying one hundred percent to cosigned claimants where the circumstances properly allow full payment. Certainly, it is not the practice of this court to presume chapter 13 debtors will violate the statute by impermissibly paying creditors directly in violation of the terms of their plans.
+  </p>
+</div><div class="footnote" id="fn17" label="17">
+<a class="footnote" href="#fn17_ref">
+   17
+  </a>
+<p id="b659-6">
+   . Some courts have adopted the rationale of
+   <em>
+    Green,
+   </em>
+   <span class="citation" data-id="1909912"><a href="/opinion/1909912/in-re-green/" aria-description="Citation for case: In Re Green">70 B.R. at 166</a></span>: "The factor of whether the discrimination is proposed in good faith is subsumed in the concept of good faith of the plan in general."
+   <em>
+    See also Furlow,
+   </em>
+   <span class="citation" data-id="1909764"><a href="/opinion/1909764/in-re-furlow/#977" aria-description="Citation for case: In Re Furlow">70 B.R. at 977</a></span> (critical of third
+   <em>
+    Wolff
+   </em>
+   factor). While that rationale is valid, the determination that a proposed discrimination is unfair must usually be made before ever reaching the good faith merits of the plan.
+  </p>
+</div><div class="footnote" id="fn18" label="18">
+<a class="footnote" href="#fn18_ref">
+   18
+  </a>
+<p id="b659-7">
+   . "The principal unfair discrimination issue raised by a selective plan is a debtor’s motive for singling out the nonpriority claims included in the plan.” Dole,
+   <em>
+    Selective Chapter 13 Plans: A Permissible Use or a Prohibited Abuse of the Bankruptcy Code Following the 1984 Amendments?
+   </em>
+   3 Bankr.Dev.J. 511, 524 (1986).
+  </p>
+</div><div class="footnote" id="fn19" label="19">
+<a class="footnote" href="#fn19_ref">
+   19
+  </a>
+<p id="b659-13">
+   ."[A] debtor's power to treat co-signed consumer debts 'differently' has content separate from the proscription against unfair discrimination. The awkward language is resolved by holding that all different treatments are not necessarily fair discriminations.”
+   <em>
+    In re Easley, 72
+   </em>
+   B.R. 948, 956 (Bankr.M.D.Tenn.1987).
+  </p>
+</div><div class="footnote" id="fn20" label="20">
+<a class="footnote" href="#fn20_ref">
+   20
+  </a>
+<p id="b660-7">
+   . <span class="citation no-link">11 U.S.C. § 1325</span> was also amended in 1984 subsequent to the
+   <em>
+    <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">Flygare</a></span>
+   </em>
+   decision. Although the addition of <span class="citation no-link">11 U.S.C. § 1325</span>(b) encompasses many of the
+   <em>
+    <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">Flygare</a></span>
+   </em>
+   factors, the factors remain relevant to the good faith analysis in the Tenth Circuit.
+   <em>
+    Contra In re Thompson,
+   </em>
+   <span class="citation" data-id="1984910"><a href="/opinion/1984910/colorado-student-obligation-bond-authority-v-thompson-in-re-thompson/" aria-description="Citation for case: Colorado Student Obligation Bond Authority v. Thompson...">116 B.R. 794</a></span> (D.Colo.1990). In dicta,
+   <em>
+    Rasmussen
+   </em>
+   noted the Eighth Circuit's narrowing of the <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3) good faith analysis after the 1984 amendments to include only "whether the debt- or has stated his debts and expenses accurately; whether he has made any fraudulent misrepresentation to mislead the bankruptcy court; or whether he has unfairly manipulated the Bankruptcy Code."
+   <em>
+    Rasmussen,
+   </em>
+   <span class="citation" data-id="531287"><a href="/opinion/531287/in-re-elmer-claire-rasmussen-pioneer-bank-of-longmont-creditor-appellant/" aria-description="Citation for case: In Re Elmer Claire Rasmussen. Pioneer Bank of Longmont,...">888 F.2d at 704</a></span> n. 3, citing
+   <em>
+    Education Assistance Corp. v. Zellner,
+   </em>
+   <span class="citation" data-id="493656"><a href="/opinion/493656/education-assistance-corporation-v-william-wesley-zellner/" aria-description="Citation for case: Education Assistance Corporation v. William Wesley Zellner">827 F.2d 1222</a></span> (8th Cir.1987) (the court preserved the totality of the circumstances approach to measure good faith).
+   <em>
+    See also Handeen v. LeMaire (In re LeMaire),
+   </em>
+   <span class="citation" data-id="9480121"><a href="/opinion/538561/in-re-gregory-a-lemaire-debtor-paul-handeen-v-gregory-a-lemaire/" aria-description="Citation for case: In Re Gregory A. Lemaire, Debtor. Paul Handeen v. Gregory...">898 F.2d 1346</a></span> (8th Cir.1990) (modifying, yet reinforcing, the
+   <em>
+    Estus
+   </em>
+   totality of the circumstances approach).
+  </p>
+</div><div class="footnote" id="fn21" label="21">
+<a class="footnote" href="#fn21_ref">
+   21
+  </a>
+<p id="b661-8">
+   . A Senate committee report suggests that fulfillment of the disposable income requirement allows confirmation where the debtors make substantial efforts to pay their debts, even though the payments themselves are not substantial. S.Rep. No. 65, 98th Cong., 1st Sess. 22 (1983).
+  </p>
+</div></div></opinion>

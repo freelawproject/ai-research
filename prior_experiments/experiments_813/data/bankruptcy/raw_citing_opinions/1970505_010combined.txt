@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b633-3">
+<span citation-index="1" class="star-pagination" label="585"> 
+   *585
+   </span>
+  MEMORANDUM OPINION UPON CONFIRMATION
+ </p>
+<author id="b633-4">
+  GLEN E. KELLER, Jr., Bankruptcy Judge.
+ </author>
+<p id="b633-5">
+  THIS MATTER is before the Court upon the objections of an unsecured creditor to confirmation of the Debtors’ Chapter 13 plan. The creditor argues that because the Debtors’ plan proposes to pay nothing to unsecured creditors, it fails the “good faith” and “best interests” tests of <span class="citation no-link">11 U.S.C. §§ 1325</span>(a)(3) and (4), respectively. Much reliance is also placed on the recent decision
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, (Bkrtcy.D.Utah 1979), which holds that “meaningful” payments must be made to unsecured creditors for a Chapter 13 plan to be confirmable. See, also,
+  <em>
+   In re Burrell,
+  </em>
+  <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">2 B.R. 650</a></span> (Bkrtcy. N.D.Cal.1980). For the reasons expressed below, the Court finds these cases unpersuasive and concludes that the Debtors’ plan is confirmable under <span class="citation no-link">11 U.S.C. § 1325</span>(a).
+ </p>
+<p id="b633-6">
+  The new Code requires the Court to confirm a Chapter 13 plan if six requirements are met. Here, there is no dispute that four of the six requirements are satisfied. The objecting creditor first disputes whether the proposed plan is in the “best interests” of the unsecured creditors as required by § 1325(a)(4), which provides:
+ </p>
+<blockquote id="b633-7">
+  the value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under chapter 7 of this title on such date.
+ </blockquote>
+<p id="b633-8">
+  The creditor does not contend that she would receive a dividend if the estate were liquidated, nor that her claim would be nondischargeable in Chapter 7. It is inescapable that the creditor will receive in Chapter 13 “not less than” the amount which would be received in liquidation. The plain language of the statute requires nothing more. Where the meaning of a statute is clear on its face, courts may not resort to legislative history to justify a different interpretation.
+  <em>
+   TVA v. Hill,
+  </em>
+  <span class="citation" data-id="9427261"><a href="/opinion/109897/tennessee-valley-authority-v-hill/" aria-description="Citation for case: Tennessee Valley Authority v. Hill">437 U.S. 153</a></span>, <span class="citation" data-id="9427261"><a href="/opinion/109897/tennessee-valley-authority-v-hill/" aria-description="Citation for case: Tennessee Valley Authority v. Hill">98 S.Ct. 2279</a></span>, <span class="citation" data-id="9427261"><a href="/opinion/109897/tennessee-valley-authority-v-hill/" aria-description="Citation for case: Tennessee Valley Authority v. Hill">57 L.Ed.2d 117</a></span> (1978). The fact that the following excerpt from the House Report is inconsistent with the statute as to the content of the “best interests” test is irrelevant:
+ </p>
+<blockquote id="b633-12">
+  The bill requires only that creditors receive under the plan
+  <em>
+   more
+  </em>
+  than they would if the debtor went into straight bankruptcy. 46 H.R.Rep.No. 95-595, 95th Cong. 1st Sess. at 123-124 (1977), U.S.Code Cong. &amp; Admin.News 1978, 5787, at 6084. (Emphasis supplied.)
+ </blockquote>
+<p id="b633-13">
+  The statute requires the creditor to receive at least the amount which would be received in liquidation, not more than such amount. The language of § 1325(a)(4) as originally proposed by the House in H.R. 8200 is identical to the statute as enacted. The
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  case,
+  <em>
+   supra,
+  </em>
+  at 262, does not indicate that § 1325(a)(4) should be interpreted other than literally:
+ </p>
+<blockquote id="b633-14">
+  The so-called “best interest of creditors test,” embodied in Section 1325(a)(4), requires only that the unsecured creditors of the debtor receive at least as much as they would have received if the debtor had liquidated under Chapter 7. When all of the debtor’s assets are exempt, as is the situation in each of the cases herein, compliance with this requirement would result when no payments were made at all.
+ </blockquote>
+<p id="b633-15">
+<em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  proceeds on another rationale. Extensive discussion of various statutory provisions in Chapter 13 is coupled with analysis of selected portions of legislative history to demonstrate that Congress contemplated that payments to creditors would be made under Chapter 13. With that conclusion, the Court has no quarrel.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+<em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  suggests, however, that “[t]he payments contemplated by the statute and its proponents are to creditors holding unsecured claims.” This conclusion cannot be sup
+  <span citation-index="1" class="star-pagination" label="586"> 
+   *586
+   </span>
+  ported. To the extent a debtor chooses to “cram down” a secured creditor under § 1325(a)(5)(B), plan payments will necessarily be made in cash or other property to the creditor. In addition, debtors can pay their attorneys’ fees and other priority claims, such as taxes, by deferred cash payments through the plan. See <span class="citation no-link">11 U.S.C. § 1322</span>(a)(2). The payments allowed by the statute are obviously not limited to payments to unsecured creditors.
+ </p>
+<p id="b634-4">
+  The similarity in treatment of secured claims in Chapter 7 and Chapter 13, it is next argued, support the proposition that payments to the unsecured are required.
+ </p>
+<blockquote id="APY">
+  Holders of secured claims receive similar protection under Chapter 7 and Chapter 13.
+  <em>
+   Compare, e. g,
+  </em>
+  <span class="citation no-link">11 U.S.C. § 363</span>(e) (applicable in Chapters 7 and 13)
+  <em>
+   with
+  </em>
+  <span class="citation no-link">11 U.S.C. § 1325</span>(a)(5) (Applicable in Chapter 13). If the payments referred to in the statute, and so frequently in Chapter 13 history, as earlier discussed, meant payments on secured claims, then those payments required under Chapter 13 would be essentially the same as those required under Chapter 7. Such an interpretation would disregard the premise upon which Chapter 13 is based. It would be anomalous, for example, for proponents to recommend, and for Congress to enact, the incentives which encourage Chapter 13 filings if the payments thereby promoted were similar payments on secured claims as required under Chapter 7.
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#264" aria-description="Citation for case: In Re Iacovoni"><em>
+   Iacovoni, supra,
+  </em>
+  at 264</a></span> (Original emphasis.)
+ </blockquote>
+<p id="b634-5">
+  In fact, the treatment of secured claims is vastly different in Chapter 7 than in Chapter 13. <span class="citation no-link">11 U.S.C. § 303</span>(e), for example, is applicable only to trustees in Chapter 7 but is available to debtors in Chapter 13. See <span class="citation no-link">11 U.S.C. § 1303</span>. Nothing in Chapter 7 resembles the “cram down” provisions of § 1325(a)(5)(B). Section 722 which allows debtors to redeem certain limited types of collateral, gives far less leeway to debtors who wish to retain their encumbered property then § 1325(a)(5)(B). Only certain exempt property may be redeemed under § 722, whereas § 1325(a)(5)(B) permits both exempt and nonexempt collateral to be retained. Section 722 requires the debtor to pay the allowed secured claim, whereas § 1325(a)(5)(B) allows the debtor to make deferred payments equivalent to the present value of the collateral. In short, this Court declines to accept the
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  conclusion that payments to unsecured creditors are mandatory.
+ </p>
+<p id="b634-9">
+  The creditor here also objects to confirmation on the ground that the § 1325(a)(3) good faith requirement is lacking when a Chapter 13 plan proposes no payment to unsecured creditors. Section 1325(a)(3) requires that “the .plan has been proposed in good faith and not by any means forbidden by law.” “Good faith” is also a confirmation requirement in Chapter 11
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  under the new Code. It formerly was a confirmation requirement in all chapter proceedings under the Act, including Chapter XIII.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  The concept is not new. The words “proposed in good faith” are entitled to their historical meaning. This Court has not been cited to and has not found any case quantifying “good faith” so that the amount to be paid to unsecured creditors was considered too small to meet the statutory requirement.
+ </p>
+<p id="b634-10">
+  Neither the House nor the Senate Report indicates that good faith implies any payment, meaningful or otherwise, to unsecured creditors. Indeed, neither the House nor the Senate Report addresses the meaning of good faith at all.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  The House Report explicitly labels § 1325(a)(4) as the only confirmation requirement with regard to the amount to be paid to unsecured creditors:
+ </p>
+<blockquote id="b634-11">
+  The bill requires
+  <em>
+   only
+  </em>
+  that creditors receive under the plan more than they
+  <span citation-index="1" class="star-pagination" label="587"> 
+   *587
+   </span>
+  would if the debtor went into straight bankruptcy. (Emphasis supplied.)
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+</blockquote>
+<p id="AdCe">
+<em>
+   Hernandez v. Borgos,
+  </em>
+  <span class="citation" data-id="267470"><a href="/opinion/267470/guillermo-gonzalez-hernandez-debtor-v-jacqueline-borgos/" aria-description="Citation for case: Guillermo Gonzalez Hernandez, Debtor v. Jacqueline Borgos">343 F.2d 802</a></span> (1st Cir. 1965), is an example of the application of the good faith test under old chapter proceedings. That case held that a Chapter XII plan was not proposed in good faith where it was used as a vehicle to make assets unavailable to pay the debtor’s child support obligation.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+<em>
+   Collier’s
+  </em>
+  suggests: “Undoubtedly, there are other
+  <em>
+   extraordinary circumstances
+  </em>
+  in which the good-faith test may come into play.” (Emphasis supplied.)
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+</p>
+<p id="b635-4">
+  In short,
+  <em>
+   Collier’s
+  </em>
+  envisions, and this Court agrees, that good faith is lacking only in those unusual cases in which there has been an abuse of the provisions, purposes, or spirit of Chapter 13. The
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  view of good faith would make it an issue in nearly every Chapter 13 case.
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  presages nonuniform applications of Chapter 13 because of differing judicial attitudes as to what constitutes a “good faith” proposal to unsecured creditors.
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+  Finally, it necessitates that “good faith” means something different in Chapter 13 than in Chap-. ter 11, despite the identical language in § 1325(a)(3) and § 1129(a)(3).
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  acknowledges these difficulties at 268:
+ </p>
+<blockquote id="b635-5">
+  The Court’s interpretation of “good faith” as used in Chapter 13 follows no traditional bankruptcy meaning of the phrase; neither is this interpretation meant to apply, nor can it logically extend, to any similar phrase elsewhere in the law.
+ </blockquote>
+<p id="b635-6">
+<em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Iacovoni</a></span>
+  </em>
+  and
+  <em>
+   <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">Burrell</a></span>
+  </em>
+  hurdle what this Court views as insuperable barriers in order to restore balance to a Chapter 13 thought to be too strongly weighted in favor of debtors. Much of the concern stems from the perceived probability of debtor abuse of Chapter 13’s liberal discharge provisions. See <span class="citation no-link">11 U.S.C. § 1328</span>(a). The courts should, however, avoid substituting their view of what the law should be for the constitutional legislative expression.
+ </p>
+<p id="b635-11">
+  This Court remains unconvinced of the magnitude of the evils which these' cases seek to forestall. Where, as here, all debts are dischargeable under Chapter 7, a Chapter 13 discharge can be no more shocking to the conscience than a discharge in Chapter 7. We cannot leap to the assumption that a Chapter 13 debtor who proposes to pay nothing to his unsecured creditors is necessarily taking advantage of the broader Chapter 13 discharge. This Court can easily conceive of a debtor who would prefer Chapter 13 over Chapter 7 for other reasons, including a desire to pay attorney’s fees through the plan [§ 1322(a)(2)], to cure a default on a home mortgage [§ 1322(b)(3)], or to “cram down” a secured creditor [§ 1325(a)(5)(B)]. All of these activities further the “fresh start” envisioned by Congress for the consumer and small business debtor. Further, it is not the practice to assume that a nondischargeable debt is present in a case. These Matters require proof upon a properly filed complaint.
+ </p>
+<p id="b635-12">
+  An Order confirming the proposed plan will enter.
+ </p>
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b633-9">
+   . It does not necessarily follow, however, that because Congress contemplated payments would be made under Chapter 13 generally, it intended to require payments in every Chapter 13 proceeding. It is unnecessary to decide here whether some payments to creditors are required in every Chapter 13 proceeding.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b634-6">
+   . See <span class="citation no-link">11 U.S.C. § 1129</span>(a)(3).
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b634-7">
+   . See § 651 and § 656(a)(4). See, also, § 221(3), § 366(4), § 472(4) for Chapters X, XI, and XII respectively.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b634-12">
+   . See 5
+   <em>
+    Collier on Bankruptcy,
+   </em>
+   ¶ 1325.01[2][C], at 1325-8 (15th Ed. 1979).
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b635-7">
+   . The quoted statement was footnoted in the House Report to § 1325(a)(4) of the House Bill, which was identical to § 1325(a)(4) as enacted.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b635-8">
+   .
+   <em>
+    Cf. In re Klein’s Outlet,
+   </em>
+   <span class="citation" data-id="8898837"><a href="/opinion/8911096/in-re-kleins-outlet-inc/" aria-description="Citation for case: In re Klein&#x27;s Outlet, Inc.">70 F.Supp. 680</a></span> (S.D.N.Y.1947) in which a Chapter XI plan amounted to an abuse of process.
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b635-15">
+   .See Note 4.
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b635-14">
+   . See, e.
+   <em>
+    g., Matter of Curtis,
+   </em>
+   <span class="citation" data-id="1887416"><a href="/opinion/1887416/matter-of-curtis/" aria-description="Citation for case: Matter of Curtis">2 B.R. 43</a></span> (Bkrtcy.W.D.Mo.1979), in which “good faith” is apparently thought to require the debtor’s “best effort.” Cf. <span class="citation no-link">11 U.S.C. § 727</span>(a)(9)(B)(ii), which indicates that good faith and the debtor’s best effort cannot be equated.
+  </p>
+</div></div></opinion>

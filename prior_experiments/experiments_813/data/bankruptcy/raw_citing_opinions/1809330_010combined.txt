@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b140-17">
+  OPINION
+ </p>
+<judges id="b140-18">
+  Before VOLINN, MEYERS and JONES, Bankruptcy Judges.
+ </judges>
+<author id="b140-19">
+  VOLINN, Bankruptcy Judge:
+ </author>
+<p id="b140-20">
+  The bankruptcy court confirmed the debtor’s Chapter 13 plan without conducting an evidentiary hearing concerning debt- or’s good faith. Appellant, which holds a default judgment for alleged embezzlement by the debtor, contends that the court should have required or permitted further inquiry on the good faith issue.
+ </p>
+<p id="b140-21">
+  ISSUES ON APPEAL
+ </p>
+<p id="A78">
+  The questions presented are whether there is a relationship between the good faith and best effort requirements of <span class="citation no-link">11 U.S.C. § 1325</span>, and the appropriate scope of inquiry attendant to a finding concerning good faith in filing a Chapter 13 plan. Specifically, the issues are:
+ </p>
+<p id="b140-22">
+  1. Does fulfillment of the “best effort”
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  requirement of <span class="citation no-link">11 U.S.C. § 1325</span>(b)(1)(B)
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  satisfy the “good faith” requirement of <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3)
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  ?
+ </p>
+<p id="b140-23">
+  2. When a creditor with a debt that is potentially nondischargeable under Chapter 7 objects to confirmation of a minimal repayment plan, thereby seeking to preclude discharge of his debt by virtue of <span class="citation no-link">11 U.S.C. § 1328</span>(a), commonly known as the “super-discharge,” must the court
+  <span citation-index="1" class="star-pagination" label="89"> 
+   *89
+   </span>
+  conduct or permit a hearing on the issue of good faith?
+ </p>
+<p id="b141-4">
+  3. What is the nature and standard of proof required of a debtor at a Chapter 13 confirmation hearing where there is an issue as to good faith?
+ </p>
+<p id="b141-5">
+  FACTS
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+</p>
+<p id="b141-6">
+  Appellee debtor Austin Warren (“Warren”) worked for Bob Warren Pontiac, Inc. The employer collected $40,594.88 during 1981 under an employee fidelity bond issued by appellant Fidelity &amp; Casualty Company of New York (“Fidelity”) for losses due to alleged embezzlement by Warren. Fidelity, as subrogee, later sued Warren, obtaining a default judgment in 1984 of $40,970, for the amounts it paid to Warren’s former employer, plus interest, and costs of $113.
+ </p>
+<p id="b141-7">
+  After Fidelity attempted to collect through garnishment on its judgment, Warren filed a Chapter 7 petition on May 31, 1985. When Fidelity filed an adversary proceeding to determine the dischargeability of the debt, Warren converted his case to Chapter 13.
+ </p>
+<p id="b141-8">
+  In his Chapter 13 case, Warren scheduled $3,500 in priority debts and $44,736.37 in other unsecured debts, including $40,970 to appellant Fidelity; there were no secured debts. His property schedules indicated that he neither owned any real property nor any nonexempt personal property. His amended plan provided for full payment of administrative expenses, including $900 in attorneys’ fees, and $3,500 in priority tax claims; he proposed to pay over 36 months about two percent or $1,000 on the unsecured, nonpriority claims, including that of Fidelity. Appellant filed an objection to the plan contending
+  <em>
+   inter alia
+  </em>
+  that it was not filed in good faith.
+ </p>
+<p id="b141-9">
+  The parties stipulate that the debtor has applied all his disposable income to the plan. We assume,
+  <em>
+   arguendo,
+  </em>
+  that Warren’s payment of $1,000 over a period of three years towards satisfaction of some $44,000 in debts fulfills the “best effort” requirement of <span class="citation no-link">11 U.S.C. § 1325</span>(b).
+ </p>
+<p id="b141-11">
+  A three year plan was confirmed over Fidelity’s objections. The factual and legal issues raised here, including that of good faith, were asserted by Fidelity before the bankruptcy court. No testimony was taken on the issue of good faith, or otherwise. It appears that the debtor did not attend the confirmation hearing. All that occurred at the hearing was a brief colloquy between counsel and the court which was concluded by the court stating it would confirm the plan. The order confirming the plan is a preprinted form which states ultimate conclusory findings and does not specifically address the issues raised by Fidelity.
+ </p>
+<p id="b141-12">
+  CONTENTIONS
+ </p>
+<p id="b141-13">
+  Appellant contends that more than “best effort” is required when both a nominal repayment plan and a predominant nondis-chargeable debt are present; that improper motivation and insincerity of the debtor demonstrating lack of good faith should be inferred, thereby preventing confirmation of a plan unless the debtor produces evidence of other mitigating factors.
+ </p>
+<p id="b141-14">
+  Appellee debtor takes the position that the debtor's intentions are matters of fact reviewable only under the clearly erroneous standard and, therefore, the “basis of the court’s ruling that the facts justified confirmation is not appealable.” Appel-lee’s Brief at 4. He argues further that the cases cited by appellant do not support any theory that bad faith is conclusively shown when a nominal repayment plan and a nondischargeable debt are present. Finally, he urges that sufficient evidence of good faith is shown in the record.
+ </p>
+<p id="b141-15">
+  While conceding that best effort alone does not satisfy the good faith requirement, appellee states:
+ </p>
+<blockquote id="b141-16">
+  Not only has this debtor devoted substantially all of his income to the plan, it was extended past three years in order to pay more to the unsecured creditors and his income and exepnses [sic] do not show that he can live more modestly
+  <span citation-index="1" class="star-pagination" label="90"> 
+   *90
+   </span>
+  than he is doing at present. These are
+  <em>
+   all
+  </em>
+  indications of good faith.
+ </blockquote>
+<p id="b142-4">
+  Appellee’s Brief at 7. The foregoing statement, focused on best effort, exemplifies what was presented to the trial court.
+ </p>
+<p id="b142-5">
+  STANDARD OF REVIEW
+ </p>
+<p id="AzE">
+  The standard of review here is dual in nature; we are concerned with (1) a basically factual issue relating to the sufficiency of the evidence in support of the finding of good faith and (2) a legal issue as to whether more than best effort is required. When findings of fact are involved, the clearly erroneous standard is applicable. B.R. 8013. Statutory construction involves an issue of law as to which the
+  <em>
+   de novo
+  </em>
+  standard applies.
+  <em>
+   Sierra Switchboard Co. v. Westinghouse Elec. Corp.,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/789/705/">789 F.2d 705</a></span>, 707 (9th Cir.1986);
+  <em>
+   Phoenix Inst. of Technology v. Klein (In re Klein),
+  </em>
+  <span class="citation" data-id="1553428"><a href="/opinion/1553428/phoenix-institute-of-technology-v-klein-in-re-klein/#819" aria-description="Citation for case: Phoenix Institute of Technology v. Klein (In Re Klein)">57 B.R. 818, 819</a></span> (9th Cir. BAP 1985). An exercise of discretion based on an incorrect conclusion of law is also reviewable
+  <em>
+   de novo
+  </em>
+  by an appellate tribunal.
+  <em>
+   La Grand Steel Products Co. v. Goldberg (In re Poole, McGonigle &amp; Dick, Inc.),
+  </em>
+  <span class="citation" data-id="473751"><a href="/opinion/473751/in-the-matter-of-poole-mcgonigle-dick-inc-dba-northwest-steel/#321" aria-description="Citation for case: In the Matter of Poole, McGonigle &amp; Dick, Inc., Dba...">796 F.2d 318, 321</a></span>,
+  <em>
+   amended on reh’g on other grounds,
+  </em>
+  <span class="citation" data-id="8946038"><a href="/opinion/8955096/la-grand-steel-products-co-v-goldberg/" aria-description="Citation for case: La Grand Steel Products Co. v. Goldberg">804 F.2d 576</a></span> (9th Cir.1986).
+ </p>
+<p id="b142-6">
+  DISCUSSION
+ </p>
+<p id="AoW">
+  I. Good Faith Defined
+ </p>
+<p id="b142-7">
+  “Good faith” under <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3) is neither defined by statute, nor explained in legislative history.
+  <em>
+   Goeb v. Heid (In re Goeb),
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1389" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386, 1389-90</a></span> (9th Cir.1982).
+ </p>
+<p id="b142-8">
+  Nevertheless, the former Bankruptcy Act employed the term and concept of good faith as a confirmation standard not only in Chapter XIII (former <span class="citation no-link">11 U.S.C. § 1051</span> and Rule 13-213(a)), but also in Chapters X, XI and XII. Cases thereunder were numerous and varied considerably depending on the circumstances before the court. Variable treatment of the term “good faith” has been continued under the present chapters of the Bankruptcy Code, including Chapter 13, as will be demonstrated by the cases discussed below.
+  <em>
+   See, e.g.,
+  </em>
+  5
+  <em>
+   Collier on Bankruptcy
+  </em>
+  ¶¶ 1129.02[3] (Chapter 11), 1325.04 (Chapter 13) (L.P. King 15th ed. 1988).
+ </p>
+<p id="b142-10">
+  The court pursuant to <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3) has an independent duty to make a considered assessment of the debt- or’s good faith.
+  <em>
+   In re Hale,
+  </em>
+  <span class="citation" data-id="1832105"><a href="/opinion/1832105/matter-of-hale/#897" aria-description="Citation for case: Matter of Hale">65 B.R. 893, 897</a></span> (Bankr.S.D.Ga.1986);
+  <em>
+   In re Meltzer,
+  </em>
+  <span class="citation" data-id="2010018"><a href="/opinion/2010018/in-re-meltzer/#626" aria-description="Citation for case: In Re Meltzer">11 B.R. 624, 626</a></span> (Bankr.E.D.N.Y.1981). The latter court explained:
+ </p>
+<blockquote id="b142-11">
+  The determination with which the bankruptcy court is entrusted under § 1325(a)(3) is not a ministerial one. Like any judicial determination which a bankruptcy court is called on to make during the course of a proceeding, it calls for the exercise of the Court’s informed and independent judgment.
+ </blockquote>
+<p id="b142-12">
+<em>
+   Meltzer,
+  </em>
+  <span class="citation" data-id="2010018"><a href="/opinion/2010018/in-re-meltzer/#626" aria-description="Citation for case: In Re Meltzer">11 B.R. at 626</a></span>. The court’s duty has been characterized as follows:
+ </p>
+<blockquote id="b142-13">
+  It should be noted here that Chapter 13 provides that the bankruptcy judge shall preside over confirmation proceedings. If confirmation depended entirely upon arithmetical computations or the absence of illegal activity in the case, there would be no need for a judge. Confirmation of a Chapter 13 plan requires the exercise of judicial discretion and assessment of evidence by a bankruptcy judge. The good faith requirement is one of the central, perhaps the most important confirmation finding to be made by the court in any Chapter 13 case. Each case must be judged on its own facts.
+ </blockquote>
+<p id="b142-14">
+<em>
+   Georgia R.R. Bank &amp; Trust Co. v. Kull (In re Kull),
+  </em>
+  <span class="citation" data-id="1902025"><a href="/opinion/1902025/georgia-railroad-bank-trust-co-v-kull-in-re-kull/#658" aria-description="Citation for case: Georgia Railroad Bank &amp; Trust Co. v. Kull (In Re Kull)">12 B.R. 654, 658</a></span> (S.D.Ga.1981), aff
+  <em>
+   'd sub nom. Kitchens v. Georgia R.R. Bank &amp; Trust Co. (In re Kitchens),
+  </em>
+  <span class="citation" data-id="415578"><a href="/opinion/415578/in-re-charles-e-kitchens-and-olivia-l-kitchens-bankrupt-charles-e/" aria-description="Citation for case: In Re Charles E. Kitchens and Olivia L. Kitchens,...">702 F.2d 885</a></span> (11th Cir.1983);
+  <em>
+   accord In re Chaffin,
+  </em>
+  <span class="citation" data-id="499468"><a href="/opinion/499468/in-the-matter-of-william-s-chaffin-debtor-appeal-of-william-s-chaffin/#216" aria-description="Citation for case: In the Matter of William S. CHAFFIN, Debtor. Appeal of...">836 F.2d 215, 216</a></span> (5th Cir.1988) (“[t]he court has the authority and duty to examine a plan even when no creditor has objected_”).
+ </p>
+<p id="b142-15">
+  Even though good faith in Chapter 13 has not been precisely defined, guidelines have been developed for bankruptcy courts to follow:
+ </p>
+<blockquote id="b142-16">
+  Given the nature of bankruptcy courts and the absence of congressional intent to specially define “good faith,” we believe that the proper inquiry is whether
+  <span citation-index="1" class="star-pagination" label="91"> 
+   *91
+   </span>
+  the Goebs acted equitably in proposing their Chapter 13 plan.
+  <em>
+   A bankruptcy court must inquire
+  </em>
+  whether the debtor has misrepresented facts in his plan, unfairly manipulated the Bankruptcy Code, or otherwise proposed his Chapter 13 plan in an inequitable manner. Though it may consider the substantiality of the proposed repayment, the court must make its good-faith determination in the light of
+  <em>
+   all
+  </em>
+  militating factors.
+ </blockquote>
+<p id="b143-4">
+<em>
+   Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1390" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d at 1390</a></span> (emphasis added).
+ </p>
+<p id="b143-5">
+  II. Procedure
+ </p>
+<p id="b143-6">
+  The procedural framework for a confirmation hearing on a plan is found in Bankruptcy Rule 3020, which is applicable to Chapters 9, 11, and 13. B.R. 3020 advisory committee’s note. Rules 3020(b)(1), (2) deal respectively with objections to confirmation and the hearing. Objections to confirmation are required to be filed and served on the trustee and the debtor. This was done by appellant.
+ </p>
+<p id="b143-7">
+  Rule 3020(b)(1) states that an objection to confirmation is governed by Bankruptcy Rule 9014 which in turn activates a number of the Part VII rules (including Bankruptcy Rule 7052, based on Federal Rule'of Civil Procedure 52)
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  relating to adversary proceedings. Rule 3020(b)(2), at the time of the confirmation hearing in November, 1986,
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  provided:
+ </p>
+<blockquote id="b143-8">
+  If no objection is timely filed, the court may find, without receiving evidence, that the plan has been proposed in good faith and not by any means forbidden by law.
+ </blockquote>
+<p id="b143-9">
+  Appellant appeared at the confirmation hearing to pursue its objections, one of which was addressed to the issue of good faith. The debtor was not present. Counsel for the parties engaged in brief colloquy which was focused on how much the debtor would pay under the plan. The record is devoid of any consideration other than this factor and fails to show that the debtor presented any meaningful testimony relative to his good faith despite appellant being ready to proceed on this issue.
+ </p>
+<p id="b143-13">
+  Rule 3020(b)(2) states that without objection the court “may” find that the plan was filed in good faith without receiving evidence. It has been indicated in a Chapter 13 case that the permissive “may” allows the court, even without objection, to require that evidence as to good faith be presented.
+  <em>
+   In re Cash,
+  </em>
+  <span class="citation" data-id="1898898"><a href="/opinion/1898898/in-re-cash/#930" aria-description="Citation for case: In Re Cash">51 B.R. 927, 930-31</a></span> (Bankr.N.D.Ala.1985);
+  <em>
+   accord Hale,
+  </em>
+  <span class="citation" data-id="1832105"><a href="/opinion/1832105/matter-of-hale/" aria-description="Citation for case: Matter of Hale">65 B.R. at 893</a></span> &amp; n. 1, 897. Where there is an objection, more than bare presentation of the plan and provision for payment thereunder is requisite.
+ </p>
+<p id="b143-14">
+  III. Legislative History
+ </p>
+<p id="Aqa">
+  A.
+ </p>
+<p id="b143-15">
+  Chapter 13 was designed and enacted as a vehicle for voluntary repayment with future income through composition and/or extension of debts.
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#263" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256, 263</a></span> (Bankr.D.Utah 1980) (citing Commission on the Bankruptcy Laws of the U.S., H.R.Doc. No. 137, 93rd Cong., 1st Sess., pts. I &amp; II at 159-60 (1973)
+  <em>
+   reprinted in
+  </em>
+  2 App.
+  <em>
+   Collier on Bankruptcy,
+  </em>
+  pt. I (L.P. King 15th ed. 1988). The Commission Report, which provided a foundation for the Code, based its recommendations for Chapter 13 on the Commissioners’ conclusion that many debtors prefer to pay their debts rather than suffer the stigma and loss of credit standing attendant to bankruptcy.
+  <em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Id.</a></span>
+  </em>
+  (Commission Report at 157).
+ </p>
+<p id="b143-16">
+  With reference to the broader discharge recommended in Chapter 13 as opposed to Chapter 7, the Commission noted:
+ </p>
+<blockquote id="b144-3">
+<span citation-index="1" class="star-pagination" label="92"> 
+   *92
+   </span>
+  If the debtor wants to pay his debts pursuant to a plan, and if creditors are willing to go along, he should be allowed to do so. The fact that a discharge would not be available in a liquidation case should furnish a greater incentive for the debtor to perform under the plan.
+ </blockquote>
+<p id="Axa">
+<em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">Id.</a></span>
+  </em>
+  (Commission Report at 175).
+ </p>
+<p id="b144-4">
+  The Commission’s concept of Chapter 13 was substantially adopted by Congress as illustrated in the Senate and House Reports.
+  <em>
+   See Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#264" aria-description="Citation for case: In Re Iacovoni">2 B.R. at 264</a></span>. From the perspective of the House of Representatives, Chapter 13 was designed to accomplish the following:
+ </p>
+<blockquote id="b144-5">
+  The purpose of Chapter 13 is to enable an individual, under court supervision and protection, to develop and perform under a plan for the repayment of his debts over an extended period....
+ </blockquote>
+<blockquote id="b144-6">
+  The benefit to the debtor of developing a plan of repayment under Chapter 13, rather than opting for liquidation under chapter 7, is that it permits the debtor to protect his assets. In a liquidation case, the debtor must surrender his nonexempt assets for liquidation and sale by the trustee. Under chapter 13, the debtor may retain his property by agreeing to repay his creditors. Chapter 13 also protects a debtor’s credit standing far better than a straight bankruptcy, because he is viewed by the credit industry as a better risk. In addition, it satisfies many debtors’ desire to avoid the stigma attached to straight bankruptcy and to retain the pride attendant on being able to meet one’s obligations. The benefit to creditors is self-evident: their losses will be significantly less than if their debtors opt for straight bankruptcy.
+ </blockquote>
+<p id="b144-7">
+  H.Rep. No. 595, 95th Cong., 1st Sess. 118 (1977),
+  <em>
+   reprinted in
+  </em>
+  1978 U.S.Code Cong. &amp; Admin.News 5787, 6079,
+  <em>
+   and in 2
+  </em>
+  App.
+  <em>
+   Collier on Bankruptcy, supra,
+  </em>
+  pt. II;
+  <em>
+   see also Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#265" aria-description="Citation for case: In Re Iacovoni">2 B.R. at 265</a></span> (“ ‘partial repayment’ of unsecured debts under Chapter 13 is preferable to almost certain nonpayment of those debts in ‘straight bankruptcy’ where ‘both the debtor and his creditors are the losers.’ ”) (citing and quoting H.R. Debates, 123 Cong.Rec. H11690-92, H11696-710 IV-12 (daily ed. Oct. 27, 1977)).
+ </p>
+<p id="b144-10">
+  Thus, Chapter 13 was designed with an emphasis on debt repayment. The legislative reports quoted above indicate that “the special benefits bestowed upon a Chapter 13 debtor are premised upon his willingness to repay at least some portion of his debts_”
+  <em>
+   Bank of Am. Nat’l Trust &amp; Savings Ass’n v. Slade (In re Slade),
+  </em>
+  <span class="citation" data-id="2027479"><a href="/opinion/2027479/bank-of-america-national-trust-savings-assn-v-slade-in-re-slade/#912" aria-description="Citation for case: Bank of America National Trust &amp; Savings Ass&#x27;n v. Slade...">15 B.R. 910, 912</a></span> (9th Cir. BAP 1981).
+ </p>
+<p id="b144-13">
+  B.
+ </p>
+<p id="b144-14">
+  Although legislative history emphasizes debt repayment to creditors as a basic policy goal of Chapter 13, it is now established that nominal payment by the debtor to creditors does not necessarily constitute bad faith.
+  <em>
+   E.g., Kitchens,
+  </em>
+  <span class="citation" data-id="415578"><a href="/opinion/415578/in-re-charles-e-kitchens-and-olivia-l-kitchens-bankrupt-charles-e/" aria-description="Citation for case: In Re Charles E. Kitchens and Olivia L. Kitchens,...">702 F.2d at 888</a></span> (citing
+  <em>
+   In re Estus,
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d 311</a></span> (8th Cir. 1982);
+  <em>
+   Deans v. O’Donnell,
+  </em>
+  <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/#969" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">692 F.2d 968, 969-71</a></span> (4th Cir.1982);
+  <em>
+   Barnes v. Whelan,
+  </em>
+  <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/" aria-description="Citation for case: Barnes v. Whelan">689 F.2d 193</a></span> (D.C.Cir.1982);
+  <em>
+   In re Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1388" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d at 1388-89</a></span>;
+  <em>
+   In re Rimgale,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/669/426/">669 F.2d 426</a></span> (7th Cir.1982)). Conversely, ability to pay based upon the debtor’s budget should not be the sole focus of examination.
+  <em>
+   Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1390" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d at 1390-91</a></span>. As emphasized by the court in
+  <em>
+   Goeb,
+  </em>
+  “bankruptcy courts cannot substitute a glance at the amount to be paid under the plan for a review of the totality of the circumstances.”
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1391" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors...."><em>
+   Id.
+  </em>
+  at 1391</a></span>.
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+</p>
+<p id="b144-15">
+  While it is not practical to provide a list of all relevant considerations,
+  <em>
+   e.g., Goeb
+  </em>
+  at 1390 &amp; n. 10, a number of specific factors
+  <span citation-index="1" class="star-pagination" label="93"> 
+   *93
+   </span>
+  have been adopted as guidelines for determining good faith on a case-by-case basis:
+ </p>
+<blockquote id="b145-5">
+  1) The amount of the proposed payments and the amounts of the debtor’s surplus;
+ </blockquote>
+<blockquote id="b145-6">
+  2) The debtor’s employment history, ability to earn, and likelihood of future increases in income;
+ </blockquote>
+<blockquote id="b145-7">
+  3) The probable or expected duration of the plan;
+ </blockquote>
+<blockquote id="b145-8">
+  4) The accuracy of the plan’s statements of the debts, expenses and percentage of repayment of unsecured debt, and whether any inaccuracies are an attempt to mislead the court;
+ </blockquote>
+<blockquote id="b145-9">
+  5) The extent of preferential treatment between classes of creditors;
+ </blockquote>
+<blockquote id="b145-10">
+  6) The extent to which secured claims are modified;
+ </blockquote>
+<blockquote id="b145-11">
+  7) The type of debt sought to be discharged, and whether any such debt is nondischargeable in Chapter 7;
+ </blockquote>
+<blockquote id="b145-12">
+  8) The existence of special circumstances such as inordinate medical expenses;
+ </blockquote>
+<blockquote id="b145-13">
+  9) The frequency with which the debtor has sought relief under the Bankruptcy Reform Act;
+ </blockquote>
+<blockquote id="b145-14">
+  10) The motivation and sincerity of the debtor in seeking Chapter 13 relief; and
+ </blockquote>
+<blockquote id="b145-15">
+  11) The burden which the plan’s administration would place upon the trustee.
+ </blockquote>
+<p id="b145-16">
+<em>
+   In re Brock,
+  </em>
+  <span class="citation" data-id="1951671"><a href="/opinion/1951671/in-re-brock/#169" aria-description="Citation for case: In Re Brock">47 B.R. 167, 169</a></span> (Bankr.S.D.Cal.1985) (quoting
+  <em>
+   Estus,
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/#317" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d at 317</a></span>);
+  <em>
+   accord Kitchens,
+  </em>
+  <span class="citation" data-id="415578"><a href="/opinion/415578/in-re-charles-e-kitchens-and-olivia-l-kitchens-bankrupt-charles-e/#888" aria-description="Citation for case: In Re Charles E. Kitchens and Olivia L. Kitchens,...">702 F.2d at 888-89</a></span>.
+ </p>
+<p id="b145-17">
+  Despite the specific lack of definition of the term “good faith,” Congressional statements of policy may be considered in determining what factors should be evaluated when reviewing a particular plan. Thus, “[a] good faith test ... should examine the intentions of the debtor and the legal effect of the confirmation of a Chapter 13 plan in light of the spirit and purposes of Chapter 13.”
+  <em>
+   Chinichian v. Campolongo (In re Chinichian),
+  </em>
+  <span class="citation" data-id="465421"><a href="/opinion/465421/in-re-khalil-and-shahin-chinichian-debtors-khalil-and-shahin-chinichian/#1444" aria-description="Citation for case: In Re Khalil and Shahin Chinichian, Debtors. Khalil and...">784 F.2d 1440, 1444</a></span> (9th Cir.1986).
+ </p>
+<p id="b145-18">
+  In the foregoing context, the debtor has the burden to establish good faith, which has been characterized as “especially heavy” when a “superdischarge” is sought.
+  <em>
+   In re Wall, 52
+  </em>
+  B.R. 613, 616 (Bankr.M.D. Fla.1985).
+ </p>
+<p id="b145-22">
+  III. Good Faith Versus Best Effort
+ </p>
+<p id="b145-23">
+  A.
+ </p>
+<p id="b145-24">
+  In 1984, Section 1325(b) of the Bankruptcy code was amended
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+  to require in the event of objections, at least, that the debt- or’s disposable income be dedicated to payment under the Chapter 13 plan. This has given rise to some contention that the amendment, because of its specificity, has displaced the need or requirement that the debtor’s motives or prebankruptcy conduct be examined under the good faith standard of Section 1325(a)(3). See Bell,
+  <em>
+   The Effect of the Disposable Income Test of Section 1325(b)(1)(B) upon the Good Faith Inquiry of Section 1325(a)(3),
+  </em>
+  5 Bankr.DevJ. 267 (1987), for an extensive discussion of this subject.
+ </p>
+<p id="b145-25">
+  While <span class="citation no-link">11 U.S.C. § 1328</span>(c) permits the discharge in Chapter 13 of debts which are nondischargeable in Chapter 7, application of the good faith standard under Section 1325(a)(3) may nevertheless preclude the Section 1328 discharge. Conversely, a non-dischargeable debt does not per se prevent discharge.
+  <em>
+   E.g., Street v. Lawson (In re Street),
+  </em>
+  <span class="citation" data-id="1543635"><a href="/opinion/1543635/street-v-lawson-in-re-street/#764" aria-description="Citation for case: Street v. Lawson (In Re Street)">55 B.R. 763, 764-65</a></span> (9th Cir. BAP 1985);
+  <em>
+   Slade,
+  </em>
+  <span class="citation" data-id="2027479"><a href="/opinion/2027479/bank-of-america-national-trust-savings-assn-v-slade-in-re-slade/#911" aria-description="Citation for case: Bank of America National Trust &amp; Savings Ass&#x27;n v. Slade...">15 B.R. at 911-12</a></span>.
+ </p>
+<p id="b145-26">
+  In light of the spirit and purposes of Chapter 13, courts should not grant, without due consideration, a discharge under Chapter 13 which might not be available under Chapter 7. As noted by the Ninth Circuit, relative to a plan which proposed to discharge a debt for embezzlement:
+ </p>
+<blockquote id="b145-27">
+  The facts presented to this court suggest that Gregory’s plan might have been vulnerable to challenge on the absence of good faith ground. Bankruptcy courts have held that although the use of Chapter 13 to obtain the discharge of debts nondischargeable under Chapter 7 by itself is not sufficient to prove bad faith, it is a factor to be considered with others.
+  <em>
+   See, e.g., In re Meltzer,
+  </em>
+  <span class="citation" data-id="2010018"><a href="/opinion/2010018/in-re-meltzer/" aria-description="Citation for case: In Re Meltzer">11 B.R. 624</a></span>, 627
+  <span citation-index="1" class="star-pagination" label="94"> 
+   *94
+   </span>
+  (Bankr.E.D.N.Y.1981) (good faith consistently found to be absent “where all the facts lead inexorably to the conclusion that the petition has been filed to avoid, at minimal, cost, a[n otherwise] nondis-chargeable debt”)....
+ </blockquote>
+<p id="b146-4">
+<em>
+   Lawrence Tractor Co. v. Gregory (In re Gregory),
+  </em>
+  <span class="citation" data-id="8916801"><a href="/opinion/8927004/lawrence-tractor-co-v-gregory/" aria-description="Citation for case: Lawrence Tractor Co. v. Gregory">705 F.2d 1118</a></span>, 1121 n. 4 (9th Cir.1983).
+ </p>
+<p id="b146-5">
+  B.
+ </p>
+<p id="b146-6">
+  In
+  <em>
+   Goeb,
+  </em>
+  the bankruptcy court had considered a plan that provided more than would have been paid in a Chapter 7 liquidation by paying secured and priority creditors in full and a one percent dividend to unsecured creditors. The court below denied confirmation based on the impression that the debtors filed under Chapter 13 in order to defer payment of back taxes, without intending to substantially repay unsecured creditors. <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1387" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d at 1387, 1391</a></span>. While commenting that nominal payments may be indicia of unfair manipulation of Chapter 13, the court, on appeal, reversed and remanded the case for further consideration as to good faith.
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1391" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors...."><em>
+   Id.
+  </em>
+  at 1391</a></span>.
+ </p>
+<p id="b146-7">
+  In
+  <em>
+   Slade,
+  </em>
+  which considered a nominal repayment plan where the predominant liability involved a default judgment for embezzlement, this court affirmed a finding of good faith substantially because the debtors were devoting their best efforts to the plan. <span class="citation" data-id="2027479"><a href="/opinion/2027479/bank-of-america-national-trust-savings-assn-v-slade-in-re-slade/#912" aria-description="Citation for case: Bank of America National Trust &amp; Savings Ass&#x27;n v. Slade...">15 B.R. at 912</a></span>.
+ </p>
+<p id="b146-8">
+  Finally, in
+  <em>
+   Street,
+  </em>
+  which involved, as here, conversion from Chapter 7 to 13, the court acknowledged that seeking to discharge an otherwise nondischargeable debt is one factor reflecting negatively upon good faith. <span class="citation" data-id="1543635"><a href="/opinion/1543635/street-v-lawson-in-re-street/#765" aria-description="Citation for case: Street v. Lawson (In Re Street)">55 B.R. at 765</a></span>. Because the debtor’s schedules were incomplete, the court reversed and remanded so that further information could be provided and considered.
+  <span class="citation" data-id="1543635"><a href="/opinion/1543635/street-v-lawson-in-re-street/#764" aria-description="Citation for case: Street v. Lawson (In Re Street)"><em>
+   Id.
+  </em>
+  at 764, 765-66</a></span>.
+ </p>
+<p id="b146-9">
+  While the results and tenor of the decisions in
+  <em>
+   Slade, Goeb,
+  </em>
+  and
+  <em>
+   Street
+  </em>
+  might be read to lead incrementally toward virtual displacement of Chapter 7 by Chapter 13, we are of the view that such a result is intended neither by the courts nor Congress.
+  <em>
+   Goeb, Slade
+  </em>
+  and
+  <em>
+   Street
+  </em>
+  do not hold that the requirement of good faith may be satisfied solely by consideration of best efforts criteria.
+  <em>
+   Slade
+  </em>
+  and
+  <em>
+   Street
+  </em>
+  do not preclude, and indeed warrant, further inquiry as to good faith when a nominal repayment plan is attended by a nondis-chargeable debt.
+ </p>
+<p id="b146-11">
+  C.
+ </p>
+<p id="b146-12">
+  The Code in <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3), initially mandates “good faith.” Once past this threshold, the debtor may proceed to confirmation unless the trustee or a creditor objects, in which case § 1325(b)(1)(B) requires distribution of disposable income to the greatest extent available. Thus, good faith is a discrete and paramount test.
+  <em>
+   See Hale,
+  </em>
+  <span class="citation" data-id="1832105"><a href="/opinion/1832105/matter-of-hale/#895" aria-description="Citation for case: Matter of Hale">65 B.R. at 895-96</a></span>.
+ </p>
+<p id="b146-13">
+  There are numerous eases where best effort was undisputed, but where good faith was questioned by the court. For example, confirmation was denied on bad faith grounds when the court was convinced that the debtor intended that the plan substantially reduce a jury verdict for criminal conduct to an amount deemed appropriate by the debtor and held that this abused the spirit of the Code.
+  <em>
+   In re Kourtakis,
+  </em>
+  <span class="citation" data-id="1541649"><a href="/opinion/1541649/in-re-kourtakis/#188" aria-description="Citation for case: In Re Kourtakis">75 B.R. 183, 188</a></span> (Bankr.E.D.Mich.1987). In
+  <em>
+   <span class="citation" data-id="1951671"><a href="/opinion/1951671/in-re-brock/" aria-description="Citation for case: In Re Brock">Brock</a></span>,
+  </em>
+  the court found that the motivation of a debtor, who attempted to discharge a debt arising from embezzlement, was not to repay the creditor, but to escape the consequences of the judgment and, therefore, the plan was not within the spirit and purpose of the Code. <span class="citation" data-id="1951671"><a href="/opinion/1951671/in-re-brock/#169" aria-description="Citation for case: In Re Brock">47 B.R. at 169-70</a></span>.
+  <em>
+   Accord Hale,
+  </em>
+  <span class="citation" data-id="1832105"><a href="/opinion/1832105/matter-of-hale/#895" aria-description="Citation for case: Matter of Hale">65 B.R. at 895-97</a></span>. In
+  <em>
+   <span class="citation" data-id="1832105"><a href="/opinion/1832105/matter-of-hale/" aria-description="Citation for case: Matter of Hale">Hale</a></span>,
+  </em>
+  the court found good faith lacking in a case, involving an attempt to obtain a Chapter 13 discharge of student loans.
+ </p>
+<p id="b146-14">
+  In
+  <em>
+   <span class="citation" data-id="2010018"><a href="/opinion/2010018/in-re-meltzer/" aria-description="Citation for case: In Re Meltzer">Meltzer</a></span>,
+  </em>
+  the court found that the plan, proposing to discharge unpaid parking violations excepted from discharge in debtor’s earlier Chapter 7 case, was “a disguised Chapter 7, drafted so as to avoid the restrictions and limitations that Congress has imposed on that remedy.” <span class="citation" data-id="2010018"><a href="/opinion/2010018/in-re-meltzer/#628" aria-description="Citation for case: In Re Meltzer">11 B.R. at 628</a></span>.
+ </p>
+<p id="b146-15">
+  The debtor’s prebankruptcy past is not immune from inclusion in the totality of circumstances examination attendant to review under the good faith standard.
+  <em>
+   See Neufeld v. Freeman,
+  </em>
+  <span class="citation" data-id="472172"><a href="/opinion/472172/william-neufeld-creditor-v-susan-k-freeman-debtor-and-emily-y-wilson/" aria-description="Citation for case: William Neufeld, Creditor v. Susan K. Freeman, Debtor,...">794 F.2d 149</a></span>, 152-53
+  <span citation-index="1" class="star-pagination" label="95"> 
+   *95
+   </span>
+  (4th Cir.1986);
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+<em>
+   accord Memphis Bank &amp; Trust Co. v. Whitman,
+  </em>
+  <span class="citation" data-id="410407"><a href="/opinion/410407/memphis-bank-trust-company-v-linda-gail-whitman/#432" aria-description="Citation for case: Memphis Bank &amp; Trust Company v. Linda Gail Whitman">692 F.2d 427, 432</a></span> (6th Cir.1982);
+  <em>
+   In re Easley,
+  </em>
+  <span class="citation" data-id="1531204"><a href="/opinion/1531204/nelson-v-easley-in-re-easley/#953" aria-description="Citation for case: Nelson v. Easley (In Re Easley)">72 B.R. 948, 953-54</a></span> (Bankr.M.D.Tenn.1987).
+ </p>
+<p id="b147-4">
+  CONCLUSION
+ </p>
+<p id="b147-5">
+  The super discharge of Chapter 13 was provided by Congress as an incentive for the debtor to commit to a repayment plan under Chapter 13, as an alternative to providing creditors nothing under Chapter 7. Given a proper case, the court need not, and should not, neutralize that incentive by confirming Chapter 13 plans that are in essence veiled Chapter 7 cases.
+ </p>
+<p id="b147-6">
+  Logic requires there be an articulated standard distinguishing entitlement to dis-chargeability under Chapter 13 vis-a-vis Chapter 7. To put it otherwise, there must be criteria which preclude by-pass of non-dischargeability under Chapter 7 simply by detouring or converting to Chapter 13. Where there is an absence of any significant factual element distinguishing the circumstances of a Chapter 13 petition with a substantial nondischargeable debt from those attendant to a Chapter 7 petition, the debtor should not be permitted to nullify major provisions of <span class="citation no-link">11 U.S.C. § 523</span> merely by paying an insignificant portion of the nondischargeable debt. Congress in Chapter 7 does not allow “best effort” to discharge certain debts. Neither should best effort alone discharge them in Chapter 13. Good faith requires more.
+ </p>
+<p id="b147-7">
+  We hold that the good faith requirement under <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3) is separate and distinct from the best effort requirement of <span class="citation no-link">11 U.S.C. § 1325</span>(b)(1)(B). The court should conduct more than a ministerial review related to payments in order that it may make an informed and independent judgment concerning whether a plan was proposed in good faith. Although the trial court’s finding of good faith in the context of a Chapter 13 plan normally should not be overturned, the procedural history of this case indicates that no actual inquiry into the totality of the circumstances was made by the court below. When factors of minimal repayments and a non-dischargeable debt are present, particular scrutiny by the court is required and the debtor has the burden of producing more than simply evidence of best effort.
+ </p>
+<p id="b147-10">
+  We reverse and remand for further proceedings consistent herewith.
+ </p>
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b140-10">
+   . The terms “best effort" as used here mean debtor's funding the plan to the greatest possible extent of his or her "disposable income" as defined in <span class="citation no-link">11 U.S.C. § 1325</span>(b)(2) which provides:
+  </p>
+<blockquote id="b140-11">
+   For purposes of this subsection, "disposable income” means income which is received by the debtor and which is not reasonably necessary to be expended—
+  </blockquote>
+<blockquote id="b140-12">
+   (A) for the maintenance or support of the debtor or a dependent of the debtor; and
+  </blockquote>
+<blockquote id="b140-13">
+   (B) if the debtor is engaged in business, for the payment of expenditures necessary for the continuation, preservation, and operation of such business.
+  </blockquote>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b140-14">
+   . <span class="citation no-link">11 U.S.C. § 1325</span>(b) provides that:
+  </p>
+<blockquote id="b140-15">
+   (1) If the trustee or the holder of an allowed unsecured claim objects to the confirmation of the plan, then the court may not approve the plan unless, as of the effective date of the plan—
+  </blockquote>
+<blockquote id="b140-25">
+   (A) the value of the property to be distributed under the plan on account of such claim is not less than the amount of such claim; or
+  </blockquote>
+<blockquote id="b140-26">
+   (B) the plan provides that all of the debtor’s projected disposable income to be received in the three-year period beginning on the date that the first payment is due under the plan will be applied to make payments under the plan.
+  </blockquote>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b140-27">
+   . <span class="citation no-link">11 U.S.C. § 1325</span>(a) provides that:
+  </p>
+<blockquote id="b140-28">
+   Except as provided in subsection (b), the court shall confirm a plan if—
+  </blockquote>
+<blockquote id="pA1X">
+   [[Image here]]
+  </blockquote>
+<blockquote id="pAdq">
+   [[Image here]]
+  </blockquote>
+<blockquote id="b140-29">
+   (3) the plan has been proposed in good faith and not by any means forbidden by law....
+  </blockquote>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b141-10">
+   . We note that appellee by stipulation adopted appellant’s excerpts from the record and did not independently designate further or other matters in the record.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b143-10">
+   . F.R.C.P. 52(a) provides to the extent relevant here as follows:
+  </p>
+<blockquote id="b143-11">
+   In all actions tried upon the facts without a jury or with an advisory jury, the court shall find the facts specially and state separately its conclusions of law thereon, and judgment shall be entered pursuant to Rule 58.... It will be sufficient if the findings of fact and conclusions of law are stated orally and recorded in open court following the close of the evidence or appear in an opinion or memorandum of decision filed by the court....
+  </blockquote>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b143-18">
+   . Rule 3020(b)(2) was amended effective August 1, 1987 to provide:
+  </p>
+<blockquote id="b143-20">
+   If no objection is timely filed, the court may determine that the plan has been proposed in good faith and not by any means forbidden by law without receiving evidence on such issues.
+  </blockquote>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b144-8">
+   . A case which indicates the outer limits of this perspective is
+   <em>
+    In re Chaffin,
+   </em>
+   <span class="citation" data-id="499468"><a href="/opinion/499468/in-the-matter-of-william-s-chaffin-debtor-appeal-of-william-s-chaffin/" aria-description="Citation for case: In the Matter of William S. CHAFFIN, Debtor. Appeal of...">836 F.2d 215</a></span> (5th Cir.1988),
+   <em>
+    modifying
+   </em>
+   <span class="citation" data-id="487163"><a href="/opinion/487163/in-the-matter-of-william-s-chaffin-debtor-appeal-of-william-s-chaffin/" aria-description="Citation for case: In the Matter of William S. CHAFFIN, Debtor. Appeal of...">816 F.2d 1070</a></span> (5th Cir.1987). A debtor serving a prison term for securities fraud and embezzlement of $15,000 filed a Chapter 13 plan to pay, while he was in prison, $10.00 per month (he had outside income of $100.00 per month) for thirty-six months or $360.00 total on the $15,000 debt that had been held nondischargeable, a pay-off of some two percent. There were no objections, but the Bankruptcy Court and the District Court, on appeal, held that there was a lack of good faith. The Fifth Circuit citing
+   <em>
+    Goeb,
+   </em>
+   <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/#1390" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d at 1390</a></span>, held that the trial court had not considered the "totality of circumstances” and reversed and remanded for a hearing on that basis.
+   <em>
+    Chaffin,
+   </em>
+   <span class="citation" data-id="499468"><a href="/opinion/499468/in-the-matter-of-william-s-chaffin-debtor-appeal-of-william-s-chaffin/#216" aria-description="Citation for case: In the Matter of William S. CHAFFIN, Debtor. Appeal of...">836 F.2d at 216-17</a></span>; <span class="citation" data-id="487163"><a href="/opinion/487163/in-the-matter-of-william-s-chaffin-debtor-appeal-of-william-s-chaffin/#1073" aria-description="Citation for case: In the Matter of William S. CHAFFIN, Debtor. Appeal of...">816 F.2d at 1073-74</a></span>.
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b145-19">
+   . <span class="citation no-link">Pub.L. No. 98-353, § 317</span>, <span class="citation no-link">98 Stat. 356</span> (1984).
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b147-8">
+   . This approach [relevance of nondischargeable debt to good faith inquiry] is not at cross-purposes with the admittedly liberal provisions of Chapter 13, under which debts resulting from illegal acts such as embezzlement, fraud, and willful and malicious injury, ordinarily may be discharged. Rather, it ensures against manipulation of the statute by debtors who default on obligations grounded in dishonesty and who subsequently seek refuge in Chapter 13 in order to avoid, at minimal cost, a non-dischargeable debt.
+   <span class="citation no-link"><em>
+    In re Chase,
+   </em>
+   43</span> B.R. [739] at 743-44 [ (D.C.Md.1984];
+   <em>
+    In re Meltzer,
+   </em>
+   <span class="citation" data-id="2010018"><a href="/opinion/2010018/in-re-meltzer/#627" aria-description="Citation for case: In Re Meltzer">11 B.R. 624, 627</a></span> (Bankr.E.D.N.Y.1981). Unless such pre-petition misconduct may be factored into the § 1325(a)(3) good faith equation, affected creditors, who might indeed fare substantially better under Chapter 7, with its stricter discharge provisions, would be unable effectively to challenge an offending plan.
+  </p>
+<p id="b147-14">
+<em>
+    Neufeld,
+   </em>
+   <span class="citation" data-id="472172"><a href="/opinion/472172/william-neufeld-creditor-v-susan-k-freeman-debtor-and-emily-y-wilson/#153" aria-description="Citation for case: William Neufeld, Creditor v. Susan K. Freeman, Debtor,...">794 F.2d at 153</a></span>.
+  </p>
+</div></div></opinion>

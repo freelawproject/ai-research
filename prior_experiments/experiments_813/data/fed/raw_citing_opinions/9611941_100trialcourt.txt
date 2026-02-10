@@ -1,0 +1,610 @@
+<pre class="inline">1                                                                         
+2                                                                         
+3                      UNITED STATES DISTRICT COURT                       
+4                    NORTHERN DISTRICT OF CALIFORNIA                      
+5                                                                         
+6    IN RE PLUM BABY FOOD LITIGATION  CASE NO. 4:21-CV-00913-YGR          
+
+7                                                                         
+     This Document Relates To: ALL ACTIONS                                
+                                      ORDER GRANTING MOTION FOR SUMMARY   
+8                                     JUDGMENT                            
+9                                     Re: Dkt. Nos. 210, 233, 245         
+10                                                                         
+
+11                                                                         
+12                                                                         
+
+13                                                                         
+         Nine plaintiffs, namely Sarah Brown, Josh Crawford, Jessica David, Autumn Ellison, 
+14                                                                         
+    Ludmila Gulkarov, Vanessa Mathiesen, Kelly McKeon, Tommy Nurre, and Janine Torrence, sue 
+15                                                                         
+    defendant Plum, PBC on behalf of a putative class of purchasers of baby food products sold under 
+16                                                                         
+    the “Plum Organics” brand.1  Plaintiffs allege that they were deceived because defendant’s 
+17                                                                         
+    labeling did not disclose that levels of certain heavy metals and perchlorate may exist in those 
+18                                                                         
+    products as a result of their ingredients.  Defendant Plum, PBC brings the instant motion for 
+19                                                                         
+    summary judgment.                                                     
+20                                                                         
+         Fourteen claims remain in this action, eleven based in state statutes and three in common 
+21                                                                         
+    law.  Thus, plaintiffs allege statutory violations of California Consumers Legal Remedies Act 
+22                                                                         
+    (“CLRA”), California Civil Code §§1750, et seq., (Count 1); California False Advertising Law 
+23                                                                         
+24                                                                         
+         1  Defendant Plum, PBC notes that Plum, Inc. was converted into a public benefit 
+25                                                                         
+    corporation and was renamed Plum, PBC and thus Plum, Inc. no longer exists.  (Dkt. No. 103 at 2 
+    n.1.).  Thus, the Court conditionally dismisses Plum, Inc.  Further, in July 2022, Mayer Brown 
+26                                                                         
+    LLP and King &amp; Spalding LLP withdrew as representing Plum, PBC and Campbell Soup 
+    Company.  At the same time, Perkins Coie LLP was added to the case to represent only Plum, 
+27                                                                         
+    PBC only.  At oral argument, both parties appeared surprised that Campbell Soup Co. had not 
+1   (“FAL”), California Business &amp; Professions Code §§17500, et seq. (Count 2); California Unfair 
+2   Competition Law (“UCL”), California Business &amp; Professions Code §§17200, et seq. (Count 3); 
+3   New York Deceptive Practices Act, General Business Law §§ 349–350 (Count 8 and Count 9); 
+4   Minnesota Unlawful Trade Practices Act, Minn. Stat. § 325D.13, et seq. (Count 10); Minnesota 
+5   Uniform Deceptive Trade Practices Act, Minn. Stat. § 325D.44, et seq. (Count 11); Minnesota 
+6   False Statement in Advertising Act, Minn. Stat. § 325F.67, et. seq. (Count 12); Minnesota 
+7   Prevention of Consumer Fraud Act, Minn. Stat. § 325F.69, et. seq. (Count 13); Pennsylvania 
+8   Unfair Trade Practices and Consumer Protection Law, 73 Pa. Cons. Stat. Ann. §§201-1, et seq. 
+9   (Count 14); Illinois Consumer Fraud and Deceptive Business Practices Act (“ICFA”) </pre><span class="citation no-link">815 Ill. 
+10</span><pre class="inline">   Comp. Stat. § 505/1, et seq. (Count 15).  The remaining three counts allege unjust enrichment 
+11   (Count 5); fraudulent misrepresentation by omission (Count 6); and fraud by omission (Count 7). 
+12        For the reasons discussed below, the Court GRANTS defendant’s motion for summary 
+13   judgment.  The Court also GRANTS IN PART AND DENIES IN PART plaintiffs’ motion to seal 
+14   another party’s material (Dkt. No. 233) and GRANTS defendant’s motion to seal (Dkt No. 245).  
+15   I.   BACKGROUND                                                       
+16        Plaintiffs allege as follows:                                    
+17        Defendant’s baby foods sold under the “Plum Organics Brand” (“Baby Food”) have been 
+18   shown to contain detectable levels of arsenic, cadmium, lead, mercury (“heavy metals”) and/or 
+19   perchlorate, all known to pose health risks to humans, and particularly to infants and children.  
+20   (Dkt. No. 98 ¶¶ 5, 10 (First Amended Consolidated Complaint (“FACC”)); Pls.’ Statement of 
+21   Undisputed Material Facts in Supp. of Pls.’ Opp’n to Defs.’ Mot. for Sum. J., Dkt. No. 238-1 at 
+22   10:1 (“PSF”).)  Even when trace amounts are found in food, these heavy metals can alter the 
+23   developing brain and erode a child’s IQ.  (FACC ¶ 98).  Because heavy metals can bioaccumulate 
+24   in the body, even regular consumption of small amounts can increase the risk of various health 
+25   issues, including the risk of bladder, lung, and skin cancer; cognitive and reproductive problems; 
+26   and type 2 diabetes.  (Id. ¶ 104.)                                    
+27        Defendant knew it was possible to control the levels of heavy metals in its Baby Foods.  
+1   in Supp. of Mot. for Sum. J., Dkt. No. 238-1 at 1:2 (“PRDF”).)  Other baby food manufacturers 
+2   have shown that it is possible to manufacture baby food without detectable levels of heavy metals 
+3   or perchlorate.  (FACC ¶¶ 149–155; PRDF 1:2; 9:3.)  The U.S. Food and Drug Administration has 
+4   stated that there are no safe levels of lead, and the Environmental Protection Agency, the World 
+5   Health Organization, the Centers for Disease Control and Prevention, and the American Academy 
+6   of Pediatrics agree.  (PRDF 2:3.)  Defendant never disclosed the presence or risk of heavy metals 
+7   or perchlorate on any labels.  (PRDF 5:2; PSF 11:1.)                  
+8        Plaintiffs brought this putative class action on February 5, 2021.  (Dkt. No. 1.)  Plaintiffs 
+9   filed the FACC on September 3, 2021. (Dkt. No. 98).  On January 12, 2022, the Court denied the 
+10   motion to dismiss except as to the breach of implied warranty claim.  (Dkt. No. 125.) On June 9, 
+11   2023, defendant Plum, PBC moved for summary judgement.  (Dkt. No. 210.)  Plaintiffs have not 
+12   yet moved to certify a class action.                                  
+13   II.  PROCEDURAL OBJECTIONS                                            
+14        Plaintiffs raised certain procedural objections to the motion per the Court’s Standing 
+15   Order.  Plaintiffs first claim that defendant relies on nine documents not previously disclosed or 
+16   produced in this action.  However, plaintiffs fail to provide any facts whatsoever as to how they 
+17   were prejudiced by the non-disclosure of these nine publicly available articles.  The Court does not 
+18   exclude these documents from consideration.                           
+19        Plaintiffs next claim that defendant’s pre-filing summary judgment letter did not include 
+20   several arguments included in the motion.  Plaintiffs first point to defendant’s arguments that the 
+21   Illinois and Minnesota consumer protection claims fail because these states do not recognize pure 
+22   omission claims, and that Pennsylvania consumer protection claim fails because state law requires 
+23   that the “omitted information goes to some ‘serious and life-threatening latent defect.’”  (Dkt. No. 
+24   238 at 11 (“Opp.”).)  Although defendant should have mentioned these arguments in its pre-filing 
+25   letter, the Court does not exclude these arguments from its consideration, especially because these 
+26   arguments refer to basic elements of the claims that a plaintiff should expect to litigate.   Plaintiffs 
+27   also cite defendant’s argument that the common law claims rise and fall with the consumer 
+1   claims should survive.  (Opp. at 21–22.)  The Court does not exclude this argument from 
+2   consideration.                                                        
+3        Third, plaintiffs claim that defendants did not raise a First Amendment defense in their 
+4   Answer.  The issue is mooted because the Court does not reach the First Amendment arguments.  
+5   III.  ARTICLE III STANDING                                            
+6        As a threshold issue, defendant offers three reasons to claim plaintiffs lacks Article III 
+7   standing, namely (i) lack of economic injury; (ii) lack of future risk of harm; and (iii) that the 
+8   remedy sought intrudes on First Amendment protections.  The Court addresses each in turn.   
+9        A.   Economic Injury                                             
+10        First, defendant contends that plaintiffs lack Article III standing because they suffered no 
+11   economic injury and adduced no evidence of some lesser-priced alternative baby foods that are 
+12   “free” of heavy metals as required.                                   
+13        The Ninth Circuit has “consistently recognized that a plaintiff can satisfy the injury in fact 
+14   requirement by showing that she paid more for a product than she otherwise would have due to a 
+15   defendant’s false representations about the product.”  McGee v. S-L Snacks Nat’l, </pre><span class="citation no-link">982 F.3d 700</span><pre class="inline">, 
+16   706 (9th Cir. 2020).  Plaintiffs may establish a cognizable injury where they did not receive the 
+17   full value of a purchase by alleging that they paid a “price premium” due to the defendant’s 
+18   deceptive conduct.  See Izquierdo v. Mondelez Int’l Inc., </pre><span class="citation no-link">2016 WL 6459832</span><pre class="inline">, at *7 (S.D.N.Y. Oct. 
+19   26, 2016).                                                            
+20        Here, plaintiffs testified that they would not have purchased or paid more for the products 
+21   at issue if they knew about the presence or risk of heavy metals and perchlorate.  (PRDF 2:1.)  In 
+22   other words, plaintiffs were injured by paying a “price premium” for defendant’s products that 
+23   they otherwise would not have paid.  To demonstrate this price premium, plaintiffs provide the 
+24   expert report of Steven Gaskin, supported by the expert report of Colin Weir.  (Dkt. No. 234-8, 
+25   Ex. 34 ¶¶ 14, 15, 60–63 (Gaskin Report); 235-4 ¶ 7 (Weir Report); see also PSF 2:1, 9:1; PRDF 
+26   2:1.)  Gaskin conducted a conjoint analysis to determine the price impact of the alleged 
+27                                                                         
+1   omissions.2  Weir’s analysis evaluated the economic suitability of Gaskin’s surveys.  Such a 
+2   conjoint price premium analysis can “reliably calculat[e] the value (or “premium”) that consumers 
+3   paid” for the product.  See Bailey v. Rite Aid Corp., </pre><span class="citation no-link">338 F.R.D. 390</span><pre class="inline">, 403–404 (N.D. Cal. 2021) 
+4   (conjoint analysis proposed by Gaskin and Weir is “capable . . . of reliably calculating the value 
+5   (or ‘premium’) that consumers paid” due to the representations at issue); see also Krommenhock v. 
+6   Post Foods, LLC, </pre><span class="citation no-link">334 F.R.D. 552</span><pre class="inline">, 567, 576 (N.D. Cal. 2020) (same).  This is sufficient for 
+7   standing purposes.3                                                   
+8        Defendant’s motion for summary judgment as to plaintiffs’ lack of standing due to 
+9   economic injury is DENIED.                                            
+10        B.   Injunctive Relief                                           
+11        Second, defendant contends that plaintiffs lack Article III standing to seek the remedy of 
+12   injunctive relief because all have admitted in deposition testimony that they would never buy 
+13   defendant’s Baby Food if it contained trace heavy metals and perchlorate, and thus there is no 
+14   threatened future injury necessary to sustain that remedy.  (Defendant’s Separate Statement of Fact 
+15   8:1 (“DSF”).)  Plaintiffs do not dispute this fact.  (PRDF 8:1.)  Plaintiffs’ admissions that they 
+16   would never buy baby food if it contained detectable heavy metals or perchlorate precludes 
+17   injunctive relief relating to re-labeling.4                           
+18        Plaintiffs also seek to enjoin defendants from selling the Baby Foods until the levels of 
+19   heavy metals and perchlorate are removed.  (FACC at 89; see also PRDF 8:1 (“However, 
+20                                                                         
+
+21                                                                         
+         2 Specifically, Gaskin’s analysis “determine[d] the relative market values of a product with 
+22   and without a particular product feature or claim on the label or given the disclosure or non-
+    disclosure of a product feature at the time and point of first purchase.”  (Gaskin Report ¶ 15); see 
+23   also id. ¶ 29 (“The suggested price points in the surveys were chosen by researching the invoice 
+    pricing documents, Plum’s and competitor websites, and retail websites that sell the products at 
+24   issue.”)                                                              
+
+25        3  Defendant’s argument that plaintiffs must point to specific lesser-priced alternative baby 
+    foods that are “free” of heavy metals does not persuade.  Defendant relies entirely on cases 
+26   decided on a motion to dismiss, in which the Court would not have considered the conjoint 
+    analysis provided here.                                               
+27                                                                         
+1   Plaintiffs would consider purchasing baby food products with non-detectable heavy metals.”).)  
+2   Supporting this request for injunctive relief, plaintiffs identify testimony from six of the nine 
+3   plaintiffs who would apparently consider purchasing baby food products with non-detectable 
+4   heavy metals.  (Dkt. No. 238-3, Ex. 14 at 210:8–211:6 (“Brown Dep.”); Ex. 15 at 316:17–317:7 
+5   (“Crawford Dep.”); Ex. 19 at 108:1–12 (“David Dep.”); Ex. 20 at 114:4–12, 137:14–22 
+6   (“Gulkarov Dep.”); Ex. 21 at 116:2–9 (“Mathiesen Dep.”); Ex. 22 at 140:23–141:11 (“McKeon 
+7   Dep.”).)  Plaintiff McKeon testified that it is “possible” she would purchase foods labeled as 
+8   having some risk of containing trace heavy metals.  (McKeon Dep. at 140:23–141:1.)  Plaintiff 
+9   Crawford would only “consider” buying defendant’s products.  (Crawford Dep. at 316:19.)  
+10   Plaintiffs David, Gulkarov, and Brown would only consider buying the product for hypothetical 
+11   grandchildren.  (David Dep. at 108:1–12; Gulkarov Dep. at 114:4–25; Brown Dep. at 210:8–23.)    
+12        Under Ninth Circuit authority, a “‘some day’ intention[ ]—without any description of 
+13   concrete plans, or indeed even any specification of when the some day will be—do[es] not support 
+14   a finding of the ‘actual or imminent’ injury that” Article III requires.  Lanovaz v. Twinings N. Am., 
+15   Inc., </pre><span class="citation no-link">726 F. App’x 590</span><pre class="inline">, 591 (9th Cir. 2018) (citing Lujan v. Defenders of Wildlife </pre><span class="citation" data-id="9432577"><a href="/opinion/112747/lujan-v-defenders-of-wildlife/" aria-description="Citation for case: Lujan v. Defenders of Wildlife">504 U.S. 555</a></span><pre class="inline">, 
+16   564 (1992)).  Nor does a statement that a plaintiff would “consider buying” products satisfy this 
+17   standard.  </pre><span class="citation" data-id="9432577"><a href="/opinion/112747/lujan-v-defenders-of-wildlife/#591" aria-description="Citation for case: Lujan v. Defenders of Wildlife">Id. at 591</a></span><pre class="inline">.  Only plaintiff Mathiesen claims the requisite intent to purchase defendant’s 
+18   products in the future if they did not contain detectable levels of the chemicals at issue.  (Mathisen 
+19   Dep. at 116:2–9, 117:2–4) (“Ms. Mathiesen, do you have any intention to purchase Plum products 
+20   in the future? A. I would like to, if there are certain standards that are met. Q. What are those 
+21   standards? A. I would like there to be a more monitoring and testing, and I would like there to be a 
+22   labeling, appropriate, appropriate labeling . . . I want it to read the standard words ‘undetectable,’ 
+23   so that I may buy it.”)  Plaintiff Matheisen therefore retains Article III standing for injunctive 
+24   relief.                                                               
+25        Thus, defendant’s motion for summary judgment as to lack of standing to seek an 
+26   injunctive remedy is GRANTED as to plaintiffs Brown, Crawford, David, Ellison, Gulkarov, 
+27   McKeon, Nurre, and Torrence and DENIED as to plaintiff Mathesien.     
+1   IV.  FAL, CLRA, AND UCL FRAUDULENT PRONG                              
+2        Under the FAL, the CLRA, and the fraudulent prong of the UCL, conduct is considered 
+3   deceptive or misleading if the conduct is “likely to deceive” a “reasonable consumer.”  Williams v. 
+4   Gerber Prods. Co., </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/#938" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d 934, 938</a></span><pre class="inline"> (9th Cir. 2008).  Because the same standard for fraudulent 
+5   activity governs all three statutes, courts often analyze the three statutes together.  See, e.g., In re 
+6   Sony Gaming Networks &amp; Customer Data Sec. Breach Litig., </pre><span class="citation" data-id="8714620"><a href="/opinion/8731416/in-re-sony-gaming-networks-customer-data-security-breach-litigation/#985" aria-description="Citation for case: In re Sony Gaming Networks &amp; Customer Data Security...">996 F.Supp.2d 942, 985</a></span><pre class="inline"> (S.D. Cal. 
+7   2014).                                                                
+8        To plausibly allege a fraudulent omission, the omission must either (1) “be contrary to a 
+9   representation actually made by the defendant,” or (2) “an omission of a fact the defendant was 
+10   obliged to disclose.”  Hodsdon v. Mars, Inc., </pre><span class="citation" data-id="4280855"><a href="/opinion/4503602/robert-hodsdon-v-mars-inc/#865" aria-description="Citation for case: Robert Hodsdon v. Mars, Inc.">891 F.3d 857, 865</a></span><pre class="inline"> (9th Cir. 2018) (quoting 
+11   Daugherty v. Am. Honda Motor Co., </pre><span class="citation" data-id="2290504"><a href="/opinion/2290504/daugherty-v-american-honda-motor-co-inc/#835" aria-description="Citation for case: Daugherty v. American Honda Motor Co., Inc.">144 Cal. App. 4th 824, 835</a></span><pre class="inline"> (2006)). 
+12        The Court must first determine whether defendant had a duty to disclose the risk of the 
+13   presence of heavy metals or perchlorate in the Baby Food.  A “defendant only has a duty to 
+14   disclose when either (1) the defect at issue relates to an unreasonable safety hazard or (2) the 
+15   defect is material, ‘central to the product’s function,’ and the plaintiff alleges one of the 
+16   four LiMandri factors.”  Hammerling v. Google LLC, </pre><span class="citation no-link">615 F. Supp. 3d 1069</span><pre class="inline">, 1085 (N.D. Cal. 
+17   2022) (quoting In re Toyota RAV4 Hybrid Fuel Tank Litig., </pre><span class="citation no-link">534 F. Supp. 3d 1067</span><pre class="inline">, 1102 (N.D. Cal. 
+18   2021); see also Hodsdon, </pre><span class="citation" data-id="4280855"><a href="/opinion/4503602/robert-hodsdon-v-mars-inc/#864" aria-description="Citation for case: Robert Hodsdon v. Mars, Inc.">891 F.3d at 864</a></span><pre class="inline">.  California courts have interpreted the LiMandri factors 
+19   as follows, namely when the defendant (1) is the plaintiff’s fiduciary; (2) has exclusive knowledge 
+20   of material facts not known or reasonably accessible to the plaintiff; (3) actively conceals a 
+21   material fact from the plaintiff; and (4) makes partial representations that are misleading because 
+22   some other material fact has not been disclosed.  Rasmussen v. Apple Inc., </pre><span class="citation" data-id="7225094"><a href="/opinion/7307191/rasmussen-v-apple-inc/" aria-description="Citation for case: Rasmussen v. Apple Inc.">27 F. Supp. 3d 1027</a></span><pre class="inline">, 
+23   1033 (N.D. Cal. 2014) (citing Collins v. eMachines, Inc., </pre><span class="citation" data-id="5666242"><a href="/opinion/5810789/collins-v-emachines-inc/#255" aria-description="Citation for case: Collins v. eMachines, Inc.">202 Cal.App.4th 249, 255</a></span><pre class="inline"> (2011); see 
+24   also Kavehrad v. Vizio, Inc., </pre><span class="citation no-link">2023 WL 2558535</span><pre class="inline">, at *5 (C.D. Cal. Jan. 26, 2023); LiMandri v. 
+25   Judkins, </pre><span class="citation" data-id="2267506"><a href="/opinion/2267506/limandri-v-judkins/#336" aria-description="Citation for case: LiMandri v. Judkins">52 Cal. App. 4th 326, 336</a></span><pre class="inline"> (1997)).5                          
+26                                                                         
+
+27        5  Plaintiffs cite several California state cases and a pair of federal district court cases 
+1        A.   Unreasonably Unsafe Requirement                             
+2        “Where a plaintiff alleges a sufficiently close nexus between the claimed defect and the 
+3   alleged safety issue, the injury risk need not have come to fruition.”  Williams v. Yamaha Motor 
+4   Co., </pre><span class="citation" data-id="4155347"><a href="/opinion/4378094/george-williams-v-yamaha-motor-corp-usa/#1028" aria-description="Citation for case: George Williams v. Yamaha Motor Corp. USA">851 F.3d 1015, 1028</a></span><pre class="inline"> (9th Cir. 2017).  However, the alleged “unreasonable safety hazard must 
+5   describe more than merely ‘conjectural and hypothetical’ injuries.”  </pre><span class="citation" data-id="4155347"><a href="/opinion/4378094/george-williams-v-yamaha-motor-corp-usa/" aria-description="Citation for case: George Williams v. Yamaha Motor Corp. USA">Id.</a></span><pre class="inline"> at 1028 (quoting Birdsong 
+6   v. Apple, Inc., </pre><span class="citation" data-id="1434048"><a href="/opinion/1434048/birdsong-v-apple-inc/#961" aria-description="Citation for case: Birdsong v. Apple, Inc.">590 F.3d 955, 961</a></span><pre class="inline"> (9th Cir. 2009)).                   
+7        Here, plaintiff asserts that the risk of the presence of heavy metals and perchlorate in 
+8   defendant’s Baby Food created an unreasonable safety hazard.  Plaintiffs provide evidence that the 
+9   Baby Food has been shown to contain detectable levels of arsenic, cadmium, lead, mercury, and/or 
+10   perchlorate, all known to pose health risks to humans, and particularly to infants and children.  
+11   (PSF 12:22–23; FACC ¶¶ 97–99.)  Plaintiffs provide some evidence that at least lead—one of the 
+12   “heavy metals”—can be harmful in any amount.  (PRDF 2:3.)  Defendant does not effectively 
+13   dispute these facts.6                                                 
+14        However, plaintiffs do not establish that the amount of heavy metals and perchlorate in 
+15   defendant’s Baby Food poses an unreasonable safety hazard.7  Without more evidence, the theory 
+16   that regular consumption of defendant’s Baby Food over a period of time may lead to potentially 
+17   dangerous accumulations of these chemicals is simply too conjectural.  Other courts have held 
+18   similarly in cases involving similar allegations.  See Grausz v. Hershey Co., </pre><span class="citation no-link">2024 WL 312688</span><pre class="inline">, at 
+19                                                                         
+
+20                                                                         
+    Hodsdon, and majority of district courts have applied the Hodsdon approach.  Hammerling v. 
+21   Google LLC, </pre><span class="citation no-link">615 F. Supp. 3d 1069</span><pre class="inline">, 1086 (N.D. Cal. 2022); In re Apple Inc. Device Performance 
+    Litig., </pre><span class="citation" data-id="7254395"><a href="/opinion/7336475/in-re-apple-inc/#1176" aria-description="Citation for case: In re Apple Inc.">386 F. Supp. 3d 1155, 1176</a></span><pre class="inline"> (N.D. Cal. 2019); Beyer v. Symantec Corp., </pre><span class="citation" data-id="7249972"><a href="/opinion/7332054/reaves-v-dept-of-corr/#966" aria-description="Citation for case: Reaves v. Dep&#x27;t of Corr.">333 F. Supp. 3d 
+22   966, 979-80</a></span><pre class="inline"> (N.D. Cal. 2018); Ahern v. Apple, </pre><span class="citation no-link">411 F. Supp. 3d 541</span><pre class="inline">, 567 (N.D. Cal. 2019); 
+    Rodriguez v. Mondelez Glob. LLC, </pre><span class="citation no-link">2023 WL 8115773</span><pre class="inline">, at *10 (S.D. Cal. Nov. 22, 2023).  
+23                                                                         
+
+         6  Defendant claims the FDA has stated that the potential presence of trace heavy metals 
+24                                                                         
+    does not render baby foods unsafe, but the Court is not convinced that the evidence cited 
+    establishes this proposition.  DSF 1:1; Dkt. 210-6 (FDA, FDA Response to Questions About Levels 
+25                                                                         
+    of Toxic Elements in Baby Food, Following Congressional Report (Feb. 16, 2021)).    
+
+26                                                                         
+         7  Although this fact is not dispositive, the Court notes that plaintiffs concede the Baby 
+    Food as purchased was safe.  (Opp. at 16.) (“Plum is correct that this case does not allege that any 
+27                                                                         
+    specific lot or pouch of the Products was unsafe.”); see also Dkt. No. 205 at 5:20-21 (“we do not 
+1   *5 (S.D. Cal. Jan. 25, 2024) (on motion to dismiss, holding that assertion that lead and cadmium 
+2   are carcinogens, that “[t]here may be no safe level of exposure to a carcinogen,” and that 
+3   defendant’s products contain some amount of these substances insufficient to plead an 
+4   unreasonable safety hazard”); Rodriguez, </pre><span class="citation no-link">2023 WL 8115773</span><pre class="inline">, at *10 (similar).  Moreover, 
+5   plaintiffs also fail to cite any authority that the potential accumulation of a chemical can lead to an 
+6   “unreasonably unsafe” condition.  Accordingly, plaintiffs fail to establish that defendant’s product 
+7   is unreasonably unsafe.                                               
+8        B.   The LiMandri Factors, Centrality to Function, and Materiality 
+9             1.   The LiMandri Factors                                   
+10        Plaintiffs fail to satisfy the LiMandri factors.  As to the first and fourth factors, plaintiffs 
+11   conceded at oral argument that they do not allege a fiduciary relationship and maintain the action 
+12   based only on omissions.                                              
+13        With respect to the second factor—exclusive knowledge that its products were at a high 
+14   risk of containing heavy metals or percolate—the Court notes that since 2017, following a report 
+15   from the Clean Label Project, defendant has disclosed on its own website that its products may 
+16   contain heavy metals.  (Defendant’s Separate Statement of Facts 5:2 (“DSF”); see also Dkt. No. 
+17   210-35 (“Our testing confirmed that the averaged results for heavy metals in all tested Plum 
+18   products gave concentrations that are typical for those ingredients”).)  Defendant downplays and 
+19   expresses skepticism towards the Clean Label report in the web post, but this characterization does 
+20   not negate the disclosure.  The record also establishes that the risk of the presence heavy metals 
+21   and perchlorate in the food supply, including in ingredients used in defendant’s products, has been 
+22   covered by the media before this lawsuit was filed.8                  
+23                                                                         
+         8  See, e.g., DSF 5:2, 5:3; Dkt. Nos. 210-4 (Healthy Babies Bright Futures, What’s in My 
+24                                                                         
+    Baby’s Food? (Oct. 2019)) (“The lab detected [perchlorate] in 19 of 25 foods tests”); 210-10 
+    ((FDA, Survey Data on Perchlorate in Food –2005-2006 and 2008-2012 Total Diet Study Results 
+25                                                                         
+    (May 2017)); 210-21 (S.F. Chronicle, EPA to Regulate Harmful Chemical in Drinking Water 
+    (Feb. 3, 2011)); 210-22 ((Richmond Times Dispatch, EPA May Not Take Action on Perchlorate 
+26                                                                         
+    (May 7, 2008) 210-23 (Forbes, Arsenic Found in Organic Brands Nudges FDA to Regulate (Feb. 
+    28, 2012)); 210-24 (Consumer Reports, Arsenic in Your Food (Nov. 2012)); 210-25 ((NBC News, 
+27                                                                         
+    Dr. Mehmet Oz Discusses Study About Arsenic in Baby Formula (Feb. 16, 2012)); 210-29 ((ABC 
+1        Plaintiffs do not dispute this evidence, and only dispute whether information disclosing the 
+2   risk of heavy metals and perchlorate in defendant’s products was “widely covered in the media” or 
+3   reasonably accessible to consumers.  (PRDF 5:1; see also PSF 5:1.)  The public availability of this 
+4   information undermines plaintiffs’ arguments that their allegations are sufficient to support 
+5   defendant’s exclusive knowledge and that plaintiffs had no reason to know of these facts.  
+6   Kumandan v. Google LLC, </pre><span class="citation no-link">2022 WL 103551</span><pre class="inline">, at *9 (N.D. Cal. Jan. 11, 2022).   Indeed, plaintiffs’ 
+7   own evidence provides that more than a third of survey respondents were aware of a congressional 
+8   report discussing “levels of arsenic, lead, cadmium, and mercury in baby foods.”  (Dkt. No. 238-3, 
+9   Ex. 14 ¶ 5.)9                                                         
+10        As to the third factor, active concealment, the plaintiff must identify specific facts showing 
+11   that defendant was “concealing or covering up the matters complained of”—here, the risk of 
+12   heavy metals and perchlorate in defendant’s products.  Herron v. Best Buy Co., Inc., </pre><span class="citation" data-id="1471661"><a href="/opinion/1471661/premier-lending-services-inc-v-jlj-associates/" aria-description="Citation for case: Premier Lending Services, Inc. v. J.L.J. Associates">924 F. Supp. 
+13</a></span><pre class="inline">   2d 1161, 1176 (E.D. Cal. 2013).  Even if defendant concealed the information as alleged, it did not 
+14   conceal “the matter of complained of”:  that its products contained high risk of containing heavy 
+15   metals or percolate.  See Kavehrad, </pre><span class="citation no-link">2023 WL 2558535</span><pre class="inline">, at *5–6 (rejecting active concealment 
+16   theory where fact at issue disclosed on defendant’s website). Here, while the specifics are under 
+17   seal, the plaintiffs do not so allege.                                
+18             2.   Central Function Requirement                           
+19        To satisfy the “central function” prong, plaintiffs must establish that the defect renders the 
+20   product “incapable of use by any consumer.”  Hodsdon,</pre><span class="citation" data-id="4280855"><a href="/opinion/4503602/robert-hodsdon-v-mars-inc/#864" aria-description="Citation for case: Robert Hodsdon v. Mars, Inc.">891 F.3d at 864</a></span><pre class="inline">.  Here, plaintiffs contend 
+21   that whether the presence or risk of heavy metals and perchlorate impacts the intended purpose or 
+22                                                                         
+
+23                                                                         
+    Baby Foods in the US Contain Toxic Metals, Report Says (Nov. 1, 2019)); 210-33 (USA Today, 
+    These Baby Foods and Formulas Tested Positive for Arsenic, Lead and BPA in New Study (Oct. 
+24                                                                         
+    25, 2017); 210-34 ((Good Morning America, Consumer Reports Finds ‘Concerning’ Levels of 
+    Heavy Metals in Some Baby Foods (Aug. 10, 2018)).  Defendant was also mentioned by name in 
+25                                                                         
+    92 articles in response to an August 2018 Consumer Reports article disclosing facts related to 
+    heavy metals in baby food.   (Dkt. No. 235-2, Ex. 49) (explaining that the story related to a 
+26                                                                         
+    Consumer Reports study had “been picked up by 800+ broadcast outlets”).   
+
+27                                                                         
+         9  Plaintiffs argue that “some” of the documents upon which defendant relies require 
+1   “central function” of baby food is a disputed issue of fact.  As an initial matter, this Court has 
+2   already held that plaintiffs failed to allege in the FACC that Plum Products are “not fit for 
+3   consumption, that is, the ordinary purpose for which the goods at issue are used.”  (Dkt. No. 125 at 
+4   2.)  The evidence presented on this motion does not establish otherwise.  
+5        Plaintiffs first cite the testimony of their expert, Dr. Hannah Gardener, who opined that 
+6   when “baby food contains these toxic compounds that have no nutritional or health purpose, it 
+7   affects the physical make-up of the food and contradicts the intended purpose of the baby food.” 
+8   (PSF 10:9; Dkt No. 238-3, Ex. 24 (“Second Gardener Report”).)  Specifically, as Dr. Gardener 
+9   explains, the presence of heavy metals and perchlorate in baby food   
+
+10             degrade[s]  the  health  impact  and  nutritional  value  of  baby  food 
+              because (1) heavy metals and perchlorate are toxic compounds with 
+11             substantial and varied harmful effects on the health and development 
+              of  babies  and  children,  (2)  heavy  metals  compete  with  and 
+12             functionally  interfere  with  essential  nutrients  in  the  body  and 
+              thereby impact the need for the consumption of nutrients, degrading 
+13             the value of that which is consumed, and (3) the nutrient profiles of 
+              foods have been shown to be impacted by the contamination of 
+14             heavy metals[.]                                             
+15   (Second Gardener Report ¶ 11; see also PRDF 2:1-2, 3:1, 9:1; PSF 10:9.) 
+16        Despite this testimony, the Court finds that no reasonable jury could determine that the 
+17   presence of heavy metals and perchlorate renders the product incapable of nourishment.  Even if 
+18   consumers find the presence of these trace contaminants to be of material concern, the Baby Food 
+19   continues to function as food if it contains these contaminants.  Indeed, Gardener testified that 
+20   “I’m not saying this food isn’t food or doesn’t function as food or nobody is saying this food isn’t 
+21   food and doesn’t function as food.  It would be such a weird thing for FDA or anyone to say.”  
+22   (Dkt. No. 235-2, Ex. 50 at 271:20–24); see Hodsdon, </pre><span class="citation" data-id="4280855"><a href="/opinion/4503602/robert-hodsdon-v-mars-inc/#865" aria-description="Citation for case: Robert Hodsdon v. Mars, Inc.">891 F.3d at 865</a></span><pre class="inline"> (in “pure omission case” 
+23   involving chocolate bars, where there was no “product defect relating to the central function of the 
+24   chocolate and no safety defect . . . Plaintiff’s CLRA, UCL and FAL claims are foreclosed”); In re 
+25   Intel Corp. CPU Mktg., Sales Pracs. &amp; Prod. Liab. Litig., </pre><span class="citation no-link">2023 WL 7211394</span><pre class="inline">, at *1 (9th Cir. Nov. 
+26   2, 2023) (processors did not stop operating as “the ‘brains’ of the computing device[s], performing 
+27                                                                         
+1   all necessary computations for each application” despite security vulnerabilities)).10    
+2        Defendant’s motion for summary judgment as to the FAL, CLRA, and fraudulent prong of 
+3   the UCL claim is GRANTED.                                             
+4   V.   UNFAIR AND UNLAWFUL PRONGS OF THE UCL                            
+5        As to the “unfair” prong, plaintiffs contend that even if the fraudulent and unlawful prongs 
+6   of the UCL claim fail, the unfairness prong remains separately viable.  Specifically, plaintiffs 
+7   assert the “packaging and sale” of defendant’s products is unfair because defendant was “obligated 
+8   to disclose the presence of Heavy Metals.”  (FACC ¶ 247.)  Generally, where conduct that 
+9   comprises the UCL fraudulent or unlawful prongs is the same conduct as the unfair prong, “the 
+10   unfair prong of the UCL cannot survive if the claims under the other two prongs of the UCL do 
+11   not survive.”  Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F.Supp.3d 1074</a></span><pre class="inline">, 1104–05 (N.D. Cal. 2017).  Here, 
+12   the Court can discern no difference between the allegations informing the fraudulent or unlawful 
+13   prongs and the unfair prong.  As such, plaintiffs’ claim under the unlawful prong fails because the 
+14   predicate violations of the FAL and CLRA claims fail.                 
+15        Separately, the claim also fails on the merits.  An “unfair” prong claim must be proven 
+16   under either (1) the “tethering test,” which looks to whether the defendant’s conduct violates some 
+17   policy set forth in a statute or regulation, or (2) by establishing that the defendant’s conduct is 
+18   “substantially injurious, immoral, or unethical.”  Hodsdon, 891 F.3d at 866–67.  As to the 
+19   “tethering” test, plaintiffs point only to statutory claims this Court rejected.  As to the “balancing” 
+20   test, the Court finds that defendant’s actions as alleged are not substantially injurious, immoral, or 
+21   unethical.  Defendant publicized the risk of heavy metals in its products on its website, and the 
+22   media publicized the risks of heavy metals and perchlorate in the ingredients comprising baby 
+23   food, in baby food generally, and in defendant’s products specifically.  Moreover, it is undisputed 
+24   that use of a single Baby Food product from defendant is not unsafe.  Selling the product without 
+25   this warning on the label does not violate the “unfair prong.”        
+26                                                                         
+
+27                                                                         
+         10  The parties do not analyze the materiality requirement specifically.  Because plaintiffs 
+1        Defendant’s motion for summary judgment as to the unfair and unlawful prongs of the 
+2   UCL claim is GRANTED.11                                               
+3   VI.  NEW YORK DECEPTIVE PRACTICES ACT, N.Y. GEN. BUS. LAW §§ 349–350  
+4        Under Section 349 of the New York General Business Law (GBL), the plaintiff must show 
+5   that: “(1) the defendant’s conduct was consumer-oriented; (2) the defendant’s act or practice was 
+6   deceptive or misleading in a material way; and (3) the plaintiff suffered injury as a result of the 
+7   deception.”  Himmelstein, McConnell, Gribben, Donoghue &amp; Joseph, LLP v. Matthew Bender &amp; 
+8   Co., </pre><span class="citation no-link">171 N.E.3d 1192</span><pre class="inline">, 1197 (N.Y. 2021).  Section 350 of the GBL “prohibits false advertising in 
+9   the conduct of any business, trade or commerce or in the furnishing of any service in this state.”  
+10   New York courts generally merge analysis of Section 349 and Section 350 claims.  Housey v. 
+11   Proctor &amp; Gamble Co., </pre><span class="citation no-link">2022 WL 17844403</span><pre class="inline">, at *1 (2d Cir. Dec. 22, 2022) (“Section 350 of the 
+12   GBL prohibits false advertising in the conduct of any business, trade or commerce, and is 
+13   analyzed under the same reasonable consumer standard as Section 349.”).   
+14        When evaluating whether an act was deceptive or misleading, New York courts apply an 
+15   objective standard, asking whether the representation or omission is “likely to mislead a 
+16   reasonable consumer acting reasonably under the circumstances.”  Stutman v. Chem. Bank, 731 
+</pre><span class="citation" data-id="8865316"><a href="/opinion/8879472/morehouse-v-gulf-warehouse-sales-co/" aria-description="Citation for case: Morehouse v. Gulf Warehouse &amp; Sales Co.">17   N.E.2d 608</a></span><pre class="inline">, 611–12 (N.Y. 2000) (quoting Oswego Laborers’ Loc. 214 Pension Fund v. Marine 
+18   Midland Bank, N.A., </pre><span class="citation" data-id="2086398"><a href="/opinion/2086398/oswego-laborers-local-214-pension-fund-v-marine-midland-bank-n-a/#745" aria-description="Citation for case: Oswego Laborers&#x27; Local 214 Pension Fund v. Marine Midland...">647 N.E.2d 741, 745</a></span><pre class="inline"> (N.Y. 1995)).  A “reasonable consumer” includes those 
+19   “who, in making purchases, do not stop to analyze but are governed by appearances and general 
+20   impressions.”  Guggenheimer v. Ginzburg, </pre><span class="citation" data-id="5531408"><a href="/opinion/5682808/guggenheimer-v-ginzburg/#19" aria-description="Citation for case: Guggenheimer v. Ginzburg">372 N.E.2d 17, 19</a></span><pre class="inline"> (N.Y. 1977).  “In the case of 
+21   omissions in particular,” the New York Court of Appeals has cautioned that Section 349 “surely 
+22   does not require businesses to ascertain consumers’ individual needs and guarantee that each 
+23   consumer has all relevant information specific to its situation.”  Oswego, </pre><span class="citation" data-id="2086398"><a href="/opinion/2086398/oswego-laborers-local-214-pension-fund-v-marine-midland-bank-n-a/#745" aria-description="Citation for case: Oswego Laborers&#x27; Local 214 Pension Fund v. Marine Midland...">647 N.E.2d at 745</a></span><pre class="inline">.  
+24   Accordingly, a plaintiff bringing an omission-based claim must show that “the business alone 
+25   possesses material information that is relevant to the consumer and fail[ed] to provide this 
+26                                                                         
+
+27        11  The Court does not find the materials introduced by plaintiffs at Dkt. No. 254 
+1   information,” or that plaintiffs could not “reasonably have obtained the relevant information they 
+2   now claim the [defendant] failed to provide.”  Id.12                  
+3        A.   Exclusive Knowledge Requirement                             
+4        As to exclusive knowledge, this Court has already ruled that defendant did not maintain 
+5   exclusive knowledge of the material risk that its products would contain heavy metals and 
+6   perchlorate.   Plaintiffs again dispute this evidence by pointing to certain facts defendants 
+7   allegedly withheld.  Although defendant may have maintained exclusive knowledge over these 
+8   specific facts, the precise question presented is whether defendants had exclusive knowledge of 
+9   the presence or risk of heavy metals and perchlorate in their Baby Food products.  As noted, 
+10   defendant disclosed this fact on its website, and the presence heavy metals and perchlorate in the 
+11   food supply, including in ingredients used in defendant’s products, has been the subject of media 
+12   coverage for years prior to this lawsuit.  Defendant did not maintain exclusive knowledge over the 
+13   relevant facts at issue.                                              
+14        B.   Reasonable Accessibility Requirement                        
+15        Plaintiffs contend that information about the risks at issue was not reasonably accessible.  
+16   “Reasonably accessible” information is any information that a plaintiff can obtain through 
+17   “ordinary diligence.”  See Colangelo v. Champion Petfoods USA, Inc., </pre><span class="citation no-link">2022 WL 991518</span><pre class="inline">, at *27 
+18   (N.D.N.Y. Mar. 31, 2022), aff’d sub nom. Paradowski v. Champion Petfoods USA, Inc., </pre><span class="citation no-link">2023 WL 
+19</span><pre class="inline">   3829559 (2d Cir. June 6, 2023).  Again, the information about heavy metals has been easily 
+20   accessible on defendant’s website, and the record establishes that the risk of heavy metals and 
+21   perchlorate in baby foods is publicly available.  Plaintiffs’ own evidence provides that more than a 
+22   third of survey respondents were aware of a congressional report discussing levels of arsenic, lead, 
+23   cadmium, and mercury in baby foods.  (PRDF 5:1.)  The Court finds that the information at issue 
+24                                                                         
+
+25                                                                         
+         12  The parties dispute whether New York law requires a plaintiff to prove both exclusive 
+26   knowledge and reasonable obtainability.  Relevant New York authority suggests that plaintiffs can 
+    satisfy either condition to prevail.  Oswego Laborers’ Local 214 Pension Fund v. Marine Midland 
+27   Bank, </pre><span class="citation" data-id="2086398"><a href="/opinion/2086398/oswego-laborers-local-214-pension-fund-v-marine-midland-bank-n-a/#745" aria-description="Citation for case: Oswego Laborers&#x27; Local 214 Pension Fund v. Marine Midland...">647 N.E.2d 741, 745</a></span><pre class="inline"> (N.Y. 1995); see also Paradowski v. Champion Petfoods USA, Inc., 
+1   was reasonably accessible.13                                          
+2        Defendant’s motion for summary judgment as to the New York General Business Law  
+3   §§ 349–350 claim is GRANTED.                                          
+4   VII.  ILLINOIS, MINNESOTA, AND PENNSYLVANIA CONSUMER CLAIMS           
+
+5        A.   Violation of Illinois Consumer Fraud and Deceptive Practices Act (“ICFA”), 
+              815 Ill. Comp. Stat. § 505/1, et seq.                       
+6                                                                         
+         The ICFA prohibits the omission or concealment of material facts in the conduct of trade. 
+7                                                                         
+    Chandler v. Zinus, Inc., </pre><span class="citation no-link">2022 WL 2104516</span><pre class="inline">, at *7 (S.D. Ill. June 10, 2022).  However, under “the 
+8                                                                         
+    ICFA, an ‘omission’ is an omission from a communication, rather than a general failure to 
+9                                                                         
+    disclose.”  Darne v. Ford Motor Co., </pre><span class="citation no-link">2017 WL 3836586</span><pre class="inline">, at *10 (N.D. Ill. Sept. 1, 2017) (citation 
+10                                                                         
+    omitted).                                                             
+11                                                                         
+         Here, plaintiffs fail to point to any statement regarding safety that conveys a material 
+12                                                                         
+    omission upon which they relied.  Thus, they have no viable omission-based ICFA claim.  See 
+13                                                                         
+    Castillo v. Unilever United States, Inc., </pre><span class="citation no-link">2022 WL 17976163</span><pre class="inline">, at *4 (N.D. Ill. Dec. 28, 2022); see 
+14                                                                         
+    Guajardo v. Skechers USA, Inc., </pre><span class="citation no-link">2021 WL 4302532</span><pre class="inline">, at *3 (C.D. Ill. Sept. 21, 2021) (dismissing an 
+15                                                                         
+    omission-based ICFA claim where the plaintiff “did not allege any direct statements that 
+16                                                                         
+    contain[ed] material omissions, only opportunities or locations where Skechers could have 
+17                                                                         
+    disclosed the alleged defect,” such as “advertising, labeling, and packaging”) (internal quotation 
+18                                                                         
+    marks omitted); O’Connor v. Ford Motor Co., </pre><span class="citation no-link">477 F. Supp. 3d 705</span><pre class="inline">, 719–20 (N.D. Ill. 2020) 
+19                                                                         
+    (holding that the plaintiff did not state an omission-based ICFA claim where he alleged that the 
+20                                                                         
+    defendant failed to disclose dangers posed by its vehicles, but did “not identify any particular 
+21                                                                         
+    direct statements from [the] [d]efendant that contain[ed] material omissions”).  Defendant’s 
+22                                                                         
+    motion for summary judgment as to the ICFA is GRANTED.                
+23                                                                         
+
+24                                                                         
+
+25                                                                         
+26                                                                         
+         13  Plaintiffs’ citation to Willoughby v. Abbott Labs, No. 22-cv-01322, </pre><span class="citation no-link">2023 WL 3585759</span><pre class="inline">, 
+27   at *10 n.3 (May 22, 2023), which involved a motion to dismiss, is unavailing because here the 
+         B.   Violation of Minnesota (i) Unlawful Trade Practices Act Minn. Stat.  
+1                                                                         
+              § 325D.13, et seq., § 325D.44, et seq.; (ii) False Statement in Advertising Act, 
+2             Minn. Stat. § 325F.67, et. seq.; and (iii) Prevention of Consumer Fraud Act,  
+              § 325F.69, et. seq                                          
+3                                                                         
+         Under each of the relevant Minnesota consumer protection statutes, an “omissions” theory 
+4                                                                         
+    is viable so long as the defendant has “special knowledge of material facts to which the other party 
+5                                                                         
+    does not have access.”  Graphic Commc’ns Loc. 1B Health &amp; Welfare Fund A v. CVS Caremark 
+6                                                                         
+    Corp., </pre><span class="citation" data-id="8247319"><a href="/opinion/8281419/graphic-communications-local-1b-health-welfare-fund-a-v-cvs-caremark/#695" aria-description="Citation for case: Graphic Communications Local 1B Health &amp; Welfare Fund &quot;A&quot;...">850 N.W.2d 682, 695</a></span><pre class="inline"> (Minn. 2014).                              
+7                                                                         
+         As noted above, the Court finds defendant did not have special and exclusive knowledge of 
+8                                                                         
+    the material fact at issue: whether their products may contain trace amounts of heavy metals.  See 
+9                                                                         
+    Song v. Champion Petfoods USA, Inc., </pre><span class="citation no-link">2020 WL 7624861</span><pre class="inline">, at *11 (D. Minn. Dec. 22, 2020), aff’d, 
+10                                                                         
+    </pre><span class="citation no-link">27 F.4th 1339</span><pre class="inline"> (8th Cir. 2022) (dismissing claim involving trace heavy metals in food, explaining 
+11                                                                         
+    that the Minnesota Supreme Court has “only applied the special-knowledge theory in one case,” in 
+12                                                                         
+    which “a bank that had actual knowledge that one of its depositors was irretrievably insolvent and 
+13                                                                         
+    thus engaging in fraud by entering into a contract with the plaintiff”).  Defendant’s motion for 
+14                                                                         
+    summary judgment as to the Minnesota Unlawful Trade Practices Act and Minnesota False 
+15                                                                         
+    Statement in Advertising Act is GRANTED.                              
+16        C.   Violation of Pennsylvania Unfair Trade Practices and Consumer Protection 
+              Law, 73 Pa. Cons. Stat. Ann. §§201-1 et seq. (“UTPCPL”)     
+17                                                                         
+         UTPCPL omissions claims survive only “when the seller has superior knowledge of a 
+18                                                                         
+    material fact that is unavailable to the consumer,” Zwiercan v. Gen. Motors Corp., </pre><span class="citation no-link">2002 WL 
+19</span><pre class="inline">                                                                         
+    31053838, at *3 (Pa. Com. Pl. Sept. 11, 2002), and where the omitted information concerns 
+20                                                                         
+    “serious and life threatening latent defects.”  Zwiercan v. Gen. Motors Corp., </pre><span class="citation no-link">2003 WL 1848571</span><pre class="inline">, 
+21                                                                         
+    at *2 (Pa. Com. Pl. Mar. 18, 2003).                                   
+22                                                                         
+         Again, for the reasons set forth above, and based upon the record presented, the Court has 
+23                                                                         
+    found that defendant did not have exclusive knowledge of the risk of trace heavy metals.  Thus, 
+24                                                                         
+    the Court does not find that the risk of accumulation of trace heavy metals and perchlorate in 
+25                                                                         
+    defendant’s Baby Foods presents an “unreasonable” safety risk or that such a risk presents a 
+26                                                                         
+    “serious or life threatening” danger.  As such, the court GRANTS the motion for summary 
+27                                                                         
+1   VIII.  COMMON LAW CLAIMS                                              
+2        When common law claims of fraud and unjust enrichment are based on the same conduct 
+3   on related statutory claims, these claims rise and fall together.  See Eidmann v. Walgreen Co., 522 
+</pre><span class="citation" data-id="7223035"><a href="/opinion/7305132/ferring-bv-v-allergan-inc/#643" aria-description="Citation for case: Ferring B.V. v. Allergan, Inc.">4   F. Supp. 3d 634, 643</a></span><pre class="inline"> (N.D. Cal. 2021) (“because [the plaintiff’s UCL and CLRA claims] rest upon 
+5   this unified theory, all of [the] claims must ‘rise or fall together’”) (quoting Hadley v. Kellogg 
+6   Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1089" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1089</a></span><pre class="inline"> (N.D. Cal. 2017)); Cimoli v. Alacer Corp., </pre><span class="citation no-link">546 F. Supp. 3d 
+7</span><pre class="inline">   897, 904 (N.D. Cal. 2021) (unjust enrichment claim sustained because it “rises and falls” 
+8   alongside the UCL, CLRA, and common law fraud claims, all of which survived).  Because the 
+9   UCL, CLRA, and FAL claims fail, so too do the common law claims.  Defendant’s motion for 
+10   summary judgment as to the common law claims is GRANTED.              
+11   IX.  ADMINISTRATIVE MOTIONS TO SEAL                                   
+12        The parties seek to seal materials filed in connection with plaintiffs’ summary judgment 
+13   brief (Dkt. No. 233) and materials filed in connection with defendant’s summary judgment reply 
+14   brief (Dkt. No. 245).  The parties seek to seal portions or the entirety of these documents on the 
+15   ground that they contain sensitive and confidential information that could harm their business 
+16   interests if made public.                                             
+17        As for plaintiffs’ motion to seal another party’s material (Dkt. No. 233), the Court has 
+18   reviewed the parties’ requests and grants all of them with the exception of Exhibits 33, 34, and 66 
+19   to the Declaration of Rebecca A. Peterson.  Despite the dispositive nature of this motion, the 
+20   parties have presented compelling reasons to keep these documents under seal and have mostly 
+21   narrowly tailored the redactions.  The Court also declines to seal Exhibits 26, 59, and 96 pursuant 
+22   to the defendant’s representation that these were mistakenly designated as confidential.  (See Dkt. 
+23   No. 241 ¶ 13.)  As such, the Court GRANTS IN PART AND DENIES IN PART plaintiffs’ motion to 
+24   seal another party’s material.                                        
+25        As for defendant’s motion to seal (Dkt No. 245), the Court GRANTS the motion in full, as 
+26   the defendant presented compelling reasons to keep these documents under seal and have mostly 
+27   narrowly tailored the redactions.                                     
+    1    X.     CONCLUSION 
+    2          For the reasons stated above, the Court GRANTS summary judgment as to all remaining 
+    3    claims in this action.  The parties shall provide the Court within five business days a proposed 
+    4  || form of judgment, approved as to form. 
+    5          The Court also GRANTS IN PART AND DENIES IN PART plaintiffs’ motion to seal another 
+    6 || party’s material (Dkt. No. 233) and GRANTS defendant’s motion to seal (Dkt No. 245).  Within 
+    7    seven days of the issuance of this Order, in compliance with this Court’s Standing Order, 
+    8    defendant shall file more narrowly tailored versions of Exhibits 33, 34, and 66 to the Declaration 
+    9    of Rebecca A. Peterson or file a public version of the documents. 
+   10          This Order terminates Docket Nos. 210, 233, 245, and 254. 
+   11          It Is SO ORDERED.                                4       ph 
+=    12 |]  Dated: March 28, 2024                    _  2          0    ¢       C 
+                                                          YVONNE GONZALEZ ROGERS 
+    3                                             UNITED STATES DISTRICT COURT JUDGE
+ © 
+   15 
+   16 
+
+ =    17 
+
+Z    18 
+   19 
+   20 
+   21 
+   22 
+   23 
+   24 
+   25 
+   26 
+   27 
+   28 </pre>

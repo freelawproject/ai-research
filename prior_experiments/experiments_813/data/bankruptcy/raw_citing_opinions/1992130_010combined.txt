@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b805-10">
+  CECELIA H. GOETZ, Bankruptcy Judge:
+ </author>
+<p id="b805-11">
+  In both of these cases, as in a substantial percentage of the other cases now being filed in this judicial district, beneficiaries of generous student loans are invoking Chapter 13 of the new bankruptcy law
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  (<span class="citation no-link">11 U.S.C. §§ 1301-1330</span>) to escape the obligation to repay student loans that would not be dischargeable in ordinary bankruptcy, except where hardship could be demonstrated.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  Chapter 13 was intended to provide a means whereby individuals could repay their debts over a period of time. Typically, the two cases now before the Court involve minimal payments which in their totality are far less than the debtors’ outstanding student loans. The question before the Court is whether the plans of these debtors qualify for confirmation.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  This Court holds that they do not; that they do not satisfy the requirement of § 1325(a)(3) because they have not been proposed in good faith.
+ </p>
+<p id="b805-13">
+<em>
+   JOHN
+  </em>
+  YEE
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+</p>
+<p id="b805-14">
+  Mr. Yee is employed as a financial analyst by Columbia Broadcasting Systems and last year earned $16,836.37. He supports only himself; he has no dependents. He holds a bachelor’s degree in accounting from the Bernard M. Baruch College of the City University of New York, which he secured with the assistance of a National
+  <span citation-index="1" class="star-pagination" label="750"> 
+   *750
+   </span>
+  Direct Student Loan. There is now owing on that student loan, with interest, the sum of $2,583.62. Among Mr. Yee’s other debts which total about $10,790, the Parking Violations Bureau of the City of New York is owed $380.
+ </p>
+<p id="b806-4">
+  Mr. Yee has no assets; were his estate to be liquidated, his creditors would receive nothing.
+ </p>
+<p id="b806-5">
+  Under the Chapter 13 plan submitted for confirmation, Mr. Yee would pay the Chapter 13 trustee $30 per month for 36 months, for a total of $1,020, or less than half what he owes on his student loan alone. A partially secured creditor will be paid the value of its secured interest, with the balance to go to unsecured creditors. After deduction of administrative expenses, there will be left for distribution among Mr. Yee’s creditors about $918. This represents approximately 7 percent of the total amount owed, including his student loan.
+ </p>
+<p id="b806-6">
+  At the confirmation hearing on July 23, 1980, the Court found that, in view of the debtor’s excellent education, substantial income, and lack of dependents, the minimal payment plan he proposed was not filed in good faith, and denied it confirmation. “Good faith,” the Court said, does not necessarily mean “best efforts,” but, rather a
+  <em>
+   bona fide
+  </em>
+  effort to discharge outstanding obligations. The token payments offered by the debtor do not represent a
+  <em>
+   bona fide
+  </em>
+  effort.
+ </p>
+<p id="b806-7">
+  The debtor, John Yee, has filed a motion requesting reconsideration, and in the event such reconsideration is denied, that the proceeding be converted to a case under Chapter 7 pursuant to § 1307(a).
+ </p>
+<p id="b806-8">
+<em>
+   DENA M. COYE
+  </em>
+</p>
+<p id="b806-9">
+  Dena M. Coye is a resident alien who arrived in the United States in 1977. In 1978, she applied for, and secured, a student loan in the amount of $5,600 with which she pursued and obtained a master’s degree in social work from the Graduate School of Social Service at Fordham University in June, 1978.
+ </p>
+<p id="b806-10">
+  In 1979, Miss Coye received a second loan in the same amount, with which she began to pursue a second graduate degree in the New School for Social Research. In May, 1980, she decided to discontinue, at least temporarily, her pursuit of graduate degrees. She is currently employed as a vocational counselor at a salary of $14,500 annually.
+ </p>
+<p id="b806-12">
+  Student loans normally do not become payable until nine months after a student has either graduated or permanently terminated her education. It is unclear whether Miss Coye’s loans have yet become due. No one has as yet asked her to pay these loans, nor has she received a bill for them. She believes that no payments will be due for a year or more. Nevertheless, promptly upon deciding to discontinue her education, she filed this petition on May 20, 1980. In addition to her student loans totaling $11,-200, Miss Coye owes various New York City department stores and other creditors a total of $6,348.
+ </p>
+<p id="b806-13">
+  Her budget shows that her monthly income exceeds her expenses by only $19. She proposes to pay her creditors $15 a month for 36 months. After deducting her attorney’s fees and the commissions of the Chapter 13 trustee, her creditors would receive $390, or 2 percent.
+ </p>
+<p id="b806-14">
+  At the hearing on her plan, it developed that the figures furnished the Court by Miss Coye in her Chapter 13 Statement were incorrect. Her budget did not show $30 a month she sends her parents in Jamaica. Furthermore, since filing her petition, she has moved into a more expensive apartment, raising her monthly cost for rent and utilities from $393 a month to $418.85 per month. Including these expenses in her budget would eliminate any surplus for the repayment of her debts.
+ </p>
+<p id="b806-15">
+  Her creditors, too, would receive nothing if her estate were liquidated.
+ </p>
+<p id="b806-16">
+  The New York State Higher Education Services Corporation opposed confirmation of her plan and requested that the case be converted to one under Chapter 7 on the grounds: (a) that since in straight bankruptcy its debt would be nondischargeable, it would receive payment in full in Chapter 7, and that, accordingly, Miss Coye’s plan
+  <span citation-index="1" class="star-pagination" label="751"> 
+   *751
+   </span>
+  did not satisfy <span class="citation no-link">11 U.S.C. § 1325</span>(a)(4); and (b) that the plan was not proposed in good faith (§ 1325(a)(3)).
+ </p>
+<p id="b807-5">
+  DISCUSSION
+ </p>
+<p id="b807-6">
+  The issue before the Court is one of statutory construction. Stated simply, it is whether there is authority in the bankruptcy court to deny confirmation to a Chapter 13 plan which proposes minimal, or token, payments to creditors, and which would result in the discharge of student loans of substantial magnitude. Under § 1328 of the Code, upon completion of all payments under a Chapter 13 plan, a debtor is discharged from all debts, other than long-term obligations extending beyond the life of the plan, and those owed the debtor’s family for alimony, maintenance, and support.
+  <em>
+   See
+  </em>
+  <span class="citation no-link">11 U.S.C. §§ 1322</span>(b)(5), 523(a)(5). Unlike the discharge available in Chapter 7, the Chapter 13 discharge includes student loans.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+</p>
+<p id="b807-7">
+  “In the interpretation of statutes, the function of the courts is easily stated. It is to construe the language so as to give effect to the intent of Congress.”
+  <em>
+   United States v. American Trucking Associations, Inc.,
+  </em>
+  <span class="citation" data-id="103369"><a href="/opinion/103369/united-states-v-american-trucking-associations/#542" aria-description="Citation for case: United States v. American Trucking Associations">310 U.S. 534, 542</a></span>, <span class="citation" data-id="103369"><a href="/opinion/103369/united-states-v-american-trucking-associations/#1063" aria-description="Citation for case: United States v. American Trucking Associations">60 S.Ct. 1059, 1063</a></span>, <span class="citation" data-id="103369"><a href="/opinion/103369/united-states-v-american-trucking-associations/" aria-description="Citation for case: United States v. American Trucking Associations">84 L.Ed. 1345</a></span> (1940). “Emphasis should be laid, too, upon the necessity for appraisal of the purposes as a whole of Congress in analyzing the meaning of clauses or sections of general acts.”
+  <span class="citation" data-id="103369"><a href="/opinion/103369/united-states-v-american-trucking-associations/#544" aria-description="Citation for case: United States v. American Trucking Associations"><em>
+   Id.
+  </em>
+  at 544</a></span>, <span class="citation" data-id="103369"><a href="/opinion/103369/united-states-v-american-trucking-associations/#1064" aria-description="Citation for case: United States v. American Trucking Associations">60 S.Ct. at 1064</a></span>. When the plain meaning of the statute produces an unreasonable result “plainly at variance with the policy of the legislation as a whole,” the courts have “followed that purpose rather than the literal words.”
+  <span class="citation" data-id="103369"><a href="/opinion/103369/united-states-v-american-trucking-associations/#543" aria-description="Citation for case: United States v. American Trucking Associations"><em>
+   Id.
+  </em>
+  at 543</a></span>, <span class="citation" data-id="103369"><a href="/opinion/103369/united-states-v-american-trucking-associations/#1063" aria-description="Citation for case: United States v. American Trucking Associations">60 S.Ct. at 1063</a></span>.
+  <em>
+   See Kokoszka v. Belford,
+  </em>
+  <span class="citation" data-id="109073"><a href="/opinion/109073/kokoszka-v-belford/#650" aria-description="Citation for case: Kokoszka v. Belford">417 U.S. 642, 650</a></span>, <span class="citation" data-id="109073"><a href="/opinion/109073/kokoszka-v-belford/#2436" aria-description="Citation for case: Kokoszka v. Belford">94 S.Ct. 2431, 2436</a></span>, <span class="citation" data-id="109073"><a href="/opinion/109073/kokoszka-v-belford/" aria-description="Citation for case: Kokoszka v. Belford">41 L.Ed.2d 374</a></span> (1974).
+ </p>
+<p id="b807-10">
+  The Court of Appeals for this Circuit has recently had occasion in considering a cognate problem, the dischargeability of student loans during the so-called “gap period,” to reaffirm the principle that “a statute should not be applied strictly in accord with its literal meaning where to do so would pervert its manifest purpose.”
+  <em>
+   In re Adamo,
+  </em>
+  <span class="citation" data-id="376992"><a href="/opinion/376992/in-re-adamo/#222" aria-description="Citation for case: In Re Adamo">619 F.2d 216, 222</a></span> (1980).
+  <em>
+   See Perry v. Commerce Loan Co.,
+  </em>
+  <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/#399" aria-description="Citation for case: Perry v. Commerce Loan Co.">383 U.S. 392, 399-400</a></span>, <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/#856" aria-description="Citation for case: Perry v. Commerce Loan Co.">86 S.Ct. 852, 856-857</a></span>, <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/" aria-description="Citation for case: Perry v. Commerce Loan Co.">15 L.Ed.2d 827</a></span> (1966).
+ </p>
+<p id="b807-11">
+  In approaching the task at hand, it is important to bear in mind that Chapter 13 was part of a wholesale revision of the bankruptcy laws in which a number of separate objectives were independently pursued, resulting in a statute, the separate parts of which mesh only imperfectly.
+ </p>
+<p id="b807-12">
+  All aspects of the laws governing bankruptcy were revised. Many changes were made respecting conventional, or straight, bankruptcy, now Chapter 7 of the Code. At the same time, Congress sought to encourage the use of the type of debt relief afforded by former Chapter XIII, under which wage earners had paid off their debts out of current income.
+ </p>
+<p id="b807-13">
+  In revising the law with respect to what is now Chapter 7, the exceptions to discharge were a major focus of concern, and none more so than the treatment to be given student loans.
+ </p>
+<p id="b807-14">
+  In 1976, Congress, reacting to what was perceived to be an abuse of the bankruptcy laws, excepted certain student loans from discharge in bankruptcy for five years after they became due, absent undue hardship.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+<span citation-index="1" class="star-pagination" label="752"> 
+   *752
+   </span>
+  However, when the Judiciary Committee of the House of Representatives came to consider bankruptcy law reform, it proposed to “ ‘restore the law to where it had been before the 1976 amendment,’ ” taking “the view that student abuses were not as widespread as had been thought and, therefore, did not warrant special treatment.”
+  <em>
+   In
+  </em>
+  re
+  <em>
+   Adamo, supra,
+  </em>
+  <span class="citation" data-id="376992"><a href="/opinion/376992/in-re-adamo/#220" aria-description="Citation for case: In Re Adamo">619 F.2d at 220</a></span> (2d Cir. 1980), quoting H.Rep. No. 595, 95th Cong., 1st Sess. 132
+  <em>
+   (reprinted in
+  </em>
+  [1978] U.S.Code Cong. &amp; Ad.News pp.' 5787, 6093) (1978). This sentiment did not prevail, however. On the contrary, as the legislation progressed through Congress, the exception to discharge for student loans through straight bankruptcy was steadily expanded.
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+</p>
+<p id="b808-4">
+  As the Code now reads, all loans owing a governmental unit or a nonprofit institution of higher education are not dischargeable in a Chapter 7 proceeding for five years after they first become due, unless excepting such debts from discharge would impose “an undue hardship on the debtor and the debtor’s dependents.”
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+</p>
+<p id="b808-5">
+  At the same time as Congress was revising what became Chapter 7, it was also reworking Chapter XIII into the present Chapter 13. In
+  <em>
+   Perry v. Commerce Loan Co.,
+  </em>
+  <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/#394" aria-description="Citation for case: Perry v. Commerce Loan Co.">383 U.S. 392, 394-95</a></span>, <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/#854" aria-description="Citation for case: Perry v. Commerce Loan Co.">86 S.Ct. 852, 854</a></span>, <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/" aria-description="Citation for case: Perry v. Commerce Loan Co.">15 L.Ed.2d 827</a></span> (1966), the Supreme Court summarized the genesis of Chapter XIII as follows:
+ </p>
+<blockquote id="b808-6">
+  “Although statutory relief for the financially distressed wage earner had been available to some extent as early as the Bankruptcy Act of 1867, <span class="citation no-link">14 Stat. 517</span>, Congress found in its study prior to the 1938 revision of the bankruptcy laws that there were no effective provisions for the complete repayment of the wage earner’s debts suited to his problems. * * * In designing a remedy for the dilemma facing a debtor seeking to repay, rather than avoid, his obligations, the Congress settled upon the wage-earner extension-of-time procedures of Chapter XIII. The chapter gave — and was intended to give — to the wage earner a reasonable opportunity to arrange installment payments to be made out of his future earnings. Congress clearly intended to encourage wage earners to pay their debts in full, rather than to go into straight bankruptcy or composition, * *
+  <span class="citation no-link"><em>
+   Id.
+  </em>
+  at 394-95</span>, <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/#854" aria-description="Citation for case: Perry v. Commerce Loan Co.">86 S.Ct. at 854</a></span>.
+ </blockquote>
+<p id="b808-11">
+  Both the Supreme Court and Congress had been lavish in their praise of Chapter XIII as providing a means for the honest and conscientious debtor to pay off his debts. The Supreme Court had lauded it as follows:
+ </p>
+<blockquote id="b808-12">
+  “[Ljarge sums of money are annually returned to creditors under extension plans, the current rate being well over $26,000,-000. As wage earners ordinarily have little or no assets available for distribution in straight bankruptcy, these sums represent settlements which the debtors would otherwise be unable to effect and the creditors unable to obtain.”
+  <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/#396" aria-description="Citation for case: Perry v. Commerce Loan Co."><em>
+   Id.
+  </em>
+  at 396</a></span>, <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/#855" aria-description="Citation for case: Perry v. Commerce Loan Co.">86 S.Ct. at 855</a></span>.
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+</blockquote>
+<p id="b809-4">
+<span citation-index="1" class="star-pagination" label="753"> 
+   *753
+   </span>
+  In fact, Chapter XIII applied not simply to extensions, /. e., full repayment over a stretched-out period, but also to compositions, or partial repayments.
+  <em>
+   See
+  </em>
+  Bankruptcy Act § 623, Act of June 22, 1938, c. 575, § 1, <span class="citation no-link">52 Stat. 932</span> (formerly <span class="citation no-link">11 U.S.C. § 1023</span>). However, few composition plans were filed under Chapter XIII.
+ </p>
+<p id="b809-5">
+  Persuaded of the superiority from every point of view of encouraging debtors to pay their debts, where possible, Congress set out to eliminate the obstacles which it believed the prior statute had placed in the way of the fullest utilization of Chapter XIII. Congress believed that most people, given the opportunity, wanted to pay off their obligations, rather than otherwise. Thus, Congressman Edwards, in explaining the proposed legislation on the floor of Congress, stated that the House Judiciary Committee had “found that most of these people truly want to repay their debts.” 123
+  <em>
+   Cong. Rec.
+  </em>
+  11,699 (Daily ed. Oct. 27, 1977).
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+</p>
+<p id="b809-6">
+  The House Judiciary Committee placed the blame for the failure of bankrupts to repay their debts on the limitations of Chapter XIII. H.R.Rep. No. 595, 95th Cong., 1st Sess. 117 (1978), U.S.Code Cong. &amp; Admin.News 1978, pp. 5787, 6077, states:
+ </p>
+<blockquote id="b809-7">
+  “In addition, an overly stringent and formalized chapter XIII (wage earner plans) has discouraged overextended debtors from attempting to arrange a repayment plan under which all creditors are repaid most, if not all, of their claims over an extended period. The hearings before the Subcommittee indicated strongly that most consumer debtors would rather work out a repayment plan than file straight bankruptcy. They opt for straight bankruptcy only because present chapter XIII simply cannot meet their needs.” (Footnote omitted.)
+ </blockquote>
+<p id="b809-11">
+  The changes made in Chapter XIII were designed to eliminate what experience with predominantly extension plans had shown to be the defects of that chapter. Relatively little attention appears to have been paid to other aspects of the new law.
+  <em>
+   See
+  </em>
+  H.R.Rep. No. 595, 95th Cong., 1st Sess. 116-19 (1977); S.Rep. No. 989, 95th Cong., 2d Sess. 12-13 (1978).
+  <a class="footnote" href="#fn11" id="fn11_ref">
+   11
+  </a>
+</p>
+<p id="b809-12">
+  The focus throughout the discussion of Chapter 13 was on 100 percent plans consistent with experience under Chapter 13. Thus, the Senate Report explained the statute as follows:
+ </p>
+<blockquote id="b809-13">
+  “As in current law, 100 percent payment plans will be encouraged * * *. This kind of plan has provided great self-satisfaction and pride to those debtors who complete them and at the same time effect a maximum return to creditors.”
+ </blockquote>
+<p id="ASV">
+  S.Rep. No. 989, 95th Cong., 2d Sess. 13 (1978),
+  <em>
+   reprinted in
+  </em>
+  [1978] U.S.Code Cong. &amp; Ad.News, pp. 5787, 5799. But the Senate was likewise concerned that Chapter 13 plans not be turned “into mere offers of composition plans under which payments would equal only the non-exempt assets of the debtor.”
+  <em>
+   <span class="citation no-link">Id.</span>
+  </em>
+</p>
+<p id="b809-14">
+  Reviewing this legislative history, District Court Judge William A. Ingram, sitting in the Northern District of California, has concluded: “[T]hat Congress viewed Chapter 13 as an alternative to straight bankruptcy only when the debtor could reasonably have been expected to be able to pay his debts in full or in substantial part.”
+  <span citation-index="1" class="star-pagination" label="754"> 
+   *754
+   </span>
+<em>
+   In re Burrell,
+  </em>
+  <span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/" aria-description="Citation for case: In Re Burrell">6 B.R. 360</a></span>, <span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/#902" aria-description="Citation for case: In Re Burrell">6 B.C.D. 900, 902</a></span> (N.D.Cal.1980). Many bankruptcy courts are in agreement.
+  <em>
+   See, e. g., In re Iacovani,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, <span class="citation no-link">5 B.C.D. 1270</span>, 1276 (Bkrtcy.D.Utah 1980) (in reworking the Chapter XIII provisions, proponents were attempting to produce a medium for repayment of “most if not all” of the claims against the debtor);
+  <em>
+   In re Beaver,
+  </em>
+  <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/" aria-description="Citation for case: In Re Beaver">2 B.R. 337</a></span>, <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/#1286" aria-description="Citation for case: In Re Beaver">5 B.C.D. 1285,1286</a></span> (Bkrtcy.S.D.Cal.1980) (“Losses to creditors otherwise accruing in a liquidation were seen [by Congress] as being significantly reduced in a Chapter 13 setting.”).
+ </p>
+<p id="b810-4">
+  But while Congress may have legislated in the expectation that most Chapter 13 plans would provide for repayment in full, or in large measure, of outstanding debts, it fixed no minimum, either percentage-wise or in absolute terms, respecting the size of the payments to be made under a Chapter 13 plan. While certain conditions are imposed, they can be satisfied in many cases by nominal or even zero payment.
+  <em>
+   See
+  </em>
+  <span class="citation no-link">11 U.S.C. § 1325</span>(a).
+ </p>
+<p id="b810-5">
+  All that Chapter 13 requires is that a plan provide that priority creditors, if any, be paid in full,
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+  that secured creditors, who neither accept the plan nor receive back their collateral, are paid the “allowed amount”
+  <a class="footnote" href="#fn13" id="fn13_ref">
+   13
+  </a>
+  of their claims, and that unsecured creditors receive “not less than the amount that would be paid” on their claims “if the estate of the debtor were liquidated under chapter 7.". <span class="citation no-link">11 U.S.C. § 1325</span>(a)(4).
+ </p>
+<p id="b810-6">
+  For the bulk of the debtors requiring relief under the bankruptcy laws, this last requirement imposes no minimum monetary limit. In most cases, it can be satisfied by zero payments, i. e., by the payment of no money whatsoever to unsecured creditors. This is because most persons having recourse to debt relief do not own property having a value higher than the generous exemption allowed by the Code before any estate becomes available to general creditors.
+  <a class="footnote" href="#fn14" id="fn14_ref">
+   14
+  </a>
+</p>
+<p id="b810-10">
+  This means that invocation of Chapter 13 involves no greater cost to the debtor than filing under Chapter 7. But the difference to the debtor between filing under Chapter 7 as compared with filing under Chapter 13 can be enormous.
+ </p>
+<p id="b810-11">
+  A Chapter 7 discharge does not release a debtor from all outstanding obligations. As previously noted, it will not release him from student loans, in the absence of hardship, for five years after they first become due. There are eight other exceptions, including debts arising out of willful or malicious injury, or fines, penalties, or forfeitures payable to or for the benefit of a governmental unit, or debts fraudulently incurred.
+  <em>
+   See
+  </em>
+  <span class="citation no-link">11 U.S.C. § 523</span>(a).
+ </p>
+<p id="b810-12">
+  However, a Chapter 13 discharge is different. Only if a debtor fails to complete his payments under his plan, but, nevertheless, is allowed a discharge, is such discharge subject to the same exceptions as a Chapter 7 discharge.
+  <em>
+   See
+  </em>
+  <span class="citation no-link">11 U.S.C. § 1328</span>(c). Otherwise, only two types of debts are specifically excluded from a Chapter 13 discharge. First, the debtor is not discharged from long-term obligations, i. e., debts respecting which the last payment is due after the date on which the final payment under the plan is due. <span class="citation no-link">11 U.S.C. § 1328</span>(a)(1). The reasons for this exception are obvious: to the extent the debt has a life longer than the plan, it was not covered by the plan.
+  <em>
+   See
+  </em>
+  <span class="citation no-link">11 U.S.C. § 1322</span>(b)(5). The other exceptions are the debtor’s obligations to his family, i. e., to his spouse, former spouse, or child for alimony, maintenance, or support created by a separation agreement, divorce decree, or property settlement. <span class="citation no-link">11 U.S.C. § 1328</span>(a)(2).
+  <em>
+   See
+  </em>
+  <span class="citation no-link">11 U.S.C. § 523</span>(a)(5). Like long-term obliga
+  <span citation-index="1" class="star-pagination" label="755"> 
+   *755
+   </span>
+  tions, such obligations would appear to fall into the category of continuing debts, which are not necessarily satisfied in full during the life of the plan. Further, familial obligations have always enjoyed a special position under the bankruptcy laws.
+  <em>
+   See Wetmore v. MarKoe,
+  </em>
+  <span class="citation" data-id="96175"><a href="/opinion/96175/wetmore-v-markoe/" aria-description="Citation for case: Wetmore v. Markoe">196 U.S. 68</a></span>, <span class="citation" data-id="96175"><a href="/opinion/96175/wetmore-v-markoe/" aria-description="Citation for case: Wetmore v. Markoe">25 S.Ct. 172</a></span>, <span class="citation" data-id="96175"><a href="/opinion/96175/wetmore-v-markoe/" aria-description="Citation for case: Wetmore v. Markoe">49 L.Ed. 390</a></span> (1904);
+  <em>
+   In re Smith,
+  </em>
+  <span class="citation" data-id="1970462"><a href="/opinion/1970462/mahoney-v-smith-in-re-smith/#230" aria-description="Citation for case: Mahoney v. Smith (In Re Smith)">3 B.R. 224, 230-31</a></span> (Bkrtcy.E.D.Va.1980).
+  <a class="footnote" href="#fn15" id="fn15_ref">
+   15
+  </a>
+</p>
+<p id="b811-5">
+  Another critical difference between Chapter 13 and Chapter 7 is thát a debtor who receives a discharge under Chapter 7 cannot obtain a discharge again under that Chapter for six years, <span class="citation no-link">11 U.S.C. § 727</span>(a)(8); whereas a debtor seeking relief under Chapter 13 is not subject to the same bar, or, indeed, to any explicit statutory bar.
+  <em>
+   In re Ciotta,
+  </em>
+  <span class="citation" data-id="1538641"><a href="/opinion/1538641/matter-of-ciotta/" aria-description="Citation for case: Matter of Ciotta">4 B.R. 253</a></span>, <span class="citation" data-id="1538641"><a href="/opinion/1538641/matter-of-ciotta/#347" aria-description="Citation for case: Matter of Ciotta">6 B.C.D. 346,347</a></span> (Bkrtcy.E.D.N.Y.1980);
+  <em>
+   In re Bonder,
+  </em>
+  <span class="citation" data-id="1970751"><a href="/opinion/1970751/in-re-bonder/" aria-description="Citation for case: In Re Bonder">3 B.R. 623</a></span>, <span class="citation" data-id="1970751"><a href="/opinion/1970751/in-re-bonder/#258" aria-description="Citation for case: In Re Bonder">6 B.C.D. 257, 258</a></span> (Bkrtcy.E.D.N.Y.1980);
+  <em>
+   but see In re Chaffin, Sr.,
+  </em>
+  <span class="citation" data-id="1538694"><a href="/opinion/1538694/in-re-chaffin/" aria-description="Citation for case: In Re Chaffin">4 B.R. 324</a></span>, <span class="citation" data-id="1538694"><a href="/opinion/1538694/in-re-chaffin/#427" aria-description="Citation for case: In Re Chaffin">6 B.C.D. 426, 427-28</a></span> (Bkrtcy.D.Kan.1980). To these advantages should be added the fact that a Chapter 13 discharge, unlike a Chapter 7 discharge, cannot be denied for misconduct. There is no section in Chapter 13 paralleling <span class="citation no-link">11 U.S.C. § 727</span>, which applies only to cases under Chapter 7.
+  <em>
+   See
+  </em>
+  <span class="citation no-link">11 U.S.C. § 103</span>(b).
+ </p>
+<p id="b811-6">
+  There are sound reasons, as the Supreme Court held in
+  <em>
+   Perry v. Commerce Loan <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/" aria-description="Citation for case: Perry v. Commerce Loan Co.">Co., supra,</a></span>
+  </em>
+  for treating debtors who pay their debts
+  <em>
+   in full
+  </em>
+  differently from those who avoid their obligations. Such a debtor has no need of a discharge from his debts since they are all satisfied (<span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/#398" aria-description="Citation for case: Perry v. Commerce Loan Co.">383 U.S. at 398-99</a></span>, <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/#856" aria-description="Citation for case: Perry v. Commerce Loan Co.">86 S.Ct. at 856</a></span>), except long-term or ongoing obligations. Similarly, there is no reason for applying to such a debtor the bar that precludes refiling under the bankruptcy laws within a six-year period, since “an extension plan has no escape hatch for debtors.” <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/#399" aria-description="Citation for case: Perry v. Commerce Loan Co.">383 U.S. at 399</a></span>, <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/#856" aria-description="Citation for case: Perry v. Commerce Loan Co.">86 S.Ct. at 856</a></span>. Nor, it could be added, would any purpose be served by allowing obstacles, like previous misconduct, to block the stretched-out repayment of outstanding obligations and their resulting discharge.
+ </p>
+<p id="b811-9">
+  But different considerations apply to a composition, i. e., the repayment of part, but not all, of a debtor’s outstanding obligations.
+  <em>
+   Perry v. Commerce Loan Co., supra,
+  </em>
+  <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/#398" aria-description="Citation for case: Perry v. Commerce Loan Co.">383 U.S. at 398</a></span>, <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/#856" aria-description="Citation for case: Perry v. Commerce Loan Co.">86 S.Ct. at 856</a></span>. And Chapter 13, as Congress necessarily was aware, authorized composition plans, not solely extension plans. Indeed, the Code contains some indication that Congress did not intend to deal as liberally with persons who ended up paying less than all their debts. Thus, as earlier noted, although a discharge can be granted before a plan is completed, that discharge will be subject to all the same exceptions as one issued in Chapter 7. <span class="citation no-link">11 U.S.C. § 1328</span>(b) and (c). Similarly, the six-year bar will apply to a filing under Chapter 7 if a discharge has been issued within that period under Chapter 13, unless creditors were either paid in full, or received at least 70 percent of the amount owed them pursuant to a plan that was proposed in “good faith, and was the debt- or’s best effort.” <span class="citation no-link">11 U.S.C. § 727</span>(a)(9).
+ </p>
+<p id="b811-10">
+  The difference between the discharge granted under Chapter 13 when a plan is completed, and that made available when it is not, strongly suggests that Congress anticipated that plans that paid less than 100
+  <span citation-index="1" class="star-pagination" label="756"> 
+   *756
+   </span>
+  percent would be the exception rather than the rule. But experience under Chapter 13 in this judicial district, as elsewhere, has turned out to be markedly different. As Bankruptcy Judge Radoyevich has noted, “Plans which would provide for the repayment of more than 50% of unsecured debt are few and far between.”
+  <em>
+   In re Ciotta,
+  </em>
+  <span class="citation" data-id="1538641"><a href="/opinion/1538641/matter-of-ciotta/" aria-description="Citation for case: Matter of Ciotta">4 B.R. 253</a></span>, <span class="citation" data-id="1538641"><a href="/opinion/1538641/matter-of-ciotta/#347" aria-description="Citation for case: Matter of Ciotta">6 B.C.D. 346, 347</a></span> (Bkrtcy.E.D.N.Y.1980).
+  <em>
+   See, e. g., In re Hurd,
+  </em>
+  <span class="citation" data-id="1538572"><a href="/opinion/1538572/in-re-hurd/" aria-description="Citation for case: In Re Hurd">4 B.R. 551</a></span>, <span class="citation no-link">6 B.C.D. 411</span>, 417-18 (Bkrtcy.W.D.Mich.1980);
+  <em>
+   In re Bloom,
+  </em>
+  <span class="citation" data-id="1970474"><a href="/opinion/1970474/in-re-bloom/" aria-description="Citation for case: In Re Bloom">3 B.R. 467</a></span>, <span class="citation" data-id="1970474"><a href="/opinion/1970474/in-re-bloom/#144" aria-description="Citation for case: In Re Bloom">6 B.C.D. 141, 144</a></span> (Bkrtcy.C.D.Cal.1980).
+ </p>
+<p id="b812-4">
+  Debtors have seen in Chapter 13 an opportunity at little cost to escape burdensome obligations from which straight bankruptcy would not free them. Persons owing large debts for student loans, or other obligations not dischargeable in ordinary bankruptcy, are filing plans which are intended to result in the discharge of these debts in exchange for minimal, or token, payments to their creditors. They want the benefits Congress intended for debtors trying to pay their bills, but without the burden of payment.
+ </p>
+<p id="b812-5">
+  However, before a Chapter 13 plan can be confirmed, it must pass the scrutiny of the Court. In this respect, Chapter 13 differs markedly from Chapter 7. The Court has virtually no role to play in straight bankruptcy or liquidation under Chapter 7. A Chapter 7 proceeding, from filing to discharge, is processed almost entirely by clerical personnel carrying out largely ministerial functions. The Court’s role is limited to ensuring that the debtor understands the significance of the discharge he receives, and that he does not diminish its value imprudently. <span class="citation no-link">11 U.S.C. § 524</span>(d).
+ </p>
+<p id="b812-6">
+  Chapter 13 is quite different. A Chapter 13 plan must be confirmed by the Court. Before the Court confirms a plan, it must make various affirmative findings.
+  <em>
+   See
+  </em>
+  <span class="citation no-link">11 U.S.C. § 1325</span>(a). Among other things, the Court must find that “the plan has been proposed in good faith and not by any means forbidden by law.” <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3).
+ </p>
+<p id="b812-15">
+  The term “good faith” is not defined in the Code and its meaning is not clarified by the legislative history of the new statute. It is a phrase well known to the law, and characteristically derives its meaning from the context in which it is found. It is not new to bankruptcy law; it was present in the Bankruptcy Act of 1898. It was interpreted as calling for an inquiry as to “whether or not there has been an abuse of the provisions, purpose or spirit” of the chapter involved. 9
+  <em>
+   Collier on Bankruptcy
+  </em>
+  ¶ 9.20 at 319, ¶9.02 at 1114-12 (14th ed. 1978); 10
+  <em>
+   Collier on Bankruptcy
+  </em>
+  ¶ 29.06 at 339 (14th ed. 1978);
+  <em>
+   In re Village Men’s Shops, Inc.,
+  </em>
+  186 P.Supp. 125, 129 (S.D.Ind.1960);
+  <em>
+   In re Cosgrave,
+  </em>
+  <span class="citation" data-id="1463131"><a href="/opinion/1463131/in-re-cosgrave/#673" aria-description="Citation for case: In Re Cosgrave">10 F.Supp. 672, 673</a></span> (S.D.Cal.1935).
+  <em>
+   See also
+  </em>
+  6
+  <em>
+   Collier on Bankruptcy
+  </em>
+  ¶ 6.07 (14th ed. 1978).
+ </p>
+<p id="b812-16">
+  The meaning of the term “good faith” has assumed great significance in the interpretation of Chapter 13. The bankruptcy courts are split on the question of whether the need to find “good faith” empowers them to refuse to confirm plans where to do so would produce a result incompatible with the overall structure of the bankruptcy laws.
+ </p>
+<p id="b812-17">
+  Some bankruptcy courts have taken the position that if a plan satisfies the specific requirements of the Code, if creditors receive more than they would in liquidation, the bankruptcy courts have no alternative but to confirm it, and that to do otherwise would be judicial legislation. That the plan has as its objective the discharge of otherwise nondischargeable debts they do not regard as a reason for denying confirmation.
+  <a class="footnote" href="#fn16" id="fn16_ref">
+   16
+  </a>
+  However, none of these cases, to my knowledge, have involved student loans.
+ </p>
+<p id="b813-4">
+<span citation-index="1" class="star-pagination" label="757"> 
+   *757
+   </span>
+  An equal, or greater, number of the bankruptcy courts have, however, found in the requirement that the plan be filed in “good faith” power to refuse to confirm plans which they deem at odds with the legislative intention. In their view, the necessity for finding “good faith” authorizes searching scrutiny of all aspects of a plan and its rejection where zero or nominal payments are proposed, particularly where otherwise nondischargeable debts are alleged to be present. In a series of closely-reasoned and persuasive opinions, bankruptcy courts throughout the country have reached the conclusion that Congress intended by the requirement that the bankruptcy court find “good faith” “to rely upon the common sense and the perception of justice and equity in the federal courts to assure the fair administration of the new Chapter 13.”
+  <em>
+   In re Hurd,
+  </em>
+  <span class="citation" data-id="1538572"><a href="/opinion/1538572/in-re-hurd/" aria-description="Citation for case: In Re Hurd">4 B.R. 551</a></span>, <span class="citation no-link">6 B.C.D. 411</span>, 417 (Bkrtcy.W.D.Mich.1980).
+  <em>
+   See In re Iacovoni, 2
+  </em>
+  B.R. 256, <span class="citation no-link">5 B.C.D. 1270</span> (Bkrtcy.D.Utah 1980);
+  <em>
+   In re Murallo,
+  </em>
+  <span class="citation" data-id="1538740"><a href="/opinion/1538740/matter-of-murallo/" aria-description="Citation for case: Matter of Murallo">4 B.R. 666</a></span>, <span class="citation" data-id="1538740"><a href="/opinion/1538740/matter-of-murallo/" aria-description="Citation for case: Matter of Murallo">6 B.C.D. 478</a></span> (Bkrtcy.D.Conn.1980);
+  <em>
+   In re Marlow,
+  </em>
+  <span class="citation" data-id="1970491"><a href="/opinion/1970491/matter-of-marlow/" aria-description="Citation for case: Matter of Marlow">3 B.R. 305</a></span>, <span class="citation" data-id="1970491"><a href="/opinion/1970491/matter-of-marlow/" aria-description="Citation for case: Matter of Marlow">6 B.C.D. 77</a></span> (Bkrtcy.N.D.Ill.1980);
+  <em>
+   In re Bloom,
+  </em>
+  <span class="citation" data-id="1970474"><a href="/opinion/1970474/in-re-bloom/" aria-description="Citation for case: In Re Bloom">3 B.R. 467</a></span>, <span class="citation" data-id="1970474"><a href="/opinion/1970474/in-re-bloom/" aria-description="Citation for case: In Re Bloom">6 B.C.D. 141</a></span> (Bkrtcy.C.D.Cal.1980);
+  <em>
+   In re Cole,
+  </em>
+  <span class="citation" data-id="1970651"><a href="/opinion/1970651/matter-of-cole/" aria-description="Citation for case: Matter of Cole">3 B.R. 346</a></span>, <span class="citation" data-id="1970651"><a href="/opinion/1970651/matter-of-cole/" aria-description="Citation for case: Matter of Cole">6 B.C.D. 216</a></span> (Bkrtcy.S.D.W.Va.1980);
+  <em>
+   In re Howard,
+  </em>
+  <span class="citation" data-id="1970311"><a href="/opinion/1970311/in-re-howard/" aria-description="Citation for case: In Re Howard">3 B.R. 75</a></span>, <span class="citation" data-id="1970311"><a href="/opinion/1970311/in-re-howard/" aria-description="Citation for case: In Re Howard">5 B.C.D. 1375</a></span> (Bkrtcy.S.D.Cal.1980);
+  <em>
+   In re Johnson,
+  </em>
+  <span class="citation" data-id="1535105"><a href="/opinion/1535105/in-re-johnson/" aria-description="Citation for case: In Re Johnson">5 B.R. 40</a></span>, <span class="citation" data-id="1535105"><a href="/opinion/1535105/in-re-johnson/" aria-description="Citation for case: In Re Johnson">6 B.C.D. 277</a></span> (Bkrtcy.S.D.Ohio 1980).
+ </p>
+<p id="b813-5">
+  This interpretation finds support in a recent decision by the Court of Appeals for the Eighth Circuit in the first opinion at that level to consider the requirement of “good faith.”
+  <em>
+   In re Terry,
+  </em>
+  <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">630 F.2d 634</a></span>, <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">6 B.C.D. 974</a></span> (8th Cir. 1980). In that case, two debtors, all of whose property was exempt, filed a Chapter 13 plan calling for zero payments which the bankruptcy court confirmed as filed in good faith. The Eighth Circuit held that the bankruptcy court had erred. It cited and relied on the bankruptcy decisions which have construed “good faith” as vesting discretion in the bankruptcy courts to review critically all Chapter 13 plans. The Court, after noting that “good faith,” as used in the Bankruptcy Act, had been defined as calling for an inquiry into whether there had been an abuse of the provisions, purpose, or spirit of the law, held that a zero payment plan could not be in good faith.
+  <em>
+   <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">Id.</a></span>
+  </em>
+  <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">630 F.2d 634</a></span>, 6 B.C.D. at 975. The Court said; “Such a plan amounts to an abuse of § 1328 (granting a more generous discharge than Chapter 7) and of the spirit of the chapter, that the debtor ‘make payments’ under a plan.”
+  <em>
+   Id.
+  </em>
+</p>
+<p id="b813-9">
+  Similarly, the District Court for the Northern District of California, although it refused to endorse the holding of the bankruptcy court that “good faith” can be found only if the debtor proposes to pay 70 percent of his debts, agreed that the bankruptcy court has discretion to deny confirmation to a plan for lack of good faith even though it otherwise satisfied the Code.
+  <em>
+   In re Burrell,
+  </em>
+  <span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/" aria-description="Citation for case: In Re Burrell">6 B.R. 360</a></span>, 6 B.D.C. 900, 903-04 (N.D.Cal.1980),
+  <em>
+   rev'g,
+  </em>
+  <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">2 B.R. 650</a></span>, <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">5 B.C.D. 1321</a></span> (Bkrtcy.N.D.Cal.1980). Unless the courts have such discretion, the District Court opinion continues,
+ </p>
+<blockquote id="b813-10">
+  “the danger exists that Chapter 13 plans could become shams that would emasculate the safeguards that Congress has included in Chapter 7 to prevent debtor abuse of the bankruptcy laws. The courts retain discretion to prevent such abuse and that discretion can be exercised effectively through a meaningful interpretation of the good faith requirements of § 1325(a)(3).”
+  <em>
+   Id.
+  </em>
+  <span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/" aria-description="Citation for case: In Re Burrell">6 B.R. 360</a></span>, 6 B.C.D. at 904.
+ </blockquote>
+<p id="b813-11">
+  Only if the bankruptcy courts are given a discretionary role to play in determining under what circumstances a debtor may claim the benefits of Chapter 13 is Chapter 13 reconcilable with Chapter 7. No rational legislative policy would totally bar student loans from discharge in straight bankruptcy but permit their avoidance automatically upon payment of a pittance to creditors. The difference in treatment between student loans in Chapter 7 and in
+  <span citation-index="1" class="star-pagination" label="758"> 
+   *758
+   </span>
+  Chapter 13 is defensible only if the Chapter 13 plan either calls for payments of all debts in full, as Congress thought most plans would do, or, if it calls for less than full payment, that a court determine that, in light of the surrounding circumstances, including the substantiality of the payments made, that it merits confirmation, nevertheless.
+ </p>
+<p id="b814-4">
+  Congress at the present time has under consideration amendments to Title 11, including amendments to Chapter 13. Technical Bill S. 658, 96th Cong., 1st Sess. § 191(a); 125
+  <em>
+   Cong.Rec.
+  </em>
+  12185 (daily ed. Sept. 7, 1979) (Senate); S. 658, 96th Cong., 2d Sess. § 130; 126
+  <em>
+   Cong.Rec.
+  </em>
+  9299 (daily ed. Sept. 22, 1980) (House). Among the proposals being considered is one which would expand the exceptions to a Chapter 13 discharge enumerated in § 1328. The Senate proposal would specifically exclude from discharge all debts excluded by § 523(a); the House would limit such exclusion to student loans.
+ </p>
+<p id="b814-6">
+  That such legislation is now pending indicates, it is argued, its necessity. Congress, it is claimed, is thereby recognizing that absent any legislative change, student loans are dischargeable under Chapter 13. But as the Court of Appeals for this Circuit recognized in
+  <em>
+   In re Adamo,
+  </em>
+  the position taken by the legislative body subsequent to the enactment of a statute is not conclusive as to the legislative intent at the time of enactment. <span class="citation" data-id="376992"><a href="/opinion/376992/in-re-adamo/#221" aria-description="Citation for case: In Re Adamo">619 F.2d at 221</a></span>. Moreover, what Congress is apparently seeking to do is to ensure against any possible misconstruction of Chapter 13 which would allow debtors to propose to pay a nominal amount to creditors holding nondischargeable claims and thereby secure the discharge of such debts. S.Rep. No. 305, 96th Cong., 1st Sess. 14 (1979). In short, the legislation issbeing sponsored in part as clarifying, not altering, the original intention.
+  <em>
+   See
+  </em>
+  126
+  <em>
+   Cong.Rec.
+  </em>
+  H. 9,305 (daily ed. Sept. 22, 1980) (remarks of Rep. Hyde).
+ </p>
+<p id="b814-8">
+  Looking to all the guides to legislative intent, i. e., to the history of the law, statements, and committee reports at the time it was enacted, and the overall structure of the Code, the construction which best carries out the legislative intent is one which finds in the direction to the bankruptcy court to assess the good faith of a Chapter 13 plan the authority to deny confirmation to a plan which has as a principal objective the discharge of student loans.
+ </p>
+<p id="b814-10">
+  Applying that standard to the two plans here involved, the Court finds that neither was filed in good faith. Neither debtor has invoked Chapter 13 for its intended purpose, and that is, to pay off, rather than escape, debts which have become too burdensome to meet without the help of the bankruptcy laws. Both are seeking the advantages of Chapter 13 without its drawbacks.
+ </p>
+<p id="b814-11">
+  Mr. Yee offers to pay his creditors no more each month than he spends for cigarettes; Miss Coye proposes to pay about fifty cents per day, less than the cost of a subway ride. Miss Coye, who has obtained an education most Americans would envy, is seeking to shift the burden of repayment off her own shoulders even before her debt is due.
+ </p>
+<p id="b814-12">
+  These Chapter 13 plans have as their objective, not the payment of debts, but the discharge of student loans; they represent an abuse of the provisions, purpose, and spirit of Chapter 13. Accordingly, they lack good faith and cannot be confirmed because they do not satisfy § 1325(a)(3).
+ </p>
+<p id="b814-13">
+  Other bankruptcy courts have also refused to confirm Chapter 13 plans that would have resulted in the discharge of substantial student loans.
+ </p>
+<p id="b814-14">
+  Reviewing a Chapter 13 plan filed by a schoolteacher who proposed to pay 10 percent on all his outstanding obligations, including a student loan, a Connecticut bankruptcy court held “good faith” to be lacking.
+  <em>
+   In re Murallo,
+  </em>
+  <span class="citation" data-id="1538740"><a href="/opinion/1538740/matter-of-murallo/" aria-description="Citation for case: Matter of Murallo">4 B.R. 666</a></span>, <span class="citation" data-id="1538740"><a href="/opinion/1538740/matter-of-murallo/" aria-description="Citation for case: Matter of Murallo">6 B.C.D. 478</a></span> (Bkrtcy.D.Conn.1980). A similar conclusion was reached in
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, <span class="citation no-link">5 B.C.D. 1270</span> (Bkrtcy.D.Utah 1980), in which an English instructor proposed a plan which would have resulted in discharging $13,000 in student loans.
+ </p>
+<p id="b815-4">
+<span citation-index="1" class="star-pagination" label="759"> 
+   *759
+   </span>
+  Another court within this Circuit has refused confirmation to a Chapter 13 plan which would have discharged student loans in excess of $23,000 after payments equaling approximately
+  <em>
+   \lh
+  </em>
+  percent of the debt- or’s outstanding unsecured debt.
+  <em>
+   In re DeSimone,
+  </em>
+  <span class="citation" data-id="1538025"><a href="/opinion/1538025/in-re-desimone/" aria-description="Citation for case: In Re DeSimone">6 B.R. 89</a></span>, <span class="citation" data-id="1538025"><a href="/opinion/1538025/in-re-desimone/" aria-description="Citation for case: In Re DeSimone">6 B.C.D. 861</a></span> (Bkrtcy.S.D.N.Y.1980). Although eschewing reliance on the “good faith” requirement, which Bankruptcy Judge Schwartzberg had earlier held had no quantitative component, he found authority to dismiss the proceeding in § 1325(a)(1) and § 1307(c). One of the findings which a court must make before confirming a plan is that it “complies with the provisions of this chapter and with other applicable provisions of this title * * <span class="citation no-link">11 U.S.C. § 1325</span>(a)(1). Judge Schwartzberg read this requirement as entitling him to look to the conditions under which a Chapter 13 case may properly be dismissed for cause under § 1307(c).
+  <em>
+   Id.
+  </em>
+  <span class="citation" data-id="1538025"><a href="/opinion/1538025/in-re-desimone/" aria-description="Citation for case: In Re DeSimone">6 B.R. 89</a></span>, 6 B.C.D. at 862. He had earlier held that it could be so dismissed “when such plan contravenes the legislative purpose underlying Chapter 13.”
+  <em>
+   In re Seman,
+  </em>
+  <span class="citation" data-id="1538714"><a href="/opinion/1538714/in-re-seman/" aria-description="Citation for case: In Re Seman">4 B.R. 568</a></span>, <span class="citation" data-id="1538714"><a href="/opinion/1538714/in-re-seman/" aria-description="Citation for case: In Re Seman">6 B.C.D. 626</a></span> (Bkrtcy.S.D.N.Y.1980). Elaborating on the earlier decision, he now added:
+ </p>
+<blockquote id="AIpd">
+  “[WJhile a quantitative analysis is not appropriate in determining ‘good faith,’ such analysis is germane to the question as to whether meaningful repayment is offered so as to escape a dismissal or conversion of a Chapter 13 plan for cause.” <span class="citation" data-id="1538714"><a href="/opinion/1538714/in-re-seman/" aria-description="Citation for case: In Re Seman">4 B.R. 568</a></span>, 6 B.C.D. at 862.
+ </blockquote>
+<p id="A0F">
+  Applying this reasoning, he dismissed the case before him “on the ground that the proposed plan should be rejected for cause, pursuant to Code § 1307(c), because a repayment of $360 towards a $23,370.05 non-dischargeable indebtedness previously listed in the petition filed under the former Bankruptcy Act is contrary to the statutory scheme and legislative history with respect to Chapter 13.”
+  <em>
+   Id.
+  </em>
+</p>
+<p id="b815-6">
+  One more matter remains to be considered. The New York State Higher Education Services Corporation has urged denial of confirmation to Miss Coye’s plan on the ground that, because its debt is nondis-chargeable, it would receive more in straight bankruptcy than she proposes to pay. Hence, it is contended her plan does not satisfy § 1325(a)(4). Section 1325(a)(4) requires that the value of the property to be distributed under the plan on unsecured claims be not less than the amount that would be paid on such claim if the estate of the debtor were liquidated. One bankruptcy court has adopted a construction of § 1325(a)(4) similar to that urged here.
+  <em>
+   In re McMinn,
+  </em>
+  <span class="citation" data-id="1538670"><a href="/opinion/1538670/in-re-mcminn/" aria-description="Citation for case: In Re McMinn">4 B.R. 150</a></span>, <span class="citation" data-id="1538670"><a href="/opinion/1538670/in-re-mcminn/" aria-description="Citation for case: In Re McMinn">6 B.C.D. 297</a></span> (Bkrtcy.D.Kan.1980); cf.,
+  <em>
+   In re Chaffin, Sr.,
+  </em>
+  <span class="citation" data-id="1538694"><a href="/opinion/1538694/in-re-chaffin/" aria-description="Citation for case: In Re Chaffin">4 B.R. 324</a></span>, <span class="citation" data-id="1538694"><a href="/opinion/1538694/in-re-chaffin/" aria-description="Citation for case: In Re Chaffin">6 B.C.D. 426</a></span> (Bkrtcy.D.Kan.1980). But, this reading strains the plain language of § 1325(a)(4).
+  <em>
+   In re Koerperich,
+  </em>
+  <span class="citation" data-id="1534838"><a href="/opinion/1534838/benkelman-cooperative-equity-exchange-v-koerperich-in-re-koerperich/" aria-description="Citation for case: Benkelman Cooperative Equity Exchange v. Koerperich (In...">5 B.R. 752</a></span>, <span class="citation" data-id="1534838"><a href="/opinion/1534838/benkelman-cooperative-equity-exchange-v-koerperich-in-re-koerperich/#971" aria-description="Citation for case: Benkelman Cooperative Equity Exchange v. Koerperich (In...">6 B.C.D. 970, 971</a></span> (Bkrtcy.D.Neb.1980). Section 1325(a)(4) clearly refers to the amount that would be paid the creditors out of
+  <em>
+   the estate
+  </em>
+  of the debtor on liquidation. It is irrelevant that the creditor, because a debt is nondischargeable, might ultimately receive more money
+  <em>
+   from
+  </em>
+  the debt- or.
+  <em>
+   In re Jenkins,
+  </em>
+  <span class="citation" data-id="1538892"><a href="/opinion/1538892/in-re-jenkins/" aria-description="Citation for case: In Re Jenkins">4 B.R. 278</a></span>, <span class="citation" data-id="1538892"><a href="/opinion/1538892/in-re-jenkins/#379" aria-description="Citation for case: In Re Jenkins">6 B.C.D. 378, 379</a></span> (D.Colo.1980). Consequently, insofar as the New York State Higher Education Services Corporation opposes Miss Coye’s plan on the ground that it does not satisfy § 1325(a)(4), that argument is rejected.
+ </p>
+<p id="b815-10">
+  There is another ground for refusing to confirm the plan submitted by Miss Coye in addition to lack of good faith. As noted earlier, to confirm a plan, the Court must find that the debtor will be able to make all payments under the plan. <span class="citation no-link">11 U.S.C. § 1325</span>(a)(6);
+  <em>
+   see, e. g., In re Lucas,
+  </em>
+  <span class="citation" data-id="1970815"><a href="/opinion/1970815/in-re-lucas/" aria-description="Citation for case: In Re Lucas">3 B.R. 252</a></span>, <span class="citation" data-id="1970815"><a href="/opinion/1970815/in-re-lucas/" aria-description="Citation for case: In Re Lucas">6 B.C.D. 82</a></span> (Bkrtcy.S.D.Cal.1980). According to her budget, the entire excess of income over expenses is $19. Yet, this budget does not include the $30 she sends her parents monthly, nor does it reflect her present rental, which has gone up from the $393 shown in the plan, to $418.85. Accordingly, the Court is unable to find that Miss Coye will be able to make all payments under the plan to comply with the plan.
+ </p>
+<p id="b815-11">
+  For the foregoing reasons, the plans involved here are denied confirmation. Mr. Yee has requested that in that event, his proceeding be converted to a Chapter 7 case. With respect to Miss Coye, a hearing will be scheduled to determine whether it is
+  <span citation-index="1" class="star-pagination" label="760"> 
+   *760
+   </span>
+  in the best interest of creditors and the estate to convert this proceeding to a case under Chapter 7, or to dismiss it.
+ </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b805-15">
+   . The Bankruptcy Reform Act of 1978, Pub.L. 95 598, <span class="citation no-link">92 Stat. 2549</span> (Bankruptcy Code), was enacted on November 6, 1978 and is applicable to all bankruptcy cases commenced subsequent to September 30, 1979.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b805-16">
+   . Section 523(a)(8) of the Bankruptcy Code, <span class="citation no-link">11 U.S.C. § 523</span>(a)(8), provides:
+  </p>
+<blockquote id="b805-17">
+   “(a) A discharge under section 727, 1141, or 1328(b) of this title does not discharge an individual debtor from any debt — * * *
+  </blockquote>
+<blockquote id="b805-18">
+   “(8) for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or a nonprofit institution of higher education, unless—
+  </blockquote>
+<blockquote id="b805-19">
+   “(A) such loan first became due before five years (exclusive of any applicable suspension of the repayment period) before the date of the filing of the petition; or
+  </blockquote>
+<blockquote id="Alq7">
+   “(B) excepting such debt from discharge under this paragraph will impose an undue hardship on the debtor and the debtor’s dependents;”
+  </blockquote>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b805-20">
+   . Section 1325(a) of the Bankruptcy Code, <span class="citation no-link">11 U.S.C. § 1325</span>(a), provides:
+  </p>
+<blockquote id="b805-21">
+   “(a) The court shall confirm a [Chapter 13] plan if—
+  </blockquote>
+<blockquote id="b805-22">
+   “(1) the plan complies with the provisions of this chapter and with other applicable provisions of this title;
+  </blockquote>
+<blockquote id="b805-23">
+   “(2) any fee, charge, or amount required under chapter 123 of title 28, or by the plan, to be paid before confirmation, has been paid;
+  </blockquote>
+<blockquote id="b805-25">
+   “(3) the plan has been proposed in good faith and not by any means forbidden by law;
+  </blockquote>
+<blockquote id="b805-26">
+   “(4) the value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under chapter 7 of this title on such date;
+  </blockquote>
+<blockquote id="b805-27">
+   “(5) with respect to each allowed secured claim provided for by the plan—
+  </blockquote>
+<blockquote id="b805-28">
+   “(A) the holder of such claim has accepted the plan;
+  </blockquote>
+<blockquote id="b805-29">
+   “(B)(i) the plan provides that the holder of such claim retain the lien securing such claim; and
+  </blockquote>
+<blockquote id="b805-30">
+   “(ii) the value, as of the effective date of the plan, of property to be distributed under the plan on account of such claim is not less than the allowed amount of such claim; or
+  </blockquote>
+<blockquote id="b805-31">
+   “(C) the debtor surrenders the property securing such claim to such holder; and
+  </blockquote>
+<blockquote id="b805-32">
+   “(6) the debtor will be able to make all payments under the plan and to comply with the plan.”
+  </blockquote>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b805-33">
+   .This case was originally assigned to Chief Bankruptcy Judge Joseph V. Costa, and subsequent to his untimely death, was reassigned to the writer.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b807-8">
+   . Two major loan programs, the “National Direct Student Loan Program" (“NDSL”) and the “Guaranteed Student Loan Program” (“GSL”), currently make funds available for higher education. The former, established in 1958 by the National Defense Education Act, Title II, § 201, <span class="citation no-link">20 U.S.C. § 421</span> (1976), enables a student to borrow directly from an institution’s loan fund, which is supported by federal and institutional contributions.
+   <em>
+    See
+   </em>
+   20 U.S.C. § 1087aa-1087gg (1976). Under the GSL program, the student borrows money from a qualifying lender, and the guarantee agency, either the Federal government, a state agency or a private nonprofit organization, endorses the loan.
+   <em>
+    See
+   </em>
+   <span class="citation no-link">20 U.S.C. §§ 1071-1087-4</span> (1976); Goldberg, “Student Loan Bankruptcies," 1978 Wash.Univ.L. Quar. 593, 594 (1978).
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b807-16">
+   . Higher Education Act of 1965, § 439A, as amended, <span class="citation no-link">20 U.S.C. § 1087-3</span> (1976) (repealed by Bankruptcy Reform Act § 317, P.L. 95-598 (1978), current version at <span class="citation no-link">11 U.S.C. § 523</span>(a)(8) (1979)).
+   <em>
+    See
+   </em>
+   S.Rep. No. 832, 94th Cong., 2d Sess. 32
+   <em>
+    reprinted in
+   </em>
+   [1976] U.S.Code Cong. &amp; Ad. News, pp. 4713, 4744. The problems the
+   <span citation-index="1" class="star-pagination" label="752"> 
+    *752
+    </span>
+   legislation was drafted to meet are discussed in: Ahart, “Discharging Student Loans in Bankruptcy,” 52 Am.Bank.L.J. 201 (1978); Goldberg, “Student Loan Bankruptcies,” Wash. Univ.L.Quar. 593 (1978);
+   <em>
+    New York v. Wilkes,
+   </em>
+   <span class="citation no-link">41 N.Y.2d 655</span>, <span class="citation no-link">394 N.Y.S.2d 849</span>, <span class="citation no-link">363 N.E.2d 555</span> (1977).
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b808-8">
+   . The full history of the relevant sections of the Code is to be found in
+   <em>
+    In re Kohn,
+   </em>
+   <span class="citation no-link">5 B.C.D. 419</span>, 421-24 (B.C.S.D.N.Y.1979).
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b808-9">
+   . <span class="citation no-link">11 U.S.C. § 523</span>(a)(8). Due to inadvertence, the repeal of the former statutes and the effective date of the substituted language of the Code left a gap which has been filled by corrective legislation (<span class="citation no-link">Pub.L. 96-56, 93</span> Stat. 387, 96th Cong., 1st Sess. 1-3 (1979)) and through statutory construction.
+   <em>
+    In re <span class="citation" data-id="376992"><a href="/opinion/376992/in-re-adamo/" aria-description="Citation for case: In Re Adamo">Adamo, supra.</a></span> Accord: Wisconsin Higher Educational Aids Board v. Lipke,
+   </em>
+   <span class="citation" data-id="382229"><a href="/opinion/382229/wisconsin-higher-educational-aids-board-v-robert-e-lipke/" aria-description="Citation for case: Wisconsin Higher Educational Aids Board v. Robert E. Lipke">630 F.2d 1225</a></span>, <span class="citation" data-id="382229"><a href="/opinion/382229/wisconsin-higher-educational-aids-board-v-robert-e-lipke/" aria-description="Citation for case: Wisconsin Higher Educational Aids Board v. Robert E. Lipke">6 B.C.D. 1023</a></span> (7th Cir. 1980).
+   <em>
+    Contra, In re Freeman,
+   </em>
+   <span class="citation" data-id="1534880"><a href="/opinion/1534880/freeman-v-regents-of-the-university-of-minnesota-in-re-freeman/" aria-description="Citation for case: Freeman v. Regents of the University of Minnesota (In Re...">5 B.R. 24</a></span>, <span class="citation" data-id="1534880"><a href="/opinion/1534880/freeman-v-regents-of-the-university-of-minnesota-in-re-freeman/" aria-description="Citation for case: Freeman v. Regents of the University of Minnesota (In Re...">6 B.C.D. 702</a></span> (Bkrtcy.D.Minn.1980) (student loan is not excepted from discharge during “gap” period).
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b808-14">
+   .A report of the House of Representatives, quoted by the Court, read in part: “[C]hapter XIII provides a highly desirable method for dealing with the financial difficulties of individuals. It creates an equitable and feasible way for the honest and conscientious debtor to pay off his debts rather than have them discharged in bankruptcy.” H.R.Rep. No. 193, 86th Cong., 1st Sess. 2 (1959).
+   <em>
+    <span class="citation" data-id="1534880"><a href="/opinion/1534880/freeman-v-regents-of-the-university-of-minnesota-in-re-freeman/" aria-description="Citation for case: Freeman v. Regents of the University of Minnesota (In Re...">Id.</a></span>
+   </em>
+   A Senate report, also cited, stated: “We think there can be no doubt * * * that a procedure by which a debtor who
+   <span citation-index="1" class="star-pagination" label="753"> 
+    *753
+    </span>
+   is financially involved and unable to meet his debts as they mature, over a period of time works out of his involvement and pays his debts in full is good for his creditors and good for him." S.Rep. No. 179, 86th Cong., 1st Sess. 2 (1959).
+   <em>
+    Id.
+   </em>
+   at 397, <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/#855" aria-description="Citation for case: Perry v. Commerce Loan Co.">86 S.Ct. at 855</a></span>.
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b809-9">
+   . The seminal Report of the Commission on the Bankruptcy Laws of the United States made the same observation: “The Commission was frequently informed by witnesses at its hearings and in correspondence that the preponderant majority of debtors desire some means of repaying their debts in preference to incurring the stigma and other consequences of bankruptcy.” H.R.Doc. No. 137, Pt. I, 93d Cong., 1st Sess. 157 (1973).
+  </p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b809-16">
+   . Use of the new law was no longer to be restricted to wage earners, but was to be available to all persons with regular income; hardship discharges were to be allowed in less than three years; the treatment of secured creditors was to be uniform; accommodating co-debtors were to be protected; and, finally, the need for creditor approval was eliminated. S.Rep. No. 989, 95th Cong., 2d Sess. 13 (1978); H.R.Rep. No. 595, 95th Cong., 1st Sess. 118-25 (1977).
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="b810-7">
+   . <span class="citation no-link">11 U.S.C. § 1322</span>(a)(2).
+  </p>
+</div><div class="footnote" id="fn13" label="13">
+<a class="footnote" href="#fn13_ref">
+   13
+  </a>
+<p id="b810-8">
+   .
+   <em>
+    See
+   </em>
+   <span class="citation no-link">11 U.S.C. § 1325</span>(a)(5). “Allowed amount of a secured creditor’s claim” means the amount of the claim allowed pursuant to <span class="citation no-link">11 U.S.C. § 506</span>, which limits the value of a secured claim to the value of the security protecting it.
+  </p>
+</div><div class="footnote" id="fn14" label="14">
+<a class="footnote" href="#fn14_ref">
+   14
+  </a>
+<p id="b810-13">
+<em>
+    .See
+   </em>
+   <span class="citation no-link">11 U.S.C. § 522</span>. Broadly speaking, a married couple, in addition to enjoying an exemption of all household property and wearing apparel, which individually have a value no higher than $200, can also claim over $20,000 in other property before any assets become available to their creditors. <span class="citation no-link">11 U.S.C. § 522</span>(d).
+  </p>
+</div><div class="footnote" id="fn15" label="15">
+<a class="footnote" href="#fn15_ref">
+   15
+  </a>
+<p id="b811-7">
+   . There were changes during the course of the evolution of the legislation in the section relating to exceptions from Chapter 13 discharge. The earliest version of what became the Code contained no exceptions.
+   <em>
+    See
+   </em>
+   § 6-207 of the Bankruptcy Act of 1973, discussed in the Report of the Commission on the Bankruptcy Laws, H.R.Doc. No. 93-137, 93d Cong., 1st Sess. Part II at 212 (July 1973). Later, the exceptions were added for long-term debts and familial obligations.
+   <em>
+    See
+   </em>
+   H.R. No. 95-595, 95th Cong., 1st Sess. 430 (1977). At one time, consideration apparently was given to also excepting taxes.
+   <em>
+    See
+   </em>
+   S.Rep. No. 95-989, 95th Cong., 2d Sess. 577 (1978). But the legislative materials shed no light on the reasons underlying the changes, either those accepted or those rejected. Indeed, so little attention was apparently paid this aspect of Chapter 13 that the key Senate Report, S. 95-989, 95th Cong., 2d Sess. 142-43 (1978), probably misled by a change in the numbering of an earlier section, misstates the character of the debts excepted from discharge.
+   <em>
+    See
+   </em>
+   1979 Collier Pamphlet Edition of Bankruptcy Code, Part 3 at p. 622. The disinterest displayed with respect to the character of a Chapter 13 discharge is in sharp contrast to the attention focused on the nature of a Chapter 7 discharge. Neither the debates, nor the key reports on the Code, reflect any awareness that any problem existed relating to discharge outside Chapter 7.
+  </p>
+</div><div class="footnote" id="fn16" label="16">
+<a class="footnote" href="#fn16_ref">
+   16
+  </a>
+<p id="b812-7">
+   .
+   <em>
+    In re Seely, Jr.,
+   </em>
+   <span class="citation" data-id="1970664"><a href="/opinion/1970664/holder-v-brazington-in-re-brazington/" aria-description="Citation for case: Holder v. Brazington (In Re Brazington)">3 B.R. 309</a></span>, <span class="citation" data-id="1538137"><a href="/opinion/1538137/johnson-v-seely-in-re-seely/" aria-description="Citation for case: Johnson v. Seely (In Re Seely)">6 B.C.D. 1003</a></span> (Bkrtcy.E.D.Va.1980) (intentional tort);
+   <em>
+    In re Jenkins,
+   </em>
+   <span class="citation" data-id="1538892"><a href="/opinion/1538892/in-re-jenkins/" aria-description="Citation for case: In Re Jenkins">4 B.R. 278</a></span>, <span class="citation" data-id="1538892"><a href="/opinion/1538892/in-re-jenkins/" aria-description="Citation for case: In Re Jenkins">6 B.C.D. 378</a></span> (Bkrtcy.D.Colo.1980) (false financial statement);
+   <em>
+    In re Koerperich,
+   </em>
+   <span class="citation" data-id="1534838"><a href="/opinion/1534838/benkelman-cooperative-equity-exchange-v-koerperich-in-re-koerperich/" aria-description="Citation for case: Benkelman Cooperative Equity Exchange v. Koerperich (In...">5 B.R. 752</a></span>, <span class="citation" data-id="1534838"><a href="/opinion/1534838/benkelman-cooperative-equity-exchange-v-koerperich-in-re-koerperich/" aria-description="Citation for case: Benkelman Cooperative Equity Exchange v. Koerperich (In...">6 B.C.D. 970</a></span> (Bkrtcy.D.Neb.1980);
+   <em>
+    In re Keckler,
+   </em>
+   <span class="citation" data-id="1970746"><a href="/opinion/1970746/cleveland-trust-co-v-keckler-in-re-keckler/" aria-description="Citation for case: Cleveland Trust Co. v. Keckler (In Re Keckler)">3 B.R. 155</a></span>, <span class="citation" data-id="1970746"><a href="/opinion/1970746/cleveland-trust-co-v-keckler-in-re-keckler/" aria-description="Citation for case: Cleveland Trust Co. v. Keckler (In Re Keckler)">6 B.C.D. 14</a></span> (Bkrtcy.N.D.Ohio 1980) (debt based on forgery);
+   <em>
+    In re Peoro,
+   </em>
+   CCH Bank.L.Reptr. 67,413 (Bkrtcy.N.D.Cal.1980) (debt based on prior misconduct).
+   <em>
+    Cf., In re Bonder,
+   </em>
+   <span class="citation" data-id="1970751"><a href="/opinion/1970751/in-re-bonder/" aria-description="Citation for case: In Re Bonder">3 B.R. 623</a></span>, <span class="citation" data-id="1970751"><a href="/opinion/1970751/in-re-bonder/" aria-description="Citation for case: In Re Bonder">6 B.C.D. 257</a></span> (E.D.N.Y.1980) (Chapter 13 petition filed to secure dischargeability of debt not discharged in an earlier bankruptcy because not scheduled);
+   <em>
+    In re Ciotta,
+   </em>
+   <span class="citation" data-id="1538641"><a href="/opinion/1538641/matter-of-ciotta/" aria-description="Citation for case: Matter of Ciotta">4 B.R. 253</a></span>, 6 B.C.D.
+   <span citation-index="1" class="star-pagination" label="757"> 
+    *757
+    </span>
+   346 (Bkrtcy.E.D.N.Y.1980) (Chapter 13 filed within six months of prior discharge in bankruptcy);
+   <em>
+    In re Seman,
+   </em>
+   <span class="citation" data-id="1538714"><a href="/opinion/1538714/in-re-seman/" aria-description="Citation for case: In Re Seman">4 B.R. 568</a></span>, <span class="citation" data-id="1538714"><a href="/opinion/1538714/in-re-seman/" aria-description="Citation for case: In Re Seman">6 B.C.D. 626</a></span> (S.D.N.Y.1980) (zero payment plan denied confirmation not for lack of “good faith,” but for “cause” under <span class="citation no-link">11 U.S.C. § 1307</span>(c)).
+  </p>
+</div></div></opinion>

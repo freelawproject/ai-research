@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b452-9">
+  CLASSIFICATION OF CLAIMS — CODEBTOR—RENT ARREARAGE
+ </p>
+<p id="b452-10">
+  OPINION OF THE COURT
+ </p>
+<author id="b452-11">
+  LAURENCE E. HOWARD, Bankruptcy Judge.
+ </author>
+<p id="b452-12">
+  At the hearing on confirmation of these cases, the trustee requested the Court to determine whether the placement of obligations involving a codebtor and landlord in separate classes providing for payment of larger percentages on these debts than other unsecured debts violates the provisions of <span class="citation no-link">11 U.S.C. § 1322</span>.
+ </p>
+<p id="b452-13">
+  For the purposes of this opinion only, I adopt the facts as set forth in the Debtors’ brief:
+ </p>
+<blockquote id="b452-14">
+  “MARSHALL
+ </blockquote>
+<blockquote id="b452-15">
+  Joseph Marshall is a married man who has filed a single petition. He is employed at Teledyne Continental, and earns $357.00 per week net, or approximately $1,547.00 per month net. He supports his wife and three children, and lists his living expenses at $1,248.00 per month, leaving approximately $299.00 per month to be paid to his creditors. He received a discharge in bankruptcy in 1976. He owes $5,460.00 to secured creditors including $1,460.00 in arrearages on his residence mortgage and $4,000.00 (as the fair market value) on his 1977 Chevrolet. He owes no taxes. His unsecured debts total $8,136.00 of which $5,161.00 is owed to general creditors, and $3,136.00 is owed to a credit union on a debt cosigned by a friend.
+ </blockquote>
+<blockquote id="b452-16">
+  The value of his assets and equities is less than the general exemption allowed him by the Code, and his estate, if it were liquidated under Chapter 7, would distribute nothing to his unsecured creditors. His Plan offers secured creditors payment in full and offers his general unsecured creditors 5% in full settlement. In addition, his Plan classifies his unsecured creditors, and provides that the unsecured creditor whose claim is cosigned will receive an additional 95% through the Plan.
+ </blockquote>
+<blockquote id="b452-17">
+  KOVICH
+ </blockquote>
+<blockquote id="b452-18">
+  Daniel and Karen Kovich are husband and wife, and have filed a joint petition. Daniel is employed at Harvey Cadillac, and earns $167.00 per week net; Karen is employed at Ward Midwest, and earns $118.00 per week net. Their combined net earnings are $285.00 per week, or approximately $1,235.00 per month. They have no children. Their living expenses are approximately $962.00 leaving approximately $273.00 per month to be paid to their creditors.
+ </blockquote>
+<blockquote id="b452-19">
+  They owe $2,650.00 to secured creditors, including $2,500.00 (as the fair market value) on their 1975 Cordoba and $150.00 on some tools. They owe no taxes. Their unsecured debt totals $4,854.00 of which
+  <span citation-index="1" class="star-pagination" label="405"> 
+   *405
+   </span>
+  $4,119.00 is owed to general creditors, and $735.00 is owed to their landlord for back rent.
+ </blockquote>
+<blockquote id="b453-5">
+  The value of their assets and equities is less than the general exemption allowed them by the Code, and their joint estate, if it were liquidated under Chapter 7, would distribute nothing to unsecured creditors.
+ </blockquote>
+<blockquote id="b453-6">
+  Their Plan offers their secured creditors payment in full and offers their unsecured creditors 10% in full settlement. In addition, their Plan classifies their unsecured debts, and provides that the landlord will receive an additional 90% through the Plan.”
+ </blockquote>
+<p id="b453-7">
+  The sole issue before the Court is whether the plans must fail because of separate classifications accorded the obligations involving a codebtor and landlord which would result in full payment while other unsecured creditors are paid only a portion of their debts. The debtors have reserved the right to amend their plans to increase the percentage payable to unsecured creditors generally. Therefore, if I decide that the classification is not fatal, I shall not determine whether these plans should be confirmed as filed.
+ </p>
+<p id="b453-8">
+  Section 1301 (<span class="citation no-link">11 U.S.C. § 1301</span>) of the Bankruptcy Code provides for a stay of actions against a codebtor. However, as set forth in subsection (c), the stay shall be lifted upon request of the creditor if provision is not made in the plan to pay the claim in full.
+ </p>
+<p id="b453-9">
+  One of the five basic defects of Chapter XIII under the old Act was lack of protection accorded accommodation codebtors who were usually inexperienced friends or relatives of the debtor.
+ </p>
+<p id="b453-10">
+  S.Rep.No.95-989, 95th Cong., 2d Sess. (1978) p. 13, and H.R.Rep.No.95-595, 95th Cong., 1st Sess. (1977) pp. 121-123, U.S. Code Cong. &amp; Admin.News 1978, p. 5787.
+ </p>
+<p id="b453-11">
+  Section 1301 was enacted to correct this problem.
+ </p>
+<p id="b453-12">
+  Section 646, (<span class="citation no-link">11 U.S.C. § 1046</span>), of the Bankruptcy Act of 1898 required that all unsecured creditors be accorded equal treatment.
+ </p>
+<p id="b453-13">
+  The provisions of the Code dealing with classification of claims in a Chapter 13 plan are:
+ </p>
+<blockquote id="b453-14">
+  “§ 1322. Contents of Plan
+ </blockquote>
+<blockquote id="b453-15">
+  (a) The Plan shall .
+ </blockquote>
+<blockquote id="b453-16">
+  (3) if the plan classifies claims, provide the same treatment for each claim within a particular class.
+ </blockquote>
+<blockquote id="b453-17">
+  (b) Subject to subsections (a) and (c) of this section the plan may—
+ </blockquote>
+<blockquote id="b453-18">
+  (1) designate a class or classes of unsecured claims, as provided in section 1122 of this title, but may not discriminate unfairly against any class so designated;
+ </blockquote>
+<blockquote id="b453-19">
+  “§ 1122. Classification of claims or interests.
+ </blockquote>
+<blockquote id="b453-20">
+  (a) Except as provided in subsection (b) of this section a plan may place a claim or an interest in a particular class only if such claim or interest is substantially similar to the other claims or interests of such class.
+ </blockquote>
+<blockquote id="b453-21">
+  (b) A plan may designate a separate class of claims consisting only of every unsecured claim that is less than or reduced to an amount that the court approves as reasonable and necessary for administrative convenience.
+ </blockquote>
+<p id="b453-22">
+  Several points should be made at this time. The classification of unsecured claims under Chapter 13 is permissive. However, if there is classification, it must be “as provided in Section 1122.” <span class="citation no-link">11 U.S.C. § 1322</span>(b)(1). A class can only contain claims which are “substantially similar.” <span class="citation no-link">11 U.S.C. § 1122</span>(a). There is no requirement that all claims which are “substantially similar” be placed in the same class.
+  <em>
+   Collier on Bankruptcy,
+  </em>
+  15th Ed. Vol. 5, pp. 1122 — 4. The phrase “substantially similar” means similar in legal character or effect as a claim against the debtor’s assets. <span class="citation no-link">Id.</span> A plan “may not discriminate unfairly” against any designated class of unsecured claims. <span class="citation no-link">11 U.S.C. § 1322</span>(b)(1).
+ </p>
+<p id="b454-3">
+<span citation-index="1" class="star-pagination" label="406"> 
+   *406
+   </span>
+  There is no question that the plans by paying a class consisting of one creditor in full and a class of all other unsecured creditors a percentage of their claims are discriminatory. But is the discrimination unfair?
+ </p>
+<p id="b454-4">
+  I have found two cases in which bankruptcy courts have permitted separate classes and treatment for unsecured debts.
+  <em>
+   In re Sutherland,
+  </em>
+  <span class="citation" data-id="1970742"><a href="/opinion/1970742/in-re-sutherland/" aria-description="Citation for case: In Re Sutherland">3 B.R. 420</a></span>, <span class="citation" data-id="1970742"><a href="/opinion/1970742/in-re-sutherland/" aria-description="Citation for case: In Re Sutherland">6 B.C.D. 13</a></span> (Bkcy.Ct.W.D.Ark.1980) and
+  <em>
+   In re Curtis,
+  </em>
+  <span class="citation" data-id="1887416"><a href="/opinion/1887416/matter-of-curtis/" aria-description="Citation for case: Matter of Curtis">2 B.R. 43</a></span>, 1 C.B.C.2d 314 (Bkcy.Ct.W.D.Mo. 1979). The
+  <em>
+   <span class="citation" data-id="1970742"><a href="/opinion/1970742/in-re-sutherland/" aria-description="Citation for case: In Re Sutherland">Sutherland</a></span>
+  </em>
+  court held the debt- or could pay something to some unsecured creditors for medical and trade debts and nothing to other unsecured creditors because under the liquidation test of <span class="citation no-link">11 U.S.C. § 1325</span>(a)(4) unsecured creditors would receive nothing under Chapter 7, and consequently, there was no unfair discrimination. In
+  <em>
+   <span class="citation" data-id="1887416"><a href="/opinion/1887416/matter-of-curtis/" aria-description="Citation for case: Matter of Curtis">Curtis</a></span>
+  </em>
+  the court held that a 100% payment on child support arrearage and 10% to other unsecured creditors was “fair” because child support was a nondischargeable debt.
+ </p>
+<p id="b454-5">
+  Collier also supports the proposition that payment of different percentages to unsecured creditors is not necessarily unfair discrimination:
+ </p>
+<blockquote id="b454-6">
+  “No class of claims may be unfairly discriminated against. It remains to be seen how the courts will construe the prohibition against unfair discrimination. A chapter 13 plan proposing to pay less to the holder of any unsecured claim than would be received in the event of liquidation may not be confirmed. Unfair discrimination against a class of claims would therefore seem to have reference either to the order of distribution or the percentage to be paid the particular class.
+  <em>
+   If the courts were to construe as unfair discrimination a proposal to pay a particular class of claims a greater percentage than some other class, section 1822(b)(1) would be deprived of most of its meaning.
+  </em>
+  On the other hand, a proposal to defer distribution on the claims of one class of general unsecured claims until after the completion of payments to another class might very well be considered unfair discrimination against the deferred class, depending on the circumstances of the case.”
+  <em>
+   Collier on Bankruptcy,
+  </em>
+  supra, p. 1322-7. (Emphasis Supplied)
+ </blockquote>
+<p id="b454-10">
+  Other bankruptcy courts have held that separate classifications of unsecured claims constitute unfair discrimination in situations similar to the one before this Court.
+ </p>
+<p id="b454-11">
+<em>
+   In re Fizer,
+  </em>
+  <span class="citation" data-id="1975313"><a href="/opinion/1975313/in-re-fizer/" aria-description="Citation for case: In Re Fizer">1 B.R. 400</a></span>, (Bkcy.Ct.S.D.Ohio 1979), Judge Sidman held that no basis was advanced for the payment of a partially secured creditor in full while other unsecured creditors were to receive nothing and, therefore, the plan was unfair.
+ </p>
+<p id="b454-12">
+  In
+  <em>
+   In re Blevins,
+  </em>
+  <span class="citation" data-id="1975518"><a href="/opinion/1975518/in-re-blevins/" aria-description="Citation for case: In Re Blevins">1 B.R. 442</a></span>, C.B.C.2d 185, (Bkcy.Ct.S.D.Ohio 1979), Judge Sidman again held a plan unfair which proposed that a partially secured creditor receive 100% and unsecured creditors 30%.
+ </p>
+<p id="b454-13">
+  In
+  <em>
+   In re Cooper,
+  </em>
+  <span class="citation" data-id="1970483"><a href="/opinion/1970483/in-re-cooper/" aria-description="Citation for case: In Re Cooper">3 B.R. 246</a></span>, <span class="citation" data-id="1970483"><a href="/opinion/1970483/in-re-cooper/" aria-description="Citation for case: In Re Cooper">6 B.C.D. 81</a></span>, (Bkcy.Ct.S.D.Cal. 1980), the Court held that a plan cannot be confirmed because full payment of an unsecured claim of a secured creditor discriminates unfairly against unsecured creditors receiving only 70% payment, and another secured creditor receiving only 70% on its unsecured claim. No justification for the discrimination was shown.
+ </p>
+<p id="b454-14">
+  In
+  <em>
+   In re Gay,
+  </em>
+  <span class="citation" data-id="1970688"><a href="/opinion/1970688/in-re-gay/" aria-description="Citation for case: In Re Gay">3 B.R. 336</a></span>, <span class="citation" data-id="1970688"><a href="/opinion/1970688/in-re-gay/" aria-description="Citation for case: In Re Gay">6 B.C.D. 149</a></span> (Bkcy.Ct.D.Colo. 1980), the plan established two classes of unsecured claims, one of claims of creditors to whom the debtor had issued bad checks and the other of all other unsecured claims. The debtor proposed to pay the first class in full and to pay second class at 2% dividend. The Court held that the possibility of criminal proceedings by creditors holding bad checks did not justify discriminatory treatment.
+ </p>
+<p id="b454-15">
+  I was able to find three cases which dealt with the question of separate classification for codebtor obligations.
+  <em>
+   In re Fonnest,
+  </em>
+  <span class="citation" data-id="1887123"><a href="/opinion/1887123/in-re-carter/" aria-description="Citation for case: In Re Carter">5 B.C.D. 1236</a></span> (Bkcy.Ct.N.D.Cal.1980);
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, <span class="citation no-link">5 B.C.D. 1270</span> (Bkcy.Ct. D.Utah 1980) and
+  <em>
+   In re McKenzie,
+  </em>
+  4, B.R. 88, <span class="citation" data-id="1538917"><a href="/opinion/1538917/in-re-mckenzie/" aria-description="Citation for case: In Re McKenzie">6 B.C.D. 19</a></span> (Bkcy.Ct.W.D.N.Y.1980).
+ </p>
+<p id="b454-16">
+  The
+  <em>
+   <span class="citation" data-id="1887123"><a href="/opinion/1887123/in-re-carter/" aria-description="Citation for case: In Re Carter">Fonnest</a></span>
+  </em>
+  case held there is no reason existing for differentiating a codebtor note. In
+  <em>
+   Iacovoni
+  </em>
+  and
+  <em>
+   McKenzie
+  </em>
+  the courts held
+  <span citation-index="1" class="star-pagination" label="407"> 
+   *407
+   </span>
+  that all unsecured creditors have the same rights against the debtor’s property, even though that property is future income, and Section 1122 does not permit a separate classification based upon the presence of a codebtor.
+ </p>
+<p id="b455-5">
+  Bankruptcy Judge Joe Lee in his excellent article on Chapter 13 also states that a separate class cannot be provided for co-debtor obligations. Lee
+  <em>
+   Chapter 13 nee Chapter XIII,
+  </em>
+  53 Am.Bankr.L.J., pp. 303, 313 (1979).
+ </p>
+<p id="b455-6">
+  Section 1122(a) requires that a class may contain only substantially similar claims. As indicated above there is no requirement that all substantially similar claims be placed in the same class. Therefore, separate classifications for obligations involving a codebtor and landlord are not forbidden by the Code.
+ </p>
+<p id="b455-7">
+  Pursuant to Section 1322(b)(1) such classification must not “discriminate unfairly”. The fact that these creditors receive more than other unsecured creditors, certainly is a form of discrimination. But it is not necessarily unfair. It may be that in order for a debtor to avail himself of a Chapter 13 instead of Chapter 7 liquidation, he will have to make special arrangements in the plan for an obligation that a friend or relative cosigned. If he proposes to pay only a percentage of that debt, the creditor can obtain a lift of stay and proceed against the codebtor under Section 1301(c). Likewise, because of a debtor’s financial and family situation and the availability of other housing, it may be necessary to make a special provision for past due rent. Such classifications may not be unfair to other unsecured creditors because if they are not permitted the debtor may be forced to file under Chapter 7 and they may receive nothing. Therefore, the classifications are not ipso facto unfair discrimination.
+ </p>
+<p id="b455-8">
+  Each case must be decided on its own merits. Is there a reasonable basis for the classification? Is the debtor able to perform a plan without the classification? Has the debtor acted in good faith in the proposed classifications? Certainly the debtor should not be permitted to pay a creditor less because of ill will. Another consideration must be the treatment of the class discriminated against. Are they receiving a meaningful payment or is the plan just a sham? Inasmuch as the percentage payments to the other unsecured creditors are not in issue here, I shall not comment on the proposed payments of 5% and 10%.
+ </p>
+<p id="b455-10">
+  I am mindful that this decision may induce creditors to demand a cosigner. However, as pointed out in debtors’ brief, certain provisions of the Code, particularly, Section 522(f) (<span class="citation no-link">11 U.S.C. § 522</span>(f)), which permits the debtor to avoid certain nonpos-sessory, nonpurchase-money security interest may have already had that effect.
+ </p>
+<p id="b455-11">
+  These cases may be reset for confirmation hearings.
+ </p>
+</opinion>

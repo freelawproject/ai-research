@@ -1,0 +1,269 @@
+<p class="case_cite"><span class="citation no-link">16 F.3d 1537</span></p>
+    <p class="case_cite"><span class="citation no-link">65 Empl. Prac. Dec. P 43,366</span></p>
+    <p class="parties">ADARAND CONSTRUCTORS, INC., a Colorado corporation,<br>Plaintiff-Appellant,<br>v.<br>Federico PENA, Secretary of Department of Transportation;<br>Thomas D. Larson, Administrator of the Federal Highway<br>Administration;  Louis N. MacDonald, Administrator of Region<br>VIII of the Federal Highway Administration;  and Jerry<br>Budwig, Division Engineer of the Central Federal Lands<br>Highway Division, Defendants-Appellees.</p>
+    <p class="docket">No. 92-1242.</p>
+    <p class="court">United States Court of Appeals,<br>Tenth Circuit.</p>
+    <p class="date">Feb. 16, 1994.</p>
+    <div class="prelims">
+      <p class="indent">William Perry Pendley, Mountain States Legal Foundation (Todd S. Welch, John G. Nelson, with him on the brief), Denver, Colorado, for plaintiff-appellant.</p>
+      <p class="indent">Lisa J. Stark, Attorney, Civil Rights Division, United States Department of Justice (James P. Turner, Acting Assistant Attorney General, David K. Flynn, Lisa C. Wilson, Attorneys, Civil Rights Division, United States Department of Justice, on the brief), Washington, D.C., for defendants-appellees.</p>
+      <p class="indent">Before HOLLOWAY, GARTH<a class="footnote" href="#fn-s" id="fn-s_ref">*</a> and McKAY, Circuit Judges.</p>
+      <p class="indent">GARTH, Circuit Judge.</p>
+    </div>
+    <div class="num" id="p1">
+      <span class="num">1</span>
+      <p class="indent">This appeal involving a reverse discrimination challenge requires us to review the constitutionality of a federal program designed to provide contract awards for disadvantaged business enterprises.</p>
+    </div>
+    <div class="num" id="p2">
+      <span class="num">2</span>
+      <p class="indent">Appellant Adarand Constructors, Inc.  ("Adarand") appeals an order of the district court granting summary judgment in favor of the Government appellees [hereinafter "Government"].  <span class="citation no-link">790 F.Supp. 240</span>.   On appeal, Adarand raises three arguments.  First, it argues that the district court erred in holding that the proper standard to be applied is found in Fullilove v. Klutznick, <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">448 U.S. 448</a></span>, <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">100 S.Ct. 2758</a></span>, <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">65 L.Ed.2d 902</a></span> (1980), rather than in City of Richmond v. J.A. Croson, Co., <span class="citation" data-id="112176"><a href="/opinion/112176/richmond-v-ja-croson-co/">488 U.S. 469</a></span>, <span class="citation" data-id="112176"><a href="/opinion/112176/richmond-v-ja-croson-co/">109 S.Ct. 706</a></span>, <span class="citation" data-id="112176"><a href="/opinion/112176/richmond-v-ja-croson-co/">102 L.Ed.2d 854</a></span> (1989).</p>
+    </div>
+    <div class="num" id="p3">
+      <span class="num">3</span>
+      <p class="indent">Second, relying on Croson, Adarand asserts that the Central Federal Lands Highway Division (CFLHD) must make specific findings of past discrimination in order to justify its reliance on the disadvantaged business enterprise (DBE) program which furnishes the necessary criteria for the federal agency's implementation of a race-conscious subcontracting compensation clause ("the SCC program").</p>
+    </div>
+    <div class="num" id="p4">
+      <span class="num">4</span>
+      <p class="indent">Third, Adarand contends that section 502 of the Small Business Act, 15 U.S.C. Sec. 644(g), which provides the statutory authorization for the challenged SCC program, is unconstitutional as applied because it impermissibly delegates to federal agencies the authority to develop minority-participation goals and the means for achieving those goals.</p>
+    </div>
+    <div class="num" id="p5">
+      <span class="num">5</span>
+      <p class="indent">Our jurisdiction is invoked under 28 U.S.C. Sec. 1291, and we affirm the district court's judgment of April 21, 1992 for the Government.  We do so, however, on grounds different from those relied upon by the district court.<a class="footnote" href="#fn1" id="fn1_ref">1</a></p>
+    </div>
+    <p>I.</p>
+    <div class="num" id="p6">
+      <span class="num">6</span>
+      <p class="indent">Adarand, a highway construction company run by a white male, sought declaratory and permanent injunctive relief against officials of the federal Department of Transportation (DOT) and other DOT officials on the grounds that the SCC program utilized by the CFLHD violates the equal protection guarantees of the Fifth and Fourteenth Amendments and the privileges and immunities guaranteed by 42 U.S.C. Sec. 1983 and 42 U.S.C. Sec. 2000d (Title VI).<a class="footnote" href="#fn2" id="fn2_ref">2</a>  Adarand's complaint erroneously alleged that the statutory authorization for the SCC program was provided by two transportation assistance acts:  the Surface Transportation Assistance Act of 1982, Pub.L. No. 97-424, Sec. 105(f), <span class="citation no-link">96 Stat. 2097</span>, 2100 (STAA), and its successor, the Surface Transportation and Uniform Relocation Assistance Act of 1987, Pub.L. No. 100-17, Sec. 106(c), <span class="citation no-link">101 Stat. 132</span>, 145 (STURAA).  Both Adarand and the Government filed cross motions for summary judgment with the district court.  The district court also mistakenly determined that the challenged program was authorized by STAA and STURAA.  For purposes of this appeal, both parties stipulate that the SCC program is authorized by section 502 of the Small Business Act, 15 U.S.C. Sec. 644(g), and that the constitutionality of STAA and STURAA is not at issue.</p>
+    </div>
+    <p>A.</p>
+    <div class="num" id="p7">
+      <span class="num">7</span>
+      <p class="indent">The Small Business Act provides the statutory authority for agencies to establish specific utilization goals for disadvantaged small businesses.  15 U.S.C. Sec. 644(g).  In compliance with section 502 of the Small Business Act, the heads of the various federal agencies, including the DOT, must establish annual goals for small business participation in federal procurement contracts.<a class="footnote" href="#fn3" id="fn3_ref">3</a>  <span class="citation no-link">Id.</span> Sec. 644(g)(2).  These goals must present the "maximum practicable opportunity" for small business concerns, including those "owned and controlled by socially and economically disadvantaged individuals."   <span class="citation no-link">Id.</span> Sec. 644(g)(1).</p>
+    </div>
+    <div class="num" id="p8">
+      <span class="num">8</span>
+      <p class="indent">The SCC program was implemented in 1979 by the Federal Lands Highway Program (FLHP) of the Federal Highway Administration (FHWA), an agency within the DOT, to satisfy the agency goals requirement of the Small Business Act.  CFLHD and the other two regional offices of FLHP utilize the SCC program as a means of meeting their respective apportioned shares of the DOT goal for disadvantaged small business participation.  Under the SCC program, a Subcontracting Compensation Clause is included in small-value contracts or where the prime contractor is a small business.  Prime contractors whose DBE subcontracts exceed 10% of the overall contract amount are eligible for incentive payments of up to 1.5% of the original contract amount for utilization of one DBE, or up to 2% for hiring two or more DBEs.  Small business prime contractors are not required to hire DBEs as a contractual condition of eligibility for award of the prime contract.  Rather, the SCC program provides prime contractors with the option of either hiring DBE subcontractors and receiving commensurate incentive payments, or ignoring the option entirely.</p>
+    </div>
+    <div class="num" id="p9">
+      <span class="num">9</span>
+      <p class="indent">To qualify for eligibility under the SCC program, small businesses must demonstrate through an annual certification process that they are indeed socially and economically disadvantaged.  The Subcontracting Compensation Clause and the eligibility criteria comport with section 502 of the Small Business Act.  The eligibility criteria, however, are derived from the DBE regulatory program implemented pursuant to two transportation funding authority acts:  STAA and its renewal act, STURAA.<a class="footnote" href="#fn4" id="fn4_ref">4</a>  A subcontractor thus qualifies for the SCC program if it qualifies for DBE status under STURAA regulations.</p>
+    </div>
+    <div class="num" id="p10">
+      <span class="num">10</span>
+      <p class="indent">As an agency within the federal DOT, CFLHD is not itself subject to STURAA implementing regulations.  See 54 Fed.Reg. 43835-01;  45 Fed.Reg. 21172 (1980);  49 C.F.R. 23.2.  Consequently, small business prime contractors awarded contracts let directly by the CFLHD do not have to satisfy the 10% DBE set-aside required of states and localities who receive STURAA funds for federally-assisted highway contracts.</p>
+    </div>
+    <div class="num" id="p11">
+      <span class="num">11</span>
+      <p class="indent">STURAA, and previously STAA, define "socially and economically disadvantaged individuals" with reference to the Small Business Act.  15 U.S.C. Sec. 637(d).<a class="footnote" href="#fn5" id="fn5_ref">5</a>  Under the Small Business Act, a small business must be at least 51% owned and controlled by individuals who are socially and economically disadvantaged.  <span class="citation no-link">Id.</span>  Members of certain minority racial and ethnic groups and women are presumed socially and economically disadvantaged.<a class="footnote" href="#fn6" id="fn6_ref">6</a>  <span class="citation no-link">Id.</span>   That presumption is rebuttable under the DBE criteria incorporated into CFLHD's SCC program.  Both minority-owned small disadvantaged business enterprises (DBEs) and women-owned small business enterprises (WBEs) may be decertified if it can be established that they are not socially and economically disadvantaged.  Non-minority-owned small businesses also are eligible for DBE certification by the Small Business Administration, provided that they satisfy the same eligibility criteria as minority-owned small businesses.  See 15 U.S.C. Sec. 637(a).</p>
+    </div>
+    <p>B.</p>
+    <div class="num" id="p12">
+      <span class="num">12</span>
+      <p class="indent">On September 15, 1989, the CFLHD awarded a $1-million-plus prime contract to a small business contractor, Mountain Gravel &amp; Construction Company, for a federal highway project in Colorado known as the West Dolores project.<a class="footnote" href="#fn7" id="fn7_ref">7</a>  Funding for the West Dolores project was allocated to CFLHD under STURAA.  Because the contract was let by an agency within the DOT, Mountain Gravel was not required to hire DBEs as part of its contractual obligation for the West Dolores project.  However, anticipating that Mountain Gravel would use DBEs as subcontractors, CFLHD followed its usual practice and added 1% of the bid as a contingent sum to the prime contractor's bottom-line bid.  This contingent amount would be paid to the prime contractor only if 10% of the subcontracts on the West Dolores Project was with DBEs.  The Subcontracting Compensation Clause included in the contract read:</p>
+    </div>
+    <div class="num" id="p13">
+      <span class="num">13</span>
+      <p>Monetary compensation is offered for awarding subcontracts to small business concerns owned and controlled by socially and economically disadvantaged individuals * * * * Compensation is provided to the Contractor to locate, train, utilize, assist, and develop DBEs to become fully qualified contractors in the transportation facilities construction field.  The Contractor shall also provide direct assistance to disadvantaged subcontractors in acquiring the necessary bonding, obtaining price quotations, analyzing plans and specifications, and planning and management of the work.  * * *  The Contractor will become eligible to receive payment under this provision when the dollar amount * * * of the DBE subcontract(s) awarded exceeds [10% for Colorado] of the original [prime] contract award.</p>
+    </div>
+    <div class="num" id="p14">
+      <span class="num">14</span>
+      <p class="indent">Shortly thereafter, Adarand submitted a subcontract bid to Mountain Gravel seeking to construct the guardrail portion of the West Dolores project.  Adarand is not a certified DBE.<a class="footnote" href="#fn8" id="fn8_ref">8</a>  Although Adarand was the lowest bidder, Mountain Gravel exercised the option provided by the SCC program and awarded the subcontract for the guardrail systems to a certified DBE who had submitted a higher bid than Adarand's.  By subcontracting with the DBE, Mountain Gravel thereby became entitled to a bonus payment of approximately $10,000.</p>
+    </div>
+    <div class="num" id="p15">
+      <span class="num">15</span>
+      <p class="indent">Adarand challenged the constitutionality of the SCC program in a lawsuit filed August 10, 1990.  The complaint, inter alia, sought an injunction prohibiting further use of the SCC program.  Believing that the SCC program was instituted pursuant to STAA and STURAA, Adarand's complaint attacked the constitutional validity, both facially and as applied, of those two transportation assistance acts.  The complaint alleged that the use of race and gender as factors in awarding federal procurement contracts in Colorado, without any findings of past discrimination in the state, violated the equal protection guarantees of the Fifth and Fourteenth Amendments and the privileges and immunities guaranteed by 42 U.S.C. Sec. 1983 and 42 U.S.C. Sec. 2000d (Title VI).</p>
+    </div>
+    <div class="num" id="p16">
+      <span class="num">16</span>
+      <p class="indent">In its brief in support of its cross motion for summary judgment, Adarand argued that CFLHD's use of the SCC program to facilitate federal contracting opportunities for DBEs could not withstand strict scrutiny under Croson.   The Government countered in its brief that Fullilove (involving federal remedial programs), and not Croson (involving state and local entities), provided the controlling standard.  The Government also argued that Adarand did not have standing, in any event, to challenge the regulatory program by which STURAA is implemented, because the SCC program was instituted pursuant to section 502 of the Small Business Act, 15 U.S.C. Sec. 644(g), and not STURAA.  In its reply brief, Adarand acknowledged that the SCC program was implemented in response to the agency goals requirement of the Small Business Act.</p>
+    </div>
+    <div class="num" id="p17">
+      <span class="num">17</span>
+      <p class="indent">Relying on the parties' briefs, the district court granted summary judgment in favor of the Government and denied Adarand's summary judgment motion.  790 F.Supp. at 245.   The district court assumed, without explanation, that the case presented a challenge to the constitutionality of the DBE regulatory program promulgated under provisions of STAA and STURAA.  Id. at 242.   Its opinion did not address the standing issue urged upon us by the Government, and made no reference to the SCC program.  The existence of the Small Business Act and the Act's mandate of agency goals for socially and economically disadvantaged small business participation were virtually ignored by the district court.  Rather, the district court concluded, erroneously, that CFLHD "was required by the federal regulations under which CFLHD operates" to adopt STAA's and STURAA's 10% set-aside.<a class="footnote" href="#fn9" id="fn9_ref">9</a>  Id. at 244.</p>
+    </div>
+    <div class="num" id="p18">
+      <span class="num">18</span>
+      <p class="indent">Based on its finding that "the challenged regulations and actions involve only federal actors acting pursuant to congressional mandate," the district court determined that the relaxed standard of Fullilove--and not the strict scrutiny test of Croson--governed this case.  790 F.Supp. at 244.   Applying Fullilove to the facts of this case, the district court found that congressional policies related to remedying discrimination supported the Government's position.  Because "the challenged programs are narrowly tailored to achieve their legitimate purpose," the district court concluded that the challenged program satisfies the requirements of the Fifth and Fourteenth Amendments.  Id. at 245.</p>
+    </div>
+    <p>II.</p>
+    <div class="num" id="p19">
+      <span class="num">19</span>
+      <p class="indent">As a threshold matter, we reject the Government's argument that Adarand does not have standing to challenge section 502 of the Small Business Act, 15 U.S.C. Sec. 644(g), because Adarand had not charged in its complaint that section 502 was unconstitutional.  We are satisfied that Adarand is entitled to attack the constitutional validity of the legislation authorizing the very program which was challenged in its complaint, even though Adarand did not identify section 502.</p>
+    </div>
+    <div class="num" id="p20">
+      <span class="num">20</span>
+      <p class="indent">Adarand and the Government, in their briefs to the district court, both identified section 502 as the statutory basis for the SCC program.  As the Government itself points out, the analysis of the constitutionality of the SCC program under the authority of the Small Business Act is the same as that applied by the district court to STAA and STURAA.  Furthermore, because we conclude that the district court reached the correct conclusion, its order denying Adarand's motion for summary judgment and granting summary judgment in favor of the Government can be affirmed, even though premised on an analysis different from the analysis we employ.  Helvering v. Gowran, <span class="citation" data-id="102870"><a href="/opinion/102870/helvering-v-gowran/">302 U.S. 238</a></span>, 245, <span class="citation" data-id="102870"><a href="/opinion/102870/helvering-v-gowran/">58 S.Ct. 154</a></span>, 157-58, <span class="citation" data-id="102870"><a href="/opinion/102870/helvering-v-gowran/">82 L.Ed. 224</a></span> (1937), reh'g denied, <span class="citation no-link">302 U.S. 781</span>, <span class="citation no-link">58 S.Ct. 478</span>, <span class="citation no-link">82 L.Ed. 603</span> (1938);  Robert-Gay Energy Enters., Inc. v. State Corp. Comm'n of Kansas, <span class="citation no-link">753 F.2d 857</span>, 862 n. 5 (10th Cir.1985).</p>
+    </div>
+    <div class="num" id="p21">
+      <span class="num">21</span>
+      <p class="indent">The Government is on firmer footing when it attacks Adarand's standing to challenge the provisions of the SCC program pertaining to women-owned business enterprises (WBE).  The issue of whether a congressional mandate exists for WBEs as disadvantaged businesses under the SCC program also was raised in Adarand's complaint.  Both parties, however, proceeded before the district court on the apparently shared assumption that the instant controversy concerned only the racial preference aspect of the SCC program.  Because Adarand never argued the point in its motion for summary judgment, the district court was never afforded an opportunity to evaluate the merits of the WBE claim.  Moreover, Adarand did not press this point during arguments before us.</p>
+    </div>
+    <div class="num" id="p22">
+      <span class="num">22</span>
+      <p class="indent">More significantly, Adarand has made no showing that it has a personal stake in the WBE provisions.  It offers no evidence whatsoever that it has been denied a federal subcontract because of a WBE, or that the gender preference of the SCC program prevents it from now bidding on an equal basis for federal subcontracts.  For these reasons, we limit our review only to the constitutionality of the SCC program's racial preference.  See Northeastern Florida Chapter of the Associated Gen. Contractors of Am. v. City of Jacksonville, --- U.S. ----, ----, <span class="citation" data-id="112884"><a href="/opinion/112884/northeastern-fla-chapter-associated-gen-contractors-of-america-v/">113 S.Ct. 2297</a></span>, 2303, <span class="citation" data-id="112884"><a href="/opinion/112884/northeastern-fla-chapter-associated-gen-contractors-of-america-v/">124 L.Ed.2d 586</a></span> (1993).</p>
+    </div>
+    <p>III.</p>
+    <p>A.</p>
+    <div class="num" id="p23">
+      <span class="num">23</span>
+      <p class="indent">We turn now to the merits of the appeal.  Once again we are asked to determine the proper constitutional test for a race-conscious program implemented pursuant to a congressional command.  As in Ellis v. Skinner, <span class="citation no-link">961 F.2d 912</span> (10th Cir.), cert. denied sub nom.  Ellis v. Card, --- U.S. ----, <span class="citation no-link">113 S.Ct. 374</span>, <span class="citation no-link">121 L.Ed.2d 286</span> (1992), resolution of this appeal turns on the question of whether the district court erred in applying the Fullilove standard, rather than the Croson test, to the facts of this case.  Our decision in Ellis provides the answer:  Fullilove controls.</p>
+    </div>
+    <div class="num" id="p24">
+      <span class="num">24</span>
+      <p class="indent">In Fullilove, <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">448 U.S. 448</a></span>, <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">100 S.Ct. 2758</a></span>, <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">65 L.Ed.2d 902</a></span> (1980), the Supreme Court approved the use of a 10% minority business enterprise (MBE) set-aside mandated by Congress.  In rejecting a facial challenge to the constitutionality of the statute authorizing the MBE program, the Court found that Congress acts within its unique and broad powers under the Commerce Clause and section 5 of the Fourteenth Amendment when it imposes an affirmative action program to remedy nationwide discrimination in the construction industry.  Under Fullilove, if Congress has expressly mandated a race-conscious program, a court must apply a lenient standard, resembling intermediate scrutiny, in assessing the program's constitutionality.<a class="footnote" href="#fn10" id="fn10_ref">10</a></p>
+    </div>
+    <div class="num" id="p25">
+      <span class="num">25</span>
+      <p class="indent">In Ellis, we applied the Fullilove test in upholding the constitutionality of the DBE program, as applied by the Utah Department of Transportation as a prerequisite to the receipt of federal funds.  961 F.2d at 916.   In Ellis, we were called upon to decide "whether Utah's failure to seek a waiver is equivalent to a local government enacting its own set-aside program, thus implementing the fact-finding requirements of Croson."  Id. at 915.   We held that it was not.</p>
+    </div>
+    <div class="num" id="p26">
+      <span class="num">26</span>
+      <p class="indent">Although our analysis in Ellis focused on the waiver provisions of the DBE program established by STAA and renewed by STURAA, our opinion made clear that Fullilove provides the proper test for determining the constitutionality of a race-conscious measure authorized by Congress.  Because the white contractor in Ellis stipulated that both STAA and STURAA and their implementing regulations were facially constitutional, we necessarily concluded that Utah was simply obeying a valid congressional command.  Holding that Utah had complied with federal law, we stated that, under such circumstances, " '[W]e do not see how the state can be thought to have violated the Constitution.' "  961 F.2d at 916 (quoting Milwaukee County Pavers Ass'n v. Fiedler, <span class="citation no-link">922 F.2d 419</span> (7th Cir.), cert. denied, --- U.S. ----, <span class="citation no-link">111 S.Ct. 2261</span>, <span class="citation no-link">114 L.Ed.2d 714</span> (1991));  accord Tennessee Asphalt Co. v. Farris, <span class="citation no-link">942 F.2d 969</span>, 975 (6th Cir.1991).</p>
+    </div>
+    <div class="num" id="p27">
+      <span class="num">27</span>
+      <p class="indent">In the instant case, Adarand acknowledges that if the CFLHD is merely doing what Congress ordered it to do, the agency's action is constitutional unless the underlying legislation is unconstitutional.  For purposes of this appeal, Adarand has stipulated that section 502 of the Small Business Act (15 U.S.C. Sec. 644(g)) provides the statutory authority for the SCC program, and that section 502 satisfies the evidentiary requirements of Fullilove.   Adarand also concedes that the CFLHD's utilization of the SCC program is not beyond the agency's delegated power under section 502.  The gravamen of Adarand's argument is that the CFLHD must make particularized findings of past discrimination to justify its race-conscious SCC program under Croson because the precise goals of the challenged SCC program were fashioned and specified by an agency and not by Congress.</p>
+    </div>
+    <div class="num" id="p28">
+      <span class="num">28</span>
+      <p class="indent">We disagree with Adarand's argument that Croson prevents the CFLHD from playing the role envisaged for it by the Small Business Act.  The question of congressional action was not before the Court in Croson.   In Croson, the Supreme Court held that a strict level of scrutiny must be applied to state or local public minority preference programs.  Justice O'Connor's opinion, joined by Chief Justice Rehnquist and Justice White, explicitly distinguished Fullilove on the grounds that state and local governments have no constitutional mandate similar to or equal to Congress's specific constitutional mandate under section 5 to enforce the Fourteenth Amendment.  Rather, section 1 of the Fourteenth Amendment took power away from the states and gave it to Congress.  <span class="citation" data-id="112176"><a href="/opinion/112176/richmond-v-ja-croson-co/">488 U.S. at 490</a></span>, <span class="citation" data-id="112176"><a href="/opinion/112176/richmond-v-ja-croson-co/">109 S.Ct. at 720</a></span> (Opinion of O'Connor, J.).B.</p>
+    </div>
+    <div class="num" id="p29">
+      <span class="num">29</span>
+      <p class="indent">Adarand cites no authority, nor do we know of any, to support the proposition that a federal agency must make independent findings to justify the use of a benign race-conscious program implemented in accordance with federal requirements.<a class="footnote" href="#fn11" id="fn11_ref">11</a>  In contrast to the situation in Croson, no state procurement or minority business policy is implicated by Adarand's claims.  If particularized findings to justify implementation of a federal remedial program are not required of a state, Ellis, 961 F.2d at 916, they clearly are not required of a federal agency, such as CFLHD, which Adarand concedes is obligated to administer the remedial program.</p>
+    </div>
+    <div class="num" id="p30">
+      <span class="num">30</span>
+      <p class="indent">The lesson that we glean from Fullilove and Croson is that the federal government, acting under congressional authority, can engage more freely in affirmative action than states and localities.  Ellis, 961 F.2d at 915-16.   The validity of that proposition was reaffirmed in Metro Broadcasting, Inc. v. FCC, <span class="citation" data-id="112484"><a href="/opinion/112484/metro-broadcasting-inc-v-fcc/">497 U.S. 547</a></span>, <span class="citation" data-id="112484"><a href="/opinion/112484/metro-broadcasting-inc-v-fcc/">110 S.Ct. 2997</a></span>, <span class="citation" data-id="112484"><a href="/opinion/112484/metro-broadcasting-inc-v-fcc/">111 L.Ed.2d 445</a></span>, reh'g denied, <span class="citation no-link">497 U.S. 1050</span>, <span class="citation no-link">111 S.Ct. 15</span>, <span class="citation no-link">111 L.Ed.2d 829</span> (1990), where the Court put to rest any lingering doubts about the continuing vitality of Fullilove:</p>
+    </div>
+    <div class="num" id="p31">
+      <span class="num">31</span>
+      <p>Croson cannot be read to undermine our decision in Fullilove.   In fact, much of the language and reasoning in Croson reaffirmed the lesson of Fullilove that race-conscious classifications adopted by Congress to address racial and ethnic discrimination are subject to a different standard than such classifications prescribed by state and local governments.</p>
+    </div>
+    <div class="num" id="p32">
+      <span class="num">32</span>
+      <p class="indent"><span class="citation no-link">Id.</span> <span class="citation" data-id="112484"><a href="/opinion/112484/metro-broadcasting-inc-v-fcc/">497 U.S. at 565</a></span>, <span class="citation" data-id="112484"><a href="/opinion/112484/metro-broadcasting-inc-v-fcc/">110 S.Ct. at 3009</a></span>.   Indeed, the Metro Broadcasting majority held that even non-remedial race-conscious measures mandated by Congress are constitutionally permissible if they satisfy intermediate scrutiny.<a class="footnote" href="#fn12" id="fn12_ref">12</a></p>
+    </div>
+    <p>C.</p>
+    <div class="num" id="p33">
+      <span class="num">33</span>
+      <p class="indent">By its enactment of section 502, Congress accorded broad discretion to agencies to implement the remedial goals of the Small Business Act.  Although Congress did not dictate specific percentage goals for agencies to meet, the language of section 502 clearly contemplates that agencies will exceed the government-wide DBE participation goal of "not less than 5 percent."  15 U.S.C. Sec. 644(g)(1) (emphasis added).  The legislative history also evidences Congress's intention that each agency establish DBE goals above the 5% government-wide goal established by the President.  H.R.Rep. No. 100-1070, 100th Cong., 2d Sess. 73 (1988), reprinted in 1988 U.S.C.C.A.N. 5401, 5507.  The SCC program is promulgated pursuant to this specific congressional delegation.  In implementing the SCC program, CFLHD thus did exactly what Congress explicitly directed it to do:  provide a means to ensure "the maximum practicable opportunity " for disadvantaged small business participation in federal procurement.  15 U.S.C. Sec. 644(g) (emphasis added).</p>
+    </div>
+    <div class="num" id="p34">
+      <span class="num">34</span>
+      <p class="indent">Adarand's argument that the racial preference of the SCC program is a discretionary agency action ignores the entity which created the presumption of minority disadvantage.  The challenged SCC program derives its eligibility criteria from STAA and STURAA, which in turn incorporated the presumption of section 8(d) of the Small Business Act, 15 U.S.C. Sec. 637(d).  Under section 8(d), a small "socially and economically disadvantaged" business is one that is at least 51% "owned by one or more socially and economically disadvantaged individuals," and "whose management and daily business operations are controlled by one or more of such individuals."   <span class="citation no-link">Id.</span> Sec. 637(d)(3)(C).  Section 8(d) presumes "that socially and economically disadvantaged individuals include Black Americans, Hispanic Americans, Native Americans, Asian Pacific Americans, and other minorities * * *."   <span class="citation no-link">Id.</span>  By incorporating that presumption into STAA and STURAA, Congress reaffirmed its mandate that federal procurement opportunities be made more readily available to qualified minority-owned business enterprises.  That rebuttable presumption also is found in the challenged SCC program.  The SCC program thus provides subcontracting opportunities for the very type of small businesses that Congress had in mind when it enacted section 502 of the Small Business Act.</p>
+    </div>
+    <div class="num" id="p35">
+      <span class="num">35</span>
+      <p class="indent">The conclusion that the CFLHD is acting within the bounds of the statutory authority of the Small Business Act is impelled by Adarand's own concession that the CFLHD's implementation of the SCC program was not beyond the agency's delegated power under section 502.  Because the SCC program comports with the legislative design of the Small Business Act to increase subcontracting opportunities for minority-owned small businesses, it is reasonably related to the purposes of the enabling legislation.  Cf. Hecla Mining Co. v. United States, <span class="citation no-link">909 F.2d 1371</span>, 1375-76 (10th Cir.1990) ("[W]hen Congress explicitly or implicitly delegates to agencies the power to elucidate a specific provision of a statute, the resulting agency action is entitled to deference") (citing Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc., <span class="citation" data-id="111221"><a href="/opinion/111221/chevron-usa-inc-v-natural-resources-defense-council-inc/">467 U.S. 837</a></span>, 843-44, <span class="citation" data-id="111221"><a href="/opinion/111221/chevron-usa-inc-v-natural-resources-defense-council-inc/">104 S.Ct. 2778</a></span>, 2782, <span class="citation" data-id="111221"><a href="/opinion/111221/chevron-usa-inc-v-natural-resources-defense-council-inc/">81 L.Ed.2d 694</a></span> (1984)).</p>
+    </div>
+    <div class="num" id="p36">
+      <span class="num">36</span>
+      <p class="indent">We also disagree with Adarand's argument that Congress must mandate precise percentage goals for minority small business participation.  Such a position ignores the principal lesson of Fullilove.   The splintered Fullilove Court did not uphold the challenged federal program because a specific percentage set-aside was mandated by Congress, but rather because the program, in spite of the racial and ethnic preference, satisfied equal protection requirements.  <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">448 U.S. at 480</a></span>, <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">100 S.Ct. at 2775-76</a></span> (Opinion of Burger, C.J.).  In reaffirming Fullilove as the proper standard for assessing the constitutionality of benign race-conscious measures, the Court in Metro Broadcasting noted that, notwithstanding the " 'great weight' " given to decisions of Congress, even congressionally-mandated benign race-conscious measures must satisfy equal protection requirements.  <span class="citation" data-id="112484"><a href="/opinion/112484/metro-broadcasting-inc-v-fcc/">497 U.S. at 569</a></span>, <span class="citation" data-id="112484"><a href="/opinion/112484/metro-broadcasting-inc-v-fcc/">110 S.Ct. at 3011</a></span> (citation omitted).</p>
+    </div>
+    <p>D.</p>
+    <div class="num" id="p37">
+      <span class="num">37</span>
+      <p class="indent">Because Adarand stipulates that section 502 satisfies the evidentiary requirements of Fullilove, the only question to be resolved is whether the SCC program implemented by the CFLHD is narrowly tailored to achieve the remedial purpose of section 502.  We hold that it is.</p>
+    </div>
+    <div class="num" id="p38">
+      <span class="num">38</span>
+      <p class="indent">The program upheld in Fullilove was the model for the DBE program implemented by the DOT pursuant to STAA and STURAA, and utilized in the SCC program challenged by Adarand.  Although the district court mistakenly treated the challenged program as being authorized by STAA and STURAA, its analysis is equally applicable in assessing the constitutionality of the SCC program under the authority of section 502 of the Small Business Act.</p>
+    </div>
+    <div class="num" id="p39">
+      <span class="num">39</span>
+      <p class="indent">The district court found that the challenged program satisfied Fullilove because it serves important governmental objectives and is substantially related to achievement of those objectives.  790 F.Supp. at 244.   The district court concluded that the challenged program was narrowly tailored to achieve its statutory objectives because it does not mandate its provisions in an inflexible manner.  It ensures minimum impact on non-DBEs because</p>
+    </div>
+    <div class="num" id="p40">
+      <span class="num">40</span>
+      <p>[t]o qualify for DBE status a business must demonstrate, via the annual certification process, that it is a bona fide DBE, eligible to participate in the program.  This annual certification mechanism is reasonably calculated to insure legitimate, qualified participants, so that the program does not become overinclusive in the sense of tolerating abuse of the program by nonDBE's.  Likewise the program is not underinclusive since it provides that businesses not entitled to the presumption of DBE status may apply for certification and establish their qualifications to participate.</p>
+    </div>
+    <div class="num" id="p41">
+      <span class="num">41</span>
+      <p class="indent">Id.</p>
+    </div>
+    <div class="num" id="p42">
+      <span class="num">42</span>
+      <p class="indent">We hold that the SCC program is constitutional because it is narrowly tailored to achieve its significant governmental purpose of providing subcontracting opportunities for small disadvantaged business enterprises, as required under section 502 of the Small Business Act.  The qualifying criteria of the SCC program is not limited to members of racial minority groups.  Because eligibility is based on economic disadvantage, non-minority-owned businesses also are eligible to participate.  The SCC program is not overinclusive since minority businesses that do not satisfy the economic criteria cannot qualify for DBE status.  Furthermore, the SCC program is "appropriately limited in extent and duration" because federal procurement and construction contracting practices are subject to regular "reassessment and reevaluation by Congress."   See Fullilove, <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">448 U.S. at 489</a></span>, <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">100 S.Ct. at 2780</a></span> (Opinion of Burger, C.J.).</p>
+    </div>
+    <div class="num" id="p43">
+      <span class="num">43</span>
+      <p class="indent">Significantly, the SCC program does not require small business prime contractors to submit and adhere to a subcontracting plan with specific DBE goals.  The prime contractor in this case had the option, not the obligation, of subcontracting with a DBE;  it exercised its own judgment (albeit attracted by CFLHD's monetary inducement) in rejecting Adarand's bid for the subcontract.  Because the SCC program induces, rather than compels, prime contractors to hire DBE subcontractors, it cannot be said to violate equal protection requirements.  As Fullilove teaches, "[i]t is not a constitutional defect in this program that it may disappoint the expectations of nonminority firms."  <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">448 U.S. at 484</a></span>, <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">100 S.Ct. at 2778</a></span>.</p>
+    </div>
+    <p>IV.</p>
+    <div class="num" id="p44">
+      <span class="num">44</span>
+      <p class="indent">Having rejected Adarand's arguments, and having held that the district court did not err in relying on Fullilove rather than Croson, that accordingly, no Croson findings were necessary, and that the Small Business Act which authorized the SCC program meets constitutional requirements, we will affirm the district court's order of April 21, 1992 in favor of the Government.</p>
+    </div>
+    <div class="num" id="p45">
+      <span class="num">45</span>
+      <p class="indent">AFFIRMED.</p>
+    </div>
+    <div class="footnotes">
+      <div class="footnote" id="fn-s">
+        <a class="footnote" href="#fn-s_ref">*</a>
+        <p> The Honorable Leonard I. Garth, Senior United States Circuit Judge, United States Court of Appeals for the Third Circuit, sitting by designation</p>
+      </div>
+      <div class="footnote" id="fn1">
+        <a class="footnote" href="#fn1_ref">1</a>
+        <p> Helvering v. Gowran, <span class="citation" data-id="102870"><a href="/opinion/102870/helvering-v-gowran/">302 U.S. 238</a></span>, 245, <span class="citation" data-id="102870"><a href="/opinion/102870/helvering-v-gowran/">58 S.Ct. 154</a></span>, 158, <span class="citation" data-id="102870"><a href="/opinion/102870/helvering-v-gowran/">82 L.Ed. 224</a></span> (1937) ("[T]he rule is settled that if the decision below is correct, it must be affirmed, although the district court relied upon a wrong ground or gave a wrong reason")</p>
+      </div>
+      <div class="footnote" id="fn2">
+        <a class="footnote" href="#fn2_ref">2</a>
+        <p> For ease in reading the various references to acts and agencies referred to within this opinion, we list the following acronyms:</p>
+        <pre>Central Federal Lands Highway Division                      =   CFLHD
+Federal Lands Highway Program                               =   FLHP
+Federal Highway Administration                              =   FHWA
+Federal Department of Transportation                        =   DOT
+Disadvantaged Business Enterprise                           =   DBE
+Subcontracting Compensation Clause                          =   SCC
+Surface Transportation Assistance Act of 1982               =   STAA
+Surface Transportation and Uniform Relocation Act of 1987   =   STURAA</pre>
+      </div>
+      <div class="footnote" id="fn3">
+        <a class="footnote" href="#fn3_ref">3</a>
+        <p> Section 502 of the Small Business Act provides:</p>
+        <p>The President shall annually establish Government-wide goals for procurement contracts awarded to small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals.  The Government-wide goal for participation by small business contracts shall be established at not less than 20 percent of the total value of all prime contract awards for each fiscal year.  The Government-wide goal for participation by small business concerns owned and controlled by socially and economically disadvantaged individuals shall be established at not less than 5 percent of the total value of all prime contract and subcontract awards.  Notwithstanding the Government-wide goal, each agency shall have an annual goal that presents, for that agency, the maximum practicable opportunity for small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals to participate in the performance of contracts let by such agency.   The Administration and the Administrator of the Office of Federal Procurement Policy shall, when exercising their authority pursuant to paragraph (2), insure that the cumulative annual prime contract goals for all agencies meet or exceed the annual Government-wide prime contract goal established by the President pursuant to this paragraph.</p>
+        <p>15 U.S.C. Sec. 644(g)(1) (emphasis added).  These obligations were first codified in 1978 as an amendment to the Small Business Act.  See Pub.L. No. 95-507, <span class="citation no-link">92 Stat. 1770</span>.</p>
+        <p>Pursuant to 15 U.S.C. Sec. 644(g)(2):</p>
+        <p>The head of each Federal agency shall, after consultation with the Administration establish goals for the participation by small business concerns, and by small business concerns owned and controlled by socially and economically disadvantaged individuals, in procurement contracts of such agency.  Goals established under this subsection shall be jointly established by the Administration and the head of each Federal agency and shall realistically reflect the potential of small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals to perform such contracts and to perform subcontracts under such contracts.  * * *</p>
+        <p><span class="citation no-link">Id.</span> (emphasis added).</p>
+      </div>
+      <div class="footnote" id="fn4">
+        <a class="footnote" href="#fn4_ref">4</a>
+        <p> The regulations promulgated by the DOT following enactment of STAA in 1983 created the DBE regulatory program.  Both STAA and STURAA were intended to achieve minority business participation goals primarily through the use of set-asides for qualified subcontractors.  S.Rep. No. 4, 100th Cong., 1st Sess. 11-12 (1987), reprinted in 1987 U.S.C.C.A.N. 66, 76.  STURAA allocates $55 million annually for forest highway construction projects undertaken by federal agencies.  The bulk of funds appropriated under STURAA, however, is granted to state and localities for federally-assisted highway programs</p>
+      </div>
+      <div class="footnote" id="fn5">
+        <a class="footnote" href="#fn5_ref">5</a>
+        <p> Under the Act, "[s]ocially disadvantaged individuals are those that have been subject to racial or ethnic prejudice or cultural bias because of their identity as a member of a group without regard to their individual qualities."  15 U.S.C. Sec. 637(a)(5).  "Economically disadvantaged individuals are those socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged."   <span class="citation no-link">Id.</span> Sec. 637(a)(6)(A).  These definitions also are incorporated into STAA and STURAA</p>
+      </div>
+      <div class="footnote" id="fn6">
+        <a class="footnote" href="#fn6_ref">6</a>
+        <p> These racial minority groups are:  "Black Americans, Hispanic Americans, Native Americans, Asian Pacific Americans, and other minorities * * *."  15 U.S.C. Sec. 637(d)(3)(C).  Both STURAA and the Small Business Act also extends federal procurement opportunities to women-owned small businesses</p>
+      </div>
+      <div class="footnote" id="fn7">
+        <a class="footnote" href="#fn7_ref">7</a>
+        <p> CFLHD includes within its jurisdiction the following states:  Arizona, California, Colorado, Hawaii, Kansas, Nebraska, Nevada, New Mexico, North Dakota, South Dakota, Texas, Utah and Wyoming.  At the time of the contract award for the West Dolores Project, CFLHD's apportioned goal was between 12% and 15% DBE participation in all contracts let by the agency.  The percentage goal represents the portion of dollars of CFLHD's total procurement program.  Neither CFLHD nor any other federal agency is subject to sanctions for failing to satisfy its annual goal.  The head of each federal agency, however, is required to justify any such failure in an annual report to the Small Business Administration.  15 U.S.C. Sec. 644(h)</p>
+      </div>
+      <div class="footnote" id="fn8">
+        <a class="footnote" href="#fn8_ref">8</a>
+        <p> The record gives no indication of the racial composition of Adarand's ownership, although its general manager is a white male and its stockholders include the general manager's wife and two other women</p>
+      </div>
+      <div class="footnote" id="fn9">
+        <a class="footnote" href="#fn9_ref">9</a>
+        <p> The 10% (7% for Wyoming) threshold of CFLHD's subcontracting compensation clause, although modeled on STURAA's set-aside, is an optional goal, not a set-aside.  As discussed supra in text, it is entirely at the discretion of the prime contractor whether to exercise its option under the Subcontracting Compensation Clause, or to ignore it and forego the monetary reward CFLHD offers for hiring DBEs as subcontractors</p>
+      </div>
+      <div class="footnote" id="fn10">
+        <a class="footnote" href="#fn10_ref">10</a>
+        <p> The test of Chief Justice Burger's opinion for the Court is:  (1) whether "the objectives of this legislation are within the power of Congress";  and (2) whether "the limited use of racial and ethnic criteria, in the context presented, is a constitutionally permissible means for achieving the congressional objectives and does not violate the equal protection component of the Due Process Clause of the Fifth Amendment."  Fullilove, <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">448 U.S. at 473</a></span>, <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">100 S.Ct. at 2772</a></span> (Opinion of Burger, C.J.).  Three other members of the Fullilove Court believed that an intermediate scrutiny analysis should be used to determine whether a congressionally-mandated program passes constitutional muster under the Fifth and Fourteenth Amendments.  <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">Id. at 519</a></span>, <span class="citation" data-id="110338"><a href="/opinion/110338/fullilove-v-klutznick/">100 S.Ct. at 2795-96</a></span> (Marshall, J., concurring in judgment).  A majority of the Fullilove Court therefore agreed that strict scrutiny is not the proper test for evaluating a race-conscious remedial program authorized by an act of Congress</p>
+      </div>
+      <div class="footnote" id="fn11">
+        <a class="footnote" href="#fn11_ref">11</a>
+        <p> The principal circuit opinion upon which Adarand relies--H.K. Porter Co. v. Metropolitan Dade County, <span class="citation no-link">975 F.2d 762</span> (11th Cir.1992)--was recently vacated on the joint motion of the parties and remanded for dismissal of the action by the district court.  <span class="citation" data-id="611053"><a href="/opinion/611053/hk-porter-company-inc-v-metropolitan-dade-county-and-john-dyer/">998 F.2d 892</a></span> (11th Cir.1993).  That case, in any event, was inapposite;  it dealt with a local set-aside program and never addressed the issue of a federal agency's implementation of a statutory directive</p>
+      </div>
+      <div class="footnote" id="fn12">
+        <a class="footnote" href="#fn12_ref">12</a>
+        <p> Metro Broadcasting concerned two programs through which the Federal Communications Commission chooses the owner of a broadcast station partly on the basis of an applicant's race, ethnicity, or surname.  In sustaining the program against an equal-protection attack, the Supreme Court first considered the stated aim of the government's program ("enhancing broadcast diversity") and held that this interest qualifies as a sufficiently important governmental goal.  <span class="citation" data-id="112484"><a href="/opinion/112484/metro-broadcasting-inc-v-fcc/">497 U.S. at 563-66</a></span>, <span class="citation" data-id="112484"><a href="/opinion/112484/metro-broadcasting-inc-v-fcc/">110 S.Ct. at 3008-09</a></span>.   Because the program was substantially related to achievement of that objective, it satisfied equal protection requirements</p>
+      </div>
+    </div>
+    

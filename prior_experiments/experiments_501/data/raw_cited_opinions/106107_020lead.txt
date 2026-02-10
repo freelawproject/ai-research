@@ -1,0 +1,359 @@
+<opinion type="majority">
+<author id="b280-14">Mr. Justice Stewart</author>
+<p id="APZ">delivered the opinion of the Court.</p>
+<p id="b280-15">The petitioners were indicted in the United States District Court in Oregon for the offense of intercepting and divulging telephone communications and of conspiracy to do so. 47 U. S. C. §§ 501, 605; 18 U. S. C. § 371. Before trial the petitioners made a motion to suppress as evidence several tape and wire recordings and <page-number citation-index="1" label="207">*207</page-number>a recording machine, which had originally been seized by state law enforcement officers in the home of petitioner Clark under circumstances which, two Oregon courts had found, had rendered the search and seizure unlawful.<footnotemark>1</footnotemark> At the hearing on the motion the district judge assumed without deciding that the articles had been obtained as the result of an unreasonable search and seizure, but denied the motion to suppress because there was no evidence that any “agent of the United States had any knowledge or information or suspicion of any kind that this search was being contemplated or was eventually made by the State officers until they read about it in the newspaper.” At the trial the articles in question were admitted in evidence against the petitioners, and they were convicted.</p>
+<p id="b282-5"><page-number citation-index="1" label="208">*208</page-number>The convictions were affirmed by the Court of Appeals for the Ninth Circuit, 266 F. 2d 588. That court agreed with the district judge that it was unnecessary to determine whether or not the original state search and seizure had been lawful, because there had been no participation by federal officers. “Hence the unlawfulness of the State search and seizure, if indeed they were unlawful, did not entitle defendants to an order of the .District Court suppressing the property seized.” 266 F. 2d, at 594.</p>
+<p id="b282-6">We granted certiorari, 361 U. S. 810, to consider a question of importance in the administration of federal justice. The question is this: May articles obtained as the result of an unreasonable search and seizure by state officers, without involvement of federal officers, be introduced in evidence against a defendant over his timely objection in a federal criminal trial? In a word, we re-examine here the validity of what has come to be called the silver platter doctrine.<footnotemark>2</footnotemark> For the reasons that follow we conclude that this doctrine can no longer be accepted.</p>
+<p id="b282-7">To put the issue in historic perspective, the appropriate starting point must be <em>Weeks </em>v. <em>United States, </em>232 U. S. <page-number citation-index="1" label="209">*209</page-number>383, decided in 1914. It was there that the Court established the rule which excludes in a federal criminal prosecution evidence obtained by federal agents in violation of the defendant's Fourth Amendment rights. The foundation for that decision was set out in forthright words:</p>
+<blockquote id="b283-5">“The effect of the Fourth Amendment is to put the courts of the United States and Federal officials, in the exercise of their power and authority, under limitations and restraints as to the exercise of such power and authority, and to forever secure the people, their persons, houses, papers and effects against all unreasonable searches and seizures under the guise of law. This protection reaches all alike, whether accused of crime or not, and the duty of giving to it force and effect is obligatory upon all entrusted under our Federal system with the enforcement of the laws. The tendency of those who execute the criminal laws of the country to obtain conviction by means of unlawful seizures and enforced confessions, the latter often obtained after subjecting accused persons to unwarranted practices destructive of rights secured by the Federal Constitution, should find no sanction in the judgments of the courts which are charged at all times with the support of the Constitution and to which people of all conditions have a right to appeal for the maintenance of such fundamental rights.</blockquote>
+<blockquote id="b283-6">“. . . If letters and private documents can thus be seized and held and used in evidence against a citizen accused of an offense, the protection of the Fourth Amendment declaring his right to be secure against such searches and seizures is of no value, and, so far as those thus placed are concerned, might as well be stricken from the Constitution. The efforts <page-number citation-index="1" label="210">*210</page-number>of the courts and their officials to bring the guilty to punishment, praiseworthy as they are, are not to be aided by the sacrifice of those great principles established by years of endeavor and suffering which have resulted in their embodiment in the fundamental law of the land.” 232 U. S. 383, 391-393.</blockquote>
+<p id="b284-6">To the exclusionary rule of <em>Weeks </em>v. <em>United States </em>there has been unquestioning adherence for now almost half a century. See <em>Silverthorne Lumber Co. </em>v. <em>United States, </em>251 U. S. 385; <em>Gouled </em>v. <em>United States, </em>255 U. S. 298; <em>Amos </em>v. <em>United States, </em>255 U. S. 313; <em>Agnello </em>v. <em>United States, </em>269 U. S. 20; <em>Go-Bart Co. </em>v. <em>United States, </em>282 U. S. 344; <em>Grau </em>v. <em>United States, </em>287 U. S. 124; <em>McDonald </em>v. <em>United States, </em>335 U. S. 451; <em>United States v. Jeffers, </em>342 U. S. 48.</p>
+<p id="b284-7">But the <em>Weeks </em>case also announced, unobtrusively but nonetheless definitely, another evidentiary rule. Some of the articles used as evidence against Weeks had been unlawfully seized by local police officers acting on their own account. The Court held that the admission of this evidence was not error for the reason that “the Fourth Amendment is not directed to individual misconduct of such officials. Its limitations reach the Federal Government and its agencies.” 232 U. S., at 398. Despité the limited discussion of this second ruling in the <em>Weeks </em>opinion, the right of the prosecutor in a federal criminal trial to avail himself of evidence unlawfully seized by state officers apparently went unquestioned for the next thirty-five years. See, <em>e. g., Byars </em>v. <em>United States, </em>273 U. S. 28, 33; <em>Feldman </em>v. <em>United States, </em>322 U. S. 487, 492.<footnotemark>3</footnotemark></p>
+<p id="b285-4"><page-number citation-index="1" label="211">*211</page-number>That such a rule would engender practical difficulties in an era of expanding federal criminal jurisdiction could not, perhaps, have been foreseen. In any event the difficulties soon appeared. They arose from the entirely commendable practice of state and federal agents to cooperate with each other in the investigation and detection of criminal activity. When in a federal criminal prosecution evidence which had been illegally seized by state officers was sought to be introduced, the question inevitably arose whether there had been such participation by federal agents in the search and seizure as to make applicable the exclusionary rule of <em>Weeks. </em>See <em>Flagg </em>v. <em>United States, </em>233 Fed. 481, 483; <em>United States </em>v. <em>Slusser, </em>270 Fed. 818, 820; <em>United States </em>v. <em>Falloco, </em>277 Fed. 75, 82; <em>Legman </em>v. <em>United States, </em>295 Fed. 474, 476-478; <em>Marron </em>v. <em>United States, </em>8 F. 2d 251, 259; <em>United States </em>v. <em>Brown, </em>8 F. 2d 630, 631.</p>
+<p id="b285-5">This Court first came to grips with the problem in <em>Byars </em>v. <em>United States, </em>273 U. S. 28. There it was held that when the participation of the federal agent in the search was “under color of his federal office” and the search “in substance and effect was a joint operation of the local and federal officers,” then the evidence .must be excluded, because “the effect is the same as though [the federal agent] had engaged in the undertaking as one exclusively his own.” 273 U. S., at 33. In <em>Gambino </em>v. <em>United States, </em>275 U. S. 310, the Court went further. There state officers had seized liquor from the defendants’ automobile after an unlawful search in which no federal officers had participated. The liquor was admitted in evidence against the defendants in their subsequent federal trial for violation of the National Prohibition Act. This <page-number citation-index="1" label="212">*212</page-number>Court reversed the judgments of conviction, holding that the illegally seized evidence should have been excluded. Pointing out that there was “no suggestion that the defendants were committing, at the time of the arrest, search and seizure, any state offense; or that they had done so in the past; or that the [state] troopers believed that they had,” the Court found that “[t]he wrongful arrest, search and seizure were made solely on behalf of the United States.” 275 U. S., at 314, 316.</p>
+<p id="b286-5">Despite these decisions, or perhaps because of them, cases kept arising in which the federal courts were faced with determining whether there had been such participation by federal officers in a lawless state search as to make inadmissible in evidence that which had been seized. And it is fair to say that in their approach to this recurring question, no less than in their disposition of concrete cases, the federal courts did not find themselves in complete harmony, nor even internally self-consistent.<footnotemark>4</footnotemark> No less difficulty was experienced by the courts in determining whether, even in the absence of actual participation by federal agents, the state officers’ illegal search and seizure had nevertheless been made “solely on behalf of the United States.” <footnotemark>5</footnotemark></p>
+<p id="b286-6">But difficult and unpredictable as may have been their application to concrete cases, the controlling principles seemed clear up to 1949. Evidence which had been seized by federal officers in violation of the Fourth Amendment <page-number citation-index="1" label="213">*213</page-number>could not be used in a federal criminal prosecution. Evidence which had been obtained by state agents in an unreasonable search and seizure was admissible, because, as <em>Weeks </em>had pointed out, the Fourth Amendment was not “directed to” the “misconduct of such officials.” But if federal agents had participated in an unreasonable search and seizure by state officers, or if the state officers had acted solely on behalf of the United States, the evidence was not admissible in a federal prosecution.</p>
+<p id="b287-5">Then came <em>Wolf </em>v. <em>Colorado, </em>338 U. S. 25. With the ultimate determination in <em>Wolf </em>— that the Due Process Clause of the Fourteenth Amendment does not itself require state courts to adopt the exclusionary rule with respect to evidence illegally seized by state agents — we are not here directly concerned. But nothing could be of greater relevance to the present inquiry than the underlying constitutional doctrine which <em>Wolf </em>established. For there it was unequivocally determined by a unanimous Court that the Federal Constitution, by virtue of the Fourteenth Amendment, prohibits unreasonable searches and seizures by state officers. “The security of one’s privacy against arbitrary intrusion by the police ... is . . . implicit in ‘the concept of ordered liberty’ and as such enforceable against the States through the Due Process Clause.” 338 U. S. 25, 27-28. The Court has subsequently found frequent occasion to reiterate this statement from <em>Wolf. </em>See <em>Stefanelli </em>v. <em>Minard, </em>342 U. S. 117, 119; <em>Irvine </em>v. <em>California, 347 </em>U. S. 128, 132; <em>Frank </em>v. <em>Maryland, </em>359 U. S. 360, 362-363.</p>
+<p id="b287-6">The foundation upon which the admissibility of state-seized evidence in a federal trial originally rested — that unreasonable state searches did not violate the Federal Constitution — thus disappeared in 1949. This removal of the doctrinal underpinning for the admissibility rule has apparently escaped the attention of most of the federal courts, which have continued to approve the admission of <page-number citation-index="1" label="214">*214</page-number>evidence illegally seized by state officers without so much as even discussing the impact of Wolf.<footnotemark>6</footnotemark> Only two of the courts of appeals which have adhered to the admissibility rule appear to have recognized that <em>Wolf </em>casts doubt upon its continuing validity. <em>Jones </em>v. <em>United States, </em>217 F. 2d 381 (C. A. 8th Cir.); <em>United States </em>v. <em>Benanti, </em>244 F. 2d 389 (C. A. 2d Cir.), reversed on other grounds, 355 U. S. 96. Cf. <em>Kendall </em>v. <em>United States, </em>272 F. 2d 163, 165 (C. A. 5th Cir.). The Court of Appeals for the District of Columbia has been alone in squarely holding “that the Weeks and the Wolf decisions, considered together, make all evidence obtained by unconstitutional search and seizure unacceptable in federal courts.” <em>Hanna </em>v. <em>United States, </em>104 U. S. App. D. C. 205, 209, 260 F. 2d 723, 727.</p>
+<p id="b288-6">Yet this Court’s awareness that the constitutional doctrine of <em>Wolf </em>operated to undermine the logical foundation of the <em>Weeks </em>admissibility rule has been manifest from the very day that <em>Wolf </em>was decided. In <em>Lustig </em>v. <em>United States, </em>338 U. S. 74, decided that day, the prevailing opinion carefully left open the question of the continuing validity of the admissibility rule. “Where there is participation on the part of federal officers,” the opinion said, “it is not necessary to consider what would be the result if the search had been conducted entirely by State officers.” 338 U. S., at 79. And in <em>Benanti </em>v. <em>United States, </em>355 U. S. 96, the Court was at pains to point out that “[i]t has remained an open question in this Court whether evidence obtained solely by state agents in an illegal search may be admissible in federal court . . . .” 355 U. S., at 102, note 10. There the question has stood for 11 years.</p>
+<p id="b289-4"><page-number citation-index="1" label="215">*215</page-number>If resolution of the issue were to be dictated solely by principles of logic, it is clear what our decision would have to be. For surely no distinction can logically be drawn between evidence obtained in violation of the Fourth Amendment and that obtained in violation of the Fourteenth. The Constitution is flouted equally in either case. To the victim it matters not whether his constitutional right has been invaded by a federal agent or by a state officer.<footnotemark>7</footnotemark> It would be a curiously ambivalent rule that would require the courts of the United States to differentiate between unconstitutionally seized evidence upon so arbitrary a basis. Such a distinction indeed would appear to reflect an indefensibly selective evaluation of the provisions of the Constitution. Moreover, it would seem logically impossible to justify a policy that would bar from a federal trial what state officers had obtained in violation of a federal statute, yet would admit that which they had seized in violation of the Constitu-tionffitself. Cf. <em>Benanti </em>v. <em>United States, </em>355 U. S. 96.</p>
+<p id="b290-4"><page-number citation-index="1" label="216">*216</page-number>Mere logical symmetry and abstract reasoning are perhaps not enough, however, to support a doctrine that would exclude relevant evidence from the trial of a federal criminal case. It is true that there is not involved here an absolute or qualified testimonial privilege such as that accorded a spouse, a patient, or a penitent, which irrevocably bars otherwise admissible evidence because of the <em>status </em>of the witness or his relationship to the defendant. Cf. <em>Hawkins </em>v. <em>United States, </em>358 U. S. 74. A rule which would exclude evidence if, and only if, government officials in a particular case had chosen to engage in unlawful <em>conduct </em>is of a different order. Yet, any apparent limitation upon the process of discovering truth in a federal trial ought to be imposed only upon the basis of considerations which outweigh the general need for untrammeled disclosure . of competent and relevant evidence in a court of justice.</p>
+<p id="b290-5">What is here invoked is the Court’s supervisory power over the administration of criminal justice in the federal courts, under which the Court has “from the very beginning -of its history, formulated rules of evidence to be applied in federal criminal prosecutions.” <em>McNabb </em>v. <em>United States, </em>318 U. S. 332, 341. In devising such evi-dentiary rules, we are to be governed by “principles of the common law as they may be interpreted ... in the light of reason and experience.” Rule 26, Fed. Rules Crim. Proc. Determination of the issue before us must ultimately depend, therefore, upon evaluation of the exclusionary rule itself in the context here presented.</p>
+<p id="b290-6">The exclusionary rule has for decades been the subject of ardent controversy. The arguments of its antagonists and of its proponents have been so many times marshalled as to require no lengthy elaboration here. Most of what has been said in opposition to the rule was distilled in a single Cardozo sentence — “The criminal is to go free because the constable has blundered.” <em>People </em>v. <em>Defore, </em><page-number citation-index="1" label="217">*217</page-number>242 N. Y. 13, 21, 150 N. E. 585, 587. The same point was made at somewhat greater length in the often quoted words of Professor Wigmore: “Titus, you have been found guilty of conducting a lottery; Flavius, you have confessedly violated the constitution. Titus ought to suffer imprisonment for crime, and Flavius for contempt. But no! We shall let you <em>both </em>go free. We shall not punish Flavius directly, but shall do so by reversing Titus’ conviction. This is our way of teaching people like Flavius to behave, and of teaching people like Titus to behave, and incidentally of securing respect for the Constitution. Our way of upholding the Constitution is not to strike at the man who breaks it, but to let off somebody else who broke something else.” 8 Wigmore, Evidence (3d ed. 1940), § 2184.</p>
+<p id="b291-5">Yet, however felicitous their phrasing, these objections hardly answer the basic postulate of the exclusionary rule itself. The rule is calculated to prevent, not to repair. Its purpose is to deter — to compel respect for the constitutional guaranty in the only effectively available way— by removing the incentive to disregard it. See <em>Eleuteri </em>v. Rickman, 26 N. J. 506, 513, 141 A. 2d 46, 50. Mr. Justice Jackson summed it up well:</p>
+<blockquote id="b291-6">“Only occasional and more flagrant abuses come to the attention of the courts, and then only those where the search and seizure yields incriminating evidence and the defendant is at least sufficiently compromised to be indicted. If the officers raid a home, an office, or stop and search an automobile but find nothing incriminating, this invasion of the personal liberty of the innocent too often finds no practical redress. There may be, and I am convinced that there are, many unlawful searches of homes and automobiles of innocent people which turn up nothing incriminating, in which no arrest is made, about <page-number citation-index="1" label="218">*218</page-number>which courts do nothing, and about which we never hear.</blockquote>
+<blockquote id="b292-5">“Courts can protect the innocent against such invasions only indirectly and through the medium of excluding evidence obtained against those who frequently are guilty.” <em>Brinegar </em>v. <em>United States, </em>338 U. S. 160, 181 (dissenting opinion).</blockquote>
+<p id="b292-6">Empirical statistics are not available to show that the inhabitants of states which follow the exclusionary rule suffer less from lawless searches and seizures than do those of states which admit evidence unlawfully obtained. Since as a practical matter it is never easy to prove a negative, it is hardly likely that conclusive factual data could ever be assembled. For much the same reason, it cannot positively be demonstrated that enforcement of the criminal law is either more or less effective under either rule.</p>
+<p id="b292-7">But pragmatic evidence of a sort is not wanting. The federal courts themselves have operated under the exclusionary rule of <em>Weeks </em>for almost half a century; yet it has not been suggested either that the Federal Bureau of Investigation has thereby been rendered ineffective, or that the administration of criminal justice in the federal courts has thereby been disrupted.<footnotemark>8</footnotemark> Moreover, the expe<page-number citation-index="1" label="219">*219</page-number>rience of the states is impressive. Not more than half the states continue totally to adhere to the rule that evidence is freely admissible no matter how it was obtained.<footnotemark>9</footnotemark> Most of the others have adopted the exclusionary rule in its entirety; the rest have adopted it in part.<footnotemark>10</footnotemark> The movement towards the rule of exclusion has been halting but seemingly inexorable.<footnotemark>11</footnotemark> Since the <em>Wolf </em>decision one state has switched its position in that direction by legislation,<footnotemark>12</footnotemark> and two others by judicial decision.<footnotemark>13</footnotemark> Another state, uncommitted until 1955, in that year adopted the rule <page-number citation-index="1" label="220">*220</page-number>of exclusion.<footnotemark>14</footnotemark> Significantly, most of the exclusionary states which have had to consider the issue have held that evidence obtained by <em>federal </em>officers in a search and seizure unlawful under the Fourth Amendment must be suppressed in a prosecution in the <em>state </em>courts. <em>State </em>v. <em>Arregui, </em>44 Idaho 43, 254 P. 788; <em>Walters </em>v. <em>Commonwealth, </em>199 Ky. 182, 250 S. W. 839; <em>Little </em>v. <em>State, </em>171 Miss. 818, 159 So. 103; <em>State </em>v. <em>Rebasti, </em>306 Mo. 336, 267 S. W. 858; <em>State </em>v. <em>Hiteshew, </em>42 Wyo. 147, 292 P. 2; see <em>Ramirez </em>v. <em>State, </em>123 Tex. Cr. R. 254, 58 S. W. 2d 829. Compare <em>Rea </em>v. <em>United States, </em>350 U. S. 214.</p>
+<p id="b294-6">The experience in California has been most illuminating. In 1955 the Supreme Court of that State resolutely turned its back on many years of precedent and adopted the exclusionary rule. <em>People </em>v. <em>Cahan, </em>44 Cal. 2d 434, 282 P. 2d 905. “We have been compelled to reach that conclusion because other remedies have completely failed to secure compliance with the constitutional provisions on the part of police officers with the attendant result that the courts under the ■ old rule have been constantly required to participate in, and in effect condone, the lawless activities of law enforcement officers. . . . Experience has demonstrated, however, that neither administrative, criminal nor civil remedies are effective in suppressing lawless searches and seizures. The innocent suffer with the guilty, and we cannot close our eyes to the effect the rule we adopt will have on the rights of those not before the court.” 44 Cal. 2d 434, at 445, 447, 282 P. 2d 905, at 911-912, 913.</p>
+<p id="b294-7">The ■ chief law enforcement officer of California was quoted as having made this practical evaluation of the <em>Cahan </em>decision less than two years later:</p>
+<blockquote id="b294-8">“The over-all effects of the Cahan decision, particularly in view of the rules now worked out by the Supreme Court, have been excellent. A much <page-number citation-index="1" label="221">*221</page-number>greater education, is called for on the part of all peace officers of California. As a result, I am confident they will be much better police officers. I think there is more cooperation with the District Attorneys and this will make for better administration of criminal justice.” <footnotemark>15</footnotemark></blockquote>
+<p id="b295-5">Impressive as is this experience of individual states, even more is to be said for adoption of the exclusionary rule in the particular context here presented — a context which brings into focus considerations of federalism. The very essence of a healthy federalism depends upon the avoidance of needless conflict between state and federal courts. Yet when a federal court sitting in an exclusionary state admits evidence lawlessly seized by state agents, it not only frustrates state policy, but frustrates that policy in a particularly inappropriate and ironic way. For by admitting the unlawfully seized evidence the federal court serves to defeat the state’s effort to assure obedience to the Federal Constitution. In states which have not adopted the exclusionary rule, on the other hand, it would work no conflict with local policy for a federal court to decline to receive evidence unlawfully seized by state officers. The question with which we deal today affects not at all the freedom of the states to develop and apply their own sanctions in their own way. Cf. <em>Wolf </em>v. Colorado, 338 U. S. 25.</p>
+<p id="b295-6">Free and open cooperation between state and federal law enforcement officers is to be commended and encouraged. Yet that kind of cooperation is hardly promoted by a rule that implicitly invites federal officers to withdraw from such association and at least tacitly to ericour-<page-number citation-index="1" label="222">*222</page-number>age state officers in the disregard of constitutionally protected freedom. If, on the other hand, it is understood that the fruit of an unlawful search by state agents will be inadmissible in a federal trial, there can be no inducement to subterfuge and evasion with respect to federal-state cooperation in criminal investigation. Instead, forthright cooperation under constitutional standards will be promoted and fostered.</p>
+<p id="b296-6">It must always be remembered that what the Constitution forbids is not all searches and seizures, but unreasonable searches and seizures. Without pausing to analyze individual decisions, it can fairly be said that in applying the Fourth Amendment this Court has seldom shown itself unaware of the practical demands of effective criminal investigation and law enforcement. Indeed, there are those who think that some of the Court’s decisions have tipped the balance too heavily against the protection of that individual privacy which it was the purpose of the Fourth Amendment to guarantee. See <em>Harris </em>v. <em>United States, </em>331 U. S. 145, 155, 183, 195 (dissenting opinions); <em>United States </em>v. <em>Rabinowitz, </em>339 U. S. 56, 66, 68 (dissenting opinions). In any event, while individual cases have sometimes evoked “fluctuating differences of view,” <em>Abel </em>v. <em>United States, </em>362 U. S. 217, 235, it can hardly be said that in the over-all pattern of Fourth Amendment decisions this Court has been either unrealistic or visionary.</p>
+<p id="b296-7">These, then, are the considerations of reason and experience which point to the rejection of a doctrine that would freely admit in a federal criminal trial evidence seized by state agents in violation of the defendant’s constitutional rights. But there is another consideration— the imperative of judicial integrity. It was of this that Mr. Justice Holmes and Mr. Justice Brandéis so eloquently spoke in <em>Olmstead </em>v. <em>United States, </em>277 U. S. 438, at 469, 471, more than 30 years ago. “For those who <page-number citation-index="1" label="223">*223</page-number>agree with me,” said Mr. Justice Holmes, “no distinction can be taken between the Government as prosecutor and the Government as judge.” 277 U. S., at 470. (Dissenting opinion.) “In a government of laws,” said Mr. Justice Brandéis, “existence of the government will be imperilled if it fails to observe the law scrupulously. Our Government is the potent, the omnipresent teacher. For good or for ill, it teaches the whole people by its example. Crime is contagious. If the Government becomes a lawbreaker, it breeds contempt for law; it invites every man to become a law unto himself; it invites anarchy. To declare that in the administration of the criminal law the end justifies the means — to declare that the Government may commit crimes in order to secure the conviction of a private criminal — would bring terrible retribution. Against that pernicious doctrine this Court should resolutely set its face.” 277 U. S., at 485. (Dissenting opinion.)</p>
+<p id="b297-5">This basic principle was accepted by the Court in <em>McNabb </em>v. <em>United States, </em>318 U. S. 332. There it was held that “a conviction resting on evidence secured through such a flagrant disregard of the procedure which Congress has commanded cannot be allowed to stand without making the courts themselves accomplices in willful disobedience of law.” 318 U. S., at 345. Even less should the federal courts be accomplices in the willful disobedience of a Constitution they are sworn to uphold.</p>
+<p id="b297-6">For these reasons we hold that evidence obtained by state officers during a search which, if conducted by federal officers, would have violated the defendant’s immunity from unreasonable searches and seizures under the Fourth Amendment is inadmissible over the defendant’s timely objection in a federal criminal trial.<footnotemark>16</footnotemark> In deter<page-number citation-index="1" label="224">*224</page-number>mining whether there has been an unreasonable search and seizure by state officers, a federal court must make an independent inquiry, whether or not there has been such an inquiry by a state court, and irrespective of how any such inquiry may have turned out. The test is one of federal law, neither enlarged by what one state court may have countenanced, nor diminished by what another may have colorably suppressed.</p>
+<p id="b298-4">The judgment of the Court of Appeals is set aside, and the case is remanded to the District Court for further proceedings consistent with this opinion.</p>
+<p id="b298-5">
+<em>Vacated and remanded.</em>
+</p>
+<p id="b298-6">APPENDIX TO OPINION OF THE COURT.</p>
+<p id="b298-7">Table <em>I. </em>— Admissibility, <em>in state courts, of evidence illegally seized by state officers.</em></p>
+<p id="b298-9">
+<em>State Pre-Weeks Pre-Wolf Post-Wolf</em>
+</p>
+<p id="b298-10">Alabama_ Admissible_ Admissible_ Partially</p>
+<p id="b298-11">excludable</p>
+<p id="b298-12">Arizona_ _ Admissible_ Admissible</p>
+<p id="b298-13">Arkansas_ Admissible_ Admissible_ Admissible</p>
+<p id="b298-14">California_ Admissible_ Admissible_ Excludable</p>
+<p id="b298-15">Colorado_ _ Admissible_ Admissible</p>
+<p id="b298-16">Connecticut_ Admissible_ Admissible_ Admissible</p>
+<p id="b298-17">Delaware_ _ Admissible_ Excludable</p>
+<p id="b298-18">Florida_ _ Excludable_ Excludable</p>
+<p id="b298-19">Georgia_■_ Admissible_ Admissible_ Admissible</p>
+<p id="b298-20">Idaho_ Admissible_ Excludable_ Excludable</p>
+<p id="b298-21">Illinois_ Admissible.-. Excludable_ Excludable</p>
+<p id="b298-22">Indiana_ _ Excludable_ Excludable</p>
+<p id="b298-23">Iowa_ Excludable... Admissible_ Admissible</p>
+<p id="b298-24">Kansas_ Admissible_ Admissible_ Admissible</p>
+<p id="b298-25">Kentucky_ _ Excludable_ Excludable</p>
+<p id="b298-26">Louisiana_ _ Admissible... Admissible</p>
+<p id="b298-27">Maine_ Admissible_ Admissible_ Admissible</p>
+<p id="AMr">Maryland_ Admissible_ Partially Partially excludable excludable</p>
+<p id="b298-30">Massachusetts_ Admissible_ Admissible_ Admissible</p>
+<p id="b299-4"><page-number citation-index="1" label="225">*225</page-number>Table <em>I. </em>— Admissibility, <em>in state courts, of evidence illegally seized by state officers </em>— Continued.</p>
+<p id="b299-5">
+<em>State Pre-Weeks Pre-Wolf Post-Wolf</em>
+</p>
+<p id="b299-6">Michigan_ Admissible_ Excludable_ Partially . excludable</p>
+<p id="b299-8">Minnesota- Admissible. __ Admissible... Admissible</p>
+<p id="b299-9">Mississippi_ _ Excludable_ Excludable</p>
+<p id="b299-10">Missouri- Admissible_ Excludable... Excludable</p>
+<p id="b299-11">Montana- Admissible_ Excludable_ Excludable</p>
+<p id="b299-12">Nebraska- Admissible... Admissible_ Admissible</p>
+<p id="b299-13">Nevada- - Admissible_ Admissible</p>
+<p id="b299-14">New Hampshire_ Admissible_ Admissible_ Admissible</p>
+<p id="b299-15">New Jersey_ _ Admissible_ Admissible</p>
+<p id="b299-16">New Mexico_ _- Admissible_ Admissible</p>
+<p id="b299-17">New York- Admissible... Admissible_ Admissible</p>
+<p id="b299-18">North Carolina_ Admissible_ Admissible_ Excludable</p>
+<p id="b299-19">North Dakota_ _ Admissible_ Admissible</p>
+<p id="b299-20">Ohio- - Admissible_ Admissible</p>
+<p id="b299-21">Oklahoma_ Admissible_ Excludable_ Excludable</p>
+<p id="b299-22">Oregon- Admissible_ Excludable_ Excludable</p>
+<p id="b299-23">Pennsylvania_ _ Admissible... Admissible</p>
+<p id="b299-24">Rhode Island_ _ _ Excludable</p>
+<p id="b299-25">South Carolina- Admissible_ Admissible_ Admissible</p>
+<p id="b299-26">South Dakota_ Admissible. __ Excludable_ Partially excludable</p>
+<p id="b299-28">Tennessee_... Admissible_ Excludable... Excludable</p>
+<p id="b299-29">Texas- - Excludable_ Excludable</p>
+<p id="b299-30">Utah- - Admissible_ Admissible</p>
+<p id="b299-31">Vermont- Admissible_ Admissible_ Admissible</p>
+<p id="b299-32">Virginia_ _ Admissible_ Admissible</p>
+<p id="b299-33">Washington- Admissible... Excludable... Excludable</p>
+<p id="b299-34">West Virginia_ Admissible_ Excludable_ Excludable</p>
+<p id="b299-35">Wisconsin_ _ Excludable_ Excludable</p>
+<p id="b299-36">Wyoming_ _ Excludable... Excludable</p>
+<p id="b299-37">To admit — 27 To admit — 29 To admit — 24</p>
+<p id="b299-38">To exclude — 1 To exclude— To exclude—</p>
+<p id="b299-39">18. 26<footnotemark>*</footnotemark></p>
+<p id="b299-40">Undecided— Undecided— Undecided—</p>
+<p id="b299-41">20. 1. 0.</p>
+<p id="b300-5"><page-number citation-index="1" label="226">*226</page-number>Table <em>II. </em>— Representative <em>cases by state, considering the admissibility of evidence illegally seized by state officers.</em></p>
+<p id="b300-6">Alabama</p>
+<p id="b300-7">Pre-Weeks: <em>Shields </em>v. <em>State, </em>104 Ala. 35, 16 So. 85 (admissible).</p>
+<p id="b300-8">Pre-Wolf: <em>Banks </em>v. <em>State, </em>207 Ala. 179, 93 So. 293 (admissible).</p>
+<p id="b300-9">Post-Wolf: Cf. <em>Oldham </em>v. <em>State, </em>259 Ala. 507, 67 So. 2d 55 (admissible) .</p>
+<p id="b300-10">(Ala. Code, 1940 (Supp. 1955), Tit. 29, § 210, requires the exclusion of illegally obtained evidence in the trial of certain alcohol control cases.)</p>
+<p id="b300-11">Arizona</p>
+<p id="b300-12">Pre-Weeks: no holding.</p>
+<p id="b300-13">Pre-Wolf: <em>Argetakis </em>v. <em>State, </em>24 Ariz. 599, 212 P. 372 (admissible) .</p>
+<p id="b300-14">Post-Wolf: <em>State </em>v. <em>Thomas, </em>78 Ariz. 52, 275 P. 2d 408 (admissible).</p>
+<p id="b300-15">Arkansas</p>
+<p id="b300-16">Pre-Weeks: <em>Starchman </em>v. <em>State, </em>62 Ark. 538, 36 S. W. 940 (admissible) .</p>
+<p id="b300-17">Pre-Wolf: <em>Benson </em>v. <em>State, </em>149 Ark. 633, 233 S. W. 758 (admissible) .</p>
+<p id="b300-19">Post-Wolf: <em>Lane, Smith &amp; Barg </em>v. <em>State, </em>217 Ark. 114, 229 S. W. 2d 43 (admissible).</p>
+<p id="b300-20">California</p>
+<p id="b300-21">Pre-Weeks: <em>People </em>v. <em>Le Doux, </em>155 Cal. 535, 102 P. 517 (admissible).</p>
+<p id="b300-22">Pre-Wolf: <em>People </em>v. <em>Mayen, </em>188 Cal. 237, 205 P. 435 (admissible) .</p>
+<p id="b300-23">Post-Wolf: <em>People </em>v. <em>Cahan, </em>44 Cal. 2d 434, 282 P. 2d 905 (excludable) .</p>
+<p id="b300-24">Colorado</p>
+<p id="b300-25">Pre-Weeks: no holding.</p>
+<p id="b300-26">Pre-Wolf: <em>Massantonio </em>v. <em>People, </em>77 Colo. 392, 236 P. 1019 (admissible) .</p>
+<p id="b300-27">Post-Wolf: <em>Williams </em>v. <em>People, </em>136 Colo. 164, 315 P. 2d 189 (admissible).</p>
+<p id="b300-28">Connecticut</p>
+<p id="b300-29">Pre-Weeks: <em>State </em>v. <em>Griswold, </em>67 Conn. 290, 34 A. 1046 (admissible) .</p>
+<p id="b300-30">Pre-Wolf: <em>State </em>v. <em>Reynolds, </em>101 Conn. 224, 125 A. 636 (admissible) .</p>
+<p id="b300-31">Post-Wolf: no holding.</p>
+<p id="b300-32">Delaware</p>
+<p id="b300-33">Pre-Weeks: no holding.</p>
+<p id="b300-34">Pre-Wolf: <em>State </em>v. <em>Chuchola, </em>32 Del. 133, 120 A. 212 (admissible).</p>
+<p id="b300-35">Post-Wolf: <em>Rickards </em>v. <em>State, </em>45 Del. 573, 77 A. 2d 199 (excludable) .</p>
+<p id="b301-5"><page-number citation-index="1" label="227">*227</page-number>Florida</p>
+<p id="AxT">Pre-Weeks: no holding.</p>
+<p id="AR">Pre-Wolf: <em>Atz </em>v. <em>Andrews, </em>84 Fla. 43, 94 So. 329 (excludable).</p>
+<p id="A7C">Post-Wolf: <em>Byrd </em>v. <em>State, </em>80 So. 2d 694 (Sup. Ct. Florida) (excludable).</p>
+<p id="Atl">Georgia</p>
+<p id="A6Y">Pre-Weeks: <em>Williams </em>v. <em>State, </em>100 Ga. 511, 28 S. E. 624 (admissible) .</p>
+<p id="ANs">Pre-Wolf: <em>Jackson </em>v. <em>State, </em>156 Ga. 647, 119 S. E. 525 (admissible) .</p>
+<p id="AaQ">Post-Wolf: <em>Atterberry </em>v. <em>State, </em>212 Ga. 778, 95 S. E. 2d 787 (admissible).</p>
+<p id="AhG">Idaho</p>
+<p id="AR4">Pre-Weeks: <em>State </em>v. <em>Bond, </em>12 Idaho 424, 86 P. 43 (admissible).</p>
+<p id="AGk">Pre-Wolf: <em>State </em>v. <em>Arregui, </em>44 Idaho 43, 254 P. 788 (excludable.)</p>
+<p id="Ac1">Post-Wolf: no holding.</p>
+<p id="AeLy">Illinois</p>
+<p id="AsJ">Pre-Weeks: <em>Siebert </em>v. <em>People, </em>143 Ill. 571, 32 N. E. 431 (admissible).</p>
+<p id="Aux">Pre-Wolf: <em>People </em>v. <em>Castree, </em>311 Ill. 392, 143 N. E. 112 (excludable) .</p>
+<p id="AD5H">Post-Wolf: <em>City of Chicago </em>v. Lord, 7 Ill. 2d 379, 130 N. E. 2d 504 (excludable).</p>
+<p id="Av2">Indiana</p>
+<p id="ALv">Pre-Weeks: no holding.</p>
+<p id="AKW">Pre-Wolf: <em>Flum </em>v. <em>State, </em>193 Ind. 585, 141 N. E. 353 (excludable).</p>
+<p id="ASJ">Post-Wolf: <em>Rohlfing </em>v. <em>State, </em>230 Ind. 236, 102 N. E. 2d 199 (excludable) .</p>
+<p id="Ash">Iowa</p>
+<p id="AV8">Pre-Weeks: <em>State </em>v. <em>Sheridan, </em>121 Iowa 164, 96 N. W. 730 (excludable) .</p>
+<p id="ADP">Pre-Wolf: <em>State </em>v. <em>Rowley, </em>197 Iowa 977, 195 N. W. 881 (admissible) .</p>
+<p id="ASf">Post-Wolf: <em>State </em>v. <em>Smith, </em>247 Iowa 500, 73 N. W. 2d 189 (admissible) .</p>
+<p id="AE1Z">Kansas</p>
+<p id="Aic">Pre-Weeks: <em>State </em>v. <em>Miller, </em>63 Kan. 62, 64 P. 1033 (admissible).</p>
+<p id="ApS">Pre-Wolf: <em>State </em>v. <em>Johnson, </em>116 Kan. 58, 226 P. 245 (admissible).</p>
+<p id="Aqo">Post-Wolf: <em>State </em>v. <em>Peasley, </em>179 Kan. 314, 295 P. 2d 627 (admissible) :</p>
+<p id="AOms">Kentucky</p>
+<p id="AmZ">Pre-Weeks: no holding.</p>
+<p id="AKM">Pre-Wolf: <em>Youman v. Commonwealth, </em>189 Ky. 152, 224 S. W. 860 (excludable).</p>
+<p id="AqA"><page-number citation-index="1" label="228">*228</page-number>Post-Wolf: <em>Johnson </em>v. <em>Commonwealth, </em>296 S. W. 2d 210 (Ct. App. Kentucky) (excludable).</p>
+<p id="AKP">Louisiana</p>
+<p id="ARs">Pre-Weeks: no holding.</p>
+<p id="A8q">Pre-Wolf: <em>State </em>v. <em>Fleckinger, </em>162 La. 337, 93 So. 115 (admissible).</p>
+<p id="A0Z">Post-Wolf: <em>State </em>v. <em>Mastricovo, </em>221 La. 312, 59 So. 2d 403 (admissible) .</p>
+<p id="ATk">Maine</p>
+<p id="AHE">Pre-Weeks: <em>State </em>v. <em>Gorham, </em>65 Me. 270 (admissible) (semble).</p>
+<p id="AuxD">Pre-Wolf: <em>State </em>v. <em>Schoppe, </em>113 Me. 10, 92 A. 867 (admissible) <em>(semble),</em></p>
+<p id="ApT">Post-Wolf: <em>no </em>holding.</p>
+<p id="Ag9">MARYLAND</p>
+<p id="AZq">Pre-Weeks: <em>Lawrence </em>v. <em>State, </em>103 Md. 17, 63 A. 96 (admissible).</p>
+<p id="Az4">Pre-Wolf: <em>Meisinger </em>v. <em>State, </em>155 Md. 195, 141 A. 536 (admissible) .</p>
+<p id="AGnC">Post-Wolf: <em>Stevens </em>v. <em>State, </em>202 Md. 117, 95 A. 2d 877 (admissible). (Flack’s Md. Ann. Code, 1951, Art. 35, § 5 requires the exclusion of illegally obtained evidence in the trial of most misdemeanors.)</p>
+<p id="Aaa">Massachusetts</p>
+<p id="AWR">Pre-Weeks: <em>Commonwealth </em>v. <em>Dana, </em>43 Mass. 329 (admissible).</p>
+<p id="A6P">Pre-Wolf: <em>Commonwealths. Wilkins, </em>243 Mass. 356, 138 N. E. 11 (admissible).</p>
+<p id="As2">Post-Wolf: no holding.</p>
+<p id="Av5">Michigan</p>
+<p id="AzD">Pre-Weeks: <em>People </em>v. <em>Aldorfer, </em>164 Mich. 676, 130 N. W. 351 (admissible).</p>
+<p id="A2T">Pre-Wolf: <em>People </em>v. <em>Marxhausen, </em>204 Mich. 559, 171 N. W. 557 (excludable).</p>
+<p id="AZL">Post-Wolf: <em>People </em>v. <em>Hildabridle, </em>353 Mich. 562, 92 N. W. 2d 6 (excludable).</p>
+<p id="AUa">(Art. II, § 10 of the Michigan Constitution of 1908, as amended, sets forth a limited class of items which are not excludable. See <em>People </em>v. <em>Gonzales, </em>356 Mich. 247, 97 N.- W. 2d 16.)</p>
+<p id="A-b">Minnesota</p>
+<p id="Ar0">Pre-Weeks: <em>State </em>v. <em>Strait, </em>94 Minn. 384, 102 N. W. 913 (admissible).</p>
+<p id="A_m">Pre-Wolf: <em>State </em>v. <em>Pluth, </em>157 Minn. 145, 195 N. W. 789 (admissible).</p>
+<p id="AAR">Post-Wolf: no holding.</p>
+<p id="b303-5"><page-number citation-index="1" label="229">*229</page-number>Mississippi</p>
+<p id="b303-6">Pre-Weeks: no holding.</p>
+<p id="b303-7">Pre-Wolf: <em>Tucker </em>v. <em>State, </em>128 Miss. 211, 90 So. 845 (excludable).</p>
+<p id="b303-8">Post-Wolf: <em>Nobles </em>v. <em>State, </em>222 Miss. 827, 77 So. 2d 288 (excludable) .</p>
+<p id="b303-9">Missouri</p>
+<p id="b303-10">Pre-Weeks: <em>State </em>v. <em>Pomeroy, </em>130 Mo. 489, 32 S. W. 1002 (admissible) .</p>
+<p id="b303-11">Pre-Wolf: <em>State </em>v. <em>Owens, </em>302 Mo. 348, 259 S. W. 100 (excludable) .</p>
+<p id="b303-12">Post-Wolf: <em>State </em>v. <em>Hunt, </em>280 S. W. 2d 37 (Sup. Ct. Missouri) (excludable).</p>
+<p id="b303-13">Montana</p>
+<p id="b303-14">Pre-Weeks: <em>State </em>v. <em>Fuller, </em>34 Mont. 12, 85 P. 369 (admissible).</p>
+<p id="b303-15">Pre-Wolf: <em>State ex rel. King </em>v. <em>District Court, </em>70 Mont. 191, 224 P. 862 (excludable).</p>
+<p id="b303-16">Post-Wolf: no holding.</p>
+<p id="b303-17">Nebraska</p>
+<p id="b303-18">Pre-Weeks: <em>Geiger </em>v. <em>State, </em>6 Neb. 545 (admissible).</p>
+<p id="b303-19">Pre-Wolf: <em>Billings </em>v. <em>State, </em>109 Neb. 596, 191 N. W. 721 (admissible) .</p>
+<p id="b303-20">Post-Wolf: <em>Haswell </em>v. <em>State, </em>167 Neb. 169, 92 N. W. 2d 161 (admissible).</p>
+<p id="b303-21">Nevada</p>
+<p id="b303-22">Pre-Weeks:- no holding.</p>
+<p id="b303-23">Pre-Wolf: <em>State </em>v. <em>Chin Gim, </em>47 Nev. 431, 224 P. 798 (admissible) .</p>
+<p id="b303-24">Post-Wolf: no holding.</p>
+<p id="b303-25">New Hampshire</p>
+<p id="b303-26">Pre-Weeks: <em>State </em>v. <em>Flynn, </em>36 N. H. 64 (admissible).</p>
+<p id="b303-27">Pre-Wolf: <em>State </em>v. <em>Agalos, </em>79 N. H. 241, 107 A. 314 (admissible) .</p>
+<p id="b303-28">Post-Wolf: <em>State </em>v. <em>Mara, </em>96 N. H. 463, 78 A. 2d 922 (admissible) .</p>
+<p id="b303-29">New Jersey</p>
+<p id="b303-30">Pre-Weeks: no holding</p>
+<p id="b303-31">Pre-Wolf: <em>State </em>v. <em>Black, </em>5 N. J. Misc. 48, 135 A. 685 (admissible) .</p>
+<p id="b303-32">Post-Wolf: <em>Eleuteri </em>v. <em>Richman, </em>26 N. J. 506, 141 A. 2d 46 (admissible).</p>
+<p id="b303-33">(N. J. Rev. Stat. 33:1-62 provides for the return of items illegally seized in the investigation of certain alcohol control offenses.)</p>
+<p id="b304-4"><page-number citation-index="1" label="230">*230</page-number>New Mexico</p>
+<p id="b304-5">Pre-Weeks: no holding.</p>
+<p id="b304-6">Pre-Wolf: <em>State </em>v. <em>Dillon, </em>34 N. M. 366, 281 P. 474 (admissible) .</p>
+<p id="b304-7">Post-Wolf: <em>Breithaupt </em>v. <em>Abram, </em>58 N. M. 385, 271 P. 2d 827 (admissible).</p>
+<p id="b304-8">New Yoke</p>
+<p id="b304-9">Pre-Weeks: <em>People </em>v. <em>Adams, </em>176 N. Y. 351, 68 N. E. 636 (admissible) .</p>
+<p id="b304-10">Pre-Wolf: <em>People </em>v. <em>Defore, </em>242 N. Y. 13, 150 N. E. 585 (admissible).</p>
+<p id="b304-11">Post-Wolf: <em>People </em>v. <em>Variano, </em>5 N. Y. 2d 391, 157 N. E. 2d 857 (admissible).</p>
+<p id="b304-12">North Carolina</p>
+<p id="b304-13">Pre-Weeks: <em>State </em>v. <em>Wallace, </em>162 N. C. 622, 78 S. E. 1 (admissible).</p>
+<p id="b304-14">Pre-Wolf: <em>State </em>v. <em>Simmons, </em>183 N. C. 684, 110 S. E. 591 (admissible).</p>
+<p id="b304-15">Post-Wolf: <em>State </em>v. <em>Mills, </em>246 N. C. 237, 98 S. E. 2d 329 (excludable) .</p>
+<p id="b304-16">(N. C. Gen. Stat. § 15-27 requires the exclusion of illegally obtained evidence.)</p>
+<p id="b304-17">North Dakota</p>
+<p id="b304-18">Pre-Weeks: no holding.</p>
+<p id="b304-19">Pre-Wolf: <em>State </em>v. <em>Fahn, </em>53 N. D. 203, 205 N. W. 67 (admissible).</p>
+<p id="b304-20">Post-Wolf: no holding.</p>
+<p id="b304-21">Ohio</p>
+<p id="b304-22">Pre-Weeks: no holding.</p>
+<p id="b304-23">Pre-Wolf: <em>State </em>v. <em>Lindway, </em>131 Ohio St. 166, 2 N. E. 2d 490 (admissible).</p>
+<p id="b304-24">Post-Wolf: <em>State </em>v. <em>Mapp, </em>170 Ohio St. 427, 166 N. E. 2d 387 (admissible).</p>
+<p id="b304-25">Oklahoma</p>
+<p id="b304-26">Pre-Weeks: <em>Silva </em>v. <em>State, </em>6 Okla. Cr. 97, 116 P. 199 (admissible).</p>
+<p id="b304-27">Pre-Wolf: <em>Gore </em>v. <em>State, </em>24 Okla. Cr. 394, 218 P. 545 (excludable) .</p>
+<p id="b304-28">Post-Wolf: <em>Hamel </em>v. <em>State, </em>317 P. 2d 285 (Okla. Crim.) (ex-cludable) .</p>
+<p id="b304-29">Oregon</p>
+<p id="b304-30">Pre-Weeks: <em>State </em>v. <em>McDaniel, </em>39 Ore. 161, 65 P. 520 (admissible).</p>
+<p id="b304-31">Pre-Wolf: See <em>State </em>v. <em>Laundy, </em>103 Ore. 443, 204 P. 958 (excludable), although see <em>State </em>v. <em>Folkes, </em>174 Ore. 568, 150 P. 2d 17 (not noticing <em>State v. Laundy).</em></p>
+<p id="b304-32">Post-Wolf: <em>State </em>v. <em>Hoover, </em>219 Ore. 288, 347 P. 2d 69 (questioning <em>Laundy).</em></p>
+<p id="b305-5"><page-number citation-index="1" label="231">*231</page-number>Pennsylvania</p>
+<p id="b305-6">Pre-Weeks: no holding.</p>
+<p id="b305-7">Pre-Wolf: <em>Commonwealth </em>v. <em>Dabbierio, </em>290 Pa. 174, 138 A. 679 (admissible).</p>
+<p id="b305-8">Post-Wolf: <em>Commonwealth </em>v. <em>Chaitt, </em>380 Pa. 532, 112 A. 2d 379 (admissible).</p>
+<p id="b305-9">Rhode Island</p>
+<p id="b305-10">Pre-Weeks: no holding.</p>
+<p id="b305-11">Pre-Wolf: no holding.</p>
+<p id="b305-12">Post-Wolf: <em>State </em>v. <em>Hillman, </em>84 R. I. 396, 125 A. 2d 94 (applying common law rule, but noticing the enactment of the statutory rule).</p>
+<p id="b305-13">(R. I. Gen. Laws, 1956, § 9-19-25 requires the exclusion of illegally obtained evidence.)</p>
+<p id="b305-14">South Carolina</p>
+<p id="b305-15">Pre-Weeks: <em>State </em>v. <em>Atkinson, </em>40 S. C. 363, 18 S. E. 1021 (admissible) .</p>
+<p id="b305-16">Pre-Wolf: <em>State </em>v. <em>Green, </em>121 S. C. 230, 114 S. E. 317 (admissible) .</p>
+<p id="b305-17">Post-Wolf: <em>State </em>v. <em>Anderson, </em>230 S. C. 191, 95 S. E. 2d 164 (admissible).</p>
+<p id="b305-18">South Dakota</p>
+<p id="b305-19">Pre-Weeks: <em>State </em>v. <em>Madison, </em>23 S. D. 584, 122 N. W. 647 (admissible) .</p>
+<p id="b305-20">Pre-Wolf: <em>State </em>v. <em>Gooder, </em>57 S. D. 619, 234 N. W. 610 (excludable) .</p>
+<p id="b305-21">Post-Wolf: <em>State </em>v. <em>Poppenga, </em>76 S. D. 592, 83 N. W. 2d 518 (excludable).</p>
+<p id="b305-22">S. D. Code, 1939, § 34.1102 provides for a limited return to the common-law rule of admissibility. See <em>State </em>v. <em>Lane, </em>76 S. D. 544, 82 N. W. 2d. 286.</p>
+<p id="b305-23">Tennessee</p>
+<p id="b305-24">Pre-Weeks: <em>Cohn </em>v. <em>State, </em>120 Tenn. 61, 109 S. W. 1149 (admissible).</p>
+<p id="b305-25">Pre-Wolf: <em>Hughes </em>v. <em>State, </em>145 Tenn. 544, 238 S. W. 588 (excludable).</p>
+<p id="b305-26">Post-Wolf: <em>Lindsey </em>v. <em>State, </em>191 Tenn. 51, 231 S. W. 2d 380 (excludable).</p>
+<p id="b305-27">Texas</p>
+<p id="b305-28">Pre-Weeks: no holding.</p>
+<p id="b305-29">Pre-Wolf: <em>Chapin </em>v. <em>State, </em>107 Tex. Cr. R. 477, 296 S. W. 1095 (excludable).</p>
+<p id="b306-5"><page-number citation-index="1" label="232">*232</page-number>Post-Wolf: <em>Williamson </em>v. <em>State, </em>156 Tex. Cr. R. 520, 244 S. W. 2d 202 (excludable).</p>
+<p id="b306-6">(Vernon’s Tex. Stat., 1948 (Code Crim. Proc., Art. 72a) requires the exclusion of illegally obtained evidence.)</p>
+<p id="b306-7">Utah</p>
+<p id="b306-8">Pre-Weeks: no holding.</p>
+<p id="b306-9">Pre-Wolf: <em>State </em>v. <em>Aime, </em>62 Utah 476, 220 P. 704 (admissible). Post-Wolf: no holding.</p>
+<p id="b306-10">Vermont</p>
+<p id="b306-11">Pre-Weeks: <em>State </em>v. <em>Mathers, </em>64 Vt. 101, 23 A. 590 (admissible).</p>
+<p id="AR3">Pre-Wolf: <em>State </em>v. <em>Stacy, </em>104 Vt. 379, 160 A. 257 (admissible).</p>
+<p id="ANu">Post-Wolf: <em>In re Raymo, </em>121 Vt. 246, 154 A. 2d 487 (admissible).</p>
+<p id="b306-12">Virginia</p>
+<p id="b306-13">Pre-Weeks: no holding.</p>
+<p id="b306-14">Pre-Wolf: <em>Hall v. Commonwealth, </em>138 Va. 727, 121 S. E. 154 (admissible).</p>
+<p id="b306-15">Post-Wolf: no holding.</p>
+<p id="b306-16">Washington</p>
+<p id="b306-17">Pre-Weeks: <em>State </em>v. <em>Royce, </em>38 Wash. 111, 80 P. 268 (admissible).</p>
+<p id="AmZF">Pre-Wolf: <em>State </em>v. <em>Gibbons, </em>118 Wash. 171, 203 P. 390 (excludable) .</p>
+<p id="b306-18">Post-Wolf: <em>State </em>v. <em>Cyr, </em>40 Wash. 2d 840, 246 P. 2d 480 (excludable) .</p>
+<p id="b306-19">West Virginia</p>
+<p id="b306-20">Pre-Weeks: <em>State </em>v. <em>Edwards, </em>51 W. Va. 220, 41 S. E. 429 (admissible).</p>
+<p id="b306-21">Pre-Wolf: <em>State </em>v. <em>Wills, </em>91 W. Va. 659, 114 S. E. 261 (excludable) .</p>
+<p id="b306-22">Post-Wolf: <em>State </em>v. <em>Calandros, </em>140 W. Va. 720, 86 S. E. 2d 242 (excludable).</p>
+<p id="b306-23">Wisconsin</p>
+<p id="b306-24">Pre-Weeks: no holding.</p>
+<p id="b306-25">Pre-Wolf: <em>Hoyer </em>v. <em>State, </em>180 Wis. 407, 193 N. W. 89 (excludable).</p>
+<p id="A8H">Post-Wolf: <em>State </em>v. <em>Kroening, </em>274 Wis. 266, 79 N. W. 2d 810 (excludable).</p>
+<p id="b306-26">Wyoming</p>
+<p id="b306-27">Pre-Weeks: no holding.</p>
+<p id="b306-28">Pre-Wolf: <em>State </em>v. <em>George, </em>32 Wyo. 223, 231 P. 683 (excludable).</p>
+<p id="ANj">Post-Wolf: no holding.</p>
+<footnote label="1">
+<p id="b281-5"> The state officers, having received information that petitioners had in their possession obscene motion pictures, procured a search warrant to search petitioner Clark’s home. The affidavit upon which the warrant was based recited that “upon information and belief” it was thought that Clark possessed obscene pictures and accompanying sound recordings. The search revealed no obscene pictures, but various paraphernalia believed to have been used in making wiretaps were found and seized.</p>
+<p id="b281-6">Following an appropriate motion, the Multnomah County District Court held the search warrant invalid and ordered suppression of the evidence. This action came, however, after the return of an indictment by a state grand jury, and the local district attorney challenged the power of the district court to suppress evidence once an indictment was in. Accordingly, the question was later argued anew on a motion to suppress in the Circuit Court for. Multnomah County, a court of general criminal jurisdiction. That court held the search unlawful and granted the motion to suppress. The state indictment was subsequently dismissed.</p>
+<p id="b281-7">During the course of these state proceedings federal officers,- acting under a federal search warrant, obtained the articles from the safe-deposit box of a local bank where the state officials had placed them. Shortly after the state case was abandoned, a federal indictment was returned, and the instant prosecution followed.</p>
+</footnote>
+<footnote label="2">
+<p id="b282-8"> The “silver platter” label stems from a phrase first turned in the prevailing opinion in <em>Lustig </em>v. <em>United States, </em>338 U. S. 74, 79. The doctrine has been the subject of much comment in legal periodicals. See, <em>e.g., </em>Allen, The Wolf Casé: Search and Seizure, Federalism, and the Civil Liberties, 45 Ill. L. Rev. 1, 14-25; Galler, The Exclusion of Illegal State Evidence in Federal Courts, 49 J. Crim. L., Criminology <em>&amp; </em>Police Science 455; Kohn, Admissibility in Federal Court of Evidence Illegally Seized by State Officers, 1959 Wash. U. L. Q. 229; Kamisar, <em>Wolf </em>and <em>Lustig </em>Ten Years Later: Illegal State Evidence in State and Federal Courts, 43 Minn. L. Rev. 1083; Parsons, State-Federal Crossfire in Search and Seizure and Self Incrimination, 42 Cornell L. Q. 346, 347-368; Comment, The <em>Benanti </em>Case: State Wiretap Evidence and the Federal Exclusionary Rule, 57 Col. L. Rev. 1159; Comment, Judicial Control of Illegal Search and Seizure, 58 Yale L. J. 144; Notes, 51 Col. L. Rev. 128, 27 Geo. Wash. L. Rev. 392. 5 N. Y. L. F. 301. 6 U. C. L. A. Rev. 703.</p>
+</footnote>
+<footnote label="3">
+<p id="b284-8"> See, <em>e. g., Rettich </em>v. <em>United States, </em>84 F. 2d 118 (C. A. 1st Cir.); <em>Milburne </em>v. <em>United States, </em>77 F. 2d 310 (C. A. 2d Cir.); <em>Miller </em>v. <em>United States, </em>50 F. 2d 505 (C. A. 3d Cir.); <em>Riggs </em>v. <em>United States, </em>299 Fed. 273 (C. A. 4th Cir.); <em>Timonen </em>v. <em>United States, </em>286 Fed. 935 (C. A. 6th Cir.); <em>Fowler </em>v. <em>United States, </em>62 F. 2d 656 (C. A. 7th Cir.) (dictum); <em>Elam </em>v. <em>United States, </em>7 F. 2d 887 (C. A. 8th <page-number citation-index="1" label="211">*211</page-number>Cir.); <em>Brown </em>v. <em>United States, </em>12 F. 2d 926 (C. A. 9th Cir.); <em>Gilbert </em>v. <em>United States, </em>163 F. 2d 325 (C. A. 10th Cir.); <em>Shelton </em>v. <em>United States, </em>83 U. S. App. D. C. 257, 169 F. 2d 665, overruled by <em>Hanna </em>v. <em>United States, </em>104 U. S. App. D. C. 205, 260 F. 2d 723.</p>
+</footnote>
+<footnote label="4">
+<p id="b286-7"> Compare <em>Sutherland </em>v. <em>United States, </em>92 F. 2d 305 (C. A. 4th Cir.); <em>Ward </em>v. <em>United States, </em>96 F. 2d 189 (C. A.. 5th Cir.); <em>Fowler v. United States, </em>62 F. 2d 656 (C. A. 7th Cir.); <em>United States </em>v. <em>Butler, </em>156 F. 2d 897 (C. A. 10th Cir.); with <em>Kitt </em>v. <em>United States, </em>132 F. 2d 920 (C. A. 4th Cir.); <em>Sloane </em>v. <em>United States, </em>47 F. 2d 889 (C. A. 10th Cir.).</p>
+</footnote>
+<footnote label="5">
+<p id="b286-9"> Compare <em>United States v. Jankowski, </em>28 F. 2d 800 (C. A. 2d Cir.); <em>Marsh </em>v. <em>United States, </em>29 F. 2d 172 (C. A. 2d Cir.); with <em>United States </em>v. <em>Butler, </em>156 F. 2d 897 (C. A. 10th Cir.).</p>
+</footnote>
+<footnote label="6">
+<p id="b288-7"> See, e. <em>g., Burjord </em>v. <em>United States, </em>214 F. 2d 124, 125 (C. A. <em>5th </em>Cir.); <em>Ford </em>v. <em>United States, </em>234 F. 2d 835, 837 (C. A. 6th Cir.); <em>United States </em>v. <em>Moses, </em>234 F. 2d 124 (C. A. 7th Cir.); <em>Williams </em>v. <em>United States, 215 </em>F. 2d 695, 696 (C. A. 9th Cir.); <em>Gallegos </em>v. <em>United States, </em>237 F. 2d 694, 696-697 (C. A. 10th Cir.).</p>
+</footnote>
+<footnote label="7">
+<p id="b289-5"> Long before the Court established that the Fourteenth Amendment protects the security of one’s privacy against arbitrary intrusion by state officers, Mr. Justice (then Judge) Cardozo perceived a basic incongruity in a rule which excludes evidence unlawfully obtained by federal officers, but admits in the same court evidence unlawfully obtained by state agents. “The Federal rule as it stands is either too strict or too lax. A Federal prosecutor may take no benefit from evidence collected through the trespass of a Federal officer. . . . He does not have to be so scrupulous about evidence brought to him by others. How finely the line is drawn is seen when we recall that marshals in the service of the nation are on one side of it, and police in the service of.the States on the other. The nation may keep what the servants of the States supply. . . . We must go farther or not so far. The professed object of the trespass rather than the official character of the trespasser should test the rights of government. . . A government would be disingenuous, if, in determining the use that should be made of evidence drawn from such a source, it drew a line between them. This would be true whether they had acted in concert, or apart.” <em>People </em>v. <em>Defore, </em>242 N. Y. 13, 22-23, 150 N. E. 585, 588.</p>
+</footnote>
+<footnote label="8">
+<p id="b292-8"> The Director of the Federal Bureau of Investigation has written as follows:</p>
+<p id="b292-9">“One of the quickest ways for any law enforcement officer to bring public disrepute upon himself, his organization and the entire profession is to be found guilty of a violation of civil rights. Our people may tolerate many mistakes of both intent and performance, but, with unerring instinct, they know that when any person is intentionally deprived of his constitutional rights those responsible have committed no ordinary offense. A crime of this nature, if subtly encouraged by failure to condemn and punish, certainly leads down the road to totalitarianism.</p>
+<p id="b292-10">“Civil rights violations are all the more regrettable because they are so unnecessary. Professional standards in law enforcement pro<page-number citation-index="1" label="219">*219</page-number>vide for fighting crime with intelligence rather than force. ... In matters of scientific crime detection, the services of our FBI Laboratory are available to every duly constituted law enforcement officer in the nation. Full use of these and other facilities should make it entirely unnecessary for any officer to feel the need to use dishonorable methods.</p>
+<p id="AqV-">“Complete protection of civil rights should be a primary concern of every officer. These rights are basic in the law and our obligation to uphold it leaves no room for any other course of action. Although the great majority in our profession have long since adopted that policy, we cannot yet be entirely proud of our record. Incidents which give justification to charges of civil rights violations by law enforcement officers still occur. . . . This state of affairs ought to be taken as a challenge to all of us. Every progressive police administrator and officer must do everything in his power to bring about such an improvement that our conduct and our record will conclusively prove each of these charges to be false.” FBI Law Enforcement Bulletin, September, 1952, pp. 1-2.</p>
+</footnote>
+<footnote label="9">
+<p id="b293-7"> See Appendix, <em>post, </em>pp. 224^-225.</p>
+</footnote>
+<footnote label="10">
+<p id="b293-8"> See Appendix, <em>post, </em>pp. 224-225.</p>
+</footnote>
+<footnote label="11">
+<p id="b293-9"> For a discussion of recent developments in British Commonwealth jurisdictions, see Cowen, The Admissibility of Evidence Procured Through Illegal Searches and Seizures in British Commonwealth Jurisdictions, 5 Vanderbilt L. Rev. 523 (1952). The author concludes upon a survey of Commonwealth decisions “that there is no uniform rule on the admissibility of evidence procured through illegal searches and seizures.” <em>Id., </em>at 546.</p>
+</footnote>
+<footnote label="12">
+<p id="b293-10"> North Carolina. See Appendix, <em>post, </em>p. 230.</p>
+</footnote>
+<footnote label="13">
+<p id="b293-11"> Delaware and California. See Appendix, <em>post, </em>p. 226.</p>
+</footnote>
+<footnote label="14">
+<p id="b294-9"> Rhode Island. See Appendix, <em>post, </em>p. 231.</p>
+</footnote>
+<footnote label="15">
+<p id="b295-7"> Excerpt from letter of Governor Edmund G. Brown, then Attorney General of the State of California, to the Stanford Law Review, quoted in Note, 9 Stan. L. Rev. 515, 538 (1957). See also Barrett, Exclusion of Evidence Obtained by Illegal Searches — A Comment on People vs. Cahan, 43 Cal. L. Rev. 565, 586-588 (1955).</p>
+</footnote>
+<footnote label="16">
+<p id="b297-7"> See Rule 41(e), Fed. Rules Crim. Proc. The defendant, of course, must have “standing” to object. See <em>Jones </em>v. <em>United States, </em>362 U. S. 257.</p>
+</footnote>
+<footnote label="*">
+<p id="b299-42">Alaska and Hawaii both hold illegally obtained evidence to be ex-cludable, although it does not appear that either has passed anew on this question since attaining statehood.</p>
+</footnote>
+</opinion>

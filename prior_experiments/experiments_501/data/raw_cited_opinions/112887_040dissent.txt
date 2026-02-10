@@ -1,0 +1,6 @@
+<opinion type="dissent">
+<author id="b66-5">Justice O’Connor,</author>
+<p id="AO">with whom</p>
+<judges id="Asv">Justice Stevens joins, dissenting.</judges>
+<p id="b66-6">I join Part I of Justice Blackmun’s dissent. In my view, the Court should vacate and remand this case for consideration of the various threshold problems, statutory and regulatory, that may moot the constitutional question urged upon us by the parties. “It is a fundamental rule of judicial restraint ... that this Court will not reach constitutional questions in advance of the necessity of deciding them.” <em>Three Affiliated Tribes of Fort Berthold Reservation </em>v. <em>Wold Engineering, P. C., </em>467 U. S. 138, 167 (1984). That “fundamental rule” suffices to dispose of the case before us, whatever the proper answer to the decidedly hypothetical issue addressed by the Court. I therefore refrain from addressing it myself. See <em>Rust </em>v. <em>Sullivan, </em>500 U. S. 173, 223-225 (1991) (O’Connor, J., dissenting).</p>
+</opinion>

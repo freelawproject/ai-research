@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b693-18">
+  ORDER
+ </p>
+<author id="b693-19">
+  STACEY W. COTTON, Bankruptcy Judge.
+ </author>
+<p id="b693-20">
+  This matter is before the court for consideration of the sufficiency of debtor’s disclosure statement and for valuation of debtor’s sole asset, the real property and improvements consisting of a commercial office park known as “Georgetown Square” which is located at 1720 Old Springhouse Lane, Atlanta, DeKalb County, Georgia (“the property”). This is a core proceeding pursuant to <span class="citation no-link">28 U.S.C. Section 157</span>(b)(2)(A). The court’s findings and conclusions are as follows:
+ </p>
+<p id="b693-21">
+  The Prudential Insurance Company of America (“Prudential”) is the holder of a promissory note in the original principal amount of $875,000.00 which is secured by a deed to secure debt encumbering the property. Georgetown Square, Ltd. (“Georgetown”) holds a nonrecourse wrap around purchase money promissory note in the original principal amount of $1,550,-000.00 which is secured by a wrap around deed to secure debt and security agreement which encumbers the property. Income Equities, Ltd. (“Income Equities”) is the holder of a nonrecourse promissory note in the original principal amount of $435,000.00 which is secured by a deed to secure debt which encumbers the property. Debtor proposes to retain the property under its plan of reorganization.
+ </p>
+<p id="b693-22">
+  Debtor’s proposed plan does not recognize Income Equities as holding any claim, whether secured or unsecured. As debtor states in its first modification to disclosure statement filed July 22, 1988:
+ </p>
+<blockquote id="b693-23">
+  Income Equities, Ltd. holds a third priority deed to secure debt on the property, and the property is worth less than the amounts of the first and second priority deeds to secure debt. Income Equities, Ltd. is not accorded an unsecured claim
+  <span citation-index="1" class="star-pagination" label="622"> 
+   *622
+   </span>
+  because its indebtedness is non-recourse under state law and because its claim is not even partially secured.
+ </blockquote>
+<p id="b694-4">
+  Income Equities objects to debtor’s disclosure statement because it contends that debtor’s plan improperly classifies its claim. Thus, Income Equities asserts that the disclosure statement is inadequate because it does not disclose the correct value of debtor’s property or the proper treatment of its claim under the plan.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+</p>
+<p id="b694-5">
+  At the hearing on this matter, the parties agreed that if the court sustained Income Equities’ objections, this would likely render debtor’s proposed plan of reorganization unconfirmable. A court may refuse to approve a disclosure statement when it is apparent that the plan which accompanies the disclosure statement is not confirmable.
+  <em>
+   In re Unichem Corp.,
+  </em>
+  <span class="citation" data-id="1531201"><a href="/opinion/1531201/in-re-unichem-corp/#98" aria-description="Citation for case: In Re Unichem Corp.">72 B.R. 95, 98</a></span> (Bankr.N.D.Ill.1987),
+  <em>
+   aff'd,
+  </em>
+  <span class="citation" data-id="1965400"><a href="/opinion/1965400/unichem-corp-v-gurtler-in-re-unichem-corp/" aria-description="Citation for case: Unichem Corp. v. Gurtler (In Re Unichem Corp.)">80 B.R. 448</a></span> (N.D.Ill.1987);
+  <em>
+   In re Pecht,
+  </em>
+  <span class="citation" data-id="2010349"><a href="/opinion/2010349/in-re-pecht/#769" aria-description="Citation for case: In Re Pecht">53 B.R. 768, 769-70</a></span> (Bankr.E.D.Va.1985);
+  <em>
+   In re McCall,
+  </em>
+  <span class="citation" data-id="1968882"><a href="/opinion/1968882/in-re-mccall/#243" aria-description="Citation for case: In Re McCall">44 B.R. 242, 243-44</a></span> (Bankr.E.D.Pa.1984);
+  <em>
+   In re Kehn Ranch, Inc.,
+  </em>
+  <span class="citation" data-id="1552168"><a href="/opinion/1552168/in-re-kehn-ranch-inc/#832" aria-description="Citation for case: In Re Kehn Ranch, Inc.">41 B.R. 832, 832-33</a></span> (Bankr.D.S.D.1984);
+  <em>
+   In re Genesee Cement, Inc.,
+  </em>
+  <span class="citation" data-id="1930281"><a href="/opinion/1930281/in-re-genesee-cement-inc/#443" aria-description="Citation for case: In Re Genesee Cement, Inc.">31 B.R. 442, 443-44</a></span> (Bankr.E.D.Mich.1983). This is to avoid engaging in a wasteful and fruitless exercise of sending the disclosure statement to creditors and soliciting votes on the proposed plan when the plan is unconfirmable on its face. Such an exercise in futility only serves to further delay a debtor’s attempts to reorganize. Consideration of whether a debtor's plan satisfies the requirements of <span class="citation no-link">11 U.S.C. Section 1129</span> is generally addressed at confirmation. To conserve judicial resources and debtor’s estate, the court will consider certain provisions of the proposed plan in connection with these objections.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+</p>
+<p id="b694-7">
+  In examining the sufficiency of the disclosure statement, the court will first address Income Equities’ objection to debt- or’s valuation of the property. At the hearing, the parties stipulated into evidence an MAI appraisal valuing the property at $1,650,000.00. In opposition, Income Equities argued that debtor should be bound by the $2,400,000.00 value that it listed on its schedules and cited
+  <em>
+   In re Busman,
+  </em>
+  <span class="citation" data-id="1535252"><a href="/opinion/1535252/in-re-busman/#340" aria-description="Citation for case: In Re Busman">5 B.R. 332, 340</a></span> (Bankr.E.D.N.Y.1980) in support thereof. However, as debtor correctly points out, the $2.4 million was scheduled as the
+  <em>
+   purchase price on September 30, 1982,
+  </em>
+  and not as the current value of the property. Accordingly, because no other evidence of value was presented at the hearing and the MAI appraisal stands undisputed, the court concludes that the current value of the subject property is $1,650,000.00.
+ </p>
+<p id="b694-8">
+  Prudential’s secured claim is approximately $980,000.00, Georgetown’s claim is approximately $1,950,178.00, and Income Equities’ claim is approximately $616,250.00.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  Since the property has a value of only $1,650,000.00, Prudential’s lien is fully secured, Georgetown’s lien is partially secured and Income Equities’ lien is totally unsecured.
+ </p>
+<p id="b694-9">
+  In objecting to the adequacy of the disclosure statement, Income Equities asserts that debtor’s plan improperly proposes to deny it an unsecured claim. Income Equities contends that <span class="citation no-link">11 U.S.C. Section 1111</span>(b) converts its nonrecourse unsecured claim to recourse and that it thus must be provided for in debtor's plan of reorganization. That section provides as follows:
+ </p>
+<blockquote id="b694-10">
+  (b)(1)(A) A claim secured by a lien on property of the estate shall be allowed or disallowed under section 502 of this title the same as if the holder of such claim had recourse against the debtor on ac
+  <span citation-index="1" class="star-pagination" label="623"> 
+   *623
+   </span>
+  count of such claim, whether or not such holder has such recourse, unless
+ </blockquote>
+<blockquote id="b695-4">
+  (i) the class of which such claim is a part elects, by at least two-thirds in amount and more than half in number of allowed claims of such class, application of paragraph (2) of this subsection; or
+ </blockquote>
+<blockquote id="b695-5">
+  (ii) such holder does not have such recourse and such property is sold under section 363 of this title or is to be sold under the plan.
+ </blockquote>
+<blockquote id="b695-6">
+  (B) A class of claims may not elect application of paragraph (2) of this subsection if—
+ </blockquote>
+<blockquote id="b695-7">
+  (i) the interest on account of such claims of the holders of such claims in such property is of inconsequential value; or
+ </blockquote>
+<blockquote id="b695-8">
+  (ii) the holder of a claim of such class has recourse against the debtor on account of such claim and such property is sold under section 363 of this title or is to be sold under the plan.
+ </blockquote>
+<blockquote id="b695-9">
+  (2) If such an election is made, then notwithstanding section 506(a) of this title, such claim is a secured claim to the extent that such claim is allowed.
+ </blockquote>
+<p id="b695-10">
+  <span class="citation no-link">11 U.S.C. Section 1111</span>(b).
+ </p>
+<p id="b695-11">
+  Pursuant to <span class="citation no-link">11 U.S.C. Section 502</span>(b)(1), a creditor’s deficiency claim on a nonrecourse loan is disallowed in bankruptcy. In a Chapter 11 reorganization proceeding, however, the result is not the same. Notwithstanding Section 502(b)(1), Section 1111(b)(1) converts a creditor’s nonrecourse claim secured by a lien on property of the estate into a recourse claim “the same as if the holder of such claim had recourse against the debtor on account of such claim.” The only exceptions to this provision are if the debtor’s property is sold pursuant to Section 363 or under the plan, or if the class of claims is eligible to and makes a Section 1111(b)(2) election.
+ </p>
+<p id="b695-12">
+  The cases which have considered Section 1111(b) all involve issues relating to creditors whose claims are partially secured. These cases make clear that the conversion from nonrecourse to recourse applies when the creditor’s claim is undersecured.
+  <em>
+   See e.g. In re DRW Property Co.,
+  </em>
+  <span class="citation" data-id="1553334"><a href="/opinion/1553334/matter-of-drw-property-co-82/#989" aria-description="Citation for case: Matter of DRW Property Co. 82">57 B.R. 987, 989-90</a></span> (Bankr.N.D.Texas 1986);
+  <em>
+   In re Greenland Vistas, Inc.,
+  </em>
+  <span class="citation" data-id="1934674"><a href="/opinion/1934674/matter-of-greenland-vistas-inc/#367" aria-description="Citation for case: Matter of Greenland Vistas, Inc.">33 B.R. 366, 367-69</a></span> (Bankr.E.D.Mich.1983);
+  <em>
+   General Electric Mortgage Corp. v. South Village, Inc. (In re South Village, Inc.),
+  </em>
+  <span class="citation" data-id="1525577"><a href="/opinion/1525577/general-electric-mortgage-corp-v-south-village-inc-in-re-south/#998" aria-description="Citation for case: General Electric Mortgage Corp. v. South Village, Inc....">25 B.R. 987, 998-1000</a></span> (Bankr.D.Utah 1982). The issue before the court, however, is whether Section 1111(b) converts the nonrecourse claim of a creditor, holding a lien on estate property which is totally unsecured, to a recourse unsecured claim for purposes of Chapter 11 reorganization. For the reasons stated herein, the court concludes that it does.
+ </p>
+<p id="b695-14">
+  Section 1111(b) was enacted by Congress to overrule the result reached in
+  <em>
+   In re Pine Gate Assocs.,
+  </em>
+  <span class="citation no-link">2 B.C.D. 1478</span> (Bankr.N.D.Ga.1976). See
+  <em>
+   In re DRW Property Co.,
+  </em>
+  <span class="citation" data-id="1553334"><a href="/opinion/1553334/matter-of-drw-property-co-82/#989" aria-description="Citation for case: Matter of DRW Property Co. 82">57 B.R. at 989</a></span>;
+  <em>
+   In re Greenland Vistas, Inc.,
+  </em>
+  <span class="citation" data-id="1934674"><a href="/opinion/1934674/matter-of-greenland-vistas-inc/#367" aria-description="Citation for case: Matter of Greenland Vistas, Inc.">33 B.R. at 367</a></span>;
+  <em>
+   In re South Village, Inc.,
+  </em>
+  <span class="citation" data-id="1525577"><a href="/opinion/1525577/general-electric-mortgage-corp-v-south-village-inc-in-re-south/#999" aria-description="Citation for case: General Electric Mortgage Corp. v. South Village, Inc....">25 B.R. at 999</a></span>. At a time when real estate prices were depressed, the debtor limited partnership in
+  <em>
+   Pine Gate
+  </em>
+  used the “cramdown” powers to cash out a nonre-course, undersecured holder of a first priority security deed at the value of the debtor’s property instead of the amount of the debt.
+  <em>
+   Pine Gate,
+  </em>
+  2 B.C.D. at 1487-89. Thus, the creditor received the value of its lien with no payment on its undersecured deficiency and the debtor retained ownership of the property and benefited from any future appreciation of the property. As stated by the court in
+  <em>
+   In re DRW Property Co.,
+  </em>
+  “In the final version of the Bankruptcy Code, Congress included Section 1111(b) to alleviate the
+  <em>
+   Pine Gate
+  </em>
+  problem and to attempt to restore the benefit of the bargain to the non-recourse secured creditor.” <span class="citation" data-id="1553334"><a href="/opinion/1553334/matter-of-drw-property-co-82/#990" aria-description="Citation for case: Matter of DRW Property Co. 82">57 B.R. at 990</a></span>.
+ </p>
+<p id="b695-15">
+  At least one treatise,
+  <em>
+   Collier on Bankruptcy,
+  </em>
+  suggests that a nonrecourse claimant, holding a wholly unsecured lien, is entitled to the allowance of a recourse unsecured claim in Chapter 11.
+  <em>
+   Collier
+  </em>
+  presents an example which is almost identical to the situation herein that lends further support to this court’s conclusion.
+  <em>
+   Collier
+  </em>
+  concludes that, pursuant to Section 1111(b)(1), a creditor holding a nonrecourse claim secured by a lien on estate property which is totally unsecured, like Income Eq
+  <span citation-index="1" class="star-pagination" label="624"> 
+   *624
+   </span>
+  uities, is entitled to have its claim allowed as if the creditor had recourse, notwithstanding Section 502(b)(1). 5
+  <em>
+   Collier on Bankruptcy,
+  </em>
+  paragraph 1111.02, pages 1111-18-19 (15th ed. 1988).
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  This example as well as the language of the statute itself support Income Equities’ position that Section 1111(b)(1) applies to “nonrecourse lien creditors” whose claims are totally unsecured as well as “nonrecourse lien creditors” whose claims are partially unsecured. In Chapter 11, such nonrecourse claims are converted to recourse claims. <span class="citation no-link">11 U.S.C. Section 1111</span>(b)(1).
+ </p>
+<p id="b696-5">
+  For purposes of Chapter 11 reorganization, Section 1111(b)(1) converts a nonre-course “claim secured by a lien on property of the estate” to a recourse claim. It is the existence of a “lien” on estate property that triggers the recourse right under Section 1111(b)(1), not the existence of value to secure it. Clearly, Income Equities is the holder of a claim secured by a lien on property of the debtor’s estate. While there is no value in the property to actually secure it, Income Equities’ claim falls within the ambit of the statute and is converted from nonrecourse to recourse. The statute does not require that the lien on the property be secured by actual value. The court thus concludes that Section 1111(b)(1) applies and Income Equities cannot be denied a claim as debtor proposes. Its claim must be classified and provided for in debtor’s plan.
+ </p>
+<p id="b696-6">
+  Based on the foregoing, the court concludes that Income Equities’ nonrecourse lien claim is unsecured and is converted to a recourse unsecured claim against the debtor pursuant to Section 1111(b)(1). Income Equities is not, however, entitled to make the Section 1111(b)(2) election since its interest in the debtor’s property has no value.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+</p>
+<p id="b696-9">
+  Debtor’s plan is unconfirmable because it fails to provide for Income Equities’ claim. As previously emphasized, a court may decline to approve a disclosure statement when it is obvious that the accompanying plan cannot be confirmed.
+  <em>
+   In re Unichem Corp., supra; In re <span class="citation" data-id="2010349"><a href="/opinion/2010349/in-re-pecht/" aria-description="Citation for case: In Re Pecht">Pecht, supra;</a></span> In re <span class="citation" data-id="1968882"><a href="/opinion/1968882/in-re-mccall/" aria-description="Citation for case: In Re McCall">McCall, supra;</a></span> In re Kehn Ranch, Inc., supra; In re Genesee Cement, Inc., supra.
+  </em>
+  As a result, the court concludes that the disclosure statement does not contain “adequate information” because the classification, proposed treatment and disclosure concerning Income Equities' claim are improper.
+ </p>
+<p id="b696-10">
+  Income Equities next objects to debtor’s disclosure statement on the basis that debt- or’s plan separately and improperly classifies and provides special treatment to the unsecured claim of Civic Bank (“Civic”). Income Equities thus asserts that the disclosure statement is inadequate as a matter of law because of the improper classification and special treatment to be given to Civic’s claim under the plan. The plan provides for a new loan of $85,000.00 to debtor by Civic and for debtor to execute a nonrecourse promissory note to Civic in the amount of Civic’s unsecured claim plus the new advance. The new Civic note is to be secured by a third priority deed to secure debt on the property. Debtor’s plan thus proposes to pay Civic’s unsecured claim in full on a secured basis although there is presently no value in the property to secure the Civic claim. All other unsecured creditors are separately classified and are to receive payment of only thirty (30%) percent on their claims.
+ </p>
+<p id="b697-3">
+<span citation-index="1" class="star-pagination" label="625"> 
+   *625
+   </span>
+  The court thus must examine the question of whether all unsecured claims must be placed in the same class under a Chapter 11 plan. The courts are split on the issue. Some courts take a rigid, inflexible approach to this question and generally conclude that all unsecured claims must be classified together unless a separate class is reasonable and necessary for administrative convenience under <span class="citation no-link">11 U.S.C. Section 1122</span>(b).
+  <em>
+   See Granada Wines, Inc. v. New England Teamsters and Trucking Industry Pension Fund,
+  </em>
+  <span class="citation" data-id="444354"><a href="/opinion/444354/11-collier-bankrcas2d-715-bankr-l-rep-p-70140-5-employee-benefits/#46" aria-description="Citation for case: 11 Collier bankr.cas.2d 715, Bankr. L. Rep. P 70,140, 5...">748 F.2d 42, 46-47</a></span> (1st Cir.1984) (Chapter 11) (relying on Bankruptcy Act cases);
+  <em>
+   In re Fantastic Homes Enterprises, Inc.,
+  </em>
+  <span class="citation" data-id="1968836"><a href="/opinion/1968836/in-re-fantastic-homes-enterprises-inc/#1000" aria-description="Citation for case: In Re Fantastic Homes Enterprises, Inc.">44 B.R. 999, 1000</a></span> (M.D.Fla.1984) (Chapter 11);
+  <em>
+   In re Mastercraft Record Plating, Inc.,
+  </em>
+  <span class="citation" data-id="1533130"><a href="/opinion/1533130/in-re-mastercraft-record-plating-inc/#108" aria-description="Citation for case: In Re Mastercraft Record Plating, Inc.">32 B.R. 106, 108</a></span> (Bankr.S.D.N.Y.1983),
+  <em>
+   rev’d on other grounds,
+  </em>
+  <span class="citation" data-id="2007237"><a href="/opinion/2007237/in-re-mastercraft-record-plating-inc/" aria-description="Citation for case: In Re Mastercraft Record Plating, Inc.">39 B.R. 654</a></span> (S.D.N.Y.1984) (Chapter 11);
+  <em>
+   In re S &amp; W Enterprise,
+  </em>
+  <span class="citation" data-id="1553207"><a href="/opinion/1553207/in-re-s-w-enterprise/#158" aria-description="Citation for case: In Re S &amp; W Enterprise">37 B.R. 153, 158-64</a></span> (Bankr.N.D.Ill.1984) (Chapter 11);
+  <em>
+   In re Pine Lake Village Apartment Co.,
+  </em>
+  <span class="citation" data-id="1956417"><a href="/opinion/1956417/in-re-pine-lake-village-apartment-co/#831" aria-description="Citation for case: In Re Pine Lake Village Apartment Co.">19 B.R. 819, 831</a></span> (Bankr.S.D.N.Y.1982) (Chapter 11);
+  <em>
+   In re Johnson,
+  </em>
+  <span class="citation" data-id="1538195"><a href="/opinion/1538195/in-re-johnson/#728" aria-description="Citation for case: In Re Johnson">69 B.R. 726, 728-29</a></span> (Bankr.W.D.N.Y.1987) (Chapter 13);
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#260" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256, 260-61</a></span> (Bankr.D.Utah 1980) (Chapter 13).
+  <em>
+   See also
+  </em>
+  3
+  <em>
+   Norton Bankruptcy Law and Practice,
+  </em>
+  section 60.05, part 60, pages 7-8 (1988). These cases rely principally on <span class="citation no-link">11 U.S.C. Section 1122</span> which provides as follows:
+ </p>
+<blockquote id="b697-4">
+  (a) Except as provided in subsection (b) of this section, a plan may place a claim or an interest in a particular class only if such claim or interest is substantially similar to the other claims or interests of such class.
+ </blockquote>
+<blockquote id="b697-5">
+  (b) A plan may designate a separate class of claims consisting only of every unsecured claim that is less than or reduced to an amount that the court approves as reasonable and necessary for administrative convenience.
+ </blockquote>
+<p id="b697-6">
+  <span class="citation no-link">11 U.S.C. Section 1122</span>.
+ </p>
+<p id="b697-7">
+  However, other eases take a more flexible and pragmatic approach to the issue and conclude that Section 1122(a) does not require that similar claims necessarily must be placed in the same class.
+  <em>
+   See Teamsters National Freight Industry Negotiating Committee v. U.S. Truck Co. (In re U.S. Truck Co.),
+  </em>
+  <span class="citation" data-id="475775"><a href="/opinion/475775/in-re-us-truck-company-inc-a-michigan-corporation-debtor-teamsters/#584" aria-description="Citation for case: In Re U.S. Truck Company, Inc., a Michigan Corporation,...">800 F.2d 581, 584-87</a></span> (6th Cir.1986) (Chapter 11);
+  <em>
+   In re AOV Industries, Inc. (Appeal of Hawley Fuel Coalmart, Inc.)
+  </em>
+  <span class="citation" data-id="9474963"><a href="/opinion/471584/in-re-aov-industries-inc-hubert-r-bruce-appeal-of-hawley-fuel/#1150" aria-description="Citation for case: In Re Aov Industries, Inc., Hubert R. Bruce, Appeal of...">792 F.2d 1140, 1150</a></span> (D.C.Cir.1986) (Chapter 11);
+  <em>
+   In re Future Energy Corp.,
+  </em>
+  <span class="citation" data-id="1845824"><a href="/opinion/1845824/in-re-future-energy-corp/#491" aria-description="Citation for case: In Re Future Energy Corp.">83 B.R. 470, 491-92, n. 36</a></span> (Bankr.S.D.Ohio 1988) (Chapter 11) (stating that separate classification is permitted in the Sixth Circuit, but finding it inappropriate in that situation);
+  <em>
+   In re AG Consultants Grain Division, Inc.,
+  </em>
+  <span class="citation" data-id="2020853"><a href="/opinion/2020853/in-re-ag-consultants-grain-division-inc/#670" aria-description="Citation for case: In Re AG Consultants Grain Division, Inc.">77 B.R. 665, 670-76</a></span> (Bankr.N.D.Ind.1987) (Chapter 11);
+  <em>
+   In re Mason &amp; Dixon Lines Inc.,
+  </em>
+  <span class="citation" data-id="1855400"><a href="/opinion/1855400/in-re-mason-dixon-lines-inc/#180" aria-description="Citation for case: In Re Mason &amp; Dixon Lines Inc.">63 B.R. 176, 180-81</a></span> (Bankr.M.D.N.C.1986) (Chapter 11);
+  <em>
+   In re White Horse Grain Co.,
+  </em>
+  <span class="citation" data-id="2004284"><a href="/opinion/2004284/in-re-white-horse-grain-co/#17" aria-description="Citation for case: In Re White Horse Grain Co.">60 B.R. 16, 17-18</a></span> (Bankr.E.D.Pa.1986) (Chapter 11);
+  <em>
+   In re Rochem, Ltd.,
+  </em>
+  <span class="citation" data-id="1969649"><a href="/opinion/1969649/matter-of-rochem-ltd/#642" aria-description="Citation for case: Matter of Rochem, Ltd.">58 B.R. 641, 642</a></span> (Bankr.D.N.J.1985) (Chapter 11);
+  <em>
+   In re Planes, Inc.,
+  </em>
+  <span class="citation" data-id="1552974"><a href="/opinion/1552974/in-re-planes-inc/#700" aria-description="Citation for case: In Re Planes, Inc.">48 B.R. 698, 700-02</a></span> (Bankr.N.D.Ga.1985) (Judge Drake) (Chapter 11);
+  <em>
+   In re Huckabee Auto Co.,
+  </em>
+  <span class="citation" data-id="1934553"><a href="/opinion/1934553/matter-of-huckabee-auto-co/#137" aria-description="Citation for case: Matter of Huckabee Auto Co.">33 B.R. 132, 137</a></span> (Bankr.M.D.Ga.1981) (Chapter 11);
+  <em>
+   Barnes v. Whelan (In re Barnes),
+  </em>
+  <span class="citation" data-id="409199"><a href="/opinion/409199/wavalene-n-barnes-v-hon-roger-m-whelan-bankruptcy-judge-cynthia-a/#200" aria-description="Citation for case: Wavalene N. Barnes v. Hon. Roger M. Whelan, Bankruptcy...">689 F.2d 193, 200-02</a></span> (D.C.Cir.1982) (Chapter 13);
+  <em>
+   In re Moore,
+  </em>
+  <span class="citation" data-id="1929333"><a href="/opinion/1929333/in-re-moore/#16" aria-description="Citation for case: In Re Moore">31 B.R. 12, 16</a></span> (Bankr.D.S.C.1983) (Chapter 13);
+  <em>
+   Amfac Distribution Corp. v. Wolff (In re Wolff),
+  </em>
+  <span class="citation" data-id="9686594"><a href="/opinion/1821177/amfac-distribution-corp-v-wolff-in-re-wolff/#511" aria-description="Citation for case: Amfac Distribution Corp. v. Wolff (In Re Wolff)">22 B.R. 510, 511-12</a></span> (Bankr.App. 9th Cir.1982) (Chapter 13);
+  <em>
+   In re Kovich,
+  </em>
+  <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/#405" aria-description="Citation for case: In Re Kovich">4 B.R. 403, 405-07</a></span> (Bankr.W.D.Mich.1980) (Chapter 13);
+  <em>
+   In re Gay,
+  </em>
+  <span class="citation" data-id="1970688"><a href="/opinion/1970688/in-re-gay/#337" aria-description="Citation for case: In Re Gay">3 B.R. 336, 337-38</a></span> (Bankr.D.Colo.1980) (Chapter 13).
+  <em>
+   See also
+  </em>
+  5
+  <em>
+   Collier on Bankruptcy,
+  </em>
+  paragraph 1122.03, page 1122-7 (15th ed. 1988) (“Note that the Code does not require that all claims that are substantially similar be placed in the same class.”)
+ </p>
+<p id="b697-9">
+  This court finds persuasive and will follow the flexible approach to classification of claims. Section 1122 clearly provides that a claim or interest may be placed in a certain class only if it is substantially similar to the other claims or interests in that same class. The cases that follow the flexible approach emphasize that Section 1122 does not mandate that all claims of equal rank “must be” classified together. Rather, the statute requires that claims grouped together in the same class must be homogeneous. As one of these courts stated:
+ </p>
+<blockquote id="AYL">
+  We find unpersuasive the current line of cases that hold Congress intended all unsecured claims of a similar nature to be grouped within one class, unless a
+  <span citation-index="1" class="star-pagination" label="626"> 
+   *626
+   </span>
+  separate classification is established under Section 1122(b).
+ </blockquote>
+<p id="b698-4">
+<em>
+   In re AG Consultants Grain Division, Inc.,
+  </em>
+  <span class="citation" data-id="2020853"><a href="/opinion/2020853/in-re-ag-consultants-grain-division-inc/#675" aria-description="Citation for case: In Re AG Consultants Grain Division, Inc.">77 B.R. at 675</a></span>.
+ </p>
+<p id="b698-5">
+<em>
+   AG Consultants Grain Division
+  </em>
+  contains an excellent analysis of the history of the classification of unsecured claims in support of the court’s conclusion that a plan proponent should have flexibility in classifying claims. As that court observes, those cases following the inflexible approach appear to be attempting to create a statutory requirement regarding classification when no such requirement exists.
+  <em>
+   In re AG Consultants Grain Division, Inc.,
+  </em>
+  <span class="citation" data-id="2020853"><a href="/opinion/2020853/in-re-ag-consultants-grain-division-inc/#670" aria-description="Citation for case: In Re AG Consultants Grain Division, Inc.">77 B.R. at 670-76</a></span>.
+ </p>
+<p id="b698-6">
+  On the other hand, Section 1122 does not prohibit the classification of all unsecured claims in one class. This court is of the view that Congress intended Section 1122 to provide plan proponents wide latitude in classifying claims. Such flexibility both promotes the rehabilitative purposes of Chapter 11 reorganization and enables plan proponents to deal with the complex commercial realities which debtor estates often confront.
+ </p>
+<p id="b698-7">
+  Most of the courts that have adopted the rigid approach to this question of unsecured claims’ classification were faced with problems such as discriminatory treatment, vote manipulation, creation of an impaired class for “cramdown” purposes
+  <em>
+   [See
+  </em>
+  <span class="citation no-link">11 U.S.C. Section 1129</span>(a)(8) and (10)] or the absolute priority rule. Thus, these cases deal with what may appropriately be referred to as “Chapter 11 gerrymandering”, the creation of classes so as to manipulate voting under the plan. As the court in
+  <em>
+   Pine <span class="citation" data-id="1956417"><a href="/opinion/1956417/in-re-pine-lake-village-apartment-co/" aria-description="Citation for case: In Re Pine Lake Village Apartment Co.">Lake, supra,</a></span>
+  </em>
+  stated, “The creation of separate classes of unsecured and unsubordinated claims in order to allow gamesmanship in vote getting is not condoned under the Code.”
+  <em>
+   Pine Lake,
+  </em>
+  <span class="citation" data-id="1956417"><a href="/opinion/1956417/in-re-pine-lake-village-apartment-co/#831" aria-description="Citation for case: In Re Pine Lake Village Apartment Co.">19 B.R. at 831</a></span>. This sentiment was again echoed by the court in
+  <em>
+   S &amp; W Enterprise,
+  </em>
+  <span class="citation" data-id="1553207"><a href="/opinion/1553207/in-re-s-w-enterprise/#160" aria-description="Citation for case: In Re S &amp; W Enterprise">37 B.R. at 160</a></span>, another court employing the more rigid standard of classification.
+ </p>
+<p id="b698-8">
+  This court agrees that there must be “ ‘meaningful controls against unleashing myriad separate classes of unsecured claims’ so as to prevent abusive manipulation.”
+  <em>
+   In re Planes, Inc.,
+  </em>
+  <span class="citation" data-id="1552974"><a href="/opinion/1552974/in-re-planes-inc/#701" aria-description="Citation for case: In Re Planes, Inc.">48 B.R. at 701</a></span>, n. 6 [citing and quoting in part,
+  <em>
+   In re U.S. Truck Co.,
+  </em>
+  <span class="citation" data-id="1908451"><a href="/opinion/1908451/matter-of-us-truck-co-inc/#795" aria-description="Citation for case: Matter of US Truck Co., Inc.">42 B.R. 790, 795</a></span> (Bankr.E.D.Mich.1984) ]. However, employing a rigid, inflexible approach to claim classification is not necessary to accomplish this goal. The confirmation process and requirements appear to provide sufficient safeguards to enable the court to prevent such abuses.
+ </p>
+<p id="b698-10">
+  Based on the present record in this case, the classification of the Civic unsecured claim separately from other unsecured claims does not appear to be designed for voting manipulation or cram-down purposes. Under the provisions of the plan, Civic will advance $85,000.00 in new funds to the debtor. This is a substantial sum which equals approximately thirty-one percent (31%) of Civic’s present unsecured claim. Thus, it appears that the separate classification is proper and for the legitimate purpose of facilitating debtor’s reorganization by providing an infusion of new funds. Since the classification does not appear to be designed for abusive or manipulative purposes, the objection of Income Equities is overruled.
+ </p>
+<p id="b698-11">
+  The court next considers the absolute priority rule which generally provides that a dissenting class of unsecured claims must be provided for in full before any junior class may receive or retain any property under a plan of reorganization. <span class="citation no-link">11 U.S.C. Section 1129</span>(b)(2)(B)(ii);
+  <em>
+   Norwest Bank Worthington v. Ahlers,
+  </em>
+  — U.S. -, <span class="citation" data-id="112020"><a href="/opinion/112020/norwest-bank-worthington-v-ahlers/#966" aria-description="Citation for case: Norwest Bank Worthington v. Ahlers">108 S.Ct. 963, 966</a></span>, <span class="citation" data-id="112020"><a href="/opinion/112020/norwest-bank-worthington-v-ahlers/" aria-description="Citation for case: Norwest Bank Worthington v. Ahlers">99 L.Ed.2d 169</a></span> (1988);
+  <em>
+   In re Maddox,
+  </em>
+  <span class="citation" data-id="1899345"><a href="/opinion/1899345/in-re-maddox/#259" aria-description="Citation for case: In Re Maddox">84 B.R. 251, 259</a></span> (Bankr.N.D.Ga.1987). In the present case, debtor’s plan provides that unsecured creditors will receive thirty (30) cents on the dollar on their claims. The plan also proposes that equity security holders, whose interests are junior to the unsecured creditors’ claims, will retain their partnership interests. Thus, if a senior class dissents, which now seems likely based on the court’s recognition that Income Equities holds an unsecured claim, the plan would be violative of the absolute priority rule.
+ </p>
+<p id="b698-14">
+  Debtor contends, however, that even if a senior impaired class rejects the plan, the
+  <span citation-index="1" class="star-pagination" label="627"> 
+   *627
+   </span>
+  absolute priority rule would not bar confirmation if the equity security holders make a substantial and necessary contribution to the debtor’s reorganization.
+  <em>
+   Case v. Los Angeles Lumber Products Co.,
+  </em>
+  <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/#121" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">308 U.S. 106, 121</a></span>, <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/#10" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">60 S.Ct. 1, 10</a></span>, <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">84 L.Ed. 110</a></span> (1939). The plan provides that the equity security holders will retain their partnership interests and that the limited partners will make contributions totalling $15,000.00. Thus, debtor argues that the “infusion of money or money’s worth” exception to the absolute priority rule as elaborated in
+  <em>
+   Los An-geles Lumber
+  </em>
+  applies here.
+ </p>
+<p id="b699-4">
+  The court notes that the Supreme Court in
+  <em>
+   <span class="citation" data-id="112020"><a href="/opinion/112020/norwest-bank-worthington-v-ahlers/" aria-description="Citation for case: Norwest Bank Worthington v. Ahlers">Ahlers</a></span>
+  </em>
+  specifically stated that it was making no decision regarding the continued vitality of the
+  <em>
+   Los Angeles Lumber
+  </em>
+  exception following enactment of the Bankruptcy Code.
+  <em>
+   Ahlers,
+  </em>
+  <span class="citation" data-id="112020"><a href="/opinion/112020/norwest-bank-worthington-v-ahlers/#967" aria-description="Citation for case: Norwest Bank Worthington v. Ahlers">108 S.Ct. at 967, n. 3</a></span>. Likewise, determination of this issue is not necessary to the present decision. Suffice it to say that the proposal raises questions concerning the adequacy of the proposed contribution by the limited partners so as to warrant retention of the partnership interests
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  , especially considering the debt structure on the property.
+  <em>
+   Travelers Insurance Co. v. Olson (In re Olson),
+  </em>
+  <span class="citation" data-id="1965276"><a href="/opinion/1965276/travelers-insurance-co-v-olson-in-re-olson/#936" aria-description="Citation for case: Travelers Insurance Co. v. Olson (In Re Olson)">80 B.R. 935, 936-37</a></span> (Bankr.C.D.Ill.1987).
+  <em>
+   See generally Teamsters National Freight Industry Negotiating Committee v. U.S. Truck Co. (In re U.S. Truck Co.),
+  </em>
+  <span class="citation" data-id="475775"><a href="/opinion/475775/in-re-us-truck-company-inc-a-michigan-corporation-debtor-teamsters/#587" aria-description="Citation for case: In Re U.S. Truck Company, Inc., a Michigan Corporation,...">800 F.2d 581, 587-88</a></span> (6th Cir.1986);
+  <em>
+   Official Creditors’ Committee on Behalf of Class 8 Unsecured Creditors v. Potter Material Service, Inc. (In re Potter Material Service, Inc.),
+  </em>
+  <span class="citation" data-id="463262"><a href="/opinion/463262/in-re-potter-material-service-inc-debtor-official-creditors-committee/#101" aria-description="Citation for case: In Re Potter Material Service, Inc., Debtor. Official...">781 F.2d 99, 101</a></span> (7th Cir.1986). Further modification of debtor’s plan and disclosure statement is obviously required and may well cure any potential problem. Accordingly, it is
+ </p>
+<p id="b699-5">
+  ORDERED that the court fixes the value of the property for purposes of debtor’s plan at $1,650,000.00, and it is
+ </p>
+<p id="b699-6">
+  ORDERED that Income Equities' nonre-course claim secured by a lien on property of the estate is converted to recourse pursuant to <span class="citation no-link">11 U.S.C. § 1111</span>(b)(1), that there is no value in the estate property to secure its lien and that Income Equities has an unsecured claim against the debtor which must be provided for under any plan of reorganization, and it is
+ </p>
+<p id="b699-11">
+  ORDERED that approval of debtor’s disclosure statement is DENIED for the reasons previously stated herein.
+ </p>
+<p id="b699-12">
+  IT IS SO ORDERED.
+ </p>
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b694-6">
+   .Section 1125(b) provides that a plan proponent may not solicit acceptances or rejections of a proposed plan of reorganization unless there is transmitted to the creditors a written disclosure statement which has been approved by the court after notice and a hearing. In order to approve the disclosure statement, the court must determine that it contains “adequate information.”
+   <em>
+    See
+   </em>
+   <span class="citation no-link">11 U.S.C. Section 1125</span>(a).
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b694-11">
+   . Section 1129 of the Bankruptcy Code sets out the requirements for confirmation of a Chapter 11 plan.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b694-12">
+   . Interest of approximately 165,000.00 and acceleration default interest of approximately $25,000.00 on Income Equities’ claim remain in dispute, but resolution thereof is not necessary to the court's decision.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b696-7">
+   . The example deals with a debtor partnership with an apartment building valued at $7.5 million which is encumbered by a $5 million non-recourse first mortgage, a $3 million nonre-course second mortgage, and a $2 million non-recourse third mortgage. Thus, the first mortgagee, like Prudential, is secured, the second mortgagee, like Georgetown, is undersecured, and the third mortgagee, like Income Equities, is totally unsecured.
+   <em>
+    Collier
+   </em>
+   concludes that:
+  </p>
+<blockquote id="ACt">
+   Pursuant to section 1111(b)(1) ... the second mortgagee will have an unsecured claim of $500,000 and the third mortgagee will have an unsecured claim of $2,000,000, which claims must be allowed notwithstanding section 502(b)(1).
+  </blockquote>
+<p id="b696-12">
+   5.
+   <em>
+    Collier on Bankruptcy,
+   </em>
+   paragraph 1111.02, page 1111-19 (15th ed. 1988) (emphasis added).
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b696-13">
+   .
+   <em>
+    See
+   </em>
+   <span class="citation no-link">11 U.S.C. § 1111</span>(b)(1)(B): "A class of claims may not elect ... if the interest ... in such property is of inconsequential value.”
+   <em>
+    See also In re Baxley,
+   </em>
+   <span class="citation" data-id="1531295"><a href="/opinion/1531295/in-re-baxley/#198" aria-description="Citation for case: In Re Baxley">72 B.R. 195, 198-99</a></span> (Bankr.D.S.C.1986); 5
+   <em>
+    Collier on Bankruptcy,
+   </em>
+   paragraph 1111-02, page 1111-26 (15th ed. 1988).
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b699-7">
+   . Additionally, the proposed plan provides for payments pursuant to the "Barfield Compensation Package" to the new general partner, C. Robert Barfield. However, neither the new general partner, Mr. Barfield, nor the present general partner, Robert Forman, is making any capital contribution for their ownership interests.
+  </p>
+</div></div></opinion>

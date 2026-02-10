@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b645-26">
+  MEMORANDUM OPINION
+ </p>
+<author id="b645-27">
+  DAVID L. CRAWFORD, Bankruptcy Judge.
+ </author>
+<p id="b645-28">
+  Earl Harland, II, filed this Chapter 13 proceeding under the Bankruptcy Reform Act of 1978. The plan which he proposed is what has become known as a “zero plan” in that he proposed to make no payments to his unsecured creditors. The trustee filed an objection to confirmation of the plan on the basis that the plan was not proposed in good faith, that the plan did not provide for payments from which the trustee might recover his actual and necessary expenses and a reasonable fee, and that the plan contemplates the discharge of all of the debtor’s debts but does not provide for any payments on said debts. The evidence before me discloses that Mr. Harland is employed and has been for the past six years. During each of the last two years, his income has been approximately $14,000.
+ </p>
+<p id="b645-29">
+  In addition, I take judicial notice of Mr. Harland’s schedules filed in this proceeding which show his assets to be as follows:
+ </p>
+<blockquote id="b645-30">
+  cash on hand $20.00
+ </blockquote>
+<blockquote id="b645-31">
+  clothes $100.00
+ </blockquote>
+<blockquote id="b645-32">
+  pocket watch $25.00
+ </blockquote>
+<blockquote id="b645-33">
+  1964 Chevrolet pickup $50.00
+ </blockquote>
+<blockquote id="b645-34">
+  TOTAL $195.00
+ </blockquote>
+<p id="b645-35">
+  The criteria for affirmation of a Chapter 13 plan are found in <span class="citation no-link">11 U.S.C. § 1325</span>(a), which provides as follows:
+ </p>
+<blockquote id="b646-3">
+<span citation-index="1" class="star-pagination" label="598"> 
+   *598
+   </span>
+  “The court
+  <em>
+   shall
+  </em>
+  confirm a plan if—
+ </blockquote>
+<blockquote id="b646-4">
+  (1) the plan complies with the provisions of this chapter and with other applicable provisions of this title;
+ </blockquote>
+<blockquote id="b646-5">
+  (2) any fee, charge, or amount required under chapter 123 of title 28, or by the plan, to be paid before confirmation; has been paid;
+ </blockquote>
+<blockquote id="b646-6">
+  (3) the plan has been proposed in good faith and not by any means forbidden by law;
+ </blockquote>
+<blockquote id="b646-7">
+  (4) the value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under chapter 7 of this title on such date;
+ </blockquote>
+<blockquote id="b646-8">
+  (5) with respect to each allowed secured claim provided for by the plan—
+ </blockquote>
+<blockquote id="b646-9">
+  (A) the holder of such claim has accepted the plan;
+ </blockquote>
+<blockquote id="b646-10">
+  (B)(i) the plan provides that the holder of such claim retain the lien securing such claim; and
+ </blockquote>
+<blockquote id="b646-11">
+  (ii) the value, as of the effective date of the plan, of property to be distributed under the plan on account of such claim is not less than the allowed amount of such claim; or
+ </blockquote>
+<blockquote id="b646-12">
+  (C) the debtor surrenders the property securing such claim to such holder; and
+ </blockquote>
+<blockquote id="b646-13">
+  (6) the debtor will be able to make all payments under the plan and to comply with the plan.”
+ </blockquote>
+<blockquote id="b646-14">
+  (emphasis supplied).
+ </blockquote>
+<p id="b646-15">
+  Because <span class="citation no-link">11 U.S.C. § 522</span>(d) provided each debtor with certain exemptions, it is clear that if Mr. Harland had filed under Chapter 7 of the New Bankruptcy Code, his creditors would have received no distribution because all of Mr. Harland’s property would have been exempt.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  Accordingly, Mr. Harland points out that his plan meets the criteria of <span class="citation no-link">11 U.S.C. § 1325</span>(a)(4), which requires only that the distribution to unsecured creditors in the Chapter 13 must not be less than the amount which unsecured creditors would receive if the case were one under Chapter 7. However, the trustee points to subsection (3) of the same section which requires that the plan be proposed in “good faith,” and suggests that zero plans cannot be considered to be in good faith because zero plans render Chapter 13 proceedings indistinguishable from liquidation proceedings under Chapter 7.
+ </p>
+<p id="b646-18">
+  The success of the trustee’s argument depends entirely on whether the term “good faith” can be read to require that payments must be made under Chapter 13 plans. The trustee suggests no other provision of § 1325(a) which would support such a finding. Unfortunately, the meaning of good faith is “the greatest mystery contained in Chapter 13 legislation.”
+  <em>
+   In re Powell,
+  </em>
+  <span class="citation" data-id="1887669"><a href="/opinion/1887669/general-finance-co-of-virginia-v-powell-in-re-powell/#315" aria-description="Citation for case: General Finance Co. of Virginia v. Powell (In Re Powell)">2 B.R. 314, 315</a></span>, <span class="citation" data-id="1887669"><a href="/opinion/1887669/general-finance-co-of-virginia-v-powell-in-re-powell/#1234" aria-description="Citation for case: General Finance Co. of Virginia v. Powell (In Re Powell)">5 Bankr.Ct.Dec. 1233, 1234</a></span> (Bkrtcy.E.D.Va.1980). The Bankruptcy Code contains no definition of good faith and there is no suggestion in the legislative history of the meaning of the term.
+ </p>
+<p id="b646-19">
+  Under § 366 of former Chapter XI and § 656 of former Chapter XIII, the court was required to find good faith as a condition of confirmation. However, my research discloses no case which ever concluded or suggested that the term was related to the amount of payment to the creditors.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+</p>
+<p id="b646-20">
+  Collier suggests, without citation, that the good faith requirement of old Chapter XIII involves . .” “generally . [an inquiry as to] whether or not there has been an abuse of the provisions, purpose, or spirit of Chapter XIII in the proposal or plan.” 10 Collier on Bankruptcy, Para. 2906 at 339 (14th edition 1978). In discussing the good faith standard under <span class="citation no-link">11 U.S.C. § 524</span>,
+  <span citation-index="1" class="star-pagination" label="599"> 
+   *599
+   </span>
+  another author notes that the Code’s good faith language invites analogy to the definition of good faith in the Uniform Commercial Code as “honesty in fact”. Aaron,
+  <em>
+   The Bankruptcy Reform Act of 1978: The Full Employment for Lawyers Bill,
+  </em>
+  1979 Utah L.Rev. 175, 219 (citing U.C.C. § 1-201(19)). Neither of these authorities suggest that the term good faith should be given anything beyond its ordinary and commonly accepted meaning.
+ </p>
+<p id="b647-4">
+  I note that Congress is presently considering proposed technical amendments to the Bankruptcy Reform Act of 1978 which would alter § 1325(a)(3). If that bill is enacted, § 1325(a)(3) would read:
+ </p>
+<blockquote id="b647-5">
+  “The plan is the debtor’s
+  <em>
+   best effort
+  </em>
+  and has been proposed in good faith and not by any means forbidden by law.”
+ </blockquote>
+<blockquote id="b647-6">
+  S. 658, 96th Cong., 1st Sess. § 188 (1979) (emphasis supplied).
+ </blockquote>
+<p id="b647-7">
+  It is significant that the proposed amendment inserts a “best effort” test and does not delete the “good faith” requirement. Apparently Congress itself does not consider that good faith is tied to any concept of a minimum repayment schedule.
+ </p>
+<p id="b647-8">
+  This conclusion is reinforced by the fact that § 727(a)(9)(B) of the Bankruptcy Reform Act provides that a debtor who has paid less than all of his debts under a wage earner’s plan may not receive a discharge in Chapter 7 proceedings for six years unless he has paid:
+ </p>
+<blockquote id="b647-9">
+  “(i) 70 percent of such claims; and
+ </blockquote>
+<blockquote id="AH8">
+  (ii) the plan was proposed by the debtor in good faith, and was the debtor’s best effort . . . ”
+ </blockquote>
+<p id="b647-10">
+  Clearly, in this provision “good faith” cannot be defining a minimum payment as that is defined by the “70 percent” language. Furthermore “good faith” does not mean “all that the debtor can afford” as that concept is covered by the term “best effort.” Without explicit statutory definition, this Court cannot hold that identical language in two provisions of the same Code has two different and inconsistent meanings.
+ </p>
+<p id="b647-16">
+  The trustee argues that the spirit and purpose of Chapter 13 require that payments be made under a Chapter 13 plan. At least one court has used this argument to support its holding that “good faith” means “meaningful payments.”
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, <span class="citation no-link">5 Bankr.Ct.Dec. 1270</span> (Bkrtcy.D.Utah 1980). Although it is tempting to tie good faith to some repayment schedule, there are at least two reasons why such a resolution of the issue should not be undertaken by the courts. First, there is nothing in the previous bankruptcy law, in the Bankruptcy Reform Act, or in the legislative history of the Act to indicate that “good faith” was intended to have such a meaning. Second, once such a proposition is adopted, the concept of good faith becomes a very subjective decision as can be seen from the already reported cases.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  The result will be that what is good faith will vary dramatically from jurisdiction to jurisdiction and even within jurisdictions having multiple judges.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+</p>
+<p id="b647-17">
+  Two courts have recently concluded that a zero or minimal payment plan could be confirmed if the other requirements of § 1325(a) were met.
+  <em>
+   In re Terry,
+  </em>
+  <span class="citation" data-id="1970481"><a href="/opinion/1970481/tenney-v-terry-in-re-terry/" aria-description="Citation for case: Tenney v. Terry (In Re Terry)">3 B.R. 63</a></span>, <span class="citation" data-id="1970481"><a href="/opinion/1970481/tenney-v-terry-in-re-terry/" aria-description="Citation for case: Tenney v. Terry (In Re Terry)">5 Bankr.Ct.Dec. 1397</a></span> (W.D.Ark.1980);
+  <em>
+   In re Keckler,
+  </em>
+  <span class="citation" data-id="1970746"><a href="/opinion/1970746/cleveland-trust-co-v-keckler-in-re-keckler/" aria-description="Citation for case: Cleveland Trust Co. v. Keckler (In Re Keckler)">3 B.R. 155</a></span>, <span class="citation no-link">5 Bankr.Ct.Dec. 14</span> (N.D.Ohio 1980). Both courts base their decision on the clear language of § 1325(a).
+  <em>
+   Id.
+  </em>
+  As one of these judges noted:
+ </p>
+<blockquote id="b648-3">
+<span citation-index="1" class="star-pagination" label="600"> 
+   *600
+   </span>
+  “In an area as fraught with enmity and misunderstanding as is created by discharge of debts in bankruptcy, this Court is reticent to tack onto the work of Congress its own notions of what debtors ought to do in order to be afforded a discharge from their debts.”
+  <span class="citation" data-id="1970481"><a href="/opinion/1970481/tenney-v-terry-in-re-terry/#66" aria-description="Citation for case: Tenney v. Terry (In Re Terry)"><em>
+   In re Terry, supra,
+  </em>
+  at 66</a></span>.
+ </blockquote>
+<p id="b648-4">
+  This Court is sympathetic to the trustee’s argument that the plan does not provide sufficient payments for the trustee to recover his actual and necessary expenses and a reasonable fee. Unfortunately, nothing in the Bankruptcy Reform Act of 1978 would suggest that this is a condition to confirmation of a Chapter 13 plan.
+ </p>
+<p id="b648-5">
+  The trustee’s last argument is that the plan contemplates the debtor’s discharge of his debts but does not provide for payments on the debts. However, as I have reached the conclusion that the only amount which is necessary to pay creditors is an amount not less than they would receive in a Chapter 7 proceeding, the trustee’s contention cannot prevail.
+ </p>
+<p id="b648-6">
+  A separate order is entered in accordance with the foregoing.
+ </p>
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b646-16">
+   . Although state legislation specifically disallowing the federal exemptions has been enacted pursuant to <span class="citation no-link">11 U.S.C. § 522</span>(b)(1), it seems clear that all of the debtor’s property would be exempt even under the more restrictive state exemptions. See LB 940, 86th Legis., 2d Sess. (1980).
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b646-22">
+   . See, e. g.,
+   <em>
+    Gonzalez-Hernandez v.
+   </em>
+   Borgos, <span class="citation" data-id="267470"><a href="/opinion/267470/guillermo-gonzalez-hernandez-debtor-v-jacqueline-borgos/" aria-description="Citation for case: Guillermo Gonzalez Hernandez, Debtor v. Jacqueline Borgos">343 F.2d 802</a></span> (1st Cir. 1965);
+   <em>
+    In re Tennessee Pub. Co.
+   </em>
+   <span class="citation" data-id="1475268"><a href="/opinion/1475268/tennessee-pub-co-v-american-nat-bank/" aria-description="Citation for case: Tennessee Pub. Co. v. American Nat. Bank">81 F.2d 463</a></span> (C.A.Tenn.1936);
+   <em>
+    In re Agrega-dos De Manati, Inc.,
+   </em>
+   <span class="citation" data-id="2155200"><a href="/opinion/2155200/in-re-agregados-de-manati-inc/" aria-description="Citation for case: In Re Agregados De Manati, Inc.">357 F.Supp. 1263</a></span> (D.C. Puerto Rico, 1973);
+   <em>
+    In re Wright,
+   </em>
+   <span class="citation" data-id="1956379"><a href="/opinion/1956379/in-re-wright/" aria-description="Citation for case: In Re Wright">247 F.Supp. 648</a></span> (E.D.Mo.1965);
+   <em>
+    In re Ware Metal Products,
+   </em>
+   <span class="citation" data-id="1609681"><a href="/opinion/1609681/in-re-ware-metal-products-inc/" aria-description="Citation for case: In Re Ware Metal Products, Inc.">42 F.Supp. 538</a></span> (D.C.Mass.1941);
+   <em>
+    In re Vater,
+   </em>
+   <span class="citation" data-id="1735743"><a href="/opinion/1735743/in-re-vater/" aria-description="Citation for case: In Re Vater">14 F.Supp. 631</a></span> (D.C.Ky.1936).
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b647-11">
+   . Recently, a number of Bankruptcy Courts have addressed the problem and have come to widely varying results.
+   <em>
+    In re Beaver,
+   </em>
+   <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/" aria-description="Citation for case: In Re Beaver">2 B.R. 337</a></span>, <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/" aria-description="Citation for case: In Re Beaver">5 Bankr.Ct.Dec. 1285</a></span> (Bkrtcy.S.D.Cal.1980) (“meaningful payments”);
+   <em>
+    In re Curtis,
+   </em>
+   <span class="citation" data-id="1887416"><a href="/opinion/1887416/matter-of-curtis/" aria-description="Citation for case: Matter of Curtis">2 B.R. 43</a></span>, <span class="citation" data-id="1887416"><a href="/opinion/1887416/matter-of-curtis/" aria-description="Citation for case: Matter of Curtis">5 Bankr.Ct.Dec. 1214</a></span> (Bkrtcy.W.D.Mo.1979) (“at least 10%”);
+   <em>
+    In re Iacovoni,
+   </em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, <span class="citation no-link">5 Bankr.Ct.Dec. 1270</span> (Bkrtcy.D.Utah 1980) (“meaningful payments but less than best effort”);
+   <em>
+    In re Campbell,
+   </em>
+   <span class="citation" data-id="1970642"><a href="/opinion/1970642/in-re-campbell/" aria-description="Citation for case: In Re Campbell">3 B.R. 57</a></span>, <span class="citation" data-id="1970642"><a href="/opinion/1970642/in-re-campbell/" aria-description="Citation for case: In Re Campbell">5 Bankr.Ct.Dec. 1365</a></span> (S.D.Cal.1980) (“substantial payment”);
+   <em>
+    In re Howard,
+   </em>
+   <span class="citation" data-id="1970311"><a href="/opinion/1970311/in-re-howard/" aria-description="Citation for case: In Re Howard">3 B.R. 75</a></span>, <span class="citation" data-id="1970311"><a href="/opinion/1970311/in-re-howard/" aria-description="Citation for case: In Re Howard">5 Bankr.Ct.Dec. 1375</a></span> (S.D.Cal.1980) (“substantial payment”);
+   <em>
+    In re Burrell,
+   </em>
+   <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">2 B.R. 650</a></span>, <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">5 Bankr.Ct.Dec. 1321</a></span> (N.D.Cal.1980) (“at least 70%”). See also
+   <em>
+    In re Powell,
+   </em>
+   <span class="citation" data-id="1887669"><a href="/opinion/1887669/general-finance-co-of-virginia-v-powell-in-re-powell/" aria-description="Citation for case: General Finance Co. of Virginia v. Powell (In Re Powell)">2 B.R. 314</a></span>, <span class="citation" data-id="1887669"><a href="/opinion/1887669/general-finance-co-of-virginia-v-powell-in-re-powell/" aria-description="Citation for case: General Finance Co. of Virginia v. Powell (In Re Powell)">5 Bankr.Ct.Dec. 1233</a></span> (Bkrtcy.E.D.Va.1980);
+   <em>
+    In re Fonnest,
+   </em>
+   <span class="citation" data-id="1887123"><a href="/opinion/1887123/in-re-carter/" aria-description="Citation for case: In Re Carter">5 Bankr.Ct.Dec. 1236</a></span> (N.D.Cal.1980).
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b647-19">
+   . Compare
+   <em>
+    In re <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">Burrell, supra,</a></span>
+   </em>
+   with
+   <em>
+    In re <span class="citation" data-id="1970642"><a href="/opinion/1970642/in-re-campbell/" aria-description="Citation for case: In Re Campbell">Campbell, supra.</a></span>
+   </em>
+</p>
+</div></div></opinion>

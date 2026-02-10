@@ -1,0 +1,755 @@
+<pre class="inline">1                                                                         
+2                                                                         
+3                                                                         
+4                      UNITED STATES DISTRICT COURT                       
+5                     NORTHERN DISTRICT OF CALIFORNIA                     
+6                                                                         
+7    SHAMEA BROUSSARD, et al.,        Case No.  23-cv-03320-HSG           
+
+8              Plaintiffs,            ORDER GRANTING IN PART AND          
+                                      DENYING IN PART DEFENDANT’S         
+9          v.                         MOTION TO DISMISS AND               
+                                      GRANTING DEFENDANT’S MOTION         
+10    DOLE PACKAGED FOODS, LLC,        TO STAY                             
+11              Defendant.             Re: Dkt. Nos. 24, 36                
+
+12                                                                         
+13        Pending before the Court are two motions filed by Defendant Dole Packaged Foods, LLC: 
+14   a motion to dismiss and a motion to stay discovery.  Dkt. Nos. 24, 36.  The Court finds this matter 
+15   appropriate for disposition without oral argument and the matter is deemed submitted.  See Civil 
+16   L.R. 7-1(b).  For the reasons discussed below, the Court GRANTS IN PART and DENIES IN 
+17   PART the motion to dismiss, and GRANTS the motion to stay discovery.  
+18    I.  BACKGROUND                                                       
+19        On July 3, 2023, Shamea Broussard and Michael Schirano (“Plaintiffs”) brought a 
+20   consumer class action complaint against Dole Packaged Foods, LLC (“Defendant” or “Dole”) 
+21   concerning their labeling of various fruit parfaits, gels, and juice products.  See generally Dkt. No. 
+22   1 (“Compl.”).  The products at issue include (a) Fruit Bowls in Gel, (b) Fruit Bowl Parfaits, (c) 
+23   Fruit Bowls in Juice, (d) Fridge Packs, (e) Canned Fruit in Heavy Syrup, (f) Canned Fruit in Light 
+24   Syrup, (g) Canned Juices, and (h) “Fruitify” Beverages (collectively, the “Products”).  Compl. ¶ 
+25   13.  Though the labels of the Products vary, Plaintiffs challenge as misleading four statements that 
+26   appear in different combinations on the Products’ labels:             
+27        (1) “It’s our promise to provide everyone, everywhere with good nutrition!;  
+  1          (3) “Vitamin C is an antioxidant that helps support a healthy immune system.”; 
+  2          (4) “Vitamin C to support a healthy immune system.” 
+  3    (collectively, the “Representations”).  For example, the labels for one of the Products — Diced 
+  4  ||  Peaches in Strawberry Flavored Gel — are reproduced below from Plaintiffs’ complaint, where 
+  5    three of the challenged Representations appear. 
+  6                                        Label — Front 
+
+                                                         = 
+  g                             De            ai       a 
+                                  ura  |  DICED PEACHES 
+  9                             Senshine For   J)   IN STRAWBERRY FLAVORED GEL     &amp;  ¥  § 
+ 10                                   :      Excellent source of Vitanain C 
+ 11
+  12 
+                                               os               aeons 
+
+                                            Label — Back 
+5    15                             = 
+                                   2   As oie       oe a      .     =  ele = i 
+QO    16                       6  q a   It&#x27;s our  promise   to provide           1 tamataresciiis 
+                                  everyone, everywhere with
+  17                                  good nutrition!          Se | 
+                                                    69 Saeeeeeere 
+
+                             4 servings per container   Treas Fa tq        Tora Sugars 723      aes 
+                             haenees     Seer      a = Soe  open ae ocmters | 
+
+ 22 
+ 23    Compl. □□ 27 (emphasis in original); see also Dkt. No. 24-2 at 2 (without annotation).  Plaintiffs 
+ 24    allege that the Representations are designed to convince consumers that the Products are healthy, 
+ 25    but that this impression is false and misleading because the Products derive at least 29% and up to 
+ 26  || 96% of their calories from sugar (either added or “free” sugar, which is processed sugar that is 
+ 27    “not encased in the food matrix” of the food from which it is derived, and which Plaintiffs argue 
+ 28  || “act in a physiologically identical manner to added sugars,” Compl. § 43-53).  Compl. □ 2.  This, 
+
+1   they allege, is an amount that is allegedly “toxic” to the human body, definitionally not healthy, 
+2   and far above the maximum amount recommended for consumption by “authoritative” medical 
+3   bodies.  Compl. ¶¶ 3, 94–102.  Plaintiffs allege, with citations to medical journals and websites, 
+4   that consumption of free or added sugar (“FA sugar”) is associated with increased risk of a variety 
+5   of maladies.  Compl. ¶¶ 55–92.  Even though the Representations are positioned near the 
+6   Products’ nutrition labels, Plaintiffs allege that the nutrition label is “an inadequate tool for 
+7   helping people to plan diets,” partially because “it provides no information on the level of 
+8   processing of a food or how that processing affects the healthfulness of the food.”  Compl. ¶¶ 137, 
+9   136.  As a result, consumers purportedly lack the information they need to correct the impression 
+10   generated by the Representations (i.e. that the Products are beneficial to health).   
+11        Plaintiffs bring ten causes of action against Defendant.  On behalf of the putative 
+12   nationwide class and California subclass, Plaintiffs allege violations of the Unfair Competition 
+13   Law (“UCL”) (</pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code §§ 17200</span><pre class="inline"> et seq.), the False Advertising Law (“FAL”) 
+14   (</pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code §§ 17500</span><pre class="inline"> et seq.), the Consumers Legal Remedies Act (“CLRA”) (Cal. 
+15   Civ. Code §§ 1750 et seq.), as well breaches of express and implied warranties (Cal. Com. Code 
+16   §§ 2313(1), 2314).  Compl. ¶¶ 175–207.  On behalf of the New York subclass, Plaintiffs allege 
+17   that Defendant’s conduct constitutes an unfair and deceptive business practice (in violation of 
+18   </pre><span class="citation no-link">N.Y. Gen. Bus. L. § 349</span><pre class="inline">) and false advertising (in violation </pre><span class="citation no-link">N.Y. Gen. Bus. L. § 350</span><pre class="inline">).  </pre><span class="citation no-link">Id.</span><pre class="inline"> ¶¶ 220–
+19   232.  And finally, on behalf of the nationwide class and the two state subclasses, Plaintiffs assert 
+20   unjust enrichment, negligent misrepresentation, and intentional misrepresentation claims.  </pre><span class="citation no-link">Id.</span><pre class="inline"> ¶¶ 
+21   233–253.                                                              
+22        On September 12, 2023, Defendant filed a motion to dismiss Plaintiffs’ class action 
+23   complaint in its entirety.  Dkt. No. 24 (“Mot.”).  The matter is now fully briefed.  Dkt. Nos. 26 
+24   (“Opp”), 27 (“Reply”).  On January 11, 2024, Defendant filed a motion to stay discovery, Dkt. No. 
+25   36, which is also ready for disposition.  Dkt. No. 37, 39.            
+26    II.  LEGAL STANDARD                                                  
+27        Federal Rule of Civil Procedure 8(a) requires that a complaint contain “a short and plain 
+1   defendant may move to dismiss a complaint for failing to state a claim upon which relief can be 
+2   granted under Rule 12(b)(6).  “Dismissal under Rule 12(b)(6) is appropriate only where the 
+3   complaint lacks a cognizable legal theory or sufficient facts to support a cognizable legal theory.”  
+4   Mendiondo v. Centinela Hosp. Med. Ctr., </pre><span class="citation" data-id="1300996"><a href="/opinion/1300996/mendiondo-v-centinela-hospital-medical-center/#1104" aria-description="Citation for case: Mendiondo v. Centinela Hospital Medical Center">521 F.3d 1097, 1104</a></span><pre class="inline"> (9th Cir. 2008).  To survive a Rule 
+5   12(b)(6) motion, a plaintiff need only plead “enough facts to state a claim to relief that is plausible 
+6   on its face.”  Bell Atl. Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 570</a></span><pre class="inline"> (2007).  A claim is facially plausible 
+7   when a plaintiff pleads “factual content that allows the court to draw the reasonable inference that 
+8   the defendant is liable for the misconduct alleged.”  Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662, 678</a></span><pre class="inline"> (2009). 
+9        Rule 9(b) imposes a heightened pleading standard where fraud is an essential element of a 
+10   claim.  See Fed. R. Civ. P. 9(b) (“In alleging fraud or mistake, a party must state with particularity 
+11   the circumstances constituting fraud or mistake.”); see also Vess v. Ciba–Geigy Corp. USA, 317 
+</pre><span class="citation multiple-matches"><a href="/c/F.3d/12/1097/">12   F.3d 1097</a></span><pre class="inline">, 1107 (9th Cir. 2003).  A plaintiff must identify “the who, what, when, where, and how” 
+13   of the alleged conduct, so as to provide defendants with sufficient information to defend against 
+14   the charge.  Cooper v. Pickett, </pre><span class="citation" data-id="6964204"><a href="/opinion/7060249/cooper-v-pickett/#627" aria-description="Citation for case: Cooper v. Pickett">137 F.3d 616, 627</a></span><pre class="inline"> (9th Cir. 1997).  However, “[m]alice, intent, 
+15   knowledge, and other conditions of a person’s mind may be alleged generally.”  Fed. R. Civ. P. 
+16   Rule 9(b).                                                            
+17        In reviewing the plausibility of a complaint, courts “accept factual allegations in the 
+18   complaint as true and construe the pleadings in the light most favorable to the nonmoving party.”  
+19   Manzarek v. St. Paul Fire &amp; Marine Ins. Co., </pre><span class="citation" data-id="1194077"><a href="/opinion/1194077/manzarek-v-st-paul-fire-marine-insurance/#1031" aria-description="Citation for case: Manzarek v. St. Paul Fire &amp; Marine Insurance">519 F.3d 1025, 1031</a></span><pre class="inline"> (9th Cir. 2008).  Nevertheless, 
+20   courts do not “accept as true allegations that are merely conclusory, unwarranted deductions of 
+21   fact, or unreasonable inferences.”  In re Gilead Scis. Secs. Litig., </pre><span class="citation" data-id="1400355"><a href="/opinion/1400355/in-re-gilead-sciences-securities-litigation/#1055" aria-description="Citation for case: In Re Gilead Sciences Securities Litigation">536 F.3d 1049, 1055</a></span><pre class="inline"> (9th Cir. 
+22   2008) (quoting Sprewell v. Golden State Warriors, </pre><span class="citation" data-id="7006046"><a href="/opinion/7100340/sprewell-v-golden-state-warriors/#988" aria-description="Citation for case: Sprewell v. Golden State Warriors">266 F.3d 979, 988</a></span><pre class="inline"> (9th Cir. 2001)). 
+23        Even if the court concludes that a 12(b)(6) motion should be granted, the “court should 
+24   grant leave to amend even if no request to amend the pleading was made, unless it determines that 
+25   the pleading could not possibly be cured by the allegation of other facts.”  Lopez v. Smith, 203 
+</pre><span class="citation multiple-matches"><a href="/c/F.3d/26/1122/">26   F.3d 1122</a></span><pre class="inline">, 1127 (9th Cir. 2000) (en banc) (quotation omitted).        
+27   //                                                                    
+1   III.  MOTION TO DISMISS                                               
+2        A.  Request for Judicial Notice                                  
+3        Defendant moves the Court to take judicial notice of various materials, including (1) the 
+4   labels for 13 of the Products (Dkt. No. 24-2), (2) dictionary definitions of “nourishment” (Mot. at 
+5   25 n.10) and “nutrition” (Mot. at 27 n.13), (3) contents from the Federal Register (Mot. at 18–22), 
+6   and (4) regulatory guidance from the FDA’s website (Mot. at 18–20).1  Dkt. No. 24-3.  The Court 
+7   will GRANT Defendant’s requests, which are all unopposed.             
+8           i.  Legal Standard                                            
+9        In Khoja v. Orexigen Therapeutics, the Ninth Circuit clarified the judicial notice rule and 
+10   incorporation by reference doctrine.  See </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">899 F.3d 988</a></span><pre class="inline"> (9th Cir. 2018).  Under Federal Rule of 
+11   Evidence 201, a court may take judicial notice of a fact “not subject to reasonable dispute because 
+12   it … can be accurately and readily determined from sources whose accuracy cannot reasonably be 
+13   questioned.”  Fed. R. Evid. 201(b)(2).  Accordingly, a court may take “judicial notice of matters of 
+14   public record,” but “cannot take judicial notice of disputed facts contained in such public records.”  
+15   Khoja, </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#999" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">899 F.3d at 999</a></span><pre class="inline"> (citation and quotations omitted).  The Ninth Circuit has clarified that if a 
+16   court takes judicial notice of a document, it must specify what facts it judicially noticed from the 
+17   document.  </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#999" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">Id. at 999</a></span><pre class="inline">.  Further, “[j]ust because the document itself is susceptible to judicial notice 
+18   does not mean that every assertion of fact within that document is judicially noticeable for its 
+19   truth.”  </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">Id.</a></span><pre class="inline">  As an example, the Ninth Circuit held that for a transcript of a conference call, the 
+20   court may take judicial notice of the fact that there was a conference call on the specified date, but 
+21   may not take judicial notice of a fact mentioned in the transcript, because the substance “is subject 
+22   to varying interpretations, and there is a reasonable dispute as to what the [document] establishes.”  
+23   </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">Id.</a></span><pre class="inline"> at 999–1000.                                                      
+24        Separately, the incorporation by reference doctrine is a judicially created doctrine that 
+25   allows a court to consider certain documents as though they were part of the complaint itself.  </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">Id.</a></span><pre class="inline"> 
+26   at 1002.  This is to prevent plaintiffs from cherry-picking certain portions of documents that 
+27                                                                         
+1   support their claims, while omitting portions that weaken their claims.  </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">Id.</a></span><pre class="inline">  Incorporation by 
+2   reference is appropriate “if the plaintiff refers extensively to the document or the document forms 
+3   the basis of plaintiff’s claim.”  Khoja, </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#1002" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">899 F.3d at 1002</a></span><pre class="inline">.  However, “the mere mention of the 
+4   existence of a document is insufficient to incorporate the contents” of a document.  </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#1002" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">Id. at 1002</a></span><pre class="inline">.  
+5   And while a court “may assume [an incorporated document’s] contents are true for purposes of a 
+6   motion to dismiss … it is improper to assume the truth of an incorporated document if such 
+7   assumptions only serve to dispute facts stated in a well-pleaded complaint.”  </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">Id.</a></span><pre class="inline">   
+8          ii.  Analysis                                                  
+9        The Court finds that it can properly consider the labels of the Products (Dkt. No. 24-2, 
+10   Exhibits 1-8) under the incorporation by reference doctrine, since “[P]laintiff[s] refer[] extensively 
+11   to the [labels]” in their complaint and “the [labels] form[] the basis of [P]laintiff[s’] claim.”  
+12   Khoja, </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#1002" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">899 F.3d at 1002</a></span><pre class="inline">.  See also Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1087" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1087</a></span><pre class="inline"> (N.D. 
+</pre><span class="citation no-link">13   Cal. 2017</span><pre class="inline">) (“[C]ourts addressing motions to dismiss product-labeling claims routinely take 
+14   judicial notice of images of the product packaging.”) (internal quotations omitted)).  The Court 
+15   also finds judicial notice of the two dictionary definitions, Federal Register excerpts, and FDA 
+16   materials appropriate, since all of those materials are “not subject to reasonable dispute” and “can 
+17   be accurately and readily determined from sources whose accuracy cannot reasonably be 
+18   questioned.”  Fed. R. Evid. 201(b)(2); see also Becerra v. Dr Pepper/Seven Up, Inc., </pre><span class="citation no-link">945 F.3d 
+19</span><pre class="inline">   1225, 1229 (9th Cir. 2019) (consulting dictionary definitions); Paralyzed Veterans of Am. v. 
+20   McPherson, No. C064670SBA, </pre><span class="citation no-link">2008 WL 4183981</span><pre class="inline">, at *5 (N.D. Cal. Sept. 9, 2008) (taking judicial 
+21   notice of “information on government agency websites, which have often been treated as proper 
+22   subjects for judicial notice”).  Accordingly, Defendant’s request is GRANTED.  Dkt. No. 24-3.   
+23        A.  Standing                                                     
+24        Defendant argues that Plaintiffs lack both statutory standing for their consumer protection 
+25   claims and Article III standing for their injunctive relief claims.  Mot. at 31–32.  The Court agrees 
+26   with Plaintiffs that they have adequately pled statutory standing under consumer protection 
+27   statutes, but determines that they have not sufficiently pled an entitlement to injunctive relief 
+1           i.  Statutory Standing                                        
+2        Defendant contends that Plaintiffs lack standing to pursue their California UCL, FAL, and 
+3   CLRA claims, as well as their New York GBL claim, because they fail to properly allege 
+4   economic injury.  See Mot. at 22-23.  The Court finds that Plaintiffs have pled sufficient facts at 
+5   this juncture.                                                        
+6        To have standing under the UCL or FAL, a plaintiff must “(1) establish a loss or 
+7   deprivation of money or property sufficient to qualify as injury in fact, i.e., economic injury, and 
+8   (2) show that the economic injury was the result of, i.e., caused by, the unfair business practice or 
+9   false advertising that is the gravamen of the claim.”  Kwikset Corp. v. Superior Court, </pre><span class="citation" data-id="2368488"><a href="/opinion/2368488/dana-point-safe-harbor-collective-v-superior-court/#310" aria-description="Citation for case: Dana Point Safe Harbor Collective v. Superior Court">51 Cal. 4th 
+10   310, 322</a></span><pre class="inline"> (2011) (emphasis in original).  In other words, “[a] consumer who relies on a product 
+11   label and challenges a misrepresentation contained therein can satisfy the standing requirement of 
+12   [the UCL and FAL] by alleging . . . that he or she would not have bought the product but for the 
+13   misrepresentation.”  </pre><span class="citation" data-id="2368488"><a href="/opinion/2368488/dana-point-safe-harbor-collective-v-superior-court/" aria-description="Citation for case: Dana Point Safe Harbor Collective v. Superior Court">Id.</a></span><pre class="inline">  The CLRA requires that a person suffered “damages as the result of” a 
+14   violation of the statute in order to have standing, but does not require a showing of economic loss 
+15   specifically.  </pre><span class="citation no-link">Cal. Civ. Code § 1780</span><pre class="inline">(a).  And to establish standing under the GBL, a plaintiff must 
+16   “allege that, on account of a materially misleading practice, she purchased a product and did not 
+17   receive the full value of her purchase.”  Duchnik v. Tops Markets, LLC, No. 22CV399JLSHKS, 
+18   </pre><span class="citation no-link">2023 WL 4827951</span><pre class="inline">, at *6 (W.D.N.Y. July 6, 2023), report and recommendation adopted, No. 
+19   22CV399JLSHKS, </pre><span class="citation no-link">2023 WL 4828141</span><pre class="inline"> (W.D.N.Y. July 26, 2023) (collecting cases).   
+20        To have standing under all of these statutes, then, Plaintiffs must allege economic injury 
+21   and reliance.  Here, Plaintiffs allege that they were “exposed to, read, and relied on” the 
+22   challenged label statements, and identify the label statements on which they relied.  Compl. ¶¶ 
+23   150, 152.  They further allege that they “would not have purchased the Products if they knew that 
+24   the challenged labeling claims [on which they relied] were false and misleading” and “would only 
+25   have been willing to pay less, or unwilling to purchase them at all, absent the false and misleading 
+26   labeling” about which they complain.  </pre><span class="citation no-link">Id. ¶¶ 155, 158</span><pre class="inline">.  Plaintiffs also allege that the “Products 
+27   cost more than similar products without misleading labeling and would have cost less absent 
+1   controlling law, these allegations are sufficient to establish standing under the relevant statues 
+2   given that Plaintiffs aver they overpaid (i.e. were economically injured) in reliance on Defendant’s 
+3   challenged labeling.  See Davidson v. Kimberly-Clark Corp., </pre><span class="citation" data-id="9015730"><a href="/opinion/9022504/davidson-v-kimberly-clark-corp/#969" aria-description="Citation for case: Davidson v. Kimberly-Clark Corp.">889 F.3d 956, 969</a></span><pre class="inline"> (9th Cir. 2018) 
+4   (“[A] consumer’s allegation that ‘she would not have bought the product but for the 
+5   misrepresentation . . . is sufficient to allege causation . . . [and] to allege economic injury.’”) 
+6   (omissions in the original).                                          
+7        Though Defendant casts Plaintiffs’ allegations as “conclusory” and urges the Court to 
+8   effectively apply a heightened standard in assessing them, no binding authority supports that 
+9   approach.  For example, Defendant challenges Plaintiffs’ allegation that they paid a price premium 
+10   for the Products on the grounds that they failed to allege the “amount of the alleged premium or 
+11   the identity and pricing of non-premium products.”  Mot. at 32.  But Davidson instructs that to 
+12   properly plead economic injury, a consumer must only allege that “she was exposed to false 
+13   information about the product purchased, which caused the product to be sold at a higher price, 
+14   and that she ‘would not have purchased the goods in question absent this misrepresentation.’”  
+15   Davidson, </pre><span class="citation" data-id="9015730"><a href="/opinion/9022504/davidson-v-kimberly-clark-corp/#966" aria-description="Citation for case: Davidson v. Kimberly-Clark Corp.">889 F.3d at 966</a></span><pre class="inline"> (internal citations omitted).  Plaintiffs have done so: they plausibly 
+16   allege that they were exposed to labels that supposedly touted the healthiness of the Products in a 
+17   misleading manner, and that the perceived healthiness of the Products allowed Defendant to sell 
+18   them at a higher price (because consumers are allegedly willing to pay more for healthy foods), 
+19   and that Plaintiffs would not have purchased the Products or would have paid less for them absent 
+20   the misleading branding. At this stage, it is enough that Plaintiffs allege a plausible theory for the 
+21   premium (i.e. the label’s allegedly misleading invocation of healthiness), and causally connect that 
+22   misleading labeling to their purchase.  See Ary v. Target Corp., No. 22-CV-02625-HSG, </pre><span class="citation no-link">2023 WL 
+23</span><pre class="inline">   2622142, at *4 (N.D. Cal. Mar. 23, 2023); Takahashi-Mendoza v. Coop. Regions of Organic 
+24   Producer Pools, </pre><span class="citation no-link">673 F. Supp. 3d 1083</span><pre class="inline">, 1093–94 (N.D. Cal. 2023).       
+25        Accordingly, the Court finds that Plaintiffs have statutory standing under the UCL, FAL, 
+26   CLRA and GBL to pursue their claims, and DENIES Defendant’s motion to dismiss on this basis.  
+27   //                                                                    
+1          ii.  Article III Standing                                      
+2        Defendant also argues that Plaintiffs lack standing to seek injunctive relief.  On this point, 
+3   the Court agrees.                                                     
+4        To have standing to seek injunctive relief under Article III, a plaintiff must “demonstrate a 
+5   real and immediate threat of repeated injury in the future.”  Chapman v. Pier 1 Imports (U.S.) Inc., 
+6   </pre><span class="citation" data-id="9438879"><a href="/opinion/182444/chapman-v-pier-1-imports-us-inc/#946" aria-description="Citation for case: Chapman v. Pier 1 Imports (U.S.) Inc.">631 F.3d 939, 946</a></span><pre class="inline"> (9th Cir. 2011) (internal quotation omitted).  Wronged plaintiffs are entitled to 
+7   injunctive relief only if they can show that they face a ‘“real or immediate threat . . . that [they] 
+8   will again be wronged in a similar way.”’  Mayfield v. United States, </pre><span class="citation" data-id="594"><a href="/opinion/594/mayfield-v-united-states/#970" aria-description="Citation for case: Mayfield v. United States">599 F.3d 964, 970</a></span><pre class="inline"> (9th Cir. 
+9   2010) (omission in original) (quoting City of Los Angeles v. Lyons, </pre><span class="citation" data-id="9429162"><a href="/opinion/110916/city-of-los-angeles-v-lyons/#111" aria-description="Citation for case: City of Los Angeles v. Lyons">461 U.S. 95, 111</a></span><pre class="inline"> (1983)).  In 
+10   the context of false advertising cases, the Ninth Circuit has confirmed that “a previously deceived 
+11   consumer may have standing to seek an injunction against false advertising or labeling, even 
+12   though the consumer now knows or suspects that the advertising was false at the time of the 
+13   original purchase[.]”  Davidson, 889 F.3d at, 969.  Davidson identifies two ways a plaintiff may 
+14   establish the required risk of future harm: (1) “the consumer’s plausible allegations that [they] will 
+15   be unable to rely on the product’s advertising or labeling in the future, and so will not purchase the 
+16   product although [they] would like to”; or (2) “the consumer’s plausible allegations that [they] 
+17   might purchase the product in the future, despite the fact it was once marred by false advertising or 
+18   labeling, as [they] may reasonably, but incorrectly, assume the product was improved.”  </pre><span class="citation" data-id="9429162"><a href="/opinion/110916/city-of-los-angeles-v-lyons/" aria-description="Citation for case: City of Los Angeles v. Lyons">Id.</a></span><pre class="inline"> at 
+19   969–70.                                                               
+20        Here, Plaintiffs allege that they “still wish to purchase healthy packaged fruits and juices 
+21   with nutritional benefits and continue to see the Products at stores when they shop,” and “would 
+22   purchase the Products in the future if the Products were as represented, but unless Dole is enjoined 
+23   . . . may not be able to rely on Dole’s health and wellness claims in the future.”  Compl. ¶ 163 
+24   (emphasis added).  Plaintiffs’ allegations do not squarely satisfy Davidson: Plaintiffs do not allege 
+25   that they will not purchase the product in the future because they cannot rely on the 
+26   representations, and they do not allege that they might purchase the Products in the future 
+27   assuming – reasonably, but incorrectly – that the product was improved.  Where Plaintiffs allege 
+1   repeated injury does not appear “real and immediate.”  Plaintiffs try to rehabilitate the allegations 
+2   in their Opposition by suggesting that they face a threat of injury because the Products could be 
+3   reformulated (by, for example, processing raw fruit differently) to mitigate the presence of FA 
+4   sugar and make the labels truthful without Plaintiffs being able to discern “whether the products 
+5   have been reformulated or Dole is just continuing to misrepresent them.”  Opp. at 30.  However, 
+6   that allegation (which seems to invoke Davidson’s second scenario) did not appear in the 
+7   Complaint, and regardless, Plaintiffs do not explain how they would have trouble discerning the 
+8   presence or absence of FA sugar in the Products in the future where they plead elsewhere that 
+9   “[f]ree sugar excludes only sugars naturally occurring in intact fruits, vegetables, or dairy 
+10   products.”  Compl. ¶ 44 (emphasis in original).  To the extent the Products continue consisting of 
+11   anything other than just intact fruit, the Court is skeptical of the notion that Plaintiffs could 
+12   “reasonably, but incorrectly” assume improvement of the Products.     
+13        Accordingly, the Court GRANTS Defendant’s motion to dismiss Plaintiffs’ claims for 
+14   injunctive relief.2                                                   
+15        B.  Preemption                                                   
+16        Defendant argues that Plaintiffs’ claims based on two of the Representations are 
+17   preempted, namely those that characterize the effect of vitamin C on the immune system: 
+18          1.  “Excellent source of antioxidant vitamin C to support a healthy immune system.”3 
+19             (“Fruitify statement”)                                      
+20          2.  “Vitamin C is an antioxidant that helps support a healthy immune system.” 
+21             (“Antioxidant Statement”)                                   
+22                                                                         
+    2 Nevertheless, the Court will analyze Plaintiff’s substantive claims even where they seek 
+23                                                                         
+    injunctive relief below, for the sake of completeness.                
+    3 This Representation – which appears on the back label of the Fruitify product only, see Compl. ¶ 
+24                                                                         
+    41 – is distinct from the front-label claim on six of the Products that characterizes them as an 
+    “Excellent Source” or “Good Source” of Vitamin C.  See Compl. ¶¶ 27, 29, 31, 35, 37, 39.  While 
+25                                                                         
+    Plaintiffs challenge the representation on the Fruitify back label, they do not challenge the front-
+    label “Excellent Source” and “Good Source” claims on the other Products.  Defendant appears not 
+26                                                                         
+    to appreciate this distinction, and makes arguments regarding the preemption of the front-label 
+    claim.  See Reply at 7 (“As a result, their challenge to the statement on the labels of the Fruit 
+27                                                                         
+    Bowl®, canned fruit, and canned juice Products is preempted.”).  Since Plaintiffs do not challenge 
+1   Mot. at 16.  They also argue that since Plaintiffs “seek to impose a duty to disclose the alleged 
+2   dangers of naturally occurring or added sugar,” their omissions claims are likewise barred.   
+3        For the reasons described below, the Court agrees with Defendant that the Fruitify 
+4   statement and Antioxidant Statement are preempted and cannot serve as a basis for Plaintiffs’ 
+5   other claims.  However, it finds that Plaintiffs’ omission-based claims are not preempted.  
+6           i.  Background                                                
+7        The Food, Drug, and Cosmetic Act (“FDCA”) sets out the standards that foods and their 
+8   labels must meet to avoid being deemed misbranded.  Chacanaca v. Quaker Oats Co., </pre><span class="citation no-link">752 F. 
+9</span><pre class="inline">   Supp. 2d 1111, 1116 (N.D. Cal. 2010).  Some of these standards were established through 
+10   amendment by the Nutrition Labeling and Education Act of 1990 (“NLEA”), which, among other 
+11   things, also added a preemption clause prohibiting states from imposing labeling requirements that 
+12   differ from certain of those contained in the FDCA.  See </pre><span class="citation no-link">21 C.F.R. § 343-1</span><pre class="inline">(a)(3) (“[N]o State . . . 
+13   may directly or indirectly establish . . . any requirement for the labeling of food . . . that is not 
+14   identical to” the FDCA’s requirements).  Under this provision, courts have found labeling claims 
+15   barred where plaintiffs seek a court order imposing labeling requirements that differ from or layer 
+16   onto the FDCA’s requirements.  See, e.g., Greenberg v. Target Corp., </pre><span class="citation no-link">985 F.3d 650</span><pre class="inline">, 655 (9th Cir. 
+17   2021) (“Thus, if the defendants’ biotin statement meets the FDCA’s three requirements for a 
+18   structure/function claim, then any state law claims challenging that claim fall to the wayside.”); 
+19   see also Chacanaca, 752 F. Supp. 2d at 1119.                          
+20        Section 343(r) of the FDCA “governs all voluntary statements about nutrient content or 
+21   health information a manufacturer chooses to include on a food label or packaging.”  Chacanaca, 
+22   752 F. Supp. 2d at 1117.  In particular, Section 343(r) covers food labeling claims that “expressly 
+23   or by implication” “characterize[] the level of any nutrient” or “characterize[] the relationship of 
+24   any nutrient . . . to a disease or a health-related condition.”  </pre><span class="citation no-link">21 U.S.C. § 343</span><pre class="inline">(r)(1)(A)-(B).  The 
+25   FDA has promulgated regulations that categorize and govern the two types of claims covered by 
+26   Section 343(r) into nutrient content claims (both implied and express) as well as health claims.  
+27   See </pre><span class="citation no-link">21 C.F.R. §§ 101.13</span><pre class="inline"> (nutrient content claims), 101.14 (health claims).   
+1          ii.  Representations                                           
+2        At issue in this case are whether the Fruitify Statement and Antioxidant Statement are 
+3   nutrient content claims, and whether Plaintiffs’ claims premised upon them are consequently 
+4   preempted.                                                            
+5              a.  Fruitify Statement                                     
+6        While they frame the analysis somewhat differently, the parties appear to agree that the 
+7   Fruitify statement is an implied nutrient content claim.  See Mot. at 17; Opp. at 14 (“By contrast, 
+8   the statement Plaintiffs challenge on Fruitify Beverages –‘Vitamin C to support a healthy immune 
+9   system’ – is made ‘in connection with an . . . implicit claim or statement about a nutrient’ under § 
+10   101.13(b)(2)(ii).”).  That notwithstanding, Plaintiffs argue that the statement is not preempted 
+11   because Defendant improperly fortified the Product in violation of </pre><span class="citation no-link">21 C.F.R. § 101.65</span><pre class="inline">(d)(2)(iv), 
+12   rendering it misbranded.  Opp. at 14.  But, as Defendant points out, Plaintiffs do not plead 
+13   improper fortification of Fruitify Products.  See Compl. ¶¶ 111-13 (alleging improper fortification 
+14   of Dole’s Fruit Bowl Parfaits, Fruit Bowls in Gel, Canned Tropical Fruit in Light Syrup and 
+15   Passion Fruit Juice, and Canned Pineapple Juice only).  On the current allegations, then, the Court 
+16   finds the Fruitify Statement a preempted implied nutrient content claim, and GRANTS 
+17   Defendant’s motion to dismiss Plaintiffs’ claims arising from this statement.  
+18              b.  Antioxidant Statement                                  
+19        The parties disagree about whether the back-label Antioxidant Statement (“Vitamin C is an 
+20   antioxidant that helps support a healthy immune system”) is a nutrient content claim.  Under 21 
+</pre><span class="citation no-link">21   C.F.R. § 101.13</span><pre class="inline">(b), a nutrient content claim “expressly or implicitly characterizes the level of a 
+22   nutrient of the type required to be in nutrition labeling.”  An express nutrient content claim makes 
+23   a direct statement about the “level (or range) of a nutrient in a food.”  Since the Antioxidant 
+24   Statement does not expressly characterize the “level (or range)” of vitamin C in the products, it is 
+25   not an express nutrient content claim.                                
+26        The question is therefore whether it is an implied nutrient content claim.  The Court finds it 
+27   is.  An implied nutrient content claim is one that “[d]escribes the food or an ingredient therein in a 
+1   the food, because of its nutrient content, may be useful in maintaining healthy dietary practices 
+2   and is made in association with an explicit claim or statement about a nutrient.”  </pre><span class="citation no-link">21 C.F.R. § 
+3</span><pre class="inline">   101.13(b)(2)(i)–(ii).  The Antioxidant Statement does not, as Defendant contends, satisfy the first 
+4   definition because it does not “characterize[] the level of Vitamin C” in the applicable Products.  
+5   Mot. at 17.  Instead, it simply describes the role that vitamin C plays in the body without stating or 
+6   implying that it is “absent or present in a certain amount.”  </pre><span class="citation no-link">21 C.F.R. § 101.13</span><pre class="inline">(b)(2)(i) (emphasis 
+7   added).  However, the Court must consider whether the Antioxidant Statement meets the second 
+8   definition by “[s]uggest[ing] that the food, because of its nutrient content, may be useful in 
+9   maintaining healthy dietary practices and [are] made in association with an explicit claim or 
+10   statement about a nutrient.”  </pre><span class="citation no-link">21 C.F.R. § 101.13</span><pre class="inline">(b)(2)(i)(ii).  The regulations provide an example 
+11   of such a statement: “Healthy, contains 3 grams (g) of fat.”  In this example, “Healthy” is the 
+12   implied nutrient content claim made in association with the explicit statement “contains 3 grams 
+13   (g) of fat.”                                                          
+14        The key inquiry in this case is whether the challenged statement is made “in association 
+15   with an explicit claim or statement about a nutrient.”  </pre><span class="citation no-link">Id.</span><pre class="inline">  While it only addresses it in passing, 
+16   Defendant argues that this requirement is satisfied because “[w]henever a Product highlights the 
+17   presence of Vitamin C with the Antioxidant Statement – which appears on the back or side panel 
+18   of the Product – the Product simultaneously states that the Product is an ‘excellent source’ or 
+19   ‘good source’ of Vitamin C on the front panel.”  Mot. at 17.  In other words, Defendant “argues 
+20   this latter, unchallenged statement renders the former, challenged statement a permitted implied 
+21   nutrient content claim.”  Opp. at 13.                                 
+22        While a close question, the Court finds that the Antioxidant Statement is made “in 
+23   association with” the front-label “excellent source” and “good source” claims.  While Plaintiffs 
+24   argue that the statements are not in close enough proximity to be clearly associated, “the ‘magic 
+25   words’ that might create an implied nutrient claim do not need to be directly adjacent to the 
+26   discussion of a nutrient to create an implied nutrient content claim . . . .”  See LeGrand v. Abbott 
+27   Lab’ys, </pre><span class="citation no-link">655 F. Supp. 3d 871</span><pre class="inline">, 888 (N.D. Cal. 2023) (internal quotations omitted).  Instead, the 
+1        Here, the words and the context of the label convince the Court that the statements are 
+2   adequately associated, their placement notwithstanding.  First, the wording of the Antioxidant 
+3   Statement and the front-label “excellent” or “good source” statements clearly indicate a shared 
+4   subject matter – the nutrient vitamin C – that linguistically tethers the statements to one another.  
+5   This is not always the case.  For example, in each of the implied content claims discussed in an 
+6   FDA pamphlet from 2008 – such as “Nutritious, contains 3 grams of fiber,” “Best choice, contains 
+7   200 mg sodium,” and “Good for you, contains 5 grams of fat” – there is nothing that clearly 
+8   tethers the subject manner of the implied content claim (i.e. the clause before the comma) to the 
+9   explicit statement about a nutrient (i.e. the clause after the comma) other than their adjacent 
+10   placement.  See Guidance For Industry: A Labeling Guide For Restaurants and Other Retail 
+11   Establishments Selling Away-from-home Foods, </pre><span class="citation no-link">2008 WL 2155726</span><pre class="inline">, at *10.  Take as an example 
+12   the implied content claim “Nutritious, contains 3 grams of fiber.”  But for the adjacent placement 
+13   of “contains 3 grams of fiber” directly next to “Nutritious,” it would be ambiguous what nutrient – 
+14   whether fiber or something else – was associated with the nonspecific “Nutritious” claim.  But in 
+15   this case, the explicit invocation of vitamin C in both statements ties them together even though 
+16   they are not directly next to each other.  This clearly distinguishes these labels from the one in 
+17   Plaintiffs’ cited authority, Krommenhock v. Post Foods, LLC, where the court determined that the 
+18   term “healthy” on cereal packaging was not an implied nutrient claim because it was not 
+19   “combined with direct references to a governed nutrient” – such as sodium or fat or cholesterol.  
+20   No. 16-CV-04958-WHO, </pre><span class="citation no-link">2018 WL 1335867</span><pre class="inline">, at *5 (N.D. Cal. Mar. 15, 2018) [“Krommenhock 
+21   II”].  Since the statements at issue here both independently and directly mention vitamin C, there 
+22   is no ambiguity about the governed nutrient.                          
+23        Second, the Court finds the context of the label significant.  While many cases deal with 
+24   challenges to front label claims that lack a clear connection to the finer print on the back label, this 
+25   case involves the opposite circumstance.  For example, in LeGrand, the court found that the front 
+26   label reference to “‘Immune * Muscle * Heart * Digestion * Bone’ on the front of the packaging” 
+27   was not an implied nutrient content claim even though “back of the packaging follows these words 
+1   claims there were “separate from other references to nutrient content on the packaging.”  </pre><span class="citation no-link">655 F. 
+2</span><pre class="inline">   Supp. 3d at 888–89.  Here, there is a clear claim regarding vitamin C on the front of the label, 
+3   which provides a nutritional context for the Antioxidant Statement appearing on the side or back 
+4   of the label – a context further reinforced by the positioning of the Antioxidant Statement directly 
+5   adjacent to or close to the nutrition facts panel.  Ultimately, the Court finds this case analogous to 
+6   Hadley v. Kellogg Sales Co., which also involved a descriptive back label statement about fiber – 
+7   “FIBER: Fiber, like bran fiber, plays a very important part in your digestive health and overall 
+8   well-being” – that Kellogg successfully argued was associated with the front label “Excellent 
+9   Source of Fiber” claim.4  </pre><span class="citation" data-id="7245130"><a href="/opinion/7327214/hadley-v-kellogg-sales-co/#1077" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">273 F. Supp. 3d 1052, 1077</a></span><pre class="inline"> (N.D. Cal. 2017).  The court there concluded 
+10   that “although the [fiber] statement does not claim that Defendant’s products are ‘high’ in fiber 
+11   explicitly, the context and other statements on the box imply that the product contains fiber and is 
+12   healthier as a result.”  </pre><span class="citation" data-id="7245130"><a href="/opinion/7327214/hadley-v-kellogg-sales-co/" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">Id.</a></span><pre class="inline">  The same conclusion is warranted here.  
+13        That is, however, not the end of the analytical road.  Plaintiffs argue that even if the 
+14   Antioxidant Statement qualifies as an implied nutrient content claim, the claims challenging that 
+15   statement are nevertheless not preempted because the products bearing the Antioxidant Statement 
+16   are misbranded.  The misbranding, they reason, arises out of the fact that the Products are fortified 
+17   in a manner that fails to comply </pre><span class="citation no-link">21 C.F.R. § 104.20</span><pre class="inline">, which establishes a “set of principles that will 
+18   serve as a model for the rational addition of nutrients to foods.”  Defendant argues that it is not 
+19   subject to the fortification policy at Section 104.20, and that in any event, it has a rational basis for 
+20   adding vitamin C – namely, “to promote color retention.”  Mot. at 18.   
+21        While Plaintiffs disagree that the Antioxidant Statement is an implied nutrient content 
+22   claim, they argue that to the extent these statements are construed as such, Defendant must abide 
+23   by the fortification policy because the Antioxidant Statement uses the word “healthy.”  Opp. at 15.  
+24   According to Plaintiffs, this obligation arises out of </pre><span class="citation no-link">21 C.F.R. § 101.65</span><pre class="inline">, which governs implied 
+25                                                                         
+
+26                                                                         
+    4 Plaintiffs argue that Hadley is “inapplicable” because it dealt with an implied nutrient claim 
+    under paragraph (d) of </pre><span class="citation no-link">21 C.F.R. § 101.65</span><pre class="inline"> rather than (c).  Opp. at 14.  But they provide no 
+27                                                                         
+    support for the notion that the analysis of claims under the two paragraphs differs, and themselves 
+1   nutrient content claims and related label statements.  Subsection 101.65(d)(2) conditions the use of 
+2   “healthy” (and related terms) as an implied nutrient content claim on four requirements, including 
+3   one bearing on fortification.  Specifically, Subsection 101.65(d)(2)(iv) requires that to the extent 
+4   that certain nutrients (including vitamin C) are added to foods (whether specifically listed at 
+5   Section 101.65(d)(2)(i) or not) “to meet the 10 percent requirement, that addition must be in 
+6   accordance with the fortification policy for foods in § 104.20 of this chapter.”   
+7        For purposes of assessing this argument, the Court will assume that the usage of the term 
+8   “healthy” in the Antioxidant Statement triggers an obligation to comply with the requirements at 
+9   Section 101.65(d)(2)(i)-(iv), including the requirement to adhere to the fortification policy in 
+10   instances where nutrients are added to a food to meet the 10 percent requirement detailed in the 
+11   regulation.  See 101.65(d)(2)(iv).5  Though Plaintiffs generally allege in their complaint that 
+12   Defendant violated the fortification policy, they do not adequately allege that Defendant was 
+13   subject to it.  In particular, they do not allege that Defendant added vitamin C to the Products in 
+14   order to meet the minimum level (i.e. 10% of the reference daily intake) of vitamin C required in 
+15   foods labeled with “healthy” implied nutrient content claims.  Given the high levels of vitamin C 
+16   that naturally occur in the Products, the Court cannot simply assume as a matter of common sense 
+17   that added (as opposed to naturally occurring) vitamin C caused them to meet the 10% threshold.  
+18   In other words, without any allegation connecting the added vitamin C to the ten percent 
+19   requirement, the Court cannot conclude that Defendant was subject to the fortification policy by 
+20                                                                         
+    5 That said, the Court questions the premise of Plaintiffs’ argument, which is that the Antioxidant 
+21                                                                         
+    Statement is a “healthy” implied nutrient content claim.  While the Antioxidant Statement 
+    indisputably uses the word “healthy” in reference to the immune system, “healthy” is not itself the 
+22                                                                         
+    implied nutrient content claim: the implied nutrient content claim is “Vitamin C is an antioxidant 
+    that helps support a healthy immune system.”  The difference between the two usages is not just 
+23                                                                         
+    semantic, as there is a substantive distinction as well.  When used as a standalone implied nutrient 
+    content claim, “healthy” characterizes the benefits of the food, as opposed to – like here – 
+24                                                                         
+    characterizing the positive effect of the food on the body.  The regulations applicable to foods 
+    bearing “healthy” implied nutrient content claims (which are organized by food type and dictate 
+25                                                                         
+    the permissible constituent amounts of fat, cholesterol, sodium, and other nutrients in the food) 
+    strongly suggest that their focus is on gatekeeping what foods may be called “healthy,” as opposed 
+26                                                                         
+    to what bodily functions may be identified as positively impacted by a given food.  As such, it is 
+    not obvious to the Court that Defendant must even comply with the requirements of Section 
+27                                                                         
+    101.65(d)(2)(i)-(iv), but since neither party raised the argument, the Court proceeds analytically 
+1   operation of Section 101.65(d)(2)(iv).  While the Court agrees with Plaintiffs that were it subject 
+2   to the policy, Defendant would bear the burden of demonstrating that it fortified the Products 
+3   within the parameters specified by Section 104.20, it was Plaintiffs’ duty in the first instance to 
+4   adequately plead that the provision both applies and was violated.    
+5        The Court therefore concludes that in the absence of a well-pled violation of the 
+6   fortification (or other) policy, the Antioxidant Statement is a preempted implied content claim.  It 
+7   accordingly GRANTS Defendant’s motion to dismiss on this ground, and finds Plaintiffs’ claims 
+8   that rely on Defendant’s use of this statement preempted. 6           
+9          iii.  Omissions Claims Based on Sugar Content                  
+10        Defendant argues that since “the FDA does not require that products containing naturally 
+11   occurring or added sugar” bear a warning, Plaintiffs’ claim that Defendant had a “duty to disclose” 
+12   information about the alleged dangers of sugar consumption is preempted as a non-identical 
+13   requirement under the FDCA.  Mot. at 21–22.  Since the Court does not read Plaintiffs’ theory as 
+14   seeking to impose a non-identical requirement, it declines to dismiss on this basis. 
+15        Though Defendant tries to suggest otherwise, Plaintiffs do not argue that Defendant always 
+16   has a duty to disclose the health effects of sugar, which would clearly be a non-identical 
+17   requirement under the FDCA.  Instead, Plaintiffs argue that the omission of this information is 
+18   actionable under California consumer protection statutes because of the Products’ label 
+19   representations, which Plaintiffs argue misleadingly promote the Products as healthy.  Opp. at 18.  
+20   In other words, the duty to disclose the dangers of sugar to health rises and falls on the presence of 
+21   other, affirmative representations that misleadingly tout the healthiness of sugary Products.  While 
+22   Defendant argues that it cannot be required to provide such warnings because the FDA already 
+23   “considered, and rejected, the disclosure of the alleged health effects of added sugar,” Defendant 
+24   has not shown that the FDA did so where, as here, there are pertinent alleged affirmative 
+25   misrepresentations on the label.  See Krommenhock v. Post Foods, LLC, </pre><span class="citation" data-id="7243732"><a href="/opinion/7325818/krommenhock-v-post-foods-llc/" aria-description="Citation for case: Krommenhock v. Post Foods, LLC">255 F. Supp. 3d 938</a></span><pre class="inline">, 955 
+26   (N.D. Cal. 2017) [“Krommenhock I”].  In that circumstance, “plaintiff’s claims, if proved, ‘would 
+27                                                                         
+1   simply require Defendant to truthfully state’” material information, “or not sell its products; such 
+2   relief would not impose a state requirement that is ‘different from or in addition to, or that is 
+3   otherwise not identical with’ that of the FDCA.” 7  See Fagan v. Neutrogena Corp., </pre><span class="citation no-link">2014 WL 
+4</span><pre class="inline">   92255, at *1 (C.D. Cal. Jan. 8, 2014) (quotation omitted).            
+5        While the Court – for the reasons described below in Section III.C – does not ultimately 
+6   find the alleged omission actionable, it concludes that any omission-based claims are not 
+7   preempted.  Accordingly, the Court DENIES Defendant’s motion to dismiss on this basis.  
+8        C.  UCL, FAL, and CLRA Claims                                    
+9        Defendant contends that Plaintiffs’ UCL, FAL, and CLRA claims fail because the 
+10   challenged statements are puffery, and would not deceive reasonable consumers as a matter of 
+11   law.  The Court agrees.                                               
+12        The parties agree that the “reasonable consumer test” governs Plaintiffs’ CLRA, UCL, and 
+13   FAL claims.  Mot. at 25; Opp. at 20.  Under this test, a plaintiff must “show that members of the 
+14   public are likely to be deceived” by the challenged representations.  See Williams v. Gerber Prods. 
+15   Co., </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/#938" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d 934, 938</a></span><pre class="inline"> (9th Cir. 2008) (internal quotation and citation omitted).  This requires 
+16   more than a “mere possibility” that Dole’s Product labels “might conceivably be misunderstood by 
+17   some few consumers viewing [the labels] in an unreasonable manner.”  Becerra v. Dr 
+18   Pepper/Seven Up, Inc., </pre><span class="citation no-link">945 F.3d 1225</span><pre class="inline">, 1228 (9th Cir. 2019) (quoting Lavie v. Procter &amp; Gamble 
+19   Co., </pre><span class="citation" data-id="9749498"><a href="/opinion/2283365/lavie-v-procter-gamble-co/#508" aria-description="Citation for case: Lavie v. Procter &amp; Gamble Co.">105 Cal. App. 4th 496, 508</a></span><pre class="inline"> (2003)).  Rather, it must be “probable that a significant portion of 
+20   the general consuming public or of targeted consumers, acting reasonably in the circumstances, 
+21   could be misled.”  </pre><span class="citation" data-id="9749498"><a href="/opinion/2283365/lavie-v-procter-gamble-co/" aria-description="Citation for case: Lavie v. Procter &amp; Gamble Co.">Id.</a></span><pre class="inline">                                                
+22        Despite agreeing on the relevant standard, the parties disagree on whether Plaintiffs have 
+23                                                                         
+
+24                                                                         
+    7 Moreover, Plaintiffs have alleged that the FDA does require food manufacturers to “reveal facts 
+    that are material in light of other representations made or suggested by” a product’s label, and that 
+25                                                                         
+    are “[m]aterial with respect to the consequences which may result from use of the article under . . . 
+    conditions of use as are customary or usual[.]”  Compl. ¶¶ 147-48 (quoting </pre><span class="citation no-link">21 C.F.R. §§ 
+26</span><pre class="inline">                                                                         
+    1.21(a)(1) &amp; (2)).  Defendant, who bears the burden of demonstrating preemption, has not argued 
+    that its obligations under Section 1.21(a)(1) materially differ from its obligations under 
+27                                                                         
+    California’s consumer protection statutes, such that prevailing on omissions claim under the UCL, 
+1   plausibly alleged that the challenged (and non-preempted) Representations are deceptive under 
+2   this standard.8  In a nutshell, Plaintiffs’ theory is that the Representations portray the Products as 
+3   healthy, when in fact the amount of FA sugar they contain renders them unhealthy.  Courts in this 
+4   district have come out different ways on the viability of this theory.  Here, however, the Court 
+5   finds that Plaintiffs have not plausibly alleged that the Representations mislead reasonable 
+6   consumers as to the healthfulness of the product.                     
+7        First, the Court is persuaded that the statements invoking “a promise to provide everyone, 
+8   everywhere with good nutrition” and referencing “seal[ing] in goodness and nutrition” are puffery.  
+9   Puffery is “exaggerated advertising, blustering, and boasting upon which no reasonable buyer 
+10   would rely and is not actionable[.]”  Southland Sod Farms v. Stover Seed Co., </pre><span class="citation" data-id="6945094"><a href="/opinion/7041988/southland-sod-farms-v-stover-seed-co/" aria-description="Citation for case: Southland Sod Farms v. Stover Seed Co.">108 F.3d 1134</a></span><pre class="inline">, 
+11   1145 (9th Cir. 1997) (cleaned up).  “[T]he difference between a statement of fact and mere puffery 
+12   rests in the specificity or generality of the claim.”  Newcal Indus., Inc. v. IKON Office Solution, 
+13   </pre><span class="citation" data-id="1271965"><a href="/opinion/1271965/newcal-industries-inc-v-ikon-office-solution/#1053" aria-description="Citation for case: Newcal Industries, Inc. v. IKON Office Solution">513 F.3d 1038, 1053</a></span><pre class="inline"> (9th Cir. 2008).  Therefore, “to be actionable as an affirmative 
+14   misrepresentation, a statement must make a specific and measurable claim, capable of being 
+15   proved false or of being reasonably interpreted as a statement of objective fact.” Weiss v. Trader 
+16   Joe’s Co., </pre><span class="citation no-link">2018 WL 6340758</span><pre class="inline">, at *4 (C.D. Cal. Nov. 20, 2018). “Generalized, vague, and 
+17   unspecified” statements are routinely dismissed at the 12(b)(6) stage.  Oestreicher v. Alienware 
+18   Corp., </pre><span class="citation" data-id="1687030"><a href="/opinion/1687030/oestreicher-v-alienware-corp/#973" aria-description="Citation for case: Oestreicher v. Alienware Corp.">544 F. Supp. 2d 964, 973</a></span><pre class="inline"> (N.D. Cal. 2008).                     
+19   //                                                                    
+20   //                                                                    
+21   //                                                                    
+22   //                                                                    
+23   //                                                                    
+24   //                                                                    
+25                                                                         
+26                                                                         
+
+27                                                                         
+    8 The non-preempted Representations relevant to Section III.C are:    
+    1          Here, the Court finds that no reasonable consumer would rely on the “good nutrition” and 
+    2  ||  “goodness and nutrition” statements as they appear on the labels, reproduced below. 
+    3 
+    4                             We   believe                      Ee         UNSHINI 
+           0@          It&#x27;s our promise to provide                    So 
+    6                       everyone, everywhere with  |    ye 2   tm beigenacrace 
+    ’                          good  nutrition!           Cs  cE
+        (Declaration of Sarah Brew, Ex. 2) (emphasis added in black). 
+   0          If these phrases appeared in isolation, the Court might conclude differently.  But each 
+        reference to the challenged phrases (“good nutrition” or “goodness and nutrition’) follows 
+ E         advertising copy that likens the Products to sunshine — a patently fanciful analogy that is further 
+=         reinforced with playful, childlike drawings of the sun.  The context, in other words, clearly signals 
+          that the claims are too vague and aspirational to serve as anything other than “exaggerated 
+5         advertising.”  Truxel, </pre><span class="citation no-link">2019 WL 3940956</span><pre class="inline">, at *2.  As depicted above, the Representation that “It’s 
+=    ‘6    our promise to provide everyone, everywhere with good nutrition!” is immediately preceded by 
+         the slogan “We believe in Sunshine for All” and adjacent to a rendering of the sun.  Interpreting 
+    18    this sentence pairing as anything other than a statement of corporate aspiration would be 
+        unreasonable, as would a consumer’s reliance on the phrase “good nutrition” in isolation.  See 
+   “0    Krommenhock I, </pre><span class="citation" data-id="7243732"><a href="/opinion/7325818/krommenhock-v-post-foods-llc/#965" aria-description="Citation for case: Krommenhock v. Post Foods, LLC">255 F. Supp. 3d at 965</a></span><pre class="inline"> (“Courts have repeatedly emphasized that in order to 
+        assess whether a statement is mere puffery, it must be considered in the context of the whole 
+        label.”).  The clear sales jargon backdrop distinguishes this case from those relied upon by 
+        Plaintiffs.  See, e.g., Chacanaca, 752 F. Supp. 2d at 1125-26 (holding that use of “wholesome” 
+        claim was not puffery in context lacking aspirational sales promises and imagery). 
+              Similarly, the challenged representation on Defendant’s Fruit Bowls that they “seal in 
+         goodness and nutrition” follows the claim “FULL OF SUNSHINE” and “Bring sunshine with you 
+         wherever you go.”  To state the obvious: the Products are not literally “full of sunshine,” and no 
+   28 
+
+1   consumer can “bring sunshine” with them “wherever” they go – whether by purchasing one of the 
+2   Products or doing something else.  And the Representations’ pairing of “nutrition” with the 
+3   nonspecific term “goodness” further incorporates an inherently subjective element.  See Weiss v. 
+4   Kroger Co., </pre><span class="citation no-link">2014 WL 5114608</span><pre class="inline">, at *3 (C.D. Cal. Aug. 8, 2014) (“[A] whole lot of goodness 
+5   contained in each and every tiny sunflower seed” was “highly subjective non-actionable puffery” 
+6   and therefore did not reasonably imply the product was healthy); Truxel, </pre><span class="citation no-link">2019 WL 3940956</span><pre class="inline">, at *2 
+7   (“a world of goodness” was non-actionable puffery).  In short, the inclusion of the conceivably 
+8   health-related phrases “good nutrition” and “goodness and nutrition” in these two Representations 
+9   does not convert clear advertising copy into a verifiable, specific statement of fact.   
+10        Even if did, however, the Court’s ultimate view would not change.  To the extent that the 
+11   Representations are read literally (which, again, context dictates they should not be), they are not 
+12   false because even as alleged the Products do contain “nutrition” as indicated in the nutrition 
+13   panels, including vitamin C.  Plaintiffs argue that the “good nutrition” and “goodness and 
+14   nutrition” Representations are nevertheless misleading because they connote that the Products are 
+15   healthy overall, which – due to the amount of FA sugar – is allegedly not the case.  To be clear, 
+16   the Products do not expressly invoke healthiness.  Instead, Plaintiffs’ argument requires 
+17   extrapolating an affirmative representation of “healthiness” from the “good nutrition” and 
+18   “goodness and nutrition” Representations, and then challenging the truthfulness of the 
+19   extrapolated but not actually present “healthiness” representation.   
+20        While that extrapolation may be plausible in some circumstances, this is not one of them, 
+21   as the inferential leap from the Representations to generalized, overall “healthiness” is 
+22   unsupported.  See Davidson v. Sprout Foods Inc., No. 22-CV-01050-RS, </pre><span class="citation no-link">2022 WL 13801090</span><pre class="inline"> at 
+23   *3 (N.D. Cal. Oct. 21, 2022) (“The California Court of Appeal has cautioned against permitting 
+24   food labeling claims that rely on interferential leaps and which could ultimately ‘place almost any 
+25   advertisement truthfully touting a product’s attributes at issue for litigation.’”) (internal citations 
+26   omitted); Andrade-Heymsfield v. Danone US, Inc., </pre><span class="citation no-link">2019 WL 3817948</span><pre class="inline">, at *2, *9 (S.D. Cal. Aug. 
+27   14, 2019) (“[Allegations of deception must be assessed according to what the advertisement or 
+1   context in which Defendant’s [Representations] are presented here make it implausible for a 
+2   reasonable consumer to find that [the “good nutrition” and “goodness and nutrition” statements] 
+3   [are] synonymous with ‘healthy.’”  Stewart v. Kodiak Cakes, LLC, </pre><span class="citation no-link">568 F. Supp. 3d 1056</span><pre class="inline">, 1067 
+4   (S.D. Cal. 2021).  It is simply implausible that “a reasonable consumer who knows they are 
+5   buying a sweet product, such as Diced Peaches in Strawberry Flavored Gel (¶ 27), and who reads 
+6   a challenged statement like ‘We believe in Sunshine for All™. It’s our promise to provide 
+7   everyone, everywhere with good nutrition!’ immediately adjacent to the Nutrition Facts panel 
+8   showing the amount of both naturally occurring and added sugar, would assume that the Product is 
+9   generally healthy or would not increase the risk of any disease.”  Reply at 16.   
+10        Other courts have reached similar conclusions analyzing similar – and even stronger (i.e. 
+11   more directly health-related) – representations.  See, e.g., Lee v. Nature’s Path Food, Inc., No. 23-
+12   CV-00751-H-MSB, </pre><span class="citation no-link">2023 WL 7434963</span><pre class="inline"> (S.D. Cal. Nov. 9, 2023) (rejecting as implausible the 
+13   allegation that, even assuming labels explicitly communicated healthiness, they misleadingly 
+14   touted the granola’s healthiness); Sanchez v. Nurture, Inc., No.,5:21-CV-08566-EJD, </pre><span class="citation no-link">2023 WL 
+15</span><pre class="inline">   6391487 (N.D. Cal. Sept. 29, 2023) (rejecting as implausible the allegation that representation 
+16   “Here’s to a happy and healthy start!” on baby food product misled consumers about presence of 
+17   FA sugar); Clark v. Perfect Bar, LLC, No. C 18-06006 WHA, </pre><span class="citation no-link">2018 WL 7048788</span><pre class="inline"> (N.D. Cal. Dec. 
+18   21, 2018) (dismissing allegations that nut bar label referencing “health food” misled consumers 
+19   about the bar’s health benefits) , aff’d, </pre><span class="citation no-link">816 F. App’x 141</span><pre class="inline"> (9th Cir. 2020); see also Truxel v. Gen. 
+20   Mills Sales, Inc., No. C 16-04957 JSW, </pre><span class="citation no-link">2019 WL 3940956</span><pre class="inline"> (N.D. Cal. Aug. 13, 2019).  
+21        Finally, Plaintiffs’ omission-based claims are nonstarters for the same reason: having 
+22   concluded that the “good nutrition” and “goodness and nutrition” Representations do not imply a 
+23   representation concerning the general healthiness of the Products, the Court finds that no 
+24   additional, curative disclosure is required to address the adverse health effects of sugar.  The 
+25   omission of such a disclosure is therefore not actionable.            
+26        Accordingly, the Court GRANTS Defendant’s motion to dismiss Plaintiffs’ UCL, FAL, 
+27   and CLRA claims.                                                      
+1        D.  Additional Claims                                            
+2           i.  UCL Claim                                                 
+3        Defendant moves to dismiss Plaintiffs’ claims under the UCL’s unlawful and unfair prongs 
+4   to the extent they are premised on Defendant’s alleged violation of the FDA’s fortification policy 
+5   at </pre><span class="citation no-link">21 C.F.R. § 104.20</span><pre class="inline">.  Mot. at 33.  Plaintiffs, in their Opposition, clarify that they limit their 
+6   misbranding claim to Fruitify Beverages.  Opp. at 14 n.3.  But because Plaintiffs do not include 
+7   any allegations in their Complaint concerning the purportedly improper fortification of Fruitify 
+8   Beverages, the Court GRANTS Defendant’s motion to dismiss this claim.   
+9          ii.  Express and Implied Warranty Claims                       
+10        Defendant argues that Plaintiffs’ fourth and fifth causes of action for breach of express and 
+11   implied warranties under California law must be dismissed.  They contend that the claims are 
+12   defective for numerous reasons, namely because (1) the Representations do not constitute a written 
+13   warranty, (2) the Representations are true and not misleading, (3) the parties were not in privity, 
+14   and (4) Plaintiffs have not pled that the Products were unfit to be consumed.  Mot. at 33.  
+15        Because the Court agrees that, at a minimum, Plaintiffs have not plausibly alleged that the 
+16   Representations are false and misleading, the Court will GRANT Defendant’s motion to dismiss 
+17   these claims.                                                         
+18          iii.  Negligent Misrepresentation                              
+19        Defendant contends that to support a negligent misrepresentation claim in the commercial 
+20   context, New York law requires that the parties have a “special relationship” – which they argue 
+21   Plaintiffs did not plead existed.  Mot. at 33.  Regardless, given that another element of a negligent 
+22   misrepresentation claim under New York law is that “the information [imparted from defendant to 
+23   plaintiff] was incorrect,” and given that the Court concluded that the information provided on 
+24   Defendant’s labels was not incorrectly false or misleading as alleged, Plaintiffs have not stated a 
+25   claim for negligent misrepresentation.  Hughes v. Ester C Co., </pre><span class="citation" data-id="8706768"><a href="/opinion/8723572/hughes-v-ester-c-co/" aria-description="Citation for case: Hughes v. Ester C Co.">930 F. Supp. 2d 439</a></span><pre class="inline">, 474 
+26   (E.D.N.Y. 2013) (internal quotation omitted).  Accordingly, the Court GRANTS Defendant’s 
+27   motion to dismiss Plaintiffs’ ninth cause of action arising under New York law.  
+1          iv.  Intentional Misrepresentation                             
+2        Intentional misrepresentation claims depend on a well-pled intent to defraud.  Plaintiffs’ 
+3   allegations – that Defendant’s fraudulent intent is “evidenced by the intentional and conspicuous 
+4   placement of the misleading representations on the Products’ packaging,” when it “knew that the 
+5   misrepresentations were misleading” – is insufficient under the Rule 9(b) standard.  See, e.g., 
+6   Tomek v. Apple, Inc., </pre><span class="citation" data-id="9821315"><a href="/opinion/3172693/alex-tomek-v-apple-inc/#713" aria-description="Citation for case: Alex Tomek v. Apple, Inc.">636 F. App’x 712, 713</a></span><pre class="inline"> (9th Cir. 2016) (affirming dismissal where plaintiff 
+7   did not allege “specific facts that ‘allow[ ] the court to draw the reasonable inference’ that Apple 
+8   knew it was issuing misleading advertisements” at the time of plaintiff’s purchase).9  Accordingly, 
+9   the Court GRANTS Defendant’s motion to dismiss Plaintiffs’ tenth cause of action.  
+10          v.  Unjust Enrichment                                          
+11        Defendant argues that Plaintiffs’ unjust enrichment claims fail under both California and 
+12   New York law.  It suggests that Plaintiffs cannot bring these claims under California law because 
+13   “[t]here is no cause of action in California labeled ‘unjust enrichment.’”  Mot. at 34 (quoting Bank 
+14   of New York Mellon v. Citibank N.A., </pre><span class="citation" data-id="4126825"><a href="/opinion/4349565/bank-of-new-york-mellon-v-citibank-na/#955" aria-description="Citation for case: Bank of New York Mellon v. Citibank, N.A.">8 Cal. App. 5th 935, 955</a></span><pre class="inline"> (2017)).  The same result is 
+15   warranted under New York law, they argue, because the cause of action for unjust enrichment is 
+16   impermissibly “duplicative” of Plaintiffs’ other claims.  </pre><span class="citation" data-id="4126825"><a href="/opinion/4349565/bank-of-new-york-mellon-v-citibank-na/" aria-description="Citation for case: Bank of New York Mellon v. Citibank, N.A.">Id.</a></span><pre class="inline">         
+17        Because Plaintiffs did not counter Defendant’s argument that the unjust enrichment claim 
+18   is “duplicative,” and because the Court agrees that New York law does not permit such 
+19   duplication, it dismisses the claim.  See Corsello v. Verizon N.Y., Inc., </pre><span class="citation" data-id="2434749"><a href="/opinion/2434749/corsello-v-verizon-new-york-inc/" aria-description="Citation for case: Corsello v. Verizon New York, Inc.">967 N.E.2d 1177</a></span><pre class="inline">, 1185 
+20   (N.Y. 2012) (unjust enrichment may not “simply duplicate[]” a conventional tort claim).  As for 
+21   the unjust enrichment claim under California law, Defendant is correct that “there is not a 
+22   standalone cause of action for unjust enrichment” under California law.  Astiana v. Hain Celestial 
+23   Group, Inc., </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/#762" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">783 F.3d 753, 762</a></span><pre class="inline"> (9th Cir. 2015).  But the inquiry does not, as it implies, stop there.  
+24   “When a plaintiff alleges unjust enrichment, a court may construe the cause of action as a quasi-
+25   contract claim seeking restitution.”  T.T. v. Supercell, Inc., </pre><span class="citation no-link">2023 WL 2562395</span><pre class="inline">, at *5 (N.D. Cal. 
+</pre><span class="citation no-link">26   Mar. 17</span><pre class="inline">, 2023) (quoting Astiana, </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/#762" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">783 F.3d at 762</a></span><pre class="inline">).  A plaintiff states a quasi-contact claim where 
+27                                                                         
+1   she alleges that “the defendant ha[s] ‘enticed plaintiff[] to purchase [its] products through false 
+2   and misleading labeling, and that [the defendant] was unjustly enriched as a result.’”  </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">Id.</a></span><pre class="inline"> (quoting 
+3   Astiana, </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/#762" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">783 F.3d at 762</a></span><pre class="inline">).  Though Plaintiffs argue that their allegations support a quasi-contract 
+4   claim under this articulation, the Court found that Plaintiffs do not plausibly allege that the 
+5   Representations on the Products were misleading.  As a result, they do not state an actionable 
+6   quasi-contract claim, and the Court must GRANT Defendant’s motion to dismiss this claim. 
+7   IV.  MOTION TO STAY                                                   
+8        Defendant seeks to stay discovery until thirty days after the Court’s ruling on the motion to 
+9   dismiss.  See Dkt. No. 36 at 6.  The Federal Rules of Civil Procedure do not provide for an 
+10   automatic stay of discovery simply because a potentially dispositive motion is pending.  
+11   Nevertheless, a “district court has wide discretion in controlling discovery.”  Little v. City of 
+12   Seattle, </pre><span class="citation" data-id="515804"><a href="/opinion/515804/ernest-s-little-v-city-of-seattle-john-doe-jane-doe-and-david-paul/#685" aria-description="Citation for case: Ernest S. Little v. City of Seattle John Doe Jane Doe,...">863 F.2d 681, 685</a></span><pre class="inline"> (9th Cir. 1988).  And under Federal Rule of Civil Procedure 26(c), 
+13   “[t]he court may, for good cause, issue an order to protect a party or person from annoyance, 
+14   embarrassment, oppression, or undue burden or expense[.]”  Courts in this district often apply a 
+15   two-prong test to determine whether a stay of discovery is appropriate.  See In re Nexus 6p Prod. 
+16   Liab. Litig., No. 17-CV-02185-BLF, </pre><span class="citation no-link">2017 WL 3581188</span><pre class="inline">, at *1 (N.D. Cal. Aug. 18, 2017) 
+17   (collecting cases).  First, the moving party must demonstrate that the pending motion is 
+18   “potentially dispositive of the entire case, or at least dispositive on the issue at which discovery is 
+19   directed.”  </pre><span class="citation no-link">Id.</span><pre class="inline">  Second, “the court must determine whether the pending motion can be decided 
+20   absent discovery.”  </pre><span class="citation no-link">Id.</span><pre class="inline">                                               
+21        Having found that the underlying motion to dismiss warrants dismissal of the complaint in 
+22   its entirety, as Defendant urged, the Court believes “[i]t is sounder practice to determine whether 
+23   there is any reasonable likelihood that plaintiffs can construct a claim before forcing the parties to 
+24   undergo the expense of discovery.”  Rutman Wine Co. v. E. &amp; J. Gallo Winery, </pre><span class="citation" data-id="494674"><a href="/opinion/494674/rutman-wine-company-v-e-j-gallo-winery/" aria-description="Citation for case: Rutman Wine Company v. E. &amp; J. Gallo Winery">829 F.2d 729</a></span><pre class="inline">, 738 
+25   (9th Cir. 1987).  Accordingly, the Court finds that there is good cause under Rule 26(c) to 
+26   temporarily stay discovery until otherwise ordered.                   
+27   //                                                                    
+    1     V.    CONCLUSION 
+    2          The Court GRANTS IN PART and DENIES IN PART Defendant’s motion to dismiss. 
+    3    Dkt. No. 24.  The Court further GRANTS Defendant’s motion to stay.  Dkt. No. 36.  Since the 
+    4  || Court cannot conclude that amendment would be futile, Plaintiffs may file an amended complaint 
+    5  || within 21 days of the date of this order. 
+    6          The Court further SETS a telephonic case management conference on May 21, 2024, at 
+    7    2:00 p.m. and DIRCTS the parties to submit a joint case management statement by May 14, 2024. 
+    8    All counsel shall use the following dial-in information to access the call: 
+    9          Dial-In:  888-808-6929 
+   10          Passcode:  6064255 
+   11          All attorneys and pro se litigants appearing for a telephonic case management conference 
+    12    are required to dial in at least 15 minutes before the hearing to check in with the courtroom 
+5    13  || deputy.  For call clarity, parties shall NOT use speaker phone or earpieces for these calls, and 
+    14  || where at all possible, parties shall use landlines. 
+ 3    15          IT IS SO ORDERED. 
+     16 || Dated:   4/8/2024 
+                                           Appr    3   Mbt). 
+      8                                          HAYWOOD S. GILLIAM, JR. 
+                                               United States District Judge 
+   19 
+   20 
+   21 
+   22 
+   23 
+   24 
+   25 
+   26 
+   27 
+   28 </pre>

@@ -1,0 +1,384 @@
+<p class="case_cite"><span class="citation no-link">11 F.3d 1016</span></p>
+    <p class="case_cite"><span class="citation no-link">62 USLW 2460</span></p>
+    <p class="parties">SEMINOLE TRIBE OF FLORIDA, Plaintiff-Appellee,<br>v.<br>STATE OF FLORIDA, Lawton Chiles, Governor of the State of<br>Florida, Defendants-Appellants.<br>POARCH CREEK INDIANS, Poarch Band of Creek Indians,<br>Plaintiff-Appellant,<br>v.<br>STATE OF ALABAMA, James E. Folsom, Governor, State of<br>Alabama, Defendants-Appellees.</p>
+    <p class="docket">Nos. 92-4652, 92-6244.</p>
+    <p class="court">United States Court of Appeals,<br>Eleventh Circuit.</p>
+    <p class="date">Jan. 18, 1994.</p>
+    <div class="prelims">
+      <p class="indent">Jonathan A. Glogau, Asst. Atty. Gen., Tallahassee, FL, for defendants-appellants in No. 92-4652.</p>
+      <p class="indent">Bruce S. Rogow, Ft. Lauderdale, FL, for plaintiff-appellee in No. 92-4652.</p>
+      <p class="indent">Richard T. Dorman, David R. Peeler, Mobile, AL, William R. Perry, Sonosky, Chambers, Fachse &amp; Endreson, Washington, D.C., for plaintiff-appellant in No. 92-6244.</p>
+      <p class="indent">Hans Walker, Washington, DC, for amicus Nat. Indian Gaming Assoc.</p>
+      <p class="indent">Donald Juneau, New Orleans, LA, for amicus Tunica-Biloxi Tribe of La.</p>
+      <p class="indent">Carol Jean Smith, Ronald C. Forehand, Mark D. Hess, H. William Wasden, Asst. Attys.  Gen., James H. Evans, Atty. Gen., Montgomery, AL, T.A. Harding Fendley, James B. Rossler, Mobile, AL, for defendants-appellees in No. 92-6244.</p>
+      <p class="indent">Appeal from the United States District Court for the Southern District of Florida.</p>
+      <p class="indent">Appeal from the United States District Court for the Southern District of Alabama.</p>
+      <p class="indent">Before TJOFLAT, Chief Judge, BLACK, Circuit Judge, and JOHNSON, Senior Circuit Judge.</p>
+      <p class="indent">TJOFLAT, Chief Judge:</p>
+    </div>
+    <div class="num" id="p1">
+      <span class="num">1</span>
+      <p class="indent">These two consolidated cases present the following issue:  whether Congress successfully abrogated the states' Eleventh Amendment sovereign immunity from suit by enacting the Indian Gaming Regulatory Act ("IGRA"), Pub.L. No. 100-497, <span class="citation no-link">102 Stat. 2467</span> (1988) (codified at 25 U.S.C. Secs. 2701-21).<a class="footnote" href="#fn1" id="fn1_ref">1</a>  The two district court judges below agreed that IGRA manifested Congress' attempt to abrogate the states' Eleventh Amendment immunity;  they disagreed, however, as to whether Congress possesses the power under the Constitution to accomplish that abrogation.</p>
+    </div>
+    <div class="num" id="p2">
+      <span class="num">2</span>
+      <p class="indent">We hold that, although decisions of the Supreme Court demonstrate that Congress does possess the power to abrogate the states' Eleventh Amendment sovereign immunity in certain cases, Congress did not possess that power when enacting IGRA under the Indian Commerce Clause, U.S. Const. art.  I, Sec. 8, cl. 3.  Thus, the states retain their sovereign immunity and the federal courts do not have subject-matter jurisdiction over suits brought under IGRA.  Accordingly, these cases must be dismissed.</p>
+    </div>
+    <div class="num" id="p3">
+      <span class="num">3</span>
+      <p class="indent">In part I, we provide a brief summary of the Indian Gaming Regulatory Act here at issue.  In part II, we set forth the facts relevant to these cases.  After establishing our jurisdiction and the appropriate standard of review in part III, we examine the Eleventh Amendment issues in part IV and then analyze the effect of our holding in part V.<a class="footnote" href="#fn2" id="fn2_ref">2</a></p>
+    </div>
+    <p>I.</p>
+    <div class="num" id="p4">
+      <span class="num">4</span>
+      <p class="indent">In 1987, the Supreme Court held that a state could not enforce its "civil/regulatory" gaming laws in a manner that would prohibit gaming on Indian lands within its borders.  California v. Cabazon Band of Mission Indians, <span class="citation" data-id="111828"><a href="/opinion/111828/california-v-cabazon-band-of-mission-indians/">480 U.S. 202</a></span>, <span class="citation" data-id="111828"><a href="/opinion/111828/california-v-cabazon-band-of-mission-indians/">107 S.Ct. 1083</a></span>, <span class="citation" data-id="111828"><a href="/opinion/111828/california-v-cabazon-band-of-mission-indians/">94 L.Ed.2d 244</a></span> (1987).  That decision left Indian gaming largely unregulated by the states;  similarly, "existing federal law d[id] not provide clear standards or regulations for the conduct of gaming on Indian lands."  25 U.S.C. Sec. 2701(3).  In an attempt to supply some much-needed regulation, and after contentious debate concerning the appropriate state role in the regulation of Indian gaming, Congress enacted the Indian Gaming Regulatory Act.  IGRA's primary purpose was "to provide a statutory basis for the operation of gaming by Indian tribes as a means of promoting tribal economic development, self-sufficiency, and strong tribal governments."  Sec.  2702(1).  In order to accomplish this goal, Congress defined classes of Indian gaming, Sec. 2703(6)-(8);  established the National Indian Gaming Commission to monitor and regulate some forms of Indian gaming, Secs. 2704-08;  and provided a compacting procedure by which states might participate in the regulation of certain forms of Indian gaming, Sec. 2710(d).</p>
+    </div>
+    <div class="num" id="p5">
+      <span class="num">5</span>
+      <p class="indent">Briefly summarized, Congress divided Indian gaming into three "classes."   Class I gaming, which is governed and regulated solely by individual Indian tribes, includes little more than "social games solely for prizes of minimal value...."  Sec. 2703(6).  Class II gaming, which is subject to certain federal regulations, includes bingo and comparable games as well as non-banking card games where not prohibited by state law.<a class="footnote" href="#fn3" id="fn3_ref">3</a>  Sec. 2703(7)(A).  Neither of these classes is relevant to the cases on appeal.</p>
+    </div>
+    <div class="num" id="p6">
+      <span class="num">6</span>
+      <p class="indent">These cases address the third class of gaming.  Class III gaming is defined residually;  it includes "all forms of gaming that are not class I gaming or class II gaming."  Sec.  2703(8).  Specifically excluded from class II, and therefore within the parameters of class III, are banking card games and "electronic or electromechanical facsimiles of any game of chance or slot machines of any kind."  Sec.  2703(7)(B).  Class III gaming is the type of gaming most profitable to the tribes;  it also is the gaming in which the states desire the greatest regulatory oversight.</p>
+    </div>
+    <div class="num" id="p7">
+      <span class="num">7</span>
+      <p class="indent">In order to achieve a compromise between the interests of the states and the interests of the Indian tribes, Congress mandated that class III gaming activities would be lawful on Indian lands only when those activities are (a) authorized by the tribe;  (b) located in a state that permits such gaming;  and, most importantly, (c) "conducted in conformance with a Tribal-State compact entered into by the Indian tribe and the State ... that is in effect."  Sec.  2710(d)(1).  To ensure that dilatory actions by the state could not preclude or unreasonably delay Indian gaming, IGRA also delineated a negotiating process designed to culminate in the Tribal-State compact and provided mechanisms to remedy state misconduct.</p>
+    </div>
+    <div class="num" id="p8">
+      <span class="num">8</span>
+      <p class="indent">Under the statute, the tribe initiates the compacting process by requesting that the state enter into negotiations for the purpose of concluding a Tribal-State compact governing the conduct of gaming activities;  in IGRA, Congress mandated that the state "shall negotiate with the Indian tribe in good faith to enter into a compact."  Sec.  2710(d)(3)(A).  If these negotiations bear fruit, the compact must be approved by the Secretary of the Interior and published in the Federal Register.  Sec.  2710(d)(8).</p>
+    </div>
+    <div class="num" id="p9">
+      <span class="num">9</span>
+      <p class="indent">Congress also anticipated that Tribal-State negotiations would not always produce a mutually satisfactory compact;  it thus provided tribes with a remedy in the federal courts:</p>
+    </div>
+    <div class="num" id="p10">
+      <span class="num">10</span>
+      <p>(A) The United States district courts shall have jurisdiction over--</p>
+    </div>
+    <div class="num" id="p11">
+      <span class="num">11</span>
+      <p>(i) any cause of action initiated by an Indian tribe arising from the failure of a State to enter into negotiations with the Indian tribe for the purpose of entering into a Tribal-State compact under paragraph (3) or to conduct such negotiations in good faith....</p>
+    </div>
+    <div class="num" id="p12">
+      <span class="num">12</span>
+      <p>....</p>
+    </div>
+    <div class="num" id="p13">
+      <span class="num">13</span>
+      <p class="indent">(B)(i) An Indian tribe may initiate a cause of action described in subparagraph (A)(i) only after the close of the 180-day period beginning on the date on which the Indian tribe requested the State to enter into negotiations under paragraph (3)(A).</p>
+    </div>
+    <div class="num" id="p14">
+      <span class="num">14</span>
+      <p class="indent">Sec. 2710(d)(7)(A)(i) &amp; (B)(i).  If the district court finds that the state indeed has failed to negotiate in good faith, that court "shall order the State and the Indian Tribe to conclude such a compact within a 60-day period."  Sec.  2710(d)(7)(B)(iii).  If that fails, "the Indian tribe and the State shall each submit to a mediator appointed by the court a proposed compact that represents their last best offer for a compact."  Sec.  2710(d)(7)(B)(iv).  The mediator then selects the better of the two proposals and submits it to the tribe and the state.  The state then either may consent to the compact within sixty days, in which case the compact is treated as if it were the product of negotiations;  or may refuse to consent, in which case the Secretary of the Interior provides procedures to regulate the tribe's class III gaming.  Sec.  2710(d)(7)(B)(vi) &amp; (vii).</p>
+    </div>
+    <div class="num" id="p15">
+      <span class="num">15</span>
+      <p class="indent">Defendants in these two cases assert that the federal jurisdiction granted by Sec. 2710(d)(7) is contrary to their Eleventh Amendment sovereign immunity and demand that the tribes' cases be dismissed.</p>
+    </div>
+    <p>II.</p>
+    <div class="num" id="p16">
+      <span class="num">16</span>
+      <p class="indent">The facts of these cases are few and easily summarized.  The first case, Seminole Tribe of Florida v. Florida, No. 92-4652, was filed by the Seminole Tribe, federally recognized as a tribe under Section 16 of the Indian Reorganization Act, 25 U.S.C.A. Sec. 476 (West 1983 &amp; Supp.1993).  The complaint, filed in the Southern District of Florida on September 19, 1991, asserted jurisdiction largely under 25 U.S.C. Sec. 2710(d)(7)(A)(i) and alleged that the State of Florida and its governor, Lawton Chiles, had "failed to respond in good faith to the Tribe's request for compact negotiations and have not conducted those negotiations in good faith."   Defendants moved to dismiss the complaint for lack of subject-matter jurisdiction based on the sovereign immunity enjoyed by the State of Florida and the Governor of Florida under the Eleventh Amendment.  On June 18, 1992, the district court denied the motion, <span class="citation" data-id="1944640"><a href="/opinion/1944640/seminole-tribe-of-florida-v-state-of-fla/">801 F.Supp. 655</a></span> (S.D.Fla.1992) ("Seminole "), and this interlocutory appeal ensued.</p>
+    </div>
+    <div class="num" id="p17">
+      <span class="num">17</span>
+      <p class="indent">The second case, Poarch Band of Creek Indians v. Alabama, No. 92-6244, presents a similar initial fact pattern.  The Poarch Band, also a federally recognized tribe, filed suit against the State of Alabama and its governor, Guy Hunt (for whom the current governor, James E. Folsom, Jr., has been substituted), on September 11, 1991.  Also asserting jurisdiction largely under 25 U.S.C. Sec. 2710(d)(7)(A)(i), the complaint is designed to resolve for the State and the Tribe various questions regarding IGRA's definition of class III gaming.  The State of Alabama's answer claimed a defense of sovereign immunity under the Eleventh Amendment;  the district court granted the State's subsequent motion to dismiss based upon this defense on October 30, 1991.  <span class="citation" data-id="2341082"><a href="/opinion/2341082/poarch-band-of-creek-indians-v-state-of-ala/">776 F.Supp. 550</a></span> (S.D.Ala.1991) ("Poarch I ").<a class="footnote" href="#fn4" id="fn4_ref">4</a>  The governor also filed an Eleventh-Amendment-based motion to dismiss;  the district court granted it on February 20, 1992, thus dismissing the final defendant and terminating the Poarch Band's suit.  <span class="citation" data-id="1907681"><a href="/opinion/1907681/poarch-band-of-creek-indians-v-state-of-ala/">784 F.Supp. 1549</a></span> (S.D.Ala.1992) ("Poarch II ").   It is from these orders that the Poarch Band appeals.</p>
+    </div>
+    <p>III.</p>
+    <div class="num" id="p18">
+      <span class="num">18</span>
+      <p class="indent">We have jurisdiction over these consolidated cases pursuant to 28 U.S.C. Sec. 1291.  In Poarch I and Poarch II, the district court granted defendants' sovereign-immunity-based motions to dismiss, thus terminating the tribe's suit and giving rise to our appellate jurisdiction over final orders.  Our jurisdiction in Seminole arises from the district court's denial of defendants' motion to dismiss based on sovereign immunity;  such a denial grants defendants the right of an immediate, interlocutory appeal.  See Griesel v. Hamlin, <span class="citation no-link">963 F.2d 338</span>, 340 (11th Cir.1992).</p>
+    </div>
+    <div class="num" id="p19">
+      <span class="num">19</span>
+      <p class="indent">The granting or denial of a sovereign immunity defense is an issue of law subject to de novo review by this court.  McDonald v. Hillsborough County School Bd., <span class="citation no-link">821 F.2d 1563</span>, 1564 (11th Cir.1987).</p>
+    </div>
+    <p>IV.</p>
+    <div class="num" id="p20">
+      <span class="num">20</span>
+      <p class="indent">For more than a century, judicial interpretation of the Eleventh Amendment has far exceeded the apparent scope of the amendment's actual provisions.  The scope of the "textual" amendment is rather limited and serves only to restrict the Article III diversity jurisdiction of the federal courts:</p>
+    </div>
+    <div class="num" id="p21">
+      <span class="num">21</span>
+      <p>The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.</p>
+    </div>
+    <div class="num" id="p22">
+      <span class="num">22</span>
+      <p class="indent">U.S. Const. amend.  XI.</p>
+    </div>
+    <div class="num" id="p23">
+      <span class="num">23</span>
+      <p class="indent">In 1890, however, the Supreme Court rejected this facial reading.  In Hans v. Louisiana, <span class="citation" data-id="92702"><a href="/opinion/92702/hans-v-louisiana/">134 U.S. 1</a></span>, <span class="citation" data-id="92702"><a href="/opinion/92702/hans-v-louisiana/">10 S.Ct. 504</a></span>, <span class="citation" data-id="92702"><a href="/opinion/92702/hans-v-louisiana/">33 L.Ed. 842</a></span> (1890), the Court recognized that the Eleventh Amendment "reflected ... a consensus that the doctrine of sovereign immunity, for States as well as for the Federal Government, was part of the understood background against which the Constitution was adopted, and which its jurisdictional provisions did not mean to sweep away."  Pennsylvania v. Union Gas Co., <span class="citation" data-id="112291"><a href="/opinion/112291/pennsylvania-v-union-gas-co/">491 U.S. 1</a></span>, 31-32, <span class="citation" data-id="112291"><a href="/opinion/112291/pennsylvania-v-union-gas-co/">109 S.Ct. 2273</a></span>, 2297, <span class="citation" data-id="112291"><a href="/opinion/112291/pennsylvania-v-union-gas-co/">105 L.Ed.2d 1</a></span> (1989) (Scalia, J., concurring in part and dissenting in part).  Thus, the Court determined that the principle of sovereign immunity, although omitted from the text of the Constitution, survived the Constitutional Convention.</p>
+    </div>
+    <div class="num" id="p24">
+      <span class="num">24</span>
+      <p class="indent">It did not survive untarnished, however;  the Court subsequently has held that the states' immunity is not absolute.  More specifically, the states are not immune from suit if the circumstances indicate consent, abrogation, or the fiction of Ex parte Young.   If none of these three exceptions applies, however, the Eleventh Amendment serves as a jurisdictional bar to the suit.  See Pennhurst State School &amp; Hosp. v. Halderman, <span class="citation" data-id="111094"><a href="/opinion/111094/pennhurst-state-school-and-hospital-v-halderman/">465 U.S. 89</a></span>, <span class="citation" data-id="111094"><a href="/opinion/111094/pennhurst-state-school-and-hospital-v-halderman/">104 S.Ct. 900</a></span>, <span class="citation" data-id="111094"><a href="/opinion/111094/pennhurst-state-school-and-hospital-v-halderman/">79 L.Ed.2d 67</a></span> (1984).  We address each exception to Eleventh Amendment immunity in turn.</p>
+    </div>
+    <p>A.</p>
+    <div class="num" id="p25">
+      <span class="num">25</span>
+      <p class="indent">First, the Supreme Court has held that the states may not rely on the defense of sovereign immunity if they have consented to suit.  A court may find consent in three circumstances.  The clearest of the three, known as express consent, usually takes the form of legislative enactment.  The second form of consent derives from the states' ratification of the Constitution.  This "plan of the convention" consent assumes that, by ratifying the Constitution and joining the republic, each state ceded certain powers to the federal system;  implicit in this cession is the understanding that the state necessarily also consented to suit in certain cases.  Thus, the Court has held that, by ratifying the Constitution, the states waived their immunity to suits by the United States, see, e.g., United States v. Texas, <span class="citation" data-id="93289"><a href="/opinion/93289/united-states-v-texas/">143 U.S. 621</a></span>, 641-46, <span class="citation" data-id="93289"><a href="/opinion/93289/united-states-v-texas/">12 S.Ct. 488</a></span>, 492-94, <span class="citation" data-id="93289"><a href="/opinion/93289/united-states-v-texas/">36 L.Ed. 285</a></span> (1892);  and by sister states, see, e.g., South Dakota v. North Carolina, <span class="citation" data-id="95997"><a href="/opinion/95997/south-dakota-v-north-carolina/">192 U.S. 286</a></span>, <span class="citation" data-id="95997"><a href="/opinion/95997/south-dakota-v-north-carolina/">24 S.Ct. 269</a></span>, <span class="citation" data-id="95997"><a href="/opinion/95997/south-dakota-v-north-carolina/">48 L.Ed. 448</a></span> (1904).  Finally, the Court has created a third, extremely limited category of consent.  This consent is premised on the state's participation in a congressional program which, as a prerequisite for participation, mandates that the state consent to suit.  The Court has found this form of consent to exist in only one case:  Parden v. Terminal Railway of Alabama, <span class="citation" data-id="106821"><a href="/opinion/106821/parden-v-terminal-r-co-of-ala-docks-dept/">377 U.S. 184</a></span>, <span class="citation" data-id="106821"><a href="/opinion/106821/parden-v-terminal-r-co-of-ala-docks-dept/">84 S.Ct. 1207</a></span>, <span class="citation" data-id="106821"><a href="/opinion/106821/parden-v-terminal-r-co-of-ala-docks-dept/">12 L.Ed.2d 233</a></span> (1964).</p>
+    </div>
+    <div class="num" id="p26">
+      <span class="num">26</span>
+      <p class="indent">We find that neither Alabama nor Florida has consented to a suit under IGRA.</p>
+    </div>
+    <p>1.</p>
+    <div class="num" id="p27">
+      <span class="num">27</span>
+      <p class="indent">Express waivers of a state's Eleventh Amendment sovereign immunity must be explicitly authorized by the state "in its Constitution, statutes and decisions."  Silver v. Baggiano, <span class="citation no-link">804 F.2d 1211</span>, 1214 (11th Cir.1986) (quoting Ford Motor Co. v. Department of Transp., <span class="citation" data-id="104057"><a href="/opinion/104057/ford-co-v-dept-of-treasury/">323 U.S. 459</a></span>, 467, <span class="citation" data-id="104057"><a href="/opinion/104057/ford-co-v-dept-of-treasury/">65 S.Ct. 347</a></span>, 352, <span class="citation" data-id="104057"><a href="/opinion/104057/ford-co-v-dept-of-treasury/">89 L.Ed. 389</a></span> (1945)).  See also Edelman v. Jordan, <span class="citation" data-id="108990"><a href="/opinion/108990/edelman-v-jordan/">415 U.S. 651</a></span>, <span class="citation" data-id="108990"><a href="/opinion/108990/edelman-v-jordan/">94 S.Ct. 1347</a></span>, <span class="citation" data-id="108990"><a href="/opinion/108990/edelman-v-jordan/">39 L.Ed.2d 662</a></span> (1974).  The Alabama defendants cite Article I, section 14 of the Alabama Constitution, which specifically reserves Alabama's sovereign immunity, and claim that Alabama therefore could not have consented to a suit under IGRA.  Even though Florida has not raised a similar defense, plaintiffs have failed to demonstrate that either state has given express consent to this suit.  Therefore, we find that the states have not expressly waived their Eleventh Amendment sovereign immunity.</p>
+    </div>
+    <p>2.</p>
+    <div class="num" id="p28">
+      <span class="num">28</span>
+      <p class="indent">Nor does "plan of the convention" consent imperil the states' sovereign immunity.  Three terms ago, the Supreme Court addressed the question whether the states, by ratifying the Constitution, had surrendered their sovereign immunity to suits by Indian tribes.  The Court compared suits brought by sister states to suits brought by Indian tribes and held that the states had not waived their sovereign immunity to suits brought by Indian tribes under the "plan of the convention":</p>
+    </div>
+    <div class="num" id="p29">
+      <span class="num">29</span>
+      <p>What makes the States' surrender of immunity from suit by sister States plausible is the mutuality of the concession.  There is no such mutuality with either foreign sovereigns or Indian tribes....  [I]f the convention could not surrender the tribes' immunity for the benefit of the States, we do not believe that it surrendered the States' immunity for the benefit of the tribes.</p>
+    </div>
+    <div class="num" id="p30">
+      <span class="num">30</span>
+      <p class="indent">Blatchford v. Native Village of Noatak, --- U.S. ----, ---- - ----, <span class="citation" data-id="112641"><a href="/opinion/112641/blatchford-v-native-village-of-noatak/">111 S.Ct. 2578</a></span>, 2582-83, <span class="citation" data-id="112641"><a href="/opinion/112641/blatchford-v-native-village-of-noatak/">115 L.Ed.2d 686</a></span> (1991) (emphasis in original).  The Court's holding in Blatchford governs our resolution of this issue.  Thus, we hold that the states cannot be said to have surrendered their sovereign immunity under the "plan of the convention."</p>
+    </div>
+    <p>3.</p>
+    <div class="num" id="p31">
+      <span class="num">31</span>
+      <p class="indent">Finally, the tribes assert that both Florida and Alabama have consented to this suit by participating in negotiations under IGRA.  Invoking Parden, <span class="citation" data-id="106821"><a href="/opinion/106821/parden-v-terminal-r-co-of-ala-docks-dept/">377 U.S. 184</a></span>, <span class="citation" data-id="106821"><a href="/opinion/106821/parden-v-terminal-r-co-of-ala-docks-dept/">84 S.Ct. 1207</a></span> (1964), the tribes assert that the states have attempted to reap the benefits of IGRA and therefore should be held to have consented to the downside of the statute, specifically, federal jurisdiction over the present suits.  We disagree.</p>
+    </div>
+    <div class="num" id="p32">
+      <span class="num">32</span>
+      <p class="indent">In Parden, the Supreme Court for the first--and, to date, last--time found that a state had waived its immunity to suit by participating in a federal program mandating that participants consent to suit.  The facts of that case, as well as subsequent Supreme Court decisions, render Parden inapplicable to the appeals at hand.</p>
+    </div>
+    <div class="num" id="p33">
+      <span class="num">33</span>
+      <p class="indent">First, it is apparent that Parden was decided largely on its facts.  In that case, the State of Alabama had operated a for-profit, state-owned railroad for twenty years.  By operating the railroad in interstate commerce, Alabama effectively had transcended the typical realm of state authority by entering the private market, a market in which all employers were subject to the strictures passed by Congress.  The limited holding of the Court was that, based on these facts, Alabama should be subject to the same requirements as the other (private) participants in the private market;  one of those requirements was that all market actors consent to suit.  These cases involve state governments negotiating with sovereign tribes located within the states' borders--hardly a "private" activity--and thus do not raise the same concerns that prompted the Supreme Court's unique decision in Parden.</p>
+    </div>
+    <div class="num" id="p34">
+      <span class="num">34</span>
+      <p class="indent">Second, later decisions of the Supreme Court limit Parden and indicate that Alabama and Florida cannot be said to have consented to suit in this case.  First, in Employees v. Missouri Dep't of Public Health and Welfare, <span class="citation" data-id="108763"><a href="/opinion/108763/employees-v-missouri-public-health-dept/">411 U.S. 279</a></span>, <span class="citation" data-id="108763"><a href="/opinion/108763/employees-v-missouri-public-health-dept/">93 S.Ct. 1614</a></span>, <span class="citation" data-id="108763"><a href="/opinion/108763/employees-v-missouri-public-health-dept/">36 L.Ed.2d 251</a></span> (1973), the Court declined to extend Parden to circumstances in which a state was operating a non-profit hospital facility, a traditional state activity.  The next year, in Edelman v. Jordan, <span class="citation" data-id="108990"><a href="/opinion/108990/edelman-v-jordan/">415 U.S. 651</a></span>, <span class="citation" data-id="108990"><a href="/opinion/108990/edelman-v-jordan/">94 S.Ct. 1347</a></span>, <span class="citation" data-id="108990"><a href="/opinion/108990/edelman-v-jordan/">39 L.Ed.2d 662</a></span> (1974), the Court refused to find Parden-style consent when Illinois participated in a federal program by agreeing to administer federal and state funds in accordance with federal law.  The Court reiterated this holding a decade later in Atascadero State Hospital v. Scanlon, <span class="citation" data-id="111503"><a href="/opinion/111503/atascadero-state-hospital-v-scanlon/">473 U.S. 234</a></span>, <span class="citation" data-id="111503"><a href="/opinion/111503/atascadero-state-hospital-v-scanlon/">105 S.Ct. 3142</a></span>, <span class="citation" data-id="111503"><a href="/opinion/111503/atascadero-state-hospital-v-scanlon/">87 L.Ed.2d 171</a></span> (1985).  Finally, the Court further limited Parden in Welch v. Texas Dep't of Highways and Public Transp., <span class="citation" data-id="111949"><a href="/opinion/111949/welch-v-texas-dept-of-highways-and-public-transp/">483 U.S. 468</a></span>, <span class="citation" data-id="111949"><a href="/opinion/111949/welch-v-texas-dept-of-highways-and-public-transp/">107 S.Ct. 2941</a></span>, <span class="citation" data-id="111949"><a href="/opinion/111949/welch-v-texas-dept-of-highways-and-public-transp/">97 L.Ed.2d 389</a></span> (1987).  In fact, in no other case has the Court found consent pursuant to its Parden decision.</p>
+    </div>
+    <div class="num" id="p35">
+      <span class="num">35</span>
+      <p class="indent">When Parden and its progeny are examined closely, it is apparent that, although Parden may not be entirely dead, it certainly is not quick enough to breathe life into the Indian tribes' claims in these cases.  In these cases, the states were faced with a Hobson's choice:  refuse to negotiate with the tribes, and therefore be subject to suit under IGRA;  or negotiate with the tribes, and therefore (according to the tribes' argument) consent to suit under IGRA.  Thus, we cannot find the same voluntary, for-profit, private-enterprise operation involved in Parden and decline to hold that Alabama and Florida consented to suit.<a class="footnote" href="#fn5" id="fn5_ref">5</a></p>
+    </div>
+    <div class="num" id="p36">
+      <span class="num">36</span>
+      <p class="indent">Thus, we find that neither Florida nor Alabama consented, either expressly, implicitly, or by conduct under Parden, to suit in federal court under IGRA.</p>
+    </div>
+    <p>B.</p>
+    <div class="num" id="p37">
+      <span class="num">37</span>
+      <p class="indent">In defining the second sovereign immunity exception, the Supreme Court has held that states also may not rely on the defense of sovereign immunity if Congress has specifically abrogated that defense when legislating pursuant to certain of its plenary powers.  See, e.g., Fitzpatrick v. Bitzer, <span class="citation" data-id="109520"><a href="/opinion/109520/fitzpatrick-v-bitzer/">427 U.S. 445</a></span>, <span class="citation" data-id="109520"><a href="/opinion/109520/fitzpatrick-v-bitzer/">96 S.Ct. 2666</a></span>, <span class="citation" data-id="109520"><a href="/opinion/109520/fitzpatrick-v-bitzer/">49 L.Ed.2d 614</a></span> (1976) (finding abrogation in legislation passed pursuant to Sec. 5 of the Fourteenth Amendment);  and Pennsylvania v. Union Gas Co., <span class="citation" data-id="112291"><a href="/opinion/112291/pennsylvania-v-union-gas-co/">491 U.S. 1</a></span>, <span class="citation" data-id="112291"><a href="/opinion/112291/pennsylvania-v-union-gas-co/">109 S.Ct. 2273</a></span>, <span class="citation" data-id="112291"><a href="/opinion/112291/pennsylvania-v-union-gas-co/">105 L.Ed.2d 1</a></span> (1989) (finding abrogation in legislation passed pursuant to the Congress' Article I, Sec. 8 plenary power over commerce).  The Court has not yet found that Congress possesses the power to abrogate the states' sovereign immunity when legislating under any other provisions of the Constitution.</p>
+    </div>
+    <div class="num" id="p38">
+      <span class="num">38</span>
+      <p class="indent">The tribes' most significant argument is that Congress abrogated the states' Eleventh Amendment immunity when it granted jurisdiction to the district courts in 25 U.S.C. Sec. 2710(d).  The district court in Seminole, as well as one sister court of appeals and a handful of district courts, have adopted the tribes' position.<a class="footnote" href="#fn6" id="fn6_ref">6</a>  We disagree, believing that Congress, when it enacted IGRA pursuant to the Indian Commerce Clause, lacked the power to abrogate the states' sovereign immunity.<a class="footnote" href="#fn7" id="fn7_ref">7</a></p>
+    </div>
+    <div class="num" id="p39">
+      <span class="num">39</span>
+      <p class="indent">When determining whether Congress has abrogated the states' Eleventh Amendment immunity, we must conduct a two-part inquiry.  We first must determine that the "evidence of congressional intent [to abrogate the states' immunity is] both unequivocal and textual."  Dellmuth v. Muth, <span class="citation" data-id="112292"><a href="/opinion/112292/dellmuth-v-muth/">491 U.S. 223</a></span>, 230, <span class="citation" data-id="112292"><a href="/opinion/112292/dellmuth-v-muth/">109 S.Ct. 2397</a></span>, 2401, <span class="citation" data-id="112292"><a href="/opinion/112292/dellmuth-v-muth/">105 L.Ed.2d 181</a></span> (1989) (citing Atascadero, <span class="citation" data-id="111503"><a href="/opinion/111503/atascadero-state-hospital-v-scanlon/">473 U.S. at 242</a></span>, <span class="citation" data-id="111503"><a href="/opinion/111503/atascadero-state-hospital-v-scanlon/">105 S.Ct. at 3147</a></span>).   We also must find that Congress possessed the power under the Constitution to abrogate the states' Eleventh Amendment sovereign immunity.  We hold that Congress expressed its intent sufficiently to survive the first prong of this inquiry.  That intent can not be given effect, however, as Congress did not possess the power to abrogate the states' immunity when it enacted IGRA.</p>
+    </div>
+    <p>1.</p>
+    <div class="num" id="p40">
+      <span class="num">40</span>
+      <p class="indent">Several courts have addressed the question whether Congress unequivocally intended to abrogate the states' immunity when it enacted IGRA.  Those courts have had little difficulty concluding that Congress' intent was sufficiently clear.  See, e.g., Cheyenne II, 3 F.3d at 280;  Kickapoo, 818 F.Supp. at 1427 ("[A] clearer statement of the intent to abrogate is difficult to envision.");  Seminole, <span class="citation" data-id="1944640"><a href="/opinion/1944640/seminole-tribe-of-florida-v-state-of-fla/">801 F.Supp. at 658</a></span>;  Sault Ste.  Marie, 800 F.Supp. at 1489 ("clear statement of waiver");  Poarch I, <span class="citation" data-id="2341082"><a href="/opinion/2341082/poarch-band-of-creek-indians-v-state-of-ala/">776 F.Supp. at 557</a></span>;  Ponca, supra.   We believe the question not so easily resolved.</p>
+    </div>
+    <div class="num" id="p41">
+      <span class="num">41</span>
+      <p class="indent">In Dellmuth, the Supreme Court reiterated its earlier holdings that a congressional declaration abrogating the states' Eleventh Amendment sovereign immunity must be explicit:  "As we made plain in Atascadero, '[a] general authorization for suit in federal court is not the kind of unequivocal statutory language sufficient to abrogate the Eleventh Amendment.'  <span class="citation" data-id="111503"><a href="/opinion/111503/atascadero-state-hospital-v-scanlon/">473 U.S. at 246</a></span>, <span class="citation" data-id="111503"><a href="/opinion/111503/atascadero-state-hospital-v-scanlon/">105 S.Ct. at 3149</a></span>."  491 U.S. at 231, 109 S.Ct. at 2402.   At first glance, it would appear that IGRA fails that test:  Instead of specifically abrogating the states' immunity, section 2710(d)(7)(A) states only that "[t]he United States district courts shall have jurisdiction...."  The mere granting of jurisdiction is not equivalent to the abrogation of a defense.</p>
+    </div>
+    <div class="num" id="p42">
+      <span class="num">42</span>
+      <p class="indent">A closer examination of IGRA, however, reveals that, despite Congress' omission of a specific abrogation clause, Congress nonetheless manifested its intent to abrogate the states' immunity.  IGRA gives the federal district courts jurisdiction over three types of cases, the first of which is "any cause of action initiated by an Indian tribe arising from the failure of a State to enter into negotiations with the Indian tribe for the purpose of entering into a Tribal-State compact under paragraph (3) or to conduct such negotiations in good faith."  Sec.  2710(d)(7)(A)(i).  The only possible defendant to such a suit is a state (see part IV(C), below).  Thus, unless Congress intended to abrogate the states' immunity, this portion of IGRA would be of no effect.  Charged as we are with the task of giving effect to each portion of a statute, we must conclude that Congress intended to abrogate the states' sovereign immunity.<a class="footnote" href="#fn8" id="fn8_ref">8</a>  Thus, we hold that the first prong of our inquiry is satisfied.2.</p>
+    </div>
+    <div class="num" id="p43">
+      <span class="num">43</span>
+      <p class="indent">More important, and less easily met, is the second prong of our inquiry:  whether Congress possessed the constitutional power to abrogate the states' immunity when it enacted IGRA.  To resolve this issue, we initially must determine under which provision(s) of the Constitution Congress enacted IGRA (see sub-part a).  Only then can we determine whether Congress possessed the power to abrogate the states' immunities (see sub-part b).</p>
+    </div>
+    <div class="num" id="p44">
+      <span class="num">44</span>
+      <p>a.</p>
+    </div>
+    <div class="num" id="p45">
+      <span class="num">45</span>
+      <p class="indent">Congress may pass legislation only when the Constitution gives it the authority to do so.  As we mentioned earlier, the Supreme Court has held that Congress possesses abrogation powers only when it enacts legislation under the auspices of (1) Section 5 of the Fourteenth Amendment or (2) the Interstate Commerce Clause.  Plaintiff tribes urge us to find that IGRA was passed not only pursuant to the Indian Commerce Clause, but also pursuant to Section 5 and the Interstate Commerce Clause.<a class="footnote" href="#fn9" id="fn9_ref">9</a>  We cannot so find.</p>
+    </div>
+    <div class="num" id="p46">
+      <span class="num">46</span>
+      <p class="indent">First, as to the Fourteenth Amendment, plaintiff tribes claim that Fitzpatrick v. Bitzer, <span class="citation" data-id="109520"><a href="/opinion/109520/fitzpatrick-v-bitzer/">427 U.S. 445</a></span>, <span class="citation" data-id="109520"><a href="/opinion/109520/fitzpatrick-v-bitzer/">96 S.Ct. 2666</a></span>, <span class="citation" data-id="109520"><a href="/opinion/109520/fitzpatrick-v-bitzer/">49 L.Ed.2d 614</a></span> (1976) (holding that Congress may abrogate states' sovereign immunity when legislating pursuant to Section 5 of the Fourteenth Amendment), controls, thus granting Congress the authority to abrogate the states' immunity in IGRA.  To justify this contention, the tribes assert that IGRA creates both a liberty interest and a property interest in the tribes and their members.  Neither of these claimed interests, however, find support in the Supreme Court's Fourteenth Amendment jurisprudence.</p>
+    </div>
+    <div class="num" id="p47">
+      <span class="num">47</span>
+      <p class="indent">The alleged liberty interest, the tribes claim, arises from the Supreme Court's holding in Board of Regents v. Roth, <span class="citation" data-id="108608"><a href="/opinion/108608/board-of-regents-of-state-colleges-v-roth/">408 U.S. 564</a></span>, <span class="citation" data-id="108608"><a href="/opinion/108608/board-of-regents-of-state-colleges-v-roth/">92 S.Ct. 2701</a></span>, <span class="citation" data-id="108608"><a href="/opinion/108608/board-of-regents-of-state-colleges-v-roth/">33 L.Ed.2d 548</a></span> (1972).  Stating that the states' input in IGRA is akin to a licensing requirement, the tribes assert that the states' failure to enter a compact operates exactly as an unconstitutional denial of a license.  The alleged property interest likewise is derived from Roth.   What the tribes fail to recognize, however, is that these interests are created only when the claimant has "a legitimate claim of entitlement."  <span class="citation" data-id="108608"><a href="/opinion/108608/board-of-regents-of-state-colleges-v-roth/">Id. at 577</a></span>, <span class="citation" data-id="108608"><a href="/opinion/108608/board-of-regents-of-state-colleges-v-roth/">92 S.Ct. at 2709</a></span>.   The tribes' bald assertion that IGRA creates such a claim ignores the discretionary nature of the compacting process envisioned by IGRA.  IGRA does not create an entitlement to operate gambling operations;  rather, it establishes the process and standards by which gambling may be conducted on Indian lands.  Thus, IGRA creates no liberty or property interests and cannot implicate the Fourteenth Amendment.</p>
+    </div>
+    <div class="num" id="p48">
+      <span class="num">48</span>
+      <p class="indent">Second, the tribes, noting that Congress' goals in enacting IGRA included "shield[ing] [Indian gaming] from organized crime and other corrupting influences," Sec. 2702(2), assert that Congress necessarily enacted IGRA pursuant to the Interstate Commerce Clause.  The tribes look to the legislative history of the Organized Crime Control Act of 1970, Pub.L. No. 91-452, <span class="citation no-link">84 Stat. 922</span> (1970), to find Congressional reasoning that organized crime burdens interstate commerce.  84 Stat. at 923.  The tribes thus conclude that, since Congress meant to address organized crime by enacting IGRA, it passed IGRA under the Interstate Commerce Clause.</p>
+    </div>
+    <div class="num" id="p49">
+      <span class="num">49</span>
+      <p class="indent">We disagree.  As Sec. 2702(2) makes clear, Congress' concern with organized crime was not that such activities would burden interstate commerce, but rather that prohibition of organized crime would "ensure that the Indian tribe is the primary beneficiary of the gaming operation, and ... assure that gaming is conducted fairly and honestly by both the operator and the players."  Sec.  2702(2).  In addition, Congress wanted to criminalize the involvement of organized crime in order to "promote[ ] tribal economic development, self-sufficiency, and strong tribal government."  Sec.  2702(1).  In analyzing Congress' goals, it is clear that alleviating a supposed burden on interstate commerce was not among them.</p>
+    </div>
+    <div class="num" id="p50">
+      <span class="num">50</span>
+      <p class="indent">Having excluded the possibility that Congress enacted IGRA under either the Interstate Commerce Clause or Section 5 of the Fourteenth Amendment, we must conclude that Congress enacted IGRA solely under the Indian Commerce Clause.  The Supreme Court's jurisprudence on the Indian Commerce Clause bolsters our conclusion that Congress enacted IGRA solely under that authority.  See Cotton Petroleum, 490 U.S. at 192, 109 S.Ct. at 1716 ("[T]he central function of the Indian Commerce Clause is to provide Congress with plenary power to legislate in the field of Indian affairs.").</p>
+    </div>
+    <div class="num" id="p51">
+      <span class="num">51</span>
+      <p>b.</p>
+    </div>
+    <div class="num" id="p52">
+      <span class="num">52</span>
+      <p class="indent">Having determined that Congress enacted IGRA solely under the Indian Commerce Clause, we now must determine whether the Indian Commerce Clause permits Congress to abrogate the states' Eleventh Amendment immunity.  We conclude that it does not.</p>
+    </div>
+    <div class="num" id="p53">
+      <span class="num">53</span>
+      <p class="indent">The Supreme Court case most relevant to this issue is Pennsylvania v. Union Gas Co., <span class="citation" data-id="112291"><a href="/opinion/112291/pennsylvania-v-union-gas-co/">491 U.S. 1</a></span>, <span class="citation" data-id="112291"><a href="/opinion/112291/pennsylvania-v-union-gas-co/">109 S.Ct. 2273</a></span>, <span class="citation" data-id="112291"><a href="/opinion/112291/pennsylvania-v-union-gas-co/">105 L.Ed.2d 1</a></span> (1989).  In that case, involving a badly fractured Court, a four-member plurality<a class="footnote" href="#fn10" id="fn10_ref">10</a> held that Congress had the power to abrogate the states' Eleventh Amendment immunity when enacting legislation pursuant to the Interstate Commerce Clause.  The plurality stated that, since the Interstate Commerce Clause</p>
+    </div>
+    <div class="num" id="p54">
+      <span class="num">54</span>
+      <p>withholds power from the States at the same time as it confers it on Congress, and because the congressional power thus conferred would be incomplete without the authority to render States liable in damages, it must be that, to the extent that the States gave Congress the authority to regulate commerce, they also relinquished their immunity where Congress found it necessary, in exercising this authority, to render them liable.  The States held liable under such a congressional enactment are thus not "unconsenting";  they gave their consent all at once, in ratifying the Constitution containing the Commerce Clause, rather than on a case-by-case basis.</p>
+    </div>
+    <div class="num" id="p55">
+      <span class="num">55</span>
+      <p class="indent"><span class="citation" data-id="112291"><a href="/opinion/112291/pennsylvania-v-union-gas-co/">Id. at 19-20</a></span>, 109 S.Ct. at 2284.   Thus, the Court held that the State of Pennsylvania could not invoke sovereign immunity in defending a suit for money damages under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ("CERCLA") and the Superfund Amendments and Reauthorization Act of 1986 ("SARA"), 42 U.S.C. Sec. 9601 et seq.<a class="footnote" href="#fn11" id="fn11_ref">11</a></p>
+    </div>
+    <div class="num" id="p56">
+      <span class="num">56</span>
+      <p class="indent">In a cryptic concurring opinion, Justice White agreed with Justice Brennan's conclusion that Congress had the authority to abrogate the states' immunity;  however, he also stated that he did not "agree with much of [Justice Brennan's] reasoning," id. at 57, 109 S.Ct. at 2295 (White, J., concurring).<a class="footnote" href="#fn12" id="fn12_ref">12</a>  It is regrettable that Justice White failed to provide any reasoning of his own to support his conclusion that Congress had abrogation power as his vague concurrence renders the continuing validity of Union Gas in doubt.  The other four justices fervently opposed the plurality's holding.</p>
+    </div>
+    <div class="num" id="p57">
+      <span class="num">57</span>
+      <p class="indent">Some courts have noted not only that there are weaknesses in the Union Gas Court's holding, but also that changes in the composition of the Court make it likely that a majority of the present Court would disagree with Union Gas and find that Congress was not empowered to abrogate the states' immunity.  Unlike those courts, we refuse to disregard Union Gas merely on these bases.  Nonetheless, when examined in the proper light, Union Gas is distinguishable from the cases before us and does not govern our disposition of this issue.  Our conclusion that Congress did not have the power, when enacting IGRA, to abrogate the states' Eleventh Amendment sovereign immunity is supported by two lines of argument.</p>
+    </div>
+    <div class="num" id="p58">
+      <span class="num">58</span>
+      <p class="indent">First, the tribes begin their argument by assuming that Union Gas controls all Commerce Clause cases, Indian as well as Interstate;  thus, they assert, we are obligated to hold that Congress successfully abrogated the states' immunity when it passed IGRA.<a class="footnote" href="#fn13" id="fn13_ref">13</a>  We believe it appropriate, however, to limit Union Gas to the factual situation before that Court:  the exercise of Congress' power to legislate under the Interstate Commerce Clause.  CERCLA and SARA were passed pursuant to the Interstate Commerce Clause, not the Indian Commerce Clause.  In addition, each of the opinions--plurality, concurrences, and dissents--addressed only the Interstate Commerce Clause.  Moreover, the opinions do not suggest that the Union Gas holding should be broadly construed.  Thus, a fair reading of Union Gas is one that limits Congress' abrogation powers to laws passed under the Interstate Commerce Clause.  As we already have determined that IGRA was passed pursuant to the Indian Commerce Clause, the Union Gas holding does not control our disposition of this case.</p>
+    </div>
+    <div class="num" id="p59">
+      <span class="num">59</span>
+      <p class="indent">This conclusion is bolstered by the unique qualities that distinguish the Interstate Commerce Clause and the Indian Commerce Clause.  In an attempt to demonstrate this point, defendants suggest that Cotton Petroleum Corp. v. New Mexico, <span class="citation" data-id="112249"><a href="/opinion/112249/cotton-petroleum-corp-v-new-mexico/">490 U.S. 163</a></span>, 192, <span class="citation" data-id="112249"><a href="/opinion/112249/cotton-petroleum-corp-v-new-mexico/">109 S.Ct. 1698</a></span>, 1716, <span class="citation" data-id="112249"><a href="/opinion/112249/cotton-petroleum-corp-v-new-mexico/">104 L.Ed.2d 209</a></span> (1989) (explaining that "the Interstate Commerce and Indian Commerce Clauses have different applications"), governs our disposition of these cases.  That case, which dealt solely with preemption and multiple taxation issues, plainly is distinguishable from the facts before us;  thus, the Cotton Petroleum Court's conclusion that the Commerce Clause distinguishes between states and Indian tribes is neither surprising nor controlling precedent.  Although not directly on point, however, much of the reasoning that supported Cotton Petroleum sheds light on the present issue.  In that case, the Court acknowledged the plenary powers under the Interstate Commerce Clause that allow Congress to place limits on the states in order to "maintain[ ] free trade among the States."  <span class="citation" data-id="112249"><a href="/opinion/112249/cotton-petroleum-corp-v-new-mexico/">Id.</a></span>  By contrast, "the central function of the Indian Commerce Clause is to provide Congress with plenary power to legislate in the field of Indian affairs."  <span class="citation" data-id="112249"><a href="/opinion/112249/cotton-petroleum-corp-v-new-mexico/">Id.</a></span>  Although Congress has the power to limit the states under the Indian Commerce Clause as well, the different purposes underlying the two clauses mandate that they be treated distinctly.  As a result, the unique abrogation power afforded Congress under the Interstate Commerce Clause in Union Gas cannot be extended to the Indian Commerce Clause.</p>
+    </div>
+    <div class="num" id="p60">
+      <span class="num">60</span>
+      <p class="indent">A second argument supporting our conclusion that Congress did not possess the power to abrogate the states' immunity is that a proper reading of Union Gas and the cases cited therein demonstrates that the Court has allowed federal jurisdiction over states only when the states partake in an activity typical of private individuals.  For instance, in Parden, a case on which the Union Gas plurality primarily relied, the State of Alabama was operating a for-profit railroad in interstate commerce.  Likewise, in Union Gas itself, the State of Pennsylvania was an "owner or operator" of land and therefore, like private citizens, was subject to liability under SARA.  On the contrary, when the State of Missouri operated a non-proprietary, not-for-profit hospital (a non-private activity "wholly within [the states'] sphere of authority"), the Court refused to find that Congress mandated federal jurisdiction.  Employees, <span class="citation" data-id="108763"><a href="/opinion/108763/employees-v-missouri-public-health-dept/">411 U.S. at 282</a></span>, <span class="citation" data-id="108763"><a href="/opinion/108763/employees-v-missouri-public-health-dept/">93 S.Ct. at 1617</a></span>.</p>
+    </div>
+    <div class="num" id="p61">
+      <span class="num">61</span>
+      <p class="indent">In this case, the tribes seek to impose jurisdiction over the States of Alabama and Florida for their failure to negotiate a compact with the tribes.  Rather than being a typically private activity, such negotiations are "wholly within [the states'] sphere of authority."   We believe the Supreme Court's jurisprudence clearly evinces an intent to allow federal jurisdiction over states only when the state's conduct is outside the typical realm of state authority.  As negotiations with tribes certainly are not outside that realm of authority, the principles of federalism and sovereign immunity exemplified in the Eleventh Amendment prevent Congress from abrogating the states' immunity.  Thus, even if Union Gas' reasoning were to give Congress abrogation power under the Indian Commerce Clause in general, we would hold that Congress may not abrogate when it legislates in an area typically reserved to the states (such as negotiating regulations with Indian tribes).</p>
+    </div>
+    <div class="num" id="p62">
+      <span class="num">62</span>
+      <p class="indent">For these reasons, we conclude that Congress did not possess the power to abrogate the states' Eleventh Amendment immunity when it enacted IGRA.</p>
+    </div>
+    <p>C.</p>
+    <div class="num" id="p63">
+      <span class="num">63</span>
+      <p class="indent">Third, the Supreme Court has created a third exception to the doctrine of sovereign immunity by holding that the Eleventh Amendment does not always provide immunity to government officials;  in certain circumstances, those officials may be subject to suit, despite the Eleventh Amendment, under the "fiction" of Ex parte Young, <span class="citation" data-id="96819"><a href="/opinion/96819/ex-parte-young/">209 U.S. 123</a></span>, <span class="citation" data-id="96819"><a href="/opinion/96819/ex-parte-young/">28 S.Ct. 441</a></span>, <span class="citation" data-id="96819"><a href="/opinion/96819/ex-parte-young/">52 L.Ed. 714</a></span> (1908).  Briefly, the fiction allows an individual to obtain a federal injunction against a state officer to force the officer to comply with federal law.  <span class="citation" data-id="96819"><a href="/opinion/96819/ex-parte-young/">Id. at 160</a></span>, <span class="citation" data-id="96819"><a href="/opinion/96819/ex-parte-young/">28 S.Ct. at 454</a></span>.   Under the fiction, the tribes assert that they may sue the governors of Alabama and Florida to compel negotiations under IGRA.</p>
+    </div>
+    <div class="num" id="p64">
+      <span class="num">64</span>
+      <p class="indent">The Ex parte Young doctrine does not apply in two cases:  (1) it cannot be used to compel an executive official to undertake a discretionary task;  and (2) it cannot be used if the suit is, in reality, against the state.  As most of the courts that have addressed this issue have found, however, the tribes' claims fit into both categories.  See, e.g., Poarch II, <span class="citation" data-id="1907681"><a href="/opinion/1907681/poarch-band-of-creek-indians-v-state-of-ala/">784 F.Supp. at 1551-52</a></span>;  Poarch I, <span class="citation" data-id="2341082"><a href="/opinion/2341082/poarch-band-of-creek-indians-v-state-of-ala/">776 F.Supp. at 562</a></span>;  and Ponca, supra.<a class="footnote" href="#fn14" id="fn14_ref">14</a></p>
+    </div>
+    <div class="num" id="p65">
+      <span class="num">65</span>
+      <p class="indent">First, the Ex parte Young doctrine cannot compel discretionary acts.  Ex parte Young, <span class="citation" data-id="96819"><a href="/opinion/96819/ex-parte-young/">209 U.S. at 158</a></span>, <span class="citation" data-id="96819"><a href="/opinion/96819/ex-parte-young/">28 S.Ct. at 453</a></span>.   IGRA does not allot merely ministerial acts to the state, however;  rather, it provides for the negotiation of a contract, the terms of which are left to the discretion of the state and the tribe.  Likewise, since IGRA provides a procedure should the state decide not to negotiate, even the mere question of whether the state should negotiate at all is subject to discretion.  Thus, both of these facets of IGRA's compacting process demonstrate that the governors must use their discretion;  accordingly, under the first exception to the Ex parte Young doctrine, the governors retain their Eleventh Amendment sovereign immunity.</p>
+    </div>
+    <div class="num" id="p66">
+      <span class="num">66</span>
+      <p class="indent">Second, if a suit in reality is against the state itself, the Ex parte Young doctrine is inapplicable.  Pennhurst State School &amp; Hospital v. Halderman, <span class="citation" data-id="111094"><a href="/opinion/111094/pennhurst-state-school-and-hospital-v-halderman/">465 U.S. 89</a></span>, 101-02, <span class="citation" data-id="111094"><a href="/opinion/111094/pennhurst-state-school-and-hospital-v-halderman/">104 S.Ct. 900</a></span>, 908-09, <span class="citation" data-id="111094"><a href="/opinion/111094/pennhurst-state-school-and-hospital-v-halderman/">79 L.Ed.2d 67</a></span> (1984).  IGRA uniformly addresses itself to "the State";  not once does it impose duties or responsibilities on a particular officer of the state (e.g., the governor, the legislature, etc.).  Even the district court's injunctive relief powers are limited to ordering "the State and the Indian Tribe to conclude" a compact.  Sec.  2710(d)(7)(B)(iii) (emphasis added).  In addition, IGRA mandates that the State negotiate, conclude, and abide by the Tribal-State compact.  It is apparent that these suits are not against officials in an attempt to force them to follow federal law;  rather, the suits are against the states for failing to negotiate a compact in good faith.  As a result, the doctrine of Ex parte Young does not apply.</p>
+    </div>
+    <div class="num" id="p67">
+      <span class="num">67</span>
+      <p class="indent">Unless one of the three exceptions--consent, abrogation, or Ex parte Young--applies, the Eleventh Amendment serves as a jurisdictional bar and precludes federal court adjudication over these suits.  As we have found that none of the exceptions is applicable to IGRA, these cases must be dismissed for lack of subject-matter jurisdiction.</p>
+    </div>
+    <p>V.</p>
+    <div class="num" id="p68">
+      <span class="num">68</span>
+      <p class="indent">As a result of our holding that the federal courts do not have jurisdiction to reach the issues brought by the tribes in these two suits, the procedures found in Secs. 2710(d)(7)(A)(i) and (B)(i)-(vi) necessarily fail when an unconsenting state refuses to consent to suit.<a class="footnote" href="#fn15" id="fn15_ref">15</a></p>
+    </div>
+    <div class="num" id="p69">
+      <span class="num">69</span>
+      <p class="indent">The final question we must resolve is whether all provisions for state involvement in class III gaming also fail, as the tribes contend.  We hold that they do not.  IGRA contains an explicit severability clause, Sec. 2721;  and we find no "strong evidence" to ignore that plain congressional directive.  See Alaska Airlines, Inc. v. Brock, <span class="citation" data-id="111847"><a href="/opinion/111847/alaska-airlines-inc-v-brock/">480 U.S. 678</a></span>, 686, <span class="citation" data-id="111847"><a href="/opinion/111847/alaska-airlines-inc-v-brock/">107 S.Ct. 1476</a></span>, 1481, <span class="citation" data-id="111847"><a href="/opinion/111847/alaska-airlines-inc-v-brock/">94 L.Ed.2d 661</a></span> (1987).  Nevertheless, we are left with the question as to what procedure is left for an Indian tribe faced with a state that not only will not negotiate in good faith, but also will not consent to suit.  The answer, gleaned from the statute, is simple.  One hundred and eighty days after the tribe first requests negotiations with the state, the tribe may file suit in district court.  If the state pleads an Eleventh Amendment defense, the suit is dismissed, and the tribe, pursuant to 25 U.S.C. Sec. 2710(d)(7)(B)(vii), then may notify the Secretary of the Interior of the tribe's failure to negotiate a compact with the state.  The Secretary then may prescribe regulations governing class III gaming on the tribe's lands.  This solution conforms with IGRA and serves to achieve Congress' goals, as delineated in Secs. 2701-02.</p>
+    </div>
+    <p>VI.</p>
+    <div class="num" id="p70">
+      <span class="num">70</span>
+      <p class="indent">The decision of the United States District Court for the Southern District of Florida in Seminole Tribe of Florida v. Florida, No. 92-4652, is reversed;  the case is remanded so that the district court may dismiss the suit.  The decisions of the United States District Court for the Southern District of Alabama in Poarch Band of Creek Indians v. Alabama, No. 92-6244, are affirmed.</p>
+    </div>
+    <div class="num" id="p71">
+      <span class="num">71</span>
+      <p class="indent">IT IS SO ORDERED.</p>
+    </div>
+    <p class="indent">BLACK, Circuit Judge, specially concurring:</p>
+    <div class="num" id="p72">
+      <span class="num">72</span>
+      <p class="indent">I concur in the result.</p>
+    </div>
+    <div class="footnotes">
+      <div class="footnote" id="fn1">
+        <a class="footnote" href="#fn1_ref">1</a>
+        <p> Unless so indicated, all cited sections refer to Title 25 of the United States Code</p>
+      </div>
+      <div class="footnote" id="fn2">
+        <a class="footnote" href="#fn2_ref">2</a>
+        <p> Defendants raise one issue for the first time on appeal:  the Tenth Amendment.  Citing the Supreme Court's decision in New York v. United States, --- U.S. ----, <span class="citation" data-id="112768"><a href="/opinion/112768/new-york-v-united-states/">112 S.Ct. 2408</a></span>, <span class="citation" data-id="112768"><a href="/opinion/112768/new-york-v-united-states/">120 L.Ed.2d 120</a></span> (1992), in which the Court held that Congress could not coercively interfere with the reserved powers of the states, defendants contend that IGRA coercively forces the states to negotiate with Indian tribes in violation of the Tenth Amendment</p>
+        <p>"It is not the practice of this court to consider issues on appeal that were not raised in the district court."  Allen v. Alabama, <span class="citation no-link">728 F.2d 1384</span>, 1387 (11th Cir.1984);  Moore v. Morgan, <span class="citation no-link">922 F.2d 1553</span>, 1556 n. 3 (11th Cir.1991).  Accordingly, we decline to address defendants' contention.</p>
+      </div>
+      <div class="footnote" id="fn3">
+        <a class="footnote" href="#fn3_ref">3</a>
+        <p> Non-banking card games are those in which the gamblers compete against each other rather than against the house</p>
+      </div>
+      <div class="footnote" id="fn4">
+        <a class="footnote" href="#fn4_ref">4</a>
+        <p> The district court dismissed the State of Alabama from the Poarch Band's amended complaint in an unpublished order dated January 24, 1992</p>
+      </div>
+      <div class="footnote" id="fn5">
+        <a class="footnote" href="#fn5_ref">5</a>
+        <p> One sister circuit, in determining that the Eleventh Amendment did not bar suits under IGRA, mentioned that the state had "actively engaged in negotiating tribal-state compacts and ha[d] reaped the benefits from these negotiations."   See Cheyenne River Sioux Tribe v. State of South Dakota, <span class="citation" data-id="628667"><a href="/opinion/628667/cheyenne-river-sioux-tribe-appellantcross-appellee-v-state-of-south/">3 F.3d 273</a></span>, 281 (8th Cir.1993) ("Cheyenne II "), aff'g <span class="citation" data-id="2292029"><a href="/opinion/2292029/cheyenne-river-sioux-tribe-v-state-of-sd/">830 F.Supp. 523</a></span> (D.S.D.1993) ("Cheyenne I ").   As the Eighth Circuit Court of Appeals primarily rested its decision on the fact that Congress had abrogated the state's Eleventh Amendment immunity, an argument we discuss (and reject) in part III.B., below, it is not clear how much weight the court gave to the state's participation in negotiations.  To the extent that the Eighth Circuit relied on South Dakota's negotiations as a basis for finding a waiver of sovereign immunity, we respectfully disagree</p>
+      </div>
+      <div class="footnote" id="fn6">
+        <a class="footnote" href="#fn6_ref">6</a>
+        <p> See Cheyenne II, <span class="citation" data-id="628667"><a href="/opinion/628667/cheyenne-river-sioux-tribe-appellantcross-appellee-v-state-of-south/">3 F.3d at 280</a></span>;  Kickapoo Tribe of Indians v. Kansas, <span class="citation" data-id="1491378"><a href="/opinion/1491378/kickapoo-tribe-of-indians-v-state-of-kan/">818 F.Supp. 1423</a></span> (D.Kan.1993);  Cheyenne I, supra; Seminole, <span class="citation" data-id="1944640"><a href="/opinion/1944640/seminole-tribe-of-florida-v-state-of-fla/">supra</a></span></p>
+      </div>
+      <div class="footnote" id="fn7">
+        <a class="footnote" href="#fn7_ref">7</a>
+        <p> Other courts also have held that Congress lacked abrogation power when it enacted IGRA.  See Sault Ste.  Marie Tribe of Chippewa Indians v. Michigan, <span class="citation" data-id="1393658"><a href="/opinion/1393658/sault-ste-marie-tribe-of-chippewa-indians-v-state/">800 F.Supp. 1484</a></span> (W.D.Mich.1992);  Ponca Tribe of Oklahoma v. Oklahoma, <span class="citation" data-id="1646384"><a href="/opinion/1646384/ponca-tribe-of-oklahoma-v-state-of-okl/">834 F.Supp. 1341</a></span> (W.D.Okla.1992);  Spokane Tribe of  Indians v. Washington, <span class="citation" data-id="1879611"><a href="/opinion/1879611/spokane-tribe-of-indians-v-state-of-wash/">790 F.Supp. 1057</a></span> (E.D.Wash.1991);  Poarch I, supra</p>
+      </div>
+      <div class="footnote" id="fn8">
+        <a class="footnote" href="#fn8_ref">8</a>
+        <p> This conclusion is bolstered by Justice Scalia's opinion in Dellmuth.   Concurring with the Court's majority opinion, Justice Scalia noted that the majority's "reasoning does not preclude congressional elimination of sovereign immunity in statutory text that clearly subjects States to suit for monetary damages, though without explicit reference to State sovereign immunity or the Eleventh Amendment."  491 U.S. at 233, 109 S.Ct. at 2403 (Scalia, J., concurring).  Although the facts of that case differ slightly from the case before us, it is clear that Congress in enacting IGRA "clearly subject[ed] States to suit" in Sec. 2710(d)(7)</p>
+      </div>
+      <div class="footnote" id="fn9">
+        <a class="footnote" href="#fn9_ref">9</a>
+        <p> Both the so-called Indian Commerce Clause and the so-called Interstate Commerce Clause derive from the same constitutional grant of plenary power to Congress in Article I:  "The Congress shall have Power ... To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes."   U.S. Const., art.  I, Sec. 8, cl. 3.  Although the Interstate and Indian Commerce Clauses are contained in the same textual provision, the purposes that prompted their inclusion in the Constitution, as well as their subsequent legal interpretations, are distinct.  See, e.g., Cotton Petroleum Corp. v. New Mexico, <span class="citation" data-id="112249"><a href="/opinion/112249/cotton-petroleum-corp-v-new-mexico/">490 U.S. 163</a></span>, 192, <span class="citation" data-id="112249"><a href="/opinion/112249/cotton-petroleum-corp-v-new-mexico/">109 S.Ct. 1698</a></span>, 1716, <span class="citation" data-id="112249"><a href="/opinion/112249/cotton-petroleum-corp-v-new-mexico/">104 L.Ed.2d 209</a></span> (1989) ("It is also well established that the Interstate Commerce and Indian Commerce Clauses have very different applications.")</p>
+      </div>
+      <div class="footnote" id="fn10">
+        <a class="footnote" href="#fn10_ref">10</a>
+        <p> Justice Brennan authored the opinion;  Justices Marshall, Blackmun, and Stevens joined</p>
+      </div>
+      <div class="footnote" id="fn11">
+        <a class="footnote" href="#fn11_ref">11</a>
+        <p> Congress passed both CERCLA and SARA pursuant to the Interstate Commerce Clause</p>
+      </div>
+      <div class="footnote" id="fn12">
+        <a class="footnote" href="#fn12_ref">12</a>
+        <p> Justice White's uneasiness is understandable given the questionable foundation on which Justice Brennan built his argument.  His plurality opinion contains three significant weaknesses:  (1) it disregards the Supreme Court's statements that Parden v. Terminal Railway of Alabama, <span class="citation" data-id="106821"><a href="/opinion/106821/parden-v-terminal-r-co-of-ala-docks-dept/">377 U.S. 184</a></span>, <span class="citation" data-id="106821"><a href="/opinion/106821/parden-v-terminal-r-co-of-ala-docks-dept/">84 S.Ct. 1207</a></span>, <span class="citation" data-id="106821"><a href="/opinion/106821/parden-v-terminal-r-co-of-ala-docks-dept/">12 L.Ed.2d 233</a></span> (1964), was a waiver case, not an abrogation case;  (2) it misconstrues Employees v. Missouri Dep't of Public Health and Welfare, <span class="citation" data-id="108763"><a href="/opinion/108763/employees-v-missouri-public-health-dept/">411 U.S. 279</a></span>, <span class="citation" data-id="108763"><a href="/opinion/108763/employees-v-missouri-public-health-dept/">93 S.Ct. 1614</a></span>, <span class="citation" data-id="108763"><a href="/opinion/108763/employees-v-missouri-public-health-dept/">36 L.Ed.2d 251</a></span> (1973), by ignoring that it too, solely addressed whether Congress had mandated that Missouri consent to suit before operating a hospital.  (Thus, it also was not an abrogation case.);   and, (3) it appeared to afford precedential value to two cases,  Welch v. Texas Dep't. of Highways and Public Transp., <span class="citation" data-id="111949"><a href="/opinion/111949/welch-v-texas-dept-of-highways-and-public-transp/">483 U.S. 468</a></span>, <span class="citation" data-id="111949"><a href="/opinion/111949/welch-v-texas-dept-of-highways-and-public-transp/">107 S.Ct. 2941</a></span>, <span class="citation" data-id="111949"><a href="/opinion/111949/welch-v-texas-dept-of-highways-and-public-transp/">97 L.Ed.2d 389</a></span> (1987), and  County of Oneida v. Oneida Indian Nation, <span class="citation" data-id="111362"><a href="/opinion/111362/countyof-oneida-v-oneida-indian-nation-of-ny/">470 U.S. 226</a></span>, <span class="citation" data-id="111362"><a href="/opinion/111362/countyof-oneida-v-oneida-indian-nation-of-ny/">105 S.Ct. 1245</a></span>, <span class="citation" data-id="111362"><a href="/opinion/111362/countyof-oneida-v-oneida-indian-nation-of-ny/">84 L.Ed.2d 169</a></span> (1985), in which the Court assumed that Congress had abrogation power, but specifically denied "deciding, or intimating a view of the question."   Welch, <span class="citation" data-id="111949"><a href="/opinion/111949/welch-v-texas-dept-of-highways-and-public-transp/">483 U.S. at 475</a></span>, 107 S.Ct. at 2947</p>
+      </div>
+      <div class="footnote" id="fn13">
+        <a class="footnote" href="#fn13_ref">13</a>
+        <p> The tribes assert that the Union Gas Court used the term "Commerce Clause," not "Interstate Commerce Clause," thus evidencing its intention to grant Congress abrogation powers whenever it acted pursuant to any of the Commerce Clauses, Interstate, Indian, or Foreign.  The Court's entire discussion, as well as every case it cited, focused solely on the Interstate Commerce Clause.  We therefore conclude that the Court's discussion, although imprecise, implicated only the Interstate Commerce Clause</p>
+      </div>
+      <div class="footnote" id="fn14">
+        <a class="footnote" href="#fn14_ref">14</a>
+        <p> The only case to disagree is Spokane, <span class="citation" data-id="1879611"><a href="/opinion/1879611/spokane-tribe-of-indians-v-state-of-wash/">790 F.Supp. at 1062-63</a></span>.   There, the court focused on the need for a forum in which the tribe could air its grievances.  The need for a forum, however, does not provide a federal court with the power to override state officials' constitutionally mandated sovereign immunity.  Federal court jurisdiction is subject to and limited by the dictates of the Eleventh Amendment, and one judge's desire to give an aggrieved party a remedy does not enlarge it</p>
+      </div>
+      <div class="footnote" id="fn15">
+        <a class="footnote" href="#fn15_ref">15</a>
+        <p> A state may consent to suit, in which case these provisions remain in full force.  See, e.g., Rumsey Indian Rancheria of Wintun Indians v. Wilson, No. Civ-S-92-812 GEB, <span class="citation no-link">1993 WL 360652</span> (E.D.Cal. July 20, 1993), in which defendants waived their Eleventh Amendment immunity</p>
+      </div>
+    </div>
+    

@@ -1,0 +1,729 @@
+<p class="case_cite"><span class="citation no-link">691 F.2d 310</span></p>
+    <p class="case_cite"><span class="citation no-link">1982-2 Trade Cases   64,969</span></p>
+    <p class="parties">INDEPENDENCE TUBE CORPORATION, Plaintiff-Counterdefendant, Appellee,<br>v.<br>COPPERWELD CORPORATION and Regal Tube Company,<br>Defendants-Counterplaintiffs, Appellants,<br>v.<br>David F. GROHNE, Counterdefendant, Appellee.</p>
+    <p class="docket">Nos. 81-2009, 81-2148.</p>
+    <p class="court">United States Court of Appeals,<br>Seventh Circuit.</p>
+    <p class="date">Argued March 3, 1982.<br>Decided Oct. 1, 1982.<br>Rehearing and Rehearing En Banc Denied Nov. 1, 1982.</p>
+    <div class="prelims">
+      <p class="indent">William R. Jentes, Kirkland &amp; Ellis, Chicago, Ill., for appellants.</p>
+      <p class="indent">Victor E. Grimm, Bell, Boyd &amp; Llord, Chicago, Ill., for appellee.</p>
+      <p class="indent">Before CUMMINGS, Chief Judge, NICHOLS, Circuit Judge,<a class="footnote" href="#fn-s" id="fn-s_ref">*</a> and CUDAHY, Circuit Judge.</p>
+      <p class="indent">CUMMINGS, Chief Judge.</p>
+    </div>
+    <div class="num" id="p1">
+      <span class="num">1</span>
+      <p class="indent">In appeal No. 81-2009 Copperweld Corporation (Copperweld) and Regal Tube Company (Regal) challenge a jury verdict that they conspired against Independence Tube Company (Independence) in violation of Section 1 of the Sherman Act (<span class="citation no-link">15 U.S.C. &#167; 1</span>) and that Copperweld induced the Yoder Company (Yoder) to breach a contract with Independence.  The jury also found that Regal (but not Copperweld) slandered Independence and wrongfully interfered with the business relationships of Independence and one of its customers.  The jury assessed damages of $2,499,009 against Copperweld and Regal jointly and severally for the antitrust and inducement violation (trebled to $7,497,027) and $15,000 against Regal alone for the pendent tortious interference and slander claims.  It also awarded Independence attorney's fees and costs in amounts determined later.<a class="footnote" href="#fn1" id="fn1_ref">1</a></p>
+    </div>
+    <div class="num" id="p2">
+      <span class="num">2</span>
+      <p class="indent">Appeal No. 81-2148 addresses the propriety of the district judge's decision to direct a verdict against Regal and Copperweld on their counterclaims against Independence and its President, David F. Grohne.  Regal and Copperweld had argued that Independence competed unfairly with them and that Grohne had breached his fiduciary obligations to Regal, his former employer, by luring away key Regal employees and by wrongfully using Regal know-how and technical information.</p>
+    </div>
+    <div class="num" id="p3">
+      <span class="num">3</span>
+      <p class="indent">We affirm the judgment below in all respects.</p>
+    </div>
+    <p>I. Events Leading to this Litigation</p>
+    <div class="num" id="p4">
+      <span class="num">4</span>
+      <p class="indent">Regal began its existence in 1955 as a Chicago firm that manufactured steel tubing for use in heavy equipment, cargo vehicles, and construction.  From 1955 to 1968 Regal was a wholly-owned subsidiary of C.E. Robinson Company headed by a gentleman bearing that name; in 1968 Regal was sold to and became an unincorporated division of Lear Siegler, Inc., a California-based manufacturing concern.  David Grohne came to Regal in 1959, rose to become its Vice President and General Manager by 1968, and stayed on as President of the division after Regal was sold to Lear Siegler.</p>
+    </div>
+    <div class="num" id="p5">
+      <span class="num">5</span>
+      <p class="indent">In 1972 Copperweld purchased the Regal division from Lear Siegler for Regal's book value plus $3 million.  The sale agreement bound Lear Siegler not to compete with Regal, or to allow any subsidiary it controlled to do so, anywhere in the United States for five years.  After the sale Copperweld transferred all Regal's assets to a newly formed Pennsylvania corporation again named Regal Tube Company.  Thus Regal was once again a corporation, rather than a division, but it was wholly owned by Copperweld.  It continued to conduct all its manufacturing operations in Chicago, although it shared corporate headquarters in Pittsburgh with Copperweld.</p>
+    </div>
+    <div class="num" id="p6">
+      <span class="num">6</span>
+      <p class="indent">As the sale of Regal to Copperweld was being negotiated, David Grohne was considering his options.  By the time the sale was consummated, Grohne had accepted a job as Lear Siegler's Corporate Secretary, a position he held from February to July 1972.  From July to September he continued to work for Lear Siegler, finishing various projects.  Throughout this period, Grohne was also actively pursuing the possibility of establishing his own steel tubing business.  In the spring of 1972 he presented a financing proposal to the Continental Illinois National Bank in Chicago and lined up several dozen investors.  In May 1972 Independence was incorporated and sought bids on tubing mills from manufacturers.  By late October Independence had a firm offer from Yoder of Cleveland, Ohio, and in December 1972 it gave Yoder a purchase order which called for the delivery of the mill by the end of December 1973.</p>
+    </div>
+    <div class="num" id="p7">
+      <span class="num">7</span>
+      <p class="indent">Bedford Foster, Regal's General Manager, and Phillip Smith, Copperweld's Chairman and Chief Executive Officer, learned of Grohne's plans in the winter of 1972-1973.  Their first thought was that the non-competition agreement Lear Siegler had signed when it sold Regal ought to prevent Grohne's entrepreneurial efforts.  Defendants' lawyer, however, advised them that it did not, though he thought it might be possible to obtain an injunction against Grohne's activities if and when he made use of any of the "know-how, technical information, designs, plans, drawings, trade secrets or inventions of Regal," all of which Copperweld had purchased from Lear Siegler.  In February 1973 the lawyer furnished Smith and Foster with a letter to be sent to anybody with whom Grohne tried to deal.  The letter warned that Copperweld was "greatly concerned if (Grohne) contemplates entering the structural tube market * * * in competition with Regal Tube" and vowed to take "any and all steps which are necessary to protect our rights under the terms of our purchase agreement and to protect the know-how, trade secrets, etc., which we purchased from Lear Siegler."</p>
+    </div>
+    <div class="num" id="p8">
+      <span class="num">8</span>
+      <p class="indent">Copperweld's stated rationale for this letter was to prevent third parties from developing reliance interests in dealings with Grohne that might later make a court reluctant to enjoin Grohne's activities at Copperweld's behest.  Its actual effect was much simpler: it made Yoder, which had accepted Grohne's purchase order for the tube mill on February 19, 1973, void the acceptance two days later, when it received Copperweld's February 19th missive.  Despite Independence's efforts to piece the Yoder deal back together again, Yoder made a final decision to cancel in March 1973.  Thereafter Independence opened negotiations with Abbey Etna Machine Company, which finally agreed to ship Independence the necessary tube mill between April and September 1974.  Although Abbey also received one of Copperweld's warning letters, it performed its agreement with Grohne.  Independence Tube Corporation commenced operations on September 13, 1974-nine months later than it could have if Yoder had delivered the tube mill as originally agreed.</p>
+    </div>
+    <div class="num" id="p9">
+      <span class="num">9</span>
+      <p class="indent">Among the employees of Independence were eight former employees of Regal, whom Grohne hired after he had a commitment from Abbey and before Independence actually commenced business.  Zbigniew Uzarowicz, Regal's plant manager, joined Independence in October 1973.  Antanas Janonis, Regal's plant engineer, also went to Independence soon thereafter.  Grohne subsequently hired six additional Regal employees-a vice president, two plant foremen, the office manager, a regional sales manager, and a salesperson.  Regal and Copperweld viewed Grohne's recruitment as posing two threats: luring away key Regal employees and obtaining Regal's proprietary information and know-how from them.</p>
+    </div>
+    <div class="num" id="p10">
+      <span class="num">10</span>
+      <p class="indent">In 1976 Independence filed this suit in federal district court in Chicago against Copperweld, Phillip H. Smith, its Chief Executive Officer, Regal and Yoder.  Its amended complaint of May 24, 1977, charged that(1) Copperweld, Regal, Smith, and Yoder had conspired to restrain trade in the market for steel structural tubing, in violation of Section 1 of the Sherman Act (Count I);</p>
+    </div>
+    <div class="num" id="p11">
+      <span class="num">11</span>
+      <p>(2) Copperweld, Regal, and Smith had attempted to monopolize the market for steel tubing, in violation of Section 2 of the Sherman Act (Count II);</p>
+    </div>
+    <div class="num" id="p12">
+      <span class="num">12</span>
+      <p>(3) Yoder had breached its contract to supply a tube mill to Independence (Count III);</p>
+    </div>
+    <div class="num" id="p13">
+      <span class="num">13</span>
+      <p>(4) Copperweld, Regal, and Smith had interfered with Independence's contractual relationship with Yoder and business relationship with Deere Plow &amp; Planter Works (Deere) (Count IV); and</p>
+    </div>
+    <div class="num" id="p14">
+      <span class="num">14</span>
+      <p>(5) Copperweld, Regal, and Smith had slandered and libeled Independence with Deere (Count V).</p>
+    </div>
+    <div class="num" id="p15">
+      <span class="num">15</span>
+      <p class="indent">Count VI sought compensatory and punitive damages under all the above theories and preliminary and permanent injunctive relief.</p>
+    </div>
+    <div class="num" id="p16">
+      <span class="num">16</span>
+      <p class="indent">Copperweld and Regal denied all Independence's allegations, set forth various affirmative defenses, and filed discursive counterclaims against Independence and Grohne.  The defendants alleged that</p>
+    </div>
+    <div class="num" id="p17">
+      <span class="num">17</span>
+      <p>(1) Independence and Grohne used Regal's protectible know-how and confidential or proprietary information in violation of the Lear Siegler agreement and in breach of Grohne's fiduciary duties to Regal;</p>
+    </div>
+    <div class="num" id="p18">
+      <span class="num">18</span>
+      <p>(2) Independence and Grohne competed unfairly by hiring away key Regal employees; and</p>
+    </div>
+    <div class="num" id="p19">
+      <span class="num">19</span>
+      <p>(3) Independence and Grohne interfered with prospective contractual and other business relationships of the defendants by filing their lawsuit on the eve of a $30 million debenture offering by Copperweld.</p>
+    </div>
+    <div class="num" id="p20">
+      <span class="num">20</span>
+      <p class="indent">Like the plaintiff, the defendants sought compensatory and punitive damages and preliminary and permanent injunctive relief.</p>
+    </div>
+    <div class="num" id="p21">
+      <span class="num">21</span>
+      <p class="indent">Before trial Independence dismissed its monopolization claim (Count II supra ).  It also dropped Smith as an individual defendant in all the counts in which he had figured.</p>
+    </div>
+    <div class="num" id="p22">
+      <span class="num">22</span>
+      <p class="indent">The liability portion of the case was tried to a jury between November 14, 1980, and February 20, 1981.  At the conclusion of the evidence Judge Will directed a verdict against Regal and Copperweld on the issues raised by their counterclaims.  The remainder of the case went to the jury on special interrogatories.  The jury found that Copperweld and Regal had conspired to violate Section 1 of the Sherman Act, but that Yoder had not been involved in the conspiracy (Count I).  It also found Yoder liable for breach of its contract to supply a mill to Independence (Count III).  The jury found that Copperweld (but not Regal) had interfered with Independence's contractual relationship with Yoder (Count IV); and that Regal (but not Copperweld) had interfered with Independence's business relationship with Deere (Count IV) and had slandered Independence to Deere (Count V).</p>
+    </div>
+    <div class="num" id="p23">
+      <span class="num">23</span>
+      <p class="indent">The damages phase of the trial was concluded on March 6, 1981.  Yoder was no longer a party, having settled its liability to Independence under Count III.  Judge Will instructed the jury that the damages for the antitrust violation and for the inducement of the Yoder contract breach (Counts I and IV) should be identical and therefore should not be double-counted.  The jury then awarded $2,499,009 (trebled to $7,497,027) on the antitrust claim against Copperweld and Regal, and $15,000 against Regal alone on Counts IV and V. Judgment was entered on May 27, 1981.  On June 22, 1981, Judge Will handed down a 65-page memorandum opinion denying the defendants' motions for judgment notwithstanding the verdict or a new trial.  These appeals followed.</p>
+    </div>
+    <p>II. Arguments Raised on Appeal</p>
+    <div class="num" id="p24">
+      <span class="num">24</span>
+      <p class="indent">The defendants raise a host of challenges to the trial results.  They fall into three general categories.</p>
+    </div>
+    <p>A. The Antitrust Liability</p>
+    <div class="num" id="p25">
+      <span class="num">25</span>
+      <p class="indent">The defendants argue that they could not as a matter of law have conspired to violate Section 1 of the Sherman Act, because they are not sufficiently distinct entities under our decision in Photovest Corp. v. Fotomat Corp., <span class="citation" data-id="370336"><a href="/opinion/370336/photovest-corporation-an-indiana-corporation-and-cross-appellant-v/">606 F.2d 704</a></span> (7th Cir. 1979), certiorari denied, <span class="citation no-link">445 U.S. 917</span>, <span class="citation no-link">100 S.Ct. 1278</span>, <span class="citation no-link">63 L.Ed.2d 601</span>.  They also argue that the evidence was insufficient to prove that Regal entered into a conspiracy with Copperweld as of the sending of their lawyer's February 19, 1973 warning letter to Yoder, and that evidence of Regal's and Copperweld's conduct after that date was improperly admitted.  Finally, the defendants argue that the plaintiff's failure to demonstrate harm to competition vitiates the judgment either because no antitrust injury was shown (as required by Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc., <span class="citation" data-id="109586"><a href="/opinion/109586/brunswick-corp-v-pueblo-bowl-o-mat-inc/">429 U.S. 477</a></span>, <span class="citation" data-id="109586"><a href="/opinion/109586/brunswick-corp-v-pueblo-bowl-o-mat-inc/">97 S.Ct. 690</a></span>, <span class="citation" data-id="109586"><a href="/opinion/109586/brunswick-corp-v-pueblo-bowl-o-mat-inc/">50 L.Ed.2d 701</a></span>), or because the appropriate Rule of Reason inquiry was never undertaken.</p>
+    </div>
+    <p>B. The Pendent State Law Claim</p>
+    <div class="num" id="p26">
+      <span class="num">26</span>
+      <p class="indent">Copperweld maintains that the separate tortious interference with Yoder judgment cannot stand because Copperweld was legally privileged to take the actions it did to protect its interests.  Copperweld contends that its privilege argument went unrebutted by Independence, and that the district judge erred in not instructing the jury on the claimed privilege.</p>
+    </div>
+    <div class="num" id="p27">
+      <span class="num">27</span>
+      <p>C. The Directed Verdict on Defendants' Counterclaims</p>
+    </div>
+    <div class="num" id="p28">
+      <span class="num">28</span>
+      <p class="indent">The defendants argue that they presented enough evidence to warrant sending their counterclaims to the jury.  In the alternative they argue that the district judge's exclusion of proffered evidence in support of the counterclaims was error and requires a new trial.</p>
+    </div>
+    <p>D. Computation of Damages</p>
+    <div class="num" id="p29">
+      <span class="num">29</span>
+      <p class="indent">The defendants argue that Independence's damage theory was based on methodologically flawed testimony of an unqualified expert and on unsubstantiated opinions and assumptions.  They also claim to have been prejudiced by the district judge's instruction on the congruence in this case between antitrust and tortious interference damages.</p>
+    </div>
+    <p>III. The Intra-Enterprise Conspiracy Doctrine</p>
+    <div class="num" id="p30">
+      <span class="num">30</span>
+      <p>A. Background: The Emergence of the Photovest Test</p>
+    </div>
+    <div class="num" id="p31">
+      <span class="num">31</span>
+      <p class="indent">It is elementary that a conspiracy in violation of Section 1 of the Sherman Act, like any other kind of conspiracy, requires an agreement by two or more parties.  When this case went to the jury, it could have been a garden-variety antitrust conspiracy case-Copperweld and Regal on the one hand agreeing with Yoder on the other to keep Independence out of the steel tube business.  But the jury exonerated Yoder (except on the breach of contract Count III against Yoder) and instead found a conspiracy between Copperweld and its wholly-owned subsidiary Regal.  As a result, it set the stage for appellants' broadly based attack on the intra-enterprise conspiracy doctrine in the abstract and as applied to these facts.</p>
+    </div>
+    <div class="num" id="p32">
+      <span class="num">32</span>
+      <p class="indent">We may begin with antithetical truisms.  Two independent corporations can engage in concerted activity that violates Section 1 of the Sherman Act.  A corporation and its officers, or a corporation and one of its fully integrated divisions cannot, because the requisite plurality of actors is missing.  The hard case lies between these opposites: can a corporation conspire with its wholly-owned subsidiary?  In a purely formal sense, the answer should be yes: there are two corporations and hence two actors.  But as a practical matter there may be little difference between a wholly-owned subsidiary and a fully integrated division, and where the differences are trivial Section 1 liability should not turn on them.</p>
+    </div>
+    <div class="num" id="p33">
+      <span class="num">33</span>
+      <p class="indent">Academic discussion of the intra-enterprise conspiracy<a class="footnote" href="#fn2" id="fn2_ref">2</a> doctrine is almost uniformly critical.<a class="footnote" href="#fn3" id="fn3_ref">3</a> The commentators generally note at the outset that the Supreme Court has never actually relied on the doctrine without qualification to decide a Sherman Act case, and therefore the broad language of some Supreme Court opinions must be taken at less than face value.<a class="footnote" href="#fn4" id="fn4_ref">4</a> They also point out that government enforcement agencies do not use the doctrine.<a class="footnote" href="#fn5" id="fn5_ref">5</a> Rather it surfaces in private suits-where plaintiffs rely on it to plead their way around basically unilateral action taken by an entity that lacks the market power to be sued under Section 2's monopolization standards.  So used, the intra-enterprise conspiracy doctrine fills a gap between Section 1 and Section 2-a gap that should either remain entirely unfilled or be left to state-law remedies.<a class="footnote" href="#fn6" id="fn6_ref">6</a> Otherwise, the commentators argue, the real efficiencies achievable by separately incorporated but closely related corporations will be sacrificed,<a class="footnote" href="#fn7" id="fn7_ref">7</a> and the antitrust laws will be used perversely to achieve either more independence or more integration than is optimal.</p>
+    </div>
+    <div class="num" id="p34">
+      <span class="num">34</span>
+      <p class="indent">Judicial attitudes toward the intra-enterprise conspiracy doctrine are more constrained.  For a federal judge at the trial or appellate level, the salient factor is that the Supreme Court's decisions, while they need not be read with complete literalism, of course they cannot be ignored.<a class="footnote" href="#fn8" id="fn8_ref">8</a> It is no accident that every Court of Appeals to consider the question has concluded that a parent and its subsidiary have the capacity to conspire, whether or not they can be found to have done so in a particular case.<a class="footnote" href="#fn9" id="fn9_ref">9</a> Among the circuits there have been various limiting approaches-but no move to abolish the doctrine root and branch.</p>
+    </div>
+    <div class="num" id="p35">
+      <span class="num">35</span>
+      <p class="indent">This Circuit's position has recently been articulated in Photovest Corp., supra, <span class="citation no-link">606 F.2d 704</span>, 725-727.  Like the Eighth and the Ninth Circuits,<a class="footnote" href="#fn10" id="fn10_ref">10</a> we focus on the practical relationship between the parent and the subsidiary, using a variety of factors to decide when there is enough separation between the two entities to make treating them as two independent actors sensible.  The test is admittedly in an early and unsettled stage of development, as is inevitable with: (a) any test that involves the presence or absence of various unranked factors, (b) the possibility that the list will expand or contract, and (c) as yet limited application.  Nonetheless, we think it focuses on the proper question-namely, when the distinction between affiliation and integration is trivial and when it is significant.  And it seeks the answer to the question in terms of evidence that is empirical, readily furnished, and amenable to development at trial-as more arcane economic calculations are not.  Its flexibility means that it can mediate between the corner positions of academic critics on the one hand and sweeping Supreme Court dicta on the other.  And the uncertainties that necessarily exist now will be obviated as the test is applied and refined.</p>
+    </div>
+    <div class="num" id="p36">
+      <span class="num">36</span>
+      <p class="indent">In short, Photovest represents a reasonable and pragmatic approach to the intra-enterprise conspiracy problem, and we intend in what follows to adhere to it.</p>
+    </div>
+    <p>B. Photovest Applied</p>
+    <div class="num" id="p37">
+      <span class="num">37</span>
+      <p class="indent">Copperweld and Regal have two quarrels with the application of the Photovest criteria to this case.  One centers on the instructions which the trial judge gave, and their failure to correspond exactly to the Photovest language.  The second involves the sufficiency of the evidence, assuming that the instructions were substantially correct.</p>
+    </div>
+    <div class="num" id="p38">
+      <span class="num">38</span>
+      <p class="indent">There is some dispute about whether the instruction issue has been preserved on appeal,<a class="footnote" href="#fn11" id="fn11_ref">11</a> but we conclude that it is properly before us.<a class="footnote" href="#fn12" id="fn12_ref">12</a> The defendants first criticize the instructions for failing to duplicate the Photovest factors verbatim (Br. 32-33).  Yet Photovest itself, as Judge Will noted (App. 242), does not make its factors canonical.</p>
+    </div>
+    <div class="num" id="p39">
+      <span class="num">39</span>
+      <p>(W)e must decide each case on its particular facts.  Some relevant factors to consider include "the extent of the integration of ownership, whether the two corporations have separate managerial staffs, ... the extent to which significant efficiencies would be sacrificed if they were required to act as two firms, their history, whether they functioned as separate firms before being partially integrated, and finally, the extent to which they may, acting as one, wield market power which they would not possess if viewed as separate firms.</p>
+    </div>
+    <div class="num" id="p40">
+      <span class="num">40</span>
+      <p class="indent"><span class="citation" data-id="370336"><a href="/opinion/370336/photovest-corporation-an-indiana-corporation-and-cross-appellant-v/">606 F.2d at 726</a></span>, quoting L. Sullivan, Handbook of the Law of Antitrust 328 (1977).  There can be no claim, based on the language of Photovest, that this Court's ipsissima verba are necessary.</p>
+    </div>
+    <div class="num" id="p41">
+      <span class="num">41</span>
+      <p class="indent">The more substantial issue is whether the instructions Judge Will did give (set out at App. 240-241) are consistent with the analysis undertaken in Photovest.  That they are is convincingly shown in the Appendix to this opinion, where the instructions and the critical paragraphs of the Photovest opinion are juxtaposed.  Moreover the judge's charge emphasized to the jury that they were looking for real, rather than merely formal, distinctness:</p>
+    </div>
+    <div class="num" id="p42">
+      <span class="num">42</span>
+      <p>The rule is that a parent like Copperweld and a subsidiary like Regal are capable of combining or conspiring together unless they are operated in such a way as to, in effect, constitute just one company.</p>
+    </div>
+    <div class="num" id="p43">
+      <span class="num">43</span>
+      <p>If you find from the evidence that Regal Tube Company is not sufficiently distinct from Copperweld as an economic entity, then you must consider them as a single person * * *.</p>
+    </div>
+    <div class="num" id="p44">
+      <span class="num">44</span>
+      <p>(App. 156, 158; these statements immediately precede and follow the 9 specific capacity instructions.)</p>
+    </div>
+    <div class="num" id="p45">
+      <span class="num">45</span>
+      <p class="indent">Despite this congruence with Photovest's approach, the defendants claim to have been prejudiced by particular instructions or phrases within instructions.<a class="footnote" href="#fn13" id="fn13_ref">13</a> In view of the overall emphasis, there is no realistic possibility that the jury could have singled out any one factor-or part of a factor-to the exclusion of all the others.  Furthermore, the defendants exhibit some confusion about how a balancing test works.  Photovest took a variety of considerations and weighed them, and the balance in Photovest tipped in one direction.  That does not mean that in all future cases the factors on the lighter side of the scale must be excluded.  They may again turn out not to be probative, but it is not legal error to consider them.  Of course, once a body of law accumulates, a court may redefine its balancing test or substitute a bright-line rule, based on its experience.  We are not yet in a position to do that.</p>
+    </div>
+    <div class="num" id="p46">
+      <span class="num">46</span>
+      <p class="indent">Our holdings so far-that Photovest governs this Circuit's treatment of intra-enterprise conspiracy and that Judge Will's instructions comport with Photovest -are virtually dispositive of the defendants' challenge to the jury's finding of capacity to conspire.  Jury factfinding, unlike judicial factfinding, is not subject to direct attack as "clearly erroneous."  In view of the Seventh Amendment's prohibition ("no fact tried by a jury shall be otherwise re-examined in any Court of the United States than according to the rules of the common law"), a jury verdict can only be set aside if the "evidence (viewed) in the light most favorable to the plaintiff and * * * (the) facts and inferences reasonably drawn from the facts * * * lead to but one conclusion-that there is a total failure of evidence to prove the plaintiff's case."  Fact Concerts, Inc. v. City of Newport, <span class="citation" data-id="380757"><a href="/opinion/380757/fact-concerts-inc-and-marvin-lerman-v-the-city-of-newport-the-state-of/">626 F.2d 1060</a></span>, 1064 (1st Cir. 1980), vacated on other grounds, <span class="citation" data-id="110553"><a href="/opinion/110553/newport-v-fact-concerts-inc/">453 U.S. 247</a></span>, <span class="citation" data-id="110553"><a href="/opinion/110553/newport-v-fact-concerts-inc/">101 S.Ct. 2748</a></span>, <span class="citation" data-id="110553"><a href="/opinion/110553/newport-v-fact-concerts-inc/">69 L.Ed.2d 616</a></span> (1981).<a class="footnote" href="#fn14" id="fn14_ref">14</a> It is particularly appropriate to"give (the plaintiff) the benefit of all inferences which the evidence fairly supports, even though contrary inferences might reasonably be drawn," Continental Ore Co. v. Union Carbide &amp; Carbon Corp., <span class="citation" data-id="106452"><a href="/opinion/106452/continental-ore-co-v-union-carbide-carbon-corp/">370 U.S. 690</a></span>, 696 (<span class="citation" data-id="106452"><a href="/opinion/106452/continental-ore-co-v-union-carbide-carbon-corp/">82 S.Ct. 1404</a></span>, 1409, <span class="citation" data-id="106452"><a href="/opinion/106452/continental-ore-co-v-union-carbide-carbon-corp/">8 L.Ed.2d 777</a></span>) * * *, in complex antitrust cases * * * "where motive and intent play leading roles," Poller v. Columbia Broadcasting System, Inc., <span class="citation" data-id="106334"><a href="/opinion/106334/poller-v-columbia-broadcasting-system-inc/">368 U.S. 464</a></span>, 473 (<span class="citation" data-id="106334"><a href="/opinion/106334/poller-v-columbia-broadcasting-system-inc/">82 S.Ct. 486</a></span>, 491, <span class="citation" data-id="106334"><a href="/opinion/106334/poller-v-columbia-broadcasting-system-inc/">7 L.Ed.2d 458</a></span>) * * *, because "(f)indings as to the design, motive and intent with which men act depend peculiarly upon the credit given to witnesses" by the trier of fact.  United States v. Yellow Cab Co., <span class="citation" data-id="104734"><a href="/opinion/104734/united-states-v-yellow-cab-co/">338 U.S. 338</a></span>, 341 (<span class="citation no-link">70 S.Ct. 177</span>, 179, <span class="citation no-link">94 L.Ed. 150</span>) * * *.</p>
+    </div>
+    <div class="num" id="p47">
+      <span class="num">47</span>
+      <p>Ohio-Sealy Mattress Mfg. Co. v. Sealy, Inc., <span class="citation" data-id="360355"><a href="/opinion/360355/ohio-sealy-mattress-manufacturing-company-sealy-mattress-company-of/">585 F.2d 821</a></span>, 825 (7th Cir. 1978).</p>
+    </div>
+    <div class="num" id="p48">
+      <span class="num">48</span>
+      <p class="indent">The issue here-how much separation Regal and Copperweld in fact maintained in the conduct of their business-is similarly fact-bound and inferential.</p>
+    </div>
+    <div class="num" id="p49">
+      <span class="num">49</span>
+      <p class="indent">The plaintiffs presented evidence from which the jury could have found that</p>
+    </div>
+    <div class="num" id="p50">
+      <span class="num">50</span>
+      <p class="indent">(1) Regal had existed as a division of C. E. Robinson Company and of Lear Siegler before its acquisition by Copperweld, and that Copperweld intended Regal to "keep its ongoing business and keep serving the market and customers it was already serving" (testimony of Smith, Tr. 3031).</p>
+    </div>
+    <div class="num" id="p51">
+      <span class="num">51</span>
+      <p class="indent">(2) The acquisition of Regal did not have the practical effect of enabling Copperweld to handle additional steps in its own manufacturing process (comparable to the forward integration found in Photovest ), but established Copperweld in an entirely new line (testimony of Smith, Tr. 3029).</p>
+    </div>
+    <div class="num" id="p52">
+      <span class="num">52</span>
+      <p class="indent">(3) Regal management had real autonomy in both day-to-day and policy decisions (Smith testimony, App. 708-710; Foster affidavit, App. 647).</p>
+    </div>
+    <div class="num" id="p53">
+      <span class="num">53</span>
+      <p class="indent">(4) Not only were Regal's expenses and revenues segregated (Smith testimony, App. 708-710) but Regal's operating manager's compensation was based primarily on Regal profitability (Breedlove, Tr. 4934-35, 4937, 4958).</p>
+    </div>
+    <div class="num" id="p54">
+      <span class="num">54</span>
+      <p class="indent">(5) Regal had a separate sales force and clientele (until the 1979 reorganization of Copperweld's subsidiaries) and made its own arrangements with suppliers of equipment and raw materials (App. 361-376 (sales); App. 305-308, 1054-1056 (suppliers))-a fact relevant to the ability of the defendants to bring pressure to bear on more people if they worked together than either could alone or than both could if Regal were a full-fledged division (Indep. Br. 31-32).</p>
+    </div>
+    <div class="num" id="p55">
+      <span class="num">55</span>
+      <p class="indent">Taken together this information creates a much fuller and more consistent picture than did the two "isolated (distinct entity) statement(s)" in Photovest, <span class="citation" data-id="370336"><a href="/opinion/370336/photovest-corporation-an-indiana-corporation-and-cross-appellant-v/">606 F.2d at 727</a></span>, the same record on which a jury verdict of conspiracy was overturned in Ogilvie v. Fotomat, <span class="citation" data-id="387272"><a href="/opinion/387272/donald-m-ogilvie-v-fotomat-corporation-griesedieck-enterprises-no-1/">641 F.2d 581</a></span>, 589-590 and n. 27 (8th Cir. 1981).  The jury here was entitled to conclude that Regal was not "merely a service arm of (its parent), more like a corporate division than a separate corporate entity," Photovest, <span class="citation" data-id="370336"><a href="/opinion/370336/photovest-corporation-an-indiana-corporation-and-cross-appellant-v/">606 F.2d at 727</a></span>.</p>
+    </div>
+    <div class="num" id="p56">
+      <span class="num">56</span>
+      <p>C. Defendants' Other Claims of Error under the Sherman Act Count</p>
+    </div>
+    <div class="num" id="p57">
+      <span class="num">57</span>
+      <p class="indent">1. The existence of a conspiracy.</p>
+    </div>
+    <div class="num" id="p58">
+      <span class="num">58</span>
+      <p class="indent">The defendants argue that even if the capacity hurdle was overcome, no conspiracy was proven.  Their initial objection, that the proof was circumstantial rather than direct (Br. 36), is meritless: conspiracies are by their nature not subject to direct proof.  Furthermore, Weit v. Continental Illinois National Bank &amp; Trust Co., <span class="citation" data-id="387257"><a href="/opinion/387257/jack-weit-v-continental-illinois-national-bank-and-trust-company-of/">641 F.2d 457</a></span>, 463 (7th Cir. 1981), certiorari denied, --- U.S. ----, <span class="citation no-link">102 S.Ct. 1610</span>, <span class="citation no-link">71 L.Ed.2d 847</span>, does not state a proof requirement for all conspiracies, but a method of dealing with those in which an agreement is inferred on the basis of "conscious parallelism" among the co-conspirators.  This is not a "conscious parallelism" case.</p>
+    </div>
+    <div class="num" id="p59">
+      <span class="num">59</span>
+      <p class="indent">The defendants also argue that the evidence of Foster's and Smith's conduct up until February 19, 1973 (the date on which the letter to Yoder was mailed) was insufficient, and that evidence of their later activities-which tended to cast a more sinister light on their doings-was improperly admitted.  This argument rests on a fundamental misunderstanding about the conspiracy alleged: Independence's contention was that Copperweld Chairman Smith and Regal General Manager Foster had engaged in a continuing course of anticompetitive conduct, but the only actual harm they had been able to cause was Yoder's cancellation of the tubing mill contract.<a class="footnote" href="#fn15" id="fn15_ref">15</a> The other recipients of the warning letters-including Abbey-Etna, Continental Illinois National Bank, First National Bank of Chicago, C. E. Robinson, various real estate firms, and major steel suppliers (App. 84, 239)-did nothing that was productive from Copperweld's and Regal's perspective, or detrimental from Independence's.  The only other instance of tangible harm to Independence-the defamatory remarks to Deere-was unrelated to the letter-writing campaign.  We find that the evidence of a conspiracy (pre- and post-February 1973) was properly admitted and the jury's inferences from it are unassailable.</p>
+    </div>
+    <div class="num" id="p60">
+      <span class="num">60</span>
+      <p class="indent">The defendants finally argue that Judge Will made inconsistent legal rulings when he found that Regal could not be held liable as a joint-tortfeasor with Copperweld for inducing Yoder's breach of contract, but did not also rule that Regal could not be Copperweld's co-conspirator.  (Br. 40-42).  This argument overlooks important substantive differences between tort and conspiracy liability, as Judge Will pointed out (App. 234-235).  To be liable for tortious interference with contract, Regal would have had to know that the Independence-Yoder contract existed, and would have had to do a specific act to cause the breach of contract.  Hannigan v. Sears, Roebuck &amp; Co., <span class="citation" data-id="284619"><a href="/opinion/284619/thomas-m-hannigan-and-tru-han-corporation-v-sears-roebuck-and-co/">410 F.2d 285</a></span>, 291 (7th Cir. 1969), certiorari denied, <span class="citation no-link">396 U.S. 902</span>, <span class="citation no-link">90 S.Ct. 214</span>, <span class="citation no-link">24 L.Ed.2d 17</span>.  In other words, to be a joint tortfeasor, Regal had to have causal responsibility for the breach.  To be liable for damages caused by the breach under the anti-trust conspiracy theory, Regal had only to have entered into an agreement to hamper Independence's entry into the market and have taken some step toward that end.  Once that showing was made, Regal could be liable for any actions of Copperweld in furtherance of the conspiracy, on the theory that for the duration of the conspiracy conspirators are accountable for each other's actions.  T.V. Signal Co. of Aberdeen v. American Telephone &amp; Telegraph, <span class="citation" data-id="304347"><a href="/opinion/304347/tv-signal-company-of-aberdeen-v-american-telephone-and-telegraph-company/">462 F.2d 1256</a></span> (8th Cir. 1972).  Section 1 of the Sherman Act casts a wider net than do principles of common-law tort liability.</p>
+    </div>
+    <div class="num" id="p61">
+      <span class="num">61</span>
+      <p class="indent">2. The failure to demonstrate anticompetitive effect.</p>
+    </div>
+    <div class="num" id="p62">
+      <span class="num">62</span>
+      <p class="indent">Defendants argue that Independence has failed to make out "antitrust injury," as that term is used in Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc., <span class="citation" data-id="109586"><a href="/opinion/109586/brunswick-corp-v-pueblo-bowl-o-mat-inc/">429 U.S. 477</a></span>, 489, <span class="citation" data-id="109586"><a href="/opinion/109586/brunswick-corp-v-pueblo-bowl-o-mat-inc/">97 S.Ct. 690</a></span>, 697, <span class="citation" data-id="109586"><a href="/opinion/109586/brunswick-corp-v-pueblo-bowl-o-mat-inc/">50 L.Ed.2d 701</a></span> (1977) (Br. 44).<a class="footnote" href="#fn16" id="fn16_ref">16</a> Brunswick defines antitrust injury as</p>
+    </div>
+    <div class="num" id="p63">
+      <span class="num">63</span>
+      <p>injury of the type the antitrust laws were intended to prevent and that flows from that which makes defendants' acts unlawful.  The injury should reflect the anticompetitive effect either of the violation or of anticompetitive acts made possible by the violation.  It should, in short, be "the type of loss that the claimed violations ... would be likely to cause."  Zenith Radio Corp. v. Hazeltine Research, 395 U.S.  (100) at 125 (<span class="citation" data-id="107938"><a href="/opinion/107938/zenith-radio-corp-v-hazeltine-research-inc/">89 S.Ct. 1562</a></span> at 1577, <span class="citation" data-id="107938"><a href="/opinion/107938/zenith-radio-corp-v-hazeltine-research-inc/">23 L.Ed.2d 129</a></span>).</p>
+    </div>
+    <div class="num" id="p64">
+      <span class="num">64</span>
+      <p class="indent">If "antitrust injury" inquires into causation, the injury Independence claimed flowed directly from the defendants' conspiracy to keep it from going into business as their competitor, a clear violation of Section 1 of the Sherman Act.  If "antitrust injury" also states a limitation on damages, as is argued in Page, Antitrust Injury and Economic Efficiency: An Approach to Antitrust Injury, 47 U.Chi.L.Rev. 467 (1980), it equally supports Independence's recovery here:</p>
+    </div>
+    <div class="num" id="p65">
+      <span class="num">65</span>
+      <p>The traditional measures of damages for the total exclusion<a class="footnote" href="#fn17" id="fn17_ref">17</a> of a competitor from the market accurately reflect antitrust injury.  (If) a potential competitor is denied entry to a market because of the existing competitors' control of a necessary facility or resource<a class="footnote" href="#fn18" id="fn18_ref">18</a> * * * damages (should reflect) returns on the output that the market would have supported but for the collective impediment to new entry.  Page, op. cit., <span class="citation" data-id="380757"><a href="/opinion/380757/fact-concerts-inc-and-marvin-lerman-v-the-city-of-newport-the-state-of/">supra, 485-486</a></span>.</p>
+    </div>
+    <div class="num" id="p66">
+      <span class="num">66</span>
+      <p class="indent">Defendants also argue that the district court should have required Independence to show anticompetitive harm by demonstrating that Regal's market share increased after the allegedly anticompetitive conduct.  This showing, they argue, is mandated by our decision in Havoco of America, Ltd. v. Shell Oil Co., <span class="citation" data-id="380486"><a href="/opinion/380486/havoco-of-america-ltd-v-shell-oil-company/">626 F.2d 549</a></span>, 558 (7th Cir. 1980) (Br. 45-50).</p>
+    </div>
+    <div class="num" id="p67">
+      <span class="num">67</span>
+      <p class="indent">Defendants misread Havoco.  Its main message is that outside the limited category of per se violations of the antitrust laws,<a class="footnote" href="#fn19" id="fn19_ref">19</a> actual harm to competition must be demonstrated under the Rule of Reason analysis before an offense against the antitrust laws will be made out.  That proposition was recognized by the district judge here, and he so instructed the jury (App. 162-164):<a class="footnote" href="#fn20" id="fn20_ref">20</a></p>
+    </div>
+    <div class="num" id="p68">
+      <span class="num">68</span>
+      <p>Independence must establish by a preponderance of the evidence that the delay in its entering into business resulted in a decreased supply or higher prevailing prices in the market or otherwise adversely affected competition in the relevant market (App. 164).</p>
+    </div>
+    <div class="num" id="p69">
+      <span class="num">69</span>
+      <p class="indent">Havoco does not say that harm in the relevant market is demonstrable only by market share evidence, but rather that the relevant market must be defined with enough generality to ensure that harm to competition is not assumed where no more than harm to a person engaged in interstate commerce is shown. 626 F.2d at 558.  Here the jury was instructed that the relevant market was the area "in which (Independence) and the defendant Regal operate and to which purchasers can practicably turn for supplies of structural steel tubing or any substitutable products."  This definition precludes any facile equation of harm to Independence and harm to competition.</p>
+    </div>
+    <div class="num" id="p70">
+      <span class="num">70</span>
+      <p class="indent">Defendants also seem to cite Havoco for the proposition that Independence must fail under a Rule of Reason analysis unless it can demonstrate that Regal's market share increased as a result of Independence's foreclosure from the market (Br. 48-49).  However true that proposition may be when an actual competitor is harmed or driven out of business,<a class="footnote" href="#fn21" id="fn21_ref">21</a> it makes no sense in a foreclosure case.  Here by contrast it would be an anticompetitive sign if Regal could maintain its market share so long as Independence was kept out of the steel tubing business, but lost ground to Independence once the latter began production.  That was, as defendants concede (Br. 49), exactly what the evidence suggested.<a class="footnote" href="#fn22" id="fn22_ref">22</a></p>
+    </div>
+    <p>IV. The State Law Issues</p>
+    <p>A. Plaintiff's Pendent State Claims</p>
+    <div class="num" id="p71">
+      <span class="num">71</span>
+      <p class="indent">Having affirmed the judgment for Independence on its antitrust claim, we would ordinarily not need to discuss at length the defendants' attack on the alternative tortious inducement of a breach of the Yoder contract (Count IV).<a class="footnote" href="#fn23" id="fn23_ref">23</a> But one point requires some attention.  Copperweld claims a privilege to interfere with the Yoder contract to protect its own legal interests.  At trial, the privilege figured in both the antitrust count (where it was alleged to come within the Noerr-Pennington doctrine<a class="footnote" href="#fn24" id="fn24_ref">24</a>) and the tortious interference with Yoder count.  On appeal, the Noerr-Pennington doctrine has been abandoned, but Copperweld continues to insist with reference to the tort count that the privilege is unqualified, that showing the absence of the privilege was part of plaintiff's prima facie case, and that Judge Will did not give the jury proper instructions on it (Br. 50-58).  Because there is a possibility that, had there been error, it could have affected the whole judgment, we address Copperweld's interpretation.</p>
+    </div>
+    <div class="num" id="p72">
+      <span class="num">72</span>
+      <p class="indent">According to Copperweld (which alone was found liable for the tortious inducement of Yoder's contract breach), a belief that one has legal rights, however mistaken, can excuse any action, however disproportionate, to protect one's interests, however tenuous.<a class="footnote" href="#fn25" id="fn25_ref">25</a> If this were a true statement of Illinois law, liability for tortious interference with a contract would be exceedingly rare.</p>
+    </div>
+    <div class="num" id="p73">
+      <span class="num">73</span>
+      <p class="indent">Actually the Restatement (Second) of Torts, Section 733, on which Copperweld relies, states a more modest privilege:</p>
+    </div>
+    <div class="num" id="p74">
+      <span class="num">74</span>
+      <p>One who, by asserting in good faith a legally protected interest of his own or threatening in good faith to protect the interest by appropriate means, intentionally causes a third person not to perform an existing contract or enter into a prospective contractual relation with another does not interfere improperly with the other's relation if the actor believes that his interest may otherwise be impaired or destroyed by the performance of the contract or transaction.</p>
+    </div>
+    <div class="num" id="p75">
+      <span class="num">75</span>
+      <p class="indent">Under this version the legally protected interest must exist at least in the abstract,<a class="footnote" href="#fn26" id="fn26_ref">26</a> the assertion of it or the threat to enforce it must be made in good faith, the means chosen must be appropriate, and the claimant must believe that the contract or transaction, if allowed to go forward, would impair or destroy that right.</p>
+    </div>
+    <div class="num" id="p76">
+      <span class="num">76</span>
+      <p class="indent">As a threshold matter, there was a general misunderstanding about the legally protectible interest.  Copperweld knew from its first consultation with a lawyer that neither Grohne nor Independence was bound by the non-competition agreement it had signed with Lear Siegler when it bought Regal.  Copperweld may have thought that Grohne owed certain duties to Regal because of his former employment and that these duties now ran to Copperweld as Regal's parent corporation.  That is the basis of the counterclaims, discussed in Part IV.B infra.  But if that is the legal interest, there is first no basis in fact for the assertion of it (see note 26 supra ).  Furthermore there is a complete lack of connection between that right and Copperweld's approach to Yoder.  Grohne could buy a tube mill from a mill manufacturer without relying on Regal trade secrets, customer lists, or other proprietary information.  Recognizing the discontinuity, Copperweld claims that it was protecting its right to enjoin Grohne, should he violate his fiduciary duties at some future time, by preventing third parties from developing reliance interests in Grohne's business.  That theory improves the fit between the action and the rationale.  But then the difficulty is that a preference for injunctive relief rather than monetary damages-when both are remote because the harm is neither actual nor imminent-can hardly qualify as a "legally protected interest."</p>
+    </div>
+    <div class="num" id="p77">
+      <span class="num">77</span>
+      <p class="indent">In fact, Judge Will was probably more generous in instructing the jury on Copperweld's theory than he needed to be.  Copperweld attempts to show otherwise by focusing solely on the instructions under the tort count (App. 181-183).  But the district judge had already given the jury extensive instructions under the antitrust count (App. 164-169), and these were incorporated by reference, rather than fully reiterated, under the tort count.<a class="footnote" href="#fn27" id="fn27_ref">27</a> Reading the two sets of instructions together, we can see that the jury was told that: "preparing an injunction suit" was a "legitimate objective" (App. 165); such a lawsuit need not be filed to demonstrate a good faith intent to sue (App. 167); reliance on the advice of counsel was a factor but not a complete defense (App. 169); the actual existence of a legal basis for suit was irrelevant to good faith, but some quantum of investigation was required (App. 167); and Copperweld was entitled to be concerned about the formation of Independence as a competitor but its concern had to be focused on Independence, not translated into threats against parties with whom Independence dealt (App. 166).  These instructions contain all that is correct in the defendants' proposed instruction:</p>
+    </div>
+    <div class="num" id="p78">
+      <span class="num">78</span>
+      <p>Under the law, a person may properly interfere with the contractual rights or business relations of another by in good faith asserting or threatening to protect a legally protected interest which he believes may otherwise be impaired or destroyed.</p>
+    </div>
+    <div class="num" id="p79">
+      <span class="num">79</span>
+      <p class="indent">If you find that Copperweld's letter of February 19, 1973, was sent on the advice of counsel in a good-faith effort to protect legal rights which Copperweld believed would otherwise have been impaired or destroyed, then you must find that the defendants are not liable on the plaintiff's tortious interference claim.</p>
+    </div>
+    <div class="num" id="p80">
+      <span class="num">80</span>
+      <p>(Defendants' Instruction 39 Revised, Def. Br. 54)</p>
+    </div>
+    <div class="num" id="p81">
+      <span class="num">81</span>
+      <p class="indent">Unlike the defendants' instruction, Judge Will's did not eliminate the "reasonable means" requirement nor make the advice of counsel so prominent that the jury could be misled into according it conclusive importance.</p>
+    </div>
+    <div class="num" id="p82">
+      <span class="num">82</span>
+      <p class="indent">Here as elsewhere in this appeal Copperweld's real complaint is that the jury disbelieved its version of events.  As we have already indicated (pp. 319-320 supra), we do not substitute our judgment for the jury's.  There was ample reason for its decision.  For example, if notice rather than intimidation had been the purpose of Copperweld's campaign, one letter to Yoder would have served.  A second and third were in fact sent (App. 593-594).  If protection of Regal's proprietary interests had been the rationale, than Copperweld's actions were premature (App. 636, 638)<a class="footnote" href="#fn28" id="fn28_ref">28</a> and probably specious (App. 760-777, 677).<a class="footnote" href="#fn29" id="fn29_ref">29</a> We would therefore have affirmed the jury's findings if we had had to reach them on the antitrust appeal and we do affirm them on the tortious inducement of Yoder count.</p>
+    </div>
+    <p>B. Defendants' State-Law Counterclaims</p>
+    <div class="num" id="p83">
+      <span class="num">83</span>
+      <p class="indent">Judge Will did not allow the issues raised in the defendants' counterclaims to go to the jury.  Defendants argue that they presented enough evidence to avoid a directed verdict on several of the counterclaim issues and that a new trial is required.  They apparently do not still maintain that Independence hurt Copperweld's debenture offering.</p>
+    </div>
+    <div class="num" id="p84">
+      <span class="num">84</span>
+      <p class="indent">It is by no means clear exactly what issues defendants' appealed counterclaims included.  The defendants say that the counterclaims rested on "two theories: unfair competition and tortious inducement of employee" (Br. 60).  They disclaim any reliance on trade secrets (Br. 61), but argue that "improper means used to gain information is a separate basis of liability, regardless of whether the information constitutes a technical trade secret in the narrow sense of the word," Crocan Corp. v. Sheller-Globe Corp., <span class="citation no-link">385 F.Supp. 251</span>, 254-255 (N.D.Ill.1974).  The information must, they admit, be more than "purely public information" (Br. 62), but "internal business information, such as the financial, planning, design, and technical data involved here, cannot be taken by an employee without his (employer's) knowledge or consent and used in a competitive venture" (id.).</p>
+    </div>
+    <div class="num" id="p85">
+      <span class="num">85</span>
+      <p class="indent">The thrust of defendants' claims seems to be that Grohne competed unfairly with Lear Siegler and (after the sale of Regal) with Copperweld by not telling them of his plans to form Independence (Br. 62-63) and that his hiring of "key" Regal employees was tortious either because it hurt Regal to lose them or because through them Grohne gained access to "internal business information" (Br. 63-64).</p>
+    </div>
+    <div class="num" id="p86">
+      <span class="num">86</span>
+      <p class="indent">The first obstacle to defendants' theory is that it was established, and the defendants do not contest, that Grohne was not bound by the terms of the Lear Siegler-Copperweld contract not to form his own business.  There is nothing sinister in his decision to do so, or in his not telling them of his plans at an early stage.  The district court's exclusion of the testimony of Robert Campion, Lear Siegler's president, was obviously proper insofar as that testimony related to Grohne's "surreptitious conduct (and) his deception" or to Campion's conclusion that Grohne's activity demonstrated "a conflict of interest" (Def. Br. 64-65).</p>
+    </div>
+    <div class="num" id="p87">
+      <span class="num">87</span>
+      <p class="indent">But the defendants also argue that Campion would have testified, if permitted, that Grohne took documents Campion considered confidential before he left Regal.  Here it is hard to see that Mr. Campion's opinion had any relevance; one would expect Copperweld or Regal as counterplaintiffs to have to demonstrate continued confidentiality and harm to themselves, rather than rely on the statements of Regal's former owner's president.  More important, there is no hint of the "improper means" that would extend trade secret protection to this category of information under Crocan Corp., supra,-unless it is Grohne's secrecy, in which case the agreement achieves perfect circularity.<a class="footnote" href="#fn30" id="fn30_ref">30</a></p>
+    </div>
+    <div class="num" id="p88">
+      <span class="num">88</span>
+      <p class="indent">Under the tortious inducement or "employee piracy" (Reply Br. 24) theory, the focus wavers: sometimes defendants seem to be complaining about confidential information the employees brought with them to Independence (e.g., Br. 63) and sometimes they concentrate on the value the employees had to Regal (e.g., Br. 63, 67).  Under its first aspect, the theory suffers from all the defects of the similar argument about Grohne and the Regal Division of Lear Siegler-only more so.  For here it is uncontroverted that Regal as Copperweld's subsidiary made no effort to restrict access to the sort of information allegedly taken-i.e., shop drawings and blueprints of machinery.  (Reply Br. 23; DX 300 et seq.).<a class="footnote" href="#fn31" id="fn31_ref">31</a></p>
+    </div>
+    <div class="num" id="p89">
+      <span class="num">89</span>
+      <p class="indent">Under its second aspect, the theory does not state a claim unless the following elements are made out:</p>
+    </div>
+    <div class="num" id="p90">
+      <span class="num">90</span>
+      <p class="indent">(1) existence of a valid business relationship or expectancy;</p>
+    </div>
+    <div class="num" id="p91">
+      <span class="num">91</span>
+      <p class="indent">(2) knowledge of the relationship or expectancy on part of the interferer;</p>
+    </div>
+    <div class="num" id="p92">
+      <span class="num">92</span>
+      <p class="indent">(3) an intentional and malicious interference inducing or causing a breach or termination of the relationship or expectancy;</p>
+    </div>
+    <div class="num" id="p93">
+      <span class="num">93</span>
+      <p class="indent">(4) resultant damage to the party whose relationship or expectancy has been disrupted.</p>
+    </div>
+    <div class="num" id="p94">
+      <span class="num">94</span>
+      <p class="indent">Ancraft Products Co. v. Universal Oil Products Co., <span class="citation no-link">84 Ill.App.3d 836</span>, 844, <span class="citation no-link">40 Ill.Dec. 70</span>, 76, <span class="citation" data-id="2066052"><a href="/opinion/2066052/ancraft-products-co-v-universal-oil-products-co/">405 N.E.2d 1162</a></span>, 1168 (1st Dist. 1980).  In the absence of an employment contract (as here) malice becomes a key element.  Without malice, "principles of free competition prevent liability to a subsequent employer."  Id. at 844, <span class="citation no-link">40 Ill.Dec. 70</span>, <span class="citation no-link">405 N.E.2d 1162</span>.  Yet malice is exactly what defendants here could not show, except by asserting that it was inferable from the acquisition of Regal's technical drawings.  As was the case with the unfair competition claim, defendants' arguments on this point are circular.  They would not have been rendered more convincing if Judge Will had admitted the proffered testimony of two additional witnesses-one an employee who assumed she was being solicited but could not point to anything specific in her conversation with Grohne, the other a man who worked for Regal as an independent sales agent.  Copperweld and Regal are basically arguing "(t)hat nobody in his business may offer better terms to an employe, himself free to leave."  That, in the words of Learned Hand, "is so extraordinary a doctrine that we do not feel called upon to consider it at large."  Triangle Film Corp. v. Artcraft Pictures Corp., <span class="citation no-link">250 F. 981</span>, 983 (2d Cir. 1918), quoted in TAD, Inc. v. Siebert, <span class="citation no-link">63 Ill.App.3d 1001</span>, 1007, <span class="citation no-link">20 Ill.Dec. 754</span>, 758, <span class="citation" data-id="2090259"><a href="/opinion/2090259/tad-inc-v-siebert/">380 N.E.2d 963</a></span>, 967 (1st Dist. 1978).  See also Perlman, Interference with Contract and Other Economic Expectancies, 49 U.Chi.L.Rev. 61, 111-115 (1982).  Judge Will did not err in taking defendants' counterclaim issues away from the jury.</p>
+    </div>
+    <p>V. The Damage Awards</p>
+    <div class="num" id="p95">
+      <span class="num">95</span>
+      <p class="indent">In the damages phase of this bifurcated proceeding, the jury returned the following damage verdicts:</p>
+    </div>
+    <div class="num" id="p96">
+      <span class="num">96</span>
+      <p>(T)he damages sustained by Independence as a result of the conspiracy between Copperweld and Regal against Independence in violation of the antitrust laws and for inducement of the breach by Yoder of its contract with Independence, but exclusive of any damages relating to the activities in 1975 of Regal with respect to Deere Plow and Planter Works, were $2,499,009.</p>
+    </div>
+    <div class="num" id="p97">
+      <span class="num">97</span>
+      <p>(The damages for the antitrust violation and the inducement of the breach of the Yoder-Independence contract are the same and should not be added together.)<a class="footnote" href="#fn32" id="fn32_ref">32</a></p>
+    </div>
+    <div class="num" id="p98">
+      <span class="num">98</span>
+      <p>(T)he damages sustained by Independence as a result of the improper interference in 1975 by Regal with Independence's business relationship with Deere Plow and Planter Works and the commercial defamation of Independence by Regal to Deere were $15,000.</p>
+    </div>
+    <div class="num" id="p99">
+      <span class="num">99</span>
+      <p>(The damages for the improper interference and the commercial defamation are the same and should not be added together.)</p>
+    </div>
+    <div class="num" id="p100">
+      <span class="num">100</span>
+      <p class="indent">App. 223.  The defendants challenge both the amount of the damages and the propriety of the instruction that equated tortious inducement and antitrust damages.</p>
+    </div>
+    <p>A. The Instruction</p>
+    <div class="num" id="p101">
+      <span class="num">101</span>
+      <p class="indent">In the damages part of this litigation, state law and federal antitrust law again converged (cf. Part IV.A supra ).  As was the case with the two theories of liability, so here with the two types of damages the jury was instructed in a way that, had there been error, might have affected the whole verdict.<a class="footnote" href="#fn33" id="fn33_ref">33</a> Accordingly, although we have affirmed the antitrust liability and will (in Part V.B infra ) affirm the antitrust damages, we must first address defendants' state-law arguments.</p>
+    </div>
+    <div class="num" id="p102">
+      <span class="num">102</span>
+      <p class="indent">The defendants' theory is that when Judge Will told the jurors that damages on Count I (the antitrust claim) and Count IV (the tortious inducement of breach of contract claim) were "the same and should not be added together," and then told them that they could "consider estimates and reasonable approximations to the extent necessary to determine Independence's damages," he effectively obscured the differences between federal antitrust damages and Illinois' more rigorous proof requirements.  The defendants represent that Illinois requires tortious inducement damages to be shown "with a reasonable degree of certainty."  William Zeigler &amp; Son v. Chicago Northwestern Development Co., <span class="citation no-link">71 Ill.App.3d 276</span>, 288, <span class="citation no-link">27 Ill.Dec. 383</span>, 391, <span class="citation" data-id="2168699"><a href="/opinion/2168699/william-zeigler-son-v-chicago-northwestern-dev-co/">389 N.E.2d 195</a></span>, 203 (2d Dist. 1979) (quoting Rivenbark v. Finis P. Ernest, Inc., <span class="citation no-link">37 Ill.App.3d 536</span>, 538-539, <span class="citation" data-id="2241534"><a href="/opinion/2241534/rivenbark-v-finis-p-ernest-inc/">346 N.E.2d 494</a></span>, 496 (5th Dist. 1976)).  Then they suggest that Illinois courts will not entertain claims for lost business profits unless the business has a record of performance established before, rather than after, the tortious interruption.  Taken to its logical (but absurd) conclusion, this argument suggests that whenever tortious interference keeps a business from getting started, even if the business subsequently prospers the harm is uncompensable.  If that were an accurate statement of Illinois law, it would indeed make antitrust and tort damages subject to different standards.  A business excluded from the market by other businesses' antitrust violations can ordinarily recover lost profits for the period of exclusion.  Midland Telecasting Co. v. Midessa Television Co., <span class="citation" data-id="375933"><a href="/opinion/375933/midland-telecasting-company-v-midessa-television-company-inc/">617 F.2d 1141</a></span>, 1144 n.6 (5th Cir. 1980), certiorari denied, <span class="citation no-link">449 U.S. 954</span>, <span class="citation no-link">101 S.Ct. 361</span>, <span class="citation no-link">66 L.Ed.2d 219</span>; Cherokee Laboratories, Inc. v. Rotary Drilling Services, Inc., <span class="citation" data-id="277228"><a href="/opinion/277228/cherokee-laboratories-inc-v-rotary-drilling-services-inc/">383 F.2d 97</a></span>, 106 (5th Cir. 1967), certiorari denied, <span class="citation no-link">390 U.S. 904</span>, <span class="citation no-link">88 S.Ct. 816</span>, <span class="citation no-link">19 L.Ed.2d 870</span>.</p>
+    </div>
+    <div class="num" id="p103">
+      <span class="num">103</span>
+      <p class="indent">The truth of the matter is that defendants' statement of Illinois law is in error.  Illinois courts do not require the impossible in a case where damages are sought for lost profits.  See, e.g., Hemken v. First National Bank of Litchfield, <span class="citation no-link">76 Ill.App.3d 23</span>, 27, <span class="citation no-link">31 Ill.Dec. 666</span>, 670, <span class="citation" data-id="2045979"><a href="/opinion/2045979/hemken-v-first-natl-bk-of-litchfield/">394 N.E.2d 868</a></span>, 872 (4th Dist. 1979) (emphasis added):</p>
+    </div>
+    <div class="num" id="p104">
+      <span class="num">104</span>
+      <p>Where lost profits are sought to be recovered as damages, the recovery is to be based upon the net profit.  Net profits are determined by computing the difference between the gross profits and the expenses that would be incurred in acquiring such profits.  While these damages may not be speculative, they need not be proved to a mathematical certainty.  The plaintiff is only required to show a reasonable basis for their computation.</p>
+    </div>
+    <div class="num" id="p105">
+      <span class="num">105</span>
+      <p class="indent">The case the Hemken court cited as authority was Eastman Kodak Co. v. Southern Photo Materials Co., <span class="citation" data-id="101022"><a href="/opinion/101022/eastman-co-v-southern-photo-co/">273 U.S. 359</a></span>, <span class="citation" data-id="101022"><a href="/opinion/101022/eastman-co-v-southern-photo-co/">47 S.Ct. 400</a></span>, <span class="citation no-link">71 L.Ed. 684</span>, a federal antitrust case which allowed great latitude to the plaintiff in proving the amount of damages.</p>
+    </div>
+    <div class="num" id="p106">
+      <span class="num">106</span>
+      <p class="indent">Defendants' theory that a prior profit history is essential has also been rejected by the Illinois Supreme Court in Schatz v. Abbott Laboratories, Inc., <span class="citation" data-id="2157632"><a href="/opinion/2157632/schatz-v-abbott-laboratories-inc/">51 Ill.2d 143</a></span>, 147-148, <span class="citation" data-id="2157632"><a href="/opinion/2157632/schatz-v-abbott-laboratories-inc/">281 N.E.2d 323</a></span>, 325-326 (1972):</p>
+    </div>
+    <div class="num" id="p107">
+      <span class="num">107</span>
+      <p>We do not interpret (a 1917 Illinois Supreme Court case) to hold that evidence of prior profits is the sine qua non of proof of damages suffered by a business enterprise.  The significant holding found in the opinion is stated at (Barnett v. Caldwell Furniture, Co., <span class="citation no-link">277 Ill. 286</span>, 289, <span class="citation no-link">115 N.E. 389</span>), as follows: "It is perhaps true that absolute certainty as to the amount of loss or damage in such cases is unattainable, but that is not required to justify a recovery.  All the law requires is that it be approximated by competent proof.  That proof of the exact amount of loss is impossible will not justify refusing compensation. * * *  All the law requires in cases of this character is that the evidence shall with a fair degree of probability tend to establish a basis for the assessment of damages."</p>
+    </div>
+    <div class="num" id="p108">
+      <span class="num">108</span>
+      <p class="indent">The Illinois cases on which defendants rely are either distinguishable from or earlier than Schatz.<a class="footnote" href="#fn34" id="fn34_ref">34</a> There are also cases later than the Maryland and New York ones defendants cite, in which their purported rule has been rejected.<a class="footnote" href="#fn35" id="fn35_ref">35</a></p>
+    </div>
+    <div class="num" id="p109">
+      <span class="num">109</span>
+      <p class="indent">Likewise, in applying Illinois tort law in federal cases, our own Court has stated that "only a reasonable basis of computation is required for the submission of the question of damages to the jury" (Hannigan v. Sears, Roebuck &amp; Co., <span class="citation" data-id="284619"><a href="/opinion/284619/thomas-m-hannigan-and-tru-han-corporation-v-sears-roebuck-and-co/">410 F.2d 285</a></span>, 293 (7th Cir. 1969), certiorari denied, <span class="citation no-link">396 U.S. 902</span>, <span class="citation no-link">90 S.Ct. 214</span>, <span class="citation no-link">24 L.Ed.2d 17</span>), and that "determinations (of tort damages) did not have to be based on mathematical certainties" (Bailey v. Meister Brau, Inc., <span class="citation" data-id="335471"><a href="/opinion/335471/fed-sec-l-rep-p-95543-thomas-b-bailey-v-meister-brau-inc-and/">535 F.2d 982</a></span>, 991 (7th Cir. 1976)).</p>
+    </div>
+    <div class="num" id="p110">
+      <span class="num">110</span>
+      <p class="indent">Thus Judge Will's instruction, allowing the jury to consider reasonable approximations and estimates, is consistent with Illinois tort law. Furthermore, defendants' selective quotations from the instructions fail to reveal that Judge Will also told the jury-in the same breath-that there must be a "sufficient basis in the evidence from which your estimates may be inferred" and that it could not award damages "based on pure speculation, guess work, or conjecture."  Damages had to be "reasonably established by the plaintiffs by a preponderance of the evidence."  (Indep. Br. 87).</p>
+    </div>
+    <div class="num" id="p111">
+      <span class="num">111</span>
+      <p class="indent">Viewing the instructions as a whole, we conclude that the district court did not err in equating federal antitrust damages with damages for tortious inducement under Illinois law.</p>
+    </div>
+    <p>B. The Sufficiency of the Damage Evidence</p>
+    <div class="num" id="p112">
+      <span class="num">112</span>
+      <p class="indent">Defendants urge that the jury awards of $2,499,009 on the antitrust and tortious inducement of Yoder's breach of contract counts are not supported by the evidence.  They make a similar-but more cursory-argument about the $15,000 awarded on Counts IV and V (Regal's interference with the Independence-Deere relationship and Regal's commercial defamation.)<a class="footnote" href="#fn36" id="fn36_ref">36</a> We find the proof adequate to support both awards.</p>
+    </div>
+    <div class="num" id="p113">
+      <span class="num">113</span>
+      <p class="indent">We note at the outset that there is a limit to the exactness the defendants can demand.  Not only are reasonable projections and estimates generally acceptable, as indicated above, but a defendant whose actions contribute to the difficulties of accurate measurement is in a poor position to demand precision.  Instead the fact-finder may act on probability and inference.  See Trabert &amp; Hoeffer, Inc. v. Piaget Watch Corp., <span class="citation" data-id="383565"><a href="/opinion/383565/trabert-hoeffer-inc-an-illinois-corporation-v-piaget-watch/">633 F.2d 477</a></span>, 484 (7th Cir. 1980) and Locklin v. Day-Glo Color Corp., <span class="citation" data-id="291382"><a href="/opinion/291382/harry-p-locklin-and-elmer-j-brandt-dba-radiant-color-company/">429 F.2d 873</a></span>, 880 (7th Cir. 1970), certiorari denied, <span class="citation no-link">400 U.S. 1020</span>, <span class="citation no-link">91 S.Ct. 582</span>, <span class="citation no-link">27 L.Ed.2d 632</span>, both cases in which we followed the Supreme Court's lead.<a class="footnote" href="#fn37" id="fn37_ref">37</a> As already mentioned, Judge Will was more cautious in instructing the jury, however (Indep. Br. 87).</p>
+    </div>
+    <div class="num" id="p114">
+      <span class="num">114</span>
+      <p class="indent">Defendants' attack on the expertise of Independence's chief damages witness is misguided.  At the time he testified Albert Madansky was a professor at the University of Chicago Business School, specializing in econometrics, statistics and marketing.  His curriculum vitae fills four pages of the record (App. 704-707) and documents his extensive academic and business experience and his familiarity with the use of statistical methods to analyze business problems.  Indeed he has appeared as an expert witness in other Sherman Act cases.  Defendants' only definite objection to Dr. Madansky is that he is not an economist, but his methodology and its critical assumptions were supported by just the sort of expert defendants desiderate: Dennis Carlton, a professor on the economics faculty at the University of Chicago.</p>
+    </div>
+    <div class="num" id="p115">
+      <span class="num">115</span>
+      <p class="indent">Dr. Madansky used a "pull-back" analysis.  First he examined actual demand, price, and cost of manufacture in the steel tubing market in the damages period.  Then he worked out Independence's actual growth and market share in the first two years of its operation and compared it to the industry situation in the damage period to establish what Independence's performance would have been had its entry into the market not been delayed.  This methodology has been endorsed by the Supreme Court (note 37 supra ) and by us in Trabert &amp; Hoeffer, Inc., and Locklin, <span class="citation" data-id="291382"><a href="/opinion/291382/harry-p-locklin-and-elmer-j-brandt-dba-radiant-color-company/">supra.</a></span>  The Fifth Circuit in Copper Liquor, Inc. v. Adolph Coors Co., <span class="citation" data-id="379509"><a href="/opinion/379509/copper-liquor-inc-robert-earl-basham-jr-h-a-anthony-and-anthony-and/">624 F.2d 575</a></span>, 580-581 (1980) concurs.  Even defendants acknowledge the general acceptance of the theory (Br. 69).</p>
+    </div>
+    <div class="num" id="p116">
+      <span class="num">116</span>
+      <p class="indent">The defendants' main argument is that there were drastically different market conditions in the steel tubing market in the base period and the projection period.  The only such difference they identify, however, is a shortage of steel in 1974.  That was addressed in the evidence: Regal's purchasing agent testified that it was able to obtain 70% of its steel needs in 1974; the vice president of Welded Tube Company said his company got 80% of its requirements; and Bureau of Census information and defendants' own expert estimated that the industry as a whole operated at 85-89% of capacity (Indep. Br. 82).  Furthermore, allocations during the shortage were based on prior purchases.  Independence showed that it had had an offer for 2,000-3,000 tons per month from the fall of 1973 through the end of 1974-which the loss of the Yoder mill forced it to forego (id.).  It also showed that U.S. Steel, which handled Independence's account once it began production, had an abundance of steel in 1973 (id. at 83).  There is nothing in this evidence that is inconsistent with Dr. Madansky's assumption that Independence could have obtained 50,000 tons of steel in 1974 (Def. Br. 71).</p>
+    </div>
+    <div class="num" id="p117">
+      <span class="num">117</span>
+      <p class="indent">Defendants also argue that Independence's calculations improperly assumed Independence could charge "premium prices" during 1974.  On the contrary the price data used were Independence's actual prices for the last two quarters of 1974 and figures based on government and private sources for earlier quarters, with appropriate seasonal adjustments in both cases.  Both the extrapolated and the actual prices were significantly below prevailing industry prices.  (Indep. Br. 83).</p>
+    </div>
+    <div class="num" id="p118">
+      <span class="num">118</span>
+      <p class="indent">The defendants object to the assumption that Independence could have produced 264 tons of steel tubing in December 1973 and that it could have operated at 70% of capacity within five months of starting production.  There was evidence to support both propositions.  Yoder's delivery of the mill could not be later than December 1973 without exposing Yoder to a $250,000 penalty.  In fact just before Yoder's final cancellation, the mill was two to three months ahead of schedule.  (Indep. Br. 80).  The tonnage figure was based on Independence's actual experience in the first month (September 1974) it installed and used the Abbey Etna mill. The five-month figure was a conservative estimate: Independence's actual start-up time with the Abbey Etna mill was only three months.  Both assumptions are therefore supported by Independence's records and Grohne's testimony.<a class="footnote" href="#fn38" id="fn38_ref">38</a> The 70% figure is also borne out by Independence's performance and by the evidence about the capacity of industry in general and Independence's competitors in particular (pp. 330-331 supra ).</p>
+    </div>
+    <div class="num" id="p119">
+      <span class="num">119</span>
+      <p class="indent">Defendants' final sally is that the overall evidence in this case was as inadequate as the evidence in Pacific Mailing Equipment Corp. v. Pitney Bowes, Inc., <span class="citation no-link">499 F.Supp. 108</span> (N.D.Cal.1980).  The situations are not at all parallel.  There the plaintiff sought to present lost profits evidence based on "pro forma profit and loss statements, entirely unannotated and totally failing to reflect their source or the underlying computations" (499 F.Supp. at 118), and on wholly hypothetical assumptions that (1) in an unrestrained market 50% of the mailing machines sold would be used machines, (2) plaintiff would have a 25% share of the used-machine market, (3) Pitney Bowes would not try to sell used machines, (4) Pitney Bowes' overall market share would decline from 90% to 50%, and (5) all this change would be accomplished without affecting price.  Id. at 119, 120 n.3.  Independence's damage case, including the testimony of Grohne, was wholly different.  It involved exactly the "supporting studies, analyses, comparisons, (and) other factual, objective, observed or verifiable data" that the Pacific Mailing court lacked but would have found sufficient, id. at 119.</p>
+    </div>
+    <div class="num" id="p120">
+      <span class="num">120</span>
+      <p class="indent">There is one last, but important, point overlooked by defendants.  Independence's damage evidence was offered in support of lost profits totalling $8,298,245.  The jury awarded less than a third of that amount ($2,499,099).  That suggests that the defendants have already had the benefit of whichever of their contentions the jury found convincing.  The defendants have not differentiated between the sufficiency of the evidence to support the damages as sought and its sufficiency to support the damages as found.  We think the conservatism of the jury's verdict and the quantity and quality of the proof would make any such attempted distinction fruitless.</p>
+    </div>
+    <div class="num" id="p121">
+      <span class="num">121</span>
+      <p class="indent">The judgments appealed from are affirmed in their entirety.  Costs to appellees.</p>
+    </div>
+    <p>APPENDIX</p>
+    <p class="indent">Judge Will's charge (App. 156-158):</p>
+    <div class="num" id="p122">
+      <span class="num">122</span>
+      <p class="indent">So, in order to find that a combination or conspiracy to violate the antitrust laws existed between Copperweld and Regal, you must find that the two companies, in fact, operated as separate entities.  In making this decision, you should consider the following matters:</p>
+    </div>
+    <div class="num" id="p123">
+      <span class="num">123</span>
+      <p class="indent">1.  The history of the two companies, that is, whether they functioned as separate companies before they became affiliated;</p>
+    </div>
+    <div class="num" id="p124">
+      <span class="num">124</span>
+      <p class="indent">2.  Whether the two companies are run by separate management staffs;</p>
+    </div>
+    <div class="num" id="p125">
+      <span class="num">125</span>
+      <p class="indent">3.  Whether the two companies maintained separate corporate offices;</p>
+    </div>
+    <div class="num" id="p126">
+      <span class="num">126</span>
+      <p class="indent">4.  Whether the parent corporation pays the salaries, expenses, or losses of the subsidiary;</p>
+    </div>
+    <div class="num" id="p127">
+      <span class="num">127</span>
+      <p class="indent">5.  The degree to which the subsidiary sets its own policies regarding sales, engineering, production, purchasing, negotiation of labor agreements, and other aspects of his business.  In this connection you should consider both the day-to-day operating decisions and the major or executive policy decisions;</p>
+    </div>
+    <div class="num" id="p128">
+      <span class="num">128</span>
+      <p class="indent">6.  Whether the subsidiary generates substantial business accounts independent of the parent, or whether the bulk of the sales of the subsidiary were made to other Copperweld corporations or subsidiaries;</p>
+    </div>
+    <div class="num" id="p129">
+      <span class="num">129</span>
+      <p class="indent">7.  Whether the two companies maintained separate bank accounts, separate records, and separate facilities, including such things as pension plans;</p>
+    </div>
+    <div class="num" id="p130">
+      <span class="num">130</span>
+      <p class="indent">8.  Whether both companies were separate participants in the alleged unlawful activity complained of by Independence;</p>
+    </div>
+    <div class="num" id="p131">
+      <span class="num">131</span>
+      <p class="indent">9.  Whether both companies have common officers or directors.  The existence of some common officers or directors does not alone render the two companies incapable of conspiracy.</p>
+    </div>
+    <div class="num" id="p132">
+      <span class="num">132</span>
+      <p class="indent">You must consider all of the facts, and that includes the nine that I have given you here, and any other facts that you find that are relevant to a determination of whether or not Copperweld and Regal are separate and distinct companies capable of conspiring with each other.</p>
+    </div>
+    <div class="num" id="p133">
+      <span class="num">133</span>
+      <p class="indent">Photovest 's analysis, <span class="citation" data-id="370336"><a href="/opinion/370336/photovest-corporation-an-indiana-corporation-and-cross-appellant-v/">606 F.2d at </a></span>726-727:</p>
+    </div>
+    <div class="num" id="p134">
+      <span class="num">134</span>
+      <p class="indent">The evidence in the present case shows that Labs was separately incorporated to minimize potential for labor relations friction which might arise from the disparity in benefits between employees of photo processing labs and existing Fotomat personnel.  The executive management of Fotomat overlapped that of Labs.  Moreover, Labs did not maintain separate corporate offices.  Profit-related compensation for Labs personnel was calculated solely in terms of the profitability of Fotomat rather than in terms of an appraisal of Labs' independent net income.  For all external purposes, financial statements and tax return data were consolidated.  In publicly circulated financial statements, all subsidiaries of Fotomat were lumped together with the parent and referred to simply as "the Company."  Historically, Labs was formed to integrate photo processing services into Fotomat owned processing facilities and never existed for the independent purpose of establishing a processing business to service non-Fotomat customers.  It acted merely as the processing arm of the enterprise.</p>
+    </div>
+    <div class="num" id="p135">
+      <span class="num">135</span>
+      <p class="indent">In response to this substantial evidence that Fotomat and Labs were not separate entities for antitrust purposes, Photovest offers only two statements, one by Fotomat's in-house counsel in which he said that Labs has independent personnel, laboratories, machinery, equipment, and costs and that it bills Fotomat just as independent processors do, and another by Fotomat's president in which he said that Labs "was a separate business and we elected to treat it as such."  The fact that Labs billed Fotomat for processing and had separate costs, machinery, equipment, etc., is not very significant other than as evidence that separate accounting made for internal accounting clarity.  And the isolated statement by Fotomat's president cannot be given great weight.</p>
+    </div>
+    <div class="footnotes">
+      <div class="footnote" id="fn-s">
+        <a class="footnote" href="#fn-s_ref">*</a>
+        <p> Judge Nichols was an Associate Judge of the United States Court of Claims when this case was argued.  He was sitting by designation.  On October 1, 1982, he became a member of the newly created United States Court of Appeals for the Federal Circuit, with the title of Circuit Judge, by various provisions of Pub.L.No. 97-164</p>
+      </div>
+      <div class="footnote" id="fn1">
+        <a class="footnote" href="#fn1_ref">1</a>
+        <p> After the oral argument in this case, Judge Will entered judgment on plaintiff's attorney fee and cost claims under <span class="citation no-link">15 U.S.C. &#167; 15</span>.  An appeal from that decision has now been docketed in this Court (No. 82-2183).  Although it is our general practice to consolidate merits and fee appeals, we see no purpose in delaying the resolution of the merits case here.  The fee appeal will be assigned to a randomly selected panel of this Court according to our usual procedures</p>
+      </div>
+      <div class="footnote" id="fn2">
+        <a class="footnote" href="#fn2_ref">2</a>
+        <p> Although the terminology is used variously, we adopt "intra-enterprise conspiracy" for the parent-subsidiary model and reserve "intracorporate conspiracy" for the situation where a division is alleged to have conspired with its own corporation</p>
+      </div>
+      <div class="footnote" id="fn3">
+        <a class="footnote" href="#fn3_ref">3</a>
+        <p> See, e.g., Handler and Smart, The Present Status of the Intracorporate Conspiracy Doctrine, 3 Cardozo L.Rev. 23 (1981), especially the bibliography at 23, n.3; and Note, "Conspiring Entities" Under Section 1 of the Sherman Act, 95 Harv.L.Rev. 661 (1982).  Handler and Smart remark that "(i)t is a doctrine with numerous critics and few friends," op. cit. at 23</p>
+      </div>
+      <div class="footnote" id="fn4">
+        <a class="footnote" href="#fn4_ref">4</a>
+        <p> See, e.g., Note, Intra-Enterprise Conspiracy Under Section 1 of the Sherman Act: A Suggested Standard, 75 Mich.L.Rev. 717, 718-727 (1977)</p>
+      </div>
+      <div class="footnote" id="fn5">
+        <a class="footnote" href="#fn5_ref">5</a>
+        <p> Id. at 729.  Note, however, that the Report of the Attorney General's National Committee to Study the Antitrust Laws 34-35 (1955) would differentiate between parent-subsidiary pricing or distribution decisions (no liability) and agreements that have a "coercive (effect on) the trade of strangers to the corporate family" (liability).  This case falls in the latter category.  See also Section of Antitrust Law of the American Bar Ass'n, Antitrust Developments 1955-1968, at 19-22 (1968)</p>
+      </div>
+      <div class="footnote" id="fn6">
+        <a class="footnote" href="#fn6_ref">6</a>
+        <p> Handler and Smart, op. cit.  (note 3 supra ) at 25</p>
+      </div>
+      <div class="footnote" id="fn7">
+        <a class="footnote" href="#fn7_ref">7</a>
+        <p> Economies of scale are the main reason for integration, whether it is full or partial.  The choice between partial integration (the parent and its wholly-owned subsidiary) and full integration (the corporation and its divisions) may be dictated by a desire to (1) save taxes (not a "real" efficiency), (2) maintain the good will associated with the subsidiary, (3) have some decentralization of production, distribution or management, (4) enhance a particular part of the enterprise in capital markets, or (5) minimize the effect of protective legislation against foreign corporations.  See 75 Mich.L.Rev. at 728 &amp; n. 71</p>
+      </div>
+      <div class="footnote" id="fn8">
+        <a class="footnote" href="#fn8_ref">8</a>
+        <p> E.g., United States v. Yellow Cab Co., <span class="citation" data-id="104463"><a href="/opinion/104463/united-states-v-yellow-cab-co/">332 U.S. 218</a></span>, 227, <span class="citation" data-id="104463"><a href="/opinion/104463/united-states-v-yellow-cab-co/">67 S.Ct. 1560</a></span>, 1565, <span class="citation no-link">91 L.Ed. 2010</span>: "(T)he common ownership and control of the various corporate appellees are impotent to liberate the alleged combination and conspiracy from the impact of the (Sherman) Act."  Kiefer-Stewart Co. v. Joseph E. Seagram &amp; Sons, Inc., <span class="citation" data-id="104839"><a href="/opinion/104839/kiefer-stewart-co-v-joseph-e-seagram-sons-inc/">340 U.S. 211</a></span>, 215, <span class="citation" data-id="104839"><a href="/opinion/104839/kiefer-stewart-co-v-joseph-e-seagram-sons-inc/">71 S.Ct. 259</a></span>, 261, <span class="citation no-link">95 L.Ed. 219</span>: "(The) suggestion (that their status as a single business unit makes them incapable of conspiring) runs counter to our past decisions that common control and ownership does not liberate corporations from the impact of the antitrust laws."  Timken Roller Bearing Co. v. United States, <span class="citation" data-id="104915"><a href="/opinion/104915/timken-roller-bearing-co-v-united-states/">341 U.S. 593</a></span>, 598, <span class="citation" data-id="104915"><a href="/opinion/104915/timken-roller-bearing-co-v-united-states/">71 S.Ct. 971</a></span>, 974, <span class="citation no-link">95 L.Ed. 1199</span>: "The fact that there is common ownership or control of the contracting corporations does not liberate them from the impact of the antitrust laws."  Perma Life Mufflers, Inc. v. International Parts Corp., <span class="citation" data-id="107732"><a href="/opinion/107732/perma-mufflers-v-intl-parts-corp/">392 U.S. 134</a></span>, 141-142, <span class="citation" data-id="107732"><a href="/opinion/107732/perma-mufflers-v-intl-parts-corp/">88 S.Ct. 1981</a></span>, 1985-1986, <span class="citation" data-id="107732"><a href="/opinion/107732/perma-mufflers-v-intl-parts-corp/">20 L.Ed.2d 982</a></span>: "(S) ince respondents Midas and International availed themselves of the privilege of doing business through separate corporations, the fact of common ownership could not save them from any of the obligations that the law imposes on separate entities."</p>
+      </div>
+      <div class="footnote" id="fn9">
+        <a class="footnote" href="#fn9_ref">9</a>
+        <p> See the survey in Handler and Smart, op. cit.  (note 3 supra ) at 40-61.  The author of 95 Harv.L.Rev. 661 (note 3 supra ) concedes (at 676) that "Supreme Court precedent precludes the lower courts from considering * * * if concerted action by related corporations should ever be considered a conspiracy under section 1" (emphasis added)</p>
+      </div>
+      <div class="footnote" id="fn10">
+        <a class="footnote" href="#fn10_ref">10</a>
+        <p> See, e.g., Ogilvie v. Fotomat Corp., <span class="citation" data-id="387272"><a href="/opinion/387272/donald-m-ogilvie-v-fotomat-corporation-griesedieck-enterprises-no-1/">641 F.2d 581</a></span> (8th Cir. 1981); Knutson v. Daily Review, Inc., <span class="citation no-link">548 F.2d 795</span> (9th Cir. 1976), certiorari denied, <span class="citation no-link">433 U.S. 910</span>, <span class="citation no-link">97 S.Ct. 2977</span>, <span class="citation no-link">53 L.Ed.2d 1094</span></p>
+      </div>
+      <div class="footnote" id="fn11">
+        <a class="footnote" href="#fn11_ref">11</a>
+        <p> Independence contends that Copperweld's and Regal's trial attorneys (who are not representing them in the appeal) acquiesced in all the instructions to which objection is now made (Br. 33-37).  The effect of such acquiescence under Rule 51 of the Federal Rules of Civil Procedure would be to remove from our consideration any error in the jury charge that was not "plain error (resulting) in a miscarriage of justice." 5A Moore's Federal Practice P 51.04, esp. 51-15 (1982)</p>
+      </div>
+      <div class="footnote" id="fn12">
+        <a class="footnote" href="#fn12_ref">12</a>
+        <p> Judge Will's post-trial order (App. 228-293, esp. 240-243) dealt extensively with the claimed instructional defects-an indication that the defendants' objections were sufficient.  This same issue recurs elsewhere in this appeal, and we have generally resolved ambiguities in defendants' favor.  See Newport v. Fact Concerts, Inc., <span class="citation" data-id="110553"><a href="/opinion/110553/newport-v-fact-concerts-inc/">453 U.S. 247</a></span>, 255-256, <span class="citation" data-id="110553"><a href="/opinion/110553/newport-v-fact-concerts-inc/">101 S.Ct. 2748</a></span>, 2753-2754, <span class="citation" data-id="110553"><a href="/opinion/110553/newport-v-fact-concerts-inc/">69 L.Ed.2d 616</a></span></p>
+      </div>
+      <div class="footnote" id="fn13">
+        <a class="footnote" href="#fn13_ref">13</a>
+        <p> For example, the reference to "separate bank accounts" and "separate records" (# 7) though "(o)stensibly neutral, * * * is actually heavily weighted against defendants" (Br.34).  "Item 8 (whether both companies were separate participants in the alleged unlawful activity) * * * invited the jury to find capacity on the ground that employees of both Copperweld and Regal were allegedly active" (id.).  The reference to "day-to-day operations" (actually the instruction mentioned both day-to-day and policy decisions) is "rightly disregarded (in Photovest ) as an irrelevant factor (id.).  Finally, the invitation to consider "any other facts" relevant to capacity is considered authorization for "the jury to substitute its own notions about capacity for the standards set by this Court." (Id. at 35)</p>
+      </div>
+      <div class="footnote" id="fn14">
+        <a class="footnote" href="#fn14_ref">14</a>
+        <p> This is the standard for directing a verdict (i.e., removing a case from the jury) and for entering judgment notwithstanding the verdict (i.e., overriding the jury's decision), Fact Concerts, supra, 626 F.2d at 1064, vacated Newport v. Fact Concerts, Inc., <span class="citation" data-id="110553"><a href="/opinion/110553/newport-v-fact-concerts-inc/">453 U.S. 247</a></span>, <span class="citation" data-id="110553"><a href="/opinion/110553/newport-v-fact-concerts-inc/">101 S.Ct. 2748</a></span>, <span class="citation" data-id="110553"><a href="/opinion/110553/newport-v-fact-concerts-inc/">69 L.Ed.2d 616</a></span>; 5A Moore's Federal Practice P 50.07(2) at 50-76 to 50-83 (1982).  It is also the standard for appellate review, 5A Moore's Federal Practice P 50.07(2) at 50-83; cf. Gray v. General Motors Corp., <span class="citation" data-id="293156"><a href="/opinion/293156/bradley-r-gray-and-anastasia-b-gray-v-general-motors-corporation/">434 F.2d 110</a></span> (8th Cir. 1970)</p>
+        <p>The standard for granting a new trial is broader (a partial catalog of permissible reasons appears in 6A Moore's Federal Practice P 59.08(1) (1982)) because any retrial is also to a jury and because such judicial control over jury verdict had existed at common law, <span class="citation" data-id="293156"><a href="/opinion/293156/bradley-r-gray-and-anastasia-b-gray-v-general-motors-corporation/">id.,</a></span> P 59.04(2).  But appellate review is limited to abuse of discretion.  Here the district court's denial of the new trial motion is before us because it is merged with the final judgment, but we find no abuse of discretion.</p>
+      </div>
+      <div class="footnote" id="fn15">
+        <a class="footnote" href="#fn15_ref">15</a>
+        <p> The situation is thus not similar to, and there was no error in Judge Will's different treatment of, Yoder's breach of the tubing mill contract (Def. Br. 43, n. 15).  Judge Will refused to admit defendants' evidence about Yoder's state of mind in May 1973 on the issue of what Yoder did, or why, in February of that year.  The only questions relevant to Yoder's breach of contract (a more discrete event than a conspiracy) were those contemplated in the Uniform Commercial Code: (1) whether a contract had been formed, an issue Judge Will resolved as a matter of law; (2) whether Yoder became insecure after receiving the Copperweld letter, sought assurances from Independence, and did not receive them (UCC 2-609); and (3) whether Grohne failed in his duty to disclose to Yoder the existence of basic facts (UCC 1-203, 2-302).  The defendants proffered evidence was not relevant to any of the dispositive questions</p>
+      </div>
+      <div class="footnote" id="fn16">
+        <a class="footnote" href="#fn16_ref">16</a>
+        <p> Independence's suit is a far cry from the curious allegations in Brunswick.  There the antitrust plaintiffs argued that Brunswick, by taking over the operation of financially shaky bowling alleys rather than allowing them to fold, had deprived plaintiffs of the profits they could have earned if the bowling-alley market had been less competitive</p>
+      </div>
+      <div class="footnote" id="fn17">
+        <a class="footnote" href="#fn17_ref">17</a>
+        <p> Here the exclusion was total, but for a limited time</p>
+      </div>
+      <div class="footnote" id="fn18">
+        <a class="footnote" href="#fn18_ref">18</a>
+        <p> Here the necessary facility or resource was the steel tubing mill, which the defendants persuaded Yoder not to supply.  See the discussion of damages, Part V infra</p>
+      </div>
+      <div class="footnote" id="fn19">
+        <a class="footnote" href="#fn19_ref">19</a>
+        <p> There is some sentiment in the scholarly commentary that all antitrust violations involving a parent and a subsidiary as conspirators should be subject to Rule of Reason analysis, even where the conduct at issue (e.g., price-fixing, certain boycotts, certain tying arrangements) would otherwise be classified per se violation.  See, e.g., Comment, Corporate Liability for Intra-Corporate Conspiracy in Restraint of Trade, 1968 U.Ill.L.F. 248, 253.  That approach is certainly salutary where the capacity to conspire is presumed on the strength of formally separate corporate identities.  We have not yet had sufficient experience with Photovest's more pragmatic approach to the capacity problem to know whether the Rule of Reason is also needed here as a prophylactic against unduly expansive antitrust liability.  This case was not decided on a per se basis</p>
+      </div>
+      <div class="footnote" id="fn20">
+        <a class="footnote" href="#fn20_ref">20</a>
+        <p> Contrary to the impression in Defendants' Brief (46-47) Judge Will's "impatient" remarks quoted there did not "forbid" closing argument and instructions on market share.  The issue was the admissibility of a summary exhibit (prepared by the defendants' trial counsel), and Judge Will was speaking out of the jury's presence (Indep. Br. 51-52).  Defendants did present evidence about market share, so that the summary exhibit would have been, at best, cumulative (App. 258-259)</p>
+      </div>
+      <div class="footnote" id="fn21">
+        <a class="footnote" href="#fn21_ref">21</a>
+        <p> The cases on which the defendants rely are of this type: Havoco, supra (actual competitor allegedly harmed); Kaplan v. Burroughs Corp., <span class="citation no-link">611 F.2d 286</span> (9th Cir. 1979), certiorari denied, <span class="citation no-link">447 U.S. 924</span>, <span class="citation no-link">100 S.Ct. 3016</span>, <span class="citation no-link">65 L.Ed.2d 1116</span> (actual competitor allegedly driven out of business); Northwest Power Products, Inc. v. Omark Industries, <span class="citation" data-id="355867"><a href="/opinion/355867/northwest-power-products-inc-v-omark-industries-inc-bob-wooten-and/">576 F.2d 83</a></span> (5th Cir. 1978), certiorari denied, <span class="citation no-link">439 U.S. 1116</span>, <span class="citation no-link">99 S.Ct. 1021</span>, <span class="citation no-link">59 L.Ed.2d 75</span> (terminated distributor claiming per se violation of antitrust laws).  In these circumstances before-and-after market share figures will give some indication whether the antitrust plaintiff is simply an inefficient firm whose place has been taken by a more efficient one or whether the relevant market is becoming less competitive</p>
+      </div>
+      <div class="footnote" id="fn22">
+        <a class="footnote" href="#fn22_ref">22</a>
+        <p> There was accordingly no error, even if defendants preserved their objections to the instructions (cf. Independence Br. 52 and App. 258-261 with notes 11 and 12 supra ) and were deterred by Judge Will's remarks from arguing their theory in closing, since their theory was wrong in these circumstances</p>
+      </div>
+      <div class="footnote" id="fn23">
+        <a class="footnote" href="#fn23_ref">23</a>
+        <p> Their claim that the instruction on the identity of damages under that count and the antitrust count prejudiced them is discussed in Part V infra.  Defendants apparently do not contest bringing together Regal's liability for statements made to Deere and improper interference with Independence's and Deere's relationship</p>
+      </div>
+      <div class="footnote" id="fn24">
+        <a class="footnote" href="#fn24_ref">24</a>
+        <p> The doctrine takes its name from two Supreme Court cases: Eastern Railroad Presidents Conference v. Noerr Motor Freight, <span class="citation" data-id="106167"><a href="/opinion/106167/eastern-r-conf-v-noerr-motors/">365 U.S. 127</a></span>, <span class="citation" data-id="106167"><a href="/opinion/106167/eastern-r-conf-v-noerr-motors/">81 S.Ct. 523</a></span>, <span class="citation" data-id="106167"><a href="/opinion/106167/eastern-r-conf-v-noerr-motors/">5 L.Ed.2d 464</a></span>, and United Mine Workers of America v. Pennington, <span class="citation" data-id="107086"><a href="/opinion/107086/mine-workers-v-pennington/">381 U.S. 657</a></span>, <span class="citation" data-id="107086"><a href="/opinion/107086/mine-workers-v-pennington/">85 S.Ct. 1585</a></span>, <span class="citation" data-id="107086"><a href="/opinion/107086/mine-workers-v-pennington/">14 L.Ed.2d 626</a></span>.  It shields concerted efforts to influence public officials (including those in courts and administrative agencies) from antitrust liability.  It does not shield all concerted activity that is allegedly taken with an eye toward litigation.  See Judge Will's discussion, App. 237-240</p>
+      </div>
+      <div class="footnote" id="fn25">
+        <a class="footnote" href="#fn25_ref">25</a>
+        <p> "The privilege (is) to take steps to safeguard one's own legal interests, even though they may interfere with another's contractual rights" (Def. Br. 51)</p>
+      </div>
+      <div class="footnote" id="fn26">
+        <a class="footnote" href="#fn26_ref">26</a>
+        <p> Copperweld argues that Hahn &amp; Clay v. A. O. Smith Corp., <span class="citation" data-id="261251"><a href="/opinion/261251/hahn-clay-v-a-o-smith-corporation-a-o-smith-corporation-v-hahn/">320 F.2d 166</a></span>, 169 (5th Cir. 1963), certiorari denied, <span class="citation no-link">375 U.S. 944</span>, <span class="citation no-link">84 S.Ct. 351</span>, <span class="citation no-link">11 L.Ed.2d 274</span>, and Dinkins v. General Aniline &amp; Film Corp., <span class="citation no-link">214 F.Supp. 276</span>, 280 (S.D.N.Y.1962) show that the claimed legal right can be nonexistent.  That is an overstatement of those cases.  They indicate rather that the legal claim must be colorable, even if it is ultimately unsuccessful.  In Hahn &amp; Clay, Smith's employees had signed covenants not to use Smith's trade secrets.  At the time Smith notified various people of its rights, its employees were working for Hahn &amp; Clay and Hahn &amp; Clay and Smith were bidding for the same contract.  In Dinkins the employee was a former GAF president who had signed a contract with a non-compete term, but proposed to act as a consultant for GAF and one of its main competitors simultaneously.  Thus in each case the privilege claimant could point to some specific source of his legal right.  Copperweld's claimed rights are much vaguer and more conclusory</p>
+      </div>
+      <div class="footnote" id="fn27">
+        <a class="footnote" href="#fn27_ref">27</a>
+        <p> App. 165: "(This issue) about the letters is in the antitrust claim and is also applicable or involved in the later alleged improper inducement by Copperweld to Yoder to breach its contract with Independence."  Cf. App. 181 (instructing on the tortious interference with Yoder count): "We have been through this, but I will repeat it here because it is relevant here."  The jury had the instructions during its deliberations (App. 190) and could refer to both passages</p>
+      </div>
+      <div class="footnote" id="fn28">
+        <a class="footnote" href="#fn28_ref">28</a>
+        <p> See, e.g., the advice from Copperweld's counsel (June 7, 1973) (App. 636): "(T)here is not much we can do until (Grohne) starts to operate or solicit customers, other than make known our intentions which has already been done.  He should therefore be kept under continued surveillance and once he starts to operate or solicit customers we should pounce on him."</p>
+      </div>
+      <div class="footnote" id="fn29">
+        <a class="footnote" href="#fn29_ref">29</a>
+        <p> App. 760-777: May 5, 1974 letter to Copperweld from lawyer retained as expert in trade secret law, indicating that Regal had taken no steps whatsoever until then to give itself any protectible interest in its employees, its customer lists, or any other information.  Cf. App. 677: General understanding in industry that manufacture of steel tubing involves no trade secrets, employees frequently change jobs among competing firms, and everybody knows who the buyers of steel tubing are</p>
+      </div>
+      <div class="footnote" id="fn30">
+        <a class="footnote" href="#fn30_ref">30</a>
+        <p> Contrary to defendants' argument (Reply Br. 21-23 k n.18) the presence of "confidential stamps" on Regal documents does not establish confidentiality.  United States Trotting Ass'n v. Chicago Downs Ass'n, <span class="citation" data-id="397422"><a href="/opinion/397422/the-united-states-trotting-association-an-ohio-non-profit-corporation-v/">665 F.2d 781</a></span> (7th Cir. 1981) (en banc ), on which defendants rely, only says that a proprietary legend, supported by other facts indicative of ownership, can, if unrebutted, lead to summary judgment on a misappropriation claim.  This is not a misappropriation case, and ownership and confidentiality are not identical concepts</p>
+      </div>
+      <div class="footnote" id="fn31">
+        <a class="footnote" href="#fn31_ref">31</a>
+        <p> Well after the hirings, Copperweld's legal expert wrote:</p>
+        <p>(L)ittle or no security has been maintained even with regard to those specific matters that could legitimately be considered as confidential to the company.  Thus, there is relatively open access to the plant and to files; there are no sign-in or sign-out procedures; none of the plant areas are marked as "restricted" and few documents are marked as "confidential," there are no inhibitions on copying or removing documents, etc.  Moreover, the company has issued no instructions to nor obtained any agreements from its employees that they will not disclose information when their employment terminates, nor does it have any agreements with key employees restricting their future competition.</p>
+        <p>App. 768.</p>
+      </div>
+      <div class="footnote" id="fn32">
+        <a class="footnote" href="#fn32_ref">32</a>
+        <p> The bracketed language in this verdict form and the one that follows went to the jury</p>
+      </div>
+      <div class="footnote" id="fn33">
+        <a class="footnote" href="#fn33_ref">33</a>
+        <p> Defendants have preserved the issue by appealing both the instruction and the amount of antitrust damages.  On the liability point, they could have been treated as having waived it by failing to raise the same arguments in the antitrust context as they did in their appeal of liability for tortious interference with the Yoder contract.  We have not held them to a waiver</p>
+      </div>
+      <div class="footnote" id="fn34">
+        <a class="footnote" href="#fn34_ref">34</a>
+        <p> As Judge Will noted, Rhodes v. Sigler, <span class="citation no-link">44 Ill.App.3d 375</span>, <span class="citation no-link">2 Ill.Dec. 626</span>, <span class="citation" data-id="2035071"><a href="/opinion/2035071/rhodes-v-sigler/">357 N.E.2d 846</a></span> (3d Dist. 1976), contains only weak dictum; and Tonchen v. All-Steel Equipment, Inc., <span class="citation no-link">13 Ill.App.3d 454</span>, <span class="citation" data-id="2238424"><a href="/opinion/2238424/tonchen-v-all-steel-equipment-inc/">300 N.E.2d 616</a></span> (2d Dist. 1973), reversed damages for lack of evidence, not for unrecoverability as a matter of law (App. 284).  Defendants' other cases are Illinois Appellate Court decisions from 1932 and 1908</p>
+      </div>
+      <div class="footnote" id="fn35">
+        <a class="footnote" href="#fn35_ref">35</a>
+        <p> See, e.g., John D. Copanos &amp; Sons, Inc. v. McDade Rigging and Steel Erection Co., <span class="citation no-link">43 Md.App. 204</span>, <span class="citation" data-id="2055262"><a href="/opinion/2055262/john-d-copanos-sons-inc-v-mcdade-rig/">403 A.2d 402</a></span> (1979); Perma Research &amp; Development Co. v. Singer Co., <span class="citation no-link">402 F.Supp. 881</span> (S.D.N.Y.1975), affirmed, <span class="citation" data-id="339151"><a href="/opinion/339151/perma-research-development-v-the-singer-company/">542 F.2d 111</a></span> (2d Cir. 1976), certiorari denied, <span class="citation no-link">429 U.S. 987</span>, <span class="citation no-link">97 S.Ct. 507</span>, <span class="citation no-link">50 L.Ed.2d 598</span> (applying New York law)</p>
+      </div>
+      <div class="footnote" id="fn36">
+        <a class="footnote" href="#fn36_ref">36</a>
+        <p> Defendants assert in n.28 of their principal brief and n.21 of their reply brief that the evidence did not support an award of $15,000 against Regal.  However, the evidence showed that Regal salesman Harry Bishop told Doris Lang, an assistant Deere buyer for structural steel tubing, that Independence was not a reliable source of tubing because it was in financial trouble, unable to borrow money or pay its creditors.  These statements, though untrue, were repeated on three or four occasions.  As a result of them, Ms. Lang did not recommend a hitherto planned increase in Deere's purchases from Independence.  The jury awarded Independence $15,000 of the $30,000 it had sought on the Deere claims</p>
+      </div>
+      <div class="footnote" id="fn37">
+        <a class="footnote" href="#fn37_ref">37</a>
+        <p> See Zenith Radio Corp. v. Hazeltine Research, Inc., <span class="citation" data-id="107938"><a href="/opinion/107938/zenith-radio-corp-v-hazeltine-research-inc/">395 U.S. 100</a></span>, <span class="citation" data-id="107938"><a href="/opinion/107938/zenith-radio-corp-v-hazeltine-research-inc/">89 S.Ct. 1562</a></span>, <span class="citation" data-id="107938"><a href="/opinion/107938/zenith-radio-corp-v-hazeltine-research-inc/">23 L.Ed.2d 129</a></span>; Bigelow v. R.K.O. Radio Pictures, Inc., <span class="citation" data-id="104241"><a href="/opinion/104241/bigelow-v-rko-radio-pictures-inc/">327 U.S. 251</a></span>, <span class="citation" data-id="104241"><a href="/opinion/104241/bigelow-v-rko-radio-pictures-inc/">66 S.Ct. 574</a></span>, <span class="citation no-link">90 L.Ed. 652</span>; Story Parchment Co. v. Paterson Parchment Paper Co., <span class="citation" data-id="101671"><a href="/opinion/101671/story-parchment-co-v-paterson-parchment-paper-co/">282 U.S. 555</a></span>, <span class="citation" data-id="101671"><a href="/opinion/101671/story-parchment-co-v-paterson-parchment-paper-co/">51 S.Ct. 248</a></span>, <span class="citation no-link">75 L.Ed. 544</span>; Eastman Kodak Co. of New York v. Southern Photo Materials Co., <span class="citation" data-id="101022"><a href="/opinion/101022/eastman-co-v-southern-photo-co/">273 U.S. 359</a></span>, <span class="citation" data-id="101022"><a href="/opinion/101022/eastman-co-v-southern-photo-co/">47 S.Ct. 400</a></span>, <span class="citation no-link">71 L.Ed. 684</span></p>
+      </div>
+      <div class="footnote" id="fn38">
+        <a class="footnote" href="#fn38_ref">38</a>
+        <p> Defendants want to discount Grohne's testimony and any of Dr. Madansky's assumptions that were based on it.  In the first place, there was ample corroborative evidence from government and industry records, the testimony of suppliers, customers, and competitors, and even from defendants' experts.  In the second, it was the jury's province to decide what weight and credibility to attach to Grohne's testimony in view of his interest.  Copper Liquor, Inc. v. Adolph Coors Co., <span class="citation" data-id="379509"><a href="/opinion/379509/copper-liquor-inc-robert-earl-basham-jr-h-a-anthony-and-anthony-and/">624 F.2d 575</a></span>, 580 n.11 (5th Cir. 1980); Greyhound Computer Corp. v. International Business Machines Corp., <span class="citation" data-id="347621"><a href="/opinion/347621/greyhound-computer-corporation-inc-v-international-business-machines/">559 F.2d 488</a></span>, 507 n.41 (9th Cir. 1977), certiorari denied, <span class="citation no-link">434 U.S. 1040</span>, <span class="citation no-link">98 S.Ct. 782</span>, <span class="citation no-link">54 L.Ed.2d 790</span></p>
+      </div>
+    </div>
+    

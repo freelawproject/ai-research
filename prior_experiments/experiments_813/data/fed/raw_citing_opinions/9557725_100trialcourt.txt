@@ -1,0 +1,822 @@
+<pre class="inline">1                                                                        
+2                                                                        
+3                                                                        
+4                                                                        
+5                                                                        
+6                                                                        
+7                                                                        
+8                      UNITED STATES DISTRICT COURT                      
+9                 FOR THE EASTERN DISTRICT OF CALIFORNIA                 
+10                                                                        
+11   PENNIE ROPER, individually and on  No.  1:19-cv-00406-DAD-BAM        
+    behalf of all others similarly situated,                             
+12                                                                        
+                 Plaintiff,                                              
+13                                   ORDER GRANTING IN PART AND           
+         v.                         DENYING IN PART MOTION TO DISMISS    
+14                                                                        
+    BIG HEART PET BRANDS, INC.,     (Doc. No. 13)                        
+15                                                                        
+                 Defendant.                                              
+16                                                                        
+
+17                                                                        
+18       This matter is before the court on defendant’s motion (Doc. No. 13) to dismiss plaintiff’s 
+19  complaint.  (Doc. No. 1)  A hearing on that motion was held on August 20, 2019.  (Doc. No. 25.)  
+20  Attorney Ronald Rothstein appeared telephonically on behalf of defendant and attorneys Michael 
+21  Reese and Benjamin Heikali appeared telephonically on behalf of plaintiff and the proposed class.  
+22  (Id.)  For the reasons explained below, the court will grant in part and deny in part defendant’s 
+23  motion to dismiss.1                                                   
+24  /////                                                                 
+
+25  1 The undersigned apologizes for the excessive delay in the issuance of this order.  This court’s 
+   overwhelming caseload has been well publicized and the long-standing lack of judicial resources 
+26                                                                        
+   in this district has reached crisis proportion.  Unfortunately, that situation sometimes results in the 
+27  court not being able to issue orders in submitted civil matters within an acceptable period of time.  
+   This situation is frustrating to the court, which fully realizes how incredibly frustrating it is to the 
+28  parties and their counsel.                                            
+1                             BACKGROUND                                 
+2       Plaintiff Pennie Roper originally filed her complaint in Stanislaus County Superior Court 
+3  on February 13, 2019.  (Id., Ex. 1 (“Compl.”).)  Therein, plaintiff alleges the following:  
+4  Defendant Big Heart Pet Brands, Inc. has labeled and advertised a series of products (“Products”) 
+5  with the representations “All Natural.”  (Compl. at ¶ 2.)  However, the Products allegedly contain 
+6  non-natural, artificial, and synthetic ingredients including sodium tripolyphosphate (“STPP”), 
+7  synthetic vitamins and minerals, citric acid, and lactic acid.  (Id. at ¶ 4.)  Plaintiff and other 
+8  consumers relied on defendant’s natural representations when purchasing the products and would 
+9  have either not purchased them or paid significantly less.  (Id. at ¶ 6.)  At all relevant times, 
+10  defendant made the natural representations because consumers “perceive all natural foods as 
+11  better, healthier, and more wholesome.”  (Id. at ¶ 22.)  Defendant knew what representations it 
+12  made about the Products and knew what ingredients were added to them since it “formulated and 
+13  manufactured, or oversaw the formulation and manufacturing of, the Products and then listed all 
+14  the Products’ ingredients on the packaging.”  (Id. at ¶ 24.)  The Products are governed by federal 
+15  regulations that control the labeling of the Products, and some of the ingredients have been 
+16  federally declared to be synthetic substances.  (Id.)                 
+17       Despite being misled, plaintiff would likely repurchase the Products in the future if the 
+18  Products were reformulated to be free of the allegedly unnatural ingredients.  (Id. at ¶ 33.)  
+19  However, plaintiff will remain unable to rely on the natural representations in the future because 
+20  she has no way of determining whether the Products would be free of the challenged ingredients.  
+21  (Id.)                                                                 
+22        Plaintiff brings this case as a class action for all California residents who purchased any 
+23  of the Products for personal, or household purposes.  (Compl. at ¶ 35.)  Based upon her 
+24  allegations, plaintiff asserts seven causes of action, including: (i) Violation of California’s 
+25  Consumers Legal Remedies Act (“CLRA”); (ii) Violation of California’s Unfair Competition 
+26  Law (“UCL”); (iii) Violation of California’s False Advertising Law (“FAL”); (iv) Breach of  
+27  Express Warranty; (v) Breach of Implied Warranty; (vi) Intentional Misrepresentation; and (vii) 
+28  /////                                                                 
+1  Breach of Quasi-Contract/Unjust Enrichment/Restitution under California Law.  (Id. at ¶¶ 46–
+2  109.)2                                                                
+3       On March 29, 2019 this case was removed by defendant from the Stanislaus County 
+4  Superior Court based on diversity jurisdiction (</pre><span class="citation no-link">28 U.S.C. § 1332</span><pre class="inline">).  (Doc No. 1.)  On April 18, 
+5  2019, defendant filed a motion to dismiss all of plaintiff’s claims.  (Doc. No. 13.)  On June 4, 
+6  2019, plaintiff filed her opposition to the motion to dismiss.  (Doc. No. 19.)  On July 2, 2019, 
+7  defendant filed its reply.  (Doc. No. 21.)  On December 16, 2020, plaintiff filed a request for 
+8  leave to file supplemental authority.  (Doc. No. 45.)                 
+9                           LEGAL STANDARD                               
+10       A.   Motion to Dismiss Pursuant to Rule 12(b)(6)                 
+11       The purpose of a motion to dismiss brought pursuant to Rule 12(b)(6) is to test the legal 
+12  sufficiency of the complaint.  N. Star Int’l v. Ariz. Corp. Comm’n, </pre><span class="citation" data-id="426434"><a href="/opinion/426434/north-star-international-a-nevada-corporation-plaintiff-appellant-v-the/#581" aria-description="Citation for case: NORTH STAR INTERNATIONAL, a Nevada Corporation,...">720 F.2d 578, 581</a></span><pre class="inline"> (9th Cir. 
+13  1983).  “Dismissal can be based on the lack of a cognizable legal theory or the absence of 
+14  sufficient facts alleged under a cognizable legal theory.”  Balistreri v. Pacifica Police Dep’t, 901 
+</pre><span class="citation" data-id="6833689"><a href="/opinion/6936916/fabian-v-united-states/#699" aria-description="Citation for case: Fabian v. United States">15  F.2d 696, 699</a></span><pre class="inline"> (9th Cir. 1990).  A claim for relief must contain “a short and plain statement of the 
+16  claim showing that the pleader is entitled to relief.”  Fed. R. Civ. P. 8(a)(2).  Though Rule 8(a) 
+17  does not require detailed factual allegations, a plaintiff is required to allege “enough facts to state 
+18  a claim to relief that is plausible on its face.”  Bell Atl. Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544</a></span><pre class="inline">, 570 
+19  (2007); Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662</a></span><pre class="inline">, 677–78 (2009).  “A claim has facial plausibility when the 
+20  plaintiff pleads factual content that allows the court to draw the reasonable inference that the 
+21  defendant is liable for the misconduct alleged.”  Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. at 678</a></span><pre class="inline">. 
+22       In determining whether a complaint states a claim on which relief may be granted, the 
+23  court accepts as true the allegations in the complaint and construes the allegations in the light 
+24  most favorable to the plaintiff.  Hishon v. King &amp; Spalding, </pre><span class="citation" data-id="9429619"><a href="/opinion/111188/hishon-v-king-spalding/#73" aria-description="Citation for case: Hishon v. King &amp; Spalding">467 U.S. 69, 73</a></span><pre class="inline"> (1984); Love v. 
+25  United States, </pre><span class="citation" data-id="8984761"><a href="/opinion/8992547/love-v-united-states/#1245" aria-description="Citation for case: Love v. United States">915 F.2d 1242, 1245</a></span><pre class="inline"> (9th Cir. 1989).  It is inappropriate to assume that the plaintiff 
+26  “can prove facts which it has not alleged or that the defendants have violated the . . . laws in ways 
+27                                                                        
+   2 Defendant alleges that it no longer uses the label “All Natural” but instead uses the “Natural” 
+28  label and that this change occurred prior to plaintiff’s filing of this action.  (Doc. No. 21 at 7–8.)   
+1  that have not been alleged.”  Associated Gen. Contractors of Cal., Inc. v. Cal. State Council of 
+2  Carpenters, </pre><span class="citation" data-id="9429005"><a href="/opinion/110831/associated-general-contractors-of-california-inc-v-california-state/#526" aria-description="Citation for case: Associated General Contractors of California, Inc. v....">459 U.S. 519, 526</a></span><pre class="inline"> (1983).                                 
+3       B.   Pleading Fraud Pursuant to Rule 9(b)                        
+4       A complaint alleging fraud must also satisfy heightened pleading requirements.  Fed. R. 
+5  Civ. P. Rule 9(b) (“In alleging fraud or mistake, a party must state with particularity the 
+6  circumstances constituting fraud or mistake.”).  “Fraud can be averred by specifically alleging 
+7  fraud, or by alleging facts that necessarily constitute fraud (even if the word ‘fraud’ is not used).”  
+8  Kearns v. Ford Motor Co., </pre><span class="citation" data-id="1208595"><a href="/opinion/1208595/kearns-v-ford-motor-co/#1124" aria-description="Citation for case: Kearns v. Ford Motor Co.">567 F.3d 1120, 1124</a></span><pre class="inline"> (9th Cir. 2009) (citing Vess v. Ciba-Geigy Corp. 
+9  USA, </pre><span class="citation" data-id="780678"><a href="/opinion/780678/vess-v-ciba-geigy-corp-usa/#1107" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d 1097, 1107</a></span><pre class="inline"> (9th Cir. 2003)).  “When an entire complaint, or an entire claim within 
+10  a complaint, is grounded in fraud and its allegations fail to satisfy the heightened pleading 
+11  requirements of Rule 9(b), a district court may dismiss the complaint or claim.”  Vess, </pre><span class="citation" data-id="780678"><a href="/opinion/780678/vess-v-ciba-geigy-corp-usa/" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d at 
+12</a></span><pre class="inline">  1107.                                                                 
+13       Under Rule 9(b), the “circumstances constituting the alleged fraud [must] be ‘specific 
+14  enough to give defendants notice of its particular misconduct . . . so they can defend against the 
+15  charge and not just deny that they have done anything wrong.’”  Kearns, </pre><span class="citation" data-id="1208595"><a href="/opinion/1208595/kearns-v-ford-motor-co/" aria-description="Citation for case: Kearns v. Ford Motor Co.">567 F.3d at 1124</a></span><pre class="inline"> (citing 
+16  Bly-Magee v. California, </pre><span class="citation" data-id="6991279"><a href="/opinion/7085931/bly-magee-v-california/#1019" aria-description="Citation for case: Bly-Magee v. California">236 F.3d 1014, 1019</a></span><pre class="inline"> (9th Cir. 2001)).  To satisfy the particularity 
+17  standard of Rule 9(b), the plaintiff must allege the “‘who, what, when, where, and how’ of the 
+18  misconduct charged.”  </pre><span class="citation" data-id="6991279"><a href="/opinion/7085931/bly-magee-v-california/" aria-description="Citation for case: Bly-Magee v. California">Id.</a></span><pre class="inline"> (citing Vess, </pre><span class="citation" data-id="780678"><a href="/opinion/780678/vess-v-ciba-geigy-corp-usa/#1106" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d at 1106</a></span><pre class="inline">).            
+19                              ANALYSIS3                                 
+20       A.   Intentional Misrepresentation                               
+21       Under California law, the elements of an intentional representation claim are 
+22  (1) misrepresentation; (2) knowledge of falsity; (3) intent to defraud, i.e., to induce reliance; 
+23                                                                        
+
+24  3 Defendant asks the court to invoke the primary jurisdiction doctrine and dismiss this case 
+   pending the California Department of Public Health’s decision whether to incorporate the 
+25                                                                        
+   Association of American Feed Control Officials’ definition of “natural” into California law.  
+   (Doc. No. 13 at 31.)  As both parties point out, the court has discretion to apply this prudential 
+26                                                                        
+   doctrine.  (Id.; see also Doc. No. 19 at 26.)  The court does not find it judicious to defer resolution 
+27  of this matter until a possible, but not certain, future action adopting a certain definition of 
+   “natural,” and therefore declines to invoke the doctrine of primary jurisdiction and will instead 
+28  resolve this motion on the merits.                                    
+1  (4) justifiable reliance; and (5) resulting damage.  See Helo v. Bank of Am. Servicing Co., No. 
+2  1:14-cv-01522-LJO-JLT, </pre><span class="citation no-link">2015 WL 4673890</span><pre class="inline">, at *3 (E.D. Cal. Aug. 6, 2015) (citing UMG 
+3  Recording, Inc. v. Bertelsmann AG, </pre><span class="citation" data-id="797128"><a href="/opinion/797128/in-re-napster-inc-copyright-litigation/#1096" aria-description="Citation for case: In Re Napster, Inc. Copyright Litigation">479 F.3d 1078, 1096</a></span><pre class="inline"> (9th Cir. 2007)).   
+4       Defendant argues that to properly allege an intentional misrepresentation claim “it must be 
+5  ‘probable that a significant portion of the general consuming public or of targeted consumers, 
+6  acting reasonably in the circumstances, could be misled.’”  (Doc. No. 13 at 18) (citing Lavie v. 
+7  Procter &amp; Gamble Co., </pre><span class="citation" data-id="9749498"><a href="/opinion/2283365/lavie-v-procter-gamble-co/#508" aria-description="Citation for case: Lavie v. Procter &amp; Gamble Co.">105 Cal. App. 4th 496, 508</a></span><pre class="inline"> (2003)).  Defendant cites to the decision in  
+8  Hairston v. South Beach Beverages Company, No. CV 12-1429-JFW (DTBx), </pre><span class="citation no-link">2012 WL 
+9</span><pre class="inline">  1893818, at *4 (C.D. Cal. May 18, 2012) in support of the contention that whether a 
+10  representation is likely to deceive is evaluated in the context of the advertisement as a whole and 
+11  not based upon a single out-of-context phrase found in one component of the label.  (Doc. No. 13 
+12  at 18.)  Defendant further argues that plaintiff cannot plausibly “allege that a reasonable consumer 
+13  would be deceived into believing that a product does not contain the very ingredients that are 
+14  disclosed in the front-facing representation-at-issue.”  (Id. at 19) (referring to the fact that the 
+15  label on its product includes “with added vitamins, minerals &amp; nutrients”).  Defendant contends 
+16  that plaintiff did not allege in her complaint that a reasonable consumer would be deceived by the 
+17  added vitamins, minerals, and nutrients language and argues plaintiff cannot change her argument 
+18  in response to its motion to dismiss.  (Id. at 20.)  Even if plaintiff could make this new argument, 
+19  defendant asserts that “a reasonable consumer would not be likely to understand the label in such 
+20  a strained manner.”  (Id.)                                            
+21       Defendant also claims that its representation is entirely accurate because its 
+22  packaging/description complies with the pet food guidelines of the Association of American Feed 
+23  Control Officials (“AAFCO”).  (Id. at 12.)  Defendant notes that processed pet food is regulated 
+24  by the California Department of Public Health (“CDPH”).  (Id. at 16.)  Defendant avers that when 
+25  the CDPH reviews the common names and definitions of pet food ingredients not mentioned in 
+26  the California Health and Safety Code regulations, it looks to the AAFCO for guidance.  (Id. at 
+27  16) (citing 17 C.C.R § 19005(m)).  According to defendant, because the AAFCO guidelines allow 
+28  for heat processing, chemically synthetic additives that unavoidably occur, and some unnatural 
+1  vitamins and minerals, “a pet food product may . . . still be labeled as ‘natural’ even when 
+2  synthetic vitamins and minerals have been added.”  (Id. at 17.)       
+3       Plaintiff takes particular issue with the presence of the ingredients STPP, citric acid, and 
+4  lactic acid in the Products.  (Comp. ¶¶ 4, 19, 25.)  Defendant counters that STPP, citric acid, and 
+5  lactic acid all satisfy the AAFCO’s definition of “natural.”  (Doc. No. 13 at 7.)  First, defendant 
+6  contends that STPP is a mineral prepared by dehydration or calcination, both of which are 
+7  processes deemed natural by the AAFCO.  (Id.)  Second, defendant contends that citric acid is a 
+8  naturally occurring preservative produced by recovery from lemon or pineapple juice, by 
+9  mycological fermentation, and by the solvent extraction process.  (Id.) (citing 21 C.F.R. 
+10  § 184.1033(a)).  Third, defendant avers that lactic acid both occurs naturally in several foods and 
+11  can be produced either by fermentation or hydrolysis.  (Id.) (citing </pre><span class="citation no-link">21 C.F.R. § 184.1061</span><pre class="inline">(a)).   
+12       Defendant correctly points out that to state a cognizable claim for intentional 
+13  misrepresentation, plaintiff must meet the heightened pleading standards of Rule 9 of the Federal 
+14  Rules of Civil Procedure.  (Doc. No. 13 at 23) (citing Helo, </pre><span class="citation no-link">2015 WL 4673890</span><pre class="inline">, at *3).  Defendant 
+15  argues that this heightened pleading standard also applies to plaintiff’s UCL, CLRA, and FAL 
+16  claims because they are likewise grounded in fraud.  (Doc. No. 13 at 23) (citing Arabian v. 
+17  Organic Candy Factory, No. 2:17-cv-05410-ODW-PLA, </pre><span class="citation no-link">2018 WL 1406608</span><pre class="inline">, at *3 (C.D. Cal. 
+</pre><span class="citation no-link">18  Mar. 19</span><pre class="inline">, 2018)).  Defendant thus concludes that its purported compliance with AAFCO 
+19  regulations; its disclosure of added vitamins, minerals, and nutrients; and the absence of any facts 
+20  to suggest intent to defraud all combine to defeat plaintiff’s intentional misrepresentation claim.  
+21  (Id.)                                                                 
+22       In her opposition, plaintiff argues that the CDPH has not incorporated the AAFCO 
+23  definition of “natural” into California law.  (Doc. No. 19 at 11.)  Plaintiff argues that the 
+24  California Code of Regulations § 19005(m) does not address the term natural and “states only that 
+25  ‘[t]he common names and definitions of other ingredients used in the processing of pet foods 
+26  shall be those recognized in the Official Publication of Feed Control by the [AAFCO] and/or the 
+27  U.S. Department of Agriculture.’”  (Id.) (quoting CCR. Tit. 17, § 19005(m)).  Plaintiff argues that 
+28  “natural” is not another ingredient.  (Doc. No. 19 at 11.)  Plaintiff also contends that AAFCO’s 
+1  guidelines are not an enforceable provision of California law.  (Doc. No. 19 at 12.)  Plaintiff 
+2  argues that even assuming the CDPH had incorporated the AAFCO definition of natural, that 
+3  definition excludes ingredients produced by or subject to a chemically synthetic process.  (Id.)  
+4  Plaintiff contends that the AAFCO guidelines likewise “expressly prohibit the use of the term 
+5  ‘All Natural’ on a pet food label unless the product is composed entirely of natural ingredients.”  
+6  (Id.)  Plaintiff asks the court to ignore defendant’s allegations that STPP is a mineral.  (Id. at 13) 
+7  (citing Khoja v. Orexigen Therapeutics, Inc., </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#998" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">899 F.3d 988, 998</a></span><pre class="inline"> (9th Cir. 2018)).  Plaintiff 
+8  similarly asks the court to disregard defendant’s arguments that citric acid and lactic acid can be 
+9  made naturally because finding these facts true would “ignore the well-established principle that 
+10  courts should accept non-conclusory factual allegations in the light most favorable to plaintiff.”  
+11  (Id.) (citing Friedman v. AARP, Inc., </pre><span class="citation" data-id="4165822"><a href="/opinion/4388569/jerald-friedman-v-aarp-inc/#1051" aria-description="Citation for case: Jerald Friedman v. Aarp, Inc.">855 F.3d 1047, 1051</a></span><pre class="inline"> (9th Cir. 2017)).4   
+12       Plaintiff also notes that defendant bears the burden of showing that she could not plausibly 
+13  prove that a reasonable consumer would be deceived by the product packaging.  (Id.) (citing Reid 
+14  v. Johnson &amp; Johnson, </pre><span class="citation" data-id="2786091"><a href="/opinion/2786091/reid-v-johnson-johnson-mcneil-nutritionals-llc/#958" aria-description="Citation for case: Reid v. Johnson &amp; Johnson &amp; McNeil Nutritionals, LLC">780 F.3d 952, 958</a></span><pre class="inline"> (9th Cir. 2015)).  In this regard, plaintiff argues that 
+15  consumers do not generally understand that added vitamins and minerals are synthetic.  (Doc. No 
+16  19 at 16) (citing Grimm v. APN, Inc., No. SACV 17-00356 JVS (JCGx), </pre><span class="citation no-link">2017 WL 6060624</span><pre class="inline">, at 
+17  *3–4 (C.D. Cal. Nov. 20, 2017)).  Plaintiff avers that regardless of whether the use of the term 
+18  “All Natural” as a modifier is deceptive, “[q]uestions of how consumers interpret terms or phrases 
+19  are factual inquiries best suited” for resolution not on a motion to dismiss but at a later stage of 
+20  the litigation.  (Doc. No. 19 at 17) (citing Hall v. Diamond Foods, Inc., No. C-14-2148 MC, 2014 
+</pre><span class="citation no-link">21  WL 3779012</span><pre class="inline">, at *3 (N.D. Cal. July 31, 2014)).                         
+22       Finally, plaintiff argues that her allegations in support of her fraud claims satisfy Federal 
+23  Rule of Civil Procedure 9(b) for three reasons.  First, because “plaintiffs may aver scienter . . . 
+24  simply by saying scienter existed.”  (Doc. No. 19 at 20) (quoting Odom v. Microsoft Corp., 486 
+</pre><span class="citation no-link">25  F.3d 541</span><pre class="inline">, 554 (9th Cir. 2007)).  Plaintiff contends that she has alleged defendant knew or 
+26  recklessly disregarded the fact that its claims of selling “natural” products were deceptive, that 
+27                                                                        
+   4  However, plaintiff appears to concede that the court could find citric and lactic acid to be 
+28  natural.  (Doc. No. 19 at 14.)                                        
+1  defendant intended plaintiff to rely on those claims in purchasing the products, and that that is all 
+2  Rule 9(b) requires.  (Id.)  Second, plaintiff argues that she has in fact plausibly alleged a 
+3  misrepresentation by defendant.  (Id.)  Third, plaintiff asks this court to follow the holding in Van 
+4  Mourik v. Big Heart Pet Brands, Inc., No. 3:17-cv-03889, </pre><span class="citation no-link">2018 WL 1116715</span><pre class="inline">, at *4 (N.D. Cal. 
+</pre><span class="citation no-link">5  Mar. 1</span><pre class="inline">, 2018), in which that court found that an identical complaint to the one in this action 
+6  properly alleged the “when,” “what,” and “how” of the fraud claim asserted.  (Id.).5  Accordingly, 
+7  plaintiff argues that the allegations of her complaint are sufficient to allow defendant to prepare 
+8  an answer and that her fraud claims should not be dismissed.  (Doc. No. 19 at 21.)   
+9       In its reply, defendant contends that the CDPH recognizes AAFCO’s official publication 
+10  as the definitive reference for pet food ingredients when not defined by California law.  (Doc. No. 
+11  21 at 9.)  Moreover, defendant argues that plaintiff has failed to plausibly allege that STPP, citric 
+12  acid, and lactic acid are not natural, accusing plaintiff of pursuing a strategy of “file first, ask 
+13  questions later.”  (Id.)  Defendant also again argues that no reasonable consumer would find the 
+14  product label in question misleading and asks this court to find the reasoning by the district court 
+15  in Hairston, </pre><span class="citation no-link">2012 WL 1893818</span><pre class="inline"> to be more persuasive than the reasoning espoused in Van 
+16  Mourik, </pre><span class="citation no-link">2018 WL 1116715</span><pre class="inline">.  (Doc. No. 21 at 11.)  Ultimately, defendant asserts that courts have 
+17  recognized the distinction between “all natural” labels reflecting qualifying disclaimers, as the 
+18  labels for the Products here do, and those that do not.  (Id. at 12.)     
+19       Defendant also reiterates in its reply that plaintiff’s intentional misrepresentation, UCL, 
+20  FAL, and CLRA claims all “sound in fraud and are subject to Rule 9(b).”  (Id. at 14.)  Although 
+21  Rule 9(b) permits knowledge and intent to be pled in general terms, defendant argues that a 
+22  plaintiff still must “allege sufficient underlying facts from which a court may reasonably infer 
+23  that a party acted with the requisite state of mind.”  (Id.) (quoting San Francisco Tech.., Inc. v. 
+24  Colgate-Palmolive Co., No. 5:10-cv-05201-JF/PSG, </pre><span class="citation no-link">2011 WL 940973</span><pre class="inline">, at *2 (N.D. Cal. Mar. 18, 
+25  /////                                                                 
+26                                                                        
+   5 Van Mourik v. Big Heart Pet Brands, Inc., No. 3:17-cv-03889, </pre><span class="citation no-link">2018 WL 1116715</span><pre class="inline"> (N.D. Cal. 
+27  March 1, 2018) is a case with essentially identical factual allegations as are presented by plaintiff 
+   in this case, albeit by a different plaintiff, which was filed in the Northern District of California 
+28  and transferred to the Southern District of Texas.                    
+1  2011)).  Defendant characterizes plaintiff’s allegations in support of these claims as conclusory 
+2  and insufficient under Rule 9(b).  (Doc. No. 21 at 14.)               
+3       In California, processed pet food is subject to California Health and Safety Code § 113025 
+4  and regulated by the CDPH.  As an initial matter, the court concludes that there is no binding 
+5  definition of “natural” in this context under California law.  Although defendant correctly avers 
+6  that the CDPH looks to the AAFCO for guidance regarding common definitions of pet food 
+7  ingredients, plaintiff is correct that the AAFCO’s guidelines are not an enforceable provision of 
+8  California law.  See </pre><span class="citation no-link">Cal. Gov. Code § 11340.5</span><pre class="inline">.  Regardless, even if ingredients that go through 
+9  heat processing, include unavoidable chemically synthetic additives, or include some unnatural 
+10  vitamins and minerals could be considered natural under the AAFCO guidelines, that does not 
+11  mean it is always so.  In the absence of a binding definition of “natural” in this context under 
+12  California law, plaintiff’s complaint is not subject to dismissal at the pleading stage where the 
+13  court is to construe the allegations of the complaint in the light most favorable to the plaintiff.  
+14  See Hishon, </pre><span class="citation" data-id="9429619"><a href="/opinion/111188/hishon-v-king-spalding/#73" aria-description="Citation for case: Hishon v. King &amp; Spalding">467 U.S. at 73</a></span><pre class="inline">.  Likewise, the court finds plaintiff’s claim that a reasonable consumer 
+15  would find the label “natural” to be misleading, even with the qualifying language “with added 
+16  vitamins, minerals &amp; nutrients,” to be plausible.  Even if citric acid, lactic acid, and STPP could 
+17  be made naturally, here plaintiff alleges that these ingredients were not produced naturally, and 
+18  the court must accept those non-conclusory factual allegations of the complaint in the light most 
+19  favorable to plaintiff.  See Friedman, </pre><span class="citation" data-id="4165822"><a href="/opinion/4388569/jerald-friedman-v-aarp-inc/" aria-description="Citation for case: Jerald Friedman v. Aarp, Inc.">855 F. 3d 1047</a></span><pre class="inline">; see also Gregoria v. The Clorox Co., No. 
+20  17-CV-03824-PJH, </pre><span class="citation no-link">2018 WL 732673</span><pre class="inline">, at *4–5 (N.D. Cal. Feb. 6, 2018) (reaching a similar 
+21  conclusion in the context of “naturally derived” detergent); Organic Consumers Ass’n v. 
+22  Sanderson Farms, Inc., No. 17-CV-03592-RS, </pre><span class="citation no-link">2018 WL 922247</span><pre class="inline">, at *6 (N.D. Cal. Feb. 9, 2018) 
+23  (reaching a similar conclusion in the context of “natural” poultry).  The court agrees that 
+24  questions regarding how consumers interpret terms or phrases on product labels are factual 
+25  inquiries best suited for resolution at a later stage of the litigation and not on a motion to dismiss.  
+</pre><span class="citation no-link">26  Hall, 2014</span><pre class="inline"> WL 3779012, at *3.                                         
+27       The court also finds that plaintiff’s complaint satisfies Rule 9(b) with respect to its 
+28  allegation of fraud.  As the district court in Van Mourik observed:   
+1            “A  pleading  is  sufficient  under  rule  9(b)  if  it  identifies  the 
+             circumstances constituting fraud so that a defendant can prepare an 
+2            adequate answer from the allegations.”  Moore v. Kayport Package 
+             Exp., Inc., </pre><span class="citation multiple-matches"><a href="/c/F.2d/885/531/">885 F.2d 531</a></span><pre class="inline">, 540 (9th Cir. 1989).  That rule “may be 
+3            relaxed  as  to  matters  within  the  opposing  party’s    
+             knowledge.”   Id.   While  conclusory  allegations  with  no 
+4            “particularized supporting detail” do not suffice, the 9(b) “standard 
+             does not require absolute particularity or a recital of the evidence. . .. 
+5            [A] complaint need not allege ‘a precise time frame,’ ‘describe in 
+             detail a single specific transaction’ or identify the ‘precise method’ 
+6            used to carry out the fraud.”  United States v. United Healthcare Ins. 
+             Co., </pre><span class="citation" data-id="8414508"><a href="/opinion/8443163/united-states-v-united-healthcare-insurance-co/#1180" aria-description="Citation for case: United States v. United Healthcare Insurance Co.">848 F.3d 1161, 1180</a></span><pre class="inline"> (9th Cir. 2016) (citing Cooper v. Pickett, 
+7            </pre><span class="citation" data-id="6964204"><a href="/opinion/7060249/cooper-v-pickett/#627" aria-description="Citation for case: Cooper v. Pickett">137 F.3d 616, 627</a></span><pre class="inline"> (9th Cir. 1997)) (other citations omitted). 
+8  </pre><span class="citation no-link">2018 WL 1116715</span><pre class="inline"> at *4.                                                
+9       Exhibit A to the complaint in this case includes a spreadsheet containing images and 
+10  ingredient lists with respect to all the challenged products.  (Doc. No. 1-1 at 33.)  As to each of 
+11  those products, plaintiff identifies the alleged misleading representations with sufficient 
+12  particularity by producing full lists of ingredients with the allegedly non-natural ingredients in 
+13  bold typeface.  (Id.)  Plaintiff also alleges that defendant made the misrepresentations knowingly 
+14  and purposefully and that defendant was aware that some of the ingredients had been federally 
+15  declared to be synthetic.  (Id. at 4, 17.)  As for the “why,” plaintiff alleges that defendant made 
+16  misrepresentations because consumers perceive all-natural foods as better and healthier.  (Id. at 
+17  17.)  The allegations of the complaint clearly explain why these representations are deceptive and 
+18  misleading.  Because plaintiff has alleged the misrepresentations with sufficient particularity, she 
+19  meets the Rule 9(b) standard with respect to those claims.  See Van Mourik, </pre><span class="citation no-link">2018 WL 1116715</span><pre class="inline"> at 
+20  *4.                                                                   
+21       Defendant makes much of the fact that plaintiff uses outdated information in her 
+22  complaint.  Defendant argues that plaintiff’s complaint cites to an old version of the Products and 
+23  that the current version of the label no longer uses the term “All Natural” but instead only lists the 
+24  Products as “Natural.”  (Doc. No. 21 at 7–8.)  Defendant asserts that plaintiff “may not re-plead 
+25  her causes of action in her Opposition” to correct her complaint.  (Id. at 8) (citing Strome v. 
+26  DBMK Enters., Inc., No. C 14-2398 SI, </pre><span class="citation no-link">2014 WL 4437777</span><pre class="inline">, at *4 (N.D. Cal. Sept. 9, 2014)).  
+27  Defendant also contends that plaintiff did not address the statement “with added vitamins, 
+28  minerals, and nutrients” in her complaint and cannot post hoc justify her failure to do so, which 
+1  undercuts the plausibility of her claims.  (Doc. No. 21 at 8.)  Defendant’s points are potentially 
+2  well taken in that it appears to be undisputed that defendant’s Products no longer bear the “All 
+3  Natural” label.  However, in her complaint, plaintiff alleges she purchased her Products in 2016, 
+4  before defendant changed the labeling.  Thus, her claims for past damages incurred remain viable.  
+5  (Doc. No. 1-1 at 5.)  In any event, the court cannot consider evidence in assessing the sufficiency 
+6  of a complaint under Rule 12(b)(6) and will therefore not consider the alleged label changes in 
+7  ruling on the pending motion.  See Khoja., </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#998" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">899 F.3d at 998</a></span><pre class="inline">.           
+8       For these reasons, the court will deny defendant’s motion to dismiss plaintiff’s intentional 
+9  misrepresentation cause of action.6                                   
+10       B.   Plaintiff Has Standing to Seek Injunctive Relief            
+11       In opposing the pending motion to dismiss, plaintiff argues that she is subject to a risk of 
+12  future harm sufficient to support her standing to seek injunctive relief.  (Doc. No. 19 at 22.)  
+13  Plaintiff seeks injunctive relief under the CLRA, the UCL, and the FAL.  Because plaintiff’s 
+14  standing in this regard is crucial to her CLRA, UCL, and FAL claims, the court addresses the 
+15  standing arguments before considering the pending motion to dismiss those specific claims.  
+16        Defendant argues that in order to seek injunctive relief a plaintiff must show a sufficient 
+17  likelihood that she will be wronged in a similar way in the future and that the allegations of 
+18  plaintiff’s complaint do not do so here.  (Doc. No. 13 at 25.)  As noted, defendant contends that 
+19  plaintiff seeks to enjoin defendant from using the representations “All Natural” in the future, but 
+20  defendant contends that it no longer employs that representation on its labels at all.  (Id. at 26.)  
+21  Accordingly, defendant reasons there is no risk that plaintiff will be wronged in a similar way in 
+22  the future.  Defendant also argues that plaintiff is now well aware of the basis for its “natural” 
+23  representations and therefore cannot claim she would be misled by those representations in the 
+24  future.  (Doc. No. 13 at 26) (citing Broomfield, </pre><span class="citation no-link">2017 WL 3838453</span><pre class="inline">, at *11–12). 
+25  /////                                                                 
+26                                                                        
+   6  The recent order plaintiff cites in her request for leave to file supplemental authority reached a 
+27  nearly identical conclusion, albeit applying Second Circuit law not binding on this court.  (See 
+   Doc. No. 45) (citing Acquard, et al. v. Big Heart Pet Brands, Inc., No. 19-cv-50-JLS-HKS 
+28  (W.D.N.Y)).                                                           
+1       Plaintiff first contends that defendant’s assertions regarding its ceasing usage of the “All 
+2  Natural” representation on the Products are not properly before the court and should not be 
+3  considered.  (Doc. No. 19 at 22) (citing Khoja, </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#998" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">899 F. 3d at 998</a></span><pre class="inline">).  Second, plaintiff argues that 
+4  under Ninth Circuit precedent “knowledge that the advertisement or label was false in the past 
+5  does not equate to knowledge that it will remain false in the future.”  (Doc. No. 19 at 22) (citing 
+6  Davidson v. Kimberly-Clark Corp., </pre><span class="citation" data-id="9015730"><a href="/opinion/9022504/davidson-v-kimberly-clark-corp/#969" aria-description="Citation for case: Davidson v. Kimberly-Clark Corp.">889 F. 3d 956, 969</a></span><pre class="inline"> (9th Cir. 2018)).  Accordingly, plaintiff 
+7  asserts that the Ninth Circuit has expressly rejected defendant’s position that she lacks standing 
+8  merely because she now knows that defendant’s “natural” representations are deceptive.  (Doc. 
+9  No. 19 at 22.)                                                        
+10       In reply, defendant claims that nothing in the decision in Davidson “suggests the Ninth 
+11  Circuit created a freestanding right to seek injunctive relief based on conduct that has ended.”  
+12  (Doc. No. 21 at 15) (quoting Bruton v. Gerber Prod. Co., </pre><span class="citation no-link">2018 WL 1009257</span><pre class="inline">, at *7 (N.D. Cal. 
+13  Feb. 13, 2018)).  Defendant argues that because it no longer uses the “All Natural” label, plaintiff 
+14  lacks standing and that because plaintiff alleges she would only purchase the Products in the 
+15  future if defendant reformulated them, granting her requested injunctive relief requiring a change 
+16  to its label would not in fact provide plaintiff relief.  (Doc. No. 21 at 15.)  Defendant urges the 
+17  court to dismiss plaintiff’s claims for injunctive relief under the CLRA, UCL, and FAL.  The 
+18  court finds defendant’s arguments unpersuasive on this point.         
+19       As the Ninth Circuit has recognized, “[a] previously deceived consumer may have 
+20  standing to seek an injunction against false advertising or labeling, even though the consumer 
+21  now knows or suspects that the advertising was false at the time of the original purchase.”   
+22  Davidson, </pre><span class="citation" data-id="9015730"><a href="/opinion/9022504/davidson-v-kimberly-clark-corp/#969" aria-description="Citation for case: Davidson v. Kimberly-Clark Corp.">889 F.3d at 969</a></span><pre class="inline">; see also Moore v. Mars Petcare US, Inc., </pre><span class="citation no-link">966 F.3d 1007</span><pre class="inline">, 1021 n.13 
+23  (9th Cir. 2020).  An actionable cognizable injury exists where a plaintiff alleges that they cannot 
+24  rely on defendant’s labeling when deciding whether to purchase products in the future.  Davidson, 
+25  889 F.3d at 970–71.  The undersigned finds that plaintiff’s allegations of future harm presented in 
+26  the pending complaint fit squarely into the categories recognized by the Ninth Circuit.  Moreover, 
+27  even if defendant changed its label from reading “All Natural” to “Natural,” the court does not 
+28  find at the motion to dismiss stage a sufficient basis upon which to conclude that all harmful 
+1  conduct has ceased.  See, e.g., Grimm v. APN, Inc., No. SACV 17-00356 JVS (JCGx), </pre><span class="citation no-link">2017 WL 
+2</span><pre class="inline">  6060624, at *3 (C.D. Cal. Nov. 20, 2017) (“At this stage, it is ambiguous whether [“Natural food 
+3  for dogs with added vitamins &amp; minerals”] represent that the added vitamins and minerals are 
+4  natural or synthetic.”)  The court therefore finds that plaintiff’s claims for injunctive relief survive 
+5  defendant’s motion to dismiss.7                                       
+6       C.   Violation of the California Legal Remedies Act (“CLRA”), Unfair 
+             Competition Law (“UCL”), and California Fair Advertising Law (“FAL”) 
+7                                                                        
+8       Claims brought under the CLRA, UCL, or the FAL are governed by the “reasonable 
+9  consumer test.”  Williams v. Gerber Products Co., </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/#938" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d 934, 938</a></span><pre class="inline"> (9th Cir. 2008).  
+10  Additionally, the California Supreme Court recognized in Kasky v. Nike, Inc., </pre><span class="citation" data-id="5452377"><a href="/opinion/5607980/kasky-v-nike-inc/" aria-description="Citation for case: Kasky v. Nike, Inc.">27 Cal. 4th 939</a></span><pre class="inline">, 
+11  950 (2002) that California’s consumer protection laws prohibit not only advertising which is 
+12  false, but also that which is either actually misleading or which has a capacity, likelihood, or 
+13  tendency to deceive or confuse the public.  See Munning v. Gap, Inc., No. 16-cv-03804-TEH, 
+14  </pre><span class="citation no-link">2016 WL 6393550</span><pre class="inline">, at * 4 (N.D. Cal Oct. 28, 2016).  With that in mind, the court turns to the 
+15  parties’ arguments regarding the sufficiency of plaintiff’s claims as alleged.  
+16            1.  Violation of California’s False Advertising Law (“FAL”)  
+17       Defendant argues that a “plaintiff seeking equitable relief in California must establish that 
+18  there is no adequate remedy at law available.”  (Doc. No. 13 at 33) (quoting Munning v. Gap, 
+19  Inc., </pre><span class="citation" data-id="7242422"><a href="/opinion/7324511/munning-v-gap-inc/#1203" aria-description="Citation for case: Munning v. Gap, Inc.">238 F. Supp. 3d 1195, 1203</a></span><pre class="inline"> (N.D. Cal. 2017)).  Accordingly, defendant contends that in 
+20  order to plead a cognizable UCL or FAL claim, plaintiff is required to allege facts showing that 
+21  she has no adequate remedy at law.  (Id.) (citing Heighley v. J.C. Penney Life Ins. CO., </pre><span class="citation" data-id="8811428"><a href="/opinion/8826607/balbas-v-united-states/" aria-description="Citation for case: Balbas v. United States">257 F. 
+22</a></span><pre class="inline">                                                                        
+
+23  7  The recent order in Acquard, et al. v. Big Heart Pet Brands, Inc., No. 19-cv-50-JLS-HKS 
+   (W.D.N.Y) cited by plaintiff in her request for leave to file supplemental authority found that the  
+24  plaintiffs in that case lacked standing to seek injunctive relief because they would only buy a 
+   reformulated product.  (Doc. No. 45-1 at 17.)  The undersigned disagrees with that reasoning, 
+25                                                                        
+   both for the reasons expressed above and because plaintiff simply will not be able to know if the 
+   Products have been reformulated should their labeling continue to be misleading.  In this way, the 
+26                                                                        
+   formula (or the ingredients) and the label are tied hand in hand.  The undersigned does not find 
+27  plaintiff’s allegation in her complaint that she would purchase a reformulated product to be 
+   sufficiently conclusive as to deny her and the future class all standing with regard to injunctive 
+28  relief.                                                               
+1  Supp. 2d 1241, 1259 (C.D. Cal. 2003)).  Defendant contends that the UCL and FAL provide only 
+2  for equitable relief.  (Id.) (citing Munning, 238 F. Supp. 3d at 1203–04).  Defendant argues that 
+3  because plaintiff could seek money damages for breach of contract, breach of warranty, or 
+4  violation of the CLRA, she has an adequate remedy at law and may not seek equitable relief.  
+5  (Doc. No. 13 at 33.)                                                  
+6       Plaintiff counters that defendant’s argument conflicts with the plain words of Rule 8(a)(3) 
+7  of the Federal Rules of Civil Procedure, which allows her to plead her claims in the alternative.  
+8  (Doc. No. 19 at 29.)  Plaintiff also contends that defendant has not established that she has an 
+9  adequate remedy at law because “even if [p]laintiff successfully obtains monetary relief for 
+10  herself and putative class members, consumers will still be injured from [d]efendant’s deceptive 
+11  labeling practices in the future.”  (Id.)                             
+12       In reply, defendant asserts that plaintiff has pleaded her damages claims jointly with her 
+13  equitable relief claims, and not in the alternative.  (Doc. No. 21 at 19) (citing Grossman v. Schell 
+14  &amp; Kampeter, Inc., No. 2:18-cv-02344-JAM-AC, </pre><span class="citation no-link">2019 WL 1298997</span><pre class="inline">, at *7 (E.D. Cal. Mar. 21, 
+15  2019)).  Defendant also responds to plaintiff’s contention that she may not have an adequate 
+16  remedy at law by arguing that where the claims pleaded may entitle a plaintiff to a remedy at law,  
+17  equitable relief is unavailable.  (Doc. No. 21 at 20) (citing Rhynes v. Stryker Corp., No. 10-5619 
+18  SC, </pre><span class="citation no-link">2011 WL 2149095</span><pre class="inline">, at *4 (N.D. Cal. May 31, 2011)).                 
+19       Defendant’s motion to dismiss both the FAL and the UCL claims hinges on the question 
+20  of whether plaintiff may request injunctive relief in addition to her claims for legal remedies.  The 
+21  court concludes that plaintiff may do so.  The controlling case in this circuit on this point is 
+22  Sonner v. Premier Nutrition Corp., </pre><span class="citation no-link">971 F.3d 834</span><pre class="inline"> (9th Cir. 2020).  In Sonner, the Ninth Circuit 
+23  held that a plaintiff “must establish that she lacks an adequate remedy at law before securing 
+24  equitable restitution for past harm under the UCL and CLRA.”  </pre><span class="citation no-link">Id. at 844</span><pre class="inline">.  Although it dealt only 
+25  with equitable claims for restitution premised on past harms, the undersigned concludes that the 
+26  decision in Sonner did not “cabin the subject requirement to equitable claims for non-injunctive 
+27  relief.”  See IntegrityMessageBoards.com v. Facebook, Inc., No. 18-cv-05286, </pre><span class="citation no-link">2020 WL 
+28</span><pre class="inline">  6544411, at *5 (N.D. Cal. Nov. 6, 2020) (holding that the decision in Sonner relied on Supreme 
+1  Court jurisprudence that did not draw any distinction among the various forms of equitable 
+2  relief).  As in IntegrityMessageBoards.com, plaintiff here lacks an adequate legal remedy for 
+3  future harm.  The allegations of the complaint before the court identify the misrepresentations at 
+4  issue, namely that “[d]efendant has falsely and deceptively labeled and advertised the Products 
+5  with the . . . representations: ‘All Natural,’ ‘All Natural Dog Food,’ and/or ‘All Natural Cat 
+6  food.’”  (Compl. at ¶ 4.)  These allegations, although addressing a past wrong, provide sufficient 
+7  detail to support, by way of inference, an alleged practice of false advertising with respect to the 
+8  Products.  See Aerojet Rocketdyne, Inc. v. Global Aerospace, Inc., No. 2:17-cv-01515-KJM-AC, 
+9  </pre><span class="citation no-link">2020 WL 3893395</span><pre class="inline">, at *5 (E.D. Cal. July 10, 2020).  Although monetary damages may ultimately 
+10  fully address plaintiff’s harm, at this stage of the litigation there is “an ongoing, prospective 
+11  nature to [plaintiff’s allegations]” given her contention that she and other future purchasers will 
+12  continue to be misled.  </pre><span class="citation no-link">Id.</span><pre class="inline">  Taken together, and viewed in the light most favorable to plaintiff, the 
+13  allegations of the complaint are “sufficient to suggest a likelihood of future harm amenable to 
+14  injunctive relief.”  Id.; see also IntegrityMessageBoards.com, </pre><span class="citation no-link">2020 WL 6544411</span><pre class="inline">, at *7 (holding 
+15  that plaintiff’s inability to rely on Facebook’s future representations justified a claim for 
+16  injunctive relief because future money damages could not be proven with certainty).  Just as in 
+17  IntegrityMessageBoards.com, “the court has not certified any class . . .. Given that, the scope of 
+18  any class, the identities of its members, and their respective . . . purchasing practices also remain 
+19  unknown.”  </pre><span class="citation no-link">2020 WL 6544411</span><pre class="inline">, at *7.                                    
+20       The court concludes that plaintiff may pursue her equitable claims for injunctive relief to 
+21  the extent they are premised on alleged future harm.  Because plaintiff both has standing to seek 
+22  injunctive relief and has sufficiently alleged that she has no adequate remedy at law, the court will 
+23  deny defendant’s motion to dismiss with respect to plaintiff’s FAL claim. 
+24            2.  Violation of California’s Consumers Legal Remedies Act (“CLRA”) 
+25       Defendant next argues that plaintiff has failed to comply with the notice requirements 
+26  mandated by the CLRA, and the court should therefore dismiss all damages claims arising from 
+27  plaintiff’s CLRA cause of action.  (Doc. No. 13 at 33) (citing Munning v. Gap, Inc., No. 16-cv-
+28  03804-TEH, </pre><span class="citation no-link">2016 WL 6393550</span><pre class="inline">, at *4 (N.D. Cal. Oct. 28, 2016)).  Defendant cites to California 
+1  Civil Code § 1782 for the proposition that “at least 30 days prior to commencing an action for 
+2  damages under the CLRA, the consumer must (1) notify the person alleged to have committed the 
+3  violations, and (2) demand that the person ‘correct, repair, replace or otherwise rectify the goods 
+4  or services’ in question.”  (Doc. No. 13 at 33.)  Defendant asserts that a “claim for damages under 
+5  the CLRA requires strict compliance with the notice requirements set forth in § 1782.”  (Id.) 
+6  (quoting Laster v. T-Mobile USA, Inc., </pre><span class="citation" data-id="2356979"><a href="/opinion/2356979/laster-v-t-mobile-usa-inc/#1196" aria-description="Citation for case: Laster v. T-MOBILE USA, INC.">407 F. Supp. 2d 1181, 1196</a></span><pre class="inline"> (S.D. Cal. 2005), aff’d, </pre><span class="citation no-link">252 F. 
+7</span><pre class="inline">  App’x 777 (9th Cir. 2007) (emphasis in original)).  Defendant concludes that because plaintiff did 
+8  not comply with the notice requirement, her CLRA claim for damages should be dismissed.  
+9  (Doc. No. 13 at 34.)                                                  
+10       Defendant misconstrues the allegations of plaintiff’s complaint.  Although a plaintiff 
+11  seeking damages under the CLRA must provide notice to the defendant under California Civil 
+12  Code § 1782(a), plaintiff’s complaint clearly states that her CLRA claim is “for injunctive relief 
+13  only.”  (Doc. No. 1-1 at 21.)  CLRA claims for injunctive relief need not comply with the notice 
+14  requirement.  See </pre><span class="citation no-link">Cal. Civ. Code § 1782</span><pre class="inline">(d) (“An action for injunctive relief brought under the 
+15  specific provisions of Section 1770 may be commenced without compliance with subdivision 
+16  (a).”); see also Meyer v. Sprint Spectrum L.P., </pre><span class="citation" data-id="2624588"><a href="/opinion/2624588/meyer-v-sprint-spectrum-lp/#644" aria-description="Citation for case: Meyer v. Sprint Spectrum L.P.">45 Cal. 4th 634, 644</a></span><pre class="inline"> (2009) (“Thus, section 1782, 
+17  subdivision (d) contemplated the filing of a CLRA action for injunctive relief alone, and such 
+18  actions are not subject to the requirements of subdivisions (a) and (b) of notice and allowance for 
+19  voluntary correction.”)  Because plaintiff here seeks only injunctive relief, defendant’s arguments 
+20  regarding the notice requirement are inapplicable.  The court will deny defendant’s motion to 
+21  dismiss plaintiff’s CLRA claim.                                       
+22            3.  Violation of California’s Unfair Competition Law (“UCL”)  
+23       California’s UCL prohibits “any unlawful, unfair or fraudulent business act or practice.”  
+24  </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline"> et seq.  The three aforementioned “prongs” each maintain a 
+25  distinct theory of liability and basis for relief.  See Cel-Tech Commc’ns, Inc. v. Los Angeles 
+26  Cellular Tel. Co., </pre><span class="citation" data-id="9567993"><a href="/opinion/1301891/cel-tech-communications-inc-v-los-angeles-cellular-telephone-co/#180" aria-description="Citation for case: Cel-Tech Communications, Inc. v. Los Angeles Cellular...">20 Cal. 4th 163, 180</a></span><pre class="inline"> (1999); see also Lozano v. AT&amp;T Wireless Servs., Inc., 
+27  </pre><span class="citation" data-id="1429600"><a href="/opinion/1429600/lozano-v-at-t-wireless-services-inc/#731" aria-description="Citation for case: Lozano v. AT &amp; T Wireless Services, Inc.">504 F.3d 718, 731</a></span><pre class="inline"> (9th Cir. 2007).                                    
+28  /////                                                                 
+1                 a.   Fraudulent Prong                                  
+2       To advance a theory of fraud under the UCL, a plaintiff must allege facts showing that 
+3  reasonable members of the public are likely to be deceived by the allegedly fraudulent conduct.  
+4  See Davis v. HSBC Bank Nevada, N.A., </pre><span class="citation" data-id="807798"><a href="/opinion/807798/gary-davis-v-hsbc-bank-nevada-na/#1169" aria-description="Citation for case: Gary Davis v. Hsbc Bank Nevada, N.A.">691 F.3d 1152, 1169</a></span><pre class="inline"> (9th Cir. 2012).  And “[t]o properly 
+5  plead fraud with particularity under Rule 9(b), ‘a pleading must identify the who, what, when, 
+6  where, and how of the misconduct charged, as well as what is false or misleading about the 
+7  purportedly fraudulent statement . . ..’”  Scott v. Bluegreen Vacations Corp., No. 1:18-cv-649-
+8  AWI-EPG, </pre><span class="citation no-link">2018 WL 6111664</span><pre class="inline">, at *5 (E.D. Cal. Nov. 21, 2018) (quoting Davidson v. Kimberly-
+9  Clark Corp., </pre><span class="citation" data-id="9015730"><a href="/opinion/9022504/davidson-v-kimberly-clark-corp/#964" aria-description="Citation for case: Davidson v. Kimberly-Clark Corp.">889 F.3d 956, 964</a></span><pre class="inline"> (9th Cir. 2018)).                      
+10       Defendant argues that plaintiff does not adequately allege how the “All Natural” 
+11  representations are false.  (Doc. No. 13 at 27.)  Particularly, defendant argues that plaintiff has 
+12  failed to sufficiently allege falsity because she never “alleges that the Products fail to meet the 
+13  AAFCO guidelines on labeling pet food ‘natural.’”  (Id.) (citing Chuang v. Dr. Pepper Snapple 
+14  Grp., Inc., </pre><span class="citation no-link">2017 WL 4286577</span><pre class="inline">, at *4 (C.D. Cal. Sept. 20, 2017)).  In short, defendant links its 
+15  argument with regard to the insufficiency of the intentional misrepresentation allegations to its 
+16  fraudulent prong argument.                                            
+17       In her opposition, plaintiff avers that “the natural representations are both false and 
+18  misleading because the ingredients (including the non-vitamin ingredients challenged) are not 
+19  natural.”  (Doc. No. 19 at 23.)                                       
+20       In its reply, defendant argues that it is plaintiff’s burden to plead a reasonable consumer 
+21  would be misled and she has not done so.  (Doc. No. 21 at 16.)        
+22       For the same reasons expressed as to why the motion to dismiss should be denied with 
+23  regard to plaintiff’s intentional misrepresentation claim, the court will likewise deny defendant’s 
+24  motion to dismiss plaintiff’s UCL claim under the fraudulent prong.   
+25                 b.   Unfair Prong                                      
+26       Both parties agree that California courts employ three different tests in determining 
+27  whether a business practice is “unfair” under the UCL:  the balancing test, the FTC test, and the 
+28  public policy test.  See Allen v. Hyland’s, Inc., No. CV 12-1150 DMG (MANx), </pre><span class="citation no-link">2016 WL 
+1</span><pre class="inline">  4402794, at *3 (C.D. Cal. Aug. 16, 2016).  The balancing test determines whether the alleged 
+2  practice is immoral, unethical, oppressive, unscrupulous, or substantially injurious to consumers 
+3  and requires the court to weigh the utility of the defendant’s alleged conduct against the gravity of 
+4  the harm to the alleged victim.  Drum v. San Fernando Valley Bar Ass’n, </pre><span class="citation" data-id="5665167"><a href="/opinion/5809756/drum-v-san-fernando-valley-bar-assn/" aria-description="Citation for case: Drum v. San Fernando Valley Bar Ass&#x27;n">182 Cal. App. 4th 247</a></span><pre class="inline">, 
+5  257 (2010).  The FTC test draws on the definition of unfair appearing in § 5 of the Federal Trade 
+6  Commission Act and requires that:  (1) the consumer injury be substantial; (2) the injury must not 
+7  be outweighed by any countervailing benefits to consumers or competition; and (3) it must be an 
+8  injury that consumers themselves could not reasonably have avoided.  Drum, </pre><span class="citation" data-id="5665167"><a href="/opinion/5809756/drum-v-san-fernando-valley-bar-assn/" aria-description="Citation for case: Drum v. San Fernando Valley Bar Ass&#x27;n">182 Cal. App. 4th at 
+9</a></span><pre class="inline">  257.  Finally, the public policy test requires that the public policy which is a predicate to a 
+10  consumer unfair competition action under the “unfair” prong of the UCL must be tethered to 
+11  specific constitutional, statutory, or regulatory provisions.  </pre><span class="citation" data-id="5665167"><a href="/opinion/5809756/drum-v-san-fernando-valley-bar-assn/#256" aria-description="Citation for case: Drum v. San Fernando Valley Bar Ass&#x27;n">Id. at 256</a></span><pre class="inline">. 
+12       Defendant argues that plaintiff here fails to state a claim under the balancing test because 
+13  plaintiff never alleges that:  “1) the Products do not function as intended; 2) she has suffered any 
+14  ‘substantially injurious effects’ or any ‘grave harm’ from using the Product; 3) she used the 
+15  Product at all; 4) or any specific ill-effects.”  (Doc. No.13 at 28.)  Defendant also argues that 
+16  plaintiff has failed to state a cognizable claim under the FTC test because she alleges an injury 
+17  that she could have reasonably avoided.  (Doc. No. 13 at 28) (citing Daugherty v. Am. Honda 
+18  Motor Co., Inc., </pre><span class="citation" data-id="2290504"><a href="/opinion/2290504/daugherty-v-american-honda-motor-co-inc/#839" aria-description="Citation for case: Daugherty v. American Honda Motor Co., Inc.">144 Cal. App. 4th 824, 839</a></span><pre class="inline"> (2006)).  Finally, defendant argues that plaintiff fails 
+19  to state a cognizable claim under the public policy test because her complaint “fails to ‘identify an 
+20  actual policy based on a legal provision that the defendant violated.’”  (Doc. No. 13 at 28) 
+21  (quoting Hodges v. Apple Inc., No. 13-cv-01128-WHO, </pre><span class="citation no-link">2013 WL 4393545</span><pre class="inline">, at *6 (N.D. Cal. Aug. 
+22  12, 2013)).                                                           
+23       Plaintiff argues that defendant’s contention that its conduct is not unfair presents a dispute 
+24  of fact that cannot be resolved by way of a motion to dismiss.  (Doc. No. 19 at 23–24) (citing 
+25  Davis v. HSBC Bank Nevada, N.A., </pre><span class="citation" data-id="807798"><a href="/opinion/807798/gary-davis-v-hsbc-bank-nevada-na/#1171" aria-description="Citation for case: Gary Davis v. Hsbc Bank Nevada, N.A.">691 F.3d 1152, 1171</a></span><pre class="inline"> (9th Cir. 2012)).  Plaintiff also argues 
+26  that she nevertheless meets all three tests under the UCL.  First, she contends that her complaint 
+27  alleges that “defendant’s conduct deceives consumers as to the nutritional characteristics of the 
+28  Products and far outweighs any benefit to consumers.”  (Doc. No. 19 at 24.)  Second, she avers 
+1  that she has met the FTC test because she alleges that she and other consumers would not have 
+2  purchased the Products but for the misrepresentations.  (Id.)  Plaintiff also contends that she could 
+3  not have reasonably avoided her injury because she had no way of knowing the Product was not 
+4  truly natural, thus she meets that aspect of the FTC test as well.  (Id.)  Finally, plaintiff argues that 
+5  defendant’s conduct is unfair under the public policy test because she “tethered her UCL claim to 
+6  a violation of the CLRA or FAL . . . which were enacted to protect consumers from deceptive 
+7  advertising.”  (Id.) (citing </pre><span class="citation no-link">Cal. Civ. Code § 1760</span><pre class="inline"> and In re 5-hour ENERGY Mktg. &amp; Sales 
+8  Practices Litig., No. MDL 13-2438 PSG (PLAx), </pre><span class="citation no-link">2014 WL 5311272</span><pre class="inline">, at *26 (C.D. Cal. Sept. 4, 
+9  2014)).                                                               
+10       In reply, defendant argues that plaintiff’s reliance on the decision in Davis is misplaced 
+11  because the Ninth Circuit also stated in that case that the court would “affirm a judgment of 
+12  dismissal where the complaint fails to allege facts showing that a business practice is unfair.”  
+13  (Doc. No. 21 at 16) (quoting Davis, 691 F. 3d at 1170–71).  Defendant reiterates that plaintiff’s 
+14  complaint with respect to this claim does not satisfy the balancing test, the FTC test, or the public 
+15  policy test, because plaintiff has not adequately pleaded fraud.  (Doc. No. 21 at 16–17.)   
+16       The court need not decide which definition of unfair conduct should apply in assessing the 
+17  sufficiency of plaintiff’s complaint because it concludes that what qualifies as “unfair” with 
+18  respect to plaintiff’s UCL claim involves a question of fact and plaintiff’s complaint sufficiently 
+19  alleges facts showing that a business practice is unfair.  See Davis, </pre><span class="citation" data-id="807798"><a href="/opinion/807798/gary-davis-v-hsbc-bank-nevada-na/#1170" aria-description="Citation for case: Gary Davis v. Hsbc Bank Nevada, N.A.">691 F.3d at 1170</a></span><pre class="inline">.  Just like the 
+20  plaintiffs in In re 5-hour ENERGY Mktg. &amp; Sales Practice Litig., plaintiff here has alleged that 
+21  defendant violated the unfair prong of the UCL by making misrepresentations on the label of the 
+22  Products, and plaintiff tethers that claim to her FAL and CLRA claims.  </pre><span class="citation no-link">2014 WL 5311272</span><pre class="inline">, at 
+23  *26.8  As defendant points out, plaintiff’s UCL claim is therefore based on the same purported 
+24  conduct underlying her fraud claim because the CLRA and FAL claims must satisfy Rule 9(b).  
+25  (Doc. No. 21 at 17) (citing Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074</a></span><pre class="inline">, 1104–05 (N.D. 
+26                                                                        
+
+27  8  The court in In re 5-hour ENERGY Mktg. &amp; Sales Practice Litig. dismissed plaintiffs’ UCL 
+   claims in that case because their CLRA and FAL claims did not satisfy Rule 9(b).  See </pre><span class="citation no-link">2014 WL 
+28</span><pre class="inline">  5311272, at *26.  The same is not the case here.                      
+</pre><span class="citation no-link">1  Cal. 2017</span><pre class="inline">)).  If plaintiff’s fraud claim ultimately fails, so too might her UCL claim.  (Id.)  
+2  However, because plaintiff has sufficiently alleged cognizable fraud claims for the reasons 
+3  discussed above, her UCL “unfair” prong claim likewise survives the pending motion to dismiss.  
+4  The court will therefore deny defendant’s motion to dismiss plaintiff’s claims under the “unfair” 
+5  prong of the UCL.                                                     
+6                 c.   Unlawful Prong                                    
+7       “To state a claim under the unlawful prong of the UCL, a plaintiff must plead: (1) a 
+8  predicate violation, and (2) an accompanying economic injury caused by the violation.”  Shelton 
+9  v. Ocwen Loan Servicing, LLC, No. 18-CV-02467-AJB-WVG, </pre><span class="citation no-link">2019 WL 4747669</span><pre class="inline">, at *10 (S.D. 
+10  Cal. Sept. 30, 2019).  “By proscribing any unlawful business practice, the UCL borrows 
+11  violations of other laws and treats them as unlawful practices that the unfair competition law 
+12  makes independently actionable.”  Alvarez v. Chevron Corp., </pre><span class="citation" data-id="613006"><a href="/opinion/613006/alvarez-v-chevron-corp/" aria-description="Citation for case: Alvarez v. Chevron Corp.">656 F.3d 925</a></span><pre class="inline">, 933 n.8 (9th Cir. 
+13  2011) (alterations and citations omitted).  “Virtually any law—federal, state or local—can serve 
+14  as a predicate for an action under [the UCL].”  Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="4153612"><a href="/opinion/4376359/kargbo-v-national-railroad-passenger-corporation/#1074" aria-description="Citation for case: Kargbo v. National Railroad Passenger Corporation">243 F. Supp. 3d 
+15  1074, 1094</a></span><pre class="inline"> (N.D. Cal. 2017) (quoting Smith v. State Farm Mut. Auto. Ins. Co., </pre><span class="citation no-link">93 Cal. App. 4th 
+16</span><pre class="inline">  700, 718 (2001)).  Where an “unlawful” UCL claim sounds in fraud, it too must meet Rule 9(b)’s 
+17  pleading standards.  Hadley, </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1094" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d at 1094</a></span><pre class="inline">.                 
+18       Defendant moves to dismiss plaintiff’s UCL claim on the ground that it fails under the 
+19  unlawful prong because plaintiff fails to “allege that Defendant has violated any applicable law.”  
+20  (Doc. No. 13 at 29.)  On this point, defendant argues first that plaintiff’s reference to </pre><span class="citation no-link">58 Fed. Reg. 
+21</span><pre class="inline">  2303, 2407 (Jan. 6, 1993) is irrelevant because that regulation only applies to human food 
+22  products.  (Id.)  Second, defendant argues that plaintiff’s reference to </pre><span class="citation no-link">7 C.F.R. § 205.2</span><pre class="inline"> likewise 
+23  fails to satisfy the unlawful prong because the definitions in that regulation relate only to human 
+24  or livestock, not pet, consumption.  (Id.)  Defendant also contends that plaintiff may not rely on 
+25  an alleged CLRA or FAL violation as the underlying unlawful act because the proof necessary to 
+26  establish a violation of the CLRA is the same proof that would establish a violation of the 
+27  unlawful prong of the UCL.  (Id. at 29–30) (citing Faulk v. Sears Roebuck and Co., </pre><span class="citation no-link">2013 WL 
+28</span><pre class="inline">  1703378, at *10 (N.D. Cal. Apr. 19, 2013)).                           
+1       In opposition, plaintiff asserts that she does not allege violations of </pre><span class="citation no-link">58 Fed. Reg. 2303</span><pre class="inline"> or 7 
+</pre><span class="citation no-link">2  C.F.R. § 205.2</span><pre class="inline"> as the predicate violations of the UCL.  (Doc. No. 19 at 25.)  Rather, plaintiff 
+3  contends that her UCL claim is based on alleged predicate violations of the CLRA and FAL.  (Id.)  
+4  Plaintiff further contends that courts have “consistently held that the CLRA and FAL can serve as 
+5  predicate violations of the UCL.”  (Id.) (citing MacDonald v. Ford Motor Co., </pre><span class="citation" data-id="7225873"><a href="/opinion/7307970/united-states-ex-rel-barko-v-halliburton-co/#1087" aria-description="Citation for case: United States ex rel. Barko v. Halliburton Co.">37 F. Supp. 3d 
+6  1087, 1097</a></span><pre class="inline"> (N.D. Cal. 2014); Zeiger v. WellPet LLC, </pre><span class="citation" data-id="7247583"><a href="/opinion/7329667/zeiger-v-wellpet-llc/#852" aria-description="Citation for case: Zeiger v. Wellpet LLC">304 F. Supp. 3d 837, 852</a></span><pre class="inline"> (N.D. Cal. 2018)).   
+7       In its reply, defendant argues only that because plaintiff’s CLRA and FAL claims fail, her 
+8  UCL unlawful claim fails as well.  (Doc. No. 21 at 18.)               
+9       “[V]irtually any state, federal or local law can serve as the predicate for an action under 
+10  section 17200.”  People ex rel. Bill Lockyer v. Fremont Life Ins. Co., </pre><span class="citation" data-id="5664336"><a href="/opinion/5808962/people-ex-rel-lockyer-v-fremont-life-insurance/" aria-description="Citation for case: People ex rel. Lockyer v. Fremont Life Insurance">104 Cal. App. 4th 508</a></span><pre class="inline">, 515 
+11  (2002) (citing Podolsky v. First Healthcare Corp. </pre><span class="citation" data-id="2292494"><a href="/opinion/2292494/podolsky-v-first-healthcare-corp/#647" aria-description="Citation for case: Podolsky v. First Healthcare Corp.">50 Cal. App. 4th 632, 647</a></span><pre class="inline"> (1996).  Just as in 
+12  Zeiger, plaintiff here has “stated claims for violations of the CLRA and FAL, so these claims may 
+13  serve as predicate violations for a claim under the UCL’s ‘unlawful’ prong.”  </pre><span class="citation" data-id="7247583"><a href="/opinion/7329667/zeiger-v-wellpet-llc/" aria-description="Citation for case: Zeiger v. Wellpet LLC">304 F. Supp. 3d at 
+14</a></span><pre class="inline">  852.  Other district courts in this circuit have recognized that “it is well established that a CLRA 
+15  violation suffices as the predicate” to a UCL “unlawful” prong claim.  MacDonald, </pre><span class="citation" data-id="8811381"><a href="/opinion/8826560/ratigan-v-american-united-life-ins/" aria-description="Citation for case: Ratigan v. American United Life Ins.">37 F. Supp. 
+16</a></span><pre class="inline">  3d at 1097 (citing Kowalsky v. Hewlett-Packard Co., </pre><span class="citation" data-id="2469100"><a href="/opinion/2469100/kowalsky-v-hewlett-packard-co/#1161" aria-description="Citation for case: Kowalsky v. Hewlett-Packard Co.">771 F.Supp.2d 1156, 1161</a></span><pre class="inline"> (N.D. Cal. 
+17  2011)).  The court finds no reason to depart from those holdings and concludes that a CLRA or 
+18  FAL violation properly falls into the category of a state, federal, or local law for this purpose.  
+19  Accordingly, defendant’s motion to dismiss plaintiff’s UCL claim brought under the “unlawful” 
+20  prong will be denied.                                                 
+21       D.   Breach of Express Warranty                                  
+22        California Commercial Code § 2313, which defines the term “express warranty,” applies 
+23  to “transactions in goods.”  See </pre><span class="citation no-link">Cal. Com. Code § 2102</span><pre class="inline">; see also Cal. Civ. Code1791.2(a)(1) 
+24  (defining “express warranty” as “[a] written statement arising out of a sale to the consumer of a 
+25  consumer good pursuant to which the manufacturer, distributor, or retailer undertakes to preserve 
+26  or maintain the utility or performance of the consumer good or to provide compensation if there is 
+27  a failure in utility or performance.”).  “An express warranty is a term of the parties’ contract.” 
+28  /////                                                                 
+1  Tae Hee Lee v. Toyota Motor Sales, U.S.A., Inc., </pre><span class="citation" data-id="8714094"><a href="/opinion/8730892/tae-hee-lee-v-toyota-motor-sales-usa-inc/#978" aria-description="Citation for case: Tae Hee Lee v. Toyota Motor Sales, U.S.A., Inc.">992 F.Supp.2d 962, 978</a></span><pre class="inline"> (C.D. Cal. 2014) 
+2  (citation omitted).                                                   
+3       Defendant contends that to allege facts identifying the exact terms of the warranty, a 
+4  plaintiff must provide specifics about what the warranty statement was, and how and when it was 
+5  breached.  T &amp; M Solar &amp; Air Conditioning, Inc. v. Lennox Int’l Inc., </pre><span class="citation" data-id="7229634"><a href="/opinion/7311730/t-m-solar-air-conditioning-inc-v-lennox-international-inc/" aria-description="Citation for case: T &amp; M Solar &amp; Air Conditioning, Inc. v. Lennox...">83 F. Supp. 3d 855</a></span><pre class="inline">, 875 
+6  (N.D. Cal. 2015).  Moreover, defendant argues that under California Commercial Code Section 
+7  10215, “a representation about a product does not control if it is modified by more specific 
+8  language on the same label, because ‘[e]xact or technical specifications displace . . . general 
+9  language of description.”  (Doc. No. 13 at 21.)  Defendant concludes that assuming it warranted 
+10  that the products were “All Natural with Added Vitamins, Minerals &amp; Nutrients,” plaintiff has 
+11  failed to allege facts that would establish that the products were not in conformance with that 
+12  warranty.  (Id.)                                                      
+13       Plaintiff argues that an express warranty claim is adequately pleaded under California law 
+14  when the plaintiff alleges that: (1) the seller’s statement constitutes an affirmation of fact, a 
+15  promise, or a description of goods; (2) the statement was part of the basis of the bargain; and 
+16  (3) the warranty was breached.  (Doc. No. 19 at 18) (citing Cal. Com. Code. § 2313(1)).  Plaintiff 
+17  asserts she has adequately alleged all three elements in her complaint because defendant made an 
+18  affirmation of fact by representing each Product as “All Natural”; plaintiff relied on that 
+19  representation; and defendant breached the express warranty because the Products were not 
+20  natural.  (Id.)                                                       
+21       In reply, defendant contends that failure to plead the exact terms of the warranty defeats a 
+22  breach of express warranty claim and that plaintiff’s claim should be dismissed here due to her 
+23  failure to so allege.  (Doc. No. 21 at 12) (citing Hauck v. Advanced Micro Devices, Inc., No. 19-
+24  CV-00447-LHK, </pre><span class="citation no-link">2018 WL 5729234</span><pre class="inline">, at *7 (N.D. Cal. Oct. 29, 2018)).      
+25       Reliance “can be reasonably inferred from the tenor and totality of the allegations in the 
+26  complaint.”  Williams v. Beechnut Nutrition Corp., </pre><span class="citation" data-id="2139353"><a href="/opinion/2139353/williams-v-beechnut-nutrition-corp/#142" aria-description="Citation for case: Williams v. Beechnut Nutrition Corp.">185 Cal. App. 3d 135, 142</a></span><pre class="inline"> (1986).  Here, 
+27  plaintiff’s complaint identified the purported warranties and plausibly alleges breach, reliance, 
+28  and injury.  (Doc. No. 1-1 at ¶ 31) (alleging that plaintiff paid more than she otherwise would 
+1  have for defendant’s pet food based on the identified representations).  For the reasons set forth 
+2  above addressing plaintiff’s intentional misrepresentation claim, plaintiff has alleged a cognizable 
+3  breach of express warranty claim despite the label’s modifying language of “added vitamins, 
+4  minerals and nutrients” because she has plausibly alleged that language could be interpreted to 
+5  mean only natural vitamins, minerals, and nutrients were added to the Products.  Accordingly, 
+6  defendant’s motion to dismiss plaintiff’s express warranty claim will also be denied.     
+7       E.   Breach of Implied Warranty                                  
+8       Defendant argues that plaintiff’s implied warranty of merchantability claim asserted under 
+9  California Commercial Code § 2314(2)(f) should be dismissed for three reasons.  First, defendant 
+10  argues that it did not breach any alleged warranty that the Products are “All Natural with Added 
+11  Vitamins, Minerals and Nutrients.”  (Doc. No. 13 at 22.)  Second, defendant cites two district 
+12  court orders for the proposition that “when an implied warranty of merchantability cause of action 
+13  is based solely on [§ 2314(2)(f)], the claim rises and falls with express warranty claims brought 
+14  for the same product.”  (Id.) (citing Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074</a></span><pre class="inline">, 1106 
+15  (N.D. Cal. Mar. 21, 2017) and Broomfield v. Craft Brew Alliance, Inc., </pre><span class="citation no-link">2017 WL 3838453</span><pre class="inline">, at *3, 
+16  *11 (N.D. Cal. Sept. 1, 2017)).  Thus, defendant argues, because plaintiff’s express warranty 
+17  claim is subject to dismissal, so too is her implied warranty claim.  (Doc. No. 13 at 22.)  Third, 
+18  defendant argues that to assert an implied warranty claim under § 2314, a plaintiff must be in 
+19  vertical privity with the defendant.  (Id.)                           
+20       Plaintiff responds that because she has adequately alleged her express warranty claim, her 
+21  implied warranty claim should likewise survive this motion to dismiss.  (Doc. No. 19 at 19) 
+22  (citing </pre><span class="citation no-link">Cal. Com. Code § 2314</span><pre class="inline">(f)).  Plaintiff also argues that defendant’s vertical privity argument 
+23  fails because three exceptions apply to her:  (1) there is an exception for warranties involving 
+24  “foodstuff”; (2) there is an exception when the plaintiff relied on a product’s labeling; and (3) 
+25  there is an exception when a plaintiff is a third-party beneficiary, which plaintiff alleges she is 
+26  because she purchased the Products from a PetSmart store.  (Doc. No. 19 at 19.)  
+27       In its reply, defendant argues that none of the aforementioned exceptions apply to 
+28  plaintiff.  (Doc. No. 21 at 13.)  First, defendant argues that California appellate courts have not 
+1  specifically addressed the third-party beneficiary exception to the privity requirement.  (Id.)  
+2  Second, defendant contends that the advertising exception applies only to express warranties, not 
+3  implied warranties.  (Id.) (citing Martin v. Tradewinds, CV16-9249 PSG (MRWx), </pre><span class="citation no-link">2017 WL 
+4</span><pre class="inline">  1712533, at *11 (C.D. Cal. Apr. 27, 2017)).  Third, defendant contends that no authority supports 
+5  plaintiff’s claim that the foodstuff exception applies to pet food.  (Doc. No. 21 at 14.)  In this 
+6  latter regard, defendant argues that the cases plaintiff cites only involve food intended for human 
+7  consumption.  (Id.)                                                   
+8       The court finds plaintiff’s arguments persuasive.  First, both parties agree that the implied 
+9  and express warranty claims are tied together for purposes of resolving the pending motion.  
+10  (Doc. No. 13 at 22; Doc. No. 19 at 19.)  Because the court finds that plaintiff has alleged a valid 
+11  express warranty claim, so too does it conclude that plaintiff has asserted a cognizable claim for 
+12  breach of an implied warranty.  Second, the court agrees with the reasoning set forth by the 
+13  district court in Van Mourik regarding vertical privity.  There, the court acknowledged there is a 
+14  vertical privity requirement, but held that it may be relaxed “‘when the plaintiff relies on written 
+15  labels or advertisements of a manufacturer’ . . . or when an express warranty is extended by the 
+16  manufacturer.”  </pre><span class="citation no-link">2018 WL 1116715</span><pre class="inline">, at *5 (citing Atkinson v. Elk Corp. of Texas, </pre><span class="citation no-link">142 Cal. App. 
+17</span><pre class="inline">  4th 212, 229 (2006)).  Accordingly, just as in Van Mourik, because the alleged representations 
+18  here are written advertisements and because plaintiff has stated a plausible claim for breach of 
+19  express warranty, the vertical privity rule does not bar plaintiff’s implied warranty claim.  
+20  Defendant’s motion to dismiss plaintiff’s implied warranty claim will therefore also be denied.  
+21       F.   Quasi-Contract/Unjust Enrichment/Restitution Under California Law  
+22       Plaintiffs may seek restitution on a quasi-contract theory where the defendant obtained a 
+23  benefit from the plaintiff by fraud.  Durell v. Sharp Healthcare, </pre><span class="citation" data-id="2282785"><a href="/opinion/2282785/durell-v-sharp-healthcare/" aria-description="Citation for case: Durell v. Sharp Healthcare">183 Cal. App. 4th 1350</a></span><pre class="inline">, 1370 
+24  (2010).  Just as it has argued that plaintiff has not sufficiently alleged a misrepresentation or 
+25  omission and therefore has not adequately pleaded fraud, defendant argues plaintiff’s restitution 
+26  claim should be dismissed.  (Doc. No. 13 at 14) (citing Rojas-Lozano v. Google, Inc., </pre><span class="citation" data-id="8766336"><a href="/opinion/8782569/freeman-v-evans/" aria-description="Citation for case: Freeman v. Evans">159 F. 
+27</a></span><pre class="inline">  Supp. 3d 1101, 1120 (N.D. Cal. 2016)).  Defendant also argues that under California law “‘there 
+28  cannot be a claim based on quasi contract where there exists between the parties a valid express 
+1  contract covering the same subject matter.’”  (Doc. No. 13 at 25) (quoting Smith v. Allmax 
+2  Nutrition, Inc., No. 1:15-cv-00744-SAB, </pre><span class="citation no-link">2015 WL 9434768</span><pre class="inline">, at *9 (E.D. Cal. Dec. 24, 2015)).  
+3  Defendant thus contends that because plaintiff has asserted a separate claim for breach of an 
+4  express warranty, she cannot also bring this quasi-contract claim.    
+5       Plaintiff argues that the Ninth Circuit has rejected the argument that she cannot state a 
+6  claim for quasi-contract along with her separate claim for breach of express warranty.  (Doc. No. 
+7  19 at 21) (citing Astiana v. Hain Celestial Grp., Inc., </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/#762" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">783 F. 3d 753, 762</a></span><pre class="inline"> (9th Cir. 2015)).  
+8  Plaintiff contends that instead “Fed R. Civ. P. Rule 8(a)(3) unequivocally allows plaintiffs to 
+9  plead alternative claims.”  (Doc. No. 19 at 21.)                      
+10       Defendant replies that although Rule 8 allows a plaintiff to state multiple claims, “the rule 
+11  does not allow a plaintiff invoking state law to assert an unjust enrichment claim while also 
+12  alleging an express contract.”  (Doc. No. 21 at 15) (citing Smith, </pre><span class="citation no-link">2015 WL 9434768</span><pre class="inline">, at *9). 
+13       The court agrees with defendant that Rule 8 does not allow a plaintiff invoking state law 
+14  to assert an unjust enrichment claim while also alleging an express contract.  See Smith, </pre><span class="citation no-link">2015 WL 
+15</span><pre class="inline">  9434768; see also In re Facebook Privacy Litig., </pre><span class="citation" data-id="2180229"><a href="/opinion/2180229/in-re-facebook-privacy-litigation/#718" aria-description="Citation for case: In Re Facebook Privacy Litigation">791 F.Supp.2d 705, 718</a></span><pre class="inline"> (N.D. Cal. 2011) aff’d, 
+16  572 Fed. App’x 494 (9th Cir. 2014).  A breach of an express warranty covers the same subject 
+17  matter as a breach of an express contract.  Smith, </pre><span class="citation no-link">2015 WL 9434768</span><pre class="inline">, at *10.  Because plaintiff 
+18  may not assert a quasi-contract claim while also alleging an express warranty claim, the court will 
+19  grant defendant’s motion to dismiss plaintiff’s quasi-contract restitution claim.  
+20       G.   Punitive Damages                                            
+21       Plaintiff requests punitive damages in her prayer for relief.  (Doc. No. 1-1 at 30.)  
+22  Defendant moves to dismiss that punitive damages claim because “California federal courts 
+23  require a complaint seeking punitive damages to include facts sufficient to support its punitive 
+24  damages claim.”  (Doc. No. 13 at 34) (citing Young Am.’s Found. v. Napolitano, No. 17-cv-
+25  02255-MMC, </pre><span class="citation no-link">2018 WL 1947766</span><pre class="inline">, at *12 (N.D. Cal. Apr. 25, 2018)).  Defendant also contends 
+26  that punitive damages are not available under either the UCL or FAL.  (Doc. No. 13 at 34) (citing 
+27  In re Wal-Mart Stores, Inc. Wage and Hour Litig., </pre><span class="citation" data-id="1950713"><a href="/opinion/1950713/in-re-wal-mart-stores-inc-wage-hour-litigation/#620" aria-description="Citation for case: In Re Wal-Mart Stores, Inc. Wage &amp; Hour Litigation">505 F. Supp. 2d 609, 620</a></span><pre class="inline"> (N.D. Cal. 2007)).  
+28  Neither, defendant argues, are punitive damages available for breach of express warranty, breach 
+1  of implied warranty, or unjust enrichment.  (Id.) (citing Krieger v. Nick Alexander Imports, Inc., 
+2  </pre><span class="citation" data-id="2135293"><a href="/opinion/2135293/krieger-v-nick-alexander-imports-inc/#212" aria-description="Citation for case: Krieger v. Nick Alexander Imports, Inc.">234 Cal. App. 3d 205, 212</a></span><pre class="inline"> (1991)).  Thus, defendant asserts, plaintiff cannot seek punitive 
+3  damages under any of her UCL, FAL, breach of express warranty, breach of implied warranty, or 
+4  unjust enrichment claims.  (Doc. No. 13 at 34–35.)  Defendant concedes that punitive damages 
+5  are an available remedy under the CLRA and for intentional misrepresentation, but argues that 
+6  such damages are limited to circumstances of oppression, fraud, or malice.  (Doc. No. 13 at 35) 
+7  (citing </pre><span class="citation no-link">Cal. Civ. Code § 3294</span><pre class="inline">(a)).  Defendant contends that a corporate entity cannot commit 
+8  willful and malicious conduct; the oppression, fraud, or malice must be on the part of an officer, 
+9  director, or managing agent of the corporation.  (Doc. No. 13 at 35) (citing In re Yahoo! Inc. 
+10  Customer Data Security Breach Litig., </pre><span class="citation" data-id="7248382"><a href="/opinion/7330465/in-re-yahoo-inc-customer-data-sec-breach-litig/" aria-description="Citation for case: In re Yahoo! Inc. Customer Data Sec. Breach Litig.">313 F. Supp. 3d 1113</a></span><pre class="inline">, 1147–48 (N.D. Cal. 2018)).  
+11  Accordingly, defendant argues that because plaintiff has not alleged that any officer, director, or 
+12  managing agent of defendant acted with fraud, oppression, or malice, her punitive damages 
+13  claims must be dismissed in their entirety.  (Doc. No. 13 at 35.)     
+14       In opposition, plaintiff argues that a request for punitive damages is not a claim and is not 
+15  the proper subject of a motion to dismiss.  (Doc. No. 19 at 31) (citing Shimy v. Wright Med. 
+16  Tech., Inc., No. 2:14-CV-04541-CAS (RZx), </pre><span class="citation no-link">2014 WL 3694140</span><pre class="inline">, at *4 (C.D. Cal. July 23, 2014)).  
+17  Plaintiff also contends that discovery will “reveal the identities of any responsible corporate 
+18  officers, directors, or managing agents,” in response to defendant’s assertion that she did not 
+19  properly make these allegations in her complaint.  (Doc. No. 19 at 31.) 
+20       In its reply, defendant asserts that courts routinely dismiss punitive damages claims where 
+21  the plaintiff failed to plead support for such damages.  (Doc. No. 21 at 21) (citing Anderson v. 
+22  United States, </pre><span class="citation no-link">2018 WL 4242344</span><pre class="inline">, at *2 (E.D. Cal. Sept. 6, 2018)).  Because plaintiff does not 
+23  dispute that punitive damages are not available under the UCL, FAL, or breach of warranty, 
+24  defendant argues that the court should dismiss those damages claims.  (Id.)  Finally, defendant 
+25  argues that plaintiff cannot rely on discovery to reveal the identifies of any responsible corporate 
+26  agents, but must plead that an officer, director, or managing agent of defendant committed an act 
+27  of oppression, fraud, or malice.  (Id.) (citing In re Yahoo! Inc. Customer Data Sec. Breach Litig., 
+28  /////                                                                 
+1  </pre><span class="citation" data-id="7248382"><a href="/opinion/7330465/in-re-yahoo-inc-customer-data-sec-breach-litig/#1148" aria-description="Citation for case: In re Yahoo! Inc. Customer Data Sec. Breach Litig.">313 F. Supp. 3d at 1148</a></span><pre class="inline">).  Because plaintiff failed to do so, defendant asks that this court dismiss 
+2  her remaining claims for punitive damages.                            
+3       Punitive damages are generally not available under the UCL or FAL.  See In re Wal-Mart 
+4  Stores, Inc. Wage and Hour Litig., </pre><span class="citation" data-id="1950713"><a href="/opinion/1950713/in-re-wal-mart-stores-inc-wage-hour-litigation/#620" aria-description="Citation for case: In Re Wal-Mart Stores, Inc. Wage &amp; Hour Litigation">505 F. Supp. 2d at 620</a></span><pre class="inline">; see also Petkevicius v. NBTY, Inc., 
+5  No.: 3:14-cv-02616-CAB-(RBB), </pre><span class="citation no-link">2017 WL 1113295</span><pre class="inline">, at *10 (S.D. Cal. Mar. 24, 2017).  
+6  Moreover, punitive damages are not available under California law for breach of express or 
+7  implied warranty.  See Goel v. Coalition America Holding Company Inc, No. CV 11-2349 GAF 
+8  (Ex), </pre><span class="citation no-link">2011 WL 13128300</span><pre class="inline">, at *9 (C.D. Cal. July 5, 2011) (citing Major v. W. Home Ins. Co., 169 
+</pre><span class="citation multiple-matches"><a href="/c/Cal.%20App.%204th/9/1197/">9  Cal. App. 4th 1197</a></span><pre class="inline">, 1224 (2009)).  Plaintiff appears to concede these points.  Accordingly, 
+10  plaintiff’s only potential punitive damages claims come under her intentional misrepresentation 
+11  claim and her CLRA claim.                                             
+12       First, because plaintiff’s CLRA claim seeks only injunctive relief, any claim for punitive 
+13  damages in connection with that claim is moot.  Second, defendant correctly argues that plaintiff 
+14  has failed to identify any officer, director, or managing agent who committed an act of 
+15  oppression, fraud, or malice in the allegations of her complaint and therefore cannot seek punitive 
+16  damages in connection with her intentional misrepresentation claim.  Where a plaintiff proves 
+17  that the defendant has been guilty of fraud or malice, that plaintiff may recover punitive damages.  
+18  </pre><span class="citation no-link">Cal. Civ. Code § 3294</span><pre class="inline">(a).  However, “a corporate entity cannot commit willful and malicious 
+19  conduct; instead, ‘the advance knowledge and conscious disregard, authorization, ratification or 
+20  act of oppression, fraud, or malice must be on the part of an officer, director, or managing agent 
+21  of the corporation.’”  In re Yahoo! Inc. Customer Data Sec. Breach Litig., </pre><span class="citation" data-id="7248382"><a href="/opinion/7330465/in-re-yahoo-inc-customer-data-sec-breach-litig/" aria-description="Citation for case: In re Yahoo! Inc. Customer Data Sec. Breach Litig.">313 F. Supp. 3d at 
+22</a></span><pre class="inline">  1148; see also Taiwan Semiconductor Mfg. Co. v. Tela Innovations, Inc., No. 14-CV-00362-BLF, 
+23  </pre><span class="citation no-link">2014 WL 3705350</span><pre class="inline">, at *6 (N.D. Cal. July 24, 2014) (“[A] company simply cannot commit willful 
+24  and malicious conduct–only an individual can.”)                       
+25       Accordingly, plaintiff’s claims for punitive damages are dismissed with leave to amend 
+26  only in connection with her intentional misrepresentation claim.      
+27  /////                                                                 
+28  /////                                                                 
+1                                    CONCLUSION 
+2          For the reasons set forth above, 
+3       1.  Defendant’s motion to dismiss (Doc. No. 13) is granted in part and denied in part as 
+4          follows: 
+5             a.  Plaintiff&#x27;s seventh cause of action for breach of quasi-contract is dismissed without 
+6                leave to amend; 
+7             b.  Plaintiffs requests for punitive damages are stricken with leave to amend only in 
+8                connection with her intentional misrepresentation claim; 
+9       2.  This action now proceeds on plaintiffs intentional misrepresentation, express warranty, 
+10          implied warranty, CLRA, UCL, and FAL claims; and 
+11       3.  Any amended complaint shall be filed within twenty-one (21) days from the issuance of 
+12          this order. 
+13  |  IT IS SO ORDERED.                              a            - 
+       Dated:  _ December 30, 2020                 Dol   A   a yt 
+15                                           UNITED STATES DISTRICT JUDGE 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28</pre>

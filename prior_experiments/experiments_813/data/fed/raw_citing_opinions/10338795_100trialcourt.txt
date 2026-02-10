@@ -1,0 +1,322 @@
+<pre class="inline">1                                                                         
+2                                                                         
+3                                                                         
+4                      UNITED STATES DISTRICT COURT                       
+5                     NORTHERN DISTRICT OF CALIFORNIA                     
+6                                                                         
+7    RADUS TEK SERVICES, INC.,        Case No.  5:24-cv-04793-PCP         
+
+8              Plaintiff,                                                 
+                                      ORDER GRANTING MOTION TO            
+9          v.                         DISMISS                             
+
+10    IDC TECHNOLOGIES INC., et al.,   Re: Dkt. No. 20                     
+               Defendants.                                                
+11                                                                         
+
+12        Plaintiff Radus Tek Services, Inc. brings this lawsuit against defendants IDC 
+13   Technologies, Inc. and Tata Consulting Services, Ltd. (TCS) for economic injury it allegedly 
+14   suffered as a result of IDC’s failure to pay invoices it owed for services rendered by Radus Tek 
+15   employees that IDC staffed on TCS projects. TCS moves to dismiss for failure to state a claim 
+16   pursuant to Rule 12(b)(6). For the following reasons, the Court grants the motion to dismiss. 
+17                              BACKGROUND                                 
+18        Radus Tek is a professional services firm that specializes in technology, consulting, 
+19   corporate training, staffing solutions, and software design and development. IDC is an information 
+20   technology staffing and consulting business. TCS is a global leader in IT services, consulting, and 
+21   business solutions.                                                   
+22        TCS has a preferred partner program through which it contracts with companies like IDC 
+23   to provide personnel for TCS projects.1 IDC was formerly one of the companies in this program.  
+24        On December 19, 2019, Radus Tek entered into a professional services agreement with 
+25   IDC pursuant to which Radus Tek would supply personnel to TCS for IT services that TCS 
+26                                                                         
+
+27                                                                         
+    1 Although TCS disputes Radus Tek’s characterization of the partner program as a “preferred 
+1   provided to its client, Vanguard. Under this multi-tiered subcontracting structure, Vanguard 
+2   contracted with TCS, which contracted with IDC, which contracted with Radus Tek. Through this 
+3   arrangement, Radus Tek employees Syed Muhammed Raheel Hassan and Firoz Makati were 
+4   staffed on projects for Vanguard. Radus Tek submitted invoices to IDC each month for the work 
+5   that those employees performed, and IDC paid the amount of the invoices it received, often with 
+6   some delays of up to a couple of months, which it sometimes blamed on TCS. Under its contract 
+7   with IDC, Radus Tek was prohibited from communicating with IDC’s clients, including TCS, for 
+8   payment. Radus Tek had no contract with TCS.                          
+9        Radus Tek alleges that IDC failed to pay fourteen overdue invoices for services rendered 
+10   by Hassan and Makati from June 2023 through December 2023. Radus Tek alleges that IDC owes 
+11   it $144,704 for those services. Radus Tek first contacted IDC about the unpaid invoices in 
+12   November 2023. In March 2024, IDC responded via email, apologizing for the delay and 
+13   explaining that the payment was not sent because of a failure in its vendor management system 
+14   and its transition to a new financial institution. IDC did not communicate with Radus Tek again 
+15   after that and did not pay the overdue invoices. Radus Tek alleges that IDC and its director, 
+16   Prateek Gattani, have been misappropriating funds owed to Radus Tek and other subcontractors in 
+17   an elaborate Ponzi scheme.                                            
+18        In 2023, TCS allegedly discovered a bribery scheme in which some of its employees had 
+19   favored certain staffing firms over others and accepted payments in exchange for jobs. Radus Tek 
+20   alleges that TCS responded by blacklisting certain firms, including IDC, but did not inform end-
+21   clients, subcontractors, or second-tier subcontractors about the status of those firms. Radus Tek 
+22   alleges that TCS continued to hold out IDC as a preferred partner so as not to disrupt its business.  
+23        Radus Tek alleges that if it had known IDC was implicated in the bribery scheme, it would 
+24   have taken steps to mitigate potential damages from IDC’s failure to pay Radus Tek’s invoices, 
+25   such as by reassigning Hassan and Makati to other projects.           
+26        Radus Tek brings fourteen claims against IDC, Gattani, and TCS. The seven claims it 
+27   brings against TCS are: (1) negligent hiring of an independent contractor; (2) negligent 
+1   negligent misrepresentation; (5) negligence; (6) fraudulent concealment; and (7) violation of 
+2   California’s Unfair Competition Law (UCL).                            
+3        TCS now moves to dismiss pursuant to Rule 12(b)(6).              
+4                            LEGAL STANDARD                               
+5        Federal Rule of Civil Procedure 8(a)(2) requires a complaint to include a “short and plain 
+6   statement of the claim showing that the pleader is entitled to relief.” If the complaint fails to state a 
+7   claim, the defendant may move for dismissal under Federal Rule of Civil Procedure 12(b)(6). 
+8   Dismissal is required if the plaintiff fails to allege facts allowing the Court to “draw the reasonable 
+9   inference that the defendant is liable for the misconduct alleged.” Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662</a></span><pre class="inline">, 
+10   678 (2009). “Dismissal under Rule 12(b)(6) is appropriate only where the complaint lacks a 
+11   cognizable legal theory or sufficient facts to support a cognizable legal theory.” Mendiondo v. 
+12   Centinela Hosp. Med. Ctr., </pre><span class="citation" data-id="1300996"><a href="/opinion/1300996/mendiondo-v-centinela-hospital-medical-center/#1104" aria-description="Citation for case: Mendiondo v. Centinela Hospital Medical Center">521 F.3d 1097, 1104</a></span><pre class="inline"> (9th Cir. 2008). To survive a Rule 
+13   12(b)(6) motion, a plaintiff need only plead “enough facts to state a claim to relief that is plausible 
+14   on its face.” Bell Atl. Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 570</a></span><pre class="inline"> (2007).   
+15        In considering a Rule 12(b)(6) motion, the Court must “accept all factual allegations in the 
+16   complaint as true and construe the pleadings in the light most favorable” to the non-moving 
+17   party. Rowe v. Educ. Credit Mgmt. Corp., </pre><span class="citation" data-id="1389648"><a href="/opinion/1389648/rowe-v-educational-credit-management-corp/" aria-description="Citation for case: Rowe v. Educational Credit Management Corp.">559 F.3d 1028</a></span><pre class="inline">, 1029–30 (9th Cir. 2009). While legal 
+18   conclusions “can provide the [complaint’s] framework,” the Court will not assume they are correct 
+19   unless adequately “supported by factual allegations.” Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#679" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. at 679</a></span><pre class="inline">. Courts do not “accept 
+20   as true allegations that are merely conclusory, unwarranted deductions of fact, or unreasonable 
+21   inferences.” In re Gilead Scis. Secs. Litig., </pre><span class="citation" data-id="1400355"><a href="/opinion/1400355/in-re-gilead-sciences-securities-litigation/#1055" aria-description="Citation for case: In Re Gilead Sciences Securities Litigation">536 F.3d 1049, 1055</a></span><pre class="inline"> (9th Cir. 2008) (quoting Sprewell 
+22   v. Golden State Warriors, </pre><span class="citation" data-id="7006046"><a href="/opinion/7100340/sprewell-v-golden-state-warriors/#988" aria-description="Citation for case: Sprewell v. Golden State Warriors">266 F.3d 979, 988</a></span><pre class="inline"> (9th Cir. 2001)).         
+23                               ANALYSIS                                  
+24        A.   Negligence claim                                            
+25        To prevail on a cause of action for negligence under California law, a plaintiff must 
+26   establish: (a) the defendant’s legal duty to use due and reasonable care; (b) a breach of such legal 
+27   duty; and (c) that the breach is the proximate or legal cause of the resulting injury. Ladd v. County 
+1   negligence is the existence of a duty to use due care toward an interest of another that enjoys legal 
+2   protection against unintentional invasion.” Bily v. Arthur Young &amp; Co., </pre><span class="citation" data-id="9593290"><a href="/opinion/1348772/bily-v-arthur-young-co/#397" aria-description="Citation for case: Bily v. Arthur Young &amp; Co.">3 Cal. 4th 370, 397</a></span><pre class="inline"> (1992). 
+3   A duty of care may arise through statute, contract, or a special relationship between the parties. 
+4   Lichtman v. Siemens Industry, Inc., </pre><span class="citation" data-id="6106055"><a href="/opinion/6239152/lichtman-v-siemens-indus-inc/#920" aria-description="Citation for case: Lichtman v. Siemens Indus. Inc.">16 Cal. App. 5th 914, 920</a></span><pre class="inline"> (2017). Generally, there is no duty 
+5   of care where a separate legal remedy already exists. Goonewardene v. ADP, LLC, </pre><span class="citation" data-id="6107165"><a href="/opinion/6240230/goonewardene-v-adp-llc/" aria-description="Citation for case: Goonewardene v. ADP, LLC">6 Cal. 5th 817</a></span><pre class="inline">, 
+6   839 (2019) (explaining that where the law already provides “a full and complete remedy” for an 
+7   injury, “the imposition of a separate tort duty of care … is generally unnecessary”).  
+8        Radus Tek and TCS had no contractual relationship and Radus Tek does not allege that 
+9   TCS had any statutorily created duty of care. Radus Tek’s theory is instead that TCS had a special 
+10   relationship with Radus Tek giving rise to a duty of care. There are several factors (the “Biakanja 
+11   factors”) that courts consider to determine whether a special relationship exists, including: (a) the 
+12   extent to which the transaction was intended to affect the plaintiff, (b) the foreseeability of the 
+13   harm to the plaintiff, (c) the degree of certainty the plaintiff suffered injury, (d) the closeness of 
+14   the connection between the defendant’s conduct and the injury suffered, (e) the moral blame 
+15   attached to defendant’s conduct, and (f) the policy of preventing future harm. See Biakanja v. 
+16   Irving, </pre><span class="citation" data-id="1211097"><a href="/opinion/1211097/biakanja-v-irving/#650" aria-description="Citation for case: Biakanja v. Irving">49 Cal. 2d 647, 650</a></span><pre class="inline"> (1958). The purpose of the special relationship doctrine is to extend 
+17   tort liability in circumstances where recovery might otherwise be impossible because the intended 
+18   beneficiary of a transaction was not a party to it. See, e.g., Lucas v. Hamm, </pre><span class="citation" data-id="1156483"><a href="/opinion/1156483/lucas-v-hamm/" aria-description="Citation for case: Lucas v. Hamm">56 Cal. 2d 583</a></span><pre class="inline">, 588–89 
+19   (1961); J’Aire Corp. v. Gregory, </pre><span class="citation" data-id="1218182"><a href="/opinion/1218182/jaire-corp-v-gregory/#804" aria-description="Citation for case: J&#x27;Aire Corp. v. Gregory">24 Cal. 3d 799, 804</a></span><pre class="inline"> (1979).          
+20        Although the Biakanja factors appear to weigh against finding that a special relationship 
+21   existed between TCS and Radus Tek, the Court need not undertake that analysis because a full and 
+22   adequate remedy for Radus Tek’s economic injury is already available at law. An action for 
+23   breach of contract against IDC, which Radus Tek also brings here, provides an adequate legal 
+24   remedy for IDC’s alleged failure to pay the outstanding invoices.2 Crucially, California law also 
+25   includes various statutory and common law doctrines setting forth the circumstances under which 
+26                                                                         
+
+27   2 The practical obstacle that IDC’s potential insolvency might pose to Radus Tek’s recovery, 
+1   a third party like TCS may be found vicariously liable for a contracting party’s breach. See, e.g., 
+2   </pre><span class="citation no-link">Cal. Labor Code § 218.8</span><pre class="inline"> (making constructor contractors liable for certain wages owed to any 
+3   subcontractor’s employees); Barrett v. Hammer Builders, Inc., </pre><span class="citation" data-id="2196413"><a href="/opinion/2196413/barrett-v-hammer-builders-inc/#317" aria-description="Citation for case: Barrett v. Hammer Builders, Inc.">195 Cal. App. 2d 305, 317</a></span><pre class="inline"> (1961) 
+4   (explaining that a corporation is liable for contracts entered into by its agent). To the extent that 
+5   Radus Tek seeks to recover the damages resulting from IDC’s contractual breach from TCS, it 
+6   must rely on these existing doctrines of third-party liability. Cf., e.g., Goonewardene, </pre><span class="citation" data-id="6107165"><a href="/opinion/6240230/goonewardene-v-adp-llc/" aria-description="Citation for case: Goonewardene v. ADP, LLC">6 Cal. 5th at 
+7</a></span><pre class="inline">   839 (declining to recognize negligence cause of action against payroll company that erroneously 
+8   calculated an employee’s wages because “California law already provides the employee with a full 
+9   and complete remedy [against the employer] for any wage loss the employee sustains as a result of 
+10   the payroll company’s negligent conduct”).                            
+11        Because California law provides an adequate non-tort remedy for the contractual breach 
+12   alleged here, Radus Tek fails to state a claim for negligence against TCS. 
+13        B.   Negligent hiring, supervision, and retention claims         
+14        Under California law, the employees of an independent contractor are barred from 
+15   asserting negligent hiring, supervision, and retention claims against the hirer of that contractor. 
+16   Camarago v. Tjaarda Dairy, </pre><span class="citation multiple-matches"><a href="/c/Cal.%204th/25/1235/">25 Cal. 4th 1235</a></span><pre class="inline">, 1244 (2001). The two exceptions to that general 
+17   rule are the special (or peculiar) risk doctrine and the retained control exception. Under the special 
+18   risk doctrine, a person who hires an independent contractor to do inherently dangerous work can 
+19   be held liable for tort damages when the contractor causes physical injury to others by negligently 
+20   performing the work. Toland v. Sunland Hous. Grp., Inc., </pre><span class="citation" data-id="9579165"><a href="/opinion/1242934/toland-v-sunland-housing-group-inc/#256" aria-description="Citation for case: Toland v. Sunland Housing Group, Inc.">18 Cal. 4th 253, 256</a></span><pre class="inline"> (1998). Under the 
+21   retained control exception, the hirer of an independent contractor may be liable for physical injury 
+22   to an employee of the contractor if they retain control over the work and exercise that control in a 
+23   way that affirmatively contributes to the injury. Hooker v. Department of Transportation, </pre><span class="citation" data-id="5435658"><a href="/opinion/5593237/hooper-v-wells-fargo-co/" aria-description="Citation for case: Hooper v. Wells, Fargo &amp; Co.">27 Cal. 
+24</a></span><pre class="inline">   4th 198, 202 (2002).                                                  
+25        Radus Tek concedes that the special risk doctrine, as it is conventionally understood, does 
+26   not apply to TCS’s conduct here because Radus Tek did not suffer a physical injury and the work 
+27   that TCS hired IDC to do was not inherently dangerous under the established meaning of that 
+1   application is strictly limited to physical injuries, Radus Tek contends that the doctrine’s rationale 
+2   applies equally to certain high-risk business arrangements that create a foreseeable risk of harm to 
+3   third parties. Radus Tek argues that the type of multi-tiered subcontracting relationship at issue 
+4   here creates particular vulnerabilities that should be addressed by expanding the special risk 
+5   doctrine, whose core policy purposes are compensating injuries, spreading risk to the party best 
+6   able to bear it, and incentivizing proper safeguards.                 
+7        Radus Tek may be correct that the type of multi-tiered subcontracting at issue here creates 
+8   a high risk of foreseeable harm that existing tort doctrine is inadequate to remedy because such 
+9   arrangements insulate from liability those parties most capable of bearing risk and preventing 
+10   harm. But multi-tiered subcontracting is not the first business arrangement to create new financial 
+11   risks that strain the ability of existing tort doctrine to appropriately allocate liability, and the 
+12   special risk doctrine’s physical injury requirement has nonetheless persisted. It is not this federal 
+13   court’s role to expand California tort liability beyond the limits articulated by the California 
+14   legislature and California courts.                                    
+15        Radus Tek also argues that the retained control exception applies here. That doctrine is 
+16   inapposite. It applies only when an employee of a contractor suffers a physical injury. Radus Tek 
+17   meets neither of those requirements.                                  
+18        Accordingly, Radus Tek fails to state a claim for negligent hiring, supervision, and 
+19   retention.                                                            
+20        C.   Negligent misrepresentation claim                           
+21        To state a claim for negligent misrepresentation, a plaintiff must allege: (1) a 
+22   misrepresentation of material fact; (2) without reasonable grounds for believing it to be true; (3) 
+23   intent to induce another’s reliance; (4) justifiable reliance; and (5) resulting damage. Majd v. Bank 
+24   of Am., N.A., </pre><span class="citation" data-id="3169860"><a href="/opinion/3169860/majd-v-bank-of-america-na/#1307" aria-description="Citation for case: Majd v. Bank of America, N.A.">243 Cal. App. 4th 1293, 1307</a></span><pre class="inline"> (2015).3                   
+25                                                                         
+
+26   3 Federal Rule of Civil Procedure 9(b) establishes a heightened pleading standard for fraud claims. 
+    Under Rule 9(b), a plaintiff must “specif[y] the time, place and specific content of the alleged 
+27   fraudulent representation; the identity of the person engaged in the fraud; and the circumstances 
+1        Radus Tek alleges that TCS misrepresented a material fact when it represented that IDC 
+2   was a preferred partner, and therefore a trustworthy company, even though it knew IDC was 
+3   involved in bribery and was no longer a preferred partner. According to Radus Tek, this 
+4   representation occurred in two letters from TCS to the National Stock Exchange of India. In 
+5   TCS’s June 2023 letter, it stated that after learning of the alleged bribery scheme, TCS “launched a 
+6   review to examine the allegations” and concluded that “(i) this does not involve any fraud by or 
+7   against the Company and no financial impact; (ii) the issue relates to breach of Company’s Code 
+8   of Conduct by certain employees and vendors providing contractors; and (iii) no key managerial 
+9   person of the Company has been found to be involved.” In the October 2023 letter, TCS stated that 
+10   it had concluded its investigation and, as a result, “6 vendor entities, their owners and affiliates 
+11   have been debarred from doing any business with TCS.” It also described steps TCS would take to 
+12   enhance its governance measures.                                      
+13        Radus Tek does not plead facts to show that the statements TCS made in those letters were 
+14   false. Radus Tek alleges that TCS terminated IDC’s preferred partner status at some point after 
+15   discovering the bribery scheme, and although Radus Tek implies that IDC was among the six 
+16   vendor entities referenced in the October 2023 letter, it does not specifically allege as much. Nor 
+17                                                                         
+18                                                                         
+    up). Additionally, “merely attributing a misrepresentation to a corporate entity is inadequate; a 
+19   specific person must be named, or at least identified.” </pre><span class="citation" data-id="3169860"><a href="/opinion/3169860/majd-v-bank-of-america-na/" aria-description="Citation for case: Majd v. Bank of America, N.A.">Id.</a></span><pre class="inline"> The Ninth Circuit has not decided 
+    whether Rule 9(b) applies to negligent misrepresentation claims, and district courts are split on the 
+20                                                                         
+    question. Compare Petersen v. Allstate Indem. Co., </pre><span class="citation" data-id="8764970"><a href="/opinion/8781235/petersen-v-allstate-indemnity-co/" aria-description="Citation for case: Petersen v. Allstate Indemnity Co.">281 F.R.D. 413</a></span><pre class="inline"> (C.D. Cal. 2012) (holding that 
+21   negligent misrepresentation claims are not subject to the heightened pleading standards of Rule 
+    9(b)), and Bernstein v. Vocus, Inc., No. 14-cv-01561-TEH, </pre><span class="citation no-link">2014 WL 3673307</span><pre class="inline">, at *5 (N.D. Cal. 
+22   July 23, 2014) (same), with Gilmore v. Wells Fargo Bank N.A., </pre><span class="citation" data-id="7229070"><a href="/opinion/7311166/gilmore-v-wells-fargo-bank-na/#1270" aria-description="Citation for case: Gilmore v. Wells Fargo Bank N.A.">75 F. Supp. 3d 1255, 1270</a></span><pre class="inline"> (N.D. 
+    Cal. 2014) (holding that negligent misrepresentation claims are subject to the heightened pleading 
+23   standards of Rule 9(b)), and Microsoft Corp. v. Hon Hai Precision Indus. Co., </pre><span class="citation no-link">2020 WL 5128629</span><pre class="inline">, 
+    at *10 (N.D. Cal. Aug. 31, 2020) (same); cf. Najarian Holdings LLC v. Corevest Am. Fin. Lender 
+24                                                                         
+    LLC, </pre><span class="citation no-link">2020 WL 5993225</span><pre class="inline">, at *5 (N.D. Cal. Oct. 9, 2020) (cleaned up) (“The Ninth Circuit has not 
+25   yet decided whether Rule 9(b)’s heightened pleading standard applies to a claim for negligent 
+    misrepresentation, but most district courts in California hold that it does …. Also … two 
+26   unpublished Ninth Circuit opinions have affirmed a district court’s dismissal of negligent 
+    misrepresentation claims for failing to plead the circumstances surrounding the alleged 
+27   misrepresentation with particularity.”). The Court need not decide this question because Radus 
+1   does it allege that, at the time TCS sent the October 2023 letter to the National Stock Exchange of 
+2   India, it was untrue that six vendors had been barred from doing business with the company. 
+3   Because Radus Tek does not specifically allege when IDC’s preferred partner status was 
+4   terminated, it does not specifically allege that any representation TCS made that IDC was a 
+5   preferred partner occurred after IDC was, in fact, no longer a preferred partner. Radus Tek thus 
+6   fails to allege that TCS made any misrepresentation.                  
+7        Accordingly, Radus Tek fails to state a claim for negligent misrepresentation.4  
+8        D.   Fraudulent concealment claim                                
+9        To state a claim for fraudulent concealment a plaintiff must allege that: (1) the defendant 
+10   concealed or suppressed a material fact; (2) the defendant had a duty to disclose the fact to the 
+11   plaintiff; (3) the defendant intentionally concealed or suppressed the fact with intent to defraud; 
+12   (4) the plaintiff was unaware of the fact and would have acted differently if they had known; and 
+13   (5) the plaintiff suffered damages as a result. Marketing West, Inc. v. Sanyo Fisher Corp., </pre><span class="citation no-link">6 Cal. 
+14</span><pre class="inline">   App. 4th 603, 612–13 (1992).                                          
+15        Absent a fiduciary relationship, a duty to disclose arises only when parties are in a 
+16   relationship that “come[s] into being as a result of some sort of transaction.” Bigler-Engler v. 
+17   Breg, Inc., </pre><span class="citation" data-id="4113722"><a href="/opinion/4336461/bigler-engler-v-breg-inc/#311" aria-description="Citation for case: Bigler-Engler v. Breg, Inc.">7 Cal. App. 5th 276, 311</a></span><pre class="inline"> (2017). “Such a transaction must necessarily arise from direct 
+18   dealings between the plaintiff and the defendant; it cannot arise between the defendant and the 
+19   public at large.” </pre><span class="citation" data-id="4113722"><a href="/opinion/4336461/bigler-engler-v-breg-inc/#312" aria-description="Citation for case: Bigler-Engler v. Breg, Inc.">Id. at 312</a></span><pre class="inline">. Such relationships include those between “seller and buyer, employer 
+20   and prospective employee, doctor and patient, [and] parties entering into any kind of contractual 
+21   arrangement.” </pre><span class="citation" data-id="4113722"><a href="/opinion/4336461/bigler-engler-v-breg-inc/#311" aria-description="Citation for case: Bigler-Engler v. Breg, Inc.">Id. at 311</a></span><pre class="inline">. The transaction about which parties have a duty to disclose material facts 
+22   is the transaction giving rise to the relationship. LiMandri v. Judkins, </pre><span class="citation" data-id="2267506"><a href="/opinion/2267506/limandri-v-judkins/" aria-description="Citation for case: LiMandri v. Judkins">52 Cal. App. 4th 326</a></span><pre class="inline">, 337 
+23   (1997).                                                               
+24        Radus Tek contends that after TCS discovered the bribery scheme it had a duty to disclose 
+25   to Radus Tek IDC’s participation in that scheme, the eventual termination of IDC’s preferred 
+26                                                                         
+
+27                                                                         
+    4 TCS contends that Radus Tek also fails to allege that TCS intended to induce Radus Tek’s 
+1   partner status, and its blacklisting at TCS. Radus Tek argues that TCS’s duty to disclose that 
+2   information to Radus Tek derived from TCS’s ostensible agency relationship with IDC.5 
+3   Ostensible agency requires three elements: (1) the principal must intentionally or negligently cause 
+4   a third party to believe the agent has authority (2) the third party must reasonably believe in the 
+5   agent’s authority; and (3) the third party must detrimentally rely on that belief. Associated 
+6   Creditors’ Agency v. Davis, </pre><span class="citation" data-id="2609017"><a href="/opinion/2609017/associated-creditors-agency-v-davis/#399" aria-description="Citation for case: Associated Creditors&#x27; Agency v. Davis">13 Cal. 3d 374, 399</a></span><pre class="inline"> (1975). Here, Radus Tek maintains that TCS 
+7   caused Radus Tek to believe IDC was its agent by continuing to hold out IDC as a preferred 
+8   partner after it discovered the bribery scheme, that Radus Tek reasonably believed in IDC’s 
+9   authority, and that Radus Tek detrimentally relied on TCS’s representation that IDC was its agent 
+10   in conducting its business relationship with IDC.                     
+11        The problem with Radus Tek’s argument is that ostensible agency, like any other theory of 
+12   agency, provides a means for holding a principal liable for the actions of its agent. That, however, 
+13   is not what Radus Tek seeks to do through its fraudulent concealment claim. Radus Tek does not 
+14   contend that TCS should be liable for fraudulent concealment undertaken by IDC. Instead, Radus 
+15   Tek relies on its ostensible agency theory in seeking to hold TCS liable for its own alleged acts of 
+16   fraudulent concealment. Radus Tek cites no California precedents suggesting that the existence of 
+17   an ostensible agency relationship between a principal and an agent not only subjects the principal 
+18   to liability for the agent’s acts but also imposes upon the principal an affirmative duty to disclose 
+19   certain information to third parties.                                 
+20        Further, Radus Tek has not alleged facts to show that, if TCS did conceal material facts 
+21   about its relationship with IDC, it did so with an intent to defraud Radus Tek. Radus Tek alleges 
+22   only that TCS generally wanted to ensure its business was not disrupted. 
+23        Accordingly, Radus Tek fails to state a claim for fraudulent concealment.  
+24                                                                         
+25                                                                         
+26                                                                         
+    5 Radus Tek proposes an additional novel theory that a special relationship between TCS and 
+27                                                                         
+    Radus Tek gives rise to a duty of disclose. But even if such a special relationship existed, which is 
+1        E.   UCL claim                                                   
+2        The UCL prohibits business practices that are: (1) unlawful; (2) unfair; or (3) fraudulent. 
+3   </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline">; Cel-Tech Commc’ns v. L.A. Cellular Tel. Co., </pre><span class="citation" data-id="9567993"><a href="/opinion/1301891/cel-tech-communications-inc-v-los-angeles-cellular-telephone-co/" aria-description="Citation for case: Cel-Tech Communications, Inc. v. Los Angeles Cellular...">20 Cal. 4th 163</a></span><pre class="inline">, 
+4   180 (1999). “Each ‘prong’ of the UCL provides a separate and distinct theory of liability.” Hadley 
+5   v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1089" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1089</a></span><pre class="inline"> (N.D. Cal. 2017) (quoting Lozano v. AT&amp;T 
+6   Wireless Servs., Inc., </pre><span class="citation" data-id="1429600"><a href="/opinion/1429600/lozano-v-at-t-wireless-services-inc/#731" aria-description="Citation for case: Lozano v. AT &amp; T Wireless Services, Inc.">504 F.3d 718, 731</a></span><pre class="inline"> (9th Cir. 2007)). The primary forms of relief available 
+7   under the UCL are restitution and injunctive relief. Freeman v. ABC Legal Servs., Inc., </pre><span class="citation no-link">877 F. 
+8</span><pre class="inline">   Supp. 2d 919, 923 (N.D. Cal. 2012).                                   
+9        Radus Tek contends that TCS’s alleged misrepresentation of IDC’s preferred partner status 
+10   after it terminated that status upon discovery of IDC’s involvement in the bribery scheme violated 
+11   the unlawful, unfair, or fraudulent prongs of the UCL. Radus Tek, however, has not pleaded facts 
+12   sufficient to show that it is entitled to any form of relief available under the UCL. 
+13        To pursue injunctive relief under the UCL, a plaintiff must show that “there is [a] 
+14   reasonable probability that the past acts complained of will recur.” Colgan v. Leatherman Tool 
+15   Group, Inc.,</pre><span class="citation" data-id="2258800"><a href="/opinion/2258800/colgan-v-leatherman-tool-group-inc/#702" aria-description="Citation for case: Colgan v. Leatherman Tool Group, Inc.">135 Cal. App. 4th 663, 702</a></span><pre class="inline"> (2006). “An injunction will not be granted where at the 
+16   time of the hearing conditions have so changed that no unlawful act is threatened.” Mallon v. City 
+17   of Long Beach, </pre><span class="citation" data-id="1126990"><a href="/opinion/1126990/mallon-v-city-of-long-beach/#189" aria-description="Citation for case: Mallon v. City of Long Beach">164 Cal. App. 2d 178, 189</a></span><pre class="inline"> (Cal. Ct. App. 1958). Radus Tek has not alleged facts 
+18   sufficient to show that there is a reasonable probability that TCS will misrepresent the preferred 
+19   partner status of its contractors generally, or IDC in particular, in the future, or that Radus Tek will 
+20   rely on that preferred partner designation in making business decisions, especially in light of the 
+21   economic loss it allegedly suffered by relying on that designation in continuing to do business 
+22   with IDC after its repeated failure to pay overdue invoices. Conditions have changed significantly 
+23   since TCS’s alleged misconduct: Radus Tek alleges that IDC is no longer a preferred partner of 
+24   TCS; Radus Tek has ceased doing business with IDC, which allegedly faces more than 90 breach 
+25   of contract cases in federal and state courts; and Radus Tek has now learned information that 
+26   would reasonably prevent it from either contracting with IDC or relying on TCS’s representations 
+27   about the status of its subcontractors. Cf. Nacarino v. KSF Acquisition Corp., </pre><span class="citation no-link">642 F. Supp. 3d 
+   1</span><pre class="inline">    her to evaluate product claims and make appropriate purchasing decisions going forward, 
+   2  ||  injunctive relief would serve no meaningful purpose as to that plaintiff.”). It is highly unlikely, and 
+   3    certainly not reasonably probable, that the harm Radus Tek allegedly suffered will recur. Radus 
+   4  ||  Tek therefore lacks standing to seek injunctive relief. 
+   5          As for restitution, it is IDC, not TCS, that allegedly failed to pay Radus Tek the funds it 
+   6  || was owed. Radus Tek does not allege that TCS failed to pay IDC for the work completed by Radus 
+   7    Tek employees. It was IDC that failed to convey the funds to Radus Tek. IDC is thus the party 
+   8  || purportedly in possession of the funds in which Radus Tek claims an ownership interest. 
+   9  || Accordingly, IDC is the party from which Radus Tek could seek restitution under the 
+  10  || circumstances here. Relief under the UCL, however, is only available where legal remedies are 
+  11    inadequate, and Radus Tek has not shown that its contractual claim against IDC is legally 
+   12  || tnadequate. See Sonner v. Premier Nutrition Corp., </pre><span class="citation no-link">971 F.3d 834</span><pre class="inline">, 843-44 (9th Cir. 2020); Grausz 
+   13    v. Hershey Co., </pre><span class="citation no-link">691 F. Supp. 3d 1178</span><pre class="inline">, 1193 (S.D. Cal. 2023) (“[W]here monetary damages provide 
+   14  || an adequate remedy, a federal court may not consider the merits of equitable claims for 
+3    15  ||  restitution.”). To the contrary, the legal claims it brings against IDC in this litigation indicate 
+a    16  ||  precisely the opposite. 
+3    17          Accordingly, Radus Tek fails to state a claim for violation of the UCL. 
+   1g                                     CONCLUSION 
+  19          For the foregoing reasons, the Court grants TCS’s motion to dismiss. Radus Tek may file 
+  20  || an amended complaint within 21 days of this order. 
+  21          IT IS SO ORDERED. 
+  22  || Dated: February 24, 2025 
+  23                                                                   Ze 
+  24                                                     b  Cop    □ 
+                                                       P. Casey  Pitts 
+  25                                                    United States District Judge 
+  26 
+  27 
+  28 </pre>

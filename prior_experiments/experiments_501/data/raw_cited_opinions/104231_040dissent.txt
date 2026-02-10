@@ -1,0 +1,5 @@
+<opinion type="dissent">
+<author id="b163-5">Mr. Justice Douglas</author>
+<p id="Acjt">would reverse the judgment for the reasons set forth in his dissenting opinion in <em>Hulbert </em>v. <em>Twin Falls County, </em>327 U. S. 105.</p>
+<judges id="b163-6">Mr. Justice Jackson took no part in the consideration or decision of this case.</judges>
+</opinion>

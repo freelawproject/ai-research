@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b288-7">
+<span citation-index="1" class="star-pagination" label="240"> 
+   *240
+   </span>
+  Mr. Justice Douglas
+ </author>
+<author id="AkH">
+  delivered the opinion of the Court.
+ </author>
+<p id="b288-8">
+  In reliance upon
+  <em>
+   Bibnik
+  </em>
+  v.
+  <em>
+   McBride,
+  </em>
+  <span class="citation" data-id="101315"><a href="/opinion/101315/ribnik-v-mcbride/" aria-description="Citation for case: Ribnik v. McBride">277 U. S. 350</a></span>, the Supreme Court of Nebraska held, one judge dissenting,
+  <span citation-index="1" class="star-pagination" label="241"> 
+   *241
+   </span>
+  that a statute of that state .fixing the maximum compensation which a private employment agency might collect from an applicant for employment
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  , was unconstitu
+  <span citation-index="1" class="star-pagination" label="242"> 
+   *242
+   </span>
+  tional
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  under the due process clause of the Fourteenth Amendment. <span class="citation" data-id="8037701"><a href="/opinion/8078720/state-ex-rel-western-reference-bond-assn-v-kinney/" aria-description="Citation for case: State ex rel. Western Reference &amp; Bond Ass&#x27;n v. Kinney">138 Neb. 574</a></span>, <span class="citation" data-id="8037701"><a href="/opinion/8078720/state-ex-rel-western-reference-bond-assn-v-kinney/" aria-description="Citation for case: State ex rel. Western Reference &amp; Bond Ass&#x27;n v. Kinney">293 N. W. 393</a></span>. The case is here on a petition for certiorari which we granted be
+  <span citation-index="1" class="star-pagination" label="243"> 
+   *243
+   </span>
+  cause of the importance of the constitutional question which was raised.
+ </p>
+<p id="b291-4">
+  The action is for a peremptory writ of mandamus ordering petitioner, Secretary of Labor of Nebraska, to issue a license to the relator
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  to operate a private employment agency for. the year commencing May 1, 1940. The license was withheld because of relator’s refusal to limit its maximum compensation, as provided by the statute, to ten per cent of the first month’s salary or wages of the person for whom employment was'obtained. The petition in mandamus challenged the constitutionality of those provisions of the act.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  The answer sought to sustain them by alleging that the business of a private employment agency is “vitally affected with a public interest” and subject to such regulation under'the police power of the state. The relator’s motion for judgment on the pleadings was sustained and it was ordered that a peremptory writ of mandamus should issue.
+ </p>
+<p id="b291-5">
+  We disagree with the Supreme Court of Nebraska. The statutory provisions in question do not violate the due process clause of the Fourteenth Amendment.
+ </p>
+<p id="b292-3">
+<span citation-index="1" class="star-pagination" label="244"> 
+   *244
+   </span>
+  The drift away from
+  <em>
+   Ribnik
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="101315"><a href="/opinion/101315/ribnik-v-mcbride/" aria-description="Citation for case: Ribnik v. McBride">McBride, supra,</a></span>
+  </em>
+  has been so great that it can no longer be deemed a controlling authority. It was decided in 1928. In the fol-lpwing year this Court held that Tennessee had no power to fix prices at which gasoline might be sold in the state.
+  <em>
+   Williams
+  </em>
+  v.
+  <em>
+   Standard Oil Co.,
+  </em>
+  <span class="citation" data-id="101356"><a href="/opinion/101356/williams-v-standard-oil-co-of-la/" aria-description="Citation for case: Williams v. Standard Oil Co. of La.">278 U. S. 235</a></span>. Save for that decision and
+  <em>
+   Morehead
+  </em>
+  v.
+  <em>
+   Tipaldo,
+  </em>
+  <span class="citation" data-id="102681"><a href="/opinion/102681/morehead-v-new-york-ex-rel-tipaldo/" aria-description="Citation for case: Morehead v. New York Ex Rel. Tipaldo">298 U. S. 587</a></span>, holding unconstitutional a New York statute authorizing the fixing of women’s wages, the subsequent cases in this Court haye given increasingly wider scope to the price-fixing powers of the states and of Congress.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+<em>
+   Tagg Bros.
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="101511"><a href="/opinion/101511/tagg-bros-moorhead-v-united-states/" aria-description="Citation for case: Tagg Bros. &amp; Moorhead v. United States">280 U. S. 420</a></span>, decidedv,in 1930, upheld the power of the Secretary of Agriculture under the Packers and Stockyards Act to determine the just and reasonable charges of persons engaged in the business of buying and selling in interstate commerce livestock at a stockyard on a commission basis. In 1931 a New Jersey statute limiting commissions of agents- of fire insurance companies was sustained by
+  <em>
+   O’Gorman &amp; Young
+  </em>
+  v.
+  <em>
+   Hartford Fire Ins. Co.,
+  </em>
+  <span class="citation" data-id="101636"><a href="/opinion/101636/ogorman-young-inc-v-hartford-fire-ins-co/" aria-description="Citation for case: O&#x27;Gorman &amp; Young, Inc. v. Hartford Fire Ins. Co.">282 U. S. 251</a></span>. A New York statute authorizing the fixing of minimum and maximum retail prices for milk was upheld in 1934.
+  <em>
+   Nebbia
+  </em>
+  v.
+  <em>
+   New York,
+  </em>
+  <span class="citation" data-id="102224"><a href="/opinion/102224/nebbia-v-new-york/" aria-description="Citation for case: Nebbia v. New York">291 U. S. 502</a></span>. And see
+  <em>
+   Hegeman Farms Corp.
+  </em>
+  v.
+  <em>
+   Baldwin,
+  </em>
+  <span class="citation" data-id="102322"><a href="/opinion/102322/hegeman-farms-corp-v-baldwin/" aria-description="Citation for case: Hegeman Farms Corp. v. Baldwin">293 U. S. 163</a></span>;
+  <em>
+   Borden’s Farm Products Co.
+  </em>
+  v.
+  <em>
+   Ten Eyck,
+  </em>
+  <span class="citation" data-id="102602"><a href="/opinion/102602/bordens-farm-products-co-inc-v-ten-eyck-commissioner-of-agriculture/" aria-description="Citation for case: BORDEN’S FARM PRODUCTS CO., INC. v. TEN EYCK,...">297 U. S. 251</a></span>. Cf.
+  <em>
+   Baldwin
+  </em>
+  v.
+  <em>
+   G. A. F. Seelig, Inc.,
+  </em>
+  <span class="citation" data-id="102402"><a href="/opinion/102402/baldwin-v-g-a-f-seelig-inc/" aria-description="Citation for case: Baldwin v. G. A. F. Seelig, Inc.">294 U. S. 511</a></span>;
+  <em>
+   Mayflower Farms
+  </em>
+  v.
+  <em>
+   Ten Eyck,
+  </em>
+  <span class="citation" data-id="102603"><a href="/opinion/102603/mayflower-farms-inc-v-ten-eyck/" aria-description="Citation for case: Mayflower Farms, Inc. v. Ten Eyck">297 U. S. 266</a></span>. In 1937
+  <em>
+   Adkins
+  </em>
+  v.
+  <em>
+   Children’s Hospital,
+  </em>
+  <span class="citation" data-id="100181"><a href="/opinion/100181/adkins-v-childrens-hospital-of-columbia/" aria-description="Citation for case: Adkins v. Children&#x27;s Hospital of Columbia">261 U. S. 525</a></span>, was overruled and a statute of'Washington which authorized the fixing of minimum wages for women and minors was sustained.
+  <em>
+   West Coast Hotel Co.
+  </em>
+  v.
+  <em>
+   Parrish,
+  </em>
+  <span class="citation" data-id="102784"><a href="/opinion/102784/west-coast-hotel-co-v-parrish/" aria-description="Citation for case: West Coast Hotel Co. v. Parrish">300 U. S. 379</a></span>. In the same year,
+  <em>
+   Townsend
+  </em>
+  v.
+  <em>
+   Yeomans,
+  </em>
+  <span class="citation" data-id="102835"><a href="/opinion/102835/townsend-v-yeomans/" aria-description="Citation for case: Townsend v. Yeomans">301 U. S. 441</a></span>, upheld a
+  <span citation-index="1" class="star-pagination" label="245"> 
+   *245
+   </span>
+  Georgia statute fixing maximum warehouse charges for the handling and selling of leaf tobacco.. Cf.
+  <em>
+   Mulford
+  </em>
+  v.
+  <em>
+   Smith,
+  </em>
+  <span class="citation" data-id="103191"><a href="/opinion/103191/mulford-v-smith/" aria-description="Citation for case: Mulford v. Smith">307 U. S. 38</a></span>;
+  <em>
+   Currin
+  </em>
+  v.
+  <em>
+   Wallace,
+  </em>
+  <span class="citation" data-id="103133"><a href="/opinion/103133/currin-v-wallace/" aria-description="Citation for case: Currin v. Wallace">306 U. S. 1</a></span>. The power of Congress under the commerce clause to authorize the fixing of minimum prices for milk was upheld in
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Rock Royal Co-operative,
+  </em>
+  <span class="citation" data-id="103227"><a href="/opinion/103227/united-states-v-rock-royal-co-operative-inc/" aria-description="Citation for case: United States v. Rock Royal Co-Operative, Inc.">307 U. S. 533</a></span>, decided in 1939. The next year the price-fixing provisions of the Bituminous Coal Act of 1937 were sustained.
+  <em>
+   Sunshine Coal Co.
+  </em>
+  v.
+  <em>
+   Adkins,
+  </em>
+  <span class="citation" data-id="103362"><a href="/opinion/103362/sunshine-anthracite-coal-co-v-adkins/" aria-description="Citation for case: Sunshine Anthracite Coal Co. v. Adkins">310 U. S. 381</a></span>. And 'at this term we upheld the minimum wage and maximum hour provisions of the Fair Labor Standards Act of 1938.
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Darby,
+  </em>
+  <span class="citation" data-id="103442"><a href="/opinion/103442/united-states-v-darby/" aria-description="Citation for case: United States v. Darby">312 U. S. 100</a></span>. These cases represent more than scattered examples of constitutionally permissible price-fixing schemes. They represent in large measure a basic departure from the philosophy and approach of the majority in the
+  <em>
+   Ribnik
+  </em>
+  case. The standard there Employed, following that used in
+  <em>
+   Tyson &amp; Brother
+  </em>
+  v.
+  <em>
+   Banton,
+  </em>
+  <span class="citation" data-id="101029"><a href="/opinion/101029/tyson-brother-v-banton/" aria-description="Citation for case: Tyson &amp; Brother v. Banton">273 U. S. 418</a></span>, 430
+  <em>
+   et seq.,
+  </em>
+  was that the constitutional validity of price-fixing legislation, at least in absence of a so-called emergency,
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  was dependent on whether or not the business in question was “affected with a.public interest.” Cf.
+  <em>
+   Brazee
+  </em>
+  v.
+  <em>
+   Michigan,
+  </em>
+  <span class="citation" data-id="98749"><a href="/opinion/98749/brazee-v-michigan/" aria-description="Citation for case: Brazee v. Michigan">241 U. S. 340</a></span>. It was said to be so affected if it had been “devoted to the public .use” and if “an interest in effect” had been granted “to the public in that use.”
+  <em>
+   Ribnik
+  </em>
+  v.
+  <span class="citation" data-id="101315"><a href="/opinion/101315/ribnik-v-mcbride/#355" aria-description="Citation for case: Ribnik v. McBride"><em>
+   McBride, supra,
+  </em>
+  p. 355</a></span>. That test, labelled by Mr. Justice Holmes in his dissent in the
+  <em>
+   Tyson
+  </em>
+  case (273 U. S. at p. 446) as “little more than a fiction,” was discarded in
+  <em>
+   <span class="citation" data-id="102224"><a href="/opinion/102224/nebbia-v-new-york/" aria-description="Citation for case: Nebbia v. New York">Nebbia</a></span>
+  </em>
+  v.
+  <em>
+   New York, supra,
+  </em>
+  pp. 531-539. It was there stated that such criteria “are not susceptible of definition and form an unsatisfactory test of the constitutionality of legislation directed at business practices or prices,” and that the phrase “affected with a public interest” can mean “no more than
+  <span citation-index="1" class="star-pagination" label="246"> 
+   *246
+   </span>
+  that an industry, for adequate reason, is subject to control for the public good.”
+  <em>
+   Id.,
+  </em>
+  p. 536. And see the dissenting opinion in
+  <em>
+   Ribnik
+  </em>
+  v.
+  <span class="citation" data-id="101315"><a href="/opinion/101315/ribnik-v-mcbride/#359" aria-description="Citation for case: Ribnik v. McBride"><em>
+   McBride, supra,
+  </em>
+  at p. 359</a></span>.
+ </p>
+<p id="Ap1c">
+  The
+  <em>
+   <span class="citation" data-id="101315"><a href="/opinion/101315/ribnik-v-mcbride/" aria-description="Citation for case: Ribnik v. McBride">Bibnik</a></span>
+  </em>
+  case, freed from'.the test which it employed, can no longer survive. But respondents maintain that the statute here in question is invalid for other reasons. They insist that special circumstances must be shown to support the validity of such drastic legislation as price-fixing, that the executive, technical and professional workers which respondents serve have not been shown to be in need of special protection from exploitation, that legislative limitation of maximum fees for employment agencies is certain to react unfavorably upon those members- of the community for whom it is most difficult, to obtain jobs, that the increasing competition of public employment agencies and of charitable, labor union and employer association employment agencies have curbed excessive fees by private agencies, and that there is nothing in thisi record to overcome the presumption as to the résult of the operation of such competitive, economic forces. And in the latter connéction respondents urge that, since no circumstances are shown which curb competition between the, private agencies and the other types of agencies, there are no conditions which the legislature might reasonably believe would redound to the public injury unless corrected by such legislation.
+ </p>
+<p id="b294-5">
+  We are not concerned, however-, with the wisdom, need, or appropriateness of the legislation. Differences of opinion on that score suggest a choice which “should be' left where . . . it was left by the Constitution — to the States and to Congress.”
+  <em>
+   Ribnik
+  </em>
+  v.
+  <span class="citation" data-id="101315"><a href="/opinion/101315/ribnik-v-mcbride/#375" aria-description="Citation for case: Ribnik v. McBride"><em>
+   McBride, supra,
+  </em>
+  at p. 375</a></span>, dissenting opinion. There isl no necessity for the state to demonstrate before us that evils persist despite the competition which attends the bargaining in this field. In final analysis, the only constitutional pro-
+  <span citation-index="1" class="star-pagination" label="247"> 
+   *247
+   </span>
+  hibitións ór restraints which respondents have, suggested for the invalidation of this legislation are those notions of public policy embedded in earlier decisions of this Court but. which, as Mr. Justice Holmes long admonished, should not be read into the Constitution.. Tyson
+  <em>
+   &amp; Brother
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="101029"><a href="/opinion/101029/tyson-brother-v-banton/" aria-description="Citation for case: Tyson &amp; Brother v. Banton">Banton, supra,</a></span>
+  </em>
+  at p: 446;
+  <em>
+   Adkins
+  </em>
+  v.
+  <em>
+   Children’s Hospital, supra,
+  </em>
+  at p. 570. Since they do not find expression in the Constitution, we cannot give them continuing vitality as standards by .which the constitutionality of the economic and social programs of the states is to be determined'.
+ </p>
+<p id="b295-3">
+  The judgment is reversed and the cause is remanded to the Supreme Court of Nebraska for proceedings not inconsistent with this opinion.
+ </p>
+<p id="b295-4">
+<em>
+   Reversed.
+  </em>
+</p>
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b289-4">
+   Neb. Comp. Stat. 1929, § 48-508:
+  </p>
+<blockquote id="b289-5">
+   “Private Employment Agencies, Registration Fee. A registration fee not to exceed two dollars may be. charged by such licensed agency when such agency shall be at actual expense in. advertising such individual applicant, or in looking up the reference of such applicant. In all such cases a complete record of such references shall be kept on file which record shall, during all business hours, be open for the inspection of the secretary of labor, the chief deputy secretary of labor, or any other inspector appointed by the.secretary of labor to make such inspection, and upon demand shall be subject to the inspection and examination by the applicant. For such registration fee a receipt shall be given to said applicant for help or employment, giving name of such applicant, date of payment and character of position or help applied for. Such registration, fee shall be returned to said applicants on demand, after thirty days and within sixty days from date of receipt, less the amount that has been actually expended by said licensed agency for said applicant, and an itemized account of such expenditures shall be presented to said applicant on request at the time of returning the unused portion of such registration fee, provided no position has been furnished by said licensed agency to and accepted by Said applicant. No licensed person or .persons shall, as a condition to registering or obtaining employment for such applicant, require such applicant to subscribe to any publication or exact other fees, compensation or reward, other than the registration fee, aforesaid, and a further fee, the amount of which shall be agreed upon between such applicant and such licensed person, to be payable at such time as may be agreed upon in writing, ‘the amount of which, together with said registration fee of $2.00 added thereto shall in no case exceed 10 per cent of all moneys paid to or to be paid or earned by said applicant, for the first month’s service growing out of said employment furnished by said employer.
+   <em>
+    Provided, however,
+   </em>
+   that if through no fault of said applicant or employee, he fails to remain in service with' said employer and other positions or places of employment are furnished to said applicant by said licensed agency, then said licensed agency shall not accept, collect or charge more than one fee every three months,’ but the further fee aforesaid shall not be received by such licensed person before the applicant has been tendered a position
+   <span citation-index="1" class="star-pagination" label="242"> 
+    *242
+    </span>
+   by said licensed person., in the event that the position, so tendered is not accepted by or given such applicant, said licensed person shall refund all fees requested by said applicant, other than the registration fees aforesaid within three days after demand is made' therefor. No such licensed person shall send out any' applicant for employment without having obtained a
+   <em>
+    bona fide
+   </em>
+   order therefor, and if it shall appear that no .employment of the kind applied for existed at the place where said applicant was directed, said licensed person shall refund to such applicant within five days after demand, any sum paid by such applicant for transportation in going to and returning from said place and all fees paid by said applicant. In addition to the receipt provided to be given for registration fee it shall' be the duty of such licensed person to give, to every applicant for employment from .whom other fee or fees shall be received, an •additional receipt, in which shall be stated the name of such appli.cant, the date and amount of such other fees; and to every applicant for help from whom other fee or .fees shall be received, an additional receipt, stating the name and address;of said applicant, the date and amount of such other fee or fees, and the kind of help to be provided. All receipts shall have printed on the back thereof, in the English language, the name and address of the state secretary of labor and the chief deputy secretary of labor.. Every such licensed person shall give to every applicant for' employment,' a card or printed paper containing • the name of the applicant, the name and address of such employment agency, and the written name and address of the person to whom the applicant is sent for employment. If an employee furnished fails to remain one week in a situation, through no. fault of the employer, then all fees paid or pledged, in excess of the registration fee aforesaid, shall be refunded to the employer upon demand. If the employment furnished the applicant does not continue more than one week, through no fault of the employee, then all fees paid or pledged, in excess of the registration fee aforesaid, shall be refunded to the employee upon demand.”
+  </blockquote>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b290-5">
+   .the court upheld those provisions of the statute under §3, Art. I of the Nebraska Constitution which provides that “No person shall be deprived of life, liberty, or property, without due process ¿flaw.” See Art. XV, §9.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b291-6">
+   The petition in mandamus was filed by respondent Western Reference &amp; Bond Assn., Inc. The other respondents are Mills Teachers Agency, Thomas Employment Service, Co-Operative Reference Co., Marti Reference Co., Watts Reference Co., Comhusker Teachers Bureau^ Grace Boomer, and Davis School Service, who intervened in the action and challenged the constitutionality of the act. Their petition of intervention stated that they, as well as the relator, confine their business “to' soliciting and securing positions for clerical, executive, technical and professional workers, and do not engage in the business of securing placements for common laborers, domestic servants or other classes of unskilled workers.” That seems to be conceded.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b291-7">
+   By stipulation filed in the state court it was agreed that the “sole and only issue for determination” was the constitutionality of the act “in so far as the same fixes or limits the fees or compensation of private employment agencies.”
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b292-4">
+   But see
+   <em>
+    New State Ice Co.
+   </em>
+   v.
+   <em>
+    Liebmann,
+   </em>
+   <span class="citation" data-id="101887"><a href="/opinion/101887/new-state-ice-co-v-liebmann/" aria-description="Citation for case: New State Ice Co. v. Liebmann">285 U. S. 262</a></span>;
+   <em>
+    Old Dearborn Distributing Co.
+   </em>
+   v.
+   <em>
+    Seagram-Distillers Corp.,
+   </em>
+   <span class="citation" data-id="102713"><a href="/opinion/102713/old-dearborn-distributing-co-v-seagram-distillers-corp/#192" aria-description="Citation for case: Old Dearborn Distributing Co. v. Seagram-Distillers Corp.">299 U. S. 183, 192</a></span>;
+   <em>
+    Carter
+   </em>
+   v.
+   <em>
+    Carter Coal Co.,
+   </em>
+   <span class="citation" data-id="102662"><a href="/opinion/102662/carter-v-carter-coal-co/#316" aria-description="Citation for case: Carter v. Carter Coal Co.">298 U. S. 238, 316</a></span>.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b293-4">
+   Cf.
+   <em>
+    Highland
+   </em>
+   v.
+   <em>
+    Russell Car &amp; Snow Plow Co.,
+   </em>
+   <span class="citation" data-id="101413"><a href="/opinion/101413/highland-v-russell-car-snow-plow-co/" aria-description="Citation for case: Highland v. Russell Car &amp; Snow Plow Co.">279 U. S. 253</a></span>.
+  </p>
+</div></div></opinion>

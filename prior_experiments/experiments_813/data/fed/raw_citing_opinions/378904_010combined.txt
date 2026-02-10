@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion data-order="7" data-type="opinion" id="x999-1" type="majority">
+<author id="b982-4">
+  REAVLEY, Circuit Judge:
+ </author>
+<p id="b982-5">
+  Appellant, Fred Hill, was convicted of conspiring to possess heroin and cocaine with intent to distribute these controlled substances. Four issues are raised on this appeal. First, whether the trial court erred in denying Hill’s motion to dismiss the indictment on the grounds that the government trespassed Article IV(c) of the Interstate Agreement on Detainers Act (“IADA”), 18 U.S.C.App. pp. 1395-98 (1976), by failing to bring him to trial within 120 days of his arrival in the Northern District of Georgia. Second, whether the indictment should have been dismissed because the government infringed Article IV(e) of the IADA by returning Hill to the jurisdiction wherein he had been originally incarcerated before bringing him to “trial” in the Northern District of Georgia. Third, whether the lower court misjudged by failing to grant Hill’s motion to dismiss on speedy trial grounds. Finally, error is assigned to the trial judge’s refusal to instruct the jury that statements of certain absent coconspirators were admissible because he had made a threshold, independent determination of Hill’s participation in a conspiracy and that the remarks were in furtherance of the conspiracy. We hold that no reversible error was committed below and affirm.
+ </p>
+<p id="b982-6">
+  I.
+ </p>
+<p id="b982-7">
+  On May 18, 1976, Hill was indicted by a federal grand jury in the Northern District of Georgia for the aforementioned conspiracy. By letter dated May 28, 1976, the United States Attorney for the Northern District of Georgia requested that the United States Marshal in Atlanta have a detain-er lodged against Hill, who was then imprisoned in a California state penal institution. The request was eventually forwarded to the United States Marshal in San Francisco who, in turn, sent the detainer to the California penal facility at Soledad, California, where Hill was confined. The detainer bears a mark of June 21, 1976 as the date it was received.
+ </p>
+<p id="b982-10">
+  Meanwhile, a writ of habeas corpus
+  <em>
+   ad prosequendum
+  </em>
+  (“writ”) was sent from the Northern District of Georgia commanding California prison authorities to relinquish possession of Hill for federal criminal proceedings in Georgia. The writ was sent to the Soledad complex with a cover letter that bore the date of June 15, 1976. For reasons that do not appear in the record, however, the date that the writ was received by the California institution was not recorded. It is known that Hill was surrendered into the custody of federal officers to be transported, pursuant to the writ,
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  on June 23, 1976, and he arrived in the Northern District of Georgia three days later.
+ </p>
+<p id="b982-11">
+  On November 23,1976, Hill filed a motion to dismiss the indictment in accordance with Article V(c) of the IADA, alleging that he had not been brought to trial within 120 days of his arrival in the jurisdiction as required by Article IV(c) of the IADA. The magistrate to whom the motion was referred recommended that it be denied, and on January 10, 1977, the district court approved the recommendation. That same day Hill changed his plea to guilty while reserving the right to challenge the refusal to dismiss the indictment on appeal. In an opinion dated December 21, 1977, this court vacated the conviction and ruled that the district court could not accept a conditional guilty plea reserving the prerogative to raise non-jurisdictional issues on appeal.
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Hill,
+  </em>
+  <span class="citation" data-id="350191"><a href="/opinion/350191/united-states-v-fred-hill/" aria-description="Citation for case: United States v. Fred Hill">564 F.2d 1179</a></span> (5th Cir. 1977). Our mandate was made the judgment of the lower court on January 16, 1978.
+ </p>
+<p id="b982-12">
+  During these developments Hill had been held in federal custody. On August 24,
+  <span citation-index="1" class="star-pagination" label="903"> 
+   *903
+   </span>
+  1978, however, he was returned to the California facility at Soledad.
+ </p>
+<p id="b983-5">
+  After remand, on October 27, 1978, Hill again moved to dismiss the indictment on Article IV(c) grounds. Subsequently, on January 17, 1979, a pending joint request of counsel for the government and counsel for Hill resulted in the trial court’s granting a continuance of the trial until March 12, 1979. But on March 7, 1979, both counsel again joined in a motion to remove the case from the trial calendar until at least two weeks after the district court ruled on the motion to dismiss. One week later the lower court denied the motion to dismiss, reasoning that the IADA would have been activated only if the detainer arrived antecedent to the writ and that Hill had failed to carry his burden of establishing the sequence of arrivals. On March 26,1979, Hill filed a
+  <em>
+   pro se
+  </em>
+  motion to reconsider in the district court, wherein he asserted breach of his speedy trial right for the first time,
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  and a petition for a writ of mandamus in this court to compel the district court to dismiss the indictment. We denied the petition on May 10, 1979 and a subsequent motion to reconsider that denial on May 24, 1979. Trial commenced July 23, 1979, and this appeal followed conviction.
+ </p>
+<p id="b983-13">
+  II.
+ </p>
+<p id="b983-14">
+  Congress enacted the IADA in 1970 to combat abuses of the use of detainers. The provisions were operative during all pertinent times for purposes of this appeal. Article IV(c)
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  of the IADA generally requires that a prisoner must be brought to trial within 120 days of his arrival in the “receiving State” in respect to any proceeding made possible by Article IV of the IADA.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  The term “State” is defined to include the United States by Article 11(a). Failure to adhere to the applicable time limitation requires dismissal of the indictment with prejudice under Article V(c).
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+</p>
+<p id="b983-15">
+  In
+  <em>
+   United States v. Mauro,
+  </em>
+  <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">436 U.S. 340</a></span>, <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">98 S.Ct. 1834</a></span>, <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">56 L.Ed.2d 329</a></span> (1978), the Court decided two appeals, the
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  and
+  <em>
+   Ford
+  </em>
+  cases, from the Second Circuit. In the
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  case, a unanimous Court held that the provisions of the IADA are not implicated when the presence of a prisoner, held by a jurisdiction which is also a party to the Interstate Agreement on Detainers, is obtained solely by multiple use of the writ. The writ is simply not a detainer within the meaning of the IADA.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  In the
+  <em>
+   Ford
+  </em>
+  case, a majority of the Court concluded that when a detainer is lodged with prison authorities in the sending state before the writ is re-
+  <span citation-index="1" class="star-pagination" label="904"> 
+   *904
+   </span>
+  ceived, the IADA is activated. In such circumstances, the writ operates as a “written request for temporary custody” within the meaning of Article IV, necessitating the commencement of trial within the 120-day constraint.
+ </p>
+<p id="b984-4">
+  However, neither the Court’s opinion in
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>,
+  </em>
+  nor any other decision of which we are aware, squarely addresses the question of whether the provisions of the IADA apply when it cannot be determined whether the detainer’s arrival antedated the writ’s arrival due to the absence of a record of a date when the writ was received. We are reticent to place the onus of proving the arrival of the detainer antecedent to the arrival of the writ on the prisoner on these facts. We should guard against erecting a precedent that would invite the filching of the benefits of the IADA by prison officials who intentionally or negligently fail to record the arrival of each document. Motions to dismiss may not surface until long after the omission when no one can realistically expect that the respective dates can be shown.
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+  For present purposes, we will assume that the detainer arrived at the Sole-dad correctional complex before the writ arrived.
+ </p>
+<p id="b984-5">
+  Our assumption, coupled with the
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  holding in the
+  <em>
+   Ford
+  </em>
+  case, would dictate reversal if this episode had not predated that decision. However, we had already vacated Hill’s original conviction and remanded for a new arraignment and trial by the time
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  was decided. A preliminary inquiry, then, is whether
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  should be accorded retroactive application.
+ </p>
+<p id="b984-6">
+  In
+  <em>
+   Brown
+  </em>
+  v.
+  <em>
+   Mitchell,
+  </em>
+  <span class="citation" data-id="366305"><a href="/opinion/366305/james-ambrose-brown-v-james-p-mitchell-superintendent-of-the-virginia/#837" aria-description="Citation for case: James Ambrose Brown v. James P. Mitchell, Superintendent...">598 F.2d 835, 837-39</a></span> (4th Cir. 1979), a case involving Article IV(e) of Virginia’s enactment of the Interstate Agreement, the Fourth Circuit held that
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  announced a new rule of law that was not clearly foreshadowed as required to satisfy the threshold test for potential denial of retroactive application set forth in
+  <em>
+   Chevron Oil Co. v. Huson,
+  </em>
+  <span class="citation" data-id="108406"><a href="/opinion/108406/chevron-oil-co-v-huson/#106" aria-description="Citation for case: Chevron Oil Co. v. Huson">404 U.S. 97, 106</a></span>, <span class="citation" data-id="108406"><a href="/opinion/108406/chevron-oil-co-v-huson/#355" aria-description="Citation for case: Chevron Oil Co. v. Huson">92 S.Ct. 349, 355</a></span>, <span class="citation" data-id="108406"><a href="/opinion/108406/chevron-oil-co-v-huson/" aria-description="Citation for case: Chevron Oil Co. v. Huson">30 L.Ed.2d 296</a></span> (1971).
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+  Consequently, the decision was not to be afforded automatic retroactivity; rather, the court turned to and examined four factors governing retroactive application of new principles announced in
+  <em>
+   Stovall
+  </em>
+  v.
+  <em>
+   Denno,
+  </em>
+  <span class="citation" data-id="9423482"><a href="/opinion/107488/stovall-v-denno/#296" aria-description="Citation for case: Stovall v. Denno">388 U.S. 293, 296-300</a></span>, <span class="citation" data-id="9423482"><a href="/opinion/107488/stovall-v-denno/#1969" aria-description="Citation for case: Stovall v. Denno">87 S.Ct. 1967, 1969-71</a></span>, <span class="citation" data-id="9423482"><a href="/opinion/107488/stovall-v-denno/" aria-description="Citation for case: Stovall v. Denno">18 L.Ed.2d 1199</a></span> (1967), and
+  <em>
+   Linkletter v. Walker,
+  </em>
+  <span class="citation" data-id="9423077"><a href="/opinion/107084/linkletter-v-walker/#636" aria-description="Citation for case: Linkletter v. Walker">381 U.S. 618, 636-38</a></span>, <span class="citation" data-id="9423077"><a href="/opinion/107084/linkletter-v-walker/" aria-description="Citation for case: Linkletter v. Walker">85 S.Ct. 1731</a></span>, 1741 — 42, <span class="citation" data-id="9423077"><a href="/opinion/107084/linkletter-v-walker/" aria-description="Citation for case: Linkletter v. Walker">14 L.Ed.2d 601</a></span> (1965). Those are:
+ </p>
+<blockquote id="b984-9">
+  (1) the extent of reasonable reliance upon the premise that the now-condemned conduct was legitimate;
+ </blockquote>
+<blockquote id="b984-10">
+  (2) the purpose of the new rule and the extent to which that purpose will be aided by retroactivity;
+ </blockquote>
+<blockquote id="b984-11">
+  (3) the effect on the administration of justice of applying the new rule retroactively; and
+ </blockquote>
+<blockquote id="b984-12">
+  (4) the extent to which the new rule bears on the defendant’s guilt or innocence.
+ </blockquote>
+<p id="A8DO">
+<em>
+   Brown,
+  </em>
+  <span class="citation" data-id="366305"><a href="/opinion/366305/james-ambrose-brown-v-james-p-mitchell-superintendent-of-the-virginia/#838" aria-description="Citation for case: James Ambrose Brown v. James P. Mitchell, Superintendent...">598 F.2d at 838</a></span>.
+  <em>
+   See generally, Brown
+  </em>
+  v. Louisiana,-U.S.-,-, <span class="citation" data-id="9883124"><a href="/opinion/110302/brown-v-louisiana/" aria-description="Citation for case: Brown v. Louisiana">100 S.Ct. 2214</a></span>,-, 64 L.Ed.2d-(1980). The panel concluded that none of these militated in favor of retroactive application of
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  and that it should not be applied retroactively. The Third Circuit has recently followed suit in another case involving an Article IV(e) infraction.
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Williams,
+  </em>
+  <span class="citation" data-id="374760"><a href="/opinion/374760/united-states-v-williams-ronald-alfred-ronald-a-williams/#592" aria-description="Citation for case: United States v. Williams, Ronald Alfred, Ronald A. Williams">615 F.2d 585, 592-93</a></span> (3d Cir. 1980).
+  <em>
+   Accord, Hawkins-El
+  </em>
+  v.
+  <em>
+   Williams,
+  </em>
+  <span class="citation" data-id="2184134"><a href="/opinion/2184134/hawkins-el-v-williams/#420" aria-description="Citation for case: Hawkins-El v. Williams">483 F.Supp. 415, 420-22</a></span> (D.Md.1979) (Articles
+  <span citation-index="1" class="star-pagination" label="905"> 
+   *905
+   </span>
+  IV(c) and IV(e) under Maryland legislation);
+  <em>
+   Mars v. United States,
+  </em>
+  <span class="citation" data-id="2140600"><a href="/opinion/2140600/mars-v-united-states/#90" aria-description="Citation for case: Mars v. United States">463 F.Supp. 87, 90-94</a></span> (E.D.Mich.1978).
+ </p>
+<p id="b985-5">
+  With regard to the first, third, and fourth factors, the
+  <em>
+   Brown
+  </em>
+  court opined that the unsettled state of the law prior to
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  led to reasonable reliance by prosecutors on the use of the writ; retroactive application would have a disruptive effect on the administration of justice; and the violation of the IADA did not impugn the integrity of the defendant’s conviction because there was no evidence of prejudice to the defense. <span class="citation" data-id="366305"><a href="/opinion/366305/james-ambrose-brown-v-james-p-mitchell-superintendent-of-the-virginia/#838" aria-description="Citation for case: James Ambrose Brown v. James P. Mitchell, Superintendent...">598 F.2d at 838-39</a></span>. These observations apply with equal force to the facts of this case.
+ </p>
+<p id="b985-6">
+  The second constituent presents only a slightly more imposing obstacle on our facts. We agree with the
+  <em>
+   Brown
+  </em>
+  court that the purpose of
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  was “to encourage prompt disposition of charges against a prisoner who is subject to a detainer and thereby to prevent frustration of rehabilitation efforts.”
+  <em>
+   Id.
+  </em>
+  at 838. Two points deserve comment, however. First, a healthy percentage of the delay between Hill’s arrival in the Northern District of Georgia and his guilty plea
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+  was attributable to pretrial motions by Hill and his codefendants.
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+  Furthermore, any interference with Hill’s rights to an expeditious resolution of the pending charge and to access to any rehabilitation program at the Soledad facility that was affected by the presumed violation of Article IV(c) cannot be rectified by retroactive application of
+  <em>
+   Mauro. Williams,
+  </em>
+  <span class="citation" data-id="374760"><a href="/opinion/374760/united-states-v-williams-ronald-alfred-ronald-a-williams/#593" aria-description="Citation for case: United States v. Williams, Ronald Alfred, Ronald A. Williams">615 F.2d at 593</a></span>;
+  <em>
+   Mars,
+  </em>
+  <span class="citation" data-id="2140600"><a href="/opinion/2140600/mars-v-united-states/#92" aria-description="Citation for case: Mars v. United States">463 F.Supp. at 92</a></span>.
+ </p>
+<p id="b985-9">
+  We arrive, therefore, at the same conclusion as every other decision expressly confronting the issue of which we are aware; the holding of
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  is not to be given retroactive application.
+  <a class="footnote" href="#fn11" id="fn11_ref">
+   11
+  </a>
+  Hence, we must peruse our jurisprudence prior to the Supreme Court’s decision in
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  to determine whether we would have equated the writ with a “request for temporary custody” within the meaning of Article IV(c).
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+</p>
+<p id="b986-3">
+<span citation-index="1" class="star-pagination" label="906"> 
+   *906
+   </span>
+  The paucity of decisional law in this circuit construing the IADA before the Court’s decision in
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  enhances the speculative nature of our task.
+  <em>
+   United States v. Scallion,
+  </em>
+  <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">548 F.2d 1168</a></span> (5th Cir. 1977),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./436/943/">436 U.S. 943</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./98/2843/">98 S.Ct. 2843</a></span>, <span class="citation no-link">56 L.Ed.2d 784</span> (1978), was our premiere effort on the applicability of the statute. We correctly presaged the
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  Court’s ruling that exclusive, albeit repeated, use of the writ does not activate the provisions of the IADA. But neither that decision nor any of our cases since have decided whether a writ succeeding the lodging of a detainer activates the time constraints of the IADA.
+ </p>
+<p id="b986-4">
+  The courts outside this circuit had not harmonized on this point prior to
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>.
+  </em>
+  A panel majority of the Second Circuit in
+  <em>
+   United States v. Ford,
+  </em>
+  <span class="citation" data-id="9842917"><a href="/opinion/343388/united-states-v-richard-t-ford/#742" aria-description="Citation for case: United States v. Richard T. Ford">550 F.2d 732, 742</a></span> (2d Cir. 1977), correctly forecast how the Supreme Court would decide that case on review in
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>;
+  </em>
+  it held that a writ that followed the lodging of a detainer did constitute a written request for temporary custody. A similar result was reached in
+  <em>
+   Gray v. Benson,
+  </em>
+  <span class="citation" data-id="1953791"><a href="/opinion/1953791/gray-v-benson/#1292" aria-description="Citation for case: Gray v. Benson">443 F.Supp. 1284, 1292-93</a></span> (D.Kan.1978). By contrast, both
+  <em>
+   Mars v. United States,
+  </em>
+  <span class="citation" data-id="8850428"><a href="/opinion/8864862/mars-v-united-states/" aria-description="Citation for case: Mars v. United States">443 F.Supp. 774</a></span> (E.D.Mich. 1978)
+  <a class="footnote" href="#fn13" id="fn13_ref">
+   13
+  </a>
+  and
+  <em>
+   Huff v. United States,
+  </em>
+  <span class="citation" data-id="1572043"><a href="/opinion/1572043/huff-v-united-states/" aria-description="Citation for case: Huff v. United States">437 F.Supp. 564</a></span> (W.D.Mo.1977)
+  <a class="footnote" href="#fn14" id="fn14_ref">
+   14
+  </a>
+  held that this factual sequence did not implicate the IADA.
+  <a class="footnote" href="#fn15" id="fn15_ref">
+   15
+  </a>
+</p>
+<p id="b986-7">
+  We draw some guidance for our conjectural examination from dicta in
+  <em>
+   <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">Scallion</a></span>.
+  </em>
+  In the process of distinguishing detainers from the writ, the court repeatedly emphasized that Congress did not intend to construct the IADA machinery as the exclusive means of transferring prisoners for the purposes of prosecution. <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/#1171" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">548 F.2d at 1171</a></span>,
+  <span citation-index="1" class="star-pagination" label="907"> 
+   *907
+   </span>
+  1172. If the prior arrival of a detainer would have been held to transform the writ into a written request for temporary custody, the writ would not have been a distinguishable method of transfer because the IADA would have been triggered. It is also noteworthy that the
+  <em>
+   <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">Scallion</a></span>
+  </em>
+  panel chose not to distinguish
+  <em>
+   United States v.
+  </em>
+  Ricketson, <span class="citation" data-id="319925"><a href="/opinion/319925/united-states-v-leonard-b-ricketson/#372" aria-description="Citation for case: United States v. Leonard B. Ricketson">498 F.2d 367, 372-73</a></span> (7th Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./419/965/">419 U.S. 965</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./95/227/">95 S.Ct. 227</a></span>, <span class="citation no-link">42 L.Ed.2d 180</span> (1974), on the grounds that a detainer had been lodged in that case. Rather, the
+  <em>
+   <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">Scallion</a></span>
+  </em>
+  court emphasized that the
+  <em>
+   <span class="citation" data-id="319925"><a href="/opinion/319925/united-states-v-leonard-b-ricketson/" aria-description="Citation for case: United States v. Leonard B. Ricketson">Ricketson</a></span>
+  </em>
+  panel had
+  <em>
+   assumed
+  </em>
+  that the writ operated as a written request for temporary custody and then determined that the 120-day limitation was not exceeded. <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">548 F.2d at 1173</a></span> n.8. One conclusion that might be drawn from the distinction chosen is that the
+  <em>
+   <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">Scallion</a></span>
+  </em>
+  court believed that the writ did not operate as a written request for temporary custody. Finally,
+  <em>
+   <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">Scallion</a></span>
+  </em>
+  recognized that the primary concern of Article IV is the elimination of abuses of detainers by states — not elimination of abuses of the writ by federal prosecutors.
+  <em>
+   <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">Id.</a></span>
+  </em>
+  at 1172 n.5. But a holding that the writ is equivalent to a written request for temporary custody once a detainer is lodged seems to mean that the effect of the writ is limited by the IADA. For instance, Article V(c) limits the “temporary custody” to prosecution of the charge or charges contained in the indictments, informations, or complaints which undergird the detainer or detainers, or to prosecution on any other charges arising out of the same transaction. Consequently, the government could not cause the writ to be issued and then hold the prisoner indefinitely while seeking to try the defendant on charges unrelated to those in the charging instruments supporting the detainer. This may be potent elixir for a perversion of the writ, but before
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  we doubt if our language and reasoning in
+  <em>
+   <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">Scallion</a></span>
+  </em>
+  would have squared with this result.
+ </p>
+<p id="b987-12">
+  Apart from the
+  <em>
+   <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">Scallion</a></span>
+  </em>
+  locution, we suspect that the second proviso in Article IV(a)
+  <a class="footnote" href="#fn16" id="fn16_ref">
+   16
+  </a>
+  of the IADA would have served to deter us from equating a writ with a written request for temporary custody. The apposite proviso mandates a thirty-day waiting period after delivery of the written request for temporary custody during which the governor of the sending state is empowered to disapprove the request. We would have thought that, under the Supremacy Clause, a state was not free to delay or disapprove compliance with the writ executed under federal statutory authority in <span class="citation no-link">28 U.S.C. § 2241</span> (1976).
+  <a class="footnote" href="#fn17" id="fn17_ref">
+   17
+  </a>
+  Moreover, the
+  <em>
+   <span class="citation" data-id="9842917"><a href="/opinion/343388/united-states-v-richard-t-ford/" aria-description="Citation for case: United States v. Richard T. Ford">Ford</a></span>
+  </em>
+  panel’s solution to the paradox is singularly unpersuasive. The fact that the governor in that case had never refused to honor the federal writ and the fact that the structure and purposes of the IADA made it clear that the speedy trial provisions contained in the statute were intended to apply to the federal government as a “receiving state,” <span class="citation" data-id="9842917"><a href="/opinion/343388/united-states-v-richard-t-ford/#737" aria-description="Citation for case: United States v. Richard T. Ford">550 F.2d at 737</a></span>, did not resolve an apparent conflict between a state’s
+  <em>
+   power
+  </em>
+  to refuse a written request for temporary custody and a state’s
+  <em>
+   power
+  </em>
+  to decline to honor a federal writ.
+  <a class="footnote" href="#fn18" id="fn18_ref">
+   18
+  </a>
+</p>
+<p id="b988-3">
+<span citation-index="1" class="star-pagination" label="908"> 
+   *908
+   </span>
+  Mindful of the hypothetical character of our chore, we nonetheless conclude from these indicia that the rule in this circuit before the Supreme Court’s decision in
+  <em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+  </em>
+  was that a writ appearing in the hands of prison officials after a detainer had been lodged did not operate as a written request for temporary custody so as to actuate the IADA. Consequently, the criminal proceedings against Hill in the Northern District of Georgia were not “made possible by [Article IV]”; rather, they were made possible by the writ. Article IV(c) was not transgressed in this case.
+ </p>
+<p id="b988-4">
+  III.
+ </p>
+<p id="b988-5">
+  Hill suggests that the government also failed Article IV(e) of the IADA
+  <a class="footnote" href="#fn19" id="fn19_ref">
+   19
+  </a>
+  by returning him to the Soledad facility before bringing him to trial in the Northern District of Georgia. The argument has been foreclosed below because Hill did not raise the contention in the district court.
+  <em>
+   United States v. Eaddy,
+  </em>
+  <span class="citation" data-id="364790"><a href="/opinion/364790/united-states-v-leroy-eaddy/#346" aria-description="Citation for case: United States v. Leroy Eaddy">595 F.2d 341, 346</a></span> (6th Cir. 1979);
+  <em>
+   Scallion,
+  </em>
+  <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/#1174" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">548 F.2d at 1174</a></span>.
+ </p>
+<p id="b988-6">
+  IV.
+ </p>
+<p id="b988-7">
+  The speedy trial right is the focus of Hill’s third argument. He insists that the delay involved between his indictment and the conviction currently under review infringed the Sixth Amendment, Fed.R. Crim.P. 48(b), the Federal Speedy Trial Act (“FSTA”), <span class="citation no-link">18 U.S.C.A. § 3161</span>
+  <em>
+   et seq.
+  </em>
+  (West Supp.1980), and the local speedy trial plan for the Northern District of Georgia. The last two provisions warrant only passing attention.
+ </p>
+<p id="b988-8">
+  The sanctions of the FSTA do not apply to indictments filed before July 1, 1980. <span class="citation no-link">18 U.S.C.A. § 3163</span>(c) (West Supp. 1980). Hence, dismissal was not required under this legislation.
+  <em>
+   E. g., United States v. Metz,
+  </em>
+  <span class="citation" data-id="9466210"><a href="/opinion/371030/united-states-v-walter-metz-and-ronald-d-schiller/#152" aria-description="Citation for case: United States v. Walter Metz and Ronald D. Schiller">608 F.2d 147, 152</a></span> (5th Cir. 1979),
+  <em>
+   pet. for cert. filed,
+  </em>
+  <span class="citation no-link">48 U.S.L.W. 3772</span> (1980);
+  <em>
+   United States v. Noll,
+  </em>
+  <span class="citation" data-id="367184"><a href="/opinion/367184/united-states-v-paul-arthur-noll/#1127" aria-description="Citation for case: United States v. Paul Arthur Noll">600 F.2d 1123, 1127</a></span> (5th Cir. 1979). Until the FSTA sanctions do activate, we look to the interim plan of each district, adopted pursuant to 18 U.S. C.A. § 3165 (West Supp.1980) and Fed.R. Crim.P. 50(b), to determine whether the pretrial delay requires dismissal.
+  <em>
+   Id.; United States v. Walters,
+  </em>
+  <span class="citation" data-id="363128"><a href="/opinion/363128/united-states-v-paulette-walters/#1201" aria-description="Citation for case: United States v. Paulette Walters">591 F.2d 1195, 1201</a></span> (5th Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./442/945/">442 U.S. 945</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./99/2892/">99 S.Ct. 2892</a></span>, <span class="citation no-link">61 L.Ed.2d 317</span> (1979). The local plan is a binding rule of law,
+  <em>
+   United States v. Elorduy,
+  </em>
+  <span class="citation" data-id="373460"><a href="/opinion/373460/united-states-v-roberto-g-elorduy/#988" aria-description="Citation for case: United States v. Roberto G. Elorduy">612 F.2d 986, 988</a></span> (5th Cir. 1980), but the dismissal sanctions for violating the speedy trial plan in the Northern District of Georgia were not obligatory at the time Hill moved to dismiss on speedy trial grounds.
+  <a class="footnote" href="#fn20" id="fn20_ref">
+   20
+  </a>
+  Absent compulsory sanctions, dismissal is not mandated for failure to observe local time limits.
+  <em>
+   Id.; Metz,
+  </em>
+  <span class="citation" data-id="9466210"><a href="/opinion/371030/united-states-v-walter-metz-and-ronald-d-schiller/#152" aria-description="Citation for case: United States v. Walter Metz and Ronald D. Schiller">608 F.2d at 152</a></span>.
+ </p>
+<p id="b988-12">
+  Fed.R.Crim.P. 48(b) permits a district court to dismiss an indictment if there is any “unnecessary delay in bringing a defendant to trial.” However, dismissal under Rule 48(b) is not required unless the constitutional speedy trial right has been flouted.
+  <em>
+   E. g., Noll,
+  </em>
+  <span class="citation" data-id="367184"><a href="/opinion/367184/united-states-v-paul-arthur-noll/#1127" aria-description="Citation for case: United States v. Paul Arthur Noll">600 F.2d at 1127</a></span>;
+  <em>
+   United States v. Gorthy,
+  </em>
+  <span class="citation" data-id="343449"><a href="/opinion/343449/united-states-v-john-paul-gorthy/#1053" aria-description="Citation for case: United States v. John Paul Gorthy">550 F.2d 1051, 1053</a></span> (5th Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./434/834/">434 U.S. 834</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./98/121/">98 S.Ct. 121</a></span>, <span class="citation" data-id="9007565"><a href="/opinion/9014507/getz-v-equitable-life-assurance-society-of-the-united-states/" aria-description="Citation for case: Getz v. Equitable Life Assurance Society of the United...">54 L.Ed.2d 95</a></span> (1977).
+ </p>
+<p id="b988-13">
+  The four-prong test of
+  <em>
+   Barker v. Wingo,
+  </em>
+  <span class="citation" data-id="9424967"><a href="/opinion/108590/barker-v-wingo/#530" aria-description="Citation for case: Barker v. Wingo">407 U.S. 514, 530</a></span>, <span class="citation" data-id="9424967"><a href="/opinion/108590/barker-v-wingo/" aria-description="Citation for case: Barker v. Wingo">92 S.Ct. 2182</a></span> (1972), serves as the compass for determining whether the Sixth Amendment demands dismissal.
+  <em>
+   E. g., United States v. Vanella,
+  </em>
+  <span class="citation" data-id="377017"><a href="/opinion/377017/united-states-v-patrick-t-vanella/#385" aria-description="Citation for case: United States v. Patrick T. Vanella">619 F.2d 384, 385-86</a></span> (5th Cir. 1980);
+  <em>
+   Elduroy,
+  </em>
+  <span class="citation" data-id="373460"><a href="/opinion/373460/united-states-v-roberto-g-elorduy/#988" aria-description="Citation for case: United States v. Roberto G. Elorduy">612 F.2d at 988</a></span>. The factors are: (1) the length of the delay; (2) the
+  <span citation-index="1" class="star-pagination" label="909"> 
+   *909
+   </span>
+  reason for the delay; (3) the defendant’s assertion of the speedy trial right; and (4) prejudice to the defendant.
+ </p>
+<p id="b989-4">
+  “The first prong of
+  <em>
+   <span class="citation" data-id="9424967"><a href="/opinion/108590/barker-v-wingo/" aria-description="Citation for case: Barker v. Wingo">Barker</a></span>,
+  </em>
+  the length of the delay, is the threshold ‘triggering mechanism.’ No inquiry into the other factors is required unless there has been a delay of such length as to be presumptively prejudicial.”
+  <em>
+   United States v. Edwards,
+  </em>
+  <span class="citation" data-id="8906856"><a href="/opinion/8918451/united-states-v-edwards/#888" aria-description="Citation for case: United States v. Edwards">577 F.2d 883, 888</a></span> (5th Cir.) (footnotes omitted),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./439/968/">439 U.S. 968</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./99/458/">99 S.Ct. 458</a></span>, <span class="citation no-link">58 L.Ed.2d 427</span> (1978). The Sixth Amendment clock begins to tick upon indictment when no prior arrest on the alleged offense is involved.
+  <em>
+   Dillingham
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="109331"><a href="/opinion/109331/dillingham-v-united-states/" aria-description="Citation for case: Dillingham v. United States">423 U.S. 64</a></span>, <span class="citation" data-id="109331"><a href="/opinion/109331/dillingham-v-united-states/" aria-description="Citation for case: Dillingham v. United States">96 S.Ct. 303</a></span>, <span class="citation" data-id="109331"><a href="/opinion/109331/dillingham-v-united-states/" aria-description="Citation for case: Dillingham v. United States">46 L.Ed.2d 205</a></span> (1975) (per curiam);
+  <em>
+   United States v. Marion,
+  </em>
+  <span class="citation" data-id="9424708"><a href="/opinion/108420/united-states-v-marion/#320" aria-description="Citation for case: United States v. Marion">404 U.S. 307, 320-21</a></span> (1971). In particular, the date of the indictment is the crucial date for a prisoner already incarcerated on a prior offense.
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Manetta,
+  </em>
+  <span class="citation" data-id="9463663"><a href="/opinion/344243/united-states-v-andrew-anthony-manetta/#1354" aria-description="Citation for case: United States v. Andrew Anthony Manetta">551 F.2d 1352, 1354</a></span> (5th Cir. 1977). In this case, the delay between the indictment (May 18, 1976) and the commencement of the trial resulting in this appeal (June 23, 1979) was 38 months. Such a delay is presumptively prejudicial.
+  <em>
+   See United States
+  </em>
+  v.
+  <em>
+   Herman,
+  </em>
+  <span class="citation" data-id="356022"><a href="/opinion/356022/united-states-v-glen-herman/#1145" aria-description="Citation for case: United States v. Glen Herman">576 F.2d 1139, 1145</a></span> (5th Cir. 1978) (22 month and 20 day delay);
+  <em>
+   United States v. Netterville,
+  </em>
+  <span class="citation" data-id="344890"><a href="/opinion/344890/united-states-v-william-netterville-gerald-l-thatcher-robert-douglas/#914" aria-description="Citation for case: United States v. William Netterville, Gerald L. Thatcher,...">553 F.2d 903, 914</a></span> (5th Cir. 1977),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./434/1009/">434 U.S. 1009</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./98/719/">98 S.Ct. 719</a></span>, <span class="citation no-link">54 L.Ed.2d 752</span> (1978) (19 month and two week delay).
+ </p>
+<p id="b989-5">
+  The reasons offered by the government for the delay is the second consideration. Any prolongation attributable to conduct by the accused is excused.
+  <em>
+   Hill v. Wainwright,
+  </em>
+  <span class="citation" data-id="375757"><a href="/opinion/375757/paul-clifford-hill-v-louie-l-wainwright-etc/#378" aria-description="Citation for case: Paul Clifford Hill v. Louie L. Wainwright, Etc.">617 F.2d 375, 378</a></span> (5th Cir. 1980);
+  <em>
+   Torres v. Florida,
+  </em>
+  <span class="citation" data-id="310482"><a href="/opinion/310482/ramon-a-torres-v-state-of-florida/" aria-description="Citation for case: Ramon A. Torres v. State of Florida">477 F.2d 555</a></span> (5th Cir.) (per curiam),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./414/852/">414 U.S. 852</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./94/148/">94 S.Ct. 148</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/38/102/">38 L.Ed.2d 102</a></span> (1973). Our protracted recitation of the facts demonstrates that no more than about 16 months of the aggregate 38-month interim between indictment and trial should be charged to the government.
+ </p>
+<p id="b989-8">
+  Approximately five weeks lapsed between the return of the indictment and Hill’s arrival in the Northern District of Georgia. There is no contention that the government dallied in its efforts to secure Hill’s presence in that district as promptly as existing channels for transfer permit. The delay is ascribable to the fact that Hill’s prior activities resulted in confinement in California.
+  <a class="footnote" href="#fn21" id="fn21_ref">
+   21
+  </a>
+  Another six weeks was consumed between November 23, 1976 and January 10, 1977 by Hill’s first motion to dismiss, hearings on the motion, and judicial deliberation. Similarly, nearly seven months of delay, between October 27, 1978 and May 24,1979, can be accredited to Hill’s second motion to dismiss on Article IV(c) grounds, his two motions for continuances, his motion to reconsider in the trial court, his petition for the writ of mandamus in this court, and his motion for reconsideration when we denied the petition. The government was entirely reasonable in choosing not to try Hill during the pendency of these motions.
+  <em>
+   Hill,
+  </em>
+  <span class="citation" data-id="375757"><a href="/opinion/375757/paul-clifford-hill-v-louie-l-wainwright-etc/#379" aria-description="Citation for case: Paul Clifford Hill v. Louie L. Wainwright, Etc.">617 F.2d at 379</a></span>;
+  <em>
+   see Torres,
+  </em>
+  <span class="citation" data-id="310482"><a href="/opinion/310482/ramon-a-torres-v-state-of-florida/#556" aria-description="Citation for case: Ramon A. Torres v. State of Florida">477 F.2d at 556</a></span>. Finally, slightly more than a year expired between Hill’s voluntary tender of a guilty plea and the date this court’s ruling became the judgment of the district court. The delay eventuated by Hill’s efforts to secure appellate relief from the conviction should not be attributed to the government.
+  <em>
+   Hill,
+  </em>
+  <span class="citation" data-id="375757"><a href="/opinion/375757/paul-clifford-hill-v-louie-l-wainwright-etc/" aria-description="Citation for case: Paul Clifford Hill v. Louie L. Wainwright, Etc.">617 F.2d at 378</a></span> — 79;
+  <em>
+   cf. Herman,
+  </em>
+  <span class="citation" data-id="356022"><a href="/opinion/356022/united-states-v-glen-herman/#1145" aria-description="Citation for case: United States v. Glen Herman">576 F.2d at 1145</a></span> (delay occasioned by withdrawal of a guilty plea).
+ </p>
+<p id="b989-9">
+  The third
+  <em>
+   <span class="citation" data-id="9424967"><a href="/opinion/108590/barker-v-wingo/" aria-description="Citation for case: Barker v. Wingo">Barker</a></span>
+  </em>
+  factor is defendant’s assertion of the speedy trial right. It is noteworthy that Hill did not indicate any interest in invoking the speedy trial guaranty prior to his March 26, 1979 motion to reconsider the denial of his second motion to dismiss on Article IV(c) grounds. De
+  <span citation-index="1" class="star-pagination" label="910"> 
+   *910
+   </span>
+  spite being represented by the same counsel throughout these proceedings, Hill failed to assert the speedy trial right until four months before trial. Nor was the assertion with vigor; the record does not contain a ruling by the trial court on Hill’s motion to reconsider, and he did not again press the right before trial. These facts militate against the claim that speedy trial was denied.
+  <em>
+   Edwards,
+  </em>
+  <span class="citation" data-id="8906856"><a href="/opinion/8918451/united-states-v-edwards/#889" aria-description="Citation for case: United States v. Edwards">577 F.2d at 889</a></span>;
+  <em>
+   Netter-ville,
+  </em>
+  <span class="citation" data-id="344890"><a href="/opinion/344890/united-states-v-william-netterville-gerald-l-thatcher-robert-douglas/#914" aria-description="Citation for case: United States v. William Netterville, Gerald L. Thatcher,...">553 F.2d at 914</a></span>. Subsequent to the motion to reconsider in the district court, only two months of delay were not attributable to Hill’s legal stratagems.
+ </p>
+<p id="b990-4">
+  The final ingredient
+  <a class="footnote" href="#fn22" id="fn22_ref">
+   22
+  </a>
+  in the balance is prejudice to the defendant. The
+  <em>
+   <span class="citation" data-id="9424967"><a href="/opinion/108590/barker-v-wingo/" aria-description="Citation for case: Barker v. Wingo">Barker</a></span>
+  </em>
+  Court identified three forms involved in pretrial delay: oppressive pretrial incarceration; anxiety engendered in the accused by the pending charges; and impairment of defenses. Justice Powell, writing for the majority, explained that the most serious prejudice was the final form. <span class="citation" data-id="9424967"><a href="/opinion/108590/barker-v-wingo/#532" aria-description="Citation for case: Barker v. Wingo">407 U.S. at 532</a></span>, 92 S.Ct. at 2193.
+ </p>
+<p id="b990-5">
+  Hill does not complain that he suffered any pretrial incarceration as a result of the charge. Apparently, his sentence in California would have kept him confined throughout these proceedings. Nor does he profess a debilitation of possible defenses. Thus, in the absence of an affirmation of specific prejudice, we must presume that Hill relies on the anxiety inherent in any delay. Standing alone, however, this form of prejudice is insufficient to warrant reversal.
+  <em>
+   E. g., Vanella,
+  </em>
+  <span class="citation" data-id="377017"><a href="/opinion/377017/united-states-v-patrick-t-vanella/#386" aria-description="Citation for case: United States v. Patrick T. Vanella">619 F.2d at 386</a></span>;
+  <em>
+   Metz,
+  </em>
+  <span class="citation" data-id="9466210"><a href="/opinion/371030/united-states-v-walter-metz-and-ronald-d-schiller/#152" aria-description="Citation for case: United States v. Walter Metz and Ronald D. Schiller">608 F.2d at 152</a></span>.
+ </p>
+<p id="b990-6">
+  This journey through
+  <em>
+   Barker’s
+  </em>
+  criteria and the progeny of that case convinces us that, on balance, we cannot say that Hill was denied his right to a speedy trial. The district court did not err by declining to dismiss the indictment either pursuant to the Sixth Amendment or pursuant to Rule 48(b).
+ </p>
+<p id="b990-8">
+  V.
+ </p>
+<p id="b990-9">
+  The final assault on the conviction involves an imaginative argument. Hill does not suggest that the trial court erred in its application of
+  <em>
+   United States v. James,
+  </em>
+  <span class="citation" data-id="9465416"><a href="/opinion/362801/united-states-v-donald-james-and-david-anthony-butler-united-states-of/" aria-description="Citation for case: United States v. Donald James and David Anthony Butler,...">590 F.2d 575</a></span> (5th Cir.) (en banc),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./442/917/">442 U.S. 917</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./99/2836/">99 S.Ct. 2836</a></span>, <span class="citation no-link">61 L.Ed.2d 283</span> (1979). Rather, he argues that the district judge should have instructed the jury that the reason that hearsay statements of certain nonattendant coconspirators were admissible was that the judge had made a preliminary determination, out of the jury’s presence, that substantial evidence pointed towards the existence of a conspiracy between Hill and the declarants and that the statements were made in furtherance of the conspiracy. Further, by the close of all the evidence the judge was convinced that the evidence preponderated in this direction. Only by such an instruction, Hill argues, would the jury be properly admonished against affording the hearsay utterances undue moment.
+ </p>
+<p id="b990-10">
+  No authority has been cited for this novel proposition and our own research has uncovered none. We agree with the government that such an instruction carries profuse potential for conveying to the jury an understanding that the trial court has been persuaded of the defendant’s guilt. Such a tacit transmission should be avoided.
+  <em>
+   See United States v. Musgrave,
+  </em>
+  <span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/#763" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">444 F.2d 755, 763</a></span> (5th Cir. 1971),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./414/1023/">414 U.S. 1023</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./94/447/">94 S.Ct. 447</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/38/315/">38 L.Ed.2d 315</a></span> (1973);
+  <em>
+   cf. United States
+  </em>
+  v.
+  <em>
+   Welliver,
+  </em>
+  <span class="citation" data-id="367267"><a href="/opinion/367267/united-states-v-william-e-welliver/#208" aria-description="Citation for case: United States v. William E. Welliver">601 F.2d 203, 208-09</a></span> (5th Cir. 1979) (repeated usurpation of the questioning of witnesses transmits a notion that the trial judge believes the accused to be guilty). No error was committed by refusing to give the requested charge.
+ </p>
+<p id="b990-11">
+  Having assured ourselves that no reversible miscarriage obtained below, the judgment, of the conviction is
+ </p>
+<p id="AZE">
+  AFFIRMED.
+ </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b982-8">
+   . Hill was not surrendered solely on the basis of the detainer lodged against him. Article IV(a) of the IADA, 18 U.S.C.App. (1976), requires that a “written request for temporary custody or availability” be presented to prison officials in addition to the detainer before a prisoner is released into the custody of officials of a jurisdiction with an untried indictment pending against the convict.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b983-7">
+   . The record does not reflect that the lower court ever ruled upon the motion to reconsider.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b983-8">
+   . Article IV(c), 18 U.S.C.App., provides:
+  </p>
+<blockquote id="b983-9">
+   (c) In respect of any proceeding made possible by this article, trial shall be commenced within one hundred and twenty days of the arrival of the prisoner in the receiving State, but for good cause shown in open court, the prisoner or his counsel being present, the court having jurisdiction of the matter may grant any necessary or reasonable continuance.
+  </blockquote>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b983-10">
+   . Necessary and reasonable continuances granted by the judge in open court in the presence of the prisoner or his counsel toll the 120-day period. Article IV(c), 18 U.S.C.App., p. 3196 (1976). The government urges that the 120-day limitation was not contravened because necessary and reasonable extensions moved the required trial date beyond the day Hill pleaded guilty, despite the absence of formal continuances in open court in the presence of Hill or his counsel. Our disposition allows us to pretermit the issue but we note that the argument has failed before a sibling circuit.
+   <em>
+    Stroble v. Anderson,
+   </em>
+   <span class="citation" data-id="361104"><a href="/opinion/361104/bernard-stroble-v-charles-anderson-warden-state-prison-of-southern/#838" aria-description="Citation for case: Bernard Stroble v. Charles Anderson, Warden, State Prison...">587 F.2d 830, 838-40</a></span> (6th Cir. 1978),
+   <em>
+    cert. denied,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/U.S./440/940/">440 U.S. 940</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./99/1289/">99 S.Ct. 1289</a></span>, <span class="citation no-link">59 L.Ed.2d 499</span> (1979).
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b983-16">
+   . In pertinent part, Article V(c) provides:
+  </p>
+<blockquote id="b983-17">
+   [I]n the event that an action on the indictment, information, or complaint on the basis of which the detainer has been lodged is not brought to trial within the period provided in article III or article IV hereof, the appropriate court of the jurisdiction where the indictment, information, or complaint has been pending shall enter an order dismissing the same with prejudice, and any detainer based thereon shall cease to be of any force or effect.
+  </blockquote>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b983-18">
+   .
+   <em>
+    <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+   </em>
+   thus affirmed our own holding in
+   <em>
+    United States v. Scallion,
+   </em>
+   <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">548 F.2d 1168</a></span> (5th Cir. 1977),
+   <em>
+    cert. denied,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/U.S./436/943/">436 U.S. 943</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./98/2843/">98 S.Ct. 2843</a></span>, <span class="citation no-link">56 L.Ed.2d 784</span> (1978). The high Court also agreed with the
+   <em>
+    <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">Scallion</a></span>
+   </em>
+   panel, <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/#1174" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">548 F.2d at 1174</a></span>, that the United States is a party to the IADA as both a sending and a receiving “State.”
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b984-7">
+   . We are not deaf to the government’s contention that it was not party to any misconduct on the part of state prison authorities and that it has no greater access to evidence of the crucial dates than does the prisoner. But the United States does enjoy easy access to the suspect under the Interstate Agreement because he is confined in another jurisdiction that is party to the Interstate Agreement. Perhaps this fact alone should be sufficient to charge the government with the burden of demonstrating that the detainer did not precede the writ on these unusual facts. Our resolution permits us to escape deciding which party must shoulder the burden of proof.
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b984-18">
+   . The propriety of using this inquiry as a starting point in retroactivity analysis was recently reaffirmed in
+   <em>
+    Lee v. Missouri,
+   </em>
+   <span class="citation" data-id="109971"><a href="/opinion/109971/lee-v-missouri/#462" aria-description="Citation for case: Lee v. Missouri">439 U.S. 461, 462</a></span>, <span class="citation" data-id="109971"><a href="/opinion/109971/lee-v-missouri/#711" aria-description="Citation for case: Lee v. Missouri">99 S.Ct. 710, 711</a></span>, <span class="citation" data-id="109971"><a href="/opinion/109971/lee-v-missouri/" aria-description="Citation for case: Lee v. Missouri">58 L.Ed.2d 736</a></span> (1979) (per curiam).
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="At6">
+   . Hill contends that the pertinent termination date for Article IV(c) is July 23, 1979, the day his trial commenced after remand, rather than January 10, 1977, the day he had originally entered a guilty plea. The IADA does not define when a “trial” commences within the meaning of Article IV(c) but we are confident that a plea of guilty within the 120-day limitation is sufficient.
+   <em>
+    <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+   </em>
+   emphasized that the purpose of the IADA was to prevent the lodging of a detainer against an inmate,
+   <em>
+    without any action being taken on it,
+   </em>
+   for extended periods of time which could result in the denial of certain prison benefits and the frustration of rehabilitative efforts. <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/#360" aria-description="Citation for case: United States v. Mauro">436 U.S. at 360</a></span>, 98 S.Ct. at 1847. Acceptance of a guilty plea does take action on the detainer; it disposes of the outstanding charge. Moreover, if Hill is correct in his interpretation, then virtually every prisoner who is obtained for trial in another jurisdiction pursuant to the Interstate Agreement, and who successfully obtains a reversal on appeal or collateral relief, would be entitled to dismissal of the indictment with prejudice because retrial could not be initiated within 120 days of the prisoner’s arrival in the receiving state. This result would obtain despite the absence of any of the abuses at which the Interstate Agreement was targeted. We cannot subscribe to this construction of Article IV(c).
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b985-7">
+   . Hill was originally arraigned and pleaded not guilty on June 28, 1976. The magistrate’s report and recommendation on Hill’s first motion to dismiss states that during July and August of that year, Hill and several of his codefendants filed pretrial motions. After holding hearings on these motions and ruling on them, the magistrate declared the case ready for trial on September 20, 1976. On October 7, 1976, the district court granted the government’s motion for a continuance until November 1, 1976. The trial was then continued until June 10, 1977 because on November 1, 1976, the lower court was engaged in another lengthy trial. Hill filed his first motion to dismiss on Article IV(c) grounds on November 23, 1976. After a hearing and a review of the magistrate’s report, the district court denied the motion on January 10, 1977. That same day Hill pleaded guilty.
+  </p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b985-11">
+   .
+   <em>
+    United States v. Gravitt,
+   </em>
+   <span class="citation" data-id="362502"><a href="/opinion/362502/united-states-v-william-eddie-gravitt-ronnie-wayne-gravitt-and-sandy/" aria-description="Citation for case: United States v. William Eddie Gravitt, Ronnie Wayne...">590 F.2d 123</a></span> (5th Cir. 1979), is not to the contrary. The issue of retroactivity was not discussed, and the same result was proper under our prior holding in
+   <em>
+    <span class="citation" data-id="342557"><a href="/opinion/342557/united-states-v-claude-john-scallion-raymond-lynn-buckelew-james-laney/" aria-description="Citation for case: United States v. Claude John Scallion, Raymond Lynn...">Scallion</a></span>.
+   </em>
+   We need not scan much further than
+   <em>
+    United States v. Boggs,
+   </em>
+   <span class="citation" data-id="373461"><a href="/opinion/373461/united-states-v-tommy-boggs/#992" aria-description="Citation for case: United States v. Tommy Boggs">612 F.2d 991, 992</a></span> (5th Cir. 1980) (per curiam), to confirm our suspicion that the issue remains unresolved in this circuit.
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="b985-12">
+   . By the time the Supreme Court decided
+   <em>
+    <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>,
+   </em>
+   we had already vacated Hill’s original conviction, and he was awaiting retrial. We have found no prior decisions holding
+   <em>
+    <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+   </em>
+   to be applicable to cases still on direct appeal at the time it was announced. Thus, the possibility of applying
+   <em>
+    <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+   </em>
+   only prospectively is an open issue.
+   <em>
+    Desist v. United States,
+   </em>
+   394 U.S.
+   <span citation-index="1" class="star-pagination" label="906"> 
+    *906
+    </span>
+   244, 252-53, <span class="citation" data-id="9423951"><a href="/opinion/107875/desist-v-united-states/#1035" aria-description="Citation for case: Desist v. United States">89 S.Ct. 1030, 1035-36</a></span>, <span class="citation" data-id="9423951"><a href="/opinion/107875/desist-v-united-states/" aria-description="Citation for case: Desist v. United States">22 L.Ed.2d 248</a></span> (1969);
+   <em>
+    Johnson v. New Jersey,
+   </em>
+   <span class="citation" data-id="107260"><a href="/opinion/107260/johnson-v-new-jersey/#732" aria-description="Citation for case: Johnson v. New Jersey">384 U.S. 719, 732</a></span>, <span class="citation" data-id="107260"><a href="/opinion/107260/johnson-v-new-jersey/#1780" aria-description="Citation for case: Johnson v. New Jersey">86 S.Ct. 1772, 1780</a></span>, <span class="citation" data-id="107260"><a href="/opinion/107260/johnson-v-new-jersey/" aria-description="Citation for case: Johnson v. New Jersey">16 L.Ed.2d 882</a></span> (1966). As was the case in
+   <em>
+    <span class="citation" data-id="9423951"><a href="/opinion/107875/desist-v-united-states/" aria-description="Citation for case: Desist v. United States">Desist</a></span>,
+   </em>
+   we are persuaded that the same factors that counsel against applying
+   <em>
+    <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+   </em>
+   retroactively also denote to us that the decision should not be applied to cases on direct appeal when the Court announced its decision.
+   <em>
+    See also Stovall v. Denno,
+   </em>
+   <span class="citation" data-id="9423482"><a href="/opinion/107488/stovall-v-denno/#300" aria-description="Citation for case: Stovall v. Denno">388 U.S. 293, 300-01</a></span>, <span class="citation" data-id="9423482"><a href="/opinion/107488/stovall-v-denno/#1971" aria-description="Citation for case: Stovall v. Denno">87 S.Ct. 1967, 1971-72</a></span>, <span class="citation" data-id="9423482"><a href="/opinion/107488/stovall-v-denno/" aria-description="Citation for case: Stovall v. Denno">18 L.Ed.2d 1199</a></span> (1967) (holding that the factors of reliance by law enforcement officials and burden on the administration of justice precluded application of the identification procedure of
+   <em>
+    United States v. Wade,
+   </em>
+   <span class="citation" data-id="9423472"><a href="/opinion/107486/united-states-v-wade/" aria-description="Citation for case: United States v. Wade">388 U.S. 218</a></span>, <span class="citation" data-id="9423472"><a href="/opinion/107486/united-states-v-wade/" aria-description="Citation for case: United States v. Wade">87 S.Ct. 1926</a></span>, <span class="citation" data-id="9423472"><a href="/opinion/107486/united-states-v-wade/" aria-description="Citation for case: United States v. Wade">18 L.Ed.2d 1149</a></span> (1967), and
+   <em>
+    Gilbert
+   </em>
+   v.
+   <em>
+    California,
+   </em>
+   <span class="citation" data-id="9423477"><a href="/opinion/107487/gilbert-v-california/" aria-description="Citation for case: Gilbert v. California">388 U.S. 263</a></span>, <span class="citation" data-id="9423477"><a href="/opinion/107487/gilbert-v-california/" aria-description="Citation for case: Gilbert v. California">87 S.Ct. 1951</a></span>, <span class="citation" data-id="9423477"><a href="/opinion/107487/gilbert-v-california/" aria-description="Citation for case: Gilbert v. California">18 L.Ed.2d 1178</a></span> (1967), to conduct completed before announcement of those decisions). The extent of the reliance and the potential burden on criminal justice administration here is graphically illustrated in
+   <em>
+    United States v. Mauro,
+   </em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/#364" aria-description="Citation for case: United States v. Mauro">436 U.S. 340, 364</a></span>, <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">98 S.Ct. 1834</a></span>, 1849 n.29, <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">56 L.Ed.2d 329</a></span>. “[Djuring a typical year federal courts issue approximately 5000
+   <em>
+    ad prosequendum
+   </em>
+   writs and [ ] about 3000 of those are in cases in which a detainer has previously been lodged against a prisoner.” One would assume, then, that a
+   <em>
+    fortiori,
+   </em>
+   the new principle should not be applied to cases awaiting retrial when the challenged conduct on the part of law enforcement officials precedes the original trial and the original trial antedates announcement of the new principle. In fact, based upon the factors discussed in
+   <em>
+    Johnson v. New Jersey,
+   </em>
+   <span class="citation" data-id="107260"><a href="/opinion/107260/johnson-v-new-jersey/" aria-description="Citation for case: Johnson v. New Jersey">384 U.S. 719</a></span>, <span class="citation" data-id="107260"><a href="/opinion/107260/johnson-v-new-jersey/" aria-description="Citation for case: Johnson v. New Jersey">86 S.Ct. 1772</a></span>, <span class="citation" data-id="107260"><a href="/opinion/107260/johnson-v-new-jersey/" aria-description="Citation for case: Johnson v. New Jersey">16 L.Ed.2d 882</a></span>, which resulted in only prospective application of
+   <em>
+    Miranda v. Arizona,
+   </em>
+   <span class="citation" data-id="9423233"><a href="/opinion/107252/miranda-v-arizona/" aria-description="Citation for case: Miranda v. Arizona">384 U.S. 436</a></span>, <span class="citation" data-id="9423233"><a href="/opinion/107252/miranda-v-arizona/" aria-description="Citation for case: Miranda v. Arizona">86 S.Ct. 1602</a></span>, <span class="citation" data-id="9423233"><a href="/opinion/107252/miranda-v-arizona/" aria-description="Citation for case: Miranda v. Arizona">16 L.Ed.2d 694</a></span> (1966) to trials commenced after
+   <em>
+    <span class="citation" data-id="9423233"><a href="/opinion/107252/miranda-v-arizona/" aria-description="Citation for case: Miranda v. Arizona">Miranda</a></span>,
+   </em>
+   and upon the unreasonable burden on peace officers, the Court did indeed hold in
+   <em>
+    Jenkins v. Delaware,
+   </em>
+   <span class="citation" data-id="9424052"><a href="/opinion/107949/jenkins-v-delaware/" aria-description="Citation for case: Jenkins v. Delaware">395 U.S. 213</a></span>, <span class="citation" data-id="9424052"><a href="/opinion/107949/jenkins-v-delaware/" aria-description="Citation for case: Jenkins v. Delaware">89 S.Ct. 1677</a></span>, <span class="citation" data-id="9424052"><a href="/opinion/107949/jenkins-v-delaware/" aria-description="Citation for case: Jenkins v. Delaware">23 L.Ed.2d 253</a></span> (1969), that
+   <em>
+    <span class="citation" data-id="9423233"><a href="/opinion/107252/miranda-v-arizona/" aria-description="Citation for case: Miranda v. Arizona">Miranda</a></span>
+   </em>
+   was not to be applied to retrials when the original trial preceded the
+   <em>
+    <span class="citation" data-id="9423233"><a href="/opinion/107252/miranda-v-arizona/" aria-description="Citation for case: Miranda v. Arizona">Miranda</a></span>
+   </em>
+   decision. By a parity of reasoning, we are convinced not only that
+   <em>
+    <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+   </em>
+   is to be given only prospective application, as discussed in text
+   <em>
+    supra,
+   </em>
+   but that it is not properly applied to retrials subsequent to the decision when the original conviction anteceded that decision.
+  </p>
+</div><div class="footnote" id="fn13" label="13">
+<a class="footnote" href="#fn13_ref">
+   13
+  </a>
+<p id="b986-9">
+   . On appeal, after
+   <em>
+    <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+   </em>
+   had been decided by the Supreme Court, the Sixth Circuit remanded this case to the district court for reconsideration in light of
+   <em>
+    <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+   </em>
+   in an unpublished opinion.
+   <em>
+    Mars v. United States,
+   </em>
+   No. 78-5161 (6th Cir. Nov. 7, 1978).
+  </p>
+</div><div class="footnote" id="fn14" label="14">
+<a class="footnote" href="#fn14_ref">
+   14
+  </a>
+<p id="b986-10">
+   . The Eighth Circuit subsequently remanded the case for reconsideration, in light of the ensuing
+   <em>
+    <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Mauro</a></span>
+   </em>
+   decision by the Supreme Court, in an unpublished opinion. On remand the district court dismissed the indictment, but the lower court was then reversed on appeal because the IADA violation did not there warrant <span class="citation no-link">28 U.S.C. § 2255</span> (1976) relief.
+   <em>
+    Huff v. United States,
+   </em>
+   <span class="citation" data-id="366606"><a href="/opinion/366606/gerald-wayne-huff-v-united-states/" aria-description="Citation for case: Gerald Wayne Huff v. United States">599 F.2d 860</a></span> (8th Cir.),
+   <em>
+    cert. denied,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/U.S./444/952/">444 U.S. 952</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./100/428/">100 S.Ct. 428</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/62/323/">62 L.Ed.2d 323</a></span> (1979).
+  </p>
+</div><div class="footnote" id="fn15" label="15">
+<a class="footnote" href="#fn15_ref">
+   15
+  </a>
+<p id="b986-11">
+   . In an unpublished opinion,
+   <em>
+    Boone v. United States,
+   </em>
+   Civil No. H-77-1674 (D.Md. April 24, 1978), the district court in Maryland reached a similar result. An account of the case is found in
+   <em>
+    Hawkins-El v. Williams,
+   </em>
+   <span class="citation" data-id="2184134"><a href="/opinion/2184134/hawkins-el-v-williams/#419" aria-description="Citation for case: Hawkins-El v. Williams">483 F.Supp. 415, 419-20</a></span> (D.Md. 1979).
+  </p>
+</div><div class="footnote" id="fn16" label="16">
+<a class="footnote" href="#fn16_ref">
+   16
+  </a>
+<p id="b987-5">
+   . In pertinent part, Article IV(a), 18 U.S.C. App., provides:
+  </p>
+<blockquote id="b987-7">
+   And
+   <em>
+    provided further,
+   </em>
+   That there shall be a period of thirty days after receipt by the appropriate authorities before the request be honored, within which period the Governor of the sending State may disapprove the request for temporary custody or availability, either upon his own motion or upon motion of the prisoner.
+  </blockquote>
+</div><div class="footnote" id="fn17" label="17">
+<a class="footnote" href="#fn17_ref">
+   17
+  </a>
+<p id="b987-8">
+   . That statute provides, in pertinent part:
+  </p>
+<blockquote id="b987-9">
+   § 2241. Power to grant writ
+  </blockquote>
+<blockquote id="b987-10">
+   (a) Writs of habeas corpus may be granted by the Supreme Court, any justice thereof, the district courts and any circuit judge within their respective jurisdictions.
+  </blockquote>
+<blockquote id="b987-13">
+   ******
+  </blockquote>
+<blockquote id="A1Y">
+   (c) The writ of habeas corpus shall not extend to a prisoner unless—
+  </blockquote>
+<blockquote id="ADk">
+   ******
+  </blockquote>
+<blockquote id="AFE">
+   (5) It is necessary to bring him into court to testify or for trial.
+  </blockquote>
+</div><div class="footnote" id="fn18" label="18">
+<a class="footnote" href="#fn18_ref">
+   18
+  </a>
+<p id="b987-17">
+   . The majority’s solution to the conundrum in
+   <em>
+    Mauro,
+   </em>
+   <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/#362" aria-description="Citation for case: United States v. Mauro">436 U.S. at 362</a></span>, <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/#1848" aria-description="Citation for case: United States v. Mauro">98 S.Ct. at 1848</a></span>, is not likely to provide much guidance. The Court remarked that Article IV(a) was not intended to augment a state’s authority to dishonor the writ; so that the inclusion of the writ within the meaning of “written requests” was not viewed as being inconsistent with Article IV(a). The Supremacy Clause difficulty was circumambulated by utilizing conditional language.
+   <span citation-index="1" class="star-pagination" label="908"> 
+    *908
+    </span>
+<em>
+    “If a
+   </em>
+   State has never had authority to dishonor an
+   <em>
+    ad prosequendum
+   </em>
+   writ issued by a federal court, then [Article IV(a)] could not be read as providing such authority.”
+   <em>
+    <span class="citation" data-id="9427202"><a href="/opinion/109867/united-states-v-mauro/" aria-description="Citation for case: United States v. Mauro">Id.</a></span>
+   </em>
+   (emphasis added). Unfortunately for the states and federal prosecutors, however, the discussion does not inform them whether governors are free to delay or deny obedience to the writ.
+  </p>
+</div><div class="footnote" id="fn19" label="19">
+<a class="footnote" href="#fn19_ref">
+   19
+  </a>
+<p id="b988-10">
+   . That section provides:
+  </p>
+<blockquote id="b988-14">
+   (e) If trial is not had on any indictment, information, or complaint contemplated hereby prior to the prisoner’s being returned to the original place of imprisonment pursuant to article V(e) hereof, such indictment, information, or complaint shall not be of any further force or effect, and the court shall enter an order dismissing the same with prejudice.
+  </blockquote>
+</div><div class="footnote" id="fn20" label="20">
+<a class="footnote" href="#fn20_ref">
+   20
+  </a>
+<p id="b988-15">
+   .
+   <em>
+    See
+   </em>
+   Rules 12(a) and (c) of the local speedy trial plan for 1979.
+  </p>
+</div><div class="footnote" id="fn21" label="21">
+<a class="footnote" href="#fn21_ref">
+   21
+  </a>
+<p id="b989-6">
+   . Additional delay, during the interval from July of 1976 through September 20, 1976, is not properly taxed to the government. During this interval, Hill and his codefendants launched a series of motions that required disposition.
+   <em>
+    See
+   </em>
+   note 10
+   <em>
+    supra.
+   </em>
+   The time for processing the motions should not be imputed to the govemment.
+   <em>
+    United States v. James,
+   </em>
+   <span class="citation" data-id="8898335"><a href="/opinion/8910631/united-states-v-james/#1020" aria-description="Citation for case: United States v. James">528 F.2d 999, 1020-21</a></span> (5th Cir.),
+   <em>
+    cert. denied sub nom. Norman
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/U.S./429/959/">429 U.S. 959</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./97/382/">97 S.Ct. 382</a></span>, <span class="citation no-link">50 L.Ed.2d 326</span> (1976). Because we are unsure how much of the interlude was consumed by the motions, we have not set aside any of this delay.
+  </p>
+</div><div class="footnote" id="fn22" label="22">
+<a class="footnote" href="#fn22_ref">
+   22
+  </a>
+<p id="b990-7">
+   . We are cognizant of the rule in this circuit that “when the three other elements of
+   <em>
+    Barker’s
+   </em>
+   weighing and balancing test are heavily weighed in favor of the accused, the accused need demonstrate no prejudice at all.”
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Avalos,
+   </em>
+   <span class="citation" data-id="339079"><a href="/opinion/339079/united-states-v-jose-avalos-and-rudolfo-castrillon/#1116" aria-description="Citation for case: United States v. Jose Avalos and Rudolfo Castrillon">541 F.2d 1100, 1116</a></span> (and cases cited) (5th Cir. 1976). This is not such a case because responsibility for the bulk of the delay lies with Hill, and he was dilatory in asserting the speedy trial right.
+   <em>
+    Hill v. Wainwright, 617
+   </em>
+   F.2d 375, 379 n.4 (5th Cir. 1980);
+   <em>
+    United States v. Edwards,
+   </em>
+   <span class="citation" data-id="8906856"><a href="/opinion/8918451/united-states-v-edwards/" aria-description="Citation for case: United States v. Edwards">577 F.2d 883</a></span>, 889 n.8 (5th Cir.),
+   <em>
+    cert. denied,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/U.S./439/968/">439 U.S. 968</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./99/458/">99 S.Ct. 458</a></span>, <span class="citation no-link">58 L.Ed.2d 427</span> (1978).
+  </p>
+</div></div></opinion>

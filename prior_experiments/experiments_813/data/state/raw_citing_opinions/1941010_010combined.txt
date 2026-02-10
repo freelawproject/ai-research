@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b773-2">
+<span citation-index="1" class="star-pagination" label="761"> 
+   *761
+   </span>
+  Weaver, J.
+ </author>
+<p id="AjaV">
+  Defendant railroad appeals as of right from a jury verdict in favor of plaintiffs. We affirm.
+ </p>
+<p id="b773-3">
+  This action arose on January 19, 1982, when the car of plaintiff John Wheeler was struck by a train at the railroad crossing on Orchard Lake Road in Keego Harbor, Michigan, and plaintiff was seriously injured. At trial, plaintiff testified that he had been traveling at approximately twenty-five miles per hour as he approached the crossing, that he did not hear any bells or train whistles nor see any flasher signals, and that he did not see the train until a split second before impact. Additional testimony indicated disagreement as to plaintiff’s speed and as to whether the crossing signals were working and the train whistle or bells were sounding.
+ </p>
+<p id="b773-4">
+  The jury awarded $477,000 in damages to plaintiff on his negligence claim and $50,000 to plaintiff’s wife on her loss of consortium claim, but found plaintiff to be thirty-five percent at fault, thus proportionately reducing the total damage award. Subsequent to denial of its motion for a new trial, defendant railroad appeals as of right, arguing (1) trial court error in allowing testimony of prior crossing signal malfunctions; (2) trial court error in instructing the jury; and (3) denial of a fair and impartial trial due to misconduct of plaintiffs’ counsel.
+ </p>
+<p id="b773-5">
+  i
+ </p>
+<p id="b773-6">
+  The court allowed into evidence a partial reading of the deposition of Theodore Fitch, signal supervisor of defendant railroad, wherein Mr. Fitch was asked if he knew of prior malfunctions at the Orchard Lake Road crossing. Defendant
+  <span citation-index="1" class="star-pagination" label="762"> 
+   *762
+   </span>
+  objected to this reading, arguing that a proper foundation had not been laid.
+ </p>
+<p id="b774-3">
+  Defendant also objected to introduction of testimony by Janet Carey, who stated that she had reported signal malfunctions at the Orchard Lake Road crossing to defendant railroad as many as twenty-four times prior to the accident on January 19, 1982. She also stated that on January 19, 1982, she reported another such malfunction.
+ </p>
+<p id="b774-4">
+  Sylvan Lake Police Sergeant James Oliver, the officer present at the scene of the accident, further testified that he had also reported malfunctions of the crossing lights or bells at the Orchard Lake Road crossing at least twenty-four times before the accident on January 19, 1982.
+ </p>
+<p id="b774-5">
+  Defendant argues that the trial court should not have allowed witnesses to testify regarding prior signal malfunctions because there was insufficient foundational proof of similarity and there was no testimony as to the dates or nature of the malfunctions.
+ </p>
+<p id="b774-6">
+  We disagree with defendant’s argument because we believe that there was sufficient foundation to admit testimony of prior malfunctions. The testimony concerned malfunctions involving active flashers when no train was present, and inactive flashers when a train was present. The testimony also concerned malfunctions at the same crossing and on the very day of the accident. Therefore the testimony was relevant to show that defendant had notice of a dangerous condition.
+  <em>
+   Sullivan v Detroit &amp; Windsor Ferry Co,
+  </em>
+  <span class="citation" data-id="3494768"><a href="/opinion/3525213/sullivan-v-detroit-windsor-ferry-co/#578" aria-description="Citation for case: Sullivan v. Detroit &amp; Windsor Ferry Co.">255 Mich 575, 578</a></span>; <span class="citation" data-id="3494768"><a href="/opinion/3525213/sullivan-v-detroit-windsor-ferry-co/" aria-description="Citation for case: Sullivan v. Detroit &amp; Windsor Ferry Co.">238 NW 221</a></span> (1931). It was also relevant to prove that a dangerous condition in fact existed, i.e., that the signals were malfunctioning, at the time of the accident.
+  <em>
+   Freed v Simon,
+  </em>
+  <span class="citation" data-id="2142757"><a href="/opinion/2142757/freed-v-simon/#475" aria-description="Citation for case: Freed v. Simon">370 Mich 473, 475-476</a></span>; <span class="citation" data-id="2142757"><a href="/opinion/2142757/freed-v-simon/" aria-description="Citation for case: Freed v. Simon">122 NW2d 813</a></span> (1963).
+ </p>
+<p id="b775-2">
+<span citation-index="1" class="star-pagination" label="763"> 
+   *763
+   </span>
+  n
+ </p>
+<p id="b775-3">
+  Before issuing its initial instructions, the trial court had denied plaintiffs request for Instruction Number 26, but upon reinstruction decided to include it as follows:
+ </p>
+<blockquote id="b775-4">
+  In approaching a crossing protected by warning devices, [a traveler] is entitled to place some reliance on the indication of safety which comes from an inactive warning device.
+ </blockquote>
+<blockquote id="b775-5">
+  It is a question of fact for the jury to decide whether there was an inactive warning device in this case.
+ </blockquote>
+<p id="b775-6">
+  Defendant railroad argues that the instruction was improper because it came after closing argument, thereby depriving defendant of the opportunity to properly address the issue, and because it assumes that the signal devices were not working.
+ </p>
+<p id="b775-7">
+  We fail to see how the timing of the instruction could have had the least effect upon defendant’s ability to fairly argue its case. Proper functioning of the signal device was a significant issue throughout trial, and both sides presented testimony as to the condition of the signal device at the time of the accident. As for the instruction itself, jury instructions must be reviewed in their entirety and should not be extracted piecemeal in an effort to justify reversal.
+  <em>
+   Willoughby v Lehrbass,
+  </em>
+  <span class="citation" data-id="1254170"><a href="/opinion/1254170/willoughby-v-lehrbass/#336" aria-description="Citation for case: Willoughby v. Lehrbass">150 Mich App 319, 336</a></span>; <span class="citation" data-id="1254170"><a href="/opinion/1254170/willoughby-v-lehrbass/" aria-description="Citation for case: Willoughby v. Lehrbass">388 NW2d 688</a></span> (1986). Here, the court’s instruction followed established law.
+  <em>
+   Lockett v Grand Trunk Western R Co,
+  </em>
+  272
+  <span citation-index="1" class="star-pagination" label="764"> 
+   *764
+   </span>
+  Mich 219, 223, 225; <span class="citation" data-id="3500702"><a href="/opinion/3530485/lockett-v-grand-trunk-western-railroad/" aria-description="Citation for case: Lockett v. Grand Trunk Western Railroad">261 NW 306</a></span> (1935).
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  Even had the instruction been erroneous or inadequate, reversal is not mandated unless failure to reverse would be inconsistent with substantial justice.
+  <span class="citation" data-id="1254170"><a href="/opinion/1254170/willoughby-v-lehrbass/#336" aria-description="Citation for case: Willoughby v. Lehrbass"><em>
+   Willoughby, supra
+  </em>
+  at 336</a></span>. We find no want of substantial justice here; the court accompanied its instruction with the specific reminder that plaintiff still had a continuing duty to rely upon his own observations and ascertain for himself whether a train was in fact approaching.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+</p>
+<p id="b776-5">
+  hi
+ </p>
+<p id="b776-6">
+  Finally, defendant railroad argues that misconduct of plaintiffs’ counsel prevented a fair and impartial trial. At trial, defendant properly objected to the alleged misconduct. We must therefore determine whether the comments were untrue and, if so, whether they were harmless or prejudicial.
+  <em>
+   Reetz v Kinsman Marine Transit Co,
+  </em>
+  <span class="citation" data-id="9734529"><a href="/opinion/2192445/reetz-v-kinsman-marine-transit-co/#103" aria-description="Citation for case: Reetz v. Kinsman Marine Transit Co.">416 Mich 97, 103</a></span>; <span class="citation" data-id="9734529"><a href="/opinion/2192445/reetz-v-kinsman-marine-transit-co/" aria-description="Citation for case: Reetz v. Kinsman Marine Transit Co.">330 NW2d 638</a></span> (1982).
+ </p>
+<p id="b776-7">
+  During opening argument, plaintiffs’ counsel re
+  <span citation-index="1" class="star-pagination" label="765"> 
+   *765
+   </span>
+  ferred to an "alleged” court order which required defendant to produce the train’s speed tape. Defendant objected. In later denying defendant’s motion for a mistrial, the court stated that if defendant reminded the court, it would correct the matter when instructing the jury. A review of the record discloses that the court’s instructions made no reference to this decision, but we also find no evidence that defendant ever entered a reminder. Because the record is silent as to the contents of the order, and because defendant did not deem the matter important enough to be remembered, we believe that error, if any, was harmless. Id., n 7.
+ </p>
+<p id="b777-3">
+  During rebuttal argument, defendant also objected to use by plaintiffs’ counsel of the term "company men” when referring to defendant’s witnesses and to the statement that defendant never presented testimony by disinterested eyewitnesses who saw the signal flashers. It is true that the term "company men” had a derogatory connotation implying that defendant’s witnesses were biased and therefore untrustworthy. But where, as here, there exists conflicting or contradictory testimony, parties may try to persuade the jury to believe their witnesses and disbelieve witnesses of the adverse party.
+  <em>
+   Id.
+  </em>
+  at 109. Further, reasonable inferences from testimony may be drawn by counsel during closing argument.
+  <em>
+   Wilson v Stilwill,
+  </em>
+  <span class="citation" data-id="2049864"><a href="/opinion/2049864/wilson-v-stilwill/#231" aria-description="Citation for case: Wilson v. Stilwill">92 Mich App 227, 231</a></span>; <span class="citation" data-id="2049864"><a href="/opinion/2049864/wilson-v-stilwill/" aria-description="Citation for case: Wilson v. Stilwill">284 NW2d 773</a></span> (1979), aff'd <span class="citation" data-id="9733259"><a href="/opinion/2186610/wilson-v-stilwill/" aria-description="Citation for case: Wilson v. Stilwill">411 Mich 587</a></span>; <span class="citation" data-id="9733259"><a href="/opinion/2186610/wilson-v-stilwill/" aria-description="Citation for case: Wilson v. Stilwill">309 NW2d 898</a></span> (1981). Statements made by counsel in closing argument may not be error if given in response to arguments made by opposing counsel.
+  <em>
+   Stephens v Spiwak,
+  </em>
+  <span class="citation" data-id="2183335"><a href="/opinion/2183335/stephens-v-spiwak/#651" aria-description="Citation for case: Stephens v. Spiwak">61 Mich App 647, 651</a></span>; <span class="citation" data-id="2183335"><a href="/opinion/2183335/stephens-v-spiwak/" aria-description="Citation for case: Stephens v. Spiwak">233 NW2d 124</a></span> (1975), lv den <span class="citation no-link">395 Mich 761</span> (1975). Viewed in the entire context of closing argument and rebuttal, therefore, we find no error.
+ </p>
+<p id="b777-4">
+  Affirmed.
+ </p>
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<blockquote id="b776-9">
+   [A] traveler approaching a protected crossing is entitled to place some reliance upon the indication of safety which the silence of the signal implies, and that the degree of care required of one approaching a crossing under such circumstances "is only that which an ordinarily prudent man would use under such circumstances, and not the extreme care that would be required if there were no device there to indicate safety; and that whether proper care has been exercised under such circumstances is ordinarily a jury question.”
+   <em>
+    [Id.
+   </em>
+   at 223.]
+  </blockquote>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b776-10">
+   In connection with the disputed jury instruction, the trial court stated:
+  </p>
+<blockquote id="b776-11">
+   Therefore, while an approaching train must give proper warning, and while the silence of the protective device is an indication to the traveller that no train is appraching [sic], nevertheless, the driver is not thereby relieved of the duty of making due observation but must use his own senses of sight and hearing to ascertain for himself whether a train is in fact approaching.
+  </blockquote>
+</div></div></opinion>

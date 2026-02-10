@@ -1,0 +1,12 @@
+<opinion type="majority">
+<author id="b710-10">Per Curiam.</author>
+<p id="b710-11">A clerk in a Tulsa, Okla., grocery store was shot and killed by a companion of petitioner in the course of a robbery of the store by the two men. Petitioner was convicted of felony-murder in Oklahoma State court. The opinion of the Oklahoma Court of Criminal Appeals in this case states that “[i]n a felony murder case, the proof of the underlying felony [here robbery with firearms] is needed to prove the intent necessary for a felony murder conviction.” 555 P. 2d 76, 80-81 (1976). Petitioner nevertheless was thereafter brought to trial and convicted on a separate information charging the robbery with firearms, after denial of his motion to dismiss on the ground that this prosecution violated the Double Jeopardy Clause of the Fifth Amendment because he had been already convicted of the offense in the felony-murder trial. The Oklahoma Court of Criminal Appeals affirmed.</p>
+<p id="b710-12">When, as here, conviction of a greater crime, murder, cannot be had without conviction of the lesser crime, robbery with firearms, the Double Jeopardy Clause bars prosecution for the lesser crime after conviction of the greater one.<footnotemark>*</footnotemark> <em>In re </em><page-number citation-index="1" label="683">*683</page-number><em>Nielsen, </em>131 U. S. 176 (1889); cf. <em>Brown </em>v. <em>Ohio, </em>432 U. S. 161 (1977). “[A] person [who] has been tried and convicted for a crime which has various incidents included in it, . . . cannot be a second time tried for one of those incidents without being twice put in jeopardy for the same offence.” <em>In re Nielsen, supra, </em>at 188. See also <em>Waller </em>v. <em>Florida, </em>397 U. S. 387 (1970); <em>Grafton </em>v. <em>United States, </em>206 U. S. 333, 352 (1907).</p>
+<p id="b711-5">The motion for leave to proceed <em>in forma pauperis </em>is granted, the petition for writ of certiorari is granted, and the judgment of the Court of Criminal Appeals is</p>
+<p id="b711-6">
+<em>Reversed.</em>
+</p>
+<footnote label="*">
+<p id="b710-13">The State conceded in its response to the petition for certiorari that “in the Murder case, it was necessary for all the ingredients of the under<page-number citation-index="1" label="683">*683</page-number>lying felony of Robbery with Firearms to be proved . . . .” Brief in Opposition 4.</p>
+</footnote>
+</opinion>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion data-order="10" data-type="opinion" id="x999-1" type="majority">
+<author id="b115-20">
+  PER CURIAM:
+ </author>
+<p id="b115-21">
+  This consolidated appeal presents issues stemming from separate trials involving two distinct groups illegally securing permanent United States residence for aliens from the Republic of the Philippines. Under immigration laws and Immigration and Naturalization Service (INS) regulations, as an exception to the geographic quota system, the alien spouse of a United States citizen may obtain an immigrant visa as a permanent resident.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  Prosecution was for arranging sham marriages between Filipino aliens and American citizens and preparing false Forms 1-130 (“Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa”) on which INS relied in determinations to grant permanent resident status. Beneficiaries of the scheme, under immunity grants testified as to the marriage broker role of Angelito Maniego. For a fee, he brought American citizens together with Filipino aliens, arranged for blood test documents, took each couple to be married and often served as a marriage witness, and arranged for legal services in the INS proceedings.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  The parties to the marriage-
+  <span citation-index="1" class="star-pagination" label="26"> 
+   *26
+   </span>
+  of-convenience thus would come to the law office of attorney Gloria Cirino (first trial) or attorneys Hector Galang and Teodoro Monte (second trial) immediately or shortly after the wedding. The American spouse would sign the visa petition stating falsely that the parties were living together at a particular address. The attorneys completed and filed the immigration documents, and represented the aliens in proceedings before the INS.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  For the reasons stated below, we affirm the convictions.
+ </p>
+<p id="b116-4">
+  1.
+  <em>
+   Maniego.
+  </em>
+  On appeal, Angelito Maniego argues first that his conviction for conspiracy cannot stand because his eodefendant, Attorney Gloria Cirino, was acquitted. The jury was charged that a conspiracy may include persons other than the named defendants, as charged in the indictment, note 2
+  <em>
+   supra.
+  </em>
+  Maniego conspired with persons other than the acquitted attorney Cirino, including the married couples themselves. For example, personnel at medical laboratories back-dated and falsified blood test reports required for marriage certificates.
+  <em>
+   United States v. Albert,
+  </em>
+  <span class="citation" data-id="402379"><a href="/opinion/402379/united-states-v-arnold-albert/#713" aria-description="Citation for case: United States v. Arnold Albert">675 F.2d 712, 713-14</a></span> (5th Cir.1982), and the cases it refers to are sufficient authority for sustaining the conspiracy conviction.
+ </p>
+<p id="b116-5">
+  Maniego argues ineffective assistance of counsel in violation of the Sixth Amendment on the basis that counsel failed to obtain a Tagalog interpreter, failed to raise appropriate objections, and failed to cross-examine witnesses effectively. At sentencing Maniego told the court that he was unaware that he had a right to have an interpreter; that he did not understand everything that had transpired during the trial; that he did not believe that the jury could have understood him; and that his trial attorney had told him not to worry and that they did not even need to talk to each other. New counsel informed the court that after twenty hours of conversations with Maniego in the calmer setting outside the courtroom, he understood between seventy and eighty percent of what Maniego said. Judge Weinstein, however, found no translation problem, commenting that he “observed the trial and [Maniego’s] lack of ability of English had nothing whatsoever to do with the verdict. The verdict was based not on his testimony but the testimony of others.” We have read the portions of testimony cited to us, and agree with the district court that counsel’s asserted failure to obtain an interpreter did not thwart Maniego’s exercise of his right to testify and to articulate his defense.
+ </p>
+<p id="b116-10">
+  The remaining examples of counsel’s inadequacy do not frame a constitutional
+  <span citation-index="1" class="star-pagination" label="27"> 
+   *27
+   </span>
+  complaint under either this circuit’s “farce and mockery of justice” standard,
+  <em>
+   United States v. Wight,
+  </em>
+  <span class="citation" data-id="1485044"><a href="/opinion/1485044/united-states-v-wight/#379" aria-description="Citation for case: United States v. Wight">176 F.2d 376, 379</a></span> (2d Cir. 1949),
+  <em>
+   cert.l denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./338/950/">338 U.S. 950</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./70/478/">70 S.Ct. 478</a></span>, <span class="citation" data-id="8167035"><a href="/opinion/8205094/trembois-v-standard-railway-equipment-manufacturing-co/" aria-description="Citation for case: Trembois v. Standard Railway Equipment Manufacturing Co.">94 L.Ed. 586</a></span> (1950), or under the various formulations of the “reasonable professional competence” standard that prevails in other circuits. See
+  <em>
+   Rickenbacker v. Warden, Auburn Correctional Facility,
+  </em>
+  <span class="citation" data-id="9463547"><a href="/opinion/343284/robert-rickenbacker-relator-appellant-v-the-warden-auburn-correctional/#65" aria-description="Citation for case: Robert Rickenbacker, Relator-Appellant v. The Warden,...">550 F.2d 62, 65-66</a></span> (2d Cir.1976),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./434/826/">434 U.S. 826</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./98/103/">98 S.Ct. 103</a></span>, <span class="citation" data-id="9007486"><a href="/opinion/9014428/delta-steamship-lines-inc-v-turner/" aria-description="Citation for case: Delta Steamship Lines, Inc. v. Turner">54 L.Ed.2d 85</a></span> (1977). Where, as here, evidence of Maniego’s role in the charged scheme to defraud the INS was compelling, the particulars of Maniego’s Sixth Amendment claim of ineffective assistance of counsel reflect not so much on his attorney’s performance as on the quantity of evidence.
+  <em>
+   See United States v. Helgesen,
+  </em>
+  <span class="citation" data-id="398904"><a href="/opinion/398904/united-states-v-valerie-helgesen/#71" aria-description="Citation for case: United States v. Valerie Helgesen">669 F.2d 69, 71-72</a></span> (2d Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./456/929/">456 U.S. 929</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./102/1978/">102 S.Ct. 1978</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/72/445/">72 L.Ed.2d 445</a></span> (1982).
+ </p>
+<p id="b117-4">
+  Finally, Maniego argues reversible error because the Assistant United States Attorney’s witnesses stated on direct examination that they would receive immunity if they would tell the truth. We note no objection by trial counsel preserving this issue for appeal, but in any case, we find no error. Under Fed.R.Evid. 608(a)(2), credibility testimony may not be admitted before credibility has “been attacked by opinion or reputation evidence
+  <em>
+   or otherwise
+  </em>
+  ” (emphasis added); counsel for codefendant Cirino joined the credibility issue in opening argument. Given the defense’s opening, the Government did not exceed the parameters of the rule.
+  <em>
+   See United States v. Barnes,
+  </em>
+  <span class="citation" data-id="8910199"><a href="/opinion/8921380/united-states-v-barnes/#150" aria-description="Citation for case: United States v. Barnes">604 F.2d 121, 150-51</a></span> (2d Cir.1979) (no prejudice from credibility testimony on direct),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./446/907/">446 U.S. 907</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./100/1833/">100 S.Ct. 1833</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/64/260/">64 L.Ed.2d 260</a></span> (1980).
+ </p>
+<p id="b117-5">
+  2.
+  <em>
+   Monte and Galang.
+  </em>
+  The attorney defendants challenge the sufficiency of the Government’s proof. In addition, Galang urges reversal because of alleged trial errors: denial of a motion to dismiss counts of the indictment; admission though with a limiting instruction of Maniego’s “hearsay”; limitation of counsel’s summation on the ethical obligations of attorneys; failure to sever; and excessive sentence. Consideration of these issues requires a factual context.
+ </p>
+<p id="b117-7">
+  Yolanda Alinan, a married citizen of the Philippine Republic, entered the United States on October 28,1979, on a one-month tourist visa, but intending to stay and work here. Prior to leaving the Philippines, she had made arrangements through her husband’s sister and Angelito Maniego to accomplish this goal by marrying an American citizen. She had saved $2,000 — the price for Maniego’s services as a marriage broker. As soon as Alinan arrived in California, Maniego was alerted to the fact of her arrival and she promptly flew to New York to complete the arrangements. Man-iego and another man met her at the airport and took her to Armondo Nailes’ house, where she was to stay while in New York. A few hours later, Maniego picked Alinan up and took her to dinner with her husband-to-be, Richard DeJesus. After dinner, Maniego handed her a blood test form, which she signed; she had never had a blood test and the form was dated one week prior to her arrival in the United States. Two weeks later, Alinan married DeJesus, despite the fact that she still had a husband in the Philippines. After dining out with her new husband, Maniego, and several others, Alinan returned to the Nailes’ residence and DeJesus went back to his home. The couple never intended to live together. A few days later, Maniego took the newlyweds to the law offices of defendants Galang and Monte. Then, according to Alinan, “we had a little drinks, and ... we had a nice conversation, could get acquainted and there was ... even a time that I mentioned I married in the Philippines, and one of the lawyers [later identified by Alinan as Monte] told me, ‘as long as I keep quiet nothing will happen.’ ” Alinan and DeJesus, during the course of their interview with the attorneys, were presented with a questionnaire to use in preparing for the forthcoming immigration interview. The form contained questions relating to the couple’s personal background and habits, which a husband and wife would be expected to know about each other. The lawyers went over the list of ques
+  <span citation-index="1" class="star-pagination" label="28"> 
+   *28
+   </span>
+  tions with Alinan and De Jesus and suggested appropriate answers to questions they could not answer; Alinan penciled in the proposed answers on the form as they were offered. Galang and Monte also gave them the requisite immigration documents (Forms 1-130,1 — 485) to sign. Alinan never lived at the address listed on the petition but flew back to California when her presence was not needed in New York. Alinan did not know for a fact whether the attorneys were aware that she and DeJesus did not live together.
+ </p>
+<p id="b118-4">
+  Both Monte and Galang challenge the sufficiency of the evidence of their knowledge of fraud in preparing the INS application for Alinan. They conceded that they had presented the applications to the INS; that the documents were required by law; and that the forms did indeed contain false statements of material fact. Appellants protested, however, that they had believed their clients’ marriages to be genuine and were unaware, at the time, that the parties had falsely represented that they were living together as husband and wife. Alinan’s testimony that she revealed her bigamy in the presence of both attorneys supports a finding of actual knowledge of an invalid marriage to an American citizen, as correctly charged to the jury. Additionally, the court charged that “deliberate avoidance of positive knowledge” that they had “every reason to believe was the fact” would establish knowledge.
+  <em>
+   See United States
+  </em>
+  v.
+  <em>
+   Sarantos,
+  </em>
+  <span class="citation" data-id="301614"><a href="/opinion/301614/united-states-v-robert-sarantos-and-constantine-makris/#880" aria-description="Citation for case: United States v. Robert Sarantos and Constantine Makris">455 F.2d 877, 880, 882</a></span> (2d Cir.1972) (attorney’s knowledge established by proof of “reckless disregard of whether the statements made [by the INS applicant] were true [and] with a conscious effort to avoid learning the truth”).
+  <em>
+   See also United States v. Frank,
+  </em>
+  <span class="citation" data-id="318163"><a href="/opinion/318163/united-states-v-john-joseph-frank/#153" aria-description="Citation for case: United States v. John Joseph Frank">494 F.2d 145, 153</a></span> (2d Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./419/828/">419 U.S. 828</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./95/48/">95 S.Ct. 48</a></span>, <span class="citation no-link">42 L.Ed.2d 52</span> (1974).
+ </p>
+<p id="b118-5">
+  Appellants forget that issues of credibility are the exclusive province of the jury and that “[o]nce a defendant offers evidence after the denial of a motion for acquittal at the close of the Government’s case in chief ... the defendant waives any claim as to the sufficiency of the Government’s case considered alone.”
+  <em>
+   United States v. Keuylian,
+  </em>
+  <span class="citation" data-id="368404"><a href="/opinion/368404/united-states-v-berdj-keuylian/#1040" aria-description="Citation for case: United States v. Berdj Keuylian">602 F.2d 1033, 1040-41</a></span> (2d Cir.1979), quoting
+  <em>
+   United States v. Pui Kan Lam,
+  </em>
+  <span class="citation" data-id="313088"><a href="/opinion/313088/united-states-v-pui-kan-lam/" aria-description="Citation for case: United States v. Pui Kan Lam">483 F.2d 1202</a></span>, 1208 n. 7 (2d Cir.1973),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./415/984/">415 U.S. 984</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./94/1578/">94 S.Ct. 1578</a></span>, <span class="citation" data-id="8989675"><a href="/opinion/8997297/arnold-v-tiffany/" aria-description="Citation for case: Arnold v. Tiffany">39 L.Ed.2d 881</a></span> (1974). Nor do they advert to the rule that “[a]cquittal on one count of an indictment ... does not preclude reliance upon facts relevant to that count in assessing the sufficiency of the evidence for conviction on a different count.”
+  <em>
+   United States v. Fishery,
+  </em>
+  <span class="citation" data-id="368406"><a href="/opinion/368406/united-states-v-james-w-elsbery/#1057" aria-description="Citation for case: United States v. James W. Elsbery">602 F.2d 1054, 1057</a></span> (2d Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./444/994/">444 U.S. 994</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./100/529/">100 S.Ct. 529</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/62/425/">62 L.Ed.2d 425</a></span> (1979). Finally, we note that the jury was properly instructed to consider the evidence against the defendants on an aiding and abetting theory. Thus, a two-tiered analysis of the record — taking into account both the evidence that the defendants themselves presented falsified petitions to the INS, and that they aided and abetted another to do so — clearly establishes that the Government amply met its burden of producing proof from which a jury drawing justifiable inferences might fairly conclude guilt beyond a reasonable doubt.
+  <em>
+   United States v. Taylor,
+  </em>
+  <span class="citation" data-id="304762"><a href="/opinion/304762/united-states-v-ralph-kelly-taylor-ii/#243" aria-description="Citation for case: United States v. Ralph Kelly Taylor, II">464 F.2d 240, 243</a></span> (2d Cir.1972).
+ </p>
+<p id="b118-7">
+  The remaining alleged errors are not supported by the record or the law. First, the alleged hearsay testimony of Barlow, a marriage participant, was properly admitted as going to the witness’ state of mind; she did not believe she was entering a valid marriage. Second, the court adequately instructed the jury that an attorney is not held to a higher standard of conduct, or legal obligation, to verify independently the truth of the information given by a client; the court’s curtailment of defense summation argument on the ethical obligations of attorneys was proper on grounds of irrelevance and confusion since the issue for the jury, of course, was the attorneys’ knowledge of false material facts, not their professional obligations. Next, neither defendant objected to the court’s proposal to sever the attorneys’ trial from Maniego’s. Severance is discretionary.
+  <em>
+   Opper v. United States,
+  </em>
+  <span class="citation" data-id="105249"><a href="/opinion/105249/opper-v-united-states/#95" aria-description="Citation for case: Opper v. United States">348 U.S. 84, 95</a></span>, <span class="citation" data-id="105249"><a href="/opinion/105249/opper-v-united-states/#165" aria-description="Citation for case: Opper v. United States">75 S.Ct. 158, 165</a></span>, <span class="citation" data-id="105249"><a href="/opinion/105249/opper-v-united-states/" aria-description="Citation for case: Opper v. United States">99 L.Ed. 101</a></span> (1954);
+  <em>
+   United States v. Losa-
+  </em>
+<span citation-index="1" class="star-pagination" label="29"> 
+   *29
+   </span>
+<em>
+   da,
+  </em>
+  <span class="citation" data-id="402073"><a href="/opinion/402073/united-states-v-jesus-losada-and-rosalinda-losada/#171" aria-description="Citation for case: United States v. Jesus Losada and Rosalinda Losada">674 F.2d 167, 171</a></span> (2d Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./457/1125/">457 U.S. 1125</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./102/2945/">102 S.Ct. 2945</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/73/1341/">73 L.Ed.2d 1341</a></span> (1982). In any case, we remind counsel that failure to register a timely objection to the court’s severance ruling bars further review.
+  <em>
+   United States v. Beltempo,
+  </em>
+  <span class="citation" data-id="402336"><a href="/opinion/402336/united-states-v-vincent-beltempo-guiseppe-gallina-aka-fillipo-and/#481" aria-description="Citation for case: United States v. Vincent Beltempo, Guiseppe Gallina,...">675 F.2d 472, 481</a></span> (2d Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./457/1135/">457 U.S. 1135</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./102/2963/">102 S.Ct. 2963</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/73/1353/">73 L.Ed.2d 1353</a></span> (1983). Finally, although Galang protests that the court unfairly sentenced him to three months in prison as an example to the Bar, deterrence is not an inappropriate sentencing objective “with respect to conduct for which the defendant is blameworthy.”
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Hansen,
+  </em>
+  <span class="citation" data-id="415372"><a href="/opinion/415372/united-states-v-arthur-hansen/#1083" aria-description="Citation for case: United States v. Arthur Hansen">701 F.2d 1078, 1083</a></span> (2d Cir.1983). Nor can Galang argue that the sentence was either in excess of the applicable statutory maximum, based on materially incorrect information, or the result of a constitutionally defective sentencing procedure.
+  <em>
+   United States v. Slocum,
+  </em>
+  <span class="citation" data-id="411862"><a href="/opinion/411862/united-states-v-robert-w-slocum/#657" aria-description="Citation for case: United States v. Robert W. Slocum">695 F.2d 650, 657</a></span> (2d Cir.1982);
+  <em>
+   United States v. Mennutti,
+  </em>
+  <span class="citation" data-id="404970"><a href="/opinion/404970/united-states-v-dominick-mennuti/#1037" aria-description="Citation for case: United States v. Dominick Mennuti">679 F.2d 1032, 1037</a></span> (2d Cir.1982);
+  <em>
+   United States v. Mejias,
+  </em>
+  <span class="citation" data-id="344388"><a href="/opinion/344388/united-states-v-rev-alberto-mejias-aka-rev-angel-ortiz/#447" aria-description="Citation for case: United States v. Rev. Alberto Mejias, A/K/A Rev. Angel Ortiz">552 F.2d 435, 447</a></span> (2d Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./434/847/">434 U.S. 847</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./98/154/">98 S.Ct. 154</a></span>, <span class="citation no-link">54 L.Ed.2d 115</span> (1977). Moreover, since a sentence to serve only three months of a five-year prison term can hardly be deemed “disproportionate,” in view both of Galang’s conviction on three counts of a deliberate scheme to defraud the INS, offenses punishable separately by up to fifteen years in prison and a $6,000 fine, we reject his challenge to the sentence on Eighth Amendment grounds.
+ </p>
+<p id="b119-6">
+  The convictions of Maniego, Monte, and Galang are affirmed.
+ </p>
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b115-14">
+   . In processing applications for permanent resident status, the United States has long adhered to a quota system. <span class="citation no-link">8 U.S.C. § 1151</span>
+   <em>
+    et seq.
+   </em>
+   An INS witness testified that under this system the kind of job held by an alien, the country of his or her birth, and whether or not the applicant has relatives who are American citizens are important factors in determining the waiting period necessary for obtaining the desired green card. During 1979, the period charged in the indictment, the average wait for a Filipino who sought a change in status based on his profession was nine to ten years; for a Filipino who had a particular job offer it was four or five years. However, in 1979 there was no waiting period at all when an American citizen petitioned for a Filipino spouse’s permanent resident status.
+   <em>
+    See
+   </em>
+   <span class="citation no-link">8 U.S.C. § 1254</span>(a). The filing of the petition, usually accompanied by an application for adjustment of status (Form 1-485), entails immediate benefits for the alien spouse; employment authorization, eligibility for unemployment and workers’ benefits, and elimination of any risk of deportation. See 8 C.F.R. Part 245, and statutory authority there cited.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b115-23">
+   . Count One charged that Angelito Maniego, Magno Maniego (who died before trial), and Gloria Cirino (an attorney), conspired and agreed together, “and with others known and
+   <span citation-index="1" class="star-pagination" label="26"> 
+    *26
+    </span>
+   unknown to the grand jury,” to present and cause to be presented to the INS, applications and other documents required by the immigration laws, knowing that the documents contained false statements of material fact made under oath (<span class="citation no-link">18 U.S.C. §§ 371</span> and 1546). Counts Two through Nine charged Angelito Maniego with the substantive § 1546 offenses and aiding and abetting. <span class="citation no-link">18 U.S.C. § 2</span>. Cirino was named in six of these substantive counts.
+  </p>
+<p id="b116-7">
+   Angelito Maniego and Gloria Cirino were tried together before a jury. Maniego was convicted on all nine counts; his co-defendant Ciri-no was acquitted. Maniego was sentenced to five years imprisonment, to run concurrently, on Counts One through Nine, three months of the five year term to be served in prison; execution of the remainder of the sentence was suspended and Maniego was placed on probation for a period of four years and nine months. In addition, Maniego was fined $2,000 on each count for a total fine of $18,000.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b116-8">
+   . Five additional counts involved Angelito and Magno Maniego, and Galang and Monte. Judge Weinstein severed Maniego’s trial on these counts. Count Ten, paralleling Count One, charged that both Maniegos, together with Galang and Monte and “others known and unknown to the Grand Jury,” conspired to violate laws proscribing presentation of applications and other documents, containing false statements made under oath, to the INS (<span class="citation no-link">18 U.S.C. §§ 371</span> and 1546). Counts Eleven through Fourteen alleged substantive § 1546 violations and eliding and abetting. The Manie-gos and Monte were named in Count Eleven; Angelito Maniego, Galang, and Monte in Count Twelve, Magno Maniego and Galang in Count Thirteen, and Hector Galang in Count Fourteen. Galang and Monte were tried together before a jury, which acquitted Galang of the conspiracy but convicted him on Counts Twelve through Fourteen. Monte was convicted on Count Twelve only. Each was sentenced to a five-year prison term, to serve three months, with execution of the remainder suspended, and two years’ probation.
+  </p>
+</div></div></opinion>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b417-13">
+  MEMORANDUM AND DECISION
+ </p>
+<author id="b417-14">
+  EDWARD D. HAYES, Bankruptcy Judge.
+ </author>
+<p id="b417-15">
+  The debtors above named filed a joint petition under Chapter 13. Their plan calls for classification of unsecured claims into two .classes. The first class to be paid a hundred cents on the dollar consisted of a debt owing to Security Trust Company and co-signed by the sister of the husband. The other unsecured creditors were scheduled in a separate class and were to be paid little or nothing. The issues raised at the hearing were, are such classifications suitable and if claims are classified in that way, can the plan be confirmed?
+ </p>
+<p id="b417-18">
+  Section 1325 of the Code permits confirmation of a plan if the property distributed under the plan is not less than the amount that would be paid under Chapter 7 of this Title. Section 1322 requires that the plan can classify claims and provide the same treatment for each claim within a particular class. Section 1122 provides for the classifications of claims, if the claims are “substantially similar” to other claims in the class.
+ </p>
+<p id="b417-19">
+  In the case above, the classification appears to satisfy the test of Section 1325. However, Section 1122a provides that a plan may classify a claim “only if such claim or interest is substantially similar to the other claims or interests of such class.” Classification is permitted only if the claims are “substantially similar.” 5
+  <em>
+   Collier on Bankruptcy
+  </em>
+  ¶ 1122.03[1] concludes that “substantially similar” means “similar in legal character or effect as a claim against the debtor’s assets or as an interest in the debtor.” Judge Mabey in analyzing Sections 1322 and 1122 in
+  <em>
+   In re Iacovoni et al.,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, <span class="citation no-link">5 B.C.D. 1270</span> (Bkrtcy.) states:
+ </p>
+<blockquote id="Ah6">
+  Thus, only debts which have identical legal rights in the debtor’s (or the estate’s) assets may be classified together. Collier implies by example that all allowed, non-priority, unsecured claims have equal right to pro rata distribution of assets after payment of secured and priority claims.
+ </blockquote>
+<p id="b417-20">
+  Judge Mabey concluded in that case that Section 1122 appears not to allow a separate classification of an unsecured debt based solely on the presence of a co-debtor. The existence of a co-debtor does not change the nature of the debt itself nor does it alter that debt’s position in respect to its claim on the debtor’s assets.
+ </p>
+<p id="b418-3">
+<span citation-index="1" class="star-pagination" label="370"> 
+   *370
+   </span>
+  Similarly, in
+  <em>
+   In re Douglas and Rhonda Fonnest,
+  </em>
+  (<span class="citation" data-id="1887123"><a href="/opinion/1887123/in-re-carter/" aria-description="Citation for case: In Re Carter">5 B.C.D. 1236</a></span>), Judge Brown found that there was no reason for differentiating a co-signed note when a plan classified unsecured creditors into separate classes depending on whether a co-signer was on the note.
+ </p>
+<p id="b418-4">
+  Judge Lee in discussing Chapter 13, Lee,
+  <em>
+   Chapter 13 nee Chapter XIII,
+  </em>
+  53 Am.Bankr. L.J. 303 (1979), says:
+ </p>
+<blockquote id="b418-5">
+  It appears doubtful the courts will condone debtors placing debts on which co-debtors are obligated in a class separate and apart from other unsecured debts for purposes of the plan. The Code permits unsecured debts to be placed in a separate class on the basis of amount in order that small claims may be paid expeditiously for administrative convenience. It also permits unsecured claims on which the last payment is due after the date on which the final payment under the plan is due to be dealt with separately. There is no authorization for further classification of unsecured debts .
+ </blockquote>
+<p id="b418-6">
+  Judge Creahan in our District in
+  <em>
+   In re John A. McKenzie,
+  </em>
+  <span class="citation" data-id="1538917"><a href="/opinion/1538917/in-re-mckenzie/" aria-description="Citation for case: In Re McKenzie">6 B.C.D. 19</a></span>, at page 21 says:
+ </p>
+<blockquote id="b418-7">
+  In addition to the requirements of § 1122(a), however, any classification would of necessity have to pass the muster of § 1322(b)(1). It is difficult to imagine any classification of unsecured creditors which would not discriminate against some class in one manner or another. Classification in itself would seem to denote discrimination. The crux of the issue, however, is
+  <em>
+   unfair discrimination.
+  </em>
+  Here, all unsecured creditors have the same rights vis-a-vis estate property, even though that property is future income. The claim of Spencer Workers Federal Credit Union has no greater call on, or right to, that future income than any other unsecured creditor. The fact that there is a third party guarantor on the obligation does nothing to change the nature of the claim against the estate. To allow the claim more than a pro rata share in that estate is to discriminate unfairly against the remaining unsecured creditors, a result explicitly prohibited by § 1322(b)(1).
+ </blockquote>
+<p id="b418-9">
+  Based on the foregoing discussion, this Court finds that the classification proposed by the Utters discriminates unfairly against the unsecured creditors who are classified in the class that does not contain eo-signed debts. Such a classification does not meet the test of § 1122 and 1322 which requires that claims or interest be classified into classes which are “substantially similar” and that there be no unfair discrimination. Therefore, the classification of debts in this bankruptcy are improper and the plan is not confirmed and it is so ordered.
+ </p>
+<p id="b418-10">
+  This Memorandum and Decision shall constitute Findings of Fact and Conclusions of Law in accordance with Rule 752 of the Rules of Bankruptcy Procedure.
+ </p>
+</opinion>

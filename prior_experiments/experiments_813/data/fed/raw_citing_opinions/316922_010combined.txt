@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b1153-31">
+  GOLDBERG, Circuit Judge:
+ </author>
+<p id="b1153-32">
+  Manuel Rivas Cisneros appeals from his conviction on one count of distribuí
+  <span citation-index="1" class="star-pagination" label="1070"> 
+   *1070
+   </span>
+  ing approximately 4.48 grams of heroin in violation of <span class="citation no-link">21 U.S.C. § 841</span>(a)(1) (1970) ,
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  He argues that the trial court exceeded the scope of permissible comment on the evidence with certain remarks to the jury about the demeanor of the chief defense witness. He also argues that the court improperly instructed the jury on the use of evidence of a prior felony conviction.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  We agree that the trial court committed prejudicial error on each point, and reverse the conviction.
+ </p>
+<p id="b1154-4">
+  I.
+ </p>
+<p id="b1154-5">
+  The principal evidence in support of the Government’s case against appellant Cisneros came from Officer Jose C. Lo-soya of the San Antonio, Texas, Police Department, who at the time of the operative events in this case was working as an undercover narcotics officer. According to Officer Losoya, on October 10, 1972, he and an unidentified “cooperating individual”
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  were attempting to make heroin buys in order to gather evidence against street pushers. At about noon appellant Cisneros approached the pair, and after initial introductions by the informant, agreed to make a sale to Officer Losoya, the exchange to take place an hour later at the same location. Thereafter Officer Losoya and the informant met one Victor Rodriguez Lopez, a/k/a “Chocolate,” who also agreed to make a sale to Officer Losoya. Following a rather involved, and for the purposes of this appeal irrelevant, series of events, Victor Lopez, Officer Losoya, and the informant met Cisneros, and Lopez purchased a quantity of heroin from Cisneros using money he had received from Officer Losoya.
+ </p>
+<p id="b1154-10">
+  Officer Losoya testified that both the initial meeting with Cisneros and the later heroin sale took place in the immediate vicinity of a house on Vine Street, which later investigation revealed was owned by Cisneros’ parents, though it was not the family residence. Officer Losoya also testified that at the time of the second meeting and sale Cisneros was driving a blue Impala, which subsequent investigation showed belonged to Rogelio Cisneros, appellant’s father. Appellant stipulated that he had bought the automobile for his father on September 30, 1972, paying in cash and listing the Vine Street address on the title. Officer Losoya also said that he had seen both Cisneros and Victor Lopez “around the streets” prior to October, 10, 1972.
+ </p>
+<p id="b1154-11">
+  In response to this evidence defense counsel presented testimony from both Victor Lopez and appellant Cisneros. Lopez admitted his own drug addiction, and conceded that he had sold heroin to Officer Losoya on October 10, 1972, under circumstances substantially similar to those described by the officer.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  He strongly denied, however, that Cisneros had been in any way connected with the sale, insisting, as he did at his arraignment, that he had sold Officer Losoya part of his personal supply of heroin, from which he often made sales to other addicts to support his own habit. Lopez claimed that he had recognized Losoya’s companion, a black known to him as Grande, as a possible informer, but said that he had never previously seen Officer Losoya.
+ </p>
+<p id="b1154-12">
+  Witness Lopez gave confusing testimony about his acquaintance with Cisneros prior to October 10, 1972. Because
+  <span citation-index="1" class="star-pagination" label="1071"> 
+   *1071
+   </span>
+  of the importance of this testimony to appellant’s first point of error, we quote from the trial transcript at length.
+ </p>
+<p id="b1155-5">
+  On Direct Examination (Tr. at 61):
+ </p>
+<blockquote id="b1155-6">
+  MR. BROWN (for Cisneros): Do you know this man here, Manuel Cisneros ?
+ </blockquote>
+<blockquote id="b1155-7">
+  LOPEZ: I have seen him.
+ </blockquote>
+<blockquote id="b1155-8">
+  MR. BROWN: Where did you see him?
+ </blockquote>
+<blockquote id="b1155-10">
+  LOPEZ: I don’t know. He might live in the neighborhood.
+ </blockquote>
+<blockquote id="b1155-11">
+  MR. BROWN: You have seen him around the neighborhood there?
+ </blockquote>
+<blockquote id="b1155-12">
+  MR. LOPEZ: Yeah.
+ </blockquote>
+<blockquote id="b1155-13">
+  MR. BROWN: Have you ever talked to him?
+ </blockquote>
+<blockquote id="b1155-14">
+  LOPEZ: No, not just like that.
+ </blockquote>
+<p id="b1155-15">
+  On Cross-examination (Tr. at 79-80):
+ </p>
+<blockquote id="b1155-16">
+  MR. PINCKNEY (for the United States): And you stated that you had never met Mr. Cisneros, is that correct ?
+ </blockquote>
+<blockquote id="b1155-17">
+  LOPEZ: Sir?
+ </blockquote>
+<blockquote id="b1155-18">
+  MR. PINCKNEY: You never until this day in this courtroom met Mr. Cisneros, is that correct ?
+ </blockquote>
+<blockquote id="b1155-19">
+  LOPEZ: No, sir.
+ </blockquote>
+<blockquote id="b1155-20">
+  MR. PINCKNEY: You don’t know Mr. Cisneros, you have never known him?
+ </blockquote>
+<blockquote id="b1155-21">
+  LOPEZ: Well, I have seen him like that, you know.
+ </blockquote>
+<blockquote id="b1155-22">
+  MR. PICKNEY: But I mean just in the Courtroom?
+ </blockquote>
+<blockquote id="b1155-23">
+  LOPEZ: Sir?
+ </blockquote>
+<blockquote id="b1155-24">
+  MR. PINCKNEY: You had never seen him on the streets, you had never met him or anything ?
+ </blockquote>
+<blockquote id="b1155-26">
+  LOPEZ: No, sir.
+ </blockquote>
+<p id="b1155-27">
+  Appellant Cisneros testified that though a frequent visitor in San Antonio, he had lived in Chicago with his wife and children for fifteen years. He said that on October 10, 1972, he was in San Antonio preparing to return to Chicago, and admitted that in August 1972 he had been arrested on a charge of possession of heroin with intent to distribute. He admitted being an addict, but denied that he had participated in any way in the events of October 10, 1972, described by Officer Losoya. He conceded that he had seen Mr. Lopez in the past, and insisted that he had never before seen Officer Losoya.
+ </p>
+<p id="b1155-29">
+  Because of the importance of the testimony relating to the pre-October 10 relationship between Cisneros and Lopez, we again quote at length from the trial transcript.
+ </p>
+<p id="b1155-30">
+  On Direct Examination (Tr. at 82):
+ </p>
+<blockquote id="b1155-31">
+  MR. BROWN (for Cisneros): Now, had you ever seen this man Lopez before ?
+ </blockquote>
+<blockquote id="b1155-32">
+  CISNEROS: I have seen him several times.
+ </blockquote>
+<blockquote id="b1155-33">
+  MR. BROWN: Around the neighborhood?
+ </blockquote>
+<blockquote id="b1155-34">
+  CISNEROS: Yes, sir.
+ </blockquote>
+<blockquote id="b1155-35">
+  MR. BROWN: Did you know him casually, to say hello to him or something ?
+ </blockquote>
+<blockquote id="b1155-37">
+  CISNEROS: Yeah, I had seen him, I cannot say exactly. I have been away from San Antonio for approximately—well let’s say fifteen years
+ </blockquote>
+<p id="b1155-38">
+  On Cross-examination (Tr. at 91-92):
+ </p>
+<blockquote id="b1155-39">
+  MR. PINCKNEY (for the United States): . . . And you stated on Direct Examination you have never met Mr. Lopez ?
+ </blockquote>
+<blockquote id="b1155-41">
+  CISNEROS: I have seen him before.
+ </blockquote>
+<blockquote id="b1155-42">
+  MR. PINCKNEY: Have you spoken to him around that area, around Clark and Vine [the vicinity of the heroin sale] ?
+ </blockquote>
+<blockquote id="b1155-43">
+  CISNEROS: No—
+ </blockquote>
+<blockquote id="b1155-44">
+  MR. PINCKNEY: Well, where had you spoken to Mr. Lopez ?
+ </blockquote>
+<blockquote id="b1155-45">
+  CISNEROS: Like I said, I have been away, and I haven’t seen most of the people in San Antonio because I have been away so long.
+ </blockquote>
+<blockquote id="b1155-46">
+  MR. PINCKNEY: Did you know Mr. Lopez before you left San Antonio?
+ </blockquote>
+<blockquote id="b1156-3">
+<span citation-index="1" class="star-pagination" label="1072"> 
+   *1072
+   </span>
+  CISNEROS: I know Mr. Lopez, I can’t say—well, no, sir, I did not know him before I left Chicago. Fifteen years ago I didn’t know him.
+ </blockquote>
+<blockquote id="b1156-5">
+  MR. PINCKNEY: When do you remember speaking to him on the streets of San Antonio ?
+ </blockquote>
+<blockquote id="b1156-6">
+  CISNEROS: I remember seeing Mr. Lopez I would say three years ago at the most.
+ </blockquote>
+<blockquote id="b1156-7">
+  MR. PINCKNEY: Three years ago?
+ </blockquote>
+<blockquote id="b1156-8">
+  CISNEROS: Yes, sir.
+ </blockquote>
+<blockquote id="b1156-9">
+  MR. PINCKNEY: You remember him, he does not recall you ?
+ </blockquote>
+<blockquote id="b1156-11">
+  CISNEROS: Well, I don’t know whether he recalls me but—
+ </blockquote>
+<blockquote id="b1156-13">
+  MR. PINCKNEY: But you remember seeing him?
+ </blockquote>
+<blockquote id="b1156-14">
+  CISNEROS: Yes, sir.
+ </blockquote>
+<p id="b1156-15">
+  II.
+ </p>
+<p id="b1156-16">
+  We preface our analysis of appellant’s two points of error with the recognition that in reviewing a trial judge’s instructions and comments to the jury, we must evaluate “the charge as a whole, in its totality, without isolating statements which may appear prejudicial from the context in which they were made.” United States v. Williams, 5 Cir. 1973, <span class="citation" data-id="308247"><a href="/opinion/308247/united-states-v-leonard-williams/#509" aria-description="Citation for case: United States v. Leonard Williams">473 F.2d 507, 509</a></span>; United States v. Jacquillon, 5 Cir. 1972, <span class="citation" data-id="306604"><a href="/opinion/306604/united-states-v-george-camillo-jacquillon/#386" aria-description="Citation for case: United States v. George Camillo Jacquillon">469 F.2d 380, 386-387</a></span>; United States v. Wilkinson, 5 Cir. 1972, <span class="citation" data-id="303570"><a href="/opinion/303570/united-states-v-eugene-davis-wilkinson/" aria-description="Citation for case: United States v. Eugene Davis Wilkinson">460 F.2d 725</a></span>. Thus the dry, detached scrutiny of the appellate microscope must be tempered by the Supreme Court’s admonition to “guard against the magnification on appeal of instances which were of little importance in their setting.” Glasser v. United States, 1942, <span class="citation" data-id="103597"><a href="/opinion/103597/glasser-v-united-states/#83" aria-description="Citation for case: Glasser v. United States">315 U.S. 60, 83</a></span>, <span class="citation" data-id="103597"><a href="/opinion/103597/glasser-v-united-states/#471" aria-description="Citation for case: Glasser v. United States">62 S.Ct. 457, 471</a></span>, <span class="citation" data-id="103597"><a href="/opinion/103597/glasser-v-united-states/#706" aria-description="Citation for case: Glasser v. United States">86 L.Ed. 680, 706</a></span>.
+ </p>
+<p id="b1156-17">
+  Near the end of the instructions to the jury, the court made the following comment, the emphasized portions of which Cisneros claims interfered with his right to a fair trial.
+ </p>
+<blockquote id="b1156-18">
+  Now, members of the jury, I often do not comment upon evidence presented but the rules of law in Federal Court permit some comments, and I am expressing no opinion, but I am saying to you very frankly that my opinion that somebody is lying in this case. Officer Losoya has given a detailed description of his actions on that day. He made a record of it that day of just what his actions were, and how this whole transaction took place. Now, he is corroborated in one detail by Lopez testifying for the defendant, that Lopez was in his car, but I ask you where, if any place, that Lopez said that Cisneros rode with either Lopez or talked to Officer Losoya. Lopez said that he didn’t even know this man.
+  <em>
+   You saw Mm in Court, you saw Mm on the stand, and you saw him leave. Perhaps something, significant happened, perhaps it didn’t as he was leaving this Courtroom. Perhaps you noticed something that I noticed, perhaps you didn’t.
+  </em>
+  But nevertheless I am just saying that you can judge a person from his actions from the minute he came in the door until he goes out that door. And if any of you noticed anything significant, why, you may, remember and act on it. But we have the testimony of Cisneros who said “Yes, I saw that man around the neighborhood, but I never was in the car with that man that day, never had any Heroin, never got any money, he has to be lying— the Officer has to be lying,” although he had no direct interest in the outcome of this case except for doing his duty. The defendant is vitally interested. You may draw a conclusion, you may reconcile those stories, if they are reconcilable. Or if not reconcilable take the one that you believe and act on it.
+ </blockquote>
+<p id="b1156-22">
+  [Tr. at 109-10, emphasis added]
+ </p>
+<p id="AUq">
+  Appellant’s challenge requires us to fit the facts of this case within a number of well-settled propositions broadly outlining the powers of a federal trial judge. The starting point for this difficult task "is Quercia v. United States, 1933, <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/" aria-description="Citation for case: Quercia v. United States">289 U.S. 466</a></span>, <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/" aria-description="Citation for case: Quercia v. United States">53 S.Ct. 698</a></span>, <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/" aria-description="Citation for case: Quercia v. United States">77 L.Ed. 1321</a></span>, in which Chief Justice
+  <span citation-index="1" class="star-pagination" label="1073"> 
+   *1073
+   </span>
+  Hughes, speaking for a unanimous court, made what one distinguished scholar has called “the classic statement” of the common law powers with which federal trial judges are clothed.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  The Chief Justice wrote:
+ </p>
+<blockquote id="b1157-5">
+  In a trial by jury in a federal court, the judge is not a mere moderator, but is the governor of the trial for the purposes of assuring its proper conduct and of determining questions of law. [citations omitted] In charging the jury, the trial judge is not limited to instructions of an abstract sort. It is within his province, whenever he thinks it necessary, to assist the jury in arriving at a just conclusion by explaining and commenting upon the evidence, by drawing their attention to the part of it which he thinks important, and he may express his opinion upon the facts, provided he makes it clear to the jury that all matters of fact are submitted to their determination. [citations omitted] Under the Federal Constitution the essential prerogatives of the trial judge as they were secured by the rules of the common law are maintained in the federal courts. [citations omitted]
+ </blockquote>
+<p id="b1157-7">
+  <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/#469" aria-description="Citation for case: Quercia v. United States">289 U.S. at 469</a></span>, <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/#698" aria-description="Citation for case: Quercia v. United States">53 S.Ct. at 698</a></span>, <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/#1324" aria-description="Citation for case: Quercia v. United States">77 L.Ed. at 1324-1325</a></span>.
+ </p>
+<p id="b1157-8">
+  The Government’s argument in the case at bar is essentially that the challenged comments fall within the latitude of permitted powers described in
+  <em>
+   <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/" aria-description="Citation for case: Quercia v. United States">Quercia</a></span>.
+  </em>
+  The judge’s remarks were apparently prompted by his belief that he had seen a signal of encouragement or acknowledgment passing between witness Lopez and Cisneros as Lopez left the stand and passed the defense table. Unfortunately the trial record does not reveal the exact nature of this alleged communication. According to the Government, in its brief and again when pressed at oral argument, Lopez’ actions when he passed the defense table manifested “an obvious and open display of affectionate friendship between himself and the Defendant,” which was “obvious to everyone in the courtroom . . . .” (Brief for Appellee at 3.)
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  On the other hand, counsel for Cisneros, who was also the trial counsel, has, in his brief and at oral argument, described the incident only as the “alleged” and “asserted” visual contact between the two.
+  <em>
+   E. g.,
+  </em>
+  Brief for Appellant at 13. This court does not sit to resolve factual disputes regarding what did or did not occur at a trial; nevertheless, we note that the trial judge’s own comments to counsel, outside the hearing of the jury, suggest that whatever he saw was more in the nature of an exchange of looks than an open physical action.
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+  In any event, his comment to the jury clearly communicated his belief that he had detected something suspicious in Lopez’ behavior.
+ </p>
+<p id="b1157-14">
+  The Government would have it that this was merely an example of the trial judge exercising his power to analyze, comment on, or summarize the evidence. United States v. <span class="citation" data-id="306604"><a href="/opinion/306604/united-states-v-george-camillo-jacquillon/" aria-description="Citation for case: United States v. George Camillo Jacquillon">Jacquillon,
+  <em>
+   supra,
+  </em></a></span>
+  <span class="citation" data-id="306604"><a href="/opinion/306604/united-states-v-george-camillo-jacquillon/#387" aria-description="Citation for case: United States v. George Camillo Jacquillon">469 F.2d at 387</a></span>; United States v. Dopf, 5 Cir. 1970, <span class="citation" data-id="9456224"><a href="/opinion/293180/united-states-v-richard-norman-dopf-and-theodore-sekulic/#209" aria-description="Citation for case: United States v. Richard Norman Dopf and Theodore Sekulic">434 F.2d 205, 209</a></span>; Moody v. United States, 5 Cir. 1967, <span class="citation" data-id="275813"><a href="/opinion/275813/patricia-louise-moody-v-united-states/#178" aria-description="Citation for case: Patricia Louise Moody v. United States">377 F.2d 175, 178-179</a></span>. After all, the demeanor of a witness is part of the evidence, and the trial judge was simply remarking on Lopez’ actions while leaving the witness stand. Admittedly, the court must, if it chooses to comment on the evidence, also instruct the jury that they are the sole judges of the facts and are not bound by the judge’s questions or comments. United States v. Jacquillon,
+  <span citation-index="1" class="star-pagination" label="1074"> 
+   *1074
+   </span>
+  su
+  <em>
+   pra;
+  </em>
+  United States v. Musgrave, 5 Cir. 1971, <span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/#761" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">444 F.2d 755, 761-762</a></span>; Moody v. United States,
+  <em>
+   supra,
+  </em>
+  <span class="citation" data-id="275813"><a href="/opinion/275813/patricia-louise-moody-v-united-states/#179" aria-description="Citation for case: Patricia Louise Moody v. United States">377 F.2d at 179</a></span>. The trial judge below did give a qualifying, curative instruction, and thus the comments could not have misled the jury and deprived Cisneros of a fair trial.
+ </p>
+<p id="b1158-4">
+  As a matter of theory we have no quarrel with the argument that
+ </p>
+<blockquote id="b1158-5">
+  the carriage, behavior, bearing, manner and appearance of a witness—in short, his “demeanor”—is a part of the evidence. The words used are by no means all that we rely on in making up our minds about the truth of a question that arises in our ordinary affairs, and it is abundantly settled that a jury is as little confined to them as we are. They may, and indeed they should, take into consideration the whole nexus of sense impressions which they get from a witness.
+ </blockquote>
+<p id="b1158-6">
+  Dyer v. MacDougal, 2 Cir. 1952, <span class="citation" data-id="9443530"><a href="/opinion/230843/dyer-v-macdougall/#268" aria-description="Citation for case: Dyer v. MacDougall">201 F.2d 265, 268-269</a></span> (L. Hand, J.). Indeed, where credibility of a witness is a central element in a case, the demeanor of that witness is likely to go to the very heart of the decision. Nor do we disagree with the general validity of the other legal principles on which the Government seeks to rely.
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+  We are convinced, however, that the propositions urged by the Government do not accurately describe what occurred in the trial below. . For help with that task we turn to several decisions which have sought to define the outer limits of a trial judge’s discretionary power.
+ </p>
+<p id="b1158-7">
+  Again we begin with Chief Justice Hughes’ opinion in Quercia v. United States, supra:
+ </p>
+<blockquote id="b1158-8">
+  This privilege of the judge to comment on the facts has its inherent limitations. His discretion is not arbitrary and uncontrolled, but judicial, to be exercised in conformity with the standards governing the judicial office. In commenting upon testimony
+  <em>
+   he may not assume the role of a witness.
+  </em>
+  He may analyze and dissect the evidence, but
+  <em>
+   he may not either distort it or add to it.
+  </em>
+  His privilege of comment in order to give appropriate .assistance to the jury is too important to be left without safeguards against abuses. The influence of the trial judge on the jury “is necessarily and properly of great weight” and “his lightest word or intimation is received with deference, and may prove controlling.” This court has accordingly emphasized the duty of the trial judge to use great care that an expression of opinion upon the evidence “should be so given as not to mislead, and especially that it should not be onesided;” that “deductions and theories not warranted by the evidence should be studiously avoided.” [citations omitted] He may not charge the jury “upon a supposed or conjectural state of facts, of which no evidence has been offered.” [citations omitted]
+ </blockquote>
+<p id="b1158-11">
+  <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/#470" aria-description="Citation for case: Quercia v. United States">289 U.S. at 470</a></span>, <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/#699" aria-description="Citation for case: Quercia v. United States">53 S.Ct. at 699</a></span>, <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/#1325" aria-description="Citation for case: Quercia v. United States">77 L.Ed. at 1325</a></span> (emphasis added).
+ </p>
+<p id="b1158-12">
+  Through many variations on the
+  <em>
+   <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/" aria-description="Citation for case: Quercia v. United States">Quercia</a></span>
+  </em>
+  theme sound certain recurrent prohibitions. A trial judge must not appear to be a partisan for the prosecution, or in any way exhibit a prosecutor’s zeal. United States v. Musgrave, 5 Cir. 1971, <span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/#761" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">444 F.2d 755, 761</a></span>; United States v. Marzano, 2 Cir. 1945, <span class="citation" data-id="1507656"><a href="/opinion/1507656/united-states-v-marzano/#926" aria-description="Citation for case: United States v. Marzano">149 F.2d 923, 926</a></span>. Nor may he give testimony, be a partisan witness, or
+  <em>
+   add
+  </em>
+  to the evidence adduced by either side. Blunt v. United States, 1957, <span class="citation no-link">100 U.S.App.D.C. 266</span>, <span class="citation" data-id="242210"><a href="/opinion/242210/thomas-e-blunt-v-united-states-of-america-thomas-e-blunt-v-united/#365" aria-description="Citation for case: Thomas E. Blunt v. United States of America, Thomas E....">244 F.2d 355, 365</a></span>. Most important, he must in no way trespass on the jury’s functions and responsibilities, among the most important of which in terms of this appeal is the right to assess credibility in finding the facts. United States v. Williams, 5 Cir. 1971, <span class="citation" data-id="298765"><a href="/opinion/298765/united-states-v-franklin-eugene-williams-and-james-edison-williams/#902" aria-description="Citation for case: United States v. Franklin Eugene Williams and James...">447 F.2d 894, 902</a></span>; United States v. <span class="citation" data-id="9456224"><a href="/opinion/293180/united-states-v-richard-norman-dopf-and-theodore-sekulic/" aria-description="Citation for case: United States v. Richard Norman Dopf and Theodore Sekulic">Dopf,
+  <em>
+   supra,
+  </em></a></span>
+  <span class="citation" data-id="9456224"><a href="/opinion/293180/united-states-v-richard-norman-dopf-and-theodore-sekulic/#208" aria-description="Citation for case: United States v. Richard Norman Dopf and Theodore Sekulic">434 F.2d at 208</a></span>;
+  <em>
+   cf.
+  </em>
+  United States v. Stroble, 6 Cir. 1970, <span class="citation" data-id="292269"><a href="/opinion/292269/united-states-v-robert-stroble-and-vera-stroble/#1278" aria-description="Citation for case: United States v. Robert Stroble and Vera Stroble">431 F.2d 1273, 1278</a></span>.
+ </p>
+<p id="b1159-4">
+<span citation-index="1" class="star-pagination" label="1075"> 
+   *1075
+   </span>
+  Read against the backdrop of these prohibitions, the validity of Cisneros’ complaint is clear. The testimony presented by each side concerning Cisneros’ involvement in the heroin sale was in stark, irreconcilable conflict; indeed, the trial judge’s comment that “somebody is lying’’ aptly characterizes the case. Thus the credibility of the witnesses, particularly Lopez, was of overriding importance. Underscoring the importance of the credibility issue was the probable unequal position from which the witnesses began in the minds of the jurors—on the one hand, a police officer, on the other hand two apparent denizens of the nether world of street dope.
+ </p>
+<p id="b1159-5">
+  For Cisneros to prevail, the jury had to believe Lopez’ version of the events of October 10. Because Lopez’ credibility could be seriously impaired if it were shown that he and Cisneros were good friends, the pre-October 10 relationship between the two was a very important issue. The testimony given by Lopez and Cisneros about their previous relationship was somewhat ambiguous, but in our opinion was not necessarily inconsistent or irreconcilable. The Government probed the question of this relationship with some vigor, but there was never any evidence from any source to suggest that Lopez and Cisneros had planned or arranged to fabricate exculpatory testimony. It is not implausible that such a thing might have occurred; in this case, however, there was nothing concrete to carry this possibility from the realm of mere speculation, nothing, that is, but the comments from the trial judge.
+ </p>
+<p id="b1159-6">
+  Certainly a witness’ credibility is measured in part by his demeanor while on the stand. Here, however, the trial judge in effect added evidence about Lopez’ demeanor by bringing to the jury’s attention something they might well have missed. The thrust of the remarks was that something significant had transpired, something which in the judge’s mind reflected on Lopez’ credibility, something which the jury could consider if they had seen it. It strikes us as unlikely that a juror would willingly admit to having missed something the trial judge considered important, and even more unlikely that the jury would decline an invitation to consider something the trial judge clearly believed to be significant. By his comments the trial judge became for a short moment a witness in this trial, testifying about something he had seen. In all probability he intended only to exercise his power to comment on the evidence, but instead he added facts, thus violating one of
+  <em>
+   Quercia’s
+  </em>
+  basic prohibitions. Moreover, he came very close to behaving for an instant as an actual witness for the prosecution. In view of the apparent confusion regarding what actually happened when Lopez left the stand, the judge’s comments also seriously interfered with the jury’s duty of evaluating credibility and finding the facts.
+ </p>
+<p id="b1159-10">
+  We do not agree with the Government that the cautionary instructions advising the jury of its role as fact-finder preserved the scales of justice in balance. In the first place, the main instruction to that effect
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+  was delivered well before the comments on Lopez’ demeanor, which came near the end of the instructions. More important, though we decline to speculate on the probable efficacy of limiting instructions as a general matter,
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+  we believe that the comments here challenged were simply too harmful to be cured by the other in
+  <span citation-index="1" class="star-pagination" label="1076"> 
+   *1076
+   </span>
+  structions given to the jury.
+  <a class="footnote" href="#fn11" id="fn11_ref">
+   11
+  </a>
+  The credibility issues before the jury were close, difficult, and extremely important. In such a case commenting on the evidence is a perilous endeavor, to be undertaken with caution lest the slightest suggestion of favor for one side or the other from the supposedly impartial moderator tip the balance and impel a decision. Here the trial judge, in the guise of fair comment, overreached, and by adding evidence on the credibility of a key witness seriously impaired appellant’s right to a fair and impartial trial.
+ </p>
+<p id="b1160-4">
+  III.
+ </p>
+<p id="b1160-5">
+  At trial appellant Cisneros elected to take the stand on his own behalf. On cross-examination the Government questioned him about a previous felony conviction for possession of heroin with intent to distribute.
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+  In regard to the prior conviction evidence the judge instructed the jury as follows:
+ </p>
+<blockquote id="b1160-6">
+  Now, members of the jury, a prior conviction also may be introduced into evidence, only if it’s a felony, and that may be used to impeach the credibility of the witness. And it is your judgment on that that determines the weight to be given the testimony of one who has been convicted of a felony. And the fact that he was convicted prior is not evidence that he committed the crime charged in this case that is now being tried, and must not be considered as such by you. Members of the jury, we find out the conviction was in a matter that involved Heroin. And prior and subsequent acts of the defendant
+  <em>
+   may be considered by a jury in connection with the likelihood of such a person being involved in a crime of this sort.
+  </em>
+  You can give such weight to that as you care to give, but
+  <em>
+   it may be considered by you as to the likelihood of him engaging in other acts of the same character.
+  </em>
+</blockquote>
+<p id="b1160-10">
+  Tr. at 111 (emphasis added). Cisneros argues that the italicized portion of this instruction was prejudicially erroneous because it allowed the jury to consider the prior conviction as direct evidence of his guilt in the subsequent, unrelated case.
+  <a class="footnote" href="#fn13" id="fn13_ref">
+   13
+  </a>
+</p>
+<p id="b1160-11">
+  Although the use of evidence of other crimes always poses difficult problems in balancing relevance against the dangers of prejudice to an accused and confusion of the issues in the minds of the jurors, this Circuit has long followed the rule that a defendant who takes the witness stand to testify in his own defense puts his character in issue. The Government may then attempt to impeach his credibility by presenting evidence of prior convictions of either felonies, or misdemeanors involving moral turpitude. United States v. Garber, 5 Cir. 1972, <span class="citation" data-id="9459012"><a href="/opinion/307300/united-states-v-jack-f-garber/#215" aria-description="Citation for case: United States v. Jack F. Garber">471 F.2d 212, 215-216</a></span>, and cases cited therein at 216 n.11.
+  <em>
+   See
+  </em>
+  United States v. Sanchez, 5 Cir. 1973, <span class="citation" data-id="9459680"><a href="/opinion/312623/united-states-v-brian-paul-sanchez/#7" aria-description="Citation for case: United States v. Brian Paul Sanchez">482 F.2d 5, 7</a></span>; 2 Wright,
+  <em>
+   supra
+  </em>
+  note 5, § 416 at 194-96. Thus it is clear that the
+  <span citation-index="1" class="star-pagination" label="1077"> 
+   *1077
+   </span>
+  trial court acted properly in admitting the prior conviction for impeachment purposes, and in instructing the jury to that effect.
+  <a class="footnote" href="#fn14" id="fn14_ref">
+   14
+  </a>
+</p>
+<p id="b1161-5">
+  It is equally clear, however, that the jury may not “use the prior conviction evidence for the purpose of considering either defendant’s general bad character or his disposition to commit crimes,” at least where defendant has made no attempt to show that he is a person of good character. United States v. <span class="citation" data-id="9459012"><a href="/opinion/307300/united-states-v-jack-f-garber/" aria-description="Citation for case: United States v. Jack F. Garber">Garber,
+  <em>
+   supra,
+  </em></a></span>
+  <span class="citation" data-id="9459012"><a href="/opinion/307300/united-states-v-jack-f-garber/" aria-description="Citation for case: United States v. Jack F. Garber">471 F.2d at 216</a></span> &amp; 216 n.12.
+  <em>
+   See
+  </em>
+  United States v. Calles, 5 Cir. 1973, <span class="citation" data-id="312814"><a href="/opinion/312814/united-states-v-hector-r-calles/#1161" aria-description="Citation for case: United States v. Hector R. Calles">482 F.2d 1155, 1161</a></span>; United States v. Nakaladski, 5 Cir. 1973, <span class="citation" data-id="312238"><a href="/opinion/312238/united-states-v-louis-nakaladski-aka-louis-nash-ettore-coco-aka/#296" aria-description="Citation for case: United States v. Louis Nakaladski, A/K/A Louis Nash,...">481 F.2d 289, 296</a></span>; 2 Wright,
+  <em>
+   supra
+  </em>
+  note 5, at § 409. Yet the challenged portions of the court’s instructions in the case at bar invited the jury to do just that, notwithstanding the lack of any attempt by Cisneros to prove his good character. In fact, not only did the court allow the jury to consider the evidence for a prohibited purpose, but it did so tracking the very words commonly used to describe the prohibition.
+ </p>
+<p id="b1161-6">
+  The Government, which introduced the evidence for impeachment purposes only, concedes that the challenged instructions were erroneous, but responds that in the light of the entire record the error was harmless beyond a reasonable doubt. We disagree.
+ </p>
+<p id="b1161-7">
+  We are not persuaded by the Government’s characterization of the case against Cisneros as “exceptionally strong” and “overwhelming.” The only evidence directly linking Cisneros to the October 10 heroin sale was the testimony of Officer Losoya. While it is true that witness Lopez corroborated most of the details of Losoya’s story, he flatly contradicted the only portion implicating Cisneros. The other witnesses for the Government did little more than establish what Cisneros was willing to concede, that he purchased an automobile in which he was seen riding on the day of the sale, and that the property near which the sale occurred belonged to his parents. Of course the Government might have corroborated the most important detail in Officer Losoya’s story with direct evidence in the form of testimony from the informer, but for obvious reasons it chose not to do so.
+ </p>
+<p id="b1161-10">
+  We believe that this case is squarely controlled by United States v. <span class="citation" data-id="9459012"><a href="/opinion/307300/united-states-v-jack-f-garber/" aria-description="Citation for case: United States v. Jack F. Garber">Garber,
+  <em>
+   supra.
+  </em></a></span>
+  There the defendant, accused of transporting in interstate commerce a stolen vehicle knowing it to have been stolen, took the stand and was questioned about his prior Dyer Act convictions. ' In rebuttal summation to the jury the
+  <em>
+   prosecutor
+  </em>
+  twice argued that the prior conviction evidence showed the defendant’s propensity to commit the crime for which he was then on trial. This court concluded that the argument constituted reversible error, although the defendant had not objected at the time of the comments and despite the subsequent instructions by the court that the prior conviction evidence was to be considered only for impeachment purposes.
+ </p>
+<p id="b1161-11">
+  In his thoughtful and careful opinion Judge Roney, writing for the court, cautioned that
+ </p>
+<blockquote id="b1161-12">
+  [t]he critical balance between the permissible and impermissible uses of the prior conviction evidence, and the mental discipline required of the jury to restrict the. use of this evidence require that the
+  <em>
+   Court,
+  </em>
+  counsel, and all persons appearing before the jury exercise the same discipline required of the jurors. A prophylactic atmosphere must permeate the trial if this rule of evidence is to be properly applied.
+ </blockquote>
+<p id="b1161-13">
+  <span class="citation" data-id="9459012"><a href="/opinion/307300/united-states-v-jack-f-garber/#216" aria-description="Citation for case: United States v. Jack F. Garber">471 F.2d at 216</a></span> (emphasis added). In
+  <em>
+   Garber
+  </em>
+  it was the prosecutor who upset the critical balance, disrupted the jury’s mental discipline, and infected the pro
+  <span citation-index="1" class="star-pagination" label="1078"> 
+   *1078
+   </span>
+  phylactic atmosphere; in the case at bar it was the Court, and the probability of prejudice to the defendant was magnified accordingly. It may or may not be true that “the criminal justice system expects too much of a juror when it asks him to distinguish between impeaching evidence and substantive evidence,”
+  <span class="citation" data-id="9459012"><a href="/opinion/307300/united-states-v-jack-f-garber/#215" aria-description="Citation for case: United States v. Jack F. Garber"><em>
+   Id.
+  </em>
+  at 215</a></span>; it certainly expects too much if it asks him to do so in the face of explicit instructions from the Court to the contrary.
+ </p>
+<p id="AX1">
+  IV.
+ </p>
+<p id="b1162-5">
+  We do not mean to suggest that criminal trials must be run with the punctilio of the duelist’s code. After all, our Constitution and laws command fair trials, not perfect ones. Yet we do not reverse this case because of trivial peccadillos. We reverse because our criminal justice system guarantees the primacy of the jury over the robed judge in fact finding, and because our jurisprudence premises conviction on guilt of the crime charged, not on antecedent or subsequent sins. The judge’s role is not that of catalyst for a guilty verdict. He sits, not to lead the jury down a direct road to a particular verdict, but to offer guidance along the sometimes meandering road to the truth. He is neither an imperator nor a jury surrogate.
+ </p>
+<p id="b1162-6">
+  Reversed and remanded.
+ </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b1154-6">
+   . Appellant was sentenced to fifteen years in prison, plus an additional special parole term of ten years.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b1154-7">
+   . As required by Fed.R.Crim.Proc. 30, appellant’s counsel voiced his objections at the appropriate time, thus preserving the allegations of error for review.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b1154-8">
+   . The informant did not testify at Cisneros’ trial, and the Government declined to identify him for security reasons.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b1154-13">
+   . Lopez was named as a co-defendant with Cisneros in the indictment resulting from the October 10 transaction. At the arraignment on February 23, 1973, Lopez pleaded guilty. He told the arraigning judge, who was not the presiding judge at Cisneros’ later trial, that he had not purchased the heroin sold to Officer Losoya from anyone else, but rather had simply used some of his own personal supply. [Record at 14] At the time of Cisneros’ trial, Lopez was awaiting sentencing.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b1157-9">
+   . 2 Wright Federal Practice and Procedure: Criminal § 488 at 304 (1969).
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b1157-10">
+   . At oral argument counsel for the Government described the action as very close to a “V” for victory sign.
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b1157-11">
+   . In ruling on Cisneros’ objection to the comment, the court said, out of the presence of the jury,
+  </p>
+<blockquote id="b1157-15">
+   I will say to you right now that the way he looked back and caught the eye of that fellow would convince anybody that watched it that they were not only friends, but ask him did he do a good job for him. That’s all I said, if they saw it they could consider it.
+  </blockquote>
+<p id="b1157-16">
+   TR. at 112.
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b1158-9">
+   . For a summary of oases exploring the propriety of particular comments and remarks by a trial judge,
+   <em>
+    see 2
+   </em>
+   Wright,
+   <em>
+    supra
+   </em>
+   note 5, at 308 nn. 94 &amp; 95.
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b1159-7">
+   . Now, you as jurors are the trier of the facts. . . . And may I say in referring to the testimony, either counsel or the Court inadvertently says something about the testimony that doesn’t coincide with your recollection of it, you use your own recollection as to what the testimony actually was. Forget anything that either one of us actually said about it, any one of the three of us said about it. And use your own recollection and make your resolutions of the facts based upon your own recollection.
+  </p>
+<p id="b1159-11">
+   TR. at 101.
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b1159-12">
+   .
+   <em>
+    See
+   </em>
+   Bruton v. United States, 1968, <span class="citation" data-id="9423688"><a href="/opinion/107684/bruton-v-united-states/" aria-description="Citation for case: Bruton v. United States">391 U.S. 123</a></span>, 132-133 &amp; 132 n. 8, <span class="citation" data-id="9423688"><a href="/opinion/107684/bruton-v-united-states/" aria-description="Citation for case: Bruton v. United States">88 S.Ct. 1620</a></span>, <span class="citation" data-id="88425"><a href="/opinion/88425/yeager-v-farwell/" aria-description="Citation for case: Yeager v. Farwell">20 L.Ed. 476</a></span>, 483 &amp; 483 n. 8.
+  </p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b1160-7">
+   . The Supreme Court in
+   <em>
+    <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/" aria-description="Citation for case: Quercia v. United States">Quercia</a></span>
+   </em>
+   reached the same conclusion about the effect of a trial judge’s instruction that his opinion of the evidence was not binding on the jury and that if they did not agree with it they should find the defendant not guilty. There the judge had remarked to the jury that they might have noticed the defendant wiping his hands as he testified, that this usually indicated lying, and that in the court’s opinion the defendant had lied in every respect except when agreeing with the Government.
+   <em>
+    See
+   </em>
+   Moody v. United States,
+   <em>
+    supra,
+   </em>
+   <span class="citation" data-id="275813"><a href="/opinion/275813/patricia-louise-moody-v-united-states/" aria-description="Citation for case: Patricia Louise Moody v. United States">377 F.2d 175</a></span>.
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="b1160-8">
+   .
+   <em>
+    See
+   </em>
+   TR. at 88-90. Cisneros was convicted for acts occurring on August 23, 1972, only 48 days prior to the violation charged in the instant case. On appeal his conviction was affirmed without opinion on June 26, 1973, United States v. Gonzales, 5 Cir., <span class="citation" data-id="311204"><a href="/opinion/311204/united-states-v-gonzales/" aria-description="Citation for case: United States v. Gonzales">478 F.2d 1401</a></span>.
+  </p>
+</div><div class="footnote" id="fn13" label="13">
+<a class="footnote" href="#fn13_ref">
+   13
+  </a>
+<p id="b1160-13">
+   . Because the earlier conviction was on appeal at the time of the trial in the instant case, Cisneros also argues that the prior crime evidence should have been excluded altogether. We recognize the existence of a split among the circuits on this issue, see United States v. Franicevich, 5 Cir. 1973, <span class="citation" data-id="9459026"><a href="/opinion/307353/united-states-v-mathew-j-franicevich/#430" aria-description="Citation for case: United States v. Mathew J. Franicevich">471 F.2d 427, 430</a></span> (Goldberg, J., dissenting). Nevertheless, this Court has only recently directly and explicitly refused to adopt the proposition urged by Cisneros, United States v. <span class="citation" data-id="9459026"><a href="/opinion/307353/united-states-v-mathew-j-franicevich/" aria-description="Citation for case: United States v. Mathew J. Franicevich">Franicevich,
+   <em>
+    supra,
+   </em></a></span>
+   followed in United States v. Sanchez, 5 Cir. 1973, <span class="citation" data-id="9459680"><a href="/opinion/312623/united-states-v-brian-paul-sanchez/" aria-description="Citation for case: United States v. Brian Paul Sanchez">482 F.2d 5</a></span>.
+  </p>
+</div><div class="footnote" id="fn14" label="14">
+<a class="footnote" href="#fn14_ref">
+   14
+  </a>
+<p id="b1161-8">
+   . Appellant does not challenge the decision of the trial court to allow the evidence to be introduced or the propriety of the Government’s cross-examination, conceding that if the prior conviction was admissible though still on appeal, it was properly admitted for impeachment purposes. We therefore do not face the question raised by Judge Godbold in United States v. Garber, 5 Cir. 1972, <span class="citation" data-id="9459012"><a href="/opinion/307300/united-states-v-jack-f-garber/#218" aria-description="Citation for case: United States v. Jack F. Garber">471 F.2d 212, 218</a></span> (concurring opinion), of the propriety of the trial judge’s decision that probative value outweighed prejudicial effects.
+  </p>
+</div></div></opinion>

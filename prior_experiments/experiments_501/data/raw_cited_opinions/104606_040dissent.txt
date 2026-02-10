@@ -1,0 +1,16 @@
+<opinion type="dissent">
+<author id="b543-8">Mr. Justice Rutledge,</author>
+<judges id="ANqL">with whom Mr. Justice Douglas and Mr. Justice Murphy join,</judges>
+<p id="Aac">dissenting.</p>
+<p id="b543-9">While the equal protection clause does not require a legislature to achieve “abstract symmetry”<footnotemark>1</footnotemark> or to classify <page-number citation-index="1" label="468">*468</page-number>with “mathematical nicety,” <footnotemark>2</footnotemark> that clause does require lawmakers to refrain from invidious distinctions of the sort drawn by the statute challenged in this case.<footnotemark>3</footnotemark></p>
+<p id="b544-4">The statute arbitrarily discriminates between male and female owners of liquor establishments. A male owner, although he himself is always absent from his bar, may employ his wife and daughter as barmaids. A female owner may neither work as a barmaid herself nor employ her daughter in that position, even if a man is always present in the establishment to keep order. This inevitable result of the classification belies the assumption that the statute was motivated by a legislative solicitude for the moral and physical well-being of women who, but for the law, would be employed as barmaids. Since there could be no other conceivable justification for such discrimination against women owners of liquor establishments, the statute should be held invalid as a denial of equal protection.</p>
+<footnote label="1">
+<p id="b543-10"> <em>Patsone </em>v. <em>Pennsylvania, </em>232 U. S. 138, 144.</p>
+</footnote>
+<footnote label="2">
+<p id="b544-5"> <em>Lindsley </em>v. <em>Natural Carbonic Gas Co., </em>220 U. S. 61, 78-82; see also <em>Tigner </em>v. <em>Texas, </em>310 U. S. 141, 147; <em>Bain Peanut Co. </em>v. <em>Pinson, </em>282 U. S. 499, 501; <em>Bryant </em>v. <em>Zimmerman, </em>278 U. S. 63, 73-77; <em>Miller </em>v. <em>Wilson, </em>236 U. S. 373, 384.</p>
+</footnote>
+<footnote label="3">
+<p id="b544-6"> Cf. <em>Skinner </em>v. <em>Oklahoma, </em>316 U. S. 535; <em>Missouri ex rel. Gaines </em>v. <em>Canada, </em>305 U. S. 337; <em>McCabe </em>v. <em>Atchison, T. &amp; S. F. R. Co., </em>235 U. S. 151; <em>Yick Wo </em>v. <em>Hopkins, </em>118 U. S. 356. And see <em>Kotch </em>v. <em>Pilot Commissioners, </em>330 U. S. 552, dissenting opinion 564.</p>
+</footnote>
+</opinion>

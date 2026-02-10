@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b444-19">
+  ORDER ON BANKRUPTCY APPEAL
+ </p>
+<author id="b444-20">
+  TURNER, District Judge.
+ </author>
+<p id="b444-21">
+  This is an appeal from a bankruptcy court order finding that EZ Cash 1, LLC is an unsecured creditor in Mary Brigance’s bankruptcy estate and that EZ Cash’s claim should be classed as a general unsecured claim.
+  <em>
+   In re Brigance,
+  </em>
+  <span class="citation" data-id="1847284"><a href="/opinion/1847284/in-re-brigance/#492" aria-description="Citation for case: In Re Brigance">219 B.R. 486, 492-95</a></span> (Bankr.W.D.Tenn.1998).
+ </p>
+<p id="b444-22">
+  I.
+  <em>
+   Standard of Review
+  </em>
+</p>
+<p id="b444-23">
+  A district court reviews the bankruptcy court’s findings of fact for clear error and the bankruptcy court’s conclusions of law de novo.
+  <em>
+   Wesbanco Bank Barnesville v. Rafoth (In re Baker &amp; Getty Fin. Servs., Inc.),
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.3d/106/1255/">106 F.3d 1255</a></span>, 1259 (6th Cir.) (citing Bankruptcy Rule 8013),
+  <em>
+   cert. denied,
+  </em>
+  — U.S. -, <span class="citation multiple-matches"><a href="/c/S.Ct./118/65/">118 S.Ct. 65</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/139/27/">139 L.Ed.2d 27</a></span> (1997).
+ </p>
+<p id="b444-26">
+  “A factual finding will only be clearly erroneous when, although there is
+  <span citation-index="1" class="star-pagination" label="403"> 
+   *403
+   </span>
+  evidence to support it, the reviewing court on the entire evidence is left with the definite and firm conviction that a mistake has been committed.”
+  <em>
+   United States v. Ayen,
+  </em>
+  <span class="citation" data-id="9484451"><a href="/opinion/610824/united-states-v-milo-ayen/#1152" aria-description="Citation for case: United States v. Milo Ayen">997 F.2d 1150, 1152</a></span> (6th Cir.1993) (internal quotations and citations omitted). A district court should not disturb the bankruptcy court’s findings of fact “unless there is most cogent evidence of mistake of justice.”
+  <em>
+   Newton v. Johnson (In re Edward M. Johnson &amp;
+  </em>
+  Assocs.,
+  <em>
+   Inc.),
+  </em>
+  <span class="citation" data-id="505532"><a href="/opinion/505532/in-re-edward-m-johnson-and-associates-inc-debtor-john-p-newton-jr/#1401" aria-description="Citation for case: In Re Edward M. Johnson and Associates, Inc., Debtor....">845 F.2d 1395, 1401</a></span> (6th Cir.1988) (internal quotations and citations omitted).
+ </p>
+<p id="b445-4">
+  II.
+  <em>
+   Background
+  </em>
+</p>
+<p id="b445-5">
+  The parties have stipulated to the following facts. On August 9, 1997, Mary Brigance gave EZ Cash her personal check made payable to EZ Cash in the amount of $248. In return, EZ Cash agreed that it would not cash Brigance’s check for two weeks and gave Brigance its check for $200 which she could cash immediately. The transaction was in accordance with a contract signed by Brigance that provided as follows:
+ </p>
+<blockquote id="b445-6">
+  EZ CASH
+ </blockquote>
+<blockquote id="ATo">
+  PAYROLL ADVANCE
+ </blockquote>
+<blockquote id="b445-8">
+  CUSTOMER AGREEMENT CONTRACT -
+ </blockquote>
+<blockquote id="b445-9">
+  I UNDERSTAND THAT CHECK NUMBER 293, DRAWN ON MY PERSONAL CHECKING ACCOUNT, WILL BE DUE ON 8-23-97. I UNDERSTAND THAT I MUST PICK UP MY CHECK BY THIS DUE DATE. I UNDERSTAND THAT I HAVE THE OPTION TO RENEW MY CONTRACT BY PAYING THE RENEWAL FEE BY-THIS DUE DATE. FURTHERMORE, I UNDERSTAND THAT I CAN RECEIVE A DISCOUNT IF CONTRACT IS PAID OR RENEWED BEFORE MY DUE DATE.
+ </blockquote>
+<blockquote id="b445-12">
+  IF THE FUNDS ARE NOT IN MY PERSONAL CHECKING ACCOUNT ON THE DUE DATE, A $20.00 N.S.F. CHARGE AND THE FOLLOWING ACTIONS AND PENALTIES WILL TAKE PLACE.
+ </blockquote>
+<blockquote id="b445-13">
+  UNDER THE LAW OF THE STATE OF TENNESSEE, IT IS A
+  <em>
+   CRIMINAL ACT
+  </em>
+  TO ISSUE A WORTHLESS CHECK. I UNDERSTAND THAT I CANNOT STOP PAYMENT, WITHDRAW THE FUNDS OR CLOSE THE ACCOUNT TO PREVENT COLLECTION.
+ </blockquote>
+<blockquote id="b445-14">
+  EZ CASH HAS THE RIGHT TO SEEK TREBLE DAMAGES
+  <em>
+   (THREE TIMES THE AMOUNT OF THE CHECK)
+  </em>
+  IF THE CHECK IS NOT GOOD.
+  <em>
+   I UNDERSTAND EZ CASH CAN SEEK COLLECTION THROUGH THE LEGAL SYSTEM INCLUDING THE ISSUANCE OF A CRIMINAL WARRANT IF THE CHECK IS NOT GOOD.
+  </em>
+  FURTHERMORE, I AUTHORIZE EZ CASH TO UTILIZE OTHER COLLECTION SYSTEMS INCLUDING MERCHANT NOTIFICATION.
+ </blockquote>
+<p id="b445-15">
+  Brigance did not redeem her check on August 23, 1997. Instead, on August 28, 1997, Brigance filed a Chapter 13 bankruptcy petition. EZ Cash did not present Brigance’s check for payment prior to her filing her petition.
+ </p>
+<p id="b445-16">
+  Brigance’s Chapter 13 plan treated EZ Cash’s claim as a general unsecured claim that would be repaid only an undetermined percentage of its face amount. On October 10,1998, EZ Cash filed an Objection to Confirmation, asserting that its claim was secured and that the plan’s treatment of its secured claim did not comply with <span class="citation no-link">11 U.S.C. § 1325</span>.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  The objection was set for hearing on November 4,1997. On October
+  <span citation-index="1" class="star-pagination" label="404"> 
+   *404
+   </span>
+  14, 1998, the bankruptcy court entered an Order confirming Brigance’s plan.
+ </p>
+<p id="b446-4">
+  Prior to the hearing on EZ Cash’s objection, EZ Cash and Brigance entered into an agreement where EZ Cash would remove its objection to the plan in return for its being treated as a “class one” unsecured creditor. As a class one unsecured creditor, EZ Cash would be paid $20 per month on a claim of $298, which included the original $248 claim and a $50 attorney fee. Class one unsecured claims would also be paid in full under the modified plan before any distribution would be made to general unsecured creditors. The plan trustee agreed to modify the payments under the confirmed plan to conform with this new agreement. EZ Cash and Bri-gance agreed that EZ Cash’s objection set for hearing would be resolved by an Agreed Order to be filed with the bankruptcy court.
+ </p>
+<p id="b446-5">
+  EZ Cash prepared a proposed Agreed Order modifying Brigance’s plan and withdrawing its objection that was signed by EZ Cash, the plan trustee, and Brigance’s counsel. Rather than signing the Agreed Order, the bankruptcy judge set a hearing “to show cause why entry of the proposed order is appropriate in this case.” On January 28, 1998, a hearing was held regarding the treatment of EZ Cash’s claim.
+ </p>
+<p id="b446-6">
+  The bankruptcy court held that EZ Cash was not a secured creditor under Tennessee state law and that it was inappropriate to place EZ Cash’s claim in a special class outside the class of general unsecured claims.
+  <em>
+   In re Brigance,
+  </em>
+  <span class="citation" data-id="1847284"><a href="/opinion/1847284/in-re-brigance/#493" aria-description="Citation for case: In Re Brigance">219 B.R. at 493-95</a></span>. EZ Cash has appealed both of those determinations.
+ </p>
+<p id="b446-7">
+  III.
+  <em>
+   EZ Cash as a Secured, Creditor
+  </em>
+</p>
+<p id="b446-8">
+  The transaction entered into by the parties essentially involved a two week $200 loan from EZ Cash to Brigance for which Brigance was to pay a fee of $48 with the repayment of the $200 loan. EZ Cash gave Brigance a $200 check which she could immediately and apparently did cash; in return, Brigance issued her personal check to EZ Cash for $248 which it could cash if she did not redeem the check before August 23, 1997. EZ Cash correspondingly promised not to cash Bri-gance’s check before the expiration of the two-week period. The first issue is whether Brigance’s personal check represents collateral in which EZ Cash obtained a security interest.
+ </p>
+<p id="b446-10">
+  The bankruptcy court hold that “a negotiable instrument cannot serve as security for the very obligation it is intended to pay” because it was in direct line with the obligation and not additional security. It is correct, of course, that a check tendered as payment and accepted as such constitutes a conditional payment that suspends the underlying obligation until such time as the check is dishonored. § 47-3-310(b);
+  <em>
+   Tallent v. Tennessee Farmers Mut. Ins. Co.,
+  </em>
+  <span class="citation" data-id="1726201"><a href="/opinion/1726201/tallent-v-tennessee-farmers-mutual-insurance-co/#343" aria-description="Citation for case: Tallent v. Tennessee Farmers Mutual Insurance Co.">785 S.W.2d 339, 343</a></span> (Tenn.1990). But when the parties agree that the check may not be presented for payment until some date in the future, such as by post-dating it, or, as in this case, by simply agreeing that it will not be presented for payment until some future date, the law does not treat the check as conditional payment until the agreed date.
+  <em>
+   Staff Builders of Philadelphia, Inc. v. Koschitzki,
+  </em>
+  <span class="citation" data-id="9009013"><a href="/opinion/9015937/staff-builders-of-philadelphia-inc-v-koschitzki/#695" aria-description="Citation for case: Staff Builders of Philadelphia, Inc. v. Koschitzki">989 F.2d 692, 695</a></span> (3d Cir.1993);
+  <em>
+   Dollar Bank v. Northwood Cheese Co.,
+  </em>
+  <span class="citation" data-id="1948447"><a href="/opinion/1948447/dollar-bank-v-northwood-cheese-co/" aria-description="Citation for case: Dollar Bank v. Northwood Cheese Co.">431 Pa.Super. 541</a></span>, <span class="citation" data-id="1948447"><a href="/opinion/1948447/dollar-bank-v-northwood-cheese-co/#312" aria-description="Citation for case: Dollar Bank v. Northwood Cheese Co.">637 A.2d 309, 312-13</a></span> (1994); Ca
+  <em>
+   nal-Randolph Anaheim, Inc. v. Moore,
+  </em>
+  <span class="citation" data-id="9725902"><a href="/opinion/2147631/canal-randolph-anaheim-inc-v-wilkoski/" aria-description="Citation for case: Canal-Randolph Anaheim, Inc. v. Wilkoski">78 Cal.App.3d 477</a></span>, <span class="citation" data-id="9725902"><a href="/opinion/2147631/canal-randolph-anaheim-inc-v-wilkoski/#795" aria-description="Citation for case: Canal-Randolph Anaheim, Inc. v. Wilkoski">143 Cal.Rptr. 789, 795</a></span> (1978).
+  <em>
+   But see Grumet v. Bristol,
+  </em>
+  <span class="citation" data-id="8049671"><a href="/opinion/8089665/grumet-v-bristol/" aria-description="Citation for case: Grumet v. Bristol">125 N.H. 537</a></span>, <span class="citation" data-id="8049671"><a href="/opinion/8089665/grumet-v-bristol/#1100" aria-description="Citation for case: Grumet v. Bristol">484 A.2d 1099, 1100</a></span> (1984). The parties have not presented the court with any law, and the court has not itself found any, that determines the status or function of such a deferred conditional payment.
+ </p>
+<p id="b446-11">
+  Nevertheless, a personal check can serve as collateral in which a security interest can be obtained. Tennessee’s codified version of Article 9 of the Uniform Commercial Code (Secured Transactions) applies “to any transaction (regardless of its form) which is intended to create a security interest in personal property ...
+  <span citation-index="1" class="star-pagination" label="405"> 
+   *405
+   </span>
+  including ... instruments.” § 47-9-102.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  Generally speaking, an “instrument” means a negotiable instrument, § 47-9-105(i), and a personal check generally qualifies as a negotiable instrument. § 47-3-104.
+ </p>
+<p id="b447-4">
+  Section 47-9-203 determines when a security interest becomes enforceable and when it attaches. Section 47-9-203(1) essentially states that a security interest becomes enforceable when: a) the collateral is in the possession of the secured party pursuant to agreement; b) the creditor has given value for the security interest; and c) the debtor has rights in the collateral. Section 47-9-203(2) provides that attachment occurs as soon as all three elements are met unless the parties delay attachment by explicit agreement.
+ </p>
+<p id="b447-5">
+  If Brigance intended to create a security interest in her check, EZ Cash obtained an enforceable security interest in the check on August 9,1997. On that date, EZ Cash obtained possession of the check pursuant to the agreement, EZ Cash gave value for the check, and Brigance had rights in the check, such as the right to issue the check on her bank account.
+ </p>
+<p id="b447-6">
+  Further, assuming the intent to create a-security interest, EZ Cash retained its security interest in the check until at least August 23, 1997, which was the expiration date of the two-week waiting period and the due date for Brigance’s payment. At that point, Brigance’s check became payment of the obligation, conditional only on the check not being dishonored. The court is aware of no authority which has discussed whether under the circumstances presented here the function of the check as conditional payment vitiates its function as security. The check’s potential functions as conditional payment and as collateral appear mutually exclusive, but the court need not decide that issue, since in either case the result is the same with respect to the issue before the court.
+ </p>
+<p id="b447-10">
+  If on August 23 the check’s new character as conditional payment precluded it from continuing to operate as security, EZ Cash lost,its status as a secured creditor on that date.
+ </p>
+<p id="b447-11">
+  If, on the other hand, on August 23 the check continued to function as security, EZ Cash would still lose its secured status once the check was dishonored on August 28. Under § 47-3-504(a), presentment of the check was excused when Brigance filed for bankruptcy on August 28. Because presentment of the check was excused and the check was not duly accepted or paid, it was dishonored at that time. § 47-3-502(e). Upon dishonor, EZ Cash had the right under § 47-3-310(b)(3) to enforce either the instrument or the obligation.
+  <em>
+   See O’Neill v. Steppat,
+  </em>
+  <span class="citation" data-id="1906430"><a href="/opinion/1906430/oneill-v-steppat/#376" aria-description="Citation for case: O&#x27;NEILL v. Steppat">270 N.W.2d 375, 376</a></span> (S.D.1978);
+  <em>
+   Criterion Ins. Co. v. Fulgham,
+  </em>
+  <span class="citation" data-id="1334666"><a href="/opinion/1334666/criterion-insurance-v-fulgham/" aria-description="Citation for case: Criterion Insurance v. Fulgham">219 Va. 294</a></span>, <span class="citation" data-id="1334666"><a href="/opinion/1334666/criterion-insurance-v-fulgham/#406" aria-description="Citation for case: Criterion Insurance v. Fulgham">247 S.E.2d 404, 406</a></span> (1978);
+  <em>
+   Perry &amp; Greer, Inc. v. Manning,
+  </em>
+  <span class="citation" data-id="2604035"><a href="/opinion/2604035/perry-greer-inc-v-manning/" aria-description="Citation for case: Perry &amp; Greer, Inc. v. Manning">282 Or. 25</a></span>, <span class="citation" data-id="2604035"><a href="/opinion/2604035/perry-greer-inc-v-manning/#792" aria-description="Citation for case: Perry &amp; Greer, Inc. v. Manning">576 P.2d 791, 792</a></span> (1978);
+  <em>
+   Jones v. Bailey,
+  </em>
+  <span class="citation" data-id="2242321"><a href="/opinion/2242321/jones-v-bailey/" aria-description="Citation for case: Jones v. Bailey">1 Mass.App.Ct. 41</a></span>, <span class="citation" data-id="2242321"><a href="/opinion/2242321/jones-v-bailey/" aria-description="Citation for case: Jones v. Bailey">294 N.E.2d 599</a></span> (1973);
+  <em>
+   Humble Oil &amp; Refining Co. v. Copley,
+  </em>
+  <span class="citation" data-id="1202047"><a href="/opinion/1202047/humble-oil-refining-company-v-copley/" aria-description="Citation for case: Humble Oil &amp; Refining Company v. Copley">213 Va. 449</a></span>, <span class="citation" data-id="1202047"><a href="/opinion/1202047/humble-oil-refining-company-v-copley/#736" aria-description="Citation for case: Humble Oil &amp; Refining Company v. Copley">192 S.E.2d 735, 736</a></span> (1972).
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</p>
+<p id="b447-12">
+  Since the check itself represents only an unsecured order to pay, if EZ Cash chose to enforce the check, it had only an unsecured claim. On the other hand, if EZ Cash chose instead to enforce the underlying obligation, it lost the option to sue on the check and therefore lost its security interest in the check. Thus, either choice results in EZ Cash being unsecured.
+ </p>
+<p id="b447-13">
+  Accordingly, the court holds that EZ Cash is an unsecured creditor in Bri-gance’s bankruptcy estate.
+ </p>
+<p id="b448-3">
+<span citation-index="1" class="star-pagination" label="406"> 
+   *406
+   </span>
+  IV.
+  <em>
+   Classification of EZ Cash’s Claim
+  </em>
+</p>
+<p id="AY4-">
+  Brigance’s original plan treated
+  <em>
+   EZ
+  </em>
+  Cash’s claim as a general unsecured claim classed with other general unsecured claims.
+  <em>
+   In re Brigance, 219
+  </em>
+  B.R. at 493. Under that original plan, EZ Cash would not be entitled to any preferential treatment over other general unsecured creditors. Instead, EZ Cash would share in a pro rata distribution with other general unsecured creditors. After EZ Cash objected to confirmation, Brigance agreed to modify her plan so that EZ Cash would be treated as a class one unsecured creditor.
+  <em>
+   <span class="citation" data-id="1847284"><a href="/opinion/1847284/in-re-brigance/" aria-description="Citation for case: In Re Brigance">Id.</a></span>
+  </em>
+  As a class one unsecured creditor, EZ Cash’s claim was to be paid in full before general unsecured creditors would receive any distribution.
+  <span class="citation" data-id="1847284"><a href="/opinion/1847284/in-re-brigance/#494" aria-description="Citation for case: In Re Brigance"><em>
+   Id.
+  </em>
+  at 494</a></span>. The bankruptcy court refused to confirm this agreement,
+  <span class="citation" data-id="1847284"><a href="/opinion/1847284/in-re-brigance/#494" aria-description="Citation for case: In Re Brigance"><em>
+   id.
+  </em>
+  at 494-95</a></span>, because, the court found, EZ Cash did not provide “a reasonable basis for separate classification and preferential treatment.”
+  <span class="citation" data-id="1847284"><a href="/opinion/1847284/in-re-brigance/#498" aria-description="Citation for case: In Re Brigance"><em>
+   Id.
+  </em>
+  at 498</a></span>. For the following reasons, this court concludes that EZ Cash has failed to show that this finding is clearly erroneous and further concludes that the bankruptcy court’s conclusions are not contrary to law.
+ </p>
+<p id="b448-4">
+  Pursuant to <span class="citation no-link">11 U.S.C. § 1323</span>(a), “[t]he debtor may modify the plan at any time before confirmation, but may not modify the plan so that the plan as modified fails to meet the requirements of section 1322 of this title.” Bankruptcy Code § 1322(b)(1) provides that “the plan may ... designate a class or classes of unsecured claims, as provided in section 1122 of this title, but may not discriminate unfairly against any class so designated....”
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+</p>
+<p id="b448-5">
+  The Bankruptcy Code does not specify what constitutes unfair discrimination' within the meaning of <span class="citation no-link">11 U.S.C. § 1322</span>(b)(1). Thus, the judiciary has been called upon to determine on a ease by case basis whether a particular creditor’s classification will discriminate unfairly against other classes of creditors.
+  <em>
+   See In re Kovich,
+  </em>
+  <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/#407" aria-description="Citation for case: In Re Kovich">4 B.R. 403, 407</a></span> (Bankr.W.D.Mich.1980). To that end, many courts have adopted a test first announced in
+  <em>
+   Kovich,
+  </em>
+  or a variation thereof.
+  <em>
+   See, e.g. In re Wolff,
+  </em>
+  <span class="citation" data-id="9686594"><a href="/opinion/1821177/amfac-distribution-corp-v-wolff-in-re-wolff/#512" aria-description="Citation for case: Amfac Distribution Corp. v. Wolff (In Re Wolff)">22 B.R. 510, 512</a></span> (9th Cir. BAP 1982);
+  <em>
+   In re Rivera Echevarria,
+  </em>
+  <span class="citation" data-id="1871097"><a href="/opinion/1871097/in-re-rivera-echevarria/#13" aria-description="Citation for case: In Re Rivera Echevarria">129 B.R. 11, 13</a></span> (Bankr.P.R.1991);
+  <em>
+   In re Whitelock,
+  </em>
+  <span class="citation" data-id="2003461"><a href="/opinion/2003461/in-re-whitelock/#589" aria-description="Citation for case: In Re Whitelock">122 B.R. 582, 589</a></span> (Bankr.D.Utah 1990);
+  <em>
+   In re Terry,
+  </em>
+  <span class="citation" data-id="1973007"><a href="/opinion/1973007/in-re-terry/#173" aria-description="Citation for case: In Re Terry">78 B.R. 171, 173</a></span> (Bankr.E.D.Tenn.1987). The test involves examining (1) whether the discrimination has a reasonable basis; (2) whether the debtor can carry out a plan without the discrimination; (3) whether the discrimination is proposed in good faith; and (4) the treatment afforded the class or classes that will suffer the discrimination and whether the degree of discrimination is directly related to the rationale behind the discrimination. The debtor has the burden of proving that the proposed classification does not discriminate unfairly.
+  <em>
+   Groves v. LaBarge (In re Groves),
+  </em>
+  <span class="citation" data-id="6932683"><a href="/opinion/7030608/groves-v-labarge-in-re-groves/#214" aria-description="Citation for case: Groves v. LaBarge (In re Groves)">39 F.3d 212, 214</a></span> (8th Cir.1994);
+  <em>
+   In re Kolbe,
+  </em>
+  <span class="citation" data-id="1552683"><a href="/opinion/1552683/in-re-kolbe/#570" aria-description="Citation for case: In Re Kolbe">199 B.R. 569, 570</a></span> (Bankr.D.Md.1996).
+ </p>
+<p id="b448-8">
+  While most courts analyzing unfair discrimination have used some variation of the
+  <em>
+   <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">Kovich</a></span>
+  </em>
+  test, the application of those tests has been far from uniform. Nevertheless, under any application of any variation of the test, the court finds Brigance cannot meet her burden of proving that the proposed classification does not discriminate unfairly.
+ </p>
+<p id="b448-9">
+  The first element of the
+  <em>
+   <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">Kovich</a></span>
+  </em>
+  test is whether a reasonable basis for the discrimination exists. Some courts hold that all unsecured claims are
+  <em>
+   of
+  </em>
+  equal legal status and that the only legitimate reason for discriminating between them is because
+  <span citation-index="1" class="star-pagination" label="407"> 
+   *407
+   </span>
+  one claim is equitably subordinated to another or because the separate classification is necessary for administrative convenience, which is a statutory exception.
+  <em>
+   See, e.g., In re Hiner,
+  </em>
+  <span class="citation" data-id="1548877"><a href="/opinion/1548877/in-re-hiner/#689" aria-description="Citation for case: In Re Hiner">161 B.R. 688, 689</a></span> (Bankr.D.Idaho 1993);
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#260" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256, 260</a></span> (Bankr.D.Utah 1980);
+  <em>
+   In re Wolff,
+  </em>
+  <span class="citation" data-id="9686594"><a href="/opinion/1821177/amfac-distribution-corp-v-wolff-in-re-wolff/#514" aria-description="Citation for case: Amfac Distribution Corp. v. Wolff (In Re Wolff)">22 B.R. at 514-16</a></span> (Hughes, B.J., concurring). Other courts hold that a reasonable basis for allowing some claims to be paid more than their pro rata share is to improve the debtor’s rehabilitation.
+  <em>
+   See, e.g., In re Terry, 78
+  </em>
+  B.R. at 173;
+  <em>
+   In re Freshley,
+  </em>
+  <span class="citation" data-id="1538376"><a href="/opinion/1538376/in-re-freshley/#98" aria-description="Citation for case: In Re Freshley">69 B.R. 96, 98</a></span> (Bankr.N.D.Ga.1987). Some courts hold the focus should be on “legal distinctions in the non-bankruptcy or post-bankruptcy remedies possessed by the [creditors who wish for separate classification]. These include debts that are nondischargeable in Chapter 13 or certain debts for which the claimants have recourse against other obligors.”
+  <em>
+   See, e.g., In re Riggel,
+  </em>
+  <span class="citation" data-id="1537490"><a href="/opinion/1537490/in-re-riggel/#203" aria-description="Citation for case: In Re Riggel">142 B.R. 199, 203</a></span> (Bankr.S.D.Ohio 1992);
+  <em>
+   In re Gay,
+  </em>
+  <span class="citation" data-id="1970688"><a href="/opinion/1970688/in-re-gay/#338" aria-description="Citation for case: In Re Gay">3 B.R. 336, 338</a></span> (Bankr.D.Colo.1980) (finding creditors’ rights against third parties, if any, is one factor to be taken into account). Still other courts have allowed separate classification of certain claims, such as alimony or child support, on vaguely articulated policy grounds.
+  <em>
+   See, e.g., In re Whittaker,
+  </em>
+  <span class="citation" data-id="1990086"><a href="/opinion/1990086/in-re-whittaker/#534" aria-description="Citation for case: In Re Whittaker">113 B.R. 531, 534</a></span> (Bankr.D.Minn.1990);
+  <em>
+   In re Davidson,
+  </em>
+  <span class="citation" data-id="1531148"><a href="/opinion/1531148/in-re-davidson/#387" aria-description="Citation for case: In Re Davidson">72 B.R. 384, 387</a></span> (Bankr.D.Colo.1987). Finally, some courts focus on whether the discrimination is necessary to allow the debtor to perform the plan, and imply that a reasonable basis cannot exist without such necessity.
+  <em>
+   See, e.g., In re Girardeau,
+  </em>
+  <span class="citation" data-id="1894011"><a href="/opinion/1894011/in-re-girardeau/#11" aria-description="Citation for case: In Re Girardeau">35 B.R. 9, 11</a></span> (Bankr.D.S.C.1983);
+  <em>
+   In re Hosler,
+  </em>
+  <span class="citation" data-id="1902183"><a href="/opinion/1902183/in-re-hosler/#396" aria-description="Citation for case: In Re Hosler">12 B.R. 395, 396</a></span> (Bankr.S.D.Ohio 1981). Under all of these tests, the stipulated facts in this case do not offer any basis to support a separate classification of EZ Cash’s unsecured claim.
+ </p>
+<p id="b449-6">
+  EZ Cash essentially offers two justifications to support separate classification for its claim, neither of which the court finds compelling. First, EZ Cash argues its unsecured claim is somehow different from the unsecured claims of general creditors. EZ Cash states that unsecured creditors generally include credit card issuers or open account creditors, that unlike itself “do not hold any negotiable instrument given by contract that could even be considered colorable as a security.” Thus, it appears as though EZ Cash is arguing that its claim, although unsecured, is closer to secured status than other general unsecured claims. The court finds that EZ Cash’s argument is without merit. Despite EZ Cash’s beliefs, it has no greater legal right to payment from Briganee than any other general unsecured creditor. Nor does it appear to have any available recourse against third parties not available to other unsecured creditors. Thus, despite the fact that EZ Cash holds a negotiable instrument issued by Briganee, the court is aware of no legal distinction between EZ Cash’s rights and the rights of the other general unsecured creditors. Although not clearly articulated, EZ Cash appears to believe it should be treated better than general unsecured creditors because it attempted to obtain security for its loan, or because it believed it had obtained security. The court finds EZ Cash’s asserted failure to obtain security on its loan to Briganee does not entitle it to favorable treatment over unsecured creditors who never attempted to obtain security.
+  <em>
+   See In re Pearson,
+  </em>
+  <span class="citation" data-id="1538677"><a href="/opinion/1538677/in-re-pearson/#377" aria-description="Citation for case: In Re Pearson">4 B.R. 376, 377-78</a></span> (Bankr.N.D.Ohio 1980) (finding creditor originally listed as secured creditor was unsecured because it failed to perfect its mechanics liens against the debt- or’s real estate and that the creditor would be classed with other general unsecured claims).
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+</p>
+<p id="b450-3">
+<span citation-index="1" class="star-pagination" label="408"> 
+   *408
+   </span>
+  EZ Cash’s second justification for treating it differently is that its classification is the result of a negotiated compromise of a contested matter. EZ Cash essentially argues that it had a legal basis for arguing that it was entitled to secured status and that it gave up that right in exchange for Brigance’s agreement to treat it as a class one unsecured creditor. The court finds that this second offered justification does not support a finding that there is a reasonable basis for separately classifying EZ Cash’s claim. To hold otherwise would create the untenable situation in which any unsecured creditor which believed it had a colorable legal claim to secured status could waive that claim in exchange for a Chapter 13 debtor’s agreement to pay that creditor in full before any payment on other general unsecured claims. The “evils” such a holding might entail are plentiful. For instance, such a holding might place a strain on debtor resources from dealing with all the unsecured creditors who suddenly have legal arguments that they are entitled to secured status. It might also encourage debtors to modify their plans merely because a creditor threatens to object to confirmation. Courts have already held such action violates the Bankruptcy Code.
+  <em>
+   See In re Calvert, 17
+  </em>
+  B.R. 507, 507 (Bankr.W.D.Mo.1981).
+ </p>
+<p id="b450-6">
+  Having found no reasonable basis for the discrimination, the court finds it need not evaluate the other
+  <em>
+   <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">Kovich</a></span>
+  </em>
+  factors.
+  <em>
+   In re Riggel,
+  </em>
+  <span class="citation" data-id="1537490"><a href="/opinion/1537490/in-re-riggel/#203" aria-description="Citation for case: In Re Riggel">142 B.R. at 203</a></span> (finding analysis of remaining factors unnecessary where no reasonable basis for the discrimination exists). A plan that prefers one unsecured creditor to other unsecured creditors with no reasonable basis is per se unfairly discriminatory against the non-preferred unsecured creditors.
+  <em>
+   See In re Green,
+  </em>
+  <span class="citation" data-id="1909912"><a href="/opinion/1909912/in-re-green/#166" aria-description="Citation for case: In Re Green">70 B.R. 164, 166</a></span> (Bankr.W.D.Ark.1986) (finding determinative factor is whether a reasonable basis for the discrimination exists).
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+</p>
+<p id="b450-7">
+  Accordingly, the bankruptcy court’s order denying separate classification for EZ Cash’s unsecured claim is affirmed.
+ </p>
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b445-10">
+   . Generally, under <span class="citation no-link">11 U.S.C. § 1325</span>(a)(5) the holder of an allowed secured claim that is provided for in the plan has the right to either; accept the plan; ensure that the plan complies with the Chapter 13 cram down provisions; or to obtain the collateral securing the holder’s claim.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b447-7">
+   . Unless otherwise noted, all section references are to Tennessee Code Annotated.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b447-8">
+   . It perhaps simplifies an understanding of this election if one keeps in mind that the check constitutes a payment of the underlying obligation. If the creditor elects to proceed on the check, the underlying obligation has been satisfied. On the other hand, if the creditor elects to reject the dishonored check as payment, then the creditor is entitled to enforce the unpaid underlying obligation. The creditor cannot both accept payment and reject payment.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b448-6">
+   . Section 1122, referred to in § 1322(b)(1), does not resolve the question of which classifications of unsecured claims are appropriate in Chapter 13. Section 1122(a) merely specifies that only substantially similar claims may be grouped in the same class. It does not require that all substantially similar claims
+   <em>
+    must be
+   </em>
+   members of the same class. In light of Congress' direction that a Chapter 13 debt- or
+   <em>
+    may
+   </em>
+   classify unsecured claims, the propriety of drawing classifications is governed by <span class="citation no-link">11 U.S.C. § 1322</span>(b)(1) while the propriety of including a claim in a particular class is controlled by <span class="citation no-link">11 U.S.C. § 1122</span>.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b449-5">
+   . Even if the court were to agree with EZ Cash that its claim is not substantially similar to the claims of other unsecured creditors such that separate classification would be required in Chapter 11,
+   <em>
+    see
+   </em>
+   <span class="citation no-link">11 U.S.C. § 1122</span>, EZ Cash has failed to address why its “substantially different" claim deserves to be paid more. EZ Cash's claim that failure to classify it separately discriminates against it would only be true in a Chapter 13 bankruptcy if EZ
+   <span citation-index="1" class="star-pagination" label="408"> 
+    *408
+    </span>
+   Cash could show, among other things, why it is entitled to preferential treatment. Merely being "different” from other unsecured claims is not a sufficient answer.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b450-5">
+   . If the court were to evaluate the other
+   <em>
+    Ko-vich
+   </em>
+   factors, it appears that the proposed classification would also fail the second element of the test, which focuses on whether the debtor could carry out its plan without the proposed discrimination. In this case, the court sees no reason why Brigance’s unmodified plan could not be carried out without the discrimination. As an unsecured creditor in Chapter 13, EZ Cash does not get an opportunity to vote on Brigance’s plan such that its confirmation might be jeopardized. Nor is there any evidence that Brigance needs to protect her relationship with EZ Cash under a confirmed plan in order to reorganize successfully.
+   <em>
+    See In re Whitelock,
+   </em>
+   <span class="citation" data-id="2003461"><a href="/opinion/2003461/in-re-whitelock/#590" aria-description="Citation for case: In Re Whitelock">122 B.R. at 590</a></span> (finding that a "[d]etermination of the ability to effectuate a plan without disparate treatment of a disfavored class generally necessitates an examination of whether the treatment protects a relationship with a specific creditor that the debtors need to reorganize successfully.”).
+  </p>
+<p id="b450-17">
+   The court could not evaluate the third and fourth elements of the
+   <em>
+    <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">Kovich</a></span>
+   </em>
+   test. The bankruptcy court made no findings on whether the proposed classification was in good faith, which is essentially a factual inquiry. Nor is there is any evidence in the record of how the remaining general unsecured claims would fare under the plan, other than that they were to receive a yet to be determined percentage of their claims.
+  </p>
+</div></div></opinion>

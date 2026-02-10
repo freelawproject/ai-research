@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="AQW">
+  MEMORANDUM OPINION
+ </p>
+<author id="Azg">
+  MARTIN V. B. BOSTETTER, Jr., Bankruptcy Judge.
+ </author>
+<p id="Ac1">
+  Charles Richard Hurdle and Frances Audrey Hurdle, husband and wife, the debtors herein, seek confirmation of their proposed Chapter 13 plan, as amended. An objection to confirmation of the plan was filed by Beneficial Finance Company of Virginia (“Beneficial”) on the grounds that it is a partial holder of a secured claim on the debtors’ household goods, notwithstanding the fact that the debtors have scheduled it as an unsecured creditor. Beneficial asserts further that its claim would have been non-dischargeable had the debtors filed under Chapter 7 and, as such, it should act as a bar to confirmation. Beneficial also joins in an objection to confirmation by the trustee, Gerald M. O’Donnell, Esquire, who asserts that the plan fails to comply with Sections 1325(a)(3) and 1325(a)(4) of the Bankruptcy Code.
+ </p>
+<p id="A0V">
+  The debtors’ amended plan proposes to make thirty-two (32) payments to the trustee of $83.04 over a term of fourteen months. From such payments the trustee is to pay priority taxes to the Internal Revenue Service in the amount of $2,282.00 and the Virginia Department of Taxation in the amount of $311.00, in full. The trustee is to pay to each of the fifteen (15) unsecured creditors the sum of $1.00. Three secured creditors are to be dealt with outside the plan: Broadcast Credit Union, the NBC Store and Virginia National Bank. This last creditor is to be dealt with under the plan only to the extent of returning the security, a 1976 Ford Maverick valued at $1,275.00 and securing a claim of $758.14.
+ </p>
+<p id="Anh">
+  Charles Hurdle is the sole wage earner and is an engineer by profession with the National Broadcasting Company. He has gross wages of $792.00 per pay period and is
+  <span citation-index="1" class="star-pagination" label="306"> 
+   *306
+   </span>
+  paid 26 times per year. He also receives $375.00 per month from independent consulting work. Although item 2(f) of the debtors’ Statement of Affairs indicates that their gross income for 1979 was $38,440.04, the debtors’ current gross income is $25,-092.00. This substantial reduction in income is due to Mr. Hurdle having given up a second full-time job for a part-time consultant’s job, as well as continuing his employment with the National Broadcasting Company. Mrs. Hurdle no longer is employed. Further, Mrs. Hurdle’s son by a previous marriage turned 18 years on January 6, 1980, depriving her of $309.00 per month in Social Security benefits and $61.00 per month in Veterans’ benefits.
+ </p>
+<p id="b360-4">
+  Let us address the principal issue before the Court: whether a plan which proposes nominal or zero payments to unsecured creditors is contra to Sections 1325(a)(3) and (aX4) of the Bankruptcy Code (<span class="citation no-link">11 U.S.C. § 1325</span>(aX3) and (a)(4)).
+ </p>
+<p id="b360-5">
+  The concept of good faith, as applied under Section 1325(a)(3), is neither defined in the Bankruptcy Code nor does the legislative history specifically discuss the reason for its inclusion in the Code. It is not to be doubted, however, “that there exists the
+  <em>
+   inherent
+  </em>
+  right of a court to require good faith or clean hands,”
+  <em>
+   In re Seely,
+  </em>
+  <span class="citation" data-id="1538137"><a href="/opinion/1538137/johnson-v-seely-in-re-seely/#313" aria-description="Citation for case: Johnson v. Seely (In Re Seely)">6 B.R. 309, 313</a></span> (Bkrtcy.E.D.Va.N.D.1980), and the. finding made by the Court as to the presence or absence of good faith is a factual determination which may be set aside only if found to be clearly erroneous.
+  <em>
+   <span class="citation" data-id="328999"><a href="/opinion/328999/in-re-northeast-corporation-bankrupt-thomas-j-chandler-jr-v-higgs/" aria-description="Citation for case: In Re Northeast Corporation, Bankrupt. Thomas J....">Id.</a></span> See In re Northeastern Corporation,
+  </em>
+  <span class="citation" data-id="328999"><a href="/opinion/328999/in-re-northeast-corporation-bankrupt-thomas-j-chandler-jr-v-higgs/" aria-description="Citation for case: In Re Northeast Corporation, Bankrupt. Thomas J....">519 F.2d 1360</a></span> (4th Cir. 1975).
+ </p>
+<p id="b360-6">
+  Without the benefit of a definitive legislative standard for construing the concept of good faith, the courts have given the concept a subjective construction which has created a diversity of opinion among the courts as to what constitutes good faith.
+ </p>
+<p id="b360-9">
+  It has been stated that since the right of creditors to veto a Chapter 13 plan has been effectively eliminated under the Bankruptcy Code, Congress could not have been “held to have removed the major remaining protection accorded to those creditors, that is, the requirement of full or substantial payment.”
+  <em>
+   In re Burrell,
+  </em>
+  <span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/#364" aria-description="Citation for case: In Re Burrell">6 B.R. 360, 364</a></span> (N.D.Cal.1980). This is based upon the reasoning that had Congress intended to eliminate the substantiality of payment requirement as well, it could have specifically done so and, absent such action, no change was intended.
+ </p>
+<p id="b360-10">
+  There is a view that the term “good faith” should not “be given anything beyond its ordinary and commonly accepted meaning.”
+  <em>
+   In re Harland,
+  </em>
+  <span class="citation" data-id="1970774"><a href="/opinion/1970774/matter-of-harland/#599" aria-description="Citation for case: Matter of Harland">3 B.R. 597, 599</a></span> (Bkrtcy.D.Neb.1980).
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  However, the weight of case law authority, and the better reasoned view, has construed “good faith” as not simply “honesty of intention” in the classical sense but as “a fundamental fairness in dealing with one’s creditors.”
+  <em>
+   In re Beaver,
+  </em>
+  <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/#340" aria-description="Citation for case: In Re Beaver">2 B.R. 337, 340</a></span> (Bkrtcy.S.D.Cal. 1980);
+  <em>
+   accord In re Burrell, supra,
+  </em>
+  6 B.R. at 365;
+  <em>
+   See, e. g., In re Barnes,
+  </em>
+  <span class="citation" data-id="1534986"><a href="/opinion/1534986/in-re-barnes/#379" aria-description="Citation for case: In Re Barnes">5 B.R. 376, 379</a></span> (Bkrtcy.D.C.1980);
+  <em>
+   In re Moss, 5
+  </em>
+  B.R. 123, 124 (Bkrtcy.M.D.Tenn.1980);
+  <em>
+   In re Johnson,
+  </em>
+  <span class="citation" data-id="1535105"><a href="/opinion/1535105/in-re-johnson/#41" aria-description="Citation for case: In Re Johnson">5 B.R. 40, 41</a></span> (Bkrtcy.S.E.Ohio 1980).
+  <em>
+   See also In re Hurd,
+  </em>
+  <span class="citation" data-id="1538572"><a href="/opinion/1538572/in-re-hurd/#558" aria-description="Citation for case: In Re Hurd">4 B.R. 551, 558</a></span> (Bkrtcy.W.D.Mich.1980). The import of these decisions is that a debtor under Chapter 13 must make a meaningful effort to repay his creditors. The need to make such meaningful or substantial payments has been interpreted as an essential element of the good faith requirement embodied in Section 1325(a)(3).
+  <em>
+   In re Burrell, supra,
+  </em>
+  6 B.R. at 364.
+ </p>
+<p id="b361-4">
+<span citation-index="1" class="star-pagination" label="307"> 
+   *307
+   </span>
+  This view is in accord with the fundamental purpose of Chapter 13 which “ ‘is to facilitate the adjustment of debts through extension and composition plans proposed by individuals with regular income.’ ”
+  <em>
+   In re Washington,
+  </em>
+  <span class="citation" data-id="1537983"><a href="/opinion/1537983/in-re-washington/#229" aria-description="Citation for case: In Re Washington">6 B.R. 226, 229</a></span> (E.D.Va.A.D.1980)
+  <em>
+   citing In re Beaver, supra,
+  </em>
+  <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/#339" aria-description="Citation for case: In Re Beaver">2 B.R. at 339</a></span>. This court stated in
+  <em>
+   In re <span class="citation" data-id="1537983"><a href="/opinion/1537983/in-re-washington/" aria-description="Citation for case: In Re Washington">Washington, supra,</a></span>
+  </em>
+  at 229 that “[a] debt- or should be encouraged to make payments which he can reasonably afford over a reasonable period of time. . .. ” In effect, Chapter 13 is meant “to serve as a flexible vehicle for the repayment of part or all of the allowed claims of the debtor.” Senate Report No. 95-989, 95th Cong., 2d Sess. 141 (1978),
+  <em>
+   reprinted in
+  </em>
+  [1978] U.S.Code Cong. &amp; Ad.News, p. 5787, 5927.
+ </p>
+<p id="b361-5">
+  It has been held that a Chapter 13 plan, to be filed in good faith, must provide for payments which are substantial and meaningful to the debtor’s unsecured creditors.
+  <em>
+   In re Hall,
+  </em>
+  <span class="citation" data-id="1538865"><a href="/opinion/1538865/in-re-hall/#342" aria-description="Citation for case: In Re Hall">4 B.R. 341, 342</a></span> (Bkrtcy.E.D.Va.R.D.1980). Cf.
+  <em>
+   , In re Powell,
+  </em>
+  <span class="citation" data-id="1887669"><a href="/opinion/1887669/general-finance-co-of-virginia-v-powell-in-re-powell/#316" aria-description="Citation for case: General Finance Co. of Virginia v. Powell (In Re Powell)">2 B.R. 314, 316</a></span> (Bkrtcy.E.D.Va.N.D.1980).
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+</p>
+<p id="b361-6">
+  The principal question to be resolved is under what, if any, circumstances a plan proposing only nominal or zero payments to unsecured creditors may be deemed to meet the substantiality of payment test. In essence, the issue is whether the presence of compelling personal circumstances justify the confirmation of a nominal payment plan and, if so, whether such compelling circumstances are evident in the present case.
+ </p>
+<p id="b361-10">
+  Although several courts
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  have held that nominal, de
+  <em>
+   minimus
+  </em>
+  or no-payment plans, are not susceptible to confirmation on grounds of a lack of good faith, this Court has recognized that there does exist the exceptional case where a nominal payment plan should be confirmed. The Court in
+  <em>
+   Matter of Jenkins,
+  </em>
+  No. 80-00518 (Bkrtcy. E.D.Va.A.D.1980) approved a composition plan which provided for a ten-percent payment to the debtor’s unsecured creditors.
+  <em>
+   See In re Hurd,
+  </em>
+  <span class="citation" data-id="1538572"><a href="/opinion/1538572/in-re-hurd/#560" aria-description="Citation for case: In Re Hurd">4 B.R. 551, 560</a></span> (Bkrtcy.W.D.Mich.1980). However, one must be cognizant of the fact that a debtor’s sincere desire to repay his creditors in and of itself may not be enough to permit the confirmation of a plan. Only in the exceptional case should a plan deficient in its percentage of payment to unsecured creditors be confirmed. One court has emphasized that a:
+ </p>
+<blockquote id="b361-11">
+  “[Bankruptcy case does not become a Chapter 13 case merely by calling it a Chapter 13 case. If its real motive and purpose is to obtain a discharge of debts without a reasonable and substantial payment to the creditors, ... the court should recognize the case for what it is, an illusion.... [T]he illusory Chapter 13 plan is not in good faith.”
+ </blockquote>
+<p id="b361-12">
+<em>
+   In re Bloom,
+  </em>
+  <span class="citation" data-id="1970474"><a href="/opinion/1970474/in-re-bloom/#472" aria-description="Citation for case: In Re Bloom">3 B.R. 467, 472</a></span> (Bkrtcy.C.D.Cal.1980).
+ </p>
+<p id="b361-13">
+  It has also been stated that a debtor who proposes to pay his creditors $1.00 on their claims is not acting in furtherance of one of the basic purposes of a Chapter 13
+  <span citation-index="1" class="star-pagination" label="308"> 
+   *308
+   </span>
+  proceeding which is to assist the debtor who is desirous of paying his bills. A $1.00 payment is not demonstrative of a desire by the debtor to honestly resolve his financial troubles.
+  <span class="citation" data-id="1970474"><a href="/opinion/1970474/in-re-bloom/#470" aria-description="Citation for case: In Re Bloom"><em>
+   Id.
+  </em>
+  at 470</a></span>.
+ </p>
+<p id="b362-4">
+  The debtors in the present case propose to make a $1.00 payment to unsecured creditors. This is clearly tantamount to a zero-payment plan.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  The Eighth Circuit, in a recent decision,
+  <em>
+   In re <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">Terry, supra,</a></span>
+  </em>
+  <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">630 F.2d 634</a></span>, overturned a bankruptcy court case,
+  <em>
+   In re Terry, supra,
+  </em>
+  <span class="citation" data-id="1970481"><a href="/opinion/1970481/tenney-v-terry-in-re-terry/" aria-description="Citation for case: Tenney v. Terry (In Re Terry)">3 B.R. 63</a></span>, which had confirmed a zero-payment plan. The Eighth Circuit reasoned that debtors without excess income out of which to make payments pursuant to Section 101(24) are not eligible for Chapter 13 relief which, under Section 109(e) limits participation to those individuals with regular income. Therefore, a debt- or who submits a plan which proposes to make no payment to unsecured creditors cannot be confirmed. The Eighth Circuit in
+  <em>
+   Terry
+  </em>
+  also denied confirmation of the no-payment plan in question on the grounds that the plan violated not only the spirit of Chapter 13 (requiring a debtor to make payments) but abused the more comprehensive discharge present in Chapter 13 than that which is available under Chapter 7.
+ </p>
+<p id="b362-5">
+  The Court rejects the argument that Section 1325(a)(4), the so-called “best interests of the creditors” test, is the only standard for making payments to unsecured creditors. The Court, having examined the legislative history, concludes that Section 1325(a)(4) — which requires that the value of the property distributed to holders of unsecured claims be “not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under Chapter 7” — establishes a
+  <em>
+   minimum
+  </em>
+  eligibility for confirmation.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  As stated by the court in
+  <em>
+   In re Barnes, supra,
+  </em>
+  5 B.R. at 378, “[t]his ‘liquidation test’ was originally developed ‘to safeguard minority creditor interests’ and was not intended as the only guideline for the restraint of marginal composition plans.” Thus, under this view, Section 1325(a)(4) was not intended to act as an implied extinguishment of the meaningful payment requirement.
+ </p>
+<p id="b362-8">
+  There can be no doubt that the weight of case law authority based upon the fundamental purpose and spirit of Chapter 13 and a study of the legislative history reveals that the payment proposed in a plan to holders of unsecured claims must be meaningful. This requirement should be considered in light of the debtor’s circumstances in a given case. This course will be followed even where, as in the instant matter, the debtor’s property is exempt.
+  <em>
+   In re Iacovoni, supra,
+  </em>
+  2 B.R. at 268.
+ </p>
+<p id="b362-9">
+  Other factors to be considered in determining whether a Chapter 13 plan has been proposed in good faith include an evaluation of the debtor’s ability to make payments under the plan; prior petitions in bankruptcy filed by the debtor; the extent and nature of the debts scheduled in the plan; division by classes and the treatment given each class therein under the plan;
+  <span citation-index="1" class="star-pagination" label="309"> 
+   *309
+   </span>
+  and whether a three-year extension
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  utilizing present and anticipated resources would satisfy all indebtedness and, if not, to what extent a composition plan may be deemed appropriate.
+ </p>
+<p id="b363-4">
+  An analysis of the information in the Chapter 13 plan and Statement of Affairs submitted by the debtors (in light of the foregoing principles) indicates that the debtors’ monthly income is $1,341.46, while their monthly expenses are listed as $1,341.49. The itemization of the debtors’ expenses reveals the following:
+ </p>
+<blockquote id="b363-6">
+  Rent $350.00
+ </blockquote>
+<blockquote id="b363-7">
+  Utilities (electric, heat, water telephone) 260.00
+ </blockquote>
+<blockquote id="b363-9">
+  Food 435.00
+ </blockquote>
+<blockquote id="b363-10">
+  Clothing 5.00
+ </blockquote>
+<blockquote id="b363-11">
+  Newspapers (including school books, etc.) 5.00
+ </blockquote>
+<blockquote id="b363-12">
+  Laundry 5.00
+ </blockquote>
+<blockquote id="b363-13">
+  Medical and drug expenses 5.00
+ </blockquote>
+<blockquote id="b363-14">
+  Insurance (a) Auto $52.58;
+ </blockquote>
+<blockquote id="b363-15">
+  (b) Life $19.17 71.75
+ </blockquote>
+<blockquote id="b363-16">
+  Transportation (gasoline) 200.00
+ </blockquote>
+<blockquote id="b363-17">
+  Taxes (personal property) 4,74
+ </blockquote>
+<blockquote id="b363-18">
+  TOTAL $1,341.49
+ </blockquote>
+<p id="b363-19">
+  The debtors intend to return their 1976 Ford Maverick to the Virginia National Bank. The value of the vehicle is listed as being greater than the balance remaining to be paid on it. The debtors indicate in the plan that they once owned a 1971 Dodge truck which is part of the bank’s collateral. This truck was struck while parked and totally destroyed in December 1979. The bank is owed $891.48 on the automobile and $251.40 on the truck. Although the plan calls for the bank to be unsecured for any deficiency balance, the value of the automobile exceeds the sum of money owed by the debtors on both vehicles to the bank.
+ </p>
+<p id="b363-25">
+  Without a vehicle to operate, the budgeted items for auto insurance and gasoline may be allocated for other purposes. This sum will probably have to be allocated for public transportation or go towards the purchase of a new vehicle. As the debtors presently reside in Manassas, Virginia, and Mr. Hurdle works in Washington, D.C., his transportation expenses alone will be considerable.
+ </p>
+<p id="b363-26">
+  As one of the debtors’ two offspring is nine years old, he presumably will need clothing from time-to-time among other necessities. Budgeting only $5.00 per month each for clothing and medical expenses seems to be rather low, particularly for a family of four. The other monthly expense items appear to be within a reasonable range to meet the debtors’ ordinary needs, however. Yet, the absence of a surplus in the plan to meet unexpected expenses as well as providing something in the way of payments beyond $1.00 to each of the general unsecured creditors raises much doubt as to the viability of the plan.
+ </p>
+<p id="b363-27">
+  Although the plan will satisfy the debts owed to the holders of secured claims in full, the debts owed to the fifteen holders of unsecured claims, in the amount of $13,-671.46, will not be satisfied. Other than the funds available from the termination of the two allotment payments, neither the Chapter 13 plan nor the Statement of Affairs indicate any future resources which might generate additional income to provide a payout greater than the proposed $1.00 to each of the unsecured creditors. Only an extension of the plan beyond the presently
+  <span citation-index="1" class="star-pagination" label="310"> 
+   *310
+   </span>
+  proposed term of fourteen months would generate any additional funds which could be used to satisfy a larger percentage of the debts owed to the holders of unsecured claims.
+ </p>
+<p id="b364-4">
+  Based upon the foregoing, it is the determination of this Court that the plan in the instant case does not propose a substantial or meaningful payment to creditors as intended by the Congress, and that the same has not been proposed in good faith and, accordingly, confirmation will be denied.
+ </p>
+<p id="b364-5">
+  Having made a determination on the foregoing basis, it is unnecessary to reach the issues raised by Beneficial Finance Company of Virginia, including the dis-chargeability of its debt.
+ </p>
+<p id="b364-6">
+  An appropriate Order will enter.
+ </p>
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b360-7">
+   . The
+   <em>
+    <span class="citation" data-id="1970774"><a href="/opinion/1970774/matter-of-harland/" aria-description="Citation for case: Matter of Harland">Harland</a></span>
+   </em>
+   court,
+   <em>
+    supra,
+   </em>
+   3 B.R. at 599, refused to tie the good faith concept to any minimum payment schedule on two principal grounds. First, the court failed to find any basis for engrafting such a payment schedule onto the good faith concept in the legislative history of the Bankruptcy Code or in the Code itself. Second, the court believed that the adoption of this view would invite a wide diversity of opinion among the courts as to what, in fact, constitutes good faith. The
+   <em>
+    <span class="citation" data-id="1970774"><a href="/opinion/1970774/matter-of-harland/" aria-description="Citation for case: Matter of Harland">Harland</a></span>
+   </em>
+   court also relied in large part upon a bankruptcy decision,
+   <em>
+    In re Terry,
+   </em>
+   <span class="citation" data-id="1970481"><a href="/opinion/1970481/tenney-v-terry-in-re-terry/" aria-description="Citation for case: Tenney v. Terry (In Re Terry)">3 B.R. 63</a></span> (Bkrtcy.W.D.Ark.1980) approving a zero-payment plan which has been reversed recently by the Eighth Circuit.
+   <em>
+    In re Terry,
+   </em>
+   <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">630 F.2d 634</a></span> (8th Cir. 1980). It is evident that the better view is found in those decisions which conclude that the concerns expressed in
+   <em>
+    <span class="citation" data-id="1970774"><a href="/opinion/1970774/matter-of-harland/" aria-description="Citation for case: Matter of Harland">Harland</a></span>
+   </em>
+   are insufficient to permit the confirmation of nominal payment plans.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b361-7">
+   . It is apparent that meaningful or substantial payments are not to be equated with the concept of “best effort” as applied to the debtor’s ability to repay his creditors. As stated by one court:
+  </p>
+<blockquote id="b361-8">
+   “[OJne of the proposed amendments to the Bankruptcy Code pending before the Congress is the ‘technical amendments’ bill which would amend 11 U.S.C. 1325(a)(3) to require a debtor’s best effort.... It should be obvious, then, that this is not now a requirement for confirmation.” (Citation omitted.)
+  </blockquote>
+<p id="b361-9">
+<em>
+    In re Powell, supra,
+   </em>
+   2 B.R. at 316.
+   <em>
+    See In re DeSimone,
+   </em>
+   <span class="citation" data-id="1538025"><a href="/opinion/1538025/in-re-desimone/#92" aria-description="Citation for case: In Re DeSimone">6 B.R. 89, 92</a></span> (Bkrtcy.S.D.N.Y.1980).
+   <em>
+    See also In re Iacovoni,
+   </em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#267" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256, 267</a></span> (Bkrtcy.D.Utah 1980) (distinguishing “best effort” standard in Section 727(a)(9) from concept of “good faith” in Section 1325(a)(3).
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b361-14">
+   . For instance, the court in
+   <em>
+    In re Barnes, supra,
+   </em>
+   5 B.R. at 378, although acknowledging the difficulty in rejecting a Chapter 13 plan because of a debtor’s trying circumstances, nevertheless rejected a nominal payment plan although the outcome would probably result in dismissal or conversion to Chapter 7. In
+   <em>
+    <span class="citation" data-id="1534986"><a href="/opinion/1534986/in-re-barnes/" aria-description="Citation for case: In Re Barnes">Barnes</a></span>,
+   </em>
+   the debtor had two dependent children. She faced possible eviction and repossession of her automobile if the plan was not confirmed. The
+   <em>
+    <span class="citation" data-id="1534986"><a href="/opinion/1534986/in-re-barnes/" aria-description="Citation for case: In Re Barnes">Barnes</a></span>
+   </em>
+   court held that a plan proposing a one-percent payment to unsecured creditors, even under these circumstances, was not proposed in good faith.
+   <em>
+    See In re <span class="citation" data-id="1538025"><a href="/opinion/1538025/in-re-desimone/" aria-description="Citation for case: In Re DeSimone">DeSimone, supra,</a></span>
+   </em>
+   <span class="citation" data-id="1538025"><a href="/opinion/1538025/in-re-desimone/#92" aria-description="Citation for case: In Re DeSimone">6 B.R. 89, 92</a></span>.
+   <em>
+    But see In re Keckler,
+   </em>
+   <span class="citation" data-id="1970746"><a href="/opinion/1970746/cleveland-trust-co-v-keckler-in-re-keckler/" aria-description="Citation for case: Cleveland Trust Co. v. Keckler (In Re Keckler)">3 B.R. 155</a></span> (Bkrtcy.N.D.Ohio 1980) where the court approved a five-percent plan under the unique circumstances of that case.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b362-6">
+   . The court in
+   <em>
+    In re Cook, supra,
+   </em>
+   3 B.R. at 483, rejected a nominal-payment plan proposed by a debtor in part because a plan which does not provide for payment to unsecured creditors did not meet the requirement under Section 1321 that the debtor “file a plan.” The
+   <em>
+    Cook
+   </em>
+   court found such a proposal to be in reality a scheme. The court in
+   <em>
+    Cook
+   </em>
+   observed that the absence of a precise requirement in Chapter 13 for a payout to creditors under Section 1322 did not excuse the omission of payments to unsecured creditors. In the
+   <em>
+    Cook
+   </em>
+   court’s view, this determination is strengthened by the fact that the requirement of a debtor having a “sufficiently stable and regular” income under Section 101(24) would be meaningless if payment to unsecured creditors under a plan were made optional.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b362-10">
+   . A literal interpretation of Section 1325(a)(4) would result in the application of a standard measuring only the dollars distributed under the plan to unsecured claims as against the sum which would be distributed had the debtor filed under Chapter 7. In a nominal or no-asset case, with no distribution to unsecured creditors, a $1.00 payment to such unsecured creditors would not be less than the amount that they would have received if the debtor had filed under Chapter 7. As noted previously, the court in
+   <em>
+    In re Bloom, supra,
+   </em>
+   3 B.R. at 470, has described such an interpretation of Section 1325(a)(4) as tantamount to an “illusory Chapter 13 plan” which cannot be construed as having been filed in good faith.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b363-20">
+   . The trustee argues that the plan presently under consideration violates the clear intent and spirit of Chapter 13 by proposing payments only for a term of fourteen months. Section 1322(c) provides that:
+  </p>
+<blockquote id="b363-21">
+   “The plan may not provide for payments over a period that is longer than three years, unless the court, for cause, approves a longer period, but the court may not approve a period that is longer than five years.”
+  </blockquote>
+<p id="b363-22">
+   A study of the legislative history reveals no specific intent by Congress to make the prescribed three-year period a minimum term for a Chapter 13 plan. House Report No. 95-595, 95th Cong., 1st Sess. (1977). A plan which proposes to make payments over a term of less than three years does not alone mandate the rejection of the plan.
+   <em>
+    In re Armstrong,
+   </em>
+   <span class="citation" data-id="1970402"><a href="/opinion/1970402/in-re-armstrong/#617" aria-description="Citation for case: In Re Armstrong">3 B.R. 615, 617</a></span> (Bkrtcy.D.Or.1980).
+  </p>
+<p id="b363-29">
+   However, when a plan proposes a payment schedule well within the three-year period set forth within Section 1322(c) and, further, proposes only a nominal payment to holders of unsecured claims, the plan is suspect and must be given careful scrutiny.
+   <em>
+    In re Hall, supra,
+   </em>
+   4 B.R. at 343.
+  </p>
+</div></div></opinion>

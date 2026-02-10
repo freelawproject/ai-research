@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b562-19">
+  MEMORANDUM OPINION
+ </p>
+<author id="ABWH">
+  DAVID H. COAR, Bankruptcy Judge.
+ </author>
+<p id="Aqg">
+  This matter comes before the Court on remand from the District Court for the Northern District of Illinois [District Court]. The Bloomington Factory Workers [Workers] brought challenges in the District Court to several orders entered by this Court in connection with the reorganization of the above-denominated Debtors. In an opinion reported at
+  <em>
+   UNARCO Bloomington Factory Workers v. UNR Industries, Inc.,
+  </em>
+  <span class="citation" data-id="1974942"><a href="/opinion/1974942/unarco-bloomington-factory-workers-v-unr-industries-inc/" aria-description="Citation for case: UNARCO Bloomington Factory Workers v. UNR Industries, Inc.">124 B.R. 268</a></span> (N.D.Ill.1990), the District Court disposed of some of the Work
+  <span citation-index="1" class="star-pagination" label="511"> 
+   *511
+   </span>
+  ers’ challenges. The District Court refused to review the merits of the Workers’ other challenges, however, because it found that the Workers might not have standing to raise those challenges. The District Court held that the Workers’ standing depends upon how the Workers’ claims are classified under the Plan of Reorganization confirmed by this Court on June 1,1989 [Plan], The District Court noted that there is considerable dispute among the parties regarding the classification of the Workers’ claims under the Plan. The District Court further noted that this Court has not expressly ruled on the classification issue. The District Court therefore remanded the issue of how the Workers’ claims are classified under the Plan for determination by this Court. After conducting an extensive evidentiary hearing on the classification issue, and after reviewing the testimony and evidence presented at the hearing, the parties’ briefs, and the applicable law, the Court now rules as follows.
+ </p>
+<p id="b563-4">
+  FINDINGS OF FACT
+ </p>
+<p id="b563-5">
+  UNR Industries, Inc., is the successor to a corporation which manufactured asbestos for many years. As a result, beginning in the 1970’s, UNR Industries, Inc., became a defendant in several thousand asbestos-related personal injury lawsuits. By 1982, the cost of defending these lawsuits exceeded $1 million per month. To protect themselves from the asset drain of these asbestos-related lawsuits, UNR Industries, Inc., and several of its subsidiaries and affiliates [hereinafter collectively referred to as “UNR”], filed voluntary petitions for relief under Chapter 11 of the Bankruptcy Code on July 29, 1982.
+ </p>
+<p id="b563-6">
+  The Bloomington Factory Workers [Workers] are former employees and the survivors of former employees who worked at an asbestos-manufacturing facility in Bloomington, Illinois, prior to 1970. At the time that the Workers or their decedents were employed at the Bloomington plant, the facility was owned and operated by one of UNR’s predecessor corporations. The Workers claim that they or their decedents contracted asbestos disease as a result of exposure to asbestos during the course of their employment at the Bloomington plant.
+ </p>
+<p id="b563-8">
+  The Workers filed Proofs of Claim against UNR’s bankruptcy estate on August 30, 1988. UNR Exh. I. Some of the Workers stated the ground of UNR’s liability as “the debtors’ misconduct in the sale, distribution or use of asbestos
+  <em>
+   and
+  </em>
+  their responsibility under the Illinois Occupational Disease Act [sic].” UNR Exh. I (emphasis added). Thus, these Workers assert two types of claims against UNR: claims based on tort law [tort claims], and claims arising under the Illinois Workers’ Occupational Diseases Act [occupational disease claims]. The Illinois Workers’ Occupational Diseases Act permits employees to recover compensation from their employers for diseases “arising out of and in the course of employment.” Ill.Ann.Stat. ch. 48, ¶ 172.36
+  <em>
+   et seq.
+  </em>
+  (Smith-Hurd 1986). Other Workers stated UNR’s ground of liability simply as “the debtors’ misconduct in the sale or distribution of asbestos.” UNR Exh. I. These Workers therefore assert only tort claims against UNR. Because the Workers’ exposure to asbestos occurred prior to the filing of the bankruptcy petitions, their claims constitute pre-petition claims.
+ </p>
+<p id="b563-9">
+  Immediately after filing UNR’s bankruptcy petitions on July 29, 1982, UNR’s attorneys appeared before Bankruptcy Judge Richard Merrick to explain to him what they believed to be the unique circumstances of the case. Judge Merrick was the emergency judge who was sitting for Judge Edward Toles, the judge to whom UNR’s case was assigned, on the day the bankruptcy petitions were filed. UNR’s attorneys explained to Judge Merrick that the primary motivation for the bankruptcy petitions was the tremendous burden of asbestos-related litigation to which UNR had become subject. In addition, UNR’s attorneys presented Judge Merrick with several motions and applications. All of the proceedings before Judge Merrick on July 29, 1982, took place in the judge’s chambers rather than in open court. There is, therefore, no official record.
+ </p>
+<p id="b564-3">
+<span citation-index="1" class="star-pagination" label="512"> 
+   *512
+   </span>
+  One of the motions and applications which UNR presented to the Bankruptcy Court on July 29,1982, was an
+  <em>
+   Application to Authorize Payment of Pre-petition Workmen’s Compensation Claims, Accrued Vacation Pay, and Warranty Claims, and to Permit Issuance of Credit Memoranda, Payment of Customer Deposits and Advertising Allowances, and Issuance of Rebates to Customers
+  </em>
+  [Application]. In this Application, UNR sought the Bankruptcy Court’s permission to pay certain pre-petition claims. The legal foundation for this Application was the Necessity Doctrine, a judicially-created doctrine under which a bankruptcy judge may authorize the post-petition payment of certain pre-petition claims if such payment is deemed to be in the best interests of the debtor and its creditors. Russell A. Eisen-berg and Frances F. Gecker,
+  <em>
+   The Doctrine of Necessity and Its Parameters,
+  </em>
+  73 Marq. L.Rev. 1 (1989). UNR’s Application asserted that payment of certain pre-petition claims was necessary to allow UNR, operating as a debtor-in-possession, to maintain “employee morale and customer relations” and “the good will and viability of the debtors in possession.” UNR Ex. E.
+ </p>
+<p id="b564-4">
+  Among the pre-petition claims which UNR sought to pay were pre-petition Workmen’s Compensation claims in states in which UNR was self-insured for Worker’s Compensation purposes. The Application states with regard to Workmen’s Compensation claims, “The debtors are self-insurers in connection with Workmen’s Compensation claims arising in certain states. The cost of covering these claims is approximately $110,000 to $125,000 a month.” UNR Exh. E. The Application contains no definition, however, of the term “Workmen’s Compensation claims.”
+ </p>
+<p id="b564-5">
+  David Missner, one of UNR’s attorneys at the time the bankruptcy petitions were filed, was the drafter of the Application. He was also the attorney who argued in support of the Application in Judge Merrick’s chambers on July 29, 1982. Mr. Missner testified that one of the primary arguments he presented to Judge Merrick in support of the Application’s request for authorization to pay pre-petition Workmen’s Compensation claims was the fact that UNR, operating as a debtor-in-possession, would be unable to maintain its self-insured status if it failed to pay its pre-petition Workmen’s Compensation claims. Mr. Missner further told Judge Merrick that continuing to self-insure Workmen’s Compensation claims would save the debt- or-in-possession money over the cost of purchasing outside insurance to cover those claims. There is no evidence that during the course of these arguments, Mr. Missner attempted to define the term “Workmen’s Compensation claims” as used in the Application. Furthermore, there is no evidence that Judge Merrick, or anyone else present in Judge Merrick’s chambers, questioned Mr. Missner or UNR’s other attorneys about the meaning or scope of the term.
+ </p>
+<p id="b564-7">
+  Maurice Jacobs, an attorney who represented several of UNR’s bank creditors at the time UNR filed for bankruptcy protection, was among the many individuals present in Judge Merrick’s chambers on July 29, 1982, when Mr. Missner argued in support of the Application. Mr. Jacobs testified that after Mr. Missner presented the arguments in favor of the Application to Judge Merrick, Mr. Jacobs questioned whether the Application, if granted, would authorize the debtor-in-possession to pay asbestos claims. Mr. Jacobs testified that Mr. Missner informed him that the Application was not intended to authorize the payment of asbestos claims. According to Mr. Jacobs, the exchange between himself and Mr. Missner occurred in Judge Merrick’s presence.
+ </p>
+<p id="b564-8">
+  On July 29, 1982, the afternoon on which UNR’s Application was presented, Judge Merrick signed an Order granting the Application in full. UNR Exh. F. The Order, which was drafted by UNR’s attorneys, notes that “it appear[s] that the good will of the debtors in possession requires the payment of these claims and that it would be in the best interest of the debtors in possession to authorize these payments.”
+  <em>
+   <span class="citation" data-id="1974942"><a href="/opinion/1974942/unarco-bloomington-factory-workers-v-unr-industries-inc/" aria-description="Citation for case: UNARCO Bloomington Factory Workers v. UNR Industries, Inc.">Id.</a></span>
+  </em>
+  The Order refers to and incorporates the language of the Application for a de
+  <span citation-index="1" class="star-pagination" label="513"> 
+   *513
+   </span>
+  scription of the pre-petition claims which UNR was authorized to pay.
+  <em>
+   <span class="citation" data-id="1974942"><a href="/opinion/1974942/unarco-bloomington-factory-workers-v-unr-industries-inc/" aria-description="Citation for case: UNARCO Bloomington Factory Workers v. UNR Industries, Inc.">Id.</a></span>
+  </em>
+</p>
+<p id="b565-4">
+  For many years prior to the filing of its bankruptcy petitions, UNR had the approval of the Illinois Industrial Commission [Commission] to self-insure claims for employment-related medical conditions arising under both the Workers’ Compensation Act, Ill.Rev.Stat. ch. 48, ¶ 138.1,
+  <em>
+   et seq.,
+  </em>
+  and the Workers’ Occupational Diseases Act, Ill.Rev.Stat. ch. 48, II 172.36. (The distinction between these two statutes is discussed below.) After UNR filed its bankruptcy petitions, the Commission required UNR to show cause why its self-insurance privilege under the Workers’ Compensation Act and the Workers’ Occupational Diseases Act should not be terminated. Workers’ Exh. 20. UNR filed an Intent to Show Cause with the Commission on January 3, 1983. Workers’ Exh. 21. The Commission held hearings in February and April of 1983 to determine whether UNR would be permitted to continue to self-insure claims under the two statutes. Workers’ Exh. 22, 25. At these hearings, UNR assured the Commission that pursuant to Judge Merrick’s Order of July 29, 1982, it was authorized to continue paying pre-petition Workmen’s Compensation claims, and had in fact been paying those claims since the filing of the bankruptcy petitions. Workers’ Exh. 22 at 6; Workers’ Exh. 25 at 18-20.
+ </p>
+<p id="b565-5">
+  In 1989, nearly seven years after the filing of the bankruptcy petitions, UNR filed a proposed Consolidated Plan of Reorganization [Plan]. As permitted by §§ 1122 and 1123 of the Bankruptcy Code, the Plan divides claims against the bankruptcy estate into various classes and provides different treatment for each class. Class 2 under the Plan consists of “Work-mens’ [sic] Compensation Claims.” These claims are defined as “Workmens’ [sic] Compensation Claims subject to the Court’s July 29, 1982 Order granting Application to Authorize the Payment of Pre-Petition Workmen’s Compensation Claims....” UNR Exh. J, at 24. Aside from the reference to the July 29, 1982, Order, the Plan contains no definition of the term “Workmen’s Compensation Claims.” The Plan provides that Class 2 claims will be paid in full “in the ordinary course of the respective Debtors’ businesses pursuant to the terms of the Court’s July 29, 1982 Order granting Application to Authorize Payment of Pre-Petition Workmens’ [sic] Compensation Claims_” UNR Exh. J, at 25.
+ </p>
+<p id="b565-7">
+  Class 5 under the Plan consists of “Asbestos-Disease Claims.” These claims are defined as:
+ </p>
+<blockquote id="b565-8">
+  All alleged liabilities or obligations (under any theory of law, equity or admiralty) for death, personal injury, personal damages or punitive damages (whether physical, emotional or otherwise), whether or not included in the definition of “claim” in § 101(4) of the Code, arising out of exposure to asbestos, and arising from acts or omissions by one or more of the Debtors or the Debtor’s [sic] predecessors in interest prior to the Effective Date, regardless of when the sickness, injury or disease which gives rise to such liability or obligation, becomes or will become manifest, including, without limitation, all warranty, guarantee, indemnification or contribution liabilities or obligations of any of the Debtors to any other Entity to the extent that such warranties, guarantees, indemnifications or contribution responsibilities to such Entity cover claims against such Entity that would, if such claims had been made directly against any of the Debtors, constitute Asbestos-Disease Claims.
+ </blockquote>
+<p id="b565-9">
+  UNR Exh. J, at 23. The Plan provides that Class 5 claimants will paid out of the UNR Asbestos-Disease Claims Trust, a trust whose principal asset is common stock in the reorganized UNR [New UNR].
+  <em>
+   Id.
+  </em>
+  Class 5 claims, unlike Class 2 claims, will not be paid in full.
+  <em>
+   Id.
+  </em>
+</p>
+<p id="b565-10">
+  As required by § 1125 of the Bankruptcy Code, UNR filed a Disclosure Statement regarding its proposed Plan on January 17, 1989. The Disclosure Statement, like the Plan, contains no independent definition of the term “Workmen’s Compensation claims.” The Disclosure Statement does assert, however, that “[t]here are no pre-petition Workmen’s Compensation Claims which remain unpaid.” UNR Exh. J, at 12.
+ </p>
+<p id="b566-3">
+<span citation-index="1" class="star-pagination" label="514"> 
+   *514
+   </span>
+  Several of the Workers jointly filed Objections to the Disclosure Statement. One of the grounds on which they objected was that the Statement fails to indicate whether their occupational disease claims constitute Class 2 “Workmen’s Compensation Claims” or Class 5 “Asbestos-Disease Claims” under the Plan. Following a hearing, this Court denied the Workers’ Objections to the Disclosure Statement. The Court did not rule, however, on the issue of how the Workers’ occupational disease claims are classified under the Plan.
+ </p>
+<p id="b566-4">
+  On March 22, 1989, this Court approved the Disclosure Statement as containing adequate information regarding the Plan. UNR thereafter sent a copy of the Disclosure Statement, the proposed Plan, and related documents, together with a ballot for accepting or rejecting the Plan, to each party entitled to vote on the Plan. UNR sent a Class 5 ballot on behalf of each of the Workers to the Workers’ attorney, James Walker. Mr. Walker marked each ballot as a vote for rejection of the Plan, and signed each ballot as “the attorney in fact for the Class 5 claimant named herein.”
+ </p>
+<p id="b566-5">
+  On May 1, 1989, the Workers filed Objections to Confirmation of Plan and Proposed Claims Resolution Procedures. In a Preliminary Statement to these Objections, the Workers again noted that the Disclosure Statement fails to clarify how the Workers’ occupational disease claims are classified under the Plan. The Workers argued that their occupational disease claims are appropriately classified as Class 3 Secured Claims or Class 2 Workmen’s Compensation Claims rather than Class 5 Asbestos-Disease Claims. The Workers went on to assert that if their occupational disease claims are indeed classified as Class 2 or Class 3 claims under the Plan, then they had no objections to the Plan. The Workers submitted a number of Objections to Confirmation, however, in the event that their occupational disease claims are classified as Class 5 claims under the Plan.
+ </p>
+<p id="b566-6">
+  On June 1, 1989, over the Workers’ Objections, this Court entered an Order confirming the Plan [Confirmation Order]. The Confirmation Order became effective on June 2, 1989. In conjunction with confirmation of the Plan, this Court also entered an Order of Injunction [Injunction Order] to prevent Asbestos-Disease claimants from seeking payment from UNR in any manner except through the Asbestos-Disease Claims Trust established by the Plan. The Injunction Order provides that:
+ </p>
+<blockquote id="AvV">
+  All Entities are permanently restrained and enjoined from taking any action whatsoever for the purpose of, directly or indirectly, collecting, recovering or receiving payment of, on or with respect to any Claims, Interests, Asbestos-Disease Claims or Asbestos-Property Claims (other than actions brought to enforce any right or obligation under the Plan, which action shall be in conformity with and compliance with the provisions of the Plan) against the Debtors, any Property of the Estates of the Debtors, any of the Debtors’ Affiliates, New UNR, any of its property, any of its Affiliates and any of the insurance carriers or brokers in the Insurance Litigation....
+ </blockquote>
+<p id="b566-8">
+  In addition, in February, 1990, this Court entered two Orders approving the claims resolution procedures established for the Asbestos-Disease Claims Trust [Trust Orders].
+ </p>
+<p id="b566-9">
+  Following this Court’s entry of the Confirmation and Injunction Orders, the Workers’ attorney, James Walker, attempted to pursue occupational disease claims before the Illinois Industrial Commission on behalf of some of the Workers. The Illinois Industrial Commission is the public body charged with administering claims under the Illinois Workers' Compensation Act and the Illinois Workers’ Occupational Diseases Act. On March 20, 1990, this Court found that Mr. Walker’s attempted pursuit of occupational disease claims before the Illinois Industrial Commission violated the June, 1989, Injunction Order. The Court therefore held Mr. Walker in civil contempt.
+ </p>
+<p id="b566-10">
+  The Workers appealed the Confirmation Order, the Injunction Order, and the Trust Orders to the District Court for the Northern District of Illinois, raising a number of substantive challenges to each Order. Af
+  <span citation-index="1" class="star-pagination" label="515"> 
+   *515
+   </span>
+  ter receiving briefs from the parties on the merits of the Injunction Order appeal, the District Court upheld the Injunction Order. The District Court did not reach the merits of the other two appeals, however, because UNR and the Trustees of the Asbestos-Disease Claims Trust made motions to dismiss those appeals as moot.
+ </p>
+<p id="b567-5">
+  UNR argued that the Workers’ appeal of the Confirmation Order is moot because the Plan has been implemented to such a decree that the Court cannot grant relief without substantially and detrimentally disturbing the Plan. The District Court agreed that two of the Workers’ three substantive challenges to the Confirmation Order
+  <em>
+   are
+  </em>
+  moot. The Court found, however, that the Workers’ third substantive challenge, which alleges that the Plan is invalid because it treats the Workers unequally with respect to similarly situated claimants by classifying their claims as Class 5 “Asbestos-Disease Claims” rather than Class 2 “Workmen’s Compensation Claims,” is not moot. The District Court found that there is “no basis for concluding that it would be impossible to grant relief to the Workers in the event the [classification] issue is resolved in their favor.”
+  <em>
+   UNARCO Bloomington Factory Workers v. UNR Industries, Inc.,
+  </em>
+  <span class="citation" data-id="1974942"><a href="/opinion/1974942/unarco-bloomington-factory-workers-v-unr-industries-inc/#282" aria-description="Citation for case: UNARCO Bloomington Factory Workers v. UNR Industries, Inc.">124 B.R. at 282</a></span>.
+ </p>
+<p id="b567-6">
+  The District Court observed, however, that the classification challenge to the Confirmation Order is predicated on the assumption that the Workers’ claims are in fact classified as Class 5 claims rather than Class 2 claims under the Plan. The District Court noted that if the Plan classifies the Workers’ claims as Class 2 claims, entitled to full payment, then the Workers have no standing to challenge the Confirmation Order on the basis asserted in their appeal. Before allowing the parties to proceed to the merits of the Confirmation Order challenge, the District Court held that the issue of how the Workers’ claims are classified under the Plan must be resolved. Noting the existence of considerable disagreement among the parties regarding the classification of the Workers’ claims under the Plan, the District Court asserted that “none of the parties has directed us to any place in the record where the bankruptcy court has expressly decided the issue.” The District Court therefore remanded the issue of whether the Workers’ claims are classified as Class 2 “Workmen’s Compensation Claims” or Class 5 “Asbestos-Disease Claims” under the Plan for determination by this Court.
+ </p>
+<p id="b567-8">
+  Similarly, the District Court rejected the argument raised by the Trustees of the Asbestos-Disease Claims Trust that the Workers’ challenges to the Trust Orders are moot. The District Court noted, however, that the Workers’ standing to challenge the Trust Orders is also dependent on how the Workers’ claims are classified under the Plan. The District Court held that the Workers have standing to challenge the Trust procedures only if they possess Class 5 claims which will be paid from the Asbestos-Disease Trust. If the Workers have only Class 2 claims, their claims will be paid “in the ordinary course of business” under the Plan, and they will be unaffected by the Trust procedures. The District Court therefore held that the parties cannot proceed to argue the merits of the Workers’ challenges to the Trust Orders until the issue of how the Workers’ claims are classified under the Plan has been resolved by this Court.
+ </p>
+<p id="b567-9">
+  CONCLUSIONS OF LAW
+ </p>
+<p id="b567-10">
+  As noted above, the Workers have actually asserted two distinct types of claims against the bankruptcy estates. All of the Workers have raised tort claims based upon UNR’s alleged misconduct in the sale or distribution of asbestos. In addition, several of the Workers have also raised occupational disease claims based upon their right to recover compensation from UNR under the Illinois Workers’ Occupational Diseases Act, Ill.Rev.Stat. ch. 48, ¶ 172.36
+  <em>
+   et seq.
+  </em>
+  The classification of these two types of claims must be discussed separately.
+ </p>
+<p id="b567-11">
+<em>
+   The Workers’ Tort Claims
+  </em>
+</p>
+<p id="b567-12">
+  In their Proofs of Claim, all of the Workers assert claims against UNR based on UNR’s alleged “misconduct in the sale
+  <span citation-index="1" class="star-pagination" label="516"> 
+   *516
+   </span>
+  or distribution of asbestos” or on UNR’s alleged “misconduct in the sale, distribution or use of asbestos.” UNR Exh. I. These claims represent common law tort claims. At first blush, it would appear that the Workers’ Occupational Diseases Act precludes the Workers from raising tort claims against UNR for diseases contracted in the course of employment. The Workers’ Occupational Diseases Act provides an exclusive remedy for employment-related illnesses to employees whose employers are covered by the Act. Ill.Ann. Stat. ch. 48, ¶ 172.40 (Smith-Hurd 1986). Illinois courts have held, however, that the Act’s exclusive remedy provision does not bar an employee from bringing a common law action against his or her employer alleging that the employer directed, encouraged, or committed an intentional tort.
+  <em>
+   Handley v. Unarco Industries, Inc.,
+  </em>
+  <span class="citation" data-id="2027779"><a href="/opinion/2027779/handley-v-unarco-industries-inc/" aria-description="Citation for case: Handley v. Unarco Industries, Inc.">79 Ill.Dec. 457</a></span>, <span class="citation" data-id="2027779"><a href="/opinion/2027779/handley-v-unarco-industries-inc/" aria-description="Citation for case: Handley v. Unarco Industries, Inc.">463 N.E.2d 1011</a></span>, <span class="citation" data-id="2027779"><a href="/opinion/2027779/handley-v-unarco-industries-inc/" aria-description="Citation for case: Handley v. Unarco Industries, Inc.">124 Ill.App.3d 56</a></span> (1984);
+  <em>
+   see also Ryherd v. Growmark, Inc.,
+  </em>
+  <span class="citation" data-id="2079559"><a href="/opinion/2079559/ryherd-v-growmark-inc/" aria-description="Citation for case: Ryherd v. Growmark, Inc.">108 Ill.Dec. 687</a></span>, <span class="citation" data-id="2079559"><a href="/opinion/2079559/ryherd-v-growmark-inc/" aria-description="Citation for case: Ryherd v. Growmark, Inc.">509 N.E.2d 113</a></span>, <span class="citation" data-id="2079559"><a href="/opinion/2079559/ryherd-v-growmark-inc/" aria-description="Citation for case: Ryherd v. Growmark, Inc.">156 Ill.App.3d 667</a></span> (1987). Thus, to the extent that the Workers allege that UNR directed, encouraged, or committed intentional torts in the sale, distribution, or use of asbestos, the Workers have asserted asbestos-related tort claims against UNR’s bankruptcy estate. The Workers concede, and this Court agrees, that these tort claims fall squarely within the Plan’s definition of Class 5 “Asbestos-Disease Claims.”
+ </p>
+<p id="b568-4">
+<em>
+   The Workers’ Occupational Disease Claims
+  </em>
+</p>
+<p id="b568-5">
+  In addition to asserting intentional tort claims, several of the Workers also assert claims against UNR based on UNR’s “responsibility under the Illinois occupational Disease Act.” UNR Exh. I. The primary dispute between the Workers and UNR concerns the Plan’s classification of these occupational disease claims. The Workers assert that the Plan classifies their occupational disease claims as Class 2 “Workmen’s Compensation Claims.” In contrast, UNR argues that the Workers’ occupational disease claims are classified as Class 5 “Asbestos-Disease Claims” under the Plan.
+ </p>
+<p id="b568-6">
+  To resolve this dispute, this Court must look first to the language of the Plan. Under the Plan, Class 2 “Workmen’s Compensation Claims” are defined by reference to the Order granting Application to Authorize the Payment of Pre-Petition Workmen’s Compensation Claims, etc., entered by Judge Merrick on July 29, 1982 [1982 Order]. Thus, the question of whether the Workers’ occupational disease claims constitute “Workmen’s Compensation Claims” within the meaning of the Plan depends first and foremost on whether the occupational disease claims were included in the term “Workmen’s Compensation claims” as used in the 1982 Application and Order. This Court therefore faces the unenviable task of determining the meaning of an Order entered nearly ten years ago in an
+  <em>
+   ex parte
+  </em>
+  proceeding for which there is no record and in which the judge made no Findings of Fact or Conclusions of Law.
+ </p>
+<p id="b568-7">
+  The Workers naturally argue that their claims under the Illinois Workers’ Occupational Diseases Act
+  <em>
+   were
+  </em>
+  included in the term “Workmen’s Compensation claims” as used in the 1982 Application and Order. Just as expectedly, UNR asserts that the term “Workmen’s Compensation claims” in the 1982 Application and Order referred only to non-asbestos related Workmen’s Compensation claims. For the reasons set forth below, this Court agrees with the Workers’ construction of the 1982 Order and finds that the Workers’ occupational disease claims are Class 2 claims under the Plan.
+ </p>
+<p id="b568-8">
+  The rules for construing a court order are easier to describe than to apply. The most important factor in determining the meaning of a court order is the intention of the judge who entered the order.
+  <em>
+   United States v. 60.22 Acres of Land,
+  </em>
+  <span class="citation" data-id="8912672"><a href="/opinion/8923507/united-states-v-6022-acres-of-land/" aria-description="Citation for case: United States v. 60.22 Acres of Land">638 F.2d 1176</a></span> (9th Cir.1980);
+  <em>
+   In re Doty,
+  </em>
+  <span class="citation" data-id="1871372"><a href="/opinion/1871372/in-re-doty/#589" aria-description="Citation for case: In Re Doty">129 B.R. 571, 589</a></span> (Bankr.N.D.Ind.1991). If an order is clear and unambiguous on its face, there is no need to look beyond the face of the order to determine its meaning. An unambiguous order should be construed to give effect to its plain language.
+  <em>
+   Doty,
+  </em>
+  <span class="citation" data-id="1871372"><a href="/opinion/1871372/in-re-doty/" aria-description="Citation for case: In Re Doty">129 B.R. at 589</a></span>
+  <em>
+   (citing
+  </em>
+  46 Am.Jur.2D
+  <em>
+   Judgments
+  </em>
+  § 75). If an order is ambiguous,
+  <span citation-index="1" class="star-pagination" label="517"> 
+   *517
+   </span>
+  however, the order should be construed in light of “the situation of the court, what was before [the court], and the accompanying circumstances [when the order was entered].”
+  <em>
+   Id.
+  </em>
+  In addition, “[w]here a judgment is susceptible of two interpretations, it is the duty of the court to adopt the one which renders it more reasonable, effective and conclusive in the light of the facts and the law of the case.”
+  <em>
+   Ridley v. Phillips Petroleum Co.,
+  </em>
+  <span class="citation" data-id="290404"><a href="/opinion/290404/mayoe-porter-buster-ridley-v-phillips-petroleum-company/#23" aria-description="Citation for case: Mayoe Porter Buster Ridley v. Phillips Petroleum Company">427 F.2d 19, 23</a></span> (10th Cir.1970)
+  <em>
+   (quoting Pen-Ken Gas &amp; Oil Corp. v. Warfield Natural Gas Co.,
+  </em>
+  <span class="citation" data-id="9638199"><a href="/opinion/1484032/pen-ken-gas-oil-corp-v-warfield-natural-gas-co/" aria-description="Citation for case: Pen-Ken Gas &amp; Oil Corp. v. Warfield Natural Gas Co.">137 F.2d 871</a></span> (6th Cir.1943)).
+ </p>
+<p id="b569-4">
+  The 1982 Order is ambiguous on its face because the term “Workmen’s Compensation claim” has both a technical, legal meaning and a familiar meaning. In the state of Illinois, there are two statutes which govern compensation to employees for employment-related injuries and illnesses: the Workers’ Compensation Act (Ill.Rev.Stat. ch. 48, II 138.1
+  <em>
+   et seq.)
+  </em>
+  and the Workers’ Occupational Diseases Act (Ill.Rev.Stat. ch. 48, ¶ 172.36
+  <em>
+   et seq.).
+  </em>
+  The Workers’ Compensation Act governs work-related
+  <em>
+   accidental injuries,
+  </em>
+  whereas the Workers’ Occupational Diseases Act governs work-related
+  <em>
+   diseases.
+  </em>
+  Ill.Ann.Stat. ch. 48,
+  <em>
+   n
+  </em>
+  138.2, 172.36 (Smith-Hurd 1986). Illnesses caused by the inhalation of asbestos dust are specifically described as occupational diseases in the Occupational Diseases Act. Ill.Ann.Stat. ch. 48, II 172.36(f) (Smith-Hurd 1986). Thus, the Workers’ statutory claims against UNR for asbestos-related diseases arise under the Workers’ Occupational Diseases Act and are not
+  <em>
+   technically
+  </em>
+  “Workmen’s Compensation claims.”
+ </p>
+<p id="b569-5">
+  The Workers’ occupational disease claims
+  <em>
+   are,
+  </em>
+  however, “Workmen’s Compensation claims” according to conventional usage. The distinction between Workers’ Compensation Act claims and Workers’ Occupational Diseases Act claims is not a distinction which is typically made in common discourse. The Workers’ Compensation Act and the Workers’ Occupational Diseases Act are interrelated statutes which work together to create a comprehensive scheme for compensating injured employees. Both statutes allow workers to recover limited compensation from their employers for employment-related medical conditions without requiring proof that the employer was at fault. Both statutes are administered by a single agency, the Illinois Industrial Commission. Ill.Ann.Stat. ch. 48, 1111138.-1(c), 172.36(c) (Smith-Hurd 1986). Thus, as a matter of course, people refer to all statutory claims for compensation for employment-related medical conditions as “Workers’ Compensation claims,” regardless of whether the claims are based on accidental injuries or occupational diseases.
+ </p>
+<p id="b569-7">
+  The Workers demonstrated vividly to this Court just how customary it is for people to use the term “Workers’ Compensation claims” to refer to claims arising under both the Workers’ Compensation Act and the Workers’ Occupational Diseases Act. The Workers submitted as evidence eleven of UNR’s corporate files regarding work-related asbestos-disease claims brought by former employees. In various notes and correspondence contained in these files, nine different UNR administrative employees or agents referred to the claims as “Workmen’s Compensation claims” or “Workers’ Compensation claims,” in spite of the fact that the claims arose under the Workers’ Occupational Diseases Act rather than the Workers’ Compensation Act. Workers’ Exh. 45-54. The Workers also submitted as evidence several of UNR’s Annual Reports, in which UNR describes asbestos-related, statutory claims brought by former employees as “Workmen’s Compensation claims.”
+  <em>
+   See, e.g.,
+  </em>
+  Workers’ Exh. 7 at 28; Workers’ Exh. 8 at 27; Workers’ Exh. 9 at 19.
+ </p>
+<p id="b569-8">
+  Because the term “Workmen’s Compensation claims” is ambiguous, the question of whether the Workers’ occupational disease claims constituted “Workmen’s Compensation claims” under the 1982 Order cannot be resolved by simply referring to the Order’s plain language. It is appropriate for this Court to consider extrinsic evidence, including the arguments presented to Judge Merrick and the circumstances surrounding Judge Merrick’s entry of the Order, to determine whether Judge Merrick intended the term “Workmen’s Compensa
+  <span citation-index="1" class="star-pagination" label="518"> 
+   *518
+   </span>
+  tion claims” to include asbestos-disease claims brought by former employees under the Workers’ Occupational Diseases Act. The extrinsic evidence indicates that Judge Merrick probably did not have any specific intent with regard to asbestos-related occupational disease claims at the time he signed the 1982 Order. The testimony of individuals who were present in Judge Merrick’s chambers on July 29, 1982, reveals that Judge Merrick apparently was not informed that statutory claims existed against UNR not only for employment-related accidental injuries, but also for employment-related asbestos disease. It is therefore likely that Judge Merrick gave no explicit thought to whether asbestos-related occupational disease claims constituted “Workmen’s Compensation claims” as that term was used in the 1982 Order.
+ </p>
+<p id="b570-4">
+  Judge Merrick’s implicit intention regarding whether the Workers’ occupational disease claims were “Workmen’s Compensation claims” within the meaning of the 1982 Order can be determined, however, by examining Judge Merrick’s likely understanding of the meaning and scope of the term “Workmen’s Compensation claims.” The circumstances surrounding the entry of the Order indicate that Judge Merrick understood the term “Workmen’s Compensation claim” in its conventional sense rather than in its technical sense. There is no evidence that the distinction between claims arising under the Workers’ Compensation Act and claims arising under the Workers’ Occupational Diseases Act was explained to Judge Merrick at the time that UNR’s Application was presented and argued. In fact, there is no evidence that the meaning of the term “Workmen’s Compensation claims” was discussed at all. As noted above, in common discourse, claims for employment-related medical conditions are uniformly referred to as “Workers’ Compensation claims” regardless of whether they relate to accidental injuries or occupational diseases. This Court therefore finds that Judge Merrick understood and used the term “Workmen’s Compensation claims” in the 1982 Order to mean all statutory claims for employment-related medical conditions, including claims arising under the Workers’ Occupational Diseases Act.
+ </p>
+<p id="b570-6">
+  UNR argues that Judge Merrick could not have intended to include the Workers’ occupational disease claims within the meaning of the term “Workmen’s Compensation claims” in the 1982 Order because including those claims within the scope of the Order would have been antithetical to the basis for UNR’s bankruptcy petitions. UNR points out that the purpose of the 1982 Order was to authorize UNR as debtor-in-possession to pay certain pre-petition claims after the filing of the bankruptcy petitions. UNR argues that Judge Merrick, who was well aware that UNR had filed its bankruptcy petitions for the express purpose of avoiding burdensome asbestos litigation, must have assumed that UNR would not request permission to pay pre-petition asbestos-related claims on the very day it had filed for bankruptcy protection. Such a request, UNR claims, would have been illogical and counterproductive.
+ </p>
+<p id="b570-7">
+  The fact that UNR filed for bankruptcy protection in order to avoid burdensome asbestos litigation, however, does not necessarily imply that UNR had no interest in paying
+  <em>
+   any
+  </em>
+  asbestos-related claims after the filing of its bankruptcy petitions. At the time UNR filed its bankruptcy petitions, it faced two distinct types of asbestos-related claims. The first type consisted of asbestos-related personal injury lawsuits. These lawsuits were based on common law theories and had been brought both by former employees and by non-employees who claimed to have installed asbestos products manufactured by one of UNR’s predecessors for unrelated third parties. The second type consisted of asbestos-related claims arising under the Workers’ Occupational Diseases Act. These asbestos-related occupational disease claims were brought by former employees based on their statutory right to recover limited compensation from UNR for work-related asbestos-diseases without proving that UNR was at fault. UNR recognized the existence of these two distinct types of asbestos-related claims in its Annual Re
+  <span citation-index="1" class="star-pagination" label="519"> 
+   *519
+   </span>
+  ports for the years 1975 through 1979, inclusive. In each of these Annual Reports, UNR gives separate discussion to asbestos-related lawsuits and asbestos-related “Workmen’s Compensation claims.” Workers’ Exh. 7 at 27 — 28; Workers’ Exh. 8 at 26-27; Workers’ Exh. 9 at 19; Workers’ Exh. 10 at 20; Workers’ Exh. 11 at 26-27.
+ </p>
+<p id="b571-5">
+  Contrary to UNR’s argument, it would not necessarily have been illogical or counterproductive for UNR to request permission to pay pre-petition asbestos-related claims arising under the Workers’ Occupational Diseases Act on the day it filed its bankruptcy petitions. UNR may well have been willing to pay pre-petition asbestos-related occupational disease claims even though it was seeking to avoid the burden of defending asbestos-related lawsuits. Asbestos-related occupational disease claims were a far smaller drain on UNR’s resources than asbestos-related lawsuits were at the time UNR filed its bankruptcy petitions. Between 1975 and 1979, inclusive, UNR stated in its Annual Report the number of asbestos-related lawsuits and asbestos-related “Workmen’s Compensation claims” to which it was subject at year-end. According to UNR’s 1975 Annual Report, at the end of 1975, UNR faced 103 asbestos-related lawsuits, and only 18 asbestos-related occupational disease claims. Workers’ Exh. 7 at 27-28. By the end of 1978, the number of asbestos-related lawsuits had grown to 1,289, and the number of asbestos-related occupational disease claims had reached only 38. Workers’ Exh. 10 at 20. By the following year, the number of asbestos-related lawsuits had grown to 2,283, while the number of asbestos-related occupational disease claims had actually declined to 21. Workers’ Exh. 11 at 26-27. On July 29,1982, the date on which UNR filed its bankruptcy petitions, UNR claims that it faced over 12,000 asbestos-related lawsuits. Although the number of asbestos-related occupational disease claims against UNR at the time of the bankruptcy filings is not in evidence, the trend from 1975 through 1979 indicates that the number almost certainly was far less than the number of asbestos-related lawsuits. In addition, UNR’s potential monetary liability for asbestos-related claims arising under the Workers’ Occupational Diseases Act is far less than its potential liability under asbestos-related personal injury lawsuits. Recovery under the Workers’ Occupational Diseases Act is subject to a statutory cap. IllAnn.Stat. ch. 48, ¶ 172.46 (Smith-Hurd 1986). Damages recovered through asbestos-related personal injury lawsuits are subject to no such limitation.
+ </p>
+<p id="b571-7">
+  Furthermore, despite UNR’s arguments to the contrary, post-petition payment of pre-petition asbestos-related occupational disease claims could be justified under the Necessity Doctrine at the time Judge Merrick entered the 1982 Order. UNR argues that Judge Merrick could not have included asbestos-related occupational disease claims within the scope of the 1982 Order without exceeding his authority under the Necessity Doctrine. UNR asserts that the purpose of the Necessity Doctrine is to allow a debtor-in-possession to make payments to those pre-petition creditors whose continued willingness to supply goods and services to the bankruptcy estate is essential to the debtor’s successful reorganization. UNR argues that the “necessity” for which it sought payment of pre-petition “Workmen’s Compensation claims” was the need to preserve employee morale so that the debtor-in-possession could maintain an effective workforce. UNR further argues that payment of the Workers’ asbestos-related occupational disease claims was not necessary to preserve the morale of existing employees because the Workers were no longer employed by UNR at the time UNR filed its bankruptcy petitions. UNR therefore concludes that payment of the Workers’ occupational disease claims could not be justified under the Necessity Doctrine.
+ </p>
+<p id="b571-8">
+  UNR’s interpretation of the Necessity Doctrine is overly restrictive. The purpose of the Necessity Doctrine is to facilitate a debtor’s effective reorganization and continued operations.
+  <em>
+   In re Quality Interiors, Inc.,
+  </em>
+  <span class="citation" data-id="1923500"><a href="/opinion/1923500/in-re-quality-interiors-inc/#396" aria-description="Citation for case: In Re Quality Interiors, Inc.">127 B.R. 391, 396</a></span> (Bankr.N.D.Ohio 1991);
+  <em>
+   In re Eagle-Picher Industries, Inc.,
+  </em>
+  <span class="citation" data-id="1975173"><a href="/opinion/1975173/in-re-eagle-picher-industries-inc/" aria-description="Citation for case: In Re Eagle-Picher Industries, Inc.">124 B.R. 1021</a></span>, 1023
+  <span citation-index="1" class="star-pagination" label="520"> 
+   *520
+   </span>
+  (Bankr.S.D.Ohio 1991);
+  <em>
+   In re Ionosphere Clubs, Inc.,
+  </em>
+  <span class="citation" data-id="1983380"><a href="/opinion/1983380/in-re-ionosphere-clubs-inc/#176" aria-description="Citation for case: In Re Ionosphere Clubs, Inc.">98 B.R. 174, 176</a></span> (Bankr.S.D.N.Y.1989) (discussing the “necessity of payment” rule, a predecessor to the Necessity Doctrine). UNR is correct in asserting that the Necessity Doctrine may be used to permit a debtor to pay the pre-petition claims of suppliers or employees whose continued cooperation is essential to the debtor’s successful reorganization. The Necessity Doctrine may also be used, however, to justify post-petition payment of a wide variety of other types of pre-petition claims, as long as payment of those claims will help to “stabilize [the] debtor’s business relationships without significantly hurting any party.” Russell A. Eisenberg and Frances F. Gecker,
+  <em>
+   The Doctrine of Necessity and Its Parameters,
+  </em>
+  73 Marq. L.Rev. 1, 2 (1989).
+ </p>
+<p id="b572-4">
+  UNR cites
+  <em>
+   Ionosphere Clubs
+  </em>
+  as an example of a case in which a bankruptcy court refused to use the Necessity Doctrine to authorize a debtor-in-possession to make post-petition payments on the pre-petition claims of former employees. The court in
+  <em>
+   Ionosphere
+  </em>
+  held that the Necessity Doctrine did not justify the post-petition payment of pre-petition wages, salaries, and medical benefits to non-active, striking employees because such payments would not yield any demonstrable benefit to the estate or to the other creditors.
+  <em>
+   Ionosphere,
+  </em>
+  <span class="citation" data-id="1983380"><a href="/opinion/1983380/in-re-ionosphere-clubs-inc/#178" aria-description="Citation for case: In Re Ionosphere Clubs, Inc.">98 B.R. at 178</a></span>. In several other cases, however, bankruptcy courts
+  <em>
+   have
+  </em>
+  authorized post-petition payment of pre-petition wages, fringe benefits, and/or Workers’ Compensation benefits to former employees under the Necessity Doctrine.
+  <em>
+   See In re Patrick Cudahy, Inc.,
+  </em>
+  No. 87-05413 (Bankr.E.D.Wis. Mar. 2, 1989);
+  <em>
+   In re McLean Industries,
+  </em>
+  <span class="citation" data-id="1544192"><a href="/opinion/1544192/united-states-lines-inc-v-gac-marine-fuels-ltd-in-re-mclean/" aria-description="Citation for case: United States Lines, Inc. v. GAC Marine Fuels Ltd. (In Re...">68 B.R. 690</a></span> (Bankr.S.D.N.Y.1986);
+  <em>
+   In re Revere Copper and Brass,
+  </em>
+  Nos. 82 B 12073-12086 (Bankr.S.D.N.Y. Dec. 1, 1982)
+  <em>
+   (all cited in
+  </em>
+  Eisenberg &amp; Gecker,
+  <em>
+   supra,
+  </em>
+  at 13-15). Thus, the key to determining whether a pre-petition Workers’ Compensation claim may be paid post-petition under the Necessity Doctrine is not whether the payee is a current or a former employee, but whether payment of the claim will be in the best interests of the estate and/or the other creditors.
+  <em>
+   See
+  </em>
+  Eisenberg &amp; Gecker,
+  <em>
+   supra,
+  </em>
+  at 20 (in Necessity Doctrine cases, bankruptcy courts often attempt to determine whether the post-petition payment of a pre-petition claim would be in the “best interests of the debtor and its creditors”).
+ </p>
+<p id="b572-6">
+  In light of the information presented to Judge Merrick during arguments on UNR’s Application on July 29,1982, Judge Merrick easily could have concluded that post-petition payment of pre-petition asbestos-related occupational disease claims was in the best interests of the debtor and its creditors. The inclusion of the Workers’ occupational disease claims within the scope of the 1982 Order was therefore well within Judge Merrick’s authority under the Necessity Doctrine.
+ </p>
+<p id="b572-7">
+  For many years prior to the filing of its bankruptcy petitions, UNR had the approval of the Illinois Industrial Commission to self-insure claims for employment-related medical conditions arising under both the Workers’ Compensation Act and the Workers’ Occupational Diseases Act. UNR’s attorneys argued before Judge Merrick that payment of pre-petition Workmen’s Compensation claims was necessary not only to preserve the morale of current employees, but also to enable the debtor-in-possession to maintain its self-insurance privilege in the state of Illinois and other states where UNR was self-insured for Workers’ Compensation purposes. UNR further argued that continuing to self-insure Workers’ Compensation claims would be less expensive for the debtor-in-possession than purchasing insurance from a third party. Practices which reduce the debtor-in-possession’s operating expenses are in the best interests of the estate and the creditors. Thus, post-petition payment of self-insured, pre-petition Workers’ Compensation claims may be justified under the Necessity Doctrine if such payments are necessary to enable the debtor-in-possession to maintain its self-insured status, and if maintenance of the self-insured status will save the debtor-in-possession money over the cost of purchasing conventional insurance.
+  <em>
+   See In re Chateaugay Corp.,
+  </em>
+  <span class="citation" data-id="1965289"><a href="/opinion/1965289/michigan-bureau-of-workers-disability-compensation-v-chateaugay-corp-in/" aria-description="Citation for case: Michigan Bureau of Workers&#x27; Disability Compensation v....">80 B.R. 279</a></span> (S.D.N.Y.1987) (self-insured
+  <span citation-index="1" class="star-pagination" label="521"> 
+   *521
+   </span>
+  debtor-in-possession was authorized, under the Necessity Doctrine, to pay pre-petition Workers’ Compensation in those states where self-insuring Workers’ Compensation claims was economically advantageous).
+ </p>
+<p id="b573-5">
+  UNR concedes that preservation of a debtor’s self-insurance privilege may be a valid justification, in some cases, for authorizing post-petition payment of pre-petition Workmen’s Compensation claims under the Necessity Doctrine. UNR claims that in the instant case, however, preserving the debtor-in-possession’s privilege to self-insure asbestos-related claims arising under the Workers’ Occupational Diseases Act was not in the best interests of the debtor and its creditors because at the time UNR filed for bankruptcy protection, the cost of self-insuring such claims would have exceeded the cost of purchasing conventional insurance. UNR therefore argues that Judge Merrick could not have justified including the Workers’ occupational disease claims within the scope of the 1982 Order under the Necessity Doctrine. This Court rejects UNR’s argument for several reasons.
+ </p>
+<p id="b573-6">
+  First, UNR did not tell Judge Merrick on July 29, 1982, that the economic advantage of self-insurance over conventional insurance applied only to
+  <em>
+   some
+  </em>
+  employee claims arising from work-related injuries and illnesses. UNR merely stated that self-insurance of “Workmen’s Compensation claims” would save the debtor-in-possession money over the cost of purchasing insurance from a third party. As noted above, Judge Merrick most likely understood the term “Workmen’s Compensation claims” in its conventional sense, as encompassing all statutory claims for medical conditions arising out of employment. Thus, Judge Merrick must have concluded that the debt- or-in-possession and its creditors would benefit from the maintenance of UNR’s self-insurance privilege with regard to all such statutory claims. The fact that UNR may have had no actual interest in maintaining its self-insurance privilege with regard to claims arising under the Workers’ Occupational Diseases Act, and therefore may not have intended to request Judge Merrick’s permission to pay pre-petition occupational disease claims, is irrelevant to this Court’s analysis of the 1982 Order. In interpreting a court order, the intent of the judge entering the order, and not the intent of the party submitting the order for approval, must control.
+  <em>
+   See Doty,
+  </em>
+  <span class="citation" data-id="1871372"><a href="/opinion/1871372/in-re-doty/#589" aria-description="Citation for case: In Re Doty">129 B.R. at 589</a></span>.
+ </p>
+<p id="b573-8">
+  In addition, UNR has failed to produce evidentiary support for its assertion that at the time UNR filed for bankruptcy protection, self-insuring asbestos-related occupational disease claims would have been more costly than purchasing conventional insurance to cover those claims. UNR has submitted no evidence regarding either the cost of conventional insurance to cover occupational disease claims or the cost of settling the Workers’ occupational disease claims.
+ </p>
+<p id="b573-9">
+  Finally, UNR’s assertion that the debtor-in-possession had no interest in maintaining its self-insurance privilege with regard to occupational disease claims at the time it filed for bankruptcy protection is belied by UNR’s actions before the Illinois Industrial Commission in early 1983. Upon receiving notice from the Illinois Industrial Commission that its self-insurance privilege under both the Workers’ Compensation Act and the Workers’ Occupational Diseases Act was in danger of being terminated, UNR promptly filed an Intent to Show Cause why the Commission should not terminate its self-insurance privilege under
+  <em>
+   either
+  </em>
+  statute. Workers’ Exh. 21. UNR subsequently appeared at hearings before the Commission in February and April of 1983, and argued that continuing to self-insure would save the debtor-in-possession money over the cost of purchasing conventional insurance. Workers’ Exh. 25 at 19-20. Although UNR used the term “Worker’s Compensation claims” when arguing before the Commission, UNR did not draw any distinctions between claims arising under the Workers’ Compensation Act and claims arising under the Workers’ Occupational Diseases Act. In addition, UNR did not inform the Commission that it sought to retain its self-insurance privilege only with respect to claims arising under the
+  <span citation-index="1" class="star-pagination" label="522"> 
+   *522
+   </span>
+  Workers’ Compensation Act. Instead, UNR apparently fought to maintain its self-insurance privilege under both statutes.
+  <em>
+   See
+  </em>
+  Workers’ Exh. 22, 25. If self-insuring occupational disease claims truly would have been more costly than purchasing conventional insurance to cover those claims, UNR would not have fought so vigorously to maintain its self-insurance privilege under the Workers’ Occupational Diseases Act as well as the Workers’ Compensation Act.
+ </p>
+<p id="b574-4">
+  In addition to arguing that inclusion of asbestos-related occupational disease claims within the scope of the 1982 Order would have been antithetical to the reason behind UNR’s bankruptcy filings and would have exceeded Judge Merrick’s authority under the Necessity Doctrine, UNR also points to the testimony of Maurice Jacobs as further evidence that Judge Merrick could not have intended to include the Workers’ occupational disease claims within the meaning of “Workmen’s Compensation claims” in the 1982 Order. Mr. Jacobs testified that in Judge Merrick's presence on July 29, 1982, Mr. Jacobs specifically asked UNR’s attorney, David Missner, whether the granting of UNR’s Application would permit the debtor-in-possession to pay asbestos claims. UNR’s attorneys responded that the Application was not intended to authorize the payment of asbestos claims. UNR asserts that Judge Merrick therefore must have understood that the term “Workmen’s Compensation claims” in UNR’s Application referred only to
+  <em>
+   non-asbestos-related
+  </em>
+  claims by employees injured in the course of their employment.
+ </p>
+<p id="b574-5">
+  The Court rejects this argument, reiterating that whatever UNR may or may not have intended when it drafted its Application is irrelevant to the question now before this Court. The interpretation of the 1982 Order turns on Judge Merrick’s intent, not on UNR’s intent.
+  <em>
+   See Doty,
+  </em>
+  <span class="citation" data-id="1871372"><a href="/opinion/1871372/in-re-doty/#589" aria-description="Citation for case: In Re Doty">129 B.R. at 589</a></span>. In addition, the fact that Judge Merrick heard the exchange between Mr. Jacobs and Mr. Missner does not necessarily suggest that the exchange altered Judge Merrick’s understanding of the term “Workmen’s Compensation claims.” The testimony of individuals who were present in Judge Merrick’s chambers on July 29, 1982, indicates that Judge Merrick apparently was not made aware that statutorily-based, employment-related asbestos-disease claims had been raised against UNR. The only asbestos-related claims which were discussed in Judge Merrick’s chambers on July 29, 1982, were claims arising from asbestos litigation. Furthermore, Mr. Jacobs’ testimony does not suggest that Mr. Jacobs mentioned the term “Workmen’s Compensation claims,” or otherwise indicated that he was referring to the Application’s provision for payment of “Workmen’s Compensation claims” when he asked Mr. Missner to clarify whether UNR was seeking authorization to pay asbestos claims. Judge Merrick therefore may well have concluded that Mr. Jacobs’ questioning of Mr. Missner related to whether the debtor-in-possession would be authorized to pay the claims of the plaintiffs in any of the more than 12,000 asbestos-related lawsuits in which UNR was involved at the time it filed its bankruptcy petitions.
+ </p>
+<p id="b574-7">
+  UNR further argues that in seeking to determine whether the Workers’ occupational disease claims are classified as Class 2 claims or Class 5 claims under the Plan, this Court not only must consider Judge Merrick’s intent at the time he signed the 1982 Order, but also must consider whether a particular classification will render the Plan invalid under the Bankruptcy Code. According to UNR, this Court must interpret the Plan in a way that renders it consistent with the Confirmation Order, which contained an explicit finding that the Plan complies with all applicable sections of Chapter 11 of the Bankruptcy Code. UNR asserts that the Workers’ asbestos-related occupational disease claims cannot be included in Class 2 under the Plan because such a classification would cause the Plan to violate certain sections of the Bankruptcy Code.
+ </p>
+<p id="b574-8">
+  First, UNR argues that classifying the Workers’ occupational disease claims as Class 2 claims would cause the Plan to violate § 1122 of the Bankruptcy Code. Section 1122 provides, in pertinent part,
+  <span citation-index="1" class="star-pagination" label="523"> 
+   *523
+   </span>
+  that . a plan may place a claim or an interest in a particular class only if such claim or interest is substantially similar to the other claims or interests of such class.” <span class="citation no-link">11 U.S.C. § 1122</span>(a). UNR asserts that because the Workers’ occupational disease claims relate to asbestos-disease, their claims are “substantially similar” to Class 5 “Asbestos-Disease Claims,” and are not “substantially similar” to Class 2 “Workmen’s Compensation Claims.” UNR therefore argues that this Court must find that the Workers’ occupational disease claims are classified as Class 5 claims under the Plan.
+ </p>
+<p id="b575-5">
+  Contrary to UNR’s assertion, however, the Workers’ occupational disease claims are “substantially similar” to Class 2 “Workmen’s Compensation Claims.” The phrase “substantially similar,” as used in § 1122, means “similar in legal character or effect.”
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#260" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256, 260</a></span> (Bankr.D.Utah 1980) (citing 5 Collier on Bankruptcy 111122.03, at 1122-24 (15th ed. 1979)). Thus, it is the
+  <em>
+   legal
+  </em>
+  character of a claim, rather than the claim’s
+  <em>
+   factual
+  </em>
+  basis, which determines whether a claim is “substantially similar” to other claims in a particular class. Claims which arise under the Workers’ Occupational Diseases Act and claims which arise under the Workers’ Compensation Act are based on the same legal framework. Both arise under a comprehensive statutory scheme designed to provide limited compensation to employees who suffer from work-related medical conditions without the necessity of proving that their employers were at fault. Thus, the Workers’ asbestos-related occupational disease claims are “similar in legal character or effect” to non-asbestos-related claims arising under the Workers’ Compensation Act. The Workers’ occupational disease claims therefore may be classified as Class 2 “Workmen’s Compensation Claims” without violating § 1122 of the Bankruptcy Code.
+ </p>
+<p id="b575-6">
+  Second, UNR asserts that if this Court finds that the Workers’ occupational disease claims are Class 2 claims under the Plan, then the Plan will be in violation of § 1123(a)(4) of the Bankruptcy Code. Section 1123(a)(4) states that a Plan must “provide the same treatment for each claim or interest of a particular class, unless the holder of a particular claim or interest agrees to a less favorable treatment of such particular claim or interest.” <span class="citation no-link">11 U.S.C. § 1123</span>(a)(4). UNR notes that the Workers admit that they hold Class 5 claims. Under the Plan, Class 5 claimants will not receive full payment on their claims. If the Workers’ occupational disease claims are classified as Class 2 claims under the Plan, however, those occupational disease claims will be paid in full. UNR therefore argues that if the Plan were to classify the Workers’ occupational disease claims as Class 2 “Workmen’s Compensation Claims,” then the Plan would treat the Workers more favorably than other Class 5 claimants, in violation of § 1123(a)(4).
+ </p>
+<p id="b575-8">
+  The flaw in UNR’s argument is that UNR confuses equal treatment of
+  <em>
+   claims
+  </em>
+  with equal treatment of
+  <em>
+   claimants.
+  </em>
+  A single claimant may hold more than one claim against a bankruptcy estate. Section 1123(a)(4) of the Bankruptcy Code does not prohibit a Plan of Reorganization from classifying the various claims of a single claimant into different classes. Section 1123(a)(4) merely requires that the Plan provide the same treatment for all claims classified within a particular class. As noted above, some of the Workers hold two types of claims against UNR: occupational disease claims, and intentional tort claims. This Court agrees that the Workers’ tort claims are classified as Class 5 claims under the Plan. Under § 1123(a)(4), the Plan must treat the Workers’ tort claims the same as all other Class 5 claims. However, the Bankruptcy Code in no way prohibits this Court from finding that the Workers’ other claims, the occupational disease claims, are classified as Class 2 claims under the Plan.
+ </p>
+<p id="b575-9">
+  UNR further argues that the Plan’s definition of Class 5 “Asbestos-Disease Claims” seems to encompass the Workers’ occupational disease claims. UNR asserts that this Court cannot find that the Workers’ occupational disease claims constitute Class 2 claims under the
+  <span citation-index="1" class="star-pagination" label="524"> 
+   *524
+   </span>
+  Plan because such a finding would require this Court to rewrite the Plan’s Class 5 definition, and the allowed time for amending the Plan has passed. Admittedly, the Plan’s definition of “Asbestos-Disease Claims” is quite broad, encompassing “[a]ll alleged liabilities or obligations
+  <em>
+   (under any theory of law, equity, or admiralty) ...
+  </em>
+  whether or not included in the definition of “claim” in § 101(14) of the Code, arising out of exposure to asbestos, and arising from acts or omissions by one or more of the Debtors or the Debtors’ predecessors in interest_” UNR Exh. J, at 23 (emphasis added). This definition does appear to include the Workers’ asbestos-related occupational disease claims. Under this Court’s interpretation of Judge Merrick’s 1982 Order, however, the Plan’s definition of Class 2 “Workmen’s Compensation Claims” also encompasses the Workers' asbestos-related occupational disease claims. This ambiguity in the Plan’s definitions of Class 2 and Class 5 claims is precisely what led the District Court to remand the classification issue to this Court for determination.
+ </p>
+<p id="b576-5">
+  UNR has not explained to this Court why it believes that the Plan’s definition of Class 5 claims should control over its definition of Class 2 claims. To the contrary, this Court finds that the Plan’s specific Class 2 definition must control over its more general Class 5 definition. Courts have held that bankruptcy plans are similar to contracts and should be interpreted in light of general contract principles.
+  <em>
+   Doty,
+  </em>
+  <span class="citation" data-id="1871372"><a href="/opinion/1871372/in-re-doty/" aria-description="Citation for case: In Re Doty">129 B.R. at 590</a></span>
+  <em>
+   (quoting In re L &amp; V Realty Corp., 76
+  </em>
+  B.R. 35 (Bankr.E.D.N.Y.1987)). It is a well-settled rule of contract construction that when there is an ambiguity between two provisions, a specific provision should control over a general provision.
+  <em>
+   See, e.g., Beermart, Inc. v. Stroh Brewing Co.,
+  </em>
+  <span class="citation" data-id="478776"><a href="/opinion/478776/beermart-inc-v-the-stroh-brewery-company/#411" aria-description="Citation for case: Beermart, Inc. v. The Stroh Brewery Company">804 F.2d 409, 411</a></span> (7th Cir.1986)
+  <em>
+   (citing Fox Realty Co. v. Montgomery Ward &amp; Co.,
+  </em>
+  <span class="citation" data-id="6883989"><a href="/opinion/6985861/fox-realty-co-v-montgomery-ward-co/" aria-description="Citation for case: Fox Realty Co. v. Montgomery Ward &amp; Co.">124 F.2d 710</a></span> (7th Cir.1942)).
+ </p>
+<p id="b576-6">
+  Another argument which UNR raises in an attempt to persuade this Court not to find that the Workers’ occupational disease claims are Class 2 claims under the Plan is that such a finding would render the Disclosure Statement seriously misleading. The Disclosure Statement which UNR issued with the Plan states that “[t]here are no pre-petition Workmen’s Compensation Claims which remain unpaid.” UNR Exh. J, at 12. This Court approved the Disclosure Statement, and UNR sent the Statement, along with copies of the Plan and other relevant documents, to all parties entitled to vote on the Plan to help them decide whether or not to vote in favor of the Plan’s acceptance.
+ </p>
+<p id="b576-10">
+  UNR is correct in asserting that if the Workers’ occupational disease claims are classified as Class 2 claims, then the Disclosure Statement’s declaration that “[t]here are no pre-petition Workmen’s Compensation Claims which remain unpaid” is false. In addition, UNR may well be correct in suggesting that some parties were misled by this declaration and voted for the Plan’s acceptance under the false impression that all Class 2 claims had been satisfied. These facts have no effect, however, on the Court’s decision in this remand proceeding. A disclosure statement is not a part of the plan to which it refers and cannot alter the plan’s meaning. If a conflict exists between a disclosure statement and a confirmed Chapter 11 plan, the provisions of the plan must control.
+  <em>
+   In re Diamond Mortgage Corp. of Illinois,
+  </em>
+  <span class="citation" data-id="2008872"><a href="/opinion/2008872/in-re-diamond-mortg-corp-of-illinois/#880" aria-description="Citation for case: In Re Diamond Mortg. Corp. of Illinois">105 B.R. 876, 880</a></span> (Bankr.N.D.Ill.1989)
+  <em>
+   (citing In re AOV Industries, Inc.,
+  </em>
+  <span class="citation" data-id="9474963"><a href="/opinion/471584/in-re-aov-industries-inc-hubert-r-bruce-appeal-of-hawley-fuel/#1153" aria-description="Citation for case: In Re Aov Industries, Inc., Hubert R. Bruce, Appeal of...">792 F.2d 1140, 1153</a></span> (D.C.Cir.1986)).
+ </p>
+<p id="b576-11">
+  Furthermore, this Court cannot alter the Plan’s classification of the Workers’ occupational disease claims on the ground that confirmation of the Plan may have been premised on a misunderstanding of the Plan’s provisions which resulted from the misleading disclosure statement. Admittedly, bankruptcy courts possess broad equitable powers pursuant to § 105 of the Bankruptcy Code.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  Bankruptcy
+  <span citation-index="1" class="star-pagination" label="525"> 
+   *525
+   </span>
+  courts must exercise those equitable powers, however, within the confines of the Bankruptcy Code.
+  <em>
+   Diamond Mortgage,
+  </em>
+  <span class="citation" data-id="2008872"><a href="/opinion/2008872/in-re-diamond-mortg-corp-of-illinois/#883" aria-description="Citation for case: In Re Diamond Mortg. Corp. of Illinois">105 B.R. at 883</a></span>. A bankruptcy court cannot rewrite a confirmed plan on the basis of perceived inequities.
+  <em>
+   <span class="citation" data-id="2008872"><a href="/opinion/2008872/in-re-diamond-mortg-corp-of-illinois/" aria-description="Citation for case: In Re Diamond Mortg. Corp. of Illinois">Id.</a></span>
+  </em>
+  Only the proponent of a plan can seek to modify the plan after confirmation.
+  <em>
+   <span class="citation" data-id="2008872"><a href="/opinion/2008872/in-re-diamond-mortg-corp-of-illinois/" aria-description="Citation for case: In Re Diamond Mortg. Corp. of Illinois">Id.</a></span>
+  </em>
+  In addition, such post-confirmation modification is permitted only within the confines of § 1127 of the Bankruptcy Code, which provides that a proponent may modify a plan after confirmation only if all of the following requirements are met: 1) the plan has not been substantially consummated; 2) the modification does not cause the plan to violate §§ 1122 or 1123 of the Bankruptcy Code; 3) the proponent issues a disclosure statement with respect to the modified plan in compliance with § 1125 of the Code; 4) the bankruptcy court finds that “circumstances warrant such a modification”; and 5) the bankruptcy court confirms the plan as modified after notice and a hearing. <span class="citation no-link">11 U.S.C. §§ 1127</span>(b), (c). Thus, “[confirmation of a plan in effect sets the plan in stone unless the proponent chooses to alter it before it is substantially consummated.”
+  <em>
+   Diamond Mortgage,
+  </em>
+  <span class="citation" data-id="2008872"><a href="/opinion/2008872/in-re-diamond-mortg-corp-of-illinois/#880" aria-description="Citation for case: In Re Diamond Mortg. Corp. of Illinois">105 B.R. at 880</a></span>.
+ </p>
+<p id="b577-5">
+  Finally, the fact that the Plan may have been confirmed on the basis of a misleading disclosure statement does not render the Plan invalid. Once a plan is confirmed, confirmation ordinarily may be revoked only upon a showing that confirmation was obtained by fraud.
+  <em>
+   In re Longardner &amp; Assoc., Inc.,
+  </em>
+  <span class="citation" data-id="510695"><a href="/opinion/510695/in-re-longardner-associates-inc-debtor-appeal-of-landahl-brown/#460" aria-description="Citation for case: In Re Longardner &amp; Associates, Inc., Debtor. Appeal of...">855 F.2d 455, 460</a></span> (7th Cir.1988);
+  <em>
+   Diamond Mortgage,
+  </em>
+  <span class="citation" data-id="2008872"><a href="/opinion/2008872/in-re-diamond-mortg-corp-of-illinois/#880" aria-description="Citation for case: In Re Diamond Mortg. Corp. of Illinois">105 B.R. at 880</a></span> (in both cases, the court refused to revoke confirmation of a reorganization plan despite assertions that the disclosure statement had been misleading because there was no showing of fraud). A bankruptcy court may have the authority to revoke confirmation of a plan in the absence of fraud pursuant to its equitable powers under § 105 of the Bankruptcy Code.
+  <em>
+   See In re Chinichian,
+  </em>
+  <span class="citation" data-id="465421"><a href="/opinion/465421/in-re-khalil-and-shahin-chinichian-debtors-khalil-and-shahin-chinichian/#1442" aria-description="Citation for case: In Re Khalil and Shahin Chinichian, Debtors. Khalil and...">784 F.2d 1440, 1442-43</a></span> (9th Cir.1986)
+  <em>
+   (cited in Lon-gardner,
+  </em>
+  <span class="citation" data-id="510695"><a href="/opinion/510695/in-re-longardner-associates-inc-debtor-appeal-of-landahl-brown/" aria-description="Citation for case: In Re Longardner &amp; Associates, Inc., Debtor. Appeal of...">855 F.2d at 462</a></span> n. 9). Revocation of the Plan’s confirmation is clearly inappropriate in this case, however, because the Plan has been substantially implemented.
+  <em>
+   See UNARCO Bloomington Factory Workers v. UNR Industries, Inc.,
+  </em>
+  124 B.R. at 281 (the District Court asserted that wholesale reversal of the order confirming the Plan in this case would be inappropriate because of the many transactions which have already occurred).
+ </p>
+<p id="b577-8">
+  Finally, UNR argues that the doctrines of laches, judicial estoppel, and collateral estoppel bar the Workers from arguing that their occupational disease claims are classified as Class 2 claims under the Plan. Under the equitable doctrine of laches, a plaintiff who has inexcusably delayed in enforcing a claim is barred from bringing an action on that claim if there has been such a change in circumstances during the plaintiff’s delay that the defendant will be prejudiced if the action is allowed.
+  <em>
+   In re BNT Terminals, Inc.,
+  </em>
+  <span class="citation" data-id="1830261"><a href="/opinion/1830261/yorke-v-citibank-na-in-re-bnt-terminals-inc/#973" aria-description="Citation for case: Yorke v. Citibank, N.A. (In Re BNT Terminals, Inc.)">125 B.R. 963, 973</a></span> (Bankr.N.D.Ill.1990). UNR argues that the Workers inexcusably delayed in asserting that their occupational disease claims constitute “Workmen’s Compensation claims” within the meaning of the 1982 Order. UNR notes that between the time the Order was entered in 1982 and the time UNR proposed its Plan in 1989, the Workers never sought payment of their claims under the Order. The first time the Workers suggested that their occupational disease claims fell within the scope of the 1982 Order was in their Objections to the Disclosure Statement, which they filed in February, 1989. UNR suggests that if the Workers had not delayed in raising their classification argument, the issue of how their occupational disease claims are classified under the Plan might have been resolved before the Disclosure Statement was written and the Plan was confirmed. According to UNR, allowing the Workers to argue at this late date that their occupational disease claims constitute “Workmen’s Compensation Claims” under the Plan will severely prejudice those parties
+  <span citation-index="1" class="star-pagination" label="526"> 
+   *526
+   </span>
+  who voted in favor of the Plan under the assumption that the occupational disease claims were classified in Class 5.
+ </p>
+<p id="b578-4">
+  UNR’s assertion that the Workers inexcusably delayed in enforcing their rights might be valid if the Workers were now seeking payment under the 1982 Order. A seven-year delay in seeking payment under a court order might well be considered inexcusable and prejudicial. The Workers are not, however, seeking payment under the 1982 Order. Instead, they are seeking clarification regarding the classification of their occupational disease claims under the Plan which was confirmed in June, 1989. The 1982 Order is relevant to this proceeding only because its language was incorporated in the Plan. The fact that the Workers failed to enforce their right to payment under the 1982 Order is immaterial. The Workers did raise the argument regarding the Plan’s classification of their occupational disease claims at the earliest opportunity, in their Objections to the Disclosure Statement. In addition, the Workers continued to raise this argument in their Objections to Confirmation. Thus, the Workers committed no inexcusable delay and are not barred by laches from arguing that their occupational disease claims are classified as Class 2 claims under the Plan.
+ </p>
+<p id="b578-5">
+  In addition, the Workers are not barred by judicial estoppel from arguing that their occupational disease claims constitute Class 2 claims under the Plan. The doctrine of judicial estoppel provides that a party which has successfully assumed a certain position in a legal proceeding may not assume a contrary position in a subsequent legal proceeding simply because the party’s interests have changed.
+  <em>
+   Matter of Cassidy,
+  </em>
+  <span class="citation" data-id="534255"><a href="/opinion/534255/in-the-matter-of-thomas-v-cassidy-debtor-appellant/#641" aria-description="Citation for case: In the Matter of Thomas v. Cassidy, Debtor-Appellant">892 F.2d 637, 641</a></span> (7th Cir.1990)
+  <em>
+   (citing Davis v. Wakelee,
+  </em>
+  <span class="citation" data-id="94133"><a href="/opinion/94133/davis-v-wakelee/#689" aria-description="Citation for case: Davis v. Wakelee">156 U.S. 680, 689</a></span>, <span class="citation" data-id="94133"><a href="/opinion/94133/davis-v-wakelee/#558" aria-description="Citation for case: Davis v. Wakelee">15 S.Ct. 555, 558</a></span>, <span class="citation" data-id="94133"><a href="/opinion/94133/davis-v-wakelee/" aria-description="Citation for case: Davis v. Wakelee">39 L.Ed. 578</a></span> (1895)). UNR argues that because the Workers claimed damages under the Workers’ Occupational Diseases Act rather than the Workers’ Compensation Act in their Proofs of Claim, and because the Workers admitted on their ballots that they hold Class 5 claims, the Workers are now judicially estopped from claiming that they hold Class 2 “Workmen’s Compensation Claims” under the Plan.
+ </p>
+<p id="b578-6">
+  UNR’s judicial estoppel argument is flawed in several respects. First, UNR has failed to demonstrate that by filing Proofs of Claim and ballots, the Workers “successfully assumed a position in a legal proceeding,” as required under the judicial estop-pel doctrine. A prerequisite to application of judicial estoppel is that the party to be estopped must have “convinced the court to accept its position in the earlier litigation.”
+  <em>
+   Cassidy,
+  </em>
+  <span class="citation" data-id="534255"><a href="/opinion/534255/in-the-matter-of-thomas-v-cassidy-debtor-appellant/#641" aria-description="Citation for case: In the Matter of Thomas v. Cassidy, Debtor-Appellant">892 F.2d at 641</a></span>. This Court has never made a ruling regarding how the Workers’ occupational disease claims are classified under the Plan.
+ </p>
+<p id="b578-7">
+  Second, by claiming damages under the Workers’ Occupational Diseases Act in their Proofs of Claim, the Workers did not admit that their occupational disease claims are not Class 2 “Workmen’s Compensation Claims.” This Court has already held that the Plan’s definition of Class 2 claims includes claims arising under the Workers’ Occupational Diseases Act as well as the Workers’ Compensation Act.
+ </p>
+<p id="b578-8">
+  Third, the admission on the Workers’ ballots that the Workers’ hold Class 5 claims is not necessarily inconsistent with the Workers’ argument that their occupational disease claims are Class 2 claims under the Plan. Many of the Workers have asserted both tort claims and occupational disease claims against UNR. By voting Class 5 ballots, the Workers merely admitted that at least some of their claims constitute Class 5 claims. They did not necessarily admit that they
+  <em>
+   all
+  </em>
+  of their claims are properly classified in Class 5. In fact, after voting their Class 5 ballots, the Workers reasserted in their Objections to Confirmation the argument that their occupational disease claims should be classified in Class 2.
+ </p>
+<p id="b578-9">
+  Finally, even if the Workers
+  <em>
+   did
+  </em>
+  concede by voting Class 5 ballots that both their tort claims and their occupational disease claims constitute Class 5 claims under the Plan, judicial estoppel is nevertheless inapplicable. The purpose of the judicial estoppel doctrine is to prevent litigants from “playing fast and loose with the courts.”
+  <em>
+   Cassidy,
+  </em>
+  <span class="citation" data-id="534255"><a href="/opinion/534255/in-the-matter-of-thomas-v-cassidy-debtor-appellant/" aria-description="Citation for case: In the Matter of Thomas v. Cassidy, Debtor-Appellant">892 F.2d at 641</a></span>
+  <em>
+   (citing Scarano v. Central Railroad Co.,
+  </em>
+  <span class="citation" data-id="231476"><a href="/opinion/231476/scarano-v-central-r-co-of-new-jersey/#513" aria-description="Citation for case: Scarano v. Central R. Co. Of New Jersey">203 F.2d 510, 513</a></span> (3d Cir.1953)). Judicial estop-pel applies when “intentional self-contra
+  <span citation-index="1" class="star-pagination" label="527"> 
+   *527
+   </span>
+  diction is being used as a means of obtaining unfair advantage” in the courts.
+  <em>
+   <span class="citation" data-id="231476"><a href="/opinion/231476/scarano-v-central-r-co-of-new-jersey/" aria-description="Citation for case: Scarano v. Central R. Co. Of New Jersey">Id.</a></span>
+  </em>
+  In this case, the Workers have neither “played fast and loose” nor engaged in “intentional self-contradiction.” Since the time UNR proposed its Plan, the Workers have consistently argued that their occupational disease claims are properly classified as Class 2 claims under the Plan. Their attempts to have the classification of their occupational disease claims clarified were repeatedly rebuffed. The Workers may have felt compelled to vote Class 5 ballots with respect to their occupational disease claims as well as their tort claims in order to protect their interests in case this Court eventually were to determine that the occupational disease claims
+  <em>
+   were
+  </em>
+  classified as Class 5 claims under the Plan. The Court finds that this is not a case in which judicial estoppel is appropriate.
+  <em>
+   See Cassidy,
+  </em>
+  <span class="citation" data-id="534255"><a href="/opinion/534255/in-the-matter-of-thomas-v-cassidy-debtor-appellant/#642" aria-description="Citation for case: In the Matter of Thomas v. Cassidy, Debtor-Appellant">892 F.2d at 642</a></span> (“Estoppel is an equitable concept, and its application is therefore within the court’s sound discretion.”).
+ </p>
+<p id="b579-4">
+  This Court also rejects UNR’s assertion that the Workers are barred by collateral estoppel from arguing that their occupational disease claims constitute Class 2 claims under the Plan. The doctrine of collateral estoppel provides that a factual issue which has been actually and necessarily litigated and finally determined in a prior lawsuit may not be relitigated in a subsequent lawsuit.
+  <em>
+   Klingman v. Levinson,
+  </em>
+  <span class="citation" data-id="496603"><a href="/opinion/496603/francine-klingman-v-melvin-e-levinson/#1294" aria-description="Citation for case: Francine Klingman v. Melvin E. Levinson">831 F.2d 1292, 1294</a></span> (7th Cir.1987)
+  <em>
+   (citing Brown v. Felsen,
+  </em>
+  <span class="citation" data-id="110092"><a href="/opinion/110092/brown-v-felsen/" aria-description="Citation for case: Brown v. Felsen">442 U.S. 127</a></span>, 139 n. 10, <span class="citation" data-id="110092"><a href="/opinion/110092/brown-v-felsen/" aria-description="Citation for case: Brown v. Felsen">99 S.Ct. 2205</a></span>, 2213 n. 10, <span class="citation" data-id="110092"><a href="/opinion/110092/brown-v-felsen/" aria-description="Citation for case: Brown v. Felsen">60 L.Ed.2d 767</a></span> (1979)). UNR argues that this Court’s Memorandum Opinion and Order of March 20, 1990, conclusively establishes that the Workers’ occupational disease claims are Class 5 claims under the Plan. In that Memorandum Opinion and Order, the Court held the Workers’ attorney, James Walker, in contempt for violating the Injunction Order of June 2,1989, by pursuing some of the Workers’ occupational disease claims before the Illinois Industrial Commission. The Injunction Order prohibits all actions brought “for the purpose of, directly or indirectly, collecting, recovering or receiving payment of, on or with respect to any Claims, Interests, Asbestos-Disease Claims or Asbestos-Property Claims,” except for “actions brought to enforce any right or obligation under the Plan.” According to UNR, Mr. Walker’s attempt to obtain payment on some of the Workers’ occupational disease claims could only have violated the Injunction Order if those claims are not classified as Class 2 claims under the Plan, for the Injunction Order does not prohibit Class 2 claimants from enforcing their rights to receive payment under the Plan. In light of this Court’s analysis of the 1982 Order, the Court has reconsidered the Memorandum Opinion and Order of March 20, 1990, and now withdraws them pursuant to its authority under Federal Rule of Civil Procedure 60, which applies to bankruptcy cases pursuant to Bankruptcy Rule 9024.
+ </p>
+<p id="b579-6">
+<em>
+   Conclusion
+  </em>
+</p>
+<p id="b579-7">
+  In summary, this Court finds that the Workers possess intentional tort claims against UNR which are classified as Class 5 claims under the Plan. In addition, for those Workers who also assert occupational disease claims against UNR, those occupational disease claims constitute Class 2 claims under the Plan.
+ </p>
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b576-7">
+   . Section 105 of the Bankruptcy Code provides, in relevant part, as follows:
+  </p>
+<blockquote id="b576-12">
+   The court may issue any order, process, or judgment that is necessary or appropriate to carry out the provisions of this title. No
+   <span citation-index="1" class="star-pagination" label="525"> 
+    *525
+    </span>
+   provision of this title providing for the raising of an issue by a party in interest shall be construed to preclude the court from, sua sponte, taking any action or making any determination necessary or appropriate to enforce or implement court orders or rules, or to prevent an abuse of process.
+  </blockquote>
+<p id="b577-10">
+   <span class="citation no-link">11 U.S.C. § 105</span>(a).
+  </p>
+</div></div></opinion>

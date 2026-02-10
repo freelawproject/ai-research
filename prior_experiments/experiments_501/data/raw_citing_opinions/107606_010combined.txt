@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b124-10">
+  Mr. Justice Harlan
+ </author>
+<p id="AN5">
+  delivered the opinion of the Court.
+ </p>
+<p id="b124-11">
+  Petitioner was convicted in the United States District Court for the District of Connecticut under two indictments which charged violations of the federal wagering tax statutes. The first indictment averred that petitioner and others conspired to evade payment of the annual occupational tax imposed by <span class="citation no-link">26 U. S. C. § 4411</span>. The second indictment included two counts: the first
+  <span citation-index="1" class="star-pagination" label="41"> 
+   *41
+   </span>
+  alleged a willful failure to pay the occupational tax, and the second a willful failure to register, as required by <span class="citation no-link">26 U. S. C. § 4412</span>, before engaging in the business of accepting wagers.
+ </p>
+<p id="b125-5">
+  After verdict, petitioner unsuccessfully sought to arrest judgment, in part on the basis that the statutory obligations to register and to pay the occupational tax violated his Fifth Amendment privilege against self-incrimination. The Court of Appeals for the Second Circuit affirmed, <span class="citation multiple-matches"><a href="/c/F.%202d/352/848/">352 F. 2d 848</a></span>, on the authority of
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Kahriger,
+  </em>
+  <span class="citation" data-id="105090"><a href="/opinion/105090/united-states-v-kahriger/" aria-description="Citation for case: United States v. Kahriger">345 U. S. 22</a></span>, and
+  <em>
+   Lewis
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="105280"><a href="/opinion/105280/lewis-v-united-states/" aria-description="Citation for case: Lewis v. United States">348 U. S. 419</a></span>.
+ </p>
+<p id="b125-6">
+  We granted certiorari to re-examine the constitutionality under the Fifth Amendment of the pertinent provisions of the wagering tax statutes, and more particularly to consider whether
+  <em>
+   <span class="citation" data-id="105090"><a href="/opinion/105090/united-states-v-kahriger/" aria-description="Citation for case: United States v. Kahriger">Kahriger</a></span>
+  </em>
+  and
+  <em>
+   <span class="citation" data-id="105280"><a href="/opinion/105280/lewis-v-united-states/" aria-description="Citation for case: Lewis v. United States">Lewis</a></span>
+  </em>
+  still have vitality.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  <span class="citation multiple-matches"><a href="/c/U.%20S./383/942/">383 U. S. 942</a></span>. For reasons which follow, we have
+  <span citation-index="1" class="star-pagination" label="42"> 
+   *42
+   </span>
+  concluded that these provisions may not be employed to punish criminally those persons who have defended a failure to comply with their requirements with a proper assertion of the privilege against self-incrimination. The judgment below is accordingly reversed.
+ </p>
+<p id="b126-6">
+  I.
+ </p>
+<p id="b126-7">
+  The provisions in issue here are part of an interrelated statutory system for taxing wagers. The system is broadly as follows. Section 4401 of Title 26 imposes upon those engaged in the business of accepting wagers an excise tax of 10% on the gross amount of all wagers they accept, including the value of chances purchased in lotteries conducted for profit. Parimutuel wagering enterprises, coin-operated devices, and state-conducted sweepstakes are expressly excluded from taxation. <span class="citation no-link">26 U. S. C. §4402</span> (1964 ed., Supp. II). Section 4411 imposes in addition an occupational tax of $50 annually, both upon those subject to taxation under § 4401 and upon those who receive wagers on their behalf.
+ </p>
+<p id="b126-8">
+  The taxes are supplemented by ancillary provisions calculated to assure their collection. In particular, § 4412 requires those liable for the occupational tax to register each year with the director of their local internal revenue district. The registrants must submit Internal Revenue Service Form 11-C,
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  and upon it must provide their residence and business addresses, must indicate whether they are engaged in the business of accepting wagers, and must list the names and addresses of their agents and employees. The statutory obligations to register
+  <span citation-index="1" class="star-pagination" label="43"> 
+   *43
+   </span>
+  and to pay the occupational tax áre essentially inseparable elements of a single registration procedure;
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  Form 11-C thus constitutes both the application for registration and the return for the occupational tax.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+</p>
+<p id="b127-5">
+  In addition, registrants are obliged to post the revenue stamps which denote payment of the occupational tax “conspicuously” in their principal places of business, or, if they lack such places, to keep the stamps on their persons, and to exhibit them upon demand to any Treasury officer. 26 U. S'. C. § 6806 (c). They are required to preserve daily records indicating the gross amount of the wagers as to which they are liable for taxation, and to permit inspection of their books of account. <span class="citation no-link">26 U. S. C. §§ 4403</span>, 4423. Moreover, each principal internal revenue office is instructed to maintain for public inspection a listing of all who have paid the occupational tax, and to provide certified copies of the listing upon request to any state or local prosecuting officer. 26 U. S. C.
+  <span citation-index="1" class="star-pagination" label="44"> 
+   *44
+   </span>
+  § 6107. Finally, payment of the wagering taxes is declared not to “exempt any person from any penalty provided by a law of the United States or of any State for engaging” in any taxable activity. <span class="citation no-link">26 U. S. C. § 4422</span>.
+ </p>
+<p id="b128-6">
+  II.
+ </p>
+<p id="b128-7">
+  The issue before us is
+  <em>
+   not
+  </em>
+  whether the United States may tax activities which a State or Congress has declared unlawful. The Court has repeatedly indicated that the unlawfulness of an activity does not prevent its taxation, and nothing that follows is intended to limit or diminish the vitality of those cases. See,
+  <em>
+   e. g., License Tax Cases,
+  </em>
+  <span class="citation" data-id="87845"><a href="/opinion/87845/license-tax-cases/" aria-description="Citation for case: License Tax Cases">5 Wall. 462</a></span>. The issue is instead whether the methods employed by Congress in the federal wagering tax statutes are, in this situation, consistent with the limitations created by the privilege against self-incrimination guaranteed by the Fifth Amendment. We must for this purpose first examine the implications of these statutory provisions.
+ </p>
+<p id="b128-8">
+  Wagering and its ancillary activities are very widely prohibited under both federal and state law. Federal statutes impose criminal penalties upon the interstate transmission of wagering information, <span class="citation no-link">18 U. S. C. § 1084</span>; upon interstate and foreign travel or transportation in aid of racketeering enterprises, defined to include gambling, <span class="citation no-link">18 U. S. C. § 1952</span>; upon lotteries conducted through use of the mails or broadcasting, <span class="citation no-link">18 U. S. C. §§ 1301-1304</span>; and upon the interstate transportation of wagering paraphernalia, <span class="citation no-link">18 U. S. C. § 1953</span>.
+ </p>
+<p id="b128-9">
+  State and local enactments are more comprehensive. The laws of every State, except Nevada, include broad prohibitions against gambling, wagering, and associated activities.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  Every State forbids, with essentially minor
+  <span citation-index="1" class="star-pagination" label="45"> 
+   *45
+   </span>
+  and carefully circumscribed exceptions, lotteries.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  Even Nevada, which permits many forms of gambling, retains criminal penalties upon lotteries and certain other wager
+  <span citation-index="1" class="star-pagination" label="46"> 
+   *46
+   </span>
+  ing activities taxable under these statutes. <span class="citation no-link">Nev. Rev. Stat. §§ 293.603</span>, 462.010-462.080, 465.010 (1957).
+ </p>
+<p id="b130-4">
+  Connecticut, in which petitioner allegedly conducted his activities, has adopted a variety of measures for the punishment of gambling and wagering. It punishes “[a]ny person, whether as principal, agent or servant, who owns, possesses, keeps, manages, maintains or occupies” premises employed for purposes of wagering or pool selling. Conn. Gen. Stat. Rev. § 53-295 (1958). It imposes criminal penalties upon any person who possesses, keeps, or maintains premises in which policy playing occurs, or lotteries are conducted, and upon any
+  <span citation-index="1" class="star-pagination" label="47"> 
+   *47
+   </span>
+  person who becomes the custodian of books, property, appliances, or apparatus employed for wagering. Conn. Gen. Stat. Rev. § 53-298 (1958). See also §§ 53-273, 53-290, 53-293. It provides additional penalties for those who conspire to organize or conduct unlawful wagering activities. Conn. Gen. Stat. Rev. § 54 — 197 (1958). Every aspect of petitioner’s wagering activities thus subjected him to possible state or federal prosecution. By any standard, in Connecticut and throughout the United States, wagering is “an area permeated with criminal statutes,” and those engaged in wagering are a group “inherently suspect of criminal activities.”
+  <em>
+   Albertson
+  </em>
+  v.
+  <em>
+   SACB,
+  </em>
+  <span class="citation" data-id="107110"><a href="/opinion/107110/albertson-v-subversive-activities-control-board/#79" aria-description="Citation for case: Albertson v. Subversive Activities Control Board">382 U. S. 70, 79</a></span>.
+ </p>
+<p id="b131-5">
+  Information obtained as a consequence of the federal wagering tax laws is readily available to assist the efforts of state and federal authorities to enforce these penalties. Section 6107 of Title 26 requires the principal internal revenue offices to provide to prosecuting officers a listing of those who have paid the occupational tax. Section 6806 (c) obliges taxpayers either to post the revenue stamp “conspicuously” in their principal places of business, or to keep it on their persons, and to produce it on the demand of Treasury officers. Evidence of the possession of a federal wagering tax stamp, or of payment of the wagering taxes, has often been admitted at trial in state and federal prosecutions for gambling offenses;
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+  such evidence has doubtless proved useful even more frequently to lead prosecuting authorities to other evidence upon which convictions have subsequently
+  <span citation-index="1" class="star-pagination" label="48"> 
+   *48
+   </span>
+  been obtained.
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+  Finally, we are obliged to notice that a former Commissioner of Internal Revenue has acknowledged that the Service “makes available” to law enforcement agencies the names and addresses of those who have paid the wagering taxes, and that it is in “full cooperation” with the efforts of the Attorney General of the United States to suppress organized gambling. Caplin, The Gambling Business and Federal Taxes, 8 Crime &amp; Delin. 371, 372, 377.
+ </p>
+<p id="b132-6">
+  In these circumstances, it can scarcely be denied that the obligations to register and to pay the occupational tax created for petitioner “real and appreciable,” and not merely “imaginary and unsubstantial,” hazards of self-incrimination.
+  <em>
+   Reg.
+  </em>
+  v.
+  <em>
+   Boyes,
+  </em>
+  1 B. &amp; S. 311, 330;
+  <em>
+   Brown
+  </em>
+  v.
+  <em>
+   Walker,
+  </em>
+  <span class="citation" data-id="94410"><a href="/opinion/94410/brown-v-walker/#599" aria-description="Citation for case: Brown v. Walker">161 U. S. 591, 599-600</a></span>;
+  <em>
+   Rogers
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="104849"><a href="/opinion/104849/rogers-v-united-states/#374" aria-description="Citation for case: Rogers v. United States">340 U. S. 367, 374</a></span>. Petitioner was confronted by a comprehensive system of federal and state prohibitions against wagering activities; he was required, on pain of criminal prosecution, to provide information which he might reasonably suppose would be available to prosecuting authorities, and which would surely prove a significant “link in a chain”
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+  of evidence tending to establish his guilt.
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+  Unlike the income tax return
+  <span citation-index="1" class="star-pagination" label="49"> 
+   *49
+   </span>
+  in question in
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Sullivan,
+  </em>
+  <span class="citation" data-id="101083"><a href="/opinion/101083/united-states-v-sullivan/" aria-description="Citation for case: United States v. Sullivan">274 U. S. 259</a></span>, every portion of these requirements had the direct and unmistakable consequence of incriminating petitioner; the application of the constitutional privilege to the entire registration procedure was in this instance neither “extreme” nor “extravagant.” See
+  <span class="citation" data-id="101083"><a href="/opinion/101083/united-states-v-sullivan/#263" aria-description="Citation for case: United States v. Sullivan"><em>
+   id.,
+  </em>
+  at 263</a></span>. It would appear to follow that petitioner’s assertion of the privilege as a defense to this prosecution was entirely proper, and accordingly should have sufficed to prevent his conviction.
+ </p>
+<p id="b133-5">
+  Nonetheless, this Court has twice concluded that the privilege against self-incrimination may not appropriately be asserted by those in petitioner’s circumstances.
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="105090"><a href="/opinion/105090/united-states-v-kahriger/" aria-description="Citation for case: United States v. Kahriger">Kahriger, supra;</a></span> Lewis
+  </em>
+  v.
+  <em>
+   United States, supra.
+  </em>
+  We must therefore consider whether those cases have continuing force in light of our more recent decisions. Moreover, we must also consider the relevance of certain collateral lines of authority; in particular, we must determine whether either the “required records” doctrine,
+  <em>
+   Shapiro
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/" aria-description="Citation for case: Shapiro v. United States">335
+  <em>
+   U.
+  </em>
+  S. 1</a></span>, or restrictions placed upon the use by prosecuting authorities of information obtained as a consequence of the wagering taxes, cf.
+  <em>
+   Murphy
+  </em>
+  v.
+  <em>
+   Waterfront Commission,
+  </em>
+  <span class="citation" data-id="106864"><a href="/opinion/106864/murphy-v-waterfront-commission-of-new-york-harbor/" aria-description="Citation for case: Murphy v. Waterfront Commission of New York Harbor">378 U. S. 52</a></span>, should be utilized to preclude assertion of the constitutional privilege in this situation. To these questions we turn.
+ </p>
+<p id="b134-3">
+<span citation-index="1" class="star-pagination" label="50"> 
+   *50
+   </span>
+  III.
+ </p>
+<p id="b134-4">
+  The Court's opinion in
+  <em>
+   <span class="citation" data-id="105090"><a href="/opinion/105090/united-states-v-kahriger/" aria-description="Citation for case: United States v. Kahriger">Kahriger</a></span>
+  </em>
+  suggested that a defendant under indictment for willful failure to register under § 4412 cannot properly challenge the constitutionality under the Fifth Amendment of the registration requirement. For this point, the Court relied entirely upon Mr. Justice Holmes’ opinion for the Court in
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="101083"><a href="/opinion/101083/united-states-v-sullivan/" aria-description="Citation for case: United States v. Sullivan">Sullivan, supra.</a></span>
+  </em>
+  The taxpayer in
+  <em>
+   <span class="citation" data-id="101083"><a href="/opinion/101083/united-states-v-sullivan/" aria-description="Citation for case: United States v. Sullivan">Sullivan</a></span>
+  </em>
+  was convicted of willful failure to file an income tax return, despite his contention that the return would have obliged him to admit violations of the National Prohibition Act. The Court affirmed the conviction, and rejected the taxpayer’s claim of the privilege. It concluded that most of the return’s questions would not have compelled the taxpayer to make incriminating disclosures, and that it would have been “an extreme if not an extravagant application” of the privilege to permit him to draw within it the entire return. <span class="citation" data-id="101083"><a href="/opinion/101083/united-states-v-sullivan/#263" aria-description="Citation for case: United States v. Sullivan">274 U. S., at 263</a></span>.
+ </p>
+<p id="b134-5">
+  The Court in
+  <em>
+   <span class="citation" data-id="101083"><a href="/opinion/101083/united-states-v-sullivan/" aria-description="Citation for case: United States v. Sullivan">Sullivan</a></span>
+  </em>
+  was evidently concerned, first, that the claim before it was an unwarranted extension of the scope of the privilege, and, second, that to accept a claim of privilege not asserted at the time the return was due would “make the taxpayer rather than a tribunal the final arbiter of the merits of the claim.”
+  <em>
+   Albertson
+  </em>
+  v.
+  <em>
+   SACB,
+  </em>
+  <span class="citation" data-id="107110"><a href="/opinion/107110/albertson-v-subversive-activities-control-board/#79" aria-description="Citation for case: Albertson v. Subversive Activities Control Board">382 U. S. 70, 79</a></span>. Neither reason suffices to prevent this petitioner’s assertion of the privilege. The first is, as we have indicated, inapplicable, and we find the second unpersuasive in this situation. Every element of these requirements would have served to incriminate petitioner; to have required him to present his claim to Treasury officers would have obliged him “to prove guilt to avoid admitting it.”
+  <em>
+   United States
+  </em>
+  v.
+  <span class="citation" data-id="105090"><a href="/opinion/105090/united-states-v-kahriger/#34" aria-description="Citation for case: United States v. Kahriger"><em>
+   Kahriger, supra,
+  </em>
+  at 34</a></span> (concurring opinion). In these circumstances, we cannot conclude that his failure
+  <span citation-index="1" class="star-pagination" label="51"> 
+   *51
+   </span>
+  to assert the privilege to Treasury officials at the moment the tax payments were due irretrievably abandoned his constitutional protection. Petitioner is under sentence for violation of statutory requirements which he consistently asserted at and after trial to be unconstitutional; no more can here be required.
+ </p>
+<p id="b135-5">
+  The Court held in
+  <em>
+   <span class="citation" data-id="105280"><a href="/opinion/105280/lewis-v-united-states/" aria-description="Citation for case: Lewis v. United States">Lewis</a></span>
+  </em>
+  that the registration and occupational tax requirements do not infringe the constitutional privilege because they do not compel self-incrimination, but merely impose on the gambler the initial choice of whether he wishes, at the cost of his constitutional privilege, to commence wagering activities. The Court reasoned that even if the required disclosures might prove incriminating, the gambler need not register or pay the occupational tax if only he elects to cease, or never to begin, gambling. There is, the Court said, “no constitutional right to gamble.” <span class="citation" data-id="105280"><a href="/opinion/105280/lewis-v-united-states/#423" aria-description="Citation for case: Lewis v. United States">348 U. S., at 423</a></span>.
+ </p>
+<p id="b135-6">
+  We find this reasoning no longer persuasive. The question is not whether petitioner holds a “right” to violate state law, but whether, having done so, he may be compelled to give evidence against himself. The constitutional privilege was intended to shield the guilty and imprudent as well as the innocent and foresigh ted; if such an inference of antecedent choice were alone enough to abrogate the privilege’s protection, it would be excluded from the situations in which it has historically been guaranteed, and withheld from those who most require it. Such inferences, bottomed on what must ordinarily be a fiction, have precisely the infirmities which the Court has found in other circumstances in which implied or uninformed waivers of the privilege have been said to have occurred. See,
+  <em>
+   e. g., Carnley
+  </em>
+  v.
+  <em>
+   Cochran,
+  </em>
+  <span class="citation" data-id="106388"><a href="/opinion/106388/carnley-v-cochran/" aria-description="Citation for case: Carnley v. Cochran">369 U. S. 506</a></span>. Compare
+  <em>
+   Johnson
+  </em>
+  v.
+  <em>
+   Zerbst,
+  </em>
+  <span class="citation" data-id="103050"><a href="/opinion/103050/johnson-v-zerbst/" aria-description="Citation for case: Johnson v. Zerbst">304 U. S. 458</a></span>; and
+  <em>
+   Glasser
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="103597"><a href="/opinion/103597/glasser-v-united-states/" aria-description="Citation for case: Glasser v. United States">315 U. S. 60</a></span>. To give credence to such “waivers” without the most deliberate examination of the circumstances surrounding them
+  <span citation-index="1" class="star-pagination" label="52"> 
+   *52
+   </span>
+  would ultimately license widespread erosion of the privilege through “ingeniously drawn legislation/’ Morgan, The Privilege against Self-Incrimination, <span class="citation no-link">34 Minn. L. Rev. 1</span>, 37. We cannot agree that the constitutional privilege is meaningfully waived merely because those “inherently suspect of criminal activities” have been commanded either to cease wagering or to provide information incriminating to themselves, and have ultimately elected to do neither.
+ </p>
+<p id="b136-5">
+  The Court held in both
+  <em>
+   <span class="citation" data-id="105090"><a href="/opinion/105090/united-states-v-kahriger/" aria-description="Citation for case: United States v. Kahriger">Kahriger</a></span>
+  </em>
+  and
+  <em>
+   <span class="citation" data-id="105280"><a href="/opinion/105280/lewis-v-united-states/" aria-description="Citation for case: Lewis v. United States">Lewis</a></span>
+  </em>
+  that the registration and occupational tax requirements are entirely prospective in their application, and that the constitutional privilege, since it offers protection only as to past and present acts, is accordingly unavailable. This reasoning appears to us twice deficient: first, it overlooks the hazards here of incrimination as to past or present acts; and second, it is hinged upon an excessively narrow view of the scope of the constitutional privilege.
+ </p>
+<p id="b136-6">
+  Substantial hazards of incrimination as to past or present acts plainly may stem from the requirements to register and to pay the occupational tax. See generally McKee, The Fifth Amendment and the Federal Gambling Tax, 5 Duke B. J. 86. In the first place, satisfaction of those requirements increases the likelihood that any past or present gambling offenses will be discovered and successfully prosecuted. It both centers attention upon the registrant as a gambler, and compels “injurious disclosure [s]”
+  <a class="footnote" href="#fn11" id="fn11_ref">
+   11
+  </a>
+  which may provide or assist in the collection of evidence admissible in a prosecution for past or present offenses. These offenses need not include actual gambling; they might involve only the custody or transportation of gambling paraphernalia, or other preparations for future gambling. Further, the acquisition of a federal gambling tax stamp,
+  <span citation-index="1" class="star-pagination" label="53"> 
+   *53
+   </span>
+  requiring as it does the declaration of a present intent to commence gambling activities, obliges even a prospective gambler to accuse himself of conspiracy to violate either state gambling prohibitions, or federal laws forbidding the use of interstate facilities for gambling purposes. See,
+  <em>
+   e. g., Acklen
+  </em>
+  v.
+  <em>
+   State,
+  </em>
+  <span class="citation" data-id="1629806"><a href="/opinion/1629806/acklen-v-state/" aria-description="Citation for case: Acklen v. State">196 Tenn. 314</a></span>, <span class="citation" data-id="1629806"><a href="/opinion/1629806/acklen-v-state/" aria-description="Citation for case: Acklen v. State">267 S. W. 2d 101</a></span>.
+ </p>
+<p id="b137-5">
+  There is a second, and more fundamental, deficiency in the reasoning of
+  <em>
+   <span class="citation" data-id="105090"><a href="/opinion/105090/united-states-v-kahriger/" aria-description="Citation for case: United States v. Kahriger">Kahriger</a></span>
+  </em>
+  and
+  <em>
+   <span class="citation" data-id="105280"><a href="/opinion/105280/lewis-v-united-states/" aria-description="Citation for case: Lewis v. United States">Lewis</a></span>.
+  </em>
+  Its linchpin is plainly the premise that the privilege is entirely inapplicable to prospective acts; for this the Court in
+  <em>
+   <span class="citation" data-id="105090"><a href="/opinion/105090/united-states-v-kahriger/" aria-description="Citation for case: United States v. Kahriger">Kahriger</a></span>
+  </em>
+  could vouch as authority only a generalization at 8 Wig-more, Evidence § 2259c (3d ed. 1940).
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+  We see no warrant for so rigorous a constraint upon the constitutional privilege. History, to be sure, offers no ready illustrations of the privilege’s application to prospective acts, but the occasions on which such claims might appropriately have been made must necessarily have been very infrequent. We are, in any event, bid to view the constitutional commands as “organic living institutions,” whose significance is “vital not formal.”
+  <em>
+   Gompers
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="98185"><a href="/opinion/98185/gompers-v-united-states/#610" aria-description="Citation for case: Gompers v. United States">233 U. S. 604, 610</a></span>.
+ </p>
+<p id="b137-6">
+  The central standard for the privilege’s application has been whether the claimant is confronted by substantial and “real,” and not merely trifling or imaginary, hazards of incrimination.
+  <em>
+   Rogers
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="104849"><a href="/opinion/104849/rogers-v-united-states/#374" aria-description="Citation for case: Rogers v. United States">340 U. S. 367, 374</a></span>;
+  <em>
+   Brown
+  </em>
+  v.
+  <em>
+   Walker,
+  </em>
+  <span class="citation" data-id="94410"><a href="/opinion/94410/brown-v-walker/#600" aria-description="Citation for case: Brown v. Walker">161 U. S. 591, 600</a></span>. This principle does not permit the rigid chronological distinction adopted in
+  <em>
+   <span class="citation" data-id="105090"><a href="/opinion/105090/united-states-v-kahriger/" aria-description="Citation for case: United States v. Kahriger">Kahriger</a></span>
+  </em>
+  and
+  <em>
+   'Lewis.
+  </em>
+  We see
+  <span citation-index="1" class="star-pagination" label="54"> 
+   *54
+   </span>
+  no reason to suppose that the force of the constitutional prohibition is diminished merely because confession of a guilty purpose precedes the act which it is subsequently employed to evidence. Yet, if the factual situations in which the privilege may be claimed were inflexibly defined by a chronological formula, the policies which the constitutional privilege is intended to serve could easily be evaded. Moreover, although prospective acts will doubtless ordinarily involve only speculative and insubstantial risks of incrimination, this will scarcely always prove true. As we shall show, it is not true here. We conclude that it is not mere time to which the law must look, but the substantiality of the risks of incrimination.
+ </p>
+<p id="b138-6">
+  The hazards of incrimination created by §§4411 and 4412 as to future acts are not trifling or imaginary. Prospective registrants can reasonably expect that registration and payment of the occupational tax will significantly enhance the likelihood of their prosecution for future acts, and that it will readily provide evidence which will facilitate their convictions. Indeed, they can reasonably fear that registration, and acquisition of a wagering tax stamp, may serve as decisive evidence that they have in fact subsequently violated state gambling prohibitions. Compare Ala. Code, Tit. 14, §§ 302 (8)-(10) (1958); <span class="citation no-link">Ga. Code Ann. § 26-6413</span> (Supp. 1967). Insubstantial claims of the privilege as to entirely prospective acts may certainly be asserted, but such claims are not here, and they need only be considered when a litigant has the temerity to pursue them.
+ </p>
+<p id="b138-7">
+  We conclude that nothing in the Court’s opinions in
+  <em>
+   <span class="citation" data-id="105090"><a href="/opinion/105090/united-states-v-kahriger/" aria-description="Citation for case: United States v. Kahriger">Kahriger</a></span>
+  </em>
+  and
+  <em>
+   <span class="citation" data-id="105280"><a href="/opinion/105280/lewis-v-united-states/" aria-description="Citation for case: Lewis v. United States">Lewis</a></span>
+  </em>
+  now suffices to preclude petitioner’s assertion of the constitutional privilege as a defense to the indictments under which he was convicted. To this extent
+  <em>
+   <span class="citation" data-id="105090"><a href="/opinion/105090/united-states-v-kahriger/" aria-description="Citation for case: United States v. Kahriger">Kahriger</a></span>
+  </em>
+  and
+  <em>
+   <span class="citation" data-id="105280"><a href="/opinion/105280/lewis-v-united-states/" aria-description="Citation for case: Lewis v. United States">Lewis</a></span>
+  </em>
+  are overruled.
+ </p>
+<p id="b139-4">
+<span citation-index="1" class="star-pagination" label="55"> 
+   *55
+   </span>
+  IY.
+ </p>
+<p id="b139-5">
+  We must next consider the relevance in this situation of the “required records” doctrine,
+  <em>
+   Shapiro
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/" aria-description="Citation for case: Shapiro v. United States">335 U. S. 1</a></span>. It is necessary first to summarize briefly the circumstances in
+  <em>
+   <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/" aria-description="Citation for case: Shapiro v. United States">Shapiro</a></span>.
+  </em>
+  Petitioner, a wholesaler of fruit and produce, was obliged by a regulation issued under the authority of the Emergency Price Control Act to keep and “preserve for examination” various records “of the same kind as he has customarily kept....” Maximum Price Regulation 426, § 14, <span class="citation no-link">8 Fed. Reg. 9546</span>, 9548-9549 (1943). He was subsequently directed by an administrative subpoena to produce certain of these records before attorneys of the Office of Price Administration. Petitioner complied, but asserted his constitutional privilege. In a prosecution for violations of the Price Control Act, petitioner urged that the records had facilitated the collection of evidence against him, and claimed immunity from prosecution under § 202 (g) of the Act, <span class="citation no-link">56 Stat. 30</span>. Petitioner was nonetheless convicted, and his conviction was affirmed. 159 E. 2d 890.
+ </p>
+<p id="b139-6">
+  On certiorari, this Court held both that § 202 (g) did not confer immunity upon petitioner, and that he could not properly claim the protection of the privilege as to records which he was required by administrative regulation to preserve. On the second question, the Court relied upon the cases which have held that a custodian of public records may not assert the privilege as to those records, and reiterated a dictum in
+  <em>
+   Wilson
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="97431"><a href="/opinion/97431/wilson-v-united-states/#380" aria-description="Citation for case: Wilson v. United States">221 U. S. 361, 380</a></span>, suggesting that “the privilege which exists as to private papers cannot be maintained in relation to ‘records required by law to be kept in order that there may be suitable information of transactions which are the appropriate subjects of governmental regulation and the enforcement of restrictions validly estab-
+  <span citation-index="1" class="star-pagination" label="56"> 
+   *56
+   </span>
+  lushed.’ ”
+  <a class="footnote" href="#fn13" id="fn13_ref">
+   13
+  </a>
+  <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/#33" aria-description="Citation for case: Shapiro v. United States">335 U. S., at 33</a></span>. The Court considered that “it cannot be doubted” that the records in question had “public aspects,” and thus held that petitioner, as their custodian, could not properly assert the privilege as to them.
+  <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/#34" aria-description="Citation for case: Shapiro v. United States"><em>
+   Id.,
+  </em>
+  at 34</a></span>.
+ </p>
+<p id="b140-6">
+  We think that neither
+  <em>
+   <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/" aria-description="Citation for case: Shapiro v. United States">Shapiro</a></span>
+  </em>
+  nor the cases upon which it relied are applicable here.
+  <a class="footnote" href="#fn14" id="fn14_ref">
+   14
+  </a>
+  Compare generally Note, Required Information and the Privilege against Self-Incrimination, 65 Col. L. Rev. 681; and McKay, Self-Incrimination and the New Privacy, <span class="citation no-link">1967 Sup. Ct. Rev. 193</span>, 214r-217. Moreover, we find it unnecessary for present purposes to pursue in detail the question, left unanswered in Shapiro, of what “limits . . . the Government cannot constitutionally exceed in requiring the keeping of records . . . .” <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/#32" aria-description="Citation for case: Shapiro v. United States">335 U. S., at 32</a></span>. It is enough that there are significant points of difference between the situations here and in
+  <em>
+   <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/" aria-description="Citation for case: Shapiro v. United States">Shapiro</a></span>
+  </em>
+  which in this instance preclude, under any formulation, an appropriate application of the “required records” doctrine.
+ </p>
+<p id="b140-7">
+  Each of the three principal elements of the doctrine, as it is described in
+  <em>
+   <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/" aria-description="Citation for case: Shapiro v. United States">Shapiro</a></span>,
+  </em>
+  is absent from this situation.
+  <span citation-index="1" class="star-pagination" label="57"> 
+   *57
+   </span>
+  First, petitioner Marchetti was not, by the provisions now at issue, obliged to keep and preserve records “of the same kind as he has customarily kept”; he was required simply to provide information, unrelated to any records which he may have maintained, about his wagering activities. This requirement is not significantly different from a demand that he provide oral testimony. Compare McKay,
+  <em>
+   supra,
+  </em>
+  at 221. Second, whatever “public aspects” there were to the records at issue in
+  <em>
+   <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/" aria-description="Citation for case: Shapiro v. United States">Shapiro</a></span>,
+  </em>
+  there are none to the information demanded from Marchetti. The Government’s anxiety to obtain information known to a private individual does not without more render that information public; if it did, no room would remain for the application of the constitutional privilege. Nor does it stamp information with a public character that the Government has formalized its demands in the attire of a statute; if this alone were sufficient, the constitutional privilege could be entirely abrogated by any Act of Congress. Third, the requirements at issue in
+  <em>
+   <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/" aria-description="Citation for case: Shapiro v. United States">Shapiro</a></span>
+  </em>
+  were imposed in “an essentially non-criminal and regulatory area of inquiry” while those here are directed to a “selective group inherently suspect of criminal activities.” Cf.
+  <em>
+   Albertson
+  </em>
+  v.
+  <em>
+   SACB,
+  </em>
+  <span class="citation" data-id="107110"><a href="/opinion/107110/albertson-v-subversive-activities-control-board/#79" aria-description="Citation for case: Albertson v. Subversive Activities Control Board">382 U. S. 70, 79</a></span>. The United States’ principal interest is evidently the collection of revenue, and not the punishment of gamblers, see
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Calamaro,
+  </em>
+  <span class="citation" data-id="105538"><a href="/opinion/105538/united-states-v-calamaro/#358" aria-description="Citation for case: United States v. Calamaro">354 U. S. 351, 358</a></span>; but the characteristics of the activities about which information is sought, and the composition of the groups to which inquiries are made, readily distinguish this situation from that in
+  <em>
+   <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/" aria-description="Citation for case: Shapiro v. United States">Shapiro</a></span>.
+  </em>
+  There is no need to explore further the elements and limitations of
+  <em>
+   <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/" aria-description="Citation for case: Shapiro v. United States">Shapiro</a></span>
+  </em>
+  and the cases involving public papers; these points of difference in combination preclude any appropriate application of those cases to the present one.'
+ </p>
+<p id="b142-4">
+<span citation-index="1" class="star-pagination" label="58"> 
+   *58
+   </span>
+  y.
+ </p>
+<p id="b142-5">
+  Finally, we have been urged by the United States to permit continued enforcement of the registration and occupational tax provisions, despite the demands of the constitutional privilege, by shielding the privilege’s claimants through the imposition of restrictions upon the use by federal and state authorities of information obtained as a consequence of compliance with the wagering tax requirements. It is suggested that these restrictions might be similar to those imposed by the Court in
+  <em>
+   Murphy
+  </em>
+  v.
+  <em>
+   Waterfront Commission,
+  </em>
+  <span class="citation" data-id="106864"><a href="/opinion/106864/murphy-v-waterfront-commission-of-new-york-harbor/" aria-description="Citation for case: Murphy v. Waterfront Commission of New York Harbor">378 U. S. 52</a></span>.
+ </p>
+<p id="b142-6">
+  The Constitution of course obliges this Court to give full recognition to the taxing powers and to measures reasonably incidental to. their exercise. But we are equally obliged to give full effect to the constitutional restrictions which attend the exercise of those powers. We do not, as we have said, doubt Congress’ power to tax activities which are, wholly or in part, unlawful. Nor can it be doubted that the privilege against self-incrimination may not properly be asserted if other protection is granted which “is so broad as to have the same extent in scope and effect” as the privilege itself.
+  <em>
+   Counselman
+  </em>
+  v.
+  <em>
+   Hitchcock,
+  </em>
+  <span class="citation" data-id="93234"><a href="/opinion/93234/counselman-v-hitchcock/#585" aria-description="Citation for case: Counselman v. Hitchcock">142 U. S. 547, 585</a></span>. The Government’s suggestion is thus in principle an attractive and apparently practical resolution of the difficult problem before us. Compare Mansfield, The Albertson Case: Conflict Between the Privilege Against Self-Incrimination and the Government’s Need for Information, <span class="citation no-link">1966 Sup. Ct. Rev. 103</span>, 159; and McKay,
+  <em>
+   supra,
+  </em>
+  at 232. Nonetheless, we think that it would be entirely inappropriate in the circumstances here for the Court to impose such restrictions.
+ </p>
+<p id="b142-7">
+  The terms of the wagering tax system make quite plain that Congress intended information obtained as a consequence of registration and payment of the occupa
+  <span citation-index="1" class="star-pagination" label="59"> 
+   *59
+   </span>
+  tional tax to be provided to interested prosecuting authorities. See <span class="citation no-link">26 U. S. C. § 6107</span>.
+  <a class="footnote" href="#fn15" id="fn15_ref">
+   15
+  </a>
+  This has evidently been the consistent practice of the Revenue Service. We must therefore assume that the imposition of use-restrictions would directly preclude effectuation of a significant element of Congress’ purposes in adopting the wagering taxes.
+  <a class="footnote" href="#fn16" id="fn16_ref">
+   16
+  </a>
+  Moreover, the imposition of such restrictions would necessarily oblige state prosecuting authorities to establish in each case that their evidence was untainted by any connection with information obtained as a consequence of the wagering taxes;
+  <a class="footnote" href="#fn17" id="fn17_ref">
+   17
+  </a>
+  the federal requirements would thus be protected only at the cost of hampering, perhaps seriously, enforcement of state prohibitions against gambling. We cannot know how Congress would assess the competing demands of the
+  <span citation-index="1" class="star-pagination" label="60"> 
+   *60
+   </span>
+  federal treasury and of state gambling prohibitions; we are, however, entirely certain that the Constitution has entrusted to Congress, and not to this Court, the task of striking an appropriate balance among such values.
+  <a class="footnote" href="#fn18" id="fn18_ref">
+   18
+  </a>
+  We therefore must decide that it would be improper for the Court to impose restrictions of the kind urged by the United States.
+ </p>
+<p id="b144-4">
+  VI.
+ </p>
+<p id="b144-5">
+  We are fully cognizant of the importance for the United States’ various fiscal and regulatory functions of timely and accurate information, compare Mansfield,
+  <em>
+   supra,
+  </em>
+  and Meltzer, Required Records, the McCarran Act, and the Privilege against Self-Incrimination, <span class="citation no-link">18 U. Chi. L. Rev. 687</span>; but other methods, entirely consistent with constitutional limitations, exist by which Congress may obtain such information. See generally
+  <em>
+   <span class="citation" data-id="93234"><a href="/opinion/93234/counselman-v-hitchcock/" aria-description="Citation for case: Counselman v. Hitchcock">Counselman</a></span>
+  </em>
+  v.
+  <span class="citation" data-id="93234"><a href="/opinion/93234/counselman-v-hitchcock/#585" aria-description="Citation for case: Counselman v. Hitchcock"><em>
+   Hitchcock, supra,
+  </em>
+  at 585</a></span>; compare
+  <em>
+   <span class="citation" data-id="106864"><a href="/opinion/106864/murphy-v-waterfront-commission-of-new-york-harbor/" aria-description="Citation for case: Murphy v. Waterfront Commission of New York Harbor">Murphy</a></span>
+  </em>
+  v.
+  <em>
+   Waterfront <span class="citation" data-id="106864"><a href="/opinion/106864/murphy-v-waterfront-commission-of-new-york-harbor/" aria-description="Citation for case: Murphy v. Waterfront Commission of New York Harbor">Commission, supra.</a></span>
+  </em>
+  Accordingly, nothing we do today will prevent either the taxation or the regulation by Congress of activities otherwise made unlawful by state or federal statutes.
+ </p>
+<p id="b144-6">
+  Nonetheless, we can only conclude, under the wagering tax system as presently written, that petitioner properly asserted the privilege against self-incrimination, and that his assertion should have provided a complete defense to this prosecution. This defense should have reached both
+  <span citation-index="1" class="star-pagination" label="61"> 
+   *61
+   </span>
+  the substantive counts for failure to register and to pay the occupational tax, and the count for conspiracy to evade payment of the tax. We emphasize that we do not hold that these wagering tax provisions are as such constitutionally impermissible; we hold only that those who properly assert the constitutional privilege as to these provisions may not be criminally punished for failure to comply with their requirements. If, in different circumstances, a taxpayer is not confronted by substantial hazards of self-incrimination, or if he is otherwise outside the privilege’s protection, nothing we decide today would shield him from the various penalties prescribed by the wagering tax statutes.
+ </p>
+<p id="b145-4">
+  The judgment of the Court of Appeals is
+ </p>
+<p id="b145-5">
+<em>
+   Reversed.
+  </em>
+</p>
+<judges id="b145-6">
+  Mr. Justice Marshall took no part in the consideration or decision of this case.
+ </judges>
+<judges id="b145-7">
+  [For concurring opinion of Mr. Justice Brennan, see
+  <em>
+   post,
+  </em>
+  p. 72.]
+ </judges>
+<judges id="b145-8">
+  [For concurring opinion of Mr. Justice Stewart, see
+  <em>
+   post,
+  </em>
+  p. 76.]
+ </judges>
+<judges id="b145-9">
+  [For dissenting opinion of Mr. Chief Justice Warren, see
+  <em>
+   post,
+  </em>
+  p. 77.]
+ </judges>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b125-7">
+   Certiorari was originally granted in
+   <em>
+    Costello
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="8955024"><a href="/opinion/8963773/costello-v-united-states/" aria-description="Citation for case: Costello v. United States">383 U. S. 942</a></span>, to consider these issues. Upon Costello’s death, certiorari was granted in the present ease. <span class="citation multiple-matches"><a href="/c/U.%20S./385/1000/">385 U. S. 1000</a></span>. Mar-chetti and Costello, with others, were convicted at the same trial of identical offenses, arising from the same series of transactions. Certiorari both here and in
+   <em>
+    <span class="citation" data-id="8955024"><a href="/opinion/8963773/costello-v-united-states/" aria-description="Citation for case: Costello v. United States">Costello</a></span>
+   </em>
+   was limited to the following questions: “Do not the federal wagering tax statutes here involved violate the petitioner’s privilege against self-incrimination guaranteed by the Fifth Amendment? Should not this Court, especially in view of its recent decision in
+   <em>
+    Albertson
+   </em>
+   v.
+   <em>
+    Subversive Activities Control Board,
+   </em>
+   <span class="citation" data-id="9423096"><a href="/opinion/107110/albertson-v-subversive-activities-control-board/" aria-description="Citation for case: Albertson v. Subversive Activities Control Board">382 U. S. 70</a></span> (1965), overrule
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Kahriger,
+   </em>
+   <span class="citation" data-id="105090"><a href="/opinion/105090/united-states-v-kahriger/" aria-description="Citation for case: United States v. Kahriger">345 U. S. 22</a></span> (1953), and
+   <em>
+    Lewis
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="105280"><a href="/opinion/105280/lewis-v-united-states/" aria-description="Citation for case: Lewis v. United States">348 U. S. 419</a></span> (1955)?” After argument, the case was restored to the calendar, and set for reargument at the 1967 Term. <span class="citation multiple-matches"><a href="/c/U.%20S./388/903/">388 U. S. 903</a></span>. Counsel were asked to argue, in addition to the original questions, the following: “(1) What relevance, if any, has the required records doctrine,
+   <em>
+    Shapiro
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/" aria-description="Citation for case: Shapiro v. United States">335 U. S. 1</a></span>, to the validity under the Fifth Amendment of the registration and special occupational tax requirements of <span class="citation no-link">26 U. S. C. §§4411</span>, 4412? (2) Can an obligation to pay the special occupational tax required by <span class="citation no-link">26 U. S. C. § 4411</span> be satisfied without filing the registration statement provided for by <span class="citation no-link">26 U. S. C. §4412</span>?”
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b126-9">
+   A July 1963 revision of Form 11-C modified the form of certain of its questions. The record does not indicate which version of the return was available to petitioner at the time of the omissions for which he was convicted. The minor verbal variations between the two do not affect the result which we reach today.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b127-6">
+   The Treasury Regulations provide that a stamp, evidencing payment of the occupational tax, may not be issued unless the taxpayer both submits Form 11-C and tenders the full amount of the tax. <span class="citation no-link">26 CFR §44.4901-1</span> (c). Accordingly, the Revenue Service has refused to accept the $50 tax unless it is accompanied by the completed registration form; and it has consistently been upheld in that practice. See
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Whiting,
+   </em>
+   <span class="citation" data-id="259040"><a href="/opinion/259040/united-states-v-orion-t-whiting-jr-and-lucretia-killings/" aria-description="Citation for case: United States v. Orion T. Whiting, Jr., and Lucretia...">311 F. 2d 191</a></span>;
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Mungiole,
+   </em>
+   <span class="citation" data-id="239417"><a href="/opinion/239417/united-states-v-arthur-mungiole/" aria-description="Citation for case: United States v. Arthur Mungiole">233 F. 2d 204</a></span>;
+   <em>
+    Combs
+   </em>
+   v.
+   <em>
+    Snyder,
+   </em>
+   <span class="citation" data-id="1642700"><a href="/opinion/1642700/combs-v-snyder/" aria-description="Citation for case: Combs v. Snyder">101 F. Supp. 531</a></span>, aff’d, <span class="citation" data-id="8922007"><a href="/opinion/8931862/combs-v-snyder/" aria-description="Citation for case: Combs v. Snyder">342 U. S. 939</a></span>. The United States has in this case acknowledged that the registration and occupational tax provisions are not realistically severable. Brief on Reargument 37-41.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b127-7">
+   In his trial testimony in
+   <em>
+    Grosso
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   decided herewith,
+   <em>
+    post,
+   </em>
+   p. 62, W. Dean Struble, technical advisor to the District Director of Internal Revenue, Pittsburgh, Pennsylvania, described Form 11-C as follows: “A Form 11-C serves two purposes. The first is an application for registry for a wagering tax stamp. After the application is properly filed and the tax paid, at that time the Form 11-C becomes a special tax return.” Transcript of Record 90.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b128-10">
+   The following illustrate the state gambling and wagering statutes under which one engaged in activities taxable under the federal provisions at issue here might incur criminal penalties. Ala. Code,
+   <span citation-index="1" class="star-pagination" label="45"> 
+    *45
+    </span>
+   Tit. 14, c. 46 (1958); Alaska Laws, Tit. 65, e. 13 (1949); <span class="citation no-link">Ariz. Rev. Stat. Ann. § 13-438</span> (1956); Ark. Stat. Ann., Tit. 41, e. 20 (1947); <span class="citation no-link">Cal. Pen. Code §§ 330</span>-337a (1956); Colo. Rev. Stat. Ann., c. 40, Art. 10 (1963); Del. Code Ann., Tit. 11, §§ 665-669 (1953); D. C. Code Ann. §§ 22-1504 to 22-1511 (1967); Fla. Stat., c. 849 (1965); Ga. Code Ann., c. 26-64 (1953); Hawaii Rev. Laws, e. 288 (1955); Idaho Code Ann., Tit. 18, c. 38 (1948); Ill. Rev. Stat., c. 38, Art. 28 (1965); Ind. Ann. Stat., Tit. 10, e. 23 (1956); Iowa Code, e. 726 (1966); Kan. Stat. Ann., c. 21, Art. 15 (1964); Ky. Rev. Stat. §436.200 (1962); La. Rev. Stat. § 14:90 (1950); Me. Rev. Stat. Ann., Tit. 17, c. 61 (1964); Md. Ann. Code, Art, 27, §§237-242 (1957); Mass. Gen. Laws Ann., c. 271 (1959); Mich. Stat. Ann. §28.533 (1954); <span class="citation no-link">Minn. Stat. §609.755</span> (1965); <span class="citation no-link">Miss. Code Ann. §§ 2190-2202</span> (1942); <span class="citation no-link">Mo. Rev. Stat. § 563.350</span> (1959); Mont. Rev. Codes Ann., Tit. 94, c. 24 (1947); <span class="citation no-link">Neb. Rev. Stat. §28-941</span> (1943); <span class="citation no-link">Nev. Rev. Stat. §§293.603</span>, 465.010 (1957); N. H. Rev. Stat. Ann., e. 577 (1955); N. J. Rev. Stat., Tit. 2A, c. 112 (1953); N. M. Stat. Ann., c. 40A, Art. 19 (1953); N. Y. Pen. Law, Art. 225 (1967); N. C. Gen. Stat. §§ 14 — 292 to 14-295 (1953); N. D. Cent. Code Ann., c. 12-23 (1959); Ohio Rev. Code Ann., c. 2915 (1953); Okla. Stat. Ann., Tit. 21, c. 38 (1958); Ore. Rev. Stat. § 167.505 (1965); Pa. Stat. Ann., Tit. 18, §§ 4603-4607 (1963); R. I. Gen. Laws Ann., Tit. 11, c. 19 (1956); S. C. Code Ann., Tit. 16, c. 8, Art. 1 (1962); S. D. Code, Tit. 24, c. 24.01 (1939); Tenn. Code Ann., Tit. 39, c. 20 (1955); Tex. Pen. Code Ann., c. 6 (1952); Utah Code Ann., Tit. 76, c. 27 (1953); Vt. Stat. Ann., Tit. 13, c. 43, subch. 2 (1959); Va. Code Ann., Tit. 18.1, c. 7, Art. 2 (1950); Wash. Rev. Code, Tit. 9, c. 9.47 (1956); W. Va. Code Ann., c. 61, Art. 10 (1961); Wis. Stat., c. 945 (1965); Wyo. Stat. Ann., Tit. 6, c. 9, Art. 2 (1957). These statutes of course vary in their terms and scope, but these variations scarcely detract from the breadth or prevalence of the penalties which in combination they create.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b129-10">
+   New Hampshire conducts a state sweepstakes, but imposes broad criminal penalties upon privately operated lotteries. N. H. Rev. Stat. Ann., c. 577 (1955). The following illustrate the other state statutes which impose criminal penalties upon lottery activities which would be taxable under these federal statutes. Ala. Code,
+   <span citation-index="1" class="star-pagination" label="46"> 
+    *46
+    </span>
+   Tit. 14, c. 46 (1958); Alaska Laws §65-13-1 (1949); <span class="citation no-link">Ariz. Rev. Stat. Ann. § 13-436</span> (1956); Ark. Stat. Ann. §41-2024 (1947); <span class="citation no-link">Cal. Pen. Code §§ 319-326</span> (1956); Colo. Rev. Stat. Ann., c. 40, Art. 16 (1963); Del. Code Ann., Tit. 11, §§661-664 (1953); D. C. Code Ann. § 22-1501 (1967); <span class="citation no-link">Fla. Stat. § 849.09</span> (1965); Ga. Code Ann., c. 26-65 (1953); Hawaii Rev. Laws, e. 288 (1955); Idaho Code Ann., Tit. 18, e. 49 (1948); Ill. Rev. Stat., c. 38, Art. 28 (1965); Ind. Ann. Stat., Tit. 10, c. 23 (1956); <span class="citation no-link">Iowa Code §726.8</span> (1966); Kan. Stat. Ann., c. 21, Art. 15 (1964); Ky. Rev. Stat. §436.360 (1962); La. Rev. Stat. §14:90 (1950); Me. Rev. Stat. Ann., Tit. 17, c. 81 (1964); Md. Ann. Code, Art. 27, § 356 (1957); Mass. Gen. Laws Ann., c. 271 (1959); Mich. Stat. Ann., §§ 28.604-28.608 (1954); <span class="citation no-link">Miss. Code Ann. §§2270-2279</span> (1942); <span class="citation no-link">Mo. Rev. Stat. § 563.430</span> (1959); Mont. Rev. Codes Ann., Tit. 94, c. 30 (1947); <span class="citation no-link">Neb. Rev. Stat. §28-961</span> (1943); N. J. Rev. Stat., Tit. 2A, c. 121 (1953); N. M. Stat. Ann., c. 40A, Art. 19 (1953); N. Y. Pen. Law, Art. 225 (1967); N. C. Gen. Stat. §§14-289 to 14-291 (1953); N. D. Cent. Code Ann., e. 12-24 (1959); Ohio Rev. Code Ann., c. 2915 (1953); Okla. Stat. Ann., Tit. 21, c. 41 (1958); Ore. Rev. Stat. § 167.405 (1965); Pa. Stat. Ann., Tit. 18, §§ 4601-4602 (1963); R. I. Gen. Laws Ann., Tit. 11, c. 19 (1956); S. C. Code Ann., Tit. 16, c. 8, Art. 1 (1962); S. D. Code, Tit. 24, c. 24.01 (1939)1; <span class="citation no-link">Tenn. Code Ann. § 39-2017</span> (1955); Tex. Pen. Code Ann., Art. 654 (1952); Utah Code Ann., Tit. 76, c. 27 (1953); Vt. Stat. Ann., Tit. 13, c. 43, subch. 1 (1959); Va. Code Ann., Tit. 18.1, c. 7, Art. 2 (1950); Wash. Rev. Code, Tit. 9, c. 9.59 (1956); W. Va. Code Ann., e. 61, Art. 10 (1961); Wis. Stat., c 945 (1965); Wyo. Stat. Ann., Tit. 6, c. 9, Art. 2 (1957).
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b131-6">
+   See,
+   <em>
+    e. g., Irvine
+   </em>
+   v.
+   <em>
+    California,
+   </em>
+   <span class="citation" data-id="105194"><a href="/opinion/105194/irvine-v-california/" aria-description="Citation for case: Irvine v. California">347 U. S. 128</a></span>;
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Zizzo,
+   </em>
+   <span class="citation" data-id="265986"><a href="/opinion/265986/united-states-v-frank-nick-zizzo-alexander-stasnick-hugo-a-lazzareschi/" aria-description="Citation for case: United States v. Frank Nick Zizzo, Alexander Stasnick,...">338 F. 2d 577</a></span>;
+   <em>
+    Commonwealth
+   </em>
+   v.
+   <em>
+    Fiorini,
+   </em>
+   <span class="citation" data-id="1990657"><a href="/opinion/1990657/commonwealth-v-fiorini/" aria-description="Citation for case: Commonwealth v. Fiorini">202 Pa. Super. 88</a></span>, <span class="citation" data-id="1990657"><a href="/opinion/1990657/commonwealth-v-fiorini/" aria-description="Citation for case: Commonwealth v. Fiorini">195 A. 2d 119</a></span>;
+   <em>
+    State
+   </em>
+   v.
+   <em>
+    Curry,
+   </em>
+   <span class="citation" data-id="3759685"><a href="/opinion/4005301/state-v-curry/" aria-description="Citation for case: State v. Curry">92 Ohio App. 1</a></span>, <span class="citation" data-id="3759685"><a href="/opinion/4005301/state-v-curry/" aria-description="Citation for case: State v. Curry">109 N. E. 2d 298</a></span>;
+   <em>
+    State v. Reinhardt,
+   </em>
+   <span class="citation" data-id="1134105"><a href="/opinion/1134105/state-v-reinhardt/" aria-description="Citation for case: State v. Reinhardt">229 La. 673</a></span>, <span class="citation" data-id="1134105"><a href="/opinion/1134105/state-v-reinhardt/" aria-description="Citation for case: State v. Reinhardt">86 So. 2d 530</a></span>;
+   <em>
+    Griggs
+   </em>
+   v.
+   <em>
+    State,
+   </em>
+   <span class="citation" data-id="1948105"><a href="/opinion/1948105/griggs-v-state/" aria-description="Citation for case: Griggs v. State">37 Ala. App. 605</a></span>, <span class="citation" data-id="1948105"><a href="/opinion/1948105/griggs-v-state/" aria-description="Citation for case: Griggs v. State">73 So. 2d 382</a></span>;
+   <em>
+    McClary
+   </em>
+   v.
+   <em>
+    State,
+   </em>
+   211 Term. 46, <span class="citation" data-id="2417838"><a href="/opinion/2417838/mcclary-v-state/" aria-description="Citation for case: McClary v. State">362 S. W. 2d 450</a></span>. See also
+   <em>
+    State
+   </em>
+   v.
+   <em>
+    Baum,
+   </em>
+   <span class="citation" data-id="7175100"><a href="/opinion/7260629/state-v-baum/" aria-description="Citation for case: State v. Baum">230 La. 247</a></span>, <span class="citation" data-id="7175100"><a href="/opinion/7260629/state-v-baum/" aria-description="Citation for case: State v. Baum">88 So. 2d 209</a></span>.
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b132-7">
+   One State has gone a step further to facilitate the enforcement of its gambling prohibitions through the federal wagering tax. Illinois requires each holder of a wagering tax stamp to register with the clerk of the county in which he resides or conducts any business, and imposes fines and imprisonment upon those who do not. Ill. Rev. Stat., c. 38, §28-4 (1965).
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b132-8">
+   The metaphor is to be found in the opinions both of Lord Eldon in
+   <em>
+    Paxton
+   </em>
+   v.
+   <em>
+    Douglas,
+   </em>
+   19 Ves. Jr. 225, 227, and of Chief Justice Marshall in
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Burr, In re Willie,
+   </em>
+   <span class="citation" data-id="8638363"><a href="/opinion/8658512/united-states-v-burr/#40" aria-description="Citation for case: United States v. Burr">25 Fed. Cas. 38, 40</a></span> (No. 14,692 e).
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b132-9">
+   We must note that some States and municipalities have undertaken to punish compliance with the federal wagering tax statutes in an even more direct fashion. Alabama has created a statutory presumption that possessors of federal wagering tax stamps are in violation of state law. Ala. Code, Tit. 14, §§302 (8)-(10) (1958). Florida adopted a similar statute, Fla. Laws 1953, c. 28057, but
+   <span citation-index="1" class="star-pagination" label="49"> 
+    *49
+    </span>
+   it was subsequently declared unconstitutional by the Florida Supreme Court.
+   <em>
+    Jefferson
+   </em>
+   v.
+   <em>
+    Sweat,
+   </em>
+   <span class="citation" data-id="1113181"><a href="/opinion/1113181/jefferson-v-sweat/" aria-description="Citation for case: Jefferson v. Sweat">76 So. 2d 494</a></span>. The Supreme Court of Tennessee has upheld an ordinance adopted by the City of Chattanooga which makes possession of a federal tax stamp a misdemeanor.
+   <em>
+    Deitch
+   </em>
+   v.
+   <em>
+    City of Chattanooga,
+   </em>
+   <span class="citation" data-id="2448244"><a href="/opinion/2448244/deitch-v-city-of-chattanooga/" aria-description="Citation for case: Deitch v. City of Chattanooga">195 Tenn. 245</a></span>, <span class="citation" data-id="2448244"><a href="/opinion/2448244/deitch-v-city-of-chattanooga/" aria-description="Citation for case: Deitch v. City of Chattanooga">258 S. W. 2d 776</a></span>. See for a similar provision Rev. Ord., Kansas City, Missouri, § 23.110 (1956); and
+   <em>
+    Kansas City
+   </em>
+   v.
+   <em>
+    Lee,
+   </em>
+   <span class="citation" data-id="5031994"><a href="/opinion/5208509/kansas-city-v-lee/" aria-description="Citation for case: Kansas City v. Lee">414 S. W. 2d 251</a></span>. Georgia has recently provided by statute that the possession or purchase of a federal wagering tax stamp is “prima facie evidence of guilt” of professional gambling. <span class="citation no-link">Ga. Code Ann. §26-6413</span> (Supp. 1967). See for a similar rule
+   <em>
+    <span class="citation" data-id="2417838"><a href="/opinion/2417838/mcclary-v-state/" aria-description="Citation for case: McClary v. State">McClary</a></span>
+   </em>
+   v.
+   <em>
+    State, supra,
+   </em>
+   n. 7.
+  </p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b136-7">
+<em>
+    Hoffman
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="104912"><a href="/opinion/104912/hoffman-v-united-states/#487" aria-description="Citation for case: Hoffman v. United States">341 U. S. 479, 487</a></span>.
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="b137-7">
+   We presume that the Court referred to the following: “[T]here is no compulsory self-crimination in a rule of law which merely requires beforehand a future report on a class of future acts among which a particular one may or may not in future be criminal at the choice of the party reporting.” 8 Wigmore,
+   <em>
+    supra,
+   </em>
+   at 349. But see Morgan,
+   <em>
+    supra,
+   </em>
+   at 37; and McKay, Self-Incrimination and the New Privacy, <span class="citation no-link">1967 Sup. Ct. Rev. 193</span>, 221.
+  </p>
+</div><div class="footnote" id="fn13" label="13">
+<a class="footnote" href="#fn13_ref">
+   13
+  </a>
+<p id="b140-8">
+   The Court in fact quoted from the reiteration of the
+   <em>
+    <span class="citation" data-id="97431"><a href="/opinion/97431/wilson-v-united-states/" aria-description="Citation for case: Wilson v. United States">Wilson</a></span>
+   </em>
+   dictum included in
+   <em>
+    Davis
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="104313"><a href="/opinion/104313/davis-v-united-states/#590" aria-description="Citation for case: Davis v. United States">328 U. S. 582, 590</a></span>.
+  </p>
+</div><div class="footnote" id="fn14" label="14">
+<a class="footnote" href="#fn14_ref">
+   14
+  </a>
+<p id="b140-9">
+   The United States has urged that this case is not reached by
+   <em>
+    <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/" aria-description="Citation for case: Shapiro v. United States">Shapiro</a></span>
+   </em>
+   simply because petitioner was required to submit reports, and not to maintain records. Insofar as this is intended to suggest the the crucial issue respecting the applicability of
+   <em>
+    <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/" aria-description="Citation for case: Shapiro v. United States">Shapiro</a></span>
+   </em>
+   is the method by which information reaches the Government, we are unable to accept the distinction. We perceive no meaningful difference between an obligation to maintain records for inspection, and such an obligation supplemented by a requirement that those records be filed periodically with officers of the United States. We believe, as the United States itself argued in
+   <em>
+    <span class="citation" data-id="104585"><a href="/opinion/104585/shapiro-v-united-states/" aria-description="Citation for case: Shapiro v. United States">Shapiro</a></span>,
+   </em>
+   that “[regulations permit records to be retained, rather than filed, largely for the convenience of the persons regulated.” Brief for the United States in No. 49, October Term 1947, at 21, n. 7.
+  </p>
+</div><div class="footnote" id="fn15" label="15">
+<a class="footnote" href="#fn15_ref">
+   15
+  </a>
+<p id="b143-4">
+   Section 6107 reads as follows:
+  </p>
+<p id="b143-5">
+   “In the principal internal revenue office in each internal revenue district there shall be kept, for public inspection, an alphabetical list of the names of all persons who have paid special taxes under subtitle D or E within such district. Such list shall be prepared and kept pursuant to regulations prescribed by the Secretary or his delegate, and shall contain the time, place, and business for which such special taxes have been paid, and upon application of any prosecuting officer of any State, county, or municipality there shall be furnished to him a certified copy thereof, as of a public record, for which a fee of $1 for each 100 words or fraction thereof in the copy or copies so requested may be charged.” The special taxes to which the section refers include the occupational tax imposed by <span class="citation no-link">26 U. S. C. §4411</span>.
+  </p>
+</div><div class="footnote" id="fn16" label="16">
+<a class="footnote" href="#fn16_ref">
+   16
+  </a>
+<p id="b143-6">
+   The requirement now embodied in § 6107 was adopted prior to the special occupational tax on wagering, but Congress plainly indicated when it adopted the latter that it understood, and wished, that state prosecuting authorities would be provided fists of those who had paid the wagering tax. See H. R. Rep. No. 586, 82d Cong., 1st Sess., 60; S. Rep. No. 781, 82d Cong., 1st Sess., 118.
+  </p>
+</div><div class="footnote" id="fn17" label="17">
+<a class="footnote" href="#fn17_ref">
+   17
+  </a>
+<p id="b143-7">
+   The Court required such a showing as part of the restrictions imposed in
+   <em>
+    Murphy,
+   </em>
+   <span class="citation" data-id="106864"><a href="/opinion/106864/murphy-v-waterfront-commission-of-new-york-harbor/#79" aria-description="Citation for case: Murphy v. Waterfront Commission of New York Harbor">378 U. S., at 79, n. 18</a></span>. The United States has acknowledged that this would be no less imperative here. Brief for the United States 24r-25.
+  </p>
+</div><div class="footnote" id="fn18" label="18">
+<a class="footnote" href="#fn18_ref">
+   18
+  </a>
+<p id="b144-7">
+   It should be emphasized that it would not suffice here simply to sever § 6107. See <span class="citation no-link">26 U. S. C. § 7852</span> (a). Cf.
+   <em>
+    Warren
+   </em>
+   v.
+   <em>
+    Mayor of Charlestown,
+   </em>
+   <span class="citation no-link">2 Gray 84</span>, 99;
+   <em>
+    Carter
+   </em>
+   v.
+   <em>
+    Carter Coal Co.,
+   </em>
+   <span class="citation" data-id="102662"><a href="/opinion/102662/carter-v-carter-coal-co/#316" aria-description="Citation for case: Carter v. Carter Coal Co.">298 U. S. 238, 316</a></span>. We would be required not merely to strike out words, but to insert words that are not now in the statute. Here, as in the analogous circumstances of
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Reese,
+   </em>
+   <span class="citation" data-id="89266"><a href="/opinion/89266/united-states-v-reese/" aria-description="Citation for case: United States v. REESE">92 U. S. 214</a></span>, “This would, to some extent, substitute the judicial for the legislative department of the government. ... To limit this statute in the manner now asked for would be to make a new law, not to enforce an old one. This is no part of our duty.”
+   <span class="citation" data-id="89266"><a href="/opinion/89266/united-states-v-reese/#221" aria-description="Citation for case: United States v. REESE"><em>
+    Id.,
+   </em>
+   at 221</a></span>.
+  </p>
+</div></div></opinion>

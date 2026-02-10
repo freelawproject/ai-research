@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b688-3">
+<span citation-index="1" class="star-pagination" label="576"> 
+   *576
+   </span>
+  Me. Justice Douglas
+ </author>
+<p id="App">
+  delivered the opinion of the Court.
+ </p>
+<p id="b688-4">
+  S. S. Unicoi was a vessel owned by the United States Maritime Commission and operated for it by respondent under a contract covering this and other vessels. The contract
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  recites that it was made pursuant to § 707 (c) of the Merchant Marine Act of 1936 (<span class="citation no-link">49 Stat. 2009</span>, <span class="citation no-link">46 U. S. C. § 1197</span> (c); see § 704, <span class="citation no-link">46 U. S. C. § 1194</span>), the Commission having advertised the line for charter and having failed to receive satisfactory bids. Respondent is a private corporation, none of whose stock is owned directly or indirectly by the United States.
+ </p>
+<p id="b688-5">
+  The deceased was a United States customs inspector. While boarding the vessel on his official duties in July 1938, a rung of the ladder which he was climbing broke. The injuries which resulted caused his death. At the time of the injury the vessel was docked at a pier in New York City.
+ </p>
+<p id="b689-5">
+<span citation-index="1" class="star-pagination" label="577"> 
+   *577
+   </span>
+  Petitioner, the widow, sued as administratrix to recover damages for the benefit of herself and the children. That suit was brought in the New York Supreme Court but removed to the federal District Court. Respondent moved to dismiss on the authority of
+  <em>
+   Johnson
+  </em>
+  v.
+  <em>
+   Emergency Fleet Corp.,
+  </em>
+  <span class="citation" data-id="101495"><a href="/opinion/101495/johnson-v-united-states-shipping-bd-emergency-fleet-corporation/" aria-description="Citation for case: Johnson v. United States Shipping Bd. Emergency Fleet...">280 U. S. 320</a></span>. That motion was denied and a trial to a jury on the law side of the court was had. A verdict for petitioner was returned. On appeal the judgment was reversed with directions to dismiss the complaint, one judge dissenting. The Circuit Court of Appeals stated in reaching that result that the Suits in Admiralty Act (<span class="citation no-link">41 Stat. 525</span>, <span class="citation no-link">46 U. S. C. §§ 741</span>, 742) as construed by the decision in the
+  <em>
+   <span class="citation" data-id="101495"><a href="/opinion/101495/johnson-v-united-states-shipping-bd-emergency-fleet-corporation/" aria-description="Citation for case: Johnson v. United States Shipping Bd. Emergency Fleet...">Johnson</a></span>
+  </em>
+  case made the remedies afforded by that Act the exclusive ones, viz. a libel
+  <em>
+   in personam
+  </em>
+  against the United States or the Maritime Commission. <span class="citation" data-id="6884815"><a href="/opinion/6986638/brady-v-roosevelt-s-s-co/" aria-description="Citation for case: Brady v. Roosevelt S. S. Co.">128 F. 2d 169</a></span>. We granted the petition for a writ of certiorari because of the public importance of the problem.
+ </p>
+<p id="b689-6">
+  We agree with the court below that this was a maritime tort over which the admiralty court has jurisdiction.
+  <em>
+   Vancouver S. S. Co.
+  </em>
+  v.
+  <em>
+   Rice,
+  </em>
+  <span class="citation" data-id="102049"><a href="/opinion/102049/vancouver-steamship-co-v-rice/" aria-description="Citation for case: Vancouver Steamship Co. v. Rice">288 U. S. 445</a></span>;
+  <em>
+   The Admiral Peoples,
+  </em>
+  <span class="citation" data-id="102479"><a href="/opinion/102479/the-admiral-peoples/" aria-description="Citation for case: The Admiral Peoples">295 U. S. 649</a></span>. And we may assume that petitioner could have sued either the United States or the Commission under the Suits in Admiralty Act. In any event, such a suit would be the exclusive remedy in admiralty against either of them.
+  <em>
+   Eastern Transportation Co.
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="100968"><a href="/opinion/100968/eastern-transportation-co-v-united-states/" aria-description="Citation for case: Eastern Transportation Co. v. United States">272 U. S. 675</a></span>;
+  <em>
+   Emergency Fleet Corp.
+  </em>
+  v.
+  <em>
+   Rosenberg Bros. &amp; Co.,
+  </em>
+  <span class="citation" data-id="101230"><a href="/opinion/101230/united-states-shipping-bd-emergency-fleet-corporation-v-rosenberg/" aria-description="Citation for case: United States Shipping Bd. Emergency Fleet Corporation v....">276 U. S. 202</a></span>. And it is likewise clear that the action in admiralty afforded by § 2 of the Suits in Admiralty Act is the only available remedy against the United States or a corporation whose entire outstanding capital stock is owned by the United States or its representatives.
+  <em>
+   <span class="citation" data-id="101495"><a href="/opinion/101495/johnson-v-united-states-shipping-bd-emergency-fleet-corporation/" aria-description="Citation for case: Johnson v. United States Shipping Bd. Emergency Fleet...">Johnson</a></span>
+  </em>
+  v.
+  <em>
+   Emergency Fleet Corp., supra.
+  </em>
+  The sole question here is whether the Suits in Admiralty Act makes private operators such as respondent non-suable for their torts.
+ </p>
+<p id="b690-4">
+<span citation-index="1" class="star-pagination" label="578"> 
+   *578
+   </span>
+<em>
+   Emergency Fleet Corp.
+  </em>
+  v.
+  <em>
+   Lustgarten,
+  </em>
+  <span class="citation" data-id="101495"><a href="/opinion/101495/johnson-v-united-states-shipping-bd-emergency-fleet-corporation/" aria-description="Citation for case: Johnson v. United States Shipping Bd. Emergency Fleet...">280 U. S. 320</a></span>, one of the three companion cases to the
+  <em>
+   <span class="citation" data-id="101495"><a href="/opinion/101495/johnson-v-united-states-shipping-bd-emergency-fleet-corporation/" aria-description="Citation for case: Johnson v. United States Shipping Bd. Emergency Fleet...">Johnson</a></span>
+  </em>
+  ease, supports the view that it does. In that case a merchant vessel, Coelleda, was owned by the United States and operated for it by the Consolidated Navigation Co. pursuant to a contract made through the Fleet Corporation. A seaman employed thereon sued the Fleet Corporation and the Consolidated Navigation Co. to recover damages for personal injuries sustained in that service. There was a judgment for the plaintiff which was affirmed on appeal. This Court reversed and remanded the cause with directions to dismiss. The
+  <em>
+   <span class="citation" data-id="101495"><a href="/opinion/101495/johnson-v-united-states-shipping-bd-emergency-fleet-corporation/" aria-description="Citation for case: Johnson v. United States Shipping Bd. Emergency Fleet...">Johnson</a></span>
+  </em>
+  case and the other two companion cases were suits against the Fleet Corporation or the United States. In one opinion dealing with all four cases, this Court said: “Directly or mediately, the money required to pay a judgment against any of the defendants in these cases would come out of the United States. It is the real party affected in all of these actions.” 280 U. S. pp. 326-327. It added that the aim of uniformity would not be established “if suits under the Tucker Act and in the Court of Claims be allowed against the United States and actions at law in state and federal courts be permitted against the Fleet Corporation or other agents for enforcement of the maritime causes of action covered by the Act.” p. 327. Accordingly it concluded that “the remedies given by the Act are exclusive in all cases where a libel might be filed under it.” p. 327. These statements, coupled with the fact that the judgment in the
+  <em>
+   <span class="citation" data-id="101495"><a href="/opinion/101495/johnson-v-united-states-shipping-bd-emergency-fleet-corporation/" aria-description="Citation for case: Johnson v. United States Shipping Bd. Emergency Fleet...">Lustgarten</a></span>
+  </em>
+  case was reversed not only as respects the Fleet Corporation but the Consolidated Navigation Co. as well, support the view adopted by the court below.
+ </p>
+<p id="b690-5">
+  Our conclusion, however, is that that position is untenable and that the
+  <em>
+   <span class="citation" data-id="101495"><a href="/opinion/101495/johnson-v-united-states-shipping-bd-emergency-fleet-corporation/" aria-description="Citation for case: Johnson v. United States Shipping Bd. Emergency Fleet...">Lustgarten</a></span>
+  </em>
+  case so far as it would prevent a private operator from being sued under the circumstances of this case must be considered as no longei controlling.
+ </p>
+<p id="b691-3">
+<span citation-index="1" class="star-pagination" label="579"> 
+   *579
+   </span>
+  There is ample support for the holding in the
+  <em>
+   <span class="citation" data-id="101495"><a href="/opinion/101495/johnson-v-united-states-shipping-bd-emergency-fleet-corporation/" aria-description="Citation for case: Johnson v. United States Shipping Bd. Emergency Fleet...">Johnson</a></span>
+  </em>
+  case that § 2 of the Suits in Admiralty Act was intended to provide the only available remedy against the United States or its wholly owned corporations for enforcement of maritime causes of action covered by the Act. But there is not the slightest intimation or suggestion in the history of that Act that it was designed to abolish all remedies which might exist against a private company for torts committed during its operation of government vessels under agency agreements.
+ </p>
+<p id="b691-4">
+  Sec. 1 of the Suits in Admiralty Act provides that no vessel owned by the United States or a governmental corporation or “operated by or for the United States, or such corporation” shall be “subject to arrest or seizure by judicial process in the United States or its possessions.” That section was designed to avoid the inconvenience, expense and delay resulting from the holdings in
+  <em>
+   The Florence H.,
+  </em>
+  <span class="citation" data-id="8806803"><a href="/opinion/8822114/the-florence-h/" aria-description="Citation for case: The Florence H.">248 F. 1012</a></span>, and
+  <em>
+   The Lake Monroe,
+  </em>
+  <span class="citation" data-id="99419"><a href="/opinion/99419/the-lake-monroe/" aria-description="Citation for case: The Lake Monroe">250 U. S. 246</a></span>, that libel
+  <em>
+   in rem
+  </em>
+  would lie against vessels owned by the United States. See S. Rep. No. 223, 66th Cong., 1st Sess. ; H. Rep. No. 497, 66th Cong., 2d Sess. The wording of that section malees clear that the right to arrest or seize the vessel was taken away whether the vessel was operated by the United States or its wholly owned corporation or for either of them by a private company. To that extent the Act affects remedies which would otherwise exist on maritime causes of action arising out of operation of government vessels by private companies for the United States or its wholly owned corporations. Yet there is no indication whatsoever that it went further and took away any personal remedy which a tort claimant might have against such a private operator. While § 1 abolishes the right to arrest or seize the vessel, § 2 provides that “a libel in personam may be brought against the United States or against such corporations” in cases where “if such vessel were privately owned or operated ... a proceeding in
+  <span citation-index="1" class="star-pagination" label="580"> 
+   *580
+   </span>
+  admiralty could be maintained.” Sec. 2, however, does not mention private operators. Nor do the Committee Reports advert to private operators, except as they may be affected by § 1. The liability of an agent for his own negligence has long been embedded in the law.
+  <em>
+   Quinn
+  </em>
+  v.
+  <em>
+   Southgate Nelson Corp.,
+  </em>
+  <span class="citation" data-id="1493373"><a href="/opinion/1493373/quinn-v-southgate-nelson-corporation/" aria-description="Citation for case: Quinn v. Southgate Nelson Corporation">121 F. 2d 190</a></span>, is a recent application of that principle to a situation very close to the present one. But the principle is an ancient one and applies even to certain acts of public officers or public instrumentalities. As stated in
+  <em>
+   Sloan Shipyards Corp.
+  </em>
+  v.
+  <em>
+   Emergency Fleet Corp.,
+  </em>
+  <span class="citation" data-id="99982"><a href="/opinion/99982/sloan-shipyards-corp-v-united-states-shipping-bd-emergency-fleet/#567" aria-description="Citation for case: Sloan Shipyards Corp. v. United States Shipping Bd....">258 U. S. 549, 567</a></span>, “An instrumentality of government he might be and for the greatest ends, but the agent, because he is agent, does not cease to be answerable for his acts.” In that case the Fleet Corporation was held to be amenable to suit. And that policy has been followed. For when it comes to the utilization of corporate facilities
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  in the broadening phases of federal activities in the commercial or business field, immunity from suit is not favored.
+  <em>
+   Keifer &amp; Keifer
+  </em>
+  v.
+  <em>
+   Reconstruction Finance Corp.,
+  </em>
+  <span class="citation" data-id="103165"><a href="/opinion/103165/keifer-keifer-v-reconstruction-finance-corp/" aria-description="Citation for case: Keifer &amp; Keifer v. Reconstruction Finance Corp.">306 U. S. 381</a></span>;
+  <em>
+   Federal Housing Administration
+  </em>
+  v.
+  <em>
+   Burr,
+  </em>
+  <span class="citation" data-id="103302"><a href="/opinion/103302/federal-housing-administration-region-no-4-v-burr/" aria-description="Citation for case: Federal Housing Administration, Region No. 4 v. Burr">309 U. S. 242</a></span>. Congress adopted that policy when it made corporations wholly owned by the United States suable on maritime causes of action under § 2 of the Suits in Admiralty Act. That it had the power to grant or withhold immunity from suit on behalf of governmental corporations is plain.
+  <em>
+   Federal Land Bank
+  </em>
+  v.
+  <em>
+   Priddy,
+  </em>
+  <span class="citation" data-id="102452"><a href="/opinion/102452/federal-land-bank-v-priddy/" aria-description="Citation for case: Federal Land Bank v. Priddy">295 U. S. 229</a></span>;
+  <em>
+   Reconstruction Finance Corp.
+  </em>
+  v.
+  <em>
+   Menihan Corp.,
+  </em>
+  <span class="citation" data-id="103439"><a href="/opinion/103439/reconstruction-finance-corporation-v-jg-menihan-corp/" aria-description="Citation for case: Reconstruction Finance Corporation v. JG Menihan Corp.">312 U. S. 81</a></span>. We may also assume that it would have the power to grant immunity to private operators of government vessels for their torts. But such a basic change in one of the funda
+  <span citation-index="1" class="star-pagination" label="581"> 
+   *581
+   </span>
+  mentals of the law of agency should hardly be left to conjecture. The withdrawal of the right to sue the agent for his torts would result at times in a substantial dilution of the rights of claimants. Assuming that the ordinary rules of agency apply in determining whether the United States or the Maritime Commission is responsible under § 2 of the Act for torts of private operators such as respondent, there would be instances where unless the private operator was liable no one would be. The principal is not liable for every negligent act of his agent. Furthermore, if all suits to enforce maritime causes of action must be brought in such cases under § 2 of the Act the short statute of limitations of two years contained in § 5 is applicable.
+  <em>
+   Emergency Fleet Corp.
+  </em>
+  v.
+  <em>
+   Rosenberg Bros. &amp; Co., supra.
+  </em>
+  Moreover, if, as apparently was the case here, the claimant was eligible to receive and did receive compensation under the United States Employees Compensation Act (<span class="citation no-link">39 Stat. 742</span>, <span class="citation no-link">5 U. S. C. § 751</span>), he is barred from suing the United States for the tort.
+  <em>
+   Dahn
+  </em>
+  v.
+  <em>
+   Davis,
+  </em>
+  <span class="citation" data-id="99972"><a href="/opinion/99972/dahn-v-davis/" aria-description="Citation for case: Dahn v. Davis">258 U. S. 421</a></span>. He may however sue “some person other than the United States”; and in case of recovery the amount is credited on the compensation payable to him. § 777. We mention these matters as illustrations of the practical impact on claimants if it were held that the Suits in Admiralty Act restricted all suits in cases like the present to libels
+  <em>
+   in personam
+  </em>
+  against the United States or its wholly owned corporations. We can only conclude that if Congress had intended to make such an inroad on the rights of claimants it would have said so in unambiguous terms. There is one bit of legislative history which it is claimed reveals such a purpose. It is a single statement made by Representative Volstead, sponsor of the bill in the House (59 Cong. Rec. 1680): “Mr. White of Maine. Would this bill apply to Shipping Board vessels that are allocated to private concerns and are being operated by private concerns? Mr. Volstead: Yes; it covers all ships owned by
+  <span citation-index="1" class="star-pagination" label="582"> 
+   *582
+   </span>
+  the Government.” The reply was accurate. The Act does cover government ships operated by private concerns. For as we have seen § 1 is applicable to that situation as well as to others and takes away the remedy of a libel
+  <em>
+   in rem.
+  </em>
+  But it is a
+  <em>
+   non sequitur
+  </em>
+  to say that because the Act takes away the remedy of libel
+  <em>
+   in rem
+  </em>
+  in all cases involving government vessels and restricts the remedies against the United States and its wholly owned corporations, it must be presumed to have abolished all right to proceed against all other parties. Congress in fashioning § 2 of the Act, like this Court in interpreting it in the
+  <em>
+   <span class="citation" data-id="101495"><a href="/opinion/101495/johnson-v-united-states-shipping-bd-emergency-fleet-corporation/" aria-description="Citation for case: Johnson v. United States Shipping Bd. Emergency Fleet...">Johnson</a></span>
+  </em>
+  case, was preoccupied with suits against the United States and its wholly owned corporations. Since it dealt under § 2 only with libels
+  <em>
+   in personam
+  </em>
+  against them, the only fair assumption is that it left all personal actions against others wholly unaffected.
+ </p>
+<p id="b694-5">
+  It is contended, however, that if the judgment against respondent stands, the United States ultimately will have to pay it by reason of provisions of the contract between respondent and the Commission. It is therefore urged that the United States is the real party in interest. We do not stop to interpret the contract. Even if we assume, without deciding, that the Commission has contracted to reimburse the respondent for such expenditures, it does not affect the result in this case. The right of the private operator to recover over from the United States would be a matter of favor, not of right, in many cases. For apart from any express contract the agent’s right of exoneration or indemnity has not been thought to extend to situations where his liability was based on his own fault. 4 Williston, Contracts (1936 ed.), § 1026. Hence we cannot conclude that, in all cases where a private operator of a government vessel under an agency agreement is sued, the United States would as a matter of law ultimately be liable to pay in absence of an express provision for exoneration. It is hard to believe that Congress had any such notion when
+  <span citation-index="1" class="star-pagination" label="583"> 
+   *583
+   </span>
+  it passed the Suits in Admiralty Act. To attribute that idea to it would be to give the Act a construction which would in practical effect encourage the assumption by the United States of the obligations of private persons.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</p>
+<p id="b695-6">
+  Moreover, if petitioner had a cause of action against respondent, it is difficult to see how she could be deprived of it by reason of a contract between respondent and the Commission. Immunity from suit on a cause of action which the law creates cannot be so readily obtained. Cf.
+  <em>
+   Guaranty Trust &amp; S. D. Co.
+  </em>
+  v.
+  <em>
+   Green Cove R. Co.,
+  </em>
+  <span class="citation" data-id="93000"><a href="/opinion/93000/guaranty-trust-and-safe-deposit-co-v-green-cove-springs-and-melrose/#143" aria-description="Citation for case: Guaranty Trust and Safe Deposit Co. v. Green Cove Springs...">139 U. S. 137, 143</a></span>. The rights of principal and agent
+  <em>
+   inter se
+  </em>
+  are not the measure of the rights of third persons against either of them for their torts. It is, of course, true that government contractors obtain certain immunity in connection with work which they do pursuant to their contractual undertaking with the United States.
+  <em>
+   Yearsley
+  </em>
+  v.
+  <em>
+   Ross Construction Co.,
+  </em>
+  <span class="citation" data-id="103284"><a href="/opinion/103284/yearsley-v-w-a-ross-construction-co/" aria-description="Citation for case: Yearsley v. W. A. Ross Construction Co.">309 U. S. 18</a></span>, was a recent example. In that case the contractor in building dikes in the Missouri River for the United States had washed away a part of the plaintiff’s land. We held that the contractor was not liable, saying (pp. 20-21) “that if this authority to carry out the project was validly conferred, that is, if what was done was within the constitutional power of Congress, there is no liability on the part of the contractor for executing its will.” But here the situation is quite different. The question is not whether the Commission had authority to delegate to respondent responsibilities for managing and operating the vessel as its agent. It is whether respondent can escape liability for a negligent exercise of that delegated power if we assume
+  <span citation-index="1" class="star-pagination" label="584"> 
+   *584
+   </span>
+  that by contract it will be exonerated or indemnified for any damages it must pay. As stated in
+  <em>
+   Sloan Shipyards Corp.
+  </em>
+  v.
+  <em>
+   Emergency Fleet Corp., supra,
+  </em>
+  pp. 566-567, “the general rule is that any person within the jurisdiction always is amenable to the law. If he is sued for conduct harmful to the plaintiff his only shield is a constitutional rule of law that exonerates him.” Furthermore, if the United States were to become the real party in interest by reason of a contract for exoneration or indemnity, a basic alteration in that concept
+  <em>
+   (Minnesota
+  </em>
+  v.
+  <em>
+   Hitchcock,
+  </em>
+  <span class="citation" data-id="95660"><a href="/opinion/95660/minnesota-v-hitchcock/#387" aria-description="Citation for case: Minnesota v. Hitchcock">185 U. S. 373, 387</a></span>) would be made, not pursuant to a Congressional policy
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  but by reason of concessions made by contracting officers of the government. Such a change would be detrimental to the interests of private claimants, as we have said, since it would subtract from the legal remedies which the law has afforded them. Beyond that it would make the existence of a right to exoneration or indemnity a jurisdictional fact. That could hardly help but complicate and delay the enforcement of rights based on these maritime torts. At least in the absence of a clear Congressional policy to that end, we cannot go so far.
+ </p>
+<p id="b696-5">
+  We hold that the Suits in Admiralty Act did not deprive petitioner of the right to sue respondent for dam
+  <span citation-index="1" class="star-pagination" label="585"> 
+   *585
+   </span>
+  ages for his .maritime tort. Whether a cause of action against respondent has been established is, of course, a different question, as the issues involved in
+  <em>
+   <span class="citation" data-id="1493373"><a href="/opinion/1493373/quinn-v-southgate-nelson-corporation/" aria-description="Citation for case: Quinn v. Southgate Nelson Corporation">Quinn</a></span>
+  </em>
+  v.
+  <em>
+   Southgate Nelson Corp., supra,
+  </em>
+  indicate. The Circuit Court of Appeals did not reach that question. Accordingly we reverse the judgment and remand the cause to it.
+ </p>
+<p id="b697-6">
+<em>
+   Reversed.
+  </em>
+</p>
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b688-6">
+   Respondent was designated as a managing agent for the Commission as owner “to manage, operate, and conduct the business of the Line ... for and on behalf of the Owner and under its supervision and direction.” Respondent agreed “to man, equip, victual, supply and operate the vessels, • subject to such restrictions and in such manner as the Owner may prescribe” and “to conduct its operations with respect to the vessels ... in full compliance with the applicable provisions of law.” Respondent agreed “subject to such regulations or methods of supervision and inspection as may be required or prescribed” by the Commission to “exercise reasonable care and diligence to maintain the vessels in a thoroughly efficient state of repair, covering hull, machinery, boilers, tackle, apparel, furniture, equipment, and spare parts.” Respondent did not share in profits but was entitled to reimbursement for expenses under a provision of the contract which stated: “The Owner agrees to pay to the Managing Agent the actual overhead expenses of the Managing Agent determined by the Owner to have been fairly and reasonably incurred and to be properly applicable to the management and operation of the Commission’s vessels under this agreement.”
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b692-6">
+   As to the liability of public officials see generally
+   <em>
+    Dunlop
+   </em>
+   v.
+   <em>
+    Munroe,
+   </em>
+   <span class="citation" data-id="84992"><a href="/opinion/84992/dunlop-v-munroe/#269" aria-description="Citation for case: Dunlop v. Munroe">7 Cranch 242, 269</a></span>;
+   <em>
+    Osborn
+   </em>
+   v.
+   <em>
+    Bank of United States,
+   </em>
+   <span class="citation" data-id="85451"><a href="/opinion/85451/osborn-v-bank-of-united-states/#842" aria-description="Citation for case: Osborn v. Bank of United States">9 Wheat. 738, 842, 843</a></span>;
+   <em>
+    Wilkes
+   </em>
+   v.
+   <em>
+    Dinsman,
+   </em>
+   <span class="citation" data-id="86467"><a href="/opinion/86467/wilkes-v-dinsman/#123" aria-description="Citation for case: Wilkes v. Dinsman">7 How. 89, 123</a></span>;
+   <em>
+    Robertson v. Sichel,
+   </em>
+   <span class="citation" data-id="92277"><a href="/opinion/92277/robertson-v-sichel/" aria-description="Citation for case: Robertson v. Sichel">127 U. S. 507</a></span>;
+   <em>
+    Spalding
+   </em>
+   v.
+   <em>
+    Vilas,
+   </em>
+   <span class="citation" data-id="94400"><a href="/opinion/94400/spalding-v-vilas/" aria-description="Citation for case: Spalding v. Vilas">161 U. S. 483</a></span>;
+   <em>
+    Brissac
+   </em>
+   v.
+   <em>
+    Lawrence,
+   </em>
+   2 Blatchford 121;
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Rogde,
+   </em>
+   <span class="citation" data-id="8792284"><a href="/opinion/8807992/united-states-v-rogde/#290" aria-description="Citation for case: United States v. Rogde">214 F. 283, 290</a></span>.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b695-7">
+   The provision in § 8 of the Suits in Admiralty Act that any final judgment “rendered in any suit herein authorized” shall be paid “by the proper accounting officers of the United States” must be taken to refer only to judgments against the United States or its wholly owned corporations since under our construction the Act does not control or affect actions
+   <em>
+    in personam
+   </em>
+   against private operators.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b696-6">
+   Cf.
+   <em>
+    Clyde-Mallory Lines
+   </em>
+   v.
+   <em>
+    The Eglantine, ante,
+   </em>
+   p. 395, in which we held that the United States by appearing in an action for libel
+   <em>
+    in rem
+   </em>
+   against a government vessel for damages suffered during its operation by the United States could invoke the two-year statute of limitations contained in § 5 of the Suits in Admiralty Act, even though the United States had sold the vessel to a private operator. In that case we were dealing with § 4 of the Act which expressly provides for such an appearance in that type of case and which states that “thereafter such cause shall proceed against the United States in accordance with the provisions of this Act.” Accordingly we stated, “The conclusion is inescapable that there is no practical difference between suits against the government as owner of the vessel and against the government as the party in interest when it voluntarily appears to defend its lately sold property against tort liability.”
+  </p>
+</div></div></opinion>

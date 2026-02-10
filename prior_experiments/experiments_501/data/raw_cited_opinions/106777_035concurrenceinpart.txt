@@ -1,0 +1,9 @@
+<opinion type="concurring-in-part-and-dissenting-in-part">
+<author id="b552-6">Mr. Justice Harlan,</author>
+<p id="A9k">concurring in part and dissenting in part.</p>
+<p id="b552-7">I entirely agree with the Court’s opinion, except as to its disposition of the case. I would remand the case to the California District Court of Appeal so that it may consider whether or not admission of the illegally seized evidence was harmless error. <em>Fahy </em>v. <em>Connecticut, </em>375 U. S. 85, does not require or justify the course which the Court takes. In <em>Fahy, </em>Connecticut at least had had the opportunity to decide the question of harmless error with respect to the illegally seized evidence there involved; <page-number citation-index="1" label="491">*491</page-number>here California has had no such opportunity.<footnotemark>*</footnotemark> For this Court to decide that question as an original matter is, in my opinion, incompatible with proper federal-state relations.</p>
+<p id="b553-5">Accordingly, I would vacate the judgment below and remand the case to the California courts for further appropriate proceedings.</p>
+<footnote label="*">
+<p id="b553-6">The evidence against the accused included a confession of the crime charged. This Court refused to review the claim, contained in the petition for certiorari, that this confession had been involuntarily made. 374 U. S. 826, <em>ante, </em>p. 484.</p>
+</footnote>
+</opinion>

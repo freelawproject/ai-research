@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b757-4">
+<span citation-index="1" class="star-pagination" label="699"> 
+   *699
+   </span>
+  ORDER
+ </p>
+<author id="b757-5">
+  W. HOMER DRAKE, Bankruptcy Judge.
+ </author>
+<p id="b757-6">
+  This case is before the Court following a hearing on February 28, 1985 with respect to confirmation of the Amended, and Restated Plan of Reorganization (“Plan”) filed by the Chapter 11 debtor, Planes, Inc. (“Planes”). An objection to confirmation was filed by the Landmark First National Bank of Ft. Lauderdale (“Landmark”), and a joint objection was filed by the Fairchild Aircraft Corp. (“Fairchild”) and Gen-Aero, Inc. (“Gen-Aero”). The objections raise numerous legal questions which the Court determined should be addressed prior to the presentation of evidence under the confirmation standards of Bankruptcy Code § 1129.
+ </p>
+<p id="b757-7">
+  The Court notes at the outset that confirmation is not the only matter currently under consideration in this bankruptcy case. A motion to convert the case to a case under Chapter 7 was filed by Landmark on February 26, 1985. The hearing on Landmark’s motion was taken off the calendar by Order of the Court pending a ruling on the merits of the objections to confirmation. In addition, a motion to dismiss the bankruptcy case was filed by the United States of America on April 9, 1985. Finally, Landmark has filed a motion for a new hearing in connection with its motion for relief from the automatic stay (Adv. Proc. No. 83-1647A) as to the “essential inventory” remaining in Planes’ possession. A notice will be issued contemporaneously with the entry of this Order setting these matters for a consolidated hearing.
+ </p>
+<p id="b757-8">
+  I. BACKGROUND
+ </p>
+<p id="b757-9">
+  Planes filed its voluntary Chapter 11 petition on March 3, 1983. The Plan was filed on January 8, 1985. After notice and a hearing, the Court approved Planes’ disclosure statement on January 9, 1985. Thereafter, the Plan, the disclosure statement, the Order approving the disclosure statement, and a ballot were disseminated to all creditors, equity security holders, and other parties in interest. Ballots returned by February 21, 1985 indicated that the Plan was accepted by four impaired classes and rejected by two impaired classes.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  One of the impaired classes which rejected the Plan represents Landmark’s secured claim. The other impaired class to reject the Plan consists of disputed, contingent, and unliq-uidated claims held by unsecured creditors, which includes the claims of Fairchild and Gen-Aero.
+ </p>
+<p id="b757-15">
+  II. THE PLAN
+ </p>
+<p id="b757-16">
+  The following is a summary of the Plan as is relevant to consideration of the various objections: The Plan places Landmark’s claims into Class VIII. At the inception of these proceedings, Landmark’s claim was secured by a 1982 Merlin IV-C aircraft, a 1968 Learjet, a certificate of deposit in the amount of $100,000.00, and Planes’ parts inventory, including after-acquired inventory. There appears to be no dispute that the amount of Landmark’s claim exceeds the value of the collateral.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  Consent Orders were entered on September 30, 1983 and August 15, 1984 in Adversary Proceeding No. 83-1647A concerning the collateral. To date, the only collateral that remains in Planes’ possession is the “essential inventory” (as that term is defined in the August 15, 1984 Consent Order). The Plan proposes that Planes continue making payments to Landmark as the “essential inventory” is depleted in accordance with the August 15, 1984 Consent Order. Furthermore, the Plan calls for Landmark to retain its lien against the “essential inventory.” Should Landmark assert a deficiency claim, such claim would fall into Class XIII.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</p>
+<p id="b757-17">
+  Class XIII consists of the disputed, contingent, and unliquidated claims. The Plan permits Class XIII claimants to petition the
+  <span citation-index="1" class="star-pagination" label="700"> 
+   *700
+   </span>
+  Court for allowance of their claims. Should the Court enter an Order fixing the allowed amount of a Class XIII claim, the claimant would be treated as a general, unsecured creditor under Class XIV. Otherwise, creditors in Class XIII are not entitled to a distribution under the Plan. The claims held by Fairchild and Gen-Aero fall into Class XIII.
+ </p>
+<p id="b758-4">
+  The general, unsecured claims are grouped into Class XIV. These claims are to receive under the Plan a pro rata distribution of fifty percent of the net profits earned by Planes from January 1, 1985 through December 31, 1988.
+ </p>
+<p id="b758-5">
+  A final class of unsecured claims is Class XVI, which contains the claims held by Lawrence J. Block (“Block”), the principal of Planes, and Alexe Block, his wife. The Plan provides for cancellation of the existing shares of stock held by the Blocks. Moreover, the indebtedness to Alexe Block is to be subordinated to the claims in Classes I through XIV. Block, on the other hand, is to receive a share of one dollar par value common stock for each dollar of his claim.
+ </p>
+<p id="b758-6">
+  III. ISSUES
+ </p>
+<p id="b758-7">
+  A. CLASSIFICATION OF CLAIMS UNDER § 1122(a)
+ </p>
+<p id="b758-8">
+  An objection was raised as to the classification of claims set forth in the Plan, particularly with respect to the various classes of unsecured claims. As indicated above, the general, unsecured claims (Class XIV) are differentiated from the disputed, contingent, and unliquidated claims (Class XIII) and the unsecured claims held by the Blocks (Class XVI). Moreover, the potential deficiency claims are not immediately classified for purposes of voting or distribution.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  The burden is placed upon creditors holding potential deficiency claims and Class XIII creditors to assert such claims and seek allowance thereof in order to be paid along with the general, unsecured creditors (Class XIV).
+ </p>
+<p id="b758-12">
+  The argument was made by the objecting creditors that all unsecured claims must be placed into a single classification. This position is supported by a notable body of authority.
+  <em>
+   See,
+  </em>
+  e.g.,
+  <em>
+   Granada Wines v. New England Teamsters Pension Fund,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/748/42/">748 F.2d 42</a></span>, 46 (1st Cir.1984) (dictum);
+  <em>
+   In re Mastercraft Record Plating, Inc.,
+  </em>
+  <span class="citation" data-id="1533130"><a href="/opinion/1533130/in-re-mastercraft-record-plating-inc/#108" aria-description="Citation for case: In Re Mastercraft Record Plating, Inc.">32 B.R. 106, 108</a></span> (Bkrtcy.S.D.N.Y.1983);
+  <em>
+   In re Pine Lake Village Apartment Co.,
+  </em>
+  <span class="citation" data-id="1956417"><a href="/opinion/1956417/in-re-pine-lake-village-apartment-co/#829" aria-description="Citation for case: In Re Pine Lake Village Apartment Co.">19 B.R. 819, 829-31</a></span> (Bkrtcy.S.D.N.Y.1982);
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#260" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256, 260</a></span> (Bkrtcy.D.Utah 1980) (Chapter 13 case); 3
+  <em>
+   Norton Bankr.L. &amp; Prac.
+  </em>
+  § 60.05, Part 60, page 7 (1985). A competing line of cases takes a more flexible approach toward classification of claims.
+  <em>
+   See,
+  </em>
+  e.g.,
+  <em>
+   Barnes v. Whelan,
+  </em>
+  <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/#201" aria-description="Citation for case: Barnes v. Whelan">689 F.2d 193, 201</a></span> (D.C.Cir.1982);
+  <em>
+   In re U.S. Truck Co., Inc.,
+  </em>
+  <span class="citation" data-id="1908451"><a href="/opinion/1908451/matter-of-us-truck-co-inc/#794" aria-description="Citation for case: Matter of US Truck Co., Inc.">42 B.R. 790, 794-96</a></span> (Bkrtcy.E.D.Mich.1984) (dictum);
+  <em>
+   In re Huckabee Auto Co.,
+  </em>
+  <span class="citation" data-id="1934553"><a href="/opinion/1934553/matter-of-huckabee-auto-co/#137" aria-description="Citation for case: Matter of Huckabee Auto Co.">33 B.R. 132, 137</a></span> (Bkrtcy.M.D.Ga.1981);
+  <em>
+   In re Kovich,
+  </em>
+  <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/#405" aria-description="Citation for case: In Re Kovich">4 B.R. 403, 405-07</a></span> (Bkrtcy.W.D.Mich.1980);
+  <em>
+   In re Gay,
+  </em>
+  <span class="citation" data-id="1970688"><a href="/opinion/1970688/in-re-gay/#337" aria-description="Citation for case: In Re Gay">3 B.R. 336, 337</a></span> (Bkrtcy.D.Colo.1980).
+  <em>
+   See also
+  </em>
+  5
+  <em>
+   Collier on Bankruptcy
+  </em>
+  111122.-03[l][b], p. 1122-6 (15th ed. 1984) (“Note that the Code does not require that all claims that are substantially similar be placed in the same class.”).
+ </p>
+<p id="b758-13">
+  With the exception of
+  <em>
+   U.S. Truck Co.,
+  </em>
+  and
+  <em>
+   Huckabee,
+  </em>
+  the decisions in the latter line of cases arose in Chapter 13 proceedings involving the classification of claims under Bankruptcy Code § 1322(b)(1). Nevertheless, these decisions are relevant in their pragmatic reading of § 1122, which is referenced in Bankruptcy Code § 1322(b)(1).
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+</p>
+<p id="b758-14">
+  Bankruptcy Code § 1122(a) states as follows:
+ </p>
+<blockquote id="b759-4">
+<span citation-index="1" class="star-pagination" label="701"> 
+   *701
+   </span>
+  Except as provided in subsection (b) of this section, a plan may place a claim or an interest in a particular class only if such claim or interest is substantially similar to the other claims or interests of such class.
+ </blockquote>
+<p id="b759-5">
+  <span class="citation no-link">11 U.S.C. § 1122</span>(a). Subsection (b) refers to the designation of a separate class of claims as is “reasonable and necessary for administrative convenience.” The Court hereby adopts the interpretation of § 1122 set forth in the second line of cases and
+  <em>
+   Collier
+  </em>
+  that “[1122(a)] does not require that similar claims
+  <em>
+   must
+  </em>
+  be grouped together, but merely that any group created must be homogeneous.”
+  <em>
+   Barnes v. Whelan,
+  </em>
+  <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/#201" aria-description="Citation for case: Barnes v. Whelan">689 F.2d at 201</a></span>. Therefore, the existence of several classes of unsecured claims in the case
+  <em>
+   sub judice
+  </em>
+  does not provide a sufficient basis for rejecting the Plan without further inquiry.
+ </p>
+<p id="b759-6">
+  The Court turns to the first line of cases which purport to bar multiple classification in order to decide the propriety of the classification proposed by Planes.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  In
+  <em>
+   In re Mastercraft Record Plating, Inc.,
+  </em>
+  <span class="citation" data-id="1533130"><a href="/opinion/1533130/in-re-mastercraft-record-plating-inc/" aria-description="Citation for case: In Re Mastercraft Record Plating, Inc.">32 B.R. 106</a></span> (Bkrtcy.S.D.N.Y.1983), the debtor created three classes of general, unsecured claims: (1) disputed claims; (2) claims under $20,000.00; and (3) claims over $20,-000.00. The classes of claims under and over $20,000.00 were both impaired and were to receive identical treatment. The Bankruptcy Court in
+  <em>
+   Mastercraft
+  </em>
+  rejected the division of unsecured claims into multiple classes solely to create a consenting class under § 1129(a)(10).
+  <em>
+   In re Mastercraft Record Plating, Inc.,
+  </em>
+  <span class="citation" data-id="1533130"><a href="/opinion/1533130/in-re-mastercraft-record-plating-inc/#108" aria-description="Citation for case: In Re Mastercraft Record Plating, Inc.">32 B.R. at 108</a></span>. The Bankruptcy Court in
+  <em>
+   In re Pine Lake Village Apartment Co.,
+  </em>
+  <span class="citation" data-id="1956417"><a href="/opinion/1956417/in-re-pine-lake-village-apartment-co/" aria-description="Citation for case: In Re Pine Lake Village Apartment Co.">19 B.R. 819</a></span> (Bkrtcy.S.D.N.Y.1982), dealt with the divergent classification and treatment of an unsecured deficiency claim in excess of $4,000,000.00 in comparison to the proposed payment of trade debt totalling $44,952.06 in full at confirmation. The Bankruptcy Court in
+  <em>
+   Pine Lake
+  </em>
+  was similarly concerned about the use of two classes of unsecured claims to manipulate voting.
+  <em>
+   In re Pine Lake Village Apartment Co.,
+  </em>
+  <span class="citation" data-id="1956417"><a href="/opinion/1956417/in-re-pine-lake-village-apartment-co/#831" aria-description="Citation for case: In Re Pine Lake Village Apartment Co.">19 B.R. at 831</a></span>. Because the holder of the deficiency claim was impaired and voted to reject the plan, the Bankruptcy Court noted further that the designation of separate classes “would have to comply with <span class="citation no-link">11 U.S.C. § 1129</span>(b)(1) that prescribes as a prerequisite for confirmation that ‘the plan does not discriminate unfairly.’ ”
+  <em>
+   In re Pine Lake Village Apartment Co.,
+  </em>
+  <span class="citation" data-id="1956417"><a href="/opinion/1956417/in-re-pine-lake-village-apartment-co/#830" aria-description="Citation for case: In Re Pine Lake Village Apartment Co.">19 B.R. at 830</a></span>.
+ </p>
+<p id="b759-9">
+  The instant case does not involve the creation of separate classifications in order to obtain acceptance by a class of impaired claims." As indicated above, four impaired classes accepted the Plan. However, the Plan eliminates the right of Landmark and other potential deficiency claimants to vote their unsecured claims. To a degree, therefore, the terms of the Plan impair voting rights as contemplated by Chapter 11. More significantly, the rejection of the Plan by Class XIII unsecured claims brings into play the prohibition against unfair discrimination found in § 1129(b)(1).
+  <em>
+   In re Pine Lake Village Apartment Co.,
+  </em>
+  <span class="citation" data-id="1956417"><a href="/opinion/1956417/in-re-pine-lake-village-apartment-co/#830" aria-description="Citation for case: In Re Pine Lake Village Apartment Co.">19 B.R. at 830</a></span>. The favored treatment of Block’s claim in receiving common stock of the reorganized corporation does not appear to be distinguishable from the favored treatment of trade creditors which was not tolerated in
+  <em>
+   In re Pine Lake Village Apartment Co.,
+  </em>
+  <span class="citation" data-id="1956417"><a href="/opinion/1956417/in-re-pine-lake-village-apartment-co/#831" aria-description="Citation for case: In Re Pine Lake Village Apartment Co.">19 B.R. at 831</a></span> (“Manifestly such treatment of unsecured claims is unfairly discriminatory within the meaning of <span class="citation no-link">11 U.S.C. § 1129</span>(b)(1).”).
+ </p>
+<p id="b759-10">
+  A final determination as to the fairness of the separate classification of unsecured
+  <span citation-index="1" class="star-pagination" label="702"> 
+   *702
+   </span>
+  claims must await- an evidentiary hearing with respect to cramdown under § 1129(b). Clearly, the decision in
+  <em>
+   Pine Lake
+  </em>
+  casts doubt upon the validity of the preferred treatment given to Block’s unsecured claim. Prior to returning to the questions of confirmation and cramdown, however, Planes must modify the Plan or formulate a new plan which is responsive to the objections discussed below.
+ </p>
+<p id="b760-4">
+  B. ESTIMATION OF DISPUTED, CONTINGENT, AND UNLIQUI-DATED CLAIMS
+ </p>
+<p id="b760-5">
+  Closely related to the preceding objection is the argument that Planes has failed to file objections to certain disputed, contingent and unliquidated claims or otherwise seek estimation of such claims for purposes of classification, voting, and distribution. The Plan does in fact provide a mechanism for Class XIII claimants and deficiency claimants to assert their claims for determination by the Court. The objecting creditors submit that this mechanism contravenes Bankruptcy Code §§ 502(c) and 506(a) as well as Bankruptcy Rule 3001(f).
+ </p>
+<p id="b760-6">
+  Bankruptcy Code § 502(c) states in relevant part as follows:
+ </p>
+<blockquote id="b760-7">
+  (c) There shall be estimated for purpose of allowance under this section—
+ </blockquote>
+<blockquote id="b760-8">
+  (1) any contingent or unliquidated claim, fixing or liquidation of which, as the case may be, would unduly delay the closing of the case;
+ </blockquote>
+<p id="b760-9">
+  <span class="citation no-link">11 U.S.C. § 502</span>(c)(1). Fairchild and Gen-Aero maintain that their claims should be estimated along with the other Class XIII claims prior to confirmation. Landmark echos this position regarding its deficiency claim. Landmark cites as additional statutory authority Bankruptcy Code § 506(a), which states as follows:
+ </p>
+<blockquote id="b760-10">
+  (a) An allowed claim of a creditor secured by a lien on property in which the estate has an interest ... is a secured claim to the extent of the value of such creditor’s interest in the estate’s interest in such property ... and is an unsecured claim to the extent that the value of such creditor’s interest ... is less than the amount of such allowed claim.
+  <em>
+   Such value shall be determined
+  </em>
+  in light of the purpose of the valuation and of the proposed disposition or use of such property, and
+  <em>
+   in conjunction with any hearing
+  </em>
+  on such disposition or use or
+  <em>
+   on a plan affecting such creditor’s interest.
+  </em>
+</blockquote>
+<p id="b760-12">
+  <span class="citation no-link">11 U.S.C. § 506</span>(a) (emphasis added). The objections also point out that the prima facie validity of certain claims pursuant to Bankruptcy Rule 3001(f) is emasculated by the requirement under the Plan that deficiency claimants and Class XIII creditors undertake the burden of going forward to petition the Court for allowance of their respective claims.
+ </p>
+<p id="b760-13">
+  The requirement that the Court estimate contingent or unliquidated claims prior to confirmation is succinctly stated in several reported decisions.
+  <em>
+   In re McCall,
+  </em>
+  <span class="citation" data-id="1968882"><a href="/opinion/1968882/in-re-mccall/#244" aria-description="Citation for case: In Re McCall">44 B.R. 242, 244</a></span> (Bkrtcy.E.D.Pa.1984) (“The mandatory ‘shall’ of § 502(c) is echoed in the legislative history: ‘This subsection requires that all claims against the debtor be converted into dollar amounts.’ H.R.Rep. No. 95-595, 95th Cong., 1st Sess. 354,
+  <em>
+   reprinted in
+  </em>
+  1978 U.S.Code Cong. &amp; Admin. News 5787, 6310.”);
+  <em>
+   In re Pizza of Hawaii, Inc.,
+  </em>
+  <span class="citation" data-id="1545775"><a href="/opinion/1545775/matter-of-pizza-of-hawaii-inc/#1017" aria-description="Citation for case: Matter of Pizza of Hawaii, Inc.">40 B.R. 1014, 1017</a></span> (D.Hawaii 1984) (“[T]he bankruptcy court erred by confirming the plan without considering [a creditor’s] claim pursuant to § 502(c).”);
+  <em>
+   In re Nova Real Estate Inv. Trust,
+  </em>
+  <span class="citation" data-id="2015717"><a href="/opinion/2015717/in-re-nova-real-estate-investment-trust/#65" aria-description="Citation for case: In Re Nova Real Estate Investment Trust">23 B.R. 62, 65</a></span> (Bkrtcy.E.D.Va.1982) (“This language [in § 502(e) ] is mandatory, not permissive, and creates in the Court an affirmative duty under proper circumstances to estimate any unliquidated claim ... ”).
+ </p>
+<p id="b760-14">
+  There is mitigating language in
+  <em>
+   <span class="citation" data-id="1968882"><a href="/opinion/1968882/in-re-mccall/" aria-description="Citation for case: In Re McCall">McCall</a></span>
+  </em>
+  on which Planes relies in support of the proposition that the Plan may be confirmed without the estimation of claims:
+ </p>
+<blockquote id="b760-15">
+  Although there are situations in which a claim in a particular class cannot reasonably by liquidated or estimated prior to confirmation, the existence of such a claim is not fatal to confirmation so long as the plan proposes a specific means of satisfying that claim when its value becomes fixed.
+ </blockquote>
+<p id="b761-4">
+<span citation-index="1" class="star-pagination" label="703"> 
+   *703
+   </span>
+<em>
+   In re McCall,
+  </em>
+  <span class="citation" data-id="1968882"><a href="/opinion/1968882/in-re-mccall/#244" aria-description="Citation for case: In Re McCall">44 B.R. at 244</a></span>. The Court agrees with the language in
+  <em>
+   <span class="citation" data-id="1968882"><a href="/opinion/1968882/in-re-mccall/" aria-description="Citation for case: In Re McCall">McCall</a></span>
+  </em>
+  that there may be exceptions to the general rule that contingent, unliquidated claims be estimated prior to confirmation. However, this Chapter 11 case has been pending for more than two years, and Planes has made no showing as to why the deficiency claims and other contingent, unliquidated claims could not have been estimated prior to formulating a plan and moving for its confirmation.
+ </p>
+<p id="b761-5">
+  The combined effect of creating separate classifications for unsecured claims and failing to reduce all such claims to specific dollar amounts has been to distort the voting with respect to the Plan. Only after these claims have been estimated can the Court determine precisely how voting might have been manipulated by the creation of multiple classifications of unsecured claims. Therefore, a necessary prerequisite to confirmation is the estimation of deficiency and other contingent, unliqui-dated claims. In this manner, the burden on such creditors to affirmatively assert their claims for allowance after confirmation would also be alleviated. Although the estimation process might be time consuming, the Court perceives the estimation of claims as the only route for determining whether the classes are properly drawn and assuring that all claims have been given the vote to which they are entitled.
+ </p>
+<p id="b761-6">
+  C. TREATMENT OF LANDMARK’S SECURED CLAIM
+ </p>
+<p id="b761-7">
+  Section 5.02(C) of the Plan describes the proposed treatment of Landmark’s secured claim with respect to the “essential inventory” remaining in Planes’ possession. The Plan incorporates by reference the August 15, 1984 Consent Order, which provides as follows:
+ </p>
+<blockquote id="b761-8">
+  For each item of essential inventory which is utilized by [Planes] in its business, sold or otherwise removed from [Planes’] total inventory beginning August 13, 1984, [Planes] shall make payment to Landmark of the wholesale cost of said item as reflected in the Inventory Valuation — Detail dated August 13,1984. Payment shall be made to Landmark on a weekly basis.
+ </blockquote>
+<p id="b761-10">
+  The Consent Order also delineates procedures for maintaining logs and filing reports with Landmark as to the use of the “essential inventory.”
+ </p>
+<p id="b761-11">
+  The piecemeal payment which Landmark would receive under the Plan as “essential inventory” is consumed or sold by Planes fails to take into account a fixed valuation of the “essential inventory” as of the effective date of the Plan, or the time value of money as payments are remitted to Landmark over a number of years. Yet, Bankruptcy Code § 1129(b)(2)(A), which is operative due to the rejection of the Plan by the impaired class consisting of Landmark’s claim, is explicit in outlining the minimum requirements for confirmation notwithstanding the rejection of the Plan by Landmark. The Plan must be “fair and equitable,” which means that the Plan must meet one of the three criteria enumerated in Bankruptcy Code § 1129(b)(2)(A). This section states as follows:
+ </p>
+<blockquote id="b761-12">
+  (2) For the purpose of this subsection, the condition that a plan be fair and equitable with respect to a class includes the following requirements:
+ </blockquote>
+<blockquote id="b761-13">
+  (A) With respect to a class of secured claims, the plan provides—
+ </blockquote>
+<blockquote id="b761-14">
+  (0(1) that the holders of such claims retain the lien securing such claims, whether the property subject to such lien is retained by the debtor or transferred to another entity, to the extent of the allowed amount of such claims; and (II) that each holder of a claim of such class receive on account of such claim deferred cash payments totaling at least the allowed amount of such claim, of a value, as of the effective date of the plan, of at least the value of such holder’s interest in the estate’s interest in such property;
+ </blockquote>
+<blockquote id="b761-15">
+  (ii) for the sale, subject to section 363(k) of this title, of any property that is subject to the lien securing such claims, free and clear of such lien, with such lien to attach to the proceeds of such sale,
+  <span citation-index="1" class="star-pagination" label="704"> 
+   *704
+   </span>
+  and the treatment of such lien on proceeds under clause (i) or (iii) of this sub-paragraph; or
+ </blockquote>
+<blockquote id="b762-4">
+  (iii) for the realization by such holders of the indubitable equivalent of such claims.
+ </blockquote>
+<p id="b762-5">
+  <span class="citation no-link">11 U.S.C. § 1129</span>(b)(2)(A).
+ </p>
+<p id="b762-6">
+<em>
+   Collier
+  </em>
+  has addressed the circumstance in which a debtor desires to retain property which is essential to the continued operation of the debtor’s business.
+ </p>
+<blockquote id="b762-7">
+  “If the plan proposes that the debtor retain the collateral, the plan will have to comply with section 1129(b)(2)(A)(i) which permits a cramdown if the secured creditor retains a lien on its collateral to secure its allowed secured claim and if it receive (sic) on account of such claim deferred cash payments ... with a present value of at least the value of such claimant’s ‘interest in the estate’s interest in such property.’ ”
+ </blockquote>
+<p id="b762-8">
+  5
+  <em>
+   Collier on Bankruptcy
+  </em>
+  111111.02[5], p. 1111-30-31 (15th ed. 1985). Because the Plan calls for payment to Landmark of the wholesale cost of each item of “essential inventory” as it is utilized by Planes, whether such utilization occurs one day or ten years after confirmation, the Plan ignores the concept of present value stated in Bankruptcy Code § 1129(b)(2)(A)(i)(II) and is not confirmable over Landmark’s objection.
+ </p>
+<p id="b762-9">
+  IV. CONCLUSION
+ </p>
+<p id="b762-10">
+  On the basis of the foregoing, the objections to confirmation shall be and are hereby SUSTAINED. Having found that the Plan is not confirmable as a matter of law, the Court declines to address the remaining arguments made in opposition to the Plan.
+ </p>
+<p id="b762-11">
+  IT IS SO ORDERED.
+ </p>
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b757-10">
+   .
+   <em>
+    See
+   </em>
+   Report on Acceptances and Rejections of Plan of Reorganization filed February 27, 1985.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b757-12">
+   .
+   <em>
+    See
+   </em>
+   Transcript from hearing on January 9, 1985 at pages 39-40 (Adv.Proc. No. 83-1647A).
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b757-18">
+   .Because no determination has been made as to the allowed amount of Landmark’s claim relative to the value of its collateral, the amount of the deficiency is uncertain.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b758-9">
+   . As with Landmark (Class VIII), the creditors in Class VII hold potential deficiency claims following the return of their collateral by Planes.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b758-10">
+   . (b) Subject to subsections (a) and (c) of this section, the plan may—
+  </p>
+<p id="b758-15">
+   (1) designate a class or classes of unsecured claims, as provided in section 1122 of this title, but may not discriminate unfairly against any class so designated; <span class="citation no-link">11 U.S.C. § 1322</span>(b)(1).
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b759-7">
+   .
+   <em>
+    See In re U.S. Truck Co., Inc.,
+   </em>
+   <span class="citation" data-id="1908451"><a href="/opinion/1908451/matter-of-us-truck-co-inc/#795" aria-description="Citation for case: Matter of US Truck Co., Inc.">42 B.R. at 795</a></span>, in which Bankruptcy Judge Bernstein concurred with
+   <em>
+    In re Pine Lake Village Apartment Co., supra,
+   </em>
+   as to the improper separation of a deficiency claim from unsecured trade debt in an effort to manipulate voting. At the same time, Judge Bernstein rejected as overbroad the statement in
+   <em>
+    Pine Lake
+   </em>
+   that unsecured claims must
+   <em>
+    always
+   </em>
+   be placed into the same class. While holding that the Code does not bar multiple classification, Judge Bernstein noted that there must be "meaningful controls against unleashing myriad separate classes of unsecured claims” so as to prevent abusive manipulation.
+   <em>
+    In re U.S. Truck Co., Inc.,
+   </em>
+   <span class="citation" data-id="1908451"><a href="/opinion/1908451/matter-of-us-truck-co-inc/#795" aria-description="Citation for case: Matter of US Truck Co., Inc.">42 B.R. at 795</a></span>.
+  </p>
+</div></div></opinion>

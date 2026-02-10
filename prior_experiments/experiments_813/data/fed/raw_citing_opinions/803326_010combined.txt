@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b306-21">
+  EMILIO M. GARZA, Circuit Judge:
+ </author>
+<p id="b306-22">
+  The Defendant-Appellant Juan Francisco Jara-Favela (“Jara-Favela”) appeals his convictions for attempted illegal reentry and for making a false statement to Customs and Border Patrol (“CBP”) agents. We AFFIRM.
+ </p>
+<p id="b306-23">
+  I
+ </p>
+<p id="b306-24">
+  This appeal arises out of Jara-Favela’s attempt to illegally reenter the United
+  <span citation-index="1" class="star-pagination" label="293"> 
+   *293
+   </span>
+  States at the United States-Mexico border. A jury convicted him of attempted illegal reentry and for making a false statement to CBP agents. The facts that follow summarize the testimony presented at trial.
+ </p>
+<p id="b307-5">
+  Jara-Favela, a Mexican citizen, was previously granted legal status to be in the United States, but was deported to Mexico after an immigration judge ordered him removed. He did not apply for readmission. Just over a month after his removal, Jara-Favela approached the bridge at the Gateway to the Americas Port of Entry, located on the United States-Mexico border between Laredo, Texas, and Nuevo Laredo, which is in Mexico. The bridge spans the Rio Grande and is divided into several lanes dedicated to pedestrian or automotive traffic.
+ </p>
+<p id="b307-6">
+  Important to this case is an area known as soft secondary inspection, an area reserved for people with questions and minor problems. Pedestrians such as Jara-Favela may approach soft secondary inspection in a few ways. First, if a problem arises at primary inspection, pedestrians, whether approaching the bridge from either direction, may be referred or escorted to soft secondary inspection for assistance. If referred or escorted from either side of the border, the person sometimes may receive an orange slip explaining the issue to be resolved. Only if able to resolve the issue, the soft secondary agent will stamp the orange slip, signaling to the agent at primary inspection that the person may cross the border.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  Pedestrians arriving from Mexico may approach soft secondary in one other way. They may walk there directly to ask questions, without first passing through primary inspection. Regardless of how they reach soft secondary — a referral, escort, or simply walking up to the counter — all pedestrians crossing the bridge, whether going north or south, ultimately must pass through one of three booths for primary inspection before they may legally cross the border.
+ </p>
+<p id="b307-10">
+  At the port of entry, Jara-Favela approached soft secondary inspection and spoke to Crystal Escobedo (“Escobedo”), a CBP officer. Jara-Favela did not have an orange slip, and it was unclear whether he reached soft secondary from the Mexican or American side of the border. Jara-Favela showed Escobedo his Mexican passport and his expired, but otherwise valid, ADIT stamp that he had previously used to enter the United States.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  Jara-Favela did not claim that his ADIT stamp was valid, but asked Escobedo about the status of his legal permanent resident card, claiming he had never received it. Escobedo checked Jara-Favela’s residency status in a database and learned that Citizenship and Immigration Services (“CIS”) had not issued Jara-Favela a card since 2005. Escobedo asked Jara-Favela where he was coming from. He said, “el norte”- — the north. Assuming that Jara-Favela meant the United States, Escobedo advised Jara-Favela to visit the CIS office in Laredo for help. Before leaving soft secondary inspection, Jara-Favela asked Escobedo for a stamped orange slip. Assuming that he was referred to soft secondary inspection from primary inspection on the United States side of the border
+  <span citation-index="1" class="star-pagination" label="294"> 
+   *294
+   </span>
+  and had not received an orange slip, Escobedo advised Jara-Favela to return to the primary inspection officer who let him pass through to secondary.
+ </p>
+<p id="b308-4">
+  Jara-Favela went to a pedestrian lane at primary inspection, where CBP officer Zach DeLeza (“DeLeza”) was on duty. DeLeza did not know that Jara-Favela had just spoken to Escobedo. Jara-Favela showed DeLeza his passport with the expired ADIT stamp. Speaking in Spanish, DeLeza asked him where he was coming from. Jara-Favela told him he was coming from the north and explained that he wanted to check the status of his legal permanent resident card. DeLeza searched a database at secondary inspection and saw a “lookout” beside Jara-Favela’s name. DeLeza asked Jara-Favela at least one more time where he was coming from, and Jara-Favela again said the north. DeLeza filled out an orange slip, writing Jara-Favela “claims [he is] coming from the north and he came about to check on his [Legal Permanent Resident] card.” DeLeza escorted Jara-Favela to secondary inspection with help from his supervisor Agent Isidro Avila (“Avila”).
+ </p>
+<p id="b308-5">
+  After DeLeza explained to Avila what Jara-Favela had told him, Avila asked Jara-Favela where he was coming from. This time, Jara-Favela said Mexico. Because of the perceived inconsistencies in his statements, the agents patted Jara-Favela down and handcuffed him to a chair in an area reserved for hard secondary inspection — dedicated to interrogation, expediting removal, or exploring the possibility of criminal prosecution — to await questioning. While he waited, video footage from the bridge confirmed that Jara-Favela had approached the point of entry from Mexico,
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  and CBP Agent Hector Guerra (“Guerra”) reviewed Jara-Favela’s case file, which by that time included the other agents’ reports. Guerra then interviewed Jara-Favela. Jara-Favela told Guerra that he had come from Nuevo Laredo, intending to go to his home in Laredo. He claimed that he did not know he was being deported a month earlier when he had been escorted to the border at Del Rio. He claimed he was trying to apply for readmission earlier in the day.
+ </p>
+<p id="b308-9">
+  A grand jury charged Jara-Favela in a single-count indictment with attempted illegal reentry of the United States following his deportation in violation of <span class="citation no-link">8 U.S.C. § 1326</span>. A superseding indictment added two more counts against Jara-Favela. Count 2 charged Jara-Favela with being unlawfully found in the United States after deportation in violation of <span class="citation no-link">8 U.S.C. § 1326</span>. Count 3 charged Jara-Favela with knowingly and willfully making a false, fictitious, and fraudulent material statement and representation to CBP Officers in violation of <span class="citation no-link">18 U.S.C. § 1001</span>. Count 3 centered on the allegation that Jara-Favela told DeLeza that he was coming from Laredo, Texas, but told Avila that he was coming from Nuevo Laredo, Mexico. On the Government’s motion, the district court dismissed Count 2 from the superseding indictment. The case proceeded to trial on Counts 1 and 3.
+ </p>
+<p id="b308-10">
+  It was the Government’s theory at trial that Jara-Favela entered soft secondary inspection from south of the border and attempted to slip through to the United States by convincing officers that he had approached the international bridge from the north. The Government presented the testimony of Escobedo, DeLeza, Avila, Guerra, and other witnesses that showed, in part, that Jara-Favela had told DeLeza he
+  <span citation-index="1" class="star-pagination" label="295"> 
+   *295
+   </span>
+  had come from the north and had told Avila he had come from Mexico.
+ </p>
+<p id="b309-5">
+  After the Government rested, Jara-Favela moved for judgment of acquittal, arguing that the Government had not presented enough evidence to support a conviction on either count. The district court acknowledged that Jara-Favela’s case was unusual, but denied his motion. Jara-Favela did not testify and presented no additional evidence. After closing arguments, the case proceeded to the jury.
+ </p>
+<p id="b309-6">
+  The district court orally instructed the jury. The jury instructions, in part, summarized the indictment and attempted to explain that the evidence that the Government presented differed slightly from what the indictment charged:
+ </p>
+<blockquote id="b309-7">
+  A statement is material if it has a tendency to influence or has the capability of influencing — influencing a decision by that officer, which, in this case, is the [CBP],
+ </blockquote>
+<blockquote id="b309-8">
+  So the charge here is that, on that same day, that — in talking about something within the jurisdiction of the [CBP]. And — so, therefore, in connection with this whole business of who I am, and where am I going, and where am I coming from, and — and can I come in, or whatever he was doing, that — but that in a material — that it’s material to what the officer’s jurisdiction is, that the Defendant made a false statement, because he stated to one officer that he was coming from Laredo, Texas, which would be necessarily the north. That’s the first north thing north of the bridge. Whereas, he stated to the other officer that he was coming from Nuevo Laredo, Mexico.
+ </blockquote>
+<blockquote id="b309-9">
+  This is a little different, because what the Government is saying — that the Defendant knew that one of the statements was false, that they cannot both be right. So the charge is — the indictment doesn’t allege which was the false one. The Government — what the indictment alleges is that he made two conflicting statements to [CBP] people at the bridge, in a material matter, that would have had a tendency or could have influenced their decisions.
+ </blockquote>
+<blockquote id="b309-11">
+  And that it was knowingly false. That one of the statements — that he made those statements deliberately. And that one of the statements had to be false, because one was “I’m coming from the north,” and one “I’m coming from the south.” And that he made them intentionally and that he knew that one of them was false.
+ </blockquote>
+<blockquote id="b309-12">
+  And that it was a matter — it wasn’t a social matter. It wasn’t a minor, irrelevant matter. It was — it was a matter within the jurisdiction of the people at the bridge, the [CBP] people. And that it was — that it was the kind of thing that — the difference about whether you’re coming from the north or south did have the ability to influence the decisions of the people there at the bridge, of the Customs and Border Protection agency people. So that’s — that’s the other count. And you have to decide, again, beyond a reasonable doubt whether you think that’s — the Defendant is guilty or not.
+ </blockquote>
+<p id="b309-13">
+  Jara-Favela objected to these instructions, specifically contending that the district court improperly treated the words “north” and “Laredo” as equivalents. The district court overruled Jara-Favela’s objections, and the case went to the jury. During its deliberations, the jury sent a note to the district judge:
+ </p>
+<blockquote id="b309-14">
+  Defendant stated, “I’m coming from the North.” Later stated he is coming from Mexico.
+ </blockquote>
+<blockquote id="b310-3">
+<span citation-index="1" class="star-pagination" label="296"> 
+   *296
+   </span>
+  1) How should “North” be inter [pretied?
+ </blockquote>
+<blockquote id="b310-4">
+  2) Does it only mean the U.S. or could it be other than U.S.?
+ </blockquote>
+<p id="b310-5">
+  After the judge met with both lawyers, he further instructed the jury, expanding upon his earlier statements relating the words “Laredo” and “north”:
+ </p>
+<blockquote id="b310-6">
+  Let me see. Let me — let me come at it this way. We can all take official notice, as a matter of simple geography, that the river, a few blocks from here, separates the United States of America from the United States of Mexico. And that the bridge — that’s what the bridge does. It crosses the United States of America into the United States of Mexico, and vice versa.
+ </blockquote>
+<blockquote id="b310-7">
+  And I think we can accept as a geographic fact, that if you’re in that — those offices there, all those posts where the people are on either side of the river, either the Mexicans or the United States, if they turn around and look north, they are looking into the United States of America. And they are, at least, initially looking into Laredo, Texas. At some other bridge, they’d be looking into McAllen, Roma, or something else. But, at least, there — and if they turn south and look they are looking into the United States of Mexico and particularly, Nuevo Laredo, Mexico.
+ </blockquote>
+<p id="b310-8">
+  But the district court emphasized to the jury members that they were “free to understand it anyway you want to” and repeatedly reminded them that it was their job to determine whether Jara-Favela’s seemingly inconsistent statements were deliberate falsehoods. The district court further stated,
+ </p>
+<blockquote id="b310-9">
+  If you think that north is ambiguous, it means something else, or he perhaps had something else in mind, and that, therefore, that was not — neither of those statements were really a conflict and, therefore, a false statement, then [so be it], or if you have a reasonable doubt about that,
+ </blockquote>
+<p id="AGe">
+  and added,
+ </p>
+<blockquote id="b310-12">
+  So I think the focus is more on — on the Defendant, not what I think he meant, or what you think he meant, but do you — or how you would have interpreted that if you were listening to him. I think question is do you — do you believe that he was deliberately making conflicting statements knowing that one of them was false.
+ </blockquote>
+<p id="b310-13">
+  Jara-Favela renewed his objection to the district court’s instruction, which, in his view, conflated the word “north” with Laredo.
+ </p>
+<p id="b310-14">
+  The jury finished deliberating and found Jara-Favela guilty of both Counts 1 and 3. Jara-Favela moved the district court to set aside his guilty verdict and enter a judgment of acquittal and, alternatively, for a new trial based on the Government’s failure to show that Jara-Favela came from Laredo and the district court’s instruction that the jury “could infer that north means Laredo, Texas.” The district court denied his motion. After he was sentenced, Jara-Favela timely appealed.
+ </p>
+<p id="b310-15">
+  II
+ </p>
+<p id="b310-16">
+  Jara-Favela raises three issues on appeal: (1) whether the district court unconstitutionally directed a verdict by improperly commenting on the evidence while delivering the jury instructions and by its response to the jury’s note; (2) whether the district court constructively amended Count 3 by improperly commenting on the evidence while delivering the jury instructions and by its response to the jury’s note; and (3) whether the evidence presented at trial was insufficient to support his convictions on both Counts 1 and 3.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+</p>
+<p id="b311-4">
+<span citation-index="1" class="star-pagination" label="297"> 
+   *297
+   </span>
+  A
+ </p>
+<p id="b311-5">
+  We turn first to Jara-Favela’s claim that the district court unconstitutionally directed a verdict through its jury instructions.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+</p>
+<p id="b311-6">
+  In framing jury instructions, a district court’s discretion is broad.
+  <em>
+   United States v. McKinney,
+  </em>
+  <span class="citation" data-id="7177"><a href="/opinion/7177/united-states-v-mckinney/#676" aria-description="Citation for case: United States v. McKinney">53 F.3d 664, 676</a></span> (5th Cir.1995). While the district court cannot determine any element of the offense for the jury,
+  <em>
+   see Apprendi v. New Jersey,
+  </em>
+  <span class="citation" data-id="9433986"><a href="/opinion/118381/apprendi-v-new-jersey/#476" aria-description="Citation for case: Apprendi v. New Jersey">530 U.S. 466, 476-77</a></span>, <span class="citation" data-id="9433986"><a href="/opinion/118381/apprendi-v-new-jersey/" aria-description="Citation for case: Apprendi v. New Jersey">120 S.Ct. 2348</a></span>, <span class="citation" data-id="9433986"><a href="/opinion/118381/apprendi-v-new-jersey/" aria-description="Citation for case: Apprendi v. New Jersey">147 L.Ed.2d 435</a></span> (2000), it may comment on the evidence.
+  <em>
+   United States v. Johnson,
+  </em>
+  <span class="citation" data-id="9471294"><a href="/opinion/425948/united-states-v-william-j-johnson/#1324" aria-description="Citation for case: United States v. William J. Johnson">718 F.2d 1317, 1324</a></span> (5th Cir.1983) (en banc). If the district court chooses to comment on the evidence, it must instruct the jury that it is not bound by its comments or questions; it must also be careful not to take command of the jury and apply the law to the facts as it understands them and “not go so far in his remarks as to seriously prejudice the defendant.”
+  <span class="citation" data-id="9471294"><a href="/opinion/425948/united-states-v-william-j-johnson/#1325" aria-description="Citation for case: United States v. William J. Johnson"><em>
+   Id.
+  </em>
+  at 1325</a></span>;
+  <em>
+   see United States v. Musgrave,
+  </em>
+  <span class="citation" data-id="297534"><a href="/opinion/297534/united-states-v-kenneth-l-musgrave-and-jack-bryant/#761" aria-description="Citation for case: United States v. Kenneth L. Musgrave and Jack Bryant">444 F.2d 755, 761</a></span> (5th Cir.1971) (cautioning that “the trial judge must be extremely careful to refrain from becoming an advocate for the Government”).
+ </p>
+<p id="b311-7">
+  The Supreme Court has explained:
+ </p>
+<blockquote id="b311-8">
+  This privilege of the judge to comment on the facts has its inherent limitations. His discretion is not arbitrary and uncontrolled, but judicial, to be exercised in conformity with the standards governing the judicial office. In commenting upon testimony he may not assume the role of a witness. He may analyze and dissect the evidence, but he may not either distort it or add to it. His privilege of comment in order to give appropriate assistance to the jury is too important to be left without safeguards against abuses.... Th[e Supreme] [C]ourt has accordingly emphasized the duty of the trial judge to use great care that an expression - of opinion upon the evidence “should be so given as not to mislead, and especially that it should not be one-sided.”
+ </blockquote>
+<p id="b311-12">
+<em>
+   Quercia v. United States,
+  </em>
+  <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/#470" aria-description="Citation for case: Quercia v. United States">289 U.S. 466, 470</a></span>, <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/" aria-description="Citation for case: Quercia v. United States">53 S.Ct. 698</a></span>, <span class="citation" data-id="102106"><a href="/opinion/102106/quercia-v-united-states/" aria-description="Citation for case: Quercia v. United States">77 L.Ed. 1321</a></span> (1933) (quoting
+  <em>
+   Hickory v. United States,
+  </em>
+  <span class="citation" data-id="94334"><a href="/opinion/94334/hickory-v-united-states/#423" aria-description="Citation for case: Hickory v. United States">160 U.S. 408, 423</a></span>, <span class="citation" data-id="94334"><a href="/opinion/94334/hickory-v-united-states/" aria-description="Citation for case: Hickory v. United States">16 S.Ct. 327</a></span>, <span class="citation" data-id="94334"><a href="/opinion/94334/hickory-v-united-states/" aria-description="Citation for case: Hickory v. United States">40 L.Ed. 474</a></span> (1896)).
+ </p>
+<p id="b311-13">
+  To rise to the level of “constitutional error, the trial judge’s statements, viewed as a whole, must have amounted to an intervention that could have led the jury to a predisposition of guilt by improperly confusing the function of judge and prosecutor.”
+  <em>
+   United States v. Munoz,
+  </em>
+  <span class="citation" data-id="756462"><a href="/opinion/756462/united-states-v-martin-gonzalez-munoz/#413" aria-description="Citation for case: United States v. Martin Gonzalez Munoz">150 F.3d 401, 413-14</a></span> (5th Cir.1998) (citation omitted). “In determining whether the trial judge overstepped the limits imposed on the judge’s conduct, this Court must view the proceedings as a whole.”
+  <em>
+   United States v. Carpenter,
+  </em>
+  <span class="citation" data-id="460948"><a href="/opinion/460948/united-states-v-jack-william-carpenter/#1294" aria-description="Citation for case: United States v. Jack William Carpenter">776 F.2d 1291, 1294</a></span> (5th Cir.1985);
+  <em>
+   see also United States v. Lance,
+  </em>
+  <span class="citation" data-id="510048"><a href="/opinion/510048/united-states-v-gary-lee-lance-willie-love-and-rebecca-lance/#1182" aria-description="Citation for case: United States v. Gary Lee Lance, Willie Love, and Rebecca...">853 F.2d 1177, 1182</a></span> (5th Cir.1988) (“[E]ven a comment arguably suggesting a judge’s opinion concerning guilt is not necessarily reversible error but must be reviewed under the totality of the circumstances, considering factors such as the context of the remark, the person to whom it is directed, and the presence of curative instructions.”). Ultimately, the district court retains “wide latitude in commenting
+  <span citation-index="1" class="star-pagination" label="298"> 
+   *298
+   </span>
+  on the evidence during his instructions to the jury, but he has no power to direct a verdict of guilty,” or take from the jury the issue of the defendant’s guilt.
+  <em>
+   United States v. Skinner,
+  </em>
+  <span class="citation" data-id="294424"><a href="/opinion/294424/united-states-v-donald-wayne-skinner/#165" aria-description="Citation for case: United States v. Donald Wayne Skinner">437 F.2d 164, 165</a></span> (5th Cir.1971) (quoting
+  <em>
+   Mims v. United States,
+  </em>
+  <span class="citation" data-id="275313"><a href="/opinion/275313/george-lee-mims-sr-v-united-states/#148" aria-description="Citation for case: George Lee Mims, Sr. v. United States">375 F.2d 135, 148</a></span> (5th Cir.1967)).
+ </p>
+<p id="b312-4">
+  Jara-Favela asserts that the district court usurped the jury’s role in assessing crucial elements of the false statement offense as charged in Count 3 by instructing the jury that (1) Jara-Favela’s statement that he was coming from Laredo, Texas, “would necessarily be north;” (2) from the perspective of the international bridge, north is Laredo and south is Mexico; and (3) one of his statements was false “because they cannot both be right.” By instructing the jury that Laredo is necessarily north, and that, on the bridge, north is Laredo and south is Nuevo Laredo, Jara-Favela contends that the district court provided evidence on facts not alleged in the indictment and never proven to the jury and, moreover, eliminated any doubt as to the meaning of Jara-Favela’s actual statements. By further instructing the jury that Jara-Favela’s statements could not both be right, Jara-Favela asserts, the district court prevented the jury from deciding whether Jara-Favela knew “in fact that one of these statements was false” as charged in the indictment. Jara-Favela stresses that the Government never presented evidence as to what his statements meant. Jara-Favela underscores that both of Jara-Favela’s statements could be right and he very well could have been speaking truthfully, when he told one agent he came from the north and another that he came from Mexico.
+ </p>
+<p id="b312-5">
+  The Government responds that the record as a whole shows that the court’s comments did not seriously prejudice Jara-Favela. First, the Government stresses, the district court’s instructions were accurate in that Laredo is directly north of the bridge and Mexico is directly south of the bridge. The Government contends that the instruction did not usurp the jury’s authority but instead facilitated the decision-making process by focusing the jury’s attention on the issue of whether Jara-Favela made a false statement. Furthermore, the Government asserts that even if there was error, the district court provided numerous curative instructions. Placed in context, the Government asserts that the district court’s statements in this case fall short of being substantially prejudicial.
+ </p>
+<p id="b312-7">
+  We conclude that the district court’s remarks did “not go so far in his remarks as to seriously prejudice the defendant.”
+  <em>
+   Johnson,
+  </em>
+  <span class="citation" data-id="9471294"><a href="/opinion/425948/united-states-v-william-j-johnson/#1325" aria-description="Citation for case: United States v. William J. Johnson">718 F.2d at 1325</a></span>;
+  <span class="citation" data-id="9471294"><a href="/opinion/425948/united-states-v-william-j-johnson/#1319" aria-description="Citation for case: United States v. William J. Johnson"><em>
+   see id.
+  </em>
+  at 1319, 1325</a></span> (reversing a conviction because the district court instructed the jury that they must find a specific question as a matter of law rather than leaving the question for the jury to determine). In charging error, Jara-Favela strips the district court’s statements of their context and misconstrues their intent. The district court’s statements on Laredo’s being north of the international bridge came first in the context of its attempt to summarize the charges alleged in the indictment and the evidence that the Government presented at trial. Although these instructions were possibly confusing, the district court’s response to the jury note recognized this potential confusion and made clear that although Laredo is north of the border, “north,” as spoken by Jara-Favela, did not have to mean Laredo and could even be ambiguous in meaning. The district court sought to make clear that what Jara-Favela intended by “north” was a question for the jury to decide and repeatedly stressed that the jurors were free to understand the evidence in any way they found appropriate, regardless of anything
+  <span citation-index="1" class="star-pagination" label="299"> 
+   *299
+   </span>
+  the court said or what the Government claimed.
+  <em>
+   Cf. Carpenter,
+  </em>
+  <span class="citation" data-id="460948"><a href="/opinion/460948/united-states-v-jack-william-carpenter/#1294" aria-description="Citation for case: United States v. Jack William Carpenter">776 F.2d at 1294</a></span> (affirming on plain error review, despite district court’s statement in front of the jury that it “had yet to hear a defense,” due to lack of substantial prejudice because, in part, “trial was conducted impartially,” the substantial evidence presented by the Government, and the district court’s curative instructions.).
+ </p>
+<p id="b313-5">
+  Jara-Favela’s challenge to the district court’s statement that one of Jara-Favela’s statements was necessarily false does not show error for the same reason: viewed in the broader context of the jury instructions as a whole, it is clear that the district court was only laying out the Government’s allegations and the evidence, rather than telling the jury it was bound to reach a specific conclusion. The district court simply summarized the Government’s position that one statement was false, and that it was knowingly false, and that it was deliberate, and that one statement (either one) had to be false because they are directly contradictory. Rather than directing a verdict, the district court commented on the evidence so the jury could understand the Government’s allegations.
+ </p>
+<p id="b313-6">
+  Because the district court acknowledged that his initial instructions to the jury may have prescribed a narrower view of the evidence than permissible and then took steps to cure any potential error by clarifying his statements and reminding the jurors of their factfinding authority, we cannot say that the district court’s instructions and comments to the jury exceeded the district court’s power to comment on the evidence.
+  <em>
+   See Lance,
+  </em>
+  <span class="citation" data-id="510048"><a href="/opinion/510048/united-states-v-gary-lee-lance-willie-love-and-rebecca-lance/#1182" aria-description="Citation for case: United States v. Gary Lee Lance, Willie Love, and Rebecca...">853 F.2d at 1182</a></span> (“[W]e cannot evaluate a claim of judicial misconduct during a trial by viewing a single statement in isolation.... [E]ven a comment arguably suggesting a judge’s opinion concerning guilt is not necessarily reversible error but must be reviewed under the totality of the circumstances, considering factors such as ... the presence of curative instructions.”).
+ </p>
+<p id="b313-8">
+  B
+ </p>
+<p id="b313-9">
+  Jara-Favela also contends that the district court’s instructions to the jury constructively amended his indictment. We review constructive amendment claims de novo.
+  <em>
+   United States v. McMillan,
+  </em>
+  <span class="citation" data-id="71506"><a href="/opinion/71506/united-states-v-mcmillan/#450" aria-description="Citation for case: United States v. McMillan">600 F.3d 434, 450</a></span> (5th Cir.),
+  <em>
+   cert. denied,
+  </em>
+  — U.S.-, <span class="citation multiple-matches"><a href="/c/S.Ct./131/504/">131 S.Ct. 504</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/178/375/">178 L.Ed.2d 375</a></span>, 407 (2010). In reviewing a claim of constructive amendment, however, we are mindful to distinguish between a constructive amendment, which is reversible per se, and a variance between the indictment and proof, which we examine for harmless error.
+  <em>
+   See United States v. Adams,
+  </em>
+  <span class="citation" data-id="461613"><a href="/opinion/461613/united-states-v-ernest-adams/#1123" aria-description="Citation for case: United States v. Ernest Adams">778 F.2d 1117, 1123</a></span> (5th Cir.1985) (excerpting the discussion of
+  <em>
+   Stirone v. United States,
+  </em>
+  <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">361 U.S. 212</a></span>, <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">80 S.Ct. 270</a></span>, <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">4 L.Ed.2d 252</a></span> (1960) in
+  <em>
+   Gaither v. United States,
+  </em>
+  <span class="citation" data-id="285846"><a href="/opinion/285846/tyrone-gaither-v-united-states-of-america-charles-tatum-v-united-states/#1072" aria-description="Citation for case: Tyrone Gaither v. United States of America, Charles Tatum...">413 F.2d 1061, 1072-74</a></span> (D.C.Cir.1969)).
+ </p>
+<p id="b313-12">
+  If a grand jury indicts a defendant, the Fifth Amendment grants the defendant the right to be tried solely on the grand jury’s allegations.
+  <em>
+   Stirone,
+  </em>
+  <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/#215" aria-description="Citation for case: Stirone v. United States">361 U.S. at 215-18</a></span>, <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">80 S.Ct. 270</a></span>. Only the grand jury may broaden or alter the indictment.
+  <em>
+   United States v. Arlen,
+  </em>
+  <span class="citation" data-id="570422"><a href="/opinion/570422/united-states-v-billy-lee-arlen/#144" aria-description="Citation for case: United States v. Billy Lee Arlen">947 F.2d 139, 144</a></span> (5th Cir.1991). A constructive amendment may occur when the trial court “through its instructions and facts it permits in evidence, allows proof of an essential element of the crime on an alternative basis provided by the statute but not charged in the indictment.”
+  <em>
+   United States v. Phillips,
+  </em>
+  <span class="citation" data-id="47932"><a href="/opinion/47932/united-states-v-phillips/#222" aria-description="Citation for case: United States v. Phillips">477 F.3d 215, 222</a></span> (5th Cir.2007) (quotation omitted). In evaluating whether a constructive amendment has occurred, we consider “whether the jury instruction, taken as a whole, is a correct statement of the law and whether it clearly instructs jurors as to the principles of the law appli
+  <span citation-index="1" class="star-pagination" label="300"> 
+   *300
+   </span>
+  cable to the factual issues confronting them.”
+  <em>
+   United States v. Guidry,
+  </em>
+  <span class="citation" data-id="37891"><a href="/opinion/37891/united-states-v-guidry/#321" aria-description="Citation for case: United States v. Guidry">406 F.3d 314, 321</a></span> (5th Cir.2005) (quotation omitted).
+ </p>
+<p id="Ay6">
+  We “scrutinize any difference between an indictment and a jury instruction” and “will reverse only if that difference allows the defendant to be convicted of a separate crime from the one for which he was indicted.”
+  <em>
+   United States v. Nunez,
+  </em>
+  <span class="citation" data-id="18036"><a href="/opinion/18036/united-states-v-nunez/#231" aria-description="Citation for case: United States v. Nunez">180 F.3d 227, 231</a></span> (5th Cir.1999). Otherwise, we review the purported amendment as a variance, and the defendant must “show how the variance in the language between the jury charge and the indictment so severely prejudiced his defense that it requires reversal under harmless error review.”
+  <em>
+   Id.; see United States v. Baker,
+  </em>
+  <span class="citation" data-id="663733"><a href="/opinion/663733/united-states-v-woodrow-wilson-baker-jr/#98" aria-description="Citation for case: United States v. Woodrow Wilson Baker, Jr.">17 F.3d 94, 98</a></span> (5th Cir.1994) (explaining that “[a] variance is material only if it prejudices the defendant’s ‘substantial rights,’ either by surprising the defendant at trial or by placing him at risk of double jeopardy.”).
+ </p>
+<p id="ABI">
+  Jara-Favela asserts that the district court’s statement to the jury constructively amended his indictment because Count 3 was very specific in its charge: Jara-Favela “stated to Customs and Border Protection Officer Zachary Deleza, that he was coming from Laredo, Texas but he stated to CBP officer Isidro Avila that he was coming from Nuevo Laredo, Mexico ... [and he] knew that in truth and in fact that one of these statements was false.” Jara-Favela contends that the evidence was not so specific and showed only that Jara-Favela told DeLeza that he was coming from the north and Avila that he was coming from Mexico. The Government responds that the variances between the terms “Laredo, Texas” and “north,” and “Nuevo Laredo” and “south,” are not material and did not affect Jara-Favela’s ability to defend himself.
+ </p>
+<p id="Aft">
+  Allowing a conviction on DeLeza’s testimony that Jara-Favela said north and Avila’s testimony that he said Mexico, instead of the more specific terms Laredo and Nuevo Laredo, does not amount to allowing a conviction on an alternative basis than charged in the indictment.
+  <em>
+   See Phillips, 417
+  </em>
+  F.3d at 222. The evidence supported interpreting the terms as synonymous within the context of the port of entry and showed that, at the very least, Jara-Favela told DeLeza he came from the north and Avila that he came from Mexico. The jury remained free to infer from Jara-Favela’s statements that he was trying to convince DeLeza he was coming from Laredo in order to cross the border.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  Thus, Jara-Favela has shown only a variance between the terms of the indictment and the evidence produced at trial, and the only question we must address is whether the variance was material—that is, whether it severely prejudiced Jara-Favela’s defense. It did not. Jara-Favela was free to advocate the opposite inference to the jury, and he in fact did. The district court’s instructions did not foreclose Jara-Favela’s defense or improperly limit the jury’s decision-making. Jara-Favela thus has shown neither a constructive amendment nor a variance rising to the level of reversible error.
+  <em>
+   See Nunez,
+  </em>
+  <span class="citation" data-id="18036"><a href="/opinion/18036/united-states-v-nunez/#231" aria-description="Citation for case: United States v. Nunez">180 F.3d at 231</a></span>.
+ </p>
+<p id="AjT">
+  C
+ </p>
+<p id="AJq">
+  Lastly, Jara-Favela disputes the sufficiency of the evidence to support his two convictions. Our review of the sufficiency of the evidence is “highly deferential to the verdict.”
+  <em>
+   United States v. Harris,
+  </em>
+  <span class="citation" data-id="9414164"><a href="/opinion/27771/united-states-v-harris/#869" aria-description="Citation for case: United States v. Harris">293 F.3d 863, 869</a></span> (5th Cir.2002).
+ </p>
+<p id="b314-11">
+<span citation-index="1" class="star-pagination" label="301"> 
+   *301
+   </span>
+  “[Vjiewing the evidence in the light most favorable to the prosecution,” we consider whether “any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt.”
+  <em>
+   Jackson v. Virginia,
+  </em>
+  <span class="citation" data-id="9427680"><a href="/opinion/110138/jackson-v-virginia/#319" aria-description="Citation for case: Jackson v. Virginia">443 U.S. 307, 319</a></span>, <span class="citation" data-id="9427680"><a href="/opinion/110138/jackson-v-virginia/" aria-description="Citation for case: Jackson v. Virginia">99 S.Ct. 2781</a></span>, <span class="citation" data-id="9427680"><a href="/opinion/110138/jackson-v-virginia/" aria-description="Citation for case: Jackson v. Virginia">61 L.Ed.2d 560</a></span> (1979). We “accept ] all credibility choices and reasonable inferences made by the trier of fact which tend to support the verdict,”
+  <em>
+   United States v. Asibor,
+  </em>
+  <span class="citation" data-id="11565"><a href="/opinion/11565/united-states-v-asibor/#1030" aria-description="Citation for case: United States v. Asibor">109 F.3d 1023, 1030</a></span> (5th Cir.1997), and thus limit our inquiry “to whether the jury’s verdict was reasonable, not whether we believe it to be correct.”
+  <em>
+   United States v. Williams,
+  </em>
+  <span class="citation" data-id="25039"><a href="/opinion/25039/united-states-v-williams/#576" aria-description="Citation for case: United States v. Williams">264 F.3d 561, 576</a></span> (5th Cir.2001). “It is not necessary that the evidence exclude every reasonable hypothesis of innocence or be wholly inconsistent with every conclusion except that of guilt.”
+  <em>
+   United States v. Lage,
+  </em>
+  <span class="citation" data-id="765116"><a href="/opinion/765116/united-states-v-alexis-a-lage-jose-a-luzardo-alberto-diaz/#382" aria-description="Citation for case: United States v. Alexis a Lage Jose a Luzardo Alberto Diaz">183 F.3d 374, 382</a></span> (5th Cir.1999). Any conflict in the evidence must be resolved in favor of the jury’s verdict.
+  <em>
+   United States v. Duncan,
+  </em>
+  <span class="citation" data-id="552191"><a href="/opinion/552191/united-states-v-samuel-duncan-jr-grace-duncan-gay-nell-duncan/#990" aria-description="Citation for case: United States v. Samuel Duncan, Jr., Grace Duncan, Gay...">919 F.2d 981, 990</a></span> (5th Cir.1990).
+ </p>
+<p id="b315-5">
+  1
+ </p>
+<p id="b315-6">
+  Count 3 charged Jara-Favela with violating <span class="citation no-link">18 U.S.C. § 1001</span>. To convict Jara-Favela under § 1001, the Government had to prove beyond a reasonable doubt that Jara-Favela (1) made a statement (2) that was false (3) and material (4) knowingly and willfully and (5) that falls within agency jurisdiction.
+  <em>
+   United States v. Hoover,
+  </em>
+  <span class="citation" data-id="45958"><a href="/opinion/45958/united-states-v-hoover/#499" aria-description="Citation for case: United States v. Hoover">467 F.3d 496, 499</a></span> (5th Cir.2006). Count 3 specifically alleged that Jara-Favela told DeLeza that he was coming from Laredo and Avila that he was coming from Mexico.
+ </p>
+<p id="b315-7">
+  Jara-Favela asserts that there was no evidence that he made either of these statements. Rather, he asserts, the evidence showed he made slightly different statements — that he told DeLeza he was coming from the north and Avila that he was coming from Mexico. Because the Government failed to present evidence that Jara-Favela made the false statements as charged in the indictment, and because the Government failed to present evidence proving that “north” and “Laredo” are the same, he maintains that the evidence was insufficient to convict him on Count 3 as a matter of law. Jara-Favela stresses that alternative interpretations were possible because his statement that he came from the north was ambiguous: for example, it could have meant that he came from Mexico, or it could have reflected that he was “from” Laredo, given the fact that he lived there for thirty-five years.
+ </p>
+<p id="b315-9">
+  The Government responds that the evidence was sufficient to support Jara-Favela’s conviction because the trial testimony and evidence showed: (1) the bridge was located in Laredo, Texas, and it connected Mexico to the United States; (2) if a pedestrian walked through the bridge coming through Nuevo Laredo, Mexico, he would cross into Texas; (3) from the perspective of the bridge, “north” means the United States and “south” means “Mexico”; (4) Jara-Favela told DeLeza he was coming from the north; (5) Jará-Favela told Avila that he was coming from Mexico; (6) Jara-Favela told Guerra that he was coming from Nuevo Laredo and that his intentions were to go to his house in Laredo, Texas. Reviewing the evidence in the light most favorable to the jury’s verdict, the Government asserts, any rational trier of fact could conclude that “north” in this instance was synonymous with “Laredo, Texas” and that “coming from Mexico” at the border was synonymous with coming from Nuevo Laredo, Mexico. The Government therefore maintains that any rational trier of fact could also find beyond a reasonable doubt that Jara-Favela made a false statement to CBP by stating to one officer that he was coming from the north — that is, Laredo, Texas — and stating
+  <span citation-index="1" class="star-pagination" label="302"> 
+   *302
+   </span>
+  to another that he was coming from Mexico — that is, Nuevo Laredo — knowing that one of these statements was false.
+ </p>
+<p id="b316-4">
+  Because a rational trier of fact could interpret the evidence to show beyond a reasonable doubt that Jara-Favela deliberately made conflicting, material statements to CBP officers, we agree that sufficient evidence existed to convict Jara-Favela on Count 3. The Government showed that Jara-Favela made conflicting statements to DeLeza and Avila, and argued that he did so with the intent to deceive. Guerra’s testimony that Jara-Favela admitted he came from Nuevo Laredo and hoped to get to his house in Laredo supported the Government’s position. While it is conceivable that the jury could have accepted the opposite inferences proposed by Jara-Favela, a reasonable trier of fact nonetheless could find that in light of the fact that Jara-Favela was standing on a bridge at the border of two countries, where one is north and one is south, his comment that he came from the north referred to the country from the north.
+  <em>
+   See United States v. Loe,
+  </em>
+  <span class="citation" data-id="25049"><a href="/opinion/25049/united-states-v-loe/#432" aria-description="Citation for case: United States v. Loe">262 F.3d 427, 432</a></span> (5th Cir. 2001) (explaining that the jury “retains the sole authority to weigh any conflicting evidence and to evaluate the credibility of the witnesses.”). We need not “exclude every reasonable hypothesis of innocence” to affirm.
+  <em>
+   See Lage,
+  </em>
+  <span class="citation" data-id="765116"><a href="/opinion/765116/united-states-v-alexis-a-lage-jose-a-luzardo-alberto-diaz/#382" aria-description="Citation for case: United States v. Alexis a Lage Jose a Luzardo Alberto Diaz">183 F.3d at 382</a></span>. Viewing the evidence in the light most favorable to the verdict,
+  <em>
+   see Duncan,
+  </em>
+  <span class="citation" data-id="552191"><a href="/opinion/552191/united-states-v-samuel-duncan-jr-grace-duncan-gay-nell-duncan/#990" aria-description="Citation for case: United States v. Samuel Duncan, Jr., Grace Duncan, Gay...">919 F.2d at 990</a></span>, we conclude that Jara-Favela has not shown error.
+ </p>
+<p id="b316-5">
+  2
+ </p>
+<p id="b316-6">
+  Count 1 charged Jara-Favela with violating <span class="citation no-link">8 U.S.C. § 1326</span>. To prove a charge of attempted reentry into the United States by a deported alien under § 1326, the Government must prove beyond a reasonable doubt that Jara-Favela (1) was an alien at the time of the alleged offense; (2) had been previously deported; (3) attempted to enter the United States; and (4) had not received the express consent of the Attorney General or the Secretary of the Department of Homeland Security.
+  <em>
+   See United States v. Cardenas-Alvarez,
+  </em>
+  <span class="citation" data-id="601814"><a href="/opinion/601814/united-states-v-refugio-alberto-cardenas-alvarez/#1131" aria-description="Citation for case: United States v. Refugio Alberto Cardenas-Alvarez">987 F.2d 1129, 1131-32</a></span> (5th Cir. 1993);
+  <em>
+   see also
+  </em>
+  <span class="citation no-link">Pub.L. No. 104-208, § 308</span>(d)(4)(J)(i), (ii) (1997) (amending § 1326 so that arrest is no longer an element of the crime). Because “the crime of illegal reentry is not a specific intent crime, and a mistake of law is thus not a defense,”
+  <em>
+   United States v. Flores-Martinez,
+  </em>
+  <span class="citation" data-id="676484"><a href="/opinion/676484/united-states-v-flores-martinez/" aria-description="Citation for case: United States v. Flores-Martinez">677 F.3d 699</a></span> (5th Cir.2012), the Government must show only Jara-Favela’s general intent to reenter.
+  <em>
+   United States v. Ortegon-Uvalde,
+  </em>
+  <span class="citation" data-id="764725"><a href="/opinion/764725/united-states-v-sergio-alberto-ortegon-uvalde-aka-sergio-garcia-leal/" aria-description="Citation for case: United States v. Sergio Alberto Ortegon-Uvalde, A.K.A....">179 F.3d 956</a></span> (5th Cir.1999). It is not in dispute that the Government proved beyond a reasonable doubt that Jara-Favela' is a previously deported alien who had not received the appropriate consent to enter the United States. Thus, the parties’ arguments on appeal turn on whether the sufficiency of the evidence supports the conclusion that Jara-Favela attempted to enter the United States.
+ </p>
+<p id="b316-8">
+  Jara-Favela contends that the Government failed to prove that he made a knowingly false statement to CBP agents because several plausible explanations for his statements and his actions exist. Without a false statement to support its case, Jara-Favela maintains that the Government could not, and did not, prove beyond a reasonable doubt that he attempted to enter the United States illegally. Jara-Favela contends that he reasonably could have requested the orange slip because Escobedo told him that he had to go to the CIS office in Laredo to determine the status of his legal permanent residency. Jara-Favela further contends that the fact that he said his intentions were to return home does not prove that he was attempt
+  <span citation-index="1" class="star-pagination" label="303"> 
+   *303
+   </span>
+  ing to enter the United States illegally. Jara-Favela emphasizes that the agents consistently testified at trial that Jara-Favela told them he was there to ask a question and check on his status as a legal permanent resident. Jara-Favela maintains that his intentions could have been to return to the United States at a later time. Jara-Favela further asserts that it is plausible that Jara-Favela would have returned to Mexico had he been given the correct advice at soft secondary.
+ </p>
+<p id="b317-5">
+  The Government responds that the evidence was sufficient to prove that Jara-Favela knowingly made a false statement to the CBP officers. In the Government’s view, the facts that Jara-Favela (1) came from the south, but told Escobedo that he came from the north; (2) requested that she give him a stamped orange slip that would have signified to the primary officer that she had checked his legal status and approved his entry to the United States; and (3) told DeLeza that he came from the north when he did not receive an orange slip from Escobedo reflect that Jara-Favela intended to enter the United States.
+ </p>
+<p id="b317-6">
+  Viewing this record in the light most favorable to the verdict,
+  <em>
+   see Duncan,
+  </em>
+  <span class="citation" data-id="552191"><a href="/opinion/552191/united-states-v-samuel-duncan-jr-grace-duncan-gay-nell-duncan/#990" aria-description="Citation for case: United States v. Samuel Duncan, Jr., Grace Duncan, Gay...">919 F.2d at 990</a></span>, we conclude that the sufficiency of the evidence supports Jara-Favela’s conviction on Count 1. Jara-Favela was a deported alien who had not sought permission to reenter. The evidence, moreover, supported his intent to reenter. Jara-Favela approached a CBP officer and, after being told that the CIS has not issued him a legal residency card since 2005, told her he had come from the north and asked for an orange slip that would give him permission to legally enter the United States. These actions, combined with his inconsistent statements to CBP officers, support the conclusion that Jara-Favela intended to cross the border. That an opposite inference could arise from the evidence is not enough.
+  <em>
+   See Lage,
+  </em>
+  <span class="citation" data-id="765116"><a href="/opinion/765116/united-states-v-alexis-a-lage-jose-a-luzardo-alberto-diaz/#382" aria-description="Citation for case: United States v. Alexis a Lage Jose a Luzardo Alberto Diaz">183 F.3d at 382</a></span>.
+ </p>
+<p id="b317-8">
+  Ill
+ </p>
+<p id="b317-9">
+  For the reasons above, we AFFIRM the district court’s judgment.
+ </p>
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b307-7">
+   . Testimony at trial suggested that orange slips are more commonly issued to people attempting to enter the United States, but was unclear. The transcript reflects the district court's confusion about this process.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b307-11">
+   . An ADIT stamp is issued by Citizenship and Immigration Services in Laredo, Texas. It is a temporary stamp that allows legal permanent residents of the United States to travel to Mexico and return to the United States while the government is processing their new legal permanent resident cards.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b308-6">
+   . The video footage was automatically erased after thirty days. Avila testified that he reviewed the video and established that it was Jara-Favela.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b310-10">
+   . The parties do not dispute, and the record confirms, that Jara-Favela preserved these is
+   <span citation-index="1" class="star-pagination" label="297"> 
+    *297
+    </span>
+   sues for appeal.
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b311-10">
+   . We generally review jury instructions “by determining 'whether the court’s charge, as a whole, is a correct statement of the law and whether it clearly instructs jurors as to the principles of law applicable to the factual issues confronting them.' ”
+   <em>
+    United States v. McKinney,
+   </em>
+   <span class="citation" data-id="7177"><a href="/opinion/7177/united-states-v-mckinney/#676" aria-description="Citation for case: United States v. McKinney">53 F.3d 664, 676</a></span> (5th Cir.1995) (quoting
+   <em>
+    United States v. Stacey,
+   </em>
+   <span class="citation" data-id="536529"><a href="/opinion/536529/united-states-v-deborah-stacey-aka-deborah-horodecky-aka-deborah/#77" aria-description="Citation for case: United States v. Deborah Stacey, A/K/A Deborah Horodecky,...">896 F.2d 75, 77</a></span> (5th Cir. 1990)). We will only reverse if “the instructions taken as a whole do not correctly reflect the issues and law.”
+   <em>
+    <span class="citation" data-id="536529"><a href="/opinion/536529/united-states-v-deborah-stacey-aka-deborah-horodecky-aka-deborah/" aria-description="Citation for case: United States v. Deborah Stacey, A/K/A Deborah Horodecky,...">Id.</a></span>
+   </em>
+</p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="AdD">
+   . Had the evidence presented at trial diverged further from the facts alleged in the indictment, our analysis could be different.
+   <em>
+    See generally United States v. Adams,
+   </em>
+   <span class="citation" data-id="461613"><a href="/opinion/461613/united-states-v-ernest-adams/" aria-description="Citation for case: United States v. Ernest Adams">778 F.2d 1117</a></span> (5th Cir. 1985).
+  </p>
+</div></div></opinion>

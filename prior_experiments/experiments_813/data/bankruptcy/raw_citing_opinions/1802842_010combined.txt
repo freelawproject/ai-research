@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b578-3">
+<span citation-index="1" class="star-pagination" label="524"> 
+   *524
+   </span>
+  MEMORANDUM OPINION
+ </p>
+<author id="b578-4">
+  STEWART ROSE, Bankruptcy Judge.
+ </author>
+<p id="b578-5">
+  On April 7,1981, the debtor herein filed a Voluntary Petition in Bankruptcy under Chapter 7 of the Code. On September 20, 1982, a final meeting was held, and the debtor was granted a discharge of all of debtor’s debts save the claims of seven creditors, for an aggregate amount of $126,-359.50, which the Court adjudged to be non-dischargeable debts pursuant to <span class="citation no-link">11 U.S.C. § 523</span>.
+ </p>
+<p id="b578-6">
+  Less than one month later, on October 18, 1982, the debtor filed a Chapter 13 petition, and came before the Court on December 21, 1982, seeking confirmation of his plan which proposed to pay his unsecured creditors a dividend of 4.2 percent over a sixty (60) month period. The total unsecured claims amount to $146,849.19, $126,359.50 of which represents the debts determined to be nondischargeable in the debtor’s recent Chapter 7 proceeding.
+ </p>
+<p id="b578-7">
+  The Trustee recommended confirmation and the Court commended the debtor’s diligence in putting together a plan within two months of filing his Chapter 13 petition. The Court, however, was constrained to deny confirmation and dismissed the bankruptcy proceeding. Findings of Facts and Conclusions of Law were issued from the bench at the hearing on confirmation. This opinion supplements those findings and conclusions.
+ </p>
+<p id="b578-8">
+  1.
+  <em>
+   Objection to Confirmation and Rejection of the Plan by the Internal Revenue Service.
+  </em>
+</p>
+<p id="b578-9">
+  The only creditor filing a written objection to confirmation and rejection of Debt- or’s proposed plan was the Internal Revenue Service (IRS). The IRS objected and rejected on the grounds that Debtor had failed to account for its secured claim in the amount of $3,084.08, or to provide for payment of the claim in the plan. At the confirmation hearing, Debtor’s counsel informed the Court that the IRS claim had been paid, whereupon counsel for IRS tentatively withdrew its objection to confirmation and rejection of the plan pending an investigation into whether the IRS claim had indeed been paid. Since confirmation of the plan was denied on other grounds, it is not necessary for the Court to await the results of IRS’s counsel’s investigation into the matter.
+ </p>
+<p id="b578-11">
+  2.
+  <em>
+   "Good Faith”.
+  </em>
+</p>
+<p id="b578-12">
+  Under <span class="citation no-link">11 U.S.C. § 1325</span>(a), the Court must confirm a plan if all of six conditions are met, including that the “plan has been proposed in good faith and not by any means forbidden by law.” <span class="citation no-link">11 U.S.C. § 1325</span>(a)(3). In this case the Court found that the plan was not proposed in good faith and confirmation was denied.
+ </p>
+<p id="b578-13">
+  “Good faith” is not defined in the Code. Many courts have considered the question of “good faith”, but these efforts have failed to yield a consensus. Some courts have held, as a matter of law, that good faith requires a “substantial and meaningful” repayment of unsecured debts.
+  <em>
+   In re Webb,
+  </em>
+  <span class="citation" data-id="1970546"><a href="/opinion/1970546/in-re-webb/" aria-description="Citation for case: In Re Webb">3 B.R. 61</a></span>, <span class="citation" data-id="1970546"><a href="/opinion/1970546/in-re-webb/" aria-description="Citation for case: In Re Webb">5 B.C.D. 1379</a></span> (Bkrtcy.N.D.Cal., 1980) (confirming the plan but striking the one percent payments to unsecured creditors because such payments are
+  <em>
+   de minimis
+  </em>
+  and insulting);
+  <em>
+   In re Beaver,
+  </em>
+  <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/" aria-description="Citation for case: In Re Beaver">2 B.R. 337</a></span>, <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/" aria-description="Citation for case: In Re Beaver">5 B.C.D. 1285</a></span> (Bkrtcy.S.D.Cal., 1980). Others have held that the substantial and meaningful requirement is met only when the plan proposes a seventy percent or greater dividend to unsecured creditors.
+  <em>
+   In re Paul Burrell,
+  </em>
+  <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">2 B.R. 650</a></span>, <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">5 B.C.D. 1321</a></span> (Bkrtcy.N.D.Cal., 1980).
+ </p>
+<p id="b578-14">
+  This Court rejects any
+  <em>
+   per se
+  </em>
+  rule with respect to meaningful payments. Congress has provided a guideline in requiring that
+ </p>
+<blockquote id="b578-15">
+  “the value, as of the effective date of the plan, of property to be distributed under the plan on account of cash allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under Chapter 7 of this title on such date.” <span class="citation no-link">11 U.S.C. § 1325</span>(a)(4).
+ </blockquote>
+<p id="b578-16">
+  With this provision in mind, this Court has confirmed plans which have proposed to pay less to unsecured creditors than the 4.2
+  <span citation-index="1" class="star-pagination" label="525"> 
+   *525
+   </span>
+  percent proposed in this debtor’s plan. Moreover, the Court is cognizant that zero-payment plans have been confirmed by other courts,
+  <em>
+   In re Schongalla,
+  </em>
+  <span class="citation" data-id="1538679"><a href="/opinion/1538679/in-re-schongalla/" aria-description="Citation for case: In Re Schongalla">4 B.R. 360</a></span>, <span class="citation" data-id="1538679"><a href="/opinion/1538679/in-re-schongalla/" aria-description="Citation for case: In Re Schongalla">6 B.C.D. 408</a></span>, 2 C.B.C.2d 286 (Bkrtcy.Md., 1980);
+  <em>
+   In re Iacovani,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, <span class="citation no-link">5 B.C.D. 1270</span>, 1 C.B.C.2d 213 (Bkrtcy. Utah, 1980);
+  <em>
+   In re Webb,
+  </em>
+  <span class="citation" data-id="1970546"><a href="/opinion/1970546/in-re-webb/" aria-description="Citation for case: In Re Webb">3 B.R. 61</a></span>, <span class="citation" data-id="1970546"><a href="/opinion/1970546/in-re-webb/" aria-description="Citation for case: In Re Webb">5 B.C.D. 1379</a></span>, 1 C.B.C.2d 456 (Bkrtcy.N.D.CA.1980);
+  <em>
+   In re Terry,
+  </em>
+  <span class="citation" data-id="1970481"><a href="/opinion/1970481/tenney-v-terry-in-re-terry/" aria-description="Citation for case: Tenney v. Terry (In Re Terry)">3 B.R. 63</a></span>, <span class="citation" data-id="1970481"><a href="/opinion/1970481/tenney-v-terry-in-re-terry/" aria-description="Citation for case: Tenney v. Terry (In Re Terry)">5 B.C.D. 1397</a></span> (Bkrtcy.W.D.Ark., 1980) rev’d sub. nom.
+  <em>
+   Tenney v. Terry,
+  </em>
+  <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">630 F.2d 634</a></span>, <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">6 B.C.D. 974</a></span> (8th Cir., 1980), and does not reject the possibility of confirming such a plan if convinced that such a plan were proposed in good faith.
+ </p>
+<p id="b579-5">
+  This Court adopts the view that “good faith” is comprised of a number of factors, to be considered on a case-by-case basis, within the context of the facts and circumstances of each case.
+  <em>
+   In re Deans,
+  </em>
+  <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">692 F.2d 968</a></span>, 7 C.B.C.2d 288 (4th Cir.C.C.A.1982);
+  <em>
+   In re Goeb,
+  </em>
+  [<span class="citation no-link">6 C.B.C. 1208</span>] <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386</a></span> (9th Cir.C.C.A.1982);
+  <em>
+   In re Rimgale,
+  </em>
+  [<span class="citation no-link">5 C.B.C. 1281</span>] <span class="citation multiple-matches"><a href="/c/F.2d/669/426/">669 F.2d 426</a></span> (7th Cir.1981);
+  <em>
+   In re Mitruka,
+  </em>
+  <span class="citation" data-id="1956725"><a href="/opinion/1956725/in-re-mitruka/" aria-description="Citation for case: In Re Mitruka">19 B.R. 516</a></span> (Bkrtcy.E.D.Pa., 1982).
+ </p>
+<p id="b579-6">
+  The
+  <em>
+   <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">Deans</a></span>
+  </em>
+  Court suggests factors which might be applied to a particular case in aid of a court’s decision to confirm or deny confirmation. This non-exhaustive list includes substantiality, i.e. percentage, of proposed repayment; the debtor’s financial situation; the period of time over which payment will be made; the debtor’s employment history and prospects; the nature and amount of the unsecured claims; the debt- or’s past bankruptcy filings; the debtor’s honesty in representing facts; and any unusual or exceptional problems facing the particular debtor. <span class="citation" data-id="410944"><a href="/opinion/410944/margaret-ann-deans-v-gerald-odonnell-trustee-in-re-margaret-ann-deans/" aria-description="Citation for case: Margaret Ann Deans v. Gerald O&#x27;donnell, Trustee, in Re...">692 F.2d 968</a></span>, 7 C.B.C.2d at 293.
+ </p>
+<p id="b579-7">
+  Applying these factors to the instant case, we find that this debtor proposes to repay 4.2 percent, or a total of $6,250.00 on aggregate unsecured debts of $146,849.19, of which $126,359.50 would be nondischargeable in a Chapter 7 bankruptcy proceeding. In addition, Debtor has filed voluntary petitions under Chapter 7 in 1968 and 1981. Although these previous filings under Chapter 7 do not preclude Debtor’s present petition under Chapter 13, it should remembered that the bulk of the unsecured debts which Debtor herein seeks to have discharged after paying a 4.2 percent dividend over a sixty (60) month period are those same debts which were adjudged non-dischargeable because of Debtor’s fraud, <span class="citation no-link">11 U.S.C. § 523</span>, in the 1981 Chapter 7 proceeding. This Court is reluctant, as other courts have been, to allow the debtor to accomplish in a Chapter 13 that which he cannot do in a Chapter 7.
+  <em>
+   In re Ponanski,
+  </em>
+  <span class="citation" data-id="2009133"><a href="/opinion/2009133/in-re-ponanski/" aria-description="Citation for case: In Re Ponanski">11 B.R. 661</a></span>, 4 C.B.C.2d 895 (Bkrtcy.D.R.I.1981);
+  <em>
+   In re Cole,
+  </em>
+  <span class="citation" data-id="1970651"><a href="/opinion/1970651/matter-of-cole/" aria-description="Citation for case: Matter of Cole">3 B.R. 346</a></span>, 1 C.B.C.2d 795 (Bkrtcy.S.D.W.Va., 1980);
+  <em>
+   In re Murallo,
+  </em>
+  <span class="citation" data-id="1538740"><a href="/opinion/1538740/matter-of-murallo/" aria-description="Citation for case: Matter of Murallo">4 B.R. 666</a></span>, 6 B.C.D.2d 478 (Bkrtcy.D.Conn., 1980). Such a result would certainly undermine the spirit and intent of Chapter 13 as contemplated by Congress: to allow a super-discharge to debtors who seek a fresh start by dealing honestly and fairly with their creditors.
+  <em>
+   See,
+  </em>
+  House Report No. 95-595, 95th Cong., 1st Sess. (1977) and Senate Report No. 95-989, 95th Cong., 2d Sess. (1978), U.S.Code Cong. &amp; Admin.News 1978, p. 5787;
+  <em>
+   In re Hurd,
+  </em>
+  <span class="citation" data-id="1538572"><a href="/opinion/1538572/in-re-hurd/" aria-description="Citation for case: In Re Hurd">4 B.R. 551</a></span> (Bkrtcy.W.D.Mich., 1980);
+  <em>
+   In re Howard,
+  </em>
+  <span class="citation" data-id="1970311"><a href="/opinion/1970311/in-re-howard/" aria-description="Citation for case: In Re Howard">3 B.R. 75</a></span>, <span class="citation" data-id="1970311"><a href="/opinion/1970311/in-re-howard/" aria-description="Citation for case: In Re Howard">5 B.C.D. 1375</a></span> (Bkrtcy.S.D.CA.1980).
+  <em>
+   De min-imis
+  </em>
+  repayment plans, as proposed here, “must be strictly scrutinized for good faith because of the discharge provisions which Chapter 13 relief affords.”
+  <em>
+   In re Schongalla,
+  </em>
+  4 B.R. at 363. In
+  <em>
+   In re Iacovani, supra,
+  </em>
+  the Court was faced with a Chapter 13 proposed zero-payment plan in which unsecured debts included a debt which would be nondischargeable in a Chapter 7 bankruptcy. The Court said that the debtor’s purpose in invoking the advantage of the broader Chapter 13 relief, i.e., the discharge of an otherwise nondischargeable debt, might “carry with it concomitant obligations of repayment effort.” <span class="citation" data-id="1970311"><a href="/opinion/1970311/in-re-howard/" aria-description="Citation for case: In Re Howard">3 B.R. 75</a></span>, 5 B.C.D. at 1277. And, in
+  <em>
+   In re Marlow,
+  </em>
+  <span class="citation" data-id="1970491"><a href="/opinion/1970491/matter-of-marlow/" aria-description="Citation for case: Matter of Marlow">3 B.R. 305</a></span>, 6 B.C.D.2d 77, (Bkrtcy.N.D.Ill., 1980), the Court found that a
+  <em>
+   de minimis
+  </em>
+  repayment plan coupled with a motive to avoid a Chapter 7 nondischargeable debt “is fatal”.
+  <em>
+   <span class="citation" data-id="1970491"><a href="/opinion/1970491/matter-of-marlow/" aria-description="Citation for case: Matter of Marlow">Id.</a></span>
+  </em>
+  <span class="citation" data-id="1970491"><a href="/opinion/1970491/matter-of-marlow/" aria-description="Citation for case: Matter of Marlow">3 B.R. 305</a></span>, 6 B.C.D.2d at 79. be
+ </p>
+<p id="b579-9">
+  Counsel for Debtor argues that the proposed 4.2 percent repayment is the best that Debtor can do under his circumstances.
+  <span citation-index="1" class="star-pagination" label="526"> 
+   *526
+   </span>
+  “Best effort” is certainly a factor to be considered by the Court in its efforts to find good faith. It appears from Debtor’s Statement of Affairs that this may well be Debtor’s best effort. However, one of the unsecured creditors whose claim was adjudged nondischargeable in the previous Chapter 7 proceeding objects to this characterization. The other unsecured creditors standing in the same position as this lone objecting creditor might also object to the characterization of Debtor’s proposed 4.2 percent repayment as a “best effort” if they had received notice of the confirmation hearing. It appears to the Court, however, that these unsecured creditors may not have received notice due to a breakdown in communication with their attorney, or for some other reason. Be that as it may, the Court does make a tentative finding that the proposed plan does represent the Debtor’s best effort. However, even if the Court were to make a firm finding that this is the debtor’s best effort, such a finding would not be dispositive of the issue of “good faith”. The debtor is not required by the Code to put forth his “best effort”; that he does not is not fatal, that he does is not controlling.
+  <em>
+   In re Aalto,
+  </em>
+  <span class="citation" data-id="1987091"><a href="/opinion/1987091/triplett-v-arndt-in-re-aalto/" aria-description="Citation for case: Triplett v. Arndt (In Re Aalto)">8 B.R. 157</a></span> (Bkrtcy.M.D.Fla.);
+  <em>
+   In re Paul <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">Burrell, supra;</a></span> In re Schongalla,
+  </em>
+  <span class="citation" data-id="1538679"><a href="/opinion/1538679/in-re-schongalla/" aria-description="Citation for case: In Re Schongalla">4 B.R. 360</a></span>, <span class="citation" data-id="1538679"><a href="/opinion/1538679/in-re-schongalla/" aria-description="Citation for case: In Re Schongalla">6 B.C.D. 408</a></span>, 2 C.B.C.2d 286 (Bkrtcy.Md., 1980);
+  <em>
+   In re Iacovani,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, 5 B.C.D.2d 1270, 1 C.B.C.2d 313 (Bkrtcy. Utah, 1980).
+ </p>
+<p id="b580-4">
+  This is a hard case. The Debtor was incarcerated in the New Mexico State Penitentiary for fraudulent practices such as those which gave rise to the debts which were adjudged nondischargeable in the recent Chapter 7 bankruptcy. Chapter 7 relief is not available to this Debtor. Even so, this Court cannot confirm this plan for to do so would be to confirm a mockery of the spirit and purpose of the Chapter 13 superdischarge provision.
+  <em>
+   In re Hurd,
+  </em>
+  <span class="citation" data-id="1538572"><a href="/opinion/1538572/in-re-hurd/" aria-description="Citation for case: In Re Hurd">4 B.R. 551</a></span>, <span class="citation" data-id="1538572"><a href="/opinion/1538572/in-re-hurd/" aria-description="Citation for case: In Re Hurd">6 B.C.D. 412</a></span>, 2 C.B.C.2d 190 (Bkrtcy.W.D.Mich., 1980). In
+  <em>
+   <span class="citation" data-id="1538572"><a href="/opinion/1538572/in-re-hurd/" aria-description="Citation for case: In Re Hurd">Hurd</a></span>,
+  </em>
+  the debtors proposed a five percent repayment to unsecured creditors. The Court found that the plan represented the debtors’ best effort and was in the creditors’ best interests. Yet, the Court refused to confirm on the belief that Congress did not intend “the use of Chapter 13 as a device for paying almost nothing to settle one’s unsecured debts without the disadvantages of liquidation,” 4 B.R. at 557,
+  <em>
+   even though a Chapter
+  </em>
+  7
+  <em>
+   liquidation was not available to one of the debtors.
+  </em>
+</p>
+<p id="b580-6">
+  This Court is convinced that any debtor who wishes to can propose a plan which will be confirmed. That such will require creativity and perhaps a special effort will not dissuade the debtor with serious intent. Such a plan might be one in which the debtor proposes incremental increases in repayment over the life of the plan. Another might be one in which the debtor intends to ultimately waive discharge pursuant to <span class="citation no-link">11 U.S.C. § 1328</span>(a), but pays through the plan for a period of time in order to obtain relief in the way of a moratorium on creditors’ collection efforts, gaining the debtor time in which to get his financial affairs in order. Another plan might propose that the debtor will either increase the percentage of repayment at a certain later date, if able to do so, or, if not so able, agree to dismiss or convert at such time.
+ </p>
+<p id="b580-7">
+  In this case, the plan which proposed to pay 4.2 percent of unsecured debts, which are otherwise nondischargeable, over a sixty (60) month period was not in good faith and cannot be confirmed.
+ </p>
+</opinion>

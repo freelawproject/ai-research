@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b163-21">
+  MEMORANDUM AND ORDER
+ </p>
+<author id="b163-22">
+  CHARLES J. MARRO, Bankruptcy Judge.
+ </author>
+<p id="b163-23">
+  The Motion of Robert Kjellerup and Hope Kjellerup to Dismiss this Chapter 13 Proceeding came on for hearing, after notice.
+ </p>
+<p id="b163-24">
+  From the testimony adduced at said hearing and the records in the case the following facts are established:
+ </p>
+<p id="b163-25">
+  The Chapter 13 Statement shows that each debtor has a monthly income of $500.00 for a total of $1,000.00 and expenses of $830.00 leaving an excess of estimated monthly income of $170.00.
+ </p>
+<p id="b163-26">
+  The Debtors have been employed by a publishing company known as Berenluthien, Inc., since the spring of this year. This corporation is wholly owned by the Debtors and it has one other employee. It now has a net operating profit and the Debtors are in a position to take out as compensation for their services the sum of $500.00 each month. Up to the time of the hearing they
+  <span citation-index="1" class="star-pagination" label="106"> 
+   *106
+   </span>
+  received no salary and their only income was from tax returns.
+ </p>
+<p id="b164-4">
+  The basis for the dismissal of the Chapter 13 Proceeding is that the Debtors do not have regular and stable income sufficient to qualify them as debtors under Chapter 13. The undisputed testimony is that they will be receiving $500.00 each a month from the operation of their publishing company and they contend that, since they have a regular source of income, they qualify as debtors under Chapter 13.
+ </p>
+<p id="b164-5">
+  Code § 109(e) limits the use of Chapter 13 to individuals with regular income. An individual with regular income is defined under § 101(24) as one whose income is sufficiently stable and regular to enable such individual to make payments under a plan under Chapter 13, other than a stockbroker or a commodity broker. Sueh income may be “from whatever source.” 5 Collier 15th Edition § 1300.107, page 1300-54.
+ </p>
+<p id="b164-6">
+  The use of Chapter 13 has been expanded from a wage earner under the Bankruptcy Act to any individual with regular income. This includes an individual whose primary income is from investments, pensions, Social Security or welfare. See the Legislative History, House Report No. 95-595, page 119, also page 312, U.S.Code Cong. &amp; Admin.News 1978, pp. 5787, 6080, 6269 which reads as follows:
+ </p>
+<blockquote id="b164-7">
+  “Thus, individuals on welfare, social security, fixed pension incomes, or who live on investment incomes, will be able to work out repayment plans with their creditors rather than being forced into straight bankruptcy.”
+ </blockquote>
+<p id="b164-8">
+  This legislative intent has been recognized in cases construing “an individual with regular income.”
+  <em>
+   In re Howell,
+  </em>
+  <span class="citation" data-id="1538595"><a href="/opinion/1538595/in-re-howell/#106" aria-description="Citation for case: In Re Howell">4 B.R. 102, 106</a></span> (Bkrtcy.);
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#259" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256, 259</a></span> (Bkrtcy.); where welfare payments were recognized as regular income;
+  <em>
+   In re Dawson,
+  </em>
+  <span class="citation" data-id="2024577"><a href="/opinion/2024577/in-re-dawson/#109" aria-description="Citation for case: In Re Dawson">13 B.R. 107, 109</a></span> (Bkrtcy.);
+  <em>
+   In re Pearson,
+  </em>
+  <span class="citation" data-id="1864015"><a href="/opinion/1864015/in-re-pearson/#192" aria-description="Citation for case: In Re Pearson">10 B.R. 189, 192</a></span> (Bkrtcy.).
+ </p>
+<p id="b164-9">
+  It is also noted that it is not necessary for an individual to have regular income at the time that the Petition is filed in order to qualify for a Chapter 13 Proceeding. The Bankruptcy Court in the case of
+  <em>
+   In re Mozer,
+  </em>
+  <span class="citation" data-id="1975684"><a href="/opinion/1975684/in-re-mozer/#352" aria-description="Citation for case: In Re Mozer">1 B.R. 350, 352</a></span> (Bkrtcy.), pointed this out as follows:
+ </p>
+<blockquote id="b164-11">
+  “An individual with regular income is defined in § 101(24) of the Code as an ‘individual whose income is sufficiently stable and regular to enable such individual to make payments under a plan under chapter 13 . . . ’ The creditors rely heavily upon the use of the word ‘is’ in the statute asserting that it requires, as of the date of the petition, an existent regular and stable income. Such a view is too limited. The debtor must demonstrate that he will have income to make the payments under the plan. This may in fact be a prospective determination and is not limited to the historical view asserted.
+  <em>
+   Matter of White Birch Park,
+  </em>
+  <span class="citation" data-id="1805143"><a href="/opinion/1805143/white-v-associated-midwest-inc/" aria-description="Citation for case: White v. Associated Midwest, Inc.">471 F.Supp. 159</a></span> (E.D.Mich.1979).”
+ </blockquote>
+<p id="b164-12">
+  Since the undisputed testimony has established that the Debtors will each have monthly income of $500.00 each from the operation of their corporate business, this Court is satisfied that they have met the jurisdictional requirements as individuals with regular income for the filing of a Chapter 13 Proceeding. To be sure, they expect to implement the Plan from the sale of their real estate. They are entitled to do this under Chapter 13 as long as they have satisfied the requirement that they are individuals with regular income.
+ </p>
+<p id="b164-13">
+  ORDER
+ </p>
+<p id="b164-14">
+  Upon the foregoing,
+ </p>
+<p id="b164-15">
+  IT IS ORDERED that the Motion to Dismiss this Chapter 13 Proceeding is hereby DENIED.
+ </p>
+</opinion>

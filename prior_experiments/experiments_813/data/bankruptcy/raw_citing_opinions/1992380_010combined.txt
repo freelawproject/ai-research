@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b569-32">
+  MEMORANDUM DECISION
+ </p>
+<author id="b569-33">
+  PRICE, District Judge.
+ </author>
+<p id="b569-34">
+  These cases present a predominant common issue, and are thus consolidated by the court’s own motion for purposes of this
+  <span citation-index="1" class="star-pagination" label="514"> 
+   *514
+   </span>
+  appeal. The common issue is: Did the bankruptcy court err in confirming the proposed Chapter 13 plans of the respective debtors when each of the plans made no provision for the payment of any portion of the debts owed to unsecured creditors?
+ </p>
+<p id="b570-4">
+  It is the court’s conclusion that the bankruptcy court did commit error in confirming these plans, and accordingly the cases must be remanded to the bankruptcy court for further proceedings in conformance with this Memorandum Decision.
+ </p>
+<p id="b570-5">
+  <span class="citation no-link">11 U.S.C. § 1325</span>(a) provides in pertinent part as follows, to wit:
+ </p>
+<blockquote id="b570-6">
+  “§ 1325. Confirmation of plan
+ </blockquote>
+<blockquote id="b570-7">
+  (a) The court shall confirm a plan if-
+ </blockquote>
+<blockquote id="b570-8">
+  (1) the plan complies with the provisions of this chapter [<span class="citation no-link">11 U.S.C. §§ 1301</span> et seq.] and with other applicable provisions of this title [<span class="citation no-link">11 U.S.C. §§ 1</span> et seq.];
+ </blockquote>
+<blockquote id="b570-9">
+  (2) any fee, charge, or amount required under chapter 123 of title 28 [<span class="citation no-link">28 U.S.C. §§ 1911</span> et seq.], or by the plan, to be paid before confirmation, has been paid;
+ </blockquote>
+<blockquote id="b570-10">
+  (3) the plan has been proposed in good faith and not by any means forbidden by law;
+ </blockquote>
+<blockquote id="b570-11">
+  (4) the value, as the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under chapter 7 of this title [<span class="citation no-link">11 U.S.C. §§ 701</span> et seq.] on such date;
+ </blockquote>
+<blockquote id="b570-12">
+  (5) with respect to each allowed secured claim provided for by the plan-
+ </blockquote>
+<blockquote id="b570-13">
+  (A) the holder of such claim has accepted the plan;
+ </blockquote>
+<blockquote id="b570-14">
+  (B)(i) the plan provides that the holder of such claim retain the lien securing such claim; and
+ </blockquote>
+<blockquote id="b570-15">
+  (ii) the value, as of the effective date of the plan, of property to be distributed under the plan on account of such claim is not less than the allowed amount of such claim; or
+ </blockquote>
+<blockquote id="b570-16">
+  (C) the debtor surrenders the property securing such claim to such holder; and
+ </blockquote>
+<blockquote id="b570-17">
+  (6)the debtor will be able to make all payments under the plan and to comply with the plan.
+ </blockquote>
+<blockquote id="b570-18">
+  (b) After confirmation of the plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.”
+ </blockquote>
+<p id="b570-19">
+  A simple reading of the act would indicate that a
+  <em>
+   11 six
+  </em>
+  provisions of the act must be met before a plan under this section can be confirmed. This reading is borne out by the following portion of Senate Report No. 95-989,
+  <em>
+   [1978] U.S.Code Cong. &amp; Adm.News,
+  </em>
+  pp. 5787, 5928:
+ </p>
+<blockquote id="Avf">
+  “Section 1325. Confirmation of plan
+ </blockquote>
+<blockquote id="AYIj">
+  The bankruptcy court must confirm a plan if (1) the plan satisfies the provisions of chapter 13 and other applicable provisions of title 11; (2) it is proposed in good faith; (3) it is in the best interests of creditors, and defined by subsection (a)(4) of Section 1325; (4) it has been accepted by the holder of each allowed secured claim provided for the plan or where the holder of any such secured claim is to receive value under the plan not less than the amount of the allowed secured claim, or where the debtor surrenders to the holder the collateral securing any such allowed secured claim; (5) the plan is feasible; and (6) the requisite fees and charges have been paid.”
+ </blockquote>
+<p id="b570-20">
+  Hence, not only the plain meaning of the statute involved, but the clearly enunciated intent of Congress, is that all six provisions of § 1325 must be found by the bankruptcy judge to be satisfied prior to confirming any wage earner plan.
+ </p>
+<p id="b570-21">
+  The debtor in each of these proceedings and amicus curiae argue that the intent of Congress is clearly otherwise. They contend that so far as the unsecured creditors are concerned, the court need only look at the plan and determine whether the unsecured creditors will receive as much as they would receive under an outright bankruptcy liquidation under Chapter 7 [<span class="citation no-link">11 U.S.C. § 1325</span>(aX4)]. The majority of the bankruptcy cases decided by bankruptcy judges
+  <span citation-index="1" class="star-pagination" label="515"> 
+   *515
+   </span>
+  in other districts, as well as the district court and circuit court cases which have been brought to the attention of this court have held otherwise.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+</p>
+<p id="b571-5">
+  The arguments advanced by the courts who have considered the matter include the following:
+ </p>
+<p id="b571-6">
+  (1) That a plan that does not provide for any payment to unsecured creditors cannot qualify as having been proposed in good faith. Reduced to its barest essentials, such a plan simply is a disguised liquidation enabling the debtors to keep their nonexempt property as well as rewarding them with a more liberal discharge than would be available to them under a straight bankruptcy liquidation under Chapter 7.
+ </p>
+<p id="b571-7">
+  (2) That Congress clearly intended that all of the six requirements of § 1325 be satisfied and that the good faith requirement of § 1325(a)(3) is not to be measured by the requirements of § 1325(a)(4).
+ </p>
+<p id="b571-8">
+  In summary, all of the decisions cited agree that in order to become entitled to confirmation, each Chapter 13 plan must make some meaningful provision for payment to unsecured creditors; otherwise, the plan cannot be approved. The precise amount of such payment is to be fashioned by the bankruptcy judge in each case.
+ </p>
+<p id="b571-9">
+  From the record on appeal, the court is unable to determine whether the bankruptcy court in the instant case ever considered what the ability of the petitioning debtor might be to make payments out of future earnings. The court suggests that the confirmation order in each of these cases may likewise be deficient in that regard.
+ </p>
+<p id="b571-10">
+  Accordingly, the case is remanded to the bankruptcy court for further proceedings in accordance with this memorandum decision.
+ </p>
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b571-12">
+   .
+   <em>
+    In Re Howard
+   </em>
+   (Bkrtcy.S.D.Cal.1980) <span class="citation" data-id="1970311"><a href="/opinion/1970311/in-re-howard/" aria-description="Citation for case: In Re Howard">3 B.R. 75</a></span>, <span class="citation" data-id="1970311"><a href="/opinion/1970311/in-re-howard/" aria-description="Citation for case: In Re Howard">5 B.C.D. 1375</a></span>;
+   <em>
+    In Re Campbell
+   </em>
+   (Bkrtcy.S.D.Cal.1980) <span class="citation" data-id="1970642"><a href="/opinion/1970642/in-re-campbell/" aria-description="Citation for case: In Re Campbell">3 B.R. 57</a></span>, <span class="citation" data-id="1970642"><a href="/opinion/1970642/in-re-campbell/" aria-description="Citation for case: In Re Campbell">5 B.C.D. 1365</a></span>;
+   <em>
+    In Re Beaver (B
+   </em>
+   krtcy.S.D.Cal.1980) <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/" aria-description="Citation for case: In Re Beaver">2 B.R. 337</a></span>, <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/" aria-description="Citation for case: In Re Beaver">5 B.C.D. 1285</a></span>;
+   <em>
+    In Re Iacovoni, et al.
+   </em>
+   (Bkrtcy.D.Utah 1980) <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, <span class="citation no-link">5 B.C.D. 1270</span>;
+   <em>
+    In Re Terry
+   </em>
+   (8th Cir. 1980) Bankr.L.Rep. (CCH) 67,611;
+   <em>
+    In Re
+   </em>
+   Burrell, <span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/" aria-description="Citation for case: In Re Burrell">6 B.R. 360</a></span> (Bkrtcy.N.D.Cal.1980).
+  </p>
+</div></div></opinion>

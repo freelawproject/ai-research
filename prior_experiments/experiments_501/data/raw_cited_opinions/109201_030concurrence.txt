@@ -1,0 +1,6 @@
+<opinion type="concurrence">
+<author id="b456-7">Mr. Justice Douglas,</author>
+<judges id="Ad-">with whom Mr. Justice Brennan joins,</judges>
+<p id="AhjM">concurring in the judgment.</p>
+<p id="b456-8">I would hold that the Double Jeopardy Clause bars the Government's appeal from the ruling of this trial court in respondent's favor. See <em>Fong Foo </em>v. <em>United States, </em>369 U. S. 141. Accordingly, I concur in the affirmance of the judgment below.</p>
+</opinion>

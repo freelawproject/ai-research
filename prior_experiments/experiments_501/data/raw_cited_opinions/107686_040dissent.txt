@@ -1,0 +1,10 @@
+<opinion type="dissent">
+<author id="b261-5">Mr. Justice Harlan,</author>
+<judges id="AWD">whom Mr. Justice Stewart joins,</judges>
+<p id="ADl">dissenting.</p>
+<p id="b261-6">I dissent for the reasons expressed in my dissenting opinion in <em>Duncan </em>v. <em>Louisiana, ante, </em>p. 171, and in my separate opinion in <em>Cheff </em>v. <em>Schnackenberg, </em>384 U. S. 373, 380. See also <em>United States </em>v. <em>Barnett, </em>376 U. S. 681; <em>Green </em>v. <em>United States, </em>356 U. S. 165.</p>
+<p id="b261-7">This case completes a remarkable circle. In <em>Duncan, supra, </em>the Court imposed on the States a rule of procedure that was neither shown to be fundamental to procedural fairness nor held to be part of the originally understood content of the Fourteenth Amendment. The sole justification was that the rule was found in the Bill of Rights. The Court now, without stating any additional reasons, imposes on the States a related rule that, as recently as <em>Cheff </em>v. <em>Schnackenberg, supra, </em>the Court declined to find in the Bill of Rights. That the words of Mr. Justice Holmes,<footnotemark>*</footnotemark> inveighing against a century of “unconstitutional assumption of [state] powers by the Courts of the United States” in derogation of the central premise of our Constitution, should be invoked to support. the Court's action here can only be put down to the vagaries of the times.</p>
+<footnote label="*">
+<p id="b261-8"><em>Black &amp; White Taxicab &amp; Transfer Co. </em>v. <em>Brown &amp; Yellow Taxicab &amp; Transfer Co., </em>276 U. S. 518, 532, at 533 (dissenting opinion, quoted <em>ante, </em>at 198).</p>
+</footnote>
+</opinion>

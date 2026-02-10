@@ -1,0 +1,11 @@
+<opinion type="dissent">
+<author id="b72-5">Mr. Justice Harlan,</author>
+<p id="ABj">dissenting.</p>
+<p id="b72-6">I am wholly in sympathy with the result reached by the Court. It is, I believe, a result that is consistent with sound judicial administration and that will greatly simplify the conduct of suits in which a claim for maintenance and cure is joined with a Jones Act claim arising but of the same set of facts.</p>
+<p id="b72-7">But the rule that the Court announces is in my view entirely procedural in character, and the manner in which such rules must be promulgated has been specified by Congress in 28 U. S. C. § 2073. This statute provides that rules of procedure in admiralty</p>
+<blockquote id="b72-8">“shall not take effect until they have been reported to Congress by the Chief Justice at or after the beginning of a regular session thereof . . . and until the expiration of ninety days after they have been ■thus reported.”</blockquote>
+<p id="b72-9">Believing that we are governed by this provision, and that the method there prescribed for the declaration of procedural rules,-which'are to be applicable in all Federal District Courts, is exclusive, I am unable to subscribe to the opinion of the Court.<footnotemark>*</footnotemark> I think the appropriate way to achieve what iii this instance is obviously a desirable procedural reform is to deal with the matter through the Judicial Conference of the United States. Cf. <em>Miner </em>v. <em>Atlass, </em>363 U. S. 641. Meanwhile, substantially for the reasons given in Judge Friendly’s opinion, I consider that the judgment below must be affirmed.</p>
+<footnote label="*">
+<p id="b72-10"> The course taken by-the Court is not, in. my view, supported by any of the cases cited in note 12 of the Court’s opinion. None of them involved a <em>procedural </em>rule.</p>
+</footnote>
+</opinion>

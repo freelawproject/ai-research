@@ -1,0 +1,552 @@
+<pre class="inline">1                                                                            
+2                                                                            
+3                                                                            
+4                                                                            
+5                                                                            
+6                                                                            
+7                                                                            
+8                    UNITED STATES DISTRICT COURT                            
+9                  SOUTHERN DISTRICT OF CALIFORNIA                           
+10                                                                            
+11  EDISON CORPUZ,                       Case No.:  3:22-cv-00901-RBM-AHG     
+
+12                             Plaintiff,                                     
+                                        ORDER DENYING DEFENDANT              
+13  v.                                   WALMART INC.’S MOTION TO             
+                                        DISMISS COMPLAINT                    
+14  WALMART, INC.                                                             
+
+15                           Defendant.                                       
+
+16                                                                            
+                                        [Doc. 7]                             
+17                                                                            
+18       On September 2, 2022, Defendant Walmart, Inc. (“Defendant”) filed a Motion to 
+19  Dismiss Complaint (“Motion”).  (Doc. 7.)  Plaintiff Edison Corpuz (“Plaintiff”) filed an 
+20  opposition on September 26, 2022 (Doc. 10), and Defendant filed a reply on October 10, 
+21  2022 (Doc. 11).  For the reasons discussed below, Defendant’s Motion is DENIED.   
+22                           I.   BACKGROUND                                  
+23       A.   Factual Background                                              
+24       Plaintiff is an individual alleging he purchased Defendant’s Spring Valley 1000 mg 
+25  Fish Oil dietary supplement (the “Product”) “on several occasions over the past 3 years, 
+26  including most recently in or around December 2021.”  (Doc. 1 at 6.)  Plaintiff contends 
+27  Defendant engaged in “deceptive practices associated with the advertising, labeling and 
+28  sale of” the Product.  (Id. at 2.)                                        
+1       Defendant markets, labels and sells its Product as “Fish Oil” consisting of 600 mg 
+2  of Eicosapentaenoic Acid (“EPA”) and 400 mg of Docosahexaenoic Acid (“DHA”).  (Id.)  
+3  EPA and DHA are described as the essential omega-3 fatty acids that naturally occur in 
+4  fish.  (Id.)  The Product’s principal display panel (“PDP”) explains the Product contains 
+5  1,000 mg of fish oil, consisting of the aforementioned 600 mg EPA and 400 mg DHA.  (Id. 
+6  at 3.)  The supplemental facts panel (“SFP”) on the back of the Product reaffirms that the 
+7  Product contains 1,000 mg of fish oil while also claiming to provide 1,060 mg of Omega-
+8  3 Fatty Acids as Triglycerides including EPA as EE and DHA as EE.  (Id.)   
+9       Plaintiff argues that “[c]ontrary to what is represented on both the front and back of 
+10  its label, this Product is not Fish Oil, nor does it contain a single milligram of the principal 
+11  Omega-3s found in fish oil (i.e., EPA and DHA).”  (Id.)  Rather, “Defendant’s Product is 
+12  a lab synthesized solution – the result of a chemical process known as trans-esterification, 
+13  whereby an industrial solvent and ethanol are used to molecularly alter and substantially 
+14  transform otherwise unmarketable fish waste into a consumable product.”  (Id. at 3–4.)  
+15  Plaintiff  alleges  that  this  process  “eliminates  the  majority  of  fish  oil’s  constituent 
+16  ingredients and substantially transforms its Omega-3s (i.e., DHA and EPA) into fatty acid 
+17  ethyl esters – a substance that is materially distinct from the fish oil reasonably expected 
+18  by consumers.”  (Id. at 4.)                                               
+19       Plaintiff explains “it is mathematically impossible for 1,000 mg of fish oil to consist 
+20  of 1,060 mg of Omega-3 Fatty Acids . . . .”  (Id. at 4.)  Additionally, despite claiming that 
+21  the Omega-3 content is in triglyceride form, Defendant indicates the Omega-3 content to 
+22  be “as EE” but does not define what the terms “EE” means.1  (Id. at 4–5.)    
+23       Thus, it is Plaintiff’s position that “Defendant falsely represented the fundamental 
+24                                                                            
+
+25                                                                            
+   1 The briefing for this Motion confirms that “EE” represents fatty acid ethyl esters.  (See 
+26                                                                            
+   Doc. 7–1 at 7; Doc. 10 at 3.)  It is Plaintiff’s position that fatty acid ethyl esters are a 
+27  substance that is materially distinct from fish oil, which will be discussed in detail below.  
+   (See Doc. 1 at 4.)  The Court will adopt the “EE” abbreviation when referring to fatty acid 
+28                                                                            
+1  nature of its Product, and as a result of this false and misleading labeling, was able to sell 
+2  this Product to tens of thousands of unsuspecting consumers throughout California and the 
+3  United States” and that this conduct constitutes a breach of warranty.  (Id. at 5.) 
+4       B.   Procedural Background                                           
+5       On June 21, 2022, Plaintiff filed a class action complaint (“Complaint”) against 
+6  Defendant on behalf of himself and others similarly situated.  (Doc. 1.)  The Complaint 
+7  asserts seven causes of action.  (Id. at 36–44.)  The first through third causes of action 
+8  allege violations of California’s Unfair Competition Law (“UCL”), CAL. BUS. &amp; PROF. 
+9  CODE §§ 17200, et seq., the fourth cause of action alleges violation of California’s False 
+10  Advertising Law (“FAL”), CAL. BUS. &amp; PROF. CODE §§ 17500, et seq., the fifth cause of 
+11  action alleges violation of California’s Consumers Legal Remedies Act (“CLRA”), CAL. 
+12  CIV. CODE §§ 1750, et seq., the sixth cause of action alleges violation of breach of express 
+13  warranty, and the seventh cause of action asserts a claim for restitution based on quasi-
+14  contract/unjust enrichment.  (Id.)  On September 2, 2022, Defendant filed the instant 
+15  Motion requesting the Court dismiss Plaintiff’s Complaint with prejudice and without 
+16  leave to amend.  (Doc. 7–1 at 7, 11, 25–26.)  Plaintiff filed an opposition on September 26, 
+17  2022 (Doc. 10), and Defendant filed a reply on October 10, 2022 (Doc. 11).   
+18                         II.  LEGAL STANDARD                                
+19       Pursuant to Federal Rule of Civil Procedure (“Rule”) 12(b)(6), an action may be 
+20  dismissed for failure to allege “enough facts to state a claim to relief that is plausible on its 
+21  face.”   Bell Atl.  Corp.  v.  Twombly,  </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S.  544,  570</a></span><pre class="inline">  (2007).    “A  claim  has  facial 
+22  plausibility when the plaintiff pleads factual content that allows the court to draw the 
+23  reasonable  inference  that  the  defendant  is  liable  for  the  misconduct  alleged.    The 
+24  plausibility standard is not akin to a ‘probability requirement,’ but it asks for more than a 
+25  sheer possibility that a defendant acted unlawfully.”  Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662</a></span><pre class="inline">, 678 
+26  (2009) (internal citations omitted).  For purposes of ruling on a Rule 12(b)(6) motion, the 
+27  Court “accept[s] factual allegations in the complaint as true and construe[s] the pleadings 
+28                                                                            
+1  in the light most favorable to the nonmoving party.”  Manzarek v. St. Paul Fire &amp; Marine 
+2  Ins. Co., </pre><span class="citation" data-id="1194077"><a href="/opinion/1194077/manzarek-v-st-paul-fire-marine-insurance/#1031" aria-description="Citation for case: Manzarek v. St. Paul Fire &amp; Marine Insurance">519 F.3d 1025, 1031</a></span><pre class="inline"> (9th Cir. 2008).                            
+3       However, the Court is “not bound to accept as true a legal conclusion couched as a 
+4  factual allegation.”  Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. at 678</a></span><pre class="inline"> (quoting Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#555" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. at 555</a></span><pre class="inline">).  Nor is the 
+5  Court  “required  to  accept  as  true  allegations  that  contradict  exhibits  attached  to  the 
+6  Complaint or matters properly subject to judicial notice, or allegations that are merely 
+7  conclusory, unwarranted deductions of fact, or unreasonable inferences.”  Daniels-Hall v. 
+8  Nat’l Educ. Ass’n, </pre><span class="citation" data-id="181397"><a href="/opinion/181397/daniels-hall-v-national-education-assn/#998" aria-description="Citation for case: Daniels-Hall v. National Education Ass&#x27;n">629 F.3d 992, 998</a></span><pre class="inline"> (9th Cir. 2010).  “In sum, for a complaint to survive 
+9  a motion to dismiss, the non-conclusory factual content, and reasonable inferences from 
+10  that content, must be plausibly suggestive of a claim entitling the plaintiff to relief.”  Moss 
+11  v. U.S. Secret Serv., </pre><span class="citation" data-id="1450162"><a href="/opinion/1450162/moss-v-us-secret-service/#969" aria-description="Citation for case: Moss v. U.S. Secret Service">572 F.3d 962, 969</a></span><pre class="inline"> (9th Cir. 2009) (quotation marks omitted). 
+12       When a Rule 12(b)(6) motion is granted, “a district court should grant leave to amend 
+13  even if no request to amend the pleading was made, unless it determines that the pleading 
+14  could not possibly be cured by the allegation of other facts.”  Cook, Perkiss &amp; Liehe v. N. 
+15  Cal. Collection Serv., </pre><span class="citation multiple-matches"><a href="/c/F.2d/911/242/">911 F.2d 242</a></span><pre class="inline">, 247 (9th Cir. 1990) (citations omitted).   
+16                            III.  DISCUSSION                                
+17       A.   Request for Judicial Notice                                     
+18       A court generally cannot consider materials outside the pleadings on a motion to 
+19  dismiss for failure to state a claim.  FED. R. CIV. P. 12(d).  A court may, however, consider 
+20  materials subject to judicial notice without converting the motion to dismiss into one for 
+21  summary judgment.  Barron v. Reich, </pre><span class="citation" data-id="660277"><a href="/opinion/660277/richard-l-barron-linda-m-barron-v-robert-reich-department-of-labor/#1377" aria-description="Citation for case: Richard L. Barron Linda M. Barron v. Robert Reich...">13 F.3d 1370, 1377</a></span><pre class="inline"> (9th Cir. 1994).  Under Federal 
+22  Rule of Evidence 201(b), a court may take judicial notice, either on its own accord or by a 
+23  party’s request, of facts that are not subject to reasonable dispute because they are (1) 
+24  “generally known within the trial court’s territorial jurisdiction; or (2) can be accurately 
+25  and readily determined from sources whose accuracy cannot reasonably be questioned.”  
+26  FED. R. EVID. 201(b).  A court may also take judicial notice of “matters of public record.”  
+27  Lee v. City of Los Angeles, </pre><span class="citation" data-id="6998020"><a href="/opinion/7092482/lee-v-city-of-los-angeles/#689" aria-description="Citation for case: Lee v. City of Los Angeles">250 F.3d 668, 689</a></span><pre class="inline"> (9th Cir. 2001) (internal citations omitted).  
+28  Finally, under the incorporation by reference doctrine, courts may “take into account 
+1  documents whose contents are alleged in a complaint and whose authenticity no party 
+2  questions, but which are not physically attached to the [plaintiff’s] pleading.”  Davis v. 
+3  HSBC Bank Nevada, N.A., </pre><span class="citation" data-id="807798"><a href="/opinion/807798/gary-davis-v-hsbc-bank-nevada-na/#1160" aria-description="Citation for case: Gary Davis v. Hsbc Bank Nevada, N.A.">691 F.3d 1152, 1160</a></span><pre class="inline"> (9th Cir. 2012) (internal quotations and 
+4  citations omitted).  The incorporation by reference doctrine “treats certain documents as 
+5  though they are part of the complaint itself,” Khoja v. Orexigen Therapeutics, Inc., 899 
+</pre><span class="citation" data-id="6928498"><a href="/opinion/7026858/reich-v-local-30-international-brotherhood-of-teamsters/#1002" aria-description="Citation for case: Reich v. Local 30, International Brotherhood of Teamsters">6  F.3d 988, 1002</a></span><pre class="inline"> (9th Cir. 2018), so long as “the plaintiff refers extensively to the document 
+7  or the document forms the basis of the plaintiff’s claim.”  United States v. Ritchie, </pre><span class="citation no-link">342 F.3d 
+8</span><pre class="inline">  903, 907 (9th Cir. 2003).                                                 
+9       Defendant requests the Court take judicial notice of the following exhibit: a copy of 
+10  the Global Organization for EPA and DHA Omega-3’s Voluntary Monograph, Version 8.1 
+11  (Exhibit D) 2.  (See Doc. 7–2 at 2–3; Doc. 7–4.)  Additionally, Defendant requests the court 
+12  incorporate by reference the following four exhibits: (1) a copy of Anthony P. Bimbo, 
+13  Marine Oils: Edible Oil Processing (Exhibit A); (2) a copy of Douglas MackKay, A 
+14  Comparison of Synthetic Ethyl Ester form Fish Oil vs. Natural Triglyceride Form 2 
+15  (Exhibit B); (3) a copy of Triglycerides vs. Ethyl Ester Forms of Fish Oil Omega-3’s, 
+16  Science Based Health (Exhibit C); and (4) a copy of the Global Organization for EPA and 
+17  DHA Omega-3’s Voluntary Monograph, Version 7.2 (Exhibit E).  (See id.)    
+18       The Court takes judicial notice of the copy of the Global Organization for EPA and 
+19  DHA Omega-3’s Voluntary Monograph, Version 8.1 in Exhibit D.  However, the Court 
+20  notes it is not bound to take judicial notice of the truth of the matters asserted therein.  See 
+21  Spy Optic, Inc. v. Alibaba.Com, Inc., </pre><span class="citation" data-id="7236410"><a href="/opinion/7318500/spy-optic-inc-v-alibabacom-inc/#762" aria-description="Citation for case: Spy Optic, Inc. v. Alibaba.com, Inc.">163 F. Supp. 3d 755, 762</a></span><pre class="inline"> (C.D. Cal. 2015) (“Courts 
+22  may take judicial notice of the fact that an internet article is available to the public, but it 
+23  may not take judicial notice of the truth of the matters asserted in the article.”); see also 
+24  Khoja, 899 F.3d at 999 (“Just because the document itself is susceptible to judicial notice 
+25  does not mean that every assertion of fact within that document is judicially noticeable for 
+26                                                                            
+27                                                                            
+28                                                                            
+   2                                                                         
+1  its truth.”); Bruce v. Chaiken, No. 215CV00960TLNKJN, </pre><span class="citation no-link">2019 WL 645044</span><pre class="inline">, at *1 (E.D. 
+2  Cal. Feb. 15, 2019) (“While [a court] may take judicial notice of the fact that the internet, 
+3  Wikipedia, and journal articles are available to the public, it may not take judicial notice 
+4  of the truth of the matters asserted therein.”).                          
+5       The Court incorporates: (1) the copy of Anthony P. Bimbo, Marine Oils: Edible Oil 
+6  Processing in Exhibit A; (2) the copy of Douglas MackKay, A Comparison of Synthetic 
+7  Ethyl Ester form Fish Oil vs. Natural Triglyceride Form 2 in Exhibit B; (3) the copy of 
+8  Triglycerides vs. Ethyl Ester Forms of Fish Oil Omega-3’s, Science Based Health in 
+9  Exhibit C; and (4) the copy of the Global Organization for EPA and DHA Omega-3’s 
+10  Voluntary Monograph, Version 7.2 in Exhibit E.  Plaintiff’s claims rely on the above 
+11  refenced exhibits for support, and they may be considered by the Court.  See Khoja, 899 
+12  F.3d at 1002 (incorporation by reference “prevents plaintiffs from selecting only portions 
+13  of documents that support their claims, while omitting portions of those very documents 
+14  that weaken—or doom—their claims”); United States v. Ritchie, 342 F.3d at 908 (“A court 
+15  may . . . consider certain materials—documents attached to the complaint, documents 
+16  incorporated  by  reference  in  the  complaint,  or  matters  of  judicial  notice—without 
+17  converting the motion to dismiss into a motion for summary judgment.); Coto Settlement 
+18  v. Eisenberg, </pre><span class="citation" data-id="1405974"><a href="/opinion/1405974/coto-settlement-v-eisenberg/#1038" aria-description="Citation for case: Coto Settlement v. Eisenberg">593 F.3d 1031, 1038</a></span><pre class="inline"> (9th Cir. 2010) (“We have extended the doctrine of 
+19  incorporation by reference to consider documents in situations where . . . the contents of 
+20  the document are alleged in a complaint . . . and there are no disputed issues as to the 
+21  document’s relevance.”).  However, the Court again notes it is not bound by the truth of 
+22  the matters asserted therein.  See Khoja, 899 F.3d at 1003 (“[I]t is improper to assume the 
+23  truth of an incorporated document if such assumptions only serve to dispute facts stated in 
+24  a well-pleaded complaint.”).                                              
+25       B.   Preemption                                                      
+26       As an initial matter, Defendant contends Plaintiff’s Complaint is both expressly and 
+27  impliedly preempted because “the labelling at issue is regulated under the Federal Food, 
+28  Drug, and Cosmetic Act, </pre><span class="citation no-link">21 U.S.C. §§ 301-392</span><pre class="inline"> (the “FDCA”) and the subsequently 
+1  enacted Nutritional Labeling and Education Act, § 21 U.S.C. 343-1(a) [(“NLEA”)].”  (Doc. 
+2  7–1 at 13.)                                                               
+3            a.   Statutory and Regulatory Background                        
+4       The United States Constitution includes the Supremacy Clause which empowers 
+5  Congress to enact legislation that preempts state law.  See Gibbons v. Ogden, </pre><span class="citation" data-id="85412"><a href="/opinion/85412/gibbons-v-ogden/" aria-description="Citation for case: Gibbons v. Ogden">22 U.S. 1</a></span><pre class="inline">, 
+6  211 (1824).  “Federal preemption occurs when: (1) Congress enacts a statute that explicitly 
+7  pre-empts state law; (2) state law actually conflicts with federal law; or (3) federal law 
+8  occupies a legislative field to such an extent that it is reasonable to conclude that Congress 
+9  left no room for state regulation in that field.”  Chae v. SLM Corp., </pre><span class="citation" data-id="1405166"><a href="/opinion/1405166/chae-v-slm-corp/#941" aria-description="Citation for case: Chae v. SLM Corp.">593 F.3d 936, 941</a></span><pre class="inline"> (9th 
+10  Cir. 2010).  In assessing whether Plaintiff’s claims are preempted, the court is mindful of 
+11  the presumption against preemption.  See Medtronic, Inc. v. Lohr, </pre><span class="citation" data-id="9433361"><a href="/opinion/118055/medtronic-inc-v-lohr/" aria-description="Citation for case: Medtronic, Inc. v. Lohr">518 U.S. 470</a></span><pre class="inline">, 485 
+12  (1996); see also In re Farm Raised Salmon Cases, </pre><span class="citation" data-id="2622966"><a href="/opinion/2622966/farm-raised-salmon-cases/#1088" aria-description="Citation for case: Farm Raised Salmon Cases">42 Cal.4th 1077, 1088</a></span><pre class="inline"> (2008) (noting 
+13  that consumer protection laws such as the UCL, FAL, and CLRA, are within the states’ 
+14  historic  police  powers  and  therefore  subject  to  the  presumption  against  preemption); 
+15  Corbett v. PharmaCare U.S., Inc., </pre><span class="citation no-link">567 F. Supp. 3d 1172</span><pre class="inline">, 1188 (S.D. Cal. 2021) (“In the 
+16  area  of  proper  marketing  and  labeling  of  food  products,  the  presumption  against 
+17  preemption is strong.”).                                                  
+18       By way of background, the FDCA “was enacted in 1938 as a successor to the 1906 
+19  Pure Food and Drugs Act, the first comprehensive federal legislation designed to protect 
+20  consumers from fraud or misrepresentation in the sale of food and drugs.”  Viggiano v. 
+21  Hansen Nat. Corp., </pre><span class="citation" data-id="8708431"><a href="/opinion/8725234/viggiano-v-hansen-natural-corp/#887" aria-description="Citation for case: Viggiano v. Hansen Natural Corp.">944 F. Supp. 2d 877, 887</a></span><pre class="inline"> (C.D. Cal. 2013).  In 1990, Congress 
+22  amended the FDCA by enacting the NLEA “to ‘clarify and to strengthen the Food and 
+23  Drug Administration’s [(“FDA”)] legal authority to require nutrition labeling on foods, and 
+24  to establish the circumstances under which claims may be made about the nutrients in 
+25  foods.’”  </pre><span class="citation" data-id="8708431"><a href="/opinion/8725234/viggiano-v-hansen-natural-corp/" aria-description="Citation for case: Viggiano v. Hansen Natural Corp.">Id.</a></span><pre class="inline"> at 887–88 (quoting Nutritional Health Alliance v. Shalala, </pre><span class="citation" data-id="6968588"><a href="/opinion/7064472/nutritional-health-alliance-v-shalala/" aria-description="Citation for case: Nutritional Health Alliance v. Shalala">144 F.3d 220</a></span><pre class="inline">, 223 
+26  (2d Cir.1998)).  In conjunction with other changes, the NLEA added an express preemption 
+27  provision to the FDCA.  See 21 U.S.C. § 343–1(a)(5) (“Except as provided in subsection 
+28  (b), no State or political subdivision of a State may directly or indirectly establish under 
+1  any authority or continue in effect as to any food in interstate commerce . . . (3) any 
+2  requirement for the labeling of food of the type required by section . . . 343(k) of this title 
+3  that is not identical to the requirement of such section”).               
+4       Among other functions, “[t]he FDCA grants authority to the Secretary of Health and 
+5  Human Services to ‘promulgate regulations fixing and establishing for any food, under its 
+6  common or usual name so far as practicable, a reasonable definition and standard of 
+7  identity.’”  Rodriguez v. Target Corp., No. 22 CIV. 2982 (LGS), </pre><span class="citation no-link">2022 WL 18027615</span><pre class="inline">, at 
+8  *3 (S.D.N.Y. Dec. 30, 2022) (quoting </pre><span class="citation no-link">21 U.S.C. § 341</span><pre class="inline">)).  “Under the FDCA, food is 
+9  ‘misbranded’ if, among things, ‘its labeling is false or misleading in any particular.’”   
+10  Rodriguez, </pre><span class="citation no-link">2022 WL 18027615</span><pre class="inline">, at *3 (quoting </pre><span class="citation no-link">21 U.S.C. § 343</span><pre class="inline">(a)).  Moreover, “[i]f it 
+11  purports to be or is represented as a food for which a definition and standard of identity has 
+12  been prescribed by regulations as provide by [§ 341],” such food is misbranded if it fails 
+13  to “conform[ ] to such definition and standard.”  </pre><span class="citation no-link">21 U.S.C. § 343</span><pre class="inline">(g).  “The regulations 
+14  promulgated under the FDCA require that food packaging bear ‘a statement of the identity 
+15  of the commodity.’”  Rodriguez, </pre><span class="citation no-link">2022 WL 18027615</span><pre class="inline">, at *3 (quoting </pre><span class="citation no-link">21 C.F.R. § 101.3</span><pre class="inline">(a)).  
+16  That “statement of identity” must be the name specified by federal law or, if no such name 
+17  is specified, “[t]he common or usual name of the food.”  21 C.F.R. § § 101.3(b)(1)-(2).    
+18                 1.   Express Preemption                                    
+19       Defendant explains that “any claim based on [Defendant’s] identification of the 
+20  Product as a ‘Fish Oil’ product is barred by the FDCA’s applicable express preemption 
+21  provision” because under the NLEA, “state law cannot be employed to alter or vary the 
+22  standards of identity for regulated supplements that are ‘not identical’ to the FDA’s 
+23  standards.”  (Doc. 7–1 at 13 (citing </pre><span class="citation no-link">21 U.S.C. § 343</span><pre class="inline">(a)(1); § 343(g); </pre><span class="citation no-link">21 C.F.R. § 100.1</span><pre class="inline">).)  
+24  It is Defendant’s position that “the Complaint fails to plausibly allege that a dietary 
+25  supplement derived from the oil of fish should be called anything other than ‘fish oil.’  
+26  Indeed, the term ‘fish oil’ provides consumers vital information about the source of the 
+27  oil.”  (Doc. 7–1 at 14.)  Defendant contends that “case law and facts” favor calling the 
+28  Product fish oil in accordance with “practical considerations like the fact that the ingredient 
+1  is extracted from fish and provides health benefits” because referring to the Product as 
+2  “fatty  acid  ethyl  ester”  would  convey  “no  meaningful  information  to  reasonable 
+3  consumers.”  (Id. at 14–15.)                                              
+4       Plaintiff  argues  federal  preemption  is  not  applicable  and  explains  Defendant’s 
+5  argument is contradictory.  (Doc. 10 at 9.)  Defendant tells the Court “there is no FDA 
+6  regulation that establishes a ‘common or usual name’ for fish oil” while also asking the 
+7  Court to conclude that the common or unusual name of the Product is fish oil.  (Id. (quoting 
+8  Doc. 7–1 at 16).)  Additionally, “Defendant attempts to convince this Court that trans-
+9  esterification is nothing more than a mere processing step which has no effect on the 
+10  underlying nature of the product” which “ignores the Complaint’s detailed allegations 
+11  which clearly differentiates between standard processing.”  (Id. at 13.)   
+12       In reviewing the Complaint, the Court finds Plaintiff’s assertions regarding the 
+13  Product’s “common or unusual name” are plausible.  The Complaint explains that the 
+14  “trans-esterification process substantially and irrevocably transforms the Omega-3s in fish 
+15  oil from their natural triglyceride form into Omega-3 [EE]” and that these substances “are 
+16  distinguishable on a molecular level such that it is impossible as a matter of law or logic 
+17  for them to share a common or usual name.”  (Doc. 1 at 16.)  Thus, Plaintiff contends that 
+18  “[a]long with their molecular differences, they have different common or usual names 
+19  which must be properly represented on labeling of any dietary supplement in which they 
+20  are contained.”  (Id.)  The Court takes note of Defendant’s contention that the dictionary 
+21  definition, among other considerations, qualify the Product as fish oil.  (Doc. 7–1 at 14–
+22  15.)  However, the Court declines to make such a determination at this juncture.  See 
+23  Rodriguez, </pre><span class="citation no-link">2022 WL 18027615</span><pre class="inline">, at *5 (“[T]he Court cannot weigh the evidence or choose 
+24  between competing inferences at the motion to dismiss stage.)  In accepting all factual 
+25  allegations in the complaint as true and construing the pleadings in the light most favorable 
+26  to Plaintiff, the nonmoving party, the Court concludes Plaintiff’s claims are not expressly 
+27  preempted by the FDCA.                                                    
+28  / / /                                                                     
+1                 2.   Implied Preemption                                    
+2       Defendant argues Plaintiff’s claims are impliedly preempted because “Plaintiff’s 
+3  UCL claim exists solely by virtue of the FDCA and Plaintiff’s enforcement of the same is 
+4  preempted.”  (Doc. 7–1 at 17.)                                            
+5       Plaintiff  counters  that  his  claims  are  not  impliedly  preempted  and  explains 
+6  “Defendant’s implied preemption argument is predicated on the erroneous contention that 
+7  absent an underlying violation of the FDCA, Plaintiffs would not have a claim.  This is 
+8  glaringly untrue as each of Plaintiff’s state law claims would exist in the absence of the 
+9  FDCA.”  (Doc. 10 at 8.)  Plaintiff clarifies that Defendant’s decision in naming the Product 
+10  as “fish oil” and affirmative representations relating to the product, such as the contention 
+11  that “the Product is in Triglyceride form and promise to provide 600mg EPA / 400mg 
+12  DHA, are each falsehoods that independently give rise to claims under the UCL, CLRA, 
+13  FAL and express warranty theories.”  (Id. at 8–9.)                        
+14       Here, it does not appear Plaintiff’s UCL claim exists solely by virtue of the FDCA.  
+15  Plaintiff’s state law claims would proceed whether or not the regulations enacted by the 
+16  FDCA existed.  The Court notes that “[d]istrict courts have routinely rejected arguments 
+17  that state-law UCL, FAL, and CLRA food-labeling claims and related claims under the 
+18  [Sherman Food, Drug, and Cosmetic Law (the “Sherman Law”)] are impliedly preempted 
+19  under § 337(a) . . . .”  Sandoval v. PharmaCare US, Inc., </pre><span class="citation" data-id="7234818"><a href="/opinion/7316910/sandoval-v-pharmacare-us-inc/#995" aria-description="Citation for case: Sandoval v. PharmaCare US, Inc.">145 F. Supp. 3d 986, 995</a></span><pre class="inline"> (S.D. 
+</pre><span class="citation no-link">20  Cal. 2015</span><pre class="inline">) (citing Vassigh v. Bai Brands, LLC, Case No. 14-cv-05127-HSG, </pre><span class="citation no-link">2015 WL 
+21</span><pre class="inline">  4238886, at *4–5 (N.D. Cal. July 13, 2015) (collecting cases)); see also Hesano v. Iovate 
+22  Health Scis., Inc., No. 13CV1960-WQH-JMA, </pre><span class="citation no-link">2014 WL 197719</span><pre class="inline">, at *7 (S.D. Cal. Jan. 15, 
+23  2014) (“The FDCA . . . does not preclude states from adopting their own parallel laws and 
+24  adopting a different mechanism for enforcing those laws. California chose to exercise this 
+25  right by enacting the Sherman Law and allowing private plaintiffs to enforce that law 
+26  through the UCL.”) (quoting Trazo v. Nestle USA, Inc., No. 5:12-CV-2272 PSG, </pre><span class="citation no-link">2013 WL 
+27</span><pre class="inline">  4083218, at *6 (N.D. Cal. Aug. 9, 2013), on reconsideration, </pre><span class="citation" data-id="7232181"><a href="/opinion/7314276/trazo-v-nestle-usa-inc/" aria-description="Citation for case: Trazo v. Nestlé USA, Inc.">113 F. Supp. 3d 1047</a></span><pre class="inline"> (N.D. 
+</pre><span class="citation no-link">28  Cal. 2015</span><pre class="inline">)).  Accordingly, the Court finds Plaintiff’s claims are not impliedly preempted.   
+1       C.   Whether the Complaint Should be Dismissed for Failure to State a Claim 
+2            a.   California Consumer Protection Statutes                    
+3       The UCL, CLRA, and FAL, which are the basis of Plaintiff’s first through fifth 
+4  causes of action, are California consumer protection statutes.  The UCL prohibits “unfair 
+5  competition,” which includes “any unlawful, unfair or fraudulent business act or practice.”  
+6  CAL. BUS. &amp; PROF. CODE § 17200.  California’s CLRA prohibits “unfair methods of 
+7  competition  and  unfair  or  deceptive  acts  or  practices.”    CAL.  CIV.  CODE  §  1770.  
+8  California’s FAL prohibits any “unfair, deceptive, untrue or misleading advertising.”  CAL. 
+9  BUS. &amp; PROF. CODE § 17500.  “Because the same standard for fraudulent activity governs 
+10  all three statutes, courts often analyze the three statutes together.”   Hadley v. Kellogg Sales 
+11  Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1089" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1089</a></span><pre class="inline"> (N.D. Cal. 2017); see, e.g., In re Sony Gaming Networks 
+12  &amp; Customer Data Sec. Breach Litig., </pre><span class="citation" data-id="8714620"><a href="/opinion/8731416/in-re-sony-gaming-networks-customer-data-security-breach-litigation/#985" aria-description="Citation for case: In re Sony Gaming Networks &amp; Customer Data Security...">996 F. Supp. 2d 942, 985</a></span><pre class="inline"> (S.D. Cal. 2014) (“[c]ourts 
+13  often analyze these statutes together because they share similar attributes”); Consumer 
+14  Advocates v. Echostar Satellite Corp., </pre><span class="citation" data-id="2278412"><a href="/opinion/2278412/consumer-advocates-v-echostar-satellite-corp/#1360" aria-description="Citation for case: Consumer Advocates v. Echostar Satellite Corp.">113 Cal. App. 4th 1351, 1360</a></span><pre class="inline"> (2003) (analyzing the 
+15  UCL, CLRA, and FAL together).                                             
+16                 1.   “Reasonable Consumer” Standard                        
+17       Claims made under the UCL, CLRA, and FAL are governed by the “reasonable 
+18  consumer” standard.  Williams v. Gerber Prods. Co., </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/#938" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d 934, 938</a></span><pre class="inline"> (9th Cir. 2008); 
+19  Ebner v. Fresh, Inc., </pre><span class="citation" data-id="8414293"><a href="/opinion/8442970/ebner-v-fresh-inc/#965" aria-description="Citation for case: Ebner v. Fresh, Inc.">838 F.3d 958, 965</a></span><pre class="inline"> (9th Cir. 2016).  Under this standard, a plaintiff 
+20  must “show that ‘members of the public are likely to be deceived.’”  Ebner, </pre><span class="citation" data-id="8414293"><a href="/opinion/8442970/ebner-v-fresh-inc/" aria-description="Citation for case: Ebner v. Fresh, Inc.">838 F.3d at 
+21</a></span><pre class="inline">  965 (quoting Williams, </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/#938" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d at 938</a></span><pre class="inline">).  This standard “requires more than a mere 
+22  possibility that [the] label ‘might conceivably be misunderstood by some few consumers 
+23  viewing it in an unreasonable manner.’”  Becerra v. Dr. Pepper/Seven Up, Inc., </pre><span class="citation no-link">945 F.3d 
+24</span><pre class="inline">  1225, 1228 (9th Cir. 2019) (quoting Lavie v. Procter &amp; Gamble Co., </pre><span class="citation" data-id="2283481"><a href="/opinion/2283481/people-v-anson/#496" aria-description="Citation for case: People v. Anson">105 Cal. App. 4th 
+25  496, 508</a></span><pre class="inline"> (2003)).  Rather, it must be “probable that a significant portion of the general 
+26  consuming public or of targeted consumers, acting reasonably in the circumstances, could 
+27  be misled.”  Lavie, </pre><span class="citation" data-id="2283481"><a href="/opinion/2283481/people-v-anson/#508" aria-description="Citation for case: People v. Anson">105 Cal. App. 4th at 508</a></span><pre class="inline">; see also White v. Kroger Co., No. 21-CV-
+28  08004-RS, </pre><span class="citation no-link">2022 WL 888657</span><pre class="inline">, at *1 (N.D. Cal. Mar. 25, 2022).  In general, “[t]he question 
+1  of whether a business practice is deceptive in most cases presents a question of fact not 
+2  amenable to resolution on a motion to dismiss.”  Hairston v. S. Beach Beverage Co., No. 
+3  CV  12-1429-JFW  DTBX,  </pre><span class="citation no-link">2012  WL  1893818</span><pre class="inline">,  at  *4  (C.D.  Cal.  May  18,  2012) 
+4  (citing Williams, </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/#938" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d at 938</a></span><pre class="inline">).  In rare situations, however, “a court may determine, as 
+5  a matter of law, that the alleged violations of the UCL, FAL, and CLRA are simply not 
+6  plausible.”  Cheslow v. Ghirardelli Chocolate Co., </pre><span class="citation no-link">445 F. Supp. 3d 8</span><pre class="inline">, 16 (N.D. Cal. 2020) 
+7  (quoting Ham v. Hain Celestial Grp., Inc., </pre><span class="citation" data-id="7228714"><a href="/opinion/7310810/ham-v-hain-celestial-group-inc/#1193" aria-description="Citation for case: Ham v. Hain Celestial Group, Inc.">70 F. Supp. 3d 1188, 1193</a></span><pre class="inline"> (N.D. Cal. 2014)). 
+8       Defendant argues Plaintiff’s claims fail because a reasonable consumer is unlikely 
+9  to be misled by the Product’s labeling.  (Doc. 7–1 at 18.)  It is Defendant’s position that 
+10  reasonable consumers do not define fish oil based on the “chemical bonds or molecular 
+11  weights” of such products and that the SFP on the back panel of the Product makes it clear 
+12  that the EPA and DHA contained in the Product are EE.  (Id. at 19.)  Defendant explains 
+13  that “Plaintiff – and fish oil consumers – are expected to know basic facts about fish oil.  
+14  This is especially true when presented with the EE information on the actual label.”  (Id. at 
+15  20.)  Moreover, in response to the Complaint’s argument that Product contains 1,000 mg 
+16  of  fish  oil  while  also  claiming  to  provide  1,060  mg  of  Omega-3  Fatty  Acids  as 
+17  Triglycerides, Defendant argues that “[t]he label, as Plaintiff’s Complaint acknowledges, 
+18  makes clear that the product contains 1,000 mg per servings with 600 mg EPA and 400mg 
+19  DHA . . . In light of these disclosures, no reasonable consumer could ever reach the 
+20  conclusion that 600[ ]mg plus 400 mg equates to anything other than 1,000” and “no 
+21  reasonable consumer could or would be misled by what may be a de minimis typo . . . .”  
+22  (Id. at 21.)                                                              
+23       Plaintiff counters that whether a reasonable consumer would be misled is generally 
+24  “question of fact, rarely appropriate on a motion to dismiss.”  (Doc 10 at 15 (citing 
+</pre><span class="citation no-link">25  Williams, 552</span><pre class="inline"> F.3d 934).)  However, it is Plaintiff’s position that a reasonable consumer is 
+26  likely to be deceived by the Product’s labeling because “Defendant’s Product is produced 
+27  by a chemical alteration of fish waste wherein the originating material is broken apart at a 
+28  molecular  level  by  the  introduction  of  an  industrial  chemical  catalyst  (e.g.,  sodium 
+1  hydroxide) and re-bonded to a foreign substance (i.e., ethanol) to create a new and distinct 
+2  compound” known as EE.  (Doc. 10 at 15.)   Plaintiff explains that the material distinctions 
+3  between  the  substances  are  “reflected  in  scientific  fact”,  “confirmed  by  Plaintiff’s 
+4  analytical testing”, and are “universally acknowledged by scientific authorities”.  (Id.)  
+5  Plaintiff argues that consumers of dietary supplements are usually reliant on manufacturers 
+6  to accurately describe the contents therein, and lab synthesized EE is not what a reasonable 
+7  consumer expects when they purchase fish oil.  (Id. at 16–17.)  The Product’s PDP “clearly 
+8  states the Product is Fish Oil and contains 600mg EPA and 400mg DHA.  It does not.  As 
+9  detailed in the Complaint, the Product is an [EE] (not fish oil) which contains no EPA and 
+10  DHA.”  (Id.)  Moreover, Plaintiff contends “the term ‘EE’ buried on the back of the Product 
+11  label does not provide clarity to a reasonable consumer” because “[n]otwithstanding the 
+12  fact that ‘EE’ is neither defined or explained on the label . . . [Defendant] cannot explain 
+13  how such a reference is consistent with the name of the Product or its affirmative promise 
+14  that the Omega-3 content of the Product is ‘as Triglycerides.’  Indeed it is not.”  (Id. at 20.)   
+15       The Court finds that, accepting all allegations in the Complaint as true, this is not 
+16  one of the rare situations where “a court may determine, as a matter of law, that the alleged 
+17  violations of the UCL, FAL, and CLRA are simply not plausible.”  See Cheslow, </pre><span class="citation no-link">445 F. 
+18</span><pre class="inline">  Supp. 3d at 16 (quoting Ham, </pre><span class="citation" data-id="7228714"><a href="/opinion/7310810/ham-v-hain-celestial-group-inc/#1193" aria-description="Citation for case: Ham v. Hain Celestial Group, Inc.">70 F. Supp. 3d at 1193</a></span><pre class="inline">); see also Williams, </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d at 940</a></span><pre class="inline"> 
+19  (“Appellants have stated a claim and could plausibly prove that a reasonable consumer 
+20  would be deceived by the Snack[’]s packaging.”).  Therefore, whether or not a reasonable 
+21  person would be misled by the Product’s label is not fit for determination on a motion to 
+22  dismiss in this case.  See Pelayo v. Nestle USA, Inc., </pre><span class="citation" data-id="8713751"><a href="/opinion/8730551/pelayo-v-nestle-usa-inc/#978" aria-description="Citation for case: Pelayo v. Nestle USA, Inc.">989 F. Supp. 2d 973, 978</a></span><pre class="inline"> (C.D. Cal. 
+23  2013) (“[t]he question of whether a business practice is deceptive in most cases presents a 
+24  question of fact not amenable to resolution on a motion to dismiss”); see also Linear 
+25  Technology  Corp.  v.  Applied  Materials,  Inc.,  </pre><span class="citation" data-id="5664889"><a href="/opinion/5809491/linear-technology-corp-v-applied-materials-inc/" aria-description="Citation for case: Linear Technology Corp. v. Applied Materials, Inc.">152  Cal.  App.  4th  115</a></span><pre class="inline">,  134–35 
+26  (2007) (“[w]hether a practice is deceptive, fraudulent, or unfair is generally a question of 
+27  fact which requires ‘consideration and weighing of evidence from both sides’ and which 
+28  usually cannot be made on demurrer”) (quoting McKell v. Washington Mutual, Inc., 142 
+</pre><span class="citation multiple-matches"><a href="/c/Cal.%20App.%204th/1/1457/">1  Cal. App. 4th 1457</a></span><pre class="inline">, 1472 (2006)); Rooney v. Cumberland Packing Corp., No. 12-CV-
+2  0033-H DHB, </pre><span class="citation no-link">2012 WL 1512106</span><pre class="inline">, at *3 (S.D. Cal. Apr. 16, 2012) (“it is a ‘rare situation’ 
+3  where  granting  a  motion to dismiss  claims  under  the UCL is  appropriate”)  (quoting 
+</pre><span class="citation no-link">4  Williams, 552</span><pre class="inline"> F.3d at 939).  Accordingly, the Court cannot conclude, as a matter of law, 
+5  that a reasonable consumer would not be deceived by labeling the Product as “Fish Oil” 
+6  consisting of 600 mg of EPA and 400 mg of DHA.  Pelayo, </pre><span class="citation" data-id="8713751"><a href="/opinion/8730551/pelayo-v-nestle-usa-inc/#978" aria-description="Citation for case: Pelayo v. Nestle USA, Inc.">989 F. Supp. 2d at 978</a></span><pre class="inline"> (where 
+7  a court “can conclude as a matter of law that members of the public are not likely to be 
+8  deceived by the product packaging, dismissal is appropriate”).            
+9                 2.   Plaintiff’s UCL Causes of Action                      
+10       As previously noted, Plaintiff’s first through third causes of action allege violations 
+11  of the UCL which prohibits “unfair competition,” which includes “any unlawful, unfair or 
+12  fraudulent business act or practice.”  (Doc. 1 at 36–40); CAL. BUS. &amp; PROF. CODE §17200.  
+13  In addition to its other arguments, Defendant contends Plaintiff’s UCL claims fail as a 
+14  matter of law because: (1) Plaintiff lacks standing, (2) Plaintiff cannot show an “unlawful” 
+15  practice under the UCL, (3) Plaintiff’s allegations of an “unfair” business practice are 
+16  deficient, and (4) there is no “fraudulent” business practice.  (Doc. 7–1 at 21–25.)  Each 
+17  argument will be addressed in turn.                                       
+18                      i.   Standing                                         
+19       Defendant argues Plaintiff lacks standing to assert any claims under the UCL.  (Doc. 
+20  7–1 at 22.)  In order to establish UCL standing, a plaintiff must show economic injury and 
+21  establish that the “injury was the result of, i.e., caused by, the unfair business practice or 
+22  false advertising that is the gravamen of the claim.”  Kwikset Corp. v. Superior Ct., </pre><span class="citation" data-id="5438873"><a href="/opinion/5596066/people-v-lynch/" aria-description="Citation for case: People v. Lynch">51 Cal. 
+23</a></span><pre class="inline">  4th 310, 322 (2011).  Defendant explains that “[h]ere, Plaintiff is unable to establish either 
+24  element” because the label Plaintiff relied upon identifies the DHA and EPA contained in 
+25  the Product as EE, and Plaintiff received the product he paid for.  (Doc. 7–1 at 22.)  Thus, 
+26  there was no economic injury.  (Id.)  Moreover, even assuming Plaintiff had suffered 
+27  economic injury, Defendant contends the injury “was not caused by an unfair business 
+28  practice or false advertising” and “because the label clearly identified the product as EE, 
+1  [Plaintiff’s] claims fail and no reasonable consumer would be misled by the Products’ 
+2  labeling.”  (Id.)                                                         
+3       The Court finds that, at this stage, Plaintiff does have standing to assert the instant 
+4  causes of action.  The Complaint alleges that “Plaintiff believed that the Product purchased 
+5  contained real fish oil” but that the Product “is not Fish Oil, nor does it contain a single 
+6  milligram of the principal Omega-3s found in fish oil . . . .”  (Doc. 1 at 3, 32.)  Moreover, 
+7  Defendant markets the Omega-3 content to be in triglyceride form “as EE”, however, the 
+8  Complaint alleges Omega-3 content “cannot be both a triglyceride and [EE]”.   (Id. at 4–
+9  5.)  Accordingly, “Plaintiff lost money and thereby suffered injury as he would not have 
+10  purchased this Product and/or paid as much for it absent the misrepresentation.”  (Id. at 
+11  32.)  These allegations are sufficient to establish standing at this juncture.  See Kwikset 
+12  Corp., 51 Cal. 4th at 330 (“A consumer who relies on a product label and challenges a 
+13  misrepresentation contained therein can satisfy the standing requirement of section 17204 
+14  by alleging, as plaintiffs have here, that he or she would not have bought the product but 
+15  for the misrepresentation.”).                                             
+16                      ii.  Unlawful, Unfair, or Fraudulent Under the UCL    
+17       The UCL provides a cause of action for “any unlawful, unfair, or fraudulent business 
+18  act  or  practice.”    CAL.  BUS.  &amp;  PROF.  CODE  §  17200.    Defendant  argues  Plaintiff’s 
+19  allegations of unlawful, unfair, and fraudulent business practices are deficient.  (Doc. 7–1 
+20  at 23–35.)                                                                
+21       “A ‘business act or practice’ is ‘unlawful’ under the unfair competition law if it 
+22  violates a rule contained in some other state or federal statute.”  Sandoz Inc. v. Amgen Inc., 
+23  </pre><span class="citation no-link">582 U.S. 1</span><pre class="inline">, 12 (2017) (quoting Rose v. Bank of America, N. A., </pre><span class="citation" data-id="1036211"><a href="/opinion/1036211/rose-v-bank-of-america/#396" aria-description="Citation for case: Rose v. Bank of America">57 Cal.4th 390, 396</a></span><pre class="inline"> (2013)).  
+24  Defendant argues Plaintiff cannot show an “unlawful” business practice because Plaintiff’s 
+25  claims are preempted by the FDCA, and “[n]o state law . . . can be employed to alter or 
+26  vary the standards of identity for regulated supplements under the FDA.”  (Id. at 23.)  The 
+27  Complaint explains “Defendant’s acts, omissions, misrepresentations, practices, and/or 
+28  non-disclosures concerning the Products alleged herein, constitute ‘unlawful’ business acts 
+1  and practices in that they violate” the FDCA, the Sherman Law, the FAL, and the CLRA.  
+2  (Doc. 1 at 36–38.)  As the Court previously explained (see supra pp. 6–10), Plaintiff’s 
+3  claims are not preempted by the FDCA and, thus, the Complaint alleges facts sufficient to 
+4  show an “unlawful” practice under the UCL.                                
+5       In determining whether a business act or practice is unfair, “courts consider either: 
+6  (1) whether the challenged conduct is ‘tethered to any underlying constitutional, statutory 
+7  or regulatory provision, or that it threatens an incipient violation of an antitrust law, or 
+8  violates the policy or spirit of an antitrust law,’ (Durell v. Sharp Healthcare, </pre><span class="citation no-link">183 Cal. App. 
+9</span><pre class="inline">  4th  1350,  1366  (2010));  (2)  whether  the  practice  is  ‘immoral,  unethical,  oppressive, 
+10  unscrupulous or substantially injurious to consumers,’ (Morgan v. AT&amp;T Wireless Servs., 
+11  Inc., </pre><span class="citation" data-id="2275753"><a href="/opinion/2275753/morgan-v-att-wireless-services-inc/#1254" aria-description="Citation for case: Morgan v. AT&amp;T Wireless Services, Inc.">177 Cal. App. 4th 1235, 1254</a></span><pre class="inline"> (2009)); or (3) whether the practice’s impact on the 
+12  victim outweighs ‘the reasons, justifications and motives of the alleged wrongdoer’” (Id.).  
+13  Doe v. CVS Pharmacy, Inc., </pre><span class="citation no-link">982 F.3d 1204</span><pre class="inline">, 1214–15 (9th Cir. 2020).  Defendant argues 
+14  Plaintiff’s claims cannot withstand any of these tests.  (Doc. 7–1 at 24.)  Plaintiff counters 
+15  by explaining the Product label:                                          
+16       (a) mischaracterizes a lab-synthesized [EE] as fish oil; (b) claims to have 
+        DHA/EPA when it has none; (c) claims to provide its [Omega-3] in the form 
+17                                                                            
+        of triglycerides, when in reality it is an [EE] and (d) claims to provide 400mg 
+18       DHA and 600mg EPA when it actually contains much less.  In so doing, 
+        Defendant deceived Plaintiff and class members into purchasing a product 
+19                                                                            
+        they  did  not  want  and/or  paying  a  premium  price  for  the  Product  and 
+20       damaging them thereby.                                               
+
+21  (Doc 10 at 22.)  In light of the foregoing allegations, and as discussed in detail supra, the 
+22  Court  finds  the  Complaint  contains  plausibly  alleges  that  Defendant  has  engaged 
+23  “deceptive practices associated with the advertising, labeling and sale of [the Product].”  
+24  (Doc. 1 at 2.)  Thus, the Complaint sufficiently states a claim under the “unfair” prong of 
+25  the UCL.3                                                                 
+26                                                                            
+
+27                                                                            
+   3 The Court notes its understanding of Defendant’s contention that a serving size is two 
+28                                                                            
+1       Lastly, a business practice is fraudulent under the UCL if members of the public are 
+2  likely to be deceived.  Davis v. HSBC Bank Nevada, N.A., </pre><span class="citation" data-id="807798"><a href="/opinion/807798/gary-davis-v-hsbc-bank-nevada-na/#1169" aria-description="Citation for case: Gary Davis v. Hsbc Bank Nevada, N.A.">691 F.3d 1152, 1169</a></span><pre class="inline"> (9th Cir. 
+3  2012).  Defendant argues Plaintiff cannot show that a reasonable consumer would be 
+4  deceived by the Product’s labeling.  (Doc. 7–1 at 25.)  Moreover, it is Defendant’s position 
+5  that Plaintiff cannot satisfy Federal Rule of Civil Procedure 9(b)’s heightened pleading 
+6  standard, which applies to state claims “grounded in fraud.”  (Id. (citing Vess v. Ciba-Geigy 
+7  Corp. USA, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d 1097</a></span><pre class="inline">, 1102–06 (9th Cir. 2003)); see Vess v. Ciba-Geigy Corp. USA, 
+8  </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1106" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d 1097, 1106</a></span><pre class="inline"> (9th Cir. 2003) (“Averments of fraud must be accompanied by ‘the 
+9  who, what, when, where, and how’ of the misconduct charged.”) (quoting  Cooper v. 
+10  Pickett, </pre><span class="citation" data-id="6964204"><a href="/opinion/7060249/cooper-v-pickett/#627" aria-description="Citation for case: Cooper v. Pickett">137 F.3d 616, 627</a></span><pre class="inline"> (9th Cir.1997)).  Plaintiff counters that he has sufficiently 
+11  alleged Defendant “made a series of misleading labeling claims related to the identity of 
+12  the product, its ingredients and its amounts [] on the labels of its Product [] during the 
+13  applicable class periods [] in violation of the provisions of the Sherman Law, UCL[, and] 
+14  CLRA” and, thus, “Plaintiff has unquestionably satisfied 9(b).”  (Doc. 10 at 23–24 (citing 
+15  Doc. 1 at 2–5, 24–31, 33, 35–44).)  The Court finds the allegations in the Complaint 
+16  sufficient to state a claim under the “fraudulent” prong of the UCL.  Moreover, the 
+17  discussion of whether or not the Product’s labeling is likely to deceive the public is 
+18  discussed at length above.  (See supra pp. 11–14.)                        
+19       In light of the foregoing, the Court finds the Complaint sufficiently alleges “enough 
+20  facts to state a claim to relief that is plausible on its face” in regard to Plaintiff’s UCL 
+21  claims.  See Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. at 570</a></span><pre class="inline">; Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. at 678</a></span><pre class="inline">.  Thus, in considering the 
+22  reasonable consumer standard, as well as the three prongs of the UCL, the Court DENIES 
+23  Defendant’s Motion insofar as it requests dismissal of Plaintiff’s first through fifth causes 
+24  of action.                                                                
+25            b.   Breach of Express Warranty                                 
+26       Plaintiff’s sixth cause of action alleges breach of express warranty.  (Doc. 1 at 43–
+27  44.)  Defendant argues that Plaintiff’s breach of warranty claim fails because a reasonable 
+28  consumer is not likely to be misled by the Product’s labeling.  (Doc. 7–1 at 18.)   
+1       California Commercial Code § 2313 provides that “(a) [a]ny affirmation of fact or 
+2  promise made by the seller to the buyer which relates to the goods and becomes part of the 
+3  basis of the bargain creates an express warranty that the goods shall conform  to the 
+4  affirmation or promise,” and “(b) [a]ny description of the goods which is made part of the 
+5  basis of the bargain creates an express warranty that the goods shall conform to the 
+6  description.”  CAL. COM. CODE § 2313.  To plead a claim for breach of express warranty, 
+7  the plaintiff “must allege the exact terms of the warranty, plaintiff’s reasonable reliance 
+8  thereon, and a breach of that warranty which proximately causes plaintiff injury.”  Williams 
+9  v. Beechnut Nutrition Corp., </pre><span class="citation" data-id="2139353"><a href="/opinion/2139353/williams-v-beechnut-nutrition-corp/#142" aria-description="Citation for case: Williams v. Beechnut Nutrition Corp.">185 Cal. App. 3d 135, 142</a></span><pre class="inline"> (Ct. App. 1986).   
+10       The Complaint alleges that: (1) Defendant made express warranties that the Product 
+11  “consisted of real fish oil in its natural triglyceride form; that its principal constituent 
+12  components were DHA and EPA (as opposed to DHA-EE and EPA-EE); and that the 
+13  Product contained DHA/EPA in specified amounts”; (2) these express warranties became 
+14  the basis of the bargain; (3) Plaintiff and proposed class members relied on these warranties 
+15  and purchased the Product in the belief that they conformed to the express warranties; (4) 
+16  Defendant breached the express warranties by “failing to supply goods that conformed to 
+17  the warranties it made”; and (5) Plaintiff and proposed class members paid money for the 
+18  Product and did not obtain the full value of the Product.  (Doc. 1 at 43.)  It is Plaintiff’s 
+19  position that if he and the proposed class members “had known of the true nature of the 
+20  Product, they would not have purchased them or paid less for them.”  (Id. at 44.)   
+21       The Court finds these allegations sufficient to state a claim for breach of express 
+22  warranty.  See Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. at 678</a></span><pre class="inline">.  Therefore, the Court DENIES Defendant’s Motion 
+23  to dismiss Plaintiff’s sixth cause of action for breach of express warranty. 
+24            c.   Restitution Based on Quasi-Contract/Unjust Enrichment      
+25       Similarly, Defendant argues Plaintiff’s seventh cause of action for restitution based 
+26  on quasi-contract/unjust enrichment fails because a reasonable consumer is not likely to be 
+27  misled by  the  Product’s  labeling.   (Doc.  7–1  at  18.)   The Motion  lacks  any  further 
+28  discussion of this cause of action.                                       
+1         The  Complaint  contends  that  the  Product includes  false  and  misleading  labeling 
+2 || which enticed Plaintiff and proposed class members to purchase the Product.  (Doc. |  at 5, 
+3   ||44.)  As such, Defendant has been “unjustly enriched at the expense of Plaintiff and the 
+4   ||Class  as  result  of  their  unlawful  conduct  alleged  herein,  thereby  creating  a  quasi- 
+5   ||contractual  obligation  on  Defendant  to  restore  these  ill-gotten  gains  to  Plaintiff’  and 
+6 || proposed class members.  (/d. at 45.) 
+7         Given  that  the  Court  has  found  it  plausible  that  statements  on  the  Product’s 
+8    packaging could deceive a reasonable consumer (see supra p.  14), it declines to dismiss 
+9 || Plaintiff&#x27;s  seventh  cause  of action  for restitution  at this  stage  of the proceedings.   See 
+10 || Sanchez v. Nurture, Inc., </pre><span class="citation no-link">626 F. Supp. 3d 1107</span><pre class="inline">, 1120 (N.D. Cal. 2022), reh’g denied (Sept. 
+11        2022) (finding the plaintiff&#x27;s unjust enrichment claim may proceed because “Plaintiff . 
+12   ||. . has adequately stated a claim for their UCL ‘unlawful’ claim.  Further, Defendant does 
+13         make any argument about the substance of the unjust enrichment claim itself.”); see 
+14 || also Lopez v. Abbott Lab’ys, No. 3:22-CV-00421-L-RBB, </pre><span class="citation no-link">2023 WL 2657627</span><pre class="inline">, at *4 (S.D. 
+</pre><span class="citation no-link">15          Mar.  27</span><pre class="inline">,  2023)  (“Because Plaintiff adequately alleged that Defendant was unjustly 
+16 || enriched through false advertising, she has sufficiently alleged a quasi-contract claim for 
+17    restitution.”).  Therefore, Defendant’s Motion is DENIED as to Plaintiff&#x27;s seventh cause 
+18    of action. 
+19                                  IV.    CONCLUSION 
+20         Accepting  all  factual  allegations  in  the  Complaint  as  true  and  construing  the 
+21 || pleadings in the light most favorable to Plaintiff, the Court concludes Defendant’s Motion 
+22   ||(Doc. 7) is DENIED. 
+23         IT IS SO ORDERED. 
+24   ||DATE:  August 10, 2023 
+25 
+26                                           _   ret  Eiamuskn,  Mitrggs 
+                                             HON.   RUTH BERMUBEZ MONTENEGRO 
+                                            UNITED STATES DISTRICT  JUDGE 
+28 
+                                             19 </pre>

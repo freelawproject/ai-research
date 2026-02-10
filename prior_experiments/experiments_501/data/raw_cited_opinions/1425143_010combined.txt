@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b654-11">
+  COOPER, District Judge.
+ </author>
+<p id="b654-12">
+  This is an application for a writ of habeas corpus.
+ </p>
+<p id="b654-13">
+  On February 5, 1965 relator filed the instant application and a show cause order returnable February 15, 1965 was issued. On February 8, 1965 a copy of the order and application was served on the District Attorney, New York County (as well as on Chief Probation Officer, Elmer Reeves and the New York State Attorney General). On February 10, 1965 relator was unconditionally discharged from probation, pursuant to an order of Justice Schweitzer, Supreme Court, New York County.
+ </p>
+<p id="b654-16">
+  The threshold question before us is whether relator presently is “in custody” as required by <span class="citation no-link">28 U.S.C. § 2241</span>. Such a finding is essential to this Court’s jurisdiction.
+ </p>
+<p id="b654-17">
+  Relator contends that he was “in custody” at the time of the issuance of the show cause order.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  This alone is insufficient under <span class="citation no-link">28 U.S.C. § 2241</span>. We are constrained to hold that § 2241 requires not only that relator be “in custody” at the time of the writ’s filing and issuance of the show cause order, but also at the time our “jurisdiction can become effective.” Parker v. Ellis, 1960, <span class="citation" data-id="106050"><a href="/opinion/106050/parker-v-ellis/#576" aria-description="Citation for case: Parker v. Ellis">362 U.S. 574, 576</a></span>, <span class="citation" data-id="106050"><a href="/opinion/106050/parker-v-ellis/" aria-description="Citation for case: Parker v. Ellis">80 S.Ct. 909</a></span>, <span class="citation" data-id="106050"><a href="/opinion/106050/parker-v-ellis/" aria-description="Citation for case: Parker v. Ellis">4 L.Ed.2d 963</a></span> (Justices Harlan and Clark concurred; in addition, they considered the case moot on a further ground); Burnett v. Gladden, D.C.D.Oregon, 1964, <span class="citation" data-id="8742561"><a href="/opinion/8759234/burnett-v-gladden/" aria-description="Citation for case: Burnett v. Gladden">228 F.Supp. 527</a></span>. Cf. Thomas v. Cunningham, 4 Cir., 1964, <span class="citation" data-id="265136"><a href="/opinion/265136/nathan-thomas-v-w-k-cunningham-jr-superintendent-of-the-virginia/" aria-description="Citation for case: Nathan Thomas v. W. K. Cunningham, Jr., Superintendent of...">335 F.2d 67</a></span>.
+ </p>
+<p id="b654-18">
+  Although unconditionally discharged from probation prior to the return date of the show cause order, relator argues he is nonetheless presently “in custody” within the meaning of <span class="citation no-link">28 U.S.C. § 2241</span> because of “unlawful” restraints upon his liberty due directly to the challenged conviction. Relator claims that by reason of his criminal conviction he is deprived of vital prerogatives; he can no longer vote in any election in New York or in at le^st thirty-four other states; nor serve as a grand or petit juror in any federal court and in New York State; nor obtain licenses to engage in certain types of business; nor practice law or medicine. (Relator’s brief pgs. 5-6). In addition, relator argues he would be liable for increased punishment under the recidivist statutes of New York and other states.
+ </p>
+<p id="b654-19">
+  Relator presents the novel claim that by reason of these possible disabilities he is “in custody” within the meaning of § 2241. In effect, he is asking this Court to extend the rationale of Jones v. Cunningham, 1965, <span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/" aria-description="Citation for case: Jones v. Cunningham">371 U.S. 236</a></span>, <span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/" aria-description="Citation for case: Jones v. Cunningham">83 S.Ct. 373</a></span>, <span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/" aria-description="Citation for case: Jones v. Cunningham">9 L.Ed.2d 285</a></span> to include within the
+  <span citation-index="1" class="star-pagination" label="601"> 
+   *601
+   </span>
+  meaning of “in custody” the aforementioned disabilities. As we see it, the underlying rationale of Jones is inapposite to the case at bar.
+ </p>
+<p id="b655-4">
+  Unlike relator, Jones was released pursuant to specific restrictions and conditions. The restraints upon Jones’ liberty stemmed directly from the terms of his release and not
+  <em>
+   per se
+  </em>
+  from his status as a convicted felon. Jones’ continued liberty was conditioned upon the fulfillment of the terms of his release. Any breach of the restrictions and conditions of his release would subject him to rearrest. In a very real sense, therefore, the custody of prison was extended to the parolee’s movements outside its physical confines.
+ </p>
+<p id="b655-5">
+  Unlike Jones, relator cannot be returned to prison “to serve out the very sentence he claims was imposed upon him in violation of the United States Constitution.” Jones v. United States, supra, <span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/#242" aria-description="Citation for case: Jones v. Cunningham">371 U.S. at 242</a></span>, <span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/#377" aria-description="Citation for case: Jones v. Cunningham">83 S.Ct. at 377</a></span>. It should be observed too that the Supreme Court, in Jones, specifically distinguished the case of unconditional release. [<span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/#241" aria-description="Citation for case: Jones v. Cunningham">371 U.S. at 241</a></span>, <span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/" aria-description="Citation for case: Jones v. Cunningham">83 S.Ct. 373</a></span>]
+ </p>
+<p id="b655-6">
+  The possible disabilities of which relator complains do not stem from continued control and supervision of the correction authorities, but rather from his status as a convicted felon. To equate the former situation with the latter would all but eliminate the “in custody” requirement of § 2241 and would provide for virtually automatic federal “appellate review” of past state convictions. See Miller v. United States, 10 Cir., 1963, <span class="citation multiple-matches"><a href="/c/F.2d/324/730/">324 F.2d 730</a></span>; Witte v. Ferber, 3 Cir., 1955, <span class="citation multiple-matches"><a href="/c/F.2d/219/113/">219 F.2d 113</a></span>; In re Matheisel, 1 Cir., 1961, <span class="citation" data-id="253881"><a href="/opinion/253881/in-the-matter-of-rudolph-adolph-matheisel/" aria-description="Citation for case: In the Matter of Rudolph Adolph Matheisel">289 F.2d 824</a></span>. See also United States v. Bradford, 2 Cir., 1952, <span class="citation" data-id="228662"><a href="/opinion/228662/united-states-v-bradford/" aria-description="Citation for case: United States v. Bradford">194 F.2d 197</a></span>, cert. denied 1952, <span class="citation multiple-matches"><a href="/c/U.S./343/979/">343 U.S. 979</a></span>, <span class="citation no-link">72 S.Ct. 1079</span>, <span class="citation" data-id="8922596"><a href="/opinion/8932437/schuyler-v-moran/" aria-description="Citation for case: Schuyler v. Moran">96 L.Ed. 1371</a></span>.
+ </p>
+<p id="b655-7">
+  We note in passing that relator would not be foreclosed from challenging the constitutionality of his present conviction should he be subject to increased punishment under recidivist statutes. Burnett v. <span class="citation" data-id="8742561"><a href="/opinion/8759234/burnett-v-gladden/" aria-description="Citation for case: Burnett v. Gladden">Gladden, supra.</a></span>
+ </p>
+<p id="AYGi">
+  Accordingly, since relator is not presently “in custody” the application for a writ of habeas corpus is denied, So ordered.
+ </p>
+<p id="b655-9">
+  On Petition for Certificate of Probable Cause
+ </p>
+<p id="b655-10">
+  Relator petitions for a certificate of probable cause (<span class="citation no-link">28 U.S.C. § 2253</span>) and leave to appeal in forma pauperis (<span class="citation no-link">28 U.S.C. § 1915</span>(a)) from our order dated April 26, 1965 denying his application for a writ of habeas corpus on the ground that relator was not presently “in custody” as required by <span class="citation no-link">28 U.S.C. § 2241</span>.
+ </p>
+<p id="b655-11">
+  The issue before this Court on the instant application is whether there exists “probable cause” for an appeal. See United States ex rel. La Marca v. Denno, 2 Cir., 1958, <span class="citation" data-id="245646"><a href="/opinion/245646/united-states-ex-rel-angelo-john-la-marca-v-wilfred-l-denno-warden-of/" aria-description="Citation for case: United States Ex Rel. Angelo John La Marca v. Wilfred L....">257 F.2d 295</a></span>. Section 2253 of Title 28, U.S.C. does not define what is meant by “probable cause.” As generally used, it requires, however, something more than a frivolous assertion, Ex parte Farrell, 1 Cir., 1951, <span class="citation" data-id="227276"><a href="/opinion/227276/ex-parte-farrell/" aria-description="Citation for case: Ex Parte Farrell">189 F.2d 540</a></span>, cert. denied 1951, Farrell v. O’Brien, <span class="citation multiple-matches"><a href="/c/U.S./342/839/">342 U.S. 839</a></span>, <span class="citation" data-id="8921510"><a href="/opinion/8931365/nash-ex-rel-hashimoto-v-macarthur/" aria-description="Citation for case: Nash ex rel. Hashimoto v. MacArthur">72 S.Ct. 64</a></span>, <span class="citation" data-id="8921519"><a href="/opinion/8931374/burns-v-criminal-court/" aria-description="Citation for case: Burns v. Criminal Court">96 L.Ed. 634</a></span>, but something less than the imperatives of <span class="citation no-link">28 U.S.C. § 1292</span>. Some courts have said it requires “a substantial question worthy of consideration.” See United States ex rel. Stewart v. Ragen, 7 Cir., 1956, <span class="citation" data-id="238941"><a href="/opinion/238941/united-states-of-america-ex-rel-harrison-stewart-v-joseph-e-ragen/" aria-description="Citation for case: United States of America Ex Rel. Harrison Stewart v....">231 F.2d 312</a></span>. Whichever standard of “probable cause” may be proffered, however, we find no basis for the granting of the certificate.
+ </p>
+<p id="b655-12">
+  As was true upon the original petition, we find relator’s contention that he is “in custody” within the meaning of <span class="citation no-link">28 U.S.C. § 2241</span> foreclosed by controlling Supreme Court decisions and authority in other circuits. See Parker v. Ellis, 1960, <span class="citation" data-id="106050"><a href="/opinion/106050/parker-v-ellis/" aria-description="Citation for case: Parker v. Ellis">362 U.S. 574</a></span>, <span class="citation" data-id="106050"><a href="/opinion/106050/parker-v-ellis/" aria-description="Citation for case: Parker v. Ellis">80 S.Ct. 909</a></span>, <span class="citation" data-id="106050"><a href="/opinion/106050/parker-v-ellis/" aria-description="Citation for case: Parker v. Ellis">4 L.Ed.2d 963</a></span>; Burnett v. Gladden, D.C.D. Oregon, 1964, <span class="citation" data-id="8742561"><a href="/opinion/8759234/burnett-v-gladden/" aria-description="Citation for case: Burnett v. Gladden">228 F.Supp. 527</a></span>; Jones v. Cunningham, 1965, <span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/" aria-description="Citation for case: Jones v. Cunningham">371 U.S. 236</a></span>, <span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/" aria-description="Citation for case: Jones v. Cunningham">83 S.Ct. 373</a></span>, <span class="citation" data-id="106507"><a href="/opinion/106507/jones-v-cunningham/" aria-description="Citation for case: Jones v. Cunningham">9 L.Ed.2d 285</a></span>; Miller v. United States, 10 Cir., 1963, <span class="citation multiple-matches"><a href="/c/F.2d/324/730/">324 F.2d 730</a></span>; Witte v. Ferber, 3 Cir., 1955, <span class="citation multiple-matches"><a href="/c/F.2d/219/113/">219 F.2d 113</a></span>; In re Matheisel, 1 Cir., 1961, <span class="citation" data-id="253881"><a href="/opinion/253881/in-the-matter-of-rudolph-adolph-matheisel/" aria-description="Citation for case: In the Matter of Rudolph Adolph Matheisel">289 F.2d 824</a></span>; United States v. Bradford, 2 Cir., 1952, <span class="citation" data-id="228662"><a href="/opinion/228662/united-states-v-bradford/" aria-description="Citation for case: United States v. Bradford">194 F.2d 197</a></span>, cert. denied, 1952, <span class="citation multiple-matches"><a href="/c/U.S./343/979/">343 U.S. 979</a></span>, <span class="citation no-link">72 S.Ct. 1079</span>, 96
+  <span citation-index="1" class="star-pagination" label="602"> 
+   *602
+   </span>
+  L.Ed. 1371. See also Matysek v. United States, 9 Cir., 1964, <span class="citation" data-id="266245"><a href="/opinion/266245/manuel-lee-matysek-v-united-states/" aria-description="Citation for case: Manuel Lee Matysek v. United States">339 F.2d 389</a></span>, rehearing denied, 1965, <span class="citation" data-id="266245"><a href="/opinion/266245/manuel-lee-matysek-v-united-states/" aria-description="Citation for case: Manuel Lee Matysek v. United States">339 F.2d 389</a></span>.
+ </p>
+<p id="b656-4">
+  We note in passing that the supporting affidavit submitted in the instant application is by relator’s attorney. The relator’s personal affidavit is required by <span class="citation no-link">28 U.S.C. § 1915</span>(a).
+ </p>
+<p id="b656-5">
+  Accordingly, the application for a certificate of probable cause is denied. Leave to appeal in forma pauperis is denied as moot.
+ </p>
+<p id="b656-6">
+  So ordered.
+ </p>
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b654-14">
+   . We do not here decide whether probation satisfies the “in custody” requirements of <span class="citation no-link">28 U.S.C. § 2241</span>, but assume arguendo that it does.
+  </p>
+</div></div></opinion>

@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion data-order="7" data-type="opinion" id="x999-1" type="majority">
+<author id="b55-5">
+  Cardozo, J.
+ </author>
+<p id="A9">
+  A police officer arrested the defendant on a charge that he had stolen an overcoat. The crime, if committed, was petit larceny, a misdemeanor, for the value of the coat was not over fifty dollars (Penal Law, §§ 1296, 1298; Cons. Laws, ch. 40). The defendant when taken into custody was in the hall of his boarding house. The officer after making the arrest entered the defendant’s room and searched it. The search produced a bag, and in the bag was a blackjack. The defendant after trial at Special Sessions was acquitted of the larceny. In the meantime he had been indicted as a second offender for the possession of the weapon (Penal Law, § 1897). He made a motion before trial to suppress the evidence obtained through search without a Warrant. The motion was denied. He made objection again upon the trial when the bag and the contents,
+  <em>
+   i. e.,
+  </em>
+  the blackjack and a hat, were offered in evidence by the People. The objection was overruled. He contends that through these rulings he has suffered a denial of his rights under the statute against unreasonable search and seizure (Civil Rights Law, § 8; Cons. Laws, ch. 6); a denial of his rights under the provision of the State Constitution which gives immunity against compulsory self-incrimination (Con
+  <span citation-index="1" class="star-pagination" label="18"> 
+   *18
+   </span>
+  stitution, article 1, § 6); and a denial of his rights under the due process clause of the Fourteenth Amendment to the Constitution of the United States.
+ </p>
+<p id="b56-5">
+  The search was -unreasonable
+  <em>
+   “
+  </em>
+  in the light of common law traditions
+  <em>
+   ” (People
+  </em>
+  v.
+  <em>
+   Chiagles,
+  </em>
+  <span class="citation" data-id="3579530"><a href="/opinion/3598271/people-v-chiagles/" aria-description="Citation for case: People v. . Chiagles">237 N. Y. 193</a></span>). A different conclusion might be necessary if the defendant had been lawfully arrested. As an incident to such an arrest, his person might have been searched for the fruits or evidences of crime
+  <em>
+   (People
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="3579530"><a href="/opinion/3598271/people-v-chiagles/" aria-description="Citation for case: People v. . Chiagles">Chiagles, supra;</a></span> Carroll
+  </em>
+  v.
+  <em>
+   U. S.,
+  </em>
+  <span class="citation" data-id="100567"><a href="/opinion/100567/carroll-v-united-states/#158" aria-description="Citation for case: Carroll v. United States">267 U. S. 132, 158</a></span>). So, it seems, might the place where the arrest was made
+  <em>
+   (Agnello
+  </em>
+  v.
+  <em>
+   U. S.,
+  </em>
+  <span class="citation" data-id="100711"><a href="/opinion/100711/agnello-v-united-states/" aria-description="Citation for case: Agnello v. United States">269 U. S. 20</a></span>;
+  <em>
+   People
+  </em>
+  v.
+  <em>
+   Cona,
+  </em>
+  <span class="citation" data-id="7947973"><a href="/opinion/7994362/people-v-cona/" aria-description="Citation for case: People v. Cona">180 Mich. 641</a></span>). But the arrest was not lawful. One who, acting without a warrant, arrests for a misdemeanor, exceeds the bounds of privilege, whether he be a private person or an officer, unless the crime has been committed or attempted in his presence (Code Crim. Pro. §§ 177, 183). The defendant had neither committed the crime of petit larceny in the presence of the officer, nor there attempted to commit it. He had not committed nor attempted it anywhere. There was no lawful arrest to which the search could be an incident.
+ </p>
+<p id="b56-6">
+  The People stress the fact that the weapon was contraband, a nuisance subject to destruction (Penal Law, § 1899). This might have justified the seizure, the abatement of the nuisance, if the weapon had been exposed to view. It might even have justified the refusal to return the weapon, though discovered by unlawful means. It did not justify the search. There is no rule that homes may be ransacked without process to discover the fruits or the implements of crime. To make such inquisitions lawful, there must be the support of a search warrant issued upon probable cause. Search even then is “ confined under our statute [Code Grim. Pro. § 792] to property stolen or embezzled, or used as the means of committing a felony, or held with the intent to use it as an instrument of crime
+  <em>
+   ” (People
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="3579530"><a href="/opinion/3598271/people-v-chiagles/" aria-description="Citation for case: People v. . Chiagles">Chiagles, supra,</a></span>
+  </em>
+  at
+  <span citation-index="1" class="star-pagination" label="19"> 
+   *19
+   </span>
+  p. 196;
+  <em>
+   People ex rel. Simpson Co.
+  </em>
+  v.
+  <em>
+   Kempner,
+  </em>
+  <span class="citation" data-id="3598094"><a href="/opinion/3615790/people-ex-rel-robert-simpson-co-v-kempner/" aria-description="Citation for case: People Ex Rel. Robert Simpson Co. v. Kempner">208 N. Y. 16</a></span>). The warrant does not issue for things of evidential value merely
+  <em>
+   (People
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="3579530"><a href="/opinion/3598271/people-v-chiagles/" aria-description="Citation for case: People v. . Chiagles">Chiagles, supra;</a></span> cf. Gouled
+  </em>
+  v. U.
+  <em>
+   S.,
+  </em>
+  <span class="citation" data-id="99745"><a href="/opinion/99745/gouled-v-united-states/" aria-description="Citation for case: Gouled v. United States">255 U. S. 298</a></span>;
+  <em>
+   Matter of 191 Front Street,
+  </em>
+  5 Fed. Rep. [2nd] 282; Veeder v.
+  <em>
+   U. S., 252
+  </em>
+  Fed. Rep. 414). What would be a wrong with a warrant is not innocent without one. To dispense with process in the pursuit of contraband is to dispense with it in the one case in which it may ever issue in the pursuit of anything. Means unlawful in their inception do not become lawful by relation when suspicion ripens into discovery.
+ </p>
+<p id="b57-5">
+  We hold, then, with the defendant that the evidence against him was the outcome of a trespass. The officer might have been resisted, or sued for damages, or even prosecuted for oppression (Penal Law, §§ 1846, 1847). He was subject to removal or other discipline at the hands of his superiors. These consequences are undisputed. The defendant would add another.' We must determine whether evidence of criminality, procured by an act of trespass, is to be rejected as incompetent for the misconduct of the trespasser.
+ </p>
+<p id="b57-6">
+  The question is not a new one. It was put to us more than twenty years ago in
+  <em>
+   People
+  </em>
+  v.
+  <em>
+   Adams
+  </em>
+  (<span class="citation" data-id="5650086"><a href="/opinion/5795142/people-v-adams/" aria-description="Citation for case: People v. Adams">176 N. Y. 351</a></span>), and there deliberately answered. A search warrant had been issued against the proprietor of a gambling house for the seizure of gambling implements. The police did not confine themselves to the things stated in the warrant. Without authority of law, they seized the defendant’s books and papers. We held that the documents did not cease to be competent evidence against him though the seizure was unlawful. In support of that holding, we cited many authorities, and notably a series of decisions by the courts of Massachusetts. “A trespasser may testify to pertinent facts observed by him, or may put in evidence pertinent articles or papers found by him while trespassing. For the trespass, he may be held responsible civilly, and perhaps criminally, but his.
+  <span citation-index="1" class="star-pagination" label="20"> 
+   *20
+   </span>
+  testimony is not thereby incompetent
+  <em>
+   ” (Comm.
+  </em>
+  v.
+  <em>
+   Tibbetts,
+  </em>
+  <span class="citation" data-id="6424388"><a href="/opinion/6550653/commonwealth-v-tibbetts/" aria-description="Citation for case: Commonwealth v. Tibbetts">157 Mass. 519</a></span>). On appeal to the Supreme Court, the judgment was affirmed
+  <em>
+   (Adams
+  </em>
+  v.
+  <em>
+   N. Y.,
+  </em>
+  <span class="citation" data-id="96015"><a href="/opinion/96015/adams-v-new-york/" aria-description="Citation for case: Adams v. New York">192 U. S. 585</a></span>).
+ </p>
+<p id="b58-5">
+  The ruling thus broadly made is decisive, while it stands, of the case before us now. It is at variance, however, with later judgments of the Supreme Court of the United States. Those judgments do not bind us, for they construe provisions of the Federal Constitution, the Fourth and Fifth Amendments, not applicable to the States. Even though not binding, they merit our attentive scrutiny.
+  <em>
+   Weeks
+  </em>
+  v.
+  <em>
+   U. S.
+  </em>
+  (<span class="citation" data-id="98094"><a href="/opinion/98094/weeks-v-united-states/" aria-description="Citation for case: Weeks v. United States">232 U. S. 383</a></span>) held that articles wrongfully seized by agents of the Federal government should have been returned to the defendant or excluded as evidence if a timely motion to compel return had been made before the trial.
+  <em>
+   Silverthorne Lumber Co.
+  </em>
+  v.
+  <em>
+   U. S.
+  </em>
+  (<span class="citation" data-id="99506"><a href="/opinion/99506/silverthorne-lumber-co-v-united-states/" aria-description="Citation for case: Silverthorne Lumber Co. v. United States">251 U. S. 385</a></span>) held that copies of the things so seized, in that case books and papers, must share the fate of the originals.
+  <em>
+   Gouled
+  </em>
+  v.
+  <em>
+   U. S.
+  </em>
+  (<span class="citation" data-id="99745"><a href="/opinion/99745/gouled-v-united-states/" aria-description="Citation for case: Gouled v. United States">255 U. S. 298</a></span>) and
+  <em>
+   Amos
+  </em>
+  v.
+  <em>
+   U. S.
+  </em>
+  (<span class="citation" data-id="99746"><a href="/opinion/99746/amos-v-united-states/" aria-description="Citation for case: Amos v. United States">255 U. S. 313</a></span>) held that a motion before trial was unnecessary if the defendant had no knowledge until the trial that an illegal seizure had been made.
+  <em>
+   Burdeau
+  </em>
+  v.
+  <em>
+   McDowell
+  </em>
+  (<span class="citation" data-id="99820"><a href="/opinion/99820/burdeau-v-mcdowell/" aria-description="Citation for case: Burdeau v. McDowell">256 U. S. 465</a></span>) held that a Federal prosecutor might make such use as he pleased of documents or other information acquired from a trespasser if persons other than Federal officers were guilty of the trespass.
+  <em>
+   Hester
+  </em>
+  v.
+  <em>
+   U. S.
+  </em>
+  (<span class="citation" data-id="100413"><a href="/opinion/100413/hester-v-united-states/" aria-description="Citation for case: Hester v. United States">265 U. S. 57</a></span>) and
+  <em>
+   Carroll
+  </em>
+  v.
+  <em>
+   U. S.
+  </em>
+  (<span class="citation" data-id="100567"><a href="/opinion/100567/carroll-v-united-states/" aria-description="Citation for case: Carroll v. United States">267 U. S. 132</a></span>) drew a distinction between search and seizure iñ a house and search and seizure in the fields or in automobiles or other vehicles. Finally
+  <em>
+   Agnello
+  </em>
+  v.
+  <em>
+   U. S.
+  </em>
+  (<span class="citation" data-id="100711"><a href="/opinion/100711/agnello-v-united-states/" aria-description="Citation for case: Agnello v. United States">269 U. S. 20</a></span>) held that the evidence must be excluded though the things seized were contraband and though there had been no motion before trial if the facts were undisputed. This means that the Supreme Court has overruled its own judgment in
+  <em>
+   Adams
+  </em>
+  v.
+  <em>
+   New York,
+  </em>
+  for the facts were undisputed there. The procedural condition of a preliminary motion has been
+  <span citation-index="1" class="star-pagination" label="21"> 
+   *21
+   </span>
+  substantially abandoned, or, if now enforced at all, is an exceptional requirement. There has been no blinking the consequences. {The criminal is to go free because the constable has blundered".!
+ </p>
+<p id="b59-5">
+  The new doctrine has already met the scrutiny of courts of sister States. The decisions have been brought together for our guidance through the industry of counsel. In forty-five States (exclusive of our own) the subject has been considered. Fourteen States have adopted the rule of the
+  <em>
+   <span class="citation" data-id="98094"><a href="/opinion/98094/weeks-v-united-states/" aria-description="Citation for case: Weeks v. United States">Weeks</a></span>
+  </em>
+  case either as there laid down or as subsequently broadened. Thirty-one have rejected it. Typical among these are Massachusetts
+  <em>
+   (Comm.
+  </em>
+  v.
+  <em>
+   Wilkins,
+  </em>
+  <span class="citation" data-id="6436025"><a href="/opinion/6562275/commonwealth-v-wilkins/" aria-description="Citation for case: Commonwealth v. Wilkins">243 Mass. 356</a></span>;
+  <em>
+   Comm.
+  </em>
+  v.
+  <em>
+   Donnelly,
+  </em>
+  <span class="citation" data-id="6436390"><a href="/opinion/6562640/commonwealth-v-donnelly/" aria-description="Citation for case: Commonwealth v. Donnelly">246 Mass. 507</a></span>); California
+  <em>
+   (People
+  </em>
+  v.
+  <em>
+   Mayen,
+  </em>
+  <span class="citation" data-id="3307559"><a href="/opinion/3307673/people-v-mayen/" aria-description="Citation for case: People v. Mayen">188 Cal. 237</a></span>); Connecticut (St
+  <em>
+   ate
+  </em>
+  v.
+  <em>
+   Reynolds,
+  </em>
+  <span class="citation" data-id="3321660"><a href="/opinion/3326264/state-v-reynolds/" aria-description="Citation for case: State v. Reynolds">101 Conn. 224</a></span>); Ohio
+  <em>
+   (Rosanski
+  </em>
+  v.
+  <em>
+   State,
+  </em>
+  <span class="citation no-link">106 Ohio St. 442</span>); Kansas
+  <em>
+   (State
+  </em>
+  v.
+  <em>
+   Johnson,
+  </em>
+  <span class="citation" data-id="7907024"><a href="/opinion/7955587/state-v-johnson/" aria-description="Citation for case: State v. Johnson">116 Kan. 58</a></span>; 116 <span class="citation" data-id="7907024"><a href="/opinion/7955587/state-v-johnson/#179" aria-description="Citation for case: State v. Johnson">id. 179</a></span>); Iowa
+  <em>
+   (State
+  </em>
+  v.
+  <em>
+   Rowley,
+  </em>
+  <span class="citation" data-id="7120701"><a href="/opinion/7208995/state-v-rowley/#979" aria-description="Citation for case: State v. Rowley">197 Ia. 977, 979</a></span>), and Virginia
+  <em>
+   (Hall
+  </em>
+  v.
+  <em>
+   Comm.,
+  </em>
+  <span class="citation" data-id="6815460"><a href="/opinion/6919821/hall-v-commonwealth/" aria-description="Citation for case: Hall v. Commonwealth">138 Va. 727</a></span>). To what is there written, little of value can be added. The controversy, starting with the courts, has been taken up by the commentators, and with them has been the theme of animated argument. For the most part, there has been adherence to the older doctrine (4 Wigmore on Evidence [2d ed.], §§ 2183, 2184; Harno, Evidence Obtained by Illegal Search &amp; Seizure, 19 Ill. Law Rev. 303; Knox, Self-incrimination, 74 Penn. Law Rev. 139; Fraenkel, Concerning Searches and Seizures, 34 Harv. L. R. 361, 386;
+  <em>
+   contra
+  </em>
+  Chafee, The Progress of the Law, 35 Harv. L. R. 673, 694; Atkinson, Unreasonable Searches &amp; Seizures, 25 Col. Law Rev. 11). With authority thus divided, it is only some overmastering consideration of principle or of policy that should move us to a change. The balance is not swayed until something more persuasive than uncertainty is added to the scales.
+ </p>
+<p id="b59-6">
+  We find nothing in the statute (Civil Rights Law, § 8) whereby official trespasses and private are differentiated in respect of the legal consequences to follow them. All
+  <span citation-index="1" class="star-pagination" label="22"> 
+   *22
+   </span>
+  that the statute does is to place the two on an equality. In times gone by, officialdom had arrogated to itself a privilege of indiscriminate inquisition. The statute declares that the privilege shall not exist. Thereafter, all alike, whenever search is unreasonable, must answer to the law. For the high intruder and the low, the consequences become the same. Evidence is not excluded because the private litigant who offers it has gathered it by lawless force. By the same token, the State, when prosecuting an offender against the peace and order of society, incurs no heavier liability.
+ </p>
+<p id="b60-5">
+  The Federal rule as it stands is either too strict or too lax. A Federal prosecutor may take no benefit from evidence collected through the trespass of a Federal officer. The thought is that in appropriating the results, he ratifies the means
+  <em>
+   (Essgee Co.
+  </em>
+  v.
+  <em>
+   U. S.,
+  </em>
+  <span class="citation" data-id="100203"><a href="/opinion/100203/essgee-co-of-china-v-united-states/#156" aria-description="Citation for case: Essgee Co. of China v. United States">262 U. S. 151, 156</a></span>). He does not have to be so scrupulous about evidence brought to him by others. How finely the line is drawn is seen when we recall that marshals in the service of the nation are on one side of it, and police in the service of the States on the other. The nation may keep what the servants of the States supply
+  <em>
+   (Weeks
+  </em>
+  v.
+  <em>
+   U. S., supra,
+  </em>
+  p. 398;
+  <em>
+   Schroeder
+  </em>
+  v.
+  <em>
+   U. S., 7
+  </em>
+  Fed. Rep. [2nd] 60;
+  <em>
+   U. S.
+  </em>
+  v.
+  <em>
+   One Ford Coupe,
+  </em>
+  3 Fed. Rep. [2nd] 64). We must go farther or not so far. The professed object of the trespass rather than the official character of the trespasser should test the rights of government
+  <em>
+   (Dempsey
+  </em>
+  v.
+  <em>
+   Chambers,
+  </em>
+  <span class="citation" data-id="6423885"><a href="/opinion/6550152/dempsey-v-chambers/" aria-description="Citation for case: Dempsey v. Chambers">154 Mass. 330</a></span>). The incongruity of other tests gains emphasis from the facts of the case before us. The complainant, the owner of the overcoat, co-operated with the officer in the arrest and the attendant search. Their powers were equal, since the charge was petit larceny, a misdemeanor (Code Crim. Pro. §§ 177, 183). If one spoke or acted for the State, so also did the other. A government would be disingenuous, if, in determining the use that should be made of evidence drawn from such a source, it drew a line between them. This would be true whether they
+  <span citation-index="1" class="star-pagination" label="23"> 
+   *23
+   </span>
+  had acted in concert or apart. We exalt form above substance when we hold that the use is made lawful because the intruder is without a badge of office. We break with precedent altogether when we press the prohibition farther.
+ </p>
+<p id="b61-5">
+  The truth indeed is that the statute says nothing about consequences. It does no more than deny a privilege. Denying this, it stops. Intrusion without privilege has certain liabilities and penalties. The statute does not assume to alter or increase them. No scrutiny of its text can ever evoke additional consequences by a mere process of construction. We must attach them, if at all, because some public policy, adequately revealed, would otherwise be thwarted. But adequate revelation of such a policy it is surely hard to see. This would have been true in the beginning before the courts had spoken. It is more plainly true to-day. In this State the immunity is the creature, not of constitution, but of statute (Civil Rights Law, § 8). The Legislature, which created it, has acquiesced in the ruling of this court that the prohibition of the search did not anathematize the evidence yielded through the search. If we had misread the statute or misconceived the public policy, a few words of amendment would have quickly set us right. The process of amendment is prompt and simple. It is without the delays or obstructions that clog the change of constitutions. In such circumstances silence itself is the declaration of a policy. We scan the statute in vain'for any token of intention that search by intruders wearing a badge qf office shall have any different consequences in respect of the law of evidence than search by intruders generally.
+ </p>
+<p id="b61-6">
+  We are confirmed in this conclusion when we reflect how far-reaching in its effect upon society the new consequences would be. The pettiest peace officer would have it in his power through overzeal or indiscretion to confer immunity upon an offender for crimes the most flagitious. A room is searched against the law, and the
+  <span citation-index="1" class="star-pagination" label="24"> 
+   *24
+   </span>
+  body of a murdered man is found. If the place of discovery may not be proved, the other circumstances may be insufficient to connect the defendant with the crime. The privacy of the home has been infringed, and the murderer goes free. Another search, once more against the law, discloses counterfeit money or the implements of forgery. The absence of a warrant means the freedom of the forger. Like instances can be multiplied. We may not subject society to these dangers until the Legislature has spoken with a clearer voice. In so holding, we are not unmindful of the argyñafent that unless the evidence is excluded, the statute-bee^mes a form and its protection an illusion. This has a strange somid when the immunity is viewed in the light of its origin and history. The rule now embodied in the statute was received into English law as the outcome of the prosecution of Wilkes and Entick
+  <em>
+   (People
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="3579530"><a href="/opinion/3598271/people-v-chiagles/" aria-description="Citation for case: People v. . Chiagles">Chiagles, supra).</a></span>
+  </em>
+  Wilkes sued the messengers who had ransacked his papers, and recovered a verdict of £4,000 against one and £1,000 against the other. Entick, too, had a substantial verdict
+  <em>
+   (Boyd
+  </em>
+  v.
+  <em>
+   U. S.,
+  </em>
+  <span class="citation" data-id="91573"><a href="/opinion/91573/boyd-v-united-states/#626" aria-description="Citation for case: Boyd v. United States">116 U. S. 616, at p. 626</a></span>;
+  <em>
+   Entick
+  </em>
+  v.
+  <em>
+   Carrington,
+  </em>
+  19 Howell State Trials, 1030; Fraenkel, Concerning Searches &amp; Seizures, 34 Harv. L. R. 363, 364, and cases cited). We do not know whether the public, represented by its juries, is to-day more indifferent to its liberties than it-was when the immunity Was born. If so, the change of sentiment without more does not work a change of remedy. Other sanctions, penal and disciplinary, supplementing the right to damages, have already been enumerated. doubt the protection of the statute would be greater from the point of view of the individual whose privacy had been invaded if the government were required to ignore what it had learned through the invasion. /The question is whether protection for the individual would not be gained at a disproportionate loss of protection for society. the one side is the social need that crime shall be repressed. On the other, the social need that law
+  <span citation-index="1" class="star-pagination" label="25"> 
+   *25
+   </span>
+  shall not be flouted by the insolence of office. There are dangers in any choice. The rule of the
+  <em>
+   Adams
+  </em>
+  case strikes a balance between opposing interests. We must hold it to be the law until those organs of government by which a change of public policy is normally effected, shall give notice to the courts that the change has come to pass.
+ </p>
+<p id="b63-5">
+  There remains a second claim of privilege. “No person shall be * * * compelled in any criminal case to be a witness against himself
+  <em>
+   ”
+  </em>
+  (New York Constitution, art. 1, § 6). This immunity, like the statutory one against unreasonable search and seizure, was considered in the
+  <em>
+   Adams
+  </em>
+  case (<span class="citation multiple-matches"><a href="/c/N.%20Y./176/351/">176 N. Y. 351</a></span>, 359). We limited it to cases where incriminatory disclosure had been extorted by the constraint of legal process directed against a witness. The Supreme Court agreed with us
+  <em>
+   (Adams
+  </em>
+  v.
+  <em>
+   N. Y.,
+  </em>
+  <span class="citation" data-id="96015"><a href="/opinion/96015/adams-v-new-york/#597" aria-description="Citation for case: Adams v. New York">192 U. S. 585, 597, 598</a></span>). Other courts
+  <em>
+   (e. g., State
+  </em>
+  v.
+  <em>
+   Flynn,
+  </em>
+  36 N. H. 64;
+  <em>
+   Common
+  </em>
+  v.
+  <span class="citation" data-id="6436025"><a href="/opinion/6562275/commonwealth-v-wilkins/" aria-description="Citation for case: Commonwealth v. Wilkins"><em>
+   Wilkins,
+  </em>
+  supra)</a></span> and learned commentators (4 Wigniore Evidence, §§ 2263, 2264) have taken the same ground. Unless that ruling is to be changed, the conclusion is not doubtful.
+ </p>
+<p id="b63-6">
+  We put the question aside whether in some other situation differing from the one before us, there may be need to qualify or soften a ruling so comprehensive. In putting it aside, we would not be understood as expressing, even by indirection, a belief that change is called for. Enough for present purposes to decide the case at hand. The weapon discovered through this search was an implement of crime. It was not the kind of thing to be protected against prying inquisition. It was a thing to be ferreted out and brought to light and, when found, wrested from the holder (Code Crim. Pro. § 792). There is no relation in such circumstances between the absence of a search warrant and the constitutional immunity against involuntary disclosure. The production of the Weapon Would have been just as incriminatory and just as involuntary if a warrant had been issued.
+  <span citation-index="1" class="star-pagination" label="26"> 
+   *26
+   </span>
+  The law, in providing for the warrant, does not proceed upon the theory that the defendant will thereby be protected against disclosing his own crime. On the contrary, the very object of the warrant is to compel him to disclose it. Things outlawed or contraband, possessed without right and subject upon seizure to forfeiture or destruction, may be offered in evidence without trenching upon the privilege in respect of self-incrimination whether seizure has been made with warrant or without.
+ </p>
+<p id="b64-5">
+  Federal decisions until
+  <em>
+   <span class="citation" data-id="100711"><a href="/opinion/100711/agnello-v-united-states/" aria-description="Citation for case: Agnello v. United States">Agnello</a></span>
+  </em>
+  v.
+  <em>
+   U. S. (supra)
+  </em>
+  kept the two immunities (those of the Fourth and Fifth Amendments) distinct, even though sometimes overlapping. The distinction was of diminishing importance, for evidence was excluded for violation of the one almost as much as for violation of the other. None the less, the seizure of things contraband as the outcome of an unlawful search was classified for many years as a violation of the Fourth Amendment only. The Fifth was not infringed unless the seizure had relation to things innocent in themselves, but supplying evidence of guilt, such as a defendant’s books and papers
+  <em>
+   (Boyd
+  </em>
+  v.
+  <em>
+   U. S., supra; Gouled
+  </em>
+  v.
+  <em>
+   U. S., supra; of. U. S.
+  </em>
+  v.
+  <em>
+   Welsh,
+  </em>
+  247 Fed. Rep. 239). We are uncertain whether
+  <em>
+   <span class="citation" data-id="100711"><a href="/opinion/100711/agnello-v-united-states/" aria-description="Citation for case: Agnello v. United States">Agnello</a></span>
+  </em>
+  v.
+  <em>
+   U. S. (supra)
+  </em>
+  has abandoned this distinction. What was said as to the Fifth Amendment was not essential to the decision. The result would have been the same though the Fourth only had been applied. We must follow our own rule.
+ </p>
+<p id="b64-6">
+  The defendant makes the point that though the blackjack was contraband, the bag and hat were not. Error in admitting these in evidence, even if error were found, might be disregarded as harmless. But in truth the question is not here. All three articles were offered in evidence together. The objection did not discriminate between them. It was a general one to all alike. If any were admissible, the objection fails.
+ </p>
+<p id="b64-7">
+  In this state of the record, we are not required to determine the application of the constitutional privilege
+  <span citation-index="1" class="star-pagination" label="27"> 
+   *27
+   </span>
+  to things lawfully possessed. We know that there are times when such things, not contraband at all, may be seized and placed in evidence. In this very case, if the overcoat had been worth $51, instead of $50 only, the arrest (for all that appears) would have been lawful, since the officer might arrest the defendant if a felony had been committed and there was reasonable cause to believe that the defendant was the perpetrator. In that event, there might have been search of the place where the arrest was made td discover the fruits or even the evidences of larceny
+  <em>
+   (Angello
+  </em>
+  v.
+  <em>
+   U. S., supra; People
+  </em>
+  v.
+  <em>
+   Cona,
+  </em>
+  <span class="citation" data-id="7947973"><a href="/opinion/7994362/people-v-cona/" aria-description="Citation for case: People v. Cona">180 Mich. 641</a></span>). The use of things thus seized would be lawful in any ensuing prosecution
+  <em>
+   (People
+  </em>
+  v.
+  <em>
+   <span class="citation" data-id="3579530"><a href="/opinion/3598271/people-v-chiagles/" aria-description="Citation for case: People v. . Chiagles">Chiagles, supra),</a></span>
+  </em>
+  either for that crime or for another
+  <em>
+   (Gouled
+  </em>
+  v.
+  <em>
+   U. S., supra,
+  </em>
+  at p. 311), yet it would none the less be use against the will of the accused
+  <em>
+   (cf. Carroll
+  </em>
+  v.
+  <em>
+   U. S., supra).
+  </em>
+  Seizure, whether legitimate or a trespass, is not voluntary surrender. There is strong support in this for the ruling of the
+  <em>
+   Adams
+  </em>
+  case that force is not the test, but rather force accompanied by process aimed against a witness and compelling action on his part (cf. 35 Harv. L. R. at p. 698). In the words of Baker, J., writing for the Circuit Court of Appeals
+  <em>
+   (Haywood
+  </em>
+  v.
+  <em>
+   U. S.,
+  </em>
+  <span class="citation" data-id="8818048"><a href="/opinion/8833055/haywood-v-united-states/#802" aria-description="Citation for case: Haywood v. United States">268 Fed. 795, 802</a></span>):
+  <em>
+   “ ‘
+  </em>
+  Witness ’ is the keyword.” A defendant is
+  <em>
+   “
+  </em>
+  protected from producing his documents in response to- a
+  <em>
+   subpoena duces tecum,
+  </em>
+  for his production of them in court would be his voucher of their genuineness.” There would then be
+  <em>
+   “
+  </em>
+  testimonial compulsion ”
+  <em>
+   (Haywood
+  </em>
+  v.
+  <em>
+   U. S., supra.)
+  </em>
+  The keyword is disregarded, however, when compulsion not testimonial is brought within the orbit of the privilege.
+  <em>
+   People ex rel. Ferguson
+  </em>
+  v.
+  <em>
+   Reardon
+  </em>
+  (<span class="citation" data-id="3620484"><a href="/opinion/3636890/people-ex-rel-ferguson-v-reardon/" aria-description="Citation for case: People Ex Rel. Ferguson v. . Reardon">197 N. Y. 236</a></span>) went upon the theory that the inspection there permitted by a statute was in effect a proceeding for a discovery or an examination before trial. The distinctions are indeed close. But the line of division will not be drawn with finality till there is before us a record which requires us to trace it.
+ </p>
+<p id="b66-3">
+<span citation-index="1" class="star-pagination" label="28"> 
+   *28
+   </span>
+  As a last resort, the defendant invokes the Fourteenth Amendment and the requirement of
+  <em>
+   “
+  </em>
+  due process.”
+ </p>
+<p id="b66-4">
+  The Fourteenth Amendment would not be violated though the privilege against self-incrimination were abolished altogether
+  <em>
+   (Twining
+  </em>
+  v.
+  <em>
+   New Jersey,
+  </em>
+  <span class="citation" data-id="96885"><a href="/opinion/96885/twining-v-new-jersey/" aria-description="Citation for case: Twining v. New Jersey">211 U. S. 78</a></span>;
+  <em>
+   Banks
+  </em>
+  v.
+  <em>
+   State,
+  </em>
+  <span class="citation" data-id="3233534"><a href="/opinion/3232762/banks-v-state/" aria-description="Citation for case: Banks v. State">207 Ala. 179</a></span>; certiorari denied, <span class="citation multiple-matches"><a href="/c/U.%20S./260/736/">260 U. S. 736</a></span>). The like must be true of the immunity against search and seizure without warrant in so far as that immunity has relation to the use of evidence thereafter
+  <em>
+   (Comm.
+  </em>
+  v.
+  <em>
+   Donnelly,
+  </em>
+  <span class="citation" data-id="6436390"><a href="/opinion/6562640/commonwealth-v-donnelly/" aria-description="Citation for case: Commonwealth v. Donnelly">246 Mass. 507</a></span>;
+  <em>
+   <span class="citation" data-id="3233534"><a href="/opinion/3232762/banks-v-state/" aria-description="Citation for case: Banks v. State">Banks</a></span>
+  </em>
+  v.
+  <em>
+   State, supra).
+  </em>
+</p>
+<p id="b66-5">
+  The judgment of conviction should be affirmed.
+ </p>
+<p id="b66-6">
+  His cock, Ch. J., Pound, McLaughlin, Crane, Andrews and Lehman, JJ., concur.
+ </p>
+<p id="b66-7">
+  Judgment affirmed.
+ </p>
+</opinion>

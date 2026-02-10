@@ -1,0 +1,5 @@
+<opinion type="dissent">
+<author id="b163-8">Mr. Justice Robeets:</author>
+<p id="b163-9">I think that the judgment should be reversed.. Four years ago in <em>Colgate </em>v. <em>Harvey, </em><span class="citation" data-id="102529"><a href="/opinion/102529/colgate-v-harvey/" aria-description="Citation for case: Colgate v. Harvey">296 U. S. 404</a></span>, this court held that the equal protection clause and the privileges and immunities clause of the Fourteenth Amendment prohibit such a discrimination as results from the statute now under review. I adhere to the views expressed in <page-number citation-index="1" label="94">*94</page-number>the opinion of the court in that case, and think it should be followed in this.</p>
+<judges id="b164-4">Mr. Justice McReynolds joins in this opinion.</judges>
+</opinion>

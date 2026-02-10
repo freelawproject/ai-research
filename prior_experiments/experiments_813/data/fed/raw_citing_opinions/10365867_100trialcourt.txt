@@ -1,0 +1,851 @@
+<pre class="inline">              UNITED STATES DISTRICT COURT                           
+             WESTERN DISTRICT OF KENTUCKY                            
+                   LOUISVILLE DIVISION                               
+             CIVIL ACTION NO. 3:24-CV-00225-GNS                      
+
+
+DEBBIE BLURTON et al.                                  PLAINTIFFS         
+
+
+v.                                                                        
+
+
+HAIER US APPLIANCE SOLUTIONS, INC.                     DEFENDANT          
+
+
+            MEMORANDUM OPINION AND ORDER                             
+This matter is before the Court on Defendant’s Motion to Dismiss (DN 26).  The motion is 
+ripe for adjudication.                                                    
+          I.   STATEMENT OF FACTS AND CLAIMS                         
+Plaintiffs  Debbie  Blurton  (“Blurton”),  Travis  O’Brien  (“O’Brien”),  Brian  Herndon 
+(“Herndon”), Kevin Lee (“Lee”), and Catherine Pollard (“Pollard”) (collectively, “Plaintiffs”) 
+purchased refrigerators designed, manufactured, and sold by Defendant Haier US Appliance 
+Solutions, Inc. (“Haier”), doing business as GE Appliances.  (Am. Compl. ¶¶ 1-8).  Plaintiffs allege 
+these  refrigerators  (“Class  Refrigerators”)  had  a  faulty  design  or  manufacturing  process 
+(“Compressor Defect”) that “manifests shortly after purchase and well before the end of the 
+anticipated useful life of the [refrigerators]” and renders the Class Refrigerators unable to cool or 
+prevent the spoilation of food.  (Am. Compl. ¶ 1, 5, 49, 201).            
+Plaintiffs claim that they purchased the Class Refrigerators due to Haier’s representations 
+of “[the Class Refrigerators’] cooling ability” and “reliable cooling performance,” highlighted by 
+a  “[d]urability  tested  compressor  and  interior  fan  for  increased  cooling  performance  and 
+dependable operation.”  (Am. Compl. ¶¶ 71-78).  Plaintiffs also allege that Haier provided 
+consumers of the Class Refrigerator the following warranties:  (1) a one-year warranty for “any 
+part” including “all labor and related service to replace the defective part” from the original date 
+of purchase; (2) a five-year warranty for certain “Profile and Café Model Class Refrigerators”, 
+covering “‘any part of the sealed refrigerating system (the compressor, condenser, evaporator and 
+all connecting tubing)’ including ‘all labor and related service’”; and (3) for certain Monogram 
+
+Model fridges, a “twelve (12)-year warranty, which covers ‘free of charge, replacement parts for 
+any  part  of  the  sealed  refrigerating  system  (the  compressor,  condenser,  evaporator  and  all 
+connecting tubing) that fails because of a manufacturing defect.’”  (Am. Compl. ¶¶ 79-85).  
+Blurton, Lee, Pollard, and Herndon all allege that each purchased Class Refrigerators within the 
+five-year warranty period applicable to their respective refrigerators.  (Am. Compl. ¶¶ 1, 12-15, 
+35, 37-38, 47, 49-50, 57, 59-66).  O’Brien’s Compressor Defect occurred within two years of his 
+usage, and he had a one-year warranty on the product.  (Am. Compl. ¶¶ 21-33). 
+Plaintiffs  base  their  claims  upon  graphics,  advertisements,  and  warranties  that  were 
+featured in product listings on Haier’s website.  (Am. Compl. ¶¶ 71-85).  As a result of the 
+
+Compressor Defect, Plaintiffs allege that they had to pay for repairs, purchase new refrigerators, 
+and/or lost food and other items to spoilation because of the Compressor Defect and Haier’s failure 
+to honor the warranty.  (Am. Compl. ¶¶ 1, 11-68, 86-95).                  
+Plaintiffs  filed  this  class  action  suit,  on  behalf  of  themselves  and  similarly  situated 
+individuals who purchased a Class Refrigerator, alleging that Haier manufactured, marketed, 
+designed, promoted, or distributed a defective product and breached the applicable warranties.  
+(Am. Compl. ¶¶ 1, 109).  Plaintiffs assert multiple causes of action against Haier, including a 
+federal claim under the Magnuson-Moss Warranty Act (“MMWA”), and various state law claims 
+for breach of express warranty, breach of implied warranty of merchantability, fraud, negligent 
+misrepresentation, and unjust enrichment.  (Am. Compl. ¶¶ 117-221).  Plaintiffs bring non-state 
+specific claims as a nationwide class and/or as a “State Class” consisting of those who purchased 
+Class Refrigerators in Arizona, California, North Carolina, Oregon, and Virginia.  (Am. Compl. 
+¶¶ 109-110).  Plaintiffs and their respective home states are as follows:  Blurton - California; 
+O’Brien - Virginia; Herndon - Arizona; Lee - Oregon; and Pollard - North Carolina.  (Am. Compl. 
+
+¶¶ 11, 21, 34, 45, 55).1  Plaintiffs request damages, as well as injunctive and declaratory relief.  
+(Am. Compl. 55-56).  Haier has moved to dismiss the Amended Complaint. (Def.’s Mot. Dismiss 
+1, DN 26).                                                                
+                   II.  JURISDICTION                                 
+The Court has subject-matter jurisdiction based upon the Class Action Fairness Act.  See 
+</pre><span class="citation no-link">28 U.S.C. § 1332</span><pre class="inline">(d).   Jurisdiction for the federal law claims is based on federal question 
+jurisdiction pursuant to </pre><span class="citation no-link">28 U.S.C. § 1331</span><pre class="inline">.  This Court has jurisdiction over the state law claims 
+through supplemental jurisdiction pursuant to </pre><span class="citation no-link">28 U.S.C. § 1367</span><pre class="inline">(a).  Venue is proper pursuant to 
+</pre><span class="citation no-link">28 U.S.C. § 1391</span><pre class="inline"> because Haier’s headquarters is in this district.        
+
+               III.  STANDARD OF REVIEW                              
+A complaint must contain “a short and plain statement of the claim showing that the pleader 
+is entitled to relief,” and is subject to dismissal if it “fail[s] to state a claim upon which relief can 
+be granted . . . .”  Fed. R. Civ. P. 8(a)(2); Fed. R. Civ. P 12(b)(6).  When considering a motion to 
+dismiss, “courts must accept as true all material allegations of the complaint[] and must construe 
+the complaint in favor of the complaining party.”  Binno v. Am. Bar Ass’n, </pre><span class="citation" data-id="9824156"><a href="/opinion/3214034/angelo-binno-v-the-american-bar-association/#344" aria-description="Citation for case: Angelo Binno v. The American Bar Association">826 F.3d 338, 344</a></span><pre class="inline"> (6th 
+Cir. 2016) (citation omitted).  To survive a motion to dismiss under Rule 12(b)(6), the plaintiff 
+
+
+1 The claims in this case clearly implicate choice of law issues. None of the parties fully briefed  
+the choice of law issue, and the Court will not make a determination at this stage.  
+must allege “enough facts to state a claim to relief that is plausible on its face.”  Traverse Bay Area 
+Intermediate Sch. Dist. v. Mich. Dep’t of Educ., </pre><span class="citation" data-id="152224"><a href="/opinion/152224/traverse-bay-area-intermediate-school-district-v-michigan-department-of/#627" aria-description="Citation for case: Traverse Bay Area Intermediate School District v....">615 F.3d 622, 627</a></span><pre class="inline"> (6th Cir. 2010) (quoting Bell 
+Atl. Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 570</a></span><pre class="inline"> (2007); Bennett v. MIS Corp., </pre><span class="citation" data-id="147853"><a href="/opinion/147853/bennett-v-mis-corp/#1091" aria-description="Citation for case: Bennett v. MIS CORP.">607 F.3d 1076, 1091</a></span><pre class="inline"> (6th 
+Cir. 2010)).  A claim becomes plausible “when the plaintiff pleads factual content that allows the 
+court to draw the reasonable inference that the defendant is liable for the misconduct alleged.”  
+
+Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662, 678</a></span><pre class="inline"> (2009) (citing Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#556" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. at 556</a></span><pre class="inline">).  “A complaint will 
+be dismissed pursuant to Rule 12(b)(6) if no law supports the claim made, if the facts alleged are 
+insufficient to state a claim, or if the face of the complaint presents an insurmountable bar to relief.”  
+Southfield Educ. Ass’n v. Southfield Bd. of Educ., </pre><span class="citation multiple-matches"><a href="/c/F.%20App%E2%80%99x/570/485/">570 F. App’x 485</a></span><pre class="inline">, 487 (6th Cir. 2014) (citing 
+Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#561" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. at 561-64</a></span><pre class="inline">).                                             
+Fraud or other claims that “sound in fraud” must meet the heightened pleading standard of 
+Fed. R. Civ. P. 9(b), which requires a party to “state with particularity . . . the circumstances 
+constituting fraud or mistake.”  Kolominsky v. Root, Inc., </pre><span class="citation no-link">100 F.4th 675</span><pre class="inline">, 683 (6th Cir. 2024) 
+(internal quotation marks omitted) (internal citation omitted) (quoting Fed. R. Civ. P. 9(b)).  In 
+
+general, that means that the plaintiff must specify  (1) “what the fraudulent statements were”; (2) 
+“who made them”; (3) “when and where the statements were made”; and (4) “why the statements 
+were fraudulent.”  Morris Aviation, LLC v. Diamond Aircraft Indus., Inc., </pre><span class="citation" data-id="9521145"><a href="/opinion/1039296/morris-aviation-llc-v-diamond-aircraft-industries-inc/#562" aria-description="Citation for case: Morris Aviation, LLC v. Diamond Aircraft Industries, Inc.">536 F. App’x 558, 562</a></span><pre class="inline"> 
+(6th Cir. 2013) (citing Republic Bank &amp; Tr. Co. v. Bear Stearns &amp; Co., </pre><span class="citation" data-id="802655"><a href="/opinion/802655/republic-bank-trust-company-v-bear-stearns-company-inc/#247" aria-description="Citation for case: Republic Bank &amp; Trust Company v. Bear Stearns &amp; Company.,...">683 F.3d 239, 247</a></span><pre class="inline"> (6th Cir. 
+2012)).  Fed. R. Civ. P. 9(b) “is undoubtedly more demanding than the liberal notice pleading 
+standard which governs most cases.”  United States ex rel. SNAPP, Inc. v. Ford Motor Co. (SNAPP 
+I), </pre><span class="citation" data-id="9856975"><a href="/opinion/1423031/united-states-ex-rel-snapp-inc-v-ford-motor-co/#503" aria-description="Citation for case: United States Ex Rel. Snapp, Inc. v. Ford Motor Co.">532 F.3d 496, 503</a></span><pre class="inline"> (6th Cir. 2008) (citation omitted).  However, “it should not be read to defeat 
+the general policy of ‘simplicity and flexibility’ in pleadings contemplated by the Federal Rules.”  
+</pre><span class="citation" data-id="9856975"><a href="/opinion/1423031/united-states-ex-rel-snapp-inc-v-ford-motor-co/" aria-description="Citation for case: United States Ex Rel. Snapp, Inc. v. Ford Motor Co.">Id.</a></span><pre class="inline"> (citation omitted).  “Rule 9 should be interpreted in harmony with Rule 8’s statement that a 
+complaint must only provide ‘a short and plain statement of the claim’ made by ‘simple, concise, 
+and direct allegations.”  </pre><span class="citation" data-id="9856975"><a href="/opinion/1423031/united-states-ex-rel-snapp-inc-v-ford-motor-co/" aria-description="Citation for case: United States Ex Rel. Snapp, Inc. v. Ford Motor Co.">Id.</a></span><pre class="inline"> (citation omitted).                         
+                    IV.  DISCUSSION                                  
+A.   Fed. R. Civ. P. 9(b) and Fraud-Based Claims                     
+Haier avers that Plaintiffs have not met the pleading standard under Fed. R. Civ. P. 9(b).  
+
+(Def.’s Mem. Supp. Mot. Dismiss 1, DN 26-1).  Specifically, Haier contends that Plaintiffs have 
+not adequately alleged “particularized facts,” reliance, and deficiencies unique to their individual 
+claims.  (Def.’s Mem. Supp. Mot. Dismiss 1-2).  Plaintiffs argue their allegations meet the Rule 
+9(b) pleading standard.  (Pls.’ Resp. Def.’s Mot. Dismiss 2-6, DN 31).    
+As Haier correctly points out, the claims asserted in Counts I through VI, Count X, and 
+Count XI are subject to Fed. R. Civ. P. 9(b)’s heightened pleading standard.  (Def.’s Mot. Dismiss 
+Ex. A, at 5-7, DN 26); see Davidson v. Kimberly-Clark Corp., </pre><span class="citation" data-id="9015730"><a href="/opinion/9022504/davidson-v-kimberly-clark-corp/#964" aria-description="Citation for case: Davidson v. Kimberly-Clark Corp.">889 F.3d 956, 964</a></span><pre class="inline"> (9th Cir. 2018) 
+(applying the Fed. R. Civ. P. 9(b) pleading standard to the plaintiff’s California law claims that the 
+defendant misrepresented characteristics of its product); Republic Bank &amp; Tr., </pre><span class="citation" data-id="802655"><a href="/opinion/802655/republic-bank-trust-company-v-bear-stearns-company-inc/#248" aria-description="Citation for case: Republic Bank &amp; Trust Company v. Bear Stearns &amp; Company.,...">683 F.3d at 248, 
+
+253-55</a></span><pre class="inline"> (applying Fed. R. Civ. P. 9(b) to claims of negligent and fraudulent misrepresentation); 
+Smith v. Bank of Am. Corp., </pre><span class="citation" data-id="2981169"><a href="/opinion/2981169/james-smith-v-bank-of-america-corporation/#754" aria-description="Citation for case: James Smith v. Bank of America Corporation">485 F. App’x 749, 754-55</a></span><pre class="inline"> (6th Cir. 2012) (applying Fed. R. Civ. P. 
+9(b) to an unjust enrichment claim based on misrepresentations); Martell v. Gen. Motors LLC, </pre><span class="citation no-link">492 
+F. Supp. 3d 1131</span><pre class="inline">, 1146 (D. Or. 2020) (applying Rule 9(b)’s heightened pleading standard to an 
+Oregon Unlawful Trade Practices Act claim); Withers v. BMW of N. Am., LLC, </pre><span class="citation no-link">560 F. Supp. 3d 
+1010</span><pre class="inline">, 1020 (W.D.N.C. 2021) (applying Rule 9(b) to a North Carolina Unfair and Deceptive Trade 
+Practices Act claim) (citation omitted); Elliott v. Gen. Motors LLC, </pre><span class="citation no-link">605 F. Supp. 3d 937</span><pre class="inline">, 944 (E.D. 
+Mich. 2022) (applying Rule 9(b) to the Virginia Consumer Protection Act).   
+Blurton, O’Brien, Herndon, and Pollard allege that between October 2018 to June 2024, 
+they each owned a Class Refrigerator, followed Haier’s guidance on the product’s maintenance, 
+ultimately required repairs to the compressor within the warranty period, and suffered financial 
+harm due to spoiled food or purchasing a different refrigerator.  (Am. Compl. ¶¶ 11-68; Pls.’ Resp. 
+Def.’s Mot. Dismiss 12-13).  They specify who made the representations, when the representations 
+
+were made, and what representations were fraudulent.  (Am. Compl. ¶¶ 11-68; Pls.’ Resp. Def.’s 
+Mot. Dismiss 12-13).  O’Brien, Herndon, and Pollard allege that they contacted Haier to have their 
+Class Refrigerator repaired, and that Haier either failed to fix the problem, declined to pay for a 
+replacement,  or  offered  inadequate  financial  compensation  for  the  allegedly  faulty  product, 
+answering why these representations were fraudulent.  (Am. Compl. ¶¶ 28-33, 38-44, 60-66).  
+Plaintiffs also provide online reviews of other users who experienced similar problems with the 
+compressor, giving Haier notice of the problem.  (Am. Compl. ¶¶ 96, 107).   
+Haier contends that Plaintiffs have failed to meet the “particularity” required by Fed. R. 
+Civ. P. 9(b).  (Def.’s Mem. Supp. Mot. Dismiss 9-11).  Plaintiffs, however, have clearly alleged 
+
+the substance of Haier’s representations, when they were made, and why the statements were false.  
+Haier  submits  that  Plaintiffs  do  not  sufficiently  identify  a  common  defect  in  the  Class 
+Refrigerators.  (Def.’s Mem. Supp. Mot. Dismiss 6-8).  At this stage, however, Plaintiffs need not 
+explain why the compressor is failing across the Class Refrigerators models.  (Am. Compl. ¶¶ 86-
+95; Def.’s Mem. Supp. Mot. Dismiss 6-8).  Plaintiffs have identified the compressor as the defect 
+within the different models that causes the refrigerator to malfunction; they do not bear the burden 
+of alleging why the Compressor Defect occurs.  (Def.’s Mem. Supp. Mot. Dismiss 6-8).  Haier 
+cites Stockley v. Nissan of North America, Inc., </pre><span class="citation no-link">701 F. Supp. 3d 682</span><pre class="inline"> (M.D. Tenn. 2023), which 
+specifically notes that there is a difference between identifying a defect, which is required, versus 
+fully explaining the defect.  </pre><span class="citation no-link">Id. at 696</span><pre class="inline"> (“What matters . . . is whether a product was defective and 
+known to be so, not whether the plaintiffs, defendants, or anyone else can provide a mechanical 
+explanation for why it was defective.”).  Haier also draws a comparison between complex 
+automobile defects and the Compressor Defect  and argues the refrigerator is an analogous, 
+complex mechanism.  (Def.’s Mem. Supp. Mot. Dismiss 6-8).  Haier offers no explanation how 
+
+the Class Refrigerators are a “complicated system” like an automobile, or why the alleged 
+Compressor Defect is analogous to automobile defects which violate state and federal emission 
+regulations.  (Def.’s Mem. Supp. Mot. Dismiss 6-8; Def.’s Reply Mot. Dismiss 1-4).   
+Haier argues that Plaintiffs have not alleged facts showing reliance for their fraud-based 
+claims.  (Def.’s Mem. Supp. Mot. Dismiss 1-2, 11-12).  Courts generally analyze reliance on a 
+factual allegation basis where a plaintiff alleges advertisements, representations, or affirmations 
+of fact that he or she utilized in order to make a purchasing decision.  Orr v. Keystone RV Co., </pre><span class="citation no-link">736 
+F. Supp. 3d 389</span><pre class="inline">, 398 (E.D. Va. 2024) (analyzing the nexus between factual allegations and the 
+ultimate consumer transaction for a VCPA claim); Ahern v. Apple Inc., </pre><span class="citation no-link">411 F. Supp. 3d 541</span><pre class="inline">, 559 
+
+(N.D. Cal. 2019) (holding that a plaintiff must allege factual allegations that are connected to the 
+ultimate defect or misrepresentation for an Oregon Unlawful Trade Practices Act claim).  Under 
+North Carolina law, reliance must be reasonable and is only reasonable when the recipient of the 
+representation “use[s] reasonable care to ascertain the truth of that representation.”  Solum v. 
+Certainteed Corp., </pre><span class="citation" data-id="7234958"><a href="/opinion/7317050/solum-v-certainteed-corp/#411" aria-description="Citation for case: Solum v. CertainTeed Corp.">147 F. Supp. 3d 404, 411</a></span><pre class="inline"> (E.D.N.C. 2015) (citation omitted).  Courts analyze 
+California claims based upon the effect on a reasonable consumer to determine whether an 
+advertisement is “misleading.”  Williams v. Gerber Prods. Co., </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/#938" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d 934, 938</a></span><pre class="inline"> (9th Cir. 2008).  
+“Reliance can be proven in a fraudulent omission case by establishing that ‘had the omitted 
+information been disclosed, [the plaintiff] would have been aware of it and behaved differently.’”  
+Clark v. LG Elecs. U.S.A., Inc., No. 13-CV-485 JM JMA, </pre><span class="citation no-link">2013 WL 5816410</span><pre class="inline">, at *6 (S.D. Cal. Oct. 
+29, 2013) (alteration in original) (citation omitted).  Additionally, reliance may be demonstrated 
+by showing that “the defendant’s misrepresentation or nondisclosure was ‘an immediate cause’ of 
+the plaintiff’s injury-producing conduct.”  </pre><span class="citation no-link">Id.</span><pre class="inline"> (citation omitted).  An “immediate cause” of the 
+plaintiff’s conduct is shown when “the plaintiff ‘in all reasonable probability’ would not have 
+
+engaged in the injury-producing conduct[,]” absent the misrepresentation.  </pre><span class="citation no-link">Id.</span><pre class="inline"> (citation omitted).  
+By contrast, vague and unspecified assertions are “mere puffery,” which a reasonable consumer 
+may not use as a basis for reliance.  In re Seagate Tech. LLC Litig., </pre><span class="citation" data-id="7241997"><a href="/opinion/7324086/in-re-seagate-technology-llc-litigation/#792" aria-description="Citation for case: In re Seagate Technology LLC Litigation">233 F. Supp. 3d 776, 792-94</a></span><pre class="inline"> 
+(N.D. Cal. 2017); see also Elias v. Hewlett-Packard Co., </pre><span class="citation" data-id="8709146"><a href="/opinion/8725949/elias-v-hewlett-packard-co/#1133" aria-description="Citation for case: Elias v. Hewlett-Packard Co.">950 F. Supp. 2d 1123, 1133</a></span><pre class="inline"> (N.D. Cal. 
+2013) (“[T]he common theme that seems to run through cases considering puffery in a variety of 
+contexts is that consumer reliance will be induced by specific rather than general assertions.”) 
+(citation omitted)).                                                      
+At this stage, Plaintiffs have sufficiently alleged reliance.  They point to the stickers on the 
+Class Refrigerators advertising their cooling ability, the online graphics and advertisements, the 
+
+terms of the warranty, and the influence of the warranties on Plaintiffs when they ultimately chose 
+to  purchase  the  Class  Refrigerators.    (Am.  Compl.  ¶¶  12,  23-24,  46,  56,  73-84).    These 
+representations  go  beyond  mere  puffery  because  they  contain  specific  information  and 
+communicate specific warranty terms as well as details and features of the product.  See In re 
+Seagate  Tech.  LLC  Litig.,  </pre><span class="citation" data-id="7241997"><a href="/opinion/7324086/in-re-seagate-technology-llc-litigation/#792" aria-description="Citation for case: In re Seagate Technology LLC Litigation">233  F.  Supp.  3d  at  792-94</a></span><pre class="inline">.    These  representations  include  the 
+refrigerator’s rapid cooling features, the duration and coverage of the warranty, and features like 
+the “Turbo Cool &amp; Freeze” and the “Dual-Evaporators” that “optimize food and drink storage 
+conditions” and “keep food at optimum freshness.”  (Am. Compl. ¶¶ 12, 22-24, 46, 56, 73-84).  
+Plaintiffs allege that these features and warranties enticed them to make their purchases and assert 
+they would not have made the purchase if they had known about the defect or the Haier’s treatment 
+of the warranty after inspecting them at retailers.  (Am. Compl. ¶¶ 20, 33, 44, 54, 66); see Clark, 
+</pre><span class="citation no-link">2013 WL 5816410</span><pre class="inline">, at *6 (holding a plaintiff had shown reliance when she purchased a refrigerator 
+because of its ice creation system but would have not made the same purchase had she known of 
+the defect of having to unplug and plug it in to keep it operational).    
+
+Haier argues next that Plaintiffs failed to allege Haier knew of the defect before the sale in 
+their fraud-based claims.  (Def.’s Mem. Supp. Mot. Dismiss 12-14).  Pre-sale knowledge is an 
+essential element in all of Plaintiffs’ fraud-based claims.  In re Chevrolet Bolt EV Battery Litig., 
+</pre><span class="citation no-link">633 F. Supp. 3d 921</span><pre class="inline">, 956 (E.D. Mich. 2022) (holding pre-sale knowledge is a mandatory element 
+in various state fraud-based claims that included California, Oregon, and Virginia) (citation 
+omitted); Reynolds v. FCA US LLC, </pre><span class="citation no-link">546 F. Supp. 3d 635</span><pre class="inline">, 655 (E.D. Mich. 2021) (applying the 
+pre-sale knowledge analysis to the North Carolina Unfair and Deceptive Trade Practices Act).  A 
+sister court in this Circuit held plaintiffs had plausibly alleged pre-sale knowledge under various 
+state fraud claims when they offered customer complaints, sales data, and testing completed in 
+
+response to customer complaints.  In re Gen. Motors Air Conditioning Mktg. &amp; Sales Pracs. Litig., 
+</pre><span class="citation no-link">406 F. Supp. 3d 618</span><pre class="inline">, 636 (E.D. Mich. 2019).  Plaintiffs have made several allegations plausibly 
+establishing Haier’s pre-sale knowledge of the Compressor Defect, including online reviews of 
+other past users who experienced similar problems with the compressors and allegations of contact 
+between consumers and Haier requesting repairs, which would indicate Haier had notice of the 
+problems.  (Am. Compl. ¶¶ 23-32, 28-33, 38-44, 60-66, 107).  Thus, Plaintiffs have sufficiently 
+alleged Haier’s pre-sale knowledge based on these allegations.            
+Plaintiffs have met their burden under the Fed. R. Civ. P. 9(b) heightened standard by 
+identifying  by  whom  the  misrepresentations  were  made  and  when,  the  nature  of  the 
+misrepresentations, and why the representations were misleading or false.  Morris Aviation, LLC, 
+</pre><span class="citation" data-id="9521145"><a href="/opinion/1039296/morris-aviation-llc-v-diamond-aircraft-industries-inc/#562" aria-description="Citation for case: Morris Aviation, LLC v. Diamond Aircraft Industries, Inc.">536 F. App’x at 562</a></span><pre class="inline">.  They also have properly alleged reliance, pre-sale knowledge, and causation 
+under Fed. R. Civ. P. 9(b) for their fraud-based claims.                  
+Haier also raises arguments as to each of Plaintiffs’ individual claims, each of which will 
+be addressed in turn.                                                     
+
+B.   State Law Statutory Claims                                      
+     1.   California State Law Claims                                
+Blurton asserts claims under the California Unfair Competition Law (“UCL”), California 
+False Advertising Law (“CFAL”), and the California Consumers Legal Remedies Act (“CLRA”) 
+on behalf of herself and “[a]ll persons in California who purchased a Class Refrigerator primarily 
+for personal, family or household purposes, as defined by </pre><span class="citation no-link">Cal. Civ. Code § 1791</span><pre class="inline">(a) (‘California 
+Class’”).”  (Am. Compl. ¶¶ 109, 117-142).  The UCL prohibits an entity from engaging in any 
+“unlawful, unfair or fraudulent business act or practice and unfair, deceptive, untrue or misleading 
+advertising . . . .”  </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline">.  Under the UCL, “a plaintiff must show either 
+
+an (1) ‘unlawful, unfair, or fraudulent business act or practice,’ or (2) ‘unfair, deceptive, untrue or 
+misleading advertising.’”  Lippitt v. Raymond James Fin. Servs., Inc., </pre><span class="citation" data-id="8408146"><a href="/opinion/8437707/lippitt-v-raymond-james-financial-services-inc/#1043" aria-description="Citation for case: Lippitt v. Raymond James Financial Services, Inc.">340 F.3d 1033, 1043</a></span><pre class="inline"> (9th 
+Cir. 2003) (quoting </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline">).  A plaintiff must establish that the practice 
+is unlawful under one of three prongs:  “(1) unlawful (i.e., is forbidden by law), (2) unfair (i.e., 
+harm to victim outweighs any benefit) or (3) fraudulent (i.e., is likely to deceive members of the 
+public).”  Moss v. Infinity Ins. Co., </pre><span class="citation" data-id="7239195"><a href="/opinion/7321285/moss-v-infinity-insurance-co/#1198" aria-description="Citation for case: Moss v. Infinity Insurance Co.">197 F. Supp. 3d 1191, 1198</a></span><pre class="inline"> (N.D. Cal. 2016).   
+The same standard for fraudulent activity governs the UCL, CFAL, and CLRA, so courts 
+often analyze the three statutes together.  Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1089" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1089</a></span><pre class="inline"> 
+(N.D. Cal. 2017) (citations omitted).  The CFAL bars a business from engaging in advertising 
+“which is untrue or misleading, and which is known, or which by the exercise of reasonable care 
+should be known, to be untrue or misleading . . . .”  </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17500</span><pre class="inline">.  The CLRA 
+serves to “protect consumers against unfair and deceptive business practices and to provide 
+efficient and economical procedures to secure such protection.”  </pre><span class="citation no-link">Cal. Civ. Code § 1760</span><pre class="inline">; see also 
+</pre><span class="citation no-link">Cal. Civ. Code § 1770</span><pre class="inline"> (listing the proscribed practices under the CFAL).  
+
+Blurton and the California Class claim Haier engaged in unfair competition, unlawful and 
+unfair business practices, and other violations of California law.  (Am. Compl. ¶¶ 117-142).  Haier 
+counters that these three California state law claims fail because Blurton and the California Class 
+have failed to show reliance, pre-sale knowledge, a duty to disclose, and inadequate legal remedies.  
+(Def.’s Mot. Dismiss Ex. A, at 5-7; Def.’s Mem. Supp. Mot. Dismiss 12-16; Am. Compl. ¶¶ 28-
+33, 38-44, 60-66).                                                        
+The UCL, CLRA, and CFAL provide for equitable relief.  Sonner v. Premier Nutrition 
+Corp., </pre><span class="citation no-link">971 F.3d 834</span><pre class="inline">, 839 n.2 (9th Cir. 2020); Moore v. Mars Petcare US, Inc., </pre><span class="citation no-link">966 F.3d 1007</span><pre class="inline">, 
+1021 n.13 (9th Cir. 2020); In re Natera Prenatal Testing Litig., </pre><span class="citation no-link">664 F. Supp. 3d 995</span><pre class="inline">, 1012 (N.D. 
+
+Cal. 2023).  “It is well-established that claims for relief under the [CFAL] and the UCL are limited 
+to restitution and injunctive relief.”  Roffman v. Rebbl, Inc., </pre><span class="citation no-link">653 F. Supp. 3d 723</span><pre class="inline">, 731 (N.D. Cal. 
+2023) (citation omitted).  The CLRA permits equitable relief and damages.  Castillo v. Prime 
+Hydration LLC, </pre><span class="citation no-link">748 F. Supp. 3d 757</span><pre class="inline">, 773 (N.D. Cal. 2024).  California courts have recognized 
+injunctive relief and restitution under the UCL and disgorgement under the CFAL as equitable 
+relief.  Lair v. Bank of Am., N.A., No. 5:23-CV-1345-WLH-SHK, </pre><span class="citation no-link">2024 WL 943945</span><pre class="inline">, at *5 (C.D. 
+Cal. Jan. 26, 2024)                                                       
+Blurton and the California Class request the Court “enjoin further unlawful, unfair and/or 
+fraudulent acts or practices[,] . . . obtain restitutionary disgorgement of all monies and revenues 
+generated as a result of such practices, and all other relief allowed injunctive relief” under the 
+UCL; “actual damages and/or injunctive and equitable relief, attorneys’ fees and costs” under the 
+CFAL; and  “monetary and injunctive relief “ under the CLRA.  (Am. Compl. ¶¶ 123, 130, 140).  
+Haier’s argument for the dismissal of the California state law claims is that Blurton and the 
+California Class have failed to allege there are inadequate legal remedies for purely equitable 
+
+claims under these California laws.  (Def.’s Mem. Supp. Mot. Dismiss 14-16).  Blurton and the 
+California  Class  contend  the  Court  should  wait  until  discovery  is  completed  to  make  this 
+determination.  (Pls.’ Resp. Def.’s Mot. Dismiss 11-12).  Courts have recognized, however, that 
+plaintiffs who lack an adequate remedy at law must at least allege that the available legal remedies 
+are insufficient in order to bring their claims for equitable relief under the UCL, CFAL, and CLRA.  
+Sonner, 971 F.3d at 844; see In re Natera Prenatal Testing Litig., 664 F. Supp. 3d at 1012 (applying 
+Sonner to a CFAL).  In their Amended Complaint, Blurton and the California Class do not claim 
+that available legal remedies are insufficient, nor do they argue in their response such insufficient 
+remedies.  (Pls.’ Resp. Def.’s Mot. Dismiss 11-12).  They also request damages under the CFAL 
+
+when California courts have recognized the only available remedies are either restitution or 
+injunctive relief.  See Roffman, 653 F. Supp. 3d at 731 (citation omitted).  Though courts have 
+treated the requirements of Sonner differently at the pleading stage, the plaintiffs in those cases 
+alleged they had inadequate remedies at law; in this case, Blurton and the California Class have 
+not plead that they lack an adequate remedy at law.  See, e.g., In re Natera Prenatal Testing Litig., 
+664 F. Supp. 3d at 1012.                                                  
+Blurton and the California Class’s claim under the CLRA for damages may proceed, so the 
+Court must address whether they have alleged Haier had a duty to disclose as required by the 
+CLRA.  Baba v. Hewlett-Packard Co., No. C 09-05946 RS, </pre><span class="citation no-link">2010 WL 2486353</span><pre class="inline">, at *7 (N.D. Cal. 
+June 16, 2010) (citations omitted).  As discussed with respect to the sufficiency of the pleadings 
+under Fed. R. Civ. P. 9(b), Blurton and the California Class have sufficiently alleged reliance and 
+pre-sale knowledge, but Haier argues that it never had a duty to disclose the alleged defect.  (Def.’s 
+Mem. Supp. Mot. Dismiss 14-16).  Under California law, a duty to disclose exists if: “(1) the 
+defendant  is  in  a  fiduciary  relationship  with  the  plaintiff;  (2)  the  defendant  has  exclusive 
+
+knowledge of material facts not known to the plaintiff; (3) the defendant actively conceals a 
+material fact from the plaintiff; or (4) the defendant makes partial representations but also 
+suppresses some material facts.”  Baba, </pre><span class="citation no-link">2010 WL 2486353</span><pre class="inline">, at *3 (citations omitted). 
+Blurton and the California Class specifically allege the Compressor Defect was material 
+and central to the refrigerator’s function of cooling food.  (Am. Compl. ¶¶ 5, 15, 26, 37, 49, 52, 
+59, 70).  Blurton and the California Class also claim that Haier had “exclusive knowledge” through 
+being “experienced in the design and manufacture of appliances,” and Haier “knew or should have 
+known that the compressors used in its Class Refrigerators were defective and likely to cause the 
+refrigerators to stop cooling after a short period of time.”  (Am. Compl. ¶¶ 99, 103, 108).  These 
+
+allegations would plausibly support Haier’s “exclusive knowledge” of these material defects.    
+Blurton and the California Class have sufficiently alleged a duty existed. 
+Accordingly, Blurton and the California Class have not pleaded an actionable claim under 
+the UCL, CFAL, and CLRA, regarding their California state statutory claims seeking equitable 
+relief which must be dismissed.  They may proceed on their claim for damages under the CLRA.  
+(Am. Compl. ¶ 140).                                                       
+     2.   Virginia Consumer Protection Act (“VCPA”)                  
+O’Brien has brought a claim against Haier for a violation of the Virginia Consumer 
+Protection Act (“VCPA”) under Va. Code § 59.1-196 on behalf of himself and “[a]ll persons in 
+Virginia who purchased a Class Refrigerator (‘Virginia Class’).”  (Am. Compl. ¶¶ 109, 143-153).  
+To state a claim under the VCPA, a plaintiff must allege “(1) fraud, (2) by a supplier, (3) in a 
+consumer transaction.”  Nahigian v. Juno Loudoun, LLC, </pre><span class="citation" data-id="1896277"><a href="/opinion/1896277/nahigian-v-juno-loudoun-llc/#741" aria-description="Citation for case: Nahigian v. Juno Loudoun, LLC">684 F. Supp. 2d 731, 741</a></span><pre class="inline"> (E.D. Va. 
+2010) (citing Va. Code § 59.1-200(A); Enomoto v. Space Adventures, Ltd., </pre><span class="citation" data-id="2370848"><a href="/opinion/2370848/mohamed-v-gates/#456" aria-description="Citation for case: Mohamed v. Gates">624 F. Supp. 2d 43, 
+456</a></span><pre class="inline"> (E.D. Va. 2009)).                                                     
+
+Haier argues it did not have a duty to disclose the defect.  (Def.’s Mem. Supp. Mot. Dismiss 
+14-16).  Under Virginia law, a duty of disclosure occurs:                 
+(1) if the fact is material and the one concealing has superior knowledge and knows 
+the other is acting upon the assumption that the fact does not exist; (2) if one party 
+takes actions which divert the other party from making prudent investigations (e.g., 
+by making a partial disclosure) but [o]bviously, the concealment itself cannot 
+constitute one of these diversionary actions—then there would always be a duty to 
+disclose; or (3) if some fiduciary or confidential relationship . . . exist[s] between 
+the parties.”                                                        
+
+Simpson v. Champion Petfoods USA, Inc., </pre><span class="citation no-link">397 F. Supp. 3d 952</span><pre class="inline">, 971 n.19 (E.D. Ky. 2019) 
+(alterations in original) (internal quotation marks omitted) (internal citation omitted) (citation 
+omitted) (applying a duty to disclose analysis to a VCPA claim).  O’Brien and the Virginia Class 
+allege Haier had a duty to disclose because of its superior knowledge of the product and its 
+mechanisms.  (Am. Compl. ¶¶ 5, 15, 26, 37, 49, 52, 59, 70).               
+Haier contends that the VCPA does not permit class action suits because the statute only 
+authorizes an “individual action.”  (Def.’s Mem. Supp. Mot. Dismiss 17-18).  O’Brien and the 
+Virginia Class respond that Fed. R. Civ. P. 23 overrides this rule as a procedural, rather than a 
+substantive, mechanism.  (Pls.’ Resp. Def.’s Mot. Dismiss 12).  They are correct.  Fed. R. Civ. P. 
+23 controls this issue because it “unambiguously authorizes any plaintiff, in any federal civil 
+proceeding,  to  maintain  a  class  action  if  the  Rule’s  prerequisites  are  met.”    Shady  Grove 
+Orthopedic Assocs., P.A. v. Allstate Ins. Co., </pre><span class="citation" data-id="6677269"><a href="/opinion/6792710/shady-grove-orthopedic-associates-pa-v-allstate-insurance-co/#406" aria-description="Citation for case: Shady Grove Orthopedic Associates, P.A. v. Allstate...">559 U.S. 393, 406</a></span><pre class="inline"> (2010).  Fed. R. Civ. P. 23 
+overrides the VCPA because it is a state law that attempts “to answer the same question—i.e., it 
+states that [Plaintiffs’] suit may not be maintained as a class action”—it is preempted and cannot 
+apply in this federal case.  </pre><span class="citation" data-id="6677269"><a href="/opinion/6792710/shady-grove-orthopedic-associates-pa-v-allstate-insurance-co/#399" aria-description="Citation for case: Shady Grove Orthopedic Associates, P.A. v. Allstate...">Id. at 399</a></span><pre class="inline"> (internal quotation marks omitted).  Other courts in this Circuit 
+have reached the same conclusion when analyzing the issue under the VCPA.  See Fishon v. Mars 
+Petcare US, Inc., </pre><span class="citation no-link">501 F. Supp. 3d 555</span><pre class="inline">, 574 (M.D. Tenn. 2020); Milisits v. FCA US LLC, No. 20-
+
+CV-11578, </pre><span class="citation no-link">2021 WL 3145704</span><pre class="inline">, at *12 (E.D. Mich. July 26, 2021).  Haier’s motion to dismiss the 
+VCPA claim is denied.                                                     
+     3.   Oregon Unlawful Trade Practices Act (“OUTPA”)              
+Haier next argues that it did not have a duty to disclose the defect under the Oregon 
+Unlawful Trade Practices Act (“OUTPA”) claim brought by Lee on behalf of himself and “[a]ll 
+persons in Oregon who purchased a Class Refrigerator (‘Oregon Class’).”  (Def.’s Mem. Supp. Mot. 
+Dismiss 14-16 (citing </pre><span class="citation no-link">Or. Rev. Stat. § 646.605</span><pre class="inline">); Am. Compl. ¶ 109).  Under the OUTPA, a plaintiff 
+must allege:  “(1) the defendant committed an unlawful trade practice; (2) plaintiff suffered an 
+ascertainable loss of money or property; and (3) plaintiff’s injury (ascertainable loss) was the result 
+
+of the unlawful trade practice.”  Pearson v. Philip Morris, Inc., </pre><span class="citation" data-id="9818986"><a href="/opinion/3134107/pearson-v-philip-morris-inc/#28" aria-description="Citation for case: Pearson v. Philip Morris, Inc.">361 P.3d 3, 28</a></span><pre class="inline"> (Or. 2015).  When 
+fraud is based on silence or nondisclosure, a party must demonstrate that the defendant either:  “(1) 
+remained silent when [it] had a duty to speak[;] or (2) assumed the obligation to make a full and 
+fair disclosure of the whole truth by making a representation in the nature of a ‘half-truth.’”  Benson 
+Tower Condo. Owners Ass’n v. Victaulic Co., </pre><span class="citation" data-id="7224640"><a href="/opinion/7306737/benson-tower-condominium-owners-assn-v-victaulic-co/#1132" aria-description="Citation for case: Benson Tower Condominium Owners Ass&#x27;n v. Victaulic Co.">22 F. Supp. 3d 1126, 1132</a></span><pre class="inline"> (D. Or. 2014) (internal 
+footnote omitted) (citation omitted).  A duty to disclose arises when there is a special relationship 
+between a plaintiff and a defendant.  Gardner v. First Escrow Corp., </pre><span class="citation" data-id="1177322"><a href="/opinion/1177322/gardner-v-first-escrow-corp/#1175" aria-description="Citation for case: Gardner v. First Escrow Corp.">696 P.2d 1172, 1175-76</a></span><pre class="inline"> (Or. 
+Ct. App. 1985). When there is an existing special relationship, the defendant must disclose to the 
+plaintiff all material matters known to the defendant.  See Gebrayel v. Transamerica Title Ins. Co., 
+</pre><span class="citation" data-id="1347480"><a href="/opinion/1347480/gebrayel-v-transamerica-title-insurance/#89" aria-description="Citation for case: Gebrayel v. Transamerica Title Insurance">888 P.2d 83, 89-90</a></span><pre class="inline"> (Or. Ct. App. 1995).  A special relationship exists when the plaintiff has 
+authorized the defendant to exercise independent judgment on the plaintiff’s behalf and the 
+defendant has accepted this responsibility.  Bennett v. Farmers Ins. Co. of Or., </pre><span class="citation" data-id="836216"><a href="/opinion/836216/bennett-v-farmers-insurance-co/" aria-description="Citation for case: Bennett v. Farmers Insurance Co.">26 P.3d 785</a></span><pre class="inline">, 798-
+800 (Or. 2001).  Although special relationship does not exist in an “arm’s-length” commercial or 
+business relationship, a duty to disclose can arise when one party conceals information that is 
+
+crucial to the other party’s decision to enter into a transaction.  See Ivie v. Mission Rock Residential 
+LLC, No. 3:21-CV-01122-SB, </pre><span class="citation no-link">2022 WL 2612215</span><pre class="inline">, at *13 (D. Or. May 27, 2022) (“[H]alf-truths 
+give rise to  an affirmative obligation to  disclose the whole truth regardless  of the parties’ 
+relationship.”  (citation omitted)).                                      
+Plaintiffs have properly alleged that Haier had a duty to disclose based on its superior 
+knowledge and omission of the information regarding the Compressor Defect under Oregon law.  
+(Am. Compl. ¶¶ 23-32, 28-33, 38-44, 60-66, 107).                          
+     4.   North Carolina Unfair and Deceptive Trade Practices Act (“NCUDTPA”) 
+As with the other state claims, Haier argues it did not have a duty to disclose the defect 
+
+under North Carolina law with respect to Pollard’s claim under North Carolina Unfair and 
+Deceptive Trade Practices Act (“NCUDTPA”) on behalf of herself and “[a]ll persons in North 
+Carolina who purchased a Class Refrigerator (‘North Carolina Class’).”  (Def.’s Mem. Supp. Mot. 
+Dismiss 12-16; Am. Compl. ¶ 109).  To raise a NCUDTPA claim based upon deception and 
+fraudulent statements, plaintiffs must allege “‘actual reliance’ on a misrepresentation and that such 
+reliance was the proximate cause of the injury.”  Cross v. Ciox Health, LLC, </pre><span class="citation no-link">438 F. Supp. 3d 572</span><pre class="inline">, 
+584 (E.D.N.C. 2020) (citations omitted).  When an NCUDTPA claim is based on “failure to 
+disclose a material fact, there must have been a duty to speak or the party accused of fraud must 
+have taken steps to actively conceal facts.”  Withers, 560 F. Supp. 3d at 1020 (citation omitted).  
+A duty to speak arises when:  “(1) there is a fiduciary relationship; (2) a party has taken affirmative 
+steps to conceal material facts from the other; or (3) one party has knowledge of a latent defect . . 
+. about which the other party is both ignorant and unable to discover through reasonable diligence.”  
+Id. (internal quotation marks omitted) (citation omitted).                
+Pollard and the North Carolina Class have met their burden maintaining that Haier had 
+
+knowledge of a material fact as to the Compressor Defect and had a duty to disclose it under North 
+Carolina law.  (Am. Compl. ¶¶ 23-32, 28-33, 38-44, 60-66, 107).  Pollard and the North Carolina 
+Class plead Haier’s expertise and online reviews of other past users who experienced a similar 
+problem with the compressor, and interactions arising from the Compressor Defect between 
+themselves and Haier.  (Am. Compl. ¶¶ 23-32, 28-33, 38-44, 60-66, 107).  Pollard and the North 
+Carolina Class also allege they provided Haier with notice of the violations on July 11, 2024.  (Am. 
+Compl. ¶ 166).  Thus, Pollard and the North Carolina Class have sufficiently alleged Haier’s 
+knowledge based on the allegations of the reviews and customer contact about the Compressor 
+Defect.  Haier’s motion to dismiss the NCUTDPA claim is denied.           
+
+C.   Breach of Express Warranty Claims                               
+     1.   Arizona Warranty Claims                                    
+Under Arizona law, a plaintiff may bring an express warranty claim when there is a breach 
+of “[a]ny affirmation of fact or promise made by the seller to the buyer which relates to the goods 
+and becomes part of the basis of the bargain creates an express warranty that the goods shall 
+conform to the affirmation or promise.”  Arvizu v. Medtronic Inc., </pre><span class="citation" data-id="7226279"><a href="/opinion/7308376/arvizu-v-medtronic-inc/#793" aria-description="Citation for case: Arvizu v. Medtronic Inc.">41 F. Supp. 3d 783, 793</a></span><pre class="inline"> (D. 
+Ariz. 2014) (citation omitted).  A purchaser relies on these facts or promises when the purchaser 
+has seen the representation before purchasing the product.  Jones v. Lubrizol Advanced Materials, 
+Inc., </pre><span class="citation no-link">559 F. Supp. 3d 569</span><pre class="inline">, 623 (N.D. Ohio 2021).  This “affirmation that forms the basis of an 
+express warranty” must exist between the seller and buyer.”  Ramirez v. Medtronic Inc., </pre><span class="citation" data-id="8710395"><a href="/opinion/8727197/ramirez-v-medtronic-inc/#1001" aria-description="Citation for case: Ramirez v. Medtronic Inc.">961 F. 
+Supp. 2d 977, 1001</a></span><pre class="inline"> (D. Ariz. 2013).  This express warranty may originate from an advertisement.  
+</pre><span class="citation" data-id="8710395"><a href="/opinion/8727197/ramirez-v-medtronic-inc/" aria-description="Citation for case: Ramirez v. Medtronic Inc.">Id.</a></span><pre class="inline"> (citations omitted).                                                  
+Herndon brings this claim and other state claims on behalf of himself and “[a]ll persons in 
+Arizona who purchased a Class Refrigerator (‘Arizona Class’” ).”  (Am. Compl. ¶ 109).  These 
+
+Plaintiffs allegedly relied on the online graphics and advertisements, the terms of the warranty, 
+and the influence of the warranties on the Plaintiffs when they chose to make the purchase.  (Am. 
+Compl. ¶¶ 12, 23-24, 46, 56, 73-84).  They also claim they had to pay out of pocket and/or were 
+denied reimbursement for necessary repairs , and that Haier failed to perform these repairs within 
+a reasonable period of time.  (Am. Compl. ¶¶ 11-68, 86-95).  Herndon has alleged the existence of 
+the Compressor Defect, and that the need for subsequent repairs occurred during the express 
+warranty period for the Arizona Class Refrigerators.  (Am. Compl. ¶¶ 1, 12-15, 35, 37-38, 47, 49-
+50, 57, 59-66).  For these reasons, Haier’s motion to dismiss Herndon and the Arizona Class’s 
+express warranty claims is denied.                                        
+
+     2.   California Warranty Claims                                 
+Under California law, “[A] plaintiff must allege:  (1) the exact terms of the warranty; (2) 
+reasonable reliance thereon; and (3) a breach of warranty which proximately caused plaintiff’s 
+injury.”  Sanders v. Apple Inc., </pre><span class="citation" data-id="2308055"><a href="/opinion/2308055/sanders-v-apple-inc/#987" aria-description="Citation for case: Sanders v. Apple Inc.">672 F. Supp. 2d 978, 987</a></span><pre class="inline"> (N.D. Cal. 2009) (citation omitted).  Like 
+other states, a plaintiff shows reliance when he or she make allegations to having read, seen, or 
+relied upon a seller’s representations.  </pre><span class="citation" data-id="2308055"><a href="/opinion/2308055/sanders-v-apple-inc/#988" aria-description="Citation for case: Sanders v. Apple Inc.">Id. at 988</a></span><pre class="inline"> (citation omitted).   
+Blurton and the California Class have sufficiently alleged these elements and their reliance 
+on Haier’s representations.  (See Am. Compl. ¶¶ 1, 12-15, 35, 37-38, 47, 49-50, 56-57, 59-66, 73-
+84).  For these reasons, Haier’s motion to dismiss the express warranty claims under California 
+state law is denied.                                                      
+     3.   North Carolina Warranty Claims                             
+Under North Carolina law, “[a]ny affirmation of fact or promise made by the seller to the 
+buyer which relates to the goods and becomes part of the basis of the bargain . . . .”  Bussian v. 
+
+DaimlerChrysler Corp., </pre><span class="citation" data-id="2510615"><a href="/opinion/2510615/bussian-v-daimlerchrysler-corp/#620" aria-description="Citation for case: Bussian v. DaimlerChrysler Corp.">411 F. Supp. 2d 614, 620</a></span><pre class="inline"> (M.D.N.C. 2006) (citation omitted).  The seller 
+need not use formal language or have a specific intent; the only necessary component is “an 
+affirmation merely of the value of the goods or a statement purporting to be merely the seller’s 
+opinion or commendation of the goods does not create a warranty.”  </pre><span class="citation" data-id="2510615"><a href="/opinion/2510615/bussian-v-daimlerchrysler-corp/" aria-description="Citation for case: Bussian v. DaimlerChrysler Corp.">Id.</a></span><pre class="inline">  (quoting </pre><span class="citation no-link">N.C. Gen. Stat. 
+§ 25-2-313</span><pre class="inline">).  “[A] seller is bound by an express warranty when, and only when, it is made to 
+induce a sale and does induce such sale.”  Hollenbeck v. Ramset Fasteners, Inc., </pre><span class="citation" data-id="1316671"><a href="/opinion/1316671/hollenbeck-v-ramset-fasteners-inc/#289" aria-description="Citation for case: Hollenbeck v. Ramset Fasteners, Inc.">148 S.E.2d 287, 
+289</a></span><pre class="inline"> (N.C. 1966).  At the pleadings stage, a plaintiff only needs to allege he or she “reasonably 
+relied on [d]efendants’ representations and warranties regarding the quality, durability, and other 
+material characteristics . . . .”  Bussian, </pre><span class="citation" data-id="2510615"><a href="/opinion/2510615/bussian-v-daimlerchrysler-corp/#621" aria-description="Citation for case: Bussian v. DaimlerChrysler Corp.">411 F. Supp. 2d at 621</a></span><pre class="inline"> (citation omitted). 
+
+Pollard and the North Carolina Class have sufficiently alleged the elements required under 
+North Carolina law and that they relied on Haier’s representations and inducement.  (See Am. 
+Compl. ¶¶ 1, 12-15, 35, 37-38, 47, 49-50, 56-57, 59-66, 73-84).  They have met the requirement 
+at the pleading stage.  See Bussian, </pre><span class="citation" data-id="2510615"><a href="/opinion/2510615/bussian-v-daimlerchrysler-corp/#621" aria-description="Citation for case: Bussian v. DaimlerChrysler Corp.">411 F. Supp. 2d at 621</a></span><pre class="inline"> (citation omitted).  Therefore, Haier’s 
+motion to dismiss the express warranty claims under North Carolina law is denied.   
+     4.   Oregon Warranty Claims                                     
+To state a claim of a breach of an express warranty under Oregon law, a plaintiff must 
+allege:  “(1) ‘there [was] [] an affirmation of fact or description of goods by the seller[,]’ and (2) 
+“that factual affirmation or description [was] [] the ‘basis of the bargain.’”  Torch v. Windsor Surry 
+Co., No. 3:17-CV-00918-AA, </pre><span class="citation no-link">2019 WL 6709379</span><pre class="inline">, at *10 (D. Or. Dec. 9, 2019) (citation omitted).  
+Oregon courts have held that reliance is “the sort of conflict in the evidence that plaintiff is entitled 
+to have a jury resolve.”  </pre><span class="citation no-link">Id.</span><pre class="inline">  With respect to the fraud-based claims and the Fed. R. Civ. P. 9(b) 
+discussion, Lee and the Oregon Class have sufficiently met these elements and stated a claim under 
+Oregon law.  (See Am. Compl. ¶¶ 1, 12-15, 35, 37-38, 47, 49-50, 56-57, 59-66, 73-84).  Haier’s 
+
+motion to dismiss the Oregon express warranty claims is denied.           
+     5.   Unconscionability                                          
+Haier seeks dismissal of Plaintiffs’ claims for breach of an express warranty under various 
+state laws.  The warranties at issue are Haier’s product warranties from the time of purchase, which 
+Plaintiffs allege Haier declined to honor.  (Am. Compl. ¶¶ 79-85).  Haier argues there was no 
+common defect; the Plaintiffs, except for Herndon, have failed to properly allege reliance on the 
+warranty; and the Plaintiffs, except for O’Brien, have shown a breach within the express warranty 
+period.  (Def.’s Mot. Dismiss Ex. A, at 5-7).                             
+O’Brien does not deny the Compressor Defect occurred beyond the warranty period 
+
+applicable to his purchased refrigerator, but argues the warranty is unconscionable.  (Am. Compl. 
+¶ 102; Pls.’ Resp. Def.’s Mot. Dismiss 14-15).  O’Brien raises an unconscionability argument as a 
+defense to the expiration of the warranty period for his express warranty claim, and the other 
+Plaintiffs also allege unconscionability.  (Am. Compl. ¶¶ 102, 182, 194, 202-285; Pls.’ Resp. Def.’s 
+Mot. Dismiss 14).  “Unconscionability is ultimately a question of law for the court.”  In re Gen. 
+Motors Air Conditioning Mktg. &amp; Sales Pracs. Litig., 406 F. Supp. 3d at 628-29 (citation omitted).  
+“A plaintiff must allege both substantive and procedural unconscionability when claiming a breach 
+of warranty based on the theory of unconscionability.”  Id. (citation omitted).  An agreement is 
+substantively unconscionable when “its provisions are so outrageously unfair as to shock the 
+judicial conscious[,]” and a court assesses procedurally unconscionability by examining the 
+bargaining power of each party, the market, and available alternatives.  Id. (citations omitted) 
+(examining various state laws on unconscionability).                      
+The court in In re General Motors dismissed a similar unconscionability argument in a 
+multi-state class action suit against an air conditioning manufacturer.  See id. at 628-30.  The court 
+
+held the warranty was not unconscionable where a plaintiff entered a competitive market with 
+many alternatives and there was merely a difference, rather than a drastic imbalance, in bargaining 
+power.  Id. at 629-30 (citation omitted).  The court held that general allegations of the seller’s 
+knowledge and conclusory statements alleging unconscionability were insufficient to sustain the 
+allegations of substantive and procedural unconscionability.  Id.         
+Plaintiffs allege only  that  Defendant  had pre-sale knowledge and that Plaintiffs had 
+diminished bargaining power in the relevant market.  (Am. Compl. ¶¶ 182, 194, 202).  These 
+conclusory allegations are insufficient to sustain an unconscionability claim.  Accordingly, Haier’s 
+motion to dismiss is granted as to O’Brien and the Virginia Class’s breach of express warranty 
+
+claim.                                                                    
+D.   Breach of Implied Warranty of Merchantability                   
+The U.C.C. provides that “a warranty that the goods shall be merchantable is implied in a 
+contract for their sale if the seller is a merchant with respect to goods of that kind” and that, in 
+order to be “merchantable,” goods “must be at least such as . . . are fit for the ordinary purposes 
+for which such goods are used.”  U.C.C. § 2-314(1), (2)(c).  Most states have adopted the language 
+the Uniform Commercial Code (“U.C.C.”) for providing a cause of action for a claim of implied 
+warranty of merchantability.  U.C.C. § 2-314; see </pre><span class="citation no-link">Ariz. Rev. Stat. Ann. §§ 47-2314</span><pre class="inline">, 47-2315, 47-
+2a212 (codifying implied warranty of merchantability under Arizona law); </pre><span class="citation no-link">Cal. Com. Code §§ 
+2314-2315</span><pre class="inline"> (codifying implied warranty of merchantability under California law); </pre><span class="citation no-link">N.C. Gen. Stat. 
+Ann. §§ 25-2-314</span><pre class="inline"> to 25-2-315 (codifying implied warranty of merchantability under North 
+Carolina  law);  </pre><span class="citation no-link">Or.  Rev.  Stat.  Ann.  §§  72.3140-72.3150</span><pre class="inline">  (codifying  implied  warranty  of 
+merchantability under Oregon law); </pre><span class="citation no-link">Va. Code Ann. §§ 8.2-314</span><pre class="inline"> to 8.2-315 (codifying implied 
+warranty of merchantability under Virginia law).                          
+
+Haier  seeks  dismissal  of  Plaintiffs’  claims  of  breach  of  an  implied  warranty  of 
+merchantability arising under various state laws.  Haier raises many of the same arguments already 
+addressed in the fraud-based claims analysis but also argues Plaintiffs have not sufficiently pled 
+breach of any implied warranty, privity between Haier and Plaintiffs, and lack of merchantability.2  
+(Def.’s Mot. Dismiss Ex. A, at 5-7; Def.’s Mem. Supp. Mot. Dismiss 23-24).   
+     1.   California Merchantability Claim                           
+Under California law, “a warranty that the goods shall be merchantable is implied in a 
+contract for their sale if the seller is a merchant with respect to goods of that kind.”  </pre><span class="citation no-link">Cal. Com. 
+Code § 2314</span><pre class="inline">.  California requires a showing of privity in order to state a claim of a breach of an 
+
+implied warranty.  Hawkins v. Shimano N. Am. Bicycle Inc., </pre><span class="citation no-link">729 F. Supp. 3d 989</span><pre class="inline">, 1026 (C.D. Cal. 
+2024) (“[T]he Ninth Circuit has held that a consumer ‘who buys from a retailer is not in privity 
+with a manufacturer.’”  (quoting Clemens v. DaimlerChrysler Corp., </pre><span class="citation" data-id="1199775"><a href="/opinion/1199775/clemens-v-daimlerchrysler-corp/#1023" aria-description="Citation for case: Clemens v. DaimlerChrysler Corp.">534 F.3d 1017, 1023</a></span><pre class="inline"> (9th 
+Cir. 2008))).  California law recognizes an exception where a plaintiff may plead an implied 
+warranty claim when he or she is a third-party beneficiary to a contract.  </pre><span class="citation" data-id="1199775"><a href="/opinion/1199775/clemens-v-daimlerchrysler-corp/#1026" aria-description="Citation for case: Clemens v. DaimlerChrysler Corp.">Id. at 1026-27</a></span><pre class="inline"> (citation 
+omitted).  This exception also extends to a consumer who alleges that he or she was the ultimate 
+beneficiary of an agreement between a retailer and the original seller.  </pre><span class="citation" data-id="1199775"><a href="/opinion/1199775/clemens-v-daimlerchrysler-corp/" aria-description="Citation for case: Clemens v. DaimlerChrysler Corp.">Id.</a></span><pre class="inline"> (citation omitted). 
+
+
+2 Herndon’s claim is time barred under Arizona law.  (Def.’s Mot. Dismiss Ex. A, at 5-7; Def.’s 
+Mem. Supp. Mot. Dismiss 23-24).  Plaintiffs have voluntarily dismissed Herndon’s claim.  (Pls.’ 
+Resp. Def.’s Mot. Dismiss 24 n.16).                                       
+As noted earlier, Blurton and the California Class have properly alleged that the Class 
+Refrigerators were unmerchantable, and that the warranty was breached.  They further claim they 
+had to pay for necessary repairs, and that the Class Refrigerators were unable to cool food properly 
+because of the Compressor Defect.  (Am. Compl. ¶¶ 1, 12, 23-24, 46, 56, 73-84, 86-95, 199).  
+Blurton and the California Class plead that Haier made an implied warranty to them that the Class 
+
+Refrigerators were suitable for cold storage of food when they purchased these products from 
+retailers or directly from Haier’s website.  (Am. Compl. ¶¶ 79-85, 196-202).  The Compressor 
+Defect interfered with the refrigerator’s main purpose of cooling and preserving food, rendering 
+them unmerchantable based on these allegations, which go directly to the “ordinary purpose[]” for 
+which the product serves.  (Am. Compl. ¶¶ 12, 23-24, 46, 56, 73-84); see U.C.C. § 2-314(1), (2)(c).  
+Plaintiffs have properly alleged this portion of their implied warranty of merchantability claim.  
+Blurton and the California Class, however, do not allege there was a contract between 
+themselves and Haier, nor that they were third-party beneficiaries to an agreement between Haier 
+and the retailer.  (See Pls.’ Resp. Def.’s Mot. Dismiss 19-20).  They do not allege the existence of 
+
+any contract between Haier and the retailer, or that they were the intended ultimate beneficiary of 
+the “original purchaser.”  (See Pls.’ Resp. Def.’s Mot. Dismiss 19-20).  Because Blurton and the 
+California Class have not pleaded facts to support privity, their claim must be dismissed.  Haier’s 
+motion is granted as to Blurton and the California Class’s claim for breach of an implied warranty 
+of merchantability.                                                       
+     2.   North Carolina Merchantability Claim                       
+North Carolina has also incorporated the language of the U.C.C. into its statute governing 
+implied warranties of merchantability.  See </pre><span class="citation no-link">N.C. Gen. Stat. Ann. §§ 25-2-314</span><pre class="inline">, 25-2-315.  Like 
+California, North Carolina also requires privity to state a claim of a breach of an implied warranty.  
+Francis  v.  Gen.  Motors,  LLC,  </pre><span class="citation no-link">504  F.  Supp.  3d  659</span><pre class="inline">,  678  (E.D.  Mich.  2020)  (“Similarly, 
+under . . . and North Carolina law, the lack of privity is fatal to implied warranty claims.”  (citations 
+omitted)).                                                                
+Pollard and the North Carolina Class have properly alleged unmerchantability, breach of 
+the warranty, and frustration of the product’s ordinary purpose but do not allege privity.  (Am. 
+
+Compl. ¶¶ 1, 12, 23-24, 46, 56, 73-84, 86-95, 196-202); see U.C.C. § 2-314(1), (2)(c).  This is 
+“fatal” to their implied warranty of merchantability claim.  Haier’s motion is granted as to the 
+claim under North Carolina law.                                           
+     3.   Oregon Merchantability Claim                               
+Oregon law utilizes the same language in its implied warranty statute and permits a claim 
+for an implied warranty to proceed by a consumer in the “distributive chain” of a product.  
+Crawford v. FCA US LLC, No. 2:20-CV-12341, </pre><span class="citation no-link">2021 WL 3603342</span><pre class="inline">, at *7 (E.D. Mich. Aug. 13, 
+2021); see </pre><span class="citation no-link">Or. Rev. Stat. Ann. §§ 72.3140</span><pre class="inline">, 72.3150.  Lee and the Oregon Class have alleged that 
+they were in this “distributive chain” as the ultimate users of the Class Refrigerators.  (Pls.’ Resp. 
+
+Def.’s Mot. Dismiss 19-20; Am. Compl. ¶¶ 1, 12, 23-24, 46, 56, 73-84, 86-95, 199).  An implied 
+warranty claim under Oregon law has no requirement of privity.  In re Chevrolet Bolt EV Battery 
+Litig., 633 F. Supp. 3d at  981  (citations omitted). Haier’s motion to dismiss Lee and the Oregon 
+Class’s breach of implied warranty of merchantability claim is denied.    
+     4.   Virginia Merchantability Claim                             
+Under Virginia law, “a warranty that the goods shall be merchantable is implied in a 
+contract for their sale if the seller is a merchant with respect to goods of that kind.”  Simpson, 397 
+F. Supp. 3d at 968 (citation omitted); see </pre><span class="citation no-link">Va. Code Ann. §§ 8.2-314</span><pre class="inline">, 8.2-315.  For goods to be 
+merchantable, they must, in relevant part:                                
+(1) pass without objection in the trade under the contract description; (2) be of fair 
+average quality within the description; (3) be fit for the ordinary purposes for which 
+such goods are used; and (4) conform to the promises or affirmations of fact made 
+on the container or label if any.”                                   
+
+</pre><span class="citation no-link">Id.</span><pre class="inline"> (internal quotation marks omitted) (citations omitted).  The implied warranty of merchantability 
+“runs from the seller to the purchaser and then through the purchaser to the ultimate user.”  </pre><span class="citation no-link">Id.</span><pre class="inline"> 
+(citation omitted).  A motion to dismiss for failure to allege privity should be denied under Virginia 
+law, where a plaintiff is alleged to be the ultimate user.  Simpson, 397 F. Supp. 3d at 969 (citation 
+omitted).  Accordingly, Haier’s motion to dismiss as to the breach of implied warranty of 
+merchantability claims of O’Brien and the Virginia Class are denied.      
+E.   MMWA                                                            
+The MMWA “provides a federal cause of action for consumers who are damaged by a 
+failure to comply under a state warranty; MMWA claims therefore ‘stand or fall’ with valid state 
+law warranty claims.”  Chapman v. Gen. Motors LLC, </pre><span class="citation no-link">531 F. Supp. 3d 1257</span><pre class="inline">, 1285 (E.D. Mich. 
+2021) (citation omitted).  “[A]ny Plaintiffs that have viable state law warranty claims will also 
+have viable MMWA claims.”  In re Chevrolet Bolt EV Battery Litig., 633 F. Supp. 3d at 982; see 
+also Bennett v. CMH Homes, Inc., </pre><span class="citation" data-id="9804487"><a href="/opinion/2746788/dan-bennett-v-cmh-homes-inc/" aria-description="Citation for case: Dan Bennett v. CMH Homes, Inc.">770 F.3d 511</a></span><pre class="inline">, 512 n.1 (6th Cir. 2014) (applying the MMWA to 
+implied and explicit warranty claims).  Under the MMWA, “[no] claim shall be cognizable” where 
+it is brought as a class action in a district court and contains fewer than one hundred named 
+plaintiffs.  </pre><span class="citation no-link">15 U.S.C. § 2310</span><pre class="inline">(d)(3).  The Sixth Circuit has held, however, that a district court may 
+exercise  jurisdiction  under  the  Class  Action  Fairness  Act,  “notwithstanding  the  MMWA’s 
+jurisdictional limitations.”  Kuns v. Ford Motor Co., </pre><span class="citation" data-id="2642981"><a href="/opinion/2642981/nancy-kuns-v-ford-motor-company/#574" aria-description="Citation for case: Nancy Kuns v. Ford Motor Company">543 F. App’x 572, 574</a></span><pre class="inline"> (6th Cir. 2013). 
+Haier asserts that Plaintiffs’ MMWA claims fail because they are derivative of the state 
+law express warranty claims and lack the required number of plaintiffs.  (Def.’s Mot. Dismiss ¶ 
+14; Def.’s Mem. Supp. Mot. Dismiss 1-2, 23-24).  Plaintiffs respond they should be allowed to 
+proceed on their MMWA claims where the court has jurisdiction over the case under the Class 
+Action Fairness Act as in Kuns.  (Pls.’ Resp. Def.’s Mot. Dismiss 21-22); see Kuns, </pre><span class="citation" data-id="2642981"><a href="/opinion/2642981/nancy-kuns-v-ford-motor-company/#574" aria-description="Citation for case: Nancy Kuns v. Ford Motor Company">543 F. App’x 
+at 574</a></span><pre class="inline">.  Consistent with Kuns, Haier’s motion is denied as to the MMWA claim.   
+F.   Common Law Fraud                                                
+Haier seeks dismissal of Plaintiffs’ claims for common law fraud, arguing that Plaintiffs 
+
+have failed to plausibly allege reliance, pre-sale knowledge, a defect, or that Haier had an 
+obligation to disclose.  (Def.’s Mot. Dismiss Ex. A, at 5-7).  With respect to the analysis of the 
+fraud-based claims and state-specific statutes, Plaintiffs have properly alleged common law fraud 
+and  Haier’s  duty  to  disclose.    Plaintiffs  have  pleaded  Haier’s  prior  knowledge  and  the 
+manifestation of the Compressor Defect despite the advertisements touting the Class Refrigerators’ 
+cooling ability.  (Am. Compl. ¶¶ 5, 15, 26, 37, 49, 52, 59, 70-85).  Haier’s motion to dismiss the 
+common law fraud claims is denied.                                        
+G.   Negligent Misrepresentation and Economic Loss Rule              
+The economic loss rule (“ELR”) “prevents the commercial purchaser of a product from 
+
+suing in tort to recover for economic losses arising from the malfunction of the product itself, 
+recognizing that such damages must be recovered, if at all, pursuant to contract law.”  Giddings &amp; 
+Lewis, Inc. v. Indus. Risk Insurers, </pre><span class="citation" data-id="2540358"><a href="/opinion/2540358/giddings-lewis-inc-v-industrial-risk-insurers/#733" aria-description="Citation for case: Giddings &amp; Lewis, Inc. v. Industrial Risk Insurers">348 S.W.3d 729, 733</a></span><pre class="inline"> (Ky. 2011).  A sister court has recognized 
+Kentucky’s doctrine is like that of other states where a consumer may not use a tort claim to recover 
+only economic damages.  Chapman, 531 F. Supp. 3d at 1292 n.21.  The Kentucky Supreme Court 
+has held “the economic loss rule applies to a negligent misrepresentation claim just as it does to 
+negligence and strict product liability claims.”  Giddings &amp; Lewis, </pre><span class="citation" data-id="2540358"><a href="/opinion/2540358/giddings-lewis-inc-v-industrial-risk-insurers/#746" aria-description="Citation for case: Giddings &amp; Lewis, Inc. v. Industrial Risk Insurers">348 S.W.3d at 746</a></span><pre class="inline">.   
+     1.   Arizona ELR                                                
+Arizona has allowed tort recovery in the products liability context where a plaintiff alleges 
+only economic losses, applying a fact intensive inquiry on whether the facts favor applying tort, 
+commercial law, or a combination thereof.  Est. of Pilgrim v. Gen. Motors LLC, </pre><span class="citation no-link">596 F. Supp. 3d 
+808</span><pre class="inline">, 827-28 (E.D. Mich. 2022); In re Chevrolet Bolt EV Battery Litig., 633 F. Supp. 3d at 966.  
+
+Courts have held that this fact-intensive inquiry does not require dismissal at the pleading stage 
+and have allowed these claims to proceed to discovery.  Id.  Accordingly, the Court denies Haier’s 
+motion with respect to the Arizona claims.                                
+     2.   California ELR                                             
+Economic loss consists of “damages for inadequate value, costs of repair and replacement 
+of the defective product or consequent loss of profits—without any claim of personal injury or 
+damages to other property.”  Robinson Helicopter Co. v. Dana Corp., </pre><span class="citation" data-id="9795512"><a href="/opinion/2623151/robinson-helicopter-co-inc-v-dana-corp/#272" aria-description="Citation for case: Robinson Helicopter Co., Inc. v. Dana Corp.">102 P.3d 268, 272</a></span><pre class="inline"> (Cal. 
+2004) (internal quotation marks omitted) (citation omitted).  Recent cases illustrate the exception 
+to the doctrine under California law only extends to claims of affirmative misrepresentation.  See 
+
+Chapman, 531 F. Supp. 3d at 1297 (citations omitted).  Blurton and the California Class include 
+an allegation that Haier “represented . . . they would be enjoying non-defective Refrigerators” 
+which appears to be an affirmative misrepresentation as to the condition and quality of the 
+compressor.  (Am. Compl. ¶¶ 210-216).  Accordingly, Haier’s motion to dismiss as to this claim 
+under California law is denied.                                           
+     3.   North Carolina ELR                                         
+North Carolina&#x27;s economic loss rule bars a negligence action by the purchaser of a defective 
+product where “the only damage sustained is damage to the product itself, deemed ‘economic 
+loss.’”  Jones v. Caterpillar, Inc., No. 16-00331, </pre><span class="citation no-link">2017 WL 4865537</span><pre class="inline">, at *3 (E.D.N.C. July 11, 
+2017) (citing Wilson v. Dryvit Sys., Inc., </pre><span class="citation" data-id="2432957"><a href="/opinion/2432957/wilson-v-dryvit-systems-inc/#753" aria-description="Citation for case: Wilson v. Dryvit Systems, Inc.">206 F. Supp. 2d 749, 753</a></span><pre class="inline"> (E.D.N.C. 2002)); see also 
+Wilson, </pre><span class="citation" data-id="2432957"><a href="/opinion/2432957/wilson-v-dryvit-systems-inc/#753" aria-description="Citation for case: Wilson v. Dryvit Systems, Inc.">206 F. Supp. 2d at 753</a></span><pre class="inline"> (“North Carolina has adopted the economic loss rule, which 
+prohibits the purchaser of a defective product from bringing a negligence action against the 
+manufacturer or seller of that product to recover purely economic losses sustained as a result of 
+that product’s failure to perform as expected.”  (citations omitted)).  The rule does not, however, 
+
+bar claims sounding in fraud.  In re FCA US LLC Monostable Elec. Gearshift Litig., </pre><span class="citation" data-id="7251744"><a href="/opinion/7333824/in-re-fca-us-llc-monostable-elec-gearshift-litig/#592" aria-description="Citation for case: In re FCA US LLC Monostable Elec. Gearshift Litig.">355 F. Supp. 
+3d 582, 592</a></span><pre class="inline"> (E.D. Mich. 2018) (citations omitted).  North Carolina also has not applied the 
+economic loss rule as a bar to “fraud[-] based claims when a plaintiff alleges fraudulent inducement 
+or that the defendant violated an extrinsic duty.”  In re Volkswagen Timing Chain Prod. Liab. 
+Litig., No. 16-2765 (JLL), </pre><span class="citation no-link">2017 WL 1902160</span><pre class="inline">, at *18 (D.N.J. May 8, 2017) (citations omitted). 
+In this instance, Plaintiffs have alleged the Compressor Defect caused damage to the Class 
+Refrigerator and the Compressor Defect led to the spoilation of food.  (Am. Compl. ¶¶ 1, 11-68, 
+86-95).  Because Plaintiffs have alleged more than just damage to the product, Haier’s motion to 
+dismiss the North Carolina claims is denied.                              
+
+     4.   Oregon ELR                                                 
+Oregon bars the recovery of purely economic loss in a negligence setting except when there 
+is a special duty of care beyond the common law duty of exercising reasonable care.  Univ. of Or. 
+v. Drummer, No. 6:15-CV-00260-AA, </pre><span class="citation no-link">2015 WL 7015316</span><pre class="inline">, at *2 (D. Or. Nov. 10, 2015) (citations 
+omitted).  This Court already concluded that Plaintiffs have properly alleged that Haier owed a 
+special duty of care.  See Ivie, </pre><span class="citation no-link">2022 WL 2612215</span><pre class="inline">, at *13.  At this stage, it would be premature to 
+dismiss the Oregon claims on this basis.  Haier’s motion is denied.       
+     5.   Virginia ELR                                               
+“For a negligent misrepresentation claim to avoid the economic loss rule, the duty allegedly 
+violated must exist in law, not under an agreement shared amongst the parties” under Virginia law.  
+4D-Enters.,  LLC  v.  Aalto  Hyperbaric  Oxygen,  Inc.,  No.  119CV01504AJTIDD,  </pre><span class="citation no-link">2020  WL 
+13200492</span><pre class="inline">, at *4 (E.D. Va. May 22, 2020).  Furthermore, the economic loss rule will not bar 
+
+negligence claims that allege more than just economic injuries.  Lyman v. Ford Motor Co., No. 
+21-10024, </pre><span class="citation no-link">2023 WL 2667736</span><pre class="inline">, at *7 (E.D. Mich. Mar. 28, 2023) (citation omitted).  Because 
+Plaintiffs properly alleged that Haier owed a duty of disclosure and O’Brien and the Virginia Class 
+have alleged the Compressor Defect led to the spoilation of food, Haier’s motion is denied.  (Am. 
+Compl. ¶¶ 1, 11-68, 86-95).                                               
+H.   Unjust Enrichment                                               
+The Amended Complaint also alleges claims for unjust enrichment.  As a sister court has 
+noted:                                                                    
+Courts faced with  multi-state unjust  enrichment claims have recognized that,  
+“although the particular elements of unjust enrichment vary from jurisdiction to 
+jurisdiction, when stripped to its essence, a claim of unjust enrichment requires 
+[Plaintiffs] to allege sufficient facts to show that Defendants received a benefit and 
+under the circumstances of the case, retention of the benefit would be unjust.”   
+In re Cast Iron Soil Pipe &amp; Fittings Antitrust Litig., No. 1:14-MD-2508, </pre><span class="citation no-link">2015 WL 5166014</span><pre class="inline">, at 
+*35 (E.D. Tenn. June 24, 2015) (internal quotation marks omitted) (citations omitted). 
+Plaintiffs assert claims for unjust enrichment on behalf of the Nationwide Class, or 
+alternatively, on behalf of the State Classes.  (Am. Compl. ¶¶ 217-221).  Haier argues that these 
+claims should be dismissed as duplicative, is not an available equitable remedy, and Plaintiffs do 
+not allege a direct benefit to Haier.  (Def.’s Mem. Supp. Mot. Dismiss 24-25;).  Plaintiffs counter 
+that their unjust enrichment claims are plead as an alternative theory, based on a different set of 
+facts giving rise to the cause of action, and a direct benefit of Haier profiting of the sale of a Class 
+Refrigerator is the only threshold to state a claim.  (Pls.’ Resp. Def.’s Mot. Dismiss 23-24).  
+     1.   Arizona Unjust Enrichment                                  
+Under Arizona law, “[u]njust enrichment occurs when one party has and retains money or 
+benefits that in justice and equity belong to another.”  Trustmark Ins. Co. v. Bank One, Ariz., NA, 
+
+</pre><span class="citation" data-id="2602197"><a href="/opinion/2602197/trustmark-insurance-v-bank-one-arizona-na/#491" aria-description="Citation for case: Trustmark Insurance v. Bank One, Arizona, NA">48  P.3d  485,  491</a></span><pre class="inline">  (Ariz.  Ct.  App.  2002).    A  plaintiff  must  allege  “an  enrichment,  an 
+impoverishment,  a connection between the enrichment and impoverishment, the absence of 
+justification for the enrichment and the impoverishment, and the absence of a legal remedy.”  In 
+re Auto. Parts Antitrust Litig., </pre><span class="citation" data-id="7225263"><a href="/opinion/7307360/in-re-automotive-parts-antitrust-litigation/#1016" aria-description="Citation for case: In re Automotive Parts Antitrust Litigation">29 F. Supp. 3d 982, 1016-17</a></span><pre class="inline"> (E.D. Mich. 2014) (citation omitted).  
+Courts have held Arizona does not require a direct benefit showing.  In re Packaged Seafood 
+Prods. Antitrust Litig., </pre><span class="citation" data-id="7242724"><a href="/opinion/7324812/in-re-packaged-seafood-products-antitrust-litigation/#1089" aria-description="Citation for case: In re Packaged Seafood Products Antitrust Litigation">242 F. Supp. 3d 1033, 1089</a></span><pre class="inline"> (S.D. Cal. 2017) (“Accordingly, the Court 
+concludes that Arizona does not require a showing of direct benefit . . . .”).  Arizona courts have 
+declined to dismiss unjust enrichment claims at the pleading stage since a plaintiff may plead 
+alternative remedies.  See In re Auto. Parts Antitrust Litig., No. 12-MD-02311, </pre><span class="citation no-link">2014 WL 2993753</span><pre class="inline">, 
+
+at *27 (E.D. Mich. July 3, 2014).  Arizona courts have held that whether an adequate legal remedy 
+exists depends on whether there is a contract that governs the parties’ relationship; in the absence 
+of such, courts have allowed a plaintiff to plead in the alternative.  </pre><span class="citation no-link">Id.</span><pre class="inline"> (citations omitted).  Arizona 
+courts have also noted that the crucial inquiry is whether a plaintiff can link its harm to the 
+defendant’s benefit, not whether the burden is directly conferred to the defendant.  In re Auto. 
+Parts Antitrust Litig., </pre><span class="citation" data-id="7226969"><a href="/opinion/7309066/in-re-automotive-parts-antitrust-litigation/#897" aria-description="Citation for case: In re Automotive Parts Antitrust Litigation">50 F. Supp. 3d 869, 897</a></span><pre class="inline"> (E.D. Mich. 2014) (citing various state laws when 
+assessing the question of whether an unjust enrichment claim requires an unjust benefit).   
+Here, Herndon and the Arizona Class have alleged the required elements.  They have 
+alleged that Haier profited from consumers, like Herndon and the Arizona Class, while having 
+knowledge of the Compressor Defect.  (Am. Compl. ¶¶ 217-221).  Haier’s motion is denied.  
+     2.   California Unjust Enrichment                               
+California law does not recognize an unjust enrichment claim as a “standalone claim.”  
+
+Norman v. FCA US, LLC, </pre><span class="citation no-link">696 F. Supp. 3d 359</span><pre class="inline">, 389 (E.D. Mich. 2023) (citation omitted); In re 
+Auto. Parts Antitrust Litig., </pre><span class="citation" data-id="7225263"><a href="/opinion/7307360/in-re-automotive-parts-antitrust-litigation/#1016" aria-description="Citation for case: In re Automotive Parts Antitrust Litigation">29 F. Supp. 3d at 1016-17</a></span><pre class="inline"> (citations omitted); In re Cast Iron Soil Pipe 
+&amp; Fittings Antitrust Litig., </pre><span class="citation no-link">2015 WL 5166014</span><pre class="inline">, at *35-36 (internal quotation marks omitted) 
+(citations omitted).  Haier’s motion as to an unjust enrichment claim under California law is 
+therefore granted.                                                        
+     3.   North Carolina Unjust Enrichment                           
+To state an unjust enrichment claim under North Carolina law, “the benefit conferred must 
+be conferred directly from plaintiff to defendant, not through a third party.”  In re Auto. Parts 
+Antitrust Litig., </pre><span class="citation" data-id="7225263"><a href="/opinion/7307360/in-re-automotive-parts-antitrust-litigation/#1025" aria-description="Citation for case: In re Automotive Parts Antitrust Litigation">29 F. Supp. 3d at 1025-26</a></span><pre class="inline"> (citation omitted).  “[A] plaintiff must show three 
+
+elements:  (1) plaintiff conferred a measurable benefit to defendant, (2) defendant knowingly and 
+voluntarily accepted the benefit, and (3) the benefit was not given gratuitously.”  TSC Rsch., LLC 
+v. Bayer Chems. Corp., </pre><span class="citation" data-id="1525836"><a href="/opinion/1525836/tsc-research-llc-v-bayer-chemicals-corp/#540" aria-description="Citation for case: TSC RESEARCH, LLC v. Bayer Chemicals Corp.">552 F. Supp. 2d 534, 540</a></span><pre class="inline"> (M.D.N.C. 2008) (citations omitted).  An unjust 
+enrichment claim can only exist when there is no existing, “enforceable, express contract.”  </pre><span class="citation" data-id="1525836"><a href="/opinion/1525836/tsc-research-llc-v-bayer-chemicals-corp/" aria-description="Citation for case: TSC RESEARCH, LLC v. Bayer Chemicals Corp.">Id.</a></span><pre class="inline"> 
+(citations omitted).                                                      
+Pollard and the North Carolina Class allege they purchased their Class Refrigerators from 
+retailers, not directly from Haier.  (Am. Compl. ¶¶ 13, 24, 35, 47, 57).  Because these allegations 
+are insufficient to state this claim, the motion to dismiss is granted.   
+     4.   Oregon Unjust Enrichment                                   
+Under Oregon law, if the parties’ relationship is governed by contract, a claim of unjust 
+enrichment fails.  See High v. Davis, </pre><span class="citation" data-id="9542148"><a href="/opinion/1160407/high-v-davis/#736" aria-description="Citation for case: High v. Davis">584 P.2d 725, 736</a></span><pre class="inline"> (Or. 1978).  Such a claim may proceed 
+where the parties were not in a contractual relationship.  In re Auto. Parts Antitrust Litig., </pre><span class="citation" data-id="7225263"><a href="/opinion/7307360/in-re-automotive-parts-antitrust-litigation/#1026" aria-description="Citation for case: In re Automotive Parts Antitrust Litigation">29 F. 
+Supp. 3d at 1026-27</a></span><pre class="inline">.  Because the Oregon Class have not pleaded a direct contract with Haier, the 
+
+motion to dismiss the unjust enrichment claim under Oregon law is denied.   
+     5.   Virginia Unjust Enrichment                                 
+Under Virginia law, for unjust enrichment a claim must establish:  “(1) the plaintiff 
+conferred a benefit on the defendant; (2) the defendant knew of the benefit and should reasonably 
+have expected to repay the plaintiff; and (3) the defendant accepted or retained the benefit without 
+paying for its value.”  LCF Grp., Inc. v. Piedmont Power Sports, Inc., </pre><span class="citation no-link">688 F. Supp. 3d 323</span><pre class="inline">, 330 
+(W.D. Va. 2023) (citations omitted).  An indirect benefit or a benefit to a third party will not sustain 
+an unjust enrichment claim.  See, e.g., Tao of Sys. Integration v. Analytical Servs. &amp; Materials, 
+Inc., </pre><span class="citation" data-id="2577836"><a href="/opinion/2577836/tao-of-systems-integration-inc-v-analytical-services-materials-inc/#576" aria-description="Citation for case: Tao of Systems Integration, Inc. v. Analytical Services &amp;...">299 F. Supp. 2d 565, 576</a></span><pre class="inline"> (E.D. Va. 2004) (“To bring an action to recover monies received 
+
+by the defendant from a third party, a plaintiff must demonstrate that he had a preexisting right to 
+that fund.”  (citations omitted)).  Courts have held that purchasing a product from a retailer and 
+not the defendant is insufficient to confer a benefit as required by Virginia law.  Simpson, 397 F. 
+Supp. 3d at 974 (citation omitted) (noting the parallels between Kentucky and Virginia law and 
+applying an identical analysis to both unjust enrichment claims).         
+O’Brien alleges he purchased a Class Refrigerator from a retailer, not Haier.  (Am. Compl. 
+¶¶ 13, 24, 35, 47, 57).  Haier’s motion is therefore granted as to the Virginia unjust enrichment 
+claim.                                                                    
+I.   Injunctive Relief                                               
+Haier says injunctive relief is not available to Plaintiffs because they lack standing since 
+they failed to show “concrete harm.”  (Def.’s Mem. Supp. Mot. Dismiss 25).3  To obtain injunctive 
+relief, Plaintiffs must show that they are under a threat that is “actual and imminent, not conjectural 
+or hypothetical . . . .”  Summers v. Earth Island Inst., </pre><span class="citation" data-id="9435380"><a href="/opinion/145904/summers-v-earth-island-institute/#493" aria-description="Citation for case: Summers v. Earth Island Institute">555 U.S. 488, 493</a></span><pre class="inline"> (2009) (citation omitted).  
+
+Plaintiffs may not rely merely on “past exposure to illegal conduct” to establish standing.  Sumpter 
+v. Wayne Cnty., </pre><span class="citation" data-id="9877945"><a href="/opinion/4419982/amanda-sumpter-v-wayne-cty/#491" aria-description="Citation for case: Amanda Sumpter v. Wayne Cty.">868 F.3d 473, 491</a></span><pre class="inline"> (6th Cir. 2017).  Ongoing harm is not too speculative to infer 
+that unrealized harm might come to pass.  Chapman, 531 F. Supp. 3d at 1274.  This standing for 
+injunctive relief on based upon a plaintiff’s products liability claim for a vehicle’s defective fuel 
+pump has been allowed past a motion to dismiss on the basis that their vehicles could experience 
+catastrophic damage at any time.  Id.                                     
+Blurton and the California Class request injunctive relief under the California claims, 
+which have been dismissed, but the other Plaintiffs and the respective State Classes also request 
+the Court “[g]rant appropriate injunctive and/or declaratory relief . . . .” (Am. Compl. 56; see also 
+
+Am. Compl. ¶¶ 112, 116, 130, 140).  Plaintiffs have alleged the Compressor Defect has led to the 
+spoilation of food, and prevented them from using their refrigerator because of the Compressor 
+Defect, hardly catastrophic consequences.  (Am. Compl. ¶¶ 11-68); Chapman, 531 F. Supp. 3d at 
+1274.  Given than injunctive relief is not a “claim” but a potential remedy, Haier’s motion to 
+dismiss this “claim” is denied.  See FCA US LLC v. Bullock, </pre><span class="citation no-link">446 F. Supp. 3d 201</span><pre class="inline">, 207 (E.D. Mich. 
+2020).                                                                    
+
+
+
+3 Plaintiffs have also requested declaratory relief in addition to damages, but Defendant has only 
+moved to dismiss Plaintiffs’ injunctive relief.                           
+                        V.     CONCLUSION 
+ For the  foregoing reasons,  IT  IS  HEREBY ORDERED  that Defendant’s  Motion to 
+Dismiss Plaintiffs’ First Amended Complaint (DN 26) is GRANTED IN PART and DENIED IN 
+PART.  Blurton and the California Class’s UCL, CFAL, and CLRA claims for equitable relief 
+(Counts I, II, HI) are dismissed.  Blurton and the California Class’s CLRA claim for damages 
+remains.  O’Brien and the Virginia Class’s breach of express warranty claim (Count VIII) ts 
+dismissed.  The claims asserted by Herndon, Blurton, Pollard, and the respective State Classes for 
+breach of implied warranty of merchantability (Count IX) are dismissed.  Finally, the unjust 
+enrichment claims (Count XII) asserted by Pollard and the North Carolina Class, O’Brien and the 
+Virginia Class, and Blurton and the California Class are dismissed. 
+
+                                          PY 
+                                             Greg N. oy Chief Judge 
+                                             United States District Court 
+                                                March 27, 2025 
+ce:    counsel of record 
+
+                                 34 </pre>

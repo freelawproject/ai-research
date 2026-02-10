@@ -1,0 +1,5 @@
+<opinion type="dissent">
+<author id="b281-5">Mr. Justice Douglas,</author>
+<p id="Ao5">dissenting.</p>
+<p id="b281-6">Since, in my view (as indicated in my dissent in <em>On Lee </em>v. <em>United States, </em>343 U. S. 747, 762), this wire tapping was a search that violated the Fourth Amendment, the evidence obtained by it should have been excluded. The question whether the Fourth Amendment is applicable to the states (see <em>Wolf </em>v. <em>Colorado, </em>338 U. S. 25) probably need not be reached, because a Texas statute has excluded evidence obtained in violation of the Federal Constitution. Therefore I would reverse the judgment. It is true that the prior decisions of the Court point to affirmance. But those decisions reflect constructions of the Constitution which I think are erroneous. They impinge severely on the liberty of the individual and give the police the right to intrude into the privacy of any life. The practices they sanction have today acquired a momentum that is so ominous I cannot remain silent and bow to the precedents that sanction them.</p>
+</opinion>

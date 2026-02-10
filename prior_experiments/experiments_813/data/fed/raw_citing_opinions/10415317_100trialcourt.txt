@@ -1,0 +1,278 @@
+<pre class="inline">1                                                                         
+2                                                                         
+3                                                                         
+4                                                                         
+5                                                                         
+6                                                                         
+7                     UNITED STATES DISTRICT COURT                        
+8                    NORTHERN DISTRICT OF CALIFORNIA                      
+9                                                                         
+
+10    GMC SEMITECH CO., LTD., et al.,                                      
+                                      Case No. 24-cv-09451-NC             
+11              Plaintiffs,                                                
+                                      ORDER GRANTING                      
+12          v.                         DEFENDANT’S MOTION TO               
+                                      DISMISS COMPLAINT                   
+13    CAPITAL ASSET EXCHANGE AND                                           
+     TRADING, LLC,                    Re: Dkt. Nos. 9, 14, 15             
+14                                                                         
+               Defendant.                                                 
+15                                                                         
+16        Plaintiffs GMC Semitech Co., Ltd. and Suzhou Cycas Microelectronics Co., Ltd. 
+17   bring various contract and tort-based claims against Defendant Capital Asset Exchange 
+18   and Trading, LLC based on three purchase agreements for equipment Plaintiffs allege they 
+19   paid for but never received.  Defendant moves to dismiss five of Plaintiffs’ eight claims, 
+20   arguing the non-contractual claims fail because Plaintiffs allege valid and enforceable 
+21   contracts and fail to allege fraudulent, unlawful, or unfair conduct with particularity.  
+22   Plaintiffs, in turn, argue they permissibly allege tort claims in the alternative to their 
+23   contract claims and sufficiently allege unfair business practices and bad faith behavior by 
+24   Defendant.  For the reasons below, the Court GRANTS Defendant’s motion to dismiss the 
+25   complaint.                                                            
+26   I.   BACKGROUND                                                       
+27        The Court takes the following facts as true for the purposes of the motion.  Plaintiffs 
+1   refurbishment services for used legacy semiconductor equipment to domestic customers in 
+2   China.”  ECF 1 (Compl.) ¶¶ 3–4.  Defendant CAET “is a global physical commodity trader 
+3   addressing manufacturing needs in the semiconductor market.”  Compl. ¶ 5.   
+4        In February and March 2024, the parties executed three agreements for the sale of 
+5   equipment from Defendant to Plaintiffs.  Compl. ¶¶ 10, 12.  The agreements consisted of 
+6   invoice orders, purchase orders, and payments from Plaintiffs.  Compl. ¶ 11.  Plaintiffs 
+7   paid Defendant in full for each purchase agreement.  Compl. ¶ 14.  Plaintiffs also provided 
+8   information to Defendant to help establish compliance with export controls so the 
+9   purchased equipment could be shipped to China.  Compl. ¶¶ 16, 17.  In May 2024, 
+10   Defendant notified Plaintiffs that it could not ship the purchased equipment to Plaintiffs in 
+11   China.  Compl. ¶ 17.  Plaintiffs have never received the equipment they purchased through 
+12   the agreements or refunds of their payments.  Compl. ¶ 18.            
+13        Plaintiffs filed suit against Defendant.  Compl.  Defendant moved to dismiss claims 
+14   from Plaintiffs’ complaint.  ECF 9 (Mot.).  Plaintiffs opposed, ECF 14 (Opp’n), and 
+15   Defendant replied, ECF 15 (Reply).  All parties have consented to magistrate judge 
+16   jurisdiction under </pre><span class="citation no-link">28 U.S.C. § 636</span><pre class="inline">(c).  ECF 8, 10.                    
+17   II.  LEGAL STANDARD                                                   
+18        A motion to dismiss for failure to state a claim under Rule 12(b)(6) tests the legal 
+19   sufficiency of a complaint.  Navarro v. Block, </pre><span class="citation" data-id="6998032"><a href="/opinion/7092494/navarro-v-block/#732" aria-description="Citation for case: Navarro v. Block">250 F.3d 729, 732</a></span><pre class="inline"> (9th Cir. 2001).  “To 
+20   survive a motion to dismiss, a complaint must contain sufficient factual matter, accepted as 
+21   true, to ‘state a claim to relief that is plausible on its face.’”  Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435369"><a href="/opinion/145901/bartlett-v-strickland/#662" aria-description="Citation for case: Bartlett v. Strickland">556 U.S. 
+22   662, 678</a></span><pre class="inline"> (2009) (quoting Bell Atl. Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 570</a></span><pre class="inline"> (2007)).  When 
+23   reviewing a 12(b)(6) motion, a court “must accept as true all factual allegations in the 
+24   complaint and draw all reasonable inferences in favor of the non-moving party.”  Retail 
+25   Prop. Trust v. United Bd. of Carpenters &amp; Joiners of Am., </pre><span class="citation" data-id="2736107"><a href="/opinion/2736107/retail-property-trust-v-united-brotherhood-of-carpenters-joiners-of/#945" aria-description="Citation for case: Retail Property Trust v. United Brotherhood of Carpenters...">768 F.3d 938, 945</a></span><pre class="inline"> (9th Cir. 
+26   2014).  A court, however, need not accept as true “allegations that are merely conclusory, 
+27   unwarranted deductions of fact, or unreasonable inferences.”  In re Gilead Scis. Secs. 
+1   the court to draw the reasonable inference that the defendant is liable for the misconduct 
+2   alleged.”  </pre><span class="citation" data-id="2736107"><a href="/opinion/2736107/retail-property-trust-v-united-brotherhood-of-carpenters-joiners-of/" aria-description="Citation for case: Retail Property Trust v. United Brotherhood of Carpenters...">Id.</a></span><pre class="inline">  If a court grants a motion to dismiss, leave to amend should be granted 
+3   unless the pleading could not possibly be cured by the allegation of other facts.  Lopez v. 
+</pre><span class="citation no-link">4   Smith, 203</span><pre class="inline"> F.3d 1122, 1127 (9th Cir. 2000).                           
+5   III.  DISCUSSION                                                      
+6        Defendant moves to dismiss the following claims from Plaintiffs’ complaint: money 
+7   had and received (Third Claim); breach of the implied covenant of good faith and fair 
+8   dealing (Fourth Claim); unjust enrichment (Fifth Claim); conversion (Sixth Claim); and 
+9   unfair business practices under California’s Unfair Competition Law (UCL) (Seventh 
+10   Claim).                                                               
+11        For the reasons below, the Court DISMISSES each of the challenged claims.  
+12   Where Plaintiffs’ claims may be cured by the allegation of other facts, dismissal is with 
+13   leave to amend.  See Lopez, 203 F.3d at 1227.                         
+14      A.  Money Had and Received (Third Claim)                           
+15        The parties agree that a claim for money had and received under California law is a 
+16   quasi-contract claim and an alternative to claims premised on a valid contract.  Mot. 4; 
+17   Opp’n 5–6; Reply 6.  “In an action on an express contract, a claim for money had and 
+18   received is permitted where there has been a total failure of consideration.”  Rutherford 
+19   Holdings, LLC v. Plaza Del Rey, </pre><span class="citation" data-id="2650741"><a href="/opinion/2650741/rutherford-holdings-llc-v-plaza-del-rey/#230" aria-description="Citation for case: Rutherford Holdings, LLC v. Plaza Del Rey">223 Cal. App. 4th 221, 230</a></span><pre class="inline"> (Cal. Ct. App. 2014).  But a 
+20   claim for money had and received, as a quasi-contract claim, generally “does not lie when 
+21   an enforceable, binding agreement exists defining the rights of the parties.”  Paracor Fin., 
+22   Inc. v. Gen. Elec. Cap. Corp., </pre><span class="citation multiple-matches"><a href="/c/F.3d/96/1151/">96 F.3d 1151</a></span><pre class="inline">, 1167 (9th Cir. 1996); Block Sci., Inc. v. True 
+23   Diagnostics, Inc., No. 21-cv-01118-RBM-JLB, </pre><span class="citation no-link">2023 WL 27348</span><pre class="inline">, at *5 (S.D. Cal. Jan. 3, 
+24   2023).                                                                
+25        Defendant concedes in its reply brief that “CAET does not dispute that the parties 
+26   entered into written contracts that were supported by consideration.”  Reply 6.  As a result, 
+27   Plaintiffs’ claim for money had and received fails to state a claim because there is no 
+1   Cal. App. 4th at 230; Paracor, 96 F.3d at 1167.  The Court need not reach the parties’ 
+2   remaining arguments, and Plaintiffs’ claim for money had and received is DISMISSED 
+3   without leave to amend.                                               
+4      B.  Breach of the Implied Covenant of Good Faith and Fair Dealing (Fourth 
+           Claim)                                                         
+5                                                                         
+6        Defendant argues that Plaintiffs fail to state a claim for breach of the implied 
+7   covenant of good faith and fair dealing because the claim both “merely restate[s] 
+8   Plaintiffs’ breach of contract claims” and is premised on obligations that are not found in 
+9   the agreements.  Mot. 5–6.                                            
+10        Plaintiffs allege Defendant breached the covenant of good faith by failing to 
+11   “acquire or make reasonable efforts to acquire and deliver the purchased equipment,” 
+12   “resolve any export ‘compliance’ concerns,” and “act in good faith to fulfill its obligations 
+13   under the Agreements.”  Compl. ¶ 36.  The Court finds that Plaintiffs fail to state a claim 
+14   for breach of the implied covenant of good faith and fair dealing on these bases. 
+15        “Under California law, every contract ‘imposes upon each party a duty of good faith 
+16   and fair dealing in its performance and its enforcement.’”  Rosenfeld v. JPMorgan</pre><span class="citation no-link"> Chase 
+17</span><pre class="inline">   Bank, N.A., </pre><span class="citation" data-id="2470639"><a href="/opinion/2470639/rosenfeld-v-jpmorgan-chase-bank-na/#968" aria-description="Citation for case: Rosenfeld v. JPMorgan Chase Bank, N.A.">732 F. Supp. 2d 952, 968</a></span><pre class="inline"> (N.D. Cal. 2010) (citation omitted).  The covenant of 
+18   good faith and fair dealing is violated by “a conscious and deliberate act, which unfairly 
+19   frustrates the agreed common purposes and disappoints the reasonable expectations of the 
+20   other party thereby depriving that party of the benefits of the agreement.”  Careau &amp; Co. v. 
+21   Sec. Pac. Bus. Credit, Inc., </pre><span class="citation" data-id="2159546"><a href="/opinion/2159546/careau-co-v-security-pacific-business-credit-inc/#1395" aria-description="Citation for case: Careau &amp; Co. v. Security Pacific Business Credit, Inc.">222 Cal. App. 3d 1371, 1395</a></span><pre class="inline"> (Cal. Ct. App. 1990); see also </pre><span class="citation" data-id="2159546"><a href="/opinion/2159546/careau-co-v-security-pacific-business-credit-inc/" aria-description="Citation for case: Careau &amp; Co. v. Security Pacific Business Credit, Inc.">id.</a></span><pre class="inline"> 
+22   at 1393 (“Or, to put it another way, the ‘implied covenant imposes upon each party the 
+23   obligation to do everything that the contract presupposes they will do to accomplish its 
+24   purpose.’”).                                                          
+25        Although “breach of a specific provision of the contract is not a necessary 
+26   prerequisite” to state a claim, “the scope of conduct prohibited by the covenant of good 
+27   faith is circumscribed by the purposes and express terms of the contract.”  Carma Devs. 
+1   implied covenant of good faith and fair dealing ‘cannot impose substantive duties or limits 
+2   on the contracting parties beyond those incorporated in the specific terms of their 
+3   agreement.’”  Rosenfeld, </pre><span class="citation" data-id="2470639"><a href="/opinion/2470639/rosenfeld-v-jpmorgan-chase-bank-na/#968" aria-description="Citation for case: Rosenfeld v. JPMorgan Chase Bank, N.A.">732 F. Supp. 2d at 968</a></span><pre class="inline"> (citation omitted).  At the same time, “if 
+4   the allegations do not go beyond the statement of a mere contract breach and, relying on 
+5   the same alleged acts, simply seek the same damages or other relief already claimed in a 
+6   companion contract [cause] of action, they may be disregarded as superfluous as no 
+7   additional claim is actually stated.”  Celador Int’l Ltd. v. Walt Disney Co., </pre><span class="citation" data-id="2421945"><a href="/opinion/2421945/rambarrat-ex-rel-rambarrat-v-united-states/#846" aria-description="Citation for case: Rambarrat Ex Rel. Rambarrat v. United States">347 F. Supp. 2d 
+8   846, 852</a></span><pre class="inline"> (C.D. Cal. 2004) (citation omitted).  One exception to this limitation is “where 
+9   the plaintiff alleges that the defendant acted in bad faith to frustrate the contract’s 
+10   benefits.”  </pre><span class="citation" data-id="2421945"><a href="/opinion/2421945/rambarrat-ex-rel-rambarrat-v-united-states/" aria-description="Citation for case: Rambarrat Ex Rel. Rambarrat v. United States">Id.</a></span><pre class="inline">                                                       
+11        Plaintiffs fail to state a claim for breach of the covenant of good faith based on their 
+12   allegations that Defendant failed to acquire and deliver equipment and acted in bad faith.  
+13   First, Plaintiffs do not point to any provisions in the agreements requiring Defendant to 
+14   “acquire or make reasonable efforts to acquire and deliver the purchased equipment,” and 
+15   the Court identifies none.  In fact, the agreements appear to provide for the possibility that 
+16   Defendant might not acquire the equipment.  See, e.g., Compl., Ex. A at 13 ¶ 5 (“All 
+17   Equipment is offered to Buyer based on its prior sale to CAET.  Should such prior sale not 
+18   occur, this invoice shall be null and void.”).  Without a contractual provision requiring 
+19   Defendant to acquire the equipment, “the implied covenant has nothing upon which to act 
+20   as a supplement.”  See Rosenfeld, </pre><span class="citation" data-id="2470639"><a href="/opinion/2470639/rosenfeld-v-jpmorgan-chase-bank-na/#968" aria-description="Citation for case: Rosenfeld v. JPMorgan Chase Bank, N.A.">732 F. Supp. 2d at 968</a></span><pre class="inline"> (citation omitted).  Second, 
+21   Plaintiffs’ allegation that Defendant violated the covenant of good faith by failing to make 
+22   reasonable efforts to deliver the equipment relies on “the same course of conduct that 
+23   underlies” Plaintiffs’ breach of contract claims.  See Bard v. GSV Asset Mgmt., No. 23-cv-
+24   00488-WHO, </pre><span class="citation no-link">2023 WL 8852756</span><pre class="inline">, at *4 (N.D. Cal. Dec. 21, 2023).  Specifically, Plaintiffs 
+25   allege Defendant breached the agreements by failing to deliver the equipment and failing 
+26   to refund Plaintiffs’ payments for the equipment.  Compl. ¶¶ 22, 27.  Plaintiffs’ claims for 
+27   breach of contract and for breach of the covenant of good faith for failure to deliver 
+1   No. 11-cv-03638-SC, </pre><span class="citation no-link">2012 WL 1657121</span><pre class="inline">, at *8 (N.D. Cal. May 10, 2012).  Third, 
+2   Plaintiffs’ allegation that Defendant failed “to act in good faith to fulfill its obligations 
+3   under the Agreements” does not identify any acts by Defendant and is too generalized to 
+4   plausibly state a claim.  See Compl. ¶ 36; Careau, </pre><span class="citation" data-id="2159546"><a href="/opinion/2159546/careau-co-v-security-pacific-business-credit-inc/#1395" aria-description="Citation for case: Careau &amp; Co. v. Security Pacific Business Credit, Inc.">222 Cal. App. 3d at 1395</a></span><pre class="inline">. 
+5        Plaintiffs also fail to state a claim for breach of the covenant of good faith based on 
+6   the allegation that Defendant failed to resolve export compliance concerns.  Defendant 
+7   argues that it had no obligation to resolve export compliance concerns under the 
+8   agreements such that Plaintiffs cannot base their claim on its alleged failure to do so.  Mot. 
+9   5–6.  But Plaintiffs allege the purchase orders in each agreement specify that “Seller 
+10   [CAET] is responsible to provide . . . Export Control/Permit documentations in time.”  
+11   Compl. ¶ 5; see, e.g., Compl., Ex. A at 17 ¶ 5.  The purchase orders also include a 
+12   provision stating, “CCIC Support in warehouse included,” which Plaintiffs argue indicates 
+13   Defendant was to assist with ensuring compliance.  See, e.g., Compl., Ex. A at 17 ¶ 16; 
+14   Opp’n 8.  At this stage, the Court finds these allegations sufficient to plausibly allege 
+15   Defendant undertook at least some obligation to assist with facilitating export compliance 
+16   under the agreements.  Nonetheless, Plaintiffs do not allege any actions by Defendant that 
+17   violated this obligation—only that Plaintiffs provided the necessary information to assist 
+18   Defendant with ensuring export compliance before Defendant stopped communication and 
+19   refused to ship the purchased equipment.  See Compl. ¶ 17.  Plaintiffs instead “dispute that 
+20   any export restrictions constrained delivery of the purchased items.”  Compl. ¶ 18. 
+21        The Court therefore DISMISSES the claim for breach of the implied covenant of 
+22   good faith and fair dealing with leave to amend.                      
+23      C.  Unjust Enrichment (Fifth Claim)                                
+24        Defendant moves to dismiss Plaintiffs’ claim for unjust enrichment, arguing that 
+25   unjust enrichment does not constitute a standalone cause of action under California law 
+26   and that the claim necessarily fails where a valid, enforceable agreement exists between 
+27   the parties.  Mot. 6.  Plaintiffs respond that unjust enrichment is a proper standalone cause 
+1        “While California case law appears unsettled on the availability of” unjust 
+2   enrichment as a standalone cause of action, the Ninth “Circuit has construed the common 
+3   law to allow an unjust enrichment cause of action through quasi-contract.”  ESG Cap. 
+4   Partners, LP v. Stratos, </pre><span class="citation" data-id="4014582"><a href="/opinion/4237321/esg-capital-partners-v-venable-llp/#1038" aria-description="Citation for case: Esg Capital Partners v. Venable LLP">828 F.3d 1023, 1038</a></span><pre class="inline"> (9th Cir. 2016); see Bruton v. Gerber Prods. 
+5   Co., </pre><span class="citation" data-id="8683670"><a href="/opinion/8700517/bruton-v-gerber-products-co/#470" aria-description="Citation for case: Bruton v. Gerber Products Co.">703 F. App’x 468, 470</a></span><pre class="inline"> (9th Cir. 2017); Astiana v. Hain Celestial Grp., Inc., </pre><span class="citation" data-id="2788119"><a href="/opinion/2788119/united-states-v-habibi/#753" aria-description="Citation for case: United States v. Habibi">783 F.3d 
+6   753, 762</a></span><pre class="inline"> (9th Cir. 2015).  Following circuit precedent, the Court concludes Plaintiffs may 
+7   allege a claim for unjust enrichment “as an independent cause of action or as a quasi-
+8   contract claim for restitution.”  See Stratos, </pre><span class="citation" data-id="4014582"><a href="/opinion/4237321/esg-capital-partners-v-venable-llp/#1038" aria-description="Citation for case: Esg Capital Partners v. Venable LLP">828 F.3d at 1038</a></span><pre class="inline">.      
+9        However, “unjust enrichment is an action in quasi-contract, which does not lie when 
+10   an enforceable, binding agreement exists defining the rights of the parties.”  Paracor, 96 
+11   F.3d at 1167.  Because, as discussed above, Defendant appears to concede the validity of 
+12   the agreements, Plaintiffs’ claim for unjust enrichment fails.  See supra III(A); Reply 6.  
+13   The unjust enrichment claim is DISMISSED without leave to amend.      
+14      D.  Conversion (Sixth Claim)                                       
+15        Defendant argues Plaintiffs’ conversion claim fails because it is based on the same 
+16   allegations as the breach of contract claims and is barred by the economic loss rule.  The 
+17   Court agrees the claim is precluded by the economic loss rule and therefore does not 
+18   address Defendant’s first argument.                                   
+19        California’s economic loss rule functions to maintain separation between contract 
+20   and tort law by generally limiting a party “to recover in contract for purely economic loss 
+21   due to disappointed expectations, unless he can demonstrate harm above and beyond a 
+22   broken contractual promise” from tortious conduct.  Robinson Helicopter Co., Inc. v. Dana 
+23   Corp., </pre><span class="citation" data-id="9795512"><a href="/opinion/2623151/robinson-helicopter-co-inc-v-dana-corp/" aria-description="Citation for case: Robinson Helicopter Co., Inc. v. Dana Corp.">34 Cal. 4th 979</a></span><pre class="inline">, 988–89 (Cal. 2004).  Most recently, in Rattagan v. Uber Techs., 
+24   Inc., the California Supreme Court held that the economic loss rule bars recovery in tort 
+25   for breach of a contract duty “unless two conditions are satisfied.  A plaintiff must first 
+26   demonstrate the defendant’s injury-causing conduct violated a duty that is independent of 
+27   the duties and rights assumed by the parties when they entered the contract.  Second, the 
+1   reasonably contemplated by the parties when the contract was formed.”  </pre><span class="citation no-link">17 Cal. 5th 1</span><pre class="inline">, 20–
+2   21 (Cal. 2024).                                                       
+3        For courts in the Ninth Circuit, whether the economic loss rule bars a conversion 
+4   claim depends on “whether the ownership interest that formed the basis for the conversion 
+5   claim preexisted the contract or arises from the contract.”  Markowitz v. JPMorgan</pre><span class="citation no-link"> Chase 
+6</span><pre class="inline">   Bank, N.A., No. 23-cv-06528-ODW (MRWx), </pre><span class="citation no-link">2024 WL 5203062</span><pre class="inline">, at *5 (C.D. Cal. Dec. 
+7   23, 2024) (citation omitted).  If the property right on which a plaintiff bases a claim for 
+8   conversion was created by the contract, rather than independent of the contract, the 
+9   economic loss rule bars the claim.  Id.; Textainer Equip. Mgmt. (U.S.) Ltd. v. TRS Inc., No. 
+10   07-cv-01519-WHA, </pre><span class="citation no-link">2007 WL 1795695</span><pre class="inline">, at *3 (N.D. Cal. June 20, 2007); Tsai v. Wang, 
+11   No. 17-cv-00614-DMR, </pre><span class="citation no-link">2017 WL 2587929</span><pre class="inline">, at *8–9 (N.D. Cal. June 14, 2017); Zeichner 
+12   v. Nord Sec. Inc., No. 24-cv-02462-JSC, </pre><span class="citation no-link">2024 WL 4951261</span><pre class="inline">, at *8 (N.D. Cal. Dec. 2, 
+13   2024).                                                                
+14        Here, Plaintiffs allege that after they “paid for the Equipment in full, they were 
+15   entitled to take possession of the Equipment following prompt and timely delivery, or to a 
+16   refund of the payments.”  Compl. ¶ 44.  Plaintiffs’ alleged property rights in the equipment 
+17   therefore arose out of their agreements with Defendant because Plaintiffs allege that they 
+18   were entitled to possession as a result of their payments, which were made under and 
+19   governed by the agreements.  See Compl. ¶ 44; see, e.g., Ex. A at 13 ¶ 8 (“Title and risk of 
+20   loss . . . pass to Buyer upon CAET’s receipt of the Purchase Price.”).  Plaintiffs’ alleged 
+21   property right to their payments, in the form of refunds, also arose out of the agreements 
+22   because Plaintiffs allege that they made the payments pursuant to the agreements, Compl. 
+23   ¶¶ 14, 21, 26, and are entitled to refunds based on the terms of the agreements, Compl. ¶¶ 
+24   13, 18, 22, 27.  Because Plaintiffs’ alleged ownership interests were created by the 
+25   agreements, the conversion claim is barred by the economic loss rule.  See Zeichner, 2024 
+</pre><span class="citation no-link">26   WL 4951261</span><pre class="inline">, at *8; Tsai, </pre><span class="citation no-link">2017 WL 2587929</span><pre class="inline">, at *9.                      
+27        Plaintiffs’ conversion claim is therefore DISMISSED with leave to amend. 
+1      E.  Unfair Business Practices (Seventh Claim)                      
+2        California’s UCL prohibits “any unlawful, unfair or fraudulent business act or 
+3   practice.”  </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline">.  A “plaintiff may proceed under the UCL” on 
+4   any of these “three possible theories.”  Garcia v. Sony Comput. Ent. Am., LLC, </pre><span class="citation no-link">859 F. 
+5</span><pre class="inline">   Supp. 2d 1056, 1061 (N.D. Cal. 2012).                                 
+6        Plaintiffs allege Defendant engaged in the following unfair business practices: “(1) 
+7   unjustifiably refusing to refund payments for undelivered products; (2) offering equipment 
+8   for sale, and accepting and retaining payments for such equipment, despite claiming that 
+9   such equipment cannot be shipped in compliance with export laws; (3) refusing to provide 
+10   refunds despite its own failure or refusal to deliver equipment for which it demanded 
+11   prepayment; and (4) falsely representing that it would assist with export compliance.”  
+12   Compl. ¶ 50.                                                          
+13        Plaintiffs appear to concede that they fail to state a claim under the unlawful or 
+14   fraudulent prongs of the UCL, as they do not respond to Defendant’s arguments asserting 
+15   as much.  See Mot. 8–10; Opp’n 11–12; Shagoofa v. Eshaqzi, No. 22-cv-01824-FWS-JDE, 
+16   </pre><span class="citation no-link">2024 WL 1600657</span><pre class="inline">, at *3 (C.D. Cal. Feb. 26, 2024) (“‘A failure to oppose [moving 
+17   arguments in] a motion, as to a claim or an issue’ may be deemed ‘a waiver, abandonment, 
+18   or concession of that claim or issue.’”).  The Court agrees with Defendant that Plaintiffs 
+19   also fail to state a claim under the unfair prong of the UCL.         
+20        The test for unfair conduct under the UCL varies depending on whether a plaintiff 
+21   alleges the unfair conduct is among business competitors or injures consumers.  See 
+22   Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1104" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1104</a></span><pre class="inline"> (N.D. Cal. 2017); Boris v. Wal-
+23   Mart Stores, Inc., </pre><span class="citation" data-id="7225783"><a href="/opinion/7307880/boris-v-wal-mart-stores-inc/" aria-description="Citation for case: Boris v. Wal-Mart Stores, Inc.">35 F. Supp. 3d 1163</a></span><pre class="inline">, 1170–71 (C.D. Cal. 2014).  Plaintiffs’ opposition 
+24   brief suggests the Court should apply the test for injuries to consumers, Opp’n 11, though 
+25   Defendant argues that the consumer test is inappropriate given the nature of the 
+26   transactions alleged, Reply 14.  The Court need not decide as much at this juncture 
+27   because “courts in this district have held that where the unfair business practices alleged 
+    1  || the fraudulent and unlawful prongs of the UCL, the unfair prong of the UCL cannot 
+    2  ||  survive if the claims under the other two prongs of the UCL do not survive.”  Hadley, 243 
+    3  || F. Supp. 3d at 1104-05.  Here, Plaintiffs allege the same conduct by Defendant constituted 
+    4  ||  “unfair, unlawful, and fraudulent business acts and practices” and seemingly concede that 
+    5  || they fail to state a claim under the unlawful or fraudulent prongs of the UCL.  Compl. □□□□ 
+    6  || 50-51; see Opp’n 11-12.  As such, Plaintiffs’ claim under the unfair prong of the UCL 
+    7  || likewise fails.  See Eidmann v. Walgreen Co., </pre><span class="citation no-link">522 F. Supp. 3d 634</span><pre class="inline">, 647 (N.D. Cal. 2021). 
+    8          Plaintiffs’ claim for unfair business practices under the UCL is DISMISSED with 
+    9  || leave to amend. 
+   10  |} IV.    CONCLUSION 
+   11          The Court GRANTS Defendant’s motion to dismiss the complaint.  Specifically, 
+   12  || the Court DISMISSES Plaintiffs’ claims for breach of the implied covenant of good faith 
+     13    and fair dealing (Fourth Claim), conversion (Sixth Claim), and unfair business practices 
+C   14 || under the UCL (Seventh Claim) with leave to amend.  The Court DISMISSES Plaintiffs’ 
+ 3   15  || claims for money had and received (Third Claim) and unjust enrichment (Fifth Claim) 
+     16  || without leave to amend. 
+ 5   17          Plaintiffs must file an amended complaint or a statement indicating they do not 
+ 5   18  |}  intend to amend the complaint by May 13, 2025.  Plaintiffs may not add parties or claims 
+   19  || without leave of the Court. 
+   20          IT IS SO ORDERED. 
+   21 
+   22  || Dated:  April 29, 2025                         he  ————           _ 
+   23                                              United  States Magistrate Judge 
+   24 
+   25 
+   26 
+   27 
+   28 </pre>

@@ -1,0 +1,6 @@
+<opinion type="concurrence">
+<author id="b478-6">Justice Souter,</author>
+<p id="AQC">with whom</p>
+<judges id="AdB">Justice Kennedy joins, concurring in part.</judges>
+<p id="b478-7">I agree with the Court that the restriction at issue here is constitutional under our decision in <em>Central Hudson Gas &amp; Elec. Corp. </em>v. <em>Public Serv. Comm’n of N. Y., </em>447 U. S. 557 (1980), even if that restriction is judged “as applied to Edge itself.” <em>Ante, </em>at 431. I accordingly believe it unnecessary to decide whether the restriction might appropriately be reviewed at a more lenient level of generality, and I take no position on that question.</p>
+</opinion>

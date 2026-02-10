@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b764-6">
+  ORDER FINDING DEBT DISCHARGEA-BLE AND DENYING CONFIRMATION
+ </p>
+<author id="b764-7">
+  JOEL PELOFSKY, Bankruptcy Judge.
+ </author>
+<p id="b764-8">
+  This is a proceeding under Chapter 13 of the Code. Debtors are both employed and their net monthly income is about $1,600.00. They propose to pay $300.00 per month into the plan for a period of 18 months, giving secured creditors 100% of the value of their security and unsecured creditors 10% of the amount of their claims. Debtors also propose to pay an $8,000.00 debt, partially secured but with a family member as co-signer, in full outside the plan.
+ </p>
+<p id="b764-9">
+  One of the debts listed is to American Family Insurance Company, hereinafter the Company, in the sum of $10,000.00. Prior to the filing of this proceeding in bankruptcy, Glenn R. Barker was employed by American Family as an agent. He left its employ, allegedly owing premiums which he had collected from policy holders but not remitted to the Company. At the time of leaving, Barker signed a note for $6,954.35 to resolve the dispute and paid $300.00 on that amount. A suit was pending for collection but was stopped by the filing of this proceeding. The Company has now filed a Complaint to Determine Dischargeability, alleging that the debt is not dischargeable under § 523 of the Code, Title 11, U.S.C., as it arose out of the willful and malicious conversion of funds held in trust by Glenn R. Barker for the Company and that therefore the Plan is not proposed in good faith.
+ </p>
+<p id="b764-10">
+  Barker admitted that the Company was his creditor but denied all of the other essential elements of the Complaint. A hearing on the Complaint was held on October 20, 1980. The Company appeared by counsel; Debtor appeared in person and by counsel. Evidence was heard and briefs were filed by the parties.
+ </p>
+<p id="b764-12">
+  Barker does not deny that he was an agent of the Company or that he owed them money when he left its employ. He does dispute the amount, even though he signed a note, and contends that he did not hold the money in trust because he was allowed to use it for personal needs. The Company contends that its contract with the agent creates a trust fund of premiums collected and that the contractual arrangements may not be varied by the parties.
+ </p>
+<p id="b764-13">
+  The career agent’s agreement which Barker signed provided that the agent agrees “to deliver policies and to collect premiums and other moneys due the Company in accordance with Company rules and while in possession of any such money to hold it in trust as the absolute property of the Company.” The evidence shows that the agent is directed by his local supervisors to establish a bank account separate from his personal account and to deposit all premiums collected in that business account.
+ </p>
+<p id="b764-14">
+  Barker testified that he was told he could use the money in the account for his personal needs so long as he paid the Company what it was entitled to receive each month. Company witnesses testified that he was told he could use the account to pay operating expenses but had to be current in paying the Company what was due. There is no question that Barker was not entitled to keep all the money he collected from policy holders for his own use.
+ </p>
+<p id="b764-15">
+  Section 375.121, R.S.Mo.1978, provides that:
+ </p>
+<blockquote id="b764-16">
+  “Every insurance broker acting as such in this state shall be responsible in a fiduciary capacity for all funds received or collected as an insurance broker, and shall not, without the express consent of his principal, mingle any such funds with his own funds or with funds held by him in any other capacity. Nothing herein contained requires any broker to maintain a separate bank deposit for the funds for each principal; if and as long as the funds so held for each principal are reasonably ascertainable from the books of account and records of the broker.”
+ </blockquote>
+<p id="b765-4">
+<span citation-index="1" class="star-pagination" label="709"> 
+   *709
+   </span>
+  Barker did establish a separate account but proceeded to use all the money deposited therein. Whether or not Barker violated his agreement with the Company by using premiums for his own use, it is clear that he did violate a fiduciary relationship when he failed to pay over premiums at the end of each reporting period.
+ </p>
+<p id="b765-5">
+  Section 523, Title 11, U.S.C., sets out exceptions to discharge. The Company claims the debt owed to it is not dischargeable by reason of the language of Section 523(a)(2)-“obtaining money ... by-(A) false pretenses, a false representation, or actual fraud” or the language of Section 523(a)(4)-“for fraud or defalcation while acting in a fiduciary capacity, embezzlement or larceny.” Missouri statutes and the agency agreement clearly create a fiduciary relationship between Barker and the Company. Use of the premiums for his own needs constituted a defalcation on Barker’s part. In a liquidation proceeding, the debt to the Company would be non-dischargeable. See
+  <em>
+   Matter of Whitlock,
+  </em>
+  <span class="citation" data-id="1640006"><a href="/opinion/1640006/matter-of-whitlock/" aria-description="Citation for case: Matter of Whitlock">449 F.Supp. 1383</a></span> (W.D.Mo.1978.)
+ </p>
+<p id="b765-6">
+  The finding that a debt is not dis-chargeable under Section 523 does not, however, compel a similar result in a Chapter 13 proceeding. Section 1328, Title 11, U.S.C., provides in part that:
+ </p>
+<blockquote id="b765-7">
+  “As soon as practicable after completion by the debtor of all payments under the plan ... the court shall grant the debtor a discharge of all debts provided for by the plan or disallowed under section 502 of this title, except any debt-
+ </blockquote>
+<blockquote id="b765-8">
+  (1) provided for under section 1322(b)(5) of this title; or
+ </blockquote>
+<blockquote id="b765-9">
+  (2) of the kind specified in section 523(a)(5) of this title.”
+ </blockquote>
+<p id="b765-10">
+  Section 1322(b)(5) deals with claims “on which the last payment is due after the date on which the final payment under the plan is due.” Section 523(a)(5) deals with debts for alimony, maintenance or child support. The failure to include other conduct in Section 1328, as specified in other portions of Section 523 as grounds for denial of discharge, requires the Court to infer that the statute permits the discharge of the type of debt found herein provided it is scheduled and some payment is proposed to be made upon it in the Plan. See Lee, Chapter 13 nee Chapter XIII, 53 Am.Bankr. L.J. 303 (1979).
+ </p>
+<p id="b765-12">
+  The Company argues against this conclusion. It contends that since the debt would not be discharged in a Chapter 7 proceeding, the amount it would be paid in liquidation is full payment and anything less than that does not meet the standard established in Section 1325(a)(4) that general creditors be paid no less than what they would receive in a liquidation proceeding. This, however, ignores the substantial difference in the statutory schemes of the two chapters.
+ </p>
+<p id="b765-13">
+  First, the Chapter 13 proceeding does not envision the non-dischargeability of debts of the kind involved here. Secondly, Chapter 7 contemplates the distribution of the debtor’s assets as they exist at a finite moment in time, namely, as of the commencement of the case. Section 541. In a Chapter 13 proceeding, on the other hand, property of the estate includes in addition to that specified in Section 541, all property acquired and all earnings from services performed by the debtor after the commencement of the case. Section 1306; Sen.Report No.95-989, 95th Cong., 2d Sess. 140-141 (1978), reprinted in [1978] 5 U.S.Code Cong. &amp; Ad.News, pp. 5787, 5926-5927. Thus, a general creditor holding a nondischargeable debt under Chapter 7 is not entitled to full payment out of the debtor’s
+  <em>
+   estate
+  </em>
+  but only to so much as remains to him after the payment of secured and priority claims and administrative expenses as his part of the pro rata distribution of dividends to unsecured creditors. Thereafter, his only recourse is against the debtor personally and against property not includable in the bankruptcy estate. But the touchstone for assessing whether Section 1325(a)(4) has been complied with is what the general creditor would have received out of the Section 541 estate, not what he might ultimately be able to collect.
+ </p>
+<p id="b765-14">
+  But Section 1325(a)(4) is only the beginning of the inquiry, establishing a minimal
+  <span citation-index="1" class="star-pagination" label="710"> 
+   *710
+   </span>
+  base of payments. Section 1325(a)(3) requires that the plan be proposed in “good faith”. “Good faith” is nowhere explicitly defined in the Code but some guidance is offered in the legislative history:
+ </p>
+<blockquote id="b766-4">
+  “As in current law 100 percent payment plans will be encouraged by the limitation on availability of a subsequent discharge in section 727(a)(8). This kind of plan has provided great self-satisfaction and pride to those debtors who complete them and at the same time effect a maximum return to creditors ... It is also necessary to prevent Chapter 13 plans from turning into mere offers of composition plans under which payments will equal only the non-exempt assets of the debtor.”
+ </blockquote>
+<p id="Afn">
+  Sen.Report No.989, 95th Cong., 2d Sess. 12-13 (1978), reprinted in [1978] 5 U.S.Code Cong. &amp; Ad.News, pp. 5798-5799.
+ </p>
+<p id="b766-5">
+  Clearly it is envisioned that in Chapter 13 proceedings the debtor will make substantial contributions to the plan. While the precise amount of contribution to the plan will depend upon the circumstances of the case and should not be made into a rigid specification (see e. g.,
+  <em>
+   In re Burrell,
+  </em>
+  <span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/" aria-description="Citation for case: In Re Burrell">6 B.R. 360</a></span>,<span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/" aria-description="Citation for case: In Re Burrell">6 B.C.D. 900</a></span> (D.C.N.D.Cal.1980), in which the Bankruptcy Court’s requirement of 70% payment was rejected by the District Court on appeal), it is a significant aspect of the “good faith” evaluation. Absent exceptional circumstances, “a debtor demonstrates his good faith by proposing to pay at least 10% of his take-home pay over the three year period ordinarily allowed as the maximum duration for Chapter 13 plans.”
+  <em>
+   Matter of Curtis,
+  </em>
+  <span class="citation" data-id="1887416"><a href="/opinion/1887416/matter-of-curtis/#45" aria-description="Citation for case: Matter of Curtis">2 B.R. 43, 45</a></span> (Bkrtcy.W.D.Mo.1979). But “good faith” is not determined solely by an evaluation of contributions to the plan.
+ </p>
+<blockquote id="b766-6">
+  “... the requirement of good faith is one meaning more than just simple honesty. Instead, it requires a fundamental fairness in dealing with one’s creditors. Without such a requirement, Chapter 13 would be open to any number of potential abuses.... Congress has placed on the Court the responsibility to insure that fair dealing is accomplished in Chapter 13 proceedings. They achieved this ... in particular, in the requirement of a specific finding of good faith before a plan can be confirmed ...”
+  <em>
+   In re Beaver,
+  </em>
+  <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/#339" aria-description="Citation for case: In Re Beaver">2 B.R. 337, 339-340</a></span> (Bkrtcy.S.D.Cal.1980).
+ </blockquote>
+<p id="b766-8">
+  In particular, where an otherwise nondis-chargeable debt is concerned, “good faith” requires that the debtor give recognition to the special character of that debt. Here, the debtor has not done so. For this reason, the Plan in question cannot be confirmed. The proposed 10% payment over a period of 18 months to American Family does not meet the test of good faith as described herein.
+ </p>
+<p id="b766-9">
+  The debtors also propose to pay a partially secured creditor 100% outside the plan. The debt is secured by household goods and has a cosigner, apparently a family member. The security interest is presumably voidable under Section 522(f) thus rendering the claim an unsecured one, no different in kind from the other debts proposed to be paid under the plan. Section 506.
+ </p>
+<p id="b766-10">
+  This proposal to pay the debt outside the plan is an attempt at classification. See
+  <em>
+   In re Tatum,
+  </em>
+  <span class="citation" data-id="1975245"><a href="/opinion/1975245/in-re-tatum/" aria-description="Citation for case: In Re Tatum">1 B.R. 445</a></span> (Bkrtcy.S.D.Ohio 1979). Section 1322(b)(1) permits a plan to
+ </p>
+<blockquote id="Aod">
+  “designate a class or classes of unsecured claims, as provided in Section 1122 of this title, but may not discriminate unfairly against any class so designated.”
+ </blockquote>
+<p id="b766-12">
+  An unsecured debt distinguishable from other unsecured debts only by virtue of the presence of a co-signer is not susceptible of separate classification. See, e. g.,
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (Bkrtcy.E.D.Utah 1980);
+  <em>
+   In re McKenzie,
+  </em>
+  <span class="citation" data-id="1538917"><a href="/opinion/1538917/in-re-mckenzie/" aria-description="Citation for case: In Re McKenzie">4 B.R. 88</a></span> (Bkrtcy.W.D.N.Y.1980);
+  <em>
+   In re Wade,
+  </em>
+  <span class="citation" data-id="1538635"><a href="/opinion/1538635/in-re-wade/" aria-description="Citation for case: In Re Wade">4 B.R. 98</a></span> (Bkrtcy.M.D.Tenn.1980);
+  <em>
+   In re Crago,
+  </em>
+  <span class="citation" data-id="1538826"><a href="/opinion/1538826/in-re-crago/" aria-description="Citation for case: In Re Crago">4 B.R. 483</a></span> (Bkrtcy.S.D.Ohio 1980);
+  <em>
+   In re Montano,
+  </em>
+  <span class="citation" data-id="1538767"><a href="/opinion/1538767/in-re-montano/" aria-description="Citation for case: In Re Montano">4 B.R. 535</a></span> (Bkrtcy.D.C.1980); Lee, Chapter 13 nee Chapter XIII, supra. Here the 100% proposed payment outside the plan discriminates unfairly against the remaining unsecured creditors to whom the debtor proposes only 10% repayment.
+ </p>
+<p id="b766-14">
+  It is, therefore, ORDERED as follows:
+ </p>
+<p id="b766-15">
+  1. Confirmation of the plan is DENIED.
+ </p>
+<p id="b766-16">
+  2. The plaintiff’s Motion to Dismiss the proceeding or to convert it to one under
+  <span citation-index="1" class="star-pagination" label="711"> 
+   *711
+   </span>
+  Chapter 7 is DENIED, as none of the conditions of Section 1307 are present.
+ </p>
+<p id="b767-4">
+  SO ORDERED.
+ </p>
+</opinion>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b222-15">
+  OPINION AND ORDER
+ </p>
+<author id="b222-16">
+  WILLIAM C. CONNER, District Judge.
+ </author>
+<p id="b222-17">
+  This is an
+  <em>
+   in rem
+  </em>
+  action to enforce maritime liens under 46 U.S.C.App. § 971. Plaintiff alleges that it has not been paid for bunker fuel furnished to defendant’s vessel in Saudi Arabia and New York, and that it is therefore entitled to liens. Defendant contends that no enforceable liens exist. The parties have cross-moved for summary judgment pursuant to Rule 56, Fed.R. Civ.P. Plaintiff’s lien claim for the delivery in Saudi Arabia is dismissed for want of admiralty jurisdiction. Judgment is granted in plaintiff’s favor, however, with respect to the fuel delivered in New York.
+ </p>
+<p id="b222-18">
+  BACKGROUND
+ </p>
+<p id="b222-19">
+  Defendant Central Gulf Lines, Inc. (“Central Gulf”) is the owner of a vessel, the Green Harbour ex William Hooper (the “Hooper”). The Hooper was built in the United States with subsidies and financing provided by the federal government. She is classified by the American Bureau of Shipping, and flies the United States flag. Her port of registry is New Orleans, Louisiana.
+ </p>
+<p id="b222-20">
+  The Hooper was chartered by a bareboat charter party to the Waterman Steamship Corporation (“Waterman”). Waterman used the Hooper in its U.S. flag common carrier service between ports in the United States and ports in the Middle East.
+ </p>
+<p id="b222-21">
+  For forty years, plaintiff Exxon Corporation (“Exxon”) was Waterman’s exclusive worldwide supplier of gas and bunker fuel oil. Waterman and Exxon negotiated a marine fuel requirements contract in 1983. The unsigned document set minimum and maximum purchase limits. It provided that the fuel would be provided by the “Seller” (Exxon) or by “Supplying Companies, referred to in Seller’s ‘International Contract Price List for Marine Fuel Delivered as Ships’ Bunkers.’” Exhibit 3 to Affidavit of James E. Sharkey.
+ </p>
+<p id="b222-22">
+  When Waterman wished to make a purchase pursuant to this agreement, it telephoned Exxon, providing the details of the vessel to be bunkered and the place and
+  <span citation-index="1" class="star-pagination" label="157"> 
+   *157
+   </span>
+  approximate time of loading. Exxon would either effect delivery on its own, or direct its local supplier to deliver the bunkers to the vessel. Exxon would invoice Waterman for the fuel supplied, and if a local supplier was used, pay its supplier.
+ </p>
+<p id="b223-3">
+  Apparently, Exxon did not rely on local suppliers when providing ships with fuel in New York. Exxon alleges that on October 7, 1983, it supplied the Hooper with 41.929 tons of gas oil in New York. Exxon invoiced Waterman for $13,241.63 on October 18, 1983.
+ </p>
+<p id="b223-4">
+  Whenever Exxon procured bunker fuel for Waterman vessels at the port in Jed-dah, Saudi Arabia, it used a local supplier, Arabian Marine Operating Co., Ltd. (“Arabian Marine”). The agreement controlling the relationship between Exxon and Arabian Marine provided that: “Exxon shall solicit and arrange for the sale of marine fuels to international customers having bunkering requirements at the port of Jed-dah. Arabian Marine shall supply marine fuels to those customers nominated by Exxon.” In return for Exxon’s services, Arabian Marine agreed to pay Exxon a “commission.” Under the terms of the agreement, Exxon would never actually own the fuel. “Title to all fuel delivered by Arabian Marine to the nominated customers solicited by Exxon will pass directly from Arabian Marine to the customer at the flange of the receiving vessel.” Exhibit 4 to Affidavit of James E. Sharkey.
+ </p>
+<p id="b223-5">
+  Around January, 1982, Arabian Marine began providing its customers with certain discounts at Jeddah. Since Exxon’s company policy did not permit it to participate in this practice in Saudi Arabia, it suggested that Waterman make its own arrangements for price and supplies. Waterman elected to negotiate directly with Arabian Marine. Exhibit 4 to Affidavit of James E. Sharkey.
+ </p>
+<p id="b223-6">
+  As of this time, Exxon was no longer involved in Waterman’s purchase of bunkers in Jeddah. As a matter of courtesy to their long-time customer, Exxon allowed Waterman to use its communications system so that Waterman could more easily transmit its orders to Arabian Marine. Exxon was no longer informed of the specifics of these deliveries, and received no payments on account of them.
+ </p>
+<p id="b223-9">
+  On September 29, 1983, Waterman placed an order with Arabian Marine for the delivery of bunker fuel to be delivered to the Hooper in Jeddah on October 25, 1983. In mid-October, 1983, Arabian Marine informed Exxon that, due to Waterman’s financial condition, it would no longer deal directly with Waterman, and suggested that the previous arrangement be restored. Exxon consented. On October 26,1983, Arabian Marine delivered 4,242.47 tons of bunker fuel oil to the Hooper pursuant to the original agreement. Exxon was invoiced for this delivery on October 31, 1983. The invoice was paid by Exxon on November 15, 1983. Waterman was invoiced for $763,644.60 on November 8, 1983.
+ </p>
+<p id="b223-10">
+  Waterman filed a Chapter 11 reorganization proceeding on December 1, 1983. On November 14, 1984, Exxon, Central Gulf, and Waterman reached an agreement under which Central Gulf consented to assume personal liability for the deliveries if this Court decides that the Hooper is liable
+  <em>
+   in rem
+  </em>
+  on account of the deliveries. Central Gulf also provided Exxon with a letter of credit as security for its promise.
+ </p>
+<p id="b223-11">
+  A reorganization plan for Waterman was confirmed on June 19, 1986. It entitled Exxon to pursue this claim. Exxon has received, under the reorganization plan, certain cash and stock dividends. Exxon admits that its claim should be diminished by the amount that it receives under the reorganization plan.
+ </p>
+<p id="b223-12">
+  DISCUSSION
+ </p>
+<p id="b223-13">
+<em>
+   Standard for Summary Judgment
+  </em>
+</p>
+<p id="b223-14">
+  A party seeking summary judgment must demonstrate that “there is no genuine issue as to any material fact.” Fed.R. Civ.P. 56(c);
+  <em>
+   Knight v. U.S. Fire Insurance Company,
+  </em>
+  <span class="citation" data-id="8946000"><a href="/opinion/8955059/knight-v-us-fire-insurance/#11" aria-description="Citation for case: Knight v. U.S. Fire Insurance">804 F.2d 9, 11</a></span> (2d Cir.1986), ce
+  <em>
+   rt. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./480/932/">480 U.S. 932</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./107/1570/">107 S.Ct. 1570</a></span>, <span class="citation no-link">94 L.Ed.2d 762</span> (1987). “When the moving party has carried its burden under Rule 56(c), its opponent must do more than simply show that there is some metaphysi
+  <span citation-index="1" class="star-pagination" label="158"> 
+   *158
+   </span>
+  cal doubt as to the material facts.”
+  <em>
+   Matsushita Electric Industrial Co. v. Zenith Radio Corp.,
+  </em>
+  <span class="citation" data-id="111620"><a href="/opinion/111620/matsushita-electric-industrial-co-ltd-v-zenith-radio-corporation/#586" aria-description="Citation for case: Matsushita Electric Industrial Co., Ltd. v. Zenith Radio...">475 U.S. 574, 586</a></span>, <span class="citation" data-id="111620"><a href="/opinion/111620/matsushita-electric-industrial-co-ltd-v-zenith-radio-corporation/#1356" aria-description="Citation for case: Matsushita Electric Industrial Co., Ltd. v. Zenith Radio...">106 S.Ct. 1348, 1356</a></span>, <span class="citation" data-id="111620"><a href="/opinion/111620/matsushita-electric-industrial-co-ltd-v-zenith-radio-corporation/" aria-description="Citation for case: Matsushita Electric Industrial Co., Ltd. v. Zenith Radio...">89 L.Ed.2d 538</a></span> (1986). It must demonstrate that there is a “genuine issue for trial.” <span class="citation" data-id="111620"><a href="/opinion/111620/matsushita-electric-industrial-co-ltd-v-zenith-radio-corporation/#587" aria-description="Citation for case: Matsushita Electric Industrial Co., Ltd. v. Zenith Radio...">Id. at 587</a></span>, <span class="citation" data-id="111620"><a href="/opinion/111620/matsushita-electric-industrial-co-ltd-v-zenith-radio-corporation/#1356" aria-description="Citation for case: Matsushita Electric Industrial Co., Ltd. v. Zenith Radio...">106 S.Ct. at 1356</a></span>. “In considering the motion, the court’s responsibility is not to resolve disputed issues of fact but to assess whether there are any factual issues to be tried, while resolving ambiguities and drawing reasonable inferences against the moving party.”
+  <em>
+   Knight
+  </em>
+  <span class="citation" data-id="8946000"><a href="/opinion/8955059/knight-v-us-fire-insurance/#11" aria-description="Citation for case: Knight v. U.S. Fire Insurance">804 F.2d at 11</a></span>. The inquiry under a motion for summary judgment is thus the same as that under a motion for a directed verdict: “whether the evidence presents a sufficient disagreement to require submission to a jury or whether it is so one-sided that one party must prevail as a matter of law.”
+  <em>
+   Anderson v. Liberty Lobby, Inc.,
+  </em>
+  <span class="citation" data-id="111719"><a href="/opinion/111719/anderson-v-liberty-lobby-inc/#251" aria-description="Citation for case: Anderson v. Liberty Lobby, Inc.">477 U.S. 242, 251-52</a></span>, <span class="citation" data-id="111719"><a href="/opinion/111719/anderson-v-liberty-lobby-inc/#2512" aria-description="Citation for case: Anderson v. Liberty Lobby, Inc.">106 S.Ct. 2505, 2512</a></span>, <span class="citation" data-id="111719"><a href="/opinion/111719/anderson-v-liberty-lobby-inc/" aria-description="Citation for case: Anderson v. Liberty Lobby, Inc.">91 L.Ed. 2d 202</a></span> (1986).
+ </p>
+<p id="b224-4">
+<em>
+   Choice of Law
+  </em>
+</p>
+<p id="b224-5">
+  Plaintiff Exxon contends that American law should govern whether maritime liens exist in this case. Defendant does not oppose this contention. I agree that this case should be decided according to American law. The United States has a significant interest in this case. The shipowner, the charterer, the ship, and the plaintiff were all American. On the other hand, Saudi Arabia has no interest in having its law apply in this case. The only foreign participant in this transaction, Arabian Marine, was not injured.
+  <em>
+   See Lauritzen v. Larsen,
+  </em>
+  <span class="citation" data-id="105130"><a href="/opinion/105130/lauritzen-v-larsen/#582" aria-description="Citation for case: Lauritzen v. Larsen">345 U.S. 571, 582-90</a></span>, <span class="citation" data-id="105130"><a href="/opinion/105130/lauritzen-v-larsen/#928" aria-description="Citation for case: Lauritzen v. Larsen">73 S.Ct. 921, 928-32</a></span>, <span class="citation" data-id="105130"><a href="/opinion/105130/lauritzen-v-larsen/" aria-description="Citation for case: Lauritzen v. Larsen">97 L.Ed. 1254</a></span> (1953);
+  <em>
+   Rainbow Line, Inc. v. M/V Tequila,
+  </em>
+  <span class="citation" data-id="312098"><a href="/opinion/312098/rainbow-line-inc-v-mv-tequila-ex-linglee-her-engines-tackle/#1026" aria-description="Citation for case: Rainbow Line, Inc. v. M/v Tequila (Ex Linglee), Her...">480 F.2d 1024, 1026-27</a></span> (2d Cir.1973).
+ </p>
+<p id="b224-6">
+<em>
+   The Maritime Liens
+  </em>
+</p>
+<p id="ASS">
+  Plaintiff Exxon claims that it is entitled to liens under Section 30, Subsec. P of the Federal Maritime Lien Act (the “Act”). The Act provides, in pertinent part:
+ </p>
+<blockquote id="b224-7">
+  Any person furnishing ... supplies ... or other necessaries, to any vessel, whether foreign or domestic, upon the order of the owner of such vessel, or of a person authorized by the owner, shall have a maritime lien on the vessel, which may be enforced by suit in rem, and it shall not be necessary to allege or prove that credit was given to the vessel.
+ </blockquote>
+<p id="b224-9">
+  46 U.S.C.App. § 971.
+ </p>
+<p id="b224-10">
+  Defendant Central Gulf denies the existence of the Saudi Arabian lien on three alternative grounds: (1) Exxon did not “furnish” the Hooper with bunker fuel in Jeddah; (2) Exxon’s intervention in the Jed-dah transaction was a response to Arabian Marine’s request, not Waterman’s “order”; and (3) Exxon did not rely on the credit of the Hooper. Defendant denies the existence of the New York lien on the ground that there is no proof that Exxon delivered gas to the Hooper in New York.
+ </p>
+<p id="b224-11">
+  Among the cases cited by defendant in support of its contention that Arabian Marine, not Exxon, “furnished” the bunker fuel in Jeddah is
+  <em>
+   Peralta Shipping Corp. v. Smith &amp; Johnson (Shipping) Corp.,
+  </em>
+  <span class="citation" data-id="439072"><a href="/opinion/439072/peralta-shipping-corporation-v-smith-johnson-shipping-corp/" aria-description="Citation for case: Peralta Shipping Corporation v. Smith &amp; Johnson...">739 F.2d 798</a></span> (2d Cir.1984),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./470/1031/">470 U.S. 1031</a></span>, <span class="citation" data-id="9046458"><a href="/opinion/9052984/greer-v-united-states/" aria-description="Citation for case: Greer v. United States">105 S.Ct. 1405</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/84/791/">84 L.Ed.2d 791</a></span> (1985). While defendant does not frame its argument in jurisdictional terms, I am persuaded that
+  <em>
+   Peralta
+  </em>
+  deprives me of admiralty jurisdiction over Exxon’s Saudi Arabian claim. On the other hand, defendant’s defense with respect to the New York delivery is meritless. Plaintiff is thus entitled to judgment on that claim.
+ </p>
+<p id="b224-12">
+<em>
+   The Saudi Arabian Delivery
+  </em>
+</p>
+<p id="ANt">
+  A prerequisite to the existence of a maritime lien based on a breach of contract is that the subject matter of the contract must fall within the admiralty jurisdiction.
+  <em>
+   E.S. Binnings, Inc. v. M/V Saudi Riyadh,
+  </em>
+  <span class="citation" data-id="8949934"><a href="/opinion/8958856/es-binnings-inc-v-mv-saudi-riyadh/#666" aria-description="Citation for case: E.S. Binnings, Inc. v. M/V Saudi Riyadh">815 F.2d 660, 666</a></span> (11th Cir.1987);
+  <em>
+   The Walter Adams,
+  </em>
+  <span class="citation" data-id="8809276"><a href="/opinion/8824508/seaboard-fisheries-co-v-piedmont-georges-creek-coal-co/" aria-description="Citation for case: Seaboard Fisheries Co. v. Piedmont &amp; Georges Creek Coal Co.">253 F. 20, 24</a></span> (1st Cir.1918) (“A contract cannot afford the necessary basis for a maritime lien, unless it is maritime in its nature, so as to be cognizable in admi-ralty_”), aff
+  <em>
+   'd sub nom. Piedmont &amp; Georges Creek Coal Co. v. Seaboard Fisheries Co.,
+  </em>
+  <span class="citation" data-id="99629"><a href="/opinion/99629/piedmont-georges-creek-coal-co-v-seaboard-fisheries-co/" aria-description="Citation for case: Piedmont &amp; Georges Creek Coal Co. v. Seaboard Fisheries Co.">254 U.S. 1</a></span>, <span class="citation" data-id="99629"><a href="/opinion/99629/piedmont-georges-creek-coal-co-v-seaboard-fisheries-co/" aria-description="Citation for case: Piedmont &amp; Georges Creek Coal Co. v. Seaboard Fisheries Co.">41 S.Ct. 1</a></span>, <span class="citation" data-id="99629"><a href="/opinion/99629/piedmont-georges-creek-coal-co-v-seaboard-fisheries-co/" aria-description="Citation for case: Piedmont &amp; Georges Creek Coal Co. v. Seaboard Fisheries Co.">65 L.Ed. 97</a></span> (1920); G. Gilmore &amp; C. Black,
+  <em>
+   The Law of Admiralty
+  </em>
+  § 9-20 (2d ed.1975) [hereinafter Gilmore &amp; Black] (“To give rise to a lien a claim must be in first instance maritime. Thus we recur to the question of what is within the jurisdiction of the admiral-ty_”); 7A J. Moore &amp; A. Palaez,
+  <span citation-index="1" class="star-pagination" label="159"> 
+   *159
+   </span>
+<em>
+   Moore’s Federal Practice
+  </em>
+  ¶ C.02 (2d ed.1988) (a “Court must act within its admiralty jurisdiction in hearing” a proceeding to execute a maritime lien);
+  <em>
+   id.
+  </em>
+  ¶ C.03 (“Obviously to give rise to a maritime lien, the occurrence out of which the loss, injury or dispute arose must itself be maritime. That means that the occurrence must be within the admiralty jurisdiction of the United States as established by the Constitution and adopted by the Congress.”);
+  <em>
+   id.
+  </em>
+  11 C.05 (“maritime liens may arise from the breach of contracts that are maritime in nature”); T. Schoenbaum,
+  <em>
+   Admiralty and Maritime Law,
+  </em>
+  § 3-2 (1987) (maritime liens are recognized only when the case comes within the admiralty jurisdiction);
+  <em>
+   c.f. United States v. Pacific Far East Lines, Inc.,
+  </em>
+  <span class="citation" data-id="482063"><a href="/opinion/482063/united-states-v-pacific-far-east-lines-inc-and-pacific-far-east-and/#1437" aria-description="Citation for case: United States v. Pacific Far East Lines, Inc., and...">809 F.2d 1435, 1437-38</a></span> (9th Cir.1987) (claims of employee association for loss of pay and benefits by shoreside employees were not maritime in nature and, consequently, could not give rise to a maritime lien).
+ </p>
+<p id="b225-5">
+  While admiralty jurisdiction provides “fairly complete coverage of the primary operational and service concerns of the shipping industry,” there still exist “a few anomalous exceptions.” Gilmore &amp; Black § 1-10. One of these exceptions is the rule that agency contracts under which a party agrees to solicit or procure freight, passengers, crew, or supplies for a vessel are not maritime contracts. The Second Circuit in
+  <em>
+   Peralta Shipping Corp. v. Smith &amp; Johnson (Shipping) Corp.,
+  </em>
+  <span class="citation" data-id="439072"><a href="/opinion/439072/peralta-shipping-corporation-v-smith-johnson-shipping-corp/" aria-description="Citation for case: Peralta Shipping Corporation v. Smith &amp; Johnson...">739 F.2d 798</a></span> (2d Cir.1984),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./470/1031/">470 U.S. 1031</a></span>, <span class="citation" data-id="9046458"><a href="/opinion/9052984/greer-v-united-states/" aria-description="Citation for case: Greer v. United States">105 S.Ct. 1405</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/84/791/">84 L.Ed.2d 791</a></span> (1985), recently refused to discard this exception. The
+  <em>
+   Per-alta
+  </em>
+  court welcomed a reevaluation by the Supreme Court, but felt bound by the Court’s ruling in
+  <em>
+   Minturn v. Maynard,
+  </em>
+  <span class="citation" data-id="86948"><a href="/opinion/86948/pulliam-v-osborne/" aria-description="Citation for case: Pulliam v. Osborne">58 U.S. (17 How.) 476</a></span>, <span class="citation" data-id="86949"><a href="/opinion/86949/minturn-v-maynard/" aria-description="Citation for case: Minturn v. Maynard">15 L.Ed. 235</a></span> (1854). <span class="citation" data-id="439072"><a href="/opinion/439072/peralta-shipping-corporation-v-smith-johnson-shipping-corp/#804" aria-description="Citation for case: Peralta Shipping Corporation v. Smith &amp; Johnson...">739 F.2d at 804</a></span>. The Supreme Court declined the Second Circuit’s invitation to overrule
+  <em>
+   Mintum. Peralta Shipping Corp. v. Smith &amp; Johnson (Shipping) Corp.,
+  </em>
+  <span class="citation" data-id="111390"><a href="/opinion/111390/peralta-shipping-corp-v-smith-johnson-shipping-corp/" aria-description="Citation for case: Peralta Shipping Corp. v. Smith &amp; Johnson (Shipping) Corp.">470 U.S. 1031</a></span>, <span class="citation" data-id="9046458"><a href="/opinion/9052984/greer-v-united-states/" aria-description="Citation for case: Greer v. United States">105 S.Ct. 1405</a></span>, <span class="citation multiple-matches"><a href="/c/L.Ed.2d/84/791/">84 L.Ed.2d 791</a></span> (1985) (Brennan, Marshall &amp; Blackmun, JJ., would have granted certio-rari).
+ </p>
+<p id="b225-6">
+  The defendant in
+  <em>
+   Peralta
+  </em>
+  was hired as the husbanding agent for vessels calling on certain ports, and provided services such as arranging for fuel, water, provisions, customs clearance, and stevedoring. For the most part, the defendant employed others to perform services on the vessel, although at the port of New Orleans, the defendant “hired” itself to act as stevedore. The Second Circuit found that the defendant performed merely “preliminary” services leading to a maritime contract, not cognizable in admiralty. Quoting an early Southern District case,
+  <em>
+   The Thames,
+  </em>
+  <span class="citation" data-id="8122563"><a href="/opinion/8160908/the-thames/" aria-description="Citation for case: The Thames">10 F. 848</a></span> (S.D.N.Y.1881), the Court of Appeals explained:
+ </p>
+<blockquote id="b225-9">
+  The distinction between preliminary services leading to a maritime contract and such contracts themselves have been affirmed in this country from the first, and not yet departed from. It furnishes a distinction capable of somewhat easy application. If it be broken down, I do not perceive any other dividing line for excluding from the admiralty many other sorts of claims which have a reference, more or less near or remote, to navigation and commerce. If the broker of a charter-party be admitted, the insurance broker must follow, — the drayman, the . expressman, and all others who perform services having reference to a voyage either in contemplation or executed.
+ </blockquote>
+<p id="b225-10">
+  <span class="citation" data-id="439072"><a href="/opinion/439072/peralta-shipping-corporation-v-smith-johnson-shipping-corp/#801" aria-description="Citation for case: Peralta Shipping Corporation v. Smith &amp; Johnson...">739 F.2d at 801-02</a></span>. The court explicitly declined to circumvent
+  <em>
+   Mintum
+  </em>
+  by distinguishing it or carving exceptions out of its rule. It rejected, for example, the notion that services necessary for a continuing voyage fall within admiralty jurisdiction.
+  <em>
+   <span class="citation" data-id="439072"><a href="/opinion/439072/peralta-shipping-corporation-v-smith-johnson-shipping-corp/" aria-description="Citation for case: Peralta Shipping Corporation v. Smith &amp; Johnson...">Id.</a></span>
+  </em>
+  at 803 &amp; n. 4. The court held to its previous holdings that agency contracts are not maritime in nature.
+ </p>
+<p id="b225-11">
+  Applying the principles enunciated in
+  <em>
+   Peralta
+  </em>
+  to the facts at hand, it is evident that Exxon’s arrangement to procure fuel for the Hooper in Saudi Arabia was not a maritime contract. Admittedly, Exxon’s contract with Waterman is not called an “agency contract.” Indeed, it refers to Exxon as a “seller,” not a procurer, of marine fuel. Yet “the focus of our inquiry must not be on the name assigned to the contract, but rather on the nature of the services to be performed.”
+  <em>
+   Ingersoll Mill
+  </em>
+<span citation-index="1" class="star-pagination" label="160"> 
+   *160
+   </span>
+<em>
+   ing Machine Co. v. M/V Bodena,
+  </em>
+  <span class="citation" data-id="8954606"><a href="/opinion/8963375/ingersoll-milling-machine-co-v-mv-bodena/#302" aria-description="Citation for case: Ingersoll Milling Machine Co. v. M/V Bodena">829 F.2d 293, 302</a></span> (2d Cir.1987),
+  <em>
+   cert. denied,
+  </em>
+  — U.S. -, <span class="citation multiple-matches"><a href="/c/S.Ct./108/774/">108 S.Ct. 774</a></span>, <span class="citation" data-id="9068490"><a href="/opinion/9074647/bernard-v-ingersoll-milling-machine-co/" aria-description="Citation for case: Bernard v. Ingersoll Milling Machine Co.">98 L.Ed.2d 860</a></span> (1988).
+ </p>
+<p id="b226-6">
+  Under the contract, Exxon served in two distinct capacities. Its first role was as a supplier of marine fuels. When Waterman vessels called at ports where Exxon maintains its own blinker stations, Exxon promised to physically deliver the bunkers. When the vessels, however, called at ports where Exxon depends on local suppliers, Exxon promised to arrange for the local suppliers to provide Waterman ships with fuel. When acting in this latter capacity, Exxon was merely Waterman’s agent.
+ </p>
+<p id="b226-7">
+  Exxon wore its agency hat when it procured bunkers for the Hooper in Jeddah. Its services with respect to the Jeddah delivery included taking Waterman’s order, contacting Arabian Marine, maintaining a bunkers contract with Arabian Marine, and advancing Waterman the purchase price by paying Arabian Marine. It never actually possessed the fuel that was supplied to the Hooper at Jeddah. Indeed, pursuant to Exxon’s contract with Arabian Marine, title to the fuel passed directly from Arabian Marine to the Hooper. In return for these services, Exxon received a commission which was deducted from Arabian Marine’s invoice to Exxon. In sum, Exxon’s role in the transaction was strictly “shoreside,”
+  <em>
+   E.S. Binnings,
+  </em>
+  <span class="citation" data-id="8949934"><a href="/opinion/8958856/es-binnings-inc-v-mv-saudi-riyadh/#664" aria-description="Citation for case: E.S. Binnings, Inc. v. M/V Saudi Riyadh">815 F.2d at 664</a></span>. As Exxon put it in its discussion of the choice of law issue, the locus of Exxon’s relationship with Waterman was the United States, not the dock in Jeddah.
+  <em>
+   See
+  </em>
+  Plaintiff’s Memorandum of Law at 16. Exxon’s services were thus “preliminary”; they ended before the bunkers reached the Hooper.
+ </p>
+<p id="b226-8">
+<em>
+   Peralta
+  </em>
+  did not involve the Federal Maritime Lien Act, and the court left open the question of whether the agency contract exception applies to suits brought under the Act.
+  <em>
+   See Peralta,
+  </em>
+  <span class="citation" data-id="439072"><a href="/opinion/439072/peralta-shipping-corporation-v-smith-johnson-shipping-corp/" aria-description="Citation for case: Peralta Shipping Corporation v. Smith &amp; Johnson...">739 F.2d at 800</a></span>
+  <em>
+   &amp;
+  </em>
+  n. 2 (“Congress [through the Federal Maritime Lien Act] has expressly included certain transactions or events within admiralty.”). It is well-settled, however, that Congress did not intend to expand admiralty jurisdiction through the Act. In
+  <em>
+   E.S. Binnings,
+  </em>
+  the Eleventh Circuit addressed the question of whether “a maritime lien can arise and be enforced under the [Act] although the underlying contact would not be considered maritime.” <span class="citation" data-id="8949934"><a href="/opinion/8958856/es-binnings-inc-v-mv-saudi-riyadh/#666" aria-description="Citation for case: E.S. Binnings, Inc. v. M/V Saudi Riyadh">815 F.2d at 666</a></span>. The court concluded that although Congress “may extend the admiralty jurisdiction to areas not formerly included within it,” there is “no indication ... that the [Act] was intended to enlarge the admiralty jurisdiction to include agency contracts.”
+  <em>
+   <span class="citation" data-id="8949934"><a href="/opinion/8958856/es-binnings-inc-v-mv-saudi-riyadh/" aria-description="Citation for case: E.S. Binnings, Inc. v. M/V Saudi Riyadh">Id.</a></span>
+  </em>
+  Indeed, shortly after the Act was adopted, Justice Brandéis, quoting the legislative reports, declared that the Act “makes no change in the general principles of the present law of maritime liens.”
+  <em>
+   Piedmont &amp; Georges Creek Coal Co. v. Seaboard Fisheries Co.,
+  </em>
+  <span class="citation" data-id="99629"><a href="/opinion/99629/piedmont-georges-creek-coal-co-v-seaboard-fisheries-co/#11" aria-description="Citation for case: Piedmont &amp; Georges Creek Coal Co. v. Seaboard Fisheries Co.">254 U.S. 1, 11</a></span>, <span class="citation" data-id="99629"><a href="/opinion/99629/piedmont-georges-creek-coal-co-v-seaboard-fisheries-co/#4" aria-description="Citation for case: Piedmont &amp; Georges Creek Coal Co. v. Seaboard Fisheries Co.">41 S.Ct. 1, 4</a></span>, <span class="citation" data-id="99629"><a href="/opinion/99629/piedmont-georges-creek-coal-co-v-seaboard-fisheries-co/" aria-description="Citation for case: Piedmont &amp; Georges Creek Coal Co. v. Seaboard Fisheries Co.">65 L.Ed. 97</a></span> (1920);
+  <em>
+   see also New Bedford Dry Dock Co. v. Purdy,
+  </em>
+  <span class="citation" data-id="99925"><a href="/opinion/99925/new-bedford-dry-dock-co-v-purdy/#98" aria-description="Citation for case: New Bedford Dry Dock Co. v. Purdy">258 U.S. 96, 98-99</a></span>, <span class="citation" data-id="99925"><a href="/opinion/99925/new-bedford-dry-dock-co-v-purdy/#244" aria-description="Citation for case: New Bedford Dry Dock Co. v. Purdy">42 S.Ct. 243, 244</a></span>, <span class="citation" data-id="99925"><a href="/opinion/99925/new-bedford-dry-dock-co-v-purdy/" aria-description="Citation for case: New Bedford Dry Dock Co. v. Purdy">66 L.Ed. 482</a></span> (1922) (party claiming lien under the Act must establish that agreement was maritime in that it involved repairs, not original construction). Professors Gilmore and Black are quite clear on this point:
+  <em>
+   “Assuming its maritime nature,
+  </em>
+  almost any type of service claim will today be held within the Lien Act....” Gilmore &amp; Black § 9-35 (emphasis added).
+ </p>
+<p id="b226-10">
+  Exxon’s attempt to distinguish this case from the agency contract cases must be rejected. While it is true that
+  <em>
+   Peralta
+  </em>
+  involved a general agency, and that there are
+  <em>
+   dicta
+  </em>
+  that agents who arrange for the supply of bunkers may sue in admiralty,
+  <em>
+   see, e.g., Tramp Oil &amp; Marine Ltd. v. M/V Mermaid I,
+  </em>
+  <span class="citation" data-id="2311996"><a href="/opinion/2311996/tramp-oil-marine-ltd-v-mv-mermaid-i/#633" aria-description="Citation for case: Tramp Oil &amp; Marine Ltd. v. M/V MERMAID I">630 F.Supp. 630, 633</a></span> (D.Puerto Rico) (“Exxon and Colonial, as direct suppliers, would be the ones entitled to the protection of the maritime lien provisions of section 971.”),
+  <em>
+   aff'd
+  </em>
+  <span class="citation" data-id="479209"><a href="/opinion/479209/tramp-oil-and-marine-ltd-v-mv-mermaid-i-her-engines-etc/" aria-description="Citation for case: Tramp Oil and Marine, Ltd. v. M/v &quot;Mermaid I&quot;, Her...">805 F.2d 42</a></span> (1st Cir.1986) (“Exxon ... caused Colonial ... to supply the oil to the Mermaid.... No one disputes that Exxon and Colonial as direct suppliers of the fuel to the Mermaid would be entitled to a maritime lien.”), any distinction between a husbanding agent and a bunkering agent is untenable. “[I]t would be anomalous to hold that a general agency agreement” to, among other things, arrange for fuel supplies “is outside admiralty, while an agreement between a princi
+  <span citation-index="1" class="star-pagination" label="161"> 
+   *161
+   </span>
+  pal” and an agent who has procured bunkers for the vessel “falls within the grant of jurisdiction.”
+  <em>
+   See Continental Cameras Co. v. FOA &amp; Son Corp.,
+  </em>
+  <span class="citation" data-id="2362149"><a href="/opinion/2362149/continental-cameras-co-inc-v-foa-son-corp/#289" aria-description="Citation for case: Continental Cameras Co., Inc. v. Foa &amp; Son Corp.">658 F.Supp. 287, 289</a></span> (S.D.N.Y.) (Sand, J.) (insurance broker),
+  <em>
+   aff'd
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/831/45/">831 F.2d 45</a></span> (2d Cir.1987) (per curiam);
+  <em>
+   see also Boyd, Weir &amp; Sewell, Inc. v. Fritzen-Halcyon, Lijn, Inc.,
+  </em>
+  <span class="citation" data-id="1587408"><a href="/opinion/1587408/boyd-weir-sewell-inc-v-fritzen-halcyon-lijn-inc/" aria-description="Citation for case: Boyd, Weir &amp; Sewell, Inc. v. Fritzen-Halcyon Lijn, Inc.">709 F.Supp. 77</a></span> (S.D.N.Y.1989) (Cannella, J.) (chartering agent).
+ </p>
+<p id="b227-4">
+  As a way of getting around the jurisdictional difficulty in this case, it might be argued that Exxon furnished the Hooper with the credit it needed to obtain the fuel, and thus was not a mere agent. That Exxon advanced the Hooper needed cash is admitted by Central Gulf. Defendant’s Memorandum of Law at 19-20 (“Exxon acted, as a guarantor of payment under the bunkering agreement ... ”). Defendant suggests, however, that a lien claimed by virtue of Exxon’s extension of credit would arise only by subrogation, and would be governed by Saudi Arabian law.
+  <em>
+   See
+  </em>
+  Defendant’s Memorandum of Law at 7-9. Although this may not be the case,
+  <em>
+   see Universal Shipping v. The Panamanian Flag Barge,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/563/483/">563 F.2d 483</a></span>, 484 (1st Cir.1976)
+  <em>
+   (dictum
+  </em>
+  distinguishing lien arising by subrogation when advance is given to discharge an existing lien from lien arising when advance is made for the purpose of permitting vessel to purchase other necessaries), plaintiff has not claimed a lien on the ground that it advanced the Hooper the funds needed to refuel,
+  <em>
+   see
+  </em>
+  Plaintiff’s Reply Memorandum at 14. Moreover, the
+  <em>
+   Mintum
+  </em>
+  case itself involved a general agent who had “laid out” and “expended” funds for the ship “in paying for supplies.” The Court nevertheless concluded that there was “nothing in the nature of a maritime contract in the case.”
+  <em>
+   Minturn,
+  </em>
+  <span class="citation" data-id="86949"><a href="/opinion/86949/minturn-v-maynard/#477" aria-description="Citation for case: Minturn v. Maynard">58 U.S. at 477</a></span>.
+ </p>
+<p id="b227-5">
+  Although this Court has construed the Federal Maritime Lien Act broadly to further its “stated purpose of fostering marine commerce,”
+  <em>
+   Itel Containers International v. Atlanttrafik Express Service,
+  </em>
+  <span class="citation" data-id="8894047"><a href="/opinion/8906696/itel-containers-international-corp-v-atlanttrafik-express-service-ltd/#230" aria-description="Citation for case: Itel Containers International Corp. v. Atlanttrafik...">668 F.Supp. 225, 230</a></span> (S.D.N.Y.1987) (Carter, J.), I cannot disregard the advice of the Second Circuit that creating exceptions to the agency contract rule based on “hairsplitting distinctions would blur, if not obliterate, a rather clear admiralty distinction.”
+  <em>
+   Peralta,
+  </em>
+  <span class="citation" data-id="439072"><a href="/opinion/439072/peralta-shipping-corporation-v-smith-johnson-shipping-corp/#804" aria-description="Citation for case: Peralta Shipping Corporation v. Smith &amp; Johnson...">739 F.2d at 804</a></span>. I therefore hold that Exxon’s agreement to procure fuel for the Hooper at Jeddah falls outside of the admiralty jurisdiction of this Court. Since a maritime lien under Section 971 cannot arise out of nonmaritime contracts, Exxon’s claim for a $763,644.60 lien for the Jeddah fuel delivery is dismissed.
+ </p>
+<p id="A5V">
+<em>
+   The New York Delivery
+  </em>
+</p>
+<p id="b227-8">
+  Exxon was the supplier, not agent, with respect to the New York delivery. Its $13,241.63 claim therefore falls within the admiralty jurisdiction. Central Gulf’s only defense with respect to this delivery is that Exxon has failed to prove it. I find that there is no genuine issue of material fact as to the existence of the New York delivery, and grant summary judgment in plaintiff’s favor on this claim.
+ </p>
+<p id="b227-9">
+  “In order for a contract to be within the admiralty jurisdiction, either it must be wholly maritime or its nonmaritime elements must be insubstantial or separable.”
+  <em>
+   E.S. Binnings,
+  </em>
+  <span class="citation" data-id="8949934"><a href="/opinion/8958856/es-binnings-inc-v-mv-saudi-riyadh/#665" aria-description="Citation for case: E.S. Binnings, Inc. v. M/V Saudi Riyadh">815 F.2d at 665</a></span>. “The substantial question is whether the maritime obligations can be separately enforced without prejudice to the rest.”
+  <em>
+   Compagnie Francaise de Navigation a Vapeur v. Bonnasse,
+  </em>
+  <span class="citation" data-id="1502215"><a href="/opinion/1502215/compagnie-francaise-de-navigation-a-vapeur-v-bonnasse/#779" aria-description="Citation for case: Compagnie Francaise De Navigation a Vapeur v. Bonnasse">19 F.2d 777, 779</a></span> (2d Cir.),
+  <em>
+   cert. denied,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./275/551/">275 U.S. 551</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./48/114/">48 S.Ct. 114</a></span>, <span class="citation no-link">72 L.Ed. 421</span> (1927).
+ </p>
+<p id="b227-10">
+  The contract between Exxon and Waterman can be divided into the separate fuel orders. Each delivery was a separate occurrence; Exxon sent Waterman a separate bill for each transaction. Moreover, the deliveries could be divided into two groups: a first, in which Exxon relied on local suppliers to provide Waterman ships with the bunkers; and a second, in which Exxon delivered its own fuel to the vessels.
+ </p>
+<p id="b227-11">
+  Central Gulf has failed to produce any credible evidence controverting Exxon’s contention that it delivered bunkers to the Hooper in New York, and the evidence submitted by Exxon is sufficient to warrant summary judgment in its favor. Central Gulf admits that around October 7,
+  <span citation-index="1" class="star-pagination" label="162"> 
+   *162
+   </span>
+  1983, the Hooper requested Exxon to supply it with fuel in New York. It claims however, that the “bunkers were, in fact, delivered to the vessel by a supplier other than Exxon.” Affidavit of Francis A. Montbach 116. Apparently, Central Gulfs belief that Exxon did not deliver the fuel is based on Exxon’s failure “to produce even the most crucial piece of evidence; the delivery receipt.” Central Gulfs Reply Memorandum at 16. Exxon admits that “no bunker receipt ... has been found despite a diligent search,” Exxon’s Reply Memorandum at 2, but has supplied the Court with affidavits asserting that the delivery took place. Adam Rudzki, a Credit Manager at Exxon, disputes that “the fuel oil delivered to the WILLIAM HOOPER in New York on January 7,1983 was made by an entity other than Exxon,” and swears that the delivery “was made by Exxon Company, U.S.A. which was then, and still is, an unincorporated division of Exxon Corporation.” To this defendant responds that “Mr. Rudzki, who is not a marine salesman, ... must have obtained such knowledge from business records kept by Exxon.” Central Gulf’s Reply Memorandum at 16. Yet James Sharkey, who
+  <em>
+   is
+  </em>
+  a marine salesman for Exxon, also swears that “[i]n accordance with [the Hooper’s] request, Exxon delivered the gas oil in question and subsequently invoiced Waterman (and the vessel) for this.” Affidavit of James E. Sharkey ¶ 12. Ironically, the only affidavit that defendant submits to dispute Exxon’s evidence is that of Francis Mont-bach, the attorney who represents Central Gulf in this litigation, and who has no personal knowledge of the transaction.
+ </p>
+<p id="b228-4">
+  If this evidence were to be submitted at trial, no reasonable jury could find in favor of defendant. “Rule 56(e) ... requires the nonmoving party to go beyond the pleadings and by her own affidavits or by the ‘depositions, answers to interrogatories, and admissions on file,’ designate ‘specific facts showing that there is a genuine issue for trial.’ ”
+  <em>
+   Celotex Corp. v. Catrett,
+  </em>
+  <span class="citation" data-id="111722"><a href="/opinion/111722/celotex-corp-v-catrett-administratrix-of-the-estate-of-catrett/#324" aria-description="Citation for case: Celotex Corp. v. Catrett, Administratrix of the Estate of...">477 U.S. 317, 324</a></span>, <span class="citation" data-id="111722"><a href="/opinion/111722/celotex-corp-v-catrett-administratrix-of-the-estate-of-catrett/#2553" aria-description="Citation for case: Celotex Corp. v. Catrett, Administratrix of the Estate of...">106 S.Ct. 2548, 2553</a></span>, <span class="citation" data-id="111722"><a href="/opinion/111722/celotex-corp-v-catrett-administratrix-of-the-estate-of-catrett/" aria-description="Citation for case: Celotex Corp. v. Catrett, Administratrix of the Estate of...">91 L.Ed. 2d 265</a></span> (1986). Central Gulf has failed to overcome Exxon’s proof of delivery with evidence of its own. At most, it has raised no more than a “metaphysical doubt” as to the delivery in New York.
+  <em>
+   Matsushita,
+  </em>
+  <span class="citation" data-id="111620"><a href="/opinion/111620/matsushita-electric-industrial-co-ltd-v-zenith-radio-corporation/#586" aria-description="Citation for case: Matsushita Electric Industrial Co., Ltd. v. Zenith Radio...">475 U.S. at 586</a></span>, 106 S.Ct. at 1356. A trial is not warranted on this issue. Summary judgment is granted in plaintiff’s favor as to its claim for a $13,241.63 lien with respect to the New York delivery.
+ </p>
+<p id="b228-6">
+  CONCLUSION
+ </p>
+<p id="b228-7">
+  For the reasons stated above: (1) plaintiff’s claim for a lien of $763,644.60 with respect to the Jeddah delivery is denied for lack of admiralty jurisdiction; and (2) plaintiff’s claim for a lien of $13,241.63 with respect to the New York delivery is granted. In accordance with Exxon’s agreement with Central Gulf, plaintiff’s recovery will be reduced by certain amounts Exxon received under the reorganization plan. Settle judgment on two weeks’ notice.
+ </p>
+<p id="b228-8">
+  SO ORDERED.
+ </p>
+</opinion>

@@ -1,0 +1,407 @@
+<pre class="inline">              UNITED STATES DISTRICT COURT                              
+                DISTRICT OF MASSACHUSETTS                               
+
+               CIVIL ACTION NO. 21-10059-RGS                            
+
+             MARLA BUSH, KIMBERLY DEHAVEN,                              
+           NANCY MUNIE, and MONIQUE SALERNO,                            
+                 Individually and on behalf of all                      
+                    others similarly situated,                          
+
+                             v.                                         
+
+            WELL PET, LLC; and DOES 1 through 20                        
+
+               MEMORANDUM AND ORDER ON                                  
+             DEFENDANT’S MOTION TO DISMISS                              
+
+                        April 14, 2021                                  
+
+STEARNS, D.J.                                                             
+   Plaintiffs Marla Bush, Kimberly DeHaven, Nancy Munie, and Monique    
+Salerno filed this putative class action against WellPet, LLC on behalf of 
+themselves  and  all  others  similarly  situated.    They  allege  that  WellPet 
+breached an express (Count I) and/or implied (Count II) warranty; unjustly 
+enriched  itself  at  plaintiffs’  expense  (Count  III);  violated  the  consumer 
+protection laws of New York (Counts IV and V), California (Counts VI, VII, 
+and VIII), Massachusetts (Count IX), and other states (Count XII); violated 
+the Magnuson-Moss Warranty Act, </pre><span class="citation no-link">15 U.S.C. §§ 2301</span><pre class="inline">, et seq. (Count X); and 
+negligently misrepresented material facts (Count XI) when it advertised its 
+pet food as “grain free” despite the presence of trace amounts of gluten in the 
+finished products.  WellPet moves to dismiss the case pursuant to Fed.  R. 
+Civ. P 12(b)(6).  For the following reasons, the court will allow the motion. 
+                           BACKGROUND 
+    WellPet  is  a  company  that  “manufactures,  sells,  and/or  distributes 
+Wellness-brand” pet food products.  Compl. (Dkt # 1) 412.  It advertises the 
+products  sold  under  two  of its  lines  (the  “Core”  line  and  the  “Complete 
+Health” line) as “grain free,” as illustrated by the packaging below:1 
+
+          a             ee              ce 
+        ASIN] oot                         WELLNESS      YVELLNES 
+                     CEIRE            ag        . 
+         hie :         (canner       |    en ean]        og amit 
+        oe                             |   a                  |  ‘Jom   
+      oo                               ; Sy   =       © 
+
+ 4/19.  Plaintiffs are pet owners who purchased pet food from the Core and 
+Complete Health lines because of the representation that the products were 
+grain free. 
+
+    1  The  website  also  advertises  the  products  as  “100%  grain-free.” 
+Compl.   717.  Plaintiffs, however, do not allege that they reviewed or relied 
+on the website in purchasing the products.  See </pre><span class="citation no-link">id.    8-11</span><pre class="inline"> (alleging only that 
+plaintiffs reviewed and relied on “the product’s labeling and packaging”). 
+    2 Plaintiffs allegedly desired grain free pet food because they “believe 
+that dogs and cats require pet foods that contain more protein and animal
+
+   Prior  to  filing  this  lawsuit,  plaintiffs,  through  their  counsel, 
+“commissioned an independent laboratory to” to test WellPet’s Core and    
+
+Complete  Health  line  pet  foods.    </pre><span class="citation no-link">Id.  ¶  21</span><pre class="inline">.    The  testing  “revealed”  that 
+WellPet’s pet food “had significant gluten content.”  </pre><span class="citation no-link">Id.</span><pre class="inline">  Armed with this 
+revelation, plaintiffs repaired to the federal district court, arguing that the 
+gluten  ingredient3  renders  the  “grain  free”  label  false  and  misleading.  
+
+WellPet moved to dismiss on March 16, 2021.                               
+                        DISCUSSION                                      
+   “To survive a motion to dismiss, a complaint must contain sufficient 
+
+factual matter, accepted as true, to ‘state a claim to relief that is plausible on 
+its face.’”  Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662, 678</a></span><pre class="inline"> (2009), quoting Bell Atl. Corp. 
+v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 570</a></span><pre class="inline"> (2007).  Two basic principles guide the     
+court’s analysis.  “First, the tenet that a court must accept as true all of the 
+
+
+fats and fewer carbohydrates than grain-based pet foods” and “grain-free pet 
+foods are considered easily digestible and more similar to pets’ natural diets.”  
+Id. ¶ 15.                                                                 
+
+   3 The term “gluten” comes from the Latin word for “glue.”  As this   
+etymology would suggest, gluten proteins are sticky and can link together 
+(much in the way the proteins in spider’s silk link together) to form stretchy, 
+scaffolding-like complexes.  The viscidity of gluten makes it particularly 
+useful in baking, but manufacturers also add gluten to products as diverse as 
+shampoo and makeup products because of its binding properties.  See Gluten 
+Food and Labeling: What is Gluten?, U.S. Food and Drug Administration,    
+https://www.fda.gov/food/nutrition-education-resources-                   
+materials/gluten-and-food-labeling (last visited April 14, 2021).         
+allegations contained in a complaint is inapplicable to legal conclusions.”  
+Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. at 678</a></span><pre class="inline">.  “Second, only a complaint that states a plausible claim 
+
+for relief survives a motion to dismiss.”  </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#679" aria-description="Citation for case: Ashcroft v. Iqbal">Id. at 679</a></span><pre class="inline">.  A claim is facially 
+plausible  if  its  factual  content  “allows  the  court  to  draw  the  reasonable 
+inference that the defendant is liable for the misconduct alleged.”  </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">Id. at 678</a></span><pre class="inline">. 
+Breach of Warranty (Counts I, II, and X)                                  
+
+a. Express Warranty                                                     
+   To bring an express warranty claim, a plaintiff must show that the   
+seller breached some “affirmation of fact or promise” it made concerning the 
+
+product.  </pre><span class="citation no-link">N.Y. U.C.C. Law § 2-313</span><pre class="inline">; </pre><span class="citation no-link">Cal. Com. Code § 2313.4</span><pre class="inline">  The parties   
+dispute whether the presence of gluten in the tested products breaches an 
+express promise  that the pet food is “grain free.”  See Compl. ¶¶ 40-41,  46, 
+121-122; Def.’s Mem. (Dkt # 8) at 11-12; Pls.’s Opp’n (Dkt # 16) at 10.  This is 
+
+decided by the answer to a simple question: Is gluten a grain?            
+   The Oxford English Dictionary defines “grain” as the “seed of cereal 
+plants,   corn.”        Grain,    Oxford    English    Dictionary,        
+https://www.oed.com/view/Entry/80508?rskey=muZSx9&amp;result=1#eid            
+
+
+
+   4 Plaintiffs concede that the economic loss doctrine bars their breach 
+of express warranty claim under Massachusetts law.  See Pls.’s Opp’n at 10 
+n.2.  The court accordingly will dismiss this portion of Count I without  
+further discussion.                                                       
+(last visited April 14, 2021); accord Grain, Merriam-Webster Dictionary,  
+https://www.merriam-webster.com/dictionary/grain (last visited April 14,  
+
+2021) (defining “grain” as “the seeds or fruits of various food plants including 
+the cereal grasses and in commercial and statutory usage other plants (such 
+as       the        soybean)”);      Grain,        Dictionary.com,        
+https://www.dictionary.com/browse/grain  (last  visited  April  14,  2021) 
+
+(defining “grain” as “a small, hard seed, especially the seed of a food plant 
+such as wheat, corn, rye, oats, rice, or millet”; “the gathered seed of food 
+plants, especially of cereal plants”; or “such plants collectively”).  The short 
+
+answer is this.  Gluten is not a grain.  It is rather a family of proteins (glutenin 
+and gliadin) often found in some (but not all) grains, most typically wheat, 
+rye, spelt, and barley.5  Gluten is not the “seed of” a “cereal plant” or “corn” 
+itself but a protein compound found within the seed of some cereal plants.  
+
+And it would be nonsensical to call this protein, once separated from the 
+wheat, rye, spelt, or barley which produced it, a “grain.”  One would not, after 
+all, call tannins “wine” once they have been removed (or fined) from the wine 
+which produced them.  The court thus declines to find that the presence of 
+
+
+
+   5  Consistent  with  this  interpretation,  gluten  does  not  appear  as  a 
+separate entry on the list of what the Association of American Feed Control 
+Officials considers to be grain products.  See Compl. ¶ 13.               
+gluten in a product labeled as “grain free” establishes a breach of an express 
+warranty.6                                                                
+
+   Even assuming that a consumer (or the court) were gullible enough to 
+believe that gluten is a grain (presumably, because of its association with 
+certain grains), the Complaint still fails to establish a breach of an express 
+warranty.  Plaintiffs do not allege that WellPet intentionally added gluten to 
+
+its  Core  and  Complete  Health  pet  foods  (e.g.,  as  an  ingredient  in  the 
+formula).  They allege only that investigation revealed an undisclosed level 
+of gluten within the tested products.  Gluten can find its way into a product 
+
+by any number of paths.  Cross-contamination, for example, could account  
+for  its  presence  during  testing;  the  stickiness  of  gluten  puts  even  non-
+glutinous  products  at  risk  of  turning  up  trace  amounts  of  gluten  if 
+manufactured on the same machinery as glutinous products.  A reasonable   
+
+consumer therefore would not be so “absolutist” as to require a “grain free” 
+product  to  contain  no  gluten,  however  negligible  the  amount  actually 
+
+
+
+   6  The  court  also  finds  it  significant  that  ordinary  consumers  are 
+familiar with gluten as a stand-alone substance commonly sold in the baking 
+aisle of any supermarket.  So, too, can a consumer find gluten-producing  
+grains processed to remove gluten.  Under the circumstances, the court    
+believes that any reasonable consumer would know that “gluten free” and   
+“grain free” carry different connotations and promise the absence of different 
+ingredients.                                                              
+present.7  Cf. Parks v. Ainsworth Pet Nutrition, LLC, </pre><span class="citation" data-id="7253547"><a href="/opinion/7335627/parks-v-ainsworth-pet-nutrition-llc/#247" aria-description="Citation for case: Parks v. Ainsworth Pet Nutrition, LLC">377 F. Supp. 3d 241, 
+247</a></span><pre class="inline"> (S.D.N.Y. 2019) (dismissing a consumer fraud claim because, inter alia, 
+
+“a reasonable consumer would not be so absolutist as to require that ‘natural’ 
+means there is no glyphosate, even an accidental and innocuous amount, in 
+the Products”).  It follows that the mere presence of gluten in a product, 
+regardless  of  the  amount,  does  not  plausibly  demonstrate  breach  of  a 
+
+warranty of “grain free.”                                                 
+   Plaintiffs argue that the court cannot assume the gluten content in the 
+tested products is a trace or negligible amount because the Complaint refers 
+
+to a “significant gluten content.”  Compl. ¶ 21.  But significant is not as clear 
+a term as plaintiffs suggest.  Is a significant gluten content 3 parts per million 
+in every product tested (i.e., a statistically significant trace level of gluten)?  
+Or is it 10,000 parts per million in some of the products (i.e., significantly 
+
+large  level  of  gluten)?  Nothing  in  the  Complaint  makes  the  latter  more 
+plausible than the former.  And without such clarification, the court cannot 
+reasonably make an inference that significant means a high level.         
+
+
+
+   7 Indeed, even products specifically advertised as “gluten free” (and not 
+just “grain free”) may contain some trace amount of gluten.  The U.S. Food 
+and Drug Administration allows manufacturers of human food products to    
+label their products gluten free so long as those products contain a gluten 
+level below 20 parts per million.                                         
+b. Implied Warranty                                                     
+   The Complaint does not plausibly demonstrate that WellPet breached   
+
+any implied warranty not to include grain in the products for the same    
+reasons it does not demonstrate that WellPet breached an express warranty.  
+To  the  extent  plaintiffs  argue  breach  of  the  implied  warranty  of 
+merchantability, their claims fail for an independent reason.  Plaintiffs have 
+
+not shown that the presence of gluten renders the products unsuitable for 
+their intended and ordinary use.  The value of grain free food is that it 
+allegedly is “easily digestible” and contains “more protein and animal fats 
+
+and fewer carbohydrates than grain-based pet foods.”8  Id. ¶ 15.  The addition 
+of gluten, a protein, does not undermine or otherwise diminish this benefit. 
+c. Magnuson-Moss Warranty Act                                           
+   Plaintiffs  do  not  dispute  that  the  Magnuson-Moss  Warranty  Act 
+
+(MMWA), </pre><span class="citation no-link">15 U.S.C. §§ 2301</span><pre class="inline">, et seq., is coextensive with state law, see Pls.’s 
+Opp’n at 13.  Thus, in the absence of any surviving state law warranty claim,  
+the MMWA claims necessarily fail.                                         
+
+
+
+
+   8 Plaintiffs do not suggest that they purchased Core or Complete Health 
+pet food products because their pets had any allergies to grain products or to 
+gluten.                                                                   
+Consumer Protection Act Violations (Counts IV, V, VI, VII, VIII,          
+IX, XII)                                                                  
+
+   The  consumer  protection  laws  of  New  York,  Massachusetts,  and 
+California prohibit deceptive practices and/or unfair conduct in business 
+transactions.9  See Mass. Gen. Laws ch. 93A; </pre><span class="citation no-link">N.Y. Gen. Bus. Law §§ 349</span><pre class="inline">, 350; 
+</pre><span class="citation no-link">Cal. Civil Code §§ 1750</span><pre class="inline">, et seq.; </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code §§ 17200</span><pre class="inline">, et seq.; </pre><span class="citation no-link">Cal. 
+
+Bus. &amp; Prof. Code §§ 17500</span><pre class="inline">, et seq.  Plaintiffs allege both types of misconduct 
+here.                                                                     
+a. Deceptive Practices                                                  
+
+   “[A]n advertisement is deceptive when it has the capacity to mislead 
+consumers, acting reasonably under the circumstances, to act differently  
+from the way they otherwise would have acted (i.e., to entice a reasonable 
+consumer to purchase the product).”  Dumont v. Reily Foods Co., </pre><span class="citation" data-id="9889063"><a href="/opinion/4646797/dumont-v-reily-foods-co/#40" aria-description="Citation for case: Dumont v. Reily Foods Co.">934 F.3d  
+
+35, 40</a></span><pre class="inline"> (1st Cir. 2019) (alteration in original), quoting Aspinall v. Philip 
+Morris Cos., </pre><span class="citation" data-id="6453010"><a href="/opinion/6578993/aspinall-v-philip-morris-companies-inc/#396" aria-description="Citation for case: Aspinall v. Philip Morris Companies, Inc.">442 Mass. 381, 396</a></span><pre class="inline"> (2004); see also Parks, </pre><span class="citation" data-id="7253547"><a href="/opinion/7335627/parks-v-ainsworth-pet-nutrition-llc/#246" aria-description="Citation for case: Parks v. Ainsworth Pet Nutrition, LLC">377 F. Supp. 3d at 
+246-247</a></span><pre class="inline"> (noting that conduct is deceptive when it is “likely to mislead a 
+reasonable consumer acting reasonably under the circumstances”), quoting  
+
+
+
+   9 Plaintiffs do not argue that their false advertising claims under </pre><span class="citation no-link">N.Y. 
+Gen. Bus. Law § 350</span><pre class="inline">, </pre><span class="citation no-link">Cal. Civil Code § 1750</span><pre class="inline">, et. seq., and </pre><span class="citation no-link">Cal. Bus. &amp; Prof. 
+Code §§ 17500</span><pre class="inline">, et seq., are factually or legally distinct from the generic 
+consumer protection claims.                                               
+Cohen v. JP Morgan Chase &amp; Co., </pre><span class="citation" data-id="2702"><a href="/opinion/2702/cohen-v-jp-morgan-chase-co/#126" aria-description="Citation for case: Cohen v. JP Morgan Chase &amp; Co.">498 F.3d 111, 126</a></span><pre class="inline"> (2d Cir. 2007); Hadley  
+v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1089" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1089</a></span><pre class="inline"> (N.D. Cal. 2017) (“[C]onduct 
+
+is considered deceptive or misleading if the conduct is ‘likely to deceive’ a 
+‘reasonable consumer.’”), quoting Williams v. Gerber Prods. Co., </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/#938" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d 
+934,  938</a></span><pre class="inline">  (9th  Cir.  2008).    “Whether  conduct  is  deceptive  is  initially  a 
+question of fact.”  Aspinall, </pre><span class="citation" data-id="6453010"><a href="/opinion/6578993/aspinall-v-philip-morris-companies-inc/#394" aria-description="Citation for case: Aspinall v. Philip Morris Companies, Inc.">442 Mass. at 394</a></span><pre class="inline">; see also Grossman v. Simply 
+
+Nourish Pet Food Co. LLC, </pre><span class="citation no-link">2021 WL 293774</span><pre class="inline">, at *8 (E.D.N.Y. Jan. 27, 2021); 
+Hadley </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1098" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d at 1098</a></span><pre class="inline">.  However, “is well settled that a court may 
+determine as a matter of law that an allegedly deceptive advertisement would 
+
+not have misled a reasonable consumer.”  Lima, </pre><span class="citation no-link">2019 WL 3802885</span><pre class="inline">, at *9,    
+quoting Fink v. Time Warner Cable, </pre><span class="citation" data-id="866709"><a href="/opinion/866709/fink-v-time-warner-cable/#741" aria-description="Citation for case: Fink v. Time Warner Cable">714 F.3d 739, 741</a></span><pre class="inline"> (2d Cir. 2013); see  
+also Chervin v. Travelers Ins. Co., </pre><span class="citation" data-id="6453530"><a href="/opinion/6579463/chervin-v-travelers-insurance/#112" aria-description="Citation for case: Chervin v. Travelers Insurance">448 Mass. 95, 112</a></span><pre class="inline"> (2006); Hadley, </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1099" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. 
+Supp. 3d at 1099</a></span><pre class="inline">.                                                         
+
+   Plaintiffs  argue  that  WellPet’s  advertising  is  deceptive because  the 
+products contain gluten and thus allegedly are not grain free.10  See Compl. 
+
+
+   10  Plaintiffs  do  not  argue  that  –  if  gluten  is  not,  in  and  of  itself, 
+considered a grain – its status as a grain by-product would nonetheless cause 
+a reasonable consumer to mistakenly believe that a grain free product would 
+also be gluten free, i.e., that the grain free representation, although a “literal 
+truth,” nonetheless “create[d] an over-all misleading impression” that the 
+products were gluten free.  Aspinall, </pre><span class="citation" data-id="6453010"><a href="/opinion/6578993/aspinall-v-philip-morris-companies-inc/#395" aria-description="Citation for case: Aspinall v. Philip Morris Companies, Inc.">442 Mass. at 395</a></span><pre class="inline">; see Pls.’s Opp’n at 8 
+(“Plaintiffs  are  alleging  that  Defendant’s  products  contain  gluten,  and 
+therefore cannot be grain-free.  Thus, unlike in Parks, Plaintiffs here allege 
+that  there  is  an  affirmative  misstatement  on  the  labels  of  Defendant’s 
+¶¶ 65, 67, 76, 88, 96, 102, 111; see also id. ¶¶ 8-11.  As the court has already 
+explained, the argument is based on common logical fallacy, that is, a non 
+
+sequitur, the first premise of which (gluten is a grain) is demonstrably false. 
+   To the extent that WellPet may be faulted for failing to disclose the 
+possibility of gluten cross-contamination of its “grain free” products,  the 
+court cannot discern how this disclosure would have had any material impact 
+
+on  plaintiffs’  purchasing  decisions  (their  conclusory  allegations  to  the 
+contrary notwithstanding). 11  Plaintiffs allege that they purchased grain free 
+pet food because it “contain[s] more protein and animal fats and fewer    
+
+carbohydrates than grain-based pet foods.”  Compl. ¶ 15; see also Pls.’s Opp’n 
+at 11 (“Plaintiffs . . . decided to purchase the Products because ‘grain-free pet 
+foods are considered easily digestible and more similar to pets’ natural diets’ 
+due to the fact that they ‘contain more protein and animal fats and fewer 
+
+
+products,  and  not  merely  a  statement  that  could  potentially  be   
+misconstrued.”);  Compl.  ¶  1  (alleging  that  the  grain  free  representation 
+“misleads consumers into believing that the Misabeled Pet Foods contain no 
+grain even though the Mislabeled Pet Foods in fact do contain gluten (i.e. 
+grain[)]”).  Nor do plaintiffs suggest that the failure to disclose the possibility 
+of  gluten  cross-contamination  in  a  grain  free  product  otherwise  would 
+constitute a material omission or nondisclosure.                          
+
+   11 The Food and Drug Administration does not require animal food     
+manufacturers to list “[i]ncidental additives that are present in a food at 
+insignificant levels and do not have any technical or functional effect in that 
+food,” e.g., “[s]ubstances migrating to food from equipment or packaging,” 
+on labels.  </pre><span class="citation no-link">21 C.F.R. § 501.100</span><pre class="inline">(a)(3).                                    
+carbohydrates than grain-based pet foods.’”).  As gluten is a protein, its 
+presence in the products does nothing to detract from the benefits plaintiffs 
+
+sought to obtain from grain free pet food.  The claims accordingly fail.  See 
+Parks v. Ainsworth Pet Nutrition, LLC, </pre><span class="citation" data-id="7253547"><a href="/opinion/7335627/parks-v-ainsworth-pet-nutrition-llc/#248" aria-description="Citation for case: Parks v. Ainsworth Pet Nutrition, LLC">377 F. Supp. 3d 241, 248</a></span><pre class="inline"> (S.D.N.Y. 
+2019) (dismissing consumer protection claims because “[t]he presence of   
+negligible amounts of glyphosate in a dog food product that do not have   
+
+harmful, ‘toxic,’ or ‘carcinogenic’ effects is not likely to affect consumers’ 
+decisions in purchasing the product and is thus not material”).           
+b. Unfair Conduct                                                       
+
+   Conduct is unfair “if it is (1) within the penumbra of a common law, 
+statutory, or other established concept of unfairness; (2) immoral, unethical, 
+oppressive, or unscrupulous; or (3) causes substantial injury to [consumers,] 
+competitors or other business people.”  Tomasella v. Nestle USA, Inc., </pre><span class="citation no-link">962 
+
+F.3d 60</span><pre class="inline">, 79 (1st Cir. 2020) (alterations in original), quoting Heller Fin. v. Ins. 
+Co. of N. Am., </pre><span class="citation" data-id="2068338"><a href="/opinion/2068338/heller-financial-v-insurance-co-of-north-america/#408" aria-description="Citation for case: Heller Financial v. Insurance Co. of North America">410 Mass. 400, 408</a></span><pre class="inline"> (1991).12  Plaintiffs argue that WellPet 
+engaged in unfair conduct because it charged plaintiffs a substantial price 
+
+
+
+   12 “Although the precise test for the . . . ‘unfair’ prong has not been 
+definitively established” under California law, see In re Nexus 6P Prod. Liab. 
+Litig., </pre><span class="citation" data-id="7246673"><a href="/opinion/7328757/in-re-nexus-6p-prods-liab-litig/#930" aria-description="Citation for case: In re Nexus 6P Prods. Liab. Litig.">293 F. Supp. 3d 888, 930</a></span><pre class="inline"> (N.D. Cal. 2018), plaintiffs do not suggest it 
+differs in any material respect from the Massachusetts standard, see Pls.’s 
+Opp’n at 9.                                                               
+premium for its products on the false promise that the products would be  
+grain free.  See Pls.’s Opp’n at 9 (citing Compl. ¶¶ 3, 8-11, 18, 19).  But for the 
+
+reasons discussed above, plaintiffs have not shown that the presence of   
+gluten had any bearing 0n the promise that products were grain free or    
+otherwise rendered the product less valuable than the price charged.13  The 
+claims accordingly fail.                                                  
+
+Unjust Enrichment (Count III)                                             
+   Plaintiffs’  unjust  enrichment  claim  is  premised  on  WellPet  having 
+“misrepresented the grain content of the Mislabeled Pet Foods by claiming 
+
+they were ‘grain free.’”  Compl.¶ 58.  As the court previously determined that 
+the presence of gluten does not render the “grain free” promise false (which, 
+in turn, means that WellPet did not misrepresent the grain content of its 
+products), the unjust enrichment claim fails.  See Fitzgerald v. Polar Corp., 
+
+</pre><span class="citation no-link">2020 WL 6586628</span><pre class="inline">, at *5 (D. Mass. Nov. 10, 2020) (“As Polar made no        
+actionable misrepresentation to Fitzgerald, the retention of the purchase 
+price cannot be found to be unjust.”).                                    
+
+
+
+
+
+   13 As noted above, gluten is a protein and thus would not increase the 
+carbohydrate content of the products or otherwise negate the benefits which 
+plaintiffs sought from grain free pet foods.                              
+Negligent Misrepresentation (Count XI)                                    
+   Plaintiffs’ negligent misrepresentation claim14 is premised on WellPet 
+
+having  misrepresented  “the  grain  content  of  the  Mislabeled  Pet  Foods.”  
+Compl. ¶ 127.  As the court previously determined that the presence of gluten 
+does not render the “grain free” promise false (which, in turn, means that 
+WellPet did not misrepresent the grain content of its products), the negligent 
+
+misrepresentation claim fails.  See Ashton v. J.M. Smucker Co., </pre><span class="citation no-link">2020 WL   
+8575140</span><pre class="inline">, at *12 (C.D. Cal. Dec. 16, 2020).                                
+Leave to Amend                                                            
+
+   Plaintiffs request that, if the court allows the motion to dismiss, it 
+grants plaintiffs leave to amend.  See Pls.’s Opp’n at 20.  The court, however, 
+would need the benefit of a proposed Amended Complaint to determine       
+whether plaintiffs have a good faith basis for maintaining the lawsuit (or 
+
+whether as Defendants suggest, any amendment would be futile, see Def.’s  
+Reply (Dkt # 19) at 10).                                                  
+
+
+
+
+
+
+   14 Plaintiffs concede that they have not adequately alleged a claim for 
+negligent misrepresentation under New York or Massachusetts law.  Pls.’s  
+Opp’n at 17 n.3.  The court accordingly dismiss these portions of Count III. 
+                             ORDER                                      
+   For the forgoing reasons, the Complaint is dismissed, albeit without 
+
+prejudice.  Should plaintiffs seek to amend, they will have twenty-one (21) 
+days from the date of this decision to file a proposed Amended Complaint. 
+                            SO ORDERED.                                 
+                            /s/Richard G. Stearns  ____ _____           
+                            UNITED STATES DISTRICT JUDGE                </pre>

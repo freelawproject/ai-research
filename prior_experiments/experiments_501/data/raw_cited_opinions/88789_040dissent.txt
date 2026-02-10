@@ -1,0 +1,4 @@
+<opinion data-order="166" data-type="opinion" id="x999-47" type="dissent">
+<author id="b62-8">Mr. Justice HUNT:</author>
+<p id="A_5">I dissent from the opinion of the court.</p>
+</opinion>

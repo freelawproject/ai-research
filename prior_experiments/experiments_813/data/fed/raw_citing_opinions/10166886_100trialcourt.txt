@@ -1,0 +1,1034 @@
+<pre class="inline">1   WO                                                                   
+2                                                                        
+3                                                                        
+4                                                                        
+5                                                                        
+6                 IN THE UNITED STATES DISTRICT COURT                    
+7                     FOR THE DISTRICT OF ARIZONA                        
+
+8                                                                        
+
+9   Laborers  District  Council  Construction  No. CV-23-01455-PHX-DLR   
+    Industry Pension Fund, et al.,                                       
+10                                      ORDER                             
+               Plaintiffs,                                               
+11                                                                        
+    v.                                                                   
+12                                                                        
+    Sea Limited, et al.,                                                 
+13                                                                        
+               Defendants.                                               
+14                                                                        
+15                                                                        
+16        This is a federal securities class action lawsuit brought on behalf of a putative class 
+17   of those who purchased or otherwise acquired Defendant Sea Limited’s (“Sea”) American 
+18   Depository Shares (“ADSs”) between November 15, 2022 and August 14, 2023. Lead 
+19   Plaintiff Laborers District Council Construction Industry Pension Fund (“Plaintiff”) asserts 
+20   claims under §§ 10(b) and 20(a) of the Securities Exchange Act of 1934 (“Exchange Act”) 
+21   against Sea and Sea’s executive officers:  Forrest Xiaodong Li, Tony Tianyu Hou, Yanjun 
+22   Wang, Gang Ye, and David Jingye Chen (collectively “Individual Defendants”). Pending 
+23   before the Court is Defendant Sea’s motion to dismiss,1 which is fully briefed.2 (Docs. 41, 
+24   47, 51.) For the following reasons, the motion is granted in part and denied in part.   
+25     I.   BACKGROUND3                                                   
+
+26        1 Individual Defendants join Sea’s motion to dismiss. (Doc. 46.)   
+         2 Sea’s request for oral argument is denied because the issues are adequately briefed, 
+27   and oral argument will not assist the Court in reaching its decision. See Fed. R. Civ. P. 
+    78(b); LRCiv. 7.2(f).                                                
+28        3 This section draws primarily from the allegations contained in the Consolidated 
+    Amended Complaint (“CAC”) (Doc. 31), which are accepted as true for the purposes of 
+1        Sea is an international consumer internet company, organized under the laws of the 
+2   Cayman  Islands  and  headquartered  in  Singapore.  (Doc.  31  ¶ 15.)  Sea  provides 
+3   entertainment, e-commerce, and digital financial services through its three respective 
+4   business lines: Garena, Shopee, and Sea Money. (Id.) This case arises from Defendants’ 
+5   allegedly false and misleading statements and omissions regarding the Garena and Shopee 
+6   business lines only.                                                 
+7          A. Garena                                                     
+8        Garena is Sea’s digital entertainment platform. It primarily licenses, publishes, and 
+9   develops mobile and PC online video games for the markets in which it operates. Prior to 
+10   December 2017, Garena exclusively licensed video games developed by third parties in 
+11   order to publish and operate those games for consumption in Garena’s Southeast Asia 
+12   market. The most prominent example of such a game is the popular multiplayer online 
+13   battle arena PC game, League of Legends. In December 2017, Garena launched a mobile 
+14   battle royale game titled Free Fire, which is the first and only successful video game that 
+15   it has developed.                                                    
+16        Garena relies on a limited number of these popular online games for its revenue. 
+17   Garena monetizes these games by selling virtual currency that users can then use to 
+18   purchase in-game virtual items. (¶ 24.) Sea discloses various performance metrics for 
+19   Garena, including Bookings (an estimation of cash spent by Garena users), Quarterly 
+20   Active Users (“QUA”), and Quarterly Paying Users (“QPU”). (¶¶ 27–28.)  
+21          B. Shopee                                                     
+22        Shopee is Sea’s e-commerce platform and the largest e-commerce platform in 
+23   Southeast  Asia.  The  platform  offers  both  consumer-to-consumer  and  business-to-
+24   consumers transactions. Shopee also purchases products from manufacturers and third 
+25   parties and sells them directly to buyers on the platform. The online shopping business 
+26   primarily earns revenue by offering sellers paid advertising services, charging transaction-
+27   based fees, and charging for value-added services. (¶ 25.)  Sea discloses two key metrics 
+28                                                                        
+    this order.                                                          
+1   for Shopee: Gross Merchandise Value (“GMV”) and Orders. (¶¶ 32, 33.) 
+2          C. Alleged Securities Fraud4                                  
+3        By fall 2022 (the start of the Class Period), Sea was in the midst of a self-described 
+4   “crisis”—Garena’s revenue and users were in consistent decline, Garena’s only successful 
+5   self-developed video game (Free Fire) had been banned in India, and Garena would soon 
+6   be losing the publishing rights to one of the most monetized, popular PC games in the 
+7   world: League of Legends. Meanwhile, Shopee was continuing to incur massive losses and 
+8   had to shut down operations in key new markets. Thus, at Defendants’ direction, Sea began 
+9   a cost-cutting drive as it pivoted away from its expensive growth strategy.  
+10        Plaintiff alleges that in this context, starting on November 15, 2022, Defendants 
+11   attempted to stop the bleeding and shore up the plummeting price of Sea securities by 
+12   issuing a series of false and misleading statements that artificially inflated the price of Sea’s 
+13   ADSs.                                                                
+14        First, Plaintiff alleges that Defendants falsely claimed in November 2022 that 
+15   Garena’s loss of its publishing rights to League of Legends (and its spinoff Teamfight 
+16   Tactics) would have “no impact” on Garena’s publishing business and that contributions 
+17   from these games were “immaterial.” Plaintiff asserts that contrary to these statements, 
+18   Defendants knew that Garena’s number of paying users would sharply decline in January 
+19   2023 when Sea turned over operations of these games to the games’ developer, Riot Games 
+20   (“Riot”)—a  wholly-owned  subsidiary  of  Chinese  technology  giant  Tencent.  Plaintiff 
+21   further alleges that although Defendants would go on to misleadingly claim in March and 
+22   April 2023 that Garena’s paying user base had stabilized and that any risks from a negative 
+23   development in a key game were merely hypothetical, Defendants already knew that they 
+24   had not achieved sufficient gains in paying users in other games to offset the significant 
+25   loss of the League of Legends user base. Defendants ultimately acknowledged in May 2023 
+26   that Garena experienced a “weakening in monetization, mainly as a result of lower paying 
+27                                                                        
+
+28        4 This section summarizes Sea’s alleged misrepresentations. Defendants’ specific 
+    statements that Plaintiff alleges were misleading are noted in the Court’s analysis below.  
+1   user ratio” in 1Q235 due to the loss of millions of paying users. (¶ 5.) 
+2        Second, Plaintiff alleges that Defendants began misleading investors in November 
+3   2022 as to the sustainability of Sea’s highly publicized “pivot to profitability” and the effect 
+4   Sea’s massive cost-cutting efforts would have on Shopee’s growth and market share. For 
+5   years, Shopee’s tremendous growth in GMV had been driven by the use of expensive sales 
+6   and marketing investments to  undercut its competitors—such as free  shipping, zero-
+7   commission sales, and varied monthly promotions. However, as Sea embarked on an 
+8   aggressive  cost-cutting  effort  in  2022  to  turn  profitable,  Shopee  discontinued  these 
+9   offerings and slashed hundreds of millions of dollars from its quarterly sales and marketing 
+10   expense. Plaintiff alleges that while Shopee’s GMV began to decelerate and decline as a 
+11   result,  and  certain  competitors  aggressively  expanded  their  offerings,  Defendants 
+12   misleadingly maintained that Shopee could operate profitably and continue to grow at the 
+13   same time.                                                           
+14        For instance, in November 2022, despite knowing that Shopee’s GMV would see 
+15   significant decline in 4Q22 with Sea’s ongoing sales and marketing cuts, Defendants spoke 
+16   of this extant issue as a hypothetical risk, cautioning that this cost-cutting strategy “could” 
+17   result in a decline in growth. Then, in March 2023, after reporting the largest GMV decline 
+18   in Sea’s history, Defendants doubled down and falsely claimed that the cost-cutting efforts 
+19   would allow Shopee to “capture a larger share of the pie” and that there would be no “trade-
+20   off”  between  profitability  and  growth.  Plaintiff  alleges  that  Defendants  misleadingly 
+21   concealed further declines in Shopee’s GMV by discontinuing disclosure of the metric for 
+22   the first time in Sea’s history; all the while, Defendants continued to falsely maintain that 
+23   their cuts would drive “profitable long-term growth,” that any slowdown in GMV was due 
+24   to “seasonality trends,” and that they could “execute growth and manage bottom line at the 
+25   same time.” Ultimately, however, Defendants acknowledged in August and November 
+26   2023 that Shopee could not meaningfully grow and compete with other e-commerce 
+27                                                                        
+         5 “_Q2_” is used to denote each first, second, third, and fourth fiscal quarter of each 
+28   full fiscal year (“FY”). Sea’s fiscal year runs concurrent with the calendar year. So, for 
+    instance, 1Q23 refers to the first quarter of 2023.                  
+1   platforms in Southeast Asia without substantial reinvestments in sales and marketing 
+2   expenses. (¶ 6.)                                                     
+3        Plaintiff  alleges  that  Defendants’  statements  and  omissions  had  their  intended 
+4   effect: on November 15, 2022 alone, Sea’s ADS price jumped $16.51 per share, or 36%, 
+5   as more than 42 million shares changed hands. Then, over the following months, as 
+6   Defendants continued issuing allegedly false and misleading statements regarding the 
+7   negative trends in Garena’s and Shopee’s businesses, Sea’s ADSs continued to increase 
+8   and trade at inflated levels, up to and exceeding $88 per share. At the same time, from 
+9   April to June 2023, Defendants sold at least $27.9 million of Sea securities. (¶ 7.) Plaintiff 
+10   claims that the truth concealed by Defendants’ misrepresentations first began to reach the 
+11   market in May 2023 and continued to leak out in August and November 2023. By that 
+12   point, the price of Sea ADSs had fallen from a Class Period high of $88 per share to less 
+13   than $36 per share—a decline of nearly 60%. (¶ 9.) Based on these facts, Plaintiff alleges 
+14   that investors, including itself, who purchased or acquired Sea ADSs during the Class 
+15   Period collectively suffered significant damage.                     
+16     II.  LEGAL STANDARD                                                
+17        To survive a motion to dismiss under Federal Rule of Civil Procedure 12(b)(6), “a 
+18   complaint must contain sufficient factual matter, accepted as true, to state a claim to relief 
+19   that is plausible on its face.” Zixiang Li v. Kerry, </pre><span class="citation" data-id="9505869"><a href="/opinion/856064/zixiang-li-v-john-f-kerry/#999" aria-description="Citation for case: Zixiang Li v. John F. Kerry">710 F.3d 995, 999</a></span><pre class="inline"> (9th Cir. 2013). “A 
+20   claim has facial plausibility when the pleaded factual content allows the court to draw the 
+21   reasonable inference that the defendant is liable for the misconduct alleged.” Ashcroft v. 
+22   Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662, 678</a></span><pre class="inline"> (2009). “In evaluating a Rule 12(b)(6) motion, the [C]ourt accepts 
+23   the complaint’s well-pleaded factual allegations as true and draws all reasonable inferences 
+24   in the light most favorable to the plaintiff.” Adams v. U.S. Forest Srvc., </pre><span class="citation" data-id="622545"><a href="/opinion/622545/adams-v-united-states-forest-service/" aria-description="Citation for case: Adams v. United States Forest Service">671 F.3d 1138</a></span><pre class="inline">, 
+25   1142–43 (9th Cir. 2012).                                             
+26        Securities fraud claims, like the ones in this case, are also subject to the heightened 
+27   pleading requirements of Rule 9(b) and the Private Securities Litigation Reform Act of 
+28   1995 (“PSLRA”). In re Rigel Pharm., Inc. Sec. Litig., </pre><span class="citation" data-id="807992"><a href="/opinion/807992/inter-local-pension-fund-gcci-v-rigel-pharmaceuticals-inc/#876" aria-description="Citation for case: Inter-Local Pension Fund Gcc/i v. Rigel Pharmaceuticals,...">697 F.3d 869, 876</a></span><pre class="inline"> (9th Cir. 2012). 
+1   Rule 9(b) “requires particularized allegations of the circumstances constituting fraud, 
+2   including identifying the statements at issue and setting forth what is false or misleading 
+3   . . . about the statement and why the statements were false or misleading at the time they 
+4   were made.” </pre><span class="citation" data-id="807992"><a href="/opinion/807992/inter-local-pension-fund-gcci-v-rigel-pharmaceuticals-inc/" aria-description="Citation for case: Inter-Local Pension Fund Gcc/i v. Rigel Pharmaceuticals,...">Id.</a></span><pre class="inline"> Similarly, the PLSRA requires plaintiffs to: (1) “specify each statement 
+5   alleged  to  have  been  misleading  [and]  the  reason  or  reasons  why  the  statement  is 
+6   misleading” and (2) “state with particularity facts giving rise to a strong inference that the 
+7   defendant acted with the required state of mind.” 15 U.S.C. § 78u-4(b).  
+8     III.  SEA’S REQUEST FOR JUDICIAL NOTICE AND INCORPORATION          
+9          BY REFERENCE                                                  
+10        Generally, district courts may not consider material outside the pleadings when 
+11   assessing the sufficiency of a complaint under Rule 12(b)(6). Lee v. City of Los Angeles, 
+12   </pre><span class="citation" data-id="6998020"><a href="/opinion/7092482/lee-v-city-of-los-angeles/#688" aria-description="Citation for case: Lee v. City of Los Angeles">250 F.3d 668, 688</a></span><pre class="inline"> (9th Cir. 2001). There are, however, two exceptions to this rule: the 
+13   incorporation-by-reference doctrine and judicial notice under Federal Rule of Evidence 
+14   201. Relying on these two exceptions, Sea has filed 23 exhibits spanning over 1,000 pages 
+15   and requests that the Court consider these exhibits in deciding whether to grant the motion 
+16   to dismiss. (See Docs. 42-1 to 42-23.)                               
+17        Before determining whether the Court can properly consider these exhibits, the 
+18   Court begins with an admonishment that other courts in this circuit have raised and that the 
+19   Ninth Circuit has echoed:                                            
+20             Although [the incorporation-by-reference doctrine and judicial 
+              notice]  are  two  distinct  doctrines  with  different  legal 
+21             requirements, they both can be used to get a court to consider 
+              extrinsic evidence on a Rule 12(b)(6) motion to dismiss. For a 
+22             plaintiff, this consideration can mean having the courthouse 
+              doors slammed shut, such that there’s no discovery, no further 
+23             motion practice, no cross-examination, and no jury trial. For a 
+              defendant,  this  consideration  can  mean  avoiding  lengthy 
+24             litigation, arduous motion practice, and expensive, expansive 
+              discovery battles.                                         
+25                                                                        
+              This  practical  reality  has  led  to  inappropriate  efforts  by 
+26             defendants to expand the two doctrines. . . . Nowadays, it 
+              seems more and more common to come across Rule 12(b)(6)    
+27             motions  to  dismiss  filed  with  hundreds  of  pages  of 
+              attachments,  authenticated  through   attorney            
+28             declarations. . . . Too often, these mountainous motions make 
+              arguments  more  appropriate  for  a  motion  for  summary 
+1             judgment or some other later stage of the case. . . . Such trends 
+              are  particularly  troubling  in  the  common  situation  of 
+2             asymmetry, where a defendant starts off with sole possession 
+              of the information about the alleged wrongdoing.           
+3                                                                        
+    Hsu v. Puma Biotechnology, Inc., </pre><span class="citation" data-id="7240186"><a href="/opinion/7322276/hsingching-hsu-v-puma-biotechnology-inc/" aria-description="Citation for case: Hsingching Hsu v. Puma Biotechnology, Inc.">213 F. Supp. 3d 1275</a></span><pre class="inline">, 1281–82 (C.D. Cal. 2016); see 
+4                                                                        
+    also Khoja v. Orexigen Therapeutics, Inc., </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#998" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">899 F.3d 988, 998</a></span><pre class="inline"> (9th Cir. 2018) (“[W]e note 
+5                                                                        
+    a concerning pattern in securities cases like this one: exploiting [the incorporation-by-
+6                                                                        
+    reference doctrine and judicial notice rule] improperly to defeat what would otherwise 
+7                                                                        
+    constitute adequately stated claims at the pleading stage.”). Sea’s motion in this case is on 
+8                                                                        
+    par with this pattern of defendants burying district courts, at the earliest stage of litigation, 
+9                                                                        
+    in hundreds of pages of exhibits purportedly subject to judicial notice or incorporated by 
+10                                                                        
+    reference in the complaint but, indeed, better saved for a later stage of the case.  
+11                                                                        
+         That said, the Court now turns to the 23 exhibits before it. Plaintiff only disputes 
+12                                                                        
+    the Court’s consideration of some of the exhibits. Plaintiff has no objection to the Court’s 
+13                                                                        
+    consideration of exhibits 1, 6, 8–16, and 18–20 and agrees that exhibits 2 and 4 may be 
+14                                                                        
+    judicially noticed.6 (Doc. 48.) As such, the Court will consider these exhibits in its analysis.  
+15                                                                        
+         Plaintiff objects, however, to the Court’s consideration of exhibits 3, 5, 7, 17, and 
+16                                                                        
+    21–23. Sea contends that the Court can consider exhibit 17 under the incorporation-by-
+17                                                                        
+    reference doctrine and that exhibits 3, 5, 7, 17, and 21–23 are all subject to judicial notice. 
+18                                                                        
+    (Doc. 43.) Plaintiff disagrees, arguing that exhibits 3, 5, and 7 are documents that pre-date 
+19                                                                        
+    the Class Period by more than three years and therefore are not relevant to the instant 
+20                                                                        
+    motion and not properly subject to judicial notice; that Sea seeks to use the truth of the 
+21                                                                        
+    statements contained in exhibit 17 to argue disputed facts and thus judicial notice is 
+22                                                                        
+    inappropriate; and that exhibits 21 through 23 are press releases authored by third parties 
+23                                                                        
+         6 Exhibit 2 is the Software License and Distribution Agreement between Garena and 
+24   Riot, and exhibit 4 is Sea’s Fourth Quarter and Full year 2021 financial results. Both 
+    documents were publicly filed with the SEC. Plaintiff notes that although exhibits 2 and 4 
+25   are subject to judicial notice, the truth of the matters asserted within these exhibits are not. 
+    (Doc. 48 at 5.) The Court agrees. See Khoja, </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#999" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">899 F.3d at 999</a></span><pre class="inline"> (“Just because the document 
+26   itself is susceptible to judicial notice does not mean that every assertion of fact within that 
+    document is judicially noticeable for its truth.”); Patel v. Parnes, </pre><span class="citation" data-id="8753519"><a href="/opinion/8769997/patel-v-parnes/#546" aria-description="Citation for case: Patel v. Parnes">253 F.R.D. 531, 546</a></span><pre class="inline"> (C.D. 
+</pre><span class="citation no-link">27   Cal. 2008</span><pre class="inline">) (“It is appropriate for the court to take judicial notice of the content of the SEC 
+    Forms 4 and the fact that they were filed with the agency. The truth of the content, and the 
+28   inferences properly drawn from them, however, is not a proper subject of judicial notice 
+    under Rule 201.”).                                                   
+1   and not referenced in the CAC and thus are also not relevant to the motion. (Doc. 48 at 5–
+2   8.)                                                                  
+3        Starting  first  with  the  incorporation-by-reference  doctrine.  “[I]ncorporation-by-
+4   reference is a judicially created doctrine that treats certain documents as though they are 
+5   part of the complaint itself.” Khoja, </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#1002" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">899 F.3d at 1002</a></span><pre class="inline">. A defendant may seek to incorporate 
+6   a document “if the plaintiff refers extensively to the document or the document forms the 
+7   basis of plaintiff’s claims.” United States v. Ritchie, </pre><span class="citation" data-id="783479"><a href="/opinion/783479/united-states-v-donald-lawrence-ritchie-heather-horner/#907" aria-description="Citation for case: United States v. Donald Lawrence Ritchie, Heather Horner,...">342 F.3d 903, 907</a></span><pre class="inline"> (9th Cir. 2003). 
+8   However, “the mere mention of the existence of a document is insufficient to incorporate 
+9   the contents of a document.” Coto Settlement v. Einsenberg, </pre><span class="citation" data-id="1405974"><a href="/opinion/1405974/coto-settlement-v-eisenberg/#1038" aria-description="Citation for case: Coto Settlement v. Eisenberg">593 F.3d 1031, 1038</a></span><pre class="inline"> (9th Cir. 
+10   2010).                                                               
+11        Exhibit 17 is a copy of Tencent Holding Limited’s First Quarter 2023 financial 
+12   results. (Doc. 42-17.) Sea contends that the CAC incorporates this exhibit by reference, 
+13   pointing to ¶¶ 49 and 70 of the CAC. (Doc. 43 at 6.) Paragraphs 49 and 70 repeat the same 
+14   assertion: that Tencent reported increased international gaming revenue in 1Q23, attributed 
+15   in part to League of Legends.                                        
+16        It is not clear that the CAC is specifically referring to or relying on Tencent’s 
+17   publicly filed financial results (exhibit 17). Indeed, Plaintiff disputes this, arguing that 
+18   ¶¶ 49 and 70 refer to “Tencent’s 1Q23 earnings call transcript (Ex. 16)—not its 1Q23 press 
+19   release.” (Doc. 48 at 4.) The Court finds that the CAC does not refer to exhibit 17 
+20   extensively enough to warrant incorporation on that ground alone. Nor do Plaintiff’s claims 
+21   arise from the statements made in this document. As such, incorporation of exhibit 17 is 
+22   not proper.                                                          
+23        Turning next to judicial notice. Federal Rule of Civil Procedure 201 permits a court 
+24   to notice an adjudicative fact if it is “not subject to reasonable dispute.” A fact is not subject 
+25   to  reasonable  dispute  if  it  is  (1) generally  known  within  the  trial  court’s  territorial 
+26   jurisdiction or (2) can be accurately and readily determined from sources who accuracy 
+27   cannot reasonably be questioned. Fed. R. Civ. P. 201.                
+28        The Court finds that exhibits 3, 5, 7, 17, and 21–23 are not subject to judicial notice. 
+1   Throughout its motion to dismiss, Sea uses statements contained in these exhibits for their 
+2   truth value in an attempt to present Sea’s own version of the facts. For instance, the CAC 
+3   alleges that Sea  “sought to conceal [its] negative  [GMV]  trend  by manipulating the 
+4   Company’s disclosures and withholding quarterly GMV and order information.” (Doc. 31 
+5   ¶ 109.) To rebut this, Sea points to exhibits 21, 22, and 23 (third-party press releases) and 
+6   asserts that Sea’s decision to withhold GMV metrics for two consecutive quarters was in 
+7   line with other publicly listed companies. (Doc. 41 at 9–10.)  Clearly, Sea is using its 
+8   “request for judicial notice . . . as a backdoor avenue for introducing evidence of the facts 
+9   themselves.” Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1088" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1088</a></span><pre class="inline"> (N.D. Cal. 2017). 
+10   Yet, “[i]t is improper to judicial notice a [document] when the substance of the [document] 
+11   is subject to varying interpretations, and there is a reasonable dispute as to what the 
+12   [document] establishes.” Khoja, </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#1000" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">899 F.3d at 1000</a></span><pre class="inline">. Accordingly, the Court will not take 
+13   judicial notice of exhibits 3, 5, 7, 17, and 21–23.                  
+14     IV.  DISCUSSION                                                    
+15        The Court now turns to the merits of Sea’s motion to dismiss. Plaintiff asserts two 
+16   claims: (1) violation of § 10(b) of the Exchange Act and Rule 10b-5 and (2) violation of 
+17   § 20(a) of the Exchange Act. Both parties agree that the second claim’s fate depends on 
+18   the Court’s resolution of the first.7 (Doc. 41 at 30; Doc. 47 at 30.) Accordingly, the Court 
+19   analyzes the sufficiency of Plaintiff’s § 10(b) claim before turning to Plaintiff’s claim for 
+20   control person liability under § 20(a).                              
+21        To state a claim under § 10(b) and Rule 10b-5, “a plaintiff must allege: (1) a material 
+22   misrepresentation or omission by the defendant (‘falsity’); (2) scienter; (3) a connection 
+23   between  the  misrepresentation  or  omission  and  the  purchase  or  sale  of  a  security; 
+24   (4) reliance  upon  the  misrepresentation  or  omission;  (5) economic  loss;  and  (6) loss 
+25   causation.” Glazer Cap. Mgmt., L.P. v. Forescout Techs., Inc. (Glazer II), </pre><span class="citation no-link">63 F.4th 747</span><pre class="inline">, 
+26   764 (9th Cir. 2023). Sea argues that the Court should dismiss the CAC because Plaintiff 
+
+27        7  Claims  under  § 20(a)  are  “derivative  and  therefore  require  an  independent 
+    violation of the Exchange Act, so the [Plaintiff] must successfully plead a [§] 10(b) claim 
+28   to succeed” in its claim under § 20(a). In re Facebook, Inc. Sec. Litig., </pre><span class="citation no-link">87 F.4th 934</span><pre class="inline">, 947 
+    (9th Cir. 2023).                                                     
+1   has not adequately pled either (1) falsity or (2) scienter. (Doc. 41.) 
+2          A. Falsity                                                    
+3        As  already  noted,  securities  fraud  claims  are  subject  to  heightened  pleading 
+4   requirements under Rule 9(b) and the PSLRA. To plead falsity, the PSLRA requires the 
+5   complaint to “specify each statement alleged to have been misleading, the reason or reasons 
+6   why the statement is misleading, and, if an allegation regarding the statement or omission 
+7   is made on information and believe, the complaint shall state with particularity all facts on 
+8   which that belief is formed.” 15 U.S.C. § 78u-4. The parties group the alleged false 
+9   statements into two categories: (1) statements about the impact of Garena losing League of 
+10   Legends and Teamfight Tactics and (2) statements about the effect of Sea’s “pivot to 
+11   profitability” on Shopee’s growth.                                   
+12           1)  Statements concerning Garena                             
+13        Right off the bat, Sea contends that “[i]n essence, Plaintiff’s Garena claim is that 
+14   Sea concealed the expiration of the License Agreement [for  League of Legends and 
+15   Teamfight Tactics] in accordance with its publicly filed terms, which allegedly had a 
+16   material impact on Garena’s results for the first quarter of 2023.” (Doc. 41 at 12.) Not so. 
+17   Plaintiff’s claim is not that Sea concealed the publicly disclosed expiration date of Garena’s 
+18   licensing agreement for League of Legends and Teamfight Tactics. Rather, Plaintiff alleges 
+19   that Defendants misled investors about the impact of the license’s expiration on Garena’s 
+20   business. Indeed, the first page of the CAC makes that clear, stating that this case arises 
+21   from Defendants’ false and misleading statements about “the effect of losing the hit online 
+22   game League of Legends on Garena’s financial results and user metrics.” (Doc. 31 ¶ 3.) 
+23   Plaintiff identifies the following statements as misleading:         
+24             a.  November 15, 2022 Earnings Call (3Q22)                 
+25        First, on a November 15, 2022 earnings call to discuss 3Q22, Sea was asked about 
+26   the impact the termination of the license agreement would have on Garena’s publishing 
+27   business. Wang8 responded, “[T]he recent termination of the . . . partnership with Riot as 
+28                                                                        
+         8  Wang  is  Sea’s  Group  Chief  Corporate  Offer,  Group  General  Counsel,  and 
+1   a result of the expiry of the agreement would have no impact on our overall publishing 
+2   business as the contribution is immaterial from the particular game.” (Doc. 31 ¶ 65.) To 
+3   explain why this statement is misleading—that is, to explain why League of Legends was 
+4   in fact material to Garena’s business—Plaintiff alleges that:        
+5     •  League of Legends is one of the most popular and monetized video games in the 
+         world, with more than 180 million monthly players in 2022 and was the second 
+6                                                                        
+         most-viewed video game in 2022 in terms of live streaming on Twitch, Youtube, 
+7        Facebook. Because of its vast popularity and massive dedicated user base, the game 
+         is extremely profitable, generating well over a billion dollars of revenue per year 
+8                                                                        
+         through the use of in-game microtransactions. (¶ 41.)           
+9     •  League of Legends is especially popular in the Southeast Asia markets where 
+         Garena previously operated the game. A 2021 consumer study found League of 
+10                                                                        
+         Legends to be the top-ranked video game brand in the entire Asia-Pacific region– 
+11        and the top-ranked video game specifically for China, Korea, Hong Kong, Taiwan, 
+         and Vietnam (the latter three are markets where Garena formerly operated the 
+12                                                                        
+         game). (¶ 44.)                                                  
+13     •  Sea long acknowledged that League of Legends was one of Garena’s most popular 
+         video games. Before Sea lost the rights to the game, Sea’s Annual Reports on Form 
+14        20-F consistently listed League of Legends first among its popular licensed games. 
+15        The forms also reported that Garena’s top five games—which included League of 
+         Legends—accounted for more than 95% of Sea’ digital entertainment revenue from 
+16        2020-2022 (¶ 45.)                                               
+17     •  In 1Q23—the first quarter Garena no longer operated League of Legends and 
+         Teamfight Tactics—Garena experienced a “weakening in monetization, mainly as a 
+18        result of lower paying user ration.” Specifically, Sea reported that Garena lost six 
+19        million paying users in 1Q23, even though active users increased by more than six 
+         million in the same period—leading to the lowest paying user ratio Sea has reported 
+20        in four years. In contrast, Tencent (the company that took over the publishing of 
+         these games) reported that international gaming revenues increased significantly in 
+21                                                                        
+         1Q23, which they attributed to increased performance in games like League of 
+22        Legends. (¶ 49.)                                                
+23        Plaintiff has sufficiently specified the statements alleged to have been misleading 
+24   and the reasons why the statements are misleading.9 Sea argues that League of Legends 
+25   was not material to Garena’s business and that “Garena’s results in the years leading up to 
+26   the expiration of the License Agreement were largely driven by the global success of its 
+
+27   Company Secretary. (Doc. 31 ¶ 18.)                                   
+         9 Sea asserts that Plaintiff has offered “no evidentiary facts” to support the claim 
+28   that publishing license revenues for League of Legends were material to Garena’s financial 
+    results in 2022. The numerous allegations listed above refute this.  
+1   self-developed and self-published mobile hit, Free Fire.” (Doc. 41 at 13.) That might be 
+2   so,  but resolving a factual dispute  at the pleading stage  is improper and premature. 
+3   Moreover, in deciding a Rule 12(b)(6) motion to dismiss, the Court must accept the 
+4   complaint’s allegations as true. And here, those allegations—that League of Legends is one 
+5   of the most monetized video games in the world, was the top-ranked video game in Asia 
+6   in 2021, was among Sea’s most popular games, and was one of five games that accounted 
+7   for more than 95% of Sea’s digital entertainment revenue from 2020 to 2022—create a 
+8   reasonable inference that League of Legends was material to Garena’s publishing business, 
+9   contrary to Wang’s statement on the earnings call. Plaintiff has plausibly pled falsity as to 
+10   this statement. See Berson v. Applied Signal Tech., Inc., </pre><span class="citation" data-id="1458129"><a href="/opinion/1458129/berson-v-applied-signal-technology-inc/#987" aria-description="Citation for case: Berson v. Applied Signal Technology, Inc.">527 F.3d 982, 987</a></span><pre class="inline"> (9th Cir. 2008) 
+11   (noting that a statement is misleading if it would give a reasonable investor the “impression 
+12   of a state of affairs that differs in a material way from the one that actually exists”).  
+13        Sea further argues that Wang’s statement is inactionable under the PSLRA’s safe 
+14   harbor. (Doc. 41 at 21.) The PSLRA’s safe harbor exempts forward-looking statements 
+15   that are either “accompanied by meaningful cautionary statements identifying important 
+16   factors that could cause actual results to differ materially from those in the forward-looking 
+17   statement” or made without “actual knowledge that it is false or misleading.” 15 U.S.C. 
+18   § 78u-5(c)(1)(A)–(B).  Plaintiff contends that Wang’s statement that League of Legends is 
+19   immaterial to Garena’s business and thus the loss of its license would have no impact is 
+20   not a forward-looking statement, but rather plainly related to current and historical facts. 
+21   The Court agrees in part.                                            
+22        Wang’s statement that League of Legends’ “contribution is immaterial” to Garena’s 
+23   business is a statement about a current or past fact and therefore is not covered by the safe 
+24   harbor. In re Quality Sys., Inc. Sec. Litig., </pre><span class="citation" data-id="4190611"><a href="/opinion/4413358/city-of-miami-fire-fighters-police-officers-retirement-trust-v-quality/#1142" aria-description="Citation for case: City of Miami Fire Fighters&#x27; &amp; Police Officers&#x27;...">865 F.3d 1130, 1142</a></span><pre class="inline"> (9th Cir. 2017) (noting that 
+25   safe harbor is not designed to protect materially false or misleading statements about 
+26   current or past facts). Wang’s representation that the termination of the license agreement 
+27   “would have no impact on our overall publishing business” is, however, a forward-looking 
+28   statement. That said, where a forward-looking statement is accompanied by a non-forward-
+1   looking  statement  that  is  materially  false  or  misleading,  virtually  “no  cautionary 
+2   language—short of an outright admission of the false or misleading nature of the non-
+3   forward-looking statement—would be ‘sufficiently meaningful’ to qualify the statement 
+4   for the safe harbor.” In re Quality Sys., 865 F.3d at 1146–47. Wang’s statement on the 
+5   November 15, 2022 earnings call is actionable, and Plaintiff’s allegations adequately plead 
+6   its falsity.                                                         
+7             b.  March 7, 2023 Earnings Call (4Q22) and April 6, 2023 Form 20-F 
+8        Next, Plaintiff asserts that in spring 2023, months after operation of League of 
+9   Legends reverted back to Riot/Tencent, Defendants misleadingly claimed that (1) Garena’s 
+10   paying user base had stabilized and (2) any risk of a negative development to a key 
+11   revenue-earning game leading to a material decline in growth is “merely hypothetical.”  
+12        Specifically, Plaintiff points to Sea’s March 7, 2023 earnings call (4Q22), in which 
+13   Li10 stated that Garena’s “paying user ratio and average revenue per user remain[ed] 
+14   relatively stable quarter-on-quarter.” (Doc. 31 ¶ 74.) During that same call, Wang stated 
+15   that “for Garena, our focus now is continu[ing] to stabilize our user base.” (¶ 76.) Plaintiff 
+16   alleges that these statements are misleading by omission because Defendants knew, when 
+17   they issued these statements, that “Garena’s paying user ratio would take a sharp decline 
+18   in 1Q23 with the loss of League of Legends and Teamfight Tactics.” (¶ 78.) Further, 
+19   because  (1) Defendants  monitored  granular  game-specific  metrics,  (2) the  license 
+20   agreement with Riot/Tencent required Garena to maintain records on the performance of 
+21   and revenue generated by the games, and (3) these statements were issued in late 1Q23 
+22   (months after Riot took over operations of these games), Defendants knowingly omitted 
+23   that Garena had not achieved sufficient gains in paying users in other games to offset the 
+24   significant loss of the League of Legends’ user base. (Id.)          
+25        In arguing that Plaintiff has failed to plausibly plead falsity, Sea asserts that “the 
+26   first  quarter  results  for  2023  actually  showed  improvement  in  the  quarter-on-quarter 
+27   decline  for  each  of  bookings,  QAUs,  and  QPUs,  indicating  ongoing  stabilization  in 
+
+28        10 Li is one of Sea’s cofounders and is Sea’s Group Chief Executive Officer and 
+    Chairman of the Board of Directors.                                  
+1   Garena’s business rather than any sharp decline as Plaintiff would have it.”11 (Doc. 41 at 
+2   13.) The Court is not persuaded. For one, Li and Wang’s alleged misleading statements 
+3   concern the stabilization of Garena’s “paying user ratio”—not its bookings, QAUs, and 
+4   QPUs.  So,  assuming  arguendo  that  Garena’s  bookings,  QAUs,  and  QPUs  showed 
+5   improvement in each metric’s quarter-on-quarter decline, this would not establish the 
+6   accuracy  or  truthfulness  of  Li  and  Wang’s  statements.  Second,  Plaintiff  alleges  that 
+7   Garena’s paying user ratio dropped from 9% in 4Q22 to 7.7% in 1Q23, the lowest ratio 
+8   Garena had experienced in years. (Doc. 31 ¶ 31.) Accepting this allegation as true, the 
+9   Court  finds  it  plausible  that  Li  and  Wang’s  statements  “affirmatively  create[d]  an 
+10   impression of a state of affairs that differ[ed] in a material way from the one that actually 
+11   exist[ed].” Brody v. Transitional Hosps. Corp., </pre><span class="citation" data-id="776588"><a href="/opinion/776588/jules-brody-joyce-t-crawford-v-transitional-hospitals-corporation-wendy/#1006" aria-description="Citation for case: Jules Brody Joyce T. Crawford v. Transitional Hospitals...">280 F.3d 997, 1006</a></span><pre class="inline"> (9th Cir. 2002). 
+12        Plaintiff also points to Sea’s Form 20-F for FY22, which Sea filed with the SEC on 
+13   April 6, 2023. Specifically, in the “Risk Factors” section, Sea stated that it “derive[s] a 
+14   significant portion of digital entertainment revenue and gross profit from a limited number 
+15   of online games. . . . In 2022, [Sea’s] top five games, comprising Free Fire and games 
+16   licensed  to use by third-party game developers, contributed 97.9% of [Sea’s] digital 
+17   entertainment revenue, among which Free Fire contributed to a significant portion.” (¶ 81.) 
+18   Sea went on to note that “[a]ny negative developments or occurrences to any of our key-
+19   revenue earning games . . . could lead to material decline or slower growth.” (Id. (emphasis 
+20   added).)                                                             
+21        Plaintiff alleges that Defendants’ statements in Sea’s Form F-20 are misleading 
+22   because Sea presented the risk that any “negative developments or occurrence to a key-
+23   revenue  earning  game  leading  to  a  material  decline  or  slower  growth”  as  merely  a 
+24   “hypothetical” risk, rather than one that had already materialized with the loss of League 
+25   of Legends. (¶ 83.) Plaintiff again highlights the timing of Defendants’ statements—that 
+
+26        11 To illustrate this, Sea points to a graphic of Garena’s QPUs from 1Q22 to 3Q23. 
+    (Doc. 31 at 11.) Sea does not dispute that Garena’s number of paying users dropped from 
+27   43.6 million in 4Q22 to 37.6 million in 1Q23. Rather, Sea’s argument is that this drop in 
+    paying users between 4Q22 and 1Q23—i.e., a drop of 6 million—is an “improvement” 
+28   compared to the prior quarterly drops, where, for instance, Garena lost 7.9 million paying 
+    users between 3Q22 and 4Q22. (Id.)                                   
+1   Defendants  filed  Form  F-20  in  2Q23,  several  months  after  Riot/Tencent  took  over 
+2   operation of League of Legends. By that point, Garena had lost millions of paying users, 
+3   leading to the lowest paying user ratio that Sea had reported in years. (Id.) These allegations 
+4   in tandem with Plaintiff’s other allegations that Defendants regularly monitored game-
+5   specific metrics adequately plead falsity.12 See Berson, </pre><span class="citation" data-id="1458129"><a href="/opinion/1458129/berson-v-applied-signal-technology-inc/#986" aria-description="Citation for case: Berson v. Applied Signal Technology, Inc.">527 F.3d at 986</a></span><pre class="inline"> (holding that risk 
+6   disclosures that speak “entirely of as-yet-unrealized risks” and fail to alert investors “that 
+7   some of these risks may have already come to fruition” are misleading).  
+8        In sum, Plaintiff has sufficiently pled falsity as to Defendants’ statements regarding 
+9   Garena, so the Court denies Sea’s motion on this ground.             
+10           2)  Statements concerning Shopee                             
+11        With respect to Shopee, Plaintiff alleges that Defendants misled investors about the 
+12   sustainability of Sea’s “pivot to profitability” and the effect that Sea’s “drastic cost-cutting 
+13   measures would have on Shopee’s growth and market share.” (Doc. 31 ¶ 3.) Plaintiff 
+14   identifies the following statements as misleading:                   
+15             a.  November 15, 2022 Earnings Call (3Q22)                 
+16        First, Plaintiff alleges that on the 3Q22 earnings call on November 15, 2022, 
+17   Defendants downplayed the effect Sea’s “pivot to profitability” would have on Shopee’s 
+18   competitiveness and market share, and “minimized” the impact that its cost-cutting efforts 
+19   would  have  on  GMV  growth,  portraying  the  risk  of  negative  growth  as  merely 
+20   “hypothetical.” Specifically, in response to a question about cost-cutting measures and 
+21   whether Shopee would be sacrificing its market share to competitors, Wang responded “I 
+22   think from what we have so far observed in the market, well, we continued to maintain our 
+23   strong market leadership, and our peers also have behaved in a relatively rational manner.” 
+24   (¶ 66.) Wang further remarked that,                                  
+25             In terms of competition, I think as we continue to track our 
+              peers as well in this region, we believe our progressive leading 
+26                                                                        
+         12 Sea baldly asserts that Defendants’ statement regarding the risk of a negative 
+27   development to a key revenue-earning game is an accurate statement of historical fact and 
+    therefore not actionable. (Doc. 41 at 18.) Sea, however, does not elaborate as to how this 
+28   statement reflects accurate historical data. Moreover, “even if a statement is not false, it 
+    may be misleading if it omits material information.” Khoja, 899 F.3d at 1008–1008.   
+1             position has been maintained in the third quarter. Of course, 
+              we take competition very seriously. And we make sure that our 
+2             service offerings remain competitive and our monetization take 
+              rate is well justified by the value – additional value offering to 
+3             our  buyers  and  sellers  in  line  with  the  overall  market 
+              movement.                                                  
+4                                                                        
+    (¶ 67.)                                                              
+5                                                                        
+         Plaintiff alleges that Defendants’ statements are “misleading for failing to disclose 
+6                                                                        
+    that  other  competitors[,]  like  TikTok  Shop[,]  were  continuing  to  offer  discounted 
+7                                                                        
+    promotions and lower take rates that would undercut Shopee and eat into its market share.” 
+8                                                                        
+    (¶ 70.) Plaintiff further alleges that Defendants’ statements that they “track [their] peers” 
+9                                                                        
+    and ensure that Shopee’s “service offerings remain competitive” are “admissions that they 
+10                                                                        
+    were aware that TikTok was aggressively expanding in Southeast Asia” and did not “have 
+11                                                                        
+    [a] similar focus on cost cutting.” (Id.)                            
+12                                                                        
+         Sea contends that Wang’s statements are inactionable statements of opinion and 
+13                                                                        
+    puffery. (Doc. 41 at 19–20.) The Court agrees. “[V]ague, generalized, and unspecific 
+14                                                                        
+    assertions of corporate optimism or statements of ‘mere puffing’ cannot state actionable 
+15                                                                        
+    material misstatements of fact under federal securities laws.” In re Cornerstone Propane 
+16                                                                        
+    Partners, L.P. Sec. Litig., </pre><span class="citation" data-id="2453203"><a href="/opinion/2453203/in-re-cornerstone-propane-partners-lp-securities-litigation/#1087" aria-description="Citation for case: In Re Cornerstone Propane Partners, L.P. Securities...">355 F. Supp. 2d 1069, 1087</a></span><pre class="inline"> (N.D. Cal. 2005) (citing Glen Holly 
+17                                                                        
+    Ent., Inc. v. Tektronix, Inc., </pre><span class="citation multiple-matches"><a href="/c/F.3d/352/367/">352 F.3d 367</a></span><pre class="inline">, 379 (9th Cir. 2003)). Such statements are “not 
+18                                                                        
+    capable of objective verification,” and “lack[] a standard against which a reasonable 
+19                                                                        
+    investor could expect them to be pegged.” Id.                        
+20                                                                        
+         Here, Wang’s statements of “strong market leadership” and “progressive leading 
+21                                                                        
+    position”  are  vague,  unspecific  remarks  of  corporate  optimism  and  therefore  are 
+22                                                                        
+    inactionable.  See  id.  (finding  that  claims  of  “industry  leading  growth,”  “measurable 
+23                                                                        
+    progress,”  and  “continuing  improvements”  are  “projections  of  general  optimism, 
+24                                                                        
+    amounting to nothing more than a parade of rosy adjectives—unmoored to any objective 
+25                                                                        
+    measures—combined with general  reiterations of the pursuit of [defendant’s]  growth 
+26                                                                        
+    strategy”); see also In re Gupta Corp. Sec. Litig., </pre><span class="citation" data-id="2262465"><a href="/opinion/2262465/in-re-gupta-corp-securities-litigation/#1236" aria-description="Citation for case: In Re Gupta Corp. Securities Litigation">900 F. Supp. 1217, 1236</a></span><pre class="inline"> (N.D. Cal. 1994) 
+27                                                                        
+    (finding statement that “we have a sizable lead over our competition” is puffery); In re 
+28                                                                        
+    Splash Tech. Holdings, Inc. Sec. Litig., </pre><span class="citation" data-id="2578426"><a href="/opinion/2578426/in-re-splash-technology-holdings-inc-securities-litigation/" aria-description="Citation for case: In Re Splash Technology Holdings Inc. Securities Litigation">160 F. Supp. 2d 1059</a></span><pre class="inline">, 1076–77 (N.D. Cal. 2001) 
+1   (finding that statements using the word “strong,” “robust,” “well positioned,” “solid,” and 
+2   “improved” to be vague and nonactionable).                           
+3        As to Sea’s GMV growth, Plaintiff alleges that Li misled investors when he stated: 
+4   “We believe our strong focus on cash flow and achieving self-sufficiency as much as 
+5   possible is the right strategy to pursue at this stage, even though we may see no growth or 
+6   even negative growth in certain operating metrics in the near term.” (¶ 68.) Plaintiff also 
+7   notes that when asked about “GMV outlook in the coming quarters or 2023,” Wang 
+8   responded,                                                           
+9             [R]egarding the GMV growth, as we shared before, and at this 
+              point, our focus is very clearly on improving monetization and 
+10             to achieve self-sufficiency. So GMV growth will be output  
+              until we get to that point. And then we can – we assess our 
+11             situation and see what’s the best path forward. Now as I shared 
+              . . .  our  view  of  the  long-term  prospects  of  the  market  is 
+12             unchanged.  The  short  term,  there  will  be  a  lot  of  factors, 
+              including  macro  environment,  inflation,  ForEx  and  the 
+13             continued  reopening  trends  as  well  as  tough  comparisons 
+              during  COVID  and  our  own  focus  on  efficiency,  cost 
+14             management and improving monetization of the platform. So  
+              there could be impact on . . . some of the top line growth in 
+15             operating  metrics.  There  could  be  no  growth  or  negative 
+              growth, and we can accept that. But on the other hand, as we 
+16             shared,  our  long-term  view  is  we  want  to  emerge  as  the 
+              strongest winner in this market.                           
+17                                                                        
+18   (¶ 69 (emphasis added).)                                             
+19        Plaintiff contends that these statements regarding GMV’s growth are misleading 
+20   because they portray “no growth or negative growth” as a “hypothetical risk,” rather than 
+21   one that had already materialized. Plaintiff asserts that at the time Defendants made these 
+22   statements—specifically,  on  November  15,  2022—Shopee  was  already  experiencing 
+23   stagnating and declining GMV. Plaintiff notes that in 1Q22, Shopee’s GMV was $17.4 
+24   billion; in 2Q22, it was $19.0 billion; in 3Q22, $19.1 billion; and in 4Q22, $18.0 billion. 
+25   (¶ 32)                                                               
+26        Plaintiff fails to plead falsity with respect to these statements. Though Plaintiff 
+27   asserts that the risk of negative growth had already materialized when Wang and Li made 
+28   these statements, Plaintiff’s allegations do not support this. Defendants made the above 
+1   statements on November 15, 2022. Yet, Shopee’s GMV only declined in 4Q22—and that 
+2   quarter did not end until December 31, 2022.13 In other words, when Defendants made 
+3   these statements, Shopee’s negative growth in GMV had not yet materialized. Nor does 
+4   Plaintiff plead with particularity that as of November 15, 2022, Defendants had actual 
+5   knowledge that Sea’s GMV for 4Q22 would be less than it was in 3Q22. Thus, Plaintiff 
+6   fails to plead with particularly how Defendants’ statements regarding the risk of no growth 
+7   or negative growth were false or misleading.                         
+8        Moreover, these statements qualify for protection under the PSLRA safe harbor. 
+9   These statements are forward looking given that they discuss Defendants’ predictions 
+10   regarding Sea’s GMV in the “coming quarters.” No. 84 Employer-Teamster Joint Council 
+11   Pension Fund v. Am. W. Holding Corp., </pre><span class="citation" data-id="781005"><a href="/opinion/781005/no-84-employer-teamster-joint-council-pension-trust-fund-on-behalf-of/#936" aria-description="Citation for case: No. 84 Employer-Teamster Joint Council Pension Trust...">320 F.3d 920, 936</a></span><pre class="inline"> (9th Cir. 2003) (noting that a 
+12   forward-looking statement is “any statement regarding (1) financial projections, (2) plans 
+13   and objectives of management for future operations, (3) future economic performance, or 
+14   (4) the assumptions ‘underlying or related to’ any of these issues”).  
+15        Defendants’  statements  were  also  accompanied  with  meaningful  cautionary 
+16   warnings. Take Wang’s statement, for instance: immediately before discussing the risk of 
+17   no growth or negative growth, Wang noted post-COVID reopening trends and inflation as 
+18   some of the factors that could impact Shopee’s GMV. Additionally, at the beginning of the 
+19   earnings call, Sea warned that Defendants “may make forward-looking statements, which 
+20   are inherently subject to risks and opportunities and may not be realized in the future for 
+21   various reasons as stated in our press release.” (Doc. 42-8 at 5.) These warnings are 
+22   sufficient to trigger PSLRA protection. See e.g., City of Royal Oak Ret. Sys. v. Juniper 
+23   Networks, Inc., </pre><span class="citation" data-id="8700891"><a href="/opinion/8717698/city-of-royal-oak-retirement-system-v-juniper-networks-inc/#1062" aria-description="Citation for case: City of Royal Oak Retirement System v. Juniper Networks,...">880 F. Supp. 2d 1045, 1062</a></span><pre class="inline"> (N.D. Cal. 2012) (finding that representative 
+24   of company beginning all conference calls with a notice that “opinions and statements 
+25   regarding revenue guidance were forward-looking and that actual results could vary based 
+26   on risks and uncertainties identified in [company’s] filings with the SEC” was sufficient 
+27   cautionary language).                                                
+28                                                                        
+         13 (See Doc. 31 ¶ 72 (noting that 4Q22 ended December 31, 2022).).  
+1        In short, Defendants’ statements on the 3Q22 earnings call are both inactionable 
+2   puffery and protected by the PSLRA safe harbor, and thus cannot support a securities fraud 
+3   claim under §10b.                                                    
+4             b.  March 7, 2023 Earnings Call (4Q22)                     
+5        Plaintiff alleges that on the 4Q22 earnings call on March 7, 2022, Defendants 
+6   assured investors that Shopee could achieve “sustainable  growth” and “execute both 
+7   growth and profitability” without a need for a “trade-off.” (Doc. 31 ¶¶ 72–77.) Defendants 
+8   stated that Sea’s cost-cutting initiative would allow Shopee to “capture a larger share of 
+9   the pie” and that “starting from ‘23 . . . we’ll see some natural growth hopefully.” (Id.) 
+10   Plaintiff alleges these statements are false and misleading because “Defendants knew that 
+11   Shopee’s GMV growth depended on massive investments in sales and marketing expense, 
+12   and that Shopee was unable to grow while turning a profit.” (¶ 78.) Plaintiff notes that at 
+13   the time these statements were made, “Shopee reported its first ever profitable quarter at 
+14   the expense of the largest GMV decline in [its] history, with GMV declining significantly 
+15   to $18.0 billion in 4Q22 (down from $19.1 billion the prior quarter).” (Id.)  
+16        Plaintiff also alleges that during the call, Defendants announced that they would 
+17   discontinue quarterly disclosures of Shopee’s GMV: “GMV remains output. And we will 
+18   discontinue any quarter-on-quarter disclosure of operating metrics like GMV and orders 
+19   and we’ll move to an annual disclosure in line with global peers.” (¶ 77.) Plaintiff asserts 
+20   that although Defendants claimed that they were discontinuing quarterly disclosures of 
+21   GMV to be “in line  with global peers,” Defendants  actually “discontinued quarterly 
+22   disclosure of GMV and orders to conceal further declines in growth.” (Id.) To support this 
+23   claim, Plaintiff points to the timing of Defendants’ decision—that after Shopee’s “first ever 
+24   third-quarter-to-fourth-quarter GMV decline (and the largest quarter-over-quarter GMV 
+25   decline in [Shopee’s] history) from 3Q22 to 4Q22, [Sea] announced that it would no longer 
+26   disclose quarterly GMV numbers,[] only to do an about-face on that decision in 3Q23[] 
+27   when that metric went up again.” (¶ 32.) Plaintiff highlights that “in Sea’s entire history as 
+28   a publicly traded Company, 1Q23 and 2Q23 are the only quarters where it did not disclose 
+1   GMV.” (Id.)                                                          
+2        The  Court,  again,  agrees  with  Sea  that  Defendants’  statements  remarking  on 
+3   Shopee’s potential for “sustainable” and “natural growth” are generalized assertions of 
+4   corporate optimism. These are “feel good monikers” that lack an objective standard against 
+5   which a reasonable investor could expect them to be pegged. In re Cutera Sec. Litig., 610 
+</pre><span class="citation no-link">6   F.3d 1103</span><pre class="inline">, 1111 (9th Cir. 2010) (“This mildly optimistic, subjective assessment hardly 
+7   amounts to a securities violation.”); see also Shenwick v. Twitter, </pre><span class="citation" data-id="7245690"><a href="/opinion/7327774/shenwick-v-twitter-inc/" aria-description="Citation for case: Shenwick v. Twitter, Inc.">282 F. Supp. 3d 1115</a></span><pre class="inline">, 
+8   1142 (N.D. Cal. 2017) (finding that comments about “exciting results” and “continuous 
+9   improvements” to be mere puffery).                                   
+10        Defendants’ statements also qualify for PSLRA safe harbor protection. Defendants’ 
+11   alleged misrepresentations do not discuss Shopee’s present growth as of 4Q22 but rather 
+12   predict Shopee’s growth in the coming 2023 quarters; thus, these remarks are forward 
+13   looking  statements.  And  as  with  Defendants’  statements  on  the  3Q22  earnings  call, 
+14   Defendants’ statements here were accompanied with meaningful cautionary warnings.14  
+15        As to Defendants’ statement regarding Sea’s decision to move from quarterly to 
+16   annual GMV disclosures, Plaintiff fails to plead with particularity how this statement is 
+17   false or misleading. To the extent that Plaintiff’s argument is that Defendants’ assertion—
+18   that  annual  GMV  disclosures  is “in line with global peers”—is  factually inaccurate, 
+19   Plaintiff does not plead the falsity of this statement with particularity.15  
+20        And to the extent that Plaintiff’s argument is that Defendants omitted their true 
+21   intent behind the decision—i.e., to conceal a decelerating GMV—Plaintiff’s assertion is 
+22   speculative. That Shopee’s GMV declined in 4Q22 is not sufficient on its own to create a 
+23   plausible  inference  that  Defendants  falsely  represented  why  they  were  moving  from 
+24   quarterly to annual disclosures. What’s more, as a general matter, “Section 10(b) and Rule 
+25   10b-5(b) do not create an affirmative duty to disclose any and all material information.” In 
+
+26        14 Sea warned investors at the start of the 4Q22 earnings call that Defendants “may 
+    make forward looking statements, which are inherently subject to risks and uncertainties 
+27   and may not be realized in the future for various reasons as stated in our press release.” 
+    (See Doc. 42-9 at 5.)                                                
+28        15 At most, Plaintiff alleges that market commentators noted concern regarding 
+    Sea’s decision to move from quarterly to annual disclosures. (Doc. 31 ¶ 58.) 
+1   re Mellanox Techs Ltd. Sec. Litig., No. 13-CV-04909-JST, </pre><span class="citation no-link">2014 WL 12650991</span><pre class="inline">, at *17 
+2   (N.D. Cal. Mar. 31, 2014). Granted, a duty to disclose does arise when an omission 
+3   “affirmatively create[s] an impression of a state of affairs that differs in a material way 
+4   from  the  one  that  actually  exists.”  See  Brody,  </pre><span class="citation" data-id="776588"><a href="/opinion/776588/jules-brody-joyce-t-crawford-v-transitional-hospitals-corporation-wendy/#1006" aria-description="Citation for case: Jules Brody Joyce T. Crawford v. Transitional Hospitals...">280  F.3d  at  1006</a></span><pre class="inline">.  But  in  this  case, 
+5   Defendants’  statement  announcing  Sea’s  shift  to  annual  GMV  disclosures  did  not 
+6   affirmatively create an impression regarding the state of Shopee’s GMV—Defendants’ 
+7   statement merely announced a business change. As such, the Court grants the motion to 
+8   dismiss as to these statements.                                      
+9             c.  April 6, 2023 Form 20-F (FY22)                         
+10        Plaintiff alleges that under Item 5(D) of Sea’s Form 20-F for FY22, Defendants 
+11   represented that they were “not aware of any trends, uncertainties, demands, commitments 
+12   or events for the year ended December 31, 2022 that are reasonably likely to have a material 
+13   adverse effect on [Sea’s] net revenues, income, profitability, liquidity or capital resources, 
+14   or that would cause reported financial information not necessarily to be indicative of future 
+15   operating results or financial conditions.” (Doc. 31 ¶ 82.) Plaintiff asserts Defendants’ 
+16   statement is materially misleading because at the time Defendants issued this statement, 
+17   Defendants were aware that:                                          
+18             (1) Shopee had already suffered a deceleration in GMV with 
+              the [Shopee’s] smallest ever quarter-to-quarter GMV increase 
+19             in 3Q22, as [it] scaled back on shipping subsidies and other 
+              marketing  expenses;  (2)  Shopee  subsequently  suffered  the 
+20             largest  GMV  decline in its history with further significant 
+              declines in sales and market expense in 4Q22; and (3) 1Q23 
+21             was  already  over,  so  Defendants—who  “huddl[ed]  every 
+              month to discuss cashflow projections, along with their regular 
+22             weekly meetings” and closely monitored Shopee growth in    
+              every  market  it  operated—were  already  aware  that  GMV 
+23             declined further in 1Q23 in lockstep with further declines in 
+              sales and marketing expense                                
+24                                                                        
+    (¶ 83.)                                                              
+25                                                                        
+          Sea  does  not  raise  any  specific  challenges  to  this  alleged  false  statement. 
+26                                                                        
+    Nonetheless, the Court turns to the adequacy of Plaintiff’s allegations on this point.  
+27                                                                        
+         The Court is not aware of any Ninth Circuit case law discussing the disclosure 
+28                                                                        
+    obligations under Item 5(D) of Form 20-F. Nor does either side point to any relevant, 
+1   authoritative case law. Courts in other circuits, however, have likened the disclosure 
+2   obligations of Item 5(D) to Item 303 of Regulation S-K. See Sun v. Tal Educ. Grp., 22-cv-
+3   01015, </pre><span class="citation no-link">2023 WL 6394413</span><pre class="inline">, at *33 (S.D.N.Y. Sept. 29, 2023); see also Garnett v. RLX Tech 
+4   Inc., </pre><span class="citation no-link">632 F. Supp. 3d 574</span><pre class="inline">, 598 (S.D.N.Y. 2022) (“Item 303 compels disclosure of ‘any 
+5   known trends or uncertainties that have had or that are reasonably likely to have a material 
+6   favorable or unfavorable impact on net sales or revenues or income from continuing 
+7   operations.’ Likewise, Item 5(D) of Form 20-F requires that registrants ‘discuss . . . any 
+8   known trends, uncertainties, demands, commitments or events that are reasonably likely to 
+9   have a material effect on the company’s net sales or revenues, income from continuing 
+10   operations,  profitability,  liquidity  or  capital  resources,  or  that  would  cause  reported 
+11   financial information not necessarily to be indicative of future operating results or financial 
+12   condition.’”). Accordingly, the Court looks to disclosures obligations under Item 303 as 
+13   guidance for stating an adequate claim of misrepresentation as it relates to Item 5(D) for 
+14   Form 20-F.                                                           
+15        To state a claim for failure to adhere to Item 303, a plaintiff must plausibly allege 
+16   “(1) the  existence  of  a  trend  or  uncertainty;  (2) known  to  management;  (3) that  is 
+17   reasonably likely to have a material effect on the registrant’s financial condition or results 
+18   of operation.” Steckman v. Hart Brewing, Inc., </pre><span class="citation" data-id="6968477"><a href="/opinion/7064365/steckman-v-hart-brewing-inc/" aria-description="Citation for case: Steckman v. Hart Brewing, Inc.">143 F.3d 1293</a></span><pre class="inline">, 1296–97 (9th Cir. 1998). A 
+19   “trend” is defined as an “observed pattern that accurately reflects persistent conditions of 
+20   the particular registrant’s business environment.” In re Restoration Robotics, Inc. Sec. 
+</pre><span class="citation no-link">21   Litig.,  417</span><pre class="inline">  F.  Supp.  3d  1242,  1263  (N.D.  Cal.  2019).  Here,  Plaintiff  maintains  that 
+22   Defendants were aware of the “ongoing trend of declining GMV” and that Defendants 
+23   failed  to  affirmatively  disclose  this  trend,  thereby  misleading  investors.  Plaintiff’s 
+24   allegations adequately support this.                                 
+25        To  start,  Plaintiff’s  allegations  support  a  plausible  inference  that  at  the  time 
+26   Defendants  filed  Sea’s  Form  20-F,  Shopee  was  experiencing  an  “ongoing  trend  of 
+27   declining GMV.” Given that Defendants halted quarterly disclosures of GMV for 1Q23 
+28   and 2Q23, Plaintiff is unable to point to those metrics to support its allegation of downward 
+1   trending growth. Instead, Plaintiff points to other allegations, which the Court accepts as 
+2   true, that create a reasonable inference that such a trend existed. For instance, Plaintiff 
+3   notes that:                                                          
+4             Shopee’s  GMV  and  sales  and  marketing  expense  moved  
+              practically in lockstep with each other prior to and during the 
+5             Class Period. In 2020 and 2021, both metrics grew sequentially 
+              each quarter, as the Company’s massive use of promotions and 
+6             other  marketing  tactics  drove  consistent  GMV  growth.  In 
+              2022, however, as the Company embarked on Defendants’      
+7             aggressive  cost-cutting  initiative  and  slashed  hundreds  of 
+              millions of dollars in quarterly sales and marketing expenses, 
+8             Shopee’s GMV similarly began to decelerate and then decline 
+              – before Defendants abruptly stopped disclosing the metric 
+9             altogether for the first two quarters of 2023.             
+10                                                                        
+    (Doc. 31 ¶ 51.) Plaintiff further provides a graphic to illustrate the point: as Shopee’s sales 
+11                                                                        
+    and marketing expense increased from 1Q20 to 4Q21, so too did Shopee’s GMV. And as 
+12                                                                        
+    sales and marketing decreased starting in 4Q21, so too did GMV decelerate and then 
+13                                                                        
+    decline. (Id.) Thus, accepting as true that (1) GMV and Shopee’s sales and marketing 
+14                                                                        
+    expense moved in lockstep and (2) Shopee’s sales and marketing expense declined from 
+15                                                                        
+    3Q22 to 1Q23, it is plausible that Shopee’s GMV was also downward trending during this 
+16                                                                        
+    time. In turn, by failing to disclose this trend—one that was reasonably likely to affect 
+17                                                                        
+    Sea’s financial condition—Defendants misled investors.               
+18                                                                        
+              d.  May 16, 2023 Earnings Call (1Q23)                      
+19                                                                        
+         Plaintiff  alleges  that  despite  obscuring  Shopee’s  GMV  for  1Q23,  Defendants 
+20                                                                        
+    continued to assure investors on the 1Q23 earnings call that Sea’s cost-cutting efforts 
+21                                                                        
+    would “reinforce our structural advantages in driving profitable long-term growth in our 
+22                                                                        
+    market” and that Shopee could “execute growth and manag[e] bottom line at the same 
+23                                                                        
+    time.”  (Doc. 31 ¶¶ 86, 89.) When asked whether Shopee was seeing “any further slowdown 
+24                                                                        
+    in GMV momentum” in 1Q23, Wang responded, “[W]hile we don’t disclose GMV quarter-
+25                                                                        
+    on-quarter, generally overall, the trend has been consistent in terms of seasonality trends 
+26                                                                        
+    we are seeing quarter-on-quarter with last [] year’s first quarter.” (¶ 87.) Wang reiterated 
+27                                                                        
+    that “the general trend[,] Q-on-Q, observed for this quarter versus last quarter is in line 
+28                                                                        
+    with what we observed in Q1 last year versus Q4 2021.” (¶ 87.)       
+1        Plaintiff argues these statements are misleading because Defendants knew at the 
+2   time they made these remarks that (1) Shopee had already reported a deceleration in GMV 
+3   with its smallest ever quarter-to-quarter GMV increase in 3Q22, (2) Shopee subsequently 
+4   reported the largest GMV decline in its history with further significant declines in sales 
+5   and market expense in 4Q22, and (3) Shopee has experienced further undisclosed declines 
+6   in GMV in 1Q23 alongside further reductions in sales and marketing expense.  
+7        Again, Defendants’ statements remarking on Sea’s effort to establish “profitable 
+8   long-term growth” and its ability to “execute growth and manag[e] bottom line at the same 
+9   time” are forward-looking statements that qualify for safe harbor protection. They fail to 
+10   provide an actionable basis for a securities fraud claim, and so the Court grants Defendants’ 
+11   motion to dismiss them.                                              
+12        However,  Defendants’  statements  regarding  Shopee’s  GMV  trends  remaining 
+13   “consistent in terms of seasonality” are actionable. These are neither vague, unspecific 
+14   remarks of corporate optimism nor predictive, forwarding-looking statements entitled to 
+15   safe harbor protection. See In re Quality Sys., 865 F.3d at 1144–45 (finding that defendant’s 
+16   reassurances to investors that sales were “unchanged, or even growing, compared to 
+17   previous quarters” was a “concrete description,” not a “feel good optimistic statement[]”). 
+18   Plaintiff plausibly asserts that in refusing to disclose GMV and by stating that GMV trends 
+19   were “in line with the overall seasonality trends,” Defendants painted a misleading picture 
+20   of Shopee’s growth—one that improperly concealed Shopee’s ongoing GMV decline. 
+21   Accordingly, the Court will not grant Defendants’ motion to dismiss as to these statements.  
+22          B. Scienter                                                   
+23        Before proceeding with its scienter analysis and to better frame the foregoing 
+24   discussion, the Court summarizes which of Plaintiff’s allegations sufficiently plead falsity 
+25   and which do not. First, Plaintiff’s allegations regarding Garena sufficiently plead falsity. 
+26   Specifically, Plaintiff has adequately pled that Defendants made misleading statements 
+27   about the impact of Garena losing its licensing right to League of Legends and Teamfight 
+28   Tactics. Second, only some of Plaintiff’s allegations regarding Shopee sufficiently plead 
+1   falsity. Plaintiff has adequately pled that (1) Sea’s Form F-20 for FY22 misled investors 
+2   by failing to disclose Shopee’s downward trending GMV and (2) Defendants’ misled 
+3   investors on the 1Q23 earnings call (May 16, 2023) by claiming that Shopee’s GMV was 
+4   “in line with seasonality trends” while also omitting the fact that Shopee’s GMV was 
+5   experiencing  an  ongoing  decline.  However,  the  following  allegations  either  are 
+6   inactionable or fail to adequately plead falsity: (1) Defendants’ Shopee-related statements 
+7   on the 3Q22 earnings call (November 15, 2022) (Doc. 31 ¶ 70(b–c)); (2) Defendants’ 
+8   Shopee-related statements on the 4Q22 earnings call (March 7, 2023) (¶ 78(b–e)); and 
+9   (3) Defendants’ statements on the 1Q23 earnings call (May 16, 2023) regarding Sea’s 
+10   potential for “profitable long-term growth” and its ability to “execute growth and manag[e] 
+11   bottom line at the same time” (¶ 90(a)). Accordingly, the Court analyzes scienter only as it 
+12   pertains to the surviving allegedly false statements.                
+13        The PSLRA requires the complaint “state with particularity facts giving rise to a 
+14   strong inference that the defendant” made the “false or misleading statements either 
+15   intentionally or with deliberate recklessness.” Siracusano v. Matrixx Initiatives, Inc., 585 
+</pre><span class="citation" data-id="663176"><a href="/opinion/663176/margaret-taylor-v-director-office-of-workers-compensation-programs/#1180" aria-description="Citation for case: Margaret Taylor v. Director, Office of Workers&#x27;...">16   F.3d 1167, 1180</a></span><pre class="inline"> (9th Cir. 2009). “[A]n inference of scienter must be more than merely 
+17   plausible or reasonable—it must be cogent and at least as compelling as any opposing 
+18   inference of nonfraudulent intent.” Tellabs, Inc v. Makor Issues &amp; Rights, Ltd., </pre><span class="citation" data-id="9435058"><a href="/opinion/145726/uttecht-v-brown/#308" aria-description="Citation for case: Uttecht v. Brown">551 U.S. 
+19   308, 324</a></span><pre class="inline"> (2007). That said, “[t]he inference that the defendant acted with scienter need not 
+20   be irrefutable, i.e., of the smoking-gun genre, or even the most plausible of competing 
+21   inference.” </pre><span class="citation" data-id="9435058"><a href="/opinion/145726/uttecht-v-brown/" aria-description="Citation for case: Uttecht v. Brown">Id.</a></span><pre class="inline"> (internal quotation marks omitted). Rather, “[t]he inquiry . . . is whether all 
+22   of the facts alleged, taken collectively, give rise to a strong inference of scienter, not 
+23   whether any individual allegation, scrutinized in isolation, meets the standard.” </pre><span class="citation" data-id="9435058"><a href="/opinion/145726/uttecht-v-brown/" aria-description="Citation for case: Uttecht v. Brown">Id.</a></span><pre class="inline"> at 322–
+24   23.                                                                  
+25        Plaintiff brings its § 10(b) claim only against Li, Wang, Chen, and Sea. Because Sea 
+26   is a corporation, it “can only act through its employees and agents and can likewise only 
+27   have scienter through them.” In re ChinaCast Educ. Corp. Sec. Litig., </pre><span class="citation" data-id="3149038"><a href="/opinion/3149038/costa-brava-partnership-iii-lp-v-chinacast-education-corp/" aria-description="Citation for case: Costa Brava Partnership III LP v. Chinacast Education Corp.">809 F.3d 471</a></span><pre class="inline">, 475 
+28   (9th Cir. 2015). The “scienter of senior controlling officers of a corporation may be 
+1   attributed to the corporation itself to establish liability as a primary violator of § 10(b) and 
+2   Rule 10b-5 when those senior officials were acting within the scope of their apparent 
+3   authority.” Id. Sea does not dispute that Li, Wang, and Chen were acting within the scope 
+4   of their authority. As such, the Court’s analysis focuses on whether Plaintiff had adequately 
+5   alleged scienter as to Li, Wang, and Chen.                           
+6        Starting first with Li and Wang: Plaintiff posits that it has sufficiently alleged with 
+7   particularly  that  Li  and  Wang  had  actual  knowledge  of  the  subjects  of  the  alleged 
+8   misstatements—that is, the importance of League of Legends to Garena’s business and 
+9   Shopee’s downward trending GMV in light of Sea’s pivot to profitability. Plaintiff further 
+10   contends that given the importance of both League of Legends and Shopee’s GMV to Sea’s 
+11   core operations, it would be absurd to argue that Li and Wang were unaware of both 
+12   matters. The Court agrees.                                           
+13        Under  the  “core  operations”  theory  of  scienter,  “[a]llegations  regarding 
+14   management’s  role  may  help  satisfy  the  PSLRA  scienter  requirements  in  three 
+15   circumstances:                                                       
+16             First, the allegations may be viewed holistically, along with 
+              other allegations in the complaint, to raise a strong inference of 
+17             scienter under the Tellabs standard. Second the allegations may 
+              independently satisfy the PSLRA where they are particular and 
+18             suggest  that  defendants  had  actual  access  to  the  disputed 
+              information . . . . Third, in rare circumstances, such allegations 
+19             may  be  sufficient,  without  accompanying  particularized 
+              allegations, where the nature of the relevant fact is of such 
+20             prominence  that  it  would  be  “absurd”  to  suggest  that 
+              management was without knowledge of the matter.            
+21                                                                        
+22   Reese v. Malone, </pre><span class="citation" data-id="3066145"><a href="/opinion/3066145/claude-reese-v-robert-malone/#572" aria-description="Citation for case: Claude Reese v. Robert Malone">747 F.3d 557, 572</a></span><pre class="inline"> (9th Cir. 2014) (internal citations and quotation marks 
+23   omitted).                                                            
+24        Here,  Plaintiff’s allegations, which the Court takes as true, demonstrates  how 
+25   critical League of Legends was to Garena’s success—so much so that it would be “absurd” 
+26   to argue that Defendants were unaware of—or, as Sea contends in its motion to dismiss, 
+27   “did not expect”—the impact the expiration of the game’s license agreement would have 
+28   on Garena’s business. For instance, Plaintiff alleges that in the years leading up to the 
+1   expiration of license agreement at the end of 2022, Sea’s annual report on Form 20-F 
+2   consistently listed League of Legends among Garena’s most popular licensed games. To 
+3   be specific: Sea listed League of Legends as one of its most popular games in FY17, FY18, 
+4   FY19, FY20, and FY21. (Doc. 31 ¶ 45.) These same forms also reported that Garena’s top 
+5   five games accounted for more than 95% of Sea’s digital entertainment revenue from 2020 
+6   to 2022. (Id.)                                                       
+7        But League of Legends wasn’t just one of Sea’s most popular games—it was and 
+8   continues to be one of the most popular and monetized video games in the world. In 2022, 
+9   the last year Garena retained its right to publish the game, League of Legends had more 
+10   than 180 million monthly players and was the second most-viewed live-streamed video 
+11   game globally, with its League of Legends World Championship drawing 5.1 million 
+12   concurrent viewers and becoming the second most-watched event in esports history at that 
+13   time (¶ 41). See Di Donato v. Insys Therapeutics Inc., No. CV-16-00302-PHX-NWV, 2017 
+</pre><span class="citation no-link">14   WL 3268797</span><pre class="inline">, at *15 (D. Ariz. Aug. 1, 2017) (finding it implausible that defendant-CEO 
+15   would not have known that most of the company’s revenue was coming from a specific 
+16   prescription drug).                                                  
+17        Granted, the importance of League of Legends to Garena’s core operations is not 
+18   alone sufficient to establish scienter. Rather, to establish scienter under the core operations 
+19   theory, a plaintiff must produce either “admissions by one or more corporate executives of 
+20   detailed involvement in the minutia of a company’s operations, such as data monitoring,” 
+21   or “witness accounts demonstrating that executives had actual involvement in creating false 
+22   reports.” Police Ret. Sys. of St. Louis v. Intuitive Surgical, Inc., </pre><span class="citation" data-id="2683964"><a href="/opinion/2683964/police-retire-sys-of-st-louis-v-intuitive-surgical-inc/#1062" aria-description="Citation for case: Police Retire. Sys of St Louis v. Intuitive Surgical, Inc.">759 F.3d 1051, 1062</a></span><pre class="inline"> (9th 
+23   Cir. 2014). Plaintiff sufficiently pleads the former.                
+24        Plaintiff  alleges  that  throughout  the  Class  Period,  Li  and  Wang  regularly 
+25   acknowledged that they tracked Garena’s user engagement, monetization metrics, and 
+26   trends for specific games on a granular basis (Doc. 31 ¶ 106). Indeed, Garena’s license 
+27   agreement itself—to  which Li served  as Garena’s  signatory—required Defendants to 
+28   maintain and provide Riot/Tencent with monthly and quarterly reports on the game’s 
+1   revenue and usage. (Doc. 42-2 at 23.)                                
+2        Moreover, Defendants’ allegedly misleading statements themselves further bolster 
+3   the inference that Defendants were aware of the import of League of Legends on Garena’s 
+4   business. (See e.g., Doc. 31 ¶¶ 65, 74, 76.)  Take, for instance, Wang’s statements on the 
+5   3Q22 earnings call, in which he fielded questions regarding the impact of the license 
+6   agreement’s  expiration  and  explicitly  represented  that  the  game’s  contribution  is 
+7   “immaterial”  to  Garena’s  publishing  business.  Or,  for  another  example,  take  Li’s 
+8   statements on the 4Q22 earnings call, in which he assured investors that Garena’s paying 
+9   user ratio and average revenue per user remained relatively stable. Among the possible 
+10   inferences that could be drawn from these statements, the more compelling one is that 
+11   Wang and Li were aware of Garena’s key operating metrics and had access to information 
+12   regarding the impact the license agreement’s expiration would have on Garena’s business. 
+13   Reese, </pre><span class="citation" data-id="3066145"><a href="/opinion/3066145/claude-reese-v-robert-malone/#572" aria-description="Citation for case: Claude Reese v. Robert Malone">747 F.3d at 572</a></span><pre class="inline"> (finding that an assertion that a defendant was unaware of an alleged 
+14   issue can be “directly contradicted by the fact that [the defendant] specifically addressed it 
+15   in [his] statements”).                                               
+16        Li and Wang’s respective leadership roles also support scienter. See In re Alphabet, 
+17   Inc. Sec. Litig., </pre><span class="citation no-link">1 F.4th 687</span><pre class="inline">, 706 (9th Cir. 2021) (“[W]e may consider a senior executive’s 
+18   role in a company to determine whether there is a cogent and compelling inference that the 
+19   senior executive knew of the information at issue. This includes consideration of the 
+20   executive’s  access  to  the  information,  and,  whether,  given  the  importance  of  the 
+21   information, it would be absurd to suggest that management was without knowledge of the 
+22   matter.”) Li and Wang are both among the highest-level executives at Sea. Li is one of 
+23   Sea’s cofounders and serves as its CEO and Chairman of the Board of Directors. (Doc. 31 
+24   ¶ 16.) And Wang is Sea’s Chief Corporate Officer, Chief General Counsel, and Company 
+25   Secretary. Wang and Li regularly attended and actively participated in Sea meetings and 
+26   earnings call. (¶¶ 101–02.) Sea’s Form F-20 for FY22 also states that Li “has control over 
+27   key decision making as a result of his control of a majority of the voting power of our 
+28   outstanding share capital and has substantial influence over our company.” (¶ 98.)  
+1        Thus, piecing all these allegations together—that League of Legends was a key-
+2   revenue earning game leading up to 2022, that Li and Wang had access to and were aware 
+3   of League of Legends’ user engagement and monetization metrics, and that Li and Wang 
+4   were among the highest-ranked executives—the Court finds Plaintiff’s CAC raises a strong 
+5   inference of Li and Wang’s scienter as it pertains to the Garena-related misstatements. 
+6        Plaintiff’s allegations also support Li and Wang’s scienter with respect to Shopee.  
+7   Similar to the analysis above, Plaintiff’s allegations present as a strong argument that GMV 
+8   was a key metric for Shopee and that it would be “absurd” for Defendants not to have been 
+9   aware of its trending decline in light of Sea’s “pivot to profitability.”  
+10        To start, Plaintiff alleges that Shopee’s revenue is a function of GMV (gross 
+11   merchandise sold over a given period of time) and fees charged. See Shenwick, </pre><span class="citation" data-id="8826451"><a href="/opinion/8841277/in-re-hub-carpet-co/" aria-description="Citation for case: In re Hub Carpet Co.">282 F. 
+12</a></span><pre class="inline">   Supp. 3d at 1146 (finding that it would be absurd for defendants not to have been aware of 
+13   a specific metric’s adverse trends given the metric’s “direct impact on Twitter’s ability to 
+14   generate revenue”). Since its inception as a publicly-traded company, Sea has regularly 
+15   reported its GMV on a quarterly basis—the only exception being 1Q23 and 2Q23, the two 
+16   quarters succeeding the largest GMV decline in Shopee’s history. (Doc. 31 ¶ 32.) The 
+17   importance of GMV as a key operating metric is further illustrated by the fact the GMV is 
+18   one of only two operative metrics that Sea reports in its SEC filings for Shopee. (Doc. 42-
+19   1 at 49.)                                                            
+20        Plaintiff also points to specific admissions by Li and Wang that they were aware of 
+21   Shopee’s GMV and how it was trending throughout the Class Period. (See e.g., Doc. 31 ¶ 
+22   107.) Take for instance, Wang’s remarks on the 1Q23 earnings call, in which he stated: “In 
+23   terms of GMV . . . we don’t discuss quarter-on-quarter GMV numbers specifically. And 
+24   what I mentioned though was that the trend we’re observing, the general trend Q-on-Q 
+25   observed for this quarter versus last quarter is in line as what we observed in Q1 last year 
+26   versus Q4 2021.” (¶ 87.) Wang’s ability to comment on how Shopee’s GMV was trending 
+27   as compared to years prior while also refusing to disclose specific numbers to investors 
+28   raises a strong inference of scienter. See Shenwick, </pre><span class="citation" data-id="7245690"><a href="/opinion/7327774/shenwick-v-twitter-inc/#1147" aria-description="Citation for case: Shenwick v. Twitter, Inc.">282 F. Supp. 3d at 1147</a></span><pre class="inline"> (finding that 
+1   although defendant “did not provide ‘specific’ data” about a key metric, defendant’s 
+2   statement regarding the metric’s dependence on market forces strongly implied that he had 
+3   access to the disputed information). Indeed, Wang “bridge[d] the [scienter] gap” himself 
+4   by referencing the very metric that Sea argues Defendants lacked “actual access” to. See 
+5   Reese, </pre><span class="citation" data-id="3066145"><a href="/opinion/3066145/claude-reese-v-robert-malone/#572" aria-description="Citation for case: Claude Reese v. Robert Malone">747 F.3d at 572</a></span><pre class="inline">.                                              
+6        And although Defendants’ decision to withhold quarterly GMV numbers for 1Q23 
+7   and 2Q23 may not itself be an actionable misrepresentation as currently pled in Plaintiff’s 
+8   CAC,  the  allegation  further  supports  scienter.  That  Defendants  decided  to  begin 
+9   withholding this metric for the first time in Shopee’s history immediately after Shopee 
+10   experienced its largest GMV decline in history bolsters the strong inference that Li and 
+11   Wang,  at  a  minimum,  were  reckless  in  their  statements  and  omissions  to  investors 
+12   regarding Shopee’s downward trending GMV. This is sufficient to survive a motion to 
+13   dismiss.                                                             
+14        Turning now to Chen: Plaintiff names Chen as having violated § 10(b) but, notably, 
+15   does not attribute a single misleading statement to him during the Class Period. To the 
+16   extent that Plaintiff asserts Chen’s liability by virtue of his position as an executive officer 
+17   of the company, district courts within this circuit have largely rejected the “group pleading 
+18   doctrine” as a means of establishing falsity under § 10(b). See In re Questcor Sec. Litig., 
+19   </pre><span class="citation no-link">2013 WL 5486762</span><pre class="inline">, No. SA CV 12-01623 DMG, at *9 (C.D. Cal. Oct. 1, 2023) (surveying 
+20   cases). Moreover, the Supreme Court has held that “the maker of a statement is the person 
+21   or entity with ultimate authority over the statement, including its content and whether and 
+22   how to communicate it.” Janus Capital Grp., Inc. v. First Deriv. Traders, </pre><span class="citation" data-id="9441742"><a href="/opinion/218666/janus-capital-group-inc-v-first-derivative-traders/" aria-description="Citation for case: Janus Capital Group, Inc. v. First Derivative Traders">564 U.S. 135</a></span><pre class="inline">, 
+23   142 (2011).                                                          
+24        Any particularized allegations regarding Chen focus on his alleged insider trading 
+25   during the Class Period. (See Doc. 31 ¶¶ 91, 115–16.) But “[w]ithout more, [a defendant’s] 
+26   trading alone is insufficient to plead liability for securities fraud under [§] 10(b).” In re 
+27   Questcor Sec. Litig., </pre><span class="citation no-link">2013 WL 5486762</span><pre class="inline">, at *10. As such, the Court dismisses Plaintiff’s 
+28   § 10(b) claim against Chen.                                          
+ 1             C.  Control Person Liability 
+2          As already noted, both parties agree that the  fate of Plaintiff&#x27;s  § 20(a) claim for 
+3 ||  control person liability depends on the Court’s resolution of Plaintiffs § 10(b) claim. The 
+       parties have not provided any other arguments on the § 20(a) claim. Thus, because Plaintiff 
+5 ||  has adequately plead a section 10(b) violation, the Court denies Sea’s motion to dismiss as 
+6||    to Plaintiff&#x27;s claim for control person liability under § 20(a). 
+7       V.     CONCLUSION 
+8          To summarize, the Court denies Sea’s motion to dismiss except as follows: 
+9       e   Plaintiff&#x27;s  allegations  that  Defendants  made  false  and  misleading  statements 
+10          regarding Shopee on the 3Q22 earnings call (November 15, 2022) (Doc. 31 § 70(b— 
+11          c)) and the 4Q22 earnings call (March 7, 2023) (4] 78(b—e)) fail to adequately plead 
+12          falsity and therefore are dismissed. 
+13       e   Plaintiff&#x27;s allegations regarding Defendants’ statements on the 1Q23 earnings call 
+14          (May  16,  2023),  in which  Defendants  remarked  on  Sea’s  “profitable  long-term 
+15          growth” and its ability to “execute growth and manag[e] bottom line at the same 
+16          time”    90(a)), are also dismissed. 
+17       e   Plaintiff&#x27;s § 10(b) and Rule 10b-5 claim against Chen is dismissed. 
+18 ||  All other claims and allegations survive. 
+19          IT IS SO ORDERED that Sea’s Motion to Dismiss (Doc. 41) is GRANTED IN 
+20 ||  PART and DENIED IN PART as summarized in the preceding paragraph. 
+21          Dated this 7th day of August, 2024. 
+22 
+23 
+24                                                             {Z, 
+26                                           Son United  States District  Judge 
+27 
+28 
+
+                                         -31- </pre>

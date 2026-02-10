@@ -1,0 +1,735 @@
+<pre class="inline">SOUTHERN                                         NO. 2022-CA-0018
+ENVIRONMENTAL                            *
+MANAGEMENT AND
+SPECIALTIES, INC.                        *       COURT OF APPEAL
+
+VERSUS                                   *       FOURTH CIRCUIT
+
+CITY OF NEW ORLEANS AND                  *       STATE OF LOUISIANA
+HONORABLE LATOYA
+CANTRELL, IN HER                    *******
+OFFICIAL CAPACITY AS THE
+MAYOR OF THE CITY OF
+NEW ORLEANS AND
+COMMAND CONSTRUCTION
+INDUSTRIES, LLC AND ARCH
+SPECIALTY INSURANCE,
+INC.
+
+
+
+                               APPEAL FROM
+               CIVIL DISTRICT COURT, ORLEANS PARISH
+                       NO. 2020-02242, DIVISION “E”
+                        Honorable Omar Mason, Judge
+                                  ******
+                           Judge Rosemary Ledet
+                                  ******
+(Court composed of Chief Judge Terri F. Love, Judge Rosemary Ledet, Pro
+Tempore Judge Madeline Jasmine)
+
+Jonathan S. Forester
+Christopher K. LeMieux
+Evian Mugrabi
+RIESS LeMIEUX, LLC
+1100 Poydras Street, Ste. 1100
+New Orleans, LA 70163
+
+      COUNSEL FOR PLAINTIFF/APPELLANT
+
+Craig N. Mangum
+Elliott Scharfenberg
+Audrey E. Martin
+KREBS FARLEY &amp; DRY, PLLC
+400 Poydras Street, Suite 2500
+New Orleans, LA 70130
+
+      COUNSEL FOR DEFENDANT/APPELLEE
+                                                      AFFIRMED
+                                                      May 11, 2022
+RML
+             This is a construction project, nonpayment dispute. The plaintiff—Southern
+TFL
+      Environmental Management and Specialties, Inc. (“SEMS”)—was a subcontractor
+MJ
+      on a Louisiana Public Works Act (“LPWA”) project—the Hagan-Lafitte Drainage
+
+      Upgrades and Green Infrastructure Project (the “Project”).1 SEMS sued, among
+
+      others, the Project’s statutory surety—Arch Insurance Company (“Arch”)—
+
+      asserting two claims: a payment claim under the bond (“Payment Claim”); and an
+
+      insurance bad faith penalties claim under La. R.S. 22:1892 and 22:1973 (“Penalties
+
+      Claim”). On Arch’s motion for partial summary judgment, the trial court dismissed
+
+      SEMS’s Penalties Claim.2 SEMS appeals.
+
+             The sole question presented is a legal one: whether a surety that issues a
+
+      statutory bond under the LPWA is immune from insurance bad faith penalties
+
+
+
+
+      1 The LPWA—La. R.S. 38:2241, et seq.—governs public work contracts and requires that
+
+      governing authorities entering into a construction contract for a public work furnish a statutory
+      bond. It is undisputed that the Project falls within the ambit of a public work regulated by the
+      LPWA.
+      2 As discussed elsewhere in this opinion, the trial court, in a separate judgment, granted SEMS’s
+
+      summary judgment motion on SEMS’s Payment Claim; the trial court’s ruling on the Payment
+      Claim is not before us on appeal.
+
+
+                                                       1
+under La. R.S. 22:1892 and 22:1973. Answering that question in the affirmative,
+
+we affirm.
+
+                FACTUAL AND PROCEDURAL BACKGROUND
+
+       This dispute originated from a public works project. The four parties
+
+involved in this dispute are as follows: (i) the City of New Orleans, as Project
+
+owner; (ii) Command Construction Industries, LLC (“Command”), as general
+
+contractor; (iii) SEMS, as subcontractor; and (iv) Arch, as surety.3
+
+       In October 2018, the City entered into a bid contract for the Project with
+
+Command—the lowest, responsible bidder. Command, in turn, subcontracted with
+
+SEMS to perform a portion of the work on the Project. In connection with the
+
+Project, Arch provided Command’s required statutory bond with Command as
+
+principal, Arch as surety, and SEMS as obligee.4 During the Project, Command
+
+asked SEMS to perform additional work on the Project.
+
+       Thereafter, a dispute arose over the timing and propriety of the amount owed
+
+by Command to SEMS for work on the Project. When SEMS invoiced Command
+
+for the work, Command paid a portion of the invoiced amount but disputed the
+
+remaining balance that SEMS claimed was due. Seeking to recover the remaining
+
+balance, SEMS took three steps. First, in November 2019, SEMS notified Arch
+
+that it was making a payment claim under the bond for the remaining balance
+
+claimed due.5 Second, in March 2020, SEMS recorded a statement of claim (a lien)
+
+
+3 Although all four of these parties are named in the underlying lawsuit, this appeal involves only
+
+SEMS, as appellant, and Arch, as appellee.
+4 The bond obligated Arch to pay all sums due and owed to subcontractors for the Project.
+
+
+5 In November 2019, SEMS submitted a claim under the payment bond for its claims for
+
+extra-contractual quantity and unit price increases to its scope of work.
+
+
+                                                 2
+with the Orleans Parish Recorder of Mortgages. Third, also in March 2020, SEMS
+
+sued, among others, Arch asserting the Payment Claim and the Penalties Claim.
+
+       SEMS filed a motion for summary judgment, seeking a judgment against
+
+Arch on both the Payment Claim and the Penalties Claim. Arch, in response,
+
+opposed the motion, in general, and filed a cross motion for partial summary
+
+judgment as to the Penalties Claim, in particular. Triggered by a consent agreement
+
+between the parties, the trial court bifurcated the summary judgment hearing and
+
+separately heard and decided the Payment Claim and the Penalties Claim.
+
+       In July 2021, the trial court held a hearing on the Payment Claim. At that
+
+hearing, the trial court orally granted SEMS’s motion, ruling in SEMS’s favor and
+
+against Arch as to the Payment Claim.6 The following month, in August 2021, the
+
+trial court held a hearing on the parties’ cross summary judgment motions on the
+
+Penalties Claim. Following the hearing, the trial court, in October 2021, rendered a
+
+written judgment granting Arch’s motion and denying SEMS’s motion.
+
+       In its October 2021 judgment, the trial court stated that, pursuant to the
+
+LPWA (La. R.S. 38:2241, et seq.), SEMS has no claims as a matter of law for
+
+relief under the Insurance Code; thus, the trial court dismissed with prejudice
+
+SEMS’s claims against Arch under La. R.S. 22:1982 and 22:1973—the Penalties
+
+Claim.7 This appeal by SEMS followed.
+
+
+6 As discussed elsewhere in this opinion, the trial court, on this court’s order, supplemented the
+
+record on appeal with a signed, written judgment granting SEMS’s summary judgment on the
+Payment Claim. In that judgment, the trial court ordered that “ARCH shall pay SEMS its
+contract balance, including retainage, and payment for extra work under the contract between
+[Command] and SEMS in the total amount of $219,730.45, as bifurcated and prayed for, for the
+reasons provided in open court.”
+7 The trial court also denied SEMS’s summary judgment motion as to its Penalties Claim. In so
+
+doing, the trial court held that SEMS has no claim, as a matter of law, for relief under the
+Insurance Code against Arch. Citing La. C.C.P. art. 966(A)(3), the trial court further held that
+material disputed facts exist and SEMS’s summary judgment motion for bad faith claims under
+
+
+                                                 3
+                                        DISCUSSION
+
+Standard of Review
+
+       The same standard of review applies to an appellate court’s review of a trial
+
+court’s ruling on a summary judgment motion and a trial court’s determination of a
+
+legal issue—the de novo standard. See Elliott v. Cont’l Cas. Co., 06-1505, p. 10
+
+(La. 2/22/07), </pre><span class="citation" data-id="1800942"><a href="/opinion/1800942/elliott-v-continental-cas-co/#1253" aria-description="Citation for case: Elliott v. Continental Cas. Co.">949 So.2d 1247, 1253</a></span><pre class="inline"> (observing that “appellate courts review
+
+summary judgments de novo under the same criteria that govern the district court’s
+
+consideration of whether summary judgment is appropriate”;8 Pierce Foundations,
+
+Inc. v. Jaroy Const., Inc., 15-0785, p. 7 (La. 5/3/16), </pre><span class="citation" data-id="9823043"><a href="/opinion/3200115/pierce-foundations-inc-v-jaroy-construction-inc/#303" aria-description="Citation for case: Pierce Foundations, Inc. v. Jaroy Construction, Inc.">190 So.3d 298, 303</a></span><pre class="inline">
+
+(“Pierce”) (observing that “[b]ecause this matter involves the interpretation of
+
+statutory provisions and only questions of law are presented, review by this court is
+
+de novo”). Moreover, “because the case involves the [LPWA], it must be strictly
+
+construed.” </pre><span class="citation" data-id="9823043"><a href="/opinion/3200115/pierce-foundations-inc-v-jaroy-construction-inc/" aria-description="Citation for case: Pierce Foundations, Inc. v. Jaroy Construction, Inc.">Id.</a></span><pre class="inline">
+
+Jurisdictional Issue
+
+       An appellate court has a duty to decide, regardless if a party raises the issue,
+
+whether it has jurisdiction to consider the merits of an appeal. See Urquhart v.
+
+Spencer, 15-1354, p. 3 (La. App. 4 Cir. 12/1/16), </pre><span class="citation" data-id="6529931"><a href="/opinion/6652801/urquhart-v-spencer/#1077" aria-description="Citation for case: Urquhart v. Spencer">204 So.3d 1074, 1077</a></span><pre class="inline"> (quoting
+
+Moon v. City of New Orleans, 15-1092, 15-1093, p. 5 (La. App. 4 Cir. 3/16/16),
+
+</pre><span class="citation" data-id="4826950"><a href="/opinion/5014226/moon-v-city-of-new-orleans/#425" aria-description="Citation for case: Moon v. City of New Orleans">190 So.3d 422, 425</a></span><pre class="inline">). The trial court’s October 2021 judgment, from which this
+
+appeal arises, is an “issue” or a “claim” summary judgment under La. C.C.P. art
+
+
+
+the Insurance Code is denied. Given our ruling affirming the trial court’s grant of Arch’s partial
+summary judgment motion, we pretermit discussion of SEMS’s cross motion.
+8 As this court has noted, the “procedural methodology and principles governing summary
+
+judgment review are well-settled.” Lomax v. Transdev Servs., Inc., 20-0620, p. 6 (La. App. 4 Cir.
+10/20/21), </pre><span class="citation no-link">331 So.3d 368</span><pre class="inline">, 373, writ denied, 21-01737 (La. 2/8/22), </pre><span class="citation no-link">332 So.3d 668</span><pre class="inline">. Given the
+legal nature of the issue presented here, we find it unnecessary to repeat those principles here.
+
+
+
+                                                 4
+966(E).9 Such a judgment, albeit a partial final judgment, is not final unless the
+
+certification requirements of La. C.C.P. art. 1915(B) are met.
+
+       Here, the trial court declared that this was a partial final judgment under La.
+
+C.C.P. art. 1915 and that there was no just reason for delay of an appeal. In
+
+support, the trial court declared that all remaining claims against Arch had been
+
+dismissed with prejudice. In a footnote, the trial court stated that “SEMS’s claims
+
+against Arch under the payment bond were granted in open court [in July 2021].
+
+This [October 2021] Judgment does not modify the [July 2021] order from the
+
+Court.”
+
+       Although the trial court certified the October 2021 partial summary
+
+judgment as final pursuant to La. C.C.P. art. 1915(B), that designation is not
+
+determinative of this court&#x27;s jurisdiction. Instead, when an order designating a
+
+judgment as final for appeal purposes is accompanied by explicit reasons, the
+
+reviewing court must determine whether the trial court abused its discretion in
+
+certifying the judgment. R.J. Messinger, Inc. v. Rosenblum, 04-1664, p. 13 (La.
+
+3/2/05), </pre><span class="citation" data-id="1939936"><a href="/opinion/1939936/rj-messinger-inc-v-rosenblum/#1122" aria-description="Citation for case: RJ Messinger, Inc. v. Rosenblum">894 So.2d 1113, 1122</a></span><pre class="inline">.
+
+       Here, Arch contends in its appellee brief that the October 2021 judgment is
+
+not final given the absence from the record of a signed, written judgment reflecting
+
+the trial court’s July 2021 oral ruling on the Payment Claim. To resolve the
+
+procedural problem created by the absence of a written judgment on the Payment
+
+Claim, this court, sua sponte, ordered the trial court to supplement the record with
+
+a signed, written judgment reflecting its July 2021 oral ruling. The trial court
+
+9 La. C.C.P. art 966(E) provides that “[a] summary judgment may be rendered dispositive of a
+
+particular issue, theory of recovery, cause of action, or defense, in favor of one or more parties,
+even though the granting of the summary judgment does not dispose of the entire case as to that
+party or parties.”
+
+
+
+                                                 5
+complied with the order. The trial court signed a judgment on the Payment Claim
+
+in April 2022; and the record was supplemented with that signed, written
+
+judgment.
+
+       Because all of SEMS’s claims against Arch—the Payment Claim and the
+
+Penalties Claim—have been dismissed by written judgments, we find no abuse of
+
+discretion in the trial court’s certification of the October 2021 judgment as a final,
+
+appealable judgment pursuant to La. C.C.P. art. 1915(B). See Overmier v. Traylor,
+
+</pre><span class="citation" data-id="1772937"><a href="/opinion/1772937/overmier-v-traylor/#1094" aria-description="Citation for case: Overmier v. Traylor">475 So.2d 1094, 1094-95</a></span><pre class="inline"> (La. 1985) (observing that “once the final judgment has
+
+been signed, any previously existing defect has been cured, and there is no useful
+
+purpose in dismissing the otherwise valid appeal”).We, thus, turn to the substantive
+
+issue presented here.
+
+Substantive Issue
+
+       Again, this appeal presents the narrow, legal issue of whether a surety that
+
+issues a statutory bond under the LPWA is immune from liability for insurance bad
+
+faith penalties under the Louisiana Insurance Code—La. R.S. 22:1892 and 22:1973
+
+(the “Insurance Penalties Provisions”). SEMS contends that the Insurance Penalties
+
+Provisions apply to sureties under the LPWA given the general definitional
+
+provisions of the Louisiana Insurance Code,10 coupled with the all-inclusive
+
+language in the Insurance Penalties Provisions. SEMS stresses Arch’s counsel’s
+
+admission that Arch is an insurer.
+
+       SEMS acknowledges, however, that this court resolved the same legal issue
+
+in a surety’s favor in Metro Builders Hardware, Inc. v. Burko Const., Inc., 93-1970
+
+
+10 See La. R.S. 22:46(10) (defining an insurer as “every person engaged in the business of
+
+making contracts of insurance, other than a fraternal benefit society”); La. R.S. 22:47(18)
+(classifying surety as insurance).
+
+
+
+                                                6
+(La. App. 4 Cir. 2/25/94), </pre><span class="citation" data-id="1766681"><a href="/opinion/1766681/metro-builders-hardware-v-burko-const/" aria-description="Citation for case: Metro Builders Hardware v. Burko Const.">633 So.2d 838</a></span><pre class="inline"> (“Metro”). Nonetheless, SEMS contends
+
+that the Louisiana Supreme Court, in its subsequent decision in Pierce, implicitly
+
+overruled Metro.
+
+       Arch counters that Metro has not been overruled and is dispositive. Arch
+
+emphasizes that the Legislature has not revised the statutory provision this court
+
+cited in Metro—La. R.S. 38:2241(C)—that provides for immunity to a surety (the
+
+“Immunity Provision”). Arch further emphasizes, as this court also noted in Metro,
+
+that the LPWA has its own penal provision—La. R.S. 38:2246, which provides for
+
+attorney’s fees.
+
+       To resolve the impact, if any, of Pierce on our precedent in Metro, we begin
+
+by summarizing the Metro and Pierce cases and then addressing the impact of
+
+Pierce on Metro. At the outset, we note that both Metro and Pierce arose out of
+
+public works projects governed by the LPWA. In both cases, the issue addressed
+
+was a purely legal one.
+
+       Metro
+
+       The legal issue this court addressed in Metro was whether the Insurance
+
+Penalty Provisions—there, former La. R.S. 22:122011—applied to a surety bond
+
+issued under the LPWA. The plaintiff, a material supplier, sued the general
+
+contractor and the statutory surety asserting a claim for the following three items:
+
+(i) the principal amount due for the materials; (ii) attorney’s fees under the LPWA,
+
+La. R.S. 38:2246; and (iii) insurance bad faith penalties under the Louisiana
+
+Insurance Code, La. R.S. 22:1220. The trial court found the surety liable for the
+
+first two items, but denied the third one—the insurance bad faith penalties.
+
+
+11 After Metro was decided, the Louisiana Legislature renumbered the Insurance Penalty
+
+Provisions. The substance of the penalty provisions has not been changed.
+
+
+                                               7
+      On appeal, the material supplier made the same argument SEMS makes
+
+here—that the Insurance Penalties Provisions applied because a surety bond is an
+
+insurance contract and, thus, the surety’s failure to pay under that contract resulted
+
+in insurance bad faith penalties. Rejecting that argument, this court reasoned that a
+
+surety under the LPWA could not be held liable for any claim not provided for in
+
+the LPWA. In so holding, this court cited the following five factors:
+
+   • The LPWA is sui generis; it is the exclusive remedy to parties in public
+     construction work; and it must be strictly construed;
+
+   • The LPWA requires a bond be furnished by a public entity that contracts for
+     the construction of public work in excess of a certain sum; that required
+     bond is a statutory bond. La. R.S. 38:2241(A);
+
+   • The LPWA provides certain immunities to sureties—the Immunity
+     Provision. La. R.S. 38:2241(C) (providing “[s]ureties and contractors
+     executing payment bonds for public works contracts under this Part shall be
+     immune from liability for or payment of any claims not required by this
+     Part”)’;
+
+   • Although the LPWA contains an attorney’s fees provision, it contains no
+     penalty provision. See La. R.S. 38:224 (providing that attorney’s fees are
+     recoverable when payment is not made within thirty days after amicable
+     demand on the principal or surety and the claimant recovers the full amount
+     of the claim); and
+
+   • Louisiana courts have refused to allow recovery on a statutory bond beyond
+     the LPWA’s provisions.
+
+Summarizing, this court observed that “[b]ecause the public contract and bond in
+
+this case are governed by the [LPWA], [the statutory surety] is not liable for any
+
+claim not provided for in the statute.” Metro, </pre><span class="citation" data-id="1766681"><a href="/opinion/1766681/metro-builders-hardware-v-burko-const/#840" aria-description="Citation for case: Metro Builders Hardware v. Burko Const.">633 So.2d at 840</a></span><pre class="inline">.
+
+      Pierce
+
+      In Pierce, the Supreme Court granted a subcontractor’s writ application to
+
+interpret two LPWA provisions—La. R.S. 38:2247 and 38:2242(B). At the outset
+
+of its opinion, the Supreme Court observed that it “granted the writ application to
+
+
+
+                                          8
+determine whether, under La. R.S. 38:2247, the notice and recordation
+
+requirements of La. R.S. 38:2242(B) are necessary conditions for a claimant&#x27;s right
+
+of action against a bond furnished pursuant to La. R.S. 38:2241.” Pierce, 15-0785,
+
+p. 1, 190 So.3d at 299.12
+
+       In addressing the issue, the Supreme Court summarized the LPWA’s history
+
+and observed that under the LPWA, a claimant on a public works project has two
+
+avenues of relief: (i) an action against the general contractor and surety on the
+
+project’s statutory bond (“Bond Action”); and (ii) in lieu of a lien, a privilege
+
+against funds in the hands of the public authority with whom the original contract
+
+was entered into (“Privilege Claim”). The Supreme Court held that the
+
+subcontractor’s failure to comply with the notice and recordation requirements of
+
+12 In Pierce, a general contractor entered into a contract with the Jefferson Parish Council
+
+(“Parish”) to construct a gym. In compliance with La. R.S. 38:2241 A(2), the general contractor
+obtained a bond with a surety, Ohio Casualty Insurance Company (“Ohio Casualty”). The
+general contractor then entered into a subcontract with Pierce Foundation, Inc. (“Pierce”) for the
+installation of pilings. After completing its work in November 2008, and upon the general
+contractor’s failure to pay for the work, Pierce sued the general contractor in July 2009. A year
+later, Pierce added Ohio Casualty as a defendant. The general contractor then filed for
+bankruptcy; thereafter, the matter proceeded solely against Ohio Casualty. Almost a year later,
+Parish filed a notice of acceptance of the work in the mortgage records. Pierce failed to file a
+sworn statement of claim in the mortgage records.
+
+         Ohio Casualty filed a summary judgment motion contending that Pierce failed to preserve
+its rights to proceed against it, citing La. R.S. 38:2247. The trial court granted in part and dened
+in part Ohio Casualty’s summary judgment motion; the trial court granted it solely to the extent
+that there was no privilege in Pierce’s favor. The appellate court denied Ohio Casualty’s writ
+application on the showing made, stating that “we decline to exercise our supervisory
+jurisdiction” and citing K Construction, Inc. v. Burko Construction, Inc., </pre><span class="citation" data-id="1674989"><a href="/opinion/1674989/k-const-inc-v-burko-const-inc/" aria-description="Citation for case: K CONST., INC. v. Burko Const., Inc.">629 So.2d 1370</a></span><pre class="inline"> (La.
+App. 4th Cir. 1993)(“Burko”), and Wilkin v. Dev Con Builders Inc., </pre><span class="citation" data-id="1866936"><a href="/opinion/1866936/wilkin-v-dev-con-builders-inc/" aria-description="Citation for case: Wilkin v. Dev Con Builders, Inc.">561 So.2d 66</a></span><pre class="inline"> (La. 1990).
+Pierce Founds., Inc. v. The Ohio Casualty Ins. Co., 12-0859 (La. App. 5 Cir. 11/09/12)
+(unpublished). Following a bench trial, a judgment was rendered against Ohio Casualty.
+
+         On appeal, the appellate court, changing its position, reversed. Construing La. R.S.
+38:2247, the appellate court held that “only those claimants who have complied with the notice
+and recordation requirements of La. R.S. 38:2242(B) shall not be deprived of a right of action on
+the bond.” Pierce Founds., Inc. v. JaRoy Constr., Inc., 14-669, p. 7 (La. App. 5 Cir. 3/25/15),
+</pre><span class="citation" data-id="4820477"><a href="/opinion/5008353/pierce-foundations-inc-v-jaroy-construction-inc/#584" aria-description="Citation for case: Pierce Foundations, Inc. v. Jaroy Construction, Inc.">169 So.3d 580, 584</a></span><pre class="inline">. The appellate court held that the notice and recordation requirements set
+forth in La. R.S. 38:2242(B) are prerequisites for a right of action on the bond. The appellate
+court found that the subcontractor’s (Pierce’s) failure to comply with these prerequisites deprived
+it of a right of action on the bond. In so holding, the appellate court rejected the reasoning of the
+Burko case. The Supreme Court granted Ohio Casualty’s writ to address this legal issue.
+
+
+
+                                                 9
+the LPWA deprived it of the Privilege Claim, but not the Bond Action. Pierce, 15-
+
+0785, p. 8, 190 So.3d at 304. In support of its holding, the Supreme Court cited
+
+two factors—the ambiguity of the statutory language in question and the purpose
+
+of the LPWA.
+
+       As to the ambiguity, the Supreme Court observed that the plain language of
+
+La. R.S. 38:2242(B)—which included the permissive language that a claimant
+
+“may”13 file a sworn statement of claim—and the language of La. R.S. 38:2247—
+
+which included a reference to the recordation “requirements” of section 2242(B)—
+
+were in conflict. To resolve this ambiguity, the Supreme Court looked to the
+
+purpose of the statutory provision as a whole.
+
+       The LPWA’s purpose, the Supreme Court noted, is “to ‘protect those
+
+performing labor and furnishing materials for public works’ rather than protecting
+
+the sureties on the bond.” Pierce, 15-0785, p. 10, 190 So.3d at 305 (quoting Wilkin,
+
+</pre><span class="citation" data-id="1866936"><a href="/opinion/1866936/wilkin-v-dev-con-builders-inc/#70" aria-description="Citation for case: Wilkin v. Dev Con Builders, Inc.">561 So.2d at 70</a></span><pre class="inline">). To achieve the purpose, the LPWA “creates an additional
+
+remedy to persons contributing to the construction, alteration, or repair of public
+
+works”—the Privilege Claim. Pierce, 15-0785, p. 10, 190 So.3d at 305 (emphasis
+
+in original). The LPWA, however, “is not intended to—and does not—affect rights
+
+between parties proceeding directly in contract”—the Bond Action. Pierce, 15-
+
+0785, pp. 10-11, 190 So.3d at 305.14 Accordingly, the Supreme Court concluded
+
+
+13 The Supreme Court cited La. R.S. 1:3, which provides that “‘[t]he word ‘shall’ is mandatory
+
+and the word ‘may’ is permissive.” Pierce, 15-0785, p. 8, 190 So.3d at 304.
+14 Continuing, the Supreme Court observed that “La. R.S. 38:2247 is first and foremost a
+
+prescription provision, providing an additional year to parties filing suit after the acceptance of
+work or default notice is filed.” Pierce, 15-0785, p. 10, 190 So.3d at 305. Emphasizing the
+unique circumstances presented in Pierce, the Supreme Court noted that the subcontractor had
+filed suit over a year before the acceptance was filed, the parties litigated the claims through
+discovery and motions, and the surety obviously was on notice of the suit. Based on the unique
+circumstances, the Supreme Court commented that “[r]equiring additional notice under these
+unique circumstances . . . would be futile and merely duplicative.” Id.
+
+
+                                                 10
+that “[b]ecause the statutory language at issue is ambiguous, and because the
+
+purpose of the Act is to assist laborers in recovery—not to immunize sureties
+
+where parties may proceed in contract—the purpose of the Act is effectuated by
+
+this decision.” Pierce, 15-0785, p. 13, 190 So.3d at 307.15
+
+       Issue Presented in This Case
+
+       The issue here is whether a surety that issues a statutory bond under the
+
+LPWA is immune from insurance bad faith penalties under La. R.S. 22:1892 and
+
+22:1973. Citing La. R.S. 38:2241(C), the Immunity Provision, this court in Metro
+
+answered that question in the affirmative. As noted elsewhere in this opinion,
+
+SEMS argues that the Supreme Court in Pierce effectively overruled this court’s
+
+decision in Metro. In support, SEMS cites the following three statements by the
+
+Supreme Court in Pierce:
+
+   • The LPWA “creates an additional remedy to persons contributing to the
+     construction, alteration, or repair of public works”—the Privilege Claim.
+     Pierce, 15-0785, p. 10, 190 So.3d at 304 (emphasis in original).
+
+   • “[T]he purpose of the Act is to assist laborers in recovery—not to immunize
+     sureties where parties may proceed in contract.” Pierce, 15-0785, p. 13, 190
+     So.3d at 307.
+
+   • “[A]ny other interpretation of La. R.S. 38:2242 and 38:2247 would
+     undermine the stated purpose of the Act: to protect those contributing to the
+     construction, alteration, or repair of public works, not to foreclose
+     preexisting contractual rights between parties.” Pierce, 15-0785, p. 12, 190
+     So.3d at 306-07.
+
+
+
+
+15 Buttressing it reasoning, the Supreme Court cited with approval this court’s decision in Burko,
+
+authored by former Chief Justice John Dixon sitting pro tempore. The Supreme Court noted that
+Burko considered and rejected the same arguments made by the surety in Pierce. Agreeing with
+Burko, the Supreme Court observed that “any other interpretation of La. R.S. 38:2242 and
+38:2247 would undermine the stated purpose of the Act: to protect those contributing to the
+construction, alteration, or repair of public works, not to foreclose preexisting contractual rights
+between parties.” Pierce, 15-0785, p. 12, 190 So.3d at 306-07.
+
+
+                                                 11
+According to SEMS, Pierce stands for the proposition that the LPWA can be
+
+harmonized with other laws—including other statutory schemes, such as the
+
+Louisiana Insurance Code—and that it is not a subcontractor’s exclusive remedy.
+
+      Arch counters that Pierce, in addressing the legal issue before it, never left
+
+the confines of the LPWA itself and, thus, is consistent with Metro. According to
+
+Arch, Pierce never harmonized the LPWA and other statutory schemes; rather,
+
+Pierce stands for the limited proposition that a subcontractor may pursue the Bond
+
+Action—a contract claim—against the general contractor and its statutory surety
+
+despite the lack of timely filing and recordation. Arch also emphasizes that the
+
+majority opinion in Pierce does not mention Metro. We agree.
+
+      Nothing in Pierce changes our holding in Metro. The Supreme Court in
+
+Pierce addressed an entirely different issue of statutory construction than the issue
+
+presented in Metro. The key statutory provision cited in Metro was La.
+
+R.S. 38:2241(C)—the Immunity Provision. Although the surety in Pierce raised
+
+the Immunity Provision as a defense to the subcontractor’s claim against it, the
+
+majority in Pierce declined to address the Immunity Provision. As one of the
+
+dissenting justices in Pierce, former Justice Knoll, observed:
+
+            Nowhere does the majority opinion address this key provision in the
+      [L]PWA—the immunity granted the surety under La. R.S. 38:2241(C)—,
+      which renders the majority’s analysis clearly erroneous. A proper statutory
+      analysis would address the immunity provision, which the surety . . . is
+      urging in this case. The immunity provision clearly grants [the surety]
+      immunity because [the subcontractor] did not follow the notice and
+      recordation requirements before (or even after) it filed suit against [the
+      surety].”
+
+Pierce, 15-0785, p. 6, 190 So.3d at 310 (Knoll, J., dissenting). In an apparent
+
+response to the dissent, the majority in Pierce inserted a footnote in its opinion,
+
+stating that the Immunity Provision was not intended to supplant contractual
+
+
+                                          12
+remedies a LPWA claimant otherwise possesses. Pierce, 15-0785, p. 11, n. 6, 190
+
+So.3d at 306.16
+
+       Given the failure of the majority opinion in Pierce to construe the Immunity
+
+Provision coupled with its focus on two entirely different LPWA statutory
+
+provisions, we find SEMS’s contention that Pierce effectively overruled Metro
+
+unpersuasive. 17 As Arch emphasizes, the Legislature has not amended the
+
+Immunity Provision since Metro was decided. Again, the Immunity Provision
+
+expressly provides that “[s]ureties . . . executing payment bonds for public works
+
+contracts under this Part shall be immune from liability for or payment of any
+
+claims not required by this Part.” La. R.S. 38:2241(C).18 The Immunity Provision
+
+cabins a surety’s liability to the parameters of the LPWA. Given the Insurance
+
+Penalties Provisions are located outside the LPWA—in the Louisiana Insurance
+
+Code—the Insurance Penalties Provisions, as we held in Metro, are not applicable
+
+to the statutory surety, Arch. Accordingly, we find no error in the trial court’s grant
+
+of Arch’s motion for partial summary judgment on the Penalties Claim.
+
+                                           DECREE
+
+16 The footnote reads as follows:
+
+
+                We note further that R.S. 38:2241(C) contains language that purports to
+       ‘immunize’ sureties from liability for or payment of claims ‘not required by this Part.’
+       La. R.S. 38:2241(C) . . . It has been suggested that the aim of this provision is to ‘clearly
+       state[ ] that a bond given pursuant to the Public Works Act is a statutory bond which is
+       strictly construed and that only claimants who are specifically named in the statutes have
+       a right to sue under the bond.’ LA. PRAC. SERIES: LA. CONSTR. LAW, § 13:10. Though this
+       language is less than clear, there is no indication that it was intended to supplant
+       contractual remedies that persons who qualify as ‘claimants’ under the Act otherwise
+       possess.
+
+Pierce, 15-0785, p. 11, n. 6, 190 So.3d at 306.
+17 Our holding that Pierce did not effectively overrule Metro is buttressed by the fact that Burko,
+
+which the majority in Pierce adopts as supporting its holding, was decided by this court in 1993,
+a year before Metro was decided.
+18 See La. R.S. 1:3 (providing that “[t]he word ‘shall’ is mandatory”).
+
+
+
+                                                  13
+For the foregoing reasons, the judgment of the trial court is affirmed.
+
+AFFIRMED
+
+
+
+
+                                   14
+</pre>

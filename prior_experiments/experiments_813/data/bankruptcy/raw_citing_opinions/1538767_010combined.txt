@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b584-19">
+  MEMORANDUM OPINION
+ </p>
+<author id="b584-20">
+  ROGER M. WHELAN, Bankruptcy Judge.
+ </author>
+<p id="b584-21">
+  The debtor, Abel Montano, filed a petition and plan under Chapter 13 of the Bankruptcy Code on February 26, 1980.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+</p>
+<p id="b584-22">
+  The facts of record, presented in the Chapter 13 plan and statement and at the confirmation hearing, are as follows:
+ </p>
+<p id="b584-23">
+  The debtor is employed and anticipates net monthly wages of $948.54 after a credit union deduction is ceased. He is married and has one dependent child, and lists monthly expenses of $748.54, yielding an excess of $200.00 available for payment into the plan. There are no secured creditors. The debtor’s unsecured indebtedness totals $31,507.44. The plsm proposes monthly payments of $200.00, which are to be applied as follows: (1) 100% payments to the unsecured creditors with claims guaranteed by co-signers, totalling approximately $7,000.00; (2) a 1% payment to the remaining unsecured creditors, with total claims of $24,507.44. The plan, as originally proposed, sought to: (1) classify separately
+  <span citation-index="1" class="star-pagination" label="537"> 
+   *537
+   </span>
+  unsecured debts on the basis of the existence of a co-debtor; (2) pay co-obligor unsecured debts in full and pay a 1% dividend on the remaining unsecured debts. Therefore, at the confirmation hearing on May 22, 1980, the following issues were presented:
+ </p>
+<p id="b585-4">
+  (I) Whether a plan proposed under Chapter 13 may classify and treat separately unsecured debts solely on the basis of the existence of a co-debtor.
+ </p>
+<p id="b585-5">
+  (II) Whether the proposal of a 1% payment to unsecured creditors meets the requirement set forth in § 1325(a)(3), that a plan be proposed “in good faith.”
+ </p>
+<p id="b585-6">
+  1. Separate Classification of Unsecured Co-obligor Debt
+ </p>
+<p id="b585-7">
+  <span class="citation no-link">11 U.S.C. § 1322</span>(b)(1) provides:
+ </p>
+<blockquote id="b585-8">
+  “(b) . . . the plan may
+ </blockquote>
+<blockquote id="b585-9">
+  (1) designate a class or classes of unsecured claims, as provided in Section 1122 of this Title, but may not discriminate unfairly against any class so designated;”
+ </blockquote>
+<p id="b585-10">
+  Section 1122 of the Bankruptcy Code provides that, except for small claims which may be treated separately for administrative convenience, a plan may classify only on the basis of substantial similarity of a claim or interest to other claims or interests in the same class. “Substantially similar” is to be construed as “similar in legal character or effect as a claim against debtor’s assets or as an interest in the debtor.” 5
+  <em>
+   Collier on Bankruptcy,
+  </em>
+  ¶ 1122.03 at 1122-4 (15th Ed. 1979).
+  <em>
+   See: Scherk
+  </em>
+  v.
+  <em>
+   Newton,
+  </em>
+  <span class="citation" data-id="1486562"><a href="/opinion/1486562/scherk-v-newton/" aria-description="Citation for case: Scherk v. Newton">152 F.2d 747</a></span> (10th Cir. 1945). Aside from the exception in Section 1122(b), debts must be classified on the basis of the legal nature of the claim. The mere existence of a co-debtor is not legally sufficient to justify separate classification. Inasmuch as the holder of a co-obligor debt has the same legal rights against the debtor’s assets as other general unsecured creditors, a separate classification is not allowable under Section 1122.
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (Bkrtcy.D.Utah 1980).
+  <em>
+   Accord: In re McKenzie,
+  </em>
+  <span class="citation" data-id="1538917"><a href="/opinion/1538917/in-re-mckenzie/" aria-description="Citation for case: In Re McKenzie">4 B.R. 88</a></span> (Bkrtcy.W.D.N.Y. 1980);
+  <em>
+   In re Fonnest,
+  </em>
+  5 BCD 236 (N.D.Cal. 1980); Lee,
+  <em>
+   Ch. 13 Nee Ch. XIII,
+  </em>
+  53 Am. Bankr.L.J. 303, 313 (1979).
+ </p>
+<p id="b585-13">
+  For the same reasons, such classification, where cosigned debts are to be paid in full and other general unsecured debts are to be paid much less, unfairly discriminates against the latter class, and thus is unpermissible under § 1322(b)(1). Therefore, the court holds that separate classification of unsecured debt, solely on the basis of a cosigner, is an improper classification under Ch. 13 of the Bankruptcy Code.
+ </p>
+<p id="b585-14">
+  II. Good Faith
+ </p>
+<p id="b585-15">
+  Section 1325(a)(3) of the Bankruptcy Code provides that a plan must be proposed in good faith in order to be confirmed. Writing on the proverbial “tabula rasa,” several Bankruptcy Courts have held that the percentage of payments proposed on unsecured debt is germane to the question of good faith. However, neither the statute nor the legislative history is explicit as to the construction of “good faith” with respect to the requirement, if any, that a Ch. 13 plan propose more than nominal payments in order to meet confirmation standards. See:
+  <em>
+   5 Collier on Bankruptcy
+  </em>
+  ¶ 1325.01[2][C] at 1325-8 (15th Ed. 1979). H.R.Rep. No. 595, 95th Cong., 1st Sess., 430 (1977); S.Rep. No. 989, 95th Cong., 1st Sess. 1-42 (1978) U.S.Code Cong. &amp; Admin.News 1978, p. 5787.
+ </p>
+<p id="b585-16">
+  At least one Bankruptcy Court has held, on the basis of legislative silence, that a Chapter 13 plan need not propose any payments to unsecured creditors.
+  <em>
+   In re Terry,
+  </em>
+  <span class="citation" data-id="1970481"><a href="/opinion/1970481/tenney-v-terry-in-re-terry/" aria-description="Citation for case: Tenney v. Terry (In Re Terry)">3 B.R. 63</a></span> (Bkrtcy.W.D.Ark.1980). Another court has interpreted “good faith” as compliance with the discharge standards of § 727(a)(9)(B), and held that the omission of the “70%” and “best effort”
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  requirements from Chapter 13 was merely legislative oversight.
+  <em>
+   In re Burrell,
+  </em>
+  <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">2 B.R. 650</a></span> (Bkrtcy.N.D.Cal.1980).
+ </p>
+<p id="b585-18">
+  Other courts, based on the differences between Chapter 7 and Chapter 13, espe
+  <span citation-index="1" class="star-pagination" label="538"> 
+   *538
+   </span>
+  cially the liberal discharge provisions and retention of property in Chapter 13, have inferred that Congress intended “good faith” to mean fairness to creditors in the sense of a meaningful repayment plan, as a
+  <em>
+   quid pro quo
+  </em>
+  for the broader effect on creditors’ rights under Chapter 13. See, e. g.,
+  <em>
+   In re Howard,
+  </em>
+  <span class="citation" data-id="1970311"><a href="/opinion/1970311/in-re-howard/" aria-description="Citation for case: In Re Howard">3 B.R. 75</a></span> (Bkrtcy.S.C.Cal.1980).
+  <em>
+   In re Campbell,
+  </em>
+  <span class="citation" data-id="1970642"><a href="/opinion/1970642/in-re-campbell/" aria-description="Citation for case: In Re Campbell">3 B.R. 57</a></span> (Bkrtcy.S.D.Cal.1980).
+  <em>
+   In re Beaver,
+  </em>
+  <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/" aria-description="Citation for case: In Re Beaver">2 B.R. 337</a></span> (Bkrtcy.S. D.Cal.1980).
+  <em>
+   In re Bloom,
+  </em>
+  <span class="citation" data-id="1970474"><a href="/opinion/1970474/in-re-bloom/" aria-description="Citation for case: In Re Bloom">3 B.R. 467</a></span> (Bkrtcy.C.D.Cal.1980).
+  <em>
+   In re Anderson,
+  </em>
+  <span class="citation" data-id="1970812"><a href="/opinion/1970812/in-re-anderson/" aria-description="Citation for case: In Re Anderson">3 B.R. 160</a></span> (Bkrtcy.S.D.Cal.1980).
+ </p>
+<p id="b586-4">
+  It is the opinion of this court that failure of the legislature to set a fixed percentage test for Chapter 13 compositions was not intended as a loophole through which debtors could avoid nondischargeable debt or obtain yearly discharges through the filing of plans with nominal or no payments to unsecured creditors.
+  <em>
+   See: In re Marlow,
+  </em>
+  <span class="citation" data-id="1970491"><a href="/opinion/1970491/matter-of-marlow/" aria-description="Citation for case: Matter of Marlow">3 B.R. 305</a></span> (Bkrtcy.N.D.Ill.1980). The “good faith” requirement of Section 1325 should be viewed in terms of the legislative goals of Chapter 13. This approach is consistent with the construction of good faith under the old law:
+ </p>
+<blockquote id="b586-5">
+  “Good faith itself is not defined but generally the inquiry is directed to whether or not there has been an abuse of the provisions, purposes, or spirit of Ch. XIII in the proposal or plan.”
+ </blockquote>
+<blockquote id="b586-6">
+  10
+  <em>
+   Collier on Bankruptcy,
+  </em>
+  ¶ 29.06[6] at 339 (14th Ed. 1978).
+ </blockquote>
+<p id="b586-7">
+  Admittedly, the legislative history is sparse in reference to what was intended in this area of good faith; but the following language, construed with the traditional or historical approach to the old Chapter XIII, lends support to the court’s view:
+ </p>
+<blockquote id="b586-8">
+  “The benefit to the debtor of developing a plan of repayment under chapter 13, rather than opting for liquidation under chapter 7, is that it permits the debt- or to protect his assets. In a liquidation case, the debtor must surrender his nonexempt assets for liquidation and sale by the trustee.
+  <em>
+   Under chapter 13, the debt- or may retain his property by agreeing to repay his creditors.
+  </em>
+  Chapter 13 also protects a debtor’s credit standing far better than a straight bankruptcy, because he is viewed by the credit industry as a better risk. In addition, it satisfies many debtors’ desire to avoid the stigma attached to straight bankruptcy and to retain the pride attendant on being able to meet one’s obligations.
+  <em>
+   The benefit to creditors is self-evident: their losses will be significantly less than if their debtors opt for straight bankruptcy.
+  </em>
+</blockquote>
+<blockquote id="b586-11">
+  H.R.Rep. 595, 95th Cong., 1st Sess., 118 (1977), U.S.Code Cong. &amp; Admin.News 1978, p. 6079 (emphasis added).
+ </blockquote>
+<blockquote id="b586-12">
+  “If a problem arises in the execution of the plan, the bill permits modification of the plan, either through a scaling down of payments, a temporary moratorium, or an extension of time for performance. If the problems, such as a natural disaster, a long-term layoff, or family illness or accidents with attendant medical bills, are severe enough that modification is impracticable, the debtor’s inability to make further payments is due to circumstances for which he should not justly be held accountable, and if his creditors have already received at least what they would have if the debtor had opted for straight bankruptcy, then the court may terminate performance under the plan and grant the debtor his discharge notwithstanding incomplete performance.”
+ </blockquote>
+<blockquote id="A5q">
+  H.R.Rep. 595, 95th Cong., 1st Sess., 125 (1977) U.S.Code Cong. &amp; Admin.News 1978, p. 6087.
+ </blockquote>
+<p id="b586-13">
+  In analyzing the language of the House Report, the obvious thrust of the new Chapter 13 is to provide flexibility in choosing between the traditional extension plan and the now-sanctioned composition plan. Either envisions “repayment” to creditors, “with the debtor making payments and the trustee acting as the disbursement agent, collecting and distributing the money to creditors.”
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  H.R.Rep. 595, 95th Cong., 1st
+  <span citation-index="1" class="star-pagination" label="539"> 
+   *539
+   </span>
+  Session, 124 (1977), U.S.Code Cong. &amp; Admin.News 1978, p. 6085. If debtors are permitted to propose 1% repayment plans, or no repayment at all, in the event that general unsecured creditors would not receive any more “. . .if the estate of the debtor were liquidated under Chapter 7 . ”, then the cited language from the legislative history becomes meaningless. A 1% repayment plan would tax the resources of the trustee and would not constitute a “benefit to creditors.”
+ </p>
+<p id="b587-6">
+  Therefore, confirmation of a Chapter 18 plan requires that a plan of meaningful payment be proposed in order to meet the standard of “good faith.” The court, in determining “meaningfulness,” will look at each plan on a case-by-case basis, weighing both the interests of creditors and the debtors in light of the rehabilitative goals of Chapter 13. Factors which should be considered in this determination include: the amount and type of indebtedness, the debt- or’s present and potential earnings, the debtor’s present style of living and living expenses, and the availability of property which might be utilized for liquidation of debts.
+  <em>
+   See,
+  </em>
+  e. g. § 1322(b)(8) of the Bankruptcy Code.
+ </p>
+<p id="AZe3">
+  In the instant case, the plan, in view of the debtor’s financial resources, fails to propose meaningful payment to the unsecured creditors.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  Thus, in view of the amount of unsecured indebtedness and the percentage of payment proposed, the court finds that the plan is not proposed in good faith.
+ </p>
+<p id="b587-8">
+  For the reasons stated above, the debtor is directed to file modification of the plan in accordance with this opinion, not later than May 29, 1980, or the case will be dismissed without prejudice.
+ </p>
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b584-13">
+   . Prior to the Confirmation Hearing, the court ordered this case transferred to the United States Bankruptcy Court of the Eastern District of Virginia. See Order of April 8, 1980. Due to a Notice of Appeal, timely filed on April 18, 1980, by the debtor, and a motion to stay, filed April 21, 1980, the court stayed the actual transfer pending further disposition of the Chapter 13 case.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b585-11">
+   . Another Bankruptcy Court has expressly held that the “best effort” requirement is not applicable in Chapter 13.
+   <em>
+    In re Powell,
+   </em>
+   <span class="citation" data-id="1887669"><a href="/opinion/1887669/general-finance-co-of-virginia-v-powell-in-re-powell/#316" aria-description="Citation for case: General Finance Co. of Virginia v. Powell (In Re Powell)">2 B.R. 314, 316</a></span> (Bkrtcy.E.D.Va. 1980).
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b586-9">
+   . “The court will necessarily be required to consider the debtor’s ability to meet his primary obligation to support his dependents, because otherwise the plan is unlikely to succeed. Moreover, it may force the debtor or his dependents to become a public charge, to the
+   <span citation-index="1" class="star-pagination" label="539"> 
+    *539
+    </span>
+   detriment of the debtor, his dependents, his creditors, and the public. If the debtor is able to meet his obligations, both under the plan and to his dependents, the court confirms the plan. After confirmation, the plan is put into effect, with the debtor making payment, and the trustee acting as the disbursing agent, collecting and distributing the money to creditors. After the debtor completes performance under the plan, the court grants the debtor a discharge from all of the debts provided for under the plan.” H.R.Rep. 595, 95th Cong., 1st Sess., 124 (1977), U.S.Code Cong. &amp; Admin.News 1978, p. 6085.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b587-26">
+   . By the debtor’s own figures, $200 per month for a period of 3 years would yield a minimum of $7,200.00. Allowing for expenses of administration, approximately $6,500.00 could be repaid to the general unsecured creditors. This would represent a plan of composition of approximately 17%.
+  </p>
+</div></div></opinion>

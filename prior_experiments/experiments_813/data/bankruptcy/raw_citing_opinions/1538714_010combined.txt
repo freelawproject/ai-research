@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b617-9">
+  DECISION ON OBJECTION TO CONFIRMATION OF PLAN AND DISCHARGE OF DEBTOR.
+ </p>
+<author id="b617-10">
+  HOWARD SCHWARTZBERG, Bankruptcy Judge.
+ </author>
+<p id="b617-11">
+  This is another in the stream of cases under Chapter 13 where the debtor’s plan offers nothing to unsecured creditors and simultaneously seeks the blessings under Code § 1328 in order to discharge obligations that would otherwise be nondischargeable in a straight liquidation case under Chapter 7. Confirmation is sought as a result of literal compliance with the distribution requirement in Code § 1325(a)(4) that the creditors will receive “not less than” the amount that would be paid if the estate were liquidated under Chapter 7. The standing Chapter 13 trustee and an unsecured creditor have objected to confirmation on the ground that a zero plan designed to discharge an otherwise nondis-chargeable debt must be regarded as lacking the good faith required under Code § 1325(aX3).
+ </p>
+<p id="b617-13">
+  The debtor filed her petition under Chapter 13 of the Bankruptcy Reform Act of 1978 on April 28,1980; listing six unsecured creditors totalling $2,447.77, a secured automobile loan for $340. and a contingent liability for an alleged intentional tort arising out of a pending legal action. The petition reveals that the debtor has regular income as a waitress in the approximate amount of $574.00 per month, with monthly expenses of $526.00. She is also entitled to receive alimony and child support from her husband under a separation agreement, although it is asserted that she has not been able to enforce these obligations. All of her assets are exempt. Thus, unsecured creditors would receive nothing if this were a straight liquidation case under Chapter 7. The debtor’s plan calls for payment of the secured debt and no payment to the unsecured creditors.
+ </p>
+<p id="b617-14">
+  The debtor reasons that it would be the rankest sort of discrimination against the poor to hold that their inability to make payments to unsecured creditors makes them ineligible for the benefits of the dischargeability provisions under Chapter 13. If she were required to file a straight bankruptcy petition she contends that she would be left with a potentially substantial undischarged obligation which would impair the possibility of her ever achieving financial stability, although the debt may not be collectible. This argument elides the point that to be eligible for relief under Chapter 13 a debtor must be “an individual with regular income.” See <span class="citation no-link">11 U.S.C. § 109</span>(e). An “individual with regular income” is defined in <span class="citation no-link">11 U.S.C. § 101</span>(24) to mean an “individual whose income is sufficiently stable and regular to enable such individual
+  <em>
+   to make payments
+  </em>
+  under a plan under Chapter 13 of this title . . ”. [Emphasis added] Thus, payments must be made as a prerequisite for relief. Secured creditors may look to the value of their collateral for the payment available to them whether the debtor chooses to file under either Chapter 7 or Chapter 13.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  Therefore
+  <span citation-index="1" class="star-pagination" label="570"> 
+   *570
+   </span>
+  the payments required under Chapter 13 must be made to unsecured creditors consistent with the Congressional intent that Chapter 13 was designed to encourage more debtors to repay their debts over an extended period rather than opt for straight bankruptcy liquidation and discharge.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+</p>
+<p id="b618-4">
+  That zero plans for unsecured creditors were not intended under the Code is manifest from the terminology in Chapter 13. The confirmation standard in Code § 1325(a)(4) refers to “property to be distributed under the plan”; Code § 1326 directs that administration expenses must be paid before or at the time “of each payment to creditors under the plan”; Code § 1328(a) grants a broad discharge to the debtor “after completion by the debtor of all payments under the plan”; Code § 1328(b) grants a hardship discharge to the debtor under certain conditions if “the debtor has not completed payments under the plan”, but restores to nondischargeable status those nondischargeable debts under Code § 523(a) that would otherwise have been discharged if all payments were completed under the plan; and Code § 1329 permits modification of a Chapter 13 plan after confirmation “but before the completion of payments under a plan.”
+ </p>
+<p id="b618-5">
+  A debtor who does not propose to make any payments to unsecured creditors, and whose unsecured creditors would receive nothing if a petition were filed under Chapter 7, is not given the alternative of avoiding the consequences of nondischargeability of debts under Code § 523 by simply filing a petition for relief under Chapter 13. A disguised Chapter 7 liquidation under Chapter 13 would subvert the purpose of Chapter 13 which was expressed in the House Report No. 95-595, 95th Cong., 1st Sess. (1977) 118, U.S.Code Cong. &amp; Admin. News 1978, p. 6079:
+ </p>
+<blockquote id="b618-7">
+  “The purpose of Chapter 13 is to enable an individual, under court supervision and protection, to develop and perform under a plan for the repayment of his debts over an extended period.”
+ </blockquote>
+<p id="b618-8">
+  The privilege of obtaining the benefit of the broad dischargeability provisions under Code § 1328(a) is conditioned on, and the encouragement for, debt repayment under a plan. The failure to complete the required payments then triggers the hardship discharge relief under Code § 1328(b), where the concept of dischargeability is more restricted. To accept the debtor’s reasoning that a debtor who proposes nothing to unsecured creditors because they would receive nothing under Chapter 7 is therefore entitled to the benefit of the broad discharge under Code § 1328(a) would undermine the basic purpose for Chapter 13, which is to encourage individuals with regular income to repay their debts. The debt- or’s reasoning would produce the absurd result of penalizing a debtor who offers to make payments to unsecured creditors, and does make partial payment, but cannot fully complete them under a plan, by restoring the debtor’s nondischargeable obligations pursuant to a hardship discharge under Code § 1328(b), whereas a debtor who offers and pays nothing may emerge from a Chapter 13 case with a broad discharge under Code § 1328(a).
+ </p>
+<p id="b618-9">
+  The debtor justifies her position by a literal reading of the words “not less than” in Code § 1325(a)(4) and argues that since her unsecured creditors would receive no distribution under Chapter 7, a zero Chapter 13 plan offers a distribution that is “not less than” what the creditors would receive in the event of a Chapter 7 liquidation. The courts that have rejected this argument have done so on the ground that one
+  <span citation-index="1" class="star-pagination" label="571"> 
+   *571
+   </span>
+  of the prerequisites to confirmation of a Chapter 13 plan is that it must have “been proposed in good faith” as mandated under Code § 1325(a)(3) and that a zero plan cannot be deemed to have been filed in good faith.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  Similarly, other courts have rejected nominal or marginal payment plans as lacking good faith because the debtor should propose meaningful or substantial payments to creditors.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  Accordingly, in rejecting zero or nominal payment plans, the courts have infused a quantitative standard into the term “good faith” somewhat paralleling the concept of best effort. Although the term “best effort” is not presently expressed as a requirement for confirmation under Chapter 13, one court, in referring to its application in Code § 727(a)(9), which governs Chapter 7 discharges following a composition under Chapter 13 within the previous six years where at least 70% in payments were made, concluded that a 15% payment under Chapter 13 could not be confirmed unless the payments totalled at least 70%.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+</p>
+<p id="b619-5">
+  Other courts have confirmed zero payment plans over objections by interested parties on the ground that the concept of good faith is not defined in Chapter 13 and that it is not the equivalent of “best effort” nor does it signify any quantitative or minimal payment test.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  Conceivably a debtor with a substantial income and few nonexempt assets may desire to repay his creditors seventy cents on the dollar, whereas his income would support an 80% or 100% plan. Although the plan may not represent the debtor’s “best effort” it could not be said that such a plan violates the spirit and purpose of Chapter 13 so as to be regarded as lacking in good faith.
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+</p>
+<p id="b619-12">
+  It therefore does not clarify the problem to merge “best effort” into the meaning of “good faith” or to tack on nebulous and subjective concepts beyond the commonly accepted notions that good faith exists when the debtor has complied with all of the requirements of Chapter 13; that the filing of the Chapter 13 petition and plan was not part of any design to perpetrate a fraud upon any party or an abuse of the process of the court and that there has been an honest and complete disclosure of the debtor’s financial condition.
+ </p>
+<p id="b619-13">
+  A zero plan is in strict compliance with the “not less than” phrase in Code § 1325(a)(4) because Congress chose not to use such terms as “as least as much as”, or “equal to”, or “more than.” It has been noted that a “more than” test would penalize a debtor who proposes to repay creditors 100% and would force him to repay more than 100%.
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+  Similarly an “equal to” or “as least as much as” standard would produce an unacceptable zero plan because most consumer cases result in no distribution upon liquidation. Thus, in order to encourage debtors to pay creditors more than they would receive upon liquidation, but not in excess of 100%, Congress employed a minimum standard of “not less than the amount that would be paid ... if the estate of the debtor were liquidated under Chapter 7 . . ”. Consequently, the loophole for a zero plan was created upon a literal reading of the language in Code § 1325(aX4).
+ </p>
+<p id="b620-3">
+<span citation-index="1" class="star-pagination" label="572"> 
+   *572
+   </span>
+  It should not be held that a debtor’s zero plan, which literally complies with Code § 1325(a)(4), must be rejected for reasons of bad faith. Instead, a zero plan should be rejected for cause because Congress did not intend that zero plans should be confirmed. Since the entire statutory scheme and the legislative history with respect to Chapter 13 reflect an intention to encourage more debtors to repay their debts over an extended period,
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+  a zero payment must be regarded as inconsistent with such statutory design.
+ </p>
+<p id="b620-4">
+  The authority to reject zero plans is found in Code § 1307(c) which provides in part as follows:
+ </p>
+<blockquote id="b620-5">
+  (c) “ . . .on request of a party in interest and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 7 of this title, or may dismiss a case under this chapter, whichever is in the best interests of creditors and the estate,
+  <em>
+   for cause .
+  </em>
+  ”. [Emphasis added].
+ </blockquote>
+<p id="b620-7">
+  Having found that the objecting parties in interest have established sufficient cause for rejecting the proposed zero payment plan in this case, the case shall be converted to a case under Chapter 7. The filing fees and attorneys’ fees which the debtor paid shall be credited to the converted Chapter 7 case. No additional fees shall be paid.
+ </p>
+<p id="b620-8">
+  IT IS SO ORDERED.
+ </p>
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b617-12">
+   . Under Code § 506 an allowed claim is a secured claim to the extent of the value of the creditor’s interest in the estate’s interest in the property; generally the value of the collateral to the estate. Although secured claims other than solely with respect to the debtor’s princi
+   <span citation-index="1" class="star-pagination" label="570"> 
+    *570
+    </span>
+   pal residence may be modified under Chapter 13, Code § 1322(b)(5) requires that defaults must be cured within a reasonable time and payments must be maintained. Absent the secured creditor’s consent, Code § 1325(a)(5)(B)(ii) directs that the allowed amount of the creditor’s claim with respect to the secured property must be distributed under the plan or, the debtor must surrender the property as mandated under Code § 1325(a)(5)(C).
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b618-11">
+   . Senate Report No. 95-989, 95th Cong., 2d Sess. (1978) 13, U.S.Code Cong. &amp; Admin.News 1978, p. 5787; House Report No. 95-595, 95th Cong. 1st Sess. (1977) 118, U.S.Code Cong. &amp; Admin.News 1978, p. 5787.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b619-6">
+   .
+   <em>
+    In re Iacovoni,
+   </em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (D.Utah 1980);
+   <em>
+    In re Cole,
+   </em>
+   <span class="citation" data-id="1970651"><a href="/opinion/1970651/matter-of-cole/" aria-description="Citation for case: Matter of Cole">3 B.R. 346</a></span> (S.D.W.Va.1980);
+   <em>
+    In re Cook,
+   </em>
+   <span class="citation" data-id="1970517"><a href="/opinion/1970517/matter-of-cook/" aria-description="Citation for case: Matter of Cook">3 B.R. 480</a></span>, 6 BCD 219 (S.D.W.Va.1980).
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b619-7">
+   .
+   <em>
+    In re Powell,
+   </em>
+   <span class="citation" data-id="1887669"><a href="/opinion/1887669/general-finance-co-of-virginia-v-powell-in-re-powell/" aria-description="Citation for case: General Finance Co. of Virginia v. Powell (In Re Powell)">2 B.R. 314</a></span> (E.D.Va.1980);
+   <em>
+    In re Fonnest,
+   </em>
+   5 BCD 1236 (N.D.Cal.1980);
+   <em>
+    In re Beaver,
+   </em>
+   <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/" aria-description="Citation for case: In Re Beaver">2 B.R. 337</a></span> (S.D.Cal.1980);
+   <em>
+    In re Burrell,
+   </em>
+   <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">2 B.R. 650</a></span> (N.D.Cal.1980);
+   <em>
+    In re Campbell,
+   </em>
+   <span class="citation" data-id="1970642"><a href="/opinion/1970642/in-re-campbell/" aria-description="Citation for case: In Re Campbell">3 B.R. 57</a></span> (S.D.Cal.1980);
+   <em>
+    In re Howard,
+   </em>
+   <span class="citation" data-id="1970311"><a href="/opinion/1970311/in-re-howard/" aria-description="Citation for case: In Re Howard">3 B.R. 75</a></span> (S.D.Cal.1980);
+   <em>
+    In re Keckler,
+   </em>
+   <span class="citation" data-id="1970746"><a href="/opinion/1970746/cleveland-trust-co-v-keckler-in-re-keckler/" aria-description="Citation for case: Cleveland Trust Co. v. Keckler (In Re Keckler)">3 B.R. 155</a></span> (N.D.Ohio 1980);
+   <em>
+    In re Anderson,
+   </em>
+   <span class="citation" data-id="1970812"><a href="/opinion/1970812/in-re-anderson/" aria-description="Citation for case: In Re Anderson">3 B.R. 160</a></span> (S.D.Cal.1980);
+   <em>
+    In re Marlow,
+   </em>
+   <span class="citation" data-id="1970491"><a href="/opinion/1970491/matter-of-marlow/" aria-description="Citation for case: Matter of Marlow">3 B.R. 305</a></span> (N.D.Ill.1980);
+   <em>
+    In re Lucas,
+   </em>
+   <span class="citation" data-id="1970815"><a href="/opinion/1970815/in-re-lucas/" aria-description="Citation for case: In Re Lucas">3 B.R. 252</a></span> (S.D.Cal.1980);
+   <em>
+    In re Bloom,
+   </em>
+   <span class="citation" data-id="1970474"><a href="/opinion/1970474/in-re-bloom/" aria-description="Citation for case: In Re Bloom">3 B.R. 467</a></span> (C.D.Cal.1980).
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b619-9">
+   .
+   <em>
+    In re Burrell,
+   </em>
+   <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">2 B.R. 650</a></span> (N.D.Cal.1980).
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b619-15">
+   .
+   <em>
+    In re Terry,
+   </em>
+   <span class="citation" data-id="1970481"><a href="/opinion/1970481/tenney-v-terry-in-re-terry/" aria-description="Citation for case: Tenney v. Terry (In Re Terry)">3 B.R. 63</a></span> (W.D.Ark.1980);
+   <em>
+    In re Webb,
+   </em>
+   <span class="citation" data-id="1970546"><a href="/opinion/1970546/in-re-webb/" aria-description="Citation for case: In Re Webb">3 B.R. 61</a></span> (N.D.Cal.1980);
+   <em>
+    In re Cloutier,
+   </em>
+   <span class="citation" data-id="1970505"><a href="/opinion/1970505/in-re-cloutier/" aria-description="Citation for case: In Re Cloutier">3 B.R. 584</a></span> (D.Colo.1980);
+   <em>
+    In re Harland,
+   </em>
+   <span class="citation" data-id="1970774"><a href="/opinion/1970774/matter-of-harland/" aria-description="Citation for case: Matter of Harland">3 B.R. 597</a></span>, 6 BCD 235 (D.Neb.1980).
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b619-16">
+   . See
+   <em>
+    In re Armstrong,
+   </em>
+   <span class="citation" data-id="1970402"><a href="/opinion/1970402/in-re-armstrong/" aria-description="Citation for case: In Re Armstrong">3 B.R. 615</a></span> (D.Or.1980), where a 70% plan was approved for a 25 months period, although the debtor was capable of paying 100% over an extended period of 36 months. The court noted that Congress did not intend that the concept of “good faith” should be synonymous with “best effort.”
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b619-17">
+   . See
+   <em>
+    In re Iacovoni,
+   </em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#266" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256 at 266</a></span> (D.Utah 1980).
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b620-15">
+   . Senate' Report No. 95-989, 95th Cong.2d Sess. (1978) 13.
+  </p>
+</div></div></opinion>

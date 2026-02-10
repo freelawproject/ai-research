@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b717-17">
+  MEMORANDUM DECISION ON ORDER DENYING CONFIRMATION OF PLAN
+ </p>
+<author id="b717-18">
+  FRANCIS G. CONRAD, Bankruptcy Judge.
+  <a class="footnote" href="#fn*" id="fn*_ref">
+   *
+  </a>
+</author>
+<p id="b717-19">
+  Debtor has requested confirmation of its Plan of Reorganization. Two creditors and the Unsecured Creditors’ Committee objected to confirmation on various grounds. Because Debtor has failed to show the present value of its offer to Class VII claims and whether the value of the proposed shareholder’s contribution to the plan satisfies an exception to the absolute priority rule, we deny confirmation.
+ </p>
+<p id="b717-20">
+  Debtor, incorporated in 1979, initially engaged in consulting work about grain and agricultural supply pricing, and later began to broker, pick up, and deliver grain, and sell agricultural chemicals wholesale and retail. By 1983, the business had expanded its Indiana geographical sales area to Illinois, Michigan, Kentucky, Wisconsin, and Iowa. An unhappy purchase of a farm, also in Chapter 11 before this Court, resulted in nonrenewal of Debtor’s line of credit, freezing of its bank accounts, and the removal of its inventory by financing creditors. The Chapter 11 petition followed shortly thereafter.
+ </p>
+<p id="b717-21">
+  Debtor’s post-petition disclosure statement indicates it has contracted its business operation and it now asks us to confirm its Plan of Reorganization under <span class="citation no-link">11 U.S.C. § 1129</span>.
+ </p>
+<p id="b717-22">
+  To confirm a plan of reorganization, all elements of <span class="citation no-link">11 U.S.C. § 1129</span>(a) must be satisfied. All parties present
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  at the con
+  <span citation-index="1" class="star-pagination" label="668"> 
+   *668
+   </span>
+  firmation hearing represented or implicitly consented that the following provisions of <span class="citation no-link">11 U.S.C. § 1129</span>(a) are satisfied:
+ </p>
+<blockquote id="b718-4">
+  1) The plan has been proposed in good faith and not by any means forbidden by law, <span class="citation no-link">11 U.S.C. § 1129</span>(a)(3);
+ </blockquote>
+<blockquote id="b718-5">
+  2) All payments, securities to be issued, etc., have been approved by or are subject to Court approval as reasonable, <span class="citation no-link">11 U.S.C. § 1129</span>(a)(4);
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+</blockquote>
+<blockquote id="b718-6">
+  3) No governmental regulatory commission or agency is involved, <span class="citation no-link">11 U.S.C. § 1129</span>(a)(6);
+ </blockquote>
+<blockquote id="b718-7">
+  4) One class of impaired claims has accepted the plan, <span class="citation no-link">11 U.S.C. § 1129</span>(a)(10);
+ </blockquote>
+<blockquote id="b718-8">
+  5) Confirmation of the plan is not likely to be followed by liquidation, <span class="citation no-link">11 U.S.C. § 1129</span>(a)(ll).
+ </blockquote>
+<blockquote id="b718-9">
+  6) All fees payable under <span class="citation no-link">28 U.S.C. § 1930</span> have been paid, <span class="citation no-link">11 U.S.C. § 1129</span>(a)(12).
+ </blockquote>
+<p id="b718-10">
+  The omitted subparagraphs of <span class="citation no-link">11 U.S.C. § 1129</span>(a) delineate the several objections filed by the Bank and the Committee under that subsection and require the use of the Code’s “cram down” provisions. The objections may be enumerated as follows:
+ </p>
+<blockquote id="b718-16">
+  1) The plan does not disclose the identity and affiliations of proposed individuals who will serve as an officer or director of the plan after confirmation; nor does the plan disclose the identity of any insider that will be employed or retained by the debtor and the nature of the compensation for such insider, <span class="citation no-link">11 U.S.C. §§ 1129</span>(a)(5)(A)(i), and 1129(a)(5)(B);
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</blockquote>
+<blockquote id="b718-17">
+  2) A liquidation analysis is not presented. Without the analysis, creditors can not determine whether they will receive more under the plan than they would in a Chapter 7 liquidation, <span class="citation no-link">11 U.S.C. § 1129</span>(a)(7)(A)(ii);
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+</blockquote>
+<blockquote id="b718-18">
+  3) The plan fails to specify which claims or interests are impaired, <span class="citation no-link">11 U.S.C. § 1123</span>(a)(2).
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+  See also <span class="citation no-link">11 U.S.C. § 1129</span>(a)(1), footnote 14;
+ </blockquote>
+<blockquote id="b718-19">
+  4) The plan does not provide the same treatment for all unsecured creditors, specifically, Classes VII and VIII are accorded different treatment without
+  <span citation-index="1" class="star-pagination" label="669"> 
+   *669
+   </span>
+  their consent, <span class="citation no-link">11 U.S.C. § 1123</span>(a)(4).
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  Stated another way, the plan violates <span class="citation no-link">11 U.S.C. § 1122</span>(a)
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+  because the Class VII and VIII claims are substantially similar and do not warrant separate classification and treatment. See also <span class="citation no-link">11 U.S.C. § 1129</span>(a)(1), footnote 14;
+ </blockquote>
+<blockquote id="b719-5">
+  5) Insiders are included in Classes VII and VIII. Stated another way, insiders should be in a separate class from other creditors;
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+</blockquote>
+<blockquote id="b719-6">
+  6) The plan is not fair and equitable under <span class="citation no-link">11 U.S.C. § 1129</span>(b)(2)(B)
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+  because Class VII did not accept the plan, <span class="citation no-link">11 U.S.C. § 1129</span>(a)(8),
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+  thereby violating the absolute priority rule. It also does not reveal how the administrative priority payments will be paid, <span class="citation no-link">11 U.S.C. § 1129</span>(a)(9).
+  <a class="footnote" href="#fn11" id="fn11_ref">
+   11
+  </a>
+</blockquote>
+<p id="b719-7">
+  DISCUSSION
+ </p>
+<p id="b719-8">
+  Objection 1: Future officers, directors, and shareholders are not disclosed.
+ </p>
+<p id="b719-9">
+  It is correct to say that neither the plan nor the disclosure statement specifically reveal the identity and affiliation of any individuals who will serve the debtor after confirmation. The plan also neither specifically discloses the identity of any insider who will be employed by the reorganized debtor, nor the exact nature of compensation for such insider. The objection, however, is somewhat corpulent.
+ </p>
+<p id="b719-15">
+  A careful reading of the disclosure statement reveals many references to the president of the corporation, Brett Ellis. The plan, in Article III, paragraph 3.1, pg. 11 indicates “the current management of the debtor shall continue to operate the business.” The plan does not, however, address the insider compensation issue. Debtor’s counsel indicated they would amend the plan to show $30,000.00 per year compensation. When asked by the Court if they had any objection to the $30,000.00 compensation, the Committee’s counsel responded “The Creditors’ Committee objects to the fact that Mr. Ellis continues in operation of this business at all.” Hearing Transcript, at pg. 4. The Committee offered no other rebuttal.
+ </p>
+<p id="b719-16">
+  Further testimony elicited from Mr. Ellis at the hearing shows he arrived at the $30,000.00 salary by calculating what he required to live on. While we do not approve of this type of reasoning to support officer compensation, no creditor, or the Committee, objected to the proffered salary. Accordingly, it is allowed as a modification to the plan, and the objection based on <span class="citation no-link">11 U.S.C. § 1129</span>(a)(5)(A)(i) is denied.
+ </p>
+<p id="b720-3">
+<span citation-index="1" class="star-pagination" label="670"> 
+   *670
+   </span>
+  Objection 2: No liquidation analysis is presented.
+ </p>
+<p id="b720-4">
+  We find this objection appropriate, but unreasonable. It is patently obvious from the petition schedules and the financial statements that if Debtor’s liquidation occurred, the unsecured creditors would receive little or nothing by way of dividend.
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+  Based upon the foregoing, the objection under <span class="citation no-link">11 U.S.C. § 1129</span>(a)(7)(A)(ii) is denied. Our ruling here is not to be understood that a liquidation analysis is unnecessary in a plan of reorganization, but rather, it should be understood to mean that the economics of this case provide a reason to forego it.
+ </p>
+<p id="b720-5">
+  Objection 3: The plan fails to specify which claims are impaired.
+ </p>
+<p id="b720-6">
+  Brayton Chemicals, Inc. objects to the plan because it fails to specify which claims or interests under the plan are in contravention of <span class="citation no-link">11 U.S.C. § 1123</span>(a)(2). This objection has merit. While it is clear that Class VIII is impaired because they are or will receive a ten (10%) percent dividend, it is not readily apparent that Classes V, VI, and VII are impaired or unimpaired.
+ </p>
+<p id="b720-7">
+  A closer reading of the plan, however, shows that Class V is a negotiated class. Negotiation of claims being the essence of Chapter 11, this class has agreed to its treatment. See <span class="citation no-link">11 U.S.C. § 1123</span>(a)(4).
+ </p>
+<p id="b720-8">
+  Class VI, Whiting, has withdrawn its opposition to the plan and thus, any objection by it is moot.
+ </p>
+<p id="b720-9">
+  Finally, Class VII is clearly impaired because stock is being received for an open account. The narrative for Class VII, frugal at best, is sufficient to show that the class is impaired. The better practice and compliance with § 1123(a)(2) would be to include with a class’s treatment a prosaic statement to the effect that the class is impaired or unimpaired. With such a statement the most enervated mind would be placed on notice about the debtor’s intentions. Accordingly, Objection 3 fails.
+ </p>
+<p id="Alv">
+  Objection 4: The plan does not provide the same treatment for all unsecured creditors.
+ </p>
+<p id="b720-14">
+  Both Brayton Chemicals, Inc. and the Committee object to plan confirmation because the plan does not provide the same treatment of all unsecured creditors, this being in contravention of <span class="citation no-link">11 U.S.C. § 1123</span>(a)(4)
+  <a class="footnote" href="#fn13" id="fn13_ref">
+   13
+  </a>
+  and <span class="citation no-link">11 U.S.C. § 1129</span>(a)(1).
+  <a class="footnote" href="#fn14" id="fn14_ref">
+   14
+  </a>
+  Specifically, unsecured creditors in Class VII are to receive a pro rata share of forty-nine (49%) percent of the stock of the debtor while the unsecured creditors in Class VIII are to receive ten (10%) percent of their allowed unsecured claims payable annually over a six year period from the date of plan confirmation. Class VII consists of agricultural producers for grain sales and the chemical suppliers. Class VIII consists of all claims not entitled to priority under <span class="citation no-link">11 U.S.C. § 507</span> and not provided for elsewhere in the plan.
+ </p>
+<p id="b720-17">
+  At the confirmation hearing counsel for the debtor indicated “there is a valid economic and business reasons (sic) for the division of those claims,” Hearing Transcript, at pg. 5, but no further elaboration about the reason, or reasons, was presented to the Court. The plan provides no explanation. From previous status conferences in this case, we understand the reason for the bifurcation of the classes is because the agricultural producers are continuing to do business with the debtor and the other unsecured creditors are not. By giving the stock we understand that the debtor hopes the agricultural producers will continue to do business with it.
+ </p>
+<p id="b721-4">
+<span citation-index="1" class="star-pagination" label="671"> 
+   *671
+   </span>
+  Some difference m the treatment of unsecured claims must have been contemplated by Congress, or the provisions for classifying claims under <span class="citation no-link">11 U.S.C. § 1122</span> would be superfluous and purposeless. The Bankruptcy Courts, however, have been unable to reach a consensus about the ability of a debtor to classify claims. One line of cases has construed <span class="citation no-link">11 U.S.C. § 1122</span> and its circumscribed cousin in Chapter 13, § 1322, strictly, and seem to require that all unsecured claims be placed in a single classification.
+  <a class="footnote" href="#fn15" id="fn15_ref">
+   15
+  </a>
+  A parallel line of cases take a more flexible and pragmatic approach toward classification.
+  <a class="footnote" href="#fn16" id="fn16_ref">
+   16
+  </a>
+</p>
+<p id="b721-5">
+  The importance of the power to classify claims and interests can hardly be overemphasized. Placement in a particular class may mean the difference between payment and non-payment; early or deferred participation in dividends; participation or non-participation in a debtor’s reorganization; acceptance or rejection of a plan, etc.
+  <a class="footnote" href="#fn17" id="fn17_ref">
+   17
+  </a>
+</p>
+<p id="b721-10">
+  Chapter 11 is essentially, or should be, a negotiated process; a system to induce compromise. Classification is rooted not merely in a statute, but is predicated on the basic need for a reasonable and fair method of maximizing reorganization prospects,
+  <em>
+   See Generally Classification of Unsecured Claims: Squaring a Circle?,
+  </em>
+  C.F. Vihon, 55 Am.Bankr.L.J. 143;
+  <em>
+   See also Classification of Claims and Interest in Reorganization cases under the New Bankruptcy Code,
+  </em>
+  J.C. Anderson, 58 Am. Bankr.L.J. 99 (1984), and yet achieve a ratable distribution among creditors of a debtor’s assets.
+ </p>
+<p id="b721-11">
+  Congress appears to have recognized some of these practical considerations by the attached legislative history to § 1122. This history states:
+ </p>
+<blockquote id="b722-3">
+<span citation-index="1" class="star-pagination" label="672"> 
+   *672
+   </span>
+  [T]his section codifies current case law surrounding the classification of claims [Payment in cash of small claims in full is common practice in reorganization.
+  <em>
+   Brockett v. Winkle Terra Cotta Co.,
+  </em>
+  <span class="citation" data-id="1475238"><a href="/opinion/1475238/brockett-v-winkle-terra-cotta-co/#952" aria-description="Citation for case: Brockett v. Winkle Terra Cotta Co.">81 F.2d 949, 952</a></span> (C.A.8, 1936);
+  <em>
+   In re New Rochelle Coal &amp; Lumber Co.,
+  </em>
+  <span class="citation" data-id="1545937"><a href="/opinion/1545937/in-re-new-rochelle-coal-lumber-co/#882" aria-description="Citation for case: In Re New Rochelle Coal &amp; Lumber Co.">77 F.2d 881, 882-83</a></span> (C.A.2, 1935);
+  <em>
+   In re Realty Associates Security Corp.,
+  </em>
+  <span class="citation" data-id="1976208"><a href="/opinion/1976208/in-re-realty-associates-securities-corporation/#1011" aria-description="Citation for case: In Re Realty Associates Securities Corporation">53 F.Supp. 1010, 1011</a></span> (E.D.N.Y., 1943)] and equity securities. It requires classification based on the nature of the claims or interests classified, and permits inclusion of claims or interests in a particular class only if the claim or interest being included is substantially similar to the other claims or interests of the class. (S.Rept. No. 95-989 to accompany S. 2266, 95th Cong., 2d Sess. (1978) p. 118.) Subsection (b), also a codification of existing practice, contains an exception. The plan may designate a separate class of claims consisting only of every unsecured claim that is less than or reduced to an amount that the court approves as reasonable and necessary for administrative convenience. (S.Rept. No. 95-989 to accompany S. 2266, 95th Cong., 2d Sess. (1978) p. 118.)
+ </blockquote>
+<p id="b722-4">
+  Unfortunately, the legislative history provides us with guidance about the
+  <em>
+   de mimimis
+  </em>
+  rule for small claims and cordial relationship between creditors and debtors, See
+  <em>
+   In re Realty Associates Securities Corp.,
+  </em>
+  <span class="citation" data-id="1976208"><a href="/opinion/1976208/in-re-realty-associates-securities-corporation/#1011" aria-description="Citation for case: In Re Realty Associates Securities Corporation">53 F.Supp. 1010, 1011</a></span> (E.D.N.Y.1943);
+  <em>
+   Brockett v. Winkle Terra Cotta Co.,
+  </em>
+  <span class="citation" data-id="1475238"><a href="/opinion/1475238/brockett-v-winkle-terra-cotta-co/" aria-description="Citation for case: Brockett v. Winkle Terra Cotta Co.">81 F.2d 949</a></span> (8th Cir.1936);
+  <em>
+   In re New Rochelle Coal &amp; Lumber Co.,
+  </em>
+  <span class="citation" data-id="1545937"><a href="/opinion/1545937/in-re-new-rochelle-coal-lumber-co/" aria-description="Citation for case: In Re New Rochelle Coal &amp; Lumber Co.">77 F.2d 881</a></span> (2d Cir.1935), but little or no guidance by its statement that § 1122 codifies current case law surrounding the classification of claims.
+ </p>
+<p id="b722-5">
+  Case law at the time the 1978 Code was enacted was derived from the Section 77B amendment in 1934.
+  <a class="footnote" href="#fn18" id="fn18_ref">
+   18
+  </a>
+  With the enactment of § 77B, classification became a distribution provision coexistent with priority provisions. The first case under § 77B, a case within this Circuit,
+  <em>
+   Seidel v. Palisades-On-the-Desplaines (In re Palisades-on-the-Desplaines),
+  </em>
+  <span class="citation" data-id="9636314"><a href="/opinion/1473011/seidel-v-palisades-on-the-desplaines/" aria-description="Citation for case: Seidel v. Palisades-On-The-Desplaines">89 F.2d 214</a></span> (7th Cir.1937), involved a proposed plan classification which placed the claims of all holders of real estate mortgages into one class and proposed to pay the class seventy (70%) percent of the amount owed. One of the creditors objected on the ground “that the court should have placed ... (the objecting creditor) in a separate class, apart from any class containing the holders of mortgages which were a first lien on other separate tracts of land owned by the debtor, but were not a lien upon the real estate which secured ... (the objecting creditor’s) claim,”
+  <span class="citation" data-id="9636314"><a href="/opinion/1473011/seidel-v-palisades-on-the-desplaines/#217" aria-description="Citation for case: Seidel v. Palisades-On-The-Desplaines"><em>
+   Id.,
+  </em>
+  at 217</a></span> (parentheticals supplied for clarity). The Court, citing a leading commentator of the day, Mr. Gerdes, and reciting the general rule “all creditors of equal rank with claims against the same property should be placed in the same class,” .. (but that) ... “conversely, creditors of different ranks or creditors of the same rank but with claims against different properties should be different classes,”
+  <em>
+   Palisades-on-the-Desplaines, id.,
+  </em>
+  at 217,
+  <em>
+   citing Gerdes on Corporate Reorganization
+  </em>
+  (1936), Vol. 2, § 1046, p. 682, rejected the general rule and articulated a “best interests of creditors test” when at 218, it said:
+ </p>
+<blockquote id="b722-8">
+  “[I]f the plan is successful (the objector) will receive almost three times his own valuation of his security, and in case of failure, he will receive the security of foreclosure. These facts were quite obvious to the court when it determined the classification, and under the circumstances we think it was done according to the nature, or pertinent characteristics, of the respective claims and interests.”
+ </blockquote>
+<p id="b722-9">
+  The
+  <em>
+   Desplaines
+  </em>
+  Court then clearly dealt with the issue of classification based upon the rights accorded the creditor under the plan and not what it would have been entitled to outside the plan. Unfortunately, the Court did not address multiple classifications, but it concluded a Court
+  <a class="footnote" href="#fn19" id="fn19_ref">
+   19
+  </a>
+  has
+  <span citation-index="1" class="star-pagination" label="673"> 
+   *673
+   </span>
+  “broad latitude in its classification of debtors (sic),”
+  <em>
+   Id.,
+  </em>
+  at 217. Compare
+  <em>
+   In re Odgen Apartment Building Corp.,
+  </em>
+  <span class="citation" data-id="6870684"><a href="/opinion/6973055/chicago-securities-corp-v-lambur/" aria-description="Citation for case: Chicago Securities Corp. v. Lambur">90 F.2d 712</a></span> (7th Cir.1937) (acceptance of a plan is reason to classify);
+  <em>
+   In re Sixty-Seven Wall Street Restaurant Corp.,
+  </em>
+  <span class="citation" data-id="1989743"><a href="/opinion/1989743/in-re-sixty-seven-wall-street-restaurant-corp/" aria-description="Citation for case: In Re Sixty-Seven Wall Street Restaurant Corp.">23 F.Supp. 672</a></span> (S.D.N.Y.1938) (classification independent of priority). Contra
+  <em>
+   St. Louis Union Trust Co. v. Champion Shoe and Machinery,
+  </em>
+  <span class="citation" data-id="1500857"><a href="/opinion/1500857/st-louis-union-trust-co-v-champion-shoe-machinery-co/" aria-description="Citation for case: St. Louis Union Trust Co. v. Champion Shoe MacHinery Co.">109 F.2d 313</a></span> (8th Cir.1940) (subordination effected before bankruptcy to be given effect in bankruptcy, and failure to reorganize subordination would not allow plan to be confirmed; the case boldly recognizing that classification cannot violate the absolute priority rule.)
+ </p>
+<p id="b723-4">
+  From these cases and others decided under § 77B of the old Act, we can extrapolate some conclusions about classifications. If they were in the best interests of creditors; fostered reorganization efforts; did not violate the absolute priority rule; and did not uselessly increase the number of classes, the Courts were willing to confirm plans.
+ </p>
+<p id="b723-5">
+  Section 77B was repealed by the Chandler Act.
+  <a class="footnote" href="#fn20" id="fn20_ref">
+   20
+  </a>
+  It provided within each rehabilitation chapter (X, XI, &amp; XII) that plans of reorganization and arrangement could classify creditors. The statutory language concerning classification was virtually the same under each chapter and substantially similar to § 77B.
+  <a class="footnote" href="#fn21" id="fn21_ref">
+   21
+  </a>
+  It would be safe to say the Chandler Act carried over the classification rules under § 77B.
+ </p>
+<p id="b723-6">
+  The early Chandler cases, including
+  <em>
+   In re Realty Associates Securities Corp.,
+  </em>
+  <span class="citation" data-id="1976208"><a href="/opinion/1976208/in-re-realty-associates-securities-corporation/" aria-description="Citation for case: In Re Realty Associates Securities Corporation">53 F.Supp. 1010</a></span> (E.D.N.Y.1943) mentioned in the legislative history of § 1122, are summarized by
+  <em>
+   Scherk v. Newton,
+  </em>
+  <span class="citation" data-id="1486562"><a href="/opinion/1486562/scherk-v-newton/" aria-description="Citation for case: Scherk v. Newton">152 F.2d 747</a></span> (10th Cir.1945), at 750-51, when the Court says:
+ </p>
+<blockquote id="b723-7">
+  Classification is simply a method of recognizing difference in rights of creditors which calls for difference in treatment.
+ </blockquote>
+<blockquote id="b723-12">
+  The statute affords the court a broad latitude in classification of creditors, and classification should be based on substantive differences in the nature of claims. All creditors of equal rank with claims against the same property should be placed in the same class.
+ </blockquote>
+<p id="b723-13">
+<em>
+   See also Weston Mesa Oil Corporation v. Edlou Co.,
+  </em>
+  <span class="citation" data-id="6889105"><a href="/opinion/6990644/western-mesa-oil-corp-v-edlou-co/" aria-description="Citation for case: Western Mesa Oil Corp. v. Edlou Co.">143 F.2d 843</a></span> (9th Cir.1944) (an arrangement may properly give a priority to one class of unsecured claims over another under the Bankruptcy Act provision authorizing an arrangement upon any terms as to unsecured debt); and
+  <em>
+   Dudley v. Mealey,
+  </em>
+  <span class="citation" data-id="1472405"><a href="/opinion/1472405/dudley-v-mealey/" aria-description="Citation for case: Dudley v. Mealey">147 F.2d 268</a></span> (2d Cir.1945) (allowing special class for necessary goods and services provided early on in receivership). They all recognized the need for practical solutions to foster reorganization policies when they sanctioned discriminatory treatment of small claimants and post-petition suppliers; such discrimination implicitly fostering the reorganization effort and in the best interests of creditors.
+ </p>
+<p id="b723-14">
+  Classification under Chapters X, XI, and XII is best summarized by Bankruptcy Judge Babbit in
+  <em>
+   In re Winston Mills, Inc.,
+  </em>
+  5 BCD. 1010, <span class="citation" data-id="1537932"><a href="/opinion/1537932/in-re-winston-mills-inc/" aria-description="Citation for case: In Re Winston Mills, Inc.">6 B.R. 587</a></span>, 1 CBC.2d 121:
+ </p>
+<blockquote id="ARd">
+  To put it simply, a plan may provide for classes of unsecured debt, e.g., bank lenders, other institutional lenders, trade or merchandise debt. The Act contemplates that in those cases where it is necessary, separate classes be established and that the treatment of the classes vary dependent once more on the outcome of the debtor-creditor dialogues.
+  <em>
+   Id.,
+  </em>
+  at 1012, <span class="citation" data-id="1537932"><a href="/opinion/1537932/in-re-winston-mills-inc/" aria-description="Citation for case: In Re Winston Mills, Inc.">6 B.R. 587</a></span>.
+ </blockquote>
+<p id="b723-15">
+  Judge Babbit goes on to say:
+ </p>
+<blockquote id="b723-16">
+  It is not unknown, therefore, that a debtor will deal with its trade creditor in one way, its union creditor in another, its institutional debt in still another, and so
+  <span citation-index="1" class="star-pagination" label="674"> 
+   *674
+   </span>
+  on. It is up to the debtor and all of its creditors to decide the extent to which the good graces of the trade creditors or the union will be needed if the rehabilitated debtor is to survive as a viable commercial entity particularly where long range promises are made in the plan.
+ </blockquote>
+<p id="b724-4">
+  What can be gleaned from the Chandler Act cases is the obvious conclusion that Chandler Courts were results oriented. If the creditors are ultimately protected (a best interests test); the plan ensures some potential for success due to the adjustment of debtor-creditor relationships; and the plan is a result of debtor-creditor dialogue, fruitful or not, the Courts will not overrule a debtor’s plan of reorganization or arrangement.
+  <a class="footnote" href="#fn22" id="fn22_ref">
+   22
+  </a>
+</p>
+<p id="b724-5">
+  Some commentators, for instance, as Given and Williams have said, “few emulative principles exist that may be extracted with any consistency from the case law ...”
+  <a class="footnote" href="#fn23" id="fn23_ref">
+   23
+  </a>
+  We disagree. For instance
+  <em>
+   Scherk v. Newton,
+  </em>
+  <span class="citation" data-id="1486562"><a href="/opinion/1486562/scherk-v-newton/" aria-description="Citation for case: Scherk v. Newton">152 F.2d 747</a></span> (10th Cir.1945) has been interpreted as standing for the proposition that all creditors of equal rank with claims against the same property must be placed in the same class. But that is not the holding in
+  <em>
+   <span class="citation" data-id="1486562"><a href="/opinion/1486562/scherk-v-newton/" aria-description="Citation for case: Scherk v. Newton">Scherk</a></span>.
+  </em>
+  The holding is “should be placed in the same class.”
+  <em>
+   Scherk, id.,
+  </em>
+  at 751. “Should” does not mean “must” or “shall.” In the vast majority of reorganization cases creditors of equal rank with claims against the same property will be placed in the same class, but in appropriate circumstances it may be necessary, if not imperative, for a debtor to deviate from what is the norm. As we said earlier, some difference in the treatment of unsecured claims must have been contemplated by Congress, or the provision for classifying claims under § 1122 would be superfluous and purposeless. These differ-enees are allowed to be recognized if they are in the best interest of creditors; foster reorganization efforts (ensure success); do not violate the absolute priority rule; and, do not uselessly increase the number of classes. If this is not what Congress intended in enacting § 1122, it certainly is the logical result from a reading of the section.
+ </p>
+<p id="b724-9">
+  In one sense, interpreting <span class="citation no-link">11 U.S.C. § 1122</span>
+  <a class="footnote" href="#fn24" id="fn24_ref">
+   24
+  </a>
+  is a classical case of statutory construction. The starting point in every case involving statutory construction is the language itself.
+  <a class="footnote" href="#fn25" id="fn25_ref">
+   25
+  </a>
+<em>
+   Burke Mountain Recreation, Inc. v. Vermont Development Credit Corporation (In re Burke Mountain Recreation, Inc.),
+  </em>
+  <span class="citation" data-id="1997218"><a href="/opinion/1997218/burke-mountain-recreation-inc-v-vermont-development-credit-corp-in-re/" aria-description="Citation for case: Burke Mountain Recreation, Inc. v. Vermont Development...">64 B.R. 799</a></span> (Bkrtcy.D.Vt.1986).
+ </p>
+<p id="b724-10">
+  As a general rule, a statute should be read according to its literal terms,
+  <em>
+   United States v. Locke,
+  </em>
+  <span class="citation" data-id="9429994"><a href="/opinion/111403/united-states-v-locke/#93" aria-description="Citation for case: United States v. Locke">471 U.S. 84, 93-94</a></span>, <span class="citation" data-id="9429994"><a href="/opinion/111403/united-states-v-locke/#1792" aria-description="Citation for case: United States v. Locke">105 S.Ct. 1785, 1792</a></span>, <span class="citation" data-id="9429994"><a href="/opinion/111403/united-states-v-locke/#75" aria-description="Citation for case: United States v. Locke">85 L.Ed.2d 64, 75</a></span> (1985), unless it is otherwise demonstratably at odds with the intention of the statute’s drafters.
+  <em>
+   Griffin v. Oceanic Contractors, Inc.,
+  </em>
+  <span class="citation" data-id="9428920"><a href="/opinion/110787/griffin-v-oceanic-contractors-inc/#571" aria-description="Citation for case: Griffin v. Oceanic Contractors, Inc.">458 U.S. 564, 571</a></span>, <span class="citation" data-id="9428920"><a href="/opinion/110787/griffin-v-oceanic-contractors-inc/#3250" aria-description="Citation for case: Griffin v. Oceanic Contractors, Inc.">102 S.Ct. 3245, 3250</a></span>, <span class="citation" data-id="9428920"><a href="/opinion/110787/griffin-v-oceanic-contractors-inc/" aria-description="Citation for case: Griffin v. Oceanic Contractors, Inc.">73 L.Ed.2d 973</a></span> (1982).
+ </p>
+<p id="b724-11">
+  We find no ambiguity in <span class="citation no-link">11 U.S.C. § 1122</span>. Section 1122 allows a claim or interest to be placed in a particular class only if such claim or interest is substantially similar to the other claims or interests of such class. It does not require that similar classes be grouped together but merely that any group be homogenous.
+  <em>
+   Teamsters National Freight Industry Negotiating Committee v. U.S. Truck Company, Inc. (In re U.S. Truck Company, Inc.),
+  </em>
+  <span class="citation" data-id="475775"><a href="/opinion/475775/in-re-us-truck-company-inc-a-michigan-corporation-debtor-teamsters/" aria-description="Citation for case: In Re U.S. Truck Company, Inc., a Michigan Corporation,...">800 F.2d 581</a></span>, <span class="citation" data-id="475775"><a href="/opinion/475775/in-re-us-truck-company-inc-a-michigan-corporation-debtor-teamsters/" aria-description="Citation for case: In Re U.S. Truck Company, Inc., a Michigan Corporation,...">123 L.R.R.M. 2849</a></span>, 14 BCD 1327, 15 CBC.2d 553 (6th Cir.1986), <span class="citation" data-id="475775"><a href="/opinion/475775/in-re-us-truck-company-inc-a-michigan-corporation-debtor-teamsters/" aria-description="Citation for case: In Re U.S. Truck Company, Inc., a Michigan Corporation,...">123 L.R.R.M. 2849</a></span>.
+  <em>
+   Accord In re Mason &amp; Dixon Lines, Incorporated,
+  </em>
+  <span class="citation" data-id="1855400"><a href="/opinion/1855400/in-re-mason-dixon-lines-inc/" aria-description="Citation for case: In Re Mason &amp; Dixon Lines Inc.">63 B.R. 176</a></span> (Bkrtcy.M.D.N.C.1986);
+  <em>
+   In re White Horse Grain Compa
+  </em>
+<span citation-index="1" class="star-pagination" label="675"> 
+   *675
+   </span>
+<em>
+   ny,
+  </em>
+  14 BCD 422, <span class="citation" data-id="2004284"><a href="/opinion/2004284/in-re-white-horse-grain-co/" aria-description="Citation for case: In Re White Horse Grain Co.">60 B.R. 16</a></span> (Bkrtcy.E.D.PA 1986);
+  <em>
+   In re Planes,
+  </em>
+  <span class="citation" data-id="1552974"><a href="/opinion/1552974/in-re-planes-inc/" aria-description="Citation for case: In Re Planes, Inc.">48 B.R. 698</a></span> (Bkrtcy.N.D.GA 1985).
+  <em>
+   See also Colliers on Bankruptcy,
+  </em>
+  Vol. 5, paragraph 1122.03(1)(b) (15th Ed.1981).
+ </p>
+<p id="b725-5">
+  We find unpersuasive the current line of cases that hold Congress intended all unsecured claims of a similar nature to be grouped within one class, unless a separate classification is established under § 1122(b). See note 15,
+  <em>
+   supra.
+  </em>
+  A critical review of those cases attempts to create a statutory requirement where none exists and a reliance on pre-Code law and Act statutory requirements. While the clearest interpretation of <span class="citation no-link">11 U.S.C. § 597</span>
+  <a class="footnote" href="#fn26" id="fn26_ref">
+   26
+  </a>
+  (repealed) required claims of a similar nature be classified together,
+  <em>
+   See e.g. In re Los Angeles Land and Investments, Ltd.,
+  </em>
+  <span class="citation" data-id="1509629"><a href="/opinion/1509629/in-re-los-angeles-land-and-investments-ltd/" aria-description="Citation for case: In Re Los Angeles Land and Investments, Ltd.">282 F.Supp. 448</a></span> (D.Hawaii (1968), aff’d <span class="citation" data-id="298917"><a href="/opinion/298917/in-the-matter-of-los-angeles-land-and-investments-ltd-debtor-ralph-s/" aria-description="Citation for case: In the Matter of Los Angeles Land and Investments, Ltd.,...">447 F.2d 1366</a></span> (9th Cir.1971) (quoting
+  <em>
+   In re Scherk v. Newton,
+  </em>
+  <span class="citation" data-id="1486562"><a href="/opinion/1486562/scherk-v-newton/" aria-description="Citation for case: Scherk v. Newton">152 F.2d 747</a></span> (10th Cir.1945),
+  <a class="footnote" href="#fn27" id="fn27_ref">
+   27
+  </a>
+  not all pre-Code cases required single class classification,
+  <em>
+   See e.g. Seidel v. Palisades-on-the-Desplaines (In re Palisades-on-the-Desplaines),
+  </em>
+  <span class="citation" data-id="9636314"><a href="/opinion/1473011/seidel-v-palisades-on-the-desplaines/" aria-description="Citation for case: Seidel v. Palisades-On-The-Desplaines">89 F.2d 214</a></span> (7th Cir.1937) (a pre-Chandler Act case) (rejecting a rule similar to that enumerated in
+  <em>
+   In re Los Angeles Land and Investments, Ltd., supra,
+  </em>
+  and applying a best interests test to language substantially similar to <span class="citation no-link">11 U.S.C. § 597</span>).
+ </p>
+<p id="b725-6">
+  We understand the difficulty the Courts have interpreting § 1122 because of the legislative history attached to it. As Judge Kennedy said in
+  <em>
+   In re U.S. Truck Company, Inc., supra:
+  </em>
+</p>
+<blockquote id="b725-7">
+  It is difficult to follow Congress’ instruction to apply the old case law to the new Code provision. The old case law comes from two different sources. Chapter X of the old Act was designed for thorough financial reorganizations of large corporations. It imposed a very formal and rigid structure to protect the investing public. Chapter XI was designed for small nonpublic businesses, did not permit the adjustment of a secured debt or of equity, and thus contained few investor-protection measures. The idea behind Chapter 11 of the Code was to combine the speed and flexibility of Chapter XI with some of the protection and remedial tools of Chapter X. See H.Rep.No. 595, 95th Cong., 1st Sess. 22123, reprinted in 1978 U.S.Code Cong. &amp; Ad.News 5963, 6181-83; Blair,
+  <em>
+   Classification of Unsecured Claims in Chapter 11 Reorganization,
+  </em>
+  58 Am.Bankr.L.J. 197, 223 (1984). Thus, Congress has incorporated, for purposes of interpreting section 1122, the case law from two provisions with different language, that were adopted for different purposes, and that have been interpreted to mean different things.
+ </blockquote>
+<p id="b725-11">
+  Even if we assume that the statute is not clear on its face, which we do not, pre-Code case law allowed separate classifications of claims. For instance, in
+  <em>
+   In re Dudley v. Mealey,
+  </em>
+  <span class="citation" data-id="1472405"><a href="/opinion/1472405/dudley-v-mealey/" aria-description="Citation for case: Dudley v. Mealey">147 F.2d 268</a></span> (2d Cir.1945) the Court recognized the separate classification of suppliers who furnished hotel supplies within a short period of the receivership because of the paramount importance of maintaining a hotel’s goodwill.
+ </p>
+<p id="b725-12">
+  In
+  <em>
+   First National Bank of Heckimer v. Poland Union,
+  </em>
+  <span class="citation" data-id="1500608"><a href="/opinion/1500608/first-nat-bank-of-herkimer-v-poland-union/" aria-description="Citation for case: First Nat. Bank of Herkimer v. Poland Union">109 F.2d 54</a></span> (2d Cir.), cert. denied, <span class="citation multiple-matches"><a href="/c/U.S./309/682/">309 U.S. 682</a></span>, <span class="citation multiple-matches"><a href="/c/S.Ct./60/723/">60 S.Ct. 723</a></span>, <span class="citation" data-id="8155361"><a href="/opinion/8193426/poland-union-v-first-national-bank-of-herkimer/" aria-description="Citation for case: Poland Union v. First National Bank of Herkimer">84 L.Ed. 1026</a></span> (1940) the Second Circuit, affirming the lower Court’s denial of confirmation, noted
+  <em>
+   in dicta
+  </em>
+  that “... it may be doubtful whether (the shareholder/creditors) should be permitted to vote in the same class with the other creditors not so intimately connected with the enterprise.”
+  <em>
+   Id.,
+  </em>
+  109 F.2d, at 55. (parentheticals supplied for clarity). This characterization supports separate classification and may have given Congress some of its reason for the voting restric
+  <span citation-index="1" class="star-pagination" label="676"> 
+   *676
+   </span>
+  tions pertaining to insiders in <span class="citation no-link">11 U.S.C. § 1129</span>(a)(10).
+  <a class="footnote" href="#fn28" id="fn28_ref">
+   28
+  </a>
+</p>
+<p id="b726-4">
+  In
+  <em>
+   American United Mutual Life Ins. Co. v. City of Avon Park,
+  </em>
+  <span class="citation" data-id="103393"><a href="/opinion/103393/american-united-mutual-life-insurance-v-city-of-avon-park/" aria-description="Citation for case: American United Mutual Life Insurance v. City of Avon Park">311 U.S. 138</a></span>, <span class="citation" data-id="103393"><a href="/opinion/103393/american-united-mutual-life-insurance-v-city-of-avon-park/" aria-description="Citation for case: American United Mutual Life Insurance v. City of Avon Park">61 S.Ct. 157</a></span>, <span class="citation" data-id="103393"><a href="/opinion/103393/american-united-mutual-life-insurance-v-city-of-avon-park/" aria-description="Citation for case: American United Mutual Life Insurance v. City of Avon Park">85 L.Ed. 91</a></span> (1940), the Court refused confirmation of a plan of reorganization because there appeared to be an insider conflict by the City’s (Avon) fiscal agent who administered the reorganization. At
+  <em>
+   <span class="citation" data-id="103393"><a href="/opinion/103393/american-united-mutual-life-insurance-v-city-of-avon-park/" aria-description="Citation for case: American United Mutual Life Insurance v. City of Avon Park">id.,</a></span>
+  </em>
+  <span class="citation" data-id="103393"><a href="/opinion/103393/american-united-mutual-life-insurance-v-city-of-avon-park/#146" aria-description="Citation for case: American United Mutual Life Insurance v. City of Avon Park">311 U.S. at 146</a></span>, <span class="citation" data-id="103393"><a href="/opinion/103393/american-united-mutual-life-insurance-v-city-of-avon-park/#162" aria-description="Citation for case: American United Mutual Life Insurance v. City of Avon Park">61 S.Ct. at 162</a></span>, the Court noted that where investigation discloses “the need for the protection ... of one class of investors from the encroachments of another, the court has the remedy to meet the need.” One remedy mentioned is the separate classification of claimants.
+  <em>
+   See First National Bank of Heckimer v. Poland Union,
+  </em>
+  <span class="citation" data-id="1500608"><a href="/opinion/1500608/first-nat-bank-of-herkimer-v-poland-union/#55" aria-description="Citation for case: First Nat. Bank of Herkimer v. Poland Union">109 F.2d 54, 55</a></span>, 52 Am.Bankr.Rep. (NS) 99 (2d Cir.1940).
+ </p>
+<p id="b726-5">
+  In those cases where the Courts have held that as a general rule, similar claims must be classified together, the Court was faced with problems of discriminatory treatment,
+  <em>
+   See In re S &amp; W Enterprise, Inc.,
+  </em>
+  11 BCD 630, <span class="citation" data-id="1553207"><a href="/opinion/1553207/in-re-s-w-enterprise/" aria-description="Citation for case: In Re S &amp; W Enterprise">37 B.R. 153</a></span>, 10 CBC.2d 484 (Bkrtcy.N.D.Ill.1984);
+  <em>
+   In re Park Lane Village Apartment Co.,
+  </em>
+  8 BCD 1402, <span class="citation" data-id="1956417"><a href="/opinion/1956417/in-re-pine-lake-village-apartment-co/" aria-description="Citation for case: In Re Pine Lake Village Apartment Co.">19 B.R. 819</a></span>, 6 CBC.2d 713, rearg. denied, <span class="citation" data-id="1994100"><a href="/opinion/1994100/in-re-pine-lake-village-apartment-co/" aria-description="Citation for case: In Re Pine Lake Village Apartment Co.">21 B.R. 478</a></span> (Bkrtcy.S.D.N.Y.1982) and an absolute priority problem.
+ </p>
+<p id="b726-6">
+  Cases like
+  <em>
+   In re Fantastic Homes Enterprises, Inc.,
+  </em>
+  12 BCD 798, <span class="citation" data-id="1968836"><a href="/opinion/1968836/in-re-fantastic-homes-enterprises-inc/" aria-description="Citation for case: In Re Fantastic Homes Enterprises, Inc.">44 B.R. 999</a></span> (Bkrtcy.M.D.Fla.1984) or
+  <em>
+   In re Mastercraft Record Plating, Inc.,
+  </em>
+  <span class="citation" data-id="1533130"><a href="/opinion/1533130/in-re-mastercraft-record-plating-inc/" aria-description="Citation for case: In Re Mastercraft Record Plating, Inc.">32 B.R. 106</a></span>, 8 CBC.2d 1268 (1983), rev’d on other grounds, <span class="citation" data-id="2007237"><a href="/opinion/2007237/in-re-mastercraft-record-plating-inc/" aria-description="Citation for case: In Re Mastercraft Record Plating, Inc.">39 B.R. 654</a></span> (Bkrtcy.S.D.N.Y.1984) show little or no analysis or make blanket statements to the effect that general unsecured claims are all alike, regardless of their amount, or whether they are disputed. Both ignore the plain meaning of the statute and show little understanding of the practical realities of business reorganizations.
+ </p>
+<p id="b726-7">
+  We hold then that a plan proponent under § 1122:
+ </p>
+<blockquote id="b726-8">
+  1) may have the flexibility to place claims of a similar nature in different classes; and
+ </blockquote>
+<blockquote id="b726-12">
+  2) may not place claims of a dissimilar nature in the same class.
+ </blockquote>
+<p id="b726-13">
+  In this case, there are two classes of unsecured creditors. Class VII is comprised of the agricultural producers who continue to supply the debtor. Class VIII is all other unsecured creditors. Class VII will receive stock entitled to a dividend preference of forty-nine (49%) percent until they have received fifty (50%) percent of their claims. This class may vote, however, Mr. Ellis, sole shareholder of Debtor, will retain fifty-one (51%) percent ownership and voting control of Debtor. For his retained interest, Mr. Ellis will contribute $7,000.00 to the debtor’s capítol. There is also a class of common stock now owned by Mr. Ellis. At some point in the future is a time when Class VII will receive fifty (50%) percent of its claims. When this watershed is reached we are not told if Mr. Ellis will be able to participate in dividends.
+ </p>
+<p id="b726-14">
+  We have no objection to the debt- or’s classification of its unsecured claims. Bankruptcy history, the practical realities of reorganization practice, and the present statute all support Debtor’s classification. What we do object to is Debtor’s imprecise and incomplete explanation of how the Class VII classification will work. Debtor has mixed up preferred and common stock, and baked something that may be nutritious for the Class VII claimants but is not presented properly for the ballot palate.
+ </p>
+<p id="b726-15">
+  We don’t understand how the preferred stock will vote. There is no set date when fifty (50%) percent of the Class VII claims will be paid. Nor is there explanation about what happens to the common stock owned by Debtor’s president. For these reasons we could deny confirmation. But there is another issue which also requires denial of confirmation and that pertains to Debtor’s request to use <span class="citation no-link">11 U.S.C. § 1129</span>(b).
+ </p>
+<p id="b726-16">
+  Objection 5: Insiders are included in Classes VII &amp; VIII.
+ </p>
+<p id="b726-17">
+  An objection is raised that the debtor has included insiders in Classes VII &amp; VIII. Phrased another way, and in the
+  <span citation-index="1" class="star-pagination" label="677"> 
+   *677
+   </span>
+  form of an application, the objecting creditors request that the insiders be placed in a separate class. While this objection was raised as an <span class="citation no-link">11 U.S.C. § 1129</span>(a)(1) objection, and our discussion under Objection 4 also includes the classification of insider claims, we think that it is appropriate to elaborate on this commonly raised objection by creditors.
+ </p>
+<p id="b727-5">
+  It is our opinion that however inconclusive the legislative history is of Sections 1122,1123, and 1129(a), it is very cléar that insider claims may be included within an impaired class, they just cannot be used to calculate a class acceptance. Accordingly, this objection is denied.
+ </p>
+<p id="b727-6">
+  Objection 6: The plan is not fair and equitable under <span class="citation no-link">11 U.S.C. § 1129</span>(b)(2)(B) and violates the absolute priority rule.
+ </p>
+<p id="b727-7">
+  Class VIII has not voted for the plan. Class VIII, the other group of unsecured creditors, did. The debtor’s president under the plan will retain an interest, fifty-one (51%) percent of the preferred stock, for which he proposes to pay $7,000.00.
+  <a class="footnote" href="#fn29" id="fn29_ref">
+   29
+  </a>
+  The facts of this confirmation make this plan ripe for a cram-down under <span class="citation no-link">11 U.S.C. § 1129</span>(b)(2)(B).
+ </p>
+<p id="b727-8">
+  As
+  <em>
+   Collier’s
+  </em>
+  says:
+ </p>
+<blockquote id="b727-9">
+  “Section 1129(b)(2)(B) ... contains the Code’s modification of the Chapter X “fair and equitable” rule. Simply stated if a class of impaired unsecured claims or equity interests does not accept the plan, the plan must satisfy the absolute priority rule as to the dissident classes and all junior classes. It is important to note that the application of the so-called “absolute priority rule” applies only in cases when a class of unsecured claims or equity interests is impaired and does not accept the plan,” as in the matter presently before us, “in that event, the absolute priority rule does not apply to all claims of unsecured claims and equity interests, but only to the dissenting class.”
+ </blockquote>
+<p id="APUs">
+<em>
+   Collier’s on Bankruptcy,
+  </em>
+  15th Ed., Pg. 1129-56 (Rel. 17-12/85 Pub. 219). Thus, a plan may not be confirmed where, under the plan, unsecured creditors are not paid an amount equal to the allowed amount of their claims, while a junior class, i.e., the debtor’s shareholder, retains an equity interest in the corporation.
+  <em>
+   See In re Landau Boat Co.,
+  </em>
+  <span class="citation" data-id="1987124"><a href="/opinion/1987124/in-re-landau-boat-co/" aria-description="Citation for case: In Re Landau Boat Co.">8 B.R. 436</a></span> (1981).
+  <a class="footnote" href="#fn30" id="fn30_ref">
+   30
+  </a>
+</p>
+<p id="b727-13">
+  The Bankruptcy Act recognized one exception to the absolute priority rule applicable to the instant plan. That exception, explicated in
+  <em>
+   Case v. Los Angeles Lumber Products Co. Ltd.,
+  </em>
+  <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">308 U.S. 106</a></span>, <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">60 S.Ct. 1</a></span>, <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">84 L.Ed. 110</a></span> (1939), and followed almost universally in the Code cases deciding the issue,
+  <a class="footnote" href="#fn31" id="fn31_ref">
+   31
+  </a>
+  allows shareholders to continue participation in a reorganization provided they contribute new equity to the revitalized debtor.
+  <em>
+   <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">Id.,</a></span>
+  </em>
+  <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/#123" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">308 U.S., at 123</a></span>, 60 S.Ct, at 11. The new equity investment must represent a substantial contribution and equal or exceed the value of the retained interest in the corporation.
+  <em>
+   See Case v. Los Angeles Lumber Products Ltd.,
+  </em>
+  <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/#121" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">308 U.S. 106, at 121</a></span>, <span class="citation" data-id="103240"><a href="/opinion/103240/case-v-los-angeles-lumber-products-co/#10" aria-description="Citation for case: Case v. Los Angeles Lumber Products Co.">60 S.Ct 1, at 10</a></span>;
+  <em>
+   In re Potter Material Service, Inc.,
+  </em>
+  <span class="citation" data-id="463262"><a href="/opinion/463262/in-re-potter-material-service-inc-debtor-official-creditors-committee/" aria-description="Citation for case: In Re Potter Material Service, Inc., Debtor. Official...">781 F.2d 99</a></span> (7th Cir.1986).
+  <em>
+   See Generally All You Ever Wanted to Know about Cram
+  </em>
+<span citation-index="1" class="star-pagination" label="678"> 
+   *678
+   </span>
+<em>
+   Down Under the New Bankruptcy Code,
+  </em>
+  K.N. Klee, 53 Am.B.L.J. 133 (1979);
+  <em>
+   Confirmation of a Plan Under the Bankruptcy Code,
+  </em>
+  P.F. Coogan, Case Western Reserve L.R. (1982).
+ </p>
+<p id="b728-4">
+  Unfortunately, Debtor has presented no evidence whether this proposed contribution of $7,000.00 to Debtor’s capital is substantial or exceeds the value of the retained interest in the corporation. We concede that a review of the debtor’s balance sheet would reveal a negative net-worth, and thus, allow a conclusion that the shareholder’s retained interest is worth less than nothing; however this proposition does not recognize that the retained interest of a shareholder has a value measured in terms other than net-worth. What that value is has not been established by the debtor.
+  <em>
+   Compare In re Sawmill Hydraulics,
+  </em>
+  <span class="citation" data-id="1531283"><a href="/opinion/1531283/in-re-sawmill-hydraulics-inc/" aria-description="Citation for case: In Re Sawmill Hydraulics, Inc.">72 B.R. 454</a></span> (Bkrtcy.C.D.Ill.1987) (debt not previously guaranteed constitutes substantial contribution but fails to establish that capital contribution equals or exceeds value of retained interest).
+ </p>
+<p id="b728-5">
+  Accordingly, Debtor’s Plan of Reorganization is DENIED.
+ </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn*" label="*">
+<a class="footnote" href="#fn*_ref">
+   *
+  </a>
+<p id="b717-12">
+   Sitting by special designation.
+  </p>
+</div><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b717-23">
+   . Objections to the Plan of Reorganization were filed by a non-appearing creditor, Brayton
+   <span citation-index="1" class="star-pagination" label="668"> 
+    *668
+    </span>
+   Chemicals, Inc. Although they did not appear at the hearing on confirmation, for completeness its objections are addressed in this Opinion. Brayton Chemicals, Inc. also objected to the disclosure statement, but such objection(s) is moot because the amended disclosure statement has been approved by the Court and the time to appeal or reconsider is long past.
+  </p>
+<p id="b718-12">
+   The Bank filed several objections, but withdrew them after negotiation with Debtor’s counsel and a representation that their claims would be adequately addressed by an amendment clarifying the Bank’s claim as a Class VIII claim.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b718-13">
+   . The Bank originally objected under this subsection (<span class="citation no-link">11 U.S.C. § 1129</span>(a)(4)); however, it withdrew its objection in open Court. We note that Debtor proposes to issue preferred stock as part of its plan, but because the parties indicate consent under this specific paragraph of 1129(a) we do not address the issue whether the securities are reasonable.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b718-14">
+   . <span class="citation no-link">11 U.S.C. § 1129</span>(a)(5) provides: "(A)(i) The proponent of the plan has disclosed the identity and affiliations of any individual to serve, after confirmation of the plan, as a director, officer, or voting trustee of the debtor, an affiliate of the debtor participating in a joint plan with the debtor, or a successor to the debtor under the plan; and (ii) the appointment to, or continuance in, such office of such individual, is consistent with the interests of creditors and equity holders and with public policy; and
+  </p>
+<p id="AWc">
+   (B) the proponents of the plan has disclosed the identity of any insider that will be employed or retained by the reorganized debtor, and the nature of any compensation for such insider.”
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b718-21">
+   . <span class="citation no-link">11 U.S.C. § 1129</span>(a)(7) provides: "(7) With respect to each impaired class of claims or interests — (A) each holder of a claim or interest of such class — (i) has accepted the plan; or (ii) will receive or retain under the plan on account of such claim or interest property of a value, as of the effective date of the plan, that is not less than the amount that such holder would also receive or retain if the debtor were liquidated under chapter 7 of this title on such date; or (B) if section 1111(b)(2) of this title applies to the claims of such class, each holder of a claim of such class will receive or retain under the plan on account of such claim property of a value, as of the effective date of the plan, that is not less than the value of such holder’s interest in the estate’s interest in the property that secures such claims.”
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b718-22">
+   . <span class="citation no-link">11 U.S.C. § 1123</span>(a)(2) provides: "(a) Notwithstanding any otherwise applicable nonbankrupt-cy law, a plan shall — ... (2) specify any class of claims or interests that is not impaired under the plan;”
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b719-10">
+   . <span class="citation no-link">11 U.S.C. § 1123</span>(a)(4) provides: "(a) Notwithstanding any otherwise applicable nonbankrupt-cy law, a plan shall — ... (4) provide the same treatment for each such claim or interest of a particular class, unless the holder of a particular claim or interest agrees to a less favorable treatment of such particular claim or interest;”
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b719-11">
+   . <span class="citation no-link">11 U.S.C. § 1122</span>(a) provides: "(a) Except as provided in subsection (b) of this section, a plan may place a claim or an interest in a particular class only if such claim or interest is substantially similar to the other claims or interests of such class.”
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b719-12">
+   . The general objection under <span class="citation no-link">11 U.S.C. § 1129</span>(a)(1), the plan fails to comply with the applicable provisions title <span class="citation no-link">11 U.S.C. § 101</span> et seq., appears to have been upon the misclassifi-cation of insider claims, accordingly, the general objection will be discussed within the specific objections. See also <span class="citation no-link">11 U.S.C. § 1129</span>(a)(10), footnote 28, supra.
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b719-13">
+   . <span class="citation no-link">11 U.S.C. § 1129</span>(b)(2)(B) provides: "(2) For the purpose of this subsection, the condition that a plan be fair and equitable with respect to a class includes the following requirements: ... (B) With respect to a class of unsecured claims —(i) the plan provides that each holder of a claim of such class receive or retain on account of such claim property of a value, as of the effective date of the plan, equal to the allowed amount of such claim; or (ii) the holder of any claim or interest that is junior to the claims of such class will not receive or retain under the plan on account of such junior claim or interest any property.”
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b719-18">
+   . <span class="citation no-link">11 U.S.C. § 1129</span>(a)(8) provides: “(8) With respect to each class of claims or interests — (A) such class has accepted the plan;”
+  </p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b719-19">
+   . <span class="citation no-link">11 U.S.C. § 1129</span>(a)(9) provides: "(9) Except to the extent that the holder of a particular claim has agreed to a different treatment of such claim, the plan provides that — (A) with respect to a claim of a kind specified in section 507(A)(1) or 507(a)(2) of this title, on the effective date of the plan, the holder of such claim will receive on account of such claim cash equal to the allowed amount of such claim;”
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="b720-10">
+   . Counsel for the Committee calculates the dividend to be about two (21/2%) percent. The plan provides for at least that much.
+  </p>
+</div><div class="footnote" id="fn13" label="13">
+<a class="footnote" href="#fn13_ref">
+   13
+  </a>
+<p id="b720-11">
+   . Footnote 6,
+   <em>
+    supra.
+   </em>
+</p>
+</div><div class="footnote" id="fn14" label="14">
+<a class="footnote" href="#fn14_ref">
+   14
+  </a>
+<p id="b720-12">
+   . Brayton Chemicals, Inc. based this specific objection on § 1129 but the more specific connection between § 1122 and § 1123 lies in § 1129(a)(1). The legislative history of paragraph (1) of § 1129(a) states: “Paragraph (1) requires that the plan comply with the applicable provisions of Chapter 11, such as sections 1122 and 1123, governing classification and contents of plan.” H.R. No. 95-595, to accompany H.R. 8200, 95th Cong., 1st Sess. (1977), pp. 412-418, U.S.Code Cong. &amp; Admin.News 1978, pp. 5787, 6368.
+  </p>
+</div><div class="footnote" id="fn15" label="15">
+<a class="footnote" href="#fn15_ref">
+   15
+  </a>
+<p id="b721-6">
+   . Cases which seem to require a single classification for unsecured creditors are:
+   <em>
+    In re Johnson,
+   </em>
+   <span class="citation" data-id="1538195"><a href="/opinion/1538195/in-re-johnson/" aria-description="Citation for case: In Re Johnson">69 B.R. 726</a></span> (Bkrtcy.W.D.N.Y.1987) (Chapter 13);
+   <em>
+    In re Fantastic Homes Enterprises, Inc.,
+   </em>
+   12 BCD 798, <span class="citation" data-id="1968836"><a href="/opinion/1968836/in-re-fantastic-homes-enterprises-inc/" aria-description="Citation for case: In Re Fantastic Homes Enterprises, Inc.">44 B.R. 999</a></span> (Bkrtcy.M.D.Fla.1984) (Chapter 11);
+   <em>
+    In re Mastercraft Record Plating, Inc.,
+   </em>
+   <span class="citation" data-id="1533130"><a href="/opinion/1533130/in-re-mastercraft-record-plating-inc/" aria-description="Citation for case: In Re Mastercraft Record Plating, Inc.">32 B.R. 106</a></span>, 8 CBC.2d 1268 (1983), rev’d on other grounds, <span class="citation" data-id="2007237"><a href="/opinion/2007237/in-re-mastercraft-record-plating-inc/" aria-description="Citation for case: In Re Mastercraft Record Plating, Inc.">39 B.R. 654</a></span> (Bkrtcy.S.D.N.Y.1984) (Chapter 11);
+   <em>
+    In re S. &amp; W. Enterprise, Inc.,
+   </em>
+   11 BCD 630, <span class="citation" data-id="1553207"><a href="/opinion/1553207/in-re-s-w-enterprise/" aria-description="Citation for case: In Re S &amp; W Enterprise">37 B.R. 153</a></span>, 10 CBC.2d 484 (Bkrtcy.N.D.Ill.1984) (Chapter 11);
+   <em>
+    Granada Wines, Inc. v. New England Teamsters and Trucking Industry Pension Fund,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/F.2d/748/42/">748 F.2d 42</a></span> (1st Cir.1984) (Chapter 11); Same case <span class="citation" data-id="1802642"><a href="/opinion/1802642/in-re-granada-wines-inc/" aria-description="Citation for case: In Re Granada Wines, Inc.">26 B.R. 131</a></span>;
+   <em>
+    In re Pine Lake Village Apartment Co.,
+   </em>
+   8 BCD 1402, <span class="citation" data-id="1956417"><a href="/opinion/1956417/in-re-pine-lake-village-apartment-co/" aria-description="Citation for case: In Re Pine Lake Village Apartment Co.">19 B.R. 819</a></span>, 6 CBC.2d 713 (Bkrtcy.S.D.N.Y.1982) (Chapter 11);
+   <em>
+    In re Iacovoni,
+   </em>
+   5 BCD 1270, <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, 1 CBC.2d 331, CCH Bankr.L.Rpt., paragraph 67335 (Bkrtcy.Utah 1980) (Chapter 13).
+  </p>
+</div><div class="footnote" id="fn16" label="16">
+<a class="footnote" href="#fn16_ref">
+   16
+  </a>
+<p id="b721-7">
+   . Cases which allow a more flexible approach to claims classification are:
+   <em>
+    In re The Mason &amp; Dixon Lines Incorporated,
+   </em>
+   <span class="citation" data-id="1855400"><a href="/opinion/1855400/in-re-mason-dixon-lines-inc/" aria-description="Citation for case: In Re Mason &amp; Dixon Lines Inc.">63 B.R. 176</a></span>, 15 CBC.2d 418 (Bkrtcy.M.D.N.C.1984) (Chapter 11);
+   <em>
+    In re White Horse Grain Company,
+   </em>
+   <span class="citation" data-id="2004284"><a href="/opinion/2004284/in-re-white-horse-grain-co/" aria-description="Citation for case: In Re White Horse Grain Co.">60 B.R. 16</a></span> (Bkrtcy.E.D.PA.1986) (Chapter 11);
+   <em>
+    In re U.S. Truck Company, Inc.,
+   </em>
+   <span class="citation" data-id="475775"><a href="/opinion/475775/in-re-us-truck-company-inc-a-michigan-corporation-debtor-teamsters/" aria-description="Citation for case: In Re U.S. Truck Company, Inc., a Michigan Corporation,...">800 F.2d 581</a></span>, 123 L.R. R.M. 2849, 14 BCD 1327, 15 CBC.2d 553 (6th Cir.1986) (Chapter 11);
+   <em>
+    In re AOV Industries (Appeal of Hawley Fuel Coalmart Inc.),
+   </em>
+   <span class="citation" data-id="9474963"><a href="/opinion/471584/in-re-aov-industries-inc-hubert-r-bruce-appeal-of-hawley-fuel/" aria-description="Citation for case: In Re Aov Industries, Inc., Hubert R. Bruce, Appeal of...">792 F.2d 1140</a></span>, <span class="citation no-link">253 App.D.C. 186</span> (D.C.Cir.1986) (Chapter 11);
+   <em>
+    In re Planes, Inc.,
+   </em>
+   <span class="citation" data-id="1552974"><a href="/opinion/1552974/in-re-planes-inc/" aria-description="Citation for case: In Re Planes, Inc.">48 B.R. 698</a></span> (Bkrtcy.N.D.GA.1985) (Chapter 11);
+   <em>
+    Barnes v. Whalen,
+   </em>
+   <span class="citation multiple-matches"><a href="/c/F.2d/689/193/">689 F.2d 193</a></span> (D.C.Cir.1982) (Chapter 11);
+   <em>
+    Matter of Huckabee Auto Company,
+   </em>
+   <span class="citation" data-id="1934553"><a href="/opinion/1934553/matter-of-huckabee-auto-co/" aria-description="Citation for case: Matter of Huckabee Auto Co.">33 B.R. 132</a></span> (Bkrtcy. M.D.GA.1981) (Chapter 11);
+   <em>
+    In re Wolff,
+   </em>
+   9 BCD 451, <span class="citation" data-id="9686594"><a href="/opinion/1821177/amfac-distribution-corp-v-wolff-in-re-wolff/" aria-description="Citation for case: Amfac Distribution Corp. v. Wolff (In Re Wolff)">22 B.R. 510</a></span>, CCH Bankr.L.Rpt., paragraph 68795 (9th Cir. BAP 1982);
+   <em>
+    Matter of Martins Point United Partnership,
+   </em>
+   8 BCD 40, <span class="citation" data-id="1902081"><a href="/opinion/1902081/matter-of-martins-point-ltd-partnership/" aria-description="Citation for case: Matter of Martin&#x27;s Point Ltd. Partnership">12 B.R. 721</a></span> (Bkrtcy.N.D.GA.1981) (Chapter 11);
+   <em>
+    In re Kovich,
+   </em>
+   6 BCD 482, <span class="citation" data-id="1538920"><a href="/opinion/1538920/in-re-kovich/" aria-description="Citation for case: In Re Kovich">4 B.R. 403</a></span>, 2 CBC.2d 203, CCH Bankr.L.Rpt., paragraph 67707 (Bkrtcy.W.D.Mi.1980) (Chapter 13);
+   <em>
+    In re Gay,
+   </em>
+   6 BCD 149, <span class="citation" data-id="1970688"><a href="/opinion/1970688/in-re-gay/" aria-description="Citation for case: In Re Gay">3 B.R. 336</a></span>, 1 CBC.2d 790 (Bkrtcy.Col.1980) (Chapter 13).
+  </p>
+<p id="b721-13">
+   Act cases that support flexible classification include:
+   <em>
+    Matter of LeBlanc,
+   </em>
+   <span class="citation" data-id="378899"><a href="/opinion/378899/in-the-matter-of-jules-b-leblanc-iii-bankrupt-sally-l-brinkley-and/" aria-description="Citation for case: In the Matter of Jules B. Leblanc, Iii, Bankrupt. Sally...">622 F.2d 872</a></span> (5th Cir.1980) (Chapter XII);
+   <em>
+    Matter of Winston Mills, Inc.,
+   </em>
+   5 BCD 1010, <span class="citation" data-id="1537932"><a href="/opinion/1537932/in-re-winston-mills-inc/" aria-description="Citation for case: In Re Winston Mills, Inc.">6 B.R. 587</a></span>, 1 CBC.2d 121 (Bkrtcy.S.D.N.Y.1980) (Chapter XI);
+   <em>
+    Scherk v. Newton,
+   </em>
+   <span class="citation" data-id="1486562"><a href="/opinion/1486562/scherk-v-newton/" aria-description="Citation for case: Scherk v. Newton">152 F.2d 747</a></span> (10th Cir.1945) (Chapter X);
+   <em>
+    Dudley v. Mealey,
+   </em>
+   <span class="citation" data-id="1472405"><a href="/opinion/1472405/dudley-v-mealey/" aria-description="Citation for case: Dudley v. Mealey">147 F.2d 268</a></span> (2d Cir.1945) (Chapter X);
+   <em>
+    Western Mesa Oil Corporation v. Edlou Co.,
+   </em>
+   <span class="citation" data-id="6889105"><a href="/opinion/6990644/western-mesa-oil-corp-v-edlou-co/" aria-description="Citation for case: Western Mesa Oil Corp. v. Edlou Co.">143 F.2d 843</a></span> (9th Cir.1944) (Chapter XI);
+   <em>
+    In re Realty Associates Securities Corp.,
+   </em>
+   <span class="citation" data-id="1976208"><a href="/opinion/1976208/in-re-realty-associates-securities-corporation/" aria-description="Citation for case: In Re Realty Associates Securities Corporation">53 F.Supp. 1010</a></span> (E.D.N.Y.1943) (Chapter X);
+   <em>
+    In re Sixty-Seven Wall Street Restaurant Corporation,
+   </em>
+   <span class="citation" data-id="1989743"><a href="/opinion/1989743/in-re-sixty-seven-wall-street-restaurant-corp/" aria-description="Citation for case: In Re Sixty-Seven Wall Street Restaurant Corp.">23 F.Supp. 672</a></span> (S.D.N.Y.1938) (Sec. 77B);
+   <em>
+    Seidel v. Palisades-on-the-Desplaines (In re Palisades-on-the-Desplaines),
+   </em>
+   <span class="citation" data-id="9636314"><a href="/opinion/1473011/seidel-v-palisades-on-the-desplaines/" aria-description="Citation for case: Seidel v. Palisades-On-The-Desplaines">89 F.2d 214</a></span> (7th Cir.1937) (Sec. 77A &amp; 77B);
+   <em>
+    Brockett v. Winkle Terra Cotta Co.,
+   </em>
+   <span class="citation" data-id="1475238"><a href="/opinion/1475238/brockett-v-winkle-terra-cotta-co/" aria-description="Citation for case: Brockett v. Winkle Terra Cotta Co.">81 F.2d 949</a></span> (8th Cir.1936) (Sec. 77A &amp; 77B).
+  </p>
+<p id="b721-16">
+   Act cases that do not support flexible classification include:
+   <em>
+    In re Los Angeles Land and Investments, Ltd.,
+   </em>
+   <span class="citation" data-id="1509629"><a href="/opinion/1509629/in-re-los-angeles-land-and-investments-ltd/" aria-description="Citation for case: In Re Los Angeles Land and Investments, Ltd.">282 F.Supp. 448</a></span> (D.Hawaii 1968), affm’d <span class="citation multiple-matches"><a href="/c/F.2d/447/1366/">447 F.2d 1366</a></span> (9th Cir.1971) (Chapter X);
+   <em>
+    St. Louis Union Trust Co. v. Champion Shoe Machinery Co.,
+   </em>
+   <span class="citation" data-id="1500857"><a href="/opinion/1500857/st-louis-union-trust-co-v-champion-shoe-machinery-co/" aria-description="Citation for case: St. Louis Union Trust Co. v. Champion Shoe MacHinery Co.">109 F.2d 313</a></span> (8th Cir.1940) (Sec. 77B).
+  </p>
+</div><div class="footnote" id="fn17" label="17">
+<a class="footnote" href="#fn17_ref">
+   17
+  </a>
+<p id="b721-17">
+   .It is an irony of this case that if the debtor had placed all unsecured claims in Class VIII, it would have had an accepting impaired class and its plan would have been confirmed. See
+   <em>
+    In re Odgen Apartment Building Corp.,
+   </em>
+   <span class="citation" data-id="6870684"><a href="/opinion/6973055/chicago-securities-corp-v-lambur/" aria-description="Citation for case: Chicago Securities Corp. v. Lambur">90 F.2d 712</a></span> (7th Cir.1937) which appears to condone acceptance of a plan as reason to classify.
+  </p>
+</div><div class="footnote" id="fn18" label="18">
+<a class="footnote" href="#fn18_ref">
+   18
+  </a>
+<p id="b722-6">
+   . Act of June 7, 1934, Publ.No. 296, 73rd Cong., 2d Sess., Ch. 424, <span class="citation no-link">48 Stat. 911</span>.
+  </p>
+</div><div class="footnote" id="fn19" label="19">
+<a class="footnote" href="#fn19_ref">
+   19
+  </a>
+<p id="b722-10">
+   . Under Section 77B(c)(6), <span class="citation no-link">11 U.S.C. § 207</span>(c)(6), the Judge determined the division of creditors and stockholders into classes ac
+   <span citation-index="1" class="star-pagination" label="673"> 
+    *673
+    </span>
+   cording to the nature of their respective claims and interests.
+  </p>
+</div><div class="footnote" id="fn20" label="20">
+<a class="footnote" href="#fn20_ref">
+   20
+  </a>
+<p id="b723-9">
+   . The Chandler Act, Ch. 575, <span class="citation no-link">52 Stat. 840</span> (1930).
+  </p>
+</div><div class="footnote" id="fn21" label="21">
+<a class="footnote" href="#fn21_ref">
+   21
+  </a>
+<p id="b723-10">
+   .
+   <em>
+    See Generally Classification of Unsecured Claims: Squaring a Circle ?,
+   </em>
+   C.F. Vihon, 55 Am. Bankr.L.J. 143; See also
+   <em>
+    Classification of Claims and Interest in Reorganization cases under the New Bankruptcy Code,
+   </em>
+   J.C. Anderson, 58 Am.Bankr.L.J. 99 (1984);
+   <em>
+    Equality in the Eye of the Beholder
+   </em>
+   — Classification
+   <em>
+    of Claims and Interests in Chapter 11 Reorganization,
+   </em>
+   Given and Phillips, 43 Ohio State Law Journal 735 (1982);
+   <em>
+    Classification of Claims in Debtor Proceedings,
+   </em>
+   49 Yale Law Journal 881 (1940).
+  </p>
+</div><div class="footnote" id="fn22" label="22">
+<a class="footnote" href="#fn22_ref">
+   22
+  </a>
+<p id="b724-6">
+   . Not discussed here because it is not an issue in this case is a line of cases under Chapter XI dealing with subordination. See
+   <em>
+    In re Hudson-Ross Inc.,
+   </em>
+   <span class="citation" data-id="1381907"><a href="/opinion/1381907/in-re-hudson-ross-inc/" aria-description="Citation for case: In Re Hudson-Ross, Inc.">175 F.Supp. 111</a></span> (N.D.Ill.1959);
+   <em>
+    In re Discon Corp.,
+   </em>
+   <span class="citation" data-id="1879090"><a href="/opinion/1879090/in-re-discon-corporation/" aria-description="Citation for case: In Re Discon Corporation">346 F.Supp. 839</a></span> (S.D.Fla.1971).
+  </p>
+</div><div class="footnote" id="fn23" label="23">
+<a class="footnote" href="#fn23_ref">
+   23
+  </a>
+<p id="b724-7">
+   .
+   <em>
+    Equality in the Eye of the Beholder—Classification of Claims and Interests in Chapter 11 Reorganization,
+   </em>
+   Given and Williams, 43 Ohio S.L.J. 735, 736.
+  </p>
+</div><div class="footnote" id="fn24" label="24">
+<a class="footnote" href="#fn24_ref">
+   24
+  </a>
+<p id="b724-12">
+   . See note 7,
+   <em>
+    supra.
+   </em>
+</p>
+</div><div class="footnote" id="fn25" label="25">
+<a class="footnote" href="#fn25_ref">
+   25
+  </a>
+<p id="b724-13">
+   . We would have started our analysis of § 1122 with the language itself but we thought it important to understand the prior statutory and case law history.
+  </p>
+</div><div class="footnote" id="fn26" label="26">
+<a class="footnote" href="#fn26_ref">
+   26
+  </a>
+<p id="b725-8">
+   . <span class="citation no-link">11 U.S.C. § 597</span> (Chapter X) stated: Classlfl-cation of creditors and stockholders. "For the purposes of the plan and its acceptances, the judge shall fix the division of creditors and stockholders into classes according to the nature of their respective claims and stocks.”
+  </p>
+<p id="b725-9">
+   <span class="citation no-link">11 U.S.C. § 751</span> (Chapter XI) stated: Classification of creditors. "For the purposes of the arrangement and its acceptance, the court may fix the division of creditors into classes and, in the event of controversy, the court shall after hearing upon notice similarly determine such controversy.”
+  </p>
+</div><div class="footnote" id="fn27" label="27">
+<a class="footnote" href="#fn27_ref">
+   27
+  </a>
+<p id="b725-14">
+   . See our discussion of
+   <em>
+    Scherk
+   </em>
+   v.
+   <em>
+    <span class="citation" data-id="1486562"><a href="/opinion/1486562/scherk-v-newton/" aria-description="Citation for case: Scherk v. Newton">Newton</a></span>,
+   </em>
+   page 674,
+   <em>
+    supra.
+   </em>
+</p>
+</div><div class="footnote" id="fn28" label="28">
+<a class="footnote" href="#fn28_ref">
+   28
+  </a>
+<p id="b726-9">
+   . <span class="citation no-link">11 U.S.C. § 1129</span>(a)(10) provides: "(10) If a class of claims is impaired under the plan, at least one class of claims that is impaired under the plan has accepted the plan, determined without including any acceptance of the plan by any insider.”
+  </p>
+</div><div class="footnote" id="fn29" label="29">
+<a class="footnote" href="#fn29_ref">
+   29
+  </a>
+<p id="b727-10">
+   . The offer to pay $7,000.00 was not adequately explained in the plan of reorganization. Debtor’s president, at hearing, testified that he intended to borrow $7,000.00 and use that sum to purchase his 51% interest. The $7,000.00 would then be used to pay administrative expenses. His testimony is enough to overrule the creditors’ objection.
+  </p>
+</div><div class="footnote" id="fn30" label="30">
+<a class="footnote" href="#fn30_ref">
+   30
+  </a>
+<p id="b727-11">
+   . The issue of priority in corporate reorganization has a long history, originating in the railroad reorganizations in the late 19th century and the early part of the 20th century. See
+   <em>
+    Louisville Trust Co. v. Louisville, N.A. &amp; C. Ry. Co., et al,
+   </em>
+   <span class="citation" data-id="95092"><a href="/opinion/95092/louisville-trust-co-v-louisville-new-albany-chicago-railway-co/" aria-description="Citation for case: Louisville Trust Co. v. Louisville, New Albany &amp; Chicago...">174 U.S. 674</a></span>, <span class="citation" data-id="95092"><a href="/opinion/95092/louisville-trust-co-v-louisville-new-albany-chicago-railway-co/" aria-description="Citation for case: Louisville Trust Co. v. Louisville, New Albany &amp; Chicago...">19 S.Ct. 827</a></span>, <span class="citation" data-id="95092"><a href="/opinion/95092/louisville-trust-co-v-louisville-new-albany-chicago-railway-co/" aria-description="Citation for case: Louisville Trust Co. v. Louisville, New Albany &amp; Chicago...">43 L.Ed. 1130</a></span> (1899). Compare
+   <em>
+    Northern P.R. Co. v. Boyd,
+   </em>
+   <span class="citation" data-id="9841901"><a href="/opinion/97866/northern-pacific-railway-co-v-boyd/" aria-description="Citation for case: Northern Pacific Railway Co. v. Boyd">228 U.S. 482</a></span>, <span class="citation" data-id="9841901"><a href="/opinion/97866/northern-pacific-railway-co-v-boyd/" aria-description="Citation for case: Northern Pacific Railway Co. v. Boyd">33 S.Ct 554</a></span>, <span class="citation" data-id="9841901"><a href="/opinion/97866/northern-pacific-railway-co-v-boyd/" aria-description="Citation for case: Northern Pacific Railway Co. v. Boyd">57 L.Ed. 931</a></span> (1913);
+   <em>
+    Kansas City Terminal Ry. Co. v. Central Union Trust Co. of New York,
+   </em>
+   <span class="citation" data-id="100898"><a href="/opinion/100898/kansas-city-terminal-railway-co-v-central-union-trust-co/" aria-description="Citation for case: Kansas City Terminal Railway Co. v. Central Union Trust Co.">271 U.S. 445</a></span>, <span class="citation" data-id="100898"><a href="/opinion/100898/kansas-city-terminal-railway-co-v-central-union-trust-co/" aria-description="Citation for case: Kansas City Terminal Railway Co. v. Central Union Trust Co.">46 S.Ct. 549</a></span>, <span class="citation" data-id="100898"><a href="/opinion/100898/kansas-city-terminal-railway-co-v-central-union-trust-co/" aria-description="Citation for case: Kansas City Terminal Railway Co. v. Central Union Trust Co.">70 L.Ed. 1028</a></span> (1926);
+   <em>
+    Consolidated Rock Products Co. v. Du Bois,
+   </em>
+   <span class="citation" data-id="103483"><a href="/opinion/103483/consolidated-rock-products-co-v-du-bois/" aria-description="Citation for case: Consolidated Rock Products Co. v. Du Bois">312 U.S. 510</a></span>, <span class="citation" data-id="103483"><a href="/opinion/103483/consolidated-rock-products-co-v-du-bois/" aria-description="Citation for case: Consolidated Rock Products Co. v. Du Bois">61 S.Ct. 675</a></span>, <span class="citation" data-id="103483"><a href="/opinion/103483/consolidated-rock-products-co-v-du-bois/" aria-description="Citation for case: Consolidated Rock Products Co. v. Du Bois">85 L.Ed. 982</a></span> (1941). See also footnote 28.
+  </p>
+</div><div class="footnote" id="fn31" label="31">
+<a class="footnote" href="#fn31_ref">
+   31
+  </a>
+<p id="b727-15">
+<em>
+    . See In re Potter Material Service, Inc.,
+   </em>
+   <span class="citation" data-id="463262"><a href="/opinion/463262/in-re-potter-material-service-inc-debtor-official-creditors-committee/" aria-description="Citation for case: In Re Potter Material Service, Inc., Debtor. Official...">781 F.2d 99</a></span> (7th Cir.1986);
+   <em>
+    In re Landau Boat Co.,
+   </em>
+   <span class="citation" data-id="2024500"><a href="/opinion/2024500/in-re-landau-boat-co/#792" aria-description="Citation for case: In Re Landau Boat Co.">13 B.R. 788, 792</a></span> (W.D.Mo.1981), citing,
+   <em>
+    Sophian v. Congress Realty Co.,
+   </em>
+   <span class="citation" data-id="1508260"><a href="/opinion/1508260/sophian-v-congress-realty-co/#502" aria-description="Citation for case: Sophian v. Congress Realty Co.">98 F.2d 499, 502</a></span> (8th Cir.1938);
+   <em>
+    In re Marsto Enterprises, Inc.,
+   </em>
+   <span class="citation" data-id="2024718"><a href="/opinion/2024718/buffalo-savings-bank-v-marston-enterprises-inc-in-re-marston/" aria-description="Citation for case: Buffalo Savings Bank v. Marston Enterprises, Inc. (In Re...">13 B.R. 514</a></span> (Bkrtcy.E.D.N.Y.1981);
+   <em>
+    Matter of Huckabee Auto Co.,
+   </em>
+   <span class="citation" data-id="1935451"><a href="/opinion/1935451/matter-of-huckabee-auto-co/" aria-description="Citation for case: Matter of Huckabee Auto Co.">33 B.R. 141</a></span> (Bkrtcy.M.D.Ga.1981);
+   <em>
+    In re Modern Glass Specialists, Inc.,
+   </em>
+   <span class="citation" data-id="1908553"><a href="/opinion/1908553/in-re-modern-glass-specialists-inc/" aria-description="Citation for case: In Re Modern Glass Specialists, Inc.">42 B.R. 139</a></span> (Bkrtcy.E.D.Wis.1984);
+   <em>
+    Matter of U.S. Truck Company, Inc.,
+   </em>
+   <span class="citation" data-id="1951678"><a href="/opinion/1951678/matter-of-us-truck-co-inc/" aria-description="Citation for case: Matter of US Truck Co., Inc.">47 B.R. 932</a></span> (Bkrtcy.E.D.Mi.1985);
+   <em>
+    In re Pecht,
+   </em>
+   <span class="citation" data-id="2010349"><a href="/opinion/2010349/in-re-pecht/" aria-description="Citation for case: In Re Pecht">53 B.R. 768</a></span> (Bkrtcy.E.D.Va.1985);
+   <em>
+    In re Stegall,
+   </em>
+   <span class="citation" data-id="1997269"><a href="/opinion/1997269/in-re-stegall/" aria-description="Citation for case: In Re Stegall">64 B.R. 296</a></span> (Bkrtcy.C.D.Ill.1986).
+  </p>
+</div></div></opinion>

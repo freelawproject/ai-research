@@ -1,0 +1,459 @@
+<pre class="inline">1                                                                        
+2                                                                        
+3                                                                        
+4                                                                        
+5                                                                        
+6                                                                        
+7                                                                        
+8                      UNITED STATES DISTRICT COURT                      
+9                 FOR THE EASTERN DISTRICT OF CALIFORNIA                 
+10                                                                        
+11   AEROJET ROCKETDYNE, INC.,       No.  2:17-cv-01515-KJM-AC            
+12                Plaintiff,                                              
+13        v.                         ORDER                                
+14   GLOBAL AEROSPACE, INC., et al.,                                      
+15                Defendants.                                             
+16                                                                        
+17            Defendant Global Aerospace, Inc. (“Global”) 1 moves, under Federal Rule of Civil 
+18  Procedure 12(c), for judgment on the pleadings of plaintiff Aerojet Rocketdyne, Inc.’s third cause 
+19  of action for violations of California Business and Professions Code 17200 et seq. (“UCL 
+20  claim”).  In short, Global contends (1) the UCL claim fails as a matter of law because Aerojet is 
+21  precluded from seeking equitable relief where alternative remedies exist, and (2), as pled, the 
+22  second amended complaint contains insufficient allegations to satisfy the pleading standards 
+23  applicable to a claim under the UCL.  For the reasons explained below, Global’s motion is 
+24  GRANTED in part and DENIED in part.                                   
+25                                                                        
+
+26       1 Consistent with the convention used throughout the court’s prior orders, the court refers 
+27  to Global Aerospace, Inc. (“Global”) as the representative defendant on behalf of the multiple 
+   members and co-insurers named as defendants in this action.  See, e.g., ECF No. 231 at 1 n.1; see 
+28  also SAC ¶¶ 4–33 (listing defendant insurers).                        
+1  I.   BACKGROUND                                                       
+2            Several of the court’s prior orders have thoroughly explained the history of this 
+3  dispute, see, e.g., ECF No. 231; therefore, the court only briefly summarizes details as relevant 
+4  here.  This suit arises from two incidents involving non-party Orbital Sciences Corporation and 
+5  rocket engines Aerojet supplied to Orbital.  Second Am. Compl. (“SAC”), ECF No. 149, ¶ 36.  
+6  First, on May 22, 2014, Orbital conducted a hot-fire acceptance test of rocket Engine E-17, 
+7  supplied by Aerojet, at the NASA Stennis Space Center.  Id.  During the test, the engine failed, 
+8  ultimately causing “substantial damage to the engine, the test facility, and ground equipment.”  
+9  Id.  Second, on October 28, 2014, at the NASA Wallops Flight Facility, Orbital attempted to 
+10  launch its “Orbital Antares launch vehicle with cargo destined for the International Space 
+11  Station.”  Id.  The launch was powered by two engines supplied by Aerojet.  Id.  Fifteen seconds 
+12  into the launch, the vehicle exploded and impacted near the launch pad, causing destruction to the 
+13  launch vehicle, its cargo and “significant damage to the launch pad and associated facilities and 
+14  buildings.”  Id.                                                      
+15            Orbital threatened litigation, id. ¶¶ 42–43, but on September 21, 2015, Aerojet and 
+16  Orbital ultimately settled their dispute before litigation ensued, id. ¶ 48.  Prior to finalizing 
+17  settlement, however, Aerojet sought insurance coverage from defendant Global for Orbital’s 
+18  threatened claims.  Id. ¶ 44.  Global was aware of the nature of Orbital’s claims and that Aerojet 
+19  would seek indemnification under the Global policy for the value of property damage included in 
+20  the Orbital settlement.  Id. ¶¶ 44–47.  Once Aerojet concluded the Orbital settlement agreement, it 
+21  “tendered the settlement to Global and requested Global reimburse Aerojet for amounts [] paid to 
+22  Orbital under the settlement.”  Id. ¶ 50.  Global denied Aerojet’s reimbursement request, claiming 
+23  the policy does not provide indemnification for “amounts [] paid to Orbital under the 
+24  settlement[.]”  Id. ¶ 51.                                             
+25            On June 26, 2017, based on Global’s denial of its claim, Aerojet filed suit in Los 
+26  Angeles County Superior Court, and on July 20, 2017, Global timely removed to this court.  Not. 
+27  of Removal, ECF No. 1.  The operative second amended complaint makes three claims:             
+28  (1) breach of written insurance contract, (2) breach of implied covenant of good faith and fair 
+1  dealing, and (3) unfair competition in violation of California Business and Professions Code 
+2  section 17200 et seq. (“UCL claim”).  SAC ¶¶ 54–79.  The second amended complaint also seeks 
+3  various forms of relief, including, inter alia, compensatory and consequential damages, 
+4  restoration, restitution, preliminary and injunctive relief, and disgorgement of monies paid to 
+5  Global under the policy.  Id. at 18, ¶¶ 1–11 (prayer for relief).     
+6            Here, Global moves for judgment on the pleadings under Federal Rule of Civil 
+7  Procedure 12(c) as to Aerojet’s UCL claim only.  Mot., ECF No. 235.  Aerojet opposes, Opp’n, 
+8  ECF No. 250, and Global has replied, Reply, ECF No. 253.  On November 22, 2019, the court 
+9  heard oral argument on the motion.  Counsel Rosemary Loehr and Milton Smith appeared on 
+10  behalf of Aerojet; counsel Mary Dow and Larry Golub appeared on behalf of Global defendants.  
+11  Thereafter, the court took the matter under submission for resolution by written order.  The court 
+12  resolves the motion here.                                             
+13  II.  LEGAL STANDARD                                                   
+14       A.   Rule 12(c)                                                  
+15            Rule 12(c) of the Federal Rules of Civil Procedure provides that “[a]fter the 
+16  pleadings are closed—but early enough not to delay trial—a party may move for judgment on the 
+17  pleadings.”  Fed. R. Civ. P. 12(c).  A Rule 12(c) motion may raise the defense of failure to state a 
+18  claim upon which relief can be granted.  Fed. R. Civ. P. 12(h)(2)(B).  The same standard of 
+19  review applies to motions brought under Rule 12(c) or Rule 12(b)(6), and many of the same rules 
+20  delineated in Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662</a></span><pre class="inline"> (2009), and Bell Atlantic Corp. v. Twombly, 550 
+</pre><span class="citation no-link">21  U.S. 544</span><pre class="inline"> (2007), apply to Rule 12(c) motions.  See Cafasso, U.S. ex rel. v. Gen. Dynamics C4 
+22  Sys., Inc., </pre><span class="citation" data-id="213165"><a href="/opinion/213165/cafasso-v-general-dynamics-c4-systems-inc/" aria-description="Citation for case: Cafasso v. General Dynamics C4 Systems, Inc.">637 F.3d 1047</a></span><pre class="inline">, 1054 n.4 (9th Cir. 2011) (“Rule 12(c) is ‘functionally identical’ to Rule 
+23  12(b)(6) . . . .”).                                                   
+24            “Judgment on the pleadings is properly granted when there is no issue of material 
+25  fact in dispute, and the moving party is entitled to judgment as a matter of law.”  Fleming v. 
+26  Pickard, </pre><span class="citation" data-id="1266432"><a href="/opinion/1266432/fleming-v-pickard/#925" aria-description="Citation for case: Fleming v. Pickard">581 F.3d 922, 925</a></span><pre class="inline"> (9th Cir. 2009); Merchs. Home Delivery Serv., Inc. v. Frank B. Hall 
+27  &amp; Co., </pre><span class="citation multiple-matches"><a href="/c/F.3d/50/1486/">50 F.3d 1486</a></span><pre class="inline">, 1488 (9th Cir. 1995).  “A dismissal may be affirmed only if it is clear that 
+28  no relief could be granted under any set of facts that could be proved consistent with the 
+1  allegations.”  Turner v. Cook, </pre><span class="citation" data-id="785638"><a href="/opinion/785638/turner-v-cook/#1225" aria-description="Citation for case: Turner v. Cook">362 F.3d 1219, 1225</a></span><pre class="inline"> (9th Cir. 2004) (Rule 12(b)(6)) (internal 
+2  quotation marks and citation omitted).                                
+3            In resolving a motion for judgment on the pleadings, the court “must accept all 
+4  factual allegations in the complaint as true and construe them in the light most favorable to the 
+5  non-moving party.”  Fleming, </pre><span class="citation" data-id="1266432"><a href="/opinion/1266432/fleming-v-pickard/#925" aria-description="Citation for case: Fleming v. Pickard">581 F.3d at 925</a></span><pre class="inline">.  However, the court is not required to accept as 
+6  true “a legal conclusion couched as a factual allegation,” Papasan v. Allain, </pre><span class="citation" data-id="9430664"><a href="/opinion/111742/papasan-v-allain/" aria-description="Citation for case: Papasan v. Allain">478 U.S. 265</a></span><pre class="inline">, 286 
+7  (1986), quoted in Twombly, 550 U.S. at 555, or “allegations that contradict matters properly 
+8  subject to judicial notice” or material attached to or incorporated by reference into the complaint, 
+9  Sprewell v. Golden State Warriors, </pre><span class="citation" data-id="7006046"><a href="/opinion/7100340/sprewell-v-golden-state-warriors/" aria-description="Citation for case: Sprewell v. Golden State Warriors">266 F.3d 979</a></span><pre class="inline">, 988–89 (9th Cir. 2001).  A court’s 
+10  consideration of documents attached to a complaint, documents incorporated by reference in the 
+11  complaint, or matters of judicial notice will not convert a motion to dismiss into a motion for 
+12  summary judgment.  United States v. Ritchie, </pre><span class="citation" data-id="783479"><a href="/opinion/783479/united-states-v-donald-lawrence-ritchie-heather-horner/" aria-description="Citation for case: United States v. Donald Lawrence Ritchie, Heather Horner,...">342 F.3d 903</a></span><pre class="inline">, 907–08 (9th Cir. 2003); Parks Sch. of 
+13  Bus. v. Symington, </pre><span class="citation" data-id="693410"><a href="/opinion/693410/parks-school-of-business-inc-dba-parks-college-a-new-mexico-corporation/#1484" aria-description="Citation for case: Parks School of Business, Inc., Dba Parks College, a New...">51 F.3d 1480, 1484</a></span><pre class="inline"> (9th Cir. 1995).                
+14       B.   Rule 9(b)                                                   
+15            A claim grounded in fraud must be pleaded with the particularity required by 
+16  Federal Rule of Civil Procedure 9(b).  Vess v. Ciba-Geigy Corp. USA, </pre><span class="citation multiple-matches"><a href="/c/F.3d/317/1097/">317 F.3d 1097</a></span><pre class="inline">, 1103 
+17  (2003).  The Ninth Circuit has specifically held that Rule 9(b)’s heightened pleading standard 
+18  applies to claims of fraud under the UCL.  Kearns v. Ford Motor Co., </pre><span class="citation" data-id="1208595"><a href="/opinion/1208595/kearns-v-ford-motor-co/#1125" aria-description="Citation for case: Kearns v. Ford Motor Co.">567 F.3d 1120, 1125</a></span><pre class="inline"> (9th 
+19  Cir. 2009) (citing Vess, 317 F.3d at 1102–05).  Aerojet’s UCL claim alleges, inter alia, that 
+20  Global conducted “fraudulent business practices within the meaning of Business &amp; Professions 
+21  Code Section 17200.”  SAC ¶ 76; see also id. ¶ 73 (“Global’s conduct . . . constitute[s] malice, 
+22  oppression and/or fraud.”).  Accordingly, the entirety of Aerojet’s UCL claim sounds in fraud and 
+23  must satisfy the pleading requirements of Rule 9(b), which requires that a party “state with 
+24  particularity the circumstances constituting fraud or mistake,” including “the who, what, when, 
+25  where, and how” of the alleged fraudulent conduct.2  Vess, 317 F.3d at 1106 (quoting Cooper v. 
+26                                                                        
+        2 At hearing, Aerojet argued Rule 9(b) applies only to the “fraudulent” prong of its UCL 
+27  claim, as the “unlawful” and “unfair” prongs are not grounded in fraud.  This argument is 
+   unavailing.  In Kearns, plaintiff-appellant advanced a similar argument, arguing that because 
+28  some of his claims were not grounded in fraud, Rule 9(b) should not apply.  </pre><span class="citation" data-id="1208595"><a href="/opinion/1208595/kearns-v-ford-motor-co/#1125" aria-description="Citation for case: Kearns v. Ford Motor Co.">567 F.3d at 1125</a></span><pre class="inline">.  In 
+1  Pickett, </pre><span class="citation" data-id="6964204"><a href="/opinion/7060249/cooper-v-pickett/" aria-description="Citation for case: Cooper v. Pickett">137 F.3d 616, 627</a></span><pre class="inline"> (9th Cir. 1997)).  In addition, Aerojet “‘must set forth what is false or 
+2  misleading about a statement, and why it is false.’”  </pre><span class="citation" data-id="6964204"><a href="/opinion/7060249/cooper-v-pickett/" aria-description="Citation for case: Cooper v. Pickett">Id.</a></span><pre class="inline"> (quoting Decker v. GlenFed, Inc. (In re 
+3  GlenFed, Inc. Sec. Litig.), </pre><span class="citation" data-id="685125"><a href="/opinion/685125/in-re-glenfed-inc-securities-litigation/#1548" aria-description="Citation for case: In Re Glenfed, Inc. Securities Litigation">42 F.3d 1541, 1548</a></span><pre class="inline"> (9th Cir. 1994) (en banc)).  
+4  III.  DISCUSSION                                                      
+5            Global moves for judgment on the pleadings as to Aerojet’s UCL claim based on 
+6  two theories: (1) the UCL permits only equitable relief, and where alternative avenues of relief 
+7  exist, as here, a UCL claim fails as a matter of law; and (2) Aerojet fails to plead its UCL claim, 
+8  under any prong, with the particularity required by Rule 9(b) and Aerojet cannot amend its 
+9  complaint to cure these deficiencies.  See generally Reply.  In opposition, Aerojet contends the 
+10  UCL permits the alternative relief it seeks and the allegations in the complaint are pled with the 
+11  specificity necessary to state a claim under each of the UCL’s three prongs.  See generally Opp’n.  
+12  Aerojet also asks the court to rely on evidence beyond the complaint and convert Global’s motion 
+13  to one for summary judgment.  </pre><span class="citation" data-id="685125"><a href="/opinion/685125/in-re-glenfed-inc-securities-litigation/" aria-description="Citation for case: In Re Glenfed, Inc. Securities Litigation">Id.</a></span><pre class="inline"> at 2–3, 9 n.1.                      
+14            Given its threshold nature, the court first addresses Aerojet’s request to convert 
+15  Global’s motion to one for summary judgment before reaching the merits of the parties’ 
+16  contentions.                                                          
+17       A.   Conversion of 12(c) Motion to Summary Judgment Motion       
+18            “[I]t is within the district court’s discretion whether to accept extra-pleading matter 
+19  on a motion for judgment on the pleadings and treat it as one for summary judgment or to reject it 
+20  and maintain the character of the motion as one under Rule 12(c).”  5C Charles A. Wright &amp; 
+21  Arthur R. Miller, Federal Practice and Procedure § 1371 (3d ed. 2019); Hal Roach Studios, Inc. 
+22  v. Richard Feiner &amp; Co., </pre><span class="citation" data-id="537184"><a href="/opinion/537184/hal-roach-studios-inc-a-delaware-corporation-v-richard-feiner-and/#1550" aria-description="Citation for case: Hal Roach Studios, Inc., a Delaware Corporation v....">896 F.2d 1542, 1550</a></span><pre class="inline"> (9th Cir. 1989) (in resolving motion under Rule 
+23                                                                        
+
+24  dispatching this argument, the court explained that while fraud itself may not be a necessary 
+   element under the UCL, when a complaint “allege[s] a unified course of fraudulent conduct and 
+25  rel[ies] entirely on that course of conduct as the basis of that claim[,] . . . the claim is said to be 
+   ‘grounded in fraud’ or to ‘sound in fraud[,]’” and the pleading, “as a whole” is subject to Rule 
+26                                                                        
+   9(b).  Id; see also Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1094" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1094</a></span><pre class="inline"> (N.D. Cal. 2017) 
+27  (“Where Plaintiff has alleged a ‘unified course of fraudulent conduct,’ Rule 9(b)’s particularity 
+   requirement applies to the unlawful and unfair prong of the UCL in addition to the above-
+28  discussed fraudulent prong.” (citing Kearns, 567 F.3d at 1126–27)).        
+1  12(c), if “the district court goes beyond the pleadings to resolve an issue[,] such a proceeding 
+2  must properly be treated as a motion for summary judgment”).  But, if such a conversion occurs, 
+3  the court “must give the parties notice and an opportunity to be heard on the summary judgment 
+4  question.”  Wright &amp; Miller, supra, § 1371.                           
+5            Here, the court exercises its discretion and declines to convert Global’s motion to 
+6  one for summary judgment.  As explained below, Global’s motion presents primarily legal 
+7  questions as to the viability of Aerojet’s claims and ability to recover under the UCL.  It is, 
+8  therefore, unnecessary for the court to weigh the parties’ competing evidence when considering 
+9  these questions and declining to convert the motion will not prejudice Aerojet’s ability to rebut 
+10  Global’s assertions.  Cf. Prianto v. Experian Info. Sols., Inc., No. 13-CV-03461-TEH, </pre><span class="citation no-link">2014 WL 
+11</span><pre class="inline">  3381578, at *8 (N.D. Cal. July 10, 2014) (declining plaintiff’s request to consider extrinsic 
+12  evidence because it was “irrelevant to the Court’s resolution of the prima facie question” at hand). 
+13       B.   Viability of Aerojet’s UCL Claim                            
+14            Turning to the UCL claim, California Business &amp; Professions Code section 17200, 
+15  also known as the UCL, prohibits “any unlawful, unfair or fraudulent business act or practice        
+16  . . . .”  Each UCL prong—unlawful, unfair and fraudulent—provides a separate and distinct 
+17  theory of liability.  Lozano v. AT&amp;T Wireless Servs., Inc., </pre><span class="citation" data-id="1429600"><a href="/opinion/1429600/lozano-v-at-t-wireless-services-inc/#731" aria-description="Citation for case: Lozano v. AT &amp; T Wireless Services, Inc.">504 F.3d 718, 731</a></span><pre class="inline"> (9th Cir. 2007).   
+18  Moreover, “[u]nder the UCL, [p]revailing plaintiffs are generally limited to injunctive relief and 
+19  restitution.’”  Alvarez v. Chevron Corp., </pre><span class="citation" data-id="613006"><a href="/opinion/613006/alvarez-v-chevron-corp/" aria-description="Citation for case: Alvarez v. Chevron Corp.">656 F.3d 925</a></span><pre class="inline">, 933 n.9 (9th Cir. 2011) (some alterations 
+20  in original) (citing Cel-Tech Commc’ns, Inc. v. Los Angeles Cellular Tel. Co., </pre><span class="citation" data-id="9567993"><a href="/opinion/1301891/cel-tech-communications-inc-v-los-angeles-cellular-telephone-co/" aria-description="Citation for case: Cel-Tech Communications, Inc. v. Los Angeles Cellular...">20 Cal. 4th 163</a></span><pre class="inline">, 
+21  179 (1999)).                                                          
+22            Global first argues that Aerojet’s UCL claim must be dismissed as a matter of law 
+23  because Aerojet may not seek equitable relief where alternative relief, including monetary 
+24  damages, is awarded.  Reply at 1–6; Mot. at 11–17.  Global also contends, in the alternative, the 
+25  allegations in the second amended complaint do not support a claim under any of the UCL’s three 
+26  prongs.  Reply at 6–10; Mot. at 6–11.  The court addresses each argument in turn.  
+27                                                                        
+28                                                                        
+1            1.   Equitable Relief Under the UCL                         
+2                 a)   Adequate Alternative Remedies                     
+3            Global contends that because the UCL provides for only injunctive or 
+4  restitutionary relief, Aerojet’s breach of contract and bad faith claims “provide it with an adequate 
+5  remedy at law that enable it to recover damages.”  Reply at 2.  For support, Global cites district 
+6  court opinions within the Ninth Circuit in which courts have dismissed UCL claims because 
+7  alternative remedies existed.  </pre><span class="citation" data-id="9567993"><a href="/opinion/1301891/cel-tech-communications-inc-v-los-angeles-cellular-telephone-co/" aria-description="Citation for case: Cel-Tech Communications, Inc. v. Los Angeles Cellular...">Id.</a></span><pre class="inline"> at 2–3 (collecting cases).  Global also cites Korea Supply Co. v. 
+8  Lockheed Martin Corp., </pre><span class="citation" data-id="9796353"><a href="/opinion/2630547/korea-supply-co-v-lockheed-martin-corp/" aria-description="Citation for case: Korea Supply Co. v. Lockheed Martin Corp.">29 Cal. 4th 1134</a></span><pre class="inline"> (2003), for the proposition that in insurance-dispute 
+9  actions, the UCL cannot be used as “an all-purpose substitute for a tort or contract action.”  </pre><span class="citation" data-id="9796353"><a href="/opinion/2630547/korea-supply-co-v-lockheed-martin-corp/" aria-description="Citation for case: Korea Supply Co. v. Lockheed Martin Corp.">Id.</a></span><pre class="inline"> at 
+10  3 (quoting Korea Supply Co., </pre><span class="citation" data-id="9796353"><a href="/opinion/2630547/korea-supply-co-v-lockheed-martin-corp/#1150" aria-description="Citation for case: Korea Supply Co. v. Lockheed Martin Corp.">29 Cal. 4th at 1150</a></span><pre class="inline">).                    
+11             Aerojet contends its prayers for injunctive relief, that Global be enjoined from 
+12  engaging in wrongful and deceptive business practices, as well as for restitution, that Global be 
+13  required to disgorge all premiums paid under the policy, are permissible under the UCL, as are 
+14  alternative forms of relief.  Opp’n at 10–16.                         
+15            Although there are divergent views among district courts within the Ninth Circuit 
+16  on the issue of alternative theories of relief under the UCL, this court has previously taken the 
+17  position, as Aerojet notes, that there is “no basis in California or federal law for prohibiting the 
+18  pursuit of alternate remedies at th[e] early [pleading] stage,” and has “declin[ed] to dismiss 
+19  plaintiff[’s] equitable claims on this basis.”  Espineli v. Toyota Motor Sales U.S.A., Inc., No. 
+20  2:17-CV-00698-KJM-CKD, </pre><span class="citation no-link">2018 WL 3769383</span><pre class="inline">, at *4 (E.D. Cal. Aug. 9, 2018) (collecting cases); 
+21  see also Copart, Inc. v. Sparta Consulting, Inc., </pre><span class="citation" data-id="7250494"><a href="/opinion/7332576/copart-inc-v-sparta-consulting-inc/#1001" aria-description="Citation for case: Copart, Inc. v. Sparta Consulting, Inc.">339 F. Supp. 3d 959, 1001</a></span><pre class="inline"> (E.D. Cal. 2018) 
+22  (explaining that prior to entry of judgment, plaintiff may elect to receive damages awarded at trial 
+23  or UCL restitution, but not both).  Global provides no compelling reason for the court to alter its 
+24  position and confine Aerojet’s relief to damages alone at this juncture.   
+25                 b)   Injunctive Relief                                 
+26            Global also contends that Aerojet’s request for injunctive relief is impermissible 
+27  because it is retrospective, rather than prospective.  Reply at 4.  This contention lacks merit.  On 
+28  its face, the second amended complaint seeks “preliminary and permanent injunctive relief 
+1  prohibiting Defendants from engaging in the wrongful practices, from continuing to make the 
+2  aforementioned misrepresentations, and from continuing to commit the aforementioned acts as 
+3  alleged in th[e] Complaint.”  SAC ¶ 7 (prayer for relief).  The complaint also alleges that Global 
+4  “continues to unreasonably deny its indemnity obligations under the Policies,” is “continuing to 
+5  engage in . . . misconduct . . . at the expense of its insureds” and Aerojet will continue to “incur 
+6  reasonable attorneys’ fees in order to enforce” its rights.  </pre><span class="citation" data-id="7250494"><a href="/opinion/7332576/copart-inc-v-sparta-consulting-inc/" aria-description="Citation for case: Copart, Inc. v. Sparta Consulting, Inc.">Id.</a></span><pre class="inline"> ¶¶ 78–79.   
+7            The complaint identifies the parties underwriting the policies at issue, the launch 
+8  incidents subject to the policies, the specific claims under the policies, the third-party settlement 
+9  informing the policy claims and the alleged violations effected through Global’s claim denials 
+10  under the policy.  SAC ¶¶ 36–53.  These allegations, although detailing a past wrong, provide 
+11  sufficient detail to support, by way of inference, an alleged practice of improper coverage denials 
+12  for purportedly justified claims.  Although monetary damages ultimately may fully address 
+13  Aerojet’s harm experienced as a result of the policy, there is, at this stage, an ongoing, 
+14  prospective nature to its allegations given Global’s continued denial of coverage.  At hearing, 
+15  Aerojet’s counsel clarified this aspect of the relief it seeks, in explaining that the assertion in 
+16  Aerojet’s opposition that it “will now seek an injunction requiring Global to amend its Claims 
+17  Manual” merely clarifies the injunctive relief sought in the complaint.   
+18            Taken together, and viewed in the light most favorable to Aerojet, the allegations 
+19  are sufficient to suggest a likelihood of future harm amenable to injunctive relief.  See Bates v. 
+20  United Parcel Serv., Inc., </pre><span class="citation" data-id="9558298"><a href="/opinion/1194810/bates-v-united-parcel-service-inc/#985" aria-description="Citation for case: Bates v. United Parcel Service, Inc.">511 F.3d 974, 985</a></span><pre class="inline"> (9th Cir. 2007) (“The plaintiff must demonstrate that 
+21  he has suffered or is threatened with a concrete and particularized legal harm coupled with a 
+22  sufficient likelihood that he will again be wronged in a similar way.” (quotations and citations 
+23  omitted)); cf. Cunha v. IntelliCheck, LLC, </pre><span class="citation" data-id="7243657"><a href="/opinion/7325743/cunha-v-intellicheck-llc/#1140" aria-description="Citation for case: Cunha v. IntelliCheck, LLC">254 F. Supp. 3d 1124, 1140</a></span><pre class="inline"> (N.D. Cal. 2017) 
+24  (dismissing class action UCL claim for injunctive relief where plaintiff, a former employee, could 
+25  not establish, among other things, ongoing or future harm because plaintiff was no longer 
+26  employed by, and had no intent to return to, defendant employer; thus injunctive relief would be 
+27  of no personal benefit to plaintiff).                                 
+28                                                                        
+1            Global cites Silvercrest Realty, Inc. v. Great Am. E&amp;S Ins. Co., No. SACV 11-
+2  01197-CJC(ANx), </pre><span class="citation no-link">2012 WL 13028094</span><pre class="inline">, at *2 (C.D. Cal. Apr. 4, 2012), as addressing facts 
+3  analogous to those here.  Mot. at 14.  Silvercrest, however, is distinguishable.  In Silvercrest, the 
+4  court dismissed the insured’s UCL claim for two reasons: (1) failure to plausibly allege lack of 
+5  adequate legal remedy, and (2) failure to allege threat of ongoing future harm beyond a single 
+6  denial of coverage.  </pre><span class="citation no-link">2012 WL 13028094</span><pre class="inline">, at *2–3.  The court here has rejected the first reason, as 
+7  explained above.  As to the second reason, Silvercrest is distinguishable: the Silvercrest court 
+8  noted that, at first blush, the insured’s request for “restitution of premiums paid, attorney’s fees, 
+9  disgorgement of profits and other restitutionary remedies, injunctive relief, and/or costs” appeared 
+10  to satisfy the UCL’s equitable requirement; however, upon closer inspection, the insured’s 
+11  general allegations of mishandled claims failed to show the requisite ongoing harm necessary to 
+12  make out a claim for injunctive relief.  </pre><span class="citation no-link">Id.</span><pre class="inline"> at *2–3.  Here, in contrast, Aerojet alleges that Global 
+13  engages in a practice of improperly denying policy claims at the expense of its insured.  SAC     
+14  ¶¶ 78–79.  Unlike in Silvercrest, a core aspect of Aerojet’s claim is that Global is engaging in a 
+15  practice causing both past and future harm.  Aerojet’s UCL claim is sufficiently prospective to 
+16  allow it invoke injunctive relief.                                    
+17                 c)   Disgorgement                                      
+18            Finally, Global’s assertion that the “disgorgement” Aerojet seeks is an improper 
+19  form of equitable relief also lacks merit.  See Mot. at 12–14.  As the opposition makes clear, 
+20  Aerojet not only seeks damages for unpaid claims, but also disgorgement of the premium 
+21  payments Global allegedly wrongfully obtained through agreeing to policy obligations it did not 
+22  intend to honor.  Opp’n at 10, 14.  Thus, when the complaint seeks disgorgement of funds 
+23  received through the policy, it is referencing funds Aerojet paid directly to Global based on a 
+24  false or deceptive premise.  SAC ¶ 78.  Restoration of funds obtained through such a transaction 
+25  is permitted under the UCL.  Palmer v. Stassinos, </pre><span class="citation" data-id="2306363"><a href="/opinion/2306363/palmer-v-stassinos/#1088" aria-description="Citation for case: Palmer v. Stassinos">348 F. Supp. 2d 1070, 1088</a></span><pre class="inline"> (N.D. Cal. 2004) 
+26  (“The California Supreme Court has held that restitution under the UCL is limited to either 
+27  ‘money or property that defendants took directly from plaintiff’ or ‘money or property in which 
+28  [plaintiff] has a vested interest.’” (alteration in original) (citing Korea Supply Co., </pre><span class="citation" data-id="9796353"><a href="/opinion/2630547/korea-supply-co-v-lockheed-martin-corp/" aria-description="Citation for case: Korea Supply Co. v. Lockheed Martin Corp.">29 Cal. 4th at 
+1</a></span><pre class="inline">  1146–47)), order clarified on reconsideration, </pre><span class="citation" data-id="2291577"><a href="/opinion/2291577/palmer-v-stassinos/" aria-description="Citation for case: Palmer v. Stassinos">419 F. Supp. 2d 1151</a></span><pre class="inline"> (N.D. Cal. 2005); Krueger v. 
+2  Wyeth, Inc., </pre><span class="citation no-link">396 F. Supp. 3d 931</span><pre class="inline">, 954 (S.D. Cal. 2019) (“[T]he distinction between restitutionary 
+3  and non-restitutionary disgorgement turns on whether the money plaintiff seeks was obtained by 
+4  the defendant from the plaintiff in the first place.  If so, disgorgement is restitutionary.” 
+5  (alteration in original) (quoting Kraus v. Trinity Mgmt. Servs., Inc., </pre><span class="citation" data-id="9541643"><a href="/opinion/1159700/kraus-v-trinity-management-services-inc/#126" aria-description="Citation for case: Kraus v. Trinity Management Services, Inc.">23 Cal. 4th 116, 126</a></span><pre class="inline"> (2000))); 
+6  SkinMedica, Inc. v. Histogen Inc., </pre><span class="citation" data-id="8699556"><a href="/opinion/8716363/skinmedica-inc-v-histogen-inc/#1184" aria-description="Citation for case: SkinMedica, Inc. v. Histogen Inc.">869 F. Supp. 2d 1176, 1184</a></span><pre class="inline"> (S.D. Cal. 2012) (“Restitutionary 
+7  disgorgement, which focuses on the victim’s loss, may be recovered under the UCL.  This is 
+8  typified in situations ‘where the disgorged money or property [came] from the prospective 
+9  plaintiff in the first instance.’” (alteration in original) (citation omitted)).   
+10            Because Aerojet seeks return of premiums it paid directly to Global and Global 
+11  provides no response to this assertion, see generally Reply, Aerojet’s disgorgement request is 
+12  permitted under the UCL.  See SkinMedica, Inc., 869 F. Supp. 2d at 1184–85 (“[N]onrestitution-
+13  ary disgorgement, which focuses on the defendant’s gain and does not require that the plaintiff 
+14  suffered an identifiable loss, is not available under the UCL. Thus, disgorgement of profits is an 
+15  available remedy for an individual private plaintiff under the UCL only to the extent that it 
+16  constitutes restitution.”).                                           
+17            Disgorgement is limited, however, to the premiums Aerojet paid directly to 
+18  Global.  It does not include attorneys’ fees Aerojet expended pursuing the return of those 
+19  premiums.  Despite Aerojet’s assertions in its opposition, Opp’n at 16, and at hearing, the court is 
+20  unaware of any authority suggesting attorneys’ fees are permissibly included in a disgorgement 
+21  award of this nature.  Aerojet cites to none.  See generally </pre><span class="citation" data-id="8699556"><a href="/opinion/8716363/skinmedica-inc-v-histogen-inc/" aria-description="Citation for case: SkinMedica, Inc. v. Histogen Inc.">id.</a></span><pre class="inline">  Indeed, this request appears to run 
+22  counter to disgorgement’s general premise: that money or property once rightfully possessed by 
+23  one party, but now wrongfully obtained by another, be returned to its rightful owner.  Korea 
+24  Supply Co., </pre><span class="citation" data-id="9796353"><a href="/opinion/2630547/korea-supply-co-v-lockheed-martin-corp/#1149" aria-description="Citation for case: Korea Supply Co. v. Lockheed Martin Corp.">29 Cal. 4th at 1149</a></span><pre class="inline">.                                      
+25            In sum, apart from the attorneys’ fees Aerojet seeks as part of its disgorgement 
+26  request, the general equitable relief it seeks is proper under the UCL.   
+27                                                                        
+28                                                                        
+1            2.   Viability of Aerojet’s Claims Under “Unlawful” Prong   
+2            Because each prong under the UCL supports a distinct theory of liability, Kearns, 
+3  </pre><span class="citation" data-id="1208595"><a href="/opinion/1208595/kearns-v-ford-motor-co/#1127" aria-description="Citation for case: Kearns v. Ford Motor Co.">567 F.3d at 1127</a></span><pre class="inline">, each prong must be pled with specificity.  Global argues Aerojet fails to state a 
+4  claim under the UCL’s “unlawful” prong because the statutory and regulatory provisions Aerojet 
+5  identifies as forming a basis for Global’s unlawful activity, namely California Insurance Code 
+6  section 790.03 and California Code of Regulations (“C.C.R.”) title 10, section 2695 et seq., 
+7  cannot ground a UCL claim.  Reply at 8.  Aerojet maintains that what constitutes unlawful 
+8  activity is broadly defined; therefore, the statute and regulation, as well as the common law duty 
+9  of good faith and fair dealing, are sufficient to state an unlawful prong claim.  Opp’n at 3–7.  
+10  Here too Global’s arguments are unavailing.                           
+11            “To state a claim under the unlawful prong of the UCL, a plaintiff must plead:    
+12  (1) a predicate violation, and (2) an accompanying economic injury caused by the violation.”  
+13  Shelton v. Ocwen Loan Servicing, LLC, No. 18-CV-02467-AJB-WVG, </pre><span class="citation no-link">2019 WL 4747669</span><pre class="inline">, at 
+14  *10 (S.D. Cal. Sept. 30, 2019).  “By proscribing any unlawful business practice, the UCL 
+15  borrows violations of other laws and treats them as unlawful practices that the unfair competition 
+16  law makes independently actionable.”  Alvarez v. Chevron Corp., </pre><span class="citation" data-id="613006"><a href="/opinion/613006/alvarez-v-chevron-corp/" aria-description="Citation for case: Alvarez v. Chevron Corp.">656 F.3d 925</a></span><pre class="inline">, 933 n.8 (9th Cir. 
+17  2011) (alterations and citations omitted).  “Virtually any law—federal, state or local—can serve 
+18  as a predicate for an action under [the UCL].”  Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="4153612"><a href="/opinion/4376359/kargbo-v-national-railroad-passenger-corporation/#1074" aria-description="Citation for case: Kargbo v. National Railroad Passenger Corporation">243 F. Supp. 3d 
+19  1074, 1094</a></span><pre class="inline"> (N.D. Cal. 2017) (alteration in original) (quoting Smith v. State Farm Mut. Auto. Ins. 
+20  Co., </pre><span class="citation" data-id="2282385"><a href="/opinion/2282385/smith-v-state-farm-mutual-automobile-insurance/#718" aria-description="Citation for case: Smith v. State Farm Mutual Automobile Insurance">93 Cal. App. 4th 700, 718</a></span><pre class="inline"> (2001)).  Where an “unlawful” claim sounds in fraud, it too must 
+21  meet Rule 9(b)’s pleading standards.  Hadley, </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1094" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d at 1094</a></span><pre class="inline">.    
+22            Here, the second amended complaint alleges Global’s “misrepresentations, unfair 
+23  claims handling, withholding of policy benefits, unreasonable delays causing damages, and other 
+24  bad faith misconduct violate other statutes including Business &amp; Professions Code Section 1750, 
+25  et seq. and Insurance Code 790.03 and related regulations and/or provisions of the Insurance 
+26  Code . . . .”  SAC ¶ 78.  The complaint also alleges Global “had the duty to act fairly and in good 
+27  faith . . . in carrying out its responsibilities under the Policies,” including making good faith 
+28  coverage determinations under California’s Insurance Code Fair Claims Settlement Practices 
+1  Regulations (“FCSPR”) and other provisions, including Insurance Code sections 790.03(h)(2)–(6) 
+2  and (12)–(13) as well as 10 C.C.R. section 2695.7.  Id. ¶ 68.         
+3            Global relies on Zhang v. Super. Ct., </pre><span class="citation" data-id="1036210"><a href="/opinion/1036210/zhang-v-superior-court/" aria-description="Citation for case: Zhang v. Superior Court">57 Cal. 4th 364</a></span><pre class="inline"> (2013), for the proposition 
+4  that neither Insurance Code section 790.03, nor its enabling regulation, 10 C.C.R. section 2695.1, 
+5  can serve as the predicate offense for an “unlawfulness” claim under the UCL.  Reply at 8.  On 
+6  this score, Global is correct.  In Zhang, the court specifically held that “[p]rivate UIPA3 actions 
+7  are absolutely barred; a litigant may not rely on the proscriptions of section 790.03 as the basis 
+8  for a[n] [unfairness] UCL claim.”  Zhang, </pre><span class="citation" data-id="1036210"><a href="/opinion/1036210/zhang-v-superior-court/#384" aria-description="Citation for case: Zhang v. Superior Court">57 Cal. 4th at 384</a></span><pre class="inline">; see also Lennane v. Am. Zurich Ins. 
+9  Co., No. 2:13-CV-02311 JAM AC, </pre><span class="citation no-link">2014 WL 546061</span><pre class="inline">, at *3 (E.D. Cal. Feb. 10, 2014) (“Zhang is 
+10  clear that a plaintiff may not use the UCL to plead around an absolute bar to relief.” (quotations 
+11  and alterations omitted)).  Additionally, the regulations set forth in 10 C.C.R. section 2695.1 
+12  cannot be used as a predicate offense for an UCL claim of unlawfulness because those regulations 
+13  are promulgated under the auspices of Insurance Code section 790.03(h); thus, the regulations 
+14  create no private right of action under the UCL given its linkage with section 790.03, which itself 
+15  creates no private right of action.  See 10 C.C.R. § 2695.1(a) (“The Insurance Commissioner has 
+16  promulgated these regulations . . . [t]o delineate certain minimum standards for the settlement of 
+17  claims, which when violated . . . constitute an unfair claims settlement practice within the 
+18  meaning of Insurance Code Section 790.03(h).”); see also Moradi–Shalal v. Fireman&#x27;s Fund Ins. 
+19  Cos., </pre><span class="citation" data-id="9622711"><a href="/opinion/1405841/moradi-shalal-v-firemans-fund-ins-companies/" aria-description="Citation for case: Moradi-Shalal v. Fireman&#x27;s Fund Ins. Companies">46 Cal. 3d 287</a></span><pre class="inline"> (1988) (holding that section 790.03(h) has no private right of action).      
+20            Global’s argument fails, however, regarding the viability of Aerojet’s 
+21  unlawfulness claim as predicated on the alleged violation of Global’s common law duty to act in 
+22  good faith.  “Conduct that violates obligations imposed by common law [can] also be sufficient to 
+23  support a UCL claim under the unlawful prong.”  Shelton v. Ocwen Loan Servicing, LLC, No. 18-
+24  CV-02467-AJB-WVG, </pre><span class="citation no-link">2019 WL 4747669</span><pre class="inline">, at *10 (S.D. Cal. Sept. 30, 2019) (citing Newton v. 
+25  Am. Debt Servs., Inc., </pre><span class="citation" data-id="7229056"><a href="/opinion/7311152/newton-v-american-debt-services-inc/#1058" aria-description="Citation for case: Newton v. American Debt Services, Inc.">75 F. Supp. 3d 1048, 1058</a></span><pre class="inline"> (N.D. Cal. 2014)); Zhang, </pre><span class="citation" data-id="1036210"><a href="/opinion/1036210/zhang-v-superior-court/" aria-description="Citation for case: Zhang v. Superior Court">57 Cal. 4th at 380</a></span><pre class="inline"> 
+26  (“[B]ad faith insurance practices may qualify as any of the three statutory forms of unfair 
+27                                                                        
+        3 Insurance Code section 790 et seq. is commonly known as the Unfair Insurance Practices 
+28  Act or “UIPA.”  See Zhang, </pre><span class="citation" data-id="1036210"><a href="/opinion/1036210/zhang-v-superior-court/#368" aria-description="Citation for case: Zhang v. Superior Court">57 Cal. 4th at 368</a></span><pre class="inline">.                        
+1  competition.”).  “For a breach of contract to be the basis of a UCL claim, the breaching conduct 
+2  must also constitute conduct that is unlawful, unfair, or fraudulent.”  Shelton, </pre><span class="citation no-link">2019 WL 4747669</span><pre class="inline">, 
+3  at *10.  In other words, a breach of contract claim alone is an insufficient predicate for an 
+4  “unlawfulness” prong claim, Shroyer v. New Cingular Wireless Servs., Inc., </pre><span class="citation" data-id="175568"><a href="/opinion/175568/shroyer-v-new-cingular-wireless-services-inc/" aria-description="Citation for case: Shroyer v. New Cingular Wireless Services, Inc.">622 F.3d 1035</a></span><pre class="inline">, 1044 
+5  (9th Cir. 2010); however, that same breach of contract claim may possibly state a claim under the 
+6  UCL’s “unlawfulness” prong if flanked by allegations the conduct is also unlawful, unfair or 
+7  fraudulent, </pre><span class="citation" data-id="175568"><a href="/opinion/175568/shroyer-v-new-cingular-wireless-services-inc/" aria-description="Citation for case: Shroyer v. New Cingular Wireless Services, Inc.">id.</a></span><pre class="inline"> (citing approvingly Nat’l Rural Telecomms. Coop. v. DIRECTV, Inc., 319 
+</pre><span class="citation" data-id="2576704"><a href="/opinion/2576704/popovits-v-circuit-city-stores-inc/" aria-description="Citation for case: Popovits v. Circuit City Stores, Inc.">8  F. Supp. 2d 1059</a></span><pre class="inline">, 1074–75 (C.D. Cal.2003) (violation of common law can support § 17200 claim, 
+9  provided offending conduct is also unlawful, unfair or fraudulent)).  
+10            Here, Aerojet sufficiently alleges conduct beyond the breach of contract itself, 
+11  with the specificity required by Rule 9(b), to plead that Global has violated its duty of good faith 
+12  and fair dealing.  See SAC ¶  69 (“Defendants unfairly, unreasonably, and without proper cause, 
+13  breached . . . their obligation to act fairly and in good faith” by “failing to indemnify Aerojet 
+14  under the Policies and reimburse all losses sustained . . . failing to conduct reasonable, prompt 
+15  and unbiased investigations . . . failing to communicate . . . refusing to make timely payments . . . 
+16  adopting unreasonable coverage-limiting interpretations . . . misrepresenting its coverage 
+17  obligations . . . [and] [t]aking [these] actions . . . to force Aerojet to forego benefits to which it is 
+18  entitled[.]”).  In the insurance context, failure to operate in good faith is an unlawful practice.  See 
+19  Benavides v. State Farm Gen. Ins. Co., </pre><span class="citation" data-id="2281022"><a href="/opinion/2281022/benavides-v-state-farm-general-ins-co/#1249" aria-description="Citation for case: Benavides v. State Farm General Ins. Co.">136 Cal. App. 4th 1241, 1249</a></span><pre class="inline"> (2006) (“In addition to the 
+20  duties imposed on the contracting parties by the express terms of their [insuring] agreement, the 
+21  law implies in every contract a covenant of good faith and fair dealing.”).  Here, Aerojet’s 
+22  allegations suggest more than a simple breach of contract; they suggest Global is engaged in the 
+23  practice of avoiding its obligations under the policies it issues, and does so at the expense of the 
+24  parties with which it contracts.                                      
+25            Aerojet’s “unlawful” UCL claim survives because it alleges, with adequate 
+26  specificity, that Global breached its duty of good faith and fair dealing.   
+27                                                                        
+28                                                                        
+1            3.   Viability of Aerojet’s Claims Under “Unfair” Prong     
+2            Global contends Aerojet’s allegations are insufficient under the UCL’s “unfair”
+3  prong because Aerojet “has not alleged that Defendants’ actions violated a public policy, nor has 
+4  it tied its claim of unfairness to any antitrust law, constitutional or statutory provision, or 
+5  regulation carrying out such a statutory policy.”  Mot. at 8.  In opposition, Aerojet contends it 
+6  “plead[s] facts, and Global produced evidence in discovery, showing Defendants [sic] engaged in 
+7  unfair conduct.”  Opp’n at 8.                                         
+8            In this respect, Global is correct.  “A business practice is unfair within the meaning 
+9  of the UCL if it violates established public policy or if it is immoral, unethical, oppressive or 
+10  unscrupulous and causes injury to consumers which outweighs its benefits.”  McKell v. Wash. 
+11  Mut., Inc., </pre><span class="citation multiple-matches"><a href="/c/Cal.%20App.%204th/142/1457/">142 Cal. App. 4th 1457</a></span><pre class="inline">, 1473 (2006).  Although California courts are divided as to 
+12  what constitutes “unfair” conduct, see Cappello v. Walmart Inc., </pre><span class="citation no-link">394 F. Supp. 3d 1015</span><pre class="inline">, 1023 
+13  (N.D. Cal. 2019) (explaining that California courts will employ either “balancing test” or 
+14  “tethering test” to determine unfair conduct), the distinction is irrelevant here given the bare 
+15  allegations in the complaint.  Aerojet’s only allegation of “unfair” conduct is that Global has 
+16  “placed their own interests ahead of their policyholder’s[.]”  SAC ¶ 71.  Aerojet’s opposition 
+17  effectively confirms the inadequacy of these allegations by pointing almost exclusively to 
+18  evidence produced during discovery, and not to allegations in the complaint itself.  See Opp’n at 
+19  8–9.  Because the court has declined to convert Global’s motion into one for summary judgment, 
+20  it does not consider the extrinsic evidence Aerojet proffers.  Aerojet’s scant allegations of 
+21  Global’s unfair practices in the second amended complaint fail to satisfy Rule 9(b)’s heightened 
+22  pleading standard; thus, Aerojet fails to state a claim under the UCL’s unfair prong.    
+23            Because the instant complaint is Aerojet’s second amended pleading,4 the court 
+24  declines to grant Aerojet further leave to amend in order to adequately plead an unfair practice 
+25  claim under the UCL.  See Foman v. Davis, </pre><span class="citation" data-id="106497"><a href="/opinion/106497/foman-v-davis/#182" aria-description="Citation for case: Foman v. Davis">371 U.S. 178, 182</a></span><pre class="inline"> (1962); Grecia v. VUDU, Inc., No. 
+26  C-14-0775-EMC, </pre><span class="citation no-link">2015 WL 538486</span><pre class="inline">, at *10 (N.D. Cal. Feb. 9, 2015) (denying leave to amend
+27                                                                        
+        4 The original complaint appears at ECF No. 1, and the first amended complaint at ECF 
+28  No. 59.                                                               
+1  where plaintiff “had ample opportunity over many months to allege a sufficiently pled claim. . . . 
+2  yet [failed] to do so”).                                              
+3            4.   Viability of Aerojet’s Claim Under “Fraudulent” Prong  
+4            Finally, Global argues Aerojet’s allegations do not state a claim under the UCL’s
+5  “fraudulent” prong because they lack the “who, what, when, where, and how” required by Rule 
+6  9(b).  Reply at 6–7.  Aerojet contends its fraud-based allegations are sufficiently pled, and here as 
+7  well points to additional facts revealed through discovery, particularly through the deposition of 
+8  Scott Ross, Global’s underwriter, to support its fraudulent-prong claim under the UCL.  Opp’n at 
+9  9–10 (citing SAC ¶ 73; Ross Dep., Ex. D, ECF No. 250-1).  Here again, Global is correct.  
+10            “To state a claim under the fraudulent prong of the UCL, ‘it is necessary only to 
+11  show that members of the public are likely to be deceived’ by the business practice or advertising 
+12  at issue.”  Kowalsky v. Hewlett-Packard Co., </pre><span class="citation" data-id="2469100"><a href="/opinion/2469100/kowalsky-v-hewlett-packard-co/#1159" aria-description="Citation for case: Kowalsky v. Hewlett-Packard Co.">771 F. Supp. 2d 1156, 1159</a></span><pre class="inline"> (N.D. Cal. 2011) 
+13  (quoting In re Tobacco II Cases, </pre><span class="citation" data-id="9685293"><a href="/opinion/1801796/in-re-tobacco-ii-cases/#312" aria-description="Citation for case: In Re Tobacco II Cases">46 Cal. 4th 298, 312</a></span><pre class="inline"> (2009)).  There can be a violation without 
+14  “actual deception, reasonable reliance and damage.”  Daugherty v. American Honda Motor Co., 
+15  Inc., </pre><span class="citation" data-id="2290504"><a href="/opinion/2290504/daugherty-v-american-honda-motor-co-inc/#838" aria-description="Citation for case: Daugherty v. American Honda Motor Co., Inc.">144 Cal. App. 4th 824, 838</a></span><pre class="inline"> (2006).  Still, in “alleging fraud or mistake, a party must state 
+16  with particularity the circumstances constituting fraud or mistake.  Plaintiffs must include an 
+17  account of the time, place, and specific content of the false representations at issue.  Additionally, 
+18  a plaintiff stating a claim under the ‘fraud’ prong must plead actual reliance.”  In re Anthem, Inc. 
+19  Data Breach Litig., No. 15-MD-02617-LHK, </pre><span class="citation no-link">2016 WL 3029783</span><pre class="inline">, at *34 (N.D. Cal. May 27, 
+20  2016) (citations omitted).                                            
+21            In the second amended complaint, Aerojet alleges “Global’s conduct . . . 
+22  constituted an intentional misrepresentation and concealment of material facts known to 
+23  Defendants, all with the intent to deprive Aerojet of property [and] legal rights . . . such as to 
+24  constitute malice, oppression and/or fraud.”  SAC ¶ 73.  Aerojet also alleges Global 
+25  “misrepresented their coverage obligations under the Policies and consciously disregarded 
+26  Aerojet’s rights . . . to which it is entitled under the Policies.”  </pre><span class="citation no-link">Id.</span><pre class="inline">  While these allegations, 
+27  identified by Aerojet in its opposition, see Opp’n at 9, signal fraud, they do not provide the 
+28  specificity required by Rule 9(b).  The complaint does allege Global was “[m]isrepresenting its 
+1  coverage obligations under the Policies,” but does not specifically state what obligations were 
+2  misrepresented, through whom the misrepresentations were made, or the manner in which Aerojet 
+3  actually relied on the alleged misrepresentations.  While the complaint suggests Aerojet agreed to 
+4  settle the pending Orbital dispute because it expected indemnification through the Global policy, 
+5  these allegations do not point to any material representation upon which Aerojet relied.  See SAC 
+6  ¶¶ 44–53.  If anything, the complaint suggests the opposite, saying Global consented to the 
+7  Aerojet-Orbital settlement, “while reserving its right to deny coverage.”  Id. ¶ 46.  Even 
+8  interpreting these allegations in the light most favorable to Aerojet, as the court must, they do not 
+9  meet the particularity demands of Rule 9(b).  Aerojet cannot fill the gaps in its complaint by 
+10  pointing to statements by Global’s underwriter, Scott Ross, during his deposition.     
+11            These allegations, as pled, do not satisfy the “who, what, when, where, and how” 
+12  under Rule 9(b); therefore, the court dismisses the “fraudulent” prong of Aerojet’s UCL claim.  
+13  As with the “unfairness” prong of Aerojet’s UCL claim, given Aerojet’s prior opportunities to 
+14  amend, the court does not grant Aerojet a further opportunity to amend this claim. 
+15            In sum, the court GRANTS Global’s motion for judgment on the pleadings, 
+16  without leave to amend, as to the “unfair” and “fraudulent” prongs of Aerojet’s UCL claim, and 
+17  DENIES the motion as to the “unlawful” prong.  The court also DENIES the motion to the extent 
+18  Global contends Aerojet is precluded from seeking equitable remedies here.    
+19  IV.  CONCLUSION                                                       
+20            For the reasons stated above, defendants’ motion for judgment on the pleadings, 
+21  ECF No. 234, is GRANTED in part and DENIED in part.  Plaintiff may proceed on its UCL 
+22  claim under the “unlawful” prong, but its claims under the “unfair” and “fraudulent” prongs are 
+23  dismissed.                                                            
+24            IT IS SO ORDERED.                                           
+25  DATED:  July 9, 2020.                                                 
+26                                                                        
+27                                                                        
+28                                                                        </pre>

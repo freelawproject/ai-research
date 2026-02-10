@@ -1,0 +1,776 @@
+<pre class="inline">          IN THE UNITED STATES DISTRICT COURT                         
+         FOR THE NORTHERN DISTRICT OF GEORGIA                         
+                    ATLANTA DIVISION                                  
+
+
+TERI CALLEN                                                           
+on behalf of herself and all others                                   
+similarly situated                                                    
+formerly known as                                                     
+Teri Kimball-Callen Stomski,                                          
+
+     Plaintiff,                                                       
+
+          v.                     CIVIL ACTION FILE                    
+                                 NO. 1:19-CV-1411-TWT                 
+
+
+DAIMLER AG, et al.,                                                   
+
+     Defendants.                                                      
+
+                   OPINION AND ORDER                                  
+   This  is  a  breach  of  contract  action.  It  is  before  the  Court  on  the 
+Defendants’  Motion  to  Dismiss  [Doc.  61]  the  Plaintiffs’  Second  Amended 
+Complaint [Doc. 59]. For the reasons set forth below, the Defendants’ Motion 
+to Dismiss [Doc. 61] is GRANTED in part and DENIED in part.             
+                     I.  Background                                   
+ The  Plaintiffs  are  13  individuals  who  bring  this  putative  class  action 
+against Defendants Daimler AG (“Daimler”) and Mercedes Benz USA, LLC    
+(“Mercedes”) for breach of warranty and deceptive trade practices involving the 
+interior wood trim of the Defendants’ vehicles. (Second Am. Compl. ¶¶ 1–2.) 
+This motion concerns the Plaintiffs’ Second Amended Complaint, which was 
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+filed after the Court dismissed several of their claims in a June 17, 2020 Order 
+(“June 17 Order”).                , No. 1:19-CV-1411-TWT, </pre><span class="citation no-link">2020 WL       
+10090879</span><pre class="inline"> (N.D. Ga. June 17, 2020). The Second Amended Complaint adds nine 
+
+new  Plaintiffs  to  the  original  four  but  otherwise  reincorporates  the  same 
+factual allegations regarding the premature fading and discoloration of the 
+wood trim, the affected vehicle model and years (“Class Vehicle”), and the 
+Defendants’ knowledge and concealment of the defect.1 ( , Second        
+Am. Compl. ¶¶ 1–16, 54–73,  First Am. Compl. ¶¶ 1–16, 45–64.) The Court 
+summarized these allegations in detail in the June 17 Order.  Callen, </pre><span class="citation no-link">2020 
+
+WL 10090879</span><pre class="inline">, at *1–4.                                                   
+   Like  the  original  Plaintiffs,  the  new  Plaintiffs  bring  several  state 
+
+
+   1 The following are the new Plaintiffs added in the Second Amended 
+Complaint: Plaintiff Figueroa is a resident and citizen of Ohio who purchased 
+his Class Vehicle from an authorized Mercedes dealership in Ohio. (Second 
+Am. Compl. ¶ 21.) Plaintiff Scudder is a resident and citizen of Florida who 
+purchased his Class Vehicle from a private seller in Florida. (  ¶ 22.) Plaintiff 
+Fulmer is a resident and citizen of Georgia who purchased her Class Vehicle 
+from  an  authorized  Mercedes  dealership  in  Georgia.  (   ¶  23.)  Plaintiff 
+Rosenfeld is a resident and citizen of Nebraska who purchased his Class 
+Vehicle  from  a  third-party  dealership  in  Nebraska.  ( ¶  24.)  Plaintiff 
+Armstrong is a resident and citizen of Missouri who purchased her Class 
+Vehicle from an authorized Mercedes dealership in Texas. (  ¶ 25.) Plaintiff 
+Hunter is a resident and citizen of California who purchased his Class Vehicle 
+from an authorized Mercedes dealership in California. (  ¶ 26.) Plaintiff Hall 
+is a resident and citizen of Texas who purchased his Class Vehicle from an 
+authorized Mercedes dealership in Texas. ( ¶ 27.) Plaintiff Farrow is a 
+resident and citizen of Maryland who purchased his Class Vehicle from an 
+authorized Mercedes dealership in Maryland. ( ¶ 28.) And Plaintiff Acunto 
+is a resident and citizen of New York who purchased his Class Vehicle online 
+from a third-party dealership in Tennessee. ( ¶¶ 29, 318.)              
+                            2                                         
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+common  law  and  consumer  protection  act  claims  and  a  federal  breach  of 
+warranty claim on behalf of (1) themselves, (2) a national class of all consumers 
+who have ever owned or leased a Class Vehicle, and (3) subclasses of consumers 
+
+who have ever owned or leased a Class Vehicle in the states where the named 
+Plaintiffs reside or purchased their Class Vehicles. (Second Am. Compl. ¶ 411.) 
+The Defendants move to dismiss a number of these claims under Federal Rules 
+of Civil Procedure 12(b)(1) and 12(b)(6). In particular, the Defendants contend 
+that  the  new  Plaintiffs’  breach  of  express  warranty,  breach  of  implied 
+warranty,  violation  of  the  Magnuson-Moss  Warranty  Act,  and  unjust 
+
+enrichment claims fail because the Court already dismissed these claims as to 
+the  original  Plaintiffs.  The  Defendants  also  argue  that  no  Plaintiff  has 
+standing to bring any claims on behalf of a national class; some of Plaintiff 
+Hunter’s claims are time barred under California law; Plaintiffs Scudder, 
+Acunto, and Hunter fail to allege fraudulent concealment claims; and Plaintiffs 
+Fulmer,  Armstrong,  Acunto,  and  Hunter  fail  to  allege  state  consumer 
+protection act claims.                                                  
+
+                   II.  Legal Standard                                
+   A complaint should be dismissed under Rule 12(b)(1) only where the 
+court lacks jurisdiction over the subject matter of the dispute. Fed. R. Civ. P. 
+12(b)(1). “Because a federal court is powerless to act beyond its statutory grant 
+of subject matter jurisdiction, a court must zealously insure that jurisdiction 
+exists over a case[.]”         , </pre><span class="citation multiple-matches"><a href="/c/F.3d/236/1292/">236 F.3d 1292</a></span><pre class="inline">, 1299 (11th Cir. 2001).  
+                            3                                         
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+Attacks on subject matter jurisdiction come in two forms: “facial attacks” and 
+“factual attacks.”                                  , </pre><span class="citation" data-id="733352"><a href="/opinion/733352/luis-e-garcia-md-v-copenhaver-bell-associates-mds-pa/#1260" aria-description="Citation for case: Luis E. Garcia, M.D. v. Copenhaver, Bell &amp; Associates,...">104 F.3d          
+1256, 1260</a></span><pre class="inline"> (11th Cir. 1997). Facial attacks on the complaint “require the court 
+
+merely to look and see if the plaintiff has sufficiently alleged a basis of subject 
+matter jurisdiction, and the allegations in his complaint are taken as true for 
+the purposes of the motion.”   at 1261 (internal quotation marks, citation, 
+and punctuation omitted). On a facial attack, therefore, “a plaintiff is afforded 
+safeguards similar to those provided in opposing a Rule 12(b)(6) motion[.]” 
+              , </pre><span class="citation" data-id="552261"><a href="/opinion/552261/dolcie-lawrence-v-peter-dunbar-united-states-of-america/#1529" aria-description="Citation for case: Dolcie Lawrence v. Peter Dunbar, United States of America">919 F.2d 1525, 1529</a></span><pre class="inline"> (11th Cir. 1990).                 
+
+   A complaint should be dismissed under Rule 12(b)(6) only where it  
+appears that the facts alleged fail to state a “plausible” claim for relief.
+    , </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#1949" aria-description="Citation for case: Ashcroft v. Iqbal">129 S. Ct. 1937, 1949</a></span><pre class="inline"> (2009); Fed. R. Civ. P. 12(b)(6). A complaint may 
+survive a motion to dismiss for failure to state a claim even if it is “improbable” 
+that a plaintiff would be able to prove those facts; even if the possibility of 
+recovery is extremely “remote and unlikely.”            , </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#556" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550           
+U.S. 544, 556</a></span><pre class="inline"> (2007). In ruling on a motion to dismiss, the court must accept 
+
+the facts pleaded in the complaint as true and construe them in the light most 
+favorable to the plaintiff.                                             
+                     , </pre><span class="citation" data-id="421226"><a href="/opinion/421226/quality-foods-de-centro-america-sa-and-duroparts-de-el-salvador-sa-v/" aria-description="Citation for case: Quality Foods De Centro America, S.A. And Duroparts De El...">711 F.2d 989</a></span><pre class="inline">, 994–95 (11th Cir. 1983);         
+                                         , </pre><span class="citation" data-id="682480"><a href="/opinion/682480/rafael-sanjuan-and-marcello-a-maviglia-v-the-american-board-of-psychiatry/#251" aria-description="Citation for case: Rafael Sanjuan and Marcello A. Maviglia v. The American...">40 F.3d 247, 251</a></span><pre class="inline"> (7th      
+Cir. 1994) (noting that at the pleading stage, the plaintiff “receives the benefit 
+of imagination”). Generally, notice pleading is all that is required for a valid 
+                            4                                         
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+complaint.                            , </pre><span class="citation" data-id="447053"><a href="/opinion/447053/lombards-inc-v-prince-manufacturing-inc-and-chesebrough-ponds-inc/#975" aria-description="Citation for case: Lombard&#x27;s, Inc. v. Prince Manufacturing, Inc. And...">753 F.2d 974, 975</a></span><pre class="inline"> (11th Cir.    
+1985),         , </pre><span class="citation multiple-matches"><a href="/c/U.S./474/1082/">474 U.S. 1082</a></span><pre class="inline"> (1986). Under notice pleading, the plaintiff 
+need only give the defendant fair notice of the plaintiff’s claim and the grounds 
+
+upon which it rests.              , </pre><span class="citation" data-id="9435053"><a href="/opinion/145722/erickson-v-pardus/#93" aria-description="Citation for case: Erickson v. Pardus">551 U.S. 89, 93</a></span><pre class="inline"> (2007).             
+                    III.  Discussion                                  
+   A. Breach  of  Express  Warranty  (Count  One),  Breach  of  Implied 
+      Warranty (Count Two), Violation of the Magnuson-Moss Warranty   
+      Act (Count Four), and Unjust Enrichment (Count Five)            
+   At the outset, the Parties agree that the previously dismissed claims of 
+Plaintiffs Callen, Collier, Finkenauer, and Burton fail for the same reasons set 
+forth in the June 17 Order. (Defs.’ Br. in Supp. of Defs.’ Mot. to Dismiss, at 7–
+8; Pls.’ Br. in Opp’n to Defs.’ Mot. to Dismiss, at 5–6.) These include Plaintiffs 
+Callen’s,  Collier’s,  Finkenauer’s,  and  Burton’s  express  warranty,  implied 
+warranty,  Magnuson-Moss  Warranty  Act,  and  unjust  enrichment  claims; 
+Plaintiffs  Collier’s  and  Finkenauer’s  fraudulent  concealment  claims;  and 
+certain of Plaintiffs Callen’s, Collier’s, and Burton’s state consumer protection 
+act claims.   , </pre><span class="citation no-link">2020 WL 10090879</span><pre class="inline">, at *25–26.While the new Plaintiffs also 
+
+bring express warranty, implied warranty, Magnuson-Moss Warranty Act, and 
+unjust enrichment claims, they concede that “the factual allegations and law” 
+applicable to these claims (except Plaintiff Hunter’s unjust enrichment claim) 
+“are substantively the same as for original Plaintiffs.” (Pls.’ Br. in Opp’n to 
+Defs.’ Mot. to Dismiss, at 6.) Therefore, the Court grants the motion to dismiss 
+with  respect  to  each  of  these  claims—except  Plaintiff  Hunter’s  unjust 
+                            5                                         
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+enrichment claim, which the Court addresses separately below.           
+   The Court dismissed the original Plaintiffs’ unjust enrichment claims 
+due to the existence of express warranties between the Parties.  ,      
+
+</pre><span class="citation no-link">2020 WL 10090879</span><pre class="inline">, at *13. Plaintiff Hunter contends that this holding should 
+not apply to his unjust enrichment claim because, under California law, the 
+Defendants’ alleged pre-sale conduct falls outside the scope of the warranties. 
+(Pls.’ Br. in Opp’n to Defs.’ Mot. to Dismiss, at 9.) This argument hinges on 
+                                     , </pre><span class="citation no-link">393 F. Supp. 3d 871</span><pre class="inline">, 881–      
+82 (N.D. Cal. 2019), which declined to dismiss an unjust enrichment claim 
+
+based on “GM concealing the fuel pump defect before Plaintiffs purchased their 
+vehicles.” However,              does not disturb the general rule in   
+California that “[u]njust enrichment cannot lie where a valid express contract 
+covering  the  same  subject  matter  exists  between  the  parties.”   
+              , No. SACV 15-2052-DOC (KESx), </pre><span class="citation no-link">2016 WL 7507766</span><pre class="inline">, at *5   
+(C.D. Cal. Nov. 21, 2016) (citation and punctuation omitted) (collecting cases). 
+In the June 17 Order, the Court found that this rule barred the original 
+
+Plaintiffs’  unjust  enrichment  claims  because  they  involved  “the  same 
+allegations underlying their breach of express warranty claims.”  , </pre><span class="citation no-link">2020 
+WL 10090879</span><pre class="inline">, at *13. Plaintiff Hunter does not explain why this holding 
+should not extend to his claim, which is identically pleaded in the same count 
+as the others. (Second Am. Compl. ¶¶ 449–56.) Therefore, the Court grants the 
+motion to dismiss with respect to Plaintiff Hunter’s unjust enrichment claim.  
+                            6                                         
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+   B. Standing to Represent a National Class                          
+   “[I]t is well-settled that prior to the certification of a class . . . the district 
+court must determine that at least one named class representative has Article 
+
+III standing to raise each class subclaim.”                 ,           
+</pre><span class="citation multiple-matches"><a href="/c/F.3d/221/1266/">221 F.3d 1266</a></span><pre class="inline">, 1279 (11th Cir. 2000). “It is not enough that a named plaintiff 
+can establish a case or controversy between himself and the defendant by 
+virtue of having standing as to one of many claims he wishes to assert.”   at 
+1280. “Rather, each claim must be analyzed separately, and a claim cannot be 
+asserted on behalf of a class unless at least one named plaintiff has suffered 
+
+the injury that gives rise to that claim.”  (quotation marks and citation 
+omitted). Following  , “named plaintiffs in class actions have, time and 
+again, been prohibited from asserting claims under a state law other than that 
+which the plaintiff’s own claim arises.”         , No. 17-61150,        
+</pre><span class="citation no-link">2018 WL 8300534</span><pre class="inline">, at *6 (S.D. Fla. Mar. 28, 2018). Because standing is a 
+threshold issue, courts in this circuit routinely resolve it on a motion to dismiss, 
+rather than waiting for class certification.                            
+
+  , </pre><span class="citation no-link">2021 WL 1216897</span><pre class="inline">, at *6 (S.D. Fla. Mar. 30, 2021) (collecting cases).  
+   The Defendants urge the Court to apply   to dismiss all of the     
+Plaintiffs’ claims brought on behalf of out-of-state class members: specifically, 
+their  express  warranty,  implied  warranty,  equitable and  injunctive  relief, 
+fraud and suppression, and unjust enrichment claims. (Defs.’ Br. in Supp. of 
+Defs.’  Mot.  to  Dismiss,  at  6.)  As  explained  above,  the  Court  has  already 
+                            7                                         
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+dismissed the express warranty, implied warranty, and unjust enrichment 
+claims pursuant to the June 17 Order. The fraud and suppression claim,  
+meanwhile, is pleaded only on behalf of state subclasses, so the Court need not 
+
+address the Plaintiffs’ standing to represent a national class on this claim. 
+(Second Am. Compl. ¶ 457.) The only remaining question then is whether any 
+Plaintiff has standing to bring a nationwide claim for equitable and injunctive 
+relief. Plaintiff Fulmer contends that she does because she resides in the same 
+state (Georgia) as the Defendants.2 (Pls.’ Br. in Opp’n to Defs.’ Mot. to Dismiss, 
+at 4.) The Court disagrees.                                             
+
+   Plaintiff Fulmer relies on the purported principle that “[t]he law of a 
+single state is appropriately applied to the claims of all class members if that 
+state is the defendant’s headquarters or principal place of business.” ( )Even 
+if this principle were valid, none of her cited authorities addresses Article III 
+standing,  so  the  Court  instead  follows  the  on-point  and  in-circuit 
+decision.  (  )  Though  styled  as  a  separate  cause  of  action,  Plaintiff 
+Fulmer’s equitable and injunctive relief claim is really “a remedy potentially 
+
+available only after . . . showing that some independent legal right is being 
+
+   2 On this same basis, Plaintiff Fulmer also argues that she has standing 
+to  bring  her  fraud  and  suppression,  Georgia  Fair  Business  Practices  Act 
+(“GFBPA”), and Georgia Uniform Deceptive Trade Practices Act (“GUDTPA”) 
+claims on behalf of a national class. (Pls.’ Br. in Opp’n to Defs.’ Mot. to Dismiss, 
+at 4.) However, because she has pleaded these claims only on behalf of herself 
+and the Georgia subclass, the Court rejects her post hoc attempt to expand 
+their geographic reach. (Second Am. Compl. ¶¶ 457, 597, 615.)           
+                            8                                         
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+infringed[.]”                       , </pre><span class="citation" data-id="76607"><a href="/opinion/76607/klay-v-united-healthgroup-inc/#1098" aria-description="Citation for case: Klay v. United Healthgroup, Inc.">376 F.3d 1092, 1098</a></span><pre class="inline"> (11th Cir.    
+2004). In other words, there must be an underlying claim on which to base her 
+request for equitable and injunctive relief.                            
+
+               ,  </pre><span class="citation" data-id="1798342"><a href="/opinion/1798342/pierson-v-orlando-regional-healthcare-systems-inc/#1289" aria-description="Citation for case: Pierson v. Orlando Regional Healthcare Systems, Inc.">619  F.  Supp.  2d  1260,  1289</a></span><pre class="inline">  (M.D.  Fla.  2009).  But 
+Plaintiff  Fulmer  “does  not  claim  a  legal  injury  in  any  state  other  than 
+[Georgia], nor does [s]he allege an injury that arises under the laws of any 
+other state.”    , </pre><span class="citation no-link">2018 WL 8300534</span><pre class="inline">, at *6. It follows then that she cannot 
+seek  equitable  and  injunctive  relief  individually—or  on  behalf  of  class 
+members—under the laws of any other state.  , </pre><span class="citation no-link">2021 WL 1216897</span><pre class="inline">, at       
+
+*7  (residents  of  four  states  lacked  standing  to  bring  a  nationwide  unjust 
+enrichment claim since it “is, in reality, fifty . . . claims—one for each state”). 
+Therefore, the Court grants the motion to dismiss with respect to the Plaintiffs’ 
+nationwide claim for equitable and injunctive relief.3                  
+   C. Plaintiff Hunter’s Claims for Fraud and Suppression (Count Six) and 
+      Violation of California Unfair Competition Law (Count Nineteen), 
+      California False Advertising Law (Count Twenty), and California 
+      Consumers Legal Remedies Act (Count Twenty-One)                 
+   The Defendants argue that Plaintiff Hunter’s fraud and suppression and 
+California consumer protection act claims are barred under the applicable 
+three- and four-year statutes of limitations.4 (Defs.’ Br. in Supp. of Defs.’ Mot. 
+
+   3 Under  this  holding,  the  Plaintiffs  may  still  pursue  equitable  and 
+injunctive relief individually and on behalf of state subclasses.       
+   4 Under California law, there is a four-year statute of limitations to 
+bring Unfair Competition Law (“UCL”) claims and a three-year statute of 
+limitations to bring fraud, Consumers Legal Remedies Act (“CLRA”), and False 
+                            9                                         
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+to Dismiss, at 14.) According to the Defendants, these limitations periods 
+began to run when Plaintiff Hunter first noticed fading and cloudiness to his 
+vehicle’s wood trim in late-2016, and his lawsuit filed more than four years 
+
+later in March 2021 is thus untimely. (  at 14–15.) Plaintiff Hunter does not 
+contest the relevance of these statutes of limitations but rather invokes the 
+discovery rule, which “postpones accrual of a claim until the plaintiff discovers, 
+or has reason to discover, the cause of action.”                        
+   , </pre><span class="citation" data-id="1199775"><a href="/opinion/1199775/clemens-v-daimlerchrysler-corp/#1024" aria-description="Citation for case: Clemens v. DaimlerChrysler Corp.">534 F.3d 1017, 1024</a></span><pre class="inline"> (9th Cir. 2008) (quotation marks and citation 
+omitted). In Plaintiff Hunter’s view, he did not discover the purported defect 
+
+until mid-2018 at the earliest, when he realized that polish alone would not 
+correct the faded, cloudy finish of his trim. (Pls.’ Br. in Opp’n to Defs.’ Mot. to 
+Dismiss, at 7–8.) If valid, this date would put his claims within even the shorter 
+three-year limitations period.                                          
+   “Under the discovery rule, a plaintiff seeking to avoid the statute of 
+limitations must plead with particularity facts showing the plaintiff&#x27;s inability 
+to have made earlier discovery despite reasonable diligence.”  , </pre><span class="citation no-link">2019 WL 
+
+2304157</span><pre class="inline">, at *12 (quotation marks and citation omitted). A special standard 
+applies to cases of fraudulent concealment:                             
+   In these cases, the plaintiff must show: (1) when the fraud was    
+   discovered; (2) the circumstances under which it was discovered;   
+   and (3) that the plaintiff was not at fault for failing to discover it 
+
+Advertising Law (“FAL”) claims.                   , No. 2:16-cv-        
+05769-CAS(PJWx), </pre><span class="citation no-link">2019 WL 2304157</span><pre class="inline">, at *11 (C.D. Cal. May 29, 2019);      
+               , </pre><span class="citation" data-id="2469946"><a href="/opinion/2469946/yumul-v-smart-balance-inc/#1130" aria-description="Citation for case: Yumul v. Smart Balance, Inc.">733 F. Supp. 2d 1117, 1130</a></span><pre class="inline"> (C.D. Cal. 2010).         
+                            10                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+   or had no actual or presumptive knowledge of facts sufficient to   
+   put him on inquiry. A plaintiff must affirmatively excuse his      
+   failure to discover the fraud within three years by showing that   
+   he was not negligent in failing to make the discovery sooner and   
+   that he had no actual or presumptive knowledge of facts sufficient 
+   to put him on inquiry.                                             
+     , </pre><span class="citation" data-id="1199775"><a href="/opinion/1199775/clemens-v-daimlerchrysler-corp/#1024" aria-description="Citation for case: Clemens v. DaimlerChrysler Corp.">534 F.3d at 1024</a></span><pre class="inline"> (quotation marks and citations omitted). “[O]nce 
+properly pleaded, belated discovery is a question of fact”; however, “whenever 
+reasonable minds can draw only one conclusion from the evidence, the question 
+becomes one of law.”                          , </pre><span class="citation multiple-matches"><a href="/c/Cal.%20App.%204th/153/1308/">153 Cal. App. 4th       
+1308</a></span><pre class="inline">, 1320 (2007) (quotation marks and citations omitted).              
+   The Court finds that Plaintiff Hunter has pleaded specific facts that 
+could support more than one legitimate inference about when he discovered 
+the trim defect. According to the Second Amended Complaint, Plaintiff Hunter 
+“first noticed . . . some slight fading and cloudiness to the [trim]” in late-2016 
+but “assumed this [trim] was due to be polished” (Second Am. Compl. ¶ 267); 
+he  has  no  “expertise  or  special  skill  in  automobile  interior  trim  or 
+manufacturing of the same” ( ¶ 264); he “generally . . . does not drive his car 
+during daylight hours, such that he was able to see the trim in clear sunlight” 
+(   ¶ 268); he “began to suspect that the [trim] needed more than polishing 
+and had greater problems sometime in mid-2018” (  ¶ 270); and “in early 
+November 2019, [he] realized the [trim] was prematurely fading, and growing 
+
+cloudy.” (  ¶ 270.) Taken together, these allegations raise fact questions as to 
+when  Plaintiff  Hunter  discovered  the  trim  defect  and  whether  he  had 
+                            11                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+knowledge sufficient to put him on inquiry sooner.  , </pre><span class="citation" data-id="1199775"><a href="/opinion/1199775/clemens-v-daimlerchrysler-corp/#1024" aria-description="Citation for case: Clemens v. DaimlerChrysler Corp.">534 F.3d at       
+1024</a></span><pre class="inline">. Therefore, the Court denies the motion to dismiss with respect to the 
+timeliness of Plaintiff Hunter’s fraud and suppression, UCL, FAL, and CLRA 
+
+claims.                                                                 
+   D. Fraud and Suppression (Count Six)                               
+   Though  styled  as  a  single  fraud  and  suppression  claim,  the  new 
+Plaintiffs  bring  “intertwined  but  distinct  claims  for  fraudulent 
+misrepresentation and fraudulent concealment in Count Six” of the Second 
+Amended Complaint.    , </pre><span class="citation no-link">2020 WL 10090879</span><pre class="inline">, at *15. (Second Am. Compl.    
+
+¶¶ 457–71.) The Defendants move to dismiss only the fraudulent concealment 
+claim and only as to Plaintiffs Scudder, Acunto, and Hunter on the grounds 
+that (1) Plaintiffs Scudder and Acunto fail to allege facts showing a duty to 
+disclose; (2) Plaintiff Hunter fails to allege facts showing the alleged trim defect 
+presents an unreasonable safety hazard or affects the central function of his 
+vehicle;  and  (3)  the  economic  loss  doctrine  bars  Plaintiffs  Hunter’s  and 
+Scudder’s claims. (Defs.’ Br. in Supp. of Defs.’ Mot. to Dismiss, at 18; Reply Br. 
+
+in Supp. of Defs.’ Mot. to Dismiss, at 14 n.7.) The Court considers each of these 
+arguments in turn.                                                      
+        1.  Failure to Allege a Duty to Disclose                      
+   The Defendants argue that Plaintiffs Scudder’s and Acunto’s fraudulent 
+concealment claims fail because they do not allege a relationship with the 
+Defendants that could create a duty to disclose. In Plaintiffs Scudder and 
+                            12                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+Acunto’s view, such a duty arises here based on the Defendants’ (1) active 
+concealment of the purported trim defect or (2) partial representations about 
+the wood trim without providing the entire truth. (Pls.’ Br. in Opp’n to Defs.’ 
+
+Mot. to Dismiss, at 24–25, 28–30.) However, Plaintiffs Scudder and Acunto 
+purchased their vehicles from a private seller and a third-party dealership, 
+respectively (Second Am. Compl. ¶¶ 178, 318), and the Defendants insist that 
+they  could  not  have  concealed  or  represented  any  information  in  those 
+transactions. (Reply Br. in Supp. of Defs.’ Mot. to Dismiss, at 15, 17.) The Court 
+agrees with the Defendants, consistent with its prior ruling on this issue, and 
+
+thus grants the motion to dismiss with respect to Plaintiff Scudder’s and 
+Acunto’s fraudulent concealment claims.5  , </pre><span class="citation no-link">2020 WL 10090879</span><pre class="inline">, at        
+*18 (“Plaintiffs Finkenauer and Collier, who allege that they purchased their 
+Class Vehicles from a private seller and an Audi dealership, respectively, have 
+
+   5 Specifically, a claim of active concealment or partial disclosure must 
+be premised on “some conduct on the part of   or         ” in           
+an arm’s-length transaction.          , </pre><span class="citation" data-id="5681413"><a href="/opinion/5825758/jablonski-v-rapalje/#160" aria-description="Citation for case: Jablonski v. Rapalje">788 N.Y.S. 2d 158, 160</a></span><pre class="inline"> (N.Y.    
+App.  Div.  2005)  (emphasis  added);                                   
+                 ,  </pre><span class="citation" data-id="1146378"><a href="/opinion/1146378/friedman-v-american-guardian-warranty-services-inc/#1166" aria-description="Citation for case: Friedman v. American Guardian Warranty Services, Inc.">837  So.2d  1165,  1166</a></span><pre class="inline">  (Fla.  Dist.  Ct.  App.  2003) 
+(“Where                                    undertakes  to  disclose     
+information, all material facts must be disclosed.” (emphasis added)). Plaintiff 
+Scudder and Plaintiff Acunto cannot make this threshold showing because 
+neither entered into a transaction with the Defendants or the Defendants’ 
+agent. For the same reason, Plaintiff Acunto also has not pleaded a “special 
+relationship” with the Defendants under New York law sufficient to create a 
+duty to disclose.                              , No. 602510/05,         
+</pre><span class="citation no-link">2007 WL 1238596</span><pre class="inline">, at *6 (N.Y. App. Div. Apr. 10, 2007) (describing a “special 
+relationship” as “actual privity of contract between the parties or a relationship 
+so close as to approach that of privity”). ( Pls.’ Br. in Opp’n to Defs.’ Mot. 
+to Dismiss, at 30.)                                                     
+                            13                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+failed to allege that they engaged in any negotiations with the Defendants that 
+could give rise to liability for fraudulent concealment or omission.”). 
+        2.  Failure to Allege an Actionable Defect                    
+
+   The Defendants argue that Plaintiff Hunter’s fraudulent concealment 
+claim  fails  because  he  has  not  alleged  that  the  trim  defect  presents  an 
+unreasonable  safety  hazard  or  affects  the  central  function  of  his  vehicle. 
+Plaintiff Hunter fails to respond to this argument in opposition to the motion 
+to  dismiss;  rather,  he  addresses  only  whether  a  safety  hazard  or  central 
+functionality requirement applies to his UCL and CLRA claims. (  Pls.’ Br. 
+in Opp’n to Defs.’ Mot to Dismiss, at 36–40.) Therefore, the Court deems 
+
+Plaintiff Hunter’s fraudulent concealment claim abandoned and grants the 
+motion to dismiss thereon.                    , </pre><span class="citation" data-id="2525689"><a href="/opinion/2525689/kramer-v-gwinnett-county-georgia/#1221" aria-description="Citation for case: Kramer v. Gwinnett County, Georgia">306 F. Supp. 2d         
+1219, 1221</a></span><pre class="inline"> (N.D. Ga. 2004) (“[A] party’s failure to respond to any portion or 
+claim in a motion indicates such portion, claim or defense is unopposed.”); 
+                   , </pre><span class="citation" data-id="2671305"><a href="/opinion/2671305/keith-d-jones-v-bank-of-america-na/#434" aria-description="Citation for case: Keith D. Jones v. Bank of America, N.A.">564 F. App’x 432, 434</a></span><pre class="inline"> (11th Cir. 2014) (affirming 
+lower court ruling that a failure to respond to a defendant’s summary judgment 
+
+arguments against a claim indicates the claim is abandoned).            
+        3.  Economic Loss Doctrine                                    
+   The Defendants argue that the economic loss doctrine bars Plaintiffs 
+Hunter’s and Scudder’s fraudulent concealment claims. Because the Court has 
+already  dismissed  their  claims  on  separate  grounds,  the  Court  does  not 
+consider this argument.                                                 
+                            14                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+   E. Violations of State Consumer Protection Statutes                
+   The new Plaintiffs bring claims for violations of consumer protection 
+statutes in the states where they reside  and where they purchased their 
+
+vehicles. (Second Am. Compl. ¶¶ 584–749). The Defendants seek dismissal of 
+five of these claims, as discussed below. (Defs.’ Br. in Supp. of Defs.’ Mot. to 
+Dismiss, at 22–25.)                                                     
+        1.  Violation of GUDTPA (Count Sixteen)                       
+   Plaintiff Fulmer brings a claim under the GUDTPA, which prohibits  
+“deceptive trade practice[s]” such as “[r]epresent[ing] that goods or services are 
+of  a  particular  standard,  quality,  or  grade  .  .  .  if  they  are  of  another”; 
+
+“[r]epresent[ing] that goods or services have . . . characteristics . . . uses, 
+benefits, or quantities that they do not have”; “[a]dvertis[ing] goods or services 
+with intent not to sell them as advertised”; and “[e]ngaging in any other 
+conduct  which  similarly  creates  a  likelihood  of  confusion  or  of 
+misunderstanding.”  O.C.G.A.  §  10-1-372(a).  “The  [G]UDTPA  offers  only 
+injunctive relief where the plaintiff has established a likelihood of future 
+
+damage, but it does not address past harm.”                             
+   , </pre><span class="citation no-link">356 Ga. App. 776</span><pre class="inline">, 779 (2020). According to the Defendants, Plaintiff 
+Fulmer’s GUDTPA claim fails because she cannot show the requisite likelihood 
+of future injury. (Defs.’ Br. in Supp. of Defs.’ Mot. to Dismiss, at 22.) Plaintiff 
+Fulmer responds that she has pleaded ongoing and future harm, where the 
+Defendants deny the trim defect and charge for replacement trim that is as 
+                            15                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+defective as the original. (Pls.’ Br. in Opp’n to Defs.’ Mot. to Dismiss, at 33.) 
+   The Court agrees with the Defendants. Plaintiff Fulmer has not alleged 
+that she intends to purchase a Class Vehicle in the future or that she ever has 
+
+paid, or intends to pay, to replace her trim. Instead, she complains only that 
+the Defendants have “refused to repair or replace the interior wood trim of 
+[her]  vehicle”  and  that  their  response  to  her  warranty  claim  was 
+“unsatisfactory.” (Second Am. Compl. ¶¶ 213, 215, 219.) Because Plaintiff 
+Fulmer has already suffered these harms, they cannot support a claim for 
+injunctive  relief  under  the  GUDTPA.  ,                              
+
+    , No. 1:16-CV-709-TWT, </pre><span class="citation no-link">2017 WL 1062371</span><pre class="inline">, at *3 (N.D. Ga. Mar. 21,  
+2017) (dismissing a GUDTPA claim based on nearly identical allegations of 
+harm). Nor does                        , </pre><span class="citation" data-id="7247369"><a href="/opinion/7329453/amin-v-mercedes-benz-united-states-llc/" aria-description="Citation for case: Amin v. Mercedes-Benz United States, LLC">301 F. Supp. 3d 1277</a></span><pre class="inline"> (N.D.     
+Ga. 2018), help her case. The plaintiffs in  attested that “they must   
+periodically take their vehicles for service regarding the [HVAC] defect and 
+that Mercedes (1) denies the existence of the defect and (2) charges Plaintiffs 
+for non-permanent solutions.”   at 1294. These allegations, the court found, 
+
+“concern  both  ongoing  and  future  harm of  the  type  contemplated  by  [the 
+GUDTPA].”    at 1295. By contrast, even if Plaintiff Fulmer is correct that the 
+Defendants’ replacement trim is defective, there is no indication that she plans 
+to install it in her vehicle at her own expense.6 Therefore, the Court grants the 
+
+   6 The Second Amended Complaint generally states that “replacement  
+[trim] fades, discolors, and becomes cloudy just like the original trim” and that 
+                            16                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+motion to dismiss with respect to Plaintiff Fulmer’s GUDTPA claim.      
+      2.  Violation  of  Missouri  Merchandising  Practices  Act  (Count 
+        Eighteen)                                                     
+   Plaintiff Armstrong brings a claim under the Missouri Merchandising 
+Practices Act (“MMPA”), which prohibits “[t]he act, use or employment by any 
+person of any deception, fraud . . . misrepresentation . . . or the concealment, 
+suppression, or omission of any material fact in connection with the sale or 
+
+advertisement of any merchandise in trade or commerce . . . in or from the state 
+of Missouri[.]” MO. REV. STAT. § 407.020.1. The Eighth Circuit has explained 
+that, “although the MMPA covers every kind of unfair practice, a plaintiff’s 
+claim nevertheless must involve commerce in or from the state of Missouri.” 
+                  , </pre><span class="citation no-link">942 F.3d 401</span><pre class="inline">, 403 (8th Cir. 2019) (quotation marks 
+and citations omitted). The Defendants  argue that this is where Plaintiff 
+Armstrong’s MMPA claim falls short: Because she purchased her vehicle from 
+
+a dealership in Texas, she cannot allege a violation of the MMPA even though 
+she is a Missouri resident. (Defs.’ Br. in Supp. of Defs.’ Mot. to Dismiss, at 24.)  
+   The Court agrees with the Defendants. Georgia federal courts sitting in 
+diversity follow the      rule to determine what state’s law governs a  
+claim sounding in tort.                          , </pre><span class="citation" data-id="2350980"><a href="/opinion/2350980/management-science-america-inc-v-ncr-corp/#739" aria-description="Citation for case: Management Science America, Inc. v. NCR Corp.">765 F. Supp.         
+738, 739</a></span><pre class="inline"> (N.D. Ga. 1991). Under this rule, “the law of the place where the injury 
+
+
+the  Defendants  “forc[e]  Class  members  to  bear  the  cost  of  replacing  the 
+[trim][.]” (  ¶¶ 371, 383.) However, neither of these allegations specifically 
+applies to Plaintiff Fulmer and her injuries.                           
+                            17                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+occurred . . . determines the substantive rights of the parties. The law of the 
+place where the injury occurred has alternatively been referred to by Georgia 
+courts as the place where there takes place the last event necessary to make 
+
+an  actor  liable  for  an  alleged  tort.”  (quotation  marks,  citations,  and 
+punctuation  omitted).  While  Plaintiff  Armstrong  alleges  that  she  viewed 
+misleading advertisements in Missouri prior to her purchase, the economic 
+injury that gave rise to her MMPA claim occurred when she purchased her 
+vehicle in Texas.     , </pre><span class="citation no-link">2020 WL 10090879</span><pre class="inline">, at *20, 23 (applying the laws 
+of the states where the original Plaintiffs purchased their vehicles, not where 
+
+they presently reside). Therefore, the Court grants the motion to dismiss with 
+respect to Plaintiff Armstrong’s MMPA claim.                            
+      3.  Violation  of  New  York  General  Business  Law  §  349  (Count 
+        Twenty-Four)                                                  
+   Plaintiff Acunto brings a claim under New York General Business Law 
+(“NYGBL”) § 349, which makes unlawful “[d]eceptive acts or practices in the 
+conduct of any business, trade or commerce or in the furnishing of any service 
+in this state[.]” </pre><span class="citation no-link">N.Y. GEN. BUS. LAW § 349</span><pre class="inline">(a). To maintain a cause of action 
+under this statute, “a plaintiff must allege deceptive acts or practices which 
+took place in New York State.”                 , </pre><span class="citation" data-id="6073350"><a href="/opinion/6206796/goshen-v-mutual-life-insurance/#230" aria-description="Citation for case: Goshen v. Mutual Life Insurance">286 A.D.2d 229,        
+230</a></span><pre class="inline"> (N.Y. App. Div. 2001). The Defendants argue that Plaintiff Acunto cannot 
+
+satisfy this element because he purchased his vehicle from a dealership in 
+Tennessee, not New York. (Defs.’ Br. in Supp. of Defs.’ Mot. to Dismiss, at 24.) 
+                            18                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+Plaintiff  Acunto  counters  that  the  physical  location  of  the  dealership  is 
+immaterial since he made the purchase online from New York. (Pls.’ Br. in 
+Opp’n to Defs.’ Mot. to Dismiss, at 35.)                                
+
+   The Court agrees with Plaintiff Acunto. In             ,           
+</pre><span class="citation" data-id="2477650"><a href="/opinion/2477650/chiste-v-hotelscom-lp/" aria-description="Citation for case: Chiste v. Hotels.com L.P.">756 F. Supp. 2d 382</a></span><pre class="inline"> (S.D.N.Y. 2010), the court considered a similar question: 
+whether plaintiffs who booked and paid for New York hotel rooms online from 
+other states could maintain a NYGBL claim alleging undisclosed taxes and 
+fees.  The  court  found  against  the  plaintiffs,  holding  that  “[t]he  alleged 
+deceptive practice—the failure to disclose the mark-up, retention of the Tax 
+
+Delta, and the bundling of the service fees and taxes in the invoice—occurred 
+at the time the hotel reservations were made on the websites; they did not 
+occur when Plaintiffs checked in to the hotels.”   at 403. The same rationale 
+applies to Plaintiff Acunto’s purchase of a vehicle on the Internet from New 
+York.7 His economic loss occurred at the time he completed the transaction 
+online,  not  when  he  picked  up  the  vehicle  or  had  it  delivered  from  the 
+dealership in Tennessee. Therefore, the Court denies the motion to dismiss 
+
+with respect to Plaintiff Acunto’s NYGBL § 349 claim.                   
+
+
+
+   7 The Defendants contend that Plaintiff Acunto “never alleges that he 
+was a New York resident at the time of purchase” (Reply Br. in Supp. of Defs.’ 
+Mot. to Dismiss, at 24); however, the Second Amended Complaint lists New 
+York as Plaintiff Acunto’s only residence at all operative times. (Second Am. 
+Compl. ¶ 29.)                                                           
+                            19                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+      4.  Violation of UCL (Count Nineteen) and CLRA (Count Twenty-   
+        One)                                                          
+   Plaintiff Hunter brings claims under the UCL and CLRA. The UCL     
+prohibits “unfair competition,” including any “unlawful, unfair or fraudulent 
+business  act  or  practice”  and  “unfair,  deceptive,  untrue  or  misleading 
+advertising[.]” CAL. BUS. &amp; PROF. CODE § 17200. The CLRA prohibits “unfair 
+or  deceptive  acts  or practices  undertaken  by  any  person  in  a  transaction 
+
+intended to result or that results in the sale or lease of goods or services to any 
+consumer[.]” CAL. CIV. CODE § 1770(a). To state a claim under the CLRA, a 
+plaintiff may allege either an affirmative misrepresentation or an omission of 
+material fact by the defendant.                 , </pre><span class="citation" data-id="7225094"><a href="/opinion/7307191/rasmussen-v-apple-inc/#1032" aria-description="Citation for case: Rasmussen v. Apple Inc.">27 F. Supp. 3d        
+1027, 1032</a></span><pre class="inline"> (N.D. Cal. 2014). Meanwhile, the UCL creates separate causes of 
+action for business practices that are (1) unlawful, (2) unfair, or (3) fraudulent. 
+                            , </pre><span class="citation" data-id="7236340"><a href="/opinion/7318430/in-re-anthem-inc-data-breach-litigation/#984" aria-description="Citation for case: In re Anthem, Inc. Data Breach Litigation">162 F. Supp. 3d 953, 984</a></span><pre class="inline"> (N.D. Cal.     
+
+2016). Because the UCL and CLRA employ the same standard for fraudulent 
+activity, the Court analyzes the two statutes together.                 
+     , </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1089" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1089</a></span><pre class="inline"> (N.D. Cal. 2017).                   
+   According  to  the  Defendants,  Plaintiff  Hunter  has  not  adequately 
+pleaded UCL and CLRA claims because there is no duty to disclose a defect 
+that does not present an unreasonable safety hazard or affect the central 
+
+function of the product. However, a duty to disclose is relevant only to an 
+omission theory of liability, and Plaintiff Hunter contends that he “alleges 
+                            20                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+numerous [        ]               and reliance on them.” (Pls.’ Br. in  
+Supp. of Defs.’ Mot. to Dismiss, at 37 (emphasis added).) The Court agrees with 
+Plaintiff Hunter. He alleges that (1) the Defendants certified his vehicle’s wood 
+
+trim  as  “OK  –  Passed”  prior  to  purchase;  (2)  the  Vehicle  Care  Guide 
+represented  that  “every  visible  surface  has  been  crafted  with  the  finest 
+materials and coatings to ensure the best appearance and durability”; and (3) 
+the  New  Vehicle  Limited  Warranty  (“NVLW”)  covered  “any  repairs  or 
+replacements necessary to correct defects in material or workmanship arising 
+during the warranty period.” (Second Am. Compl. ¶¶ 266, 278, 332, 671–72, 
+
+697.) As the Court previously held, these allegations are sufficiently detailed 
+to  support  an  affirmative  misrepresentation  claim.  ,  </pre><span class="citation no-link">2020  WL    
+10090879</span><pre class="inline">, at *17–18.                                                    
+   The Court’s work is not finished, though, because Plaintiff Hunter also 
+alleges that the Defendants have committed fraudulent omissions under the 
+UCL and CLRA. (Second Am. Compl. ¶¶ 671–72; 697.) These omissions are   
+actionable only if the Defendants had a duty to disclose the trim defect before 
+
+he  purchased  the  vehicle.  In  general,  such  a  duty  may  arise  under  four 
+circumstances, known as the    factors:                                 
+   (1) when the defendant is in a fiduciary relationship with the     
+   plaintiff;  (2)  when  the  defendant  had  exclusive  knowledge  of 
+   material facts not known to the plaintiff; (3) when the defendant  
+   actively conceals a material fact from the plaintiff; and (4) when 
+   the defendant makes partial representations but also suppresses    
+   some material facts.                                               
+                            21                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+              , </pre><span class="citation" data-id="2267506"><a href="/opinion/2267506/limandri-v-judkins/#543" aria-description="Citation for case: LiMandri v. Judkins">60 Cal. Rptr. 2d 539, 543</a></span><pre class="inline"> (Cal. Ct. App. 1997). A fact is 
+deemed  “material”  if  “a  reasonable  man  would  attach  importance  to  its 
+existence or nonexistence in determining his choice of action in the transaction 
+
+in question[.]”                          , </pre><span class="citation" data-id="5452218"><a href="/opinion/5607883/engalla-v-permanente-medical-group-inc/#919" aria-description="Citation for case: Engalla v. Permanente Medical Group, Inc.">938 P.2d 903, 919</a></span><pre class="inline"> (Cal.      
+1997) (quotation marks and citation omitted). However, the Ninth Circuit has 
+narrowed this definition where a product defect arises outside the warranty 
+period; in those cases, a plaintiff must show that the defect  poses safety 
+concerns or affects the product’s central function.                     
+  , No. 2:18-cv-02973-TLN-KJN, </pre><span class="citation no-link">2021 WL 2682045</span><pre class="inline">, at *11 (E.D. Cal. 2021).8  
+
+   Plaintiff  Hunter  urges  the  Court  to  evaluate  his  claims  under  the 
+      factors without applying the safety hazard and central functionality 
+tests. (Pls.’ Br. in Opp’n to Defs.’ Mot. to Dismiss, at 39.) He cites  
+                         , No. 20-cv-00337-EMC, </pre><span class="citation no-link">2021 WL 1338949</span><pre class="inline">       
+(N.D. Cal. Apr. 16, 2021) for support,which held that “the [Ninth Circuit] tests, 
+on the one hand, and the     test, on the other, represent              
+means of pleading a pure-omission claim.” </pre><span class="citation no-link">2021 WL 1338949</span><pre class="inline">, at *20 (emphasis 
+
+
+   8 In                 , </pre><span class="citation" data-id="4280855"><a href="/opinion/4503602/robert-hodsdon-v-mars-inc/" aria-description="Citation for case: Robert Hodsdon v. Mars, Inc.">891 F.3d 857</a></span><pre class="inline">, 861–62 (9th Cir. 2018), the   
+Ninth  Circuit  first  embraced  the  central  functionality  test  while  also 
+questioning  the  continued  vitality  of  the  safety  hazard  test  in  light  of 
+intervening  California  Courts  of  Appeal  decisions.  Ultimately,  the  court 
+concluded that “[t]he recent California cases show that [the] safety hazard 
+pleading requirement is not necessary in  omission cases, but that the  
+requirements may remain applicable in some circumstances”: for example, 
+when a product defect does not affect its central function but still creates a 
+safety hazard.   at 864 (emphasis in original).                         
+                            22                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+in original). But this holding conflicts with recent California Courts of Appeal 
+pronouncements that the safety hazard test is “merely ‘a specific application of 
+the duty to disclose’ when one of the  factors are met,” and not an     
+
+“additional, ‘      duty of disclosure[.]’”                             
+  , No. A158237, </pre><span class="citation no-link">2021 WL 1135226</span><pre class="inline">, at *9 (Cal. Ct. App. Mar. 25, 2021) 
+(emphasis in original) (quoting                             ,           
+</pre><span class="citation" data-id="6107486"><a href="/opinion/6240535/berger-v-varum/#84" aria-description="Citation for case: Berger v. Varum">248 Cal. Rptr. 3d 61, 84</a></span><pre class="inline"> (Cal. Ct. App. 2018)). Further, the Court’s research 
+has turned up no decisions aligning with   on this issue.   ,           
+   , </pre><span class="citation no-link">2021 WL 2682045</span><pre class="inline">, at *11 (requiring a safety hazard or an effect on the 
+
+product’s central function as part of the   factors);                   
+                  , </pre><span class="citation" data-id="7251077"><a href="/opinion/7333159/in-re-apple-inc-device-performance-litig/#459" aria-description="Citation for case: In re Apple Inc. Device Performance Litig.">347 F. Supp. 3d 434, 459</a></span><pre class="inline"> (N.D. Cal. 2018) (same). 
+The Court thus declines to follow       regarding the appropriate       
+pleading standard for omission claims under the UCL and CLRA.           
+   There is another reason why the safety hazard and central functionality 
+tests may not apply in this case. As stated above, these tests are triggered when 
+“a latent defect . . . creates a likelihood of the product failing      
+
+           [.]”     ,  </pre><span class="citation no-link">2021  WL  2682045</span><pre class="inline">,  at  *11  (emphasis  added). 
+Conversely, “a manufacturer has a duty to disclose any defects that fall 
+              , whether relating to safety or to costly repairs, that would 
+have  caused  the  consumer  to  not  purchase  the  product  if  they  had  been 
+disclosed.”                    ,  No.  5:20-cv-03122-EJD,  </pre><span class="citation no-link">2021  WL     
+3037703</span><pre class="inline">, at *6 (N.D. Cal. July 19, 2021) (emphasis added) (quotation marks, 
+                            23                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+citation,  and  punctuation  omitted)  (collecting  cases);             
+          , </pre><span class="citation" data-id="5666242"><a href="/opinion/5810789/collins-v-emachines-inc/#595" aria-description="Citation for case: Collins v. eMachines, Inc.">134 Cal. Rptr. 3d 588, 595</a></span><pre class="inline"> (Cal. Ct. App. 2011) (plaintiffs were 
+not required to allege a safety hazard in their CLRA claim where the computer 
+
+defect arose “during and before the warranty expired”). The Ninth Circuit 
+explained that, in cases where a product’s warranty has expired:        
+   to broaden the duty to disclose beyond safety concerns would       
+   eliminate  term limits  on  warranties,  effectively  making them  
+   perpetual or at least for the useful life of the product. Under a  
+   contrary rule . . . the failure of a product to last forever would 
+   become a defect, a manufacturer would no longer be able to issue   
+   limited warranties, and product defect litigation would become as  
+   widespread as manufacturing itself.                                
+                        ,  </pre><span class="citation" data-id="622977"><a href="/opinion/622977/wilson-v-hewlett-packard-co/" aria-description="Citation for case: Wilson v. Hewlett-Packard Co.">668  F.3d  1136</a></span><pre class="inline">,  1141–42  (9th  Cir.  2012) 
+(quotation marks, citations, and punction omitted);                     
+     , </pre><span class="citation" data-id="4155347"><a href="/opinion/4378094/george-williams-v-yamaha-motor-corp-usa/#1029" aria-description="Citation for case: George Williams v. Yamaha Motor Corp. USA">851 F.3d 1015, 1029</a></span><pre class="inline"> (9th Cir. 2017) (expressing “concerns about the 
+use of consumer fraud statutes to impermissibly extend a product&#x27;s warranty 
+period”).                                                               
+   Turning to the instant case, the Court finds that Plaintiff Hunter’s 
+factual allegations are insufficient to support a reasonable inference that his 
+vehicle’s trim defect manifested during the warranty period. Plaintiff Hunter 
+purchased his 2014 vehicle with 13,609 miles and states that he “first noticed 
+. . . some slight fading and cloudiness” to the wood trim in late-2016. (Second 
+Am. Compl. ¶¶ 256–57, 267.) However, he does not disclose the number of miles 
+on his vehicle when the trim defect allegedly appeared; this is an essential 
+detail since the NVLW expires after “the first 48 months or 50,000 miles, 
+                            24                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+                [.]” (  ¶ 68 (emphasis added).) It is impossible to glean 
+from Plaintiff Hunter’s allegations whether the NVLW was in effect when the 
+trim defect presented itself,9 so he must instead allege that the defect creates 
+
+a safety hazard or affects the central function of his vehicle to state omission 
+claims under the UCL and CLRA. Because he fails to do so (nor could he  
+plausibly do so), the Court grants the motion to dismiss thereon.       
+                    IV.  Conclusion                                   
+   For the foregoing reasons, the Defendants’ Motion to Dismiss [Doc. 61] 
+is GRANTED in part and DENIED in part. The motion is GRANTED with       
+
+respect to the following claims, which are dismissed:                   
+   •  Breach of Express Warranty (Count One)                          
+   •  Breach of Implied Warranty (Count Two)                          
+   •  Equitable and Injunctive Relief (Count Three) as to the Plaintiffs’ 
+      allegations on behalf of a putative national class              
+   •  Violation of the Magnuson-Moss Warranty Act (Count Four)        
+   •  Unjust Enrichment (Count Five)                                  
+
+   •  Fraud and Suppression (Count Six) as to (1) Plaintiff Finkenauer’s 
+      fraudulent concealment claim, (2) Plaintiff Collier’s fraudulent 
+
+   9 While  Plaintiff  Hunter  alleges  that  his  vehicle  “is  still  under  the 
+[certified pre-owned] warranty and within the warranty period” (Second Am. 
+Compl. ¶ 257), the Court previously held that this warranty excludes interior 
+trim from its coverage.    , </pre><span class="citation no-link">2020 WL 10090879</span><pre class="inline">, at *9. Therefore, to     
+avoid the safety hazard and central functionality tests, he must be able to show 
+that the trim defect appeared during the NVLW.                          
+                            25                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+      concealment claim, (3) Plaintiff Scudder’s fraudulent concealment 
+      claim, (4) Plaintiff Acunto’s fraudulent concealment claim, and (5) 
+      Plaintiff Hunter’s fraudulent concealment claim                 
+
+   •  Violation of South Carolina Unfair Trade Practices Act (Count   
+      Seven)                                                          
+   •  Violation of Ohio Consumer Sales Practices Act (Count Nine) as to 
+      Plaintiff Burton’s class action allegations                     
+   •  Violation of Oregon Unlawful Trade Practices Act (Count Ten)    
+   •  Violation of New Jersey Consumer Fraud Act (Count Twelve)       
+
+   •  Violation of Georgia Uniform Deceptive Trade Practices Act (Count 
+      Sixteen)                                                        
+   •  Violation of Missouri Merchandising Practices Act (Count Eighteen) 
+   •  Violation of California Unfair Competition Law (Count Nineteen) as 
+      to Plaintiff Hunter’s omission claim                            
+   •  Violation of California Consumers Legal Remedies Act (Count     
+
+      Twenty-One) as to Plaintiff Hunter’s omission claim             
+The motion is DENIED with respect to the following claims:              
+   •  Violation of California Unfair Competition Law (Count Nineteen) as 
+      to Plaintiff Hunter’s affirmative misrepresentation claim       
+   •  Violation of California False Advertising Law (Count Twenty)    
+   •  Violation of California Consumers Legal Remedies Act (Count     
+      Twenty-One) as to Plaintiff Hunter’s affirmative misrepresentation 
+                            26                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        
+      claim                                                           
+   •  Violation of New York General Business Law § 349 (Count Twenty- 
+      Four)                                                           
+
+   SO ORDERED, this 4 day of October, 2021.                           
+
+
+
+                       /s/Thomas W. Thrash                            
+                       THOMAS W. THRASH, JR.                          
+                       United States District Judge                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            27                                        
+T:\ORDERS\19\Callen\mtdtwt2.docx                                        </pre>

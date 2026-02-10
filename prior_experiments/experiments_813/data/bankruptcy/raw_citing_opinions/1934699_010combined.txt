@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b413-26">
+  DECISION AND ORDER
+ </p>
+<author id="b413-27">
+  RICHARD L. BOHANON, Bankruptcy Judge.
+ </author>
+<p id="b413-28">
+  This matter comes on for hearing to consider confirmation of the debtors’ Chapter 13 plan. First Federal Savings and Loan Association, Claremore, a creditor, has raised three objections to the confirmation. One of these objections concerning the valuation of certain firearms was resolved by the Court’s finding that such firearms had a value of $1,300. Therefore, the only objections before the Court are whether the debtors erroneously assumed they could rescind a lending transaction in which First
+  <span citation-index="1" class="star-pagination" label="356"> 
+   *356
+   </span>
+  Federal obtained a mortgage on the debtors’ residence; and secondly whether the proposed plan was made in good faith. We will address each of these objections separately.
+ </p>
+<p id="b414-4">
+  The creditor’s first argument is that the plan cannot be confirmed since the debtor cannot assume the validity of the proposed rescission where the debtor refuses to return the total proceeds of the loan. For this proposition First Federal argues equitable theories wherein it asserts a creditor may condition its performance (release of a mortgage) upon the debtor first tendering the loan proceeds. This proposition takes us into a discussion of how the Bankruptcy Code merges with the state and federal Truth In Lending statutes.
+ </p>
+<p id="b414-5">
+  The Truth In Lending statutes provide that a consumer has the right to rescind a consumer credit transaction when a security interest is or will be retained or acquired in property used as the principal dwelling of the consumer.
+  <em>
+   See
+  </em>
+  <span class="citation no-link">15 U.S.C. § 1635</span> and 14A O.S. 1981 § 5-204. The right to rescind accrues when the creditor fails to make certain disclosures or fails to give the proper notice of such right to the consumer,
+  <em>
+   see
+  </em>
+  Regulation Z at <span class="citation no-link">12 C.F.R. § 226.17-226</span>.-23, and the right is exercised within prescribed time limits.
+ </p>
+<p id="b414-6">
+  It was uncontroverted at the hearing that First Federal retained a security interest in the debtors’ principal dwelling. Therefore, pursuant to the Truth In Lending statutes First Federal was obliged to comply with the notice and disclosure provisions. However, at the hearing it was disclosed that no such notice was given, nor was the creditor able to produce the required written notice.
+ </p>
+<p id="b414-7">
+  Consequently, the debtors properly exercised their right to rescind the loan contract. 14A O.S.1981 § 5-204(2). The next question then is whether the creditor may condition its performance (release of the mortgage) upon a tender by the debtors of the loan proceeds. The provisions of the Truth In Lending statutes require that when the creditor exercises rescission rights, the creditor must return monies paid by the consumer and terminate any security interest which the transaction created. 14A O.S.1981 § 5-204(2). Once the creditor has performed his obligation the consumer then must return any property delivered by the creditor unless it is impracticable or inequitable to do so, and in those circumstances the consumer must tender the property’s reasonable value.
+  <em>
+   Id.
+  </em>
+</p>
+<p id="b414-9">
+  We do not think there is much merit to the argument that the creditor’s obligation to release the mortgage is conditioned upon the debtor’s obligation to first return the property delivered. Such a requirement has been consistently rejected. The statutory language clearly contemplates a tender by the debtor
+  <em>
+   after
+  </em>
+  the creditor has performed its obligation.
+  <em>
+   See Harris v. Tower Loan of Mississippi, Inc.,
+  </em>
+  <span class="citation" data-id="371387"><a href="/opinion/371387/bessie-lee-harris-v-tower-loan-of-mississippi-inc/" aria-description="Citation for case: Bessie Lee Harris v. Tower Loan of Mississippi, Inc.">609 F.2d 120</a></span> (5th Cir.1980);
+  <em>
+   Bustamante v. First Federal Savings and Loan Association,
+  </em>
+  <span class="citation" data-id="377010"><a href="/opinion/377010/roberto-bustamante-et-ux-v-first-federal-savings-and-loan-association-of/" aria-description="Citation for case: Roberto Bustamante Et Ux. v. First Federal Savings and...">619 F.2d 360</a></span> (5th Cir.1980);
+  <em>
+   In re Piercy,
+  </em>
+  <span class="citation" data-id="1848361"><a href="/opinion/1848361/in-re-piercy/" aria-description="Citation for case: In Re Piercy">18 B.R. 1004</a></span> (Bkrtcy.W.D.Ky.1982);
+  <em>
+   In re Wright,
+  </em>
+  <span class="citation" data-id="2009968"><a href="/opinion/2009968/wright-v-credithrift-of-america-inc-in-re-wright/" aria-description="Citation for case: Wright v. Credithrift of America, Inc. (In Re Wright)">11 B.R. 590</a></span> (Bkrtcy.S.D.Miss.1981).
+ </p>
+<p id="b414-10">
+  First Federal argues that it would be inequitable under the circumstances here to follow the statutory mechanics of the TIL statutes since the debtors intend to treat the obligation to return the loan proceeds as an unsecured claim. To support this argument it cites the Court to the last sentence of the TIL statutes which notes that “[t]he procedures prescribed by this subsection shall apply except when otherwise ordered by a Court.” 14A O.S.1981 § 5-204(2) and <span class="citation no-link">15 U.S.C. § 1635</span>(b). It also urges that the Fifth Circuit decisions are an aberration of the law and that other courts have allowed equitable considerations to intervene so as to condition the creditor’s performance upon the debtor’s return of property. To support this proposition we are cited to several non-bankruptcy decisions.
+  <em>
+   E.g., Palmer v. Wilson,
+  </em>
+  <span class="citation" data-id="9461012"><a href="/opinion/321367/austin-c-palmer-and-helen-m-palmer-husband-and-wife-v-gladys-s-wilson/" aria-description="Citation for case: Austin C. Palmer and Helen M. Palmer, Husband and Wife v....">502 F.2d 860</a></span> (9th Cir. 1974);
+  <em>
+   Eby v. Reb Realty, Inc.,
+  </em>
+  <span class="citation" data-id="318551"><a href="/opinion/318551/betty-eby-a-widow-v-reb-realty-inc-an-arizona-corporation-and-don/" aria-description="Citation for case: Betty Eby, a Widow v. Reb Realty, Inc., an Arizona...">495 F.2d 646</a></span> (9th Cir.1974);
+  <em>
+   Rudisell v. Fifth Third Bank,
+  </em>
+  <span class="citation" data-id="378274"><a href="/opinion/378274/james-a-rudisell-v-the-fifth-third-bank/" aria-description="Citation for case: James A. Rudisell v. The Fifth Third Bank">622 F.2d 243</a></span> (6th Cir.1980).
+ </p>
+<p id="b414-11">
+  Although there may be some validity in First Federal’s argument in a non-bankruptcy context, that validity is lost when bankruptcy imposes its considerations, and
+  <span citation-index="1" class="star-pagination" label="357"> 
+   *357
+   </span>
+  indeed such conditioning may very well conflict with the very spirit of the Code.
+  <em>
+   Cf. Riggs v. Gov’t Employees Financial Corp.,
+  </em>
+  <span class="citation" data-id="379044"><a href="/opinion/379044/james-riggs-trustee-in-bankruptcy-v-government-employees-financial/#74" aria-description="Citation for case: James Riggs, Trustee in Bankruptcy v. Government...">623 F.2d 68, 74</a></span> (9th Cir.1980). “It would be palpably unfair to deny the relief to which a consumer is entitled under TIL because that consumer has also availed himself of bankruptcy relief.”
+  <span class="citation" data-id="1848361"><a href="/opinion/1848361/in-re-piercy/#1007" aria-description="Citation for case: In Re Piercy"><em>
+   In re Piercy, supra
+  </em>
+  at 1007</a></span>. As was best explained by the Court in
+  <em>
+   <span class="citation" data-id="1848361"><a href="/opinion/1848361/in-re-piercy/" aria-description="Citation for case: In Re Piercy">Piercy</a></span>:
+  </em>
+</p>
+<blockquote id="b415-5">
+  In a non-bankruptcy setting, the rights and duties of the parties upon TIL rescission are clear and absolute. Each Party must make the other as whole as he would have been had the contract never been entered into. In the absence of bankruptcy, there is no legal impediment to either party doing what is required to restore the
+  <em>
+   status quo ante.
+  </em>
+  Consequently, the creditor’s statutory duty to perform first merely establishes the order of performance;
+  <em>
+   it does not alter the ultimate effect on the remedy. In re Piercy
+  </em>
+  at 107. (emphasis added).
+ </blockquote>
+<p id="b415-6">
+  First Federal has failed to show the Court any
+  <em>
+   bankruptcy cases,
+  </em>
+  nor have we discovered any, which support its objection in this regard. Understandably so, for such a holding would “require that the consumer choose between bankruptcy and TIL, something neither form or statutory relief contemplates.”
+  <em>
+   <span class="citation" data-id="1848361"><a href="/opinion/1848361/in-re-piercy/" aria-description="Citation for case: In Re Piercy">Id.</a></span>
+  </em>
+  Therefore, this ground for objecting to the plan will be overruled.
+ </p>
+<p id="b415-7">
+  The remaining ground for objecting to the plan is that it was not proposed in good faith. The basis for this objection is that First Federal alleges “several Secured Creditors do not receive their first payment until the 16th month of the Plan and that unsecured claims will be paid prorata until 8% of such claims are paid, without interest.” As noted by First City, the meaning of “good faith” has engendered much controversy among bankruptcy courts. Interpretations of the “good faith” requirement have generally fallen into three categories.
+  <em>
+   See e.g., In re Estus,
+  </em>
+  <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">695 F.2d 311</a></span> (8th Cir.1982),
+  <em>
+   compare In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span> (Bkrtcy.Utah 1980)
+  <em>
+   with In re Cloutier,
+  </em>
+  <span class="citation" data-id="1970505"><a href="/opinion/1970505/in-re-cloutier/" aria-description="Citation for case: In Re Cloutier">3 B.R. 584</a></span> (Bkrtcy.Colo.1980).
+ </p>
+<p id="b415-8">
+  However, the 10th Circuit has recently ruled on this issue and provided the test relevant to a determination of “good faith” for our purposes here.
+  <em>
+   See Flygare v. Boulden,
+  </em>
+  <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">709 F.2d 1344</a></span> (10th Cir.1983). In that case the 10th Circuit adopted the “middle road” approach in determining what is “good faith” and cited the explanatory language of
+  <em>
+   In re <span class="citation" data-id="411769"><a href="/opinion/411769/in-re-ronald-estus-and-doris-estus-debtors-united-states-of-america-v/" aria-description="Citation for case: In Re Ronald Estus and Doris Estus, Debtors. United...">Estus, supra</a></span>
+  </em>
+  at 315-16:
+ </p>
+<blockquote id="AIe">
+  These courts do not automatically reject a plan which proposes nominal payments to unsecured creditors, but neither do they automatically confirm a plan as meeting the subsection (a)(3) good faith requirement if the subsection (a)(4) ‘best interests’ test is met. Instead these courts reason that a finding of good faith required an inquiry, on a case-by-case basis, into whether the plan abuses the provisions, purpose or spirit of Chapter 13.
+ </blockquote>
+<p id="b415-9">
+  What is clear from the
+  <em>
+   <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">Flygare</a></span>
+  </em>
+  opinion is that the Circuit Court rejected the proposition that a finding of only a nominal repayment to unsecured creditors would be dispositive of the good faith requirement.
+  <em>
+   Flygare v. Boulden
+  </em>
+  at 1348. Rather, the amount of the repayment to the unsecured creditors would be dispositive of the good faith requirement.
+  <em>
+   Flygare v. Boulden
+  </em>
+  at 1348. Rather, the amount of the repayment to the unsecured creditors would be only one factor, among many, which the Court should consider. Such factors are set forth in
+  <em>
+   <span class="citation" data-id="420012"><a href="/opinion/420012/gordon-r-and-sharon-l-flygare-debtors-appellants-v-judith-a-boulden/" aria-description="Citation for case: Gordon R. And Sharon L. Flygare, Debtors-Appellants v....">Flygare</a></span>
+  </em>
+  and there is no need to reproduce them here. Suffice it to say that upon examination of the plan and the debtors circumstances in relationship to those factors adopted by the 10th Circuit, we must overrule the objection made by First Federal based upon the asserted “good faith” argument. Upon weighing all the facts and circumstances the plan does not abuse the provision of the Code or spirit of a Chapter 13 plan.
+ </p>
+<p id="b415-10">
+  The debtor also requests that we find First Federal forfeited any rights to further payment under the plan in accordance with the statutory language of the Oklahoma and federal statute. However, we reject such an invitation on equitable grounds since the plan itself already modi
+  <span citation-index="1" class="star-pagination" label="358"> 
+   *358
+   </span>
+  fies the rights of First Federal. In a bankruptcy proceeding the statutory procedures of TIL may properly be altered to impart equity for both debtor and creditor in order to harmonize the intent of both statutes.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+</p>
+<p id="b416-4">
+  Accordingly, it is Ordered that the objections of First Federal Savings and Loan Association be and hereby, are overruled. Further, the Chapter 13 plan as modified by the debtor and in accordance with this decision will be and hereby, is Confirmed.
+ </p>
+<p id="b416-5">
+  This decision constitutes the findings of fact and conclusions of law required by BR 7052.
+ </p>
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="AqB8">
+   . Section 1635(b) provides in part: “The procedures prescribed by this subsection shall apply except when otherwise ordered by a court.”
+  </p>
+</div></div></opinion>

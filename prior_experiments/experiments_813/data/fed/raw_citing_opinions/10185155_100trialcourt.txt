@@ -1,0 +1,1421 @@
+<pre class="inline">                UNITED STATES DISTRICT COURT                             
+                    DISTRICT OF MINNESOTA                                
+
+Pearlie Boyd, Alberto Camacho, Dieisha  No. 23-CV-02668 (KMM/DJF)        
+Hodges, Monic Serrano, Sienna Guerrero-                                  
+Brown, Stephanie Puckett, Genna Unley,                                   
+Connie Wilson, Cami McEvers, Laurie                                      
+Cahill, Harmony Deflorio, Joslyn Sanders,                                
+Marsha Solmssen, and Jessica Brodiski                                    
+individually and on behalf of all others                                 
+similarly situated,                         ORDER                        
+
+               Plaintiff,                                                
+
+v.                                                                       
+
+Target Corp.,                                                            
+
+               Defendant.                                                
+
+
+    This is a consumer-fraud action brought against Defendant Target Corp. (“Target”), 
+a national retailer headquartered in Minnesota, by a group of 14 named plaintiffs on behalf 
+of a putative nationwide class. Collectively, the Court will hereafter refer to all plaintiffs, 
+either named or unnamed potential class members, as “Plaintiffs.” Plaintiffs allege that 
+Target has deliberately misled consumers by labeling certain products in its stores as being 
+“Target Clean,” when such products are in fact “unclean.” ECF 1 (Complaint (“Compl.”)) 
+¶ 1. Before the Court are two motions: Target’s Motion to Dismiss (ECF 24) and Motion 
+to Strike (ECF 18). For the reasons that follow, both motions are DENIED. Although the 
+Court  acknowledges  that  some  of Target’s  arguments  present  a  close  call,  the Court 
+concludes that, at this stage and in light of the detailed allegations in the Complaint, 
+dismissal is not appropriate.                                             
+I.  Background                                                           
+    According to Plaintiffs, Target launched a program called Target Clean in 2019. 
+
+Compl. ¶ 105. Target allegedly used Target Clean labeling to designate certain beauty 
+products1 (hereafter referred to as the “Target Clean Beauty Products”) that it sells in its 
+stores. See id. ¶ 3–4. Plaintiffs maintain that Target uses the Target Clean label to “help 
+shoppers distinguish products that Target has identified and marketed as ‘clean’ products.” 
+Id. ¶ 3. According to Plaintiffs, Target represents that the labeled products are “clean” 
+because  they  are  “free  from  ‘commonly  unwanted’  chemicals  or  ingredients”  and 
+
+“‘formulated without ingredients [consumers] may not want.’” Id. ¶¶ 2, 14. Plaintiffs allege 
+that the labeling is made independently of manufacturer claims, and that at least some 
+Target Clean products are not labeled or marked with a similar claim or description by the 
+manufacturer. Id.                                                         
+    Plaintiffs allege that Target designates the Target Clean Beauty Products primarily 
+
+through labels and in-store signage. Plaintiffs allege that Target uses a bright green hexagon 
+within which is Target’s typical “bullseye” logo and the word “clean.” Id. ¶ 5. The Target 
+Clean label is sometimes affixed to individual shelf labels associated with particular 
+products (for example, alongside a price label). See, e.g., id. ¶ 8. Target also uses the label 
+on larger display signs that offer a short explanation of the Target Clean program including 
+
+a brief explanation of Target’s criteria for designating a product as being Target Clean. Id. 
+
+
+    1 Target is also alleged to have used Target Clean labeling in association with oral 
+care and deodorant products. See Compl. at 62 n.119. Plaintiffs allege that Target applies 
+different criteria to the labeling of non-beauty products. Id.            
+¶ 5. Target also maintains a website containing more detailed information about the Target 
+Clean program. Id. at 2 n.1.                                              
+
+    Target has identified 13 ingredients as being “banned” from Target Clean Beauty 
+Products. Id. ¶ 4. These ingredients are: propylparaben and butylparaben, phthalates, 
+formaldehyde,  formaldehyde  donors,  nonylphenol  ethoxylates,  oxybenzone,  sodium 
+laureth  sulfates,  retinyl  palmitate,  hydroquinone,  triclosan,  triclocarban,  butylated 
+hydroxyanisole, butylated hydroxytoluene. Id. The Complaint includes details about the 
+purported harmfulness of each of these ingredients to human health. Plaintiffs’ general 
+
+allegation is that all these ingredients have “known impacts on human health and the 
+environment” and that this is why Target represents that Target Clean Beauty Products do 
+not contain them. Id. The Court will hereafter refer to these ingredients collectively as the 
+“banned ingredients.”                                                     
+    According to Plaintiffs, Target designed and describes the Target Clean program as 
+
+a shopping assistant for health-conscious consumers. For example, Plaintiffs allege that 
+one  Target  merchandise  executive  characterized  the  labeling  program  as  allowing 
+customers to “easily shop for [products] that are formulated without a group of commonly 
+unwanted chemicals they may not want included in their daily beauty routines.” Id. ¶ 107. 
+Another executive described the program as “tak[ing] the complications out of finding 
+
+better-for-you product options.” Id. ¶ 108. In essence, Plaintiffs allege that the Target Clean 
+program offers a curated shopping list that “tak[es] the research and analysis piece out of 
+the equation” and conveys to the consumer that Target has done that work for them. Id. ¶ 
+109. But, in reality, Plaintiffs allege that the Target Clean program is nothing more than a 
+corporate “greenwashing” scheme that uses Target’s goodwill and reputation to dishonestly 
+piggyback on a growing consumer demand for “safer, cleaner, and more natural products.” 
+
+Id. ¶ 42; see also, e.g., id. ¶¶ 11, 13 (“Target has taken advantage of consumers’ desire to 
+find cleaner products by creating and over-using the ‘Target Clean’ label on products that 
+have not actually earned the clean label . . . .”).                       
+    Specifically, Plaintiffs allege several ways that the Target Clean program misleads 
+consumers. For example, that Target claims labeled products do not contain any of the 
+banned ingredients, but in fact some products do contain those ingredients. Id. ¶ 5. Plaintiffs 
+
+allege that at least one product, the Physicians Formula Magic Mosaic Bronzer, contains 
+propylparabens.  Id.  ¶  168.  In  another  example,  Plaintiffs  claim  that  although Target 
+purports to maintain informational signage about Target Clean in its stores, the Target Clean 
+label is sometimes attached to products without any accompanying explanation or “fine 
+print.”  Id.  ¶  9.  Plaintiffs  allege  that  this  practice  creates  a  “paramount  level  of 
+
+misrepresentation . . . . because a consumer is not likely to examine marketing labels not 
+directly  found  on  a  product  or  disclaimers  in  fine  print.”  Id.  Other  alleged 
+misrepresentations2 are more nuanced. Perhaps the central allegation of the Complaint is 
+that the Target Clean program is deceptive because it represents that a product that does 
+
+not contain any of the banned ingredients can be perceived as “clean,” or free of unwanted 
+and harmful substances. Plaintiffs allege that this is untrue because Target Clean products 
+contain ingredients that are equally or more harmful to humans than the banned ingredients. 
+Id. ¶ 5; see, e.g., id. ¶ 195 (“Relying on a narrow subset of ingredients to make a ‘clean’ 
+claim and ignoring other harmful or  potentially harmful  ingredients is misleading to 
+consumers[.]”).                                                           
+
+    Plaintiffs brought their Complaint in this Court on August 29, 2023. They cite 
+numerous causes of action, both statutory and at common law. Counts I and II involve 
+allegations of common law breach of warranty, express and implied. Id. ¶¶ 205–16. Count 
+III claims common law fraud. Id. ¶¶ 217–20. Count IV claims negligent misrepresentation. 
+Id. ¶¶ 222–28. Count V claims unjust enrichment. Id. ¶¶ 229–35. Counts VI and VII allege 
+
+
+
+    2 Plaintiffs also allege that Target represents that the Target Clean Beauty Products 
+do not contain banned ingredients above a certain threshold, thereby implying the safety of 
+concentrations below that threshold. Compl. ¶ 5. But Plaintiffs say that this representation 
+is false because the threshold designated by Target for at least some of the ingredients is 
+not, in fact, safe. Id. However, this allegation is not meaningfully substantiated in the 
+Complaint nor directly addressed in Plaintiffs’ opposition briefing to the pending motion. 
+For example, Plaintiffs do not offer additional allegations or argument to support their 
+contention that the banned ingredients are unsafe even below the threshold identified by 
+Target, do not explain whether they believe there is a safe level for any of the banned 
+ingredients, and do not state whether they believe any of the Target Clean beauty products 
+actually contain the banned ingredients at concentrations below the threshold identified by 
+Target but at levels nevertheless alleged to be harmful. To the extent that Plaintiffs intended 
+to allege a discrete misrepresentation in Target’s statement, the Court would dismiss 
+without prejudice. If Plaintiffs do intend to pursue this “unsafe thresholds” theory of 
+liability in this case, it will require more substantive pleading.        
+violations of the Minnesota Consumer Fraud Act (“MCFA”) and the Minnesota Uniform 
+Deceptive Trade Practices Act (“MDTPA”), respectively. Id. ¶¶ 236–59. Each of the 
+
+foregoing is alleged on behalf of a putative nationwide class. Counts VIII–XXII allege 
+violations of numerous states’ consumer fraud and protection statutes. Id. ¶¶ 260–457 
+(alleging violations of Alabama, Arizona, California, Colorado, Florida, Illinois, Indiana, 
+Michigan, New Hampshire, New York, Oklahoma, and Washington consumer fraud and 
+protection statutes). Each of these counts is brought on behalf of a putative state subclass. 
+    Each of the named plaintiffs purchased one or more of a group of 14 “identified” 
+
+Target Clean Beauty Products that Plaintiffs allege “are not actually ‘clean’ and do contain 
+unwanted or harmful ingredients.” See id. ¶ 16. Each named plaintiff is a resident of one 
+of the 12 states for which the Complaint alleges a putative statewide class. See id. ¶ 35. 
+Generally, each named plaintiff alleges that they “tr[y] to purchase clean products” and that 
+the claims of the Target Clean program “impacted” their buying choices. See, e.g., id. ¶ 34 
+
+(allegations of named plaintiff Jessica Brodiski). Furthermore, each named plaintiff alleges 
+they would not have purchased the identified Target Clean beauty product or would have 
+purchased the product “under different terms,” had they known the product contained 
+“unwanted or harmful ingredients.” Id. The nationwide claims are brought on behalf of a 
+putative class comprising “all citizens of the United States” who purchased an identified 
+
+Target Clean Beauty Product, and the statewide class claims are brought on behalf of 
+putative classes comprising “all citizens” of each identified state who purchased a Target 
+Clean Beauty Product. Id. ¶ 197.                                          
+    Rather than answer the Complaint, Target filed the two pending motions. In its 
+motion to dismiss, Target seeks the dismissal of the entire complaint, mostly for failure to 
+
+state a claim under Rule 12(b)(6). Because many of Plaintiffs’ statutory consumer fraud 
+claims share elements and pleading requirements and are essentially interchangeable at this 
+stage in the litigation, Target makes consolidated legal arguments applicable to all of them. 
+See ECF 26 (Def.’s Mem. in Supp. of Mot. to Dismiss) at 11. These arguments also apply 
+to Plaintiffs’ common law claims of fraud and negligent misrepresentation. Effectively, if 
+the Court agrees with Target’s arguments on the insufficiency of Plaintiffs’ fraud pleadings, 
+
+then Counts III–XXII would all be dismissed for the same or similar reasons. Target also 
+makes claim-specific arguments for dismissal of Plaintiffs’ breach of warranty and unjust 
+enrichment claims (id. at 32–34), as well as legally discrete arguments for dismissal of 
+Plaintiffs’ Alabama, Arizona, California, and Washington statutory claims (id. at 28–32). 
+Separately,  in  its  motion  to  strike,  Target  asks  this  Court  to  strike  Plaintiffs’  class 
+
+allegations, as well as any request for injunctive relief, from the Complaint. See generally, 
+ECF 20 (Def.’s Mem. in Supp. of Mot. to Strike).                          
+II.  Legal Standards                                                     
+    A.   Motion to Dismiss                                               
+    To survive a Rule 12(b)(6) motion to dismiss, a complaint must contain “enough 
+
+facts to state a claim to relief that is plausible on its face.” Bell Atl. Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 
+U.S. 544, 570</a></span><pre class="inline"> (2007). This standard does not require the inclusion of detailed factual 
+allegations in a pleading, but the complaint must contain facts with enough specificity “to 
+raise a right to relief above the speculative level.” </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#555" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">Id. at 555</a></span><pre class="inline">. “Threadbare recitals of the 
+elements of a cause of action, supported by mere conclusory statements,” are not sufficient. 
+Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662, 678</a></span><pre class="inline"> (2009) (citing Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#555" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. at 555</a></span><pre class="inline">). In applying 
+
+this standard, the Court must assume the facts in the complaint to be true and take all 
+reasonable inferences from those facts in the light most favorable to the plaintiff. Morton 
+v. Becker, </pre><span class="citation" data-id="8941443"><a href="/opinion/8950657/morton-v-becker/#187" aria-description="Citation for case: Morton v. Becker">793 F.2d 185, 187</a></span><pre class="inline"> (8th Cir. 1986); see also Waters v. Madson, </pre><span class="citation" data-id="4386310"><a href="/opinion/4609057/charles-waters-v-b-madson/#734" aria-description="Citation for case: Charles Waters v. B. Madson">921 F.3d 725, 734</a></span><pre class="inline"> 
+(8th Cir. 2019).                                                          
+    B.   Motion to Strike                                                
+ “The court  may  strike  from a  pleading  an insufficient  defense  or  any  redundant, 
+
+immaterial, impertinent, or scandalous matter.” Fed. R. Civ. P. 12(f). However, this is an 
+“extreme measure [such that] motions under Rule 12(f) are viewed with disfavor in the 
+Eighth Circuit and are infrequently granted.” E.E.O.C. v. Prod. Fabricators, Inc., </pre><span class="citation" data-id="8700045"><a href="/opinion/8716852/equal-employment-opportunity-commission-v-product-fabricators-inc/#1097" aria-description="Citation for case: Equal Employment Opportunity Commission v. Product...">873 F. 
+Supp. 2d 1093, 1097</a></span><pre class="inline"> (D. Minn. 2012) (citing Stanbury Law Firm, P.A. v. Internal Revenue 
+Serv., </pre><span class="citation" data-id="769807"><a href="/opinion/769807/stanbury-law-firm-pa-v-internal-revenue-service/#1063" aria-description="Citation for case: Stanbury Law Firm, P.A. v. Internal Revenue Service">221 F.3d 1059, 1063</a></span><pre class="inline"> (8th Cir. 2000); see also Donelson v. Ameriprise Fin. Servs., 
+
+Inc., </pre><span class="citation no-link">999 F.3d 1080</span><pre class="inline">, 1092 (8th Cir. 2021) (“[S]triking a party’s pleading is an extreme and 
+disfavored measure.”) (cleaned up). “[D]espite this, it is sometimes appropriate to strike 
+pleadings, such as when a portion of the complaint lacks a legal basis,” Donelson, 999 F.3d 
+at 1092, and therefore “[j]udges enjoy liberal discretion to strike pleadings under Rule 
+12(f),” BJC Health Sys. v. Columbia Cas. Co., </pre><span class="citation" data-id="797021"><a href="/opinion/797021/bjc-health-system-v-columbia-casualty-company-atg-assurance-company/#917" aria-description="Citation for case: Bjc Health System v. Columbia Casualty Company, Atg...">478 F.3d 908, 917</a></span><pre class="inline"> (8th Cir. 2007). When 
+
+contemplating  a  motion  to  strike  a  pleading  based  on  legal  deficiency,  courts  have 
+compared the legal standard to that of a motion to dismiss, in that the pleading “must be 
+accepted as true and the Court must find that [it] is legally insufficient” to state a claim. 
+Product Fabricators, </pre><span class="citation" data-id="8700045"><a href="/opinion/8716852/equal-employment-opportunity-commission-v-product-fabricators-inc/" aria-description="Citation for case: Equal Employment Opportunity Commission v. Product...">873 F. Supp. 2d at 1097</a></span><pre class="inline"> (citing United States v. NHC Health Care 
+Corp., No. 00-3128-CV-S-4-ECF, </pre><span class="citation no-link">2000 WL 33146581</span><pre class="inline">, at *1 (W.D. Mo. Dec. 29, 2000)). 
+
+III.  Discussion                                                          
+    A.   Motion to Dismiss                                               
+    Target makes broad thematic legal arguments that are directed to the sufficiency of 
+all of Plaintiffs’ fraud-based claims, followed by discrete arguments against specific fraud 
+claims and Plaintiffs’ other claims. The Court will address the former arguments first, 
+before turning to Target’s specific reasons for dismissing other claims in the Complaint. 
+
+         1.   Fraud Claims                                               
+    Target argues that Plaintiff’s fraud-based allegations fail under both Rule 9(b) and 
+Rule 12(b) of the Federal Rules of Civil Procedure.                       
+    Rule 9(b) Dismissal: Target first seeks the dismissal of Plaintiffs’ fraud-based 
+allegations due to a purported failure to plead with specificity. ECF 26 at 12–14. “In 
+
+alleging  fraud  or  mistake,  a  party  must  state  with  particularity  the  circumstances 
+constituting fraud or mistake.” Fed. R. Civ. P. 9(b). The complaint must therefore set forth 
+“the who, what, when, where, and how” of an alleged fraudulent act. E-Shops Corp. v. U.S. 
+Bank Nat. Ass’n, </pre><span class="citation" data-id="800136"><a href="/opinion/800136/e-shops-corp-v-us-bank-national-assn/#666" aria-description="Citation for case: E-Shops Corp. v. U.S. Bank National Ass&#x27;n">678 F.3d 659, 666</a></span><pre class="inline"> (8th Cir. 2012). “Rule 9(b) pleading requirements apply 
+to all claims premised on fraud, including claims of false advertising, deceptive trade 
+
+practices, unlawful trade practices, and consumer fraud.” Bhatia v. 3M Co., </pre><span class="citation" data-id="7249307"><a href="/opinion/7331389/bhatia-v-3m-co/" aria-description="Citation for case: Bhatia v. 3M Co.">323 F. Supp. 
+3d 1082</a></span><pre class="inline">, 1091–92 (D. Minn. 2018) (quotations omitted). The main purpose of Rule 9(b) is 
+to create notice. Com. Prop. Invs., Inc. v. Quality Inns Int’l, Inc., </pre><span class="citation" data-id="9488370"><a href="/opinion/700674/commercial-property-investments-inc-a-minnesota-corporation-v-quality/#644" aria-description="Citation for case: Commercial Property Investments, Inc., a Minnesota...">61 F.3d 639, 644</a></span><pre class="inline"> (8th Cir. 
+1995) (describing the purpose as to “facilitate a defendant’s ability to respond and to 
+prepare a defense to charges of fraud”). Therefore, the level of particularity required varies 
+along with the facts of each case. BJC Health Sys., </pre><span class="citation" data-id="797021"><a href="/opinion/797021/bjc-health-system-v-columbia-casualty-company-atg-assurance-company/#917" aria-description="Citation for case: Bjc Health System v. Columbia Casualty Company, Atg...">478 F.3d at 917</a></span><pre class="inline">. There is no dispute that 
+
+the heightened pleading requirements apply to almost all of the claims in the Complaint.  
+    Here, Target asserts a total pleading failure under Rule 9(b), but offers substantive 
+argument around Plaintiffs’ purported failure to allege the “what,” “when,” and “how” 
+prongs. See ECF 26 at 12–14. Given the lack of development of arguments around the 
+“who” and “where” prongs, the Court assumes these have been properly pleaded. As for 
+“what” and “how,” Target’s arguments are somewhat blended, and to a great degree are 
+
+subsumed by Target’s more fulsome Rule 12 challenge that the Complaint fails to state 
+an actionable misrepresentation that can sustain a consumer fraud case, so they are 
+explored  below.  The  Court  finds  that  Plaintiffs  have  pleaded  actionable 
+misrepresentations, and similarly concludes that Target is adequately on notice about 
+“what”  Plaintiffs  believe is  fraudulent  about  the  Target  Clean  program  and  “how” 
+
+Plaintiffs  believe  the  program’s  representations  are  fraudulent  or  misleading  to 
+consumers.                                                                
+    Whether Plaintiffs have adequately pleaded a “when” requires separate analysis. 
+Target argues they have not, noting that “Plaintiffs fail to even allege the dates of their 
+purchases.” Id at 13. This argument has some merit. For example, in the portion of the 
+
+Complaint  describing  some  of  the  underlying  purchases  that  led  to  this  litigation, 
+Plaintiffs allege only a month and year for certain individuals, while providing no 
+information at all for others. See Compl. ¶¶ 21–34. A summary chart of the named 
+plaintiffs and each of their alleged purchases includes information about what was 
+purchased and where, but no information at all about when the items were purchased. Id. 
+¶ 35. Simply put, there is some vagueness around the dates of the alleged purchases that 
+
+underpin this litigation.                                                 
+    But the Court will not dismiss the fraud claims at this stage because of a lack of 
+specificity in purchase dates. First, Target cites no authority for the proposition that the 
+“when” prong is unsatisfied in a consumer fraud case by allegations of purchases that 
+include only a month and year without a specific date. While the Court can certainly 
+envision a scenario in which specific-date allegations are key to providing notice, this is 
+
+not such a case. For one, the Court is unpersuaded that individual purchase dates are the 
+relevant “when” in this matter, at all. Plaintiffs do not allege discrete acts of deceit or 
+fraud where Target’s purported misrepresentations were unique to individual purchases 
+on different dates. Instead, Plaintiffs allege that Target Clean has induced sales through 
+misleading claims throughout the program’s entire existence. The fact that this allegation 
+
+is broad does not mean that it fails to provide notice to Target as to “when” the fraud 
+allegedly occurred. Moreover, as alleged in the Complaint, the period in which Target 
+made its misrepresentations is not particularly long. According to the Complaint, the 
+Target Clean program was launched in 2019 and continues to this day. This provides a 
+“when” window of no more than four years at the time of the filing of the Complaint. In 
+
+short, the Court concludes that the allegations in the Complaint reasonably provide notice 
+to Target about when Plaintiffs believe the fraudulent conduct has occurred. To the extent 
+that specific sales dates become important to one or more of Target’s defense theories 
+(see, e.g., the Court’s discussion of statutes of limitation defenses, supra) or to specific 
+factual questions, they can be ascertained through fact discovery.        
+    Rule 12(b) Dismissal: The same fraud-based claims subject to Target’s Rule 9(b) 
+
+arguments are also subject to a more robust challenge under Rule 12(b)(6). In short, Target 
+asserts that the Complaint fails to state a claim for fraud because it fails to plausibly allege 
+that a reasonable consumer could be deceived by the Target Clean program or any of its 
+representations. See, e,g., ECF 26 at 14 (“[T]o survive a motion to dismiss, Plaintiffs must 
+allege that Target Clean is a sufficiently specific claim that caused consumers to reasonably 
+believe that Target Clean qualified products . . . did not contain a multitude of other 
+
+unidentified chemicals. Plaintiffs cannot do so.”). Plaintiffs agree that their state consumer 
+protection law claims and common law fraud and negligent misrepresentation claims 
+require that Target’s representations would deceive a “reasonable consumer.” ECF 33 at 
+26–27 (collecting cases applying a reasonable consumer test to different causes of action 
+in the Complaint). Here, the Court will assume for the purposes of deciding the pending 
+
+motion that all of Plaintiffs fraud-based claims involve a necessary element that Target’s 
+representations could mislead a reasonable consumer. The Court will also assume that this 
+proof requirement interacts substantially the same with the pleading requirements for each 
+of Plaintiffs’ fraud claims. Essentially, to survive this motion to dismiss, the Court must 
+determine whether Plaintiffs have pleaded facts from which the Court can infer that a 
+
+reasonable  consumer  could  have  been  misled  by  the  Target  Clean  program  and  its 
+representations.                                                          
+    To be clear, this “reasonable consumer” test is in immediate tension with the early 
+stage of this litigation. In a variety of contexts, courts have observed that a judge’s role in 
+assessing whether a representation or statement is misleading or deceptive implies a factual 
+inquiry that is often inappropriate for purely legal resolution. See, e.g., In re K-tel Int’l, Inc. 
+
+Sec. Litig., </pre><span class="citation" data-id="778801"><a href="/opinion/778801/in-re-k-tel-international-inc-securities-litigation-pasquale-migliaccio/#897" aria-description="Citation for case: In Re: K-Tel International, Inc. Securities Litigation...">300 F.3d 881, 897</a></span><pre class="inline"> (8th Cir. 2002) (“Generally, the issue of whether a public 
+statement is misleading is a mixed question of law and fact for the jury.”); Rubenstein v. 
+Neiman Marcus Grp. LLC, </pre><span class="citation" data-id="4161184"><a href="/opinion/4383931/linda-rubenstein-v-neiman-marcus-group/#566" aria-description="Citation for case: Linda Rubenstein v. Neiman Marcus Group">687 F. App’x 564, 566</a></span><pre class="inline"> (9th Cir. 2017) (“Whether a business 
+practice is deceptive will usually be a question of fact not appropriate for decision on a 
+motion to dismiss.”) (quoting Williams v. Gerber Prod. Co., </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/#938" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d 934, 938</a></span><pre class="inline"> (9th Cir. 
+2008) (cleaned up); Bell v. Publix Super Markets, Inc., </pre><span class="citation no-link">982 F.3d 468</span><pre class="inline">, 483 (7th Cir. 2020) 
+
+(“How reasonable consumers actually understand defendants’ . . . labels is a question of 
+fact that cannot be resolved on the pleadings” even if it is sometimes amenable to resolution 
+on summary judgment); Tomasella v. Nestle USA, Inc., </pre><span class="citation no-link">962 F.3d 60</span><pre class="inline">, 71 (1st Cir. 2020) 
+(observing that “whether a particular set of acts, in their factual setting, is unfair or 
+deceptive is a question of fact”); Richardson v. Edgewell Pers. Care, LLC, No. 23-128, 
+
+</pre><span class="citation no-link">2023  WL  7130940</span><pre class="inline">,  at  *2  (2d  Cir.  Oct.  30,  2023)  (“What  a  reasonable  consumer’s 
+interpretation [of an allegedly deceptive claim] might be is a matter of fact which is not 
+appropriate for decision on a motion to dismiss.”) (cleaned up); Olson v. Major League 
+Baseball, </pre><span class="citation no-link">29 F.4th 59</span><pre class="inline">, 84 (2d Cir. 2022) (“The determination of whether certain [business] 
+conduct is unfair or deceptive is a question of fact.”); Holzman v. Malcolm S. Gerald &amp; 
+
+Assocs., Inc., </pre><span class="citation" data-id="4384507"><a href="/opinion/4607254/stephen-holzman-v-malcolm-s-gerald-associates-inc/#1269" aria-description="Citation for case: Stephen Holzman v. Malcolm S. Gerald &amp; Associates, Inc.">920 F.3d 1264, 1269</a></span><pre class="inline"> (11th Cir. 2019) (whether a representation made in the 
+course of debt collection is deceptive “generally is a question of fact”); Naylor Med. Sales 
+&amp; Rentals, Inc. v. Invacare Continuing Care, Inc., </pre><span class="citation" data-id="2981683"><a href="/opinion/2981683/naylor-medical-sales-rentals-inc-v-invacare-continuing-care-inc/#454" aria-description="Citation for case: Naylor Medical Sales &amp; Rentals, Inc. v. Invacare...">517 F. App’x 443, 454</a></span><pre class="inline"> (6th Cir. 2013) 
+(“Whether a particular act is unfair or deceptive [to a consumer] is a question of fact[.]”); 
+In re Miracle Tuesday, LLC, </pre><span class="citation" data-id="809663"><a href="/opinion/809663/in-re-miracle-tuesday-llc/#1343" aria-description="Citation for case: In Re Miracle Tuesday, LLC">695 F.3d 1339, 1343</a></span><pre class="inline"> (Fed. Cir. 2012) (“Whether a [trade]mark 
+is primarily geographically deceptively misdescriptive [to consumers] is a question of 
+
+fact.”). Thus, it is the exception, and not the rule, that allegations of consumer deception 
+are amenable to legal disposition on the pleadings alone. And here, the Court concludes 
+that too many factual issues require development before any determination can be rendered 
+as to whether a reasonable consumer could be deceived as alleged in the Complaint. 
+    Take, for example, the allegation that at least one Target Clean Beauty Product 
+literally contains an ingredient on the banned ingredients list. Aside from emphasizing the 
+
+limited nature of this allegation (see ECF 26 at 8 (“only one product”)), Target quibbles 
+about whether the bronzer in question does or did, in fact, contain propylparabens as 
+alleged (id. at 8 n.5 (maintaining that “the Physicians Mosaic Bronzer, sold today and 
+during  the  relevant  time  period  time  of  Plaintiffs’  purchases,  does  not  include 
+propylparaben.”)). But this is a motion to dismiss, where the Court must take all allegations 
+
+in the Complaint as true and where only threadbare recitals and speculation are susceptible 
+to dismissal. Here, Plaintiffs’ multiple paragraphs of allegations about the bronzer product 
+(Compl. ¶ 166–74) are certainly more than speculative accusations. What Target seeks to 
+resolve through its motion is a dispute about the likelihood that the bronzer purchased by 
+these Plaintiffs would have listed propylparabens on its ingredient label (see ECF 26 at 8 
+
+n.5 (“The physical product that [Plaintiffs] purchased should have the correct packaging 
+and labeling listing the ingredients. Propylparaben is not listed on the Physicians Mosaic 
+Bronzer ingredient list.”)). Whether Target is correct about what the ingredient label would 
+have shown (and whether the omission of propylparaben from that ingredient label would 
+necessarily disprove Plaintiffs’ allegations that the product contains propylparaben) are 
+clearly matters of factual dispute, not amenable for resolution on a motion to dismiss. 
+
+Target may prevail on this argument, but they cannot do so at this stage.  
+    Target makes more substantial arguments about the sufficiency of the pleadings of 
+other alleged misrepresentations. For example, Target pushes back on the suggestion that 
+consumers who encounter the Target Clean logo without the fine print would be misled, 
+asserting that the “Target Clean icon alerts consumers to the fact that Target attaches a 
+specific  definition  to  its  branded  term”  (ECF  26  at  23  n.12),  and  that  “reasonable 
+
+consumers would view Target’s posted definitions” to better inform themselves about what 
+the program does and does not claim (id. at 17). To the extent that a consumer did not 
+understand that Target attaches or provides its own definition to the Target Clean term, 
+Target also argues that “clean” lacks any “accepted meaning [and] is too subjective and 
+vague and wholly dependent on an individual’s interpretation, and lacks an empirical 
+
+benchmark to provide any indicia of measurability to create a basis for a lawsuit . . . based 
+on reasonable consumer confusion.” Id. at 23.                             
+    But here, too, the Court disagrees that it can appropriately decide on the pleadings 
+whether a reasonable consumer would be misled by the broad representation that a given 
+product is “Target Clean.” In short, both parties stake out polarized positions of the 
+
+meaning of “Target Clean” that somewhat strain credulity and that would necessarily be 
+refined through factual development. One of the clearer distillations in the Complaint of 
+Plaintiffs’ theory in this case is that “[t]o consumers, ‘clean’ beauty means that consumers 
+can use a product without risking their health and the ingredients list is transparent and 
+only contains safe, non-toxic ingredients[.].” Compl. ¶ 12. This is unmistakably broad 
+framing. The Complaint features other definitions that similarly create something of a 
+
+moving target, for example by blending environmental concerns into allegations that 
+otherwise predominantly focus on personal health. See id. ¶ 14 (alleging that the “Target 
+Clean” label denotes to consumers products that “will not harm the environment through 
+their ingredients, manufacture, use, or disposal and will be safe and good for humans”). 
+But Target, for its own part, insists that Target Clean can only be understood as a kind of 
+proprietary  representation,  embodying  only  its  own  exact  terms  and  conditions  and 
+
+communicating nothing more. See, e.g., ECF 26 at 16 (“Target Clean, as is evident from 
+the name, is a Target-specific program defined by Target to qualify products it sells.”). 
+Target concedes nothing else of substance about what a consumer might reasonably expect 
+“clean” to convey. The ensuing impasse over meaning will not be resolved in favor of 
+Target at this stage in the litigation for several reasons.               
+
+    First, Target’s own case law suggests that “clean” is being used in cosmetics sales 
+widely, and has at least some kind of consistent meaning apart from whatever proprietary 
+meaning Target wishes to assign to it. See Finster v. Sephora USA Inc., No. 6:22-cv-1187, 
+</pre><span class="citation no-link">2024 WL 1142014</span><pre class="inline">, at *1–2 (N.D.N.Y. Mar. 15, 2024) (dismissing a more threadbare 
+complaint with claims of consumer deception in a “Clean at Sephora” retail labeling 
+
+scheme). Second, Target’s dependence on an idealized scenario of clear explanation and 
+disclosure  about  its  own  definition  of  Target  Clean  ignores  Plaintiffs’  second-order 
+assertions about the Target Clean program—namely, that the program’s definitions about 
+itself are confusing and inconsistent. See, e.g., Compl. at 62 n.119 (alleging that “[p]rior to 
+June 2023, the list of banned Target Beauty and Personal Care Ingredients was 60 pages (5 
+pages were related to general products, 1/2 page was related to oral care, and the remaining 
+
+pages were related to deodorant),” but that the “basis for the separation of the list [was] 
+unclear”); </pre><span class="citation no-link">id.</span><pre class="inline"> at 62 n.120 (alleging that “between February 2023 and July 2023, Target 
+updated and/or modified the list of banned Target Beauty and Personal Care Ingredients”). 
+And third, Target’s position requires far too much assumption about what a Target Clean 
+consumer would have reasonably encountered or been told about this program at the time 
+of their purchases.                                                       
+
+    This third piece gets to the heart of something unique about the allegations in the 
+Complaint. Many of the cases cited by Target dismissing consumer fraud actions can be 
+fairly characterized as “product cases,” meaning that a plaintiff has sued the manufacturer 
+of a product for the representations made about (and often literally on) that product. In this 
+relatively closed universe—featuring a directly proprietary representation about a product, 
+
+typically capable of being immediately verified or at least scrutinized by the consumer—it 
+makes more sense for a court to render early legal conclusions about who the reasonable 
+consumer is and what they have perceived. But the situation presented in this case is much 
+murkier because this is not a typical products case. This is a case about a well-known 
+national retailer alleged to have independently curated a selection of products and then 
+
+presented those products to the consumer as being “Target Clean” through at least several 
+variations of representations. The central allegation presented is that the Target Clean 
+program itself is inherently deceptive, not merely any one claim about any one product. In 
+other words, by representing Target Clean as a neutral tool to help consumers, Target is 
+alleged to have used an imprimatur of authority, as a retailer, to point health-conscious 
+consumers toward purchasing certain products.                             
+
+    Allegations of this nature are simply not present in the authority Target’s cites. Take, 
+for example, the cases dealing with other relatively cursory representations on products 
+that it analogizes to “Target Clean.” In Chin v. General Mills, Inc., the court dismissed 
+allegations of deception in “100% natural”3 product labeling because it determined that 
+Plaintiffs had failed to adequately plead that they (or a reasonable consumer) would have 
+believed that to be a representation that the product did not contain processed ingredients. 
+
+No. 12-cv-2150 (MJD/TNL), </pre><span class="citation no-link">2013 WL 2420455</span><pre class="inline">, at *9 (D. Minn. June 3, 2013). In Song 
+v. Champion Petfoods USA, Inc., the court concluded that it was “implausible that a 
+reasonable consumer would interpret [the] innocuous, two-word” claim that dog food was 
+“biologically  appropriate”  as  conveying  that  the  food  would  contain  only  “fresh 
+ingredients, [would] not contain any amount of heavy metals or BPA, and is processed in 
+
+such a way as to eliminate any risk that it could be contaminated with pentobarbital.” No. 
+18-cv-3205 (PJS/KMM), </pre><span class="citation no-link">2020 WL 7624861</span><pre class="inline">, at *5 (D. Minn. Dec. 22, 2020).    
+    In  total  isolation,  statements  that  a  product  is  “100%  natural,”  “biologically 
+appropriate,” or “clean” appear similar. But the similarity between Plaintiffs’ allegations 
+about Target Clean and the allegations in Chin and Song is superficial. As Target is quick 
+
+
+    3 Indeed, the Chin case can be best understood in context of the line of cases it 
+belongs to: those dealing with the specific claim that a given product is “all natural” or 
+“100% natural.” See id. at *5 (collecting numerous cases involving allegations over those 
+exact claims). The representation in this case, that a cosmetic product is “clean,” has not 
+been subjected to the same repetitive legal analysis that could support disposition on 
+Target’s arguments alone.                                                 
+to point out, the representation is “Target Clean,” not merely “clean.” And what the 
+representations in Chin and Song lack is the substantial factual overlay imparted by that 
+
+combination. Plaintiffs’ allegations about the broader Target marketing landscape for the 
+Target Clean  program, the statements of Target executives about the purpose  of the 
+program,4 and its unique curative presentation, are what entitle their pleadings to the 
+inference that “Target Clean” creates a more expansive representation in the eyes of the 
+reasonable consumer than “100% natural” or “biologically appropriate.” Because while all 
+of  these  positive  representations  about  products  communicate  to  the  consumer  that 
+
+someone would like to sell them something, only Target’s representation that a product is 
+“Target Clean” suggests that Target has done some work on their behalf.   
+    The independent curation also effectively removes another key basis on which 
+consumer  deception  cases  are  dismissed  under  Rule  12:  that  a  reasonable  consumer 
+understands the concept of commercial puffery and knows they must verify the claims 
+
+made about products. This caveat emptor logic does not squarely apply here. It is one thing 
+to assume that a consumer expects a shampoo manufacturer to promote its own products 
+by any means necessary, and therefore require that consumer, as a matter of law, to verify 
+package labeling for abject dishonesty before claiming to have been deceived. See Devane 
+v. L’Oreal USA, Inc., No. 19 Civ. 4362 (GBD), </pre><span class="citation no-link">2020 WL 5518484</span><pre class="inline">, at *4–5 (S.D.N.Y. 
+
+Sept. 14, 2020) (dismissing “keratin” shampoo lawsuit where “a simple reading of the 
+
+    4 Target insists that it is unreasonable to impart any “meaning or otherwise rely on 
+more generalized statements from years past from news articles and press releases” (ECF 
+26 at 16), but it cites no authority for why this Court would simply ignore these aspects of 
+the Complaint that put meat on the bones of Plaintiffs’ allegations.      
+ingredients list would have made it clear that the Products do not contain keratin”). But it 
+is another thing to assume what a consumer reasonably expects when Target positions itself 
+
+between the manufacturer’s label and the consumer, promoting certain products on its 
+shelves over others as embodying certain standards. Here, the typical sales motivations are 
+altered, and indeed, at this stage the Court can imagine that a consumer might reasonably 
+assume that Target had independently made an assessment that some of its products are 
+cleaner than others in a way that is meaningful to its customers. What follows from such 
+an assumption (e.g., whether a reasonable consumer would feel that Target had relieved 
+
+them of the need to verify claims or whether the reasonable consumer would view Target’s 
+independent representations as being no more trustworthy than those of the shampoo 
+maker)  remains  opaque  to  the  Court.  But  assuming  as  true  Plaintiffs’  well-pleaded 
+allegation that Target Clean products are not actually “cleaner” than others, that opacity 
+forecloses a quick dismissal on the merits of Plaintiffs’ fraud-based claims. 
+
+    This brings the Court to Target’s contention that the Target Clean program cannot 
+mislead a reasonable consumer by failing to either disclose the presence of ingredients in 
+Target Clean Beauty Products that are not “banned ingredients” but that are allegedly just 
+as harmful for similar reasons, or by excluding such ingredients from the program. This 
+allegation in the Complaint implies that the consumer has seen or otherwise understood at 
+
+least some part of Target’s representation that the Target Clean Beauty Products do not 
+contain certain ingredients. See Compl. ¶ 5 (depicting in-store signage listing the banned 
+ingredients). Plaintiffs implicitly suggest that a reasonable consumer would understand the 
+representation as identifying banned ingredients by kind rather than with literal specificity. 
+For  example,  the  Plaintiffs  imply  that  a reasonable  consumer  would  understand that 
+propylparaben is a banned ingredient because it is a harmful endocrine disruptor, and not 
+
+merely that propylparaben is a banned ingredient. Plaintiffs’ allegation is that a consumer 
+would  therefore  reasonably  expect  that  Target  Clean  products  do  not  contain  other, 
+unspecified harmful endocrine disruptors. Target’s view about this allegation, which is 
+central to much of the Complaint, is that the list of banned ingredients speaks for itself and 
+cannot impart any representation other than its own, plain terms. In other words, no 
+reasonable consumer could be misled by the representation that Target Clean Beauty 
+
+Products do not contain certain specified harmful ingredients, even if Plaintiffs are correct 
+that the products do contain other similarly harmful ingredients. See, e.g., ECF 26 at 18 
+(“[I]t is not reasonable to ignore Target’s definition of Target Clean, which includes a list 
+of the Omitted Beauty Chemicals, and assume it also incorporates an unspecified list of 
+thousands of other chemicals.”). This is Target’s strongest argument, and it may ultimately 
+
+prevail, but it also fails on this motion to dismiss.                     
+    Again, the authority that Target relies upon is distinguishable. Target cites a number 
+of cases in which consumers allege highly specific expectations, sometimes bordering on 
+non-sequiturs, arising from representations about products. For example, in In re Gen. 
+Mills Glyphosate Litigation, the court concluded that it was “not plausible to allege that 
+
+the statement ‘Made with 100% Natural Whole Grain Oats’ means that there is no trace 
+glyphosate in Nature Valley Products.” No. 16-cv-2869 (MJD/BRT), </pre><span class="citation no-link">2017 WL 2983877</span><pre class="inline">, 
+at *6 (D. Minn. July 12, 2017). In Stuve v. The Kraft Heinz Co., the court dismissed 
+consumer fraud claims, concluding that alleged statements on a box of Kraft macaroni and 
+cheese that its contents had “The Taste You Love” with “NO Artificial Flavors,” “NO 
+Artificial  Preservatives,”  and  “NO  Artificial  Dyes”  could  not  mislead  a  reasonable 
+
+consumer into believing the product was “healthy, wholesome, nutritious, and free from 
+artificial  substances,  including  harmful  synthetic  toxins.”  No.  21-cv-1845,  </pre><span class="citation no-link">2023  WL 
+184235</span><pre class="inline">, at *2 (N.D. Ill. Jan. 12, 2023). In Song, as discussed above, the Court concluded 
+that  no  reasonable  consumer  would  conclude  that  a  dogfood  labeled  “biologically 
+appropriate” would contain only “fresh ingredients.” </pre><span class="citation no-link">2020 WL 7624861</span><pre class="inline">, at *5. And in 
+Finster, the Court dismissed consumer fraud allegations that “le[ft] the Court guessing” 
+
+how a reasonable consumer could believe that a cosmetic marketed as being “formulated 
+without parabens, sulfates SLS and SLES, phthalates, mineral oil, formaldehyde, and 
+more”  would  “contain  no  synthetic  or  harmful  ingredients  whatsoever.”  </pre><span class="citation no-link">2024  WL 
+1142014</span><pre class="inline">, at *1–2.                                                         
+    Each of these cases involves a plaintiff pointing to a representation and then alleging 
+
+an expectation that is facially unrelated to that representation, either by degree or entirely. 
+Such an unrelated expectation is simpler to dismiss as unreasonable. But here, while 
+Plaintiffs in this case certainly articulate a belief that Target Clean labeling creates a 
+broader universe of expectations than the program’s own fine print suggests, the difference 
+between the representations and expectations alleged in the Complaint is not one of apples 
+
+and oranges. Furthermore, as discussed above, Target is alleged to have made statements 
+about the Target Clean program that arguably encourage broader expectations than Target 
+is willing to concede can arise out of the fine print. Indeed, there is a fairly straight line 
+between the alleged representation that Target Clean products are “formulated without a 
+group  of  commonly  unwanted  chemicals”  (Compl.  ¶ 105)  or  “formulated  without 
+ingredients they may  not want” (id. ¶ 14)  and Plaintiffs’ assertion that a reasonable 
+
+consumer broadly expects Target Clean products to “be safe and good for humans” (id.). 
+Put  differently,  while  the  reasonableness  of  Plaintiffs’  expectations  remains  up  for 
+strenuous debate, it is a debate that cannot be resolved through the procedural mechanism 
+of a motion to dismiss for failure to state a claim.                      
+    Finally, the reasonableness of Plaintiffs’ position about the deceptiveness of the 
+banned-ingredient representation is buttressed by their reliance on extrinsic authority in the 
+
+Complaint. See Compl. ¶¶ 50–53 (referencing the Federal Trade Commission’s “Guides 
+for  the  Use  of  Environmental  Marketing  Claims”).  According  to  Plaintiffs,  the  FTC 
+provides guidance on whether certain commercial practices are deceptive to consumers, 
+and in its “Green Guides” states that “a truthful claim that a product, package, or service is 
+free of, or does not contain or use, a substance may nevertheless be deceptive if: [] the 
+
+product, package, or service contains or uses substances that pose the same or similar 
+environmental risks as the substance that is not present[.]” Id. ¶ 52(g) (citing </pre><span class="citation no-link">16 C.F.R. § 
+260.9</span><pre class="inline">). Target dismisses Plaintiffs’ reliance on the FTC guidance as “trying to link ‘clean’ 
+claims for beauty products to the FTC’s guidance regarding environmental sustainability 
+claims.”  ECF  26  at  23–24;  see  id.  at  4  (arguing  that  the  Green  Guides  are  about 
+
+sustainability  and  “have  nothing  to  do  with  cosmetics”).  The  Court  agrees  that  the 
+Complaint  does  occasionally  muddy  the  waters  by  mixing  concerns  about  the 
+environmental and health impacts of certain ingredients, but Plaintiffs’ use of the Green 
+Guides is not one of those instances. Here, Plaintiffs point to the Green Guides to support 
+the contention that a consumer is reasonably deceived in an environmental marketing 
+scenario that is very comparable to that alleged in cosmetics marketing here. Plaintiffs’ 
+
+citation to the Green Guides is not to evidence of Target’s wrongdoing, nor is it even really 
+evidence that a reasonable consumer would interpret the banned-ingredient representation 
+in the way Plaintiffs allege. Instead, at this stage, the Plaintiffs’ citation to the Green Guides 
+supports merely the inference that a reasonable consumer could likely be deceived by 
+tactics  employed  by  cosmetics  retailers  similar  to  tactics  that  the  FTC  has  deemed 
+potentially deceptive in the environmental space.                         
+
+    Conclusion: The contours of this litigation will certainly narrow through the course 
+of discovery, as theories adapt to the facts that are developed and the evidence that accrues. 
+But in seeking to dismiss the lion’s share of Plaintiff’s case on the pleadings alone, Target 
+asks too much. Given the breadth of Target’s arguments, to grant its motion would amount 
+to this Court declaring, as a matter of law, that the Target Clean program alleged in the 
+
+Complaint is incapable of deceiving a reasonable consumer. Doing so would require this 
+Court to invert the presumptions that govern at the pleading stage by resolving considerable 
+factual ambiguity and complexity in Target’s favor. This the Court cannot do. Target’s 
+motion to dismiss Plaintiffs’ fraud claims under Rule 12(b)(6) is denied. 
+         2.   Intent, Reliance, and Causation                            
+
+    Target also alleges that Plaintiffs’ Complaint fails to allege both intent and reliance 
+and causation as required by Rule 9(b) for their fraud-based claims. These arguments also 
+amount to a Rule 12(b)(6) challenge to the sufficiency of Plaintiffs’ fraud allegations, but 
+the  Court  will  briefly  address  them  separately  as  they  represent  discrete  pleading 
+requirements.                                                             
+
+    Intent: Plaintiffs’ fraud claims carry an intent requirement. For example, the MCFA 
+prohibits the “act, use, or employment by any person of any fraud, false pretense, false 
+promise, misrepresentation, misleading statement or deceptive practice, with the intent that 
+others rely thereon in connection with the sale of any merchandise.” Minn. Stat. § 325F.69, 
+subd. 1 (emphasis added). At the pleading stage, “intent can be alleged generally, [but] the 
+allegations cannot be conclusory or based on speculation.” Bhatia, </pre><span class="citation" data-id="7249307"><a href="/opinion/7331389/bhatia-v-3m-co/#1095" aria-description="Citation for case: Bhatia v. 3M Co.">323 F. Supp. 3d at 1095</a></span><pre class="inline">. 
+
+Where a plaintiff fails to articulate an “intent to induce,” their fraud claims may be 
+dismissed. </pre><span class="citation" data-id="7249307"><a href="/opinion/7331389/bhatia-v-3m-co/" aria-description="Citation for case: Bhatia v. 3M Co.">Id.</a></span><pre class="inline">                                                            
+    Target  argues  that  while  Plaintiffs  repeatedly  allege  “intentional”  actions  in 
+developing and promoting the Target Clean program, they have failed to allege how Target 
+intended to deceive consumers under the Target Clean label. ECF 26 at 25–26. Instead, 
+
+Target asserts that its “actions demonstrate an intent to inform consumers about the Target 
+Clean program” by providing information about the program in its stores, on its website, 
+and by disclosing the program’s banned ingredients. Id. at 25. Target also suggests that 
+Plaintiffs have failed to allege that Target “knew customers were being misled by its 
+labeling claims” (id. at 26).                                             
+
+    The Court disagrees. Target’s arguments again amount to a request to accept the 
+facts according to Target, instead of according to the pleadings. Instead, the Court must 
+look to the facts stated in the Complaint, which thoroughly alleges that Target conceived 
+of the Target Clean program to tap into growing consumer demand for “clean” cosmetics 
+and health products. See, e.g., Compl. ¶¶ 2, 9, 11, 13, 42, 106–07, 321. In pursuit of that 
+demand, Plaintiffs allege that Target has intentionally made Target Clean overinclusive by 
+
+“relying on a narrow subset of ingredients to make a ‘clean’ claim and ignoring other 
+harmful or potentially harmful ingredients.” See, e.g., Id. ¶ 121; see also id. ¶¶ 5–6, 14–15, 
+265.  Plaintiffs  also  make  factual  claims  about  the  way  the Target  Clean  labeling  is 
+presented (for example, by alleging that it is used in isolation and without the disclosures 
+identified by Target) and allege that this is a deliberate effort to attach an imprimatur of 
+authority while discouraging the likelihood that a consumer would scrutinize its claims. Id. 
+
+¶ 9.                                                                      
+    Taken together, these allegations do enough to support the inference that Target 
+intended to induce sales through the false representation that certain products on its shelves 
+were “clean.” This general intent is enough at the pleading stage. To the extent that Target 
+means to suggest that Plaintiffs have failed to allege details such as Target’s intention to 
+
+craft an underinclusive banned ingredients list by omitting specific ingredients that Target 
+knew to be harmful, judging the sufficiency of the complaint by such a standard is far too 
+onerous on a Rule 12(b)(6) analysis and depends on facts not yet within Plaintiffs’ reach. 
+The  Court  cautions  that  proving  this  theory  of  deliberate  misrepresentation  will  be 
+considerably more difficult than alleging it, but that is a question for another day.  
+
+    Reliance and Causation: Target next argues that Plaintiffs have failed to “plead 
+reliance because they never disclose what Target Clean advertisement each Plaintiff viewed 
+and how it misled them.” ECF 26 at 26. Plaintiffs argue that they are not required to 
+demonstrate  proof  of  individual  reliance  on  the  misrepresentations  alleged  in  their 
+Complaint. ECF 33 at 51 (arguing that “a plaintiff alleging injury based on the purchase of 
+a mass-market product can establish standing by pleading facts showing a defendant’s 
+
+violative,  systemic  practices  regarding  the  product”  and  need  not  demonstrate  that 
+individual plaintiffs individually relied upon the alleged misrepresentations) (citing John 
+v. Whole Foods Mkt. Group, Inc., </pre><span class="citation" data-id="8414680"><a href="/opinion/8443309/john-v-whole-foods-market-group-inc/#734" aria-description="Citation for case: John v. Whole Foods Market Group, Inc.">858 F.3d 732, 734</a></span><pre class="inline">, 737–38 (2d Cir. 2017)).  
+    Resolving any argument about whether the nature of Plaintiffs’ allegations obviate 
+the need to prove individual reliance will wait. “On a motion to dismiss, general allegations 
+of reliance and damages are enough” to sustain a fraud claim. Dunnigan v. Fed. Home Loan 
+
+Mortg. Corp., </pre><span class="citation no-link">184 F. Supp. 3d 726</span><pre class="inline">, 740 (D. Minn. 2016) (citing Franklin High Yield Tax–
+Free Income Fund v. Cty. of Martin, Minn., </pre><span class="citation" data-id="757083"><a href="/opinion/757083/fed-sec-l-rep-p-90272-franklin-high-yield-tax-free-income-fund-a/" aria-description="Citation for case: Fed. Sec. L. Rep. P 90,272 Franklin High Yield Tax-Free...">152 F.3d 736</a></span><pre class="inline">, 740–41 (8th Cir. 1998)). Here, 
+Plaintiffs allege that the Target Clean logo is applied to individual products, to shelves, on 
+the Target website, and on display signage in stores. See, e.g., Compl. ¶¶ 5, 9. They allege 
+that the “clean” claims are significant to consumers, generally, and that consumers had 
+
+increased awareness of general principles underlying those claims. See, e.g., id. ¶¶ 9, 41–
+42. Finally, each of the named plaintiffs offers general allegations that they “tr[y] to 
+purchase clean products” and that the presence of the Target Clean label on one of the 
+Target Clean Beauty Products “impacted [their] decision” to purchase the product. Id. ¶¶ 
+21–34. Furthermore, the named plaintiffs claim that their purchases caused them to be 
+
+damaged  because  each  one  “would  not  have  purchased  the  product,  or  would  have 
+purchased the product under different terms” had they not been deceived by the Target 
+Clean representation. Id. These allegations do enough at the pleading stage to support the 
+inference that Plaintiffs relied upon a Target Clean representation when purchasing a Target 
+Clean beauty product and that this reliance caused them to be harmed.     
+
+         3.   State Pleadings                                            
+    Target also seeks the dismissal of several of Plaintiffs’ state-law consumer fraud 
+claims on various grounds. The Court will take these in turn.             
+    Washington Consumer Protection Act (“CPA”) claim: A plaintiff must prove five 
+elements to prevail on a private claim under Washington’s CPA: “(1) an unfair or deceptive 
+act or practice, (2) that occurs in trade or commerce, (3) a public interest, (4) injury to the 
+
+plaintiff in his or her business or property, and (5) a causal link between the unfair or 
+deceptive act and the injury suffered.” Indoor Billboard/Wash., Inc. v. Integra Telecom of 
+Wash., Inc., </pre><span class="citation" data-id="4713826"><a href="/opinion/4908774/indoor-billboardwashington-inc-v-integra-telecom-of-washington-inc/#74" aria-description="Citation for case: Indoor Billboard/Washington, Inc. v. Integra Telecom of...">162 Wash. 2d 59, 74</a></span><pre class="inline"> (2007). Target argues that Plaintiffs’ Washington CPA 
+claim fails because it does not plead facts regarding causation between an alleged deception 
+and damage to one or more plaintiffs, a requirement that Target analogizes to the reliance 
+
+standard. See ECF 26 at 29 (“Although the [Washington CPA] does not require that 
+plaintiffs plead actual reliance, it does require causation between the alleged deceptive act 
+and damages.”).                                                           
+    As discussed previously, the Court is satisfied that the Complaint alleges general 
+reliance sufficient to sustain its fraud claims at this stage in the litigation. To the extent that 
+
+Target asserts a particular pleading failure around reliance, as to the Washington plaintiffs’ 
+allegations  under  the  Washington  statute,  or  to  the  extent  that  Target  suggests  the 
+Washington statute requires more at the pleading stage, the Court disagrees. The Complaint 
+alleges that Marsha Solmssen and  Jessica  Brodiski are residents of Washington who 
+purchased  one  or  more  Target  Clean  products  and  whose  purchasing  decision  was 
+influenced  by  the  Target  Clean  program.  See  Compl.  ¶¶  33,  34  (alleging  that  both 
+
+Washington plaintiffs’ purchase decisions were “impacted” by the Target Clean label 
+associated with the products they purchased). Like other named plaintiffs in this case, the 
+Washington plaintiffs further allege that they would not have purchased (or would have 
+paid less) for Target Clean products if not for the alleged misrepresentations made by the 
+Target Clean program. Compl. ¶¶ 33, 34, 455.                              
+    Target’s arguments for dismissal of the Washington CPA claims revolve around the 
+
+allegation that both Ms. Solmssen and Ms. Brodiski purchased the Physicians Bronzer 
+product containing propylparabens. In essence, Target argues that neither Ms. Solmssen or 
+Ms.  Brodiski  particularly  allege  that  they  “actually  read  and  relied  upon  Target’s 
+explanation  that  the  Target  Clean  products  lack  propylparabens”  and  so  the  alleged 
+presence of propylparabens in the bronzer product cannot, by itself, establish causation 
+
+between any misrepresentation and harm. See ECF 26 at 29. This argument fails for at least 
+two reasons. First, Ms. Brodiski alleges the purchase of more than the bronzer product, 
+which means that only the allegations of Ms. Solmssen could be dismissed under Target’s 
+theory. Second, this argument prematurely requires Plaintiffs to prove the complicated 
+relationship  between  their  purchasing  decisions,  awareness  of  Target’s  alleged 
+
+misrepresentations, and the alleged harm done to them. Again, an animating allegation of 
+the Complaint is that Target curated a product list that signaled to consumers, in the 
+broadest sense, that Target Clean-labeled products do not contain ingredients harmful to 
+human health. The follow-on allegation is that some of the thus-labeled products do, in 
+fact, contain ingredients harmful to human health. This allegation certainly implicates 
+alternative  theories  of  reliance—in  one,  the  plaintiffs  relied  upon  fixed  and  specific 
+
+understandings about the meaning of Target Clean due to studious examination of its 
+claims, which turned out to be false; in another, the plaintiffs relied upon the Target Clean 
+label but were induced by an appeal to consumer convenience to avoid any serious scrutiny 
+of its claims, which turned out to be false. Plaintiffs’ theories of liability may necessarily 
+narrow  or  become  more  refined  through  the  course  of  this  litigation,  or  they  be 
+unproveable. Whether this impacts the specific claims of the Washington plaintiffs will be 
+
+determined. For now, however, the allegations of Ms. Solmssen and Ms. Brodiski, assumed 
+to be true at the pleading stage, are sufficient for the Court to infer that each relied upon an 
+alleged misrepresentation as well as a causal link between an alleged misrepresentation and 
+alleged harm.                                                             
+    California law claims: Plaintiffs allege the violation of three California statutes: the 
+
+California Unfair Competition Law (“CUCL”), </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code §§ 17200</span><pre class="inline">, et seq; 
+the California Consumer Legal Remedies Act (“CCLA”), </pre><span class="citation no-link">Cal. Civ. Code §§ 1750</span><pre class="inline">, et seq.; 
+and the California False Advertising Law, Cal. Bus, &amp; Prof. Code § 17500 (“CFAL”). See 
+Compl. ¶¶ 288–333. Target’s arguments for dismissing Plaintiffs’ CCLA and CFAL claims 
+reply upon the same theory for dismissal of all of Plaintiffs’ fraud-based claims. See ECF 
+
+26 at 30 (explaining that the CCLA and CFAL claims fail because no reasonable consumer 
+would be misled by Target Clean’s claims and because the fraud claims do not comply 
+with the requirements of Rule 9(b)). These arguments are rejected for the reasons stated 
+previously, and the CCLA and CFAL claims may therefore proceed.           
+    Target does offer specific arguments for dismissal of the CUCL claim, which 
+require separate consideration. “The [C]UCL is a broad remedial statute that permits an 
+
+individual to challenge wrongful business conduct ‘in whatever context such activity might 
+occur.’” Lozano v. AT &amp; T Wireless Servs., Inc., </pre><span class="citation" data-id="1429600"><a href="/opinion/1429600/lozano-v-at-t-wireless-services-inc/#731" aria-description="Citation for case: Lozano v. AT &amp; T Wireless Services, Inc.">504 F.3d 718, 731</a></span><pre class="inline"> (9th Cir. 2007) (quoting 
+Cel–Tech Commc&#x27;ns, Inc. v. Los Angeles Cellular Tele. Co., </pre><span class="citation" data-id="9567993"><a href="/opinion/1301891/cel-tech-communications-inc-v-los-angeles-cellular-telephone-co/" aria-description="Citation for case: Cel-Tech Communications, Inc. v. Los Angeles Cellular...">973 P.2d 527</a></span><pre class="inline"> (Cal. 1999)). 
+The  act  prohibits  unfair  competition,  defined  as  including  “any  unlawful,  unfair  or 
+fraudulent business act or practice and unfair, deceptive, untrue or misleading advertising.” 
+</pre><span class="citation" data-id="9567993"><a href="/opinion/1301891/cel-tech-communications-inc-v-los-angeles-cellular-telephone-co/" aria-description="Citation for case: Cel-Tech Communications, Inc. v. Los Angeles Cellular...">Id.</a></span><pre class="inline"> (quoting </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline">). Thus, the act creates three prongs—unlawful, 
+
+unfair, and fraudulent acts—and “[e]ach prong . . . is a separate and distinct theory of 
+liability.” </pre><span class="citation no-link">Id.</span><pre class="inline"> (citing South Bay Chevrolet v. Gen. Motors Acceptance Corp., </pre><span class="citation" data-id="2256580"><a href="/opinion/2256580/south-bay-chevrolet-v-general-motors-acceptance-corp/" aria-description="Citation for case: South Bay Chevrolet v. General Motors Acceptance Corp.">72 Cal. App. 
+4th 861</a></span><pre class="inline"> (1999)).                                                          
+    Here, Plaintiffs assert violations of all three prongs, see Compl. ¶¶ 291–305, and 
+Target argues for dismissal of each. Target’s argument that Plaintiffs have failed to plead 
+
+a “fraudulent” act is tied to Target’s broader arguments on the fraud allegations in the 
+Complaint, which the Court has rejected. Target likewise argues that the “unlawful” prong 
+is unmet because it relies entirely on alleged violations of the CCLA and CFAL. Because 
+the Court has declined to dismiss those claims, the alleged violation of those acts can 
+properly buttress Plaintiffs’ CUCL claim. Finally, Target argues that the “unfair” prong 
+
+fails because its allegations are entirely coextensive with the conduct alleged to violate the 
+other two prongs. ECF 26 at 31 (“[W]here the unfair business practices alleged under the 
+unfair prong of the UCL overlap entirely with the business practices addressed in the 
+fraudulent and unlawful prongs of the UCL, the unfair prong of the UCL cannot survive if 
+the claims under the other two prongs of the UCL do not survive.”) (quoting Hadley v. 
+Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1104" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1104</a></span><pre class="inline"> (N.D. Cal. 2017). Again, however, this 
+
+argument is predicated on the belief that Plaintiffs’ CUCL claim has already failed under 
+the “unlawful” prong, which it has not. Accordingly, Plaintiffs may proceed to the proof 
+stage on their CUCL claims, under all three prongs of the CUCL.           
+    Alabama and Arizona claims: Plaintiffs assert violations of the Alabama Deceptive 
+Trade Practices Act (</pre><span class="citation no-link">Ala. Code §§ 8-19-1</span><pre class="inline">, et seq.) and the Arizona Consumer Fraud Act 
+(A.R.S. §§ 44-1521, et seq.). Compl. ¶¶ 260–287. Target seeks the dismissal of these claims 
+
+on the specific ground that the pleadings fail to satisfy the statute of limitations imposed 
+by each of these acts. Both the Alabama and Arizona consumer protection statutes have a 
+one-year statute of limitation. See, e.g., Collins v. Davol, Inc., </pre><span class="citation" data-id="7227515"><a href="/opinion/7309612/collins-v-davol-inc/#1228" aria-description="Citation for case: Collins v. Davol, Inc.">56 F. Supp. 3d 1222, 1228</a></span><pre class="inline"> 
+(N.D. Ala. 2014) (“[N]o action may be brought under this chapter more than one year after 
+the person bringing the action discovers or reasonably should have discovered the act or 
+
+practice which is the subject of the action.”) (quoting </pre><span class="citation no-link">Ala. Code §§ 8-19-1</span><pre class="inline">, et seq.); Alaface 
+v. Nat’l Inv. Co., </pre><span class="citation" data-id="9544053"><a href="/opinion/1163478/alaface-v-national-investment-co/#1379" aria-description="Citation for case: Alaface v. National Investment Co.">892 P.2d 1375, 1379</a></span><pre class="inline"> (Ariz. Ct. App. 1994) (under Arizona law, one-year 
+statute of limitation for an Arizona consumer fraud claim “begins running when the 
+defrauded party discovers or with reasonable diligence could have discovered the fraud.”) 
+(internal quotations omitted).                                            
+
+    “[S]tatutes of limitations provide an affirmative defense that ordinarily must be 
+specifically pleaded, [and] a complaint is subject to dismissal for failure to state a claim 
+when the affirmative limitations defense clearly appears on the face of the complaint.” 
+Sanders v. Dep’t of Army, </pre><span class="citation" data-id="596555"><a href="/opinion/596555/patricia-ann-sanders-v-department-of-the-army/#991" aria-description="Citation for case: Patricia Ann Sanders v. Department of the Army">981 F.2d 990, 991</a></span><pre class="inline"> (8th Cir. 1992) (per curiam) (internal citations 
+and quotations omitted). Here, Target argues that because the named plaintiffs from 
+Alabama and Arizona each allege a purchase date more than one year before the initiation 
+
+of this lawsuit (see Compl. ¶¶ 21–22), their claims are facially barred by the statute of 
+limitations. The Court agrees that the Complaint states purchase dates more than a year 
+before the filing of this lawsuit, but disagrees that this fact alone bars the Alabama and 
+Arizona plaintiffs from proceeding to discovery. Indeed, the case law makes abundantly 
+clear that under both Alabama and Arizona law, the statute-of-limitations clock begins to 
+run only when a consumer knows or should have known that they have been defrauded. 
+
+Here, nothing in the Complaint establishes when Pearlie Boyd (Alabama) or Alberto 
+Camacho (Arizona) knew of the alleged fraud, and neither plaintiff was obliged to plead 
+the date they became aware of the fraud to preemptively satisfy a statute of limitations 
+defense. Aquilar v. Ocwen Loan Servicing, LLC, </pre><span class="citation" data-id="7246293"><a href="/opinion/7328377/aquilar-v-ocwen-loan-servicing-llc/#1004" aria-description="Citation for case: Aquilar v. Ocwen Loan Servicing, LLC">289 F. Supp. 3d 1000, 1004</a></span><pre class="inline"> (D. Minn. 
+2018) (“A plaintiff need not plead facts responsive to an affirmative defense before that 
+
+defense is raised.”) (citing Braden v. Wal–Mart Stores, Inc., </pre><span class="citation" data-id="1310416"><a href="/opinion/1310416/braden-v-wal-mart-stores-inc/" aria-description="Citation for case: Braden v. Wal-Mart Stores, Inc.">588 F.3d 585</a></span><pre class="inline">, 601 n.10 (8th 
+Cir. 2009). Target’s arguments for dismissal on statutes of limitation grounds amount to a 
+factual dispute over when Ms. Boyd or Mr. Camacho knew or should have known of the 
+alleged fraud in the Target Clean program, and this will not be resolved by the Court on a 
+motion to dismiss. Hile v. Jimmy Johns Highway 55, Golden Valley, </pre><span class="citation" data-id="8702969"><a href="/opinion/8719776/hile-v-jimmy-johns-highway-55-golden-valley/" aria-description="Citation for case: Hile v. Jimmy Johns Highway 55, Golden Valley">899 F. Supp. 2d 843</a></span><pre class="inline">, 
+
+847 n.6 (D. Minn. 2012) (“The statute of limitations is an affirmative defense that a 
+defendant must plead and prove, . . . and hence questions regarding timeliness generally 
+must be resolved by a motion for summary judgment rather than a motion to dismiss.”) 
+(internal citation omitted).                                              
+         4.   Breach of Warranty                                         
+    Plaintiffs assert a common law breach of warranty claim, which the Court will 
+
+assume for the purposes of deciding the pending motion arises under Minnesota law. “To 
+establish a breach of warranty claim, a plaintiff must prove: ‘the existence of a warranty, a 
+breach, and a causal link between the breach and the alleged harm.’” Bollom v. Brunswick 
+Corp., </pre><span class="citation no-link">453 F. Supp. 3d 1206</span><pre class="inline">, 1220 (D. Minn. 2020) (quoting Peterson v. Bendix Home Sys., 
+Inc., </pre><span class="citation" data-id="1800517"><a href="/opinion/1800517/peterson-v-bendix-home-systems-inc/" aria-description="Citation for case: Peterson v. Bendix Home Systems, Inc.">318 N.W.2d 50</a></span><pre class="inline">, 52–53 (Minn. 1982)). Here, Target urges the Court to dismiss the 
+breach of warranty claim for several reasons.                             
+
+    Initially, Target argues that the breach of warranty claim depends on the same acts 
+and/or omissions as Plaintiffs’ fraud claims, and that if the facts alleged cannot support a 
+fraud claim they likewise cannot support a breach of warranty claim. ECF 26 at 32 (citing 
+Song v. Champion Petfoods USA, Inc., </pre><span class="citation no-link">27 F.4th 1339</span><pre class="inline">, 1343–46 (8th Cir. 2022) (“Song II”)). 
+The  Court  agrees  with  Target  that  Plaintiffs’  breach  of  warranty  theory  depends  on 
+
+substantially the same allegations as their fraud claims and therefore they rise and fall 
+together at this stage. But the Court has denied the pending motion with respect to the fraud 
+claims, rendering moot this argument in favor of dismissing the breach of warranty claims. 
+    Target raises additional arguments specific to the breach of warranty claim. First, 
+Target argues that “Target Clean is not a sufficiently certain affirmation of fact that can 
+
+form the basis of a warranty between Plaintiffs and Target, especially where each Product 
+discloses its ingredients and where Target explains what Target Clean does and does not 
+represent.” Id. at 33. Additionally, Target argues that “Plaintiffs [cannot] allege a breach of 
+warranty for off-label statements that Plaintiffs do not claim to have seen.” Id. This 
+argument challenges both the formation of a warranty as well as its breach. 
+
+    “An express warranty is created when a seller makes ‘[a]ny affirmation of fact or 
+promise . . . to the buyer which relates to the goods and becomes part of the basis of the 
+bargain.’” McGregor v. Uponor, Inc., No. 09-cv-1136 (ADM/JJK), </pre><span class="citation no-link">2010 WL 55985</span><pre class="inline">, at *8 
+(D. Minn. Jan. 4, 2010) (quoting </pre><span class="citation no-link">Minn. Stat. § 336</span><pre class="inline">.2–313(1)(a)) (alterations in McGregor). 
+Arguing that Plaintiffs have failed to plead the existence of a warranty, Target again relies 
+on Chin, where the court concluded that a label stating that a product was “100% natural” 
+
+was a “product description that does not constitute a written warranty.” </pre><span class="citation no-link">2013 WL 2420455</span><pre class="inline">, 
+at *5 (D. Minn. June 3, 2013) (internal quotations omitted). But as noted above, Chin relied 
+on numerous cases rejecting claims that the words “100% natural” or “all natural” form an 
+express warranty. In other words, Chin ruled on a specific descriptive claim that has been 
+the subject of repeated litigation over the years. Furthermore, as discussed above, this is 
+
+not a product description case. It is a case alleging that a retailer, Target, has misrepresented 
+its own actions undertaken with respect to marketing others’ products. Plaintiffs allege that 
+Target has curated a selection of products under a “Target Clean” labeling program. 
+Plaintiffs’  allegations  raise  numerous  questions  about  what  information  consumers 
+reasonably possess about the program’s own terms and definition, as well as what a 
+
+consumer  reasonably  understands is  represented  by the Target  Clean  program,  either 
+broadly or according to its own “fine print.” In short, Target is alleged to have explained 
+the Target Clean program to consumers at various levels of detail and in various places. 
+This creates a unique set of factual allegations that the Court cannot simply adjudicate 
+within a body of case law, including Chin, that deals with simple, affirmative statements 
+placed by a manufacture on its own product labels. Here, the Court concludes that Plaintiffs 
+
+have adequately alleged the existence of a warranty and are entitled to fact discovery to 
+substantiate that allegation. Again, developed facts may prove to the contrary, but the 
+allegations are adequate for now.                                         
+    As for breach of that warranty, Target’s argument appears to blend another factual 
+attack about what plaintiffs actually saw (that no breach is possible for claims of the Target 
+Clean program “that Plaintiffs do not claim to have seen” (ECF 26 at 33)) with a quasi-
+
+factual attack about how the Target Clean program should be perceived (that Target cannot 
+be in breach of an express warranty “when it conformed to its own representations of which 
+ingredients were and were not included in the Products” (ECF 38 at 22)). But contrary to 
+Target’s arguments, Plaintiffs do, in fact, allege that they saw the Target Clean labeling and 
+that the Target Clean program became part of the basis of the bargain of their purchasing 
+
+decisions. See, e.g., Compl. ¶ 21 (“The Target Clean label on the TruBlend Foundation 
+impacted Ms. Boyd’s decision to purchase the product and she would not have purchased 
+the product, or would have purchased the product under different terms, had she known the 
+TruBlend  Foundation contained some unwanted or harmful ingredients.”). The Court 
+likewise disagrees that the Complaint has not alleged that Target failed to conform to the 
+
+representations about the ingredients that would not be found in Target Clean products. 
+Plaintiffs do so on the Target Clean program’s literal terms (e.g., in the allegations about 
+the ingredients in the bronzer product) and they do so on more implicit terms (e.g., alleging 
+that Target Clean products deceptively contain equally “unwanted” ingredients to those 
+ingredients identified as being “banned”). As above, Target raises serious doubts that any 
+of the Plaintiffs were sincerely impacted by the Target Clean labeling, may believe that the 
+
+plaintiffs had more (or less) information about the meaning of the program than they claim, 
+and may dispute the allegations around both the presence and the significance of the 
+allegedly harmful ingredients not included in the ban. But these are matters for factual 
+development in discovery and improper for disposition on a motion to dismiss. 
+         5.   Unjust Enrichment                                          
+    Finally, Plaintiffs assert a common law unjust enrichment claim, which the Court 
+
+will also assume for the purposes of deciding the pending motion arises under Minnesota 
+law. To state a claim for unjust enrichment, a plaintiff must allege facts showing “(1) a 
+benefit conferred; (2) the defendant’s appreciation and knowing acceptance of the benefit; 
+and (3) the defendant’s acceptance and retention of the benefit under such circumstances 
+that it would be inequitable for him to retain it without paying for it.” Christensen L. Off., 
+
+PLLC v. Ngouambe, No. A17-1917, </pre><span class="citation no-link">2018 WL 2293423</span><pre class="inline">, at *6 (Minn. App. May 21, 2018). 
+Here, Target argues for dismissal for two reasons.                        
+    First, as with Plaintiffs’ breach of warranty claim, Target argues that where an unjust 
+enrichment claim depends on common allegations of deception that fail to support a fraud 
+claim, the unjust enrichment claim must fail, too. ECF 26 at 34 (citing Song II, 27 F.4th at 
+
+1343–46). Again, the Court agrees with Target that Plaintiffs’ breach of warranty theory 
+depends on substantially the same allegations as their fraud claims, but as discussed above, 
+the Court has denied Target’s motion with respect to the underlying fraud claims. Target’s 
+second basis for dismissal of Plaintiffs’ unjust enrichment claim has to do with the equitable 
+nature of the remedy provided by unjust enrichment and Target’s assertion that equitable 
+relief cannot be pleaded in the alternative to Plaintiffs’ damages claims. See </pre><span class="citation no-link">id.</span><pre class="inline"> (citing 
+
+Moreno v. Wells Fargo Bank, N.A., No. 18-cv-2760 (PJS/DTS), </pre><span class="citation no-link">2019 WL 1438248</span><pre class="inline">, at *7 
+(D.  Minn. Apr.  1,  2019)  (dismissing  an  unjust  enrichment  claim  that  was  “entirely 
+duplicative” of a breach-of-contract claim)). However, “courts routinely decline to dismiss 
+unjust-enrichment claims when pleaded in the alternative,” Gisairo v. Lenovo (United 
+States) Inc., </pre><span class="citation no-link">516 F. Supp. 3d 880</span><pre class="inline">, 893 (D. Minn. 2021), and the Court will do so here. 
+Whether this claim is unduly duplicative to other theories pleaded in the alternative can be 
+
+resolved at a later stage. In the meantime, the existence of the unjust enrichment claim will 
+not materially alter the scope of litigation, and Target may again seek its disposition at 
+summary judgment should facts and plaintiff’s theories point to that outcome.  
+    B.   Motion to Strike                                                
+    Target’s motion to strike is overwhelmingly directed toward the class allegations 
+
+in the Complaint. However, Target also asks the Court to strike requests for injunctive 
+relief. The Court will analyze each request in turn.                      
+         1.   Class Claims                                               
+    Plaintiffs make nationwide and state-by-state class allegations in the Complaint (see 
+Compl. ¶¶ 197–204) but have not yet sought class certification. To certify a class, Plaintiffs 
+
+must show that                                                            
+         (1) the class is so numerous that joinder of all members is     
+           impracticable;                                                
+
+         (2) there are questions of law or fact common to the class;     
+         (3) the claims  or  defenses of  the  representative  parties  are 
+           typical of the claims or defenses of the class; and           
+
+         (4) the representative parties will fairly and adequately protect 
+           the interests of the class.                                   
+
+Fed. R. Civ. P. 23(a). The Eighth Circuit                                 
+         permit[s] class allegations to be stricken at the pleading stage 
+         [before certification] if it is apparent from the pleadings that 
+         the  class  cannot  be  certified  because  unsupportable  class 
+         allegations bring impertinent material into the pleading and    
+         permitting  such  allegations  to  remain  would  prejudice  the 
+         defendant  by  requiring  the  mounting  of  a  defense  against 
+         claims that ultimately cannot be sustained.                     
+
+Donelson, 999 F.3d at 1092 (internal quotations omitted). “[U]nless it appears beyond 
+doubt that plaintiffs cannot establish an actionable class action lawsuit, district courts 
+regularly deny motions to strike class actions as premature.” Adams v. U.S. Bancorp, </pre><span class="citation no-link">635 
+F. Supp. 3d 742</span><pre class="inline">, 758 (D. Minn. 2022) (citing Rios v. State Farm Fire &amp; Cas. Co., </pre><span class="citation" data-id="2496788"><a href="/opinion/2496788/rios-v-state-farm-fire-casualty-co/" aria-description="Citation for case: Rios v. State Farm Fire &amp; Casualty Co.">469 F. 
+Supp. 2d 727</a></span><pre class="inline">, 741–42 (S.D. Iowa 2007)) (internal quotations omitted). Here, Target asks 
+the Court to strike plaintiff’s class allegations for three reasons. The Court will analyze 
+these in turn.                                                            
+    Standing: Target’s arguments regarding standing present a challenge to the Court&#x27;s 
+subject matter jurisdiction pursuant to Federal Rule of Civil Procedure 12(b)(1). This raises 
+a “facial” standing challenge, which is directed only to the pleadings and essentially applies 
+the Rule 12(b)(6) standard. See Osborn v. United States, </pre><span class="citation" data-id="551338"><a href="/opinion/551338/joseph-osborn-and-pamela-osborn-individually-and-as-father-and-mother-and/" aria-description="Citation for case: Joseph Osborn and Pamela Osborn, Individually and as...">918 F.2d 724</a></span><pre class="inline">, 729 n.6 (8th Cir. 
+1990). When considering a facial attack on jurisdiction, courts presume the facts alleged in 
+the complaint to be true. Titus v. Sullivan, </pre><span class="citation" data-id="6928047"><a href="/opinion/7026453/titus-v-sullivan/#593" aria-description="Citation for case: Titus v. Sullivan">4 F.3d 590, 593</a></span><pre class="inline"> (8th Cir. 1993).  To meet the 
+burden to allege Article III standing, Plaintiffs must show (1) an injury in fact that (2) is 
+fairly traceable to the defendant’s alleged conduct and (3) is likely to be redressed by a 
+favorable court ruling. Spokeo, Inc. v. Robins, </pre><span class="citation no-link">578 U.S. 330</span><pre class="inline">, 338 (2016); Lujan v. Defenders 
+
+of Wildlife, </pre><span class="citation" data-id="9432577"><a href="/opinion/112747/lujan-v-defenders-of-wildlife/" aria-description="Citation for case: Lujan v. Defenders of Wildlife">504 U.S. 555</a></span><pre class="inline">, 560–61 (1992). Each named plaintiff in a putative class action 
+must allege facts establishing the elements of his or her own standing and may not rely on 
+the injuries of unidentified class members. Spokeo, 578 U.S. at 338 &amp; n.6; see also In re 
+SuperValu, Inc., </pre><span class="citation" data-id="4199976"><a href="/opinion/4422723/melissa-alleruzzo-v-supervalu-inc/#768" aria-description="Citation for case: Melissa Alleruzzo v. SuperValu, Inc.">870 F.3d 763, 768</a></span><pre class="inline"> (8th Cir. 2017) (same).                
+    Target’s first standing argument has to do with multi-product accusations contained 
+within the Complaint, and the fact (as alleged) that no single named plaintiff has purchased 
+
+each of the Target Clean products. Target maintains that since “[n]o Plaintiff purchased all 
+of the Target Clean Identified Products[,]” then “no Plaintiff has standing to bring claims 
+arising out of all of the Identified Products on behalf of all alleged class members.” ECF 
+20 at 7. In response, Plaintiffs once again argue that Target has misapprehended the nature 
+of the Complaint (and its class allegations) as a product-description case, rather than a case 
+
+about a “misleading program,” out of which all of the Plaintiffs’ injuries commonly arise. 
+ECF 32 at 16. Plaintiffs furthermore suggest that standing is better addressed after class 
+certification. ECF 32 at 4.                                               
+    There is case law in this district to support both parties’ arguments. Compare, e.g., 
+Chin, </pre><span class="citation no-link">2013 WL 2320455</span><pre class="inline">, at *3–4 (plaintiff who purchased one product lacked standing to 
+
+challenge alleged misrepresentations pertaining to another related product that plaintiff had 
+not purchased), and Ferrari v. Best Buy Co., No. 14-cv-2956 (MJD/FLN), </pre><span class="citation no-link">2015 WL 
+2242128</span><pre class="inline">, at *7 (D. Minn. May 12, 2015) (“Plaintiff lacks standing to assert claims on 
+behalf of the class for televisions that he did not purchase or advertising that he did not see 
+or rely upon”), with Gisairo, 516 F. Supp. 3d at 886 (holding that class certification was 
+“logically antecedent” to resolving whether a plaintiff had standing to assert class claims 
+
+related to laptop models other than the one he purchased), and Barclay v. ICON Health &amp; 
+Fitness, Inc., No. 19-cv-2970 (ECT/DTS), </pre><span class="citation no-link">2020 WL 6083704</span><pre class="inline">, at *6 (D. Minn. Oct. 15, 
+2020) (concluding that the issue of whether plaintiffs may “assert any claims concerning 
+treadmill models that they did not purchase” is not an issue of standing but instead “is 
+better resolved at class certification”). Other courts have noted that the question of whether 
+a named plaintiff who allegedly purchased one product within a grouping of products “can 
+
+adequately represent purchasers of the other products” in that group presents a “critical 
+inquiry [as to] whether there is sufficient similarity between the products purchased and 
+not purchased.” Astiana v. Dreyer&#x27;s Grand Ice Cream, Inc., No. C-11-2910 EMC, </pre><span class="citation no-link">2012 WL 
+2990766</span><pre class="inline">, at *11 (N.D. Cal. July 20, 2012). Here, the Court finds that the critical inquiry 
+required in this case will be more suitable to the “rigorous analysis” of class certification, 
+
+where the Court must “probe behind the pleadings” to determine if the requirements of 
+Rule 23 are met. Gen. Tel. Co. of Sw. v. Falcon, </pre><span class="citation" data-id="9428812"><a href="/opinion/110737/general-telephone-co-of-southwest-v-falcon/" aria-description="Citation for case: General Telephone Co. of Southwest v. Falcon">457 U.S. 147</a></span><pre class="inline">, 160–61 (1982). 
+    Target’s second argument on standing deals specifically with class claims brought 
+under the two Minnesota statutes invoked by the Complaint. According to Target, Plaintiffs 
+may not bring class claims under the MCFA or MUDTPA because “no Plaintiff is a resident 
+
+of  Minnesota,  and  no  Plaintiff  purchased  any  Target  Clean  Identified  Product  in 
+Minnesota.” ECF 20 at 10. In support of this position, Target cites case law for the 
+proposition that “Article III standing for state-law claims is necessarily lacking when no 
+plaintiff is alleged to have purchased a product within the relevant state.” </pre><span class="citation" data-id="9428812"><a href="/opinion/110737/general-telephone-co-of-southwest-v-falcon/" aria-description="Citation for case: General Telephone Co. of Southwest v. Falcon">Id.</a></span><pre class="inline"> at 11 (quoting 
+McAteer v. Target Corp., No. 18-cv-349 (DWF/LIB), </pre><span class="citation no-link">2018 WL 3597675</span><pre class="inline">, at *3 (D. Minn. 
+July 26, 2018)). Plaintiffs, in turn, argue that both Minnesota statutes provide a cause of 
+
+action for “any person” injured by a violation of either law, and that “nothing in the text of 
+the  MCFA  or  MUDPA  supports  [Target’s]  argument  or  prohibits  non-residents  from 
+bringing claims against entities whose wrongful acts occurred in Minnesota.” ECF 32 at 
+23 (quoting </pre><span class="citation no-link">Minn. Stat. §§ 8.31</span><pre class="inline">, subd. 3a and Minn. Stat. § 325D.072). Plaintiffs also argue 
+that Targets’ position would require a premature choice-of-law analysis that is better 
+postponed until class certification. Id. at 20 (citing Chen v. Target Corp., No. 21-cv-1247 
+
+(DWF/DTS), </pre><span class="citation no-link">2022 WL 1597417</span><pre class="inline">, at *7 (D. Minn. May 19, 2022)).               
+    Here, there is again abundant case law on both sides, and the Court will once more 
+follow those cases that defer the resolution of state-law standing until class certification is 
+sought. See In re Pork Antitrust Litig., </pre><span class="citation no-link">495 F. Supp. 3d 753</span><pre class="inline">, 776 (D. Minn. 2020) (denying 
+defendant’s motion to strike state-claims arising under the laws of states from which there 
+
+was no representative plaintiff in the complaint because in class action cases the Court may 
+defer standing questions as “logically antecedent” to class certification); Hudock v. LG 
+Elecs. U.S.A., Inc., No. 16-cv-1220 (JRT/FLN), </pre><span class="citation no-link">2017 WL 1157098</span><pre class="inline">, at *2 (D. Minn. Mar. 
+27, 2017) (“[T]he Court can determine during the class certification process whether 
+Plaintiffs’ can bring claims under the laws of states in which no currently-named plaintiff 
+
+resides. . . .”).                                                         
+    To be sure, nothing about the Court’s deferment is an endorsement of Plaintiffs’ 
+argument that any plaintiff in this matter necessarily has Article III standing to sue under 
+Minnesota law for purchases made outside of the state due to the language of the statute. 
+Instead, the Court’s deferment is a practical decision and echoes Chen by acknowledging 
+that the considerable geographic reach of Target, a major nationwide retailer, makes it 
+
+“unlikely that any alleged liability is limited to the states in which a Plaintiff is currently 
+named.” </pre><span class="citation no-link">2022 WL 1597417</span><pre class="inline">, at *4; accord In re Buspirone Pat. Litig., </pre><span class="citation" data-id="2520510"><a href="/opinion/2520510/in-re-buspirone-patent-litigation/#377" aria-description="Citation for case: In Re Buspirone Patent Litigation">185 F. Supp. 2d 363, 
+377</a></span><pre class="inline">  (S.D.N.Y.  2002)  (deferring  standing  analysis  in  nationwide  antitrust  and  unfair 
+competition  lawsuit  until  class  certification  because  “[i]f  certification  is  granted,  the 
+proposed class would contain plaintiffs who have personal standing to raise claims under 
+the laws governing purchases in all of the fifty states, and the only relevant question about 
+
+the named plaintiffs’ standing to represent them will be whether the named plaintiffs meet 
+the ordinary criteria for class standing”); Gisairo, 516 F. Supp. 3d at 887 (deferring 
+standing questions, but reminding that “[w]ithout question, at least one named plaintiff 
+must [ultimately] have standing”) (citing In re SuperValu, Inc., </pre><span class="citation" data-id="4199976"><a href="/opinion/4422723/melissa-alleruzzo-v-supervalu-inc/#768" aria-description="Citation for case: Melissa Alleruzzo v. SuperValu, Inc.">870 F.3d at 768</a></span><pre class="inline">). This is 
+particularly true as to whether there is likely to be a named Minnesota plaintiff in a case 
+
+involving Target, which is a dominant market player in the state.         
+    This case is in its infancy. “Plaintiffs have not had the opportunity to discover and 
+present  evidence  pertinent  to  the  commonality  and  typicality  of  the  proposed  class-
+members’ claims.” Samaha v. City of Minneapolis, </pre><span class="citation no-link">525 F. Supp. 3d 933</span><pre class="inline">, 946 (D. Minn. 
+2021). Indeed, Plaintiffs readily concede that the pleadings may eventually need to be 
+
+restructured through amendment to resolve standing challenges posed by the nature of this 
+lawsuit. See ECF 32 (maintaining that, in the alternative, Plaintiffs “can easily amend their 
+complaint to create product-specific nationwide subclasses comprised of the Identified 
+Product at issue”). “If standing issues remain after class certification, Defendants are free 
+to make a motion at that time.” In re Pork Antitrust Litig., 495 F. Supp. 3d at 776 (internal 
+quotations omitted).                                                      
+
+    Alabama  Class  Ban:  Target  seeks  to  strike  class  allegations  arising  under 
+Alabama’s Deceptive Trade Practice’s Act (“ADTPA”) because of a limitation written into 
+the statute by the Alabama legislature that purports to ban the formation of class actions. 
+ECF 20 at 11–12. The relevant portion of the statute reads as follows:    
+         A  consumer  or  other  person  bringing  an  action  under  this 
+         chapter may not bring an action on behalf of a class. The       
+         limitation in this subsection is a substantive limitation and   
+         allowing a consumer or other person to bring a class action or  
+         other representative action for a violation of this chapter would 
+         abridge, enlarge, or modify the substantive rights created by   
+         this chapter.                                                   
+
+</pre><span class="citation no-link">Ala. Code § 8-19-10</span><pre class="inline">(f). Plaintiffs argue that the state of Alabama cannot proscribe the 
+formation of a class action lawsuit in federal court pursuant to Rule 23 and the Rules 
+Enabling Act. ECF 32 at 17–18.                                            
+    As previously discussed, Rule 23 governs the formation of classes in federal 
+litigation. The Rules Enabling Act states that                            
+         (a)  The  Supreme  Court  shall  have  the  power  to  prescribe 
+         general rules of practice and procedure and rules of evidence   
+         for  cases  in  the  United  States  district  courts  (including 
+         proceedings before magistrate judges thereof) and courts of     
+         appeals.                                                        
+
+         (b)  Such  rules  shall  not  abridge,  enlarge  or  modify  any 
+         substantive right. All laws in conflict with such rules shall be 
+         of no further force or effect after such rules have taken effect. 
+</pre><span class="citation no-link">28 U.S.C. § 2072</span><pre class="inline">. In Shady Grove Orthopedic Associates, P.A. v. Allstate Insurance Co., 
+the Supreme Court considered whether a New York statutory ban on the formation of 
+
+certain class action lawsuits trumped Rule 23 or vice versa under the Rules Enabling Act. 
+</pre><span class="citation multiple-matches"><a href="/c/U.S./559/393/">559 U.S. 393</a></span><pre class="inline"> (2010). When faced with a conflict between a federal rule and a state law, 
+the plurality opinion by Justice Scalia concluded that federal courts should first look to the 
+rule itself to determine whether it was substantive or procedural. Id. at 410. A procedural 
+rule would control over state law, regardless of its effect on any state right. Id. A separate 
+concurrence by Justice Stevens urged that the nature of the federal rule alone could not end 
+
+the analysis and that the federal courts must be mindful at all times of the nature of the state 
+law in question and the effect of the application of the federal rule on that law. Id. at 421 
+(“A federal rule, therefore, cannot govern a particular case in which the rule would displace 
+a state law that is procedural in the ordinary use of the term but is so intertwined with a 
+state right or remedy that it functions to define the scope of the state-created right.”). Both 
+
+Justices Scalia and Stevens agreed that the particular New York state law banning class 
+formation in certain lawsuits was procedural, and both concluded that the operation of Rule 
+23 over that ban did not violate the Rules Enabling Act. Compare id. at 408, with id. at 
+436.                                                                      
+    How to apply Shady Grove’s 4-1-4, majority-free decision has vexed the district 
+
+courts ever since. To start, many courts have concluded that Shady Grove’s concurrence 
+by  Justice  Stevens  represents  the  narrowest  concurring  viewpoint  and  therefore  the 
+controlling opinion of the case. See, e.g., Davenport v. Charter Commc’ns, LLC, </pre><span class="citation" data-id="7225776"><a href="/opinion/7307873/davenport-v-charter-communications-llc/" aria-description="Citation for case: Davenport v. Charter Communications, LLC">35 F. 
+Supp. 3d 1040</a></span><pre class="inline">, 1050–51 (E.D. Mo. 2014) (collecting cases applying the Justice Steven’s 
+concurrence but noting the lack of an Eighth Circuit holding). Others have concluded 
+differently on this threshold question. See Wittman v. CB1, Inc., No. CV 15-105-BLG-
+
+BMM, </pre><span class="citation no-link">2016 WL 3093427</span><pre class="inline">, at *5–6 (D. Mont. June 1, 2016) (collecting cases adopting the 
+plurality  opinion  of  Justice  Scalia  or  otherwise  declining  to  adopt  Justice  Stevens’s 
+concurrence). In the specific context of class-action bans in state-law consumer protection 
+statutes, courts applying the Shady Grove concurrence have frequently concluded that such 
+bans affect a substantive right and therefore cannot be overruled by Federal Rule 23. See, 
+e.g., In re Target Corp. Data Sec. Breach Litig., </pre><span class="citation" data-id="7228407"><a href="/opinion/7310503/in-re-target-corp-customer-data-security-breach-litigation/#1165" aria-description="Citation for case: In re Target Corp. Customer Data Security Breach Litigation">66 F. Supp. 3d 1154, 1165</a></span><pre class="inline"> (D. Minn. 
+
+2014) (ADPTA class action ban “defines the scope” of a substantive right and therefore 
+controls over Rule 23); Davenport, </pre><span class="citation" data-id="7225776"><a href="/opinion/7307873/davenport-v-charter-communications-llc/#1051" aria-description="Citation for case: Davenport v. Charter Communications, LLC">35 F. Supp. 3d at 1051</a></span><pre class="inline"> (same ruling with respect to 
+Kentucky consumer protection class action ban); In re Auto. Parts Antitrust Litig., </pre><span class="citation" data-id="7225263"><a href="/opinion/7307360/in-re-automotive-parts-antitrust-litigation/" aria-description="Citation for case: In re Automotive Parts Antitrust Litigation">29 F. 
+Supp. 3d 982</a></span><pre class="inline">, 1012–13 (E.D. Mich.2014) (same ruling with respect to South Carolina class 
+action ban). But courts that do not apply Justice Stevens’s concurrence as the controlling 
+
+opinion have held otherwise. See, e.g., Wittman, </pre><span class="citation no-link">2016 WL 3093427</span><pre class="inline"> at *6; In re Hydroxycut 
+Mktg. &amp; Sales Pracs. Litig., </pre><span class="citation" data-id="8770631"><a href="/opinion/8786750/dremak-v-iovate-health-sciences-group-inc/#654" aria-description="Citation for case: Dremak v. Iovate Health Sciences Group, Inc.">299 F.R.D. 648, 654</a></span><pre class="inline"> (S.D. Cal. 2014) (“[A] rule barring class 
+actions does not prevent individuals who would otherwise be members of the class from 
+bringing their own separate suits or joining in a preexisting lawsuit. The substantive rights 
+of these individuals are not affected.”).                                 
+
+    Notably, the Eleventh Circuit has held that whether applying the concurrence or the 
+plurality opinion, the outcome is the same for ADTPA’s class action ban. See Lisk v. 
+Lumber One Wood Preserving, LLC, </pre><span class="citation" data-id="2816283"><a href="/opinion/2816283/robert-c-lisk-v-lumber-one-wood-preserving-llc/" aria-description="Citation for case: Robert C. Lisk v. Lumber One Wood Preserving, LLC">792 F.3d 1331</a></span><pre class="inline"> (11th Cir. 2015). In reaching this 
+conclusion, the Lisk court explicitly rejected that Alabama’s statutory ban on class action 
+formation under the ADPTA implicated any substantive right. </pre><span class="citation" data-id="2816283"><a href="/opinion/2816283/robert-c-lisk-v-lumber-one-wood-preserving-llc/#1336" aria-description="Citation for case: Robert C. Lisk v. Lumber One Wood Preserving, LLC">Id. at 1336</a></span><pre class="inline"> (noting that 
+because ADPTA allows for class actions “so long as they are brought by the [Alabama] 
+
+Attorney General or a district attorney,” it was “difficult to conclude that Rule 23 abridges, 
+enlarges, or modifies a substantive right in Alabama, when all the statute does is prescribe 
+who can bring a class claim based on the very same substantive conduct.”). According to 
+Lisk, the substantive rights and obligations imposed by ADPTA were more fundamental:  
+         [Defendant’s] substantive obligation was to comply with the     
+         ADTPA—to  make  only  accurate  representations  about  its     
+         product. The substantive right of [plaintiff] and other buyers  
+         was  to  obtain  wood  that  complied  with  Lumber  One&#x27;s      
+         representations. . . . Rule 23 alters these substantive rights and 
+         obligations not a whit; with or without Rule 23, the parties have 
+         the same substantive rights and responsibilities.               
+
+</pre><span class="citation" data-id="2816283"><a href="/opinion/2816283/robert-c-lisk-v-lumber-one-wood-preserving-llc/#1337" aria-description="Citation for case: Robert C. Lisk v. Lumber One Wood Preserving, LLC">Id. at 1337</a></span><pre class="inline">; accord Scola v. Publix Supermarkets, Inc., </pre><span class="citation" data-id="2654975"><a href="/opinion/2654975/elaine-scola-v-publix-super-markets-inc/#465" aria-description="Citation for case: Elaine Scola v. Publix Super Markets, Inc.">557 F. App’x 458, 465</a></span><pre class="inline"> (6th Cir. 
+2014) (state pleading requirement was “procedural in nature” in part because it “did not 
+alter any of the elements of an age-discrimination claim under state law”). 
+    This Court will follow Lisk, a thorough and highly persuasive decision from the 
+federal appellate court most likely to consider the ADPTA. The substantive right created 
+by ADPTA is that of a consumer’s private right of action to sue for damages arising from 
+deceptive trade practices. A federal court’s capacity under Rule 23 to gather consumers 
+under a properly certified class is, in essence, a matter of organizational housekeeping, not 
+an enlargement of a substantive right. The State of Alabama may organize consumer 
+lawsuits in its own courts differently, but cannot impose those preferences on the federal 
+courts.5 The motion to strike is therefore denied with respect to the Alabama consumer 
+class claims.                                                             
+
+    Breach of Warranty Laws: Target next seeks to strike nationwide class allegations 
+of breach of warranty, both express and implied. See ECF 20 at 12. According to Target, 
+each claim in this case requires an individualized choice-of-law analysis (citing Phillips 
+Petroleum Co. v. Shutts, </pre><span class="citation" data-id="9430128"><a href="/opinion/111491/phillips-petroleum-co-v-shutts/" aria-description="Citation for case: Phillips Petroleum Co. v. Shutts">472 U.S. 797</a></span><pre class="inline">, 822–23 (1985)), and that “clear differences in state 
+breach of warranty laws are sure to preclude class certification because individual legal 
+issues will necessarily predominate under Rule 23(b) or of due process considerations 
+
+related to conflicts of laws.” </pre><span class="citation" data-id="9430128"><a href="/opinion/111491/phillips-petroleum-co-v-shutts/" aria-description="Citation for case: Phillips Petroleum Co. v. Shutts">Id.</a></span><pre class="inline"> at 12–13. In support of this latter proposition, Target cites 
+Hudock v. LG Electronics U.S.A., Inc., No. 16-cv-1220 (JRT/KMM), </pre><span class="citation no-link">2020 WL 1515233</span><pre class="inline">, 
+at *7 (D. Minn. Mar. 30, 2020). Id. at 13. But reliance on this case demonstrates the flaw 
+
+
+    5 Target attempts to diminish the Lisk ruling in part by noting that it predates a 2016 
+amendment to ADTPA, in which the state legislature added language that the class action 
+ban is a “substantive limitation and allowing a consumer or other person to bring a class 
+action or other representative action for a violation of this chapter would abridge, enlarge, 
+or modify the substantive rights created by this chapter.” </pre><span class="citation no-link">Ala. Code § 8-19-10</span><pre class="inline">(f). But 
+clearly, the nuanced analysis required under the Rules Enabling Act, as guided by Shady 
+Grove, does not hinge on whether a state simply says that a given law does or does not 
+implicate a substantive right. Indeed, Lisk acknowledged that Alabama had placed its class 
+action ban in the substantive text of ADTPA (as opposed to the New York ban considered 
+in  Shady  Grove,  which  was  included  in  a  procedural  provision  of  state  law),  and 
+nevertheless concluded that “how a state chooses to organize its statutes affects the [Rules 
+Enabling Act] analysis not at all.” </pre><span class="citation" data-id="2816283"><a href="/opinion/2816283/robert-c-lisk-v-lumber-one-wood-preserving-llc/#1336" aria-description="Citation for case: Robert C. Lisk v. Lumber One Wood Preserving, LLC">792 F.3d at 1336</a></span><pre class="inline">. This Court cannot substitute the 
+opinion  of  Alabama’s  legislators  for  the  requisite  substantive  rights  analysis,  and 
+Alabama’s amendment does not change the outcome. See Jones v. Coty, </pre><span class="citation" data-id="7252377"><a href="/opinion/7334457/jones-v-coty-inc/#1199" aria-description="Citation for case: Jones v. Coty Inc.">362 F. Supp. 3d 
+1182,  1199</a></span><pre class="inline">  (S.D.  Ala.  2018)  (“Whether  the  Alabama  Legislature  chooses  to  label 
+something a ‘substantive right’ is certainly not dispositive of, and perhaps not even relevant 
+to, the matter of whether a substantive right actually is at stake for Rules Enabling Act 
+purposes.”); In re Takata Airbag Prod. Liab. Litig., </pre><span class="citation no-link">462 F. Supp. 3d 1304</span><pre class="inline">, 1321 n.7 (S.D. 
+Fla. 2020) (same).                                                        
+in Target’s argument. Hudock is a decision reached on a class certification motion, not a 
+motion to strike. On a motion to strike, the question before the Court is not whether Target 
+
+has a good argument that one or more class claims will not be certified, but whether it 
+“appears beyond doubt” that Plaintiffs “cannot” certify a class around their claims as 
+pleaded. U.S. Bancorp, 635 F. Supp. 3d at 758. That is not the case here. The Court defers 
+consideration of the choice-of-law issues posed by Plaintiffs’ breach of warranty claims 
+until class certification is sought.                                      
+    Overbreadth: Target makes a number of arguments that Plaintiffs’ class definitions 
+
+are overbroad and should therefore be stricken. The Court will take these arguments in 
+turn.                                                                     
+    First, Target asserts that Plaintiffs’ have failed to identify “any ascertainable time 
+period that would limit when an eligible class member purchased a Target Clean Identified 
+Product.” ECF 20 at 15. According to Target, each of the common law and statutory claims 
+
+comprising Plaintiffs’ nationwide class claims has, “at most, a statutory limitations period 
+of six years,” while each of the state-subclass claims proceeds under a “statutory limitation 
+periods in the range of one year to six years.” Id. Plaintiffs respond that statutes of 
+limitation create an affirmative defense that a plaintiff need not plead around, and that 
+setting that fact aside, there are numerous reasons that one or more statutes of limitation in 
+
+this case may have been tolled. See ECF 32 at 25–27 (arguing the “Court should deny 
+Target’s attempt to impose such sweeping legal and factual determinations at this stage”). 
+Assuming without deciding that Target has accurately represented the statute of limitations 
+for each of Plaintiffs’ statutory and common law claims, the Court finds that the Complaint 
+is sufficiently certain on the time period that would limit the eligible class members in this 
+case. As discussed previously, the Complaint clearly alleges that the Target Clean program 
+
+began in 2019. This case was brought in 2023. To the extent that Target views the class 
+definition as too broad and uncertain to proceed under Rule 23, this is once again premature 
+as no class certification has been sought. Moreover, Plaintiffs allege an eligible class of 
+consumers that extends back, at most, four years from the filing of the Complaint. To the 
+extent that Target views the lack of additional date specificity as potentially problematic 
+for determining the operation of various statutes of limitation, the Court observes again 
+
+that the statute of limitations is an affirmative defense that a defendant must plead and 
+prove. Target may take discovery on Plaintiffs’ claims and lodge such statute of limitations 
+defenses as are supported by evidence at the appropriate time.            
+    Second, Target argues that Plaintiffs’ class definitions are too broad because they 
+would include individuals who were not misled by the “Target Clean” advertising, did not 
+
+rely on that advertising in any way, and did not sustain any sort of recoverable injury. 
+Rather, a class member need only have purchased one of the 13 Target Clean Identified 
+Products.” ECF 20 at 18. Target quotes Hudock v. LG Electronics USA for the proposition 
+that “fraud cases often are unsuitable for class treatment, because proof often varies among 
+individuals  concerning  what  representations  were  received,  and  the  degree  to  which 
+
+particular  persons  relied  on  the  representations.”  </pre><span class="citation no-link">12  F.4th  773</span><pre class="inline">,  776  (8th  Cir.  2021) 
+(“Hudock II”). Hudock II, a decision rendered on appeal of a district court class certification 
+order discussed immediately above, observes an important reality about the nature of fraud 
+claims that may indeed bear on the contours of any certification (or failure in certification) 
+of a class in this case. However, it plainly does not state a bright-line rule that fraud claims 
+are per se incompatible with the requirements of Rule 23. Indeed, Plaintiffs’ preview a 
+
+number of arguments for why individual reliance issues will not limit their ability to certify 
+a class under Minnesota law in this litigation. See ECF 32 at 28–29. At this juncture, having 
+determined that the named plaintiffs have stated individual fraud claims sufficient to 
+survive a motion to dismiss, the Court will once more defer adjudication of the suitability 
+of those claims to a broader class of plaintiffs if and when certification of such a class is 
+sought.                                                                   
+
+         2.   Injunctive Claims                                          
+    Finally, the Court turns to Target’s request to strike any request for injunctive relief 
+from the Complaint. This request, which would include striking the entirety of Count VII 
+alleging violations of MUDTPA, is due to a purported lack of allegation of any threat of 
+ongoing or future harm. See ECF 20 at 19–21. This argument again invokes standing, 
+
+which as discussed above, requires that a plaintiff show (1) an injury in fact that (2) is fairly 
+traceable to the defendant&#x27;s alleged conduct and (3) is likely to be redressed by a favorable 
+court ruling. Spokeo, 578 U.S. at 338. When a plaintiff seeks injunctive relief, “the ‘injury 
+in fact’ element of standing requires a showing that the plaintiff faces a threat of ongoing 
+or future harm.” Park v. Forest Serv. of U.S., </pre><span class="citation" data-id="767920"><a href="/opinion/767920/tracie-park-v-forest-service-of-the-united-states-of-america/#1037" aria-description="Citation for case: Tracie Park v. Forest Service of the United States of...">205 F.3d 1034, 1037</a></span><pre class="inline"> (8th Cir. 2000); see also 
+
+City of Los Angeles v. Lyons, </pre><span class="citation" data-id="9429162"><a href="/opinion/110916/city-of-los-angeles-v-lyons/" aria-description="Citation for case: City of Los Angeles v. Lyons">461 U.S. 95</a></span><pre class="inline">, 101–05, 107 n.8 (1983) (stating that the threat 
+of future injury must be “real and immediate”).                           
+    MUDTPA provides an injunctive remedy. Minn. Stat. § 325D.45; see also Barclay 
+v. Icon Health &amp; Fitness, Inc., No. 19-cv-2970 (ECT/DTS), </pre><span class="citation no-link">2022 WL 486999</span><pre class="inline">, at *1 (D. 
+Minn. Feb. 17, 2022) (“The M[U]DTPA’s only remedy is injunctive relief.”). The statute 
+provides this remedy only for a “person likely to be damaged by a deceptive trade practice.” 
+
+Minn. Stat. § 325D.45, subd. 1. Because MUDTPA provides injunctive relief only for a 
+person likely to be damaged, it provides relief from future damage, not past damage. 
+Lofquist v. Whitaker Buick-Jeep-Eagle, Inc., C5-01-767, </pre><span class="citation no-link">2001 WL 1530907</span><pre class="inline">, at *2 (Minn. 
+Ct. App. Dec. 4, 2001) (internal quotations omitted). As such, a MUDPTA claim requires 
+a showing of likely future harm that is seemingly “indistinguishable from Article III&#x27;s 
+threat-of-future-harm requirement for injunctive relief.” Barclay, </pre><span class="citation no-link">2022 WL 486999</span><pre class="inline">, at *2 
+
+(D. Minn. Feb. 17, 2022) (“In other words, under the M[U]DTPA, like Article III, a 
+plaintiff cannot obtain an injunction without showing a likelihood of future injury.”).  
+Therefore, “to state a [MU]DTPA claim, the plaintiff must allege ‘a likelihood of future 
+harm.’” Jaskulske v. State Farm Mut. Auto. Ins. Co., No. 14-cv-869 (PAM/TNL), </pre><span class="citation no-link">2014 
+WL 5530758</span><pre class="inline">, at *6 (D. Minn. Nov. 3, 2014) (quoting Gardner v. First Am. Title Ins. Co., 
+
+</pre><span class="citation" data-id="2295335"><a href="/opinion/2295335/gardner-v-first-american-title-insurancr/#1020" aria-description="Citation for case: Gardner v. First American Title Insurancr">296 F.Supp.2d 1011, 1020</a></span><pre class="inline"> (D. Minn. 2003)); see also Knotts v. Nissan N. Am., Inc., </pre><span class="citation" data-id="7251040"><a href="/opinion/7333122/knotts-v-nissan-n-am-inc/#1328" aria-description="Citation for case: Knotts v. Nissan N. Am., Inc.">346 F. 
+Supp. 3d 1310, 1328</a></span><pre class="inline"> (D. Minn. 2018) (“A plaintiff asserting a claim under the M[U]DTPA 
+must allege an irreparable injury or threat of future harm in order to withstand a motion to 
+dismiss.”); Cleveland v. Whirlpool Corp., </pre><span class="citation no-link">550 F. Supp. 3d 660</span><pre class="inline">,677 (D. Minn. 2021) (same). 
+    Here, the Court will deny the motion to strike injunctive claims for three reasons. 
+
+First,  the  Court  notes  that  this  request  to  entirely  “strike”  injunctive  relief  from  the 
+Complaint operates indistinguishably from a request for dismissal of claims under Rule 
+12(b)(6). Here, Target chose to bring exhaustive motions under both Rule 12(b) and Rule 
+12(f) in an attempt to kill this litigation outright. This was certainly Target’s prerogative. 
+However, to whatever extent that Target’s maximalist approach left no room in its “motion 
+to dismiss” for this additional argument on injunctive standing, the Court is disinclined to 
+
+entertain it as a request to “strike” injunctive claims. Accord Carlson Mktg. Grp., Inc. v. 
+Royal Indem. Co., No. 04-cv-3368, </pre><span class="citation no-link">2006 WL 2917173</span><pre class="inline">, at *2 (D. Minn. Oct. 11, 2006) 
+(arguments  suited  for  a  memorandum  in  support  of  summary  judgment  were  not 
+appropriately lodged via a separate “motion to strike”).                  
+    Second, and more substantively, the Court disagrees that the Complaint fails to 
+allege a likelihood of future harm that is sufficient for the pleading stage. Here, the 
+
+Plaintiffs allege that Target’s misrepresentations are ongoing and seek injunctive relief due 
+to a continuing threat of harm. See e.g., Compl. ¶¶ 14, 300, 324, 368. Admittedly, there is 
+a tension between the allegation that a person has been deceived by an allegedly fraudulent 
+practice and the allegation that this same person could or will be deceived by the same 
+practice again. However, as this Court has recently explained, “the threat of future harm 
+
+can be situated in an injury other than a repeat case of deception,” such as where a consumer 
+is deceived once and thereafter harmed by being unable to rely on advertising or labeling 
+in the future, absent an injunction. Mekhail v. N. Mem&#x27;l Health Care, No. 23-cv-440 
+(KMM/TNL), </pre><span class="citation no-link">2024 WL 1332260</span><pre class="inline">, at *10 (D. Minn. Mar. 28, 2024) (citing Davidson v. 
+Kimberly-Clark Corp., </pre><span class="citation" data-id="9015730"><a href="/opinion/9022504/davidson-v-kimberly-clark-corp/#969" aria-description="Citation for case: Davidson v. Kimberly-Clark Corp.">889 F.3d 956, 969</a></span><pre class="inline"> (9th Cir. 2018)). Moreover, this Court noted that 
+
+denying injunctive standing to a consumer who has been allegedly deceived by an ongoing 
+business practice simply because that consumer is unlikely to be personally deceived again, 
+while ignoring the obvious implication of ongoing harm to other consumers, can risk 
+rendering the public interest element of consumer protection law toothless. </pre><span class="citation" data-id="9015730"><a href="/opinion/9022504/davidson-v-kimberly-clark-corp/" aria-description="Citation for case: Davidson v. Kimberly-Clark Corp.">Id.</a></span><pre class="inline"> This is 
+especially true for a statute whose only remedy is injunctive.            
+
+    Third, and finally, the Court concludes that the question of whether these Plaintiffs 
+will ultimately be entitled to injunctive relief is premature. See Barclay, </pre><span class="citation no-link">2020 WL 6083704</span><pre class="inline"> 
+at *5 n.2 (concluding that the argument that there is no threat of future injury once a 
+plaintiff becomes aware of an allegedly deceptive practice is better suited for determining 
+whether the plaintiff is “entitled to injunctive relief on the merits, not whether they have 
+standing”). In general, the Court expects Plaintiffs to appropriately narrow their theories of 
+
+liability and requests for relief in this case based on the evidence that is developed. And 
+should discovery provide facts further supporting the argument that Plaintiffs cannot show 
+a likelihood of future harm, nothing prevents Target from seeking summary judgment on 
+the MDPTA claim at the appropriate time.                                  
+I.  Order                                                                 
+
+    For the foregoing reasons, IT IS HEREBY ORDERED that:                
+    1.  Defendant’s Motion to Dismiss (ECF 24) is DENIED; and            
+    2.  Defendant’s Motion to Strike (ECF 18) is DENIED.                 
+
+Date: September 25, 2024            s/ Katherine M. Menendez             
+                                   Katherine M. Menendez                 
+                                   United States District Judge          </pre>

@@ -1,0 +1,750 @@
+<pre class="inline">1                                                                         
+
+2                                                                         
+
+3                                                                         
+
+4                      UNITED STATES DISTRICT COURT                       
+
+5                                                                         
+                      NORTHERN DISTRICT OF CALIFORNIA                     
+6                                                                         
+
+7    ANDREA VALIENTE,                 Case No.  23-cv-02214-AMO           
+
+8              Plaintiff,             ORDER GRANTING IN PART AND          
+           v.                         DENYING IN PART MOTION TO           
+9                                                                         
+                                      DISMISS WITH LEAVE TO AMEND,        
+10    SIMPSON IMPORTS, LTD.,           GRANTING REQUEST FOR                
+                                      JUDICIAL NOTICE                     
+11              Defendant.                                                 
+                                      Re:  Dkt. Nos. 14, 15               
+12                                                                         
+13        In this case about Simpson Imports, Ltd.’s canned tomatoes, Simpson moves to dismiss 
+14   Andrea Valiente’s class action complaint.  Valiente opposes.  Having considered the parties’ 
+15   papers, the relevant legal authority, and the arguments advanced by counsel during the hearing on 
+16   the motion, the Court GRANTS the motion IN PART WITH LEAVE TO AMEND and DENIES 
+17   the motion IN PART, for the reasons set forth below.                  
+18   I.   BACKGROUND                                                       
+19        A.   Factual Background1                                         
+20        San Marzano tomatoes “originate[] from the town of San Marzano sul Sarno, near Naples, 
+21   Italy.”  ECF 1 at 8-33 (Compl.) ¶ 8.  The tomatoes were “first grown in the volcanic soil around 
+22   Mount Vesuvius” and some are still grown near the volcano.  Id. ¶¶ 8-9.  These San Marzano 
+23   tomatoes “bear a special designation:  D.O.P. (Denominazione d’Origine Protetta, ‘Protected 
+24   Designation of Origin’).”  Id. ¶ 9.  San Marzano tomatoes grown in the United States do not have 
+25   the D.O.P. designation but are labeled “San Marzano style” or “San Marzano” without the D.O.P. 
+26                                                                         
+
+27   1 The factual background is taken from the allegations in Valiente’s complaint, which the Court 
+    1    designation.  Id. § 10. 
+    2          San Marzano tomatoes are thinner and more pointed than a Roma tomato.  /d. § 11.  Their 
+    3    flesh is also thicker with fewer seeds and has a stronger, sweeter, less acidic taste.  Id.  Because of 
+    4  || these characteristics, San Marzano tomatoes “are perfectly suited for making sauces” and “are 
+    5  || widely considered the best tomato in the world for the task.”  Id. § 12.  “[C]hefs and home cooks 
+    6 ||  alike seek out canned San Marzano tomatoes and are willing to pay for them.”  Jd.    15.  These 
+    7  || tomatoes “command double or triple the asking price of regular canned Roma tomatoes or generic 
+    8  || tomatoes.”  Jd. 415.  An example price comparison is shown below: 
+    9 
+   10                   Signature SELECT Tomatoes Peeled       $2.59 
+                       Whole — 280z                     ~ 
+                      fsennsronmeaee 
+                       Hunt’s Crushed Tomatoes — 280z         $3.29 
+   12 
+                       Take Root Organics Whole Tomatoes 
+
+  13                    - 
+S   14 
+                       Ttalbrand Tomatoes Peeled Italian         $5.99 
+2   15                   San Marzano D.O.P. — 280z             ~ 
+
+                       — 280z 
+
+     17  || Id. § 16. 
+
+ Oo                : 
+Z    18          Simpson used to sell San Marzano tomatoes under the label shown below:? 
+   19 
+   20                                a Sa  ——           — 
+   21
+
+   22 
+   23 
+   24
+   25                                                   
+
+   27 
+   28  ||  &gt;          .     .       14:         .           .          . 
+          At the hearing, Simpson indicated that it last sold this product nine years ago. 
+
+    1  || Id. ¥§ 25-26. 
+    2          Simpson now sells a variety of Roma tomato products under the “San Merican Tomato” or 
+    3    “SMT” brand using a nearly identical label, shown below: 
+    4 
+    5                             Se 
+    . 
+    7
+    9 
+   10 
+   11 
+
+
+
+   15    Id. Jf 1, 18, 20, 29, 34 &amp; n.1.  On the label, embedded within the letters corresponding to 
+a   16    Simpson’s brand is text:  “San” for “S,” “erican” is nested within the letter “M,” and “omato” 
+
+     17    appears under “T.”  Id. §§[ 20-21, 28.  The text is “so comically miniscule that it is almost 
+   18  || impossible to see with the naked eye.”  Jd.   28.  The label also features illustrations of a San 
+   19  || Marzano tomato, which Simpson no longer sells.*  Jd. §] 20-21, 26.  “[S]ubject to minor and 
+   20  || inconsequential variation,” all of Simpson’s tomato products, including boxed tomatoes, canned 
+   21    tomatoes, tomato sauces, and tomato pastes, “are all packaged with the same visually distinct and 
+   22  || eye-catching label.”  Jd. [1,20 &amp; n.1. 
+   23          Valiente prefers to use San Marzano tomatoes when cooking and making sauces at home. 
+   24  ||  Id. 4 40.  She purchased Simpson’s whole peeled tomato product because (1) “she was under the 
+   25    impression that the illustration on the front of the can was of a San Marzano tomato,” (2) she 
+   26  || “understood the SMT abbreviation to mean ‘San Marzano Tomato,’” and (3) she considered “the 
+           AN 
+   28    3 Simpson explains that the image of the tomato bearing the letters SMT is its trademarked logo. 
+        ECF 14 (Mot.) at 14. 
+
+1   price of the [p]roduct[] . . .  in line with what she expected genuine San Marzano style tomatoes to 
+2   cost.”  Id.  Valiente would not have purchased Simpson’s tomatoes, or would have paid less for 
+3   them, if she had known that they were regular Roma tomatoes and not San Marzano tomatoes.  Id.  
+4   She alleges that Simpson’s product labeling is false and misleading, designed to give consumers 
+5   the impression that Simpson’s tomato products are San Marzano tomatoes when they are not.  Id. 
+6   ¶¶ 23-34.                                                             
+7        B.   Procedural Background                                       
+8        Valiente filed her class action complaint in Santa Clara Superior Court on February 8, 
+9   2023.  Compl. at 1.  She asserts claims for (1) violation of all three prongs of California’s Unfair 
+10   Competition Law, </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code §§ 17200</span><pre class="inline">, et seq. (the “UCL”), (2) violation of 
+11   California’s Consumers Legal Remedies Act, </pre><span class="citation no-link">Cal. Civ. Code §§ 1750</span><pre class="inline">, et seq. (the “CLRA”), 
+12   (3) violation of California’s False Advertising Law, </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code §§ 17500</span><pre class="inline">, et seq. (the 
+13   “FAL”), (4) fraud, (5) breach of express warranty, and (6) “unjust enrichment/restitution.”  </pre><span class="citation no-link">Id.</span><pre class="inline"> 
+14   ¶¶ 51-60, ¶¶ 61-71, ¶¶ 72-81, ¶¶ 82-88, ¶¶ 89-95, ¶¶ 96-106.  Valiente seeks to represent a class 
+15   of: “all persons in California who purchased the Tomatoes” other than for resale.  </pre><span class="citation no-link">Id. ¶ 45</span><pre class="inline">.  
+16   Valiente defines “Tomatoes” as including all “SMT brand canned tomatoes,” including but “not 
+17   limited to, SMT brand crushed, diced, whole peeled, or pureed tomatoes,” whether in a can or a 
+18   box.  </pre><span class="citation no-link">Id.</span><pre class="inline"> ¶ 1 n.1.                                                    
+19        Simpson removed the action to this Court on May 5, 2023.  ECF 1 (Notice of Removal).  
+20   Simpson then moved to dismiss the complaint on June 7, 2023, seeking judicial notice of the 
+21   product label for its whole peeled tomato product that has been in use since February 2019.  ECF 
+22   14 (Mot.), ECF 15 (RJN).  Valiente opposed the motion to dismiss on June 30, 2023, with no 
+23   response to the request for judicial notice.  ECF 19 (Opp.).  Simpson’s reply followed on July 31, 
+24   2023.  ECF 24 (Reply).  The Court held a hearing on the motion on January 25, 2024.  ECF 33. 
+25   II.  LEGAL STANDARDS                                                  
+26        A motion to dismiss under Federal Rule of Civil Procedure 12(b)(6) tests the legal 
+27   sufficiency of the claims alleged in the complaint.  Ileto v. Glock, </pre><span class="citation multiple-matches"><a href="/c/F.3d/349/1191/">349 F.3d 1191</a></span><pre class="inline">, 1199-1200 (9th 
+1   statement of the claim showing that the pleader is entitled to relief.”  Fed. R. Civ. P. 8(a)(2).  A 
+2   complaint that fails to meet this standard may be dismissed pursuant to Rule 12(b)(6).  
+3        To overcome a motion to dismiss brought under Rule 12(b)(6), the factual allegations in 
+4   the plaintiff’s complaint “‘must . . . suggest that the claim has at least a plausible chance of 
+5   success.’”  Levitt v. Yelp! Inc., </pre><span class="citation" data-id="2723330"><a href="/opinion/2723330/boris-levitt-v-yelp-inc/#1135" aria-description="Citation for case: Boris Levitt v. Yelp! Inc.">765 F.3d 1123, 1135</a></span><pre class="inline"> (9th Cir. 2014) (quoting In re Century 
+6   Aluminum Co. Sec. Litig., </pre><span class="citation" data-id="8412570"><a href="/opinion/8441456/petzschke-v-century-aluminum-co/#1107" aria-description="Citation for case: Petzschke v. Century Aluminum Co.">729 F.3d 1104, 1107</a></span><pre class="inline"> (9th Cir. 2013) (alterations in original)).  In ruling 
+7   on the motion, courts “accept factual allegations in the complaint as true and construe the 
+8   pleadings in the light most favorable to the nonmoving party.”  Manzarek, 519 F.3d at 1031. 
+9        “[A]llegations in a complaint . . . may not simply recite the elements of a cause of action 
+10   [and] must contain sufficient allegations of underlying facts to give fair notice and to enable the 
+11   opposing party to defend itself effectively.”  Levitt, </pre><span class="citation" data-id="2723330"><a href="/opinion/2723330/boris-levitt-v-yelp-inc/" aria-description="Citation for case: Boris Levitt v. Yelp! Inc.">765 F.3d at 1135</a></span><pre class="inline"> (quoting Starr v. Baca, 652 
+</pre><span class="citation" data-id="659857"><a href="/opinion/659857/united-states-v-michael-tracy-and-francisco-luis-aguilar/#1216" aria-description="Citation for case: United States v. Michael Tracy and Francisco Luis Aguilar">12   F.3d 1202, 1216</a></span><pre class="inline"> (9th Cir. 2011)).  The court may dismiss a claim “where there is either a lack of a 
+13   cognizable legal theory or the absence of sufficient facts alleged under a cognizable legal claim.” 
+14   Hinds Invs., L.P. v. Angioli, </pre><span class="citation" data-id="222220"><a href="/opinion/222220/hinds-investments-lp-v-angioli/#850" aria-description="Citation for case: Hinds Investments, L.P. v. Angioli">654 F.3d 846, 850</a></span><pre class="inline"> (9th Cir. 2011) (citing Johnson v. Riverside 
+15   Healthcare Sys., LP, </pre><span class="citation" data-id="1200144"><a href="/opinion/1200144/johnson-v-riverside-healthcare-system-lp/#1121" aria-description="Citation for case: Johnson v. Riverside Healthcare System, LP">534 F.3d 1116, 1121</a></span><pre class="inline"> (9th Cir. 2008)).  “[T]he non-conclusory ‘factual 
+16   content’ and reasonable inferences from that content must be plausibly suggestive of a claim 
+17   entitling the plaintiff to relief.”  Moss v. U.S. Secret Service, </pre><span class="citation" data-id="1450162"><a href="/opinion/1450162/moss-v-us-secret-service/#969" aria-description="Citation for case: Moss v. U.S. Secret Service">572 F.3d 962, 969</a></span><pre class="inline"> (9th Cir. 2009).  
+18        When deciding whether to grant a motion to dismiss, the court generally “may not consider 
+19   any material beyond the pleadings.”  Hal Roach Studios, Inc. v. Richard Feiner &amp; Co., </pre><span class="citation" data-id="8976708"><a href="/opinion/8984708/mcmahon-v-shearsonamerican-express-inc/#1542" aria-description="Citation for case: McMahon v. Shearson/American Express, Inc.">896 F.2d 
+20   1542</a></span><pre class="inline">, 1555 n.19 (9th Cir. 1990).  However, the court may consider material submitted as part of 
+21   the complaint or relied upon in the complaint and may also consider material subject to judicial 
+22   notice.  See Lee v. City of Los Angeles, </pre><span class="citation" data-id="6998020"><a href="/opinion/7092482/lee-v-city-of-los-angeles/#688" aria-description="Citation for case: Lee v. City of Los Angeles">250 F.3d 668, 688-89</a></span><pre class="inline"> (9th Cir. 2001).  The Court, 
+23   however, is “not required to accept as true conclusory allegations which are contradicted by 
+24   documents referred to in the complaint.”  Terraza v. Safeway Inc., </pre><span class="citation" data-id="7242644"><a href="/opinion/7324732/terraza-v-safeway-inc/" aria-description="Citation for case: Terraza v. Safeway Inc.">241 F. Supp. 3d 1057</a></span><pre class="inline">, 1082 
+25   (N.D. Cal. 2017).                                                     
+26   III.  DISCUSSION                                                      
+27        A.   Request for Judicial Notice                                 
+1   judicial notice.  A district court may take judicial notice of facts that are “not subject to reasonable 
+2   dispute” because they are (1) “generally known within the trial court’s territorial jurisdiction,” or 
+3   (2) are “capable of accurate and ready determination by resort to sources whose accuracy cannot 
+4   reasonably be questioned.”  Fed. R. Evid. 201(b); United States v. Bernal-Obeso, </pre><span class="citation" data-id="602901"><a href="/opinion/602901/united-states-v-filemon-bernal-obeso/" aria-description="Citation for case: United States v. Filemon Bernal-Obeso">989 F.2d 331</a></span><pre class="inline">, 
+5   333 (9th Cir. 1993).  The sole document subject to a request for judicial notice is the product label 
+6   for Simpson’s canned whole peeled tomato product, which has been in use since February 2019.  
+7   RJN, Ex. A; ECF 16 (Levi Declaration) ¶ 3.  Valiente did not respond to the request for judicial 
+8   notice.  Because there is no dispute as to the label’s authenticity, the Court takes judicial notice of 
+9   the label.  See Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1086" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1086-87</a></span><pre class="inline"> (N.D. Cal. 2017) 
+10   (citing Kanfer v. Pharmacare US, Inc., </pre><span class="citation" data-id="7234554"><a href="/opinion/7316646/kanfer-v-pharmacare-us-inc/#1098" aria-description="Citation for case: Kanfer v. Pharmacare US, Inc.">142 F. Supp. 3d 1091, 1098-99</a></span><pre class="inline"> (S.D. Cal. 2015)) (taking 
+11   judicial notice of an image of Raisin Bran packaging).                
+12        In addition to the product label, the parties cite to internet articles, websites, screenshots, 
+13   and other materials throughout their papers.  See, e.g., Mot. at 14 nn.1-2, 16 nn.4-6, Opp. at 14 
+14   nn.5-6, 25 n.9.  Neither party has sought judicial notice of these materials or otherwise proffered a 
+15   basis upon which this Court can properly consider them.  Accordingly, the Court has not 
+16   considered these additional materials in ruling on the pending motion, to which the Court now 
+17   turns.                                                                
+18        B.   Motion to Dismiss                                           
+19        Simpson moves to dismiss the complaint on nine grounds.  First, Simpson argues that the 
+20   Federal Food, Drug, and Cosmetic Act (“FDCA”) expressly preempts Valiente’s claims.  Mot. at 
+21   18-20.  Second, Simpson argues that Valiente’s California UCL, CLRA, and FAL claims are 
+22   implausible.  Id. at 20-25.  Third, Simpson argues that Valiente fails to plead her fraud claims with 
+23   the requisite specificity.  Id. at 25-27.  Fourth, Simpson argues that Valiente’s breach of express 
+24   warranty claim fails for lack of an actionable statement, promise or description.  Id. at 27-28.  
+25   Fifth, Simpson argues that Valiente’s fraud claim fails because Valiente does not allege an actual 
+26   misrepresentation or plead scienter or intent.  Id at 28.  Sixth, Simpson argues that Valiente lacks 
+27   standing to pursue injunctive relief.  Id. at 29-30.  Seventh, Simpson argues that Valiente’s 
+1   lacks an adequate remedy at law.  Id. at 30-31.  Eighth, Simpson argues that Valiente lacks 
+2   standing to pursue claims based on products that she did not purchase.  Id. at 31-33.  Ninth, 
+3   Simpson seeks dismissal of the class allegations or alternatively asks that the allegations be 
+4   stricken because they are not tethered to any applicable statute of limitations.  Id. at 33-34.   
+5        The Court first addresses the threshold issue of standing before assessing Simpson’s 
+6   remaining arguments.                                                  
+7             1.   Whether Valiente may assert claims concerning products she did not 
+                   purchase.                                              
+8                                                                         
+9        Article III standing requires a showing of an injury in fact that is traceable to the 
+10   challenged conduct and redressable by a favorable ruling.  See Spokeo, Inc. v. Robins, </pre><span class="citation no-link">578 U.S. 
+11</span><pre class="inline">   338 (2016) (citing Lujan v. Defenders of Wildlife, </pre><span class="citation" data-id="9432577"><a href="/opinion/112747/lujan-v-defenders-of-wildlife/#560" aria-description="Citation for case: Lujan v. Defenders of Wildlife">504 U.S. 555, 560-61</a></span><pre class="inline"> (1992)).  In the Ninth 
+12   Circuit, “[t]here is no controlling authority on whether Plaintiffs have standing for products they 
+13   did not purchase.”  See Miller v. Ghirardelli Chocolate Co., </pre><span class="citation" data-id="8704589"><a href="/opinion/8721396/miller-v-ghirardelli-chocolate-co/#868" aria-description="Citation for case: Miller v. Ghirardelli Chocolate Co.">912 F. Supp. 2d 861, 868</a></span><pre class="inline"> (N.D. Cal. 
+14   2012) (citing Donohue v. Apple, Inc., </pre><span class="citation" data-id="8699825"><a href="/opinion/8716632/donohue-v-apple-inc/#921" aria-description="Citation for case: Donohue v. Apple, Inc.">871 F. Supp. 2d 913, 921-22</a></span><pre class="inline"> (N.D. Cal. 2012) (collecting 
+15   cases)).  However, “[t]he majority of the courts that have carefully analyzed the question hold that 
+16   a plaintiff may have standing to assert claims for unnamed class members based on products he or 
+17   she did not purchase so long as the products and alleged misrepresentations are substantially 
+18   similar.”  Id. at 869.                                                
+19        Courts have found substantial similarity across diverse products that bear similar labels, as 
+20   “[t]he critical issue is whether the products are substantially similar with respect to the alleged 
+21   mislabeling.”  See Baum v. J-B Weld Co., LLC, No. 19-cv-01718-EMC, </pre><span class="citation no-link">2019 WL 6841231</span><pre class="inline">, at *4 
+22   (N.D. Cal. Dec. 16, 2019) (concluding plaintiff had standing to bring claims based on 24 products 
+23   with similar packaging and/or mislabeling); see also Bush v. Rust-Oleum Corp., No. 20-cv-03268-
+24   LB, </pre><span class="citation no-link">2021 WL 24842</span><pre class="inline">, at *6 (N.D. Cal. Jan. 4, 2021) (holding plaintiff had standing to bring claims 
+25   based on 13 products he did not purchase because he alleged that the front-label representations 
+26   were substantially similar and alleged uniform misrepresentations across product lines); Astiana v. 
+27   Dreyer’s Grand Ice Cream, Inc., Nos. C-11-2910-EMC, C-11-3164-EMC, </pre><span class="citation no-link">2012 WL 2990766</span><pre class="inline">, at 
+1   different ingredients is not dispositive as [p]laintiffs are challenging the same basic mislabeling 
+2   practice across different product flavors.”).                         
+3        Here, Simpson first argues that Valiente lacks standing to assert claims concerning 
+4   products she did not purchase.4  Mot. at 31-32.  Simpson next contends that “[a]t the very least, 
+5   plaintiffs seeking to sue for products they did not purchase must allege that the unpurchased 
+6   products are so substantially similar to purchased products to satisfy Article III requirements.”  </pre><span class="citation no-link">Id.</span><pre class="inline"> 
+7   at 32-33.  On this point, Simpson asserts that Valiente’s conclusory allegation – “that [b]y its 
+8   actions, [Simpson] disseminated uniform advertising regarding its Products to and across 
+9   California” – is not enough.  </pre><span class="citation no-link">Id. at 32-33</span><pre class="inline">.                           
+10        Valiente counters that Simpson’s argument is premature and better raised at the class 
+11   certification stage.  Opp. at 24.  Valiente also argues that Simpson’s argument “rests on the 
+12   incorrect assertion that [she] has not alleged substantial similarity between the product [she] 
+13   purchased and other Simpson . . . products.”  </pre><span class="citation no-link">Id.</span><pre class="inline">                     
+14        In connection with this argument, Valiente points to the following paragraphs in her 
+15   complaint:5                                                           
+16          Paragraph 4:  As described in further detail below, the label used for all of Defendant’s 
+           tomato Products bears several features which make it highly misleading.  As a result, 
+17          consumers have purchased hundreds of thousands of Defendant’s Products under the 
+           false, but reasonable, impression that they were purchasing a San Marzano varietal of 
+18          tomato, when they were not.                                    
+
+19                                                                         
+20                                                                         
+21                                                                         
+
+22   4 Presented in conjunction with this argument is Simpson’s separate contention that dismissal is 
+    appropriate as to claims based on statements by third party retailers.  Mot. at 33.  Valiente clarifies 
+23   in her opposition that she “does not seek to sue for claims that were made by third-party retailers 
+    at all.  Rather, [she] includes these claims in her complaint to highlight the deceptive nature of 
+24                                                                         
+    [Simpson’s] labeling.”  Opp. at 26.  Valiente shall incorporate this clarification into her first 
+25   amended complaint.                                                    
+
+26   5 Attached to Valiente’s opposition brief are screenshots that purportedly show “the substantial 
+    similarity of [Simpson’s] labeling practices across the Products.”  Opp. at 25; ECF 19-1.  The 
+27   screenshots are not contained in the complaint and are not subject to a request for judicial notice.  
+    I          e   Paragraph 19:  Defendant sells boxed tomatoes, canned tomatoes, tomato sauces, and 
+                 tomato pastes.  Defendant’s deceptive labeling is substantially similar across all of its 
+    2             Products. 
+    3          e   Paragraph 20:  Defendant’s Tomatoes are all packaged with the same visually distinct 
+                 and eye-catching label, an example of which is depicted below, subject to minor and 
+    4             inconsequential variation: 
+    5                                     ge 
+    6 
+    7 
+    8 
+    9 
+
+                e   Paragraph 21:  The label features large illustrations of a San Marzano varietal tomato 
+ S   13             against a white background, with a thin ribbon of text around the top and bottom 
+                    stating what kind of tomato preparation is in the can (i.e., whole, crushed, diced, 
+ v   14             pureed).  In the middle of each tomato illustration are the letters SMT. 
+ © 
+  15  |] Compl. ff 4-5, 19-21. 
+ oO    16          These allegations establish uniformity and consistency in Simpson’s labeling of its tomato 
+
+ 2   17    products and are thus sufficient to establish substantial similarity across the whole peeled tomato 
+
+Z   18  || product that Valiente purchased® and other Simpson tomato products.  See Roffman v. Rebbl, Inc., 
+   19    </pre><span class="citation no-link">653 F. Supp. 3d 723</span><pre class="inline">, 729 (N.D. Cal. 2023) (plaintiff had standing to bring claims based on 
+   20  || products she did not purchase where she only included an image of one product at issue but 
+   21    alleged it was uniform and consistent across the defendant’s different products). 
+   22          Simpson’s motion to dismiss for lack of standing is therefore denied. 
+   23  || // 
+   24                 □ 
+   25    ° Simpson asserts that the label in Valiente’s complaint is outdated and does not match the version 
+        of the label that’s been in use since 2019.  See Mot. at 16 n.3.  Simpson thus questions whether 
+   26  || Valiente actually purchased the product in 2022 as she claims.  Jd.  During the oral argument, 
+        Valiente’s counsel confirmed the accuracy of the allegation that Valiente purchased Simpson’s 
+   27    whole canned peeled tomato product in 2022.  Should discovery prove otherwise, Simpson may 
+   28    seek appropriate relief. 
+
+1             2.   Whether the FDCA preempts Valiente’s claims.           
+2        As amended by the Nutrition Labeling and Education Act (“NLEA”), the Food, Drug, and 
+3   Cosmetic Act (“FDCA”), “expressly preempts all state statutes and law that directly or indirectly 
+4   establish any requirement for the labeling of food that is not identical to the federal requirements 
+5   set forth by statute and Food and Drug Administration (FDA) regulations.”  Nacarino v. Kashi 
+6   Co., </pre><span class="citation no-link">77 F.4th 1201</span><pre class="inline">, 1204 (9th Cir. 2023) (internal quotations, citations, and footnotes omitted); see 
+7   also Hawkins v. Kroger Co., </pre><span class="citation" data-id="4318295"><a href="/opinion/4541042/shavonda-hawkins-v-the-kroger-co/#769" aria-description="Citation for case: Shavonda Hawkins v. the Kroger Co.">906 F.3d 763, 769</a></span><pre class="inline"> (9th Cir. 2018) (“The NLEA . . .  provides that no 
+8   state may directly or indirectly establish any requirement for the labeling of food that is not 
+9   identical to the federal requirements.”).                             
+10        A state law requirement is not identical to federal requirements if it “directly or indirectly 
+11   imposes obligations or contains provisions concerning the composition or labeling of food that . . . 
+12   are not imposed by or contained in the FDCA or applicable federal regulation . . . or differ from 
+13   those specifically imposed by or contained in the applicable provision of the FDCA or applicable 
+14   federal regulation.”  Hollins v. Walmart Inc., </pre><span class="citation no-link">67 F.4th 1011</span><pre class="inline">, 1016 (9th Cir. 2023) (citing 21 C.F.R. 
+15   § 100.1(c)(4)) (internal quotations and modifications omitted).  Therefore, “a state-law 
+16   misbranding claim” that would allow “a state to impose requirements . . . different from those 
+17   permitted under the FDCA . . . is preempted.”  Id. (citing Durnford v. MusclePharm Corp., 907 
+</pre><span class="citation" data-id="664708"><a href="/opinion/664708/united-states-v-roger-p-reetz/#603" aria-description="Citation for case: United States v. Roger P. Reetz">18   F.3d 595, 603</a></span><pre class="inline"> (9th Cir. 2018) (internal quotations omitted)).         
+19        Simpson characterizes Valiente’s claims as imposing a disclosure requirement that the 
+20   FDCA does not contain, i.e., a requirement that Simpson specify the tomato varietal the consumer 
+21   is purchasing.  Mot. at 19-20.  Relying on this characterization, Simpson argues that the FDCA 
+22   expressly preempts Valiente’s claims because (a) the FDCA does not require Simpson to state the 
+23   specific tomato varietal on the product label and instead only requires that Simpson state that the 
+24   products are “tomatoes,” which the label does, and (b) Simpson complies with the FDCA’s 
+25   requirement that the product label specify the county of origin, which is the United States.  Mot. at 
+26   19.                                                                   
+27        Valiente counters that she does not challenge Simpson’s representations that the products 
+1   takes issue with the additional content on the product label—the illustration of a San Marzano 
+2   tomato, the letters “SMT,” and the text “San Merican tomato”—none of which federal regulation 
+3   requires.  </pre><span class="citation" data-id="664708"><a href="/opinion/664708/united-states-v-roger-p-reetz/" aria-description="Citation for case: United States v. Roger P. Reetz">Id.</a></span><pre class="inline">  It is these features that serve as the basis for Valiente’s claims that Simpson’s 
+4   product labels are false and misleading.  </pre><span class="citation" data-id="664708"><a href="/opinion/664708/united-states-v-roger-p-reetz/" aria-description="Citation for case: United States v. Roger P. Reetz">Id.</a></span><pre class="inline">  As such, Valiente contends that her claims are 
+5   consistent with the FDCA, not preempted by it.  </pre><span class="citation" data-id="664708"><a href="/opinion/664708/united-states-v-roger-p-reetz/" aria-description="Citation for case: United States v. Roger P. Reetz">Id.</a></span><pre class="inline">  In light of Valiente cabining her claims to 
+6   concern only these features of Simpson’s label, the Court agrees that the claims are not preempted. 
+7        On this point, the Ninth Circuit’s decision in Astiana v. Hain Celestial Group Inc. is 
+8   instructive.  </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">783 F.3d 753</a></span><pre class="inline"> (9th Cir. 2015).  There, the plaintiffs brought mislabeling claims based 
+9   on the defendant’s use of “All Natural,” “Pure Natural,” and “Pure, Natural &amp; Organic” on its 
+10   personal care products.  </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/#756" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">Id. at 756</a></span><pre class="inline">.  In a second motion to dismiss, the defendant asked the district 
+11   court to stay or dismiss the plaintiffs’ complaint under the primary jurisdiction doctrine so that the 
+12   parties could seek expert guidance from the FDA.  </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/#756" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">Id. at 756-57</a></span><pre class="inline">.  The district court granted the 
+13   motion and dismissed the complaint.  </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/#757" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">Id. at 757</a></span><pre class="inline">.                      
+14        On appeal, the defendant urged the Ninth Circuit to consider whether the FDCA expressly 
+15   preempted the plaintiffs’ claims.  </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/#757" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">Id. at 757</a></span><pre class="inline">.  Though the district court did not address the 
+16   argument, the Ninth Circuit considered the “purely legal question” as “a threshold issue for 
+17   resolution.”  </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">Id.</a></span><pre class="inline">  It concluded that the plaintiffs’ claims were not preempted because they were 
+18   “not asking [the manufacturer] to modify or enhance any aspect of its cosmetics labels that are 
+19   required by federal law,” but instead “claim[ed] deception as a result of advertising statements that 
+20   contradicted the true ingredients listed on the FDA-mandated label.”  </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/#758" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">Id. at 758</a></span><pre class="inline"> (citation omitted).   
+21        The Ninth Circuit highlighted that “FDA regulations do not require [the manufacturer] to 
+22   label its product as ‘All Natural’ or ‘Pure Natural.’”  </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">Id.</a></span><pre class="inline">  It added:  “[i]f [the plaintiffs’] suit 
+23   ultimately requires [the manufacturer] to remove these allegedly misleading advertising statements 
+24   from its product labels, such a result does not run afoul of the FDCA, which prohibits 
+25   ‘requirement[s]’ that are ‘different from,’ ‘in addition to,’ or ‘not identical with’ federal rules.”  </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">Id.</a></span><pre class="inline"> 
+26   Thus, because no statute or regulation governed “the use of ‘natural’ on cosmetics labels,” there 
+27   was no basis for express preemption, and the plaintiffs’ claims could proceed.  </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/#759" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">Id. at 759</a></span><pre class="inline">. 
+1   the aspects of Simpson’s labels necessary for compliance with FDA requirements.  See Opp. at 11 
+2   (“Plaintiff does not challenge, for example, that the Products are “tomatoes” or that they are 
+3   ‘Grown and Packed in the U.S.A.’”).  Instead, like the plaintiffs in Astiana, Valiente challenges 
+4   features on the label that go beyond these requirements, including the use of an illustration of a 
+5   San Marzano tomato, the use of an abbreviation “SMT,” and the text that reads “San Merican 
+6   Tomato.”  See </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">id.</a></span><pre class="inline">  As in Astiana, if this suit requires Simpson to remove those features from its 
+7   labels, there is no conflict with the FDCA and thus no basis for preemption.  Indeed, Simpson 
+8   contends that the FDCA merely requires it to identify the product as “tomatoes” and specify where 
+9   they come from.  See Mot. at 19.  Simpson claims it does both.  </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">Id.</a></span><pre class="inline">  It can continue to do so even if 
+10   Valiente prevails on her claims.                                      
+11        Simpson does not address Astiana and instead relies on inapposite Ninth Circuit authority.7  
+12   See Mot. at 18-20, Reply at 6-7.  Pardini v. Unilever United States Inc. involved false advertising 
+13   claims relating to the product “I Can’t Believe It’s Not Butter! Spray.”  </pre><span class="citation no-link">65 F.4th 1081</span><pre class="inline">, 1084-85 
+14   (9th Cir. 2023).  In that case, the plaintiffs’ claims put FDA regulations about serving size and 
+15   calorie content at issue, and the district court dismissed the claims on preemption grounds.  </pre><span class="citation no-link">Id.</span><pre class="inline"> at 
+16   1084.  On appeal, the plaintiffs argued that the manufacturer’s serving size information was 
+17   misleading because it did not reflect customary usage.  </pre><span class="citation no-link">Id. at 1089</span><pre class="inline">.  The Ninth Circuit rejected the 
+18   argument, as “the reference amount customarily consumed” is “a value established by the FDA.”  
+19   </pre><span class="citation no-link">Id. at 1090</span><pre class="inline">.  The plaintiffs’ claims would thus impose a food labeling requirement not identical to 
+20   existing federal regulations, and as such, the claims were preempted.  </pre><span class="citation no-link">Id. at 1091</span><pre class="inline">.8 
+21        Similarly, in Hollins v. Walmart, Inc., the plaintiffs challenged Walmart’s labeling of its 
+22   “Spring Valley Glucosamine Sulfate” supplement as misleading because the product “contained 
+23                                                                         
+    7 Valiente also does not address the Ninth Circuit cases Simpson cites in its opening brief.  See 
+24                                                                         
+    Opp. at 10-11.                                                        
+25                                                                         
+    8 Simpson also relies on Degelmann v. Advanced Medical Optics, Inc., </pre><span class="citation" data-id="614360"><a href="/opinion/614360/degelmann-v-advanced-medical-optics-inc/" aria-description="Citation for case: Degelmann v. Advanced Medical Optics, Inc.">659 F.3d 835</a></span><pre class="inline"> (9th Cir. 
+26   2011).  The Court has not considered that decision here because it has been vacated, and as a 
+    result, is no longer binding.  See </pre><span class="citation" data-id="810711"><a href="/opinion/810711/united-states-v-timothy-wolf-child/" aria-description="Citation for case: United States v. Timothy Wolf Child">699 F.3d 1101</a></span><pre class="inline"> (9th Cir. 2012).  See also Page v. King, No. 20-
+27   17073, </pre><span class="citation no-link">2021 WL 4690953</span><pre class="inline">, at *2 n.3 (9th Cir. Oct. 7, 2021) (“[A] vacated opinion may still be 
+1   glucosamine hydrochloride, not glucosamine sulfate or glucosamine sulfate potassium chloride.”  
+2   67 F.4th at 1013.  After an evidentiary hearing, the district court granted summary judgment in 
+3   favor of Walmart on preemption grounds.  Id.  The plaintiffs appealed.  Id.  The Ninth Circuit 
+4   determined that the plaintiffs’ claims “would require the state to impose the rule that a blend of 
+5   glucosamine hydrochloride and potassium sulfate cannot be labeled glucosamine sulfate or 
+6   glucosamine sulfate potassium chloride.”  Id. at 1018.  Such a rule would impose a labeling 
+7   requirement different than those set by the FDCA.  Id. at 1019.  Because of this, the Ninth Circuit 
+8   affirmed the district court’s order, which properly found that the plaintiffs’ claims were preempted 
+9   by the FDCA.  Id. at 1022.                                            
+10        Neither Pardini nor Hollins compel a finding that the FDCA preempts Valiente’s claims 
+11   here.  As discussed above, Valiente expressly disclaims any attempt to impose labeling 
+12   requirements other than those set by federal law.  Instead, Valiente seeks to hold Simpson 
+13   accountable for adding content that, as alleged, is both (1) not required by federal regulations and 
+14   (2) misleading.  As such, Valiente’s claims are not preempted.        
+15        Accordingly, Simpson’s motion to dismiss on preemption grounds is denied.  In the event, 
+16   however, that Simpson moves to dismiss Valiente’s forthcoming first amended complaint on 
+17   preemption grounds, the Court may revisit this ruling for two reasons.  First, Valiente’s 
+18   representations about the nature of the claims in the complaint appear contradicted by some of the 
+19   arguments presently before the Court.  For example, during oral argument, Valiente indicated that 
+20   she is not asking that Simpson add anything to its product labels.  Simpson countered by pointing 
+21   to Valiente’s demand for “an injunction requiring [Simpson] to disclose on its Products’ 
+22   packaging that the Tomatoes are not San Marzano varietal tomatoes, but in fact are regular Roma 
+23   tomatoes[.]”  See Compl. ¶ 60.  Second, in her opposition brief, Valiente contends that her fraud 
+24   claim “plead[s] omissions in addition to . . . misrepresentations.”  Opp. at 17.  The complaint 
+25   contains no allegations of specific omissions, and during oral argument, Valiente conceded that 
+26   this is a case about misrepresentations, not omissions.  To the extent Valiente’s does not conform 
+27   her first amended complaint to the representations made by her counsel during oral argument, the 
+1             3.   Whether Valiente’s CLRA, UCL, and FAL claims are plausible. 
+2        In order to protect its citizens from unfair, deceptive, or fraudulent business practices, 
+3   California has enacted a number of consumer protection statutes.  The CLRA prohibits “unfair or 
+4   deceptive acts or practices . . . undertaken by any person in a transaction intended to result or that 
+5   results in the sale or lease of goods or services to any customer.”  </pre><span class="citation no-link">Cal. Civ. Code § 1770</span><pre class="inline">(a).  
+6   Similarly, the UCL prohibits any “unlawful, unfair or fraudulent business act or practice,” and the 
+7   FAL prohibits any “unfair, deceptive, untrue or misleading advertising.”  Cal. Bus. &amp; Prof. Code 
+8   §§ 17200, 17500.                                                      
+9        “Under the[se] consumer protection laws[,] . . . claims based on deceptive or misleading 
+10   marketing must demonstrate that a ‘reasonable consumer’ is likely to be misled by the 
+11   representation.”  Moore v. Trader Joe’s Co., </pre><span class="citation no-link">4 F.4th 874</span><pre class="inline">, 881 (9th Cir. 2021).  “Under the 
+12   reasonable consumer standard, [a plaintiff] must show that members of the public are likely to be 
+13   deceived.”  Williams v. Gerber Prods. Co., </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/#938" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d 934, 938</a></span><pre class="inline"> (9th Cir. 2008).  “The California 
+14   Supreme Court has recognized that these laws prohibit not only advertising which is false, but also 
+15   advertising which[,] although true, is either actually misleading or which has a capacity, likelihood 
+16   or tendency to deceive or confuse the public.”  </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/#938" aria-description="Citation for case: Williams v. Gerber Products Co.">Id. at 938</a></span><pre class="inline"> (internal quotation marks omitted) 
+17   (quoting Kasky v. Nike, Inc., </pre><span class="citation" data-id="5452377"><a href="/opinion/5607980/kasky-v-nike-inc/#951" aria-description="Citation for case: Kasky v. Nike, Inc.">27 Cal. 4th 939, 951</a></span><pre class="inline"> (2002)).  The reasonable consumer test requires 
+18   more than a mere possibility that defendant’s product “might conceivably be misunderstood by 
+19   some few consumers viewing it in an unreasonable manner.”  Lavie v. Procter &amp; Gamble Co., 105 
+</pre><span class="citation no-link">20   Cal. App. 4th 496</span><pre class="inline">, 508 (2003).  Rather, the test requires a probability “that a significant portion of 
+21   the general consuming public or of targeted consumers, acting reasonably in the circumstances, 
+22   could be misled.”  Id.; see also Moore, 4 F.4th at 881.               
+23        Generally, “whether a reasonable consumer would be deceived . . . [is] a question of fact 
+24   not amenable to determination on a motion to dismiss.”  Ham v. Hain Celestial Grp., Inc., </pre><span class="citation no-link">70 F. 
+25</span><pre class="inline">   Supp. 3d 1188, 1193 (N.D. Cal. 2014); see Reid v. Johnson &amp; Johnson, </pre><span class="citation" data-id="2786091"><a href="/opinion/2786091/reid-v-johnson-johnson-mcneil-nutritionals-llc/#958" aria-description="Citation for case: Reid v. Johnson &amp; Johnson &amp; McNeil Nutritionals, LLC">780 F.3d 952, 958</a></span><pre class="inline"> (9th 
+26   Cir. 2015).  “However, in rare situations a court may determine, as a matter of law, that the alleged 
+27   violations of the UCL, FAL, and CLRA are simply not plausible.”  Ham, 70 F. Supp. 3d at 1193. 
+1   misleading features of Simpson’s product label:  the illustration of a San Marzano tomato, the 
+2   letters “SMT,” and the text “San Merican Tomato.”9  See Compl. ¶¶ 24-29.  While Simpson offers 
+3   an interpretation of the features on its label, its assertions do not control at this stage.  Simpson 
+4   may be right in asserting that the illustration is subject to artistic interpretation and that the label 
+5   makes clear that “SMT” stands for San Merican tomato.  But the Court must take Valiente’s 
+6   allegations about the label as true at this stage.                    
+7        Crediting Valiente’s allegations, and drawing all reasonable inferences in Valiente’s favor, 
+8   it is plausible that reasonable consumers would interpret the illustration and the letters SMT as 
+9   Valiente did, and miss the imbedded “San Merican tomato” text, which would lead them to 
+10   reasonably believe that Simpson’s tomatoes are San Marzano tomatoes.  The price of Simpson’s 
+11   tomatoes further contributes to the plausibility of a consumer’s expectation that Simpson’s 
+12   tomatoes are San Marzano tomatoes.  A 28 ounce can of Simpson’s whole peeled tomatoes sells 
+13   for $5.99, the same price as a 28 ounce can of a D.O.P. product by another seller – a price which 
+14   incorporates a premium San Marzano tomatoes command.  Cf. Moore, 4 F.4th at 884-85 
+15   (allegations of false and misleading labeling failed as matter of law where defendant’s Manuka 
+16   honey product was priced substantially lower than other products with higher concentrations of 
+17   Manuka flower nectar, and the product label disclosed a rating on the lower end of the purity 
+18   scale).                                                               
+19        Simpson’s reliance on Sibrian v. Cento Fine Foods, Inc., No. 19-CV-0974(JS)(ST), 2020 
+</pre><span class="citation no-link">20   WL 3618953</span><pre class="inline"> (S.D.N.Y. July 2, 2020), is misplaced.  In that case, the plaintiffs alleged that the 
+21   defendant’s labeling and packaging created the impression that the tomatoes at issue were certified 
+22   by “The Consortium of the San Marzano Tomato, PDO.”  </pre><span class="citation no-link">Id. at *1, *3</span><pre class="inline">.  The plaintiffs also alleged 
+23   that Consortium-certified tomatoes bear two seals.  </pre><span class="citation no-link">Id. at *4</span><pre class="inline">.  On defendant’s motion, the court 
+24                                                                         
+
+25                                                                         
+    9 Valiente also alleges that Simpson sells its products at San Marzano prices.  Compl. ¶¶ 16, 30.  
+26   Simpson explains that it does not have control over the pricing set by retailers.  Mot. at 25.  In her 
+    opposition brief, Valiente clarifies that she “does not challenge representations made by third 
+27   parties . . . [but] cites them because they highlight the proficiency of [Simpson’s] deception.”  
+1   dismissed the claims with leave to amend.  </pre><span class="citation no-link">Id.</span><pre class="inline">  The court found that while “some few consumers” 
+2   would expect a San Marzano tomato to be certified by the Consortium, “the vast majority of 
+3   consumers [would] expect no such thing.”  </pre><span class="citation no-link">Id.</span><pre class="inline">  The court also found it implausible that reasonable 
+4   consumers would believe the Consortium certified defendant’s tomatoes where the Consortium’s 
+5   seals did not appear on the products at issue.  </pre><span class="citation no-link">Id.</span><pre class="inline">                   
+6        Unlike Sibrian, the basis of the alleged fraud is not some missing certification; it is the 
+7   features on the Simpson’s labels that could give reasonable consumers the impression that 
+8   Simpson’s products are San Marzano tomatoes when they are not.10  It is plausible for reasonable 
+9   consumers to view the letters “SMT” and the illustration on Simpson’s label and expect a San 
+10   Marzano tomato, particularly when they have paid a price that is comparable to other San Marzano 
+11   tomatoes.                                                             
+12        Also unlike Sibrian, Valiente alleges substantial facts supporting a plausible inference that 
+13   consumers are aware of what San Marzano tomatoes are, actively seek them out, and are willing to 
+14   pay a premium price for them.  See Compl. ¶ 2 (“San Marzano tomatoes are a highly sought-after 
+15   variety of tomato – generally considered the best for making sauces.”); ¶ 11 (“Compared to the 
+16   Roma tomato, San Marzano tomatoes are thinner and more pointed.  The flesh is much thicker 
+17   with fewer seeds, and a stronger, sweeter, less acidic taste.”); ¶ 12 (“Indeed, they are widely 
+18   considered the best tomato in the world for the task.); ¶ 15 (“[C]hefs and home cooks alike seek 
+19   out canned San Marzano tomatoes and are willing to pay for them.  San Marzano tomatoes 
+20   routinely command double or triple the asking price of regular canned Roma or generic 
+21   tomatoes.”).                                                          
+22        Accordingly, to the extent Simpson seeks dismissal of Valiente’s UCL, FAL, and CLRA 
+23   claims for lack of plausibility, its motion is denied.  However, to the extent Valiente alleges that 
+24   “she was under the impression that the illustration on the front of the can was of a San Marzano 
+25                                                                         
+26                                                                         
+    10 The case Valiente relies on—Snarr v. Cento Fine Foods Inc., No. 19-CV-02627-HSG, 2019 
+</pre><span class="citation no-link">27   WL 7050149</span><pre class="inline"> (N.D. Cal. Dec. 23, 2019)—likewise concerned certification and country of origin 
+1   tomato,” that she “understood the SMT abbreviation to mean ‘San Marzano Tomato,’” that the 
+2   text “San Merican Tomato” was not visible to her, or that she would have interpreted San Merican 
+3   tomato to mean a “San Marzano varietal tomato[] grown in North America,” see Compl. ¶¶ 28, 29, 
+4   40, Valiente’s counsel represented she can allege additional facts.  For this reason, Simpson’s 
+5   motion to dismiss Valiente’s consumer protection claims is granted in part so that Valiente may 
+6   include these additional facts in her first amended complaint.  The motion is otherwise denied as 
+7   set forth above.                                                      
+8             4.   Whether Valiente adequately pleaded a fraud claim.     
+9        Simpson seeks dismissal of Valiente’s fraud claim for two reasons.  First, Simpson argues 
+10   that Valiente fails to satisfy the heightened pleading requirements that apply to fraud claims.  Mot. 
+11   at 26-27.  Second, Simpson argues that the claim lacks allegations of an actionable 
+12   misrepresentation or scienter.  </pre><span class="citation no-link">Id. at 28-29</span><pre class="inline">.  The Court addresses each argument below. 
+13                  a.   Rule 9(b)                                         
+14        For claims sounding in fraud or mistake, a plaintiff must “state with particularity the 
+15   circumstances constituting fraud or mistake.”  Fed. R. Civ. P. 9(b).  To satisfy this standard, the 
+16   “complaint must identify the who, what, when, where, and how of the misconduct charged, as well 
+17   as what is false or misleading about the purportedly fraudulent statement, and why it is false.”  
+18   Salameh v. Tarsadia Hotel, </pre><span class="citation" data-id="1037519"><a href="/opinion/1037519/tamer-salameh-v-tarsadia-hotel/#1133" aria-description="Citation for case: Tamer Salameh v. Tarsadia Hotel">726 F.3d 1124, 1133</a></span><pre class="inline"> (9th Cir. 2013) (citation and internal quotation 
+19   marks omitted).                                                       
+20        Simpson argues that Valiente fails to meet Rule 9(b) because she does not specify the size 
+21   of the product she purchased or whether she purchased any other Simpson products, “including 
+22   any products in a box as opposed to a can.”  Mot. at 26.  Simpson also argues that Valiente fails to 
+23   allege deception with the requisite specificity, because “she alleges only that she surmised from 
+24   the labels” that Simpson’s products “were ‘genuine’ San Marzano tomatoes” without explaining 
+25   “how she came to such a conclusion.”  Id. at 27; Reply at 11.  Simpson asserts that “there is no 
+26   uniform definition for San Marzano tomatoes, reasonable consumers likely do not appreciate the 
+27   visual distinctions between tomato varietals, and [its] [t]omato [p]roducts do not say ‘San 
+1   define what she means by a ‘genuine’ San Marzano tomato, does not explain whether she was 
+2   looking for a domestic or imported tomato product, and does not explain why San Marzano 
+3   tomatoes were important to her.”  Mot. at 27; Reply at 11.            
+4        In her opposition, Valiente points to allegations identifying the who, what, when, where, 
+5   and how.  The “who” is Simpson.  See Compl. ¶ 1.  The “what” is the features on Simpson’s 
+6   labels.  See id. ¶¶ 24-29.11  The “when” is 2022.  See id. ¶ 40.12  The “where” is the packaging, 
+7   labeling, and marketing of Simpson’s tomato products.  See id. ¶ 18-38.  The “how” is the use of 
+8   an illustration of a San Marzano tomato, the lettering “SMT” that a reasonable consumer would 
+9   understand as an abbreviation for “San Marzano tomato,” and the text “San Merican Tomato” that 
+10   a reasonable consumer would understand to mean “San Marzano varietal tomatoes grown in North 
+11   America.”  See id. ¶¶ 23-29.                                          
+12        These allegations are largely sufficient under Rule 9(b).  See Astiana v. Ben &amp; Jerry’s 
+13   Homemade, Inc., No. C 10-4387 PJH, </pre><span class="citation no-link">2011 WL 2111796</span><pre class="inline">, at *6 (N.D. Cal. May 26, 2011) 
+14   (rejecting defendant’s arguments that plaintiffs had failed to plausibly allege that a reasonable 
+15   consumer would assume the words “all natural” to mean plaintiffs’ interpretation and finding Rule 
+16   9(b) satisfied where plaintiffs alleged that, between 2006 and the class period, defendant’s labels 
+17   advertised its ice cream as “all natural” while omitting that it contained a synthetic ingredient).   
+18        However, the Court agrees that Valiente’s allegations about how she reached certain 
+19   conclusions about the label are lacking.  Because, as discussed in connection with the consumer 
+20   protection claims, Valiente’s counsel represented that there are additional facts she can allege, the 
+21   Court will grant the motion to dismiss to allow Valiente the opportunity to incorporate those 
+22   allegations in her first amended complaint.                           
+23                                                                         
+    11 Some of the references to the complaint appear to be mis-numbered in Valiente’s opposition 
+24                                                                         
+    brief.  The Court uses the paragraph numbers as they appear in the complaint. 
+25                                                                         
+    12 While Valiente references 2022 in connection with her purchase of Simpson tomatoes as alleged 
+26   in the complaint, in her opposition, she apparently seeks to expand the “when” to include “the 
+    applicable limitations period.”  See Opp. at 18.  Because no allegations about the applicable 
+27   limitations period are contained in the complaint, the Court has not considered that additional 
+1                  b.   Misrepresentation and scienter                    
+2        To state a claim for fraud, a plaintiff must allege:  (1) a misrepresentation or omission of a 
+3   fact that should have been disclosed; (2) knowledge of falsity; (3) intent to induce reliance; 
+4   (4) justifiable reliance; and (5) resulting damages.  Lazar v. Superior Court, </pre><span class="citation" data-id="9583405"><a href="/opinion/1250721/lazar-v-superior-court/" aria-description="Citation for case: Lazar v. Superior Court">12 Cal. 4th 631</a></span><pre class="inline">, 638 
+5   (1996).                                                               
+6        Simpson argues that Valiente fails to adequately plead two of these elements.  Mot. at 28-
+7   29.  First, Simpson argues that there is no misrepresentation because the product labels “fully 
+8   comply with FDA regulations,” “accurately describe the products as ‘tomatoes,’” and bear 
+9   Simpson’s trademark, without any reference to San Marzano.  Id. at 28.  Second, Simpson argues 
+10   that Valiente does not plead scienter or intent.  Id. at 28-29; Reply at 12.  Both of these arguments 
+11   fail.                                                                 
+12        Simpson’s assertions that its label complies with FDA regulations, accurately describes its 
+13   products as tomatoes, and prominently displays its trademark are not grounds to dismiss 
+14   Valiente’s fraud claim.  The Court has already found that Valiente plausibly alleges that 
+15   Simpson’s labels could mislead a reasonable consumer by giving the impression that Simpson’s 
+16   SMT tomatoes are San Marzano tomatoes and that the consumer protection claims Valiente asserts 
+17   are not preempted.  See supra Part III.B.2-3.  For the reasons explained in connection with that 
+18   ruling, the Court rejects Simpson’s argument that Valiente fails to plead an actionable 
+19   misstatement.                                                         
+20        The Court also rejects Simpson’s argument that Valiente fails to adequately plead scienter 
+21   or intent.  As Valiente points out in her opposition, she alleges that Simpson knows that the 
+22   illustration on its labels “is of a San Marzano tomato because [Simpson] used to sell actual San 
+23   Marzano varietal tomatoes, using nearly identical packaging.  The only difference was that 
+24   [Simpson’s] package used to have ‘San Marzano’ written where ‘SMT’ is now.”  Opp. at 22; 
+25   Compl. ¶ 25.  She also alleges that even though Simpson “no longer sells true San Marzano 
+26   tomatoes, its packaging still bears the image of one.”  Opp. at 22; Compl. ¶ 26.  As discussed 
+27   above, though Simpson argues that the illustration is subject to interpretation, the Court must take 
+1        Accordingly, the Court finds that the allegations that Simpson (1) used to sell San Marzano 
+2   tomatoes, (2) maintained all aspects of the old label except replacing “San Marzano” with “SMT” 
+3   and adding “miniscule” text stating “San Merican Tomato,” and (3) now sells Roma tomatoes 
+4   instead of San Marzano tomatoes under that nearly identical label sufficiently plead 
+5   misrepresentation and scienter.                                       
+6        The two cases Simpson cites in reply do not persuade otherwise.  In Smith v. Apple, Inc., a 
+7   putative class action alleging that Apple misled consumers about the extent of the iPhone’s 
+8   resistance to water exposure, the plaintiffs’ complaint “contain[ed] only a conclusory assertion 
+9   that Apple acted with fraudulent intent” and “d[id] not plausibly allege that Apple knew its 
+10   iPhones were not as water resistant as advertised.”  </pre><span class="citation no-link">583 F. Supp. 3d 554</span><pre class="inline">, 568 (S.D.N.Y. 2022).  As 
+11   explained above, Valiente’s allegations go well beyond those at issue in Smith.  Valiente alleges 
+12   that Simpson sells its Roma tomato products under the label it previously used for its San 
+13   Manzano tomato products, with very limited changes.  The limited changes – adding “SMT” and 
+14   illegible text stating “San Merican Tomato” – support a strong inference that Simpson intended to 
+15   make as few changes as possible to its product label to keep consumers under the impression that 
+16   its Roma tomato products were the same as the San Marzano tomatoes it previously sold. 
+17        The matter of In re Cadence Design Systems, Inc. Securities Litigation is also inapposite.  
+18   </pre><span class="citation" data-id="2517595"><a href="/opinion/2517595/in-re-cadence-design-systems-inc-securities-litigation/" aria-description="Citation for case: In Re Cadence Design Systems, Inc. Securities Litigation">654 F. Supp. 2d 1037</a></span><pre class="inline"> (N.D. Cal. 2009).  Investors brought that action under the Private Securities 
+19   Litigation Reform Act.  </pre><span class="citation" data-id="2517595"><a href="/opinion/2517595/in-re-cadence-design-systems-inc-securities-litigation/#1044" aria-description="Citation for case: In Re Cadence Design Systems, Inc. Securities Litigation">Id. at 1044</a></span><pre class="inline">.  That statute imposes further heightened requirements for 
+20   pleading fraud.  This Court need not subject Valiente to them in this consumer fraud action.  To 
+21   the extent Simpson relies on the case solely for the proposition that “[c]onclusory allegations that 
+22   a defendant ‘must have known’ about particular wrongdoing are, standing alone, generally 
+23   insufficient,” see Reply at 12, the Court has already explained why the allegations here are not 
+24   conclusory.                                                           
+25        Simpson’s motion to dismiss for lack of adequate allegations of a misrepresentation or 
+26   scienter is therefore denied.                                         
+27   //                                                                    
+1                                                                         
+              5.   Whether Valiente’s breach of express warranty claim fails for lack of 
+2                  an actual misrepresentation.                           
+3        To state a claim for breach of express warranty, plaintiff must establish three elements: 
+4   “(1) the seller’s statements constitute an affirmation of fact or promise or a description of the 
+5   goods; (2) the statement was part of the basis of the bargain; and (3) the warranty was breached.” 
+6   Weinstat v. Dentsply Int’l, Inc., </pre><span class="citation" data-id="2255890"><a href="/opinion/2255890/weinstat-v-dentsply-international-inc/#1227" aria-description="Citation for case: Weinstat v. Dentsply International, Inc.">180 Cal. App. 4th 1213, 1227</a></span><pre class="inline"> (2010) (internal quotation marks 
+7   omitted).                                                             
+8        Because “courts in this district regularly hold that stating a claim under California 
+9   consumer protection statutes is sufficient to state a claim for express warranty,” the Court denies 
+10   Simpson’s motion to dismiss Valiente’s warranty claim for the reasons set forth earlier in this 
+11   order.  See DiGiacinto v. RB Health (US) LLC, </pre><span class="citation no-link">668 F. Supp. 3d 950</span><pre class="inline">, 966 (N.D. Cal. Apr. 11, 
+12   2023) (denying motion to dismiss express warranty claim where plaintiff had sufficiently alleged 
+13   deception under the reasonable consumer standard); cf. Kim v. Bluetriton Brands, Inc., No. 22-
+14   56063, </pre><span class="citation no-link">2024 WL 243343</span><pre class="inline">, at *2 (9th Cir. Jan. 23, 2024) (dismissing plaintiff’s claims, including 
+15   claim for breach of express warranty, where plaintiff failed to plead consumer deception). 
+16             6.   Whether Valiente has standing to seek injunctive relief. 
+17        “A plaintiff must demonstrate standing separately for each form of relief sought.”  Duran 
+18   v. Creek, No. 3:15-CV-05497-LB, </pre><span class="citation no-link">2016 WL 1191685</span><pre class="inline">, at *6 (N.D. Cal. Mar. 28, 2016) (citing 
+19   Friends of the Earth, Inc. v. Laidlaw Envtly. Sys. (TOC), Inc., </pre><span class="citation" data-id="9433887"><a href="/opinion/118329/friends-of-the-earth-inc-v-laidlaw-environmental-services-toc-inc/#185" aria-description="Citation for case: Friends of the Earth, Inc. v. Laidlaw Environmental...">528 U.S. 167, 185</a></span><pre class="inline"> (2000)).  “To 
+20   establish standing for injunctive relief in federal court, a plaintiff must demonstrate a sufficient 
+21   likelihood that [they] will again be wronged in a similar way.”  </pre><span class="citation" data-id="9433887"><a href="/opinion/118329/friends-of-the-earth-inc-v-laidlaw-environmental-services-toc-inc/" aria-description="Citation for case: Friends of the Earth, Inc. v. Laidlaw Environmental...">Id.</a></span><pre class="inline"> (internal quotations and citation 
+22   omitted).                                                             
+23        Simpson argues that Valiente now knows that Simpson’s products are not San Marzano 
+24   tomatoes, does not allege a desire to purchase Simpson tomatoes in the future, and as a result, 
+25   cannot establish a risk of future harm necessary to sustain a claim for injunctive relief.  Mot. at 29-
+26   30.  Valiente does not address this argument in her opposition, perhaps because Simpson is correct 
+27   that the complaint contains no allegation that there is a risk of future harm and that such an 
+1   956, 969-70 (9th Cir. 2018) (“In some cases, the threat of future harm may be the consumer’s 
+2   plausible allegations that she will be unable to rely on the product’s advertising or labeling in the 
+3   future, and so will not purchase the product although she would like to.”); see also Duran, 2016 
+</pre><span class="citation no-link">4   WL 1191685</span><pre class="inline">, at *7 (noting that “[e]ven where courts find standing, most require that the plaintiff 
+5   plead intent to purchase the products in the future to establish a sufficient threat of future injury.”).   
+6        Accordingly, Simpson’s motion to dismiss is granted as to Valiente’s claims for injunctive 
+7   relief with leave to amend.                                           
+8             7.   Whether Valiente can pursue equitable claims if she has an adequate 
+                   remedy at law.                                         
+9                                                                         
+10        Simpson next argues that Valiente cannot pursue any equitable claims because she has an 
+11   adequate remedy at law.  Mot. at 30-31.  Relying on Sonner v. Premier Nutrition Corp., </pre><span class="citation no-link">971 F.3d 
+12</span><pre class="inline">   834 (9th Cir. 2020), and Guzman v. Polaris Industries, Inc., </pre><span class="citation no-link">49 F.4th 1308</span><pre class="inline"> (9th Cir. 2022), 
+13   Simpson contends that Ninth Circuit law clearly resolves this issue in its favor.  Mot. at 30. 
+14        In Sonner v. Premier Nutrition Corp., a mislabeling class action involving “Joint Juice,” 
+15   the plaintiff initially brought claims for equitable relief under the UCL and CLRA and for 
+16   damages under the CLRA.  </pre><span class="citation no-link">971 F.3d 834</span><pre class="inline">, 838 (9th Cir. 2020).  On the eve of trial, after litigating 
+17   the case for four years, the plaintiff dismissed her state law damages claim and elected to move 
+18   forward only on the state law equitable claims for restitution and injunctive relief.  </pre><span class="citation no-link">Id. at 837</span><pre class="inline">.  The 
+19   district court then dismissed the restitution claims because an adequate remedy at law, i.e., 
+20   damages, was available.  </pre><span class="citation no-link">Id.</span><pre class="inline">  On appeal, the Ninth Circuit affirmed the dismissal because the 
+21   plaintiff “fail[ed] to establish that she lack[ed] an adequate remedy at law” in the CLRA, holding 
+22   that “a federal court must apply traditional equitable principles before awarding restitution under 
+23   the UCL and CLRA.”  </pre><span class="citation no-link">Id. at 841, 844</span><pre class="inline">.                                  
+24        In Guzman, also a mislabeling case, the district court granted summary judgment in favor 
+25   of the defendants and dismissed the plaintiff’s UCL claim with prejudice.  49 F.4th at 1310.  The 
+26   Ninth Circuit affirmed in part and reversed in part.  Id.  Based in part on Sonner, the Ninth Circuit 
+27   affirmed the portion of the district court order dismissing the UCL claim.  Id. at 1313.  It agreed 
+1   though he could no longer pursue the claim because it was time-barred.  Id. at 1311, 1313.  As to 
+2   the portion of the district court’s order that dismissed the UCL claim with prejudice, the Ninth 
+3   Circuit reversed with instructions to dismiss without prejudice for lack of equitable jurisdiction, 
+4   which would allow the plaintiff to re-file the claim in state court.  Id. at 1315. 
+5        Here, Sonner and Guzman do not mandate dismissal of Valiente’s claims because the 
+6   decisions “require far less at the pleading stage.”  See In re Natera Prenatal Testing Litig., </pre><span class="citation no-link">664 F. 
+7</span><pre class="inline">   Supp. 3d 995, 1012 (N.D. Cal. Mar. 28, 2023).  Valiente alleges that she “may lack an adequate 
+8   remedy at law” if the amount of damages recoverable is less than the price premium she paid for 
+9   Simpson’s tomatoes.  See Compl. ¶¶ 58, 105.  She also alleges that “[r]estitution and/or injunctive 
+10   relief may also be more certain, prompt, and efficient than other legal remedies . . . .”  </pre><span class="citation no-link">Id. ¶¶ 60</span><pre class="inline">, 
+11   106.  These allegations are sufficient to survive the pending motion to dismiss.  See Murphy v. 
+12   Olly Pub. Benefit Corp., </pre><span class="citation no-link">651 F. Supp. 3d 1111</span><pre class="inline">, 1129 (N.D. Cal. 2023) (declining to dismiss the 
+13   request for equitable relief where the plaintiffs alleged that legal remedies were not as certain as 
+14   equitable remedies because, for example, a full refund would require a showing that the product at 
+15   issue had no market value but no such showing was required for restitution).  Cf. Roffman, </pre><span class="citation no-link">653 F. 
+16</span><pre class="inline">   Supp. 3d at 731 (granting motion to dismiss and allowing plaintiff leave to amend her allegations 
+17   regarding the inadequacy of her legal remedies where the plaintiff “d[id] not suggest that she 
+18   s[ought] a different amount in damages than she d[id] in restitution” or that there was a limitation 
+19   inherent to the available legal remedy itself that would make it inadequate); Bryan v. Apple, No. 
+20   22-cv-00845-HSG, </pre><span class="citation no-link">2023 WL 2333893</span><pre class="inline">, at *3 (N.D. Cal. Mar. 2, 2023) (granting motion to dismiss 
+21   on a “narrow basis” where plaintiffs did not explain how their claims for damages and equitable 
+22   relief were based on different theories and did not allege that they lacked an adequate remedy at 
+23   law); Smith v. Apple, Inc., No. 21-CV-09527-HSG, </pre><span class="citation no-link">2023 WL 2095914</span><pre class="inline">, at *3 (N.D. Cal. Feb. 17, 
+24   2023) (dismissing claims for equitable relief based on Sonner and Guzman where the plaintiffs 
+25   had “not adequately alleged that their remedies at law are inadequate” or “address[ed] why 
+26   monetary damages would be inadequate to make [p]laintiffs whole.”).   
+27        For these reasons, Simpson’s motion to dismiss Valiente’s equitable claims is denied. 
+              8.   Whether the class allegations should be dismissed or stricken. 
+1                                                                         
+2        Finally, Simpson argues that Valiente’s class allegations should be dismissed, or in the 
+3   alternative, stricken because the proposed class definition contains no time period, even though the 
+4   longest applicable statute of limitations is four years.  Mot. at 33-34; Reply at 14.   
+5        Simpson is correct that Valiente’s proposed class definition is untethered to any applicable 
+6   statute of limitations.  See Compl. ¶ 45.  The definition includes “all persons in California who 
+7   purchased the Tomatoes,” except for anyone who purchased them for resale.  </pre><span class="citation no-link">Id.</span><pre class="inline">  In her 
+8   opposition, however, Valiente asserts that she “does not seek to assert claims outside of the 
+9   limitations period.”  Opp. at 26.  Despite this concession, Valiente asserts that she “is not even 
+10   locked into her proposed class definition, which is subject to change as the case develops.”  </pre><span class="citation no-link">Id.</span><pre class="inline">  
+11        In light of Valiente’s representation that she “does not seek to assert claims outside of the 
+12   limitations period,” the Court grants the motion to dismiss so that Valiente can conform her 
+13   proposed class definition to her counsel’s representation.            
+14        The only case Valiente cites in her opposition – Taylor v. Shutterfly, Inc. – does not 
+15   counsel against dismissal for this limited purpose.  No. 18-cv-00266-BLF, </pre><span class="citation no-link">2020 WL 1307043</span><pre class="inline"> 
+16   (N.D. Cal. Mar. 19, 2020).  There, the defendant sought to strike class allegations because, as 
+17   proposed, the class definition included injured class members.  </pre><span class="citation no-link">Id. at *2</span><pre class="inline">.  The court considered the 
+18   arguments on those points better addressed at class certification and as such, the arguments did not 
+19   present “one of those rare circumstances” in which a motion to strike would be appropriate.  </pre><span class="citation no-link">Id.</span><pre class="inline"> at 
+20   *4.                                                                   
+21        Here, however, Simpson raises a discrete issue – whether Valiente should conform her 
+22   class definition to the applicable statutes of limitation – and Valiente appears to concede that she 
+23   intends to proceed accordingly.  The Court therefore construes Simpson’s motion as seeking 
+24   dismissal of time-barred claims.13  So construed, the motion is granted with leave to amend so that 
+25                                                                         
+    13 If construed otherwise, the motion would be disfavored as this stage, as it would improperly 
+26                                                                         
+    invoke Rule 12(b)(6) as a vehicle to litigate issues better reserved for the class certification inquiry 
+    under Rule 23.  See Sulzberg v. Happiest Minds Techs. Pvt. Ltd., No. 19-CV-05618-SVK, 2019 
+</pre><span class="citation no-link">27                                                                         
+    WL 6493984</span><pre class="inline">, at *2 (N.D. Cal. Dec. 3, 2019) (“Courts in this District have held that Rule 12(b)(6) 
+    1    Valiente can conform her class definition to the appropriate statute of limitations period. 
+    2  || IV.    CONCLUSION 
+    3          For the reasons set forth above, Simpson’s motion to dismiss is GRANTED IN PART 
+    4  || AND DENIED IN PART.  Valiente shall file a first amended complaint within 21 days of this 
+    5  || order. 
+    6          IT IS SO ORDERED. 
+    7    Dated: February 20, 2024 
+    8                                                   /  |       p  Ik   ih  □ 
+    ?                                                    AARACELI MARTINEZ-OLGUIN 
+   10                                                    United States District Judge 
+   11 
+3s   12 
+
+  123 
+
+
+   15 
+   16 
+
+     17 
+
+Z    18 
+   19 
+   20 
+   21 
+   22 
+   23 
+   24 
+   25    appropriate development of the record.”); Slovin v. Sunrun, Inc., No. 15-CV-05340 YGR, </pre><span class="citation no-link">2016 
+        WL 5930631</span><pre class="inline">, at *2 (N.D. Cal. Oct. 12, 2016) (“While defendants’ arguments may eventually 
+   26 || Prove to be convincing, defendants’ motion to strike is premature given that discovery is still 
+        ongoing and no motion for class certification has been filed”); see also Azad v. Tokio Marine 
+   97  || HCC-Med. Ins. Servs. LLC, No. 17-CV-00618-PJH, </pre><span class="citation no-link">2017 WL 3007040</span><pre class="inline">, at *8-9 (N.D. Cal. July 
+         14, 2017) (denying the motion to strike class allegations despite the court having “doubts as to 
+   28    whether this case can be maintained as a class action, [as] the propriety of the class allegations are 
+        better addressed at the class certification stage”). </pre>

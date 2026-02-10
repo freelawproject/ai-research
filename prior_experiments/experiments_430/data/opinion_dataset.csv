@@ -1,0 +1,134 @@
+citing_opinion_id,court,docket_id,cluster_id,opinion_types,opinion_sources,citing_name_short,citing_name,citing_name_full
+91306,scotus,2297559,91306,['010combined'],['html_with_citations'],Morgan,Morgan v. United States,MORGAN & Another v. UNITED STATES; UNITED STATES v. MANHATTAN SAVINGS INSTITUTION; VON HOFFMAN & Another v. UNITED STATES; UNITED STATES v. MANHATTAN SAVINGS INSTITUTION
+92059,scotus,96842,92059,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],In Re Ayers,In Re Ayers,In RE AYERS; IN RE SCOTT; IN RE McCABE
+92291,scotus,2449371,92291,['010combined'],['html_with_citations'],Leloup,Leloup v. Port of Mobile,Leloup v. Port of Mobile
+93311,scotus,2397685,93311,['010combined'],['html_with_citations'],Brenham,Brenham v. German American Bank,Brenham v. German American Bank
+93904,scotus,229746,93904,['010combined'],['html_with_citations'],Roberts,Roberts v. Lewis,Roberts v. Lewis
+98124,scotus,428794,98124,['010combined'],['html_with_citations'],,Garland v. Washington,Garland v. State of Washington
+98917,scotus,2556141,98917,"['040dissent', '010combined', '020lead']",['html_with_citations'],,Motion Picture Patents Co. v. Universal Film Manufacturing Co.,Motion Picture Patents Company v. Universal Film Manufacturing Company Et Al.
+99004,scotus,1068425,99004,['010combined'],['html_with_citations'],Towers,Pennsylvania Railroad v. Towers,"Pennsylvania Railroad Company, Lessee of the Northern Central Railway Company, v. Towers Et Al., Constituting the Public Service Commission of Maryland"
+99901,scotus,80418,99901,['010combined'],['html_with_citations'],Terral,Terral v. Burke Construction Co.,"Terral, as Secretary of State of the State of Arkansas, v. Burke Construction Company"
+101368,scotus,621994,101368,['010combined'],['html_with_citations'],Gleason,Gleason v. Seaboard Air Line Railway Co.,Gleason v. Seaboard Air Line Railway Company
+101750,scotus,406609,101750,['010combined'],['html_with_citations'],,East Ohio Gas Co. v. Tax Comm'n of Ohio,EAST OHIO GAS CO. v. TAX COMMISSION OF OHIO Et Al.
+101913,scotus,406726,101913,['010combined'],['html_with_citations'],Doyal,Fox Film Corp. v. Doyal,FOX FILM CORP. v. DOYAL Et Al.
+102164,scotus,845304,102164,['010combined'],['html_with_citations'],Funk,Funk v. United States,Funk v. United States
+102784,scotus,81694,102784,['010combined'],['html_with_citations'],West Coast Hotel,West Coast Hotel Co. v. Parrish,WEST COAST HOTEL CO. v. PARRISH Et Al.
+103012,scotus,119296,103012,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Erie R. Co.,Erie Railroad v. Tompkins,Erie Railroad Co. v. Tompkins
+103172,scotus,1740034,103172,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Graves,Graves v. New York Ex Rel. O'Keefe,"GRAVES Et Al., COMMISSIONERS CONSTITUTING THE STATE TAX COMMISSION OF NEW YORK, v. NEW YORK Ex Rel. O’KEEFE"
+103214,scotus,1507922,103214,"['040dissent', '010combined', '020lead']",['html_with_citations'],O'MALLEY,O'MALLEY v. Woodrough,"O’MALLEY, COLLECTOR OF INTERNAL REVENUE, v. WOODROUGH Et Ux."
+103198,scotus,2503656,103198,['010combined'],['html_with_citations'],,Rochester Telephone Corp. v. United States,ROCHESTER TELEPHONE CORP. v. UNITED STATES Et Al.
+103292,scotus,2457842,103292,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Helvering,Helvering v. Hallock,"HELVERING, COMMISSIONER OF INTERNAL REVENUE, v. HALLOCK Et Al., TRUSTEES"
+103290,scotus,2381796,103290,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Madden,Madden v. Kentucky Ex Rel. Commissioner,"Madden, Executor, v. Kentucky, by Reeves, Commissioner of Revenue"
+103351,scotus,107747,103351,['010combined'],['html_with_citations'],Tigner,Tigner v. Texas,Tigner v. Texas
+103557,scotus,263902,103557,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Edwards,Edwards v. California,Edwards v. California
+103505,scotus,25924,103505,"['040dissent', '010combined', '020lead']",['html_with_citations'],Nye,Nye v. United States,NYE Et Al. v. UNITED STATES Et Al.
+103522,scotus,122651,103522,['010combined'],['html_with_citations'],Olsen,"Olsen v. Nebraska Ex Rel. Western Reference & Bond Assn., Inc.","OLSEN, SECRETARY OF LABOR OF NEBRASKA, v. NEBRASKA Ex Rel. WESTERN REFERENCE & BOND ASSOCIATION, INC., Et Al."
+103555,scotus,339919,103555,"['040dissent', '010combined', '020lead']",['html_with_citations'],,Toucey v. New York Life Insurance,Toucey v. New York Life Insurance Co.
+103493,scotus,275019,103493,['010combined'],['html_with_citations'],,"United States v. Chicago, Milwaukee, St. Paul & Pacific Railroad","UNITED STATES v. CHICAGO, MILWAUKEE, ST. PAUL & PACIFIC RAILROAD CO. Et Al."
+103442,scotus,2545547,103442,['010combined'],['html_with_citations'],Darby,United States v. Darby,United States v. Darby
+103639,scotus,76615,103639,['010combined'],['html_with_citations'],Graves,Graves v. Schmidlapp,"GRAVES Et Al., CONSTITUTING THE STATE TAX COMMISSION OF NEW YORK, v. SCHMIDLAPP Et Al., EXECUTORS"
+103736,scotus,82108,103736,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],,Williams v. North Carolina,WILLIAMS Et Al. v. NORTH CAROLINA
+103761,scotus,1507628,103761,['010combined'],['html_with_citations'],Brady,Brady v. Roosevelt Steamship Co.,"Brady, Administratrix, v. Roosevelt Steamship Co."
+103831,scotus,463562,103831,"['040dissent', '010combined', '020lead']",['html_with_citations'],Murdock,Murdock v. Pennsylvania,Murdock v. Pennsylvania (City of Jeannette)
+103869,scotus,263995,103869,"['040dissent', '010combined', '020lead']",['html_with_citations'],,Oklahoma Tax Commission v. United States,Oklahoma Tax Commission v. United States (Three Cases)
+103870,scotus,174195,103870,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Barnette,West Virginia State Board of Education v. Barnette,WEST VIRGINIA STATE BOARD OF EDUCATION Et Al. v. BARNETTE Et Al.
+103915,scotus,193031,103915,"['040dissent', '010combined', '020lead']",['html_with_citations'],,Federal Power Commission v. Hope Natural Gas Co.,FEDERAL POWER COMMISSION Et Al. v. HOPE NATURAL GAS CO.
+103927,scotus,276514,103927,['010combined'],['html_with_citations'],Mahnich,Mahnich v. Southern Steamship Co.,Mahnich v. Southern Steamship Co.
+103916,scotus,1209308,103916,"['040dissent', '010combined', '020lead']",['html_with_citations'],,Mercoid Corp. v. Mid-Continent Investment Co.,MERCOID CORPORATION v. MID-CONTINENT INVESTMENT CO. Et Al.
+103962,scotus,441589,103962,['010combined'],['html_with_citations'],Allwright,Smith v. Allwright,"SMITH v. ALLWRIGHT, ELECTION JUDGE, Et Al."
+104285,scotus,443088,104285,"['040dissent', '010combined', '020lead']",['html_with_citations'],Girouard,Girouard v. United States,Girouard v. United States
+104380,scotus,444842,104380,"['040dissent', '010combined', '020lead']",['html_with_citations'],Angel,Angel v. Bullington,Angel v. Bullington
+2764117,scotus,2618367,2764117,"['040dissent', '010combined', '020lead']",['html_with_citations'],,Sherrer v. Sherrer,Sherrer v. Sherrer. Coe v. Coe
+104704,scotus,408441,104704,['010combined'],['html_with_citations'],McAllister,Cosmopolitan Shipping Co. v. McAllister,COSMOPOLITAN SHIPPING CO. v. McALLISTER
+104610,scotus,408409,104610,['010combined'],['html_with_citations'],,Lincoln Federal Labor Union v. Northwestern Iron & Metal Co.,LINCOLN FEDERAL LABOR UNION Et Al. v. NORTHWESTERN IRON & METAL CO. Et Al.
+104641,scotus,113273,104641,['010combined'],['html_with_citations'],Oklahoma Tax,Oklahoma Tax Commission v. Texas Co.,Oklahoma Tax Commission v. Texas Company
+105014,scotus,408622,105014,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Wilson,"Joseph Burstyn, Inc. v. Wilson","JOSEPH BURSTYN, INC. v. WILSON, COMMISSIONER OF EDUCATION OF NEW YORK, Et Al."
+104965,scotus,1163200,104965,"['040dissent', '010combined', '020lead']",['html_with_citations'],Peck,Standard Oil Co. v. Peck,"STANDARD OIL CO. v. PECK, TAX COMMISSIONER, Et Al."
+105319,scotus,1554859,105319,"['040dissent', '010combined', '020lead']",['html_with_citations'],Carroll,Carroll v. Lanza,"CARROLL Et Al. v. LANZA, DOING BUSINESS AS LAKE CHARLES ELECTRIC CO."
+105525,scotus,253455,105525,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Reid,Reid v. Covert,"Reid, Superintendent, District of Columbia Jail, v. Covert"
+105543,scotus,1507220,105543,"['040dissent', '010combined', '020lead']",['html_with_citations'],Vanderbilt,Vanderbilt v. Vanderbilt,VANDERBILT v. VANDERBILT Et Al.
+106235,scotus,1556001,106235,"['035concurrenceinpart', '010combined', '020lead']",['html_with_citations'],James,James v. United States,James v. United States
+106285,scotus,2043318,106285,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Mapp,Mapp v. Ohio,Mapp v. Ohio
+106576,scotus,1507832,106576,['010combined'],['html_with_citations'],Ferguson,Ferguson v. Skrupa,"FERGUSON, ATTORNEY GENERAL OF KANSAS, Et Al. v. SKRUPA, Doing Business as CREDIT ADVISORS"
+106883,scotus,2472190,106883,"['040dissent', '010combined', '020lead']",['html_with_citations'],Escobedo,Escobedo v. Illinois,Escobedo v. Illinois
+107121,scotus,131808,107121,['010combined'],['html_with_citations'],Harris,Harris v. United States,Harris v. United States
+107081,scotus,195151,107081,"['040dissent', '010combined', '020lead']",['html_with_citations'],Brown,United States v. Brown,United States v. Brown
+107252,scotus,1434683,107252,"['040dissent', '035concurrenceinpart', '010combined', '020lead']",['html_with_citations'],Miranda,Miranda v. Arizona,Miranda v. Arizona
+107464,scotus,1632799,107464,"['040dissent', '010combined', '020lead']",['html_with_citations'],Afroyim,Afroyim v. Rusk,"Afroyim v. Rusk, Secretary of State"
+107473,scotus,1119480,107473,['010combined'],['html_with_citations'],Camara,Camara v. Municipal Court of City and County of San Francisco,Camara v. Municipal Court of the City and County of San Francisco
+107564,scotus,203204,107564,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Katz,Katz v. United States,Katz v. United States
+107343,scotus,265986,107343,"['040dissent', '010combined', '020lead']",['html_with_citations'],Keyishian,Keyishian v. Board of Regents of Univ. of State of NY,KEYISHIAN Et Al. v. BOARD OF REGENTS OF THE UNIVERSITY OF THE STATE OF NEW YORK Et Al.
+107689,scotus,473228,107689,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Carafas,Carafas v. LaVallee,"CARAFAS v. LaVALLEE, WARDEN"
+107685,scotus,681195,107685,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Duncan,Duncan v. Louisiana,Duncan v. Louisiana
+107746,scotus,1016314,107746,"['040dissent', '010combined', '020lead']",['html_with_citations'],Lee,Lee v. Florida,LEE Et Al. v. FLORIDA
+107606,scotus,68615,107606,['010combined'],['html_with_citations'],Marchetti,Marchetti v. United States,Marchetti v. United States
+107679,scotus,379337,107679,['010combined'],['html_with_citations'],Peyton,Peyton v. Rowe,"PEYTON, PENITENTIARY SUPERINTENDENT v. ROWE Et Al."
+107980,scotus,18149,107980,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Benton,Benton v. Maryland,Benton v. Maryland
+107965,scotus,346464,107965,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Brandenburg,Brandenburg v. Ohio,Brandenburg v. Ohio
+107979,scotus,1507658,107979,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Chimel,Chimel v. California,Chimel v. California
+107748,scotus,46388,107748,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Jones,Jones v. Alfred H. Mayer Co.,JONES Et Ux. v. ALFRED H. MAYER CO. Et Al.
+107973,scotus,101769,107973,"['030concurrence', '035concurrenceinpart', '010combined', '020lead']",['html_with_citations'],Adkins,"Lear, Inc. v. Adkins","Lear, Inc. v. Adkins"
+107919,scotus,1507608,107919,"['040dissent', '010combined', '020lead']",['html_with_citations'],Moore,Moore v. Ogilvie,"MOORE Et Al. v. OGILVIE, GOVERNOR OF ILLINOIS, Et Al."
+108114,scotus,287659,108114,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Ashe,Ashe v. Swenson,"Ashe v. Swenson, Warden"
+108154,scotus,442901,108154,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Boys Markes,"Boys Markets, Inc. v. Retail Clerks Union, Local 770","Boys Markets, Inc. v. Retail Clerks Union, Local 770"
+108164,scotus,392187,108164,['010combined'],['html_with_citations'],Price,Price v. Georgia,Price v. Georgia
+108186,scotus,2459177,108186,"['020lead', '010combined', '030concurrence', '035concurrenceinpart', '040dissent']",['html_with_citations'],Williams,Williams v. Florida,Williams v. Florida
+108362,scotus,92633,108362,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Griffin,Griffin v. Breckenridge,GRIFFIN Et Al. v. BRECKENRIDGE Et Al.
+108350,scotus,442430,108350,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Perez,Perez. v. Campbell,"PEREZ Et Ux. v. CAMPBELL, SUPERINTENDENT, MOTOR VEHICLE DIVISION, ARIZONA HIGHWAY DEPARTMENT, Et Al."
+108730,scotus,414828,108730,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Braden,Braden v. 30th Judicial Circuit Court of Kentucky,Braden v. 30th Judicial Circuit Court of Kentucky
+108721,scotus,239783,108721,['010combined'],['html_with_citations'],Lehnhausen,Lehnhausen v. Lake Shore Auto Parts Co.,"LEHNHAUSEN, DIRECTOR, DEPARTMENT OF LOCAL GOVERNMENT AFFAIRS OF ILLINOIS v. LAKE SHORE AUTO PARTS CO. Et Al."
+108889,scotus,443532,108889,['010combined'],['html_with_citations'],Snyder's Drug,"North Dakota State Board of Pharmacy v. Snyder's Drug Stores, Inc.","North Dakota State Board of Pharmacy v. Snyder’s Drug Stores, Inc."
+108990,scotus,1139669,108990,"['040dissent', '010combined', '020lead']",['html_with_citations'],Edelman,Edelman v. Jordan,"Edelman, Director, Department of Public Aid of Illinois v. Jordan"
+109252,scotus,2508658,109252,['010combined'],['html_with_citations'],Reliable Transfer,United States v. Reliable Transfer Co.,"United States v. Reliable Transfer Co., Inc."
+109514,scotus,183816,109514,['010combined'],['html_with_citations'],Dukes,City of New Orleans v. Dukes,"CITY OF NEW ORLEANS Et Al. v. DUKES, Dba LOUISIANA CONCESSIONS"
+109570,scotus,696040,109570,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Craig,Craig v. Boren,"CRAIG Et Al. v. BOREN, GOVERNOR OF OKLAHOMA, Et Al."
+109346,scotus,126256,109346,['010combined'],['html_with_citations'],Dove,Dove v. United States,Dove v. United States
+109532,scotus,669681,109532,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Gregg,Gregg v. Georgia,Gregg v. Georgia
+109390,scotus,443526,109390,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Hudgens,Hudgens v. National Labor Relations Board,HUDGENS v. NATIONAL LABOR RELATIONS BOARD Et Al.
+109508,scotus,13073,109508,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],MacHinists,"Lodge 76, International Ass'n of MacHinists & Aerospace Workers v. Wisconsin Employment Relations Commission","LODGE 76, INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS, AFL-CIO, Et Al. v. WISCONSIN EMPLOYMENT RELATIONS COMMISSION Et Al."
+109344,scotus,421802,109344,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Wages,Michelin Tire Corp. v. Wages,"MICHELIN TIRE CORP. v. WAGES, TAX COMMISSIONER, Et Al."
+109499,scotus,397308,109499,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Usery,National League of Cities v. Usery,"NATIONAL LEAGUE OF CITIES Et Al. v. USERY, SECRETARY OF LABOR"
+109450,scotus,463564,109450,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Va. Pharmacy Bd.,"Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.","VIRGINIA STATE BOARD OF PHARMACY Et Al. v. VIRGINIA CITIZENS CONSUMER COUNCIL, INC., Et Al."
+109615,scotus,240116,109615,['010combined'],['html_with_citations'],Brady,"Complete Auto Transit, Inc. v. Brady","Complete Auto Transit, Inc. v. Brady, Chairman, Mississippi Tax Commission"
+109716,scotus,401653,109716,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Continental TV,Continental T. v.  Inc. v. GTE Sylvania Inc.,"CONTINENTAL T. v.  INC., Et Al. v. GTE SYLVANIA INC."
+109580,scotus,697831,109580,"['040dissent', '010combined', '020lead']",['html_with_citations'],Corvallis Sand,Oregon Ex Rel. State Land Board v. Corvallis Sand & Gravel Co.,OREGON Ex Rel. STATE LAND BOARD v. CORVALLIS SAND & GRAVEL CO.
+109835,scotus,271970,109835,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Stevedoring Assn,Department of Revenue v. Ass'n of Washington Stevedoring Companies,DEPARTMENT OF REVENUE OF WASHINGTON v. ASSOCIATION OF WASHINGTON STEVEDORING COMPANIES Et Al.
+109881,scotus,266243,109881,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Monell,Monell v. New York City Dept. of Social Servs.,MONELL Et Al. v. DEPARTMENT OF SOCIAL SERVICES OF THE CITY OF NEW YORK Et Al.
+109895,scotus,86099,109895,"['040dissent', '010combined', '020lead']",['html_with_citations'],Scott,United States v. Scott,United States v. Scott
+110063,scotus,157215,110063,"['040dissent', '010combined', '020lead']",['html_with_citations'],Hughes,Hughes v. Oklahoma,Hughes v. Oklahoma
+110212,scotus,240272,110212,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Trammel,Trammel v. United States,Trammel v. United States
+110325,scotus,828162,110325,"['040dissent', '010combined', '020lead']",['html_with_citations'],Salvucci,United States v. Salvucci,UNITED STATES v. SALVUCCI Et Al.
+110563,scotus,1550125,110563,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],,Commonwealth Edison Co. v. Montana,COMMONWEALTH EDISON CO. Et Al. v. MONTANA Et Al.
+110799,scotus,1858114,110799,"['040dissent', '010combined', '020lead']",['html_with_citations'],Sporhase,Sporhase v. Nebraska Ex Rel. Douglas,"SPORHASE Et Al. v. NEBRASKA Ex Rel. DOUGLAS, ATTORNEY GENERAL"
+110719,scotus,432628,110719,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Ross,United States v. Ross,United States v. Ross
+111218,scotus,162324,111218,"['040dissent', '010combined', '020lead']",['html_with_citations'],,Copperweld Corp. v. Independence Tube Corp.,COPPERWELD CORP. Et Al. v. INDEPENDENCE TUBE CORP.
+111103,scotus,1000145,111103,['010combined'],['html_with_citations'],,United States v. One Assortment of 89 Firearms,United States v. One Assortment of 89 Firearms
+111308,scotus,155595,111308,"['040dissent', '010combined', '020lead']",['html_with_citations'],Garcia,Garcia v. San Antonio Metropolitan Transit Authority,GARCIA v. SAN ANTONIO METROPOLITAN TRANSIT AUTHORITY Et Al.
+111404,scotus,2517240,111404,['010combined'],['html_with_citations'],,United States v. Miller,United States v. Miller
+111555,scotus,27760,111555,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Daniels,Daniels v. Williams,Daniels v. Williams
+111940,scotus,240876,111940,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Branstad,Puerto Rico v. Branstad,"PUERTO RICO v. BRANSTAD, GOVERNOR OF IOWA, Et Al."
+111948,scotus,160062,111948,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Solorio,Solorio v. United States,Solorio v. United States
+112040,scotus,10598,112040,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Baker,South Carolina v. Baker,"South Carolina v. Baker, Secretary of the Treasury"
+112276,scotus,144896,112276,"['040dissent', '010combined', '020lead']",['html_with_citations'],,Alabama v. Smith,Alabama v. Smith
+112301,scotus,160121,112301,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Healy,Healy v. Beer Institute,HEALY Et Al. v. THE BEER INSTITUTE Et Al.
+112258,scotus,1242860,112258,"['035concurrenceinpart', '010combined', '020lead']",['html_with_citations'],Abbott,Thornburgh v. Abbott,"THORNBURGH, ATTORNEY GENERAL OF THE UNITED STATES, Et Al. v. ABBOTT Et Al."
+112471,scotus,1611214,112471,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Collins,Collins v. Youngblood,"Collins, Director, Texas Department of Criminal Justice, Institutional Division v. Youngblood"
+112608,scotus,326716,112608,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Acevedo,California v. Acevedo,California v. Acevedo
+112640,scotus,10689,112640,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Coleman,Coleman v. Thompson,"Coleman v. Thompson, Warden"
+112609,scotus,1507401,112609,['010combined'],['html_with_citations'],Exxon,"Exxon Corp. v. Central Gulf Lines, Inc.","EXXON CORP. v. CENTRAL GULF LINES, INC., Et Al."
+112728,scotus,1334648,112728,"['040dissent', '010combined', '020lead']",['html_with_citations'],Keeney,Keeney v. Tamayo-Reyes,"Keeney, Superintendent, Oregon State Penitentiary v. Tamayo-Reyes"
+112739,scotus,241177,112739,"['035concurrenceinpart', '010combined', '020lead', '030concurrence']",['html_with_citations'],Quill,Quill Corp. v. North Dakota Ex Rel. Heitkamp,"QUILL CORP. v. NORTH DAKOTA, by and Through Its TAX COMMISSIONER, HEITKAMP"
+112906,scotus,314325,112906,['010combined'],['html_with_citations'],Dixon,United States v. Dixon,
+117947,scotus,1984545,117947,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Pena,"Adarand Constructors, Inc. v. Pena","ADARAND CONSTRUCTORS, INC. v. PENA, SECRETARY OF TRANSPORTATION, Et Al."
+117931,scotus,117185,117931,"['040dissent', '035concurrenceinpart', '010combined', '020lead']",['html_with_citations'],Hubbard,Hubbard v. United States,Hubbard v. United States
+117958,scotus,26862,117958,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Gaudin,United States v. Gaudin,United States v. Gaudin
+118023,scotus,79452,118023,"['030concurrence', '010combined', '020lead']",['html_with_citations'],44 Liquormart,"44 Liquormart, Inc. v. Rhode Island","44 LIQUORMART, INC., Et Al. v. RHODE ISLAND Et Al."
+118011,scotus,1113943,118011,"['040dissent', '010combined', '020lead']",['html_with_citations'],,Seminole Tribe of Florida v. Florida,SEMINOLE TRIBE OF FLORIDA v. FLORIDA Et Al.
+118133,scotus,1630588,118133,"['040dissent', '010combined', '020lead']",['html_with_citations'],Agostini,Agostini v. Felton,AGOSTINI Et Al. v. FELTON Et Al.
+118155,scotus,5522,118155,"['030concurrence', '010combined', '020lead']",['html_with_citations'],Hudson,Hudson v. United States,HUDSON Et Al. v. UNITED STATES
+118149,scotus,321056,118149,['010combined'],['html_with_citations'],Khan,State Oil Co. v. Khan,STATE OIL CO. v. KHAN Et Al.
+118230,scotus,223158,118230,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Hohn,Hohn v. United States,Hohn v. United States
+118317,scotus,222271,118317,"['040dissent', '010combined', '020lead']",['html_with_citations'],,College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board,COLLEGE SAVINGS BANK v. FLORIDA PREPAID POSTSECONDARY EDUCATION EXPENSE BOARD Et Al.
+118386,scotus,1507199,118386,"['040dissent', '010combined', '020lead', '030concurrence']",['html_with_citations'],Helms,Mitchell v. Helms,MITCHELL Et Al. v. HELMS Et Al.
+118428,scotus,52338,118428,"['035concurrenceinpart', '010combined', '020lead']",['html_with_citations'],Hatter,United States v. Hatter,"UNITED STATES v. HATTER, JUDGE, UNITED STATES DISTRICT COURT FOR THE CENTRAL DISTRICT OF CALIFORNIA, Et Al."
+118273,scotus,410914,118273,"['040dissent', '010combined', '020lead']",['html_with_citations'],,Minnesota v. Mille Lacs Band of Chippewa Indians,MINNESOTA Et Al. v. MILLE LACS BAND OF CHIPPEWA INDIANS Et Al.

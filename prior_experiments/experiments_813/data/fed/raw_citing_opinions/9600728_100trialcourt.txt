@@ -1,0 +1,365 @@
+<pre class="inline">1                                                                         
+2                                                                         
+3                                                                         
+4                      UNITED STATES DISTRICT COURT                       
+5                     NORTHERN DISTRICT OF CALIFORNIA                     
+6                            SAN JOSE DIVISION                            
+7                                                                         
+8    SIMPSON STRONG-TIE COMPANY       Case No.  20-cv-06957-VKD           
+     INC.,                                                                
+9                                                                         
+               Plaintiff,             ORDER DENYING MOTION TO             
+10                                     DISMISS                             
+           v.                                                             
+11                                     Re: Dkt. No. 23                     
+     MITEK INC.,                                                          
+12                                                                         
+               Defendant.                                                 
+
+13                                                                         
+
+14                                                                         
+         In this action, plaintiff Simpson Strong-Tie Company Inc. (“Simpson”) asserts the 
+15                                                                         
+    following claims against defendant MiTek Inc. (“MiTek”): (1) false advertising under the Lanham 
+16                                                                         
+    Act, </pre><span class="citation no-link">15 U.S.C. § 1125</span><pre class="inline">(a)(1)(B); (2) false advertising under California Business &amp; Professions 
+17                                                                         
+    Code § 17500; (3) passing off under the Lanham Act, </pre><span class="citation no-link">15 U.S.C. § 1125</span><pre class="inline">(a)(1)(A); (4) unfair 
+18                                                                         
+    competition under California Business &amp; Professions Code § 17200; and (5) copyright 
+19                                                                         
+    infringement under </pre><span class="citation no-link">17 U.S.C. § 106</span><pre class="inline">.  Dkt. No. 1.  MiTek now moves to dismiss all claims for 
+20                                                                         
+    failure to state a claim under Federal Rule of Civil Procedure 12(b)(6).  Dkt. No. 23.   
+21                                                                         
+         All parties have consented to magistrate judge jurisdiction.  Dkt. Nos. 6, 27.  The Court 
+22                                                                         
+    heard oral argument on MiTek’s motion on March 23, 2021.  Dkt. No. 40.  Having considered the 
+23                                                                         
+    parties’ submissions and the arguments made at the hearing, the Court denies MiTek’s motion to 
+24                                                                         
+    dismiss the complaint.                                                
+25                                                                         
+    I.   BACKGROUND                                                       
+26                                                                         
+         Simpson is a California corporation that designs, manufacturers, and sells structural 
+27                                                                         
+    connectors for use in building construction.  Dkt. No. 1 ¶¶ 2, 9-10.  Simpson assigns individual 
+1   alphanumeric product names for each of its products.  </pre><span class="citation no-link">Id. ¶¶ 12-13</span><pre class="inline">.  Each product name includes a 
+2   “part name” consisting of a letter or combination of letters designating the product line, and a 
+3   “model number” consisting of additional numbers and letters appended to the part name to 
+4   distinguish between various models of a particular part with different attributes.  </pre><span class="citation no-link">Id.</span><pre class="inline">  According to 
+5   Simpson, it invests considerable time and effort in creating part names and model numbers.  </pre><span class="citation no-link">Id.</span><pre class="inline"> ¶ 
+6   14.  Simpson uses its product names on its website and product packaging, as well as in catalogs, 
+7   publications, and other advertising materials, including its Wood Construction Connectors 
+8   Catalog.  </pre><span class="citation no-link">Id. ¶¶ 16-20, 22</span><pre class="inline">.  The Wood Construction Connectors Catalog contains an alphabetical 
+9   product index and various charts specifying various attributes of Simpson’s products, listed by 
+10   product names.  </pre><span class="citation no-link">Id. ¶¶ 19-20</span><pre class="inline">.  Simpson has registered copyrights in the Wood Construction 
+11   Connectors Catalog and its supplements dating between 2000 and 2020.  </pre><span class="citation no-link">Id. ¶ 21</span><pre class="inline">.   
+12        MiTek is a Missouri corporation that manufacturers and sells construction products, 
+13   including products that compete with Simpson’s.  </pre><span class="citation no-link">Id. ¶¶ 3, 24-25</span><pre class="inline">.  Simpson alleges that MiTek’s 
+14   products are “knock-offs or close copies” of Simpson’s products that are not equivalent to or 
+15   substitutes for Simpson’s products due to the patented nature of some of Simpson’s technology.  
+16   </pre><span class="citation no-link">Id. ¶¶ 24-26</span><pre class="inline">.  According to Simpson, MiTek uses Simpson product names as MiTek’s own 
+17   product names and “stock numbers,” or as “reference numbers” or “reference series” on MiTek’s 
+18   website and in its mobile phone application, catalogs, labels, and other materials.  </pre><span class="citation no-link">Id. ¶¶ 27-49</span><pre class="inline">, Ex. 
+19   C.  In particular, Simpson says, MiTek’s 2020 Catalog uses Simpson product names as a basis for 
+20   MiTek’s own product names and includes an alphabetical reference index using Simpson product 
+21   names as reference numbers.  </pre><span class="citation no-link">Id. ¶¶ 42-44</span><pre class="inline">.  Simpson says that MiTek’s use of Simpson products 
+22   names in this manner deceives consumers into believing that the companies’ products are 
+23   equivalent and interchangeable when they are not, or that MiTek’s products are actually 
+24   Simpson’s products.  </pre><span class="citation no-link">Id. ¶¶ 50-54</span><pre class="inline">.                                    
+25   II.  LEGAL STANDARD                                                   
+26        “A motion to dismiss under Federal Rule of Civil Procedure 12(b)(6) for failure to state a 
+27   claim upon which relief can be granted ‘tests the legal sufficiency of a claim.’”  Conservation 
+1   729, 732 (9th Cir. 2001)).  When determining whether a claim has been stated, the Court accepts 
+2   as true all well-pled factual allegations and construes them in the light most favorable to the 
+3   plaintiff.  Reese v. BP Exploration (Alaska) Inc., </pre><span class="citation" data-id="219976"><a href="/opinion/219976/reese-v-bp-exploration-alaska-inc/#690" aria-description="Citation for case: Reese v. BP Exploration (Alaska) Inc.">643 F.3d 681, 690</a></span><pre class="inline"> (9th Cir. 2011).  While a 
+4   complaint need not contain detailed factual allegations, it “must contain sufficient factual matter, 
+5   accepted as true, to ‘state a claim to relief that is plausible on its face.’”  Ashcroft v. Iqbal, 556 
+</pre><span class="citation no-link">6   U.S. 662</span><pre class="inline">, 678 (2009) (quoting Bell Atl. Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#570" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 570</a></span><pre class="inline"> (2007)).  A claim is 
+7   facially plausible when it “allows the court to draw the reasonable inference that the defendant is 
+8   liable for the misconduct alleged.”  </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">Id.</a></span><pre class="inline">                              
+9        The Court is not required to “‘assume the truth of legal conclusions merely because they 
+10   are cast in the form of factual allegations.’”  Prager Univ. v. Google LLC (“Prager I”), No. 17-
+11   CV-06064-LHK, </pre><span class="citation no-link">2018 WL 1471939</span><pre class="inline">, at *3 (N.D. Cal. Mar. 26, 2018) (quoting Fayer v. Vaughn, 
+12   </pre><span class="citation" data-id="216101"><a href="/opinion/216101/fayer-v-vaughn/#1064" aria-description="Citation for case: Fayer v. Vaughn">649 F.3d 1061, 1064</a></span><pre class="inline"> (9th Cir. 2011) (per curiam)).  Nor does the Court accept allegations that 
+13   contradict documents attached to the complaint or incorporated by reference, Gonzalez v. Planned 
+14   Parenthood of L.A., </pre><span class="citation" data-id="2685239"><a href="/opinion/2685239/p-victor-gonzalez-v-planned-parenthood-of-la/#1115" aria-description="Citation for case: P. Victor Gonzalez v. Planned Parenthood of La">759 F.3d 1112, 1115</a></span><pre class="inline"> (9th Cir. 2014), or that rest on “allegations that are 
+15   merely conclusory, unwarranted deductions of fact, or unreasonable inferences.”  In re Gilead 
+16   Scis. Sec. Litig., </pre><span class="citation" data-id="1400355"><a href="/opinion/1400355/in-re-gilead-sciences-securities-litigation/#1055" aria-description="Citation for case: In Re Gilead Sciences Securities Litigation">536 F.3d 1049, 1055</a></span><pre class="inline"> (9th Cir. 2008).               
+17        A court generally may not consider any material beyond the pleadings when ruling on a 
+18   Rule 12(b)(6) motion.  If matters outside the pleadings are considered, “the motion must be treated 
+19   as one for summary judgment under Rule 56.”  Fed. R. Civ. P. 12(d).  However, documents 
+20   appended to the complaint, incorporated by reference in the complaint, or which properly are the 
+21   subject of judicial notice may be considered along with the complaint when deciding a Rule 
+22   12(b)(6) motion.  Khoja v. Orexigen Therapeutics, </pre><span class="citation" data-id="4303222"><a href="/opinion/4525969/karim-khoja-v-orexigen-therapeutics-inc/#998" aria-description="Citation for case: Karim Khoja v. Orexigen Therapeutics, Inc.">899 F.3d 988, 998</a></span><pre class="inline"> (9th Cir. 2018); see also Hal 
+23   Roach Studios, Inc. v. Richard Feiner &amp; Co., Inc., </pre><span class="citation" data-id="537184"><a href="/opinion/537184/hal-roach-studios-inc-a-delaware-corporation-v-richard-feiner-and/" aria-description="Citation for case: Hal Roach Studios, Inc., a Delaware Corporation v....">896 F.2d 1542</a></span><pre class="inline">, 1555 n.19 (9th Cir. 1990).  
+24   Likewise, a court may consider matters that are “capable of accurate and ready determination by 
+25   resort to sources whose accuracy cannot reasonably be questioned.”  Roca v. Wells Fargo Bank, 
+26   N.A., No. 15-cv-02147-KAW, </pre><span class="citation no-link">2016 WL 368153</span><pre class="inline">, at *3 (N.D. Cal. Feb. 1, 2016) (quoting Fed. R. 
+27   Evid. 201(b)).                                                        
+    III.  DISCUSSION                                                      
+1                                                                         
+         A.   Federal Claims                                              
+2                                                                         
+              1.   False advertising (Lanham Act, </pre><span class="citation no-link">15 U.S.C. § 1125</span><pre class="inline">(a)(1)(B)) 
+3                                                                         
+         To establish a claim for false advertising under </pre><span class="citation no-link">15 U.S.C. § 1125</span><pre class="inline">(a)(1)(B), a plaintiff must 
+4                                                                         
+    plausibly allege that the defendant made a false or misleading representation of fact in commercial 
+5                                                                         
+    advertising or promotion about the defendant’s own or the plaintiff’s goods, services, or 
+6                                                                         
+    commercial activities.  Prager Univ. v. Google LLC (“Prager III”), </pre><span class="citation no-link">951 F.3d 991</span><pre class="inline">, 999 (9th Cir. 
+7                                                                         
+    2020) (citing Southland Sod Farms v. Stover Seed Co., </pre><span class="citation" data-id="6945094"><a href="/opinion/7041988/southland-sod-farms-v-stover-seed-co/#1139" aria-description="Citation for case: Southland Sod Farms v. Stover Seed Co.">108 F.3d 1134, 1139</a></span><pre class="inline"> (9th Cir. 1997)).  The 
+8                                                                         
+    Ninth Circuit has explained that “commercial advertising or promotion” within the meaning of 
+9                                                                         
+    § 1125(a)(1)(B) requires the following:                               
+10                                                                         
+              (1) commercial speech; (2) by a defendant who is in commercial 
+11             competition with plaintiff; (3) for the purpose of influencing 
+              consumers to buy defendant’s goods or services.  While the  
+12             representations need not be made in a “classic advertising  
+              campaign,” but may consist instead of more informal types of 
+13             “promotion,” the representations (4) must be disseminated   
+              sufficiently to the relevant purchasing public to constitute 
+14             “advertising” or “promotion” within that industry.          
+15   Coastal Abstract Serv. Inc. v. First Am. Title Ins. Co., </pre><span class="citation" data-id="763256"><a href="/opinion/763256/coastal-abstract-service-inc-v-first-american-title-insurance-company/#735" aria-description="Citation for case: Coastal Abstract Service, Inc. v. First American Title...">173 F.3d 725, 735</a></span><pre class="inline"> (9th Cir. 1999).   
+16        MiTek argues that Simpson has not pled an actionable statement, i.e., one that is capable of 
+17   being proven true or false.  Dkt. No. 23 at 3–4.  MiTek says that a product name cannot be proven 
+18   true or false, and that Simpson has not pled sufficient facts explaining how MiTek’s use of 
+19   Simpson’s alphabetical index in MiTek’s reference index is a false advertisement or statement.  </pre><span class="citation" data-id="763256"><a href="/opinion/763256/coastal-abstract-service-inc-v-first-american-title-insurance-company/" aria-description="Citation for case: Coastal Abstract Service, Inc. v. First American Title...">Id.</a></span><pre class="inline">  
+20   Simpson responds that false advertising extends to statements that are impliedly false, and that 
+21   MiTek’s use of Simpson’s product names falsely implies that MiTek’s products are the same as or 
+22   equivalent to Simpson’s.  Dkt. No. 31 at 5–9.                         
+23        “[A] false advertising cause of action under the [Lanham] Act is not limited to literal 
+24   falsehoods; it extends to false representations made by implication or innuendo.”  Cook, Perkiss &amp; 
+25   Liehe, Inc. v. N. Cal. Collection Serv., Inc., </pre><span class="citation multiple-matches"><a href="/c/F.2d/911/242/">911 F.2d 242</a></span><pre class="inline">, 245 (9th Cir. 1990).  A false advertising 
+26   claim based on implied statements “must be both specific and communicated as to deceive[] a 
+27   significant portion of the recipients.”  Prager III, 951 F.3d at 1000 (quoting William H. Morris Co. 
+1   Simpson does not plead that the false statements at issue are merely its product names.  Rather, 
+2   Simpson pleads that it is MiTek’s use of Simpson’s product names as reference numbers situated 
+3   next to MiTek’s own similar product names that creates the false impression that the parties’ 
+4   products are equivalent or otherwise interchangeable.  Dkt. No. 1 ¶¶ 25, 29-54.  Simpson supports 
+5   its allegations with cites to and images from MiTek’s website, catalogs, publications, packaging, 
+6   and marketing materials showing the context in which MiTek has used Simpson product names as 
+7   reference numbers.  Id.  These are sufficient facts to support a claim of implied false advertising. 
+8        MiTek asserts that Simpson is required to plead express statements that creating the 
+9   misleading context in addition to the implied falsehoods.  Dkt. No. 33 at 1–2.  But that is what 
+10   Simpson has effectively done here: Simpson has pled that the placement of MiTek’s product 
+11   numbers next to Simpson’s product numbers creates an overall false statement of equivalence.  
+12   Accordingly, the Court denies MiTek’s motion to dismiss Simpson’s false advertising claim under 
+13   the Lanham Act.                                                       
+14             2.   Passing off (Lanham Act, </pre><span class="citation no-link">15 U.S.C. § 1125</span><pre class="inline">(a)(1)(A))    
+15        MiTek contends that Simpson has failed to state a claim for passing off under the Lanham 
+16   Act because Simpson has not pled that its product names possess the necessary inherent 
+17   distinctiveness or acquired distinctiveness through secondary meaning required for protection 
+18   under the Lanham Act.  Dkt. No. 23 at 7–9.  In fact, MiTek says, the complaint indicates that 
+19   Simpson’s product names have specific descriptive and functional meanings and perhaps have 
+20   even reached generic status, removing them from Lanham Act protection altogether.  Simpson 
+21   responds that pleading distinctiveness is required only for trademark infringement claims, whereas 
+22   the Lanham Act protects even generic marks from “false designation of origin.”  Dkt. No. 31 at 
+23   14–15.                                                                
+24        To establish a claim for false designation of origin under § 1125(a)(1)(A), a plaintiff must 
+25   show that the defendant (1) used in commerce (2) any word, false designation of origin, false or 
+26   misleading description, or representation of fact, which (3) is likely to cause confusion or mistake, 
+27   or to deceive, as to sponsorship, affiliation, or the origin of the goods or services in question.  
+1   Network, Inc. v. Oey, </pre><span class="citation" data-id="1384069"><a href="/opinion/1384069/freecycle-network-inc-v-oey/" aria-description="Citation for case: Freecycle Network, Inc. v. Oey">505 F.3d 898</a></span><pre class="inline">, 902–04 (9th Cir. 2007); Int’l Order of Job’s Daughters v. 
+2   Lindeburg &amp; Co., </pre><span class="citation" data-id="383718"><a href="/opinion/383718/international-order-of-jobs-daughters-v-lindeburg-and-company/#917" aria-description="Citation for case: International Order of Job&#x27;s Daughters v. Lindeburg and...">633 F.2d 912, 917</a></span><pre class="inline"> (9th Cir. 1980)).  The Ninth Circuit recognizes that 
+3   misdesignation of origin, or “passing off,” constitutes a violation of Section 43(a) of the Lanham 
+4   Act.  OTR Wheel Eng’g, Inc. v. W. Worldwide Servs., Inc., </pre><span class="citation" data-id="4297031"><a href="/opinion/4519778/otr-wheel-engineering-v-west-worldwide-services/#1016" aria-description="Citation for case: Otr Wheel Engineering v. West Worldwide Services">897 F.3d 1008, 1016</a></span><pre class="inline"> (9th Cir. 2018); 
+5   Zito v. Steeplechase Films, Inc., </pre><span class="citation" data-id="2574191"><a href="/opinion/2574191/zito-v-steeplechase-films-inc/#1028" aria-description="Citation for case: Zito v. Steeplechase Films, Inc.">267 F. Supp. 2d 1022, 1028</a></span><pre class="inline"> (N.D. Cal. 2003) (citing Lamothe v. 
+6   Atl. Recording Corp., </pre><span class="citation multiple-matches"><a href="/c/F.2d/847/1403/">847 F.2d 1403</a></span><pre class="inline">, 1406 (9th Cir. 1988)).  Passing off involves selling a good or 
+7   service of one person’s creation as that of another.  Zito, </pre><span class="citation" data-id="2574191"><a href="/opinion/2574191/zito-v-steeplechase-films-inc/#1028" aria-description="Citation for case: Zito v. Steeplechase Films, Inc.">267 F. Supp. 2d at 1028</a></span><pre class="inline">.  Passing off may 
+8   be either express or implied.  </pre><span class="citation" data-id="2574191"><a href="/opinion/2574191/zito-v-steeplechase-films-inc/" aria-description="Citation for case: Zito v. Steeplechase Films, Inc.">Id.</a></span><pre class="inline">  Express passing off occurs when a business labels its goods or 
+9   services with a mark identical to that of another enterprise, whereas implied passing off involves, 
+10   for example, the use of a competitor’s advertising material or a sample or photograph of the 
+11   competitor’s product to impliedly represent that the product being sold is made by the competitor.  
+12   Id.; see also Dastar Corp. v. Twentieth Century Fox Film. Corp., </pre><span class="citation" data-id="130141"><a href="/opinion/130141/dastar-corp-v-twentieth-century-fox-film-corp/" aria-description="Citation for case: Dastar Corp. v. Twentieth Century Fox Film Corp.">539 U.S. 23</a></span><pre class="inline">, 27 n.1 (2003) 
+13   (“Passing off (or palming off, as it is sometimes called) occurs when a producer misrepresents his 
+14   own goods or services as someone else’s.  ‘Reverse passing off,’ as its name implies, is the 
+15   opposite: The producer misrepresents someone else’s goods or services as his own.”) (internal 
+16   quotation marks and citations omitted).                               
+17        Even a generic mark may serve as the basis for a claim for passing off under 
+18   § 1125(a)(1)(A).  Blinded Veterans Ass’n v. Blinded Ams. Veterans Found., </pre><span class="citation" data-id="8969607"><a href="/opinion/8977849/blinded-veterans-assn-v-blinded-american-veterans-foundation/" aria-description="Citation for case: Blinded Veterans Ass&#x27;n v. Blinded American Veterans...">872 F.2d 1035</a></span><pre class="inline">, 1042–
+19   48 (D.C. Cir. 1989) (holding that plaintiff’s name was not a protectable trademark because the 
+20   term “blinded veterans” is generic, but remanding for consideration of a passing off claim); see 
+21   also Nissan Motor Co., Ltd. v. Nissan Computer Corp., </pre><span class="citation" data-id="8732874"><a href="/opinion/8749605/nissan-motor-co-v-nissan-computer-corp/" aria-description="Citation for case: Nissan Motor Co. v. Nissan Computer Corp.">204 F.R.D. 460</a></span><pre class="inline">, 467 n.11 (C.D. Cal. 2001) 
+22   (describing defendant’s argument that a generic term cannot serve as the basis for a passing off 
+23   claim as “misguided” and citing Blinded Veterans).  Here, Simpson alleges that (1) MiTek’s use of 
+24   Simpson product names as MiTek’s own product names falsely identifies MiTek products as 
+25   Simpson products, and (2) MiTek’s use of Simpson’s product names as reference numbers for 
+26   MiTek’s own products in MiTek sales and marketing literature creates a false impression that 
+27   MiTek’s products are in some way connected to or associated with Simpson.  Dkt. No. 1 ¶¶ 25, 
+1   misdesignation of origin, or passing off, under the Lanham Act.       
+2             3.   Copyright infringement                                 
+3        To withstand a motion to dismiss on a claim of direct copyright infringement, the plaintiff 
+4   must (1) “show ownership of the allegedly infringed material” and (2) “demonstrate that the 
+5   alleged infringer violates at least one exclusive right granted to copyright holders under 17 U.S.C. 
+6   § 106.”  Disney Enters., Inc. v. VidAngel, Inc., </pre><span class="citation" data-id="4198721"><a href="/opinion/4421468/disney-enterprises-inc-v-vidangel-inc/#856" aria-description="Citation for case: Disney Enterprises, Inc. v. Vidangel, Inc.">869 F.3d 848, 856</a></span><pre class="inline"> (9th Cir. 2017) (citing Perfect 
+7   10, Inc. v. Amazon.com, Inc., </pre><span class="citation" data-id="1228127"><a href="/opinion/1228127/perfect-10-inc-v-amazon-com-inc/#1159" aria-description="Citation for case: Perfect 10, Inc. v. Amazon. Com, Inc.">508 F.3d 1146, 1159</a></span><pre class="inline"> (9th Cir. 2007)).  A copyright holder has the 
+8   exclusive rights to reproduce, distribute, publicly display, perform, and create derivative works of 
+9   the copyrighted work.  </pre><span class="citation no-link">17 U.S.C. § 106</span><pre class="inline">.                               
+10        The parties do not dispute that Simpson owns valid copyrights in its Wood Construction 
+11   Connectors Catalog.  However, MiTek contends that the portions of the catalog that Simpson 
+12   alleges MiTek has infringed—namely, Simpson product names and the alphabetical index of 
+13   Simpson products—are not protectable works.  Dkt. No. 23 at 9–12.  In particular, MiTek argues 
+14   that copyright protection does not extend to any idea, procedure, process, system, method of 
+15   operation, concept, principle, or discovery, and that words and short phrases—including names—
+16   and the mere listing of ingredients or contents are not protected.  </pre><span class="citation no-link">Id.</span><pre class="inline"> at 10 (quoting </pre><span class="citation no-link">17 U.S.C. § 
+17</span><pre class="inline">   102(b); </pre><span class="citation no-link">37 C.F.R. § 202.1</span><pre class="inline">(a)).  Furthermore, the mere arrangement of facts in alphabetical order is 
+18   not protected.  </pre><span class="citation no-link">Id.</span><pre class="inline"> at 11–12 (citing Feist Publ’ns, Inc. v. Rural Tel. Serv. Co., </pre><span class="citation" data-id="112568"><a href="/opinion/112568/feist-publications-inc-v-rural-telephone-service-co/" aria-description="Citation for case: Feist Publications, Inc. v. Rural Telephone Service Co.">499 U.S. 340</a></span><pre class="inline">, 348 
+19   (1991)).                                                              
+20        In response, Simpson argues that the Ninth Circuit has stated that originality is a question 
+21   of fact that cannot be decided on a motion to dismiss.  Dkt. No.31 at 17–18 (citing Dezendorf v. 
+22   Twentieth Century-Fox Film Corp., </pre><span class="citation" data-id="1544353"><a href="/opinion/1544353/dezendorf-v-twentieth-century-fox-film-corporation/#851" aria-description="Citation for case: Dezendorf v. Twentieth Century-Fox Film Corporation">99 F.2d 850, 851</a></span><pre class="inline"> (9th Cir. 1938)).  However, the Ninth Circuit 
+23   has also held that “when the copyrighted work and the alleged infringement are both before the 
+24   court, capable of examination and comparison, non-infringement can be determined on a motion 
+25   to dismiss.”  Christianson v. West Pub’lg Co., </pre><span class="citation" data-id="3010728"><a href="/opinion/3010728/pennzoil-products-co-v-colelli-associates-inc/#203" aria-description="Citation for case: Pennzoil Products Co. v. Colelli &amp; Associates, Inc.">149 F.3d 202, 203</a></span><pre class="inline"> (9th Cir. 1945); see also 
+26   Rentmeester v. Nike, Inc., </pre><span class="citation" data-id="4248559"><a href="/opinion/4471306/jacobus-rentmeester-v-nike-inc/#1118" aria-description="Citation for case: Jacobus Rentmeester v. Nike, Inc.">883 F.3d 1111, 1118, 1125</a></span><pre class="inline"> (9th Cir. 2018) (affirming district court’s 
+27   dismissal of copyright suit where plaintiff’s original work and defendant’s allegedly infringing 
+1   the two works, it must “filter out” unprotectable elements of the plaintiff’s work), overruled on 
+2   other grounds, Skidmore as Trustee for Randy Craig Wolfe Trust v. Led Zeppelin, </pre><span class="citation no-link">952 F.3d 1051</span><pre class="inline"> 
+3   (9th Cir. 2020).                                                      
+4        The Court is unable to find any case law reconciling Dezendorf with Christianson.  Neither 
+5   case is particularly helpful here.  The Ninth Circuit has cited Dezendorf only once in recent 
+6   decades, but that opinion was amended specifically to delete the portion relying on Dezendorf.  
+7   Hall v. Swift, </pre><span class="citation no-link">782 F. App’x 639</span><pre class="inline"> (9th Cir. 2019), amended, </pre><span class="citation no-link">786 F. App’x 711</span><pre class="inline"> (9th Cir. 2019).  
+8   Christianson does not directly address the question of whether a court may determine originality 
+9   at the pleading stage.  Rather, that case concerned the question of substantial similarity on a 
+10   motion to dismiss.  Justice Wardlaw recently noted in a concurring opinion that Christianson and 
+11   Rentmeester are outliers as dismissals for lack of substantial similarity on a motion to dismiss.  
+12   Astor-White v. Strong, </pre><span class="citation no-link">733 F. App’x 407</span><pre class="inline">, 408–09, n.2 (9th Cir. 2018) (Wardlaw, J. concurring). 
+13        In any event, neither Dezendorf nor Christianson stands for the proposition that the Court 
+14   must resolve the question of whether Simpson’s product names and alphabetical index of product 
+15   names are sufficiently original to warrant copyright protection at the pleading stage.  While the 
+16   Court agrees that MiTek raises serious questions about the protectability of Simpson’s product 
+17   names and alphabetical index, the Court would benefit from a fuller record before deciding the 
+18   issue.  The Court is not prepared to say at this time that Simpson’s names and index are not 
+19   sufficiently original as a matter of law.                             
+20        Accordingly, the Court denies the motion to dismiss Simpson’s copyright claim. 
+21        B.   State Law Claims                                            
+22             1.   Unfair competition (</pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline">)    
+23        California’s Unfair Competition Law (“UCL”) “prohibits any ‘fraudulent business act or 
+24   practice.’”  Williams v. Gerber Prods. Co., </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/#938" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d 934, 938</a></span><pre class="inline"> (9th Cir. 2008) (quoting Cal. Bus. &amp; 
+25   Prof. Code § 17200).  MiTek argues that Simpson has failed to state a UCL claim for multiple 
+26   reasons.  First, MiTek argues that Simpson has not alleged an actionable statement.  Dkt. No. 23 at 
+27   3–4.  This is the same argument MiTek makes concerning Simpson’s Lanham Act false 
+1   III.A.1.                                                              
+2        Second, MiTek contends that Simpson has not adequately pled standing to pursue a UCL 
+3   claim because it does not allege reliance on MiTek’s misrepresentations and resulting injury.  Dkt. 
+4   No. 23 at 6–7.  Instead, MiTek says, the complaint only alleges consumers’ reliance, whereas 
+5   Simpson must plead its own reliance.  Id.  Additionally, MiTek contends that Simpson must allege 
+6   an economic injury in that it had prior possession or legal vested interest in the claimed lost money 
+7   or property.  Dkt. No. 33 at 3–4.                                     
+8        “[U]nder the UCL, standing extends to ‘a person who has suffered injury in fact and has 
+9   lost money or property as a result of the unfair competition’ ([Cal. Civ. Code] § 17204), while 
+10   under the false advertising law, in materially identical language, standing extends to ‘any person 
+11   who has suffered injury in fact and has lost money or property as a result of a violation of this 
+12   chapter’ ([Cal. Civ. Code] § 17535).”  Kwikset Corp. v. Superior Court, </pre><span class="citation" data-id="5452558"><a href="/opinion/5608107/kwikset-corp-v-superior-court/" aria-description="Citation for case: Kwikset Corp. v. Superior Court">51 Cal. 4th 310</a></span><pre class="inline">, 321–22 
+13   (2011).  To satisfy the standing requirement, a party must “(1) establish a loss or deprivation of 
+14   money or property sufficient to qualify as injury in fact, i.e., economic injury, and (2) show that 
+15   that economic injury was the result of, i.e., caused by, the unfair business practice or false 
+16   advertising that is the gravamen of the claim.”  Id. at 885 (emphases original).  District courts 
+17   within the Ninth Circuit are split on the question of whether a competitor plaintiff must plead its 
+18   own reliance on a defendant’s allegedly misleading statement.  Lona’s Lil Eats, LLC v. DoorDash, 
+19   Inc., No. 20-cv-06703-TSH, </pre><span class="citation no-link">2021 WL 151978</span><pre class="inline">, at *10 (N.D. Cal. Jan. 18, 2021).  MiTek notes 
+20   correctly that the majority of district courts have required a plaintiff to plead its own reliance.  </pre><span class="citation no-link">Id.</span><pre class="inline">  
+21   However, the Court finds the views and analysis described in Lona’s Lil Eats more persuasive 
+22   given the nature of Simpson’s allegations.                            
+23        MiTek principally relies on Kwikset and In re Tobacco II Cases, </pre><span class="citation" data-id="9685293"><a href="/opinion/1801796/in-re-tobacco-ii-cases/" aria-description="Citation for case: In Re Tobacco II Cases">46 Cal. 4th 298</a></span><pre class="inline">, 314 
+24   (2009), but those cases involved false advertising claims by consumer plaintiffs, not a competitor 
+25   plaintiff like Simpson.  Lona’s Lil Eats, </pre><span class="citation no-link">2021 WL 151978</span><pre class="inline">, at *11.  Additionally, the Kwikset court 
+26   acknowledged that reliance is not the only way to plead causation; rather, a plaintiff may plead a 
+27   causal connection between the acts complained of and the plaintiff’s injury.  Kwikset, </pre><span class="citation" data-id="2368488"><a href="/opinion/2368488/dana-point-safe-harbor-collective-v-superior-court/" aria-description="Citation for case: Dana Point Safe Harbor Collective v. Superior Court">51 Cal. 4th 
+1</a></span><pre class="inline">   competition or a violation of the false advertising law.  (§§ 17204, 17535.)  The phrase ‘as a result 
+2   of’ in its plain and ordinary sense means ‘caused by’ and requires a showing of a causal 
+3   connection or reliance on the alleged misrepresentation.”) (emphasis added); see also Lona’s Lil 
+4   Eats, </pre><span class="citation no-link">2021 WL 151978</span><pre class="inline">, at *11.  As MiTek acknowledged at the hearing, strict adherence to the 
+5   rule requiring pleading reliance would create an absurd result where a plaintiff could never bring a 
+6   UCL claim against its competitor for false or misleading advertising.  Dkt. No. 42 at 8:15-22 
+7   (“THE COURT: So how do we answer the question that was posed by Judge Hixson, which is . . . 
+8   under what circumstances would a competitor ever be able to assert a claim under the FAL or the 
+9   UCL when there is an alleged misrepresentation?  MS. SCHEIPETER: Well, and I’m not sure 
+10   under the existing case law that they could.”).  Such a result would defeat the very purpose of the 
+11   UCL, which is “to protect both consumers and competitors” alike.  Kwikset, </pre><span class="citation" data-id="5452558"><a href="/opinion/5608107/kwikset-corp-v-superior-court/#883" aria-description="Citation for case: Kwikset Corp. v. Superior Court">51 Cal. 4th at 883</a></span><pre class="inline">.   
+12        With respect to MiTek’s argument that Simpson must allege an economic injury in that it 
+13   had prior possession or legal vested interest in the claimed lost money or property in order to plead 
+14   standing under the UCL, the Court does not agree.  Simpson does not seek to recover damages 
+15   under the UCL and is thus not required to plead such possession or interest.  Finelite, Inc. v. 
+16   Ledalite Architect. Prods., C-10-1276 MMC, </pre><span class="citation no-link">2010 WL 3385027</span><pre class="inline">, at *2 (N.D. Cal. Aug. 26, 2010).  
+17   Here, Simpson alleges that because of MiTek’s misleading use of Simpson product names, 
+18   Simpson lost sales.  Dkt. No. 1 ¶¶ 50-54, 61.  While Simpson could have provided more detail 
+19   concerning the lost sales, the Court finds that it has adequately pled standing under the UCL. 
+20        Finally, MiTek argues that Simpson has not adequately pled a claim under the 
+21   “fraudulent,” “unfair,” or “unlawful” prongs of the UCL statute because the complaint does not 
+22   specify which theory or theories of unfair competition Simpson asserts.  Dkt. No. 23 at 5–6.  
+23   Simpson responds that its UCL claim incorporates and relies on allegations regarding false 
+24   advertising and passing off under both the Lanham Act and FAL, and therefore it states a claim 
+25   under all three prongs.  Dkt. No. 31 at 9–11.                         
+26        Section 17200’s unlawful prong “borrows violations of other laws and treats them as 
+27   unlawful practices that the unfair competition law makes independently actionable.”  Davis v. 
+1   claim under the unlawful prong of the UCL, a plaintiff must sufficiently plead a predicate 
+2   violation.”  MacDonald v. Ford Motor Co., 37 F. Supp. 3d. 1087, 1097 (N.D. Cal. 2014).  The 
+3   “unfair” prong of the UCL “prohibit[s] not only advertising which is false, but also advertising 
+4   which[,] although is true, is either actually misleading or which has a capacity, likelihood or 
+5   tendency to deceive or confuse the public.”  Brady v. Bayer Corp., </pre><span class="citation" data-id="6106822"><a href="/opinion/6239892/brady-v-bayer-corp/" aria-description="Citation for case: Brady v. Bayer Corp.">26 Cal. App. 5th 1156</a></span><pre class="inline">, 1173 
+6   (2018) (citation omitted).  Alleged violations of the Lanham Act and the FAL can serve as a 
+7   predicate basis for a claim of unlawful and unfair practices under the UCL.  Lona’s Lil Eats, 2021 
+</pre><span class="citation no-link">8   WL 151978</span><pre class="inline">, at *13; Kasky v. Nike, Inc., </pre><span class="citation multiple-matches"><a href="/c/Cal.%204th/27/939/">27 Cal. 4th 939</a></span><pre class="inline">, 950 (2002).  Moreover, a violation of the 
+9   FAL generally is also a violation of the “fraudulent” prong of the UCL.  Hadley v. Kellogg Sales 
+10   Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/#1089" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074, 1089</a></span><pre class="inline"> (N.D. Cal. 2017).  Because Simpson has stated claims for false 
+11   advertising under the Lanham Act and the FAL, it has also stated a UCL claim under all three 
+12   prongs.                                                               
+13          Accordingly, the Court denies the motion to dismiss the UCL claim. 
+14             2.   False advertising (</pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17500</span><pre class="inline">)     
+15        California’s False Advertising Law (“FAL”) “prohibits any ‘unfair, deceptive, untrue, or 
+16   misleading advertising.’”  Williams, </pre><span class="citation" data-id="1243130"><a href="/opinion/1243130/williams-v-gerber-products-co/" aria-description="Citation for case: Williams v. Gerber Products Co.">552 F.3d at 938</a></span><pre class="inline"> (quoting </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17500</span><pre class="inline">).  
+17   MiTek argues that Simpson has failed to state a FAL claim for two reasons.  First, MiTek argues 
+18   that Simpson has not alleged an actionable statement.  Dkt. No. 23 at 3–4.  This is the same 
+19   argument MiTek made concerning Simpson’s Lanham Act false advertisement claim, and it is not 
+20   persuasive for the reasons stated above.  See supra Section III.A.1.   
+21        Second, MiTek raises the same argument concerning standing as it did for Simpson’s UCL 
+22   claim.  Dkt. No. 23 at 6–7.  For the same reasons explained above, the Court finds that Simpson 
+23   has adequately pled standing for its FAL claim.  See supra Section III.B.1; Lona’s Lil Eats, 2021 
+</pre><span class="citation no-link">24   WL 151978</span><pre class="inline">, at *10–12.                                                 
+25        Accordingly, the Court denies the motion to dismiss the FAL claim.   
+26   IV.  CONCLUSION                                                       
+27        For the foregoing reasons, the Court denies MiTek’s motion to dismiss.  MiTek shall file  
+    1    its answer to the complaint by April 19, 2021. 
+    2          IT IS SO ORDERED. 
+    3  || Dated: April 5, 2021 
+    4
+    5 
+                                                        VIRGINIA K. DEMARCHI 
+    6                                                    United States Magistrate Judge 
+    7 
+    8 
+    9 
+   10 
+   11 
+     12 
+
+    13 
+
+ © 
+    15 
+   16 
+
+ =    17 
+
+Z    18 
+   19 
+   20 
+   21 
+   22 
+   23 
+   24 
+   25 
+   26 
+   27 
+   28 </pre>

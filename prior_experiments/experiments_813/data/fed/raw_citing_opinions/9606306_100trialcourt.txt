@@ -1,0 +1,355 @@
+<pre class="inline">1                                                                         
+2                                                                         
+3                                                                         
+4                                                                         
+5                                                                         
+6                                                                         
+7                      UNITED STATES DISTRICT COURT                       
+8                     NORTHERN DISTRICT OF CALIFORNIA                     
+9                                                                         
+     SHARED.COM,                                                          
+10                                     Case No.  22-cv-02366-RS            
+               Plaintiff,                                                 
+11                                                                         
+           v.                         ORDER GRANTING IN PART AND          
+12                                     DENYING IN PART DEFENDANT’S         
+     META PLATFORMS, INC.,            MOTION TO DISMISS FIRST             
+13                                     AMENDED COMPLAINT                   
+               Defendant.                                                 
+14                                                                         
+
+15                                                                         
+16                            I. INTRODUCTION                              
+17        Plaintiff Shared.com (“Shared”) is an online content creator that was, for many years, 
+18   deeply engaged in the Facebook advertising ecosystem. This suit arose following a series of 
+19   alleged incidents that effectively barred Shared from using, advertising on, and monetizing from 
+20   the social media platform. The operative First Amended Complaint (“FAC”) avers breach of 
+21   contract, misrepresentation, and several other acts of misconduct by Defendant Meta Platforms, 
+22   Inc. (“Meta”). Meta now moves to dismiss the FAC for failure to state a claim.  
+23        The motion is granted in part and denied in part. Some of Plaintiff’s claims are barred by 
+24   section 230(c)(1) of the Communications Decency Act. The remaining claims, however, have 
+25   been adequately pleaded.                                              
+26                            II. BACKGROUND1                              
+27                                                                         
+1        Shared is a partnership based out of Ontario, Canada that “creates and publishes original, 
+2   timely, and entertaining [online] content.” Dkt. 21 ¶ 9. In addition to its own website, Plaintiff also 
+3   operated a series of Facebook pages from 2006 to 2020. During this period, Shared avers that its 
+4   pages amassed approximately 25 million Facebook followers, helped in part by its substantial 
+5   engagement with Facebook’s “advertising ecosystem.” This engagement occurred in two ways. 
+6   First, Shared directly purchased “self-serve ads,” which helped drive traffic to Shared.com and 
+7   Shared’s Facebook pages. Second, Shared participated in a monetization program called “Instant 
+8   Articles,” in which articles from Shared.com would be embedded into and operate within the 
+9   Facebook news feed; Facebook would then embed ads from other businesses into those articles 
+10   and give Shared a portion of the ad revenue. Shared “invested heavily in content creation” and 
+11   retained personnel and software specifically to help it maximize its impact on the social media 
+12   platform. Id. ¶ 19.                                                   
+13        Friction between Shared and Facebook began in 2018. Shared states that it lost access to 
+14   Instant Articles on at least three occasions between April and November of that year. Importantly, 
+15   Shared received no advance notice that it would lose access. This was contrary to Shared’s averred 
+16   understanding of the Facebook Audience Network Terms (“the FAN Terms”), which provide that 
+17   “[Facebook] may change, withdraw, or discontinue [access to Instant Articles] in its sole 
+18   discretion and [Facebook] will use good faith efforts to provide Publisher with notice of the 
+19   same.” Id. ¶ 22; accord Dkt. 21-5. Shared asserts that “notice,” as provided in the FAN Terms, 
+20   obliges Facebook to provide advance notice of a forthcoming loss of access, rather than after-the-
+21   fact notice.                                                          
+22        During this same timeframe, Facebook also failed to make a timely payment from Instant 
+23   Articles ad revenue. Another clause in the FAN Terms (“the FAN payment term”) provides that 
+24   Facebook would forward money earned through Instant Articles “approximately 21 days 
+25   following the end of the calendar month in which the transaction occurred.” Dkt. 21 ¶ 26; accord 
+26                                                                         
+
+27   in this section are taken from the FAC, unless otherwise noted.       
+1   Dkt. 21-5. Facebook delayed paying Shared its portion of April 2018 ad revenue until September 
+2   2018, roughly four months beyond the timeframe noted in the FAN payment term. This delay led 
+3   to a critical shortage in Shared’s operating capital, ultimately resulting in its decision to lay off 
+4   eighteen employees.                                                   
+5        Meanwhile, all was not well with Shared’s self-serve ad buys. Shared notes that, “[o]ver 
+6   the course of its relationship with Facebook, Shared had numerous ads arbitrarily and incorrectly 
+7   rejected without explanation.” Dkt. 21 ¶ 47. Facebook’s Advertising Policies, which governed the 
+8   self-serve ad program, had provided that if an ad was rejected, Facebook would send the publisher 
+9   “an email with details that explain why. Using the information in [the] disapproval email, you can 
+10   edit your ad and create a compliant one.” Id. ¶ 45; accord Dkt. 21-4, at 2. Shared expected to 
+11   receive specific explanations when its ads were rejected, but each time it instead received a 
+12   “circular” explanation simply stating that the ad had been rejected for failing to comply with the 
+13   Advertising Policies. Dkt. 21 ¶ 102.                                  
+14        All of these tensions were brought to a head in October 2020 when Facebook “unpublished 
+15   the Shared Facebook pages, suspended Shared’s ability to advertise,” and disabled Shared’s ad 
+16   accounts as well as the personal Facebook profiles of several Shared employees. Id. ¶ 42. While 
+17   the Facebook Terms of Service stated that accounts could be suspended only after “clearly, 
+18   seriously or repeatedly” breaching Facebook’s policies, id. ¶ 49, Shared states that, to its 
+19   knowledge, it had not violated any such policies. These actions “effectively gave Shared a death 
+20   sentence within the Facebook system,” resulting in its business and its multimillion-dollar 
+21   valuation “cratering.” Id. ¶¶ 43, 51.                                 
+22        Shared sued Meta, Facebook’s parent company, in July 2022. The FAC raises six claims 
+23   for relief, some of which have multiple factual bases. First, Shared avers that Meta committed 
+24   conversion (Claim 1), breach of contract (Claim 3), and breach of the implied covenant of good 
+25   faith and fair dealing (Claim 4) in suspending access to Shared’s Facebook pages, contrary to the 
+26   Facebook Terms of Service. Second, Shared avers that Meta committed breach of contract (Claim 
+27   3), breach of the implied covenant of good faith and fair dealing (Claim 4), and intentional 
+1   misrepresentation (Claim 5) or negligent misrepresentation (Claim 6) for failing to provide 
+2   advance notice of suspension from Instant Articles, contrary to the FAN Terms. Third, Shared 
+3   avers that Meta committed breach of contract (Claim 3), intentional misrepresentation (Claim 5) or 
+4   negligent misrepresentation (Claim 6), and violated California’s Unfair Competition Law (“UCL”) 
+5   (Claim 2), see Cal. Bus. &amp; Prof. Cod § 17200, for failing to provide sufficient details regarding ad 
+6   rejections in violation of the Advertising Policies. Fourth, Shared avers that Meta committed 
+7   breach of contract (Claim 3) for failing to deliver the April 2018 payment on time in violation of 
+8   the FAN payment term. Meta now moves to dismiss the FAC in its entirety. 
+9                           III. LEGAL STANDARD                           
+10        Federal Rule of Civil Procedure 12(b)(6) governs motions to dismiss for failure to state a 
+11   claim. A complaint must include “a short and plain statement of the claim showing that the pleader 
+12   is entitled to relief.” Fed. R. Civ. P. 8(a)(2). While “detailed factual allegations” are not required, a 
+13   complaint must have sufficient factual allegations to “state a claim to relief that is plausible on its 
+14   face.” Ashcroft v. Iqbal, </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. 662, 678</a></span><pre class="inline"> (2009) (quoting Bell Atlantic v. Twombly, </pre><span class="citation multiple-matches"><a href="/c/U.S./550/15/">550 U.S. 
+15</a></span><pre class="inline">   544, 570 (2007)). When evaluating such a motion, courts generally “accept all factual allegations 
+16   in the complaint as true and construe the pleadings in the light most favorable to the nonmoving 
+17   party.” Knievel v. ESPN, </pre><span class="citation" data-id="9497636"><a href="/opinion/788804/evel-knievel-krystal-knievel-v-espn-a-subsidiary-of-walt-disney-inc/#1072" aria-description="Citation for case: Evel Knievel Krystal Knievel v. Espn, a Subsidiary of...">393 F.3d 1068, 1072</a></span><pre class="inline"> (9th Cir. 2005). However, “[t]hreadbare recitals of 
+18   the elements of a cause of action, supported by mere conclusory statements, do not suffice.” Iqbal, 
+19   </pre><span class="citation" data-id="9435339"><a href="/opinion/145875/ashcroft-v-iqbal/#678" aria-description="Citation for case: Ashcroft v. Iqbal">556 U.S. at 678</a></span><pre class="inline">.                                                      
+20        For actions sounding in fraud, the complaint “must state with particularity the 
+21   circumstances constituting fraud or mistake.” Fed. R. Civ. P. 9(b). Such averments “must be 
+22   accompanied by ‘the who, what, when, where, and how’ of the misconduct charged,” such that 
+23   they are “specific enough to give defendants notice of the particular misconduct.” Kearns v. Ford 
+24   Motor Co., </pre><span class="citation" data-id="1208595"><a href="/opinion/1208595/kearns-v-ford-motor-co/#1124" aria-description="Citation for case: Kearns v. Ford Motor Co.">567 F.3d 1120, 1124</a></span><pre class="inline"> (9th Cir. 2009) (first quoting Vess v. Ciba-Geigy Corp. USA, 317 
+</pre><span class="citation" data-id="671444"><a href="/opinion/671444/united-states-v-waymon-l-hunt/#1106" aria-description="Citation for case: United States v. Waymon L. Hunt">25   F.3d 1097, 1106</a></span><pre class="inline"> (9th Cir. 2003); and then quoting Bly-Magee v. California, </pre><span class="citation" data-id="6991279"><a href="/opinion/7085931/bly-magee-v-california/" aria-description="Citation for case: Bly-Magee v. California">236 F.3d 1014</a></span><pre class="inline">, 1019 
+26   (9th Cir. 2001)). Knowledge may be pleaded generally under Rule 9(b), but the complaint “must 
+27   set out sufficient factual matter from which a defendant’s knowledge of a fraud might reasonably 
+1   be inferred.” United States ex rel. Anita Silingo v. WellPoint, Inc., </pre><span class="citation" data-id="9016196"><a href="/opinion/9022959/united-states-ex-rel-silingo-v-wellpoint-inc/" aria-description="Citation for case: United States ex rel. Silingo v. Wellpoint, Inc.">904 F.3d 667</a></span><pre class="inline">, 679–80 (9th Cir. 
+2   2018).                                                                
+3                              IV. ANALYSIS                               
+4        To survive Defendants’ motion to dismiss, each of Plaintiff’s claims must overcome three 
+5   hurdles: first, they must not be barred by section 230(c)(1) of the Communications Decency Act; 
+6   second, they must not be barred by the Limits on Liability within the Facebook Terms of Service; 
+7   and third, they must be sufficiently pled. After reviewing the FAC, not every claim can overcome 
+8   all three, so each hurdle is addressed in turn.                       
+9        A.  Section 230(c)(1) Immunity                                   
+10        Congress passed the Communications Decency Act in an effort to create and promote a 
+11   vibrant digital communications landscape. Among other things, section 230(c)(1) of the Act 
+12   generally exempts “information content providers” from liability for information provided by third 
+13   parties. See, e.g., Barnes v. Yahoo!, Inc., </pre><span class="citation" data-id="1196509"><a href="/opinion/1196509/barnes-v-yahoo-inc/" aria-description="Citation for case: Barnes v. Yahoo!, Inc.">570 F.3d 1096</a></span><pre class="inline">, 1099–100 (9th Cir. 2009). The section 
+14   states that “[n]o provider or user of an interactive computer service shall be treated as the 
+15   publisher or speaker of any information provided by another information content provider.” 47 
+</pre><span class="citation no-link">16   U.S.C. § 230</span><pre class="inline">(c)(1). While this immunity is broad, it is not absolute. As the Ninth Circuit clarified 
+17   in Barnes v. Yahoo!, Inc., the relevant inquiry is not how plaintiffs style their claims for relief, but 
+18   rather “whether the duty that the plaintiff alleges the defendant violated derives from the 
+19   defendant’s status or conduct as a ‘publisher or speaker.’” </pre><span class="citation" data-id="1196509"><a href="/opinion/1196509/barnes-v-yahoo-inc/#1102" aria-description="Citation for case: Barnes v. Yahoo!, Inc.">570 F.3d at 1102</a></span><pre class="inline">. If the plaintiff alleges 
+20   that liability arises from the defendant’s “manifest intention to be legally obligated to do 
+21   something,” rather than from the defendant’s “status or conduct as a ‘publisher or speaker,’” 
+22   section 230(c)(1) does not apply. </pre><span class="citation" data-id="1196509"><a href="/opinion/1196509/barnes-v-yahoo-inc/#1107" aria-description="Citation for case: Barnes v. Yahoo!, Inc.">Id. at 1107</a></span><pre class="inline">; see In re Zoom Video Commc’ns. Inc. Privacy 
+23   Litigation, </pre><span class="citation no-link">525 F. Supp. 3d 1017</span><pre class="inline">, 1034 (N.D. Cal. 2021).              
+24        Defendant argues that all of Plaintiff’s claims are barred by section 230(c)(1). It asserts, 
+25   and Plaintiff does not contest, that Meta is a “provider . . . of an interactive computer service” 
+26   under the Act’s definition, and that the relevant information at issue was “provided by another 
+27   information content provider.” </pre><span class="citation no-link">47 U.S.C. § 230</span><pre class="inline">(c)(1); see Dkt. 24, at 22. Defendant further argues 
+1   that each of Plaintiff’s claims seek to treat Meta as a “publisher or speaker,” and that the suit must 
+2   therefore fail in its entirety.                                       
+3        Defendant is only partially correct. Plaintiff raises three claims involving Defendant’s 
+4   decision to suspend Plaintiff’s access to its Facebook accounts and thus “terminate [its] ability to 
+5   reach its followers”: one for conversion, one for breach of contract, and one for breach of the 
+6   implied covenant of good faith and fair dealing. See Dkt. 21, ¶¶ 54–63, 110–12, 119. Shared 
+7   claims that, contrary to the Facebook Terms of Service, Defendant suspended Shared’s access to 
+8   its Facebook pages without first determining whether it had “clearly, seriously or repeatedly 
+9   breached [Facebook’s] Terms or Policies.” At bottom, these claims seek to hold Defendant liable 
+10   for its decision to remove third-party content from Facebook. This is a quintessential editorial 
+11   decision of the type that is “perforce immune under section 230.” Barnes, </pre><span class="citation" data-id="1196509"><a href="/opinion/1196509/barnes-v-yahoo-inc/" aria-description="Citation for case: Barnes v. Yahoo!, Inc.">570 F.3d at 1102</a></span><pre class="inline"> 
+12   (quoting Fair Housing Council of San Fernando Valley v. Roommates.com, </pre><span class="citation" data-id="9567660"><a href="/opinion/1301306/fair-housing-coun-san-fernando-v-roommates-com/" aria-description="Citation for case: Fair Housing Coun., San Fernando v. Roommates. Com">521 F.3d 1157</a></span><pre class="inline">, 1170–
+13   71 (9th Cir. 2008) (en banc)). Ninth Circuit courts have reached this conclusion on numerous 
+14   occasions. See, e.g., King v. Facebook, Inc., </pre><span class="citation no-link">572 F. Supp. 3d 776</span><pre class="inline">, 795 (N.D. Cal. 2021); Atkinson 
+15   v. Facebook Inc., 20-cv-05546-RS (N.D. Cal. Dec. 7, 2020); Fed. Agency of News LLC v. 
+16   Facebook, Inc., </pre><span class="citation no-link">395 F. Supp. 3d 1295</span><pre class="inline">, 1306–07 (N.D. Cal. 2019). To the extent Facebook’s Terms 
+17   of Service outline a set of criteria for suspending accounts (i.e., when accounts have “clearly, 
+18   seriously, or repeatedly” breached Facebook’s policies), this simply restates Meta’s ability to 
+19   exercise editorial discretion. Such a restatement does not, thereby, waive Defendant’s section 
+20   230(c)(1) immunity. See King, 572 F. Supp. 3d at 795. Allowing Plaintiff to reframe the harm as 
+21   one of lost data, rather than suspended access, would simply authorize a convenient shortcut 
+22   through section 230’s robust liability limitations by way of clever pleading. Surely this cannot be 
+23   what Congress would have intended. As such, these claims must be dismissed. 
+24        The remaining claims, however, do not seek to treat Defendant as a publisher or speaker. 
+25   They arise instead out of promises that Plaintiff argues Defendant made to its advertising partners.  
+26   With respect to the FAN Terms, Plaintiff’s claims are rooted in Defendant’s averred violation of 
+27   its promise to provide “notice.” Plaintiff similarly seeks to hold Defendant liable for its averred 
+1   violation of its promise to provide “details that explain why” Plaintiff’s ads were rejected. In both 
+2   cases, Plaintiff does not question Defendant’s right or ability to limit access to the Facebook ad 
+3   platform or to remove the ads; rather, Plaintiff objects to what it argues were deficiencies in the 
+4   procedure described in Facebook’s contracts. Cf. id. (“That Facebook has the editorial discretion 
+5   to post or remove content has little do to with the implied promise to explain why content was 
+6   removed.”). Additionally, Plaintiff’s breach of contract claim involving the FAN payment term 
+7   clearly has nothing to do with Facebook’s editorial capabilities, but rather involves its obligations 
+8   to pay ad partners in a timely fashion. These claims, therefore, are not subject to section 230(c)(1) 
+9   immunity.                                                             
+10        B.  Facebook’s Limits on Liability                               
+11        Defendant next argues that many of Plaintiff’s claims for damages are barred under the 
+12   Limits on Liability (“the limitations provision”) included in Facebook’s Terms of Service. In 
+13   relevant part, the Terms state the following:                         
+14                                                                         
+              [Facebook’s] liability shall be limited to the fullest extent permitted 
+15             by applicable law, and under no circumstance will we be liable to you 
+              for any lost profits, revenues, information, or data, or consequential, 
+16             special, indirect, exemplary, punitive, or incidental damages arising 
+              out of or related to these Terms or the Facebook Products, even if we 
+17             have been advised of the possibility of such damages.       
+18                                                                         
+    Dkt. 21, Ex. 11 § 3. Courts have generally enforced such limitations provisions, so long as they 
+19                                                                         
+    are not unconscionable.2  See, e.g., Food Safety Net Servs. v. Eco Safe Sys. USA, Inc., </pre><span class="citation" data-id="3304813"><a href="/opinion/3305251/in-re-collins/" aria-description="Citation for case: In Re Collins">147 Cal. 
+20</a></span><pre class="inline">                                                                         
+    Rptr. 3d 634, 641–42 (Ct. App. 2012). However, as Plaintiff correctly observes, California law 
+21                                                                         
+    renders limitations provisions unenforceable against claims for fraud or willful injury. See Cal. 
+22                                                                         
+    Civ. Code § 1668. The limitations provision therefore cannot stand in the way of Claims 2, 5, and 
+23                                                                         
+    6, as they all aver some form of fraud by Defendant.                  
+24                                                                         
+
+25                                                                         
+    2 Plaintiff summarily avers in the FAC that the limitations provision is unconscionable. Dkt. 21 
+26   ¶ 113. Plaintiff further states in its Opposition that it “reserves to argue unconscionability as the 
+    case progresses.” Dkt. 25, at 21 n.6. Since Plaintiff has thus far not meaningfully argued that the 
+27   limitations provision is, in fact, unconscionable, this Order assumes the provision is enforceable.  
+1        For the remaining claims, the limitations provision presents a possible obstacle, because it 
+2   limits Plaintiff’s potential relief. Plaintiff argues it would be more appropriate to defer resolving 
+3   this question until a later stage in the litigation, given that the distinction between general (or 
+4   direct) damages and consequential (or indirect) damages is “relative not absolute.” While the 
+5   distinction between these two forms of damages might not be quite as nebulous as Plaintiff 
+6   suggests, the point is well taken. Given that each of the claims plausibly avers that Shared was 
+7   harmed as a result of Defendant’s conduct, the discovery process would aid in determining more 
+8   concretely whether each claim avers direct or indirect damages. The limitations provision will 
+9   therefore not mandate dismissal of any of Plaintiff’s claims, though Defendant can always reassert 
+10   the limitations provision in, for example, a motion for summary judgment. 
+11        C.  Sufficient Pleadings                                         
+12        Finally, every claim must make a minimum showing of plausibility in order to survive a 
+13   motion to dismiss, and Rule 9(b) further requires claims sounding in fraud to be pleaded with 
+14   particularity. The surviving portions of Claims 3 and 4 are discussed first; Claim 2 is discussed 
+15   second; and Claims 5 and 6 are discussed third.                       
+16             1.  Breach of Contract &amp; Implied Covenant Claims: FAN Terms 
+17        Plaintiff claims that Defendant breached the FAN Terms by failing to provide Shared with 
+18   advance notice that its access to Instant Articles would be suspended. Plaintiff further argues that, 
+19   to the extent the FAN Terms did not necessarily require Defendant to provide advance notice, 
+20   Facebook’s failure to do so would still constitute a breach of the implied covenant of good faith 
+21   and fair dealing. Defendant, in response, contests Plaintiff’s interpretation of the FAN Terms and 
+22   argues that no breach occurred because (a) it was not required to offer “advance” notice at all and 
+23   (b) it did, in fact, offer after-the-fact notice.                     
+24        The main dispute, then, turns largely on the interpretation of the FAN Terms themselves. 
+25   Contrary to Defendant’s contention, the FAN Terms are not self-evidently clear: “notice” is 
+26   susceptible to both interpretations (i.e., “advance” notice and “after-the-fact” notice). See, e.g., 
+27   Notice, MERRIAM-WEBSTER, https://www.merriam-webster.com/dictionary/notice (defining 
+1   “notice” as both “the announcement of a party’s intention to quit an agreement or relation at a 
+2   specified time” and “the condition of being warned or notified . . .”). Accepting Plaintiff’s 
+3   contentions as true, as the law requires, Plaintiff has adequately pleaded these criteria. Plaintiff has 
+4   also adequately pleaded proximate causation between the averred breach and the damages that 
+5   ensued — namely by precluding Shared’s ability to pivot to other forms of content creation. The 
+6   motion is therefore denied as to these portions of Claims 3 and 4.    
+7             2.  Breach of Contract: Advertising Policies                
+8        Plaintiff similarly avers, in Claim 3, that Defendant breached the terms of the Advertising 
+9   Policies by not providing sufficient “details that explain[ed] why” Plaintiff’s ads were rejected 
+10   from Facebook. As with the averred breach of the FAN Terms, Defendant moves to dismiss 
+11   primarily on the grounds that the clear terms of the Advertising Policies did not require 
+12   explanations “sufficient for Shared to bring its ads into compliance” and that Defendant did, in 
+13   fact, provide details — the details being that the ads were suspended for violating the Advertising 
+14   Policies. This dispute, once more, turns largely on contract interpretation, and again, Plaintiff’s 
+15   interpretation is plausible. Plaintiff has also adequately pleaded proximate causation between the 
+16   averred breach and damages — namely, that Plaintiff wasted money on ads it would otherwise not 
+17   have purchased. The motion is therefore denied as to this portion of Claim 3.  
+18             3.  California UCL Claim                                    
+19        Plaintiff avers, in Claim 2, that Defendant violated the UCL, which prohibits “unlawful, 
+20   unfair or fraudulent business practices.” </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline">. Specifically, Plaintiff 
+21   contends that Defendant’s failure to provide “details that explain why” ads were rejected violated 
+22   both the “fraudulent” and “unfair” prongs of the UCL. “Because the statute is written in the 
+23   disjunctive, . . . [e]ach prong of the UCL is a separate and distinct theory of liability.” Lozano v. 
+24   AT&amp;T Wireless Servs., Inc., </pre><span class="citation" data-id="1429600"><a href="/opinion/1429600/lozano-v-at-t-wireless-services-inc/#731" aria-description="Citation for case: Lozano v. AT &amp; T Wireless Services, Inc.">504 F.3d 718, 731</a></span><pre class="inline"> (9th Cir. 2007).        
+25                  a.  “Fraudulent” Prong                                 
+26        In order to prevail on a UCL claim under the “fraudulent” prong, Plaintiff must satisfy the 
+27   “reasonable consumer” standard: it must show that “members of the public are likely to be 
+1   deceived.” I.B. ex rel. Fife v. Facebook, Inc., </pre><span class="citation" data-id="8703806"><a href="/opinion/8720613/ib-ex-rel-fife-v-facebook-inc/#1011" aria-description="Citation for case: I.B. ex rel. Fife v. Facebook, Inc.">905 F. Supp. 2d 989, 1011</a></span><pre class="inline"> (N.D. Cal. 2012). Since 
+2   this claim sounds in fraud, Rule 9(b) requires that the claim be stated with particularity. Here, 
+3   Plaintiff has met its burden. Shared argues that the Advertising Policies themselves contained a 
+4   fraudulent statement — i.e., that ad partners would be provided with sufficient details to bring 
+5   their rejected ads into conformity with Facebook’s policies. It is plausible that a reasonable 
+6   consumer would concur with Shared’s interpretation of the Policies, notwithstanding Defendant’s 
+7   contrary interpretation. Indeed, Plaintiff supports this interpretation by offering examples of 
+8   numerous other ad partners that faced similar frustration in using Facebook’s self-serve ads. See 
+9   Dkt. 21, ¶¶ 75–86. It is similarly plausible, at the very least, that Defendant knew or should have 
+10   known that it could not comply with this expectation due to its averred reliance on artificial 
+11   intelligence. While Plaintiff does not state who specifically at Shared read the Policies, or on what 
+12   particular dates they read them, the FAC states that Plaintiff did read the Advertising Policies 
+13   “[p]rior to deciding to advertise and/or continue advertising on Facebook.” In combination, this 
+14   suffices to satisfy Rule 9(b)’s heightened pleading standards. Plaintiff has therefore stated a claim 
+15   under the “fraudulent” prong of the UCL, and the motion is denied in this respect. 
+16                  b.  “Unfair” Prong                                     
+17        At present, California courts have “adopt[ed] three different tests for determining 
+18   unfairness in the consumer context.” Nationwide Biweekly Admin., Inc. v. Super. Ct. of Alameda 
+19   Cnty., </pre><span class="citation no-link">462 P.3d 461</span><pre class="inline">, 472 (Cal. 2020). Under the “balancing test,” the court must examine the 
+20   impact of an alleged unfair practice on its victim, “balanced against the reasons, justifications and 
+21   motives of the alleged wrongdoer.” </pre><span class="citation no-link">Id.</span><pre class="inline"> at 472 n.10; see also In re Anthem, Inc. Data Breach 
+22   Litigation, </pre><span class="citation" data-id="7236340"><a href="/opinion/7318430/in-re-anthem-inc-data-breach-litigation/#990" aria-description="Citation for case: In re Anthem, Inc. Data Breach Litigation">162 F. Supp. 3d 953, 990</a></span><pre class="inline"> (N.D. Cal. 2016) (balancing test involves considering 
+23   whether plaintiff “alleg[ed] immoral, unethical, oppressive, unscrupulous, or substantially 
+24   injurious conduct by Defendant[]”). Some courts apply a different, three-part balancing test, under 
+25   which “(1) [t]he consumer injury must be substantial; (2) the injury must not be outweighed by 
+26   any countervailing benefits to consumers or competition; and (3) it must be an injury that 
+27   consumers themselves could not reasonably have avoided.” Nationwide, 462 P.3d at 472 n.10. 
+1   Finally, the “tethering test” requires the plaintiff to show that “the public policy which is a 
+2   predicate to a consumer unfair competition action under the ‘unfair’ prong of the UCL [is] 
+3   tethered to specific constitutional, statutory, or regulatory provisions.” In re Adobe Sys., Inc. 
+4   Privacy Litigation, </pre><span class="citation" data-id="7228410"><a href="/opinion/7310506/in-re-adobe-systems-inc-privacy-litigation/#1226" aria-description="Citation for case: In re Adobe Systems, Inc. Privacy Litigation">66 F. Supp. 3d 1197, 1226</a></span><pre class="inline"> (N.D. Cal. 2014).       
+5        Here, Plaintiff argues that Defendant’s conduct is unfair because, by failing to provide 
+6   satisfactory explanations for ad rejections, Defendant “provide[d] advertising services at a lower 
+7   cost, and . . . made those advertising services appear to be more valuable than they were.” Dkt. 21 
+8   ¶ 74. Plaintiff suggests this was due to Defendant’s “over-reliance on artificial intelligence” in ad 
+9   regulation, which allowed Facebook to “maximize its profits” rather than provide adequate 
+10   explanations. Id. ¶¶ 71, 74. Plaintiff also argues Defendant’s conduct was “contrary to legislatively 
+11   declared public policies that seek to protect consumers from misleading statements.” Id. ¶ 72. 
+12        Plaintiff has made an adequate showing that Defendant’s conduct was “unfair” under the 
+13   tethering test. While this claim essentially overlaps with Plaintiff’s claim under the “fraudulent” 
+14   prong, Defendant is incorrect in arguing that this would require dismissal: “unfair” prong claims 
+15   that overlap with claims under another UCL prong need only be dismissed “if the claims under the 
+16   other . . . prongs of the UCL do not survive.” Hadley v. Kellogg Sales Co., </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243 F. Supp. 3d 1074</a></span><pre class="inline">, 
+17   1104–05 (N.D. Cal. 2017) (emphasis added); see also Punian v. Gillette Co., </pre><span class="citation no-link">2016 WL 1029607</span><pre class="inline">, 
+18   at *17 (N.D. Cal. Mar. 15, 2016). As noted above, Plaintiff has stated a valid claim under the 
+19   “fraudulent” prong, so its claim under the “unfair” prong may proceed since it has articulated a 
+20   specific state policy that Defendant has allegedly violated.3 The motion to dismiss the UCL claim 
+21   under the “unfair” prong is therefore denied.                         
+22             4.  Misrepresentation Claims                                
+23        Finally, Plaintiff avers, in Claims 5 and 6, that Defendant misrepresented to Plaintiff that it 
+24   would receive both “advance notice” that it would lose access to Instant Articles, and that it would 
+25                                                                         
+
+26   3 Plaintiff’s “unfair” prong claim therefore rises and falls with its “fraudulent” prong claim. This 
+    Order expresses no opinion as to whether Plaintiff has adequately pleaded a claim under the 
+27   “unfair” prong for reasons other than Defendant’s allegedly misleading conduct.  
+    1    receive sufficient “details that explain why” its ads were rejected. The latter argument overlaps 
+    2  || almost entirely with Claim 2, and these two claims must therefore rise or fall together. Given that 
+    3    Plaintiff satisfactorily stated a claim under the “fraudulent” prong of the UCL, it has also stated a 
+    4  ||  plausible claim for misrepresentation with respect to the Advertising Policies. 
+    5          As to the FAN Terms and the lack of adequate notice, the reasoning above applies here as 
+    6  || well. Although Plaintiff does not state who at Shared actually read the FAN Terms, the FAC 
+    7  || nevertheless states that Shared “reasonably relied on [the FAN Terms] in connection with its 
+    8  || decision” to invest in and utilize Instant Articles. Dkt. 21 4 131. The FAC therefore avers 
+    9  || Defendant’s wrongful conduct with sufficient particularity to satisfy Rule 9(b), and Defendant’s 
+   10 || motion is therefore denied with respect to Claims 5 and 6.4 
+   11                                    V. CONCLUSION 
+a    12          Based on the foregoing analysis, the motion to dismiss is granted in part and otherwise 
+
+     13    denied. Claim 1 is dismissed without leave to amend; Claim 3 is dismissed with respect to the 
+
+ v   14    Terms of Service, without leave to amend; and Claim 4  is dismissed with respect to the Terms of 
+
+    15    Service, without leave to amend. The motion is denied in all other respects. 
+   16 
+
+ =    17  || ITISSO ORDERED. 
+
+Z    18 
+   19    Dated: September 21, 2022 
+   20 
+                                               RICHARD SEEBORG 
+   21                                           Chief United States District Judge 
+   22 
+   23 
+   24 
+   25  |                                                            
+          Plaintiff pleads Claim 5 and 6  in the alternative, as it must, because it is impossible to be liable 
+   26  ||  for intentional and negligent misrepresentation simultaneously for the same conduct. The 
+        distinction turns on Defendant’s knowledge, but since knowledge may be alleged generally under 
+   27  || Rule 9(b), Plaintiff has met this requirement. 
+   28                                                              ORDER ON MOTION TO DISMISS 
+                                                                   CASE No. 22-cv-02366-RS </pre>

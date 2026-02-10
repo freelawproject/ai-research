@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b737-20">
+  OPINION
+ </p>
+<author id="b737-21">
+  WILLIAM LIPKIN, Bankruptcy Judge.
+ </author>
+<p id="b737-22">
+  The debtor, Doris I. Wynn, filed two Petitions under Chapter 13 of the Bankruptcy Code — one in her individual capacity, and one in her capacity as trustee for the minor, Duane E. Wynn. This double filing resulted from the debtor’s desire to make certain that real estate, which is titled in the name “Doris I. Wynn, Trustee for Duane E. Wynn,” is subject to the automatic stay provisions of Section 362 of the Code and that the mortgage arrearages on this property can be cured pursuant to a Chapter 13 plan.
+ </p>
+<p id="b737-23">
+  The real property, which is a condominium unit located at 506 Timber Creek, Lin-denwold, New Jersey, was transferred on November 29,1979 to “Doris I. Wynn, Trustee for Duane E. Wynn.” On the same date Doris I. Wynn, Trustee for Duane E. Wynn, executed a mortgage covering these premises to the First Federal Savings and Loan Association. Neither the deed nor mortgage concerned Doris I. Wynn individually. The mortgage was subsequently assigned to the Federal Home Loan Mortgage Corporation.
+ </p>
+<p id="b737-24">
+  On May 5, 1982 the Federal Home Loan Mortgage Corporation filed a foreclosure action in State Court against the premises because of defaults in payments under the mortgage approximating $4000.00. On June 14, 1982 Doris I. Wynn, individually, filed a Petition under Chapter 13 of the Bankruptcy Code seeking to halt the foreclosure action.
+ </p>
+<p id="b737-25">
+  Plaintiff, Federal Home Loan Mortgage Corporation, filed the present complaint for relief from the automatic stay, arguing that the stay did not apply to the real estate held in Doris I. Wynn’s fiduciary capacity as trustee because the petition stayed actions only against property which was indi
+  <span citation-index="1" class="star-pagination" label="680"> 
+   *680
+   </span>
+  vidually owned. This court held that the automatic stay did not apply to the real property merely by the filing of the Chapter Í3 Petition by Doris I. Wynn individually-
+ </p>
+<p id="b738-4">
+  Three days after entry of the order allowing plaintiff relief from the automatic stay, the second Chapter 13 Petition was filed by Doris I. Wynn, in her capacity as Trustee for Duane E. Wynn. Plaintiff filed an Order to Show Cause why it should not be relieved from the stay of the second Petition. This second request for relief from the stay is the subject of the present proceedings.
+ </p>
+<p id="b738-5">
+  Plaintiff argues that the automatic stay does not cover the trust property listed in the Petition filed by Doris I. Wynn, Trustee for Duane E. Wynn. Plaintiff claims that since the real estate trust, with Doris I. Wynn as trustee, does not produce any income, the trustee cannot qualify as an “individual with regular income” within the meaning of Section 109(e) and § 101(24) of the Code. Thus, plaintiff argues that Doris I. Wynn, trustee could not properly file a Petition under Chapter 13 of the Code and the real estate trust is not protected by the automatic stay.
+ </p>
+<p id="b738-6">
+  Section 109(e) of the Code provides as follows:
+ </p>
+<blockquote id="b738-7">
+  (e) Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated unsecured debts of less than $100,000 and noncontingent, liquidated, secured debts of less than $350,000, or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition noncontingent, liquidated, unsecured debts that aggregate less than $100,000 and non-contingent, liquidated, secured debts of less than $350,000 may be a debtor under chapter 13 of this title.
+ </blockquote>
+<p id="b738-8">
+  Section 101(24) of the Code gives the following definition:
+ </p>
+<blockquote id="b738-9">
+  (24) “individual with regular income” means individual whose income is sufficiently stable and regular to enable such individual to make payments under a plan under chapter 13 of this title, other than a stockbroker or a commodity broker;
+ </blockquote>
+<p id="b738-11">
+  The legislative history to this section provides the following analysis:
+ </p>
+<blockquote id="b738-12">
+  The effect of this definition, and its use in section 109(e), is to expand substantially the kinds of individuals that are eligible for relief under chapter 13, Plans for Individuals with Regular Income, which is now available only for wage earners. The definition encompasses all individuals with incomes that are sufficiently stable and regular to enable them to make payments under a chapter 13 plan. Thus, individuals on welfare, social security, fixed pension incomes, or who live on investment incomes, will be able to work out repayment plans with their creditors, rather than being forced into straight bankruptcy. Also, self employed individuals will be eligible to use chapter 13 if they have regular income.
+ </blockquote>
+<blockquote id="b738-13">
+  [House Report No. 95-595, 95th Cong. 1st Sess. 311-312 (1977); See Senate Report No. 95-989, 95th Cong.2d Sess. 24-26 (1978), U.S.Code Cong. &amp; Admin.News 1978, pp. 5787, 5810, 6268-6269.]
+ </blockquote>
+<p id="b738-14">
+  The entire thrust of these sections is to allow a broad interpretation of who may file a Petition under Chapter 13 of the Bankruptcy Code. The legislative history clearly indicates that
+  <em>
+   all
+  </em>
+  individuals with regular income can file a Petition under Chapter 13.
+ </p>
+<p id="b738-15">
+  Notwithstanding this broad definition, plaintiff argues that Doris I. Wynn, as Trustee for Duane E. Wynn, had no right to file a Chapter 13 Petition, because she receives no income in her fiduciary capacity, and thus, is not an eligible “individual with regular income” under Section 109(e) and 101(24) of the Code. Plaintiff relies on the case
+  <em>
+   Provident National Bank v. Kirby,
+  </em>
+  <span class="citation" data-id="1548356"><a href="/opinion/1548356/provident-national-bank-v-kirby-in-re-kirby/" aria-description="Citation for case: Provident National Bank v. Kirby (In Re Kirby)">9 B.R. 901</a></span> (Bkrtcy.E.D.Pa.1981). In that case the Bankruptcy Court held that a debtor was ineligible, in her capacity as Trustee, to file a Chapter 13 Petition, because she earned no income in her fiduciary capacity.
+  <span citation-index="1" class="star-pagination" label="681"> 
+   *681
+   </span>
+  The debtor did earn income in her individual capacity. <span class="citation" data-id="1548356"><a href="/opinion/1548356/provident-national-bank-v-kirby-in-re-kirby/#902" aria-description="Citation for case: Provident National Bank v. Kirby (In Re Kirby)">Id. at 902</a></span>. The court specifically refused to hold that fiduciaries may never file a Chapter 13 Petition, but the distinction it was attempting to make between this real estate trust and other fiduciary relationships is not clear. The court also refused to grant relief from the automatic stay to the mortgagee because there was a lack of evidence as to whether the debtor as an individual had any interest in the realty to which she held title “as Trustee.” <span class="citation" data-id="1548356"><a href="/opinion/1548356/provident-national-bank-v-kirby-in-re-kirby/#903" aria-description="Citation for case: Provident National Bank v. Kirby (In Re Kirby)">Id. at 903</a></span>.
+ </p>
+<p id="b739-4">
+  I believe that the court’s interpretation of sections 109(e) and 101(24) in the
+  <em>
+   <span class="citation" data-id="1548356"><a href="/opinion/1548356/provident-national-bank-v-kirby-in-re-kirby/" aria-description="Citation for case: Provident National Bank v. Kirby (In Re Kirby)">Kirby</a></span>
+  </em>
+  case are much too restrictive given the broad statutory language and analysis in the legislative history. The case of
+  <em>
+   Federal National Mortgage Assoc. v. Foster,
+  </em>
+  <span class="citation" data-id="1957072"><a href="/opinion/1957072/federal-national-mortgage-assn-v-foster-in-re-foster/" aria-description="Citation for case: Federal National Mortgage Ass&#x27;n v. Foster (In Re Foster)">19 B.R. 28</a></span> (Bkrtcy.E.D.Pa.1982) presents an analysis with which this court agrees. In that case a Chapter 13 Petition was filed in the name of “Norma Foster and Norma Foster, Trustee.” Title to real property was held in the name of Norma Foster, as Trustee. The court held that there was no bar to her filing a Chapter 13 Petition in her fiduciary capacity, and the real estate was property of the estate subject to the automatic stay. <span class="citation" data-id="1957072"><a href="/opinion/1957072/federal-national-mortgage-assn-v-foster-in-re-foster/#29" aria-description="Citation for case: Federal National Mortgage Ass&#x27;n v. Foster (In Re Foster)">Id. at 29-30</a></span>.
+ </p>
+<p id="b739-5">
+  It clearly seems to be the intent of the 1978 Bankruptcy Code to allow a trust to commence a voluntary case by filing a Petition. Section 301 allows a voluntary case to be commenced by “an entity”. Section 101(14) of the code defines “entity” to include a “trust”. Thus, it was contemplated that a trust could seek the protection of the Bankruptcy Code, even though only an “individual with regular income” could file a Petition under Chapter 13. Since Doris I. Wynn is an “individual with regular income” and otherwise meets the filing requirements, and since the Code allows a trust or a trustee to commence a case, an individual who is also a trustee must be allowed to file a Chapter 13 Petition.
+ </p>
+<p id="b739-6">
+  Plaintiff’s argument that a trustee’s income must be derived from the trust in order to file under Chapter 13 must fail. There is no limitation in the statute as to the source or type of income which an individual must have in order to file under Chapter 13 of the Code. Cf.
+  <em>
+   In Re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, <span class="citation no-link">5 B.C.D. 1270</span> (Bkrtcy.Utah 1980), where the court held that debtors, whose only income consisted of welfare payments, were eligible for Chapter 13 relief. See generally, ‘Who is “individual with regular income” eligible to be Chapter 13 debt- or under §§ 101(24) and 109(e) of Bankruptcy Code of 1978’, 57 A.L.R.Fed. 339 (1982), and cases cited therein, for a complete discussion.
+ </p>
+<p id="b739-8">
+  Plaintiff does not dispute, and it is apparent from the debtor’s Petition, that she is employed and has a regular income from this employment. There is nothing in the record to indicate that Duane E. Wynn has any individual, regular income and, in fact, plaintiff has suggested in its brief, that Duane is a minor. At the hearing in this case, the debtor’s attorney suggested that the property was transferred in trust because of this minority and the debtor’s desire to avoid probate proceedings in the event of her death. However, all parties seem to recognize that when the note and mortgage were executed, Doris I. Wynn would be making the payments on the note and mortgage from her income, regardless of the capacity in which she made payment. Cf.
+  <em>
+   Clark v. Snelling,
+  </em>
+  <span class="citation" data-id="8788241"><a href="/opinion/8804025/clark-v-snelling/" aria-description="Citation for case: Clark v. Snelling">205 F. 240</a></span> (1 Cir.1913), where a bankruptcy trustee was held to have only bare legal title to real property because the bankrupt held it only as a constructive trustee for his mother, who made all payments.
+ </p>
+<p id="b739-9">
+  Plaintiff has presented no cogent reason why an individual with regular income should be barred from filing a Chapter 13 Petition merely because that individual holds property in a fiduciary capacity. The Code provides that an entity may be a “trust”. <span class="citation no-link">11 U.S.C. § 101</span>(14). Doris I. Wynn is an individual with regular income within the meaning of Sections 109(e) and 101(24) of the Code and otherwise meets the requirements for filing a Chapter 13 Petition. Since Congress has failed to restrict the source of a debtor’s income, this court will not usurp the congressional function
+  <span citation-index="1" class="star-pagination" label="682"> 
+   *682
+   </span>
+  and require the debtor to have some trust income before the trust property can be subject to the bankruptcy court’s jurisdiction.
+ </p>
+<p id="b740-4">
+  The relief sought in plaintiff’s complaint and order to show cause is denied, as long as the debtor makes proper payments under her plan. Submit an order accordingly.
+ </p>
+</opinion>

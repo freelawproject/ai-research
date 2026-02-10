@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b294-7">
+  MEMORANDUM OPINION
+ </p>
+<author id="b294-8">
+  BENJAMIN E. FRANKLIN, Bankruptcy Judge.
+ </author>
+<p id="b294-9">
+  This matter came on for confirmation of the debtor’s amended plan at Kansas City, Kansas, on November 15,1982. The debtor, David Addison Landis, appeared by his attorney, Wayne L. Zeigler. The Federal Deposit Insurance Corporation (FDIC), which filed an objection to confirmation, appeared by its attorney, David L. Skidgel of McAna-ny, Van Cleave &amp; Phillips, P.A. Also appearing was Joseph H. McDowell, Standing Trustee.
+ </p>
+<p id="b294-10">
+  FDIC objected to confirmation on four grounds: section 1325(a)(4); that dismissals of the debtor’s two previous Chapter 13 cases are res judicata herein; § 1325(a)(3); and § 1325(a)(6).
+ </p>
+<p id="b294-11">
+  The Court took the matter under advisement and it is now ready for determination.
+ </p>
+<p id="b294-12">
+  FINDINGS OF FACT
+ </p>
+<p id="b294-13">
+  Based on the pleadings, file, statements of counsel, and taking judicial notice of the files in the debtor’s three prior bankruptcies, Case Nos. 79-20846
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  , 80-21285 and 81-20754, the Court finds as follows:
+ </p>
+<p id="b294-17">
+  1. That this Court has jurisdiction over the parties and the subject matter pursuant to Rule 42 of the United States District Court, District of Kansas; and that venue is proper.
+ </p>
+<p id="b294-18">
+  2. That the debtor’s plan, as amended, calls for monthly payments of $150.00 for sixty months with a 20% compromise of unsecured debts and a monthly budget surplus of $37.50.
+ </p>
+<p id="b294-19">
+  3. That the debtor and his wife filed a Chapter 7 petition in this Court on October 20, 1979, and were discharged on May 16, 1980. Less than seven months later, on December 5, 1980, he filed a Chapter 13 in this Court. Confirmation of his second amended plan therein was denied and the case was dismissed without prejudice on June 15, 1981, for unreasonable delay that was prejudicial to creditors (<span class="citation no-link">11 U.S.C. § 1307</span>(c)(1)). Two months later, on August 11.1981, he filed another Chapter 13 in this Court. Confirmation of his second amended plan therein was denied because the plan was unfeasible and there was a question of good faith. That case was dismissed on November 30, 1981, without prejudice. (<span class="citation no-link">11 U.S.C. § 1325</span>(a)(3) &amp; (6)). Five months later, the debtor filed the instant Chapter 13 in this district, at Topeka, Kansas, on April 29.1982. The Honorable James A. Pusateri took an objection to confirmation by FDIC under advisement and on August 10, 1982, he entered an Order transferring the case to this Court.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  This Court sustained FDIC’s objection and denied confirmation. The debtor then filed an amended plan. FDIC’s objection to the amended plan is the subject of this opinion.
+ </p>
+<p id="b294-22">
+  4. That on May 5, 1979, the debtor executed a $7,233.00 note to Mission State Bank, and granted it a purchase money security interest in a 1977 Cadillac. The debtor reaffirmed the debt in his Chapter 7 proceeding. In the 1980 Chapter 13, FDIC (as liquidator of the Bank) was to be paid the value of the car through the plan. This
+  <span citation-index="1" class="star-pagination" label="237"> 
+   *237
+   </span>
+  Court determined the value to be $5,525.00. In the 1981 plan, FDIC was to be paid the value which was then determined to be $5,000.00. FDIC received no payments through either proceeding. In the instant plan, the debtor proposes to surrender the ear to FDIC, which the parties agree is now worth only $3,000.00.
+ </p>
+<p id="b295-5">
+  5. That in the prior Chapter 13 cases, the debtor had a problem with the Internal Revenue Service. The IRS rejected all proposed plans in the 1980 and 1981 Chapter 13 cases because the debtor repeatedly refused to include the IRS’s full claim in the plans. In the instant plan, the debtor proposed to pay the IRS $5,123.87, while the IRS has filed proofs of claims for $6,261.50 and $259.22.
+ </p>
+<p id="b295-6">
+  6. That many of the same debts were scheduled in the 1980, 1981 and instant Chapter 13 schedules.
+ </p>
+<p id="b295-7">
+  7. That during the 1980 case, the debtor paid to the trustee $490.00, when he should have paid in $980.00. Likewise, during the 1981 case, he paid in $335.00, when he should have paid in $800.00. In the instant case, as of February, 1983, he had paid in $540.00 when he should have paid in $1,545.00.
+ </p>
+<p id="b295-8">
+  8. That a comparison of the schedules and statements in his four bankruptcies reveals a number of inconsistencies. In his 1980 family budget he stated that his monthly income was $760.00, later amended to $985.00, an unexplained rise in income. Yet in his 1981 schedules he stated that he grossed only $5,000.00 in 1980. In his 1981 budget he stated that he netted $1,400.00 per month in income, yet his instant schedules state that he grossed only $5,939.00 in 1981.
+ </p>
+<p id="b295-9">
+  9. That such a comparison of schedules and statements also reveals significant and inexplicable fluctuations in his monthly expenses. For example, his monthly food expense was $100.00 in 1980; $250.00 in 1981; and $125.00 in 1982. His transportation expense was $80.00 in 1980; $120.00 in 1981; and $80.00 in 1982. His rent was $400.00 in 1981 and $375.00 in 1982, although he lived at the same address.
+ </p>
+<p id="b295-10">
+  CONCLUSIONS OF LAW
+ </p>
+<p id="A8Z">
+  I.
+ </p>
+<p id="b295-11">
+  FDIC objects to confirmation under <span class="citation no-link">11 U.S.C. § 1325</span>(a)(4) which states:
+ </p>
+<blockquote id="b295-12">
+  “§ 1325. Confirmation of plan.
+ </blockquote>
+<blockquote id="b295-13">
+<em>
+   (a) The court shall confirm a plan if—
+  </em>
+</blockquote>
+<blockquote id="AA0">
+  * * * * * *
+ </blockquote>
+<blockquote id="b295-14">
+<em>
+   (4) the value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under chapter 7 of this title on such date;
+  </em>
+  ”
+ </blockquote>
+<p id="b295-15">
+  FDIC contends that unsecured creditors would necessarily receive more than twenty percent ,(20%) in a Chapter 7 because, pursuant to § 727(a)(8), Landis would be ineligible for a discharge for six years after May 16, 1980, the date of his prior discharge. FDIC also contends that it would necessarily receive more than twenty percent in a Chapter 7 because its claim would be nondischargeable pursuant to § 523(a)(9), since Landis had reaffirmed, and thus arguably waived discharge of his debt to FDIC in his prior Chapter 7.
+ </p>
+<p id="b295-16">
+  This Court has heretofore rejected such rationale. In
+  <em>
+   In re Bixby,
+  </em>
+  <span class="citation" data-id="1864940"><a href="/opinion/1864940/gfc-corp-of-missouri-v-bixby-in-re-bixby/" aria-description="Citation for case: GFC Corp. of Missouri v. Bixby (In Re Bixby)">10 B.R. 456</a></span>, 4 C.B.C.2d 485, CCH ¶ 68,025 (Bkrtcy.D.Kan.1981) this Court found that the debtors satisfied the § 1325(a)(4) test although they had received a Chapter 7 discharge within six years before their Chapter 13. There the debtors proposed a 20% compromise and had no exempt assets. This Court reasoned that § 1325(a)(4) called for a liquidation analysis even if the debtor would be ineligible for a Chapter 7 discharge, because a barred discharge under § 727(a)(8) gives a creditor the continued right to pursue collection of the debt, but does not give the creditor any ascertainable “value” within the meaning of § 1325(a)(4). See
+  <em>
+   In re Hurd,
+  </em>
+  <span class="citation" data-id="1538572"><a href="/opinion/1538572/in-re-hurd/" aria-description="Citation for case: In Re Hurd">4 B.R. 551</a></span>, <span class="citation" data-id="1538572"><a href="/opinion/1538572/in-re-hurd/" aria-description="Citation for case: In Re Hurd">6 B.C.D. 412</a></span>, 2 C.B.C.2d 190 (Bkrtcy.W.D.Mich.1980). But see
+  <em>
+   In re Chaffin,
+  </em>
+  <span class="citation" data-id="1538694"><a href="/opinion/1538694/in-re-chaffin/" aria-description="Citation for case: In Re Chaffin">4 B.R. 324</a></span>, <span class="citation" data-id="1538694"><a href="/opinion/1538694/in-re-chaffin/" aria-description="Citation for case: In Re Chaffin">6 B.C.D. 426</a></span>, 2 C.B.C.2d
+  <span citation-index="1" class="star-pagination" label="238"> 
+   *238
+   </span>
+  229 (Bkrtcy.D.Kan.1980) (Hon. James A. Pusateri).
+ </p>
+<p id="b296-4">
+  This Court has also rejected the notion that the unliquidated value of nondis-chargeable debts should be included in the “amount that would be paid” in a Chapter 7 liquidation. As a practical matter, courts cannot evaluate nondischargeable debts, because nondischargeability does not insure 100 percent payment.
+  <em>
+   In re Syrus,
+  </em>
+  <span class="citation" data-id="1901942"><a href="/opinion/1901942/in-re-syrus/" aria-description="Citation for case: In Re Syrus">12 B.R. 605</a></span>, 4 C.B.C.2d 1172, CCH ¶ 68,310 (Bkrtcy.D.Kan.1981). And see
+  <em>
+   In re Walsey,
+  </em>
+  <span class="citation" data-id="1991872"><a href="/opinion/1991872/fidelity-national-bank-v-walsey-in-re-walsey/" aria-description="Citation for case: Fidelity National Bank v. Walsey (In Re Walsey)">7 B.R. 779</a></span>, <span class="citation" data-id="1991872"><a href="/opinion/1991872/fidelity-national-bank-v-walsey-in-re-walsey/" aria-description="Citation for case: Fidelity National Bank v. Walsey (In Re Walsey)">6 B.C.D. 1410</a></span>, CCH ¶ 67,740 (Bkrtcy.N.D.Ga.1980). But see
+  <em>
+   In re McMinn,
+  </em>
+  <span class="citation" data-id="1538670"><a href="/opinion/1538670/in-re-mcminn/" aria-description="Citation for case: In Re McMinn">4 B.R. 150</a></span>, <span class="citation" data-id="1538670"><a href="/opinion/1538670/in-re-mcminn/" aria-description="Citation for case: In Re McMinn">6 B.C.D. 297</a></span>, 1 C.B.C.2d 1007 (Bkrtcy.D.Kan.1980) (Hon. James A. Pusateri).
+ </p>
+<p id="b296-5">
+  Here the debtor proposes a 20% compromise of unsecured debts. His schedules indicate that his only non-exempt asset is the 1977 Cadillac valued at $3,000.00. This $3,000.00 .would be offset by the liens against the car and the probable administrative expenses of a Chapter 7 liquidation, in arriving at the amount available for distribution to unsecured creditors. See
+  <em>
+   In re Keckler,
+  </em>
+  <span class="citation" data-id="1970746"><a href="/opinion/1970746/cleveland-trust-co-v-keckler-in-re-keckler/" aria-description="Citation for case: Cleveland Trust Co. v. Keckler (In Re Keckler)">3 B.R. 155</a></span>, <span class="citation" data-id="1970746"><a href="/opinion/1970746/cleveland-trust-co-v-keckler-in-re-keckler/" aria-description="Citation for case: Cleveland Trust Co. v. Keckler (In Re Keckler)">6 B.C.D. 14</a></span>, 1 C.B.C.2d 574, CCH ¶ 67,367 (Bkrtcy.N.D.Ohio 1980); 5 Collier on Bankruptcy (15th ed.) § 1325.-01(2)(D)(b)(iv). FDIC’s lien is greater than $3,000.00, so the unsecured creditors would receive nothing in a Chapter 7 liquidation. Accordingly, the Court finds that the debt- or’s proposed 20% compromise passes the § 1325(a)(4) test.
+ </p>
+<p id="b296-6">
+  II.
+ </p>
+<p id="b296-7">
+  FDIC also contends that its claim may not be scheduled herein because it was previously scheduled in the debtor’s Chapter 13 cases and the dismissals of those prior cases are res judicata herein, citing
+  <em>
+   In re Dunn,
+  </em>
+  <span class="citation" data-id="2249235"><a href="/opinion/2249235/in-re-dunn/" aria-description="Citation for case: In Re Dunn">251 F.Supp. 637</a></span> (M.D.Ga.1966). In
+  <em>
+   <span class="citation" data-id="2249235"><a href="/opinion/2249235/in-re-dunn/" aria-description="Citation for case: In Re Dunn">Dunn</a></span>,
+  </em>
+  the debtor’s prior Chapter XIII case was dismissed for failure to pay and three months later, the debtor filed another Chapter XIII.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  The court held that a debt- or is barred by res judicata from listing debts in a Chapter XIII that were listed in a previously dismissed proceeding in which a discharge was either denied or not obtained, and where the current schedules list only such previously listed debts, such proceeding should also be dismissed.
+ </p>
+<p id="b296-10">
+  This Court is unaware of any authority, under the Code, for the proposition that prior dismissals of Chapter 13 proceedings are res judicata in effect. At least one commentator thinks that
+  <em>
+   <span class="citation" data-id="2249235"><a href="/opinion/2249235/in-re-dunn/" aria-description="Citation for case: In Re Dunn">Dunn, supra,</a></span>
+  </em>
+  is no longer viable. See Cowans Bankruptcy Law and Practice (1983 Interim ed.) § 5.65 at 340. Moreover, even if
+  <em>
+   <span class="citation" data-id="2249235"><a href="/opinion/2249235/in-re-dunn/" aria-description="Citation for case: In Re Dunn">Dunn</a></span>
+  </em>
+  is viable, it is distinguishable from the case at bar. In
+  <em>
+   <span class="citation" data-id="2249235"><a href="/opinion/2249235/in-re-dunn/" aria-description="Citation for case: In Re Dunn">Dunn, supra,</a></span>
+  </em>
+  the debtor apparently listed no new debts in his current Chapter XIII, whereas here, Landis listed several debts not included in his prior Chapter 13 cases.
+ </p>
+<p id="b296-11">
+  Therefore, this Court finds that prior dismissals are not res judicata, and alone, are not sufficient cause for dismissal of the present Chapter 13. See
+  <em>
+   In re Conway,
+  </em>
+  <span class="citation" data-id="1535029"><a href="/opinion/1535029/latimer-buck-mortgage-co-v-conway-in-re-conway/#252" aria-description="Citation for case: Latimer &amp; Buck Mortgage Co. v. Conway (In Re Conway)">5 B.R. 251, 252</a></span>; <span class="citation" data-id="1535029"><a href="/opinion/1535029/latimer-buck-mortgage-co-v-conway-in-re-conway/" aria-description="Citation for case: Latimer &amp; Buck Mortgage Co. v. Conway (In Re Conway)">6 B.C.D. 664</a></span>, 2 C.B. C.2d 971, CCH ¶ 67,533 (Bkrtcy.E.D.Pa.1980). However, the debtor’s history of filings and dismissals is pertinent in analyzing whether the plan is proposed in good faith. See
+  <em>
+   In re Hurd,
+  </em>
+  <span class="citation" data-id="1538572"><a href="/opinion/1538572/in-re-hurd/" aria-description="Citation for case: In Re Hurd">4 B.R. 551</a></span>, <span class="citation" data-id="1538572"><a href="/opinion/1538572/in-re-hurd/" aria-description="Citation for case: In Re Hurd">6 B.C.D. 412</a></span>, 2 C.B.C.2d 190 (Bkrtcy.W.D.Mich.1980);
+  <em>
+   In re Ratmansky,
+  </em>
+  <span class="citation" data-id="1991382"><a href="/opinion/1991382/in-re-ratmansky/" aria-description="Citation for case: In Re Ratmansky">7 B.R. 829</a></span>, <span class="citation no-link">6 B.C.D. 1329</span>, CCH ¶ 67,882 (Bkrtcy.E.D.Pa.1980);
+  <em>
+   In re Burns,
+  </em>
+  <span class="citation" data-id="1538123"><a href="/opinion/1538123/in-re-burns/" aria-description="Citation for case: In Re Burns">6 B.R. 286</a></span>, <span class="citation" data-id="1538123"><a href="/opinion/1538123/in-re-burns/" aria-description="Citation for case: In Re Burns">6 B.C.D. 980</a></span> (Bkrtcy.D.Colo. 1980).
+ </p>
+<p id="b296-12">
+  III.
+ </p>
+<p id="b296-13">
+  FDIC objects to confirmation under § 1325(a)(3), that the plan was not proposed in good faith, as evidenced by the debtor’s history of three successive Chapter 13 cases within two years.
+ </p>
+<p id="b296-14">
+  Neither the Code nor the legislative history defines “good faith”. Many bankruptcy courts define it as substantial or meaningful payment. See, e.g.
+  <em>
+   In re Iacovoni,
+  </em>
+  <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, <span class="citation no-link">5 B.C.D. 1270</span>, 1 C.B.C.2d 331, CCH ¶ 67,335 (Bkrtcy.D.Utah 1980). This Court prefers to consider a number of factors as it did in
+  <em>
+   In re Syrus,
+  </em>
+  <span class="citation" data-id="1901942"><a href="/opinion/1901942/in-re-syrus/" aria-description="Citation for case: In Re Syrus">12 B.R. 605</a></span>, 4
+  <span citation-index="1" class="star-pagination" label="239"> 
+   *239
+   </span>
+  C.B.C.2d 1172, CCH ¶ 68,310 (Bkrtcy.D.Kan.1981).
+ </p>
+<p id="b297-5">
+  In fact, the Courts of Appeals examine all the circumstances to determine
+  <em>
+   “whether or not there has been an abuse of the provisions, purpose or spirit of Chapter 13.” In re Terry,
+  </em>
+  <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">630 F.2d 634</a></span> (8th Cir.1980);
+  <em>
+   In re Rimgale,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/F.2d/669/426/">669 F.2d 426</a></span> (7th Cir.1982);
+  <em>
+   In re Goeb,
+  </em>
+  <span class="citation" data-id="402517"><a href="/opinion/402517/in-re-julian-roosevelt-goeb-and-jane-alma-goeb-debtors-in-re-julian/" aria-description="Citation for case: In Re Julian Roosevelt Goeb and Jane Alma Goeb, Debtors....">675 F.2d 1386</a></span> (9th Cir.1982). Also see Cyr,
+  <em>
+   “The Chapter 13 ‘Good Faith’ Tempest: Analysis and Proposals for Change”,
+  </em>
+  55 Am.Bkr.L.J. (summer 1981) 271, 273-275.
+ </p>
+<p id="b297-6">
+  One pertinent circumstance is the debt- or’s history of bankruptcies. As aptly stated in
+  <em>
+   In re Ratmansky,
+  </em>
+  <span class="citation" data-id="1991382"><a href="/opinion/1991382/in-re-ratmansky/#834" aria-description="Citation for case: In Re Ratmansky">7 B.R. 829, 834-835</a></span>, <span class="citation no-link">6 B.C.D. 1329</span>, CCH ¶ 67,882 (Bkrtcy.E.D.Pa.1980):
+ </p>
+<blockquote id="b297-7">
+<em>
+   “Although a debtor who has filed and obtained the dismissal of previous wage earner or rehabilitation petitions may not be precluded from filing a new petition, his performance under the previous petition may be examined as an indication of how he will perform under the new case. Thus, evidence that the debtor had made misrepresentations on his prior statement and had failed to make the required payments without any suggested justification might tend to prove a lack of good faith in the debtor’s filing of the new statement and plan.”
+  </em>
+</blockquote>
+<p id="b297-8">
+  Here, the debtor’s past performance has been poor. Both of his prior Chapter 13 plans were in default for nonpayment at the time of dismissal. The present plan is likewise in default. Furthermore, a comparison of his statements and schedules reveals inconsistencies in reported income and expenses, leading this Court to conclude that he has misrepresented or manipulated his income and expenses to make each plan appear feasible.
+ </p>
+<p id="b297-9">
+  The effect of these successive filings on two creditors in particular, vividly illustrates the lack of good faith herein. In his prior Chapter 13 cases, the IRS continually rejected or objected because the plans did not provide full payment of its claim. The present plan fails to provide for full payment of the IRS claims as well.
+ </p>
+<p id="b297-10">
+  FDIC has been particularly impaired. Since the debtor’s Chapter 7 filing on October 20, 1979, FDIC has been stayed from collecting its debt for over three years, with the exception of a total of 14 months between the Chapter 13 filings. Meanwhile, the value of FDIC’s security has depreciated to $3,000.00, and it has received few, if any, payments. As stated in
+  <em>
+   In re Garrison,
+  </em>
+  <span class="citation" data-id="1957229"><a href="/opinion/1957229/in-re-garrison/#681" aria-description="Citation for case: In Re Garrison">19 B.R. 679, 681</a></span>, 6 C.B.C.2d 498 (Bkrtcy.D.Kan.1981) (Hon. James A. Pusateri):
+ </p>
+<blockquote id="b297-11">
+  “...
+  <em>
+   It would not preserve the integrity of the Bankruptcy Code to allow a Chapter 13 debtor to use any goods until worn out and then dismiss the case, file a new Chapter 13 petition and revalue the goods downward to avoid almost entirely the payment for the value of the goods as fixed in the first Chapter 13 case.”
+  </em>
+</blockquote>
+<p id="b297-12">
+  The fact that the debtor has filed three (3) Chapter 13 cases within two years of his Chapter 7 discharge, augments the finding of a lack of good faith. Although the six year bar of successive Chapter 7 discharges in § 727(a)(8) is not applicable to Chapter 13, the Supreme Court cast a shadow on such practices in dicta in
+  <em>
+   Perry v. Commerce Loan Co.,
+  </em>
+  <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/" aria-description="Citation for case: Perry v. Commerce Loan Co.">383 U.S. 392</a></span>, <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/" aria-description="Citation for case: Perry v. Commerce Loan Co.">86 S.Ct. 852</a></span>, <span class="citation" data-id="9423169"><a href="/opinion/107185/perry-v-commerce-loan-co/" aria-description="Citation for case: Perry v. Commerce Loan Co.">15 L.Ed.2d 827</a></span>, (1966)
+  <em>
+   reh. den.,
+  </em>
+  <span class="citation multiple-matches"><a href="/c/U.S./384/934/">384 U.S. 934</a></span>, <span class="citation" data-id="8955592"><a href="/opinion/8964316/first-national-bank-of-logan-v-walker-bank-trust-co/" aria-description="Citation for case: First National Bank of Logan v. Walker Bank &amp; Trust Co.">86 S.Ct. 1441</a></span>, <span class="citation no-link">16 L.Ed.2d 535</span>. There the Court stated at page 403, 86 S.Ct. at 858:
+ </p>
+<blockquote id="b297-13">
+  “...
+  <em>
+   Nor does our construction imply an immunity from the six-year bar to those seeking confirmation of wage-earner compositions. A composition under Chapter XIII, unlike an extension, is closely akin to straight bankruptcy and to proceedings under Chapter XI and XII, for under such a plan the debtor is discharged from his debts and claims of the creditors are only partially paid
+  </em>
+  (citations omitted).
+  <em>
+   It is both logical and consistent with the underlying purposes of § 14(c)(5) that confirmation of wage-earner compositions be barred by prior bankruptcy, since repeated use of such plans would, in effect, provide an opportunity for abuse of the Act.”
+  </em>
+</blockquote>
+<p id="b297-14">
+  Of course, Congress did not act on this dicta in writing the new Code, because
+  <span citation-index="1" class="star-pagination" label="240"> 
+   *240
+   </span>
+  § 727(a)(8) does not apply to Chapter 13. Yet, the potential abusiveness of Chapter 13 compositions within six years of a Chapter 7 discharge still exists. In fact, this case is a perfect example of such abusiveness. Accordingly, this Court finds that the plan is not proposed in good faith and that confirmation should therefore be denied. Although FDIC also objected on grounds of unfeasibility, this Court’s denial of confirmation under § 1325(a)(3) renders an analysis of feasibility unnecessary.
+ </p>
+<p id="b298-4">
+  This Court further finds that this case should be dismissed under § 1307(c)(1) and (4) for unreasonable delay and for denial of confirmation and denial of additional time to file an amended plan. The Court further finds that this dismissal should be with prejudice, as is within this Court’s discretion under § 349(a) of Title 11.
+ </p>
+<p id="b298-5">
+  THIS MEMORANDUM SHALL CONSTITUTE MY FINDINGS OF FACT AND CONCLUSIONS OF LAW UNDER BANKRUPTCY RULE 752 AND RULE 52 OF THE FEDERAL RULES OF CIVIL PROCEDURE.
+ </p>
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b294-14">
+   . Joint Petition of David Addison Landis and Beverly Ann Landis.
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b294-16">
+   . Judge Pusateri’s order stated that he transferred the case to avoid reconsidering a matter twice before this Court, and because his views on the application of § 1325(a)(4) differed from the views of this Court.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b296-8">
+   . That debtor had also had a similar wage earning proceeding filed 4 years earlier which too had been dismissed for failure to carry out the provisions of the plan.
+  </p>
+</div></div></opinion>

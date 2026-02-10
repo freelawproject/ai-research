@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<author id="b201-7">
+  Justice Marshall
+ </author>
+<p id="AqM">
+  delivered the opinion of the Court.
+ </p>
+<p id="b201-8">
+  The issue presented is whether the Fifth Amendment’s grand jury guarantee
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+  is violated when a defendant is tried under an indictment that alleges a certain fraudulent scheme but is convicted based on trial proof that supports only a significantly narrower and more limited, though included, fraudulent scheme.
+ </p>
+<p id="b201-9">
+  A grand jury in the Northern District of California returned an indictment charging respondent Miller with three counts of mail fraud in violation of <span class="citation no-link">18 U. S. C. § 1341</span>. After the Government moved to dismiss the third count, Miller was tried before a jury and convicted of the remaining two. He appealed asserting that there had been a fatal variance between the “scheme and artifice” to defraud charged in the indictment and that which the Government proved at trial. The Court of Appeals for the Ninth Circuit agreed and vacated the judgment of conviction. <span class="citation" data-id="423986"><a href="/opinion/423986/united-states-v-james-rual-miller/" aria-description="Citation for case: United States v. James Rual Miller">715 F. 2d 1360</a></span> (1983), modified, <span class="citation" data-id="431942"><a href="/opinion/431942/united-states-v-james-rual-miller/" aria-description="Citation for case: United States v. James Rual Miller">728 F. 2d 1269</a></span> (1984). We granted certiorari, <span class="citation multiple-matches"><a href="/c/U.%20S./469/814/">469 U. S. 814</a></span> (1984), and reverse.
+ </p>
+<p id="b201-10">
+  I
+ </p>
+<p id="b201-11">
+  A
+ </p>
+<p id="b201-12">
+  The indictment had charged Miller with various fraudulent acts in connection with a burglary at his place of business.
+  <span citation-index="1" class="star-pagination" label="132"> 
+   *132
+   </span>
+  Miller allegedly had defrauded his insurer both by consenting to the burglary in advance and by lying to the insurer about the value of his loss.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+  The trial proof, however, concerned only the latter allegation, focusing on whether, prior to the burglary, Miller actually had possessed all the property that he later claimed was taken. This proof was clearly sufficient
+  <span citation-index="1" class="star-pagination" label="133"> 
+   *133
+   </span>
+  to support a jury finding that Miller’s claim to his insurer had grossly inflated the value of any actual loss.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+</p>
+<p id="b203-5">
+  The Government moved to strike the part of the indictment that alleged prior knowledge of the burglary, and it correctly argued that even without that allegation the indictment still made out a violation of §1341.
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  Respondent’s counsel opposed the change, and at his urging the entire indictment was sent to the jury. The jury found Miller
+  <span citation-index="1" class="star-pagination" label="134"> 
+   *134
+   </span>
+  guilty, and respondent appealed on the basis that the trial proof had fatally varied from the scheme alleged in the indictment.
+ </p>
+<p id="b204-5">
+  Agreeing that Miller’s Fifth Amendment right to be tried only on a grand jury indictment had been violated, the Court of Appeals vacated the conviction. It succinctly stated its rationale:
+ </p>
+<blockquote id="b204-6">
+  “The grand jury may well have declined to indict Miller simply on the basis of his exaggeration of the amount of his claimed loss. ... In fact it is quite possible that the grand jury would have been unwilling or unable to return an indictment based solely on Miller’s exaggeration of the amount of his claimed loss even though it had concluded that an indictment could be returned based on the overall scheme involving a use of the mail caused by Miller’s knowing consent to the burglary.” <span class="citation" data-id="423986"><a href="/opinion/423986/united-states-v-james-rual-miller/#1362" aria-description="Citation for case: United States v. James Rual Miller">715 F. 2d, at 1362-1363</a></span>.
+ </blockquote>
+<p id="b204-7">
+  B
+ </p>
+<p id="b204-8">
+  Miller’s indictment properly alleged violations of <span class="citation no-link">18 U. S. C. § 1341</span>, and it fully and clearly set forth a number of ways in which the acts alleged constituted violations. The facts proved at trial clearly conformed to one of the theories of the offense contained within that indictment, for the indictment gave Miller clear notice that he would have to defend against an allegation that he “‘well knew that the amount of copper claimed to have been taken during the alleged burglary was grossly inflated for the purpose of fraudulently obtaining $150,000 from Aetna Insurance Company.’” <span class="citation" data-id="423986"><a href="/opinion/423986/united-states-v-james-rual-miller/" aria-description="Citation for case: United States v. James Rual Miller">715 F. 2d, at 1361</a></span>-1362 (quoting indictment). Competent defense counsel certainly should have been on notice that that offense was charged and would need to be defended against. Accordingly, there can be no showing here that Miller was prejudicially surprised at trial by the absence of proof concerning his alleged complicity in the burglary;
+  <span citation-index="1" class="star-pagination" label="135"> 
+   *135
+   </span>
+  nor can there be a showing that the variance prejudiced the fairness of respondent’s trial in any other way. Cf.
+  <em>
+   Kotteakos
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="104321"><a href="/opinion/104321/kotteakos-v-united-states/" aria-description="Citation for case: Kotteakos v. United States">328 U. S. 750</a></span> (1946). See also
+  <em>
+   Berger
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="102436"><a href="/opinion/102436/berger-v-united-states/#83" aria-description="Citation for case: Berger v. United States">295 U. S. 78, 83</a></span> (1935). Cf. also
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Ballard,
+  </em>
+  <span class="citation" data-id="103976"><a href="/opinion/103976/united-states-v-ballard/#91" aria-description="Citation for case: United States v. Ballard">322 U. S. 78, 91</a></span> (1944) (Stone, C. J., dissenting). The indictment was also sufficient to allow Miller to plead it in the future as a bar to subsequent prosecutions. Therefore, none of these “notice” related concerns— which of course are among the important concerns underlying the requirement that criminal charges be set out in an indictment — would support the result of the Court of Appeals. See
+  <em>
+   Russell
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="106407"><a href="/opinion/106407/russell-v-united-states/#763" aria-description="Citation for case: Russell v. United States">369 U. S. 749, 763-764</a></span> (1962).
+ </p>
+<p id="b205-6">
+  The Court of Appeals did not disagree, but instead argued that Miller had been prejudiced in his right to be free from a trial for any offense other than that alleged in the grand jury’s indictment. <span class="citation" data-id="431942"><a href="/opinion/431942/united-states-v-james-rual-miller/#1270" aria-description="Citation for case: United States v. James Rual Miller">728 F. 2d, at 1270</a></span>. It reasoned that a grand jury’s willingness to indict an individual for participation in a broad criminal plan does not establish that the same grand jury would have indicted the individual for participating in a substantially narrower, even if wholly included, criminal plan. <span class="citation" data-id="423986"><a href="/opinion/423986/united-states-v-james-rual-miller/#1362" aria-description="Citation for case: United States v. James Rual Miller">715 F. 2d, at 1362-1363</a></span>. Relying on the Fifth Amendment’s grand jury guarantee, the Court of Appeals concluded that a conviction could not stand where the trial proof corresponded to a fraudulent scheme much narrower than, though included within, the scheme that the grand jury had alleged. The Court of Appeals cited two prior decisions of this Court that emphasized the right of an accused to be tried only on charges that had in fact been passed on by a grand jury;
+  <em>
+   Ibid,
+  </em>
+  (citing
+  <em>
+   Stirone
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">361 U. S. 212</a></span> (1960), and
+  <em>
+   Ex parte Bain,
+  </em>
+  <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">121 U. S. 1</a></span> (1887)). Cf.
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Mastelotto,
+  </em>
+  <span class="citation" data-id="424956"><a href="/opinion/424956/united-states-v-jerry-r-mastelotto-and-willis-b-inglesby/#1248" aria-description="Citation for case: United States v. Jerry R. Mastelotto, and Willis B. Inglesby">717 F. 2d 1238, 1248-1250</a></span> (CA91983) (similarly relying on
+  <em>
+   <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">Stirone</a></span>
+  </em>
+  and
+  <em>
+   Bain).
+  </em>
+</p>
+<p id="b205-3">
+  II
+ </p>
+<p id="Aod">
+  The Government correctly argues that the Court of Appeals’ result conflicts with a number of this Court’s prior
+  <span citation-index="1" class="star-pagination" label="136"> 
+   *136
+   </span>
+  decisions interpreting the Fifth Amendment’s Grand Jury Clause.. The Court has long recognized that an indictment may charge numerous offenses or the commission of any one offense in several ways. As long as the crime and the elements of the offense that sustain the conviction are fully and clearly set out in the indictment, the right to a grand jury is not normally violated by the fact that the indictment alleges more crimes or other means of committing the same crime. See, e.
+  <em>
+   g., Ford
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="101041"><a href="/opinion/101041/ford-v-united-states/" aria-description="Citation for case: Ford v. United States">273 U. S. 593</a></span> (1927);
+  <em>
+   Salinger
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="100951"><a href="/opinion/100951/salinger-v-united-states/" aria-description="Citation for case: Salinger v. United States">272 U. S. 542</a></span> (1926). See also
+  <em>
+   <span class="citation" data-id="102436"><a href="/opinion/102436/berger-v-united-states/" aria-description="Citation for case: Berger v. United States">Berger</a></span>
+  </em>
+  v.
+  <em>
+   United States, supra; Hall
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="94789"><a href="/opinion/94789/hall-v-united-states/#638" aria-description="Citation for case: Hall v. United States">168 U. S. 632, 638-640</a></span> (1898). Indeed, a number of longstanding doctrines of criminal procedure are premised on the notion that each offense whose elements are fully set out in an indictment can independently sustain a conviction. See,
+  <em>
+   e. g., Turner
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="108033"><a href="/opinion/108033/turner-v-united-states/#420" aria-description="Citation for case: Turner v. United States">396 U. S. 398, 420</a></span> (1970) (“[W]hen a jury returns a guilty verdict on an indictment charging several acts in the conjunctive, . . . the verdict stands if the evidence is sufficient with respect to any one of the acts charged”);
+  <em>
+   Crain
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="94455"><a href="/opinion/94455/crain-v-united-states/#634" aria-description="Citation for case: Crain v. United States">162 U. S. 625, 634-636</a></span> (1896) (indictment count that alleges in the conjunctive a number of means of committing a crime can support a conviction if any of the alleged means are proved);
+  <em>
+   Dealy
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="93858"><a href="/opinion/93858/dealy-v-united-states/#542" aria-description="Citation for case: Dealy v. United States">152 U. S. 539, 542</a></span> (1894) (prosecution’s failure to prosecute certain counts of an indictment does not affect the validity of the indictment as to the other counts).
+ </p>
+<p id="b206-5">
+  A review of prior cases allowing convictions to stand in the face of variances between the indictment and proof makes the Court of Appeals’ error clear. Convictions generally have been sustained as long as the proof upon which they are based corresponds to an offense that was clearly set out in the indictment. A part of the indictment unnecessary to and independent of the allegations of the offense proved may normally be treated as “a useless averment” that “may be ignored.”
+  <em>
+   Ford
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="101041"><a href="/opinion/101041/ford-v-united-states/#602" aria-description="Citation for case: Ford v. United States">273 U. S., at 602</a></span>. In
+  <em>
+   Ford,
+  </em>
+  for example, an indictment charged a defendant with
+  <span citation-index="1" class="star-pagination" label="137"> 
+   *137
+   </span>
+  conspiring to import liquor in violation of various federal laws and in violation of a treaty. “The validity of the indictment [was] attacked . . . because it charge[d] that the conspiracy was to violate the treaty, although the treaty create[d] no offense against the law of the United States.”
+  <em>
+   <span class="citation" data-id="101041"><a href="/opinion/101041/ford-v-united-states/" aria-description="Citation for case: Ford v. United States">Ibid.</a></span>
+  </em>
+  Although the grand jury had included the treaty allegation as part of the indictment, this Court upheld the conviction because “that part of the indictment [was] merely surplusage and may be rejected.”
+  <em>
+   <span class="citation" data-id="101041"><a href="/opinion/101041/ford-v-united-states/" aria-description="Citation for case: Ford v. United States">Ibid.</a></span>
+  </em>
+</p>
+<p id="b207-4">
+  This treatment of allegations independent of and unnecessary to the offense on which a conviction ultimately rests has not been confined to allegations that, like those in
+  <em>
+   Ford,
+  </em>
+  would have had no legal relevance if proved. In
+  <em>
+   <span class="citation" data-id="100951"><a href="/opinion/100951/salinger-v-united-states/" aria-description="Citation for case: Salinger v. United States">Salinger</a></span>
+  </em>
+  v.
+  <em>
+   United States, supra,
+  </em>
+  for example, the Court was presented with facts quite similar to the instant case. A grand jury charged Salinger with mail fraud in an indictment containing several counts, “[a]ll relating] to the same scheme to defraud, but each charging] a distinct use of the mail for the purpose of executing the scheme.”
+  <em>
+   Id.,
+  </em>
+  at 546. As was the case with Miller, Salinger’s “scheme to defraud as set forth in the indictment. . . comprehended several relatively distinct plans for fleecing intended victims.”
+  <em>
+   Id.,
+  </em>
+  at 548. Because the evidence only sustained the charge as to one of the plans, the trial judge withdrew from the jury those portions of the indictment that related to all other plans. Salinger argued then, just as Miller argues now, that the variance between the broad allegations in the indictment and the narrower proof at trial violated his right to have had a grand jury screen any alleged offenses upon which he might be convicted at trial.
+ </p>
+<p id="b207-5">
+  This Court unanimously rejected Salinger’s argument on the ground that the offense proved was fully contained within the indictment. Nothing had been added to the indictment which, in the Court’s view, “remained just as it was returned by the grand jury.”
+  <em>
+   Ibid.
+  </em>
+  “[T]he trial was on the charge preferred in it and not on a modified charge,”
+  <em>
+   ibid.,
+  </em>
+  and there
+  <span citation-index="1" class="star-pagination" label="138"> 
+   *138
+   </span>
+  was thus “not even remotely an infraction of the constitutional provision that ‘no person shall be held to answer for a capital or otherwise infamous crime unless on a presentment or indictment of a grand jury.’”
+  <em>
+   Id.,
+  </em>
+  at 549. See also
+  <em>
+   Berger
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="102436"><a href="/opinion/102436/berger-v-united-states/" aria-description="Citation for case: Berger v. United States">295 U. S. 78</a></span> (1935);
+  <em>
+   Goto
+  </em>
+  v.
+  <em>
+   Lane,
+  </em>
+  <span class="citation" data-id="100455"><a href="/opinion/100455/goto-v-lane/" aria-description="Citation for case: Goto v. Lane">265 U. S. 393</a></span> (1924);
+  <em>
+   <span class="citation" data-id="94789"><a href="/opinion/94789/hall-v-united-states/" aria-description="Citation for case: Hall v. United States">Hall</a></span>
+  </em>
+  v.
+  <em>
+   United States, supra,
+  </em>
+  at 638-640.
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+</p>
+<p id="b208-8">
+  The result reached by the Court of Appeals thus conflicts with the results reached by this Court in such cases as
+  <em>
+   <span class="citation" data-id="100951"><a href="/opinion/100951/salinger-v-united-states/" aria-description="Citation for case: Salinger v. United States">Salinger</a></span>
+  </em>
+  and
+  <em>
+   Ford.
+  </em>
+  See also
+  <em>
+   <span class="citation" data-id="94789"><a href="/opinion/94789/hall-v-united-states/" aria-description="Citation for case: Hall v. United States">Hall</a></span>
+  </em>
+  v.
+  <em>
+   United States, supra,
+  </em>
+  at 638-640;
+  <em>
+   <span class="citation" data-id="94455"><a href="/opinion/94455/crain-v-united-states/" aria-description="Citation for case: Crain v. United States">Crain</a></span>
+  </em>
+  v.
+  <em>
+   United States, supra,
+  </em>
+  at 634-636.
+ </p>
+<p id="b208-9">
+  I — I HH HH
+ </p>
+<p id="b208-3">
+  The Court of Appeals principally relied on this Court s decision in
+  <em>
+   Stirone
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">361 U. S. 212</a></span> (1960), to support its conclusion that the Fifth Amendment’s grand jury right is violated by a conviction for a criminal plan narrower than, but fully included within, the plan set forth in the indictment.
+  <em>
+   <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">Stirone</a></span>,
+  </em>
+  however, stands for a very different proposition. In
+  <em>
+   <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">Stirone</a></span>
+  </em>
+  the offense proved at trial was
+  <em>
+   not
+  </em>
+  fully contained in the indictment, for trial evidence had “amended” the indictment by
+  <em>
+   broadening
+  </em>
+  the possible bases for conviction from that which appeared in the indictment.
+  <em>
+   <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">Stirone</a></span>
+  </em>
+  was thus wholly unlike the cases discussed in Part II,
+  <em>
+   supra,
+  </em>
+  and unlike respondent’s case, all of which involve trial evidence that narrowed the indictment’s charges without adding any new offenses. As the
+  <em>
+   <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">Stirone</a></span>
+  </em>
+  Court said, the issue was “whether [Stirone] was convicted of an offense
+  <em>
+   not
+  </em>
+<span citation-index="1" class="star-pagination" label="139"> 
+   *139
+   </span>
+<em>
+   charged in the indictment.”
+  </em>
+  <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/#213" aria-description="Citation for case: Stirone v. United States">361 U. S., at 213</a></span> (emphasis added).
+ </p>
+<p id="b209-5">
+  Stirone, a union official, was indicted for and convicted of unlawfully interfering with interstate commerce in violation of the Hobbs Act. <span class="citation no-link">18 U. S. C. § 1951</span>. More specifically, the indictment charged that he had engaged in extortion that obstructed shipments of sand from outside Pennsylvania into that State, where it was to be used in the construction of a steel mill. At trial, however, the prosecution’s proof of the required interference with interstate commerce went beyond the allegation of obstructed sand shipments. The prosecutor also attempted to prove that Stirone had obstructed the steel mill’s eventual export of steel to surrounding States. Because the conviction might have been based on the evidence of obstructed steel exports, an element of an offense not alleged in the indictment, a unanimous Court held that the indictment had been unconstitutionally “broadened.”
+ </p>
+<blockquote id="b209-6">
+  “The right to have the grand jury make the charge on its own judgment is a substantial right which cannot be taken away with or without court amendment. Here, ... we cannot know whether the grand jury would have included in its indictment a charge that commerce in steel from a nonexistent steel mill had been interfered with. Yet because of the court’s admission of evidence and under its charge this might have been the basis upon which the trial jury convicted petitioner. If so, he was convicted on a charge the grand jury never made against him. This was fatal error.” <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/#218" aria-description="Citation for case: Stirone v. United States">361 U. S., at 218-219</a></span>.
+ </blockquote>
+<p id="b209-7">
+  The Court contrasted Stirone’s case with cases like
+  <em>
+   Ford
+  </em>
+  v.
+  <em>
+   United States.
+  </em>
+  See <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/#217" aria-description="Citation for case: Stirone v. United States">361 U. S., at 217</a></span>. As we discussed in Part II,
+  <em>
+   supra,
+  </em>
+  in
+  <em>
+   Ford
+  </em>
+  the Court had refused to invalidate a conviction because of variances between the indictment and the narrower trial proof. The
+  <em>
+   <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">Stirone</a></span>
+  </em>
+  Court declared that, unlike that sort of variance, “the addition charging interference with steel exports [in
+  <em>
+   <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">Stirone</a></span>
+  </em>
+  was] neither trivial,
+  <span citation-index="1" class="star-pagination" label="140"> 
+   *140
+   </span>
+  useless, nor innocuous. While there was a variance in the sense of a variation between pleading and proof, that variation [had in Stirone] destroyed the defendant’s substantial right to be tried only on charges presented in an indictment returned by a grand jury. Deprivation of such a basic right is far too serious to be treated as nothing more than a variance and then dismissed as harmless error.” <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/#217" aria-description="Citation for case: Stirone v. United States">361 U. S., at 217</a></span> (citations omitted). Accord,
+  <em>
+   <span class="citation" data-id="106407"><a href="/opinion/106407/russell-v-united-states/" aria-description="Citation for case: Russell v. United States">Russell</a></span>
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="106407"><a href="/opinion/106407/russell-v-united-states/#770" aria-description="Citation for case: Russell v. United States">369 U. S., at 770-771</a></span> (following
+  <em>
+   Stirone).
+  </em>
+</p>
+<p id="b210-4">
+  Miller has shown no deprivation of his “substantial right to be tried only on charges presented in an indictment returned by a grand jury.” <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/#217" aria-description="Citation for case: Stirone v. United States">361 U. S., at 217</a></span>. In contrast to Stirone, Miller was tried on an indictment that clearly set out the offense for which he was ultimately convicted. His complaint is not that the indictment failed to charge the offense for which he was convicted, but that the indictment charged more than was necessary.
+ </p>
+<p id="b210-5">
+  IV
+ </p>
+<p id="b210-6">
+  The one decision of this Court that does offer some support to the Court of Appeals’ result is
+  <em>
+   Ex parte Bain,
+  </em>
+  <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">121 U. S. 1</a></span> (1887), for there the Court treated as an unconstitutional “amendment” the deletion from an indictment of allegations that would not have been necessary to prove the offense. This deletion, in the Court’s view, did constitute a compromise of the defendant’s right to be tried only on a grand jury’s indictment.
+ </p>
+<p id="b210-7">
+  Bain was a bank cashier who had been indicted for including false statements in a report required to be made to the Comptroller of the Currency. The indictment charged that when Bain filed these required reports, he “did then and there well know and believe the said report and statement to be false to the extent and in the mode and manner above set forth; and [he] made said false statement and report in manner and form as above set forth with intent to deceive
+  <em>
+   the Comptroller of the Currency and
+  </em>
+  the agent appointed to examine the affairs of said [banking] association . . . .”
+  <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/#4" aria-description="Citation for case: Ex Parte Bain"><em>
+   Id.,
+  </em>
+  at 4</a></span>. The relevant statute made it a criminal offense to file
+  <span citation-index="1" class="star-pagination" label="141"> 
+   *141
+   </span>
+  “ ‘any false entry in any book, report, or statement. . . with intent... to deceive . . . any agent appointed to examine the affairs of any such association ....”’
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Id.,</a></span>
+  </em>
+  at 3 (quoting Rev. Stat. §5209). Thus under the terms of the statute, there was no need to charge Bain with intending to deceive “the Comptroller of the Currency.” An intent to deceive the agent appointed to examine the reports was all that was necessary to prove the offense.
+ </p>
+<p id="b211-5">
+  Under later cases, such as
+  <em>
+   Ford
+  </em>
+  and
+  <em>
+   <span class="citation" data-id="100951"><a href="/opinion/100951/salinger-v-united-states/" aria-description="Citation for case: Salinger v. United States">Salinger</a></span>,
+  </em>
+  the presence of such surplusage in the indictment would not invalidate a conviction as long as the necessary intent was also alleged and proved. But in
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+  </em>
+  the trial court sustained Bain’s demurrer to the indictment. After sustaining the demurrer, however, the court granted a motion by the Government “that the indictment be amended by strildng out the words
+  <em>
+   ‘the Comptroller of the Currency and.’”
+  </em>
+  <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/#5" aria-description="Citation for case: Ex Parte Bain">121 U. S., at 5</a></span>. Bain was then required to plead to the amended indictment, and was tried and convicted under that indictment.
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Ibid.</a></span>
+  </em>
+  This Court granted a writ of habeas corpus on the ground that Bain’s Fifth Amendment right to stand trial only on an indictment returned by a grand jury had been violated. The opinion reasoned that a court could not, consistent with the Fifth Amendment, assume that the narrower indictment would have been returned by the grand jury that returned the broader one.
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+</p>
+<p id="b212-4">
+<span citation-index="1" class="star-pagination" label="142"> 
+   *142
+   </span>
+<em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+  </em>
+  may best be understood in terms of two distinct propositions. Most generally,
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+  </em>
+  stands for the proposition that a conviction cannot stand if based on an offense that is different from that alleged in the grand jury’s indictment. But more specifically,
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+  </em>
+  can support the proposition that the striking out of parts of an indictment invalidates the whole of the indictment, for a court cannot speculate as to whether the grand jury had meant for any remaining offense to stand independently, even if that remaining offense clearly was included in the original text. Under this latter proposition, the narrowing of an indictment is no different from the adding of a new allegation that had never been considered by the grand jury; both are treated as “amendments” that alter the nature of the offense charged. In evaluating the relevance of
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+  </em>
+  to the instant case, it is necessary to examine these two aspects of
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+  </em>
+  separately, for the Court has treated these two propositions quite differently in the years since
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>.
+  </em>
+</p>
+<p id="b212-5">
+  The proposition that a defendant cannot be convicted of an offense different from that which was included in the indictment was broadly declared in
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>:
+  </em>
+</p>
+<blockquote id="b212-6">
+  “If it lies within the province of a court to change the charging part of an indictment to suit its own notions of what it ought to have been, or what the grand jury would probably have made it if their attention had been called to suggested changes, the great importance which
+  <span citation-index="1" class="star-pagination" label="143"> 
+   *143
+   </span>
+  the common law attaches to an indictment by a grand jury, as a prerequisite to a prisoner’s trial for a crime, and without which the Constitution says ‘no person shall be held to answer,’ may be frittered away until its value is almost destroyed.”
+  <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/#10" aria-description="Citation for case: Ex Parte Bain"><em>
+   Id.,
+  </em>
+  at 10</a></span>.
+ </blockquote>
+<p id="b213-5">
+  This aspect of
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+  </em>
+  has been reaffirmed in a number of subsequent cases. See,
+  <em>
+   e. g., United States
+  </em>
+  v.
+  <em>
+   Norris,
+  </em>
+  <span class="citation" data-id="101596"><a href="/opinion/101596/united-states-v-norris/#622" aria-description="Citation for case: United States v. Norris">281 U. S. 619, 622</a></span> (1930) (citing
+  <em>
+   Bain
+  </em>
+  for the rule that “nothing can be added to an indictment without the concurrence of the grand jury by which the bill was found”). The most important reaffirmation, of course, was
+  <em>
+   <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">Stirone</a></span>.
+  </em>
+  See Part III,
+  <em>
+   supra.
+  </em>
+  In
+  <em>
+   <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/" aria-description="Citation for case: Stirone v. United States">Stirone</a></span>,
+  </em>
+  the Court’s unanimous opinion extensively relied on
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+  </em>
+  for the proposition that “a court cannot permit a defendant to be tried on charges that are not made in the indictment against him,” <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/#217" aria-description="Citation for case: Stirone v. United States">361 U. S., at 217</a></span>, and therefore that “after an indictment has been returned its charges may not be broadened through amendment except by the grand jury itself.”
+  <span class="citation" data-id="105978"><a href="/opinion/105978/stirone-v-united-states/#215" aria-description="Citation for case: Stirone v. United States"><em>
+   Id.,
+  </em>
+  at 215-216</a></span>. See also
+  <em>
+   <span class="citation" data-id="106407"><a href="/opinion/106407/russell-v-united-states/" aria-description="Citation for case: Russell v. United States">Russell</a></span>
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="106407"><a href="/opinion/106407/russell-v-united-states/" aria-description="Citation for case: Russell v. United States">369 U. S., at 770</a></span> (citing
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+  </em>
+  for the “settled rule in the federal courts that an indictment may not be amended except by resubmission to the grand jury, unless the change is merely a matter of form”).
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+</p>
+<p id="b214-4">
+<span citation-index="1" class="star-pagination" label="144"> 
+   *144
+   </span>
+  But this aspect of
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+  </em>
+  gives no support to Miller in this case, see Part III,
+  <em>
+   supra,
+  </em>
+  for the offense that formed the basis of Miller’s conviction was clearly and fully set out in the indictment. Miller must instead rest on the second, and more specific, proposition found in
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>,
+  </em>
+  that a narrowing of the indictment constitutes an amendment that renders the indictment void.
+ </p>
+<p id="b214-5">
+  As is clear from the discussion of cases in Part II,
+  <em>
+   supra,
+  </em>
+  this second proposition did not long survive
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>.
+  </em>
+  Indeed, when defendants have sought to rely on
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+  </em>
+  for this point, this Court has limited or distinguished the case, sustaining convictions where courts had withdrawn or ignored independent and unnecessary allegations in the indictments. See,
+  <em>
+   e. g., Ford
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="101041"><a href="/opinion/101041/ford-v-united-states/#602" aria-description="Citation for case: Ford v. United States">273 U. S., at 602</a></span> (distinguishing
+  <em>
+   Bain)] Salinger
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="100951"><a href="/opinion/100951/salinger-v-united-states/#549" aria-description="Citation for case: Salinger v. United States">272 U. S., at 549</a></span> (same). Modern criminal law has generally accepted that an indictment will support each offense contained within it. To the extent
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+  </em>
+  stands for the proposition that it constitutes an unconstitutional amendment to drop from an indictment those allegations that are unnecessary to an offense that is clearly contained within it, that case has simply not survived. To avoid further confusion, we now explicitly reject that proposition.
+ </p>
+<p id="b214-6">
+  Rejecting this aspect of
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+  </em>
+  is hardly a radical step, however, given that in the years since
+  <em>
+   <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+  </em>
+  this Court has largely ignored this element of the case. Moreover, in rejecting this proposition’s continued validity, we do not limit
+  <em>
+   Bain’s
+  </em>
+  more general proposition concerning the impermissi-bility of actual additions to the offenses alleged in an indictment, a proposition we have repeatedly reaffirmed. See Part III,
+  <em>
+   supra;
+  </em>
+  text accompanying n. 7,
+  <em>
+   supra.
+  </em>
+  That our holding today is fully consistent with prior legal understanding is apparent from an examination of the state of the law, as seen by Chief Justice Stone, more than 40 years ago:
+ </p>
+<blockquote id="b214-7">
+  “An indictment is amended when it is so altered as to charge a different offense from that found by the grand
+  <span citation-index="1" class="star-pagination" label="145"> 
+   *145
+   </span>
+  jury.
+  <em>
+   Ex parte Bain,
+  </em>
+  <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">121 U. S. 1</a></span>. But here there was no alteration of the indictment,
+  <em>
+   Salinger
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="100951"><a href="/opinion/100951/salinger-v-united-states/#549" aria-description="Citation for case: Salinger v. United States">272 U. S. 542, 549</a></span>, nor did the court’s action, in effect, add anything to it by submitting to the jury matters which it did not charge.
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Norris,
+  </em>
+  <span class="citation" data-id="101596"><a href="/opinion/101596/united-states-v-norris/#622" aria-description="Citation for case: United States v. Norris">281 U. S. 619, 622</a></span>. In
+  <em>
+   <span class="citation" data-id="100951"><a href="/opinion/100951/salinger-v-united-states/" aria-description="Citation for case: Salinger v. United States">Salinger</a></span>
+  </em>
+  v.
+  <em>
+   United States, supra,
+  </em>
+  548-9, we explicitly held that where an indictment charges several offenses, or the commission of one offense in several ways, the withdrawal from the jury’s consideration of one offense or one alleged method of committing it does not constitute a forbidden amendment of the indictment. See also
+  <em>
+   Goto
+  </em>
+  v.
+  <em>
+   Lane,
+  </em>
+  <span class="citation" data-id="100455"><a href="/opinion/100455/goto-v-lane/#402" aria-description="Citation for case: Goto v. Lane">265 U. S. 393, 402-3</a></span>;
+  <em>
+   Ford
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="101041"><a href="/opinion/101041/ford-v-united-states/#602" aria-description="Citation for case: Ford v. United States">273 U. S. 593, 602</a></span>. Were the rule otherwise the common practice of withdrawing from the jury’s consideration one count of an indictment while submitting others for its verdict, sustained in
+  <em>
+   Dealy
+  </em>
+  v.
+  <em>
+   United States,
+  </em>
+  <span class="citation" data-id="93858"><a href="/opinion/93858/dealy-v-united-states/#542" aria-description="Citation for case: Dealy v. United States">152 U. S. 539, 542</a></span>, would be a fatal error.”
+  <em>
+   United States
+  </em>
+  v.
+  <em>
+   Ballard,
+  </em>
+  <span class="citation" data-id="103976"><a href="/opinion/103976/united-states-v-ballard/#90" aria-description="Citation for case: United States v. Ballard">322 U. S., at 90-91</a></span> (dissenting).
+ </blockquote>
+<p id="b215-5">
+  V
+ </p>
+<p id="b215-6">
+  In light of the foregoing, the proper disposition of this case is clear. The variance complained of added nothing new to the grand jury’s indictment and constituted no broadening. As in
+  <em>
+   <span class="citation" data-id="100951"><a href="/opinion/100951/salinger-v-united-states/" aria-description="Citation for case: Salinger v. United States">Salinger</a></span>
+  </em>
+  and
+  <em>
+   <span class="citation" data-id="101041"><a href="/opinion/101041/ford-v-united-states/" aria-description="Citation for case: Ford v. United States">Ford</a></span>,
+  </em>
+  what was removed from the case was in no way essential to the offense on which the jury convicted. We therefore disagree with the Court of Appeals on the issue of whether Miller has shown any compromise of his right to be tried only on offenses for which a grand jury has returned an indictment. No such compromise has been shown. The judgment of the Court of Appeals is accordingly reversed.
+ </p>
+<p id="b215-7">
+<em>
+   It is so ordered.
+  </em>
+</p>
+<p id="b215-8">
+  Justice Powell took no part in the consideration or decision of this case.
+ </p>
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b201-13">
+   The Grand Jury Clause reads: “No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury.”
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b202-5">
+   The scheme to defraud was set out in paragraphs 1 through 7 of count one of the indictment:
+  </p>
+<blockquote id="b202-6">
+   ‘“1. Beginning on or about July 2, 1981 and continuing to on or about October 26, 1981, in the City and County of San Francisco, in the State and Northern District of California, JAMES RUAL MILLER, defendant herein, being the President of San Francisco Scrap Metal, Inc., did devise and intend to devise a scheme and artifice to defraud and to obtain money by means of false and fraudulent pretenses and representations from Aetna Insurance Company by making a fraudulent insurance claim for a loss due to an alleged burglary at San Francisco Scrap Metal.
+  </blockquote>
+<blockquote id="b202-7">
+   “ ‘2. At the time such pretenses and representations were made, defendant well knew them to be false. The scheme, so devised and intended to be devised, was implemented in substance as follows:
+  </blockquote>
+<blockquote id="b202-8">
+   “ ‘3. It was a part of the scheme that on or about July 2, 1981, defendant would and did increase his insurance policy coverage from $50,000 to $150,000 to be in effect for a two week period ending July 15, 1981.
+  </blockquote>
+<blockquote id="b202-9">
+   “ ‘4. It was a further part of the scheme that on or about July 15, 1981, defendant would and did report that a burglary had occurred at San Francisco Scrap Metal during the evening of July 14, 1981.
+  </blockquote>
+<blockquote id="b202-10">
+   “ ‘5. It was a further part of the scheme that defendant would and did claim to have lost 210,170 pounds of copper wire, worth $123,500 and two trucks during the alleged burglary.
+  </blockquote>
+<blockquote id="b202-11">
+<em>
+    “
+   </em>
+   ‘6. It was a further part of the scheme that defendant well knew that the alleged burglary was committed with his knowledge and consent for the purpose of obtaining the insurance proceeds.
+  </blockquote>
+<blockquote id="b202-12">
+   “ ‘7. It was a further part of the scheme that defendant well knew that the amount of copper claimed to have been taken during the alleged burglary was grossly inflated for the purpose of fraudulently obtaining $150,000 from Aetna Insurance company.’” <span class="citation" data-id="423986"><a href="/opinion/423986/united-states-v-james-rual-miller/#1361" aria-description="Citation for case: United States v. James Rual Miller">715 F. 2d 1360, 1361-1362</a></span> (1983).
+  </blockquote>
+<p id="b202-13">
+   Each count in the indictment was based on this same scheme to defraud, and these paragraphs were included by reference in the other two counts. The separate counts reflected only separate uses of the mails.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b203-6">
+   The facts, as stipulated to by the parties, included the following: The respondent, James Rual Miller, was the owner of San Francisco Scrap Metals, Inc., a company that regularly purchased scrap wire, and stripped, baled, and resold it. On the morning of July 15, 1981, Miller reported that his business had been burglarized the previous evening and that two trucks and 201,000 pounds of copper wire had been stolen. On July 20, 1981, Miller reported to the insurance adjuster that the missing copper had been purchased from L. K. Comstock, Inc., and Kingston Electric. Kingston Electric had indeed sold a quantity of copper to San Francisco Scrap Metals, but San Francisco Scrap Metals had resold a similar quantity to Battery Salvage Company. Miller claimed that the copper sold to Battery Salvage had been purchased from another company. But in fact, neither that other company nor L. K. Comstock had sold San Francisco Scrap Metals the copper claimed to have been purchased. Miller sent his proof of loss through the United States mail and received $100,000. Aetna sent one $50,000 check to Miller through the mail.
+   <span class="citation" data-id="423986"><a href="/opinion/423986/united-states-v-james-rual-miller/#1361" aria-description="Citation for case: United States v. James Rual Miller"><em>
+    Id.,
+   </em>
+   at 1361</a></span>.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b203-7">
+   Title <span class="citation no-link">18 U. S. C. § 1341</span> reads as follows:
+  </p>
+<blockquote id="b203-8">
+   “Whoever, having devised or intended to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises, or to sell, dispose of, loan, exchange, alter, give away, distribute, supply, or furnish or procure for unlawful use any counterfeit or spurious coin, obligation, security, or other article, or anything represented to be or intimated or held out to be such counterfeit or spurious article, for the purpose of executing such scheme or artifice or attempting so to do, places in any post office or authorized depository for mail matter, any matter or thing whatever to be sent or delivered by the Postal Service, or takes or receives therefrom any such matter or thing, or knowingly causes to be delivered by mail according to the direction thereon, or at which it is directed to be delivered by the person to whom it is addressed, any such matter or thing, shall be fined not more than $1,000 or imprisoned not more than five years, or both.”
+  </blockquote>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b208-4">
+   As is discussed
+   <em>
+    supra,
+   </em>
+   at 134-135, Miller has shown no prejudice to his ability to defend himself at trial, to the general fairness of the trial, or to the indictment’s sufficiency to bar subsequent prosecutions, and the Court of Appeals did not rest on any such theories of prejudice. Cf.
+   <em>
+    Kotteakos
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="104321"><a href="/opinion/104321/kotteakos-v-united-states/" aria-description="Citation for case: Kotteakos v. United States">328 U. S. 750</a></span> (1946) (finding prejudice in a case of extreme variance between a charge of a very broad conspiracy and proof of far narrower but technically included conspiracies). See also
+   <em>
+    <span class="citation" data-id="102436"><a href="/opinion/102436/berger-v-united-states/" aria-description="Citation for case: Berger v. United States">Berger</a></span>
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="102436"><a href="/opinion/102436/berger-v-united-states/#83" aria-description="Citation for case: Berger v. United States">295 U. S., at 83</a></span>.
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b211-6">
+   This analysis is apparent in Sam’s discussion of the issue:
+  </p>
+<blockquote id="b211-7">
+   “The learned judge who presided ... at the time the change was made in this indictment. . . rests the validity of the court’s action in permitting the change in the indictment, upon the ground that the words stricken out were surplusage, and were not at all material to it, and that no injury was done to the prisoner by allowing such change to be made. He goes on to argue that the grand jury would have found the indictment without this language. But it is not for the court to say whether they would or not. The party can only be tried upon the indictment as found by such grand jury, and especially upon all its language found in the charging part of that instrument. While it may seem to the court, with its better instructed mind in regard to what the statute requires to be found as to the intent to deceive, that it was neither necessary nor reasonable that the grand jury
+   <span citation-index="1" class="star-pagination" label="142"> 
+    *142
+    </span>
+   should attach importance to the fact that it was the Comptroller who was to be deceived, yet it is not impossible nor very improbable that the grand jury looked mainly to that officer as the party whom the prisoner intended to deceive by a report which was made upon his requisition and returned directly to him. . . . How can the court say there may not have been more than one of the jurors who found this indictment, who was satisfied that the false report was made to deceive the Comptroller, but was not convinced that it was made to deceive anybody else? And how can it be said that, with these words stricken out, it is the indictment which was found by the grand jury?” <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/#9" aria-description="Citation for case: Ex Parte Bain">121 U. S., at 9-10</a></span>.
+  </blockquote>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b213-6">
+   Cf.
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Fabrizio,
+   </em>
+   <span class="citation" data-id="107316"><a href="/opinion/107316/united-states-v-fabrizio/#275" aria-description="Citation for case: United States v. Fabrizio">385 U. S. 263, 275</a></span> (1966) (Stewart, J. dissenting) (quoting
+   <em>
+    <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+   </em>
+   for proposition that “[w]e long ago rejected the notion that ‘it lies within the province of a court to change the charging part of an indictment to suit its own notions of what it ought to have been, or what the grand jury would probably have made it if their attention had been called to suggested changes . . .”’);
+   <em>
+    United States
+   </em>
+   v.
+   <em>
+    Ballard,
+   </em>
+   <span class="citation" data-id="103976"><a href="/opinion/103976/united-states-v-ballard/#90" aria-description="Citation for case: United States v. Ballard">322 U. S. 78, 90-91</a></span> (1944) (Stone, C. J., dissenting) (under
+   <em>
+    <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+   </em>
+   an indictment is unconstitutionally amended “when it is so altered as to charge a different offense from that found by the grand jury”). See generally
+   <em>
+    Smith
+   </em>
+   v.
+   <em>
+    United States,
+   </em>
+   <span class="citation" data-id="105896"><a href="/opinion/105896/smith-v-united-states/#9" aria-description="Citation for case: Smith v. United States">360 U. S. 1, 9</a></span> (1959) (citing
+   <em>
+    Bain
+   </em>
+   for importance of a grand jury’s intervention as “a substantial safeguard against oppressive and arbitrary proceedings”);
+   <em>
+    Jenkins
+   </em>
+   v.
+   <em>
+    McKeithen,
+   </em>
+   <span class="citation" data-id="107964"><a href="/opinion/107964/jenkins-v-mckeithen/#430" aria-description="Citation for case: Jenkins v. McKeithen">395 U. S. 411, 430</a></span> (1969) (plurality opinion) (citing
+   <em>
+    <span class="citation" data-id="91894"><a href="/opinion/91894/ex-parte-bain/" aria-description="Citation for case: Ex Parte Bain">Bain</a></span>
+   </em>
+   for proposition that “grand jury is designed to interpose an independent body of citizens between the accused and the prosecuting attorney and the court”).
+  </p>
+</div></div></opinion>

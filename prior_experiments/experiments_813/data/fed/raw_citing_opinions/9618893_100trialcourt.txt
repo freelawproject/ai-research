@@ -1,0 +1,449 @@
+<pre class="inline">1                                                                            
+
+2                                                                            
+
+3                                                                            
+
+4                                                                            
+
+5                                                                            
+
+6                                                                            
+
+7                                                                            
+8                    UNITED STATES DISTRICT COURT                            
+9                  SOUTHERN DISTRICT OF CALIFORNIA                           
+10                                                                            
+11    In re University of San Diego    Case No.:  20cv1946-LAB-WVG            
+
+     Tuitiion and Fees COVID-19                                              
+12                                     ORDER GRANTING IN PART                 
+     Refund Litigation                                                       
+13                                     AND DENYING IN PART                    
+                                      MOTION TO DISMISS                      
+14                                     PLAINTIFFS’ CONSOLIDATED               
+15                                     CLASS ACTION COMPLAINT                 
+                                      [Dkt. 33]                              
+16                                                                            
+     This document relates to:                                               
+17                                                                            
+     All actions                                                             
+18                                                                            
+19                                                                            
+20                                                                            
+
+21                                                                            
+22       In  February  and  March  2020,  COVID-19  began  spreading  rapidly 
+23  throughout the United States. Plaintiffs Edgar Chavarria, Catherine Holden, Haley 
+24  Martinez, and Matthew Sheridan were enrolled for the Spring 2020 semester at 
+25  the University of San Diego (“USD” or the “University”) when the ubiquitous and 
+26  deleterious effects of the COVID-19 pandemic forced the University to cancel in-
+27  person classes. USD required that all classes be taught remotely for the rest of 
+1  29, 2020 – with the pandemic still raging, USD cancelled all in-person classes for 
+2  the Fall 2020 semester. By the Spring 2021 semester, USD planned to resurrect 
+3  some in-person classes, only to shut these plans down again on February 12, 
+4  2021, when the COVID pandemic again surged.                               
+5       Plaintiffs allege that these changes drastically affected their educational 
+6  experience: no in-person classes; fewer informal interactions with faculty and 
+7  other students; no science laboratories; no computer labs; no in-person health 
+8  services and counseling; and no athletic and recreational facilities. But at the time 
+9  of each cancellation announcement, Plaintiffs had already paid their tuition and 
+10  fees and USD refused to offer tuition refunds, although the University agreed to 
+11  refund some fees.  In response, Plaintiffs filed suit on behalf of themselves and a 
+12  putative class. The Court consolidated the various individual actions into this one, 
+13  and Plaintiffs filed a Consolidated Class Action Complaint, asserting claims for 
+14  breach  of  contract,  unjust  enrichment,  conversion,  violation  of  California’s 
+15  Consumer  Legal  Remedies  Act  (“CLRA”),  and  violation  of  California’s  Unfair 
+16  Competition Law (“UCL”). (Dkt. 30, “CCAC”). USD then moved to dismiss the 
+17  CCAC. (Dkt. 33).                                                          
+18       The motion to dismiss is GRANTED IN PART. The Court finds that Plaintiffs’ 
+19  quasi-contract claim is barred by the existence of a contract covering the same 
+20  subject matter; the economic loss doctrine bars their claim for conversion; they 
+21  don’t allege any false representations to support their CLRA claim; and they don’t 
+22  identify any unlawful, unfair, or fraudulent practice violating the UCL. The quasi-
+23  contract claim and the conversion claim are DISMISSED WITH PREJUDICE. The 
+24  CLRA and UCL claims are DISMISSED WITHOUT PREJUDICE. The CCAC             
+25  properly states a claim for breach of contract, so as to that claim the Motion is 
+26  DENIED IN PART.                                                           
+27  //                                                                        
+1                             BACKGROUND                                     
+2       USD is a private university in San Diego, California. (CCAC ¶ 18).1 USD 
+3  students  pay  tuition  and  fees  in  exchange  for  educational  services,  use  of 
+4  University facilities, and other supporting services. (See, e.g., id. ¶¶ 14, 24). Like 
+5  many businesses, USD attracts students by advertising the quality of its product. 
+6  Its marketing materials discuss, among other things: “direct access to [its] award-
+7  winning faculty” in an “inspiring and intimate setting,” (id. ¶ 33); use of physical 
+8  facilities, including “high-tech” fitness centers (¶¶ 35, 42–44); student housing, 
+9  which it describes as giving “easy access to . . . professors [and] close proximity 
+10  to . . . classmates for study group sessions,” (id. ¶ 36); “[s]tudent organizations 
+11  [that]  offer  opportunities for leadership,  personal  growth,  and  recreation”  and 
+12  “hands-on, real-world . . . experience” in certain fields, (id. ¶¶ 38, 39); on-campus 
+13  physical  and  mental  health  services,  (id.  ¶¶  42,  45–46);  and  a  “Learning 
+14  Commons”  with  modern  designs,  equipment,  and  technology  to  “enchance[] 
+15  collaborative learning experiences,” (id. ¶¶ 47–49).                      
+16       During  USD’s  Spring  2020  term,  each  Plaintiff  had  enrolled  as  a  USD 
+17  student and had paid tuition and fees. But the COVID-19 pandemic interrupted 
+18  their studies. (Id. ¶¶ 14–17, 54).  On March 12, 2020, USD cancelled all classes 
+19  from March 14 through March 22, and informed students that all courses would 
+20  resume via remote teaching on March 23, 2020, through the end of the semester. 
+21  (Id. ¶ 57). Students living in student housing were directed to “relocate from 
+22  campus” by March 22, 2020. (Id.). USD also closed other facilities on its campus. 
+23  (See id. ¶ 61).                                                           
+24       USD  didn’t  re-open  for  in-person  instruction  during  the  Fall  2020  term, 
+25  instead announcing less than a month before the start of that term that all classes 
+26                                                                            
+27  1 For the purposes of a motion to dismiss under Rule 12(b)(6), the Court accepts 
+   as true the well-pleaded factual allegations of the CCAC. South Ferry LP, No. 2 
+1  would continue to be taught online. (Id. ¶ 62). Although the University informed 
+2  students that it planned to resume some in-person instruction during the Spring 
+3  2021 term, on February 12, 2021, it changed course, announcing that all in-
+4  person, on-campus classes and activities would cease. (Id. ¶ 65).         
+5       USD charged full tuition and fees for Spring 2020, providing only limited 
+6  refunds for certain fees. (See id. ¶ 14). It continued to charge full tuition for the 
+7  Fall 2020 and Spring 2021 terms. (See id. ¶¶ 5–6, 66). Plaintiffs contend that USD 
+8  acknowledged  that  online-only  education  wasn’t  as  valuable  as  an  in-person 
+9  education  by:  (1)  emphasizing  the  value  of  USD’s  facilities  and  in-person 
+10  experiences through its marketing materials; (2) refusing to accept pre-pandemic 
+11  online credits as equivalent to in-person instruction; and (3) charging a reduced 
+12  price  for  the  few  courses  that  the  University  itself  offered  online  before  the 
+13  pandemic.  (Id.  ¶¶  4,  30–31,  33–38,  42–49,  74).  Nevertheless,  USD  rejected 
+14  claims for any refund of tuition or many of its fees students had paid. (Id. ¶¶ 14, 
+15  66, 129).                                                                 
+16       Plaintiffs’  operative  pleading,  the  CCAC,  asserts  claims  for  breach  of 
+17  contract, unjust enrichment, conversion, and violations of the California CLRA and 
+18  UCL. USD seeks dismissal of each of those claims under Fed. R. Civ. P. 12(b)(6). 
+19                         STANDARD OF REVIEW                                 
+20       A Rule 12(b)(6) motion to dismiss calls for a preliminary evaluation of a 
+21  party’s pleading and tests only whether the pleading provides “a short and plain 
+22  statement of the claim showing that the pleader is entitled to relief, in order to give 
+23  the defendant fair notice of what the claim is and the grounds upon which it rests.” 
+24  Bell Atlantic Corp. v. Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#555" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. 544, 555</a></span><pre class="inline"> (2007) (internal marks and 
+25  citation omitted). The required short and plain statement “does not need detailed 
+26  factual allegations,” only “factual allegations . . . enough to raise a right to relief 
+27  above the speculative level . . . on the assumption that all the allegations in the 
+1  draw all reasonable inferences in the plaintiff’s favor. Dahlia v. Rodriguez, 735 
+</pre><span class="citation no-link">2  F.3d 1060</span><pre class="inline">, 1066 (9th Cir. 2013). Reasonable inferences are those with “plausible 
+3  grounds”—the  complaint’s  factual  allegations  must  “raise  a  reasonable 
+4  expectation  that  discovery  will  reveal  evidence”  supporting  that  inference. 
+5  Twombly, </pre><span class="citation" data-id="9435068"><a href="/opinion/145730/bell-atlantic-corp-v-twombly/#556" aria-description="Citation for case: Bell Atlantic Corp. v. Twombly">550 U.S. at 556</a></span><pre class="inline">.                                                 
+6       Where a plaintiff’s claims sound in fraud, the heightened standard of Rule 
+7  9(b) applies. Vess v. Ciba–Geigy Corp. USA, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1102" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d 1097, 1102</a></span><pre class="inline"> (9th Cir. 2003). 
+8  Rule 9(b) requires that “[i]n alleging fraud or mistake, a party must state with 
+9  particularity  the  circumstances  constituting  fraud  or  mistake.”  To  meet  these 
+10  requirements,  a  complaint  alleging  fraud  must  be  “specific  enough  to  give 
+11  defendants notice of the particular misconduct which is alleged to constitute the 
+12  fraud charged so that they can defend against the charge and not just deny that 
+13  they have done anything wrong.” Semegen v. Weidner, </pre><span class="citation" data-id="8937286"><a href="/opinion/8946656/semegen-v-weidner/#731" aria-description="Citation for case: Semegen v. Weidner">780 F.2d 727, 731</a></span><pre class="inline"> (9th 
+14  Cir. 1985); Vess, </pre><span class="citation" data-id="7016609"><a href="/opinion/7110394/vess-v-ciba-geigy-corp-usa/#1106" aria-description="Citation for case: Vess v. Ciba-Geigy Corp. USA">317 F.3d at 1106</a></span><pre class="inline"> (“Averments of fraud must be accompanied by 
+15  ‘the who, what, when, where, and how’ of the misconduct charged.”) (internal 
+16  citation omitted). Because the CCAC’s CLRA and UCL claims sound in fraud, the 
+17  Court applies the heightened pleading standard to those claims.           
+18                              DISCUSSION                                    
+19      I.  The Educational Malpractice Doctrine Doesn’t Apply to Plaintiffs’ 
+20         Claims                                                             
+21       USD  first  argues  that  California’s  educational  malpractice  doctrine  bars 
+22  each of Plaintiffs’ claims. The Court disagrees. Under that doctrine, courts decline 
+23  to intervene in “the academic affairs of schools” unless the challenged decision is 
+24  “arbitrary and capricious, not based upon academic criteria, and the result of 
+25  irrelevant or discriminatory factors.” Banks v. Dominican College, </pre><span class="citation" data-id="2256991"><a href="/opinion/2256991/venturi-v-taylor/#1545" aria-description="Citation for case: Venturi v. Taylor">35 Cal. App. 4th 
+26  1545, 1551</a></span><pre class="inline"> (1995). They do so “because of the lack of a satisfactory standard of 
+27  care  by  which to evaluate  [academic  and  disciplinary]  decisions”  or  where  a 
+1  of University of California, </pre><span class="citation" data-id="2290877"><a href="/opinion/2290877/kashmiri-v-regents-of-the-university-of-california/#826" aria-description="Citation for case: Kashmiri v. Regents of the University of California">156 Cal. App. 4th 809, 826</a></span><pre class="inline"> (2007). But “not all decisions 
+2  made by a university are pedagogical in nature.” McCarthy v. Loyola Marymount 
+3  Univ., No. CV 20-04668-SB (JEMx), </pre><span class="citation no-link">2021 WL 268242</span><pre class="inline">, at *3 (C.D. Cal. Jan. 8, 
+4  2021). California courts “have . . . not been hesitant to apply contract law [despite 
+5  the educational malpractice doctrine] when the educational institution makes a 
+6  specific promise to provide an educational service, such as . . . a failure to deliver 
+7  a promised number of hours of instruction.” Kashmiri, </pre><span class="citation" data-id="2290877"><a href="/opinion/2290877/kashmiri-v-regents-of-the-university-of-california/#826" aria-description="Citation for case: Kashmiri v. Regents of the University of California">156 Cal. App. 4th at 826</a></span><pre class="inline">. 
+8       In support of this proposition, the Kashmiri court cited with approval CenCor, 
+9  Inc. v. Tolman, </pre><span class="citation" data-id="1141339"><a href="/opinion/1141339/cencor-inc-v-tolman/" aria-description="Citation for case: Cencor, Inc. v. Tolman">868 P.2d 396</a></span><pre class="inline"> (Colo. 1994), describing that case as holding that 
+10  the educational malpractice doctrine did not bar a breach of contract action “where 
+11  there were allegations that [the] school had made specific promises, such as 
+12  promises  to  provide  modern,  functioning  equipment,  computer  training,  and 
+13  qualified instructors, and did not do so.” Kashmiri, </pre><span class="citation" data-id="2290877"><a href="/opinion/2290877/kashmiri-v-regents-of-the-university-of-california/#826" aria-description="Citation for case: Kashmiri v. Regents of the University of California">156 Cal. App. 4th at 826</a></span><pre class="inline">. This 
+14  is, in effect, what Plaintiffs allege here: USD promised in-person instruction along 
+15  with access to physical resources, libraries, laboratories, computer laboratories; 
+16  Plaintiffs agreed to pay tuition and fees in reliance on those promises; and USD 
+17  failed to refund any tuition or fees when it became clear that it wouldn’t be able to 
+18  fully perform.                                                            
+19       Many decisions applying California’s educational malpractice doctrine have 
+20  held  the  doctrine  does  not  bar  claims  that  a  university  promised  in-person 
+21  instruction and access to physical resources and facilities but didn’t provide them 
+22  as a result of the COVID-19 pandemic. See, e.g., McCarthy, </pre><span class="citation no-link">2021 WL 268242</span><pre class="inline">; 
+23  Saroya v. Univ. of the Pacific, Case No. 5:20-cv-03196-EJD, </pre><span class="citation no-link">2020 WL 7013598</span><pre class="inline"> 
+24  (N.D. Cal. Nov. 27, 2020); Verlanga v. Univ. of San Francisco, Case No. CGC-
+25  20-584829, </pre><span class="citation no-link">2020 WL 7229855</span><pre class="inline"> (Cal. Super. Nov. 12, 2020); Grant v. Chapman  
+26  Univ., Case No. 30-2020-01146699-CU-BC-CXC, </pre><span class="citation no-link">2021 WL 684581</span><pre class="inline"> (Cal. Super.   
+27  Jan. 22, 2021); In re Univ. of Southern California Tuition and Fees COVID-19 
+1  Aug. 6, 2021); but see Abuelhawa v. Santa Clara Univ., No. 20-cv-04045-LHK, 
+2  </pre><span class="citation no-link">2021 WL 1176689</span><pre class="inline"> (N.D. Cal. March 29, 2021); Lindner v. Occidental College, No. 
+3  CV 20-8481-JFW(RAOx), </pre><span class="citation no-link">2020 WL 7350212</span><pre class="inline"> (C.D. Cal. Dec. 11, 2020). The Court 
+4  agrees  with  these  holdings  and  determines  that  the  educational  malpractice 
+5  doctrine does not bar Plaintiffs’ claims.                                 
+6     II.  Plaintiffs Allege a Concrete and Particularized Injury            
+7       USD argues next that Plaintiffs lack Article III standing because they allege 
+8  “uncertain and speculative” damages. At the pleading stage, a plaintiff “must 
+9  clearly allege facts demonstrating” that he: (1) suffered an injury in fact; (2) that is 
+10  fairly traceable to the challenged conduct; and (3) that is likely to be redressed by 
+11  a favorable judicial decision. Spokeo, Inc. v. Robins, </pre><span class="citation no-link">785 U.S. 330</span><pre class="inline">, 338 (2016). 
+12  USD attacks the first element, arguing that the alleged injury isn’t “concrete and 
+13  particularized,” but is instead “inherently speculative” because “the Court has no 
+14  method to calculate the difference in value of a class offered online versus a class 
+15  offered in person.” (Dkt. 33-1 at 8–9); Spokeo, 785 U.S. at 339.          
+16       This argument misreads the standing requirements. A “concrete” injury must 
+17  merely be “real” and need not be “tangible.” Spokeo, 785 U.S. at 340. And a 
+18  “particularized” injury “must affect the plaintiff in a personal and individual way.” 
+19  Id. at 339. At this stage of the litigation, Plaintiffs don’t need to provide a “just and 
+20  reasonable damages model”—that isn’t required until the class certification stage. 
+21  (Dkt. 33-1 at 10); Comcast Corp. v. Behrend, </pre><span class="citation" data-id="856346"><a href="/opinion/856346/comcast-corp-v-behrend/#1433" aria-description="Citation for case: Comcast Corp. v. Behrend">133 S. Ct. 1426, 1433</a></span><pre class="inline"> (2013).  
+22       A plaintiff may satisfy the concrete and particularized harm standard by 
+23  alleging that he overpaid in a transaction, then offering evidence of the difference 
+24  between his payment and some measure of the true value of the purchase. See 
+25  Maya v. Centex Corp., </pre><span class="citation" data-id="613992"><a href="/opinion/613992/maya-v-centex-corp/#1070" aria-description="Citation for case: Maya v. Centex Corp.">658 F.3d 1060, 1070</a></span><pre class="inline"> (9th Cir. 2011) (plaintiffs properly 
+26  alleged injury-in-fact by alleging that they overpaid for their homes). Plaintiffs have 
+27  met that pleading hurdle here: they allege that they paid for one package of 
+1  under the “actual and concrete economic injury” standard and qualifies as an 
+2  injury-in-fact for standing purposes. </pre><span class="citation" data-id="613992"><a href="/opinion/613992/maya-v-centex-corp/" aria-description="Citation for case: Maya v. Centex Corp.">Id.</a></span><pre class="inline">                                 
+3     III.  The CCAC States a Claim for Breach of Contract                   
+4       Turning  to  the  individual  claims,  USD  argues  that  Plaintiffs’  breach  of 
+5  contract claim fails because: (1) the CCAC doesn’t identify any specific breached 
+6  promises; (2) USD’s policy restricting refunds bars the claims; and (3) Plaintiffs 
+7  don’t allege that USD caused any damages. The Court disagrees with all three 
+8  arguments.                                                                
+9       First, the University contends that the CCAC doesn’t point to an “identifiable 
+10  contractual promise that [USD] failed to honor.” (Dkt. 33-1 at 12, quoting Ross v. 
+11  Creighton Univ., </pre><span class="citation" data-id="578275"><a href="/opinion/578275/kevin-ross-v-creighton-university/" aria-description="Citation for case: Kevin Ross v. Creighton University">957 F.2d 410</a></span><pre class="inline">, 416–17 (7th Cir. 1992)). Under California law, a 
+12  private university can be liable for breach of a contract with its students if the 
+13  university “ma[de] a specific promise to provide an educational service,” but failed 
+14  to follow through. Kashmiri, </pre><span class="citation" data-id="2290877"><a href="/opinion/2290877/kashmiri-v-regents-of-the-university-of-california/#826" aria-description="Citation for case: Kashmiri v. Regents of the University of California">156 Cal. App. 4th at 826</a></span><pre class="inline">. Those promises don’t need 
+15  to be part of a formal agreement, but instead may be part of an implied-in-fact 
+16  contract “manifested by [the parties’] conduct.” </pre><span class="citation" data-id="2290877"><a href="/opinion/2290877/kashmiri-v-regents-of-the-university-of-california/#827" aria-description="Citation for case: Kashmiri v. Regents of the University of California">Id. at 827</a></span><pre class="inline">. The Court need only be 
+17  able to reasonably infer a promise from the alleged conduct. Youngman v. Nevada 
+18  Irr. Dist., </pre><span class="citation" data-id="5451822"><a href="/opinion/5607605/youngman-v-nevada-irrigation-district/" aria-description="Citation for case: Youngman v. Nevada Irrigation District">70 Cal. 2d 240</a></span><pre class="inline">, 246–47 (1969).                                
+19       Drawing all reasonable inferences in Plaintiffs’ favor, the CCAC alleges 
+20  sufficient  conduct  to  establish  promises  forming  implied-in-fact  terms  of  the 
+21  parties’ contract. USD allegedly provided meeting times and physical locations for 
+22  its courses in a catalogue that it encouraged students to rely on as the “official 
+23  record,” (CCAC ¶¶ 27–29); touted the benefits to students of its policy requiring 
+24  certain faculty to be physically present for office hours, (id. ¶ 30); and advertised 
+25  the  “general  availa[bility]”  of  “[a]ll  University  facilities,”  including  specifically 
+26  identified facilities, and “tutoring and support services . . . on campus.” (Id. ¶¶ 35, 
+27  44, 47–49). These aren’t “mere[] . . . invitations to bargain,” as USD insists. (Dkt. 
+1  Instead,  USD  offered  these  specific  benefits  in  exchange  for  enrollment  and 
+2  payment of tuition, which Plaintiffs accepted through performance, only to have 
+3  them  terminated  when  the  pandemic  caused  the  University  to  shut-down  in-
+4  person services. This is enough to allege conduct establishing an enforceable 
+5  implied-in-fact contract. See Kashmiri, </pre><span class="citation" data-id="2290877"><a href="/opinion/2290877/kashmiri-v-regents-of-the-university-of-california/#826" aria-description="Citation for case: Kashmiri v. Regents of the University of California">156 Cal. App. 4th at 826</a></span><pre class="inline">.         
+6       Nevertheless,  USD  insists,  it  didn’t  breach  any  promises  to  provide 
+7  “exclusively in-person instruction and access to facilities.” (Dkt. 33-1 at 13). But 
+8  the keystone of an implied-in-fact contract is the parties’ reasonable expectations 
+9  at the time of contracting. Kashmiri, 156 Cal. App. 4th at 831–32. Even looking 
+10  beyond the nonsensical implication that a reasonable prospective student might 
+11  understand USD’s promises to incorporate remote “access” to a fitness center, 
+12  science and computer laboratories, and study rooms, (see CCAC ¶¶ 44, 54), a 
+13  student would also reasonably understand USD’s promises of these benefits 
+14  would apply during the entire school term.                                
+15       USD also fails to show that its refund policies bar Plaintiffs’ claims. Under 
+16  USD’s policies, “[f]ees and deposits are non-refundable,” and “[t]uition is fully or 
+17  partially refundable only when a student withdraws officially during the published 
+18  refund withdrawal schedule.” (Dkt. 33-2, Ex. A at 9). As to both policies, USD 
+19  doesn’t provide any California or Ninth Circuit authority for the proposition that a 
+20  refund policy can be used to excuse non-performance under contract law. Its 
+21  citation to Zwiker v. Lake Superior State Univ., Case No. 20-000070-MK, 2020 
+</pre><span class="citation no-link">22  WL 8572097</span><pre class="inline"> (Mich. Ct. Cl. Oct. 20, 2021), a Michigan state court case applying 
+23  Michigan law, isn’t persuasive. In that case, the court rejected the plaintiff’s breach 
+24  of contract claims not because of a refund policy, but because the plaintiff failed 
+25  to allege any failure to perform. </pre><span class="citation no-link">Id.</span><pre class="inline"> at *4–5. Moreover, by its terms USD’s tuition 
+26  refund policy is inapposite because it applies “only when a student withdraws 
+27  officially  during  the  published  refund  withdrawal  schedule,”  contemplating  a 
+1  </pre><span class="citation no-link">2021 WL 268242</span><pre class="inline"> at *4.                                                     
+2       Finally, the CCAC successfully pleads that USD caused Plaintiffs’ injury. 
+3  The injury must be “proximately caused by” USD’s breach. Vu v. Cal. Comm. Club, 
+4  Inc., </pre><span class="citation" data-id="2272438"><a href="/opinion/2272438/vu-v-california-commerce-club-inc/" aria-description="Citation for case: Vu v. California Commerce Club, Inc.">58 Cal. App. 4th 229</a></span><pre class="inline">, 233–34 (1997). That is, the breach, “in the natural and 
+5  continuous sequence, unbroken by any efficient intervening cause,” must have 
+6  “produced the injury.” State of Cal. Superior Court, </pre><span class="citation" data-id="2121283"><a href="/opinion/2121283/state-of-california-v-superior-court/" aria-description="Citation for case: State of California v. Superior Court">150 Cal. App. 3d 848</a></span><pre class="inline">, 857 
+7  (1984). But an intervening cause must “come[] between the initial event in a 
+8  sequence and the end result.” Cause, Black’s Law Dictionary (9th Ed. 2009). 
+9  Here, Plaintiffs allege that the breach was USD’s decision to keep their tuition and 
+10  fee  payments.  COVID-19  and  the  related  government  orders  preceded  the 
+11  breach, so those events didn’t break the causal chain between the alleged breach 
+12  and injury.                                                               
+13       The CCAC successfully states a claim for breach of contract, so the Motion 
+14  is DENIED as to that claim.                                               
+15     IV.  Plaintiffs Fail to Allege a Quasi-Contract Claim for Restitution  
+16       Plaintiffs style their next claim as “unjust enrichment.” (CCAC ¶¶ 117–23). 
+17  Under California law, “‘unjust enrichment’ is synonymous with ‘restitution,’” which 
+18  is a remedy, not a claim. Astiana v. Hain Celestial Group, Inc., </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">783 F.3d 753</a></span><pre class="inline">, 762 
+19  (9th Cir. 2015). But this isn’t a substantive issue warranting dismissal: Courts 
+20  routinely construe claims  pled  as  “unjust  enrichment” to  be  actions  in  quasi-
+21  contract for restitution. </pre><span class="citation" data-id="2792929"><a href="/opinion/2792929/skye-astiana-v-the-hain-celestial-group/" aria-description="Citation for case: Skye Astiana v. the Hain Celestial Group">Id.</a></span><pre class="inline"> Because the parties understand the nature of the claim, 
+22  the way it is titled amounts to only a semantic issue. The Court construes the claim 
+23  as seeking restitution in quasi-contract.                                 
+24       But the CCAC can’t state such a claim. Although a party “may state as many 
+25  separate claims . . . as it has, regardless of consistency,” Fed. R. Civ. P. 8(d)(3), 
+26  courts may dismiss quasi-contract claims where the parties agree that they had a 
+27  binding contract covering the benefit that the plaintiff seeks to have returned. See, 
+1  contract claim exists where, “for reasons of justice . . . the law implies an obligation 
+2  to  pay.”  Weitzenkorn  v.  Lesser,  </pre><span class="citation" data-id="9546591"><a href="/opinion/1170435/weitzenkorn-v-lesser/#794" aria-description="Citation for case: Weitzenkorn v. Lesser">40  Cal.  2d  778,  794</a></span><pre class="inline">  (1953).  “[T]here  is  no 
+3  equitable  basis  [under  California  law]  for  an  implied-in-law  promise  to  pay 
+4  reasonable  value  when  the  parties  have  an  actual  agreement  covering 
+5  compensation.” </pre><span class="citation" data-id="9546591"><a href="/opinion/1170435/weitzenkorn-v-lesser/" aria-description="Citation for case: Weitzenkorn v. Lesser">Id.</a></span><pre class="inline"> (quoting Hedging Concepts, Inc. v. First Alliance Mortgage 
+6  Co., </pre><span class="citation" data-id="2306232"><a href="/opinion/2306232/hedging-concepts-inc-v-first-alliance-mortgage-co/#1420" aria-description="Citation for case: Hedging Concepts, Inc. v. First Alliance Mortgage Co.">41 Cal. App. 4th 1410, 1420</a></span><pre class="inline"> (1996)).                                 
+7       The parties agree that Plaintiffs paid their tuition and fees pursuant to an 
+8  agreement  covering  that  compensation.  If  that  agreement  required  USD  to 
+9  perform in ways that it didn’t, Plaintiffs’ recourse is in contract. If the agreement 
+10  didn’t require USD to do those things, the Court can’t augment the contract by 
+11  finding that a second contract involving the same compensation was implied-in-
+12  law. The CCAC’s claim for unjust enrichment is DISMISSED WITH PREJUDICE.  
+13     V.  The CCAC Fails to State a Claim for Conversion                     
+14       Plaintiffs likewise fail to state a claim for conversion. “Money cannot be the 
+15  subject of a cause of action for conversion unless there is a specific, identifiable 
+16  sum involved, such as where an agent accepts a sum of money to be paid to 
+17  another and fails to make the payment.” McKell v. Washington Mut., Inc., </pre><span class="citation no-link">142 Cal. 
+18</span><pre class="inline">  App. 4th 1457, 1491 (2006). “[T]he simple failure to pay money owed does not 
+19  constitute conversion.” Voris v. Lampert, </pre><span class="citation" data-id="4425948"><a href="/opinion/4648695/voris-v-lampert/#1152" aria-description="Citation for case: Voris v. Lampert">7 Cal. 5th 1141, 1152</a></span><pre class="inline"> (2019) (cleaned 
+20  up).  Successful  conversion  claims  “typically  involve  those  who  have 
+21  misappropriated, commingled, or misapplied specific funds held for the benefit of 
+22  others.” </pre><span class="citation" data-id="4425948"><a href="/opinion/4648695/voris-v-lampert/" aria-description="Citation for case: Voris v. Lampert">Id.</a></span><pre class="inline"> (cleaned up).                                                
+23       That’s not what Plaintiffs allege here. They allege that they paid USD money 
+24  in exchange for services that were only partially rendered. (CCAC ¶¶ 125–27). 
+25  They don’t seek recovery of their tuition and fees in their entirety—which could 
+26  constitute a specific and identifiable sum—but only some unspecified proportion 
+27  of those amounts representing the difference in value between the services they 
+1  of the tuition, fees, and other related payments for . . . services . . . for which they 
+2  paid that USD did not provide”); id. ¶ 13 (“Plaintiffs seek . . . a return of a prorated 
+3  portion  of  [their  payments]  proportionate  to  the  diminished  value  of  online 
+4  classes.”); id. ¶ 132 (seeking return of “such monies had and received for which 
+5  the benefit was not provided”)).                                          
+6       Plaintiffs can’t point to a specific and identifiable sum that USD allegedly 
+7  converted because, as they concede, USD provided some services with non-  
+8  specific value in exchange for Plaintiffs’ tuition and fees. For this reason, the 
+9  CCAC can’t state a claim for conversion, so that claim is DISMISSED WITH  
+10  PREJUDICE.                                                                
+11     VI.  Plaintiffs Fail to State a Claim under CLRA                       
+12       Plaintiffs’ fourth cause of action relies on the Consumer Legal Remedies 
+13  Act, Cal. Civ. Code §§ 1750–1785. A pleading seeking to state a claim under the 
+14  CLRA  must  meet  the  heightened  standard  of  Rule  9(b)  and  allege  violative 
+15  conduct causing damage to the claimant. Kearns v. Ford Motor Co., </pre><span class="citation" data-id="8411334"><a href="/opinion/8440443/north-american-catholic-educational-programming-foundation-inc-v/#1120" aria-description="Citation for case: North American Catholic Educational Programming...">567 F.3d 
+16  1120</a></span><pre class="inline">,  1127–28  (9th  Cir.  2009);  </pre><span class="citation no-link">Cal.  Civ.  Code  §  1780</span><pre class="inline">(a).  As  relevant  here, 
+17  violative  conduct  includes  “[r]epresenting  that  .  .  .  services  have  .  .  . 
+18  characteristics . . . that they do not have,” </pre><span class="citation no-link">Cal. Civ. Code § 1770</span><pre class="inline">(a)(5), and 
+19  “[r]epresenting that . . . services are of a particular standard, quality, or grade . . . 
+20  if they are another.” </pre><span class="citation no-link">Cal. Civ. Code § 1770</span><pre class="inline">(a)(7). Plaintiffs must also allege that a 
+21  defendant was aware that its representations were false at the time of sale. See 
+22  Wilson v. Hewlett-Packard Co., </pre><span class="citation" data-id="622977"><a href="/opinion/622977/wilson-v-hewlett-packard-co/#1145" aria-description="Citation for case: Wilson v. Hewlett-Packard Co.">668 F.3d 1136, 1145</a></span><pre class="inline"> (9th Cir. 2012).       
+23       USD   argues  that  the  CCAC    fails  to  allege  any  actionable  
+24  misrepresentations. Plaintiffs counter that two sets of alleged representations 
+25  match the descriptions of </pre><span class="citation no-link">Cal. Civ. Code §§ 1770</span><pre class="inline">(a)(5) and (7). One consists of 
+26  the pre-pandemic representations that form the basis of Plaintiffs’ contract claim. 
+27  But Plaintiffs don’t allege that USD knew that COVID-19 would render those 
+1  the time they were made. See Wilson, </pre><span class="citation" data-id="622977"><a href="/opinion/622977/wilson-v-hewlett-packard-co/#1145" aria-description="Citation for case: Wilson v. Hewlett-Packard Co.">668 F.3d at 1145</a></span><pre class="inline">. It isn’t enough to allege 
+2  that USD made promises it believed it could keep, but proved unable to, so those 
+3  allegations can’t support Plaintiffs’ CLRA claim.                         
+4       The second set of representations includes USD’s purported promises to 
+5  conduct  classes  in  person  for  the  Spring  2021  semester.  While  the  specific 
+6  content of these statements isn’t alleged, Plaintiffs ask the Court to take judicial 
+7  notice of them to satisfy Rule 9(b)’s heightened pleading standard. (See Dkt. 37 
+8  at  18  n.13).  USD  doesn’t  oppose  this  request,  so  the  Court  grants  it  but 
+9  nonetheless finds the statements insufficient to support the CLRA claim.  
+10       USD stated:                                                          
+11         •  On December 18, 2020, USD’s “current plan for the spring [2021] 
+12            semester,”  was  a  “modest  increase  to  [its]  offerings  for  in-person 
+13            instruction” with “most classes [to] be delivered remotely . . . . [W]e 
+14            continue to follow federal, state, and county guidelines.” (Dec. 18, 
+15            2020 Announcement, https://blue.sandiego.edu/emails/departments/ 
+16            provost/spring-semester21-update.php).                          
+17         •  On January 8, 2021, “San Diego County remains in . . . the most 
+18            restrictive level of California’s COVID-19 risk-ranking system. Among 
+19            other restrictions, the Purple Tier does not permit in-person lectures 
+20            or student gatherings at universities, yet some courses conducted in 
+21            certain indoor settings . . . may be open. . . . We will begin the spring 
+22            semester with remote instruction only. Our intent is to move to our 
+23            hybrid  academic  model  when  state  recommendations  and  county 
+24            orders  permit  us  to  do  so.”  Jan.  8,  2021  Announcement, 
+25            https://blue.sandiego.edu/onward/2021/spring-semester-updates-  
+26            2021-01-08.html).                                               
+27       Importantly, Plaintiffs don’t allege that these statements were inaccurate. 
+1  “continue  to  follow  federal,  state,  and  county  guidelines.”  (Dec.  18,  2020 
+2  Announcement,    https://blue.sandiego.edu/emails/departments/provost/spring-
+3  semester21-update.php). Those guidelines had recently included orders directing 
+4  Californians to stay at home “except as needed to maintain continuity of . . . federal 
+5  critical infrastructure sectors.” (See Dkt. 33-2 Ex. E).2                 
+6       The second statement likewise doesn’t amount to a representation that 
+7  USD’s  classes  would  be  held  in-person.  While  it  stated  that  “some  courses 
+8  conducted in certain indoor settings . . . may be open” despite the current level of 
+9  restriction, it clarified that USD would “begin the spring semester with remote 
+10  instruction  only.”  The  statement  also  made  clear  that  holding  any  in-person 
+11  classes was subject to “state recommendations and county orders” beyond USD’s 
+12  control.  (Jan.  8,  2021  Announcement,  https://blue.sandiego.edu/onward/2021/ 
+13  spring-semester-updates-2021-01-08.html).    Again,  these  statements  weren’t 
+14  false because they didn’t amount to a representation that classes would be held 
+15  in-person; rather, USD told Plaintiffs that it would begin the semester holding all 
+16  classes remotely and that it “may” open some classes to in-person instruction 
+17  when legally permitted.                                                   
+18       Because the CCAC doesn’t allege any “[r]epresent[ations] that . . . [USD’s] 
+19  services [had]. . . characteristics . . . that they [did] not have [or] . . . [were] of a 
+20  particular, standard, quality, or grade . . . [but were] another,” Cal. Civ. Code 
+21  §§ 1770(a)(5), (a)(7), it doesn’t allege a violation of those sections of the CLRA. 
+22  That claim is DISMISSED WITHOUT PREJUDICE.                                
+23    VII.  The CCAC Fails to State a UCL Claim                               
+24       USD last argues that Plaintiffs aren’t entitled to any relief under California’s 
+25  Unfair Competition Law because they have failed to allege that USD engaged in 
+26  an “unlawful, unfair, or fraudulent” act or practice. </pre><span class="citation no-link">Cal. Bus. &amp; Prof. Code § 17200</span><pre class="inline">. 
+27                                                                            
+   2 The Court takes judicial notice of this document at Defendants’ request and 
+1  The UCL’s “larger purpose” is “protecting the general public against unscrupulous 
+2  business practices,” and courts must construe it accordingly. In re Tobacco II 
+3  Cases, </pre><span class="citation" data-id="9685293"><a href="/opinion/1801796/in-re-tobacco-ii-cases/#312" aria-description="Citation for case: In Re Tobacco II Cases">46 Cal. 4th 298, 312</a></span><pre class="inline"> (2009). Following this construction, the Court holds 
+4  that the CCAC doesn’t allege any conduct that violates the UCL.           
+5       The parties agree that the “unlawful” prong is fulfilled only if the CCAC states 
+6  a claim under CLRA. (See Dkt. 37 at 24; CCAC ¶ 144; Dkt. 33-1 at 24 (citing 
+7  Korea Supply Co. v. Lockheed Martin Corp., </pre><span class="citation" data-id="9796353"><a href="/opinion/2630547/korea-supply-co-v-lockheed-martin-corp/#1143" aria-description="Citation for case: Korea Supply Co. v. Lockheed Martin Corp.">29 Cal. 4th 1134, 1143</a></span><pre class="inline"> (2003)). 
+8  Because it doesn’t, Plaintiffs haven’t stated a UCL claim under the “unlawful” 
+9  prong.                                                                    
+10       The CCAC bases its contention that USD’s conduct was “fraudulent” on 
+11  USD’s representations regarding the services it would offer. (CCAC ¶¶ 146, 148). 
+12  These statements weren’t fraudulent within the meaning of the UCL. Although 
+13  common law fraud requires allegations that a statement be “actually false, known 
+14  to be false by the perpetrator and reasonably relied upon by a victim who incurs 
+15  damages,” “[n]one of these elements are required to state a claim for injunctive 
+16  relief under the UCL.” In re Tobacco II Cases, </pre><span class="citation" data-id="9685293"><a href="/opinion/1801796/in-re-tobacco-ii-cases/#312" aria-description="Citation for case: In Re Tobacco II Cases">46 Cal. 4th at 312</a></span><pre class="inline">. Instead, “it is 
+17  necessary only to show that members of the public are likely to be deceived.” Day 
+18  v. AT&amp;T Corp., </pre><span class="citation" data-id="2252425"><a href="/opinion/2252425/day-v-at-t-corp/#332" aria-description="Citation for case: Day v. AT &amp; T CORP.">63 Cal. App. 4th 325, 332</a></span><pre class="inline"> (1998). Nevertheless, the statements 
+19  must amount to an “unscrupulous practice.” In re Tobacco II Cases, </pre><span class="citation multiple-matches"><a href="/c/Cal.%204th/46/20/">46 Cal. 4th 
+20</a></span><pre class="inline">  at 312. Interpreting this requirement consistently with the statutory purpose of 
+21  protecting the public against unscrupulous practices, the Court finds that USD’s 
+22  alleged statements were not fraudulent. As discussed above, the CCAC doesn’t 
+23  allege that USD knew or had any way of knowing that the COVID-19 pandemic 
+24  would  interfere  with  its  ability  to  keep  any  pre-pandemic  promises.  And  the 
+25  University’s  December  2020  and  January  2021  statements  were  sufficiently 
+26  qualified that they weren’t likely to deceive members of the public regarding the 
+27  University’s ability to provide in-person instruction and activities during the Spring 
+1          Finally,  though  Plaintiffs  contend  that the  “unfair”  prong  is fulfilled  both  by 
+2   ||USD’s  representations  regarding  its  services  and  the  University’s  “systematic[] 
+3   ||breach[es]”  of their  contracts  with  Plaintiffs,  these  both  effectively  amount  to  a 
+4    single practice: USD’s alleged failure to follow through on its promises. (CCAC   
+5   ||145—46).  But federal courts  in the  Ninth  Circuit have held that,  “where the unfair 
+6 || business practices alleged under the unfair prong of the UCL overlap entirely with 
+7   ||the  business  practices  addressed  in  the  fraudulent  and  unlawful  prongs  of the 
+8    UCL, the unfair prong of the UCL cannot survive if the claims under the other two 
+9 || prongs of the UCL do not survive.” NorthBay Healthcare Grp.  - Hosp. Div.  v.  Blue 
+10 || Shield of California  Life  &amp;  Health  Ins.,  </pre><span class="citation" data-id="7250737"><a href="/opinion/7332819/northbay-healthcare-grp-hosp-div-v-blue-shield-of-cal-life-health/#988" aria-description="Citation for case: Northbay Healthcare Grp. - Hosp. Div. v. Blue Shield of...">342  F.  Supp.  3d  980,  988-89</a></span><pre class="inline">  (N.D.  Cal. 
+11   ||2018);  see also Hadley v.  Kellogg Sales Company,  </pre><span class="citation" data-id="7242812"><a href="/opinion/7324900/hadley-v-kellogg-sales-co/" aria-description="Citation for case: Hadley v. Kellogg Sales Co.">243  F.  Supp.  3d  1074</a></span><pre class="inline">,  1104 
+12   ||(N.D.  Cal.  2017).  Because the Court already determined that USD’s statements, 
+13   ||as  alleged,  were  neither  unlawful  nor  fraudulent,  the  Court  won&#x27;t  expand  the 
+14   ||meaning of those two terms by deeming the statements unfair. 
+15         The  CCAC  doesn&#x27;t  allege  any  unlawful,  unfair,  or  fraudulent  acts  or 
+16 || practices, so its UCL claim is DISMISSED WITHOUT PREJUDICE. 
+17                                     CONCLUSION 
+18         The Motion to Dismiss is GRANTED IN PART AND DENIED IN PART. The 
+19   ||facts alleged in the CCAC preclude recovery for unjust enrichment or conversion, 
+20   |/so  those  claims  are  DISMISSED  WITH  PREJUDICE.  Plaintiffs  don’t  allege 
+21   ||sufficient  facts  to  support  their  CLRA  and  UCL  claims,  which  are  DISMISSED 
+22     WITHOUT PREJUDICE. 
+23         IT IS SO ORDERED. 
+24 
+95, || Dated:  March 30, 2022                 bi  uf  A.   ‘by   WY 
+26                                           Hon. Larry Alan Burns 
+                                            United States District Judge 
+28 </pre>

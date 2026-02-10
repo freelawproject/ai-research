@@ -1,0 +1,99 @@
+<p class="case_cite"><span class="citation" data-id="8991694"><a href="/opinion/8999212/mickelson-v-leser-in-re-leser/" aria-description="Citation for case: Mickelson v. Leser (In re Leser)">939 F.2d 669</a></span></p>
+    <p class="case_cite"><span class="citation no-link">60 USLW 2127</span>, <span class="citation no-link">25 Collier Bankr.Cas.2d 382</span>,<br><span class="citation no-link">21 Bankr.Ct.Dec. 1589</span>, <span class="citation no-link">Bankr. L. Rep.  P 74,118</span></p>
+    <p class="parties">In re Frank J. LESER and Alicia K. Leser.<br>J.J. MICKELSON, Trustee of the Bankruptcy Estate of Frank J.<br>Leser and Alicia K. Leser, Appellant,<br>v.<br>Frank J. LESER and Alicia K. Leser, Appellees.</p>
+    <p class="docket">No. 90-5492.</p>
+    <p class="court">United States Court of Appeals,<br>Eighth Circuit.</p>
+    <p class="date">Submitted March 13, 1991.<br>Decided Aug. 1, 1991.<br>Rehearing and Rehearing En Banc<br>Denied Sept. 17, 1991.</p>
+    <div class="prelims">
+      <p class="indent">Thomas J. Lailler, argued (Carole L. Clark, on brief), for appellant.</p>
+      <p class="indent">Curtis K. Walker, Minneapolis, Minn., for appellees.</p>
+      <p class="indent">Before BOWMAN, Circuit Judge, HEANEY, Senior Circuit Judge, and DUMBAULD,<a class="footnote" href="#fn-s" id="fn-s_ref">*</a> District Judge.</p>
+      <p class="indent">BOWMAN, Circuit Judge.</p>
+    </div>
+    <div class="num" id="p1">
+      <span class="num">1</span>
+      <p class="indent">The question before us is whether a Chapter 13 plan may provide for the separate classification and treatment of unsecured claims for child support arrearages assigned to county collection departments by the debtor's former wife.  According to the plan confirmed by the Bankruptcy Court,<a class="footnote" href="#fn1" id="fn1_ref">1</a> the counties would receive full payment of their claims, while other general unsecured creditors would be paid 8% of their claims on a pro rata basis.  J.J. Mickelson, the trustee of the bankruptcy estate of debtors Frank J. and Alicia K. Leser, appeals the decision of the District Court<a class="footnote" href="#fn2" id="fn2_ref">2</a> affirming the plan's confirmation.  We affirm that decision.</p>
+    </div>
+    <div class="num" id="p2">
+      <span class="num">2</span>
+      <p class="indent">This case presents an issue of first impression.  Although several courts have decided, with divided results,<a class="footnote" href="#fn3" id="fn3_ref">3</a> whether a Chapter 13 plan may designate claims for child support in a class separate from other unsecured claims, no court has published an opinion addressing whether Chapter 13 of the Bankruptcy Code, <span class="citation no-link">11 U.S.C. Sec. 1301</span> et seq.  (1988), permits child support arrearages assigned to a county collection agency to be separately classified.</p>
+    </div>
+    <div class="num" id="p3">
+      <span class="num">3</span>
+      <p class="indent">Our standard of review over bankruptcy appeals is the same as that of the District Court.  We must determine whether the bankruptcy court's challenged legal conclusions are correct and whether its challenged factual findings are clearly erroneous.  Wegner v. Grunewaldt, <span class="citation" data-id="8951670"><a href="/opinion/8960520/wegner-v-grunewaldt/#1320" aria-description="Citation for case: Wegner v. Grunewaldt">821 F.2d 1317, 1320</a></span> (8th Cir.1987).  In this case, there are no factual disputes;  the question is solely one of legal interpretation.</p>
+    </div>
+    <div class="num" id="p4">
+      <span class="num">4</span>
+      <p class="indent">The starting point of our analysis is the Bankruptcy Code, specifically the section governing the classification of debts in a Chapter 13 plan.  Section 1322(b)(1) allows the plan to "designate a class or classes of unsecured claims, as provided in section 1122 of this title, but [the plan] may not discriminate unfairly against any class so designated."    <span class="citation no-link">11 U.S.C. Sec. 1322</span>(b)(1) (1988).  Thus, nothing prohibits a debtor from placing unsecured claims in separate classes in his or her Chapter 13 plan as long as the classification 1) complies with section 1122 of the Code and 2) does not result in unfair discrimination between the claims grouped separately.</p>
+    </div>
+    <div class="num" id="p5">
+      <span class="num">5</span>
+      <p class="indent">The portion of section 1122 pertinent to our discussion states that "a plan may place a claim or an interest in a particular class only if such claim or interest is substantially similar to the other claims or interests of such class...."  <span class="citation no-link">11 U.S.C. Sec. 1122</span>(a) (1988).<a class="footnote" href="#fn4" id="fn4_ref">4</a>   In setting forth the "substantially similar" requirement, the section tells us when claims may be included in the same class;  it does not tell us when they must be.  Although some courts have read section 1122 to require the placement of all unsecured claims in the same class, see, e.g., In re Iacovoni, <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#260" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256, 260-61</a></span> (Bankr.D.Utah 1980), we rejected this interpretation in Hanson v. First Bank of South Dakota, N.A., <span class="citation" data-id="494190"><a href="/opinion/494190/gary-d-hanson-sandra-kay-hanson-v-first-bank-of-south-dakota-na/#1313" aria-description="Citation for case: Gary D. Hanson, Sandra Kay Hanson v. First Bank of South...">828 F.2d 1310, 1313</a></span> (8th Cir.1987), holding that the section "does not prohibit the placement of substantially similar claims in different classes."</p>
+    </div>
+    <div class="num" id="p6">
+      <span class="num">6</span>
+      <p class="indent">Unlike the case at hand, Hanson involved a Chapter 11 plan.  This distinction was emphasized at oral argument by counsel for the trustee.  Emphasizing the remedies available to unsecured creditors in Chapter 7 and 11 cases but not under Chapter 13, the trustee argues against separate classification of the counties' unsecured claims.  We are unpersuaded by this line of reasoning.  To adopt the trustee's interpretation of section 1122 "would conflict with section 1322(b)(1), which specifically authorizes designation of more than one class of unsecured creditor, each presumably with equal legal rights to the debtor's estate."    Barnes v. Whelan, <span class="citation" data-id="7849390"><a href="/opinion/7900992/barnes-v-whelan/#201" aria-description="Citation for case: Barnes v. Whelan">689 F.2d 193, 201</a></span> (D.C.Cir.1982).  We therefore conclude that the separate classification of the counties' claims in the Lesers' Chapter 13 plan does not violate section 1122.</p>
+    </div>
+    <div class="num" id="p7">
+      <span class="num">7</span>
+      <p class="indent">Turning to the second requirement of section 1322(b)(1), we examine whether placement of the counties' claims in a separate class unfairly discriminates against the other unsecured claims.  As noted by the Bankruptcy Court, "by allowing for separate classes of unsecured claims, Congress anticipated some discrimination, otherwise separate classes would have no significance.  It is only unfair discrimination that is prohibited."    In re Storberg, <span class="citation" data-id="1972455"><a href="/opinion/1972455/in-re-storberg/#146" aria-description="Citation for case: In Re Storberg">94 B.R. 144, 146</a></span> (Bankr.D.Minn.1988).  Lacking more explicit direction from Congress, courts have developed a four-part test to determine whether a proposed separate classification of unsecured claims is fair by inquiring:  (1) whether the discrimination has a reasonable basis;  (2) whether the debtor can carry out a plan without the discrimination;  (3) whether the discrimination is proposed in good faith;  and (4) whether the degree of discrimination is directly related to the basis or rationale for the discrimination.  In re Wolff, <span class="citation" data-id="9686594"><a href="/opinion/1821177/amfac-distribution-corp-v-wolff-in-re-wolff/#512" aria-description="Citation for case: Amfac Distribution Corp. v. Wolff (In Re Wolff)">22 B.R. 510, 512</a></span> (Bankr.9th Cir.1982).  See also Storberg, <span class="citation" data-id="1972455"><a href="/opinion/1972455/in-re-storberg/" aria-description="Citation for case: In Re Storberg">94 B.R. at 146</a></span> (quoting In re Dziedzic, <span class="citation" data-id="1548269"><a href="/opinion/1548269/in-re-dziedzic/#427" aria-description="Citation for case: In Re Dziedzic">9 B.R. 424, 427</a></span> (Bankr.S.D.Tex.1981).<a class="footnote" href="#fn5" id="fn5_ref">5</a></p>
+    </div>
+    <div class="num" id="p8">
+      <span class="num">8</span>
+      <p class="indent">Although the Bankruptcy Court did not explicitly apply each part of the test to determine that the Lesers' Chapter 13 plan did not unfairly discriminate between the counties and the other unsecured creditors, we are satisfied that its conclusion based on its implicit findings is correct.  In reaching his decision, Judge Kressel relied upon his analysis set forth in Storberg.    There, following a lengthy discussion of "the overwhelming public policy in favor of providing for support of children, [Judge Kressel rejected the trustee's argument] that the debtor's separate classification for such support is unfair."    <span class="citation" data-id="1972455"><a href="/opinion/1972455/in-re-storberg/#147" aria-description="Citation for case: In Re Storberg">94 B.R. at 147</a></span>.    Here, while noting the differences between claims payable directly to the child's custodian and support claims assigned to a county collection agency, Judge Kressel concluded that "those differences [do not] change the result" of his decision reached in Storberg.    In re:  Leser, Bky. 4-89-2665 (Bankr.D.Minn. Jan. 5, 1990), reprinted in Appellant's Appendix, pt. 7 at 1, 2.  We find no legal error in that conclusion.</p>
+    </div>
+    <div class="num" id="p9">
+      <span class="num">9</span>
+      <p class="indent">Judge Kressel's determination is further supported by the Code's indistinguishable treatment between claims for child support held by a custodial parent and claims assigned to a county collection agency.  The assignment of a claim for delinquent child support to a county agency does not render the obligation dischargeable.  Section 523(a)(5) provides that a discharge under section 1328(b)</p>
+    </div>
+    <div class="num" id="p10">
+      <span class="num">10</span>
+      <p>does not discharge an individual debtor from any debt ... to a spouse, former spouse, or child of the debtor, for ... support of such ... child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that ... such debt is assigned to another entity, voluntarily, by operation of law, or otherwise (other than debts assigned pursuant to section 402(a)(26) of the Social Security Act, or any such debt which has been assigned to the Federal Government or to a State or any political subdivision of such State )....</p>
+    </div>
+    <div class="num" id="p11">
+      <span class="num">11</span>
+      <p class="indent"><span class="citation no-link">11 U.S.C. Sec. 523</span>(a)(5) (1988) (emphasis added).  See also In re Wilson, <span class="citation" data-id="1871588"><a href="/opinion/1871588/in-re-wilson/#258" aria-description="Citation for case: In Re Wilson">29 B.R. 254, 258</a></span> (Bankr.D.Kan.1983) (past due child support assigned to county not dischargeable under Chapter 13).</p>
+    </div>
+    <div class="num" id="p12">
+      <span class="num">12</span>
+      <p class="indent">Emphasizing the nondischargeability feature of past due child support claims, one bankruptcy court found that the separate classification of these claims met the four-part test:</p>
+    </div>
+    <div class="num" id="p13">
+      <span class="num">13</span>
+      <p>[T]he discrimination in favor of the payment of back child support has a reasonable basis since it pertains to a debt which is not dischargeable in Chapter 13.  Further ... the failure to pay back child support in full indicates a lack of good faith barring confirmation.  Thus, it is doubtful that a Chapter 13 plan could be confirmed in most instances without a separate classification for child support, absent the relatively rare 100% payout plan.  The practical effect on the remaining unsecured creditors, whose debts are not paid in full, is virtually non-existent since their debts would be generally discharged under Chapter 7 in any event while the child support arrearages would not."</p>
+    </div>
+    <div class="num" id="p14">
+      <span class="num">14</span>
+      <p class="indent">In re Davidson, <span class="citation" data-id="1531148"><a href="/opinion/1531148/in-re-davidson/#387" aria-description="Citation for case: In Re Davidson">72 B.R. 384, 387</a></span> (Bankr.D.Colo.1987) (citation omitted).  If child support claims can properly be placed in a class separate from other unsecured claims in a Chapter 13 plan, and we are satisfied they can, the same result follows when these support claims are assigned to a county.  We therefore conclude that the placement of the counties' claims for child support arrearages in a separate class is not an unfair discrimination between these and the remaining unsecured claims.</p>
+    </div>
+    <div class="num" id="p15">
+      <span class="num">15</span>
+      <p class="indent">For the reasons stated above, we affirm the decision of the District Court upholding the confirmation of the Lesers' Chapter 13 plan.</p>
+    </div>
+    <div class="footnotes">
+      <div class="footnote" id="fn-s">
+        <a class="footnote" href="#fn-s_ref">*</a>
+        <p> The HONORABLE EDWARD DUMBAULD, Senior United States District Judge for the Western District of Pennsylvania, sitting by designation</p>
+      </div>
+      <div class="footnote" id="fn1">
+        <a class="footnote" href="#fn1_ref">1</a>
+        <p> The Honorable Robert J. Kressel, United States Bankruptcy Judge for the District of Minnesota</p>
+      </div>
+      <div class="footnote" id="fn2">
+        <a class="footnote" href="#fn2_ref">2</a>
+        <p> The Honorable David S. Doty, United States District Judge for the District of Minnesota</p>
+      </div>
+      <div class="footnote" id="fn3">
+        <a class="footnote" href="#fn3_ref">3</a>
+        <p> See, e.g., In re Storberg, <span class="citation" data-id="1972455"><a href="/opinion/1972455/in-re-storberg/" aria-description="Citation for case: In Re Storberg">94 B.R. 144</a></span> (Bankr.D.Minn.1988) (separate classification confirmed);  In re Haag, <span class="citation" data-id="1970857"><a href="/opinion/1970857/in-re-haag/" aria-description="Citation for case: In Re Haag">3 B.R. 649</a></span> (Bankr.D.Or.1980) (separate classification confirmed);  In re Warner, <span class="citation" data-id="2002874"><a href="/opinion/2002874/in-re-warner/" aria-description="Citation for case: In Re Warner">115 B.R. 233</a></span> (Bankr.C.D.Cal.1989) (separate classification denied);  In re Stewart, <span class="citation" data-id="1944277"><a href="/opinion/1944277/in-re-stewart/" aria-description="Citation for case: In Re Stewart">52 B.R. 281</a></span> (Bankr.W.D.N.Y.1985) (separate classification denied)</p>
+      </div>
+      <div class="footnote" id="fn4">
+        <a class="footnote" href="#fn4_ref">4</a>
+        <p> Although not applicable in this case, subsection (b) explicitly permits the separate classification of certain unsecured claims for administrative convenience.  <span class="citation no-link">11 U.S.C. Sec. 1122</span>(b) (1988).  "[I]t has always been assumed that the purpose of Sec. 1122(b) was to allow special treatment for small claims, so that they could be eliminated early and reduce the number of claims that would have to be paid over time."    Storberg, <span class="citation" data-id="1972455"><a href="/opinion/1972455/in-re-storberg/" aria-description="Citation for case: In Re Storberg">94 B.R. at 146</a></span> n. 2</p>
+      </div>
+      <div class="footnote" id="fn5">
+        <a class="footnote" href="#fn5_ref">5</a>
+        <p> Although Dziedzic states the fourth part of the test as "the treatment of the class discriminated against," In re Dziedzic, <span class="citation" data-id="1548269"><a href="/opinion/1548269/in-re-dziedzic/#427" aria-description="Citation for case: In Re Dziedzic">9 B.R. 424, 427</a></span> (Bankr.S.D.Tex.1981), this semantic difference does not change the substance of the inquiry</p>
+      </div>
+    </div>
+    

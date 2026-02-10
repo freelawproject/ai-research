@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opinion type="majority">
+<p id="b930-17">
+  MEMORANDUM AND ORDER
+ </p>
+<author id="b930-18">
+  MERRITT S. DEITZ, Jr., Bankruptcy Judge.
+ </author>
+<p id="b930-19">
+  Here we further contribute to the growing body of literature on “good faith” as an essential component of a Chapter 13 plan for the adjustment of debts. The adverb “further” should be read in its full federal context, for this “good faith” case is the first to be decided in this district,.
+  <a class="footnote" href="#fn1" id="fn1_ref">
+   1
+  </a>
+</p>
+<p id="b930-20">
+  Specifically at issue is the so-called “nominal payment” plan, in which unsecured creditors are paid little or nothing in the debtor’s effort toward rehabilitation. The Court’s duty is to determine whether such a plan is “in good faith” as required by Sec. 1325 of the Bankruptcy Code.
+  <a class="footnote" href="#fn2" id="fn2_ref">
+   2
+  </a>
+</p>
+<p id="b930-21">
+  The two simple words, “good faith”, have precipitated a judicial stampede in search of their meaning. Over a hundred thousand words, in 49 published opinions from 27 federal districts, have been dedicated to the quest for definition.
+  <a class="footnote" href="#fn3" id="fn3_ref">
+   3
+  </a>
+  Citing every authority imaginable, and some, such as
+  <em>
+   Romeo and Juliet
+  </em>
+  and
+  <em>
+   The Federalist Papers,
+  </em>
+  which are unimaginable,
+  <a class="footnote" href="#fn4" id="fn4_ref">
+   4
+  </a>
+  bankruptcy judges have
+  <span citation-index="1" class="star-pagination" label="879"> 
+   *879
+   </span>
+  sought to cloak the ethereal concept with tangible garb.
+ </p>
+<p id="b931-5">
+  With reasoning which ranges from surgical precision to tortured convolution, courts have approved, and disapproved, plans for the repayment of unsecured creditors from zero percent to 70 percent of the amounts of their claims.
+ </p>
+<p id="b931-6">
+  This surfeit of deliberation, this cacophony of opinion, this polyglot of wisdom, is troublesome to the mind. A judge, when confronted with an unsettling point of first impression, would better resort to common sense than to sophisticated logic or contrived reasoning. Oliver Wendell Holmes said it:
+ </p>
+<blockquote id="b931-7">
+  “The very considerations which judges most rarely mention, and always with an apology, are the secret root from which the law draws all the juices of life. I mean, of course, considerations of what is expedient for the community concerned.”
+  <a class="footnote" href="#fn5" id="fn5_ref">
+   5
+  </a>
+</blockquote>
+<p id="b931-8">
+  If, in today’s mercantile community, one were to ask a creditor, “Would you rather receive nothing of what you are owed, or one per cent of it?” he would likely reply, “It makes no difference”. If the debtor were asked whether he would prefer to pay none of his debt or one percent of it, the same response would be predictably forthcoming.
+ </p>
+<p id="b931-9">
+  Now if that makes common sense, we will with this opinion depart from the Babel of the reported decisions, to simply but resolutely declare that:
+ </p>
+<p id="b931-10">
+  1. The nominal payment plan in this case was not proposed in good faith and will not be confirmed;
+ </p>
+<p id="b931-11">
+  2. In no factual circumstance which we can presently envision would a “zero plan” or “one percent plan” be acceptable to this Court; and
+ </p>
+<p id="b931-13">
+  3.The greater the percentage of debt proposed to be paid, the stronger the presumption of good faith; the lesser the percentage, the more intense must be the inquiry of the Court into the issue of good faith.
+ </p>
+<p id="b931-14">
+<em>
+   The Facts of the Case
+  </em>
+</p>
+<p id="ALF">
+  The substance of the debtor’s plan provides for full payment of allowed secured claims, and payment of only one percent of unsecured claims. The debtor has made use of the lien avoidance remedy provided in <span class="citation no-link">11 U.S.C. § 522</span>(f) to relegate to unsecured status the claims of creditors who held non-possessory, non-purchase money security interests. The claims totalled $2,843.07.
+ </p>
+<p id="b931-15">
+  Of the two remaining secured claims, one amounts to only $99.95. The other, held by General Motors Acceptance Corporation (GMAC) is in the amount of $8,040.48. It represents a security interest in the debtor’s 1979 Chevrolet Impala. Because in bankruptcy a claim is secured only to the extent of the value of the property,
+  <a class="footnote" href="#fn6" id="fn6_ref">
+   6
+  </a>
+  GMAC’s claim was reduced from $8,048.48 to $4,550.00, the value of the automobile. The difference of $3,490.48 is treated as unsecured. The debtor has also used Chapter 13 to force GMAC to redeem the debt.
+ </p>
+<p id="b931-16">
+  The debtor proposes to pay the trustee $160 a month. Her take-home pay is $580 per month and her itemized budgetary expenses total $415, which, when the payments under the plan are included, will total $575. She will be left $5 per month for contingencies not otherwise provided for in her budget.
+ </p>
+<p id="b931-17">
+  The practical effect of the plan is to deal with only one creditor, GMAC. The bulk of the payment the trustee receives will be used to pay for the debtor’s automobile. The secured claims total approximately $4,650, all but $100 of which is held by GMAC. The unsecured debt totals $7,086,
+  <span citation-index="1" class="star-pagination" label="880"> 
+   *880
+   </span>
+  of which approximately $6,300 was rendered unsecured under bankruptcy law by lien avoidance and reduction of the secured claims to the value of the property.
+ </p>
+<p id="b932-4">
+  The trustee recommended that we deny confirmation of the plan because it was not proposed in “good faith”. We concur.
+ </p>
+<p id="b932-5">
+  * * * * * *
+ </p>
+<p id="b932-6">
+  In what may appear to be a momentary digression, we will swiftly return to the point.
+ </p>
+<p id="b932-7">
+  The automobile is a major stage set in the bankruptcy drama. Its acquisition, often beyond the means of its purchaser; its maintenance, similarly costly; its use and abuse, leading to uninsured accidents; and its absence, preventing its owner from earning a living at a distance: All of these attributes bring its driver to these portals.
+ </p>
+<p id="b932-8">
+  This is such a case. This is not a meaningful effort in good faith to repay creditors. This is an effort to keep the car, nothing more.
+  <a class="footnote" href="#fn7" id="fn7_ref">
+   7
+  </a>
+</p>
+<p id="b932-9">
+<em>
+   The State of the Law
+  </em>
+</p>
+<p id="b932-10">
+  Section 1325 of the Bankruptcy Code compels court approval of a Chapter 13 plan if certain conditions are met. The court must be satisfied that the debtor will be able to make all payments under the plan and comply with the plan,
+  <a class="footnote" href="#fn8" id="fn8_ref">
+   8
+  </a>
+  and the unsecured creditors must not receive less under the plan than what they would have if the debtor’s estate were liquidated under Chapter 7.
+  <a class="footnote" href="#fn9" id="fn9_ref">
+   9
+  </a>
+</p>
+<p id="b932-15">
+  But compliance with these monetarily quantifiable requirements does not automatically warrant confirmation of the plan. Section 1325(a)(3) compels the debtor to propose the plan in good faith-a requirement which is hardly as precise and determinable as the minimal, payment requirements of Sections 1325(a)(4) and (6).
+ </p>
+<p id="b932-16">
+  Several courts have firmly announced that a plan’s offered payments should not be a factor in considering good faith, and that so long as the unsecured creditors would receive an amount under the plan that is not less than what they would have gotten in a Chapter 7 liquidation, the plan should be confirmed.
+  <a class="footnote" href="#fn10" id="fn10_ref">
+   10
+  </a>
+  By adopting this posture, courts have confirmed “plans”, a word which in those cases is surely stretched to its fullest,
+  <a class="footnote" href="#fn11" id="fn11_ref">
+   11
+  </a>
+  which provide for no payments whatsoever to unsecured creditors.
+  <a class="footnote" href="#fn12" id="fn12_ref">
+   12
+  </a>
+</p>
+<p id="b932-17">
+  But as the legislative history indicates, repayment is a
+  <em>
+   sine qua non
+  </em>
+  of a Chapter 13 plan. Accordingly, equating repayment of claims to the “good faith” requirement ensures that the general creditors in a Chapter 13 plan will be fairly dealt with. Perhaps the best index of good faith in a Chapter 13 plan is the quintessence of the plan itself-the payments proposed to be made.
+ </p>
+<p id="b932-18">
+  Good faith is nowhere defined in the Code, nor could it realistically be. But one commentator has concluded that “the [good faith] inquiry is directed to whether or not there has been an abuse of the provisions, purpose, or spirit of Chapter XIII in the proposal or plan”.
+  <a class="footnote" href="#fn13" id="fn13_ref">
+   13
+  </a>
+  The “purpose” or
+  <span citation-index="1" class="star-pagination" label="881"> 
+   *881
+   </span>
+  “spirit” of Chapter 13, as gleaned from both the legislative history and from the broad discharge provisions of the Code, is to provide the debtor with an effective and court-protected method for the meaningful repayment of his debts.
+ </p>
+<p id="b933-5">
+  When the Code was adopted, the Chapter 13 debtor became endowed with previously unheard of power to shape his plan in a manner in which
+  <em>
+   he
+  </em>
+  might see fit. Under the old Act, the heavy anvil of the creditors’ right to veto a plan loomed over the debtor. Further, the Chapter 13 debtor is permitted to discharge debts that would otherwise be nondischargeable in Chapter 7, and may seek an unlimited number of Chapter 13 discharges without regard to time limitations for doing so.
+ </p>
+<p id="b933-6">
+  With this freedom comes attendant responsibilities, including, most importantly, the responsibility to deal with creditors fairly and honestly by repaying them a substantial portion of what they are owed.
+ </p>
+<p id="b933-7">
+  This thought is supported by the legislative history of the Code. Congress anticipated substantial preservation, not derogation, of creditors’ claims. The enactment of Chapter 13 was premised on creditor, as well as debtor, satisfaction. That is evident in the following passage from the House Report:
+ </p>
+<blockquote id="b933-8">
+  The purpose of Chapter 13 is to enable an individual under court supervision and protection, to develop and perform under a plan for the repayment of debts over an extended period. In some cases, the plan will call for full repayment. In others, it may offer creditors a percentage of their claims in full settlement.
+ </blockquote>
+<blockquote id="b933-14">
+  ... The benefit to creditors is self-evident: their losses will be significantly less than if their debtors opt for straight bankruptcy.
+  <a class="footnote" href="#fn14" id="fn14_ref">
+   14
+  </a>
+</blockquote>
+<p id="b933-15">
+  And as the following Senate Report indicates, Congress apparently overestimated the deterrence to minimal payment plans that <span class="citation no-link">11 U.S.C. § 727</span>(a)(9)
+  <a class="footnote" href="#fn15" id="fn15_ref">
+   15
+  </a>
+  would provide.
+ </p>
+<blockquote id="AITC">
+  The new chapter 13 will permit almost any individual with regular income to propose and have approved a reasonable plan for debt repayment based on the individual’s exact circumstances. As in current law, 100 percent payment plans will be encouraged by the limitation on availability of a subsequent discharge in section 727(a)(8) [Section 727(a)(9) as enacted]. This kind of plan has provided great self-satisfaction and pride to those debtors who complete them and at the same time effect a maximum return to creditors. The limitation of § 727(a)(8) will also provide a slight brake on the wholesale filings of Chapter 13’s by small businessmen who wish to avoid some of the restrictions of Chapter 11. It is also necessary to prevent Chapter 13 plans from turning into mere offers of composition plans under which payments would equal only the non-exempt assets of the debtor.
+  <a class="footnote" href="#fn16" id="fn16_ref">
+   16
+  </a>
+</blockquote>
+<p id="b933-16">
+  In holding that, based on the liberal discharge provisions and legislative history of Chapter 13, good faith requires “substantial” or “meaningful” payments to unsecured creditors, we join the ranks of the majority, not because it is the majority, but because it is right.
+  <a class="footnote" href="#fn17" id="fn17_ref">
+   17
+  </a>
+</p>
+<p id="b934-3">
+<span citation-index="1" class="star-pagination" label="882"> 
+   *882
+   </span>
+  But some courts have taken too restrictive a view of what comprises substantiality. The Northern District of California and the Middle District of Georgia have taken the extreme position that anything less than a 70% payment is not substantial, and cannot be confirmed.
+  <a class="footnote" href="#fn18" id="fn18_ref">
+   18
+  </a>
+  They reason that the enactment of § 727(a)(9), which disallows a Chapter 7 discharge if a Chapter 13 plan was filed within six years and did not provide for at least a 70% payment, evinces a desire by Congress that payments equal or exceed 70% of unsecured claims.
+ </p>
+<p id="b934-4">
+  There is no evidence, however, that Congress intended that § 727(a)(9) be used to establish the lowest monetary limit of good faith. The Senate Report quoted earlier
+  <a class="footnote" href="#fn19" id="fn19_ref">
+   19
+  </a>
+  expressed a hope that § 727(a)(9) would encourage almost full repayment of debt, but did not establish it as a prerequisite to confirmation.
+ </p>
+<p id="b934-5">
+  We share the concern expressed by Judge Flowers
+  <em>
+   In re Cook
+  </em>
+  that, “While a rule or percentage guideline is easy in application, the emphasis tends to be ‘how little is enough?’ rather than ‘how much is possible?’ ”
+  <a class="footnote" href="#fn20" id="fn20_ref">
+   20
+  </a>
+  We want to encourage debtors to pay as much as they can.
+ </p>
+<p id="b934-6">
+  We prefer to determine whether or not payments are substantial, and thus whether they are proposed in good faith, upon the facts of each case. This approach ensures the flexibility of the good faith standard, and permits the court on a case by case basis to exercise its discretion in deciding whether the spirit and purpose of Chapter 13 is being abused.
+ </p>
+<p id="b934-7">
+  Most courts which require substantial payments to unsecured creditors also prefer that good faith be pliable, and from their opinions and our own observations several factors seem most important for determining whether a good faith effort to make meaningful payments to holders of, unsecured claims has been made.
+ </p>
+<p id="b934-10">
+  In many cases, this one included, no one factor will be more critical for confirmation than the proposed percentage of repayment. However, a court might also consider how much the debtor can feasibly pay, the future income and payment prospects of the debtor, the dollar amount of debts outstanding, whether the debtor has invoked the liberal discharge provisions of Chapter 13 to discharge debts that were nondischargeable in Chapter 7,
+  <a class="footnote" href="#fn21" id="fn21_ref">
+   21
+  </a>
+  the extent to which the secured claims are modified, and whether the plan’s purpose is to repay only one secured creditor.
+ </p>
+<p id="b934-11">
+  To varying degrees, these factors must be weighed to equitably assess whether a plan is proposed in good faith. In this case, the debtor proposes to pay one percent to unsecured creditors and has made special use of those bankruptcy provisions, applicable in both Chapter 7 and 13, that significantly affect the rights of secured creditors.
+ </p>
+<p id="b934-12">
+  While we are concerned that the undisguised purpose of the plan is to deal with only that secured creditor upon whom redemption has been forced, we also note that the debtor is proposing to pay as much as she reasonably can and is not seeking to use the favorable Chapter 13 provisions to discharge otherwise nondischargeable debts.
+ </p>
+<p id="b934-13">
+  But in spite of all other factors, favorable and unfavorable, the debtor’s failure to provide for any more than a one percent dividend to unsecured creditors evinces an inherent lack of good faith. “If debtors are permitted to propose one percent repayment plans, or no repayment at all, in the event that general unsecured creditors would not receive any more ‘. .. if the
+  <span citation-index="1" class="star-pagination" label="883"> 
+   *883
+   </span>
+  estate of the debtor were liquidated under Chapter 7 . .. ’, then the cited language from the legislative history becomes meaningless”.
+  <a class="footnote" href="#fn22" id="fn22_ref">
+   22
+  </a>
+</p>
+<p id="b935-5">
+  In announcing that a “de minimis” plan will not be confirmed, we put aside momentarily a balanced examination into
+  <em>
+   all
+  </em>
+  factors surrounding a case. When any one variable more conspicuously abuses the spirit of Chapter 13 than all of the others, that variable should be given its disproportionate weight.
+ </p>
+<p id="b935-6">
+  All of the facts and circumstances should be assigned equal weight only if, initially, the proposed percentage of repayment would fall within the rubric of “substantiality”. It would be an etymological fiction to conclude that one percent is substantial.
+ </p>
+<p id="b935-7">
+  Obviously, the debtor’s inability to pay more than has been proposed under this plan has not been the controlling factor in this decision. “Good faith” is a broad concept encompassing several variables, and its relationship to its various components, especially the best effort to pay, will be here further explored.
+ </p>
+<p id="b935-8">
+<em>
+   The Concept of Good Faith
+  </em>
+</p>
+<p id="AQIH">
+  What is “good faith”?
+ </p>
+<p id="b935-9">
+  It is a term incapable of exact legislative definition, to the same extent and for the same reasons as are such words as “willful” and “malicious” and “intent”, connoting conditions of the mind which may be fathomed, if at all, only in their special factual setting.
+ </p>
+<p id="b935-12">
+  Much to the lament of some jurists,
+  <a class="footnote" href="#fn23" id="fn23_ref">
+   23
+  </a>
+  it is no more within the legislative craft to mandate a universal understanding of good faith than it is to precisely define guilt or innocence, love or hate, or any other words of mental or emotional content.
+ </p>
+<p id="b935-13">
+  Good faith is a juridical tool of remarkable flexibility. It is the measuring rod of intent. It is the instrument for the calibration of fraud. It is the new mold through which old legal duties may be recast for the adjustment of obligations not only in bankruptcy but under the Uniform Commercial Code.
+  <a class="footnote" href="#fn24" id="fn24_ref">
+   24
+  </a>
+  And in perhaps its most extraordinary and skillful application, it has been used by an enlightened judiciary to restore the integrity of contractual obligations throughout an entire country wracked by inflation.
+  <a class="footnote" href="#fn25" id="fn25_ref">
+   25
+  </a>
+</p>
+<p id="b935-14">
+  And ultimately, good faith is a question of fact, not of law. It is the duty of the trier of fact-in this as in virtually all bankruptcy cases, the court without the assistance of a jury-to determine its presence or absence. That finding of fact, as any other, may be overturned only if it is clearly erroneous under prevailing appellate standards.
+ </p>
+<p id="b935-15">
+<em>
+   The Concept of Best Effort
+  </em>
+</p>
+<p id="b935-16">
+  Equally elusive is the notion of best effort. Several courts have tinkered with the concept, attempting to attune it to the already complicated equipment of good faith. The resultant product may become either a functional machine or a clattersome shambles, depending upon its mechanic.
+ </p>
+<p id="b936-3">
+<span citation-index="1" class="star-pagination" label="884"> 
+   *884
+   </span>
+  Some courts have held that best effort is “important to a determination of ‘good faith’
+  <a class="footnote" href="#fn26" id="fn26_ref">
+   26
+  </a>
+  others view best effort as a standard higher than good faith, which the debtor need not attain;
+  <a class="footnote" href="#fn27" id="fn27_ref">
+   27
+  </a>
+  still others hold that a best-effort standard need not be considered at all.
+  <a class="footnote" href="#fn28" id="fn28_ref">
+   28
+  </a>
+</p>
+<p id="b936-4">
+  What is “best effort”?
+ </p>
+<p id="b936-5">
+  Not definable by
+  <em>
+   Words and Phrases
+  </em>
+  and even rejected by some courts as a meaningless and unprovable standard, it certainly imposes a legal duty of performance more demanding than mere competence or due diligence. In the view of economists, it means maximizing the contractual benefits of the person to whom the duty is owed, even if the benefits to the one owing the duty have been depleted. Said a slightly different way, if the duty of best effort is owed, it must be performed even at a loss.
+  <a class="footnote" href="#fn29" id="fn29_ref">
+   29
+  </a>
+</p>
+<p id="b936-6">
+  Obviously, then, best effort is a stricter standard of performance than good faith. But in the Chapter 13 context, we may restrict the
+  <em>
+   scope
+  </em>
+  of the best-effort duty and make it
+  <em>
+   only a part
+  </em>
+  of the broader duty of good faith.
+ </p>
+<p id="b936-7">
+  This is not semantic legerdemain. This is simply to say that the best-effort duty should be required
+  <em>
+   only as to the level of payments
+  </em>
+  proposed; and the level of payments is only one of several recognizable components of good faith.
+  <a class="footnote" href="#fn30" id="fn30_ref">
+   30
+  </a>
+</p>
+<p id="b936-8">
+  In the case at hand, the best effort as
+  <em>
+   to the level of payments
+  </em>
+  was made. But the plan still falls short of the broader good faith requirement of “meaningful” or “substantial” repayments to creditors.
+ </p>
+<p id="b936-9">
+  It is regrettable but true that in Chapter 13 plans, as in many other human endeavors, even one’s best may not be good enough.
+ </p>
+<p id="b936-17">
+<em>
+   The Duties of the Trustee
+  </em>
+</p>
+<p id="b936-18">
+  Excluded from the courtroom during the Chapter 13 first meetings, as we judges are under the new Bankruptcy Code, we necessarily delegate more authority to the Chapter 13 trustee.
+ </p>
+<p id="b936-19">
+  It is the trustee who now visually confronts and examines the applicant for relief. It is he who first appraises the applicant’s chances, as expressed through his physical presence, his testimony and his pro forma statement of intent, of Chapter 13 success. It is he who recommends to confirm or not to confirm a plan, and in this as in many another context, the power to recommend is the power to control.
+ </p>
+<p id="b936-20">
+  For that reason the trustee is entitled to some general insights into how his recommendations are likely to be regarded by the Court.
+ </p>
+<p id="b936-21">
+  The greater the percentage of debt proposed to be paid under the plan, the more should the trustee be inclined to presume good faith and recommend confirmation. Although “best effort” is not the conclusive criterion of good faith, it is nevertheless a significant one, entitled to substantial weight.
+ </p>
+<p id="b936-22">
+  Conversely, the lesser the proposed repayment, the more vigorously should the trustee examine the totality of the debtor’s circumstance to determine, among other things, whether the “effort” is the “best” that can be put forth.
+ </p>
+<p id="b936-23">
+  That is to say, the smaller the amount proposed to be repaid to unsecured creditors, the more probing and penetrating should be the inquiry of the trustee.
+  <a class="footnote" href="#fn31" id="fn31_ref">
+   31
+  </a>
+  His
+  <span citation-index="1" class="star-pagination" label="885"> 
+   *885
+   </span>
+  recommendation in favor of a nominal payment plan, in turn, should be more circumspectly viewed by the judge at the confirmation hearing.
+ </p>
+<p id="b937-5">
+<em>
+   Conclusion
+  </em>
+</p>
+<p id="b937-6">
+  Congress did not write Chapters 7A and 7B of the Bankruptcy Code. It enacted Chapters 7 and 13. They are not substitutes. They are alternatives.
+ </p>
+<p id="b937-7">
+  Any judge who has presided over a liquidation proceeding and a Chapter 13 proceeding knows the differences between them. In the former, the petitioners are at their end, devoid of hope and sometimes humiliated. In the latter, they continue to strive, with strained optimism, toward the attainment of goals to which they had committed during brighter times.
+ </p>
+<p id="b937-9">
+  Those differences of attitude and effort have definite economic and human value, and they should be recognized and respected. There is a vast difference between trying and being no longer able to try. We are not quite yet prepared to draw the boundary between them, on a map scaled from zero to 100, at between zero and one percent.
+ </p>
+<p id="b937-10">
+  If the ancient admonition
+  <em>
+   de minimis non curat lex
+  </em>
+  retains its vitality, we will intone it one further time. To propose to this Court that there is a distinction between a Chapter 7 liquidation plan and a Chapter 13 “one percent plan” is to propose a distinction without a difference, which is an intellectual artifice, and to which we will not be signatory. Confirmation is denied.
+ </p>
+<p id="b937-11">
+  APPENDIX
+ </p>
+<p id="b937-12">
+  In the following cases, nominal payment plans were disapproved:
+ </p>
+<p id="b937-13">
+  Anderson, 3B.R. 161, 6 BCD 73, (Bkrtcy. S. D. Cal. 1980).
+ </p>
+<p id="Aa6">
+  Beaver, <span class="citation" data-id="1887706"><a href="/opinion/1887706/in-re-beaver/" aria-description="Citation for case: In Re Beaver">2 B.R. 337</a></span>, 5 BCD 1285, (Bkrtcy. S. D. Cal. 1980).
+ </p>
+<p id="AA2">
+  Bloom, <span class="citation" data-id="1970474"><a href="/opinion/1970474/in-re-bloom/" aria-description="Citation for case: In Re Bloom">3 B.R. 467</a></span>, 6 BCD 141, (Bkrtcy. C. D. Cal. 1980).
+ </p>
+<p id="AFsW">
+  Brown, <span class="citation" data-id="6570530"><a href="/opinion/6690693/in-re-brown/" aria-description="Citation for case: In re Brown">7 B.R. 529</a></span>, 6 BCD 869, (Bkrtcy. S. D. N. Y. 1980).
+ </p>
+<p id="A9o">
+  Burrell
+  <a class="footnote" href="#fn*" id="fn*_ref">
+   *
+  </a>
+  , <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">2 B.R. 650</a></span>, 5 BCD 1321, (Bkrtcy. N. D. Cal. 1980).
+ </p>
+<p id="AD_z">
+  Campbell, <span class="citation" data-id="1970642"><a href="/opinion/1970642/in-re-campbell/" aria-description="Citation for case: In Re Campbell">3 B.R. 57</a></span>, 5 BCD 1365, (Bkrtcy. S. D. Cal. 1980).
+ </p>
+<p id="Aiyc">
+  Chaffin, <span class="citation" data-id="1538694"><a href="/opinion/1538694/in-re-chaffin/" aria-description="Citation for case: In Re Chaffin">4 B.R. 324</a></span>, 2 CBC 2d 229, (Bkrtcy. D. Kan. 1980).
+ </p>
+<p id="A96D">
+  Cole, <span class="citation" data-id="1970651"><a href="/opinion/1970651/matter-of-cole/" aria-description="Citation for case: Matter of Cole">3 B.R. 346</a></span>, 6 BCD 216, (Bkrtcy. S. D. W. Va. 1980).
+ </p>
+<p id="AJSj">
+  Cook, <span class="citation" data-id="1970517"><a href="/opinion/1970517/matter-of-cook/" aria-description="Citation for case: Matter of Cook">3 B.R. 480</a></span>, 6 BCD 219, (Bkrtcy. S. D. W. Va. 1980).
+ </p>
+<p id="AMKa">
+  Fonnest, 5BCD 1236, (N. D. Cal. 1980).
+ </p>
+<p id="Aarl">
+  Goeb, <span class="citation" data-id="1538843"><a href="/opinion/1538843/in-re-goeb/" aria-description="Citation for case: In Re Goeb">4 B.R. 735</a></span>, <span class="citation no-link">3 Bankr. L. Rep. (CCH) ¶ 67,587</span>
+ </p>
+<p id="AY9">
+  (Bkrtcy. S. D. Cal. 1980).
+ </p>
+<p id="AM8n">
+  Hall, 4B.R. 341, 6 BCD 476, (Bkrtcy. E. D. Va. 1980).
+ </p>
+<p id="A3Y">
+  Henry, <span class="citation no-link">4 B.R. 221</span>, <span class="citation no-link">3 Bankr. L. Rep. (CCH) ¶ 67,488</span>
+ </p>
+<p id="AU85">
+  (Bkrtcy. M. D. Tenn. 1980).
+ </p>
+<p id="AhyF">
+  Hobday, <span class="citation" data-id="1538731"><a href="/opinion/1538731/in-re-hobday/" aria-description="Citation for case: In Re Hobday">4 B.R. 417</a></span>, 6 BCD 469, (Bkrtcy. N. D. Oh. 1980).
+ </p>
+<p id="AiT">
+  Howard, <span class="citation" data-id="1970311"><a href="/opinion/1970311/in-re-howard/" aria-description="Citation for case: In Re Howard">3 B.R. 75</a></span>, 5 BCD 1375, (Bkrtcy. S. D. Cal. 1980).
+ </p>
+<p id="AkKB">
+  Hurd, <span class="citation" data-id="1538572"><a href="/opinion/1538572/in-re-hurd/" aria-description="Citation for case: In Re Hurd">4 B.R. 551</a></span>, 2 CBC 2d 190, (Bkrtcy. W. D. Mich. 1980).
+ </p>
+<p id="AV_">
+  Iacovoni, <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, 5 BCD 1270, (Bkrtcy. D. Utah 1980).
+ </p>
+<p id="AqXe">
+  Lockwood, <span class="citation" data-id="1534877"><a href="/opinion/1534877/in-re-lockwood/" aria-description="Citation for case: In Re Lockwood">5 B.R. 294</a></span>, 6 BCD 680, (Bkrtcy. S. D. Fla. 1980).
+ </p>
+<p id="AQt">
+  Madden, 1 CBC 2d 1093, (S. D. Oh. 1980).
+ </p>
+<p id="APi">
+  Manning, 5B.R. 387, 2 CBC 2d 873, (Bkrtcy. W. D. N. Y. 1980).
+ </p>
+<p id="A1Zq">
+  Marlow, <span class="citation" data-id="1970491"><a href="/opinion/1970491/matter-of-marlow/" aria-description="Citation for case: Matter of Marlow">3 B.R. 305</a></span>, 6 BCD 77, (Bkrtcy. N. D. Ill. 1980).
+ </p>
+<p id="AZ6P">
+  Montano, <span class="citation" data-id="1538767"><a href="/opinion/1538767/in-re-montano/" aria-description="Citation for case: In Re Montano">4 B.R. 535</a></span>, 6 BCD 487, (Bkrtcy. D. D. C. 1980).
+ </p>
+<p id="A_LV">
+  Murallo, <span class="citation" data-id="1538740"><a href="/opinion/1538740/matter-of-murallo/" aria-description="Citation for case: Matter of Murallo">4 B.R. 666</a></span>, 6 BCD 478, (Bkrtcy. D. Conn. 1980).
+ </p>
+<p id="AE3">
+  Patterson, <span class="citation" data-id="1538648"><a href="/opinion/1538648/in-re-patterson/" aria-description="Citation for case: In Re Patterson">4 B.R. 239</a></span>, 2 CBC 2d 149, (Bkrtcy. C. D. Cal. 1980).
+ </p>
+<p id="Ade">
+  Raburn, <span class="citation" data-id="1538715"><a href="/opinion/1538715/in-re-raburn/" aria-description="Citation for case: In Re Raburn">4 B.R. 624</a></span>, 6 BCD 453, (Bkrtcy. M. D. Ga. 1980).
+ </p>
+<p id="AVg0">
+  Shongalla, <span class="citation" data-id="1538679"><a href="/opinion/1538679/in-re-schongalla/" aria-description="Citation for case: In Re Schongalla">4 B.R. 360</a></span>, 6 BCD 408, (Bkrtcy. D. Md. 1980).
+ </p>
+<p id="A0Sg">
+  Seman, <span class="citation" data-id="1538714"><a href="/opinion/1538714/in-re-seman/" aria-description="Citation for case: In Re Seman">4 B.R. 568</a></span>, 6 BCD 626, (Bkrtcy. S. D. N. Y. 1980).
+ </p>
+<p id="AMk">
+  Tanke, <span class="citation" data-id="1538853"><a href="/opinion/1538853/in-re-tanke/" aria-description="Citation for case: In Re Tanke">4 B.R. 339</a></span>, 2 CBC 2d 240, (Bkrtcy. D. Colo. 1980).
+ </p>
+<p id="Ai_">
+<span citation-index="1" class="star-pagination" label="886"> 
+   *886
+   </span>
+  Nominal payment plans were approved in:
+ </p>
+<p id="b938-3">
+  <span class="citation" data-id="1538880"><a href="/opinion/1538880/matter-of-bellgraph/" aria-description="Citation for case: Matter of Bellgraph">4 B.R. 421</a></span>, 6 BCD 480, Bellgraph, (Bkrtcy. W. D. N. Y. 1980).
+ </p>
+<p id="AUZm">
+  <span class="citation" data-id="1970505"><a href="/opinion/1970505/in-re-cloutier/" aria-description="Citation for case: In Re Cloutier">3 B.R. 584</a></span>, 6 BCD 196, Cloutier, (Bkrtcy. D. Colo. 1980).
+ </p>
+<p id="An4">
+  <span class="citation" data-id="1887416"><a href="/opinion/1887416/matter-of-curtis/" aria-description="Citation for case: Matter of Curtis">2 B.R. 43</a></span>, 5 BCD 1214, Curtis, (Bkrtcy. W. D. Mo. 1980).
+ </p>
+<p id="Al3R">
+  <span class="citation" data-id="1992194"><a href="/opinion/1992194/in-re-dills/" aria-description="Citation for case: In Re Dills">7 B.R. 160</a></span>,6 BCD 800, Dills, (Bkrtcy. E. D. Tenn. 1980).
+ </p>
+<p id="AFh">
+  <span class="citation" data-id="1970774"><a href="/opinion/1970774/matter-of-harland/" aria-description="Citation for case: Matter of Harland">3 B.R. 597</a></span>, 6 BCD 235, Harland, (Bkrtcy. D. Neb. 1980).
+ </p>
+<p id="AGt">
+  <span class="citation" data-id="1538892"><a href="/opinion/1538892/in-re-jenkins/" aria-description="Citation for case: In Re Jenkins">4 B.R. 278</a></span>, 2 CBC 2d 129, Jenkins, (Bkrtcy. D. Colo. 1980).
+ </p>
+<p id="ANsN">
+  <span class="citation" data-id="1537909"><a href="/opinion/1537909/matter-of-johnson/" aria-description="Citation for case: Matter of Johnson">6 B.R. 34</a></span>,2 CBC 2d 552, Johnson, (Bkrtcy. N. D. Ill. 1980).
+ </p>
+<p id="AdPN">
+  <span class="citation" data-id="1970746"><a href="/opinion/1970746/cleveland-trust-co-v-keckler-in-re-keckler/" aria-description="Citation for case: Cleveland Trust Co. v. Keckler (In Re Keckler)">3 B.R. 155</a></span>, 6 BCD 14, Keckler, (Bkrtcy. N. D. Ohio 1980).
+ </p>
+<p id="A5sS">
+  <span class="citation" data-id="1535282"><a href="/opinion/1535282/thompson-supply-co-v-roy-in-re-roy/" aria-description="Citation for case: Thompson Supply Co. v. Roy (In Re Roy)">5 B.R. 611</a></span>, 2 CBC 2d 985, Roy, (Bkrtcy. M. D. Ala. 1980).
+ </p>
+<p id="A7x">
+  <span class="citation" data-id="1970706"><a href="/opinion/1970706/in-re-sadler/" aria-description="Citation for case: In Re Sadler">3 B.R. 536</a></span>, 1 CBC 2d 935, Sadler, (Bkrtcy. E. D. Ark. 1980).
+ </p>
+<p id="Aqtz">
+  <span class="citation" data-id="1970481"><a href="/opinion/1970481/tenney-v-terry-in-re-terry/" aria-description="Citation for case: Tenney v. Terry (In Re Terry)">3 B.R. 63</a></span>, 5 BCD 1397, Terry, (Bkrtcy. W. D. Ark. 1980).
+ </p>
+<p id="AYDN">
+  <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">630 F.2d 634</a></span>,3 Bankr. L. Rep. -rev’d in
+  <em>
+   In re Terry,
+  </em>
+  (CCH) ¶ 67,611
+ </p>
+<p id="Alu">
+  (8th Cir. 1980).
+ </p>
+<p id="Ag6">
+  Thebeau, (Bkrtcy. E. D. Ark. 1980). o ta o tO CL CO o co
+  <em>
+   lO
+  </em>
+  Pi pd CO
+ </p>
+<p id="AAh5">
+  Webb, (Bkrtcy. N. D. Cal. 1980). w o ü h-i CO t© &lt;© P5 CQ CO
+ </p>
+<p id="b938-33">
+  In these cases, high percentage plans were approved:
+ </p>
+<p id="b938-34">
+  Armstrong, <span class="citation" data-id="1970402"><a href="/opinion/1970402/in-re-armstrong/" aria-description="Citation for case: In Re Armstrong">3 B.R. 615</a></span>, 6 BCD 259, (Bkrtcy. D. Or. 1980).
+ </p>
+<p id="An_">
+  Pearson, <span class="citation" data-id="1538677"><a href="/opinion/1538677/in-re-pearson/" aria-description="Citation for case: In Re Pearson">4 B.R. 376</a></span>, 2 CBC 2d 290, (Bkrtcy. N. D. Ohio 1980).
+ </p>
+<p id="AhMN">
+  Powell, <span class="citation" data-id="1887669"><a href="/opinion/1887669/general-finance-co-of-virginia-v-powell-in-re-powell/" aria-description="Citation for case: General Finance Co. of Virginia v. Powell (In Re Powell)">2 B.R. 314</a></span>, 5 BCD 1233, (Bkrtcy. E. D. Va. 1980).
+ </p>
+<p id="b938-38">
+  The following miscellaneous cases are not directly on point:
+ </p>
+<p id="b938-39">
+  White, <span class="citation" data-id="1538682"><a href="/opinion/1538682/in-re-white/" aria-description="Citation for case: In Re White">4 B.R. 349</a></span>, 6 BCD 459, (Bkrtcy. E. D. Va. 1980).
+ </p>
+<p id="b938-40">
+  (28% over 27 mos., not in good faith).
+ </p>
+<p id="b938-41">
+  Bonder, <span class="citation" data-id="1970751"><a href="/opinion/1970751/in-re-bonder/" aria-description="Citation for case: In Re Bonder">3 B.R. 623</a></span>, 1 CBC 2d 943, (Bkrtcy. E. D. N. Y. 1980).
+ </p>
+<p id="b938-42">
+  (discharge of debt nondischargeable in Chapter 7 not in bad faith).
+ </p>
+<p id="b938-43">
+  McBride, <span class="citation" data-id="1538690"><a href="/opinion/1538690/beneficial-finance-co-of-alabama-v-mcbride-in-re-mcbride/" aria-description="Citation for case: Beneficial Finance Co. of Alabama v. McBride (In Re McBride)">4 B.R. 389</a></span>, 2 CBC 2d 302, (Bkrtcy. M. D. Ala. 1980).
+ </p>
+<p id="b938-44">
+  (discharge of debt nondischargeable in Chapter 7 not in bad faith).
+ </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footnotes"><div class="footnote" id="fn1" label="1">
+<a class="footnote" href="#fn1_ref">
+   1
+  </a>
+<p id="b930-12">
+   . We consciously fell short of the good faith issue in
+   <em>
+    In re Coleman,
+   </em>
+   <span class="citation" data-id="1887146"><a href="/opinion/1887146/in-re-coleman/" aria-description="Citation for case: In Re COLEMAN">2 B.R. 348</a></span> (Bkrtcy.1980), basing the opinion on the narrower ground that three years was not a “reasonable time” within which to cure a default. Not so shy was Judge Thomas Ballantine, who, in affirming on appeal, flatly stated that the one-creditor plan had not been proposed in good faith.
+   <em>
+    In re Coleman,
+   </em>
+   <span class="citation" data-id="1535183"><a href="/opinion/1535183/coleman-v-brown-in-re-coleman/" aria-description="Citation for case: Coleman v. Brown (In Re Coleman)">5 B.R. 812</a></span>, 2 CBC 2d 736 (D.C.1980).
+  </p>
+</div><div class="footnote" id="fn2" label="2">
+<a class="footnote" href="#fn2_ref">
+   2
+  </a>
+<p id="b930-13">
+   . The judicial duty to examine “good faith” is of new significance under the Bankruptcy Reform Act. It is the functional replacement of the old requirement of creditor approval of Chapter XIII plans.
+  </p>
+</div><div class="footnote" id="fn3" label="3">
+<a class="footnote" href="#fn3_ref">
+   3
+  </a>
+<p id="b930-23">
+   . Rather than belabor the reader with a page-long footnote, we incorporate as an addendum to this opinion a compendium of reported case law on the subject.
+  </p>
+</div><div class="footnote" id="fn4" label="4">
+<a class="footnote" href="#fn4_ref">
+   4
+  </a>
+<p id="b930-24">
+   . The bromidic “a rose by any other name ...” was employed in dismissing a nominal-payment Chapter 13 plan as a Chapter 7 liquida
+   <span citation-index="1" class="star-pagination" label="879"> 
+    *879
+    </span>
+   tion petition running under false colors.
+   <em>
+    In re Chaffin,
+   </em>
+   <span class="citation" data-id="1538694"><a href="/opinion/1538694/in-re-chaffin/" aria-description="Citation for case: In Re Chaffin">4 B.R. 324</a></span>, 2 CBC 2d 229 (Bkrtcy.D.Kan.1980). Mr. Madison’s plea for uniform national bankruptcy laws in
+   <em>
+    The Federalist
+   </em>
+   was cited,
+   <em>
+    In re Hurd,
+   </em>
+   <span class="citation" data-id="1538572"><a href="/opinion/1538572/in-re-hurd/" aria-description="Citation for case: In Re Hurd">4 B.R. 551</a></span>, 2 CBC 2d 190 (Bkrtcy.W.D.Mich.1980).
+  </p>
+</div><div class="footnote" id="fn5" label="5">
+<a class="footnote" href="#fn5_ref">
+   5
+  </a>
+<p id="b931-18">
+   . From the third Lowell lecture at Harvard University in the fall of 1880; see Bowen,
+   <em>
+    Yankee From Olympus,
+   </em>
+   Little, Brown &amp; Co. at p. 282 (1944).
+  </p>
+</div><div class="footnote" id="fn6" label="6">
+<a class="footnote" href="#fn6_ref">
+   6
+  </a>
+<p id="b931-19">
+   . <span class="citation no-link">11 U.S.C. § 506</span>(a).
+  </p>
+</div><div class="footnote" id="fn7" label="7">
+<a class="footnote" href="#fn7_ref">
+   7
+  </a>
+<p id="b932-11">
+   . An effort, we are compelled to note, to keep the car at a $3,500 discount from its recent purchase price.
+  </p>
+</div><div class="footnote" id="fn8" label="8">
+<a class="footnote" href="#fn8_ref">
+   8
+  </a>
+<p id="b932-12">
+   . <span class="citation no-link">11 U.S.C. § 1325</span>(a)(6).
+  </p>
+</div><div class="footnote" id="fn9" label="9">
+<a class="footnote" href="#fn9_ref">
+   9
+  </a>
+<p id="b932-13">
+   . <span class="citation no-link">11 U.S.C. § 1325</span>(a)(4).
+  </p>
+</div><div class="footnote" id="fn10" label="10">
+<a class="footnote" href="#fn10_ref">
+   10
+  </a>
+<p id="b932-14">
+   .
+   <em>
+    In re Harland,
+   </em>
+   <span class="citation" data-id="1970774"><a href="/opinion/1970774/matter-of-harland/" aria-description="Citation for case: Matter of Harland">3 B.R. 597</a></span>, 6 BCD 235 (Bkrtcy.D.Neb.1980).
+   <em>
+    In re Sadler,
+   </em>
+   <span class="citation" data-id="1970706"><a href="/opinion/1970706/in-re-sadler/" aria-description="Citation for case: In Re Sadler">3 B.R. 536</a></span>, 1 CBC 2d 935 (Bkrtcy.E.D.Ark.1980).
+   <em>
+    In re Thebeau,
+   </em>
+   <span class="citation" data-id="1970442"><a href="/opinion/1970442/in-re-thebeau/" aria-description="Citation for case: In Re Thebeau">3 B.R. 537</a></span>, 1 CBC 2d 940 (Bkrtcy.E.D.Ark.1980).
+   <em>
+    In re Webb,
+   </em>
+   <span class="citation" data-id="1970546"><a href="/opinion/1970546/in-re-webb/" aria-description="Citation for case: In Re Webb">3 B.R. 61</a></span>, 5 BCD 1379 (Bkrtcy.N.D.Cal.1980).
+   <em>
+    In re Terry,
+   </em>
+   <span class="citation" data-id="1970481"><a href="/opinion/1970481/tenney-v-terry-in-re-terry/" aria-description="Citation for case: Tenney v. Terry (In Re Terry)">3 B.R. 63</a></span>, 5 BCD 1397 (Bkrtcy.W.D.Ark.1980), rev’d, <span class="citation" data-id="382157"><a href="/opinion/382157/in-re-stuart-r-and-shiela-m-terry-debtors-a-l-tenney-trustee-v/" aria-description="Citation for case: In Re Stuart R. And Shiela M. Terry, Debtors, A. L....">630 F.2d 634</a></span>, Bankr.L.Rep. (CCH)' 67,611 (8th Cir. 1980).
+   <em>
+    In re Cloutier,
+   </em>
+   <span class="citation" data-id="1970505"><a href="/opinion/1970505/in-re-cloutier/" aria-description="Citation for case: In Re Cloutier">3 B.R. 584</a></span>, 6 BCD 196 (Bkrtcy.D.Colo.1980).
+  </p>
+</div><div class="footnote" id="fn11" label="11">
+<a class="footnote" href="#fn11_ref">
+   11
+  </a>
+<p id="b932-20">
+   . In the case of
+   <em>
+    In re Cook,
+   </em>
+   <span class="citation" data-id="1970517"><a href="/opinion/1970517/matter-of-cook/" aria-description="Citation for case: Matter of Cook">3 B.R. 480</a></span>, 6 BCD 219, 220 (Bkrtcy.S.D.W.Va.1980), Judge Flowers denied confirmation of a zero payment plan, noting that “A proposal to pay creditors nothing is not a Plan in the context of Chapter 13.”
+  </p>
+</div><div class="footnote" id="fn12" label="12">
+<a class="footnote" href="#fn12_ref">
+   12
+  </a>
+<p id="b932-21">
+   . See cases cited in note 10, supra.
+  </p>
+</div><div class="footnote" id="fn13" label="13">
+<a class="footnote" href="#fn13_ref">
+   13
+  </a>
+<p id="b932-22">
+   . 10
+   <em>
+    Collier on Bankruptcy,
+   </em>
+   ' 29.06[6], at 339 (14th Ed. 1978).
+  </p>
+</div><div class="footnote" id="fn14" label="14">
+<a class="footnote" href="#fn14_ref">
+   14
+  </a>
+<p id="b933-9">
+   . House Report No. 95-595, 95th Cong. 1st Sess. 118 (1977), U.S.Code Cong. &amp; Admin. News 1978, pp. 5787, 6079.
+  </p>
+</div><div class="footnote" id="fn15" label="15">
+<a class="footnote" href="#fn15_ref">
+   15
+  </a>
+<p id="b933-10">
+   . <span class="citation no-link">11 U.S.C. § 727</span>(a)(9) reads as follows:
+  </p>
+<blockquote id="b933-11">
+   (a) The Court shall grant the debtor a discharge unless-
+  </blockquote>
+<blockquote id="b933-12">
+   (9) the debtor has been granted a discharge under section 1328 of this title, or under section 660 or 661 of the Bankruptcy Act, in a case commenced within six years before the date of the filing of the petition, unless payments under the plan in such case totaled at least-
+  </blockquote>
+<blockquote id="b933-17">
+   (A) 100 percent of the allowed unsecured claims in such case; or
+  </blockquote>
+<blockquote id="b933-18">
+   (B)(i) 70 percent of such claims; and
+  </blockquote>
+<blockquote id="b933-19">
+   (ii) the plan was proposed by the debtor in good faith, and was the debtor’s best effort; or . ..
+  </blockquote>
+</div><div class="footnote" id="fn16" label="16">
+<a class="footnote" href="#fn16_ref">
+   16
+  </a>
+<p id="b933-20">
+   . Senate Report No. 95-989, 95th Cong. 2d Sess. 13 (1978), U.S.Code Cong. &amp; Admin.News 1978, p. 5799.
+  </p>
+</div><div class="footnote" id="fn17" label="17">
+<a class="footnote" href="#fn17_ref">
+   17
+  </a>
+<p id="b933-21">
+   . Twenty-eight courts have denied confirmation to nominal payment plans proposing zero to fifteen percent payments to unsecured creditors. Twelve decisions have approved payments of zero to ten percent.
+  </p>
+</div><div class="footnote" id="fn18" label="18">
+<a class="footnote" href="#fn18_ref">
+   18
+  </a>
+<p id="b934-8">
+   .
+   <em>
+    In re Burrell,
+   </em>
+   <span class="citation" data-id="1887144"><a href="/opinion/1887144/in-re-burrell/" aria-description="Citation for case: In Re Burrell">2 B.R. 650</a></span>, 5 BCD 1321 (Bkrtcy.N.D.Cal.1980);
+   <em>
+    In re Raburn,
+   </em>
+   <span class="citation" data-id="1538715"><a href="/opinion/1538715/in-re-raburn/" aria-description="Citation for case: In Re Raburn">4 B.R. 624</a></span>, 6 BCD 453 (Bkrtcy.M.D.Ga.1980). Since the first draft of this opinion, the California decision has fallen to the appellate axe.
+   <em>
+    In re Burrell,
+   </em>
+   <span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/" aria-description="Citation for case: In Re Burrell">6 B.R. 360</a></span>, 2 CBC 2d 1019 (N.D.Cal.1980).
+  </p>
+</div><div class="footnote" id="fn19" label="19">
+<a class="footnote" href="#fn19_ref">
+   19
+  </a>
+<p id="b934-16">
+   . Supra note 16.
+  </p>
+</div><div class="footnote" id="fn20" label="20">
+<a class="footnote" href="#fn20_ref">
+   20
+  </a>
+<p id="b934-14">
+   . <span class="citation" data-id="1970517"><a href="/opinion/1970517/matter-of-cook/" aria-description="Citation for case: Matter of Cook">3 B.R. 480</a></span>, 6 BCD 219, 222 (Bkrtcy.S.D.W.Va.1980).
+  </p>
+</div><div class="footnote" id="fn21" label="21">
+<a class="footnote" href="#fn21_ref">
+   21
+  </a>
+<p id="b934-15">
+   . Credit for initially enumerating these factors should go to Judge Mabey who, in
+   <em>
+    In re Iacovoni,
+   </em>
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/" aria-description="Citation for case: In Re Iacovoni">2 B.R. 256</a></span>, 5 BCD 1270 (Bkrtcy.D.Utah 1980), rendered a comprehensive discourse on good faith.
+  </p>
+</div><div class="footnote" id="fn22" label="22">
+<a class="footnote" href="#fn22_ref">
+   22
+  </a>
+<p id="b935-10">
+   .
+   <em>
+    In re Montano,
+   </em>
+   <span class="citation" data-id="1538767"><a href="/opinion/1538767/in-re-montano/" aria-description="Citation for case: In Re Montano">4 B.R. 535</a></span>, 6 BCD 487, 489 (Bkrtcy.D.D.C.1980).
+  </p>
+</div><div class="footnote" id="fn23" label="23">
+<a class="footnote" href="#fn23_ref">
+   23
+  </a>
+<p id="b935-11">
+   . Judicial restraint, if not monitored, may become rigor mortis. In approving a zero plan, the court for the Eastern District of Arkansas refused to give any meaning whatsoever to good faith, reasoning that to do so would be “judicial legislation, pure and simple. Without any express legislative history on the meaning of ‘good faith’, this Court does not choose to presume that Congress intended for the Courts to assume their legislative powers in Chapter 13 cases”.
+   <em>
+    In re Thebeau,
+   </em>
+   <span class="citation" data-id="1970442"><a href="/opinion/1970442/in-re-thebeau/" aria-description="Citation for case: In Re Thebeau">3 B.R. 537</a></span>, 1 CBC 2d 940, 941 (Bkrtcy.1980).
+  </p>
+</div><div class="footnote" id="fn24" label="24">
+<a class="footnote" href="#fn24_ref">
+   24
+  </a>
+<p id="b935-17">
+   . UCC 2-615.
+  </p>
+</div><div class="footnote" id="fn25" label="25">
+<a class="footnote" href="#fn25_ref">
+   25
+  </a>
+<p id="b935-18">
+   . Employing
+   <em>
+    treu und glauben,
+   </em>
+   the German Civil Code equivalent of the UCC “good faith” provision, Weimar courts in the early 1920’s undertook to reform, on a massive scale, contractual duties assumed before the precipitous drop in value of the mark. The effort has been called “proof of the courage and insight of the judiciary”, and “one of the most dramatic chapters in the history of private law”.
+   <em>
+    See
+   </em>
+   Von Mehren, “The Civil Law System”, at 749 (Prentice-Hall 1957).
+  </p>
+</div><div class="footnote" id="fn26" label="26">
+<a class="footnote" href="#fn26_ref">
+   26
+  </a>
+<p id="b936-10">
+   .
+   <em>
+    In re Schongalla,
+   </em>
+   <span class="citation" data-id="1538679"><a href="/opinion/1538679/in-re-schongalla/" aria-description="Citation for case: In Re Schongalla">4 B.R. 360</a></span>, 6 BCD 408 (Bkrtcy.D.Md.1980).
+  </p>
+</div><div class="footnote" id="fn27" label="27">
+<a class="footnote" href="#fn27_ref">
+   27
+  </a>
+<p id="b936-12">
+   .
+   <span class="citation" data-id="1887361"><a href="/opinion/1887361/in-re-iacovoni/#21" aria-description="Citation for case: In Re Iacovoni"><em>
+    Iacovoni,
+   </em>
+   supra note 21</a></span>.
+  </p>
+</div><div class="footnote" id="fn28" label="28">
+<a class="footnote" href="#fn28_ref">
+   28
+  </a>
+<p id="b936-13">
+   .
+   <em>
+    In re Powell,
+   </em>
+   <span class="citation" data-id="1887669"><a href="/opinion/1887669/general-finance-co-of-virginia-v-powell-in-re-powell/" aria-description="Citation for case: General Finance Co. of Virginia v. Powell (In Re Powell)">2 B.R. 314</a></span>, 5 BCD 1233 (Bkrtcy.E.D.Va.1980).
+  </p>
+</div><div class="footnote" id="fn29" label="29">
+<a class="footnote" href="#fn29_ref">
+   29
+  </a>
+<p id="b936-15">
+   . The observations contained in this paragraph may be attributed to Charles Geotz and Robert Scott lectures on economics and law, University of Virginia Graduate School of Law, July 15-18, 1980.
+  </p>
+</div><div class="footnote" id="fn30" label="30">
+<a class="footnote" href="#fn30_ref">
+   30
+  </a>
+<p id="b936-25">
+   . See text supra and accompanying note 21.
+  </p>
+</div><div class="footnote" id="fn31" label="31">
+<a class="footnote" href="#fn31_ref">
+   31
+  </a>
+<p id="b936-26">
+   . A pointed inquiry may cause the debtor to reexamine his proposal. Just this week, our trustee carefully questioned a 25 per cent plan in which the debtor was to retain substantial discretionary funds after payments to the trustee. Following a requested short continuance,
+   <span citation-index="1" class="star-pagination" label="885"> 
+    *885
+    </span>
+   the debtor returned to court with a proposal to pay 100 cents on the dollar. Madden, No. 3-80 02733 (Nov. 3, 1980.) In another case that same day, a debtor upon close questioning increased his proposed payments from seven to 35 percent.
+  </p>
+</div><div class="footnote" id="fn*" label="*">
+<a class="footnote" href="#fn*_ref">
+   *
+  </a>
+<p id="b938-45">
+   That part of the holding in
+   <em>
+    Burrell
+   </em>
+   requiring at least a 70%. payment to unsecured creditors was reversed in
+   <em>
+    In re Burrell,
+   </em>
+   <span class="citation" data-id="1537991"><a href="/opinion/1537991/in-re-burrell/" aria-description="Citation for case: In Re Burrell">6 B.R. 360</a></span>, 2 CBC 2d 1019 (N. D. Cal. 1980). The second
+   <em>
+    Burrell
+   </em>
+   decision still required that payments be “substantial”.
+  </p>
+</div></div></opinion>

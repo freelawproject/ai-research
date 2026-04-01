@@ -11,20 +11,25 @@ Eval set: 110274, 117849, 103543, 110420, 110360, 7774813, 725046, 101625
 ## Cheaper models to consider:
 
 - Within Bedrock:
+   - Claude Sonnet 4.6
+   - Claude Haiku 4.5
    - Gemma 3 27B
    - Llama 4 Maverick 17B
-   - Llama 3.3 Instruct (70B)
-   - gpt-oss-120b
-   - 
+   - Llama 3.3 70B
+   - DeepSeek V3.2
+   - DeepSeek-R1
+   - GPT OSS 120B
+   - Kimi K2.5
+   - Qwen 3 Next 80B
+   - Qwen 3 235B
 
 - Outside of Bedrock:
-   - GPT-5.4-mini
-   - GPT-5 mini (Doesn't support temperature adj)
-   - GPT-4o mini
-   - GPT-4.1
-   - GPT-4.1 mini
-   - Gemini 3 Pro
-   - Gemini 3 Flash
+   - GPT 5.4 Mini
+   - GPT 4o Mini
+   - GPT 4.1
+   - GPT 4.1 Mini
+   - Gemini 3 Flash Preview
+   - Gemini 3.1 Pro Preview
 
 ## Conclusion:
 

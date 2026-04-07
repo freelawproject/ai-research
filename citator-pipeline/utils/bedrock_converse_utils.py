@@ -72,10 +72,6 @@ schema = {
     "description": "Schema for Citator output",
     "type": "object",
     "properties": {
-        "numCitedCases": {
-            "type": "integer",
-            "description": "The total number of unique Cited Cases identified in the opinion.",
-        },
         "citedCases": {
             "type": "array",
             "description": "A list of Cited Cases identified in the opinion.",
@@ -104,7 +100,7 @@ schema = {
                     },
                     "treatment": {
                         "type": ["string", "null"],
-                        "description": "The treatment applied to the Cited Case.",
+                        "description": "The treatment applied to the Cited Case. Must be from the defined treatment lists only.",
                         "maxLength": 100,
                     },
                     "opinionType": {
@@ -114,7 +110,7 @@ schema = {
                     },
                     "quote": {
                         "type": ["string", "null"],
-                        "description": "The verbatim passage from the opinion that most directly supports the assigned treatment. Set to null if no suitable passage exists.",
+                        "description": "The verbatim passage from the opinion that supports the assigned treatment. Must contain enough context for a reviewer to identify and verify the treatment.",
                         "maxLength": 500,
                     },
                     "rationale": {
@@ -136,7 +132,7 @@ schema = {
             },
         },
     },
-    "required": ["numCitedCases", "citedCases"],
+    "required": ["citedCases"],
 }
 
 tool_spec = {

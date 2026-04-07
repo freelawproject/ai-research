@@ -11,39 +11,34 @@ logger = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------
 
 TREATMENT_RANK = {
-    # Stop — Direct History
+    # Direct History — most to least severe
     "Reversed by": 0,
     "Reversed and remanded by": 1,
-    "Vacated by": 2,
-    "Vacated and remanded by": 3,
-    # Stop — Citing Reference
+    "Vacated and remanded by": 2,
+    "Vacated by": 3,
+    # Citing Reference — most to least severe
     "Overruled by": 4,
     "Abrogated by": 5,
     "Questioned by": 6,
-    # Ambiguous Stop
-    "Ambiguous: Stop": 7,
-    # Warning — Direct History
-    "Affirmed in part; Reversed in part by": 8,
-    # Warning — Citing Reference
+    # Direct History continued
+    "Affirmed in part; Reversed in part by": 7,
+    "Affirmed in part; Vacated in part by": 8,
+    # Citing Reference continued
     "Disapproved by": 9,
     "Limited by": 10,
-    # Ambiguous Warning
-    "Ambiguous: Warning": 11,
-    # Caution — Direct History
-    "Remanded by": 12,
-    "Cert. granted by": 13,
-    # Caution — Citing Reference
-    "Criticized by": 14,
-    "Distinguished by": 15,
-    "Declined to follow by": 16,
-    # Ambiguous Caution
-    "Ambiguous: Caution": 17,
-    # Neutral — Direct History
-    "Dismissed by": 18,
-    "Affirmed by": 19,
-    "Cert. denied by": 20,
-    # Neutral — Citing Reference
-    "Cited by": 21,
+    # Direct History continued
+    "Remanded by": 11,
+    "Cert. granted by": 12,
+    # Citing Reference continued
+    "Criticized by": 13,
+    "Distinguished by": 14,
+    "Declined to follow by": 15,
+    # Direct History — neutral
+    "Dismissed by": 16,
+    "Affirmed by": 17,
+    "Cert. denied by": 18,
+    # Citing Reference — neutral
+    "Cited by": 19,
 }
 
 # For "as recognized by" variants: same rank as the base treatment

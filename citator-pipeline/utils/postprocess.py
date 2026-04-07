@@ -255,28 +255,36 @@ def _normalize_citation(s):
 def merge_to_labels(parsed_df, labels_df, output_dir):
     """Merge model predictions to authority labels on citation string.
 
-    labels_df should have: citing_cluster_id, cited_cluster_id,
-    cited_case_name, cited_case_citations (comma-separated citation strings).
+    labels_df should have: citing_cluster_id, cited_cluster_id, cited_case_name,
+    and a citations column (either 'cited_case_citations' or 'cited_citation_strings').
 
     Saves matched and unmatched results to output_dir.
     """
     os.makedirs(output_dir, exist_ok=True)
 
-    # Ensure consistent dtype before merging
+    # Detect the citations column name
     parsed_df = parsed_df.copy()
     labels_df = labels_df.copy()
+    if "cited_case_citations" in labels_df.columns:
+        citations_col = "cited_case_citations"
+    elif "cited_citation_strings" in labels_df.columns:
+        citations_col = "cited_citation_strings"
+    else:
+        raise KeyError("labels_df must have 'cited_case_citations' or 'cited_citation_strings' column")
+
+    # Ensure consistent dtype before merging
     parsed_df["citing_cluster_id"] = parsed_df["citing_cluster_id"].astype(int)
     labels_df["citing_cluster_id"] = labels_df["citing_cluster_id"].astype(int)
 
     # Merge on citing_cluster_id
     merged = parsed_df.merge(labels_df, on="citing_cluster_id", how="left", suffixes=("_pred", "_label"))
 
-    # Match on mainCitationString appearing in cited_case_citations
+    # Match on mainCitationString appearing in citations column
     # Normalize both sides to handle spacing differences in reporter names
     # (e.g., model returns "F.Supp." but labels have "F. Supp.")
     def _citations_match(row):
         citation = row.get("mainCitationString")
-        label_citations = row.get("cited_case_citations")
+        label_citations = row.get(citations_col)
         if pd.isna(citation) or pd.isna(label_citations):
             return False
         norm_citation = _normalize_citation(citation)
@@ -290,7 +298,7 @@ def merge_to_labels(parsed_df, labels_df, output_dir):
     matched_results = matched[
         ["citing_cluster_id", "mainCitationString", "caseName", "caseHistory",
          "treatment", "opinionType", "quote", "rationale",
-         "cited_cluster_id", "cited_case_citations", "cited_case_name"]
+         "cited_cluster_id", citations_col, "cited_case_name"]
     ].drop_duplicates()
     matched_results.to_csv(os.path.join(output_dir, "matched_results.csv"), index=False)
     logger.info(f"Matched results: {len(matched_results)} rows → {output_dir}/matched_results.csv")

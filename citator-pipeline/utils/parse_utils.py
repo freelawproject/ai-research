@@ -35,19 +35,19 @@ def _parse_json_response(text):
     return {}
 
 
-def download_batch_output(circuit_name, local_dir=OUTPUT_DIR):
+def download_batch_output(job_label, local_dir=OUTPUT_DIR):
     """Download batch output JSONL from S3."""
     s3_client = session.client("s3", region_name=AWS_REGION)
-    prefix = f"{S3_OUTPUT_PREFIX}/{circuit_name}/"
+    prefix = f"{S3_OUTPUT_PREFIX}/{job_label}/"
 
-    os.makedirs(os.path.join(local_dir, circuit_name), exist_ok=True)
+    os.makedirs(os.path.join(local_dir, job_label), exist_ok=True)
 
     response = s3_client.list_objects_v2(Bucket=S3_BUCKET, Prefix=prefix)
     output_files = []
     for obj in response.get("Contents", []):
         key = obj["Key"]
         if key.endswith(".jsonl.out"):
-            local_path = os.path.join(local_dir, circuit_name, os.path.basename(key))
+            local_path = os.path.join(local_dir, job_label, os.path.basename(key))
             s3_client.download_file(S3_BUCKET, key, local_path)
             output_files.append(local_path)
             logger.info(f"Downloaded {key} to {local_path}")
@@ -212,19 +212,19 @@ def save_parsed_results(predictions, output_dir):
     return df
 
 
-def process_circuit(circuit_name, output_dir=OUTPUT_DIR):
-    """Download and parse batch output for a circuit court.
+def process_batch(job_label, output_dir=OUTPUT_DIR):
+    """Download and parse batch output.
 
     Returns the parsed DataFrame for downstream post-processing.
     """
-    circuit_output_dir = os.path.join(output_dir, circuit_name)
-    output_files = download_batch_output(circuit_name, output_dir)
+    batch_output_dir = os.path.join(output_dir, job_label)
+    output_files = download_batch_output(job_label, output_dir)
     if not output_files:
-        logger.warning(f"No output files found for {circuit_name}")
+        logger.warning(f"No output files found for {job_label}")
         return None
 
     predictions = parse_batch_output(output_files)
-    save_raw_results(predictions, circuit_output_dir)
-    parsed_df = save_parsed_results(predictions, circuit_output_dir)
-    logger.info(f"Processed {len(predictions)} records for {circuit_name}")
+    save_raw_results(predictions, batch_output_dir)
+    parsed_df = save_parsed_results(predictions, batch_output_dir)
+    logger.info(f"Processed {len(predictions)} records for {job_label}")
     return parsed_df

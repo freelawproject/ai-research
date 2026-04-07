@@ -14,16 +14,21 @@ logger = logging.getLogger(__name__)
 MODEL_ID = "us.anthropic.claude-sonnet-4-6"
 SYSTEM_PROMPT = citator
 
-S3_BUCKET = os.environ.get("CITATOR_S3_BUCKET", "your-batch-inference-bucket")
-S3_INPUT_PREFIX = "citator/v404/input"
-S3_OUTPUT_PREFIX = "citator/v404/output"
+S3_BUCKET = os.getenv("CITATOR_S3_BUCKET", "")
+S3_INPUT_PREFIX = "Citator/input"
+S3_OUTPUT_PREFIX = "Citator/output"
+BATCH_ROLE_ARN = os.getenv("CITATOR_BATCH_ROLE_ARN", "")
 
 
-def _validate_s3_bucket():
-    if S3_BUCKET == "your-batch-inference-bucket":
+def _validate_batch_config():
+    if not S3_BUCKET:
         raise ValueError(
-            "S3_BUCKET is not configured. Set the CITATOR_S3_BUCKET environment variable "
-            "or update S3_BUCKET in utils/batch_utils.py."
+            "S3_BUCKET is not configured. Set the CITATOR_S3_BUCKET environment variable."
+        )
+    if not BATCH_ROLE_ARN:
+        raise ValueError(
+            "BATCH_ROLE_ARN is not configured. Set the CITATOR_BATCH_ROLE_ARN environment variable "
+            "to an IAM role ARN with Bedrock and S3 access."
         )
 
 INPUT_DIR = "data/input"
@@ -42,42 +47,49 @@ def load_opinion_text(citing_dir, cluster_id):
         return f.read()
 
 
-def build_jsonl_record(record_id, opinion_text):
+def build_jsonl_record(record_id, opinion_text, model_id=None, system_prompt=None):
     """Build a single JSONL record for Bedrock batch inference using Converse API format.
 
     Args:
         record_id: Unique record identifier. For single-page opinions this is the
             cluster_id. For paginated opinions this is '{cluster_id}_page_{n}'.
         opinion_text: The opinion text (or page of opinion text) to process.
+        model_id: Override model ID (defaults to MODULE_ID).
+        system_prompt: Override system prompt (defaults to SYSTEM_PROMPT).
     """
-    return {
-        "recordId": str(record_id),
-        "modelInput": {
-            "modelId": MODEL_ID,
-            "system": [{"text": SYSTEM_PROMPT}],
-            "messages": [
-                {
-                    "role": "user",
-                    "content": [{"text": f"<opinion>\n{opinion_text}\n</opinion>"}],
-                }
-            ],
-            "toolConfig": {
-                "tools": [tool_spec],
-                "toolChoice": {"tool": {"name": "analyze_cited_case_treatment"}},
-            },
-            "inferenceConfig": {"temperature": TEMPERATURE},
-        },
+    model = model_id or MODEL_ID
+    prompt = system_prompt or SYSTEM_PROMPT
+
+    model_input = {
+        "modelId": model,
+        "system": [{"text": prompt}],
+        "messages": [
+            {
+                "role": "user",
+                "content": [{"text": f"<opinion>\n{opinion_text}\n</opinion>"}],
+            }
+        ],
+        "inferenceConfig": {"temperature": TEMPERATURE},
     }
 
+    # Only add tool config for the default citator prompt
+    if system_prompt is None:
+        model_input["toolConfig"] = {
+            "tools": [tool_spec],
+            "toolChoice": {"tool": {"name": "analyze_cited_case_treatment"}},
+        }
 
-def prepare_jsonl(circuit_name, cluster_ids, citing_dir, output_dir=OUTPUT_DIR):
-    """Prepare a JSONL file for a circuit court's batch job.
+    return {"recordId": str(record_id), "modelInput": model_input}
+
+
+def prepare_jsonl(job_label, cluster_ids, citing_dir, output_dir=OUTPUT_DIR, model_id=None, system_prompt=None):
+    """Prepare a JSONL file for a batch job.
 
     Long opinions are split into overlapping pages using the same pagination
     logic as the real-time pipeline (experiments_04032026). Each page becomes
     a separate JSONL record with recordId '{cluster_id}_page_{n}'.
     """
-    jsonl_path = os.path.join(output_dir, f"{circuit_name}.jsonl")
+    jsonl_path = os.path.join(output_dir, f"{job_label}.jsonl")
     os.makedirs(output_dir, exist_ok=True)
 
     records = []
@@ -90,14 +102,14 @@ def prepare_jsonl(circuit_name, cluster_ids, citing_dir, output_dir=OUTPUT_DIR):
             pages = split_opinion_to_pages(opinion_text)
 
             if len(pages) == 1:
-                record = build_jsonl_record(cluster_id, opinion_text)
+                record = build_jsonl_record(cluster_id, opinion_text, model_id=model_id, system_prompt=system_prompt)
                 records.append(record)
                 total_pages += 1
             else:
                 paginated_opinions += 1
                 for i, page in enumerate(pages, 1):
                     record_id = f"{cluster_id}_page_{i}"
-                    record = build_jsonl_record(record_id, page)
+                    record = build_jsonl_record(record_id, page, model_id=model_id, system_prompt=system_prompt)
                     records.append(record)
                     total_pages += 1
                 logger.info(f"cluster_id={cluster_id}: split into {len(pages)} pages")
@@ -110,7 +122,7 @@ def prepare_jsonl(circuit_name, cluster_ids, citing_dir, output_dir=OUTPUT_DIR):
             f.write(json.dumps(record) + "\n")
 
     logger.info(
-        f"Prepared {len(records)} records for {circuit_name} at {jsonl_path} "
+        f"Prepared {len(records)} records for {job_label} at {jsonl_path} "
         f"({len(cluster_ids)} opinions, {paginated_opinions} paginated, {total_pages} total pages)"
     )
     return jsonl_path
@@ -118,7 +130,7 @@ def prepare_jsonl(circuit_name, cluster_ids, citing_dir, output_dir=OUTPUT_DIR):
 
 def upload_to_s3(local_path, s3_key):
     """Upload a local file to S3."""
-    _validate_s3_bucket()
+    _validate_batch_config()
     s3_client = session.client("s3", region_name=AWS_REGION)
     s3_client.upload_file(local_path, S3_BUCKET, s3_key)
     s3_uri = f"s3://{S3_BUCKET}/{s3_key}"
@@ -126,16 +138,18 @@ def upload_to_s3(local_path, s3_key):
     return s3_uri
 
 
-def submit_batch_job(circuit_name, s3_input_uri):
+def submit_batch_job(job_label, s3_input_uri, model_id=None):
     """Submit a Bedrock batch inference job."""
+    model = model_id or MODEL_ID
     bedrock_client = session.client("bedrock", region_name=AWS_REGION, config=config)
 
-    job_name = f"citator-v404-{circuit_name}-{int(time.time())}"
-    s3_output_uri = f"s3://{S3_BUCKET}/{S3_OUTPUT_PREFIX}/{circuit_name}/"
+    job_name = f"citator-{job_label}-{int(time.time())}"
+    s3_output_uri = f"s3://{S3_BUCKET}/{S3_OUTPUT_PREFIX}/{job_label}/"
 
     response = bedrock_client.create_model_invocation_job(
         jobName=job_name,
-        modelId=MODEL_ID,
+        modelId=model,
+        roleArn=BATCH_ROLE_ARN,
         inputDataConfig={
             "s3InputDataConfig": {
                 "s3Uri": s3_input_uri,
@@ -150,7 +164,7 @@ def submit_batch_job(circuit_name, s3_input_uri):
     )
 
     job_arn = response["jobArn"]
-    logger.info(f"Submitted batch job for {circuit_name}: {job_arn}")
+    logger.info(f"Submitted batch job for {job_label}: {job_arn}")
     return job_arn
 
 

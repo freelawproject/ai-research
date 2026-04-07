@@ -27,6 +27,7 @@ For detailed metrics across all experiments, see [comparison.md](comparison.md).
 - **Citation normalization**: The model normalizes reporter names (e.g., "F. Supp." to "F.Supp."). The merge step in `postprocess.py` normalizes both sides to match. Keep this in sync if citation format changes.
 - **Incremental saving**: Predictions save to `incremental/{cluster_id}.json` as they complete. Re-evaluation batches save to `reevaluation_incremental/batch_{n}.json`. Resume is opt-in via `--resume` flag.
 - **Experiment data folders** use symlinks to `experiments_04022026/data/` for shared opinion texts and metadata. Do not duplicate data across experiments.
+- **Git ignore**: All `data/` subfolders must be excluded from git. When creating a new experiment folder, add `experiments_MMDD2026/data/` to `.gitignore` immediately.
 
 ## Running
 

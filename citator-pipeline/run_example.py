@@ -2,8 +2,8 @@
 
 Usage:
     python run_example.py --data-dir /path/to/experiment/data
-    python run_example.py --data-dir /path/to/experiment/data --evaluate
-    python run_example.py --data-dir /path/to/experiment/data --evaluate --labels data/revised_metadata_labels_317.csv
+    python run_example.py --data-dir /path/to/experiment/data --evaluate --labels /path/to/labels.csv
+    python run_example.py --data-dir /path/to/experiment/data --evaluate-only --labels /path/to/labels.csv
 """
 
 import logging
@@ -121,6 +121,47 @@ def run(
     logging.info(f"{'='*60}")
 
 
+def evaluate_only(data_dir, labels_path):
+    """Run only evaluation on existing final results."""
+    output_dir = os.path.join(data_dir, "output")
+    eval_dir = os.path.join(data_dir, "eval")
+
+    final_path = os.path.join(output_dir, "final_results.csv")
+    if not os.path.exists(final_path):
+        raise FileNotFoundError(f"No final results found at {final_path} — run the full pipeline first")
+
+    if not labels_path or not os.path.exists(labels_path):
+        raise FileNotFoundError(f"Labels file required for evaluation: {labels_path}")
+
+    # Merge to labels
+    logging.info(f"\n{'='*60}")
+    logging.info("Step 5: Merge to labels")
+    logging.info(f"{'='*60}")
+    final_df = pd.read_csv(final_path)
+    labels_df = pd.read_csv(labels_path)
+    labels_df = labels_df[
+        (labels_df["final_treatment"] != "PENDING")
+        & (labels_df["final_treatment"] != "REMOVE")
+        & (labels_df["final_treatment"] != "MANUAL")
+    ]
+    merge_to_labels(final_df, labels_df, eval_dir)
+
+    # Evaluate
+    logging.info(f"\n{'='*60}")
+    logging.info("Step 6: Evaluate against expert labels")
+    logging.info(f"{'='*60}")
+    from utils.eval_utils import evaluate_example
+    evaluate_example(
+        output_dir=output_dir,
+        eval_dir=eval_dir,
+        labels_path=labels_path,
+    )
+
+    logging.info(f"\n{'='*60}")
+    logging.info("Evaluation complete")
+    logging.info(f"{'='*60}")
+
+
 def main():
     import argparse
 
@@ -132,18 +173,22 @@ def main():
     parser.add_argument("--txt-name", default="example.txt", help="Input file name in data/input/")
     parser.add_argument("--opinion-dir", default=None, help="Override opinion text directory")
     parser.add_argument("--labels", default=None, help="Path to expert labels CSV")
-    parser.add_argument("--evaluate", action="store_true", help="Run evaluation against expert labels")
+    parser.add_argument("--evaluate", action="store_true", help="Run full pipeline + evaluation")
+    parser.add_argument("--evaluate-only", action="store_true", help="Run only evaluation on existing results")
     parser.add_argument("--resume", action="store_true", help="Resume from previously saved incremental results")
     args = parser.parse_args()
 
-    run(
-        data_dir=args.data_dir,
-        txt_name=args.txt_name,
-        opinion_dir=args.opinion_dir,
-        labels_path=args.labels,
-        evaluate=args.evaluate,
-        resume=args.resume,
-    )
+    if args.evaluate_only:
+        evaluate_only(data_dir=args.data_dir, labels_path=args.labels)
+    else:
+        run(
+            data_dir=args.data_dir,
+            txt_name=args.txt_name,
+            opinion_dir=args.opinion_dir,
+            labels_path=args.labels,
+            evaluate=args.evaluate,
+            resume=args.resume,
+        )
 
 
 if __name__ == "__main__":

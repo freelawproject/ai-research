@@ -1,10 +1,10 @@
-"""Run the citator batch pipeline for circuit courts.
+"""Run the citator batch pipeline.
 
 Usage:
     # Full pipeline: generate input → batch submit → wait → collect → postprocess
     python run_batch.py --data-dir ../experiments_04052026/data --court ca1
 
-    # All circuits
+    # All courts
     python run_batch.py --data-dir ../experiments_04052026/data --court all
 
     # Limit records per court (useful for testing)
@@ -33,7 +33,7 @@ from utils.batch_utils import (
     wait_for_jobs,
     S3_INPUT_PREFIX,
 )
-from utils.parse_utils import process_circuit
+from utils.parse_utils import process_batch
 from utils.postprocess import (
     clean_treatments,
     deduplicate_cited_cases,
@@ -54,7 +54,7 @@ ALL_COURTS = [
 
 
 def generate_court_input(court, data_dir, num_records=None):
-    """Generate input txt file with sampled cluster IDs for a given circuit court."""
+    """Generate input txt file with sampled cluster IDs for a given court."""
     citing_metadata_path = os.path.join(data_dir, "citing_metadata.csv")
     input_dir = os.path.join(data_dir, "input")
 
@@ -80,33 +80,41 @@ def generate_court_input(court, data_dir, num_records=None):
     return txt_name
 
 
-def prepare_and_submit(court, data_dir, num_records=None):
-    """Generate input, prepare JSONL with pagination, upload to S3, and submit batch job."""
-    txt_name = generate_court_input(court, data_dir, num_records)
-
+def prepare_and_submit(courts, data_dir, num_records=None, model_id=None, system_prompt=None):
+    """Generate input for one or more courts, combine into a single JSONL, and submit one batch job."""
     input_dir = os.path.join(data_dir, "input")
     opinion_dir = os.path.join(input_dir, "opinion_texts")
-    output_dir = os.path.join(data_dir, "output", court)
 
-    txt_path = os.path.join(input_dir, txt_name)
-    cluster_ids = load_cluster_ids(txt_path)
-    logging.info(f"{court}: {len(cluster_ids)} cluster IDs")
+    # Collect all cluster IDs across courts
+    all_cluster_ids = []
+    for court in courts:
+        txt_name = generate_court_input(court, data_dir, num_records)
+        txt_path = os.path.join(input_dir, txt_name)
+        cluster_ids = load_cluster_ids(txt_path)
+        logging.info(f"{court}: {len(cluster_ids)} cluster IDs")
+        all_cluster_ids.extend(cluster_ids)
 
-    # Prepare JSONL (with page splitting for long opinions)
-    jsonl_path = prepare_jsonl(court, cluster_ids, opinion_dir, output_dir=output_dir)
+    logging.info(f"Total: {len(all_cluster_ids)} cluster IDs across {len(courts)} court(s)")
 
-    # Upload to S3
-    s3_key = f"{S3_INPUT_PREFIX}/{court}.jsonl"
+    # Prepare combined JSONL
+    job_label = "+".join(courts)
+    combined_output_dir = os.path.join(data_dir, "output")
+    os.makedirs(combined_output_dir, exist_ok=True)
+    jsonl_path = prepare_jsonl(
+        job_label, all_cluster_ids, opinion_dir,
+        output_dir=combined_output_dir, model_id=model_id, system_prompt=system_prompt,
+    )
+
+    # Upload to S3 and submit
+    s3_key = f"{S3_INPUT_PREFIX}/{job_label}.jsonl"
     s3_input_uri = upload_to_s3(jsonl_path, s3_key)
-
-    # Submit batch job
-    job_arn = submit_batch_job(court, s3_input_uri)
+    job_arn = submit_batch_job(job_label, s3_input_uri, model_id=model_id)
     return job_arn
 
 
-def postprocess(court, parsed_df, data_dir, reeval_model_id=REEVAL_MODEL_ID, resume=False):
+def postprocess(parsed_df, data_dir, reeval_model_id=REEVAL_MODEL_ID, resume=False):
     """Run the full post-processing pipeline on parsed batch results."""
-    output_dir = os.path.join(data_dir, "output", court)
+    output_dir = os.path.join(data_dir, "output")
     labels_path = os.path.join(data_dir, "cited_metadata.csv")
 
     # ── Step 2: Clean treatments and deduplicate ──
@@ -151,35 +159,52 @@ def postprocess(court, parsed_df, data_dir, reeval_model_id=REEVAL_MODEL_ID, res
     logging.info(f"{'='*60}")
     if os.path.exists(labels_path):
         labels_df = pd.read_csv(labels_path)
-        eval_dir = os.path.join(data_dir, "eval", court)
+        eval_dir = os.path.join(data_dir, "eval")
         merge_to_labels(final_df, labels_df, eval_dir)
     else:
         logging.warning(f"Labels file not found at {labels_path} — skipping merge")
 
     logging.info(f"\n{'='*60}")
-    logging.info(f"Post-processing complete for {court}")
+    logging.info("Post-processing complete")
     logging.info(f"{'='*60}")
 
 
-def collect_and_postprocess(court, data_dir, reeval_model_id=REEVAL_MODEL_ID, resume=False):
-    """Download batch results, parse, and run full post-processing pipeline."""
+def collect_only(courts, data_dir):
+    """Download and parse batch results without post-processing."""
     output_dir = os.path.join(data_dir, "output")
+    job_label = "+".join(courts)
 
     logging.info(f"\n{'='*60}")
-    logging.info(f"Collecting batch results for {court}")
+    logging.info(f"Collecting batch results for {job_label}")
     logging.info(f"{'='*60}")
-    parsed_df = process_circuit(court, output_dir=output_dir)
+    parsed_df = process_batch(job_label, output_dir=output_dir)
 
     if parsed_df is None or parsed_df.empty:
-        logging.warning(f"No results to post-process for {court}")
+        logging.warning("No results collected")
+    else:
+        logging.info(f"Collected {len(parsed_df)} parsed results")
+
+
+def collect_and_postprocess(courts, data_dir, reeval_model_id=REEVAL_MODEL_ID, resume=False):
+    """Download batch results and run post-processing."""
+    output_dir = os.path.join(data_dir, "output")
+    job_label = "+".join(courts)
+
+    logging.info(f"\n{'='*60}")
+    logging.info(f"Collecting batch results for {job_label}")
+    logging.info(f"{'='*60}")
+    parsed_df = process_batch(job_label, output_dir=output_dir)
+
+    if parsed_df is None or parsed_df.empty:
+        logging.warning(f"No results to post-process")
         return
 
-    postprocess(court, parsed_df, data_dir, reeval_model_id, resume=resume)
+    postprocess(parsed_df, data_dir, reeval_model_id, resume=resume)
 
 
-def postprocess_only(court, data_dir, reeval_model_id=REEVAL_MODEL_ID, resume=False):
+def postprocess_only(data_dir, reeval_model_id=REEVAL_MODEL_ID, resume=False):
     """Run only post-processing on already-parsed batch results."""
-    output_dir = os.path.join(data_dir, "output", court)
+    output_dir = os.path.join(data_dir, "output")
     parsed_path = os.path.join(output_dir, "parsed_results.csv")
 
     if not os.path.exists(parsed_path):
@@ -187,12 +212,12 @@ def postprocess_only(court, data_dir, reeval_model_id=REEVAL_MODEL_ID, resume=Fa
 
     parsed_df = pd.read_csv(parsed_path)
     logging.info(f"Loaded parsed results ({len(parsed_df)} rows) from {parsed_path}")
-    postprocess(court, parsed_df, data_dir, reeval_model_id, resume=resume)
+    postprocess(parsed_df, data_dir, reeval_model_id, resume=resume)
 
 
-def merge_only(court, data_dir):
+def merge_only(data_dir):
     """Run only Step 5: Merge final results to authority labels."""
-    output_dir = os.path.join(data_dir, "output", court)
+    output_dir = os.path.join(data_dir, "output")
     final_path = os.path.join(output_dir, "final_results.csv")
     labels_path = os.path.join(data_dir, "cited_metadata.csv")
 
@@ -204,7 +229,7 @@ def merge_only(court, data_dir):
 
     if os.path.exists(labels_path):
         labels_df = pd.read_csv(labels_path)
-        eval_dir = os.path.join(data_dir, "eval", court)
+        eval_dir = os.path.join(data_dir, "eval")
         merge_to_labels(final_df, labels_df, eval_dir)
     else:
         logging.warning(f"Labels file not found at {labels_path}")
@@ -215,11 +240,11 @@ def merge_only(court, data_dir):
 def main():
     import argparse
 
-    parser = argparse.ArgumentParser(description="Run citator batch pipeline for circuit courts")
+    parser = argparse.ArgumentParser(description="Run citator batch pipeline")
     parser.add_argument("--data-dir", required=True, help="Path to experiment data directory")
     parser.add_argument(
         "--court", required=True,
-        help="Circuit court ID (e.g., ca1, ca2, cadc, cafc). Use 'all' for all circuits.",
+        help="Comma-separated court IDs (e.g., ca1, 'ca1,ca2,ca3'). Use 'all' for all courts.",
     )
     parser.add_argument(
         "--num-records", type=int, default=None,
@@ -229,34 +254,44 @@ def main():
     parser.add_argument("--postprocess-only", action="store_true", help="Run postprocessing on existing parsed results")
     parser.add_argument("--merge-only", action="store_true", help="Run only merge step")
     parser.add_argument("--resume", action="store_true", help="Resume from previously saved incremental results")
+    parser.add_argument("--test-mode", action="store_true", help="Test mode: use Haiku with a trivial prompt, skip postprocessing")
     args = parser.parse_args()
 
-    courts = ALL_COURTS if args.court == "all" else [args.court]
+    courts = ALL_COURTS if args.court == "all" else [c.strip() for c in args.court.split(",")]
 
-    for court in courts:
-        logging.info(f"\n{'='*60}")
-        logging.info(f"Processing court: {court}")
-        logging.info(f"{'='*60}")
+    # Test mode overrides
+    test_model = "us.anthropic.claude-haiku-4-5-20251001-v1:0" if args.test_mode else None
+    test_prompt = "Reply with a short JSON: {\"id\": <the number in the input>}" if args.test_mode else None
 
-        if args.merge_only:
-            merge_only(court, args.data_dir)
-        elif args.postprocess_only:
-            postprocess_only(court, args.data_dir, resume=args.resume)
-        elif args.collect_only:
-            collect_and_postprocess(court, args.data_dir, resume=args.resume)
+    if args.merge_only:
+        merge_only(args.data_dir)
+    elif args.postprocess_only:
+        postprocess_only(args.data_dir, resume=args.resume)
+    elif args.collect_only:
+        if args.test_mode:
+            collect_only(courts, args.data_dir)
         else:
-            job_arn = prepare_and_submit(court, args.data_dir, args.num_records)
+            collect_and_postprocess(courts, args.data_dir, resume=args.resume)
+    else:
+        # Submit all courts as a single batch job
+        job_arn = prepare_and_submit(
+            courts, args.data_dir, args.num_records,
+            model_id=test_model, system_prompt=test_prompt,
+        )
 
-            logging.info(f"Submitted batch job for {court}, waiting for completion...")
-            results = wait_for_jobs([job_arn])
+        logging.info(f"Submitted batch job for {','.join(courts)}, waiting for completion...")
+        results = wait_for_jobs([job_arn])
 
-            status = results.get(job_arn, {})
-            logging.info(f"{court}: {status.get('status', 'unknown')}")
+        status = results.get(job_arn, {})
+        logging.info(f"Batch job: {status.get('status', 'unknown')}")
 
-            if status.get("status") == "Completed":
-                collect_and_postprocess(court, args.data_dir, resume=args.resume)
+        if status.get("status") == "Completed":
+            if args.test_mode:
+                collect_only(courts, args.data_dir)
             else:
-                logging.error(f"Batch job failed for {court}: {status.get('message', '')}")
+                collect_and_postprocess(courts, args.data_dir, resume=args.resume)
+        else:
+            logging.error(f"Batch job failed: {status.get('message', '')}")
 
 
 if __name__ == "__main__":

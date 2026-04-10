@@ -2,6 +2,7 @@
 .ipynb_checkpoints/
 .ruff_cache
 __pycache__/
+data/
 prior_experiments/experiments_603/data/
 prior_experiments/experiments_624/data/
 prior_experiments/experiments_701/fed/data/
@@ -26,4 +27,6 @@ experiments_04032026/data/
 experiments_04042026/data/
 experiments_04052026/data/
 experiments_04062026/data/
+experiments_04072026/data/
+experiments_04082026/data/
 experiments_batch_test/data/

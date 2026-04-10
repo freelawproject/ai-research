@@ -195,4 +195,73 @@ The long opinion (cluster 110380, 150K chars) was split into 2 pages with 20K ch
 5. **Next step:** Run the full CA1 sampled dataset (49 cases) with Kimi re-evaluation to validate at scale.
 
 ---
-*This analysis compares experiments_04032026 (v403, with re-evaluation) against experiments_04012026 (v318, no re-evaluation) using the same 8 expert-annotated cases.*
+
+## Combined 9-Case Evaluation (Kimi Re-evaluator)
+
+The 8 original examples and the long opinion (110380) were combined and evaluated together to establish a baseline on all 9 expert-annotated cases.
+
+### Completeness
+
+| Metric | Value |
+|--------|-------|
+| Cases | 9 |
+| Matched to labels | 324 |
+| Expert labels missed by model | 3 |
+| Model predictions not in labels | 22 |
+| Match Rate | 99.08% |
+
+### Severity
+
+| Class | Precision | Recall | F1 | Support |
+|-------|-----------|--------|----|---------|
+| Stop | 1.00 | 1.00 | 1.00 | 11 |
+| Warning | 0.00 | 0.00 | 0.00 | 0* |
+| Caution | 0.67 | 0.59 | 0.62 | 17 |
+| Neutral | 0.79 | 0.82 | 0.81 | 28 |
+| **Macro F1** | | | **0.61** | |
+| **Weighted F1** | | | **0.79** | |
+
+*Warning has 0 support (1 FP), inflating macro denominator.
+
+### Direction
+
+| Class | Precision | Recall | F1 | Support |
+|-------|-----------|--------|----|---------|
+| Direct History | 1.00 | 1.00 | 1.00 | 4 |
+| Citing Reference | 0.96 | 0.92 | 0.94 | 26 |
+| Related Reference | 0.93 | 0.96 | 0.94 | 26 |
+| **Macro F1** | | | **0.96** | |
+| **Weighted F1** | | | **0.95** | |
+
+### Treatment
+
+| Class | Precision | Recall | F1 | Support |
+|-------|-----------|--------|----|---------|
+| Cert. denied as recognized by | 0.88 | 1.00 | 0.94 | 15 |
+| Overruled as recognized by | 1.00 | 1.00 | 1.00 | 7 |
+| Distinguished by | 0.67 | 0.59 | 0.62 | 17 |
+| Affirmed as recognized by | 1.00 | 0.67 | 0.80 | 3 |
+| Reversed and remanded by | 1.00 | 0.50 | 0.67 | 2 |
+| Reversed by | 0.50 | 1.00 | 0.67 | 1 |
+| Affirmed by | 1.00 | 1.00 | 1.00 | 1 |
+| Cited by | 0.22 | 0.22 | 0.22 | 9 |
+| Reversed and remanded as recognized by | 0.00 | 0.00 | 0.00 | 1 |
+| **Macro F1** | | | **0.54** | |
+| **Weighted F1** | | | **0.70** | |
+| **Accuracy** | | | **0.70** | |
+
+### Top Misclassification Patterns (9 cases)
+
+| Label → Prediction | Count |
+|-------------------|-------|
+| Distinguished by → Cited by | 7 |
+| Cited by → Distinguished by | 5 |
+| Cited by → Cert. denied as recognized by | 2 |
+
+**Observations:**
+- Adding the long opinion (110380) to the evaluation set improves weighted metrics slightly (treatment weighted F1: 0.68 → 0.70) because the long opinion had perfect scores.
+- Direction F1 remains strong at 0.96 macro / 0.95 weighted.
+- Distinguished by vs Cited by confusion remains the dominant error pattern (12 of 17 mismatches).
+
+---
+*This analysis compares experiments_04032026 (v403, with re-evaluation) against experiments_04012026 (v318, no re-evaluation) using the same 8 expert-annotated cases. The combined 9-case evaluation includes the long opinion (110380).*

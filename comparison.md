@@ -75,11 +75,36 @@ All results are on the same 8 expert-annotated cases unless noted. Metrics are m
 | Reversed and remanded by | — | **0.67** | **0.67** |
 | Cited by | 0.10 | **0.12** | 0.11 |
 
-## Remaining Challenges
-- **Distinguished by vs Cited by**: 65% of remaining misclassifications in 0403. The model struggles to identify implicit distinguishing language when the opinion contrasts facts without using the word "distinguish".
+## Two-Stage Pipeline Results (0407, 0408)
 
-## Future Experiments
-- **Two-stage pipeline: Haiku extraction + Kimi treatment analysis.** Split the task into (1) citation extraction and paragraph identification using Haiku 4.5, then (2) treatment classification using Kimi K2.5 on only the relevant paragraphs. Rationale:
-  - Haiku has strong extraction completeness (95.30% match rate in 0401, 187 matched in 0327) at the lowest cost ($0.044/case).
-  - Kimi has the best treatment F1 (0.46 in 0401, 0.70 flagged F1 in 0327) and is the best re-evaluator (direction F1 0.96 in 0403), but weak on extraction (73.45% match rate).
-  - Combined cost could be lower than Sonnet alone (~$0.044 + Kimi per-paragraph cost vs $0.167/case).
+Evaluated against `benchmark_original/0410.csv`.
+
+### Pipeline Comparison (9 expert-annotated cases)
+
+| Pipeline | Match Rate | Severity F1 (macro/weighted) | Direction F1 (macro/weighted) | Treatment F1 (macro/weighted) | Cost/Case |
+|----------|-----------|------------------------------|-------------------------------|-------------------------------|-----------|
+| 0403 Sonnet + Kimi re-eval | 98.97% | 0.52 / 0.62 | 0.83 / 0.77 | 0.42 / 0.49 | $0.210 |
+| **0407 Haiku + Kimi** | 98.63% | **0.61 / 0.76** | **0.92 / 0.90** | **0.63 / 0.73** | **$0.048** |
+| 0408 Haiku + Kimi + Sonnet re-eval | 99.32% | 0.59 / 0.74 | 0.89 / 0.88 | 0.61 / 0.67 | $0.123 |
+
+### Per-Treatment F1 Progression
+
+| Treatment | v403+Kimi (0403) | Two-stage (0407) | +Sonnet re-eval (0408) | Support |
+|----------|------------------|------------------|------------------------|---------|
+| Cert. denied as recognized by | 0.48 | **0.93** | 0.86 | 14 |
+| Distinguished by | 0.48 | **0.69** | 0.63 | 18 |
+| Distinguished as recognized by | 0.00 | **1.00** | **1.00** | 3 |
+| Overruled as recognized by | **0.93** | 0.83 | **0.93** | 6 |
+| Reversed and remanded by | 0.67 | **1.00** | **1.00** | 2 |
+| Reversed by | 0.80 | **1.00** | **1.00** | 2 |
+| Affirmed as recognized by | **1.00** | 0.50 | 0.00 | 2 |
+
+### Key Findings
+- **0407 is the recommended production configuration.** It achieves the best quality across severity, direction, and treatment metrics while being 77% cheaper than 0403.
+- The enhanced Kimi classifier prompt (cert denied patterns, citation signals, implicit distinguishing) was the main quality driver, not the pipeline architecture change.
+- **Re-evaluation (0408) does not help** when the classifier prompt is well-tuned. It added 156% cost overhead with no quality improvement. Total misclassifications increased from 16 to 19.
+- **Remaining challenge:** Distinguished by vs Cited by confusion accounts for 7 of 16 misclassifications (44%). These are cases with subtle implicit distinguishing language.
+
+## Remaining Challenges
+- **Distinguished by vs Cited by**: 44% of remaining misclassifications in 0407. The model struggles to identify implicit distinguishing language when the opinion contrasts facts without using the word "distinguish".
+- **Affirmed as recognized by**: Narrative procedural history chains are harder to detect in section context (F1 0.50 in 0407 vs 1.00 in 0403).

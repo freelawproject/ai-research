@@ -6,8 +6,9 @@ Legal citator pipeline that uses LLMs to analyze appellate court opinions and cl
 
 ## Repository Structure
 
+- `data/` — Shared data files (opinion texts, metadata CSVs, expert labels). Experiment folders symlink here instead of duplicating data. Excluded from git.
 - `citator-pipeline/` — Reusable pipeline code (instructions, utils, run scripts). Created after experiments showed Sonnet and Kimi as strong contenders, to consolidate the pipeline and track version changes via git. No data lives here.
-- `experiments_MMDD2026/` — Each folder contains the data and results for a specific experiment. Before 0405, each experiment folder also contained its own utils and run scripts. From 0405 onward, all code lives in `citator-pipeline/` and experiment folders contain only data and thin wrapper scripts.
+- `experiments_MMDD2026/` — Each folder contains the data and results for a specific experiment. Before 0405, each experiment folder also contained its own utils and run scripts. From 0405 onward, all code lives in `citator-pipeline/` and experiment folders contain only data and thin wrapper scripts. Experiments 0402–0405 have legacy symlinks through `experiments_04022026/data/`; new experiments should symlink directly to `data/`.
 
 ### Recent Experiments
 - `0319` — Baseline evaluation of v225, v318, and v320 instruction versions on 8 expert-annotated cases using Sonnet. v318 improved severity and treatment F1 over v225. v320 was a sidetrack (attempted cost savings by grouping "Cited by" outputs, unsuccessful).
@@ -17,31 +18,46 @@ Legal citator pipeline that uses LLMs to analyze appellate court opinions and cl
 - `0403` — Built the full pipeline: pagination for long opinions, post-processing (dedup, keyword flagging), and re-evaluation using a second model. Developed v403 prediction instructions and v404 re-evaluation prompt. Kimi K2.5 re-evaluator boosted direction F1 from 0.84 to 0.96 at +6% cost.
 - `0404` — Adapted the pipeline for per-court production runs with parameterized `--court` flag. Added "Vacated by" flagging, citation normalization for label matching, and treatment cleanup.
 - `0405` — Moved to AWS Bedrock batch inference for running at scale. Experiment folder restructured to be data-only, with code in `citator-pipeline/`.
+- `0407` — Two-stage pipeline: Haiku extraction + Kimi classification with section context. Enhanced Kimi classifier prompt with cert denied pattern recognition, citation signals, and implicit distinguishing. Treatment F1 0.54→0.66 macro, direction F1 0.87→0.92, 77% cheaper than 0403 ($0.048 vs $0.210/case). **Recommended production configuration.**
+- `0408` — Added Sonnet re-evaluator with section context to the two-stage pipeline. Did not improve quality (treatment F1 0.66→0.64) and added 156% cost overhead. Conclusion: re-evaluation is not beneficial when the Kimi classifier prompt is well-tuned.
 
 For detailed metrics across all experiments, see [comparison.md](comparison.md).
 
+## Maintaining CLAUDE.md
+
+- When a change affects project structure, conventions, CLI interfaces, or code style, review and update this file to keep it in sync.
+- Examples: new scripts, renamed flags, moved data directories, new treatment types, new experiment patterns.
+
+## Code Style
+
+- **All imports at the top of the file.** Do not use inline/lazy imports inside functions. All `import` and `from ... import` statements must appear at the top of the module, grouped in the standard order: stdlib, third-party, local.
+
 ## Key Conventions
 
-- **Instruction versions** are tracked in `citator-pipeline/utils/instructions.py`. The active prompts are named `citator` (prediction) and `reevaluator` (re-evaluation). Do not rename these variables.
+- **Instruction versions** are tracked in `citator-pipeline/utils/instructions.py`. The active prompts are: `citator` (single-stage prediction), `reevaluator` (re-evaluation), `haiku_extractor` (two-stage extraction), `kimi_classifier` (two-stage classification). Do not rename these variables.
 - **Treatment lists** are defined in the Treatments table below. Any change must be synced to all files listed there.
 - **Citation normalization**: The model normalizes reporter names (e.g., "F. Supp." to "F.Supp."). The merge step in `postprocess.py` normalizes both sides to match. Keep this in sync if citation format changes.
 - **Incremental saving**: Predictions save to `incremental/{cluster_id}.json` as they complete. Re-evaluation batches save to `reevaluation_incremental/batch_{n}.json`. Resume is opt-in via `--resume` flag.
-- **Experiment data folders** use symlinks to `experiments_04022026/data/` for shared opinion texts and metadata. Do not duplicate data across experiments.
-- **Git ignore**: All `data/` subfolders must be excluded from git. When creating a new experiment folder, add `experiments_MMDD2026/data/` to `.gitignore` immediately.
+- **Shared data** lives in `data/` at the repo root (opinion texts, metadata, labels). Experiment folders contain only results (`data/output/`, `data/eval/`). Legacy experiments (pre-0405) still have `data/input/` with symlinks.
+- **Benchmark labels** live in `data/benchmark_original/`. The latest version is `0410.csv`. All evaluations default to this file. When the labels are updated, add a new versioned CSV and update the default path in `run_example.py`, `run_two_stage.py`, and `eval_utils.py`.
+- **Git ignore**: All experiment `data/` subfolders must be excluded from git. When creating a new experiment folder, add `experiments_MMDD2026/data/` to `.gitignore` immediately.
 
 ## Running
 
-All scripts require `--data-dir` pointing to the experiment's `data/` folder. Run from `citator-pipeline/` or from an experiment folder (which has thin wrapper scripts).
+All scripts run from `citator-pipeline/`. Input data is read from `--input-dir` (defaults to `../data`), results are written to `--output-dir` (the experiment's `data/` folder). `--txt-path` defaults to `../data/example.txt` (9 expert-annotated cases).
 
 ```bash
-# Real-time inference on example cases
-python run_example.py --data-dir ../experiments_04032026/data
+# Single-stage pipeline (Sonnet + Kimi re-eval) on all 9 examples
+python run_example.py --output-dir ../experiments_04062026/data --evaluate
+
+# Two-stage pipeline (Haiku extraction + Kimi classification) on all 9 examples
+python run_two_stage.py --output-dir ../experiments_04072026/data --evaluate
 
 # Batch inference for a circuit court
-python run_batch.py --data-dir ../experiments_04052026/data --court ca1
+python run_batch.py --output-dir ../experiments_04052026/data --court ca1
 
 # Post-processing only (after batch results collected)
-python run_batch.py --data-dir ../experiments_04052026/data --court ca1 --postprocess-only
+python run_batch.py --output-dir ../experiments_04052026/data --court ca1 --postprocess-only
 ```
 
 ## AWS

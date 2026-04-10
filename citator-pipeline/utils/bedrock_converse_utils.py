@@ -143,6 +143,121 @@ tool_spec = {
     }
 }
 
+# ── Two-stage pipeline schemas ──
+
+haiku_extraction_schema = {
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Haiku Extraction Output Schema",
+    "description": "Schema for citation extraction with section identification",
+    "type": "object",
+    "properties": {
+        "citedCases": {
+            "type": "array",
+            "description": "A list of unique Cited Cases identified in the opinion.",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "mainCitationString": {
+                        "type": ["string", "null"],
+                        "description": "Citation string in 'reporter-volume reporter reporter-page' format. Null if not cited by Full Citation.",
+                        "maxLength": 20,
+                    },
+                    "caseName": {
+                        "type": ["string", "null"],
+                        "description": "Case name. Null if not mentioned by name.",
+                        "maxLength": 100,
+                    },
+                    "section_ids": {
+                        "type": "array",
+                        "description": "List of section IDs where any reference to this Cited Case appears.",
+                        "items": {"type": "string", "maxLength": 10},
+                    },
+                },
+                "required": ["mainCitationString", "caseName", "section_ids"],
+            },
+        },
+    },
+    "required": ["citedCases"],
+}
+
+haiku_extraction_tool_spec = {
+    "toolSpec": {
+        "name": "extract_cited_cases",
+        "description": "Extract all cited cases from the opinion and report which sections they appear in.",
+        "inputSchema": {"json": haiku_extraction_schema},
+    }
+}
+
+kimi_classification_schema = {
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Kimi Classification Output Schema",
+    "description": "Schema for treatment classification of cited cases",
+    "type": "object",
+    "properties": {
+        "citedCases": {
+            "type": "array",
+            "description": "One classification per Cited Case, in the same order as provided.",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "citedCaseId": {
+                        "type": "integer",
+                        "description": "The 1-based index of the Cited Case from the input.",
+                    },
+                    "actingCase": {
+                        "type": "string",
+                        "description": "The case that applies treatment. 'Citing Case' if the Citing Case itself, or the name/citation of the Acting Case, or 'Implicit'.",
+                        "maxLength": 100,
+                    },
+                    "caseHistory": {
+                        "type": "string",
+                        "description": "The case history type.",
+                        "enum": ["Direct History", "Citing Reference", "Related Reference"],
+                    },
+                    "treatment": {
+                        "type": ["string", "null"],
+                        "description": "The treatment applied to the Cited Case. Must be from the defined treatment lists only.",
+                        "maxLength": 100,
+                    },
+                    "opinionType": {
+                        "type": "string",
+                        "description": "The opinion type in which the Cited Case is referenced.",
+                        "maxLength": 50,
+                    },
+                    "quote": {
+                        "type": ["string", "null"],
+                        "description": "Verbatim passage from the opinion supporting the treatment.",
+                        "maxLength": 500,
+                    },
+                    "rationale": {
+                        "type": "string",
+                        "description": "1-2 sentence explanation of the treatment.",
+                        "maxLength": 300,
+                    },
+                },
+                "required": [
+                    "citedCaseId",
+                    "actingCase",
+                    "caseHistory",
+                    "treatment",
+                    "opinionType",
+                    "quote",
+                    "rationale",
+                ],
+            },
+        },
+    },
+    "required": ["citedCases"],
+}
+
+kimi_classification_tool_spec = {
+    "toolSpec": {
+        "name": "classify_cited_case_treatment",
+        "description": "Classify the treatment applied to each cited case based on the opinion excerpt.",
+        "inputSchema": {"json": kimi_classification_schema},
+    }
+}
+
 
 def _get_caps(model_id):
     return MODEL_CAPS.get(model_id, {

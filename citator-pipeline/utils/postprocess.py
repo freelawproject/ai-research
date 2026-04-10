@@ -55,7 +55,47 @@ def _get_treatment_rank(treatment):
 
 
 # ---------------------------------------------------------------------------
-# Step 0: Clean up common treatment formatting errors from model output
+# Step 0a: Remove non-case citations (statutes, regulations, law reviews)
+# ---------------------------------------------------------------------------
+
+# Patterns that indicate a citation is not a court case
+_NON_CASE_PATTERNS = re.compile(
+    r"§"                        # Section symbol (statutes)
+    r"|L\.\s*Rev"               # Law reviews (L. Rev, L.Rev)
+    r"|Stat\."                  # Statutes at Large
+    r"|Fed\.\s*Reg"             # Federal Register
+    r"|C\.?\s*F\.?\s*R"         # CFR, C.F.R.
+    r"|^Pub\.\s*L"              # Public Laws
+    r"|U\.\s*S\.\s*C"           # United States Code (U.S.C., U. S. C.)
+    r"|Ann\.\s*(?:Code|Stat)"   # Annotated codes/statutes
+    r"|Cong\.\s*Rec"            # Congressional Record
+    r"|Exec\.\s*Order"          # Executive Orders
+    r"|Fed\.\s*R\.\s*(?:Civ|Crim|Evid|App)"  # Federal Rules (Civil/Criminal/Evidence/Appellate Procedure)
+    , re.IGNORECASE
+)
+
+
+def filter_non_case_citations(parsed_df):
+    """Remove rows where mainCitationString or caseName matches statute/regulation/law review patterns."""
+    df = parsed_df.copy()
+    initial = len(df)
+
+    def _is_non_case(row):
+        for col in ["mainCitationString", "caseName"]:
+            val = row.get(col)
+            if val and isinstance(val, str) and _NON_CASE_PATTERNS.search(val):
+                return True
+        return False
+
+    mask = df.apply(_is_non_case, axis=1)
+    n_removed = mask.sum()
+    if n_removed > 0:
+        logger.info(f"Filtered {n_removed} non-case citations (statutes/regulations/law reviews), {initial - n_removed} remaining")
+    return df[~mask].reset_index(drop=True)
+
+
+# ---------------------------------------------------------------------------
+# Step 0b: Clean up common treatment formatting errors from model output
 # ---------------------------------------------------------------------------
 
 def clean_treatments(parsed_df):
@@ -120,38 +160,23 @@ def deduplicate_cited_cases(parsed_df):
 # Step 2: Keyword check on "Cited by" results + model re-evaluation
 # ---------------------------------------------------------------------------
 
-NEGATIVE_KEYWORDS = [
-    # Overruling / abrogation
-    r"overrul", r"abrogat", r"supersed", r"no longer good law",
-    r"no longer valid", r"no longer control",
-    # Reversal / vacatur
-    r"revers", r"vacat", r"set aside", r"struck down",
-    # Questioning / doubting
-    r"question", r"cast doubt", r"called into question",
-    r"undermin", r"erode", r"weaken",
-    # Disapproval / criticism
-    r"disapprov", r"criticiz", r"criticized", r"erroneous",
-    r"incorrect", r"wrong", r"flawed", r"misguided",
-    r"unpersuasive", r"not persuasive", r"poorly reasoned",
-    # Distinguishing / limiting
-    r"distinguish", r"inapplicable", r"not applicable",
-    r"does not apply", r"do not apply", r"not control",
-    r"not binding", r"not extend", r"decline.? to extend",
+# Keywords in the quote that suggest a "Cited by" may actually be "Distinguished by".
+# Only checked against the quote field (opinion text), not the model's rationale.
+DISTINGUISHING_KEYWORDS = [
+    r"inapplicable", r"not applicable",
+    r"does not apply", r"do not apply", r"did not apply",
+    r"not control", r"not binding", r"not on point",
+    r"does not govern", r"not dispositive",
+    r"not extend", r"decline.? to extend",
     r"decline.? to follow", r"not follow", r"refuse.? to follow",
-    r"narrow", r"limit",
-    # Disagreement / departure
-    r"disagree", r"depart", r"reject", r"repudiat",
-    r"contrary", r"conflict", r"inconsistent", r"tension",
-    r"at odds", r"incompatible", r"irreconcilable",
-    # Cert actions
-    r"cert\S*\s+grant", r"cert\S*\s+denied", r"certiorari",
-    # Modification
-    r"modif", r"amended", r"remand",
-    # Affirmance in part (signals partial reversal)
-    r"affirm\w*\s+in\s+part",
+    r"distinguish", r"distinguishable",
+    r"not analogous", r"unlike",
+    r"unable to assent",
+    r"contrary", r"but see", r"but cf\.",
+    r"compare\b.*\bwith\b",
 ]
 
-_KEYWORD_PATTERN = re.compile("|".join(NEGATIVE_KEYWORDS), re.IGNORECASE)
+_DISTINGUISHING_PATTERN = re.compile("|".join(DISTINGUISHING_KEYWORDS), re.IGNORECASE)
 
 
 def flag_for_review(parsed_df):
@@ -159,55 +184,48 @@ def flag_for_review(parsed_df):
     1. 'Cited by' results whose quote or rationale contains keywords suggesting
        a possible negative treatment.
     2. All 'as recognized by' treatments (directionality is frequently wrong).
-    3. All 'Reversed by' treatments (often confused with 'Reversed and remanded by').
-    4. All 'Vacated by' treatments (often confused with 'Vacated and remanded by').
+    3. All 'Distinguished by' treatments (often confused with 'Cited by' in both directions).
 
     Returns (flagged_df, unflagged_df) where flagged_df has the rows
     to re-evaluate and unflagged_df has the clean rows.
     """
     treatment_col = parsed_df["treatment"].fillna("").str.strip()
 
-    # Flag 1: "Cited by" with suspicious keywords
+    # Flag 1: "Cited by" with distinguishing keywords in the quote only
     cited_by_mask = treatment_col.str.lower() == "cited by"
     cited_by = parsed_df[cited_by_mask].copy()
 
-    def has_keywords(row):
-        text = f"{row.get('quote', '')} {row.get('rationale', '')}"
-        return bool(_KEYWORD_PATTERN.search(str(text)))
+    def has_distinguishing_keywords(row):
+        quote = str(row.get("quote", ""))
+        return bool(_DISTINGUISHING_PATTERN.search(quote))
 
-    keyword_flagged_mask = cited_by.apply(has_keywords, axis=1)
+    keyword_flagged_mask = cited_by.apply(has_distinguishing_keywords, axis=1)
     keyword_flagged = cited_by[keyword_flagged_mask]
 
     # Flag 2: All "as recognized by" treatments
     as_recognized_mask = treatment_col.str.contains("as recognized by", case=False, na=False)
     as_recognized = parsed_df[as_recognized_mask]
 
-    # Flag 3: All "Reversed by" treatments
-    reversed_mask = treatment_col.str.lower() == "reversed by"
-    reversed_cases = parsed_df[reversed_mask]
-
-    # Flag 4: All "Vacated by" treatments (v404: also check for missed remand)
-    vacated_mask = treatment_col.str.lower() == "vacated by"
-    vacated_cases = parsed_df[vacated_mask]
+    # Flag 3: All "Distinguished by" treatments
+    distinguished_mask = treatment_col.str.lower() == "distinguished by"
+    distinguished_cases = parsed_df[distinguished_mask]
 
     # Combine flagged rows (deduplicate in case of overlap)
     flagged_indices = (
         keyword_flagged.index
         .union(as_recognized.index)
-        .union(reversed_cases.index)
-        .union(vacated_cases.index)
+        .union(distinguished_cases.index)
     )
     flagged = parsed_df.loc[flagged_indices].copy()
     unflagged = parsed_df.loc[~parsed_df.index.isin(flagged_indices)].copy()
 
     n_kw = len(keyword_flagged)
     n_ar = len(as_recognized)
-    n_rev = len(reversed_cases)
-    n_vac = len(vacated_cases)
+    n_dist = len(distinguished_cases)
     logger.info(
         f"Flagged for review: {len(flagged)} total — "
         f"{n_kw} 'Cited by' with keywords, {n_ar} 'as recognized by', "
-        f"{n_rev} 'Reversed by', {n_vac} 'Vacated by'"
+        f"{n_dist} 'Distinguished by'"
     )
 
     return flagged, unflagged
@@ -228,7 +246,7 @@ def final_deduplicate(parsed_df):
 # Step 4: Merge results to labels
 # ---------------------------------------------------------------------------
 
-def _normalize_citation(s):
+def normalize_citation(s):
     """Normalize a citation string for matching by removing internal spaces
     within reporter abbreviations. E.g., 'F. Supp. 3d' → 'F.Supp.3d',
     '814 F. Supp. 850' → '814 F.Supp. 850'.
@@ -287,19 +305,27 @@ def merge_to_labels(parsed_df, labels_df, output_dir):
         label_citations = row.get(citations_col)
         if pd.isna(citation) or pd.isna(label_citations):
             return False
-        norm_citation = _normalize_citation(citation)
-        norm_labels = _normalize_citation(str(label_citations))
+        norm_citation = normalize_citation(citation)
+        norm_labels = normalize_citation(str(label_citations))
         return norm_citation in norm_labels
 
     mask = merged.apply(_citations_match, axis=1)
     matched = merged[mask]
 
     # Model results matched to labels
+    # Deduplicate parallel citations matching the same label (same cited_cluster_id)
+    # Keep the most severe treatment when multiple parallel citations match
     matched_results = matched[
         ["citing_cluster_id", "mainCitationString", "caseName", "caseHistory",
          "treatment", "opinionType", "quote", "rationale",
          "cited_cluster_id", citations_col, "cited_case_name"]
-    ].drop_duplicates()
+    ].copy()
+    matched_results["_rank"] = matched_results["treatment"].apply(_get_treatment_rank)
+    matched_results = (
+        matched_results.sort_values("_rank")
+        .drop_duplicates(subset=["citing_cluster_id", "cited_cluster_id"], keep="first")
+        .drop(columns=["_rank"])
+    )
     matched_results.to_csv(os.path.join(output_dir, "matched_results.csv"), index=False)
     logger.info(f"Matched results: {len(matched_results)} rows → {output_dir}/matched_results.csv")
 

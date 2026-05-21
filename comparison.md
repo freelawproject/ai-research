@@ -105,6 +105,37 @@ Evaluated against `benchmark_original/0410.csv`.
 - **Re-evaluation (0408) does not help** when the classifier prompt is well-tuned. It added 156% cost overhead with no quality improvement. Total misclassifications increased from 16 to 19.
 - **Remaining challenge:** Distinguished by vs Cited by confusion accounts for 7 of 16 misclassifications (44%). These are cases with subtle implicit distinguishing language.
 
+## Full 0410 Benchmark Evaluation (0518)
+
+First end-to-end batch run on all 383 0410-benchmark citing clusters (39 courts; ~6.4M tokens; batch cost ~$18.66 / $0.047 per case). See `experiments_05182026/readme.md` for the full write-up.
+
+| Slice | Accuracy | Treatment macro F1 | Treatment Cohen's κ | Treatment QWK | Severity macro F1 | Direction macro F1 |
+|---|---|---|---|---|---|---|
+| 9-set (curated, batch) | — | **0.6959** | 0.7941 | **0.8705** | 0.6347 | 0.9733 |
+| Full 0518 run (383 clusters) | 0.9446 | 0.3821 | 0.5848 | 0.6953 | 0.6095 | 0.8124 |
+| Federal-appellate slice (188 clusters) | 0.9318 | 0.3951 | 0.5920 | 0.7205 | 0.6222 | 0.8245 |
+
+### v305 (Sonnet 1-stage) vs 0518 (Haiku+Kimi 2-stage) — 252-cluster overlap
+
+| Metric | v305 | 0518 | Winner |
+|---|---|---|---|
+| Treatment macro F1 | 0.4612 | 0.3914 | v305 |
+| Treatment Cohen's κ | 0.6045 | 0.5810 | v305 |
+| Treatment QWK | 0.7316 | 0.6937 | v305 |
+| Severity Cohen's κ | 0.7394 | 0.5515 | v305 |
+| Direction macro F1 | 0.4780 | 0.8170 | **0518** |
+| Direction Cohen's κ | 0.4573 | 0.7066 | **0518** |
+
+Direct History vs Other split reveals two opposite stories: **v305 dominates Direct History** (treatment macro F1 0.56 vs 0.34; QWK 0.85 vs 0.57), **0518 dominates Other** (treatment macro F1 0.39 vs 0.33). Hybrid routing — DH → Sonnet, Other → Haiku+Kimi — is worth exploring.
+
+### Key Findings (0518)
+- **The 9-set overstates the full-benchmark performance by ~2×** (treatment macro F1 0.70 vs 0.39). Driven by a mix of Haiku section-misassignment cascades, broader corpus difficulty, and zero-support minority classes.
+- **Dominant error mode is `Cited by` ↔ `Distinguished by`** (229/491 wrong predictions). Forgiving that axis would move Cohen's κ 0.58 → 0.80 and macro F1 0.38 → 0.42.
+- **Batch ≡ on-demand**: same pipeline run on-demand (0407) vs batch (0518) on the 9-set produces deltas within ±0.05 on every metric.
+- **v305 producing 0 cert. denied predictions is not a Sonnet gap** — `Cert. denied by` wasn't in the taxonomy when v305 ran.
+
 ## Remaining Challenges
-- **Distinguished by vs Cited by**: 44% of remaining misclassifications in 0407. The model struggles to identify implicit distinguishing language when the opinion contrasts facts without using the word "distinguish".
+- **Distinguished by vs Cited by**: 44% of remaining misclassifications in 0407, similarly dominant in 0518. The model struggles to identify implicit distinguishing language when the opinion contrasts facts without using the word "distinguish".
 - **Affirmed as recognized by**: Narrative procedural history chains are harder to detect in section context (F1 0.50 in 0407 vs 1.00 in 0403).
+- **Long-tail minority treatments** (`Abrogated by`, `Disapproved by`, `Questioned by`, `Modified by`, `Remanded by`): per-class F1 = 0 in 0518; small support, model defaults to `Cited by`.
+- **Pagination + section-extraction cascade**: Haiku misassigns sections on opinions with uneven paragraph structure (13% of sections > 3× target size); upstream errors propagate to wrong-context Stage 2 classifications. Targeted for the offset-based stage 1 migration.

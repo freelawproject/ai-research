@@ -20,6 +20,7 @@ Legal citator pipeline that uses LLMs to analyze appellate court opinions and cl
 - `0405` — Moved to AWS Bedrock batch inference for running at scale. Experiment folder restructured to be data-only, with code in `citator-pipeline/`.
 - `0407` — Two-stage pipeline: Haiku extraction + Kimi classification with section context. Enhanced Kimi classifier prompt with cert denied pattern recognition, citation signals, and implicit distinguishing. Treatment F1 0.54→0.66 macro, direction F1 0.87→0.92, 77% cheaper than 0403 ($0.048 vs $0.210/case). **Recommended production configuration.**
 - `0408` — Added Sonnet re-evaluator with section context to the two-stage pipeline. Did not improve quality (treatment F1 0.66→0.64) and added 156% cost overhead. Conclusion: re-evaluation is not beneficial when the Kimi classifier prompt is well-tuned.
+- `0518` — First end-to-end batch evaluation of the production two-stage pipeline on the full 0410 benchmark (383 citing clusters, 39 courts). Treatment macro F1 0.38, Cohen's κ 0.58, QWK 0.70. Measured cost $0.047/case batch. Hardened `clean_treatments` canonicalizer; added `derive_severity_direction` postprocess step; added `Modified by` + `Reversed in part; Vacated in part by` to taxonomy (TREATMENT_RANK now 22 entries). DH vs Other split: v305 (Sonnet) wins on Direct History, 0518 wins on Other — hybrid routing is a natural next step.
 
 For detailed metrics across all experiments, see [comparison.md](comparison.md).
 
@@ -94,10 +95,9 @@ python run_batch.py run \
 ## Treatments
 
 This is the canonical treatment list. Any changes here must be reflected in:
-- `citator-pipeline/utils/instructions.py` — both `citator` and `reevaluator` prompts
+- `citator-pipeline/utils/instructions.py` — `citator`, `reevaluator`, and `kimi_classifier` prompts
 - `citator-pipeline/utils/bedrock_converse_utils.py` — JSON schema
-- `citator-pipeline/utils/postprocess.py` — `TREATMENT_RANK`
-- `citator-pipeline/utils/eval_utils.py` — `severity_mapping` and `direction_mapping`
+- `citator-pipeline/utils/postprocess.py` — `TREATMENT_RANK`, `severity_mapping`, and `direction_mapping` (all in one file; `eval_utils.py` imports them)
 
 | Severity | Direct History | Citing Reference | Related Reference |
 |----------|---------------|-----------------|-------------------|

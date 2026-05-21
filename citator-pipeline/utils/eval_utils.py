@@ -9,62 +9,17 @@ from sklearn.metrics import classification_report, multilabel_confusion_matrix, 
 from sklearn.exceptions import UndefinedMetricWarning
 
 from utils.instructions import citator
-from utils.postprocess import normalize_citation, _get_treatment_rank
+from utils.postprocess import (
+    normalize_citation, _get_treatment_rank,
+    severity_mapping, direction_mapping,
+)
 
 pd.options.mode.chained_assignment = None  # suppress SettingWithCopyWarning
 warnings.filterwarnings("ignore", category=UndefinedMetricWarning)
 
 
-
-# Define severity mapping
-severity_mapping = {
-    "Reversed by": "Stop",
-    "Reversed and remanded by": "Stop",
-    "Vacated and remanded by": "Stop",
-    "Vacated by": "Stop",
-    "Overruled by": "Stop",
-    "Abrogated by": "Stop",
-    "Questioned by": "Stop",
-    "Affirmed in part; Reversed in part by": "Warning",
-    "Affirmed in part; Vacated in part by": "Warning",
-    "Disapproved by": "Warning",
-    "Limited by": "Warning",
-    "Remanded by": "Caution",
-    "Cert. granted by": "Caution",
-    "Criticized by": "Caution",
-    "Distinguished by": "Caution",
-    "Declined to follow by": "Caution",
-    "Dismissed by": "Neutral",
-    "Affirmed by": "Neutral",
-    "Cert. denied by": "Neutral",
-    "Cited by": "Neutral",
-    "Unknown": "Neutral"
-}
-
-# Define direction mapping
-direction_mapping = {
-    "Reversed by": "Direct History",
-    "Reversed and remanded by": "Direct History",
-    "Vacated and remanded by": "Direct History",
-    "Vacated by": "Direct History",
-    "Overruled by": "Citing Reference",
-    "Abrogated by": "Citing Reference",
-    "Questioned by": "Citing Reference",
-    "Affirmed in part; Reversed in part by": "Direct History",
-    "Affirmed in part; Vacated in part by": "Direct History",
-    "Disapproved by": "Citing Reference",
-    "Limited by": "Citing Reference",
-    "Remanded by": "Direct History",
-    "Cert. granted by": "Direct History",
-    "Criticized by": "Citing Reference",
-    "Distinguished by": "Citing Reference",
-    "Declined to follow by": "Citing Reference",
-    "Dismissed by": "Direct History",
-    "Affirmed by": "Direct History",
-    "Cert. denied by": "Direct History",
-    "Cited by": "Citing Reference",
-    "Unknown": "Citing Reference"
-}
+# severity_mapping and direction_mapping are imported from postprocess to keep
+# the canonical taxonomy in one place — see postprocess.py for definitions.
 
 def show_eval_metrics(y_true, y_pred, title="Evaluation Metrics"):
     """Show classification report, FP/FN/TP by class, and confusion matrix."""

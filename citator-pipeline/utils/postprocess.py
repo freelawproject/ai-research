@@ -7,6 +7,63 @@ import pandas as pd
 logger = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
+# Canonical severity + direction mappings
+# (Single source of truth — eval_utils.py imports these.)
+# ---------------------------------------------------------------------------
+
+severity_mapping = {
+    "Reversed by": "Stop",
+    "Reversed and remanded by": "Stop",
+    "Vacated and remanded by": "Stop",
+    "Vacated by": "Stop",
+    "Overruled by": "Stop",
+    "Abrogated by": "Stop",
+    "Questioned by": "Stop",
+    "Reversed in part; Vacated in part by": "Warning",
+    "Affirmed in part; Reversed in part by": "Warning",
+    "Affirmed in part; Vacated in part by": "Warning",
+    "Disapproved by": "Warning",
+    "Limited by": "Warning",
+    "Modified by": "Caution",
+    "Remanded by": "Caution",
+    "Cert. granted by": "Caution",
+    "Criticized by": "Caution",
+    "Distinguished by": "Caution",
+    "Declined to follow by": "Caution",
+    "Dismissed by": "Neutral",
+    "Affirmed by": "Neutral",
+    "Cert. denied by": "Neutral",
+    "Cited by": "Neutral",
+    "Unknown": "Neutral",
+}
+
+direction_mapping = {
+    "Reversed by": "Direct History",
+    "Reversed and remanded by": "Direct History",
+    "Vacated and remanded by": "Direct History",
+    "Vacated by": "Direct History",
+    "Overruled by": "Citing Reference",
+    "Abrogated by": "Citing Reference",
+    "Questioned by": "Citing Reference",
+    "Reversed in part; Vacated in part by": "Direct History",
+    "Affirmed in part; Reversed in part by": "Direct History",
+    "Affirmed in part; Vacated in part by": "Direct History",
+    "Disapproved by": "Citing Reference",
+    "Limited by": "Citing Reference",
+    "Modified by": "Direct History",
+    "Remanded by": "Direct History",
+    "Cert. granted by": "Direct History",
+    "Criticized by": "Citing Reference",
+    "Distinguished by": "Citing Reference",
+    "Declined to follow by": "Citing Reference",
+    "Dismissed by": "Direct History",
+    "Affirmed by": "Direct History",
+    "Cert. denied by": "Direct History",
+    "Cited by": "Citing Reference",
+    "Unknown": "Citing Reference",
+}
+
+# ---------------------------------------------------------------------------
 # Treatment severity ranking (lower = more negative)
 # ---------------------------------------------------------------------------
 
@@ -20,25 +77,27 @@ TREATMENT_RANK = {
     "Overruled by": 4,
     "Abrogated by": 5,
     "Questioned by": 6,
-    # Direct History continued
-    "Affirmed in part; Reversed in part by": 7,
-    "Affirmed in part; Vacated in part by": 8,
+    # Direct History continued — Warning tier (partial-disposition composites)
+    "Reversed in part; Vacated in part by": 7,
+    "Affirmed in part; Reversed in part by": 8,
+    "Affirmed in part; Vacated in part by": 9,
     # Citing Reference continued
-    "Disapproved by": 9,
-    "Limited by": 10,
-    # Direct History continued
-    "Remanded by": 11,
-    "Cert. granted by": 12,
+    "Disapproved by": 10,
+    "Limited by": 11,
+    # Direct History continued — Caution tier
+    "Modified by": 12,
+    "Remanded by": 13,
+    "Cert. granted by": 14,
     # Citing Reference continued
-    "Criticized by": 13,
-    "Distinguished by": 14,
-    "Declined to follow by": 15,
+    "Criticized by": 15,
+    "Distinguished by": 16,
+    "Declined to follow by": 17,
     # Direct History — neutral
-    "Dismissed by": 16,
-    "Affirmed by": 17,
-    "Cert. denied by": 18,
+    "Dismissed by": 18,
+    "Affirmed by": 19,
+    "Cert. denied by": 20,
     # Citing Reference — neutral
-    "Cited by": 19,
+    "Cited by": 21,
 }
 
 # For "as recognized by" variants: same rank as the base treatment
@@ -98,31 +157,237 @@ def filter_non_case_citations(parsed_df):
 # Step 0b: Clean up common treatment formatting errors from model output
 # ---------------------------------------------------------------------------
 
+# Lowercase → canonical-case map, derived from TREATMENT_RANK so the canonical
+# list lives in one place.
+_CANONICAL_BY_LOWER = {t.lower(): t for t in TREATMENT_RANK}
+
+# Treatments that have never been valid but the model sometimes emits.
+# Mapped to the closest neutral canonical form.
+_INVALID_TO_NEUTRAL = {
+    "followed": "Cited by",
+    "followed by": "Cited by",
+    "following": "Cited by",
+}
+
+# "Cert. denied" family — model often writes "Certiorari Denied" or omits "by".
+_CERT_DENIED_PATTERN = re.compile(
+    r"^\s*cert(?:\.|iorari)?\s+denied(?:\s+by)?\s*$", re.IGNORECASE
+)
+_CERT_DENIED_AS_RECOGNIZED_PATTERN = re.compile(
+    r"^\s*cert(?:\.|iorari)?\s+denied(?:\s+by)?\s+as\s+recognized\s+by\s*$", re.IGNORECASE
+)
+
+# "Writ denied" / "Writ refused" = denial of writ of cert (state supreme courts;
+# Louisiana uses "refused" interchangeably with "denied").
+# Treated as the same legal event as "Cert. denied by".
+_WRIT_DENIED_AS_RECOGNIZED_PATTERN = re.compile(
+    r"^\s*writ\s+(?:denied|refused)(?:\s+by)?\s+as\s+recognized\s+by\s*$",
+    re.IGNORECASE,
+)
+
+# "Appeal dismissed" and "Cert. dism'd" both map to the canonical
+# "Dismissed by" Direct-History event.
+_DISMISSED_VARIANTS_AS_RECOGNIZED_PATTERN = re.compile(
+    r"^\s*(?:appeal\s+dismissed|cert(?:\.|iorari)?\s+dism(?:'d|issed))"
+    r"(?:\s+by)?\s+as\s+recognized\s+by\s*$",
+    re.IGNORECASE,
+)
+
+# "Cert. pending" — explicitly not a treatment per instructions.py.
+# The prompt says: "Cert. pending is not a treatment. Assign 'Cited by'."
+_CERT_PENDING_PATTERN = re.compile(
+    r"^\s*cert(?:\.|iorari)?\s+pending(?:\s+by)?(?:\s+as\s+recognized\s+by)?\s*$",
+    re.IGNORECASE,
+)
+
+# Partial-treatment Related Reference forms — the model sometimes emits one
+# half of a composite (e.g. "Reversed in part as recognized by") when reporting
+# a partial appellate disposition. Collapse to the full-treatment RR form
+# ("Reversed as recognized by"); partiality information is lost but the
+# directionality and severity tier are preserved.
+_IN_PART_RR_PATTERN = re.compile(
+    r"^\s*(affirmed|reversed)\s+in\s+part"
+    r"(?:\s+on\s+other\s+grounds)?"
+    r"\s+as\s+recognized\s+by\s*$",
+    re.IGNORECASE,
+)
+
+
+def _canonicalize_treatment(treatment):
+    """Map a raw treatment string to the canonical form in TREATMENT_RANK.
+
+    Returns (canonical_treatment, change_kind) where change_kind is one of:
+      - "ok":        already canonical (no change)
+      - "fixed":     normalized to a canonical treatment
+      - "invalid":   recognized as a known invalid string, replaced with neutral
+      - "unknown":   not recognizable — left unchanged for visibility downstream
+    """
+    if not treatment or pd.isna(treatment):
+        return treatment, "ok"
+
+    raw = str(treatment).strip()
+    if not raw:
+        return raw, "ok"
+
+    # 1. Already canonical
+    if raw in TREATMENT_RANK:
+        return raw, "ok"
+
+    lower = raw.lower()
+
+    # 2. Cert. denied family (covers "Certiorari Denied", "Cert. denied",
+    #    "Cert denied", with/without "by"). Including the "as recognized by"
+    #    form which is valid (Related Reference).
+    if _CERT_DENIED_AS_RECOGNIZED_PATTERN.match(raw):
+        return "Cert. denied as recognized by", (
+            "ok" if raw == "Cert. denied as recognized by" else "fixed"
+        )
+    if _CERT_DENIED_PATTERN.match(raw):
+        return "Cert. denied by", "fixed"
+
+    # 2b. "Writ denied as recognized by" → "Cert. denied as recognized by"
+    if _WRIT_DENIED_AS_RECOGNIZED_PATTERN.match(raw):
+        return "Cert. denied as recognized by", "fixed"
+
+    # 2c. "Appeal dismissed" / "Cert. dism'd" → "Dismissed as recognized by"
+    if _DISMISSED_VARIANTS_AS_RECOGNIZED_PATTERN.match(raw):
+        return "Dismissed as recognized by", "fixed"
+
+    # 2d. "Cert. pending [as recognized by]" → "Cited by"
+    # (instructions.py says cert. pending is not a treatment)
+    if _CERT_PENDING_PATTERN.match(raw):
+        return "Cited by", "fixed"
+
+    # 2e. "[Affirmed|Reversed] in part [on other grounds] as recognized by"
+    # → "[Affirmed|Reversed] as recognized by" (partiality info dropped)
+    m = _IN_PART_RR_PATTERN.match(raw)
+    if m:
+        verb = m.group(1).capitalize()
+        return f"{verb} as recognized by", "fixed"
+
+    # 3. "Cited as recognized by" is explicitly NOT valid — collapse to "Cited by"
+    if lower == "cited as recognized by":
+        return "Cited by", "fixed"
+
+    # 4. Malformed "... by as recognized by" → "... as recognized by"
+    if " by as recognized by" in lower:
+        fixed_lower = lower.replace(" by as recognized by", " as recognized by")
+        # Recurse to canonicalize the corrected form
+        return _canonicalize_treatment(fixed_lower)
+
+    # 5. Known invalid treatments (e.g., "Followed", not in our taxonomy)
+    if lower in _INVALID_TO_NEUTRAL:
+        return _INVALID_TO_NEUTRAL[lower], "invalid"
+
+    # 6. Case-insensitive match against canonical list
+    if lower in _CANONICAL_BY_LOWER:
+        return _CANONICAL_BY_LOWER[lower], "fixed"
+
+    # 7. Missing " by" suffix: e.g. "Vacated" → "Vacated by", "Overruled" → "Overruled by"
+    if (lower + " by") in _CANONICAL_BY_LOWER:
+        return _CANONICAL_BY_LOWER[lower + " by"], "fixed"
+
+    # 8. "as recognized by" form — base treatment must canonicalize to "<X> by"
+    if lower.endswith(" as recognized by"):
+        base = lower[: -len(" as recognized by")].strip()
+        # Try the base directly and with " by" appended
+        for candidate in (base, base + " by"):
+            if candidate in _CANONICAL_BY_LOWER:
+                canonical_base = _CANONICAL_BY_LOWER[candidate]
+                # Strip trailing " by" before re-attaching " as recognized by"
+                stem = canonical_base[: -len(" by")] if canonical_base.endswith(" by") else canonical_base
+                return f"{stem} as recognized by", "fixed"
+
+    # 9. Give up — leave raw value in place so it surfaces in QA, no silent rewrite
+    return raw, "unknown"
+
+
 def clean_treatments(parsed_df):
-    """Fix common treatment string errors from model output:
-    1. 'Cited as recognized by' → 'Cited by' (not a valid treatment).
-    2. '... by recognized by' → '... as recognized by' (malformed modifier).
+    """Canonicalize treatment strings against the TREATMENT_RANK taxonomy.
+
+    Handles:
+    - missing " by" suffix (Vacated → Vacated by)
+    - case fixes (Vacated and Remanded by → Vacated and remanded by)
+    - 'Certiorari Denied'/'Cert. denied' → 'Cert. denied by'
+    - 'Cited as recognized by' → 'Cited by' (explicitly invalid)
+    - '... by as recognized by' → '... as recognized by' (malformed modifier)
+    - known-invalid treatments like 'Followed' → 'Cited by'
+    - 'X as recognized by' forms canonicalized via the base treatment
+
+    Strings that don't resolve to a canonical treatment are left as-is so
+    they remain visible in eval rather than being silently rewritten.
     """
     df = parsed_df.copy()
-    treatment = df["treatment"].fillna("")
+    counts = {"ok": 0, "fixed": 0, "invalid": 0, "unknown": 0}
+    unknown_samples = set()
 
-    # "Cited as recognized by" → "Cited by"
-    cited_arb_mask = treatment.str.strip().str.lower() == "cited as recognized by"
-    n_cited = cited_arb_mask.sum()
-    df.loc[cited_arb_mask, "treatment"] = "Cited by"
+    canonicalized = []
+    for raw in df["treatment"].tolist():
+        new_value, kind = _canonicalize_treatment(raw)
+        counts[kind] += 1
+        if kind == "unknown" and raw:
+            unknown_samples.add(str(raw))
+        canonicalized.append(new_value)
+    df["treatment"] = canonicalized
 
-    # "... by as recognized by" → "... as recognized by"
-    by_as_recog_mask = treatment.str.contains(" by as recognized by", case=False, na=False)
-    n_by_as_recog = by_as_recog_mask.sum()
-    df.loc[by_as_recog_mask, "treatment"] = (
-        df.loc[by_as_recog_mask, "treatment"]
-        .str.replace(" by as recognized by", " as recognized by", case=False, regex=False)
-    )
-
-    if n_cited or n_by_as_recog:
+    if counts["fixed"] or counts["invalid"] or counts["unknown"]:
         logger.info(
-            f"Treatment cleanup: {n_cited} 'Cited as recognized by' → 'Cited by', "
-            f"{n_by_as_recog} 'by as recognized by' → 'as recognized by'"
+            "Treatment cleanup: "
+            f"{counts['ok']} ok, {counts['fixed']} fixed, "
+            f"{counts['invalid']} invalid→neutral, {counts['unknown']} unknown"
+        )
+        if unknown_samples:
+            sample = sorted(unknown_samples)[:10]
+            logger.warning(
+                f"Unrecognized treatments left as-is ({len(unknown_samples)} distinct, "
+                f"showing up to 10): {sample}"
+            )
+    return df
+
+
+# ---------------------------------------------------------------------------
+# Step 0c: Override severity + caseHistory from the canonical treatment
+# (Runs as the FINAL postprocess step in collect(), after dedup — the model
+# emits its own caseHistory but we intentionally discard it so direction
+# stays a deterministic function of treatment, matching how the 0410
+# benchmark labels were built.)
+# ---------------------------------------------------------------------------
+
+def _severity_from_treatment(treatment):
+    if pd.isna(treatment) or not treatment:
+        return "Unknown"
+    base = (
+        treatment.replace(" as recognized by", " by")
+        if " as recognized" in treatment
+        else treatment
+    )
+    return severity_mapping.get(base, "Unknown")
+
+
+def _direction_from_treatment(treatment):
+    if pd.isna(treatment) or not treatment:
+        return "Unknown"
+    if " as recognized by" in treatment:
+        return "Related Reference"
+    return direction_mapping.get(treatment, "Unknown")
+
+
+def derive_severity_direction(parsed_df):
+    """Override `caseHistory` and add a `severity` column, both derived from
+    the (canonical) treatment string.
+
+    Must be called AFTER clean_treatments so the treatment strings are
+    canonical — non-canonical strings fall through as 'Unknown'.
+    """
+    df = parsed_df.copy()
+    df["caseHistory"] = df["treatment"].apply(_direction_from_treatment)
+    df["severity"] = df["treatment"].apply(_severity_from_treatment)
+    n_unknown_dir = (df["caseHistory"] == "Unknown").sum()
+    n_unknown_sev = (df["severity"] == "Unknown").sum()
+    if n_unknown_dir or n_unknown_sev:
+        logger.warning(
+            f"derive_severity_direction: {n_unknown_dir} rows with Unknown direction, "
+            f"{n_unknown_sev} with Unknown severity (treatment not in canonical mapping)"
         )
     return df
 
@@ -315,11 +580,17 @@ def merge_to_labels(parsed_df, labels_df, output_dir):
     # Model results matched to labels
     # Deduplicate parallel citations matching the same label (same cited_cluster_id)
     # Keep the most severe treatment when multiple parallel citations match
-    matched_results = matched[
-        ["citing_cluster_id", "mainCitationString", "caseName", "caseHistory",
-         "treatment", "opinionType", "quote", "rationale",
-         "cited_cluster_id", citations_col, "cited_case_name"]
-    ].copy()
+    matched_cols = ["citing_cluster_id", "mainCitationString", "caseName",
+                    "caseHistory", "treatment", "opinionType", "quote", "rationale",
+                    "cited_cluster_id", citations_col, "cited_case_name"]
+    # The merge above adds `_pred`/`_label` suffixes when both sides share a
+    # column. Pick up the predicted-severity column if it landed under either
+    # name and surface it as `severity` in matched_results.
+    if "severity_pred" in matched.columns:
+        matched = matched.rename(columns={"severity_pred": "severity"})
+    if "severity" in matched.columns:
+        matched_cols.insert(matched_cols.index("caseHistory") + 1, "severity")
+    matched_results = matched[matched_cols].copy()
     matched_results["_rank"] = matched_results["treatment"].apply(_get_treatment_rank)
     matched_results = (
         matched_results.sort_values("_rank")

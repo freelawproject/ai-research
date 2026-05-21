@@ -53,17 +53,38 @@ python run_example.py --output-dir ../experiments_04062026/data --evaluate
 # Two-stage pipeline (Haiku extraction + Kimi classification) on all 9 examples
 python run_two_stage.py --output-dir ../experiments_04072026/data --evaluate
 
-# Batch inference for a circuit court
-python run_batch.py --output-dir ../experiments_04052026/data --court ca1
+# Two-stage batch inference (Haiku Stage 1 + Kimi Stage 2) — production config.
+# Each run is keyed by a UUID `run_id` and persisted to s3://{bucket}/Citator/runs/{run_id}/.
+# S3 is the source of truth between stages; --output-dir is local scratch + final CSVs.
+python run_batch.py submit-extraction \
+    --output-dir ../experiments_04052026/data --court ca1
+# → prints run_id at exit
+python run_batch.py submit-classification \
+    --output-dir ../experiments_04052026/data --run-id <run_id>
+python run_batch.py collect \
+    --output-dir ../experiments_04052026/data --run-id <run_id> \
+    --labels-file ../data/benchmark_original/0410.csv
 
-# Post-processing only (after batch results collected)
-python run_batch.py --output-dir ../experiments_04052026/data --court ca1 --postprocess-only
+# Or end-to-end (chains all three with wait-for-completion between stages)
+python run_batch.py run --output-dir ../experiments_04052026/data --court ca1
+
+# Smoke test on the synthetic batch_test data (overrides metadata + opinion paths,
+# uses short test prompts in place of the production prompts)
+python scripts/generate_synthetic_opinions.py
+python run_batch.py run \
+    --output-dir ../experiments_batch_test/data \
+    --metadata-file ../data/batch_test_citing_metadata.csv \
+    --opinion-dir ../data/batch_test_opinion_texts \
+    --smoke-test
 ```
 
 ## AWS
 
 - Uses Bedrock via `boto3.Session(profile_name="dev-env")` in `us-west-2`
-- Batch jobs require `CITATOR_S3_BUCKET` env var (or edit `S3_BUCKET` in `utils/batch_utils.py`)
+- Batch jobs require `CITATOR_S3_BUCKET` and `CITATOR_BATCH_ROLE_ARN` env vars
+- Bedrock batch inference requires ≥100 records per JSONL input file
+- Stage 1 model: `us.anthropic.claude-haiku-4-5-20251001-v1:0` (tool_use)
+- Stage 2 model: `moonshotai.kimi-k2.5` (no tool_use; schema inlined in user prompt)
 
 ## Domain Context
 
@@ -84,11 +105,12 @@ This is the canonical treatment list. Any changes here must be reflected in:
 | | Reversed and remanded by | Abrogated by | (e.g., "Overruled as recognized by") |
 | | Vacated and remanded by | Questioned by | |
 | | Vacated by | | |
-| **Warning** | Affirmed in part; Reversed in part by | Disapproved by | |
-| | Affirmed in part; Vacated in part by | Limited by | |
-| **Caution** | Remanded by | Criticized by | |
-| | Cert. granted by | Distinguished by | |
-| | | Declined to follow by | |
+| **Warning** | Reversed in part; Vacated in part by | Disapproved by | |
+| | Affirmed in part; Reversed in part by | Limited by | |
+| | Affirmed in part; Vacated in part by | | |
+| **Caution** | Modified by | Criticized by | |
+| | Remanded by | Distinguished by | |
+| | Cert. granted by | Declined to follow by | |
 | **Neutral** | Dismissed by | Cited by | |
 | | Affirmed by | | |
 | | Cert. denied by | | |

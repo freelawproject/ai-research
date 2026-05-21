@@ -23,11 +23,13 @@ Strictly follow the definitions and instructions below. Before producing your fi
       - Reversed and remanded by
       - Vacated and remanded by
       - Vacated by
+      - Reversed in part; Vacated in part by
       - Affirmed in part; Reversed in part by
       - Affirmed in part; Vacated in part by
+      - Modified by: The appellate court alters the lower court's judgment short of full reversal or vacatur.
       - Remanded by
       - Cert. granted by
-      - Dismissed by
+      - Dismissed by: Includes the appellate court dismissing the appeal, denying or dismissing a writ (state supreme courts), or dismissing certiorari. Patterns: "appeal dismissed", "writ denied", "writ refused", "cert. dismissed".
       - Affirmed by
       - Cert. denied by
    - For Citing Reference (the Citing Case applies treatment to a non-appeal Cited Case), sorted from most to least severe:
@@ -292,11 +294,13 @@ You will be given a section of a legal opinion (with surrounding context from ne
       - Reversed and remanded by
       - Vacated and remanded by
       - Vacated by
+      - Reversed in part; Vacated in part by
       - Affirmed in part; Reversed in part by
       - Affirmed in part; Vacated in part by
+      - Modified by: The appellate court alters the lower court's judgment short of full reversal or vacatur.
       - Remanded by
       - Cert. granted by
-      - Dismissed by
+      - Dismissed by: Includes the appellate court dismissing the appeal, denying or dismissing a writ (state supreme courts), or dismissing certiorari. Patterns: "appeal dismissed", "writ denied", "writ refused", "cert. dismissed".
       - Affirmed by
       - Cert. denied by
    - For Citing Reference (the Citing Case applies treatment to a non-appeal Cited Case), sorted from most to least severe:
@@ -530,3 +534,33 @@ Return your response as a JSON object with one reassessment per Cited Case, in t
 }
 ```
 """
+
+
+# ── Short test prompts (smoke testing only — not for production) ──
+# These trade prompt fidelity for cheaper/faster smoke tests of the AWS
+# plumbing and per-stage parsing. They use the same JSON schemas as the
+# production prompts (haiku_extraction_tool_spec, kimi_classification_tool_spec)
+# so the parsers don't branch.
+
+haiku_extractor_short = """Extract every <citedCase> tag from the opinion below.
+
+The opinion is split into [Section S1], [Section S2], ... markers. For each unique
+cited case, return:
+- mainCitationString: the citation text inside the <citedCase> tag (or null if absent)
+- caseName: the case name immediately preceding the citation (or null if absent)
+- section_ids: list of section IDs where the case appears
+
+Group multiple references to the same case into a single entry."""
+
+
+kimi_classifier_short = """Classify the treatment for each numbered cited case in the input below.
+
+For each cited case, return:
+- citedCaseId: the 1-based index from the input
+- actingCase: "Citing Case" if the citing opinion itself applies treatment
+- caseHistory: one of "Direct History", "Citing Reference", "Related Reference"
+- treatment: "Cited by" if neutral, otherwise pick a treatment that matches the language
+  in the excerpt (e.g., "Reversed by", "Distinguished by", "Affirmed by")
+- opinionType: "Lead"
+- quote: a short verbatim phrase from the excerpt supporting the treatment
+- rationale: one sentence explaining the choice"""

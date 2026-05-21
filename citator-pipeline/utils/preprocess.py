@@ -3,11 +3,13 @@ import re
 
 logger = logging.getLogger(__name__)
 
-# Page splitting thresholds (derived from analysis.ipynb)
-# Binding constraint is output tokens (64K max, ~300 tokens per cited case)
-# Cutoff from P99 regression: at 145K chars, predicted + P99 residual ≤ 150 auths
-# 145K chars ≈ 41K input tokens, targeting ~150 authorities per page
-PAGE_SIZE_CHARS = 145_000
+# Page splitting thresholds.
+# Sized for Haiku 4.5 in the two-stage batch pipeline: 200K-token input
+# context, and Stage 1 output is much smaller per citation than the
+# single-stage Sonnet pipeline (no quote/rationale/treatment, just
+# mainCitationString + caseName + section_ids ≈ ~40 tokens/citation).
+# 600K chars ≈ 150K input tokens leaves headroom under the 200K limit.
+PAGE_SIZE_CHARS = 600_000
 OVERLAP_CHARS = 20_000
 
 # Paragraph boundary pattern (double newline or more)

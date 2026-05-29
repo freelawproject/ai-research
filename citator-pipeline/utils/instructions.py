@@ -30,8 +30,8 @@ Strictly follow the definitions and instructions below. Before producing your fi
       - Remanded by
       - Cert. granted by
       - Dismissed by: Includes the appellate court dismissing the appeal, denying or dismissing a writ (state supreme courts), or dismissing certiorari. Patterns: "appeal dismissed", "writ denied", "writ refused", "cert. dismissed".
-      - Affirmed by
       - Cert. denied by
+      - Affirmed by
    - For Citing Reference (the Citing Case applies treatment to a non-appeal Cited Case), sorted from most to least severe:
       - Overruled by: The Acting Case expressly overrules all or part of the Cited Case.
       - Abrogated by: The Acting Case effectively, but not explicitly, overrules all or part of the Cited Case.
@@ -301,8 +301,8 @@ You will be given a section of a legal opinion (with surrounding context from ne
       - Remanded by
       - Cert. granted by
       - Dismissed by: Includes the appellate court dismissing the appeal, denying or dismissing a writ (state supreme courts), or dismissing certiorari. Patterns: "appeal dismissed", "writ denied", "writ refused", "cert. dismissed".
-      - Affirmed by
       - Cert. denied by
+      - Affirmed by
    - For Citing Reference (the Citing Case applies treatment to a non-appeal Cited Case), sorted from most to least severe:
       - Overruled by: The Acting Case expressly overrules all or part of the Cited Case.
       - Abrogated by: The Acting Case effectively, but not explicitly, overrules all or part of the Cited Case.
@@ -463,8 +463,8 @@ Direct History treatments (the Citing Case's decision on the case on appeal), so
 - **Remanded by**
 - **Cert. granted by**
 - **Dismissed by**
-- **Affirmed by**
 - **Cert. denied by**
+- **Affirmed by**
 
 Citing Reference treatments (sorted from most to least severe):
 - **Overruled by**: The Acting Case expressly overrules all or part of the Cited Case.
@@ -564,3 +564,351 @@ For each cited case, return:
 - opinionType: "Lead"
 - quote: a short verbatim phrase from the excerpt supporting the treatment
 - rationale: one sentence explaining the choice"""
+
+
+# ── Pipeline migration Phase 2: citation grouping (Haiku 4.5) ──
+# Fresh write, not a port of haiku_extractor. See
+# experiments_05192026/citator_pipeline_migration_plan.md Phase 2 for the
+# locked task spec and LLM input/output JSON shapes.
+
+citation_grouping = """You group legal citation tags into the cited cases they refer to. The parser has already wrapped every citation it found in the opinion text in a `<cited>` tag. Your job is to ROUTE each tagged id to a cited case — never to second-guess whether a tag is "really" a citation.
+
+# Your role: router, not editor
+
+The opinion is the "citing case." Every citation in it has been wrapped in a `<cited id="N" group="gM">` tag by a parser whose recall and precision are trusted. **Every tagged id is a real citation.** You do not reject ids. You route every id to some cited_case's `accepted_ids`.
+
+When you cannot identify what case a tag refers to (orphaned `Id.`, unfamiliar reporter, partial-chunk visibility), put it in a cited_case with null `mainCitationString` and null `caseName` — never omit. Postprocess can resolve the case later via group_id chaining or canonical-name match across chunks.
+
+**Omitting an id is a bug.** Every tagged id you see in your chunks must appear in some cited_case's `accepted_ids` in your output.
+
+# Input
+
+A JSON object:
+
+```
+{
+  "opinions": [
+    {
+      "opinion_handle": 0,
+      "opinion_type": "020lead",
+      "chunk_index": 1,
+      "total_chunks": 1,
+      "tagged_text": "...prose with <cited id=\"0\" group=\"g0\">500 U.S. 412</cited>..."
+    }
+  ]
+}
+```
+
+Fields:
+
+- `opinion_handle` — small int unique within this call; echo it back when referring to a specific opinion (e.g., for untagged occurrences).
+- `opinion_type` — the opinion's role (`020lead`, `025plurality`, `030concurrence`, `035concurrenceinpart`, `040dissent`, `010combined`).
+- `chunk_index` / `total_chunks` — `1`/`1` = whole opinion in this call. `2`/`3` = middle chunk; chunks `1` and `3` are sent in other calls you CANNOT see. If `chunk_index < total_chunks`, you're working with partial context.
+- `tagged_text` — plain text with citations marked as `<cited id="N" group="gM">CITATION TEXT</cited>`.
+
+# About the tags
+
+Each `<cited>` tag has two attributes:
+
+- `id` — unique per tag; the routing key. Every tag has a different id.
+- `group` — the parser's guess about which tags chain to the same case (via short cites, Id., supra, repeated reporters). A HINT, not authority. The parser often gets it right but sometimes:
+  - mis-chains two distinct cases into one group (you'll SPLIT it),
+  - leaves the same case in two groups (you'll MERGE them),
+  - puts an unresolved cite in a solo group of one.
+
+## What the tag actually wraps varies
+
+The parser's tag boundaries are inconsistent. Some patterns you'll see:
+
+```
+Talbot v. Henning, <cited>500 U.S. 412</cited> (1991)         // tag = reporter only
+<cited>500 U.S. 412 (1991)</cited>                              // tag = reporter + year
+Apex Corp. v. <cited>Northwood, supra, at 304</cited>          // tag straddles case name
+<cited>Id.</cited>                                              // tag = short cite alone
+<cited>Talbot</cited>                                           // tag = bare case-name reference
+```
+
+**Read the prose immediately BEFORE and AFTER each tag** for context the parser missed: case name, "v." prefix, year, parallel reporters, parenthetical signals. To build a canonical `mainCitationString` you typically combine the tag's inner text with surrounding prose.
+
+# Output format
+
+```
+{
+  "cited_cases": [
+    {
+      "mainCitationString": "Talbot v. Henning, 500 U.S. 412 (1991)",
+      "parallelCitationString": "111 S.Ct. 2050, 114 L.Ed.2d 540",
+      "caseName": "Talbot v. Henning",
+      "accepted_ids": [0, 3, 5],
+      "untagged_occurrences": [
+        {"opinion_handle": 0, "snippet": "verbatim text from source"}
+      ],
+      "ocr_corrected": false,
+      "ocr_note": null
+    }
+  ]
+}
+```
+
+Field rules:
+
+- `mainCitationString` — case name + primary reporter + year in parens, e.g., `"Talbot v. Henning, 500 U.S. 412 (1991)"`. Include the year when the source has it. Use only the PRIMARY (highest-authority) reporter; parallel reporters go in `parallelCitationString`. **Null** if you cannot identify the case from your chunks (orphaned short cite, partial-chunk visibility, unfamiliar reporter, etc.).
+- `parallelCitationString` — comma-separated parallel reporter cites only (no case name, no year), e.g., `"111 S.Ct. 2050, 114 L.Ed.2d 540"`. **Null** if no parallel reporters.
+- `caseName` — case name only (e.g., `"Talbot v. Henning"`). **Null** if not derivable. Postprocess uses it as a consistency check against `mainCitationString` — they should agree on the case name.
+- `accepted_ids` — the ids this case owns. Drawn from one Phase 1 group (confirming the parser), multiple groups (merging the parser's groups), or part of one group (splitting it). Every tagged id in your chunks MUST appear in exactly one cited_case's `accepted_ids`.
+- `untagged_occurrences` — `{opinion_handle, snippet}` for citations YOU found that the parser missed (see SCAN step). Snippet MUST be verbatim from source; postprocess validates by exact substring match and silently drops mismatches.
+- `ocr_corrected` / `ocr_note` — true + brief explanation if you fixed an OCR error in `mainCitationString` or `caseName` (e.g., `"34 L. Ed. 525"` → `"34 L.Ed. 525"`). Snippets always stay verbatim.
+
+# The task — order matters: SCAN → GROUP → VERIFY
+
+Work in this order. Do NOT skip ahead.
+
+## Step 1 — SCAN: identify every citation in the opinion (tagged + untagged)
+
+This step is required. You MUST read every opinion in your input in \
+full, top to bottom, and produce a working mental list of every \
+reference to a cited case BEFORE you start grouping. Skipping this \
+step is the most common failure mode; do not start grouping until you \
+have scanned for all three forms below.
+
+References come in three forms; you MUST find all three:
+
+**(a) Tagged formal cites** — already wrapped in `<cited>` tags. The \
+parser identified these; you don't need to find them, but you must \
+account for every one in Step 2.
+
+**(b) Untagged formal cites** — citations the parser missed. The \
+parser is imperfect; some real citations slip past it. Look \
+specifically for:
+- A bare reporter pattern (`<vol> <reporter> <page>`) not wrapped — \
+e.g., `"450 U.S. 412"` sitting in prose with no `<cited>` around it.
+- A `<Name> v. <Name>` case-name pattern not wrapped — e.g., \
+`"Quarles v. Vance"` mentioned without tags.
+- A short cite (`Id.`, `supra`, `[Name], supra`) not wrapped.
+- A citation buried in a parenthetical the parser didn't expand: \
+`"(citing Smith v. Jones, 100 F.3d 200)"` where neither the signal \
+nor the inner cite is tagged.
+- A citation split awkwardly across a line/page break (OCR artifact).
+- A footnote-style or string-cite item the parser missed.
+
+**(c) Untagged NARRATIVE references** — the court refers to a \
+previously-cited case by short name in flowing prose, without a \
+formal citation. The parser cannot pattern-match these; only you \
+can. These are real references to cited cases and you MUST capture \
+them. Common patterns (where `Quarles` is the short name of \
+`Quarles v. Vance, 450 U.S. 412`):
+
+  - `"in the Quarles case"`
+  - `"as seen in Quarles"`
+  - `"the Quarles Court held"`
+  - `"Quarles's reasoning"`
+  - `"this argument was rejected in Quarles"`
+  - `"Quarles, however, reached the opposite result"`
+  - `"the holding in Quarles applies here"`
+  - `"following Quarles"` / `"unlike Quarles"` / `"distinguishing Quarles"`
+  - `"the Quarles decision"` / `"the Quarles framework"` / `"Quarles itself"`
+  - `"the Court in Quarles emphasized"`
+  - `"there, [the Court / we] held" — backreference to a recently-cited case`
+
+If a case is cited in full once and then referred to by short name \
+five times later, you should capture FIVE untagged narrative \
+occurrences for it — not skip them because "the case is already in \
+the list." Each occurrence matters: downstream phases use \
+occurrence counts and locations.
+
+**How to scan systematically:** as you read each paragraph, ask "does \
+this paragraph reference any cited case, in any of the three forms?" \
+If yes, mark it. Don't filter on importance — capture every reference.
+
+For every untagged item (formal or narrative): pick a **verbatim** \
+snippet from the source (character-for-character, no paraphrase) — a \
+distinctive substring (typically 4–15 words) that identifies the \
+reference. The snippet must match by exact substring in the opinion \
+text; postprocess validates by `str.find()` and silently drops \
+mismatches. Don't normalize spacing, casing, or punctuation. Bare \
+`"Quarles"` alone is too short and ambiguous — include surrounding \
+words: `"in the Quarles case"`, `"the Quarles Court held"`, etc.
+
+## Step 2 — GROUP: assign every reference to a distinct cited_case
+
+Now group everything you identified — tagged ids AND untagged \
+occurrences — into cited_case objects. Two references belong to the \
+same case when the same-case rules below apply.
+
+For each distinct cited case, build one cited_case with:
+- All its tagged ids in `accepted_ids`.
+- All its untagged occurrences (formal cites + narrative refs) in \
+`untagged_occurrences`.
+- `mainCitationString` / `caseName` / `parallelCitationString` filled \
+when derivable from the visible text. Null if not.
+
+**A narrative reference almost always attaches to an EXISTING case row.** \
+If you see `"in the Quarles case"` and you've already grouped the full \
+cite `"Quarles v. Vance, 450 U.S. 412 (1981)"`, the narrative ref goes \
+in that case's `untagged_occurrences`. Do NOT create a separate \
+cited_case for the bare name `"Quarles"` — find its parent.
+
+If the narrative ref refers to a case you haven't seen the full cite \
+for in your chunks, attach it to a cited_case with null \
+`mainCitationString` / `caseName` — postprocess can chain it later via \
+canonical name match across chunks.
+
+**Every tagged id in your chunks must land in exactly one cited_case's \
+`accepted_ids`.** If you cannot identify the case (orphaned `Id.`, \
+unfamiliar reporter, partial-chunk visibility), put the id in a \
+cited_case with null `mainCitationString` / null `caseName`. \
+**Never omit a tagged id from the output.**
+
+## Step 3 — VERIFY: every tagged id is accounted for
+
+Final check before emitting: scan every `<cited id="N" ...>` tag in \
+your input chunks and confirm `N` appears in some cited_case's \
+`accepted_ids`. Then confirm Step 1's untagged list (formal + \
+narrative) is fully represented in `untagged_occurrences` across your \
+cited_cases. Silent omission is a bug — postprocess flags it.
+
+## Same-case vs different-case identification
+
+Two tags refer to the SAME cited case when ANY of these hold:
+
+- **Same reporter, volume, starting page** (regardless of pin pages or OCR spacing). `"500 U.S. 412"`, `"500 U.S. 412, 419"`, `"500 U.S. at 419"`, `"500 U. S. 412"` are all the same case.
+- **Parallel reporter cites in immediate sequence**: `"500 U.S. 412, 111 S.Ct. 2050, 114 L.Ed.2d 540"` is ONE case in three reporters. Put the highest-authority reporter (U.S. → S.Ct. → L.Ed.) in `mainCitationString`; the rest in `parallelCitationString`.
+- **Short cite / supra / Id. chained back to an earlier full cite**: after `"Talbot v. Henning, 500 U.S. 412 (1991)"`, later references like `"Talbot, supra"`, `"Talbot, 500 U.S. at 419"`, `"Id."`, or just `"Talbot"` all refer to the same case.
+- **Bare case-name reference**: `"Talbot held that ..."` refers to the earlier-cited `"Talbot v. Henning"`. The parser tags `"Talbot"` as a case citation; trust it.
+- **Narrative reference (untagged) to an earlier-cited case**: `"in the Talbot case"`, `"the Talbot Court"`, `"Talbot's reasoning"`, `"following Talbot"`. These don't have `<cited>` tags around them — you found them while scanning — but they refer to the same `Talbot v. Henning` case. Attach as an untagged occurrence to the existing case row.
+
+Two tags refer to DIFFERENT cases when:
+
+- **Different reporter, volume, or starting page**. Surname similarity is not enough: `"Doe v. Roe, 100 F.3d 200"` and `"Doe v. United States, 200 F.3d 500"` are different.
+- **Parenthetical or signal citation pointing at a third case**: in `"Doe v. Roe, 100 F.3d 200 (citing Wendell, 412 U.S. 88)"`, Doe and Wendell are TWO cases.
+- **String cite** separated by `;` or `and`: `"See Doe v. Roe, 100 F.3d 200; Wendell, 412 U.S. 88; Talbot, 500 U.S. 412"` is THREE distinct cases.
+
+When the case-name signal and reporter signal conflict, **trust the reporter**. Reporters are unique per case-court-year; party surnames repeat across the corpus.
+
+# Chunk awareness (long opinions)
+
+Most long opinions are chunked — you'll frequently see `chunk_index < total_chunks`, meaning you're working with partial context. Behavior:
+
+- A short cite whose antecedent is in another chunk (e.g., `Id.`, `Talbot, supra`, `500 U.S., at 419` with no preceding full cite in your visible text): include the id with null `mainCitationString` / `caseName`. Postprocess chains it back to the right case via shared `group_id`.
+- Don't declare a case "missing." Don't omit any id. If you see a `<cited>` tag but can't identify the case from your visible text, route it to a cited_case with null name fields.
+- Untagged narrative references (`"in the Talbot case"`) whose full cite is in another chunk: still capture them. Attach to a cited_case with null `mainCitationString` / `caseName`. Postprocess merges them with the full-cite chunk via canonical name later.
+- The 5K-token chunk overlap means consecutive chunks share boundary content — the model may see the same `<cited>` tag in two adjacent chunks. That's expected; postprocess deduplicates by `group_id` and canonical name.
+
+# Worked examples (fictitious cases)
+
+**Confirm** — `g3` has ids 5, 12, 18; all chain to one case with full cite at id 5 ("Talbot v. Henning" preceding the tag, "(1991)" after):
+
+```
+{
+  "mainCitationString": "Talbot v. Henning, 500 U.S. 412 (1991)",
+  "parallelCitationString": null,
+  "caseName": "Talbot v. Henning",
+  "accepted_ids": [5, 12, 18],
+  "untagged_occurrences": [],
+  "ocr_corrected": false,
+  "ocr_note": null
+}
+```
+
+**Parallel cites** — `"Talbot v. Henning, <cited id="20" group="g6">500 U.S. 412</cited>, <cited id="21" group="g6">111 S.Ct. 2050</cited>, <cited id="22" group="g6">114 L.Ed.2d 540</cited> (1991)"`:
+
+```
+{
+  "mainCitationString": "Talbot v. Henning, 500 U.S. 412 (1991)",
+  "parallelCitationString": "111 S.Ct. 2050, 114 L.Ed.2d 540",
+  "caseName": "Talbot v. Henning",
+  "accepted_ids": [20, 21, 22],
+  "untagged_occurrences": [],
+  "ocr_corrected": false,
+  "ocr_note": null
+}
+```
+
+**Merge** — `g7` (id 22, "Wendell v. Carson") and `g11` (id 31, "Wendell, supra") are the same case, parser didn't chain them:
+
+```
+{
+  "mainCitationString": "Wendell v. Carson, 412 U.S. 88 (1973)",
+  "parallelCitationString": "93 S.Ct. 2440, 37 L.Ed.2d 407",
+  "caseName": "Wendell v. Carson",
+  "accepted_ids": [22, 31],
+  "untagged_occurrences": [],
+  "ocr_corrected": false,
+  "ocr_note": null
+}
+```
+
+**Split** — `g4` has ids 8 and 9 but they're different cases (eyecite mis-chain). Two cited_cases that partition the group:
+
+```
+{"mainCitationString": "Talbot v. Henning, 500 U.S. 412 (1991)", "parallelCitationString": null, "caseName": "Talbot v. Henning", "accepted_ids": [8], "untagged_occurrences": [], "ocr_corrected": false, "ocr_note": null}
+{"mainCitationString": "Wendell v. Carson, 412 U.S. 88 (1973)", "parallelCitationString": null, "caseName": "Wendell v. Carson", "accepted_ids": [9], "untagged_occurrences": [], "ocr_corrected": false, "ocr_note": null}
+```
+
+**Untagged add (formal cite)** — the prose contains `"as the Court explained in Doe v. Roe, 100 F.3d 200"` with no `<cited>` wrapping it (parser missed it). Add to the Doe v. Roe case row (or create one):
+
+```
+"untagged_occurrences": [
+  {"opinion_handle": 0, "snippet": "Doe v. Roe, 100 F.3d 200"}
+]
+```
+
+**Untagged add (narrative reference)** — earlier in the opinion the case `"Talbot v. Henning, 500 U.S. 412 (1991)"` was cited in full. Later, the prose contains `"this argument was rejected in Talbot"` and `"the Talbot Court emphasized"` — neither is wrapped in a `<cited>` tag. Both refer to the same `Talbot v. Henning` case. Attach BOTH as untagged occurrences to the existing Talbot case row:
+
+```
+{
+  "mainCitationString": "Talbot v. Henning, 500 U.S. 412 (1991)",
+  "parallelCitationString": null,
+  "caseName": "Talbot v. Henning",
+  "accepted_ids": [5, 12, 18],
+  "untagged_occurrences": [
+    {"opinion_handle": 0, "snippet": "rejected in Talbot"},
+    {"opinion_handle": 0, "snippet": "the Talbot Court emphasized"}
+  ],
+  "ocr_corrected": false,
+  "ocr_note": null
+}
+```
+
+Pick a distinctive verbatim substring for each narrative reference — long enough to be unambiguous, but exactly matching what the source says (do NOT paraphrase or normalize spacing). Bare `"Talbot"` alone is too generic; include a few words of context.
+
+**Unknown short cite** — `<cited id="55" group="g15">Id.</cited>` and no antecedent visible in your chunk. Include with null fields — never omit:
+
+```
+{
+  "mainCitationString": null,
+  "parallelCitationString": null,
+  "caseName": null,
+  "accepted_ids": [55],
+  "untagged_occurrences": [],
+  "ocr_corrected": false,
+  "ocr_note": null
+}
+```
+
+**Unfamiliar reporter** — `<cited id="77" group="g20">17 Cal. App. 3d 421</cited>` is a real citation in a reporter you don't recognize. Include with whatever you can derive (here, no surrounding case name) and null name fields:
+
+```
+{
+  "mainCitationString": null,
+  "parallelCitationString": null,
+  "caseName": null,
+  "accepted_ids": [77],
+  "untagged_occurrences": [],
+  "ocr_corrected": false,
+  "ocr_note": null
+}
+```
+
+# Final checklist before emitting
+
+- [ ] Every `<cited id="N" ...>` tag in your input appears in exactly one cited_case's `accepted_ids`. None are omitted.
+- [ ] You scanned every opinion top-to-bottom for untagged formal cites and untagged narrative references; both are captured in `untagged_occurrences`.
+- [ ] `mainCitationString` includes the year in parentheses when the source has it.
+- [ ] `parallelCitationString` is comma-separated reporter-only (no name, no year), or null.
+- [ ] `caseName` agrees with the case name in `mainCitationString` (or both null).
+- [ ] All `untagged_occurrences[].snippet` values are verbatim from source.
+
+Call the `group_citations_by_case` tool with your output.
+"""
+

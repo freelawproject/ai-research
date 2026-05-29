@@ -1,5 +1,7 @@
 # Experiment 0526 — Citator Pipeline Migration, Phase 1
 
+> **Status note (2026-05-28):** The downstream pipeline this Phase 1 was built to feed was **abandoned** — see `../experiments_05192026/phased_eyecite_retrospective.md`. Phase 1 itself works (validated 383/383 structurally clean on the 0410 benchmark) and the code (`fetch_cl_data.py`, `assemble_tagged_text.py`, `render_tagged.py`) is reusable by any future pipeline that wants CL opinion text + tagged citation offsets. The rest of this README describes Phase 1 as implemented; the architecture it served is no longer the target.
+
 Implements and validates **Phase 1** of the citator pipeline migration: retrieve each citing cluster's opinions from CourtListener and assemble per-opinion **tagged text** — plain text with `<cited>` tags marking every citation occurrence, ready for the downstream LLM phases (group → disposition → audit → classify).
 
 The migration replaces the old "Haiku extracts citations and judges which section they're in" stage with "leverage CL's existing eyecite output to pre-tag citations, record exact char offsets, and let the LLM only group/classify." Full architecture and all 8 phases are specified in `../experiments_05192026/citator_pipeline_migration_plan.md`.
@@ -108,4 +110,4 @@ experiments_05262026/
 
 ## Status
 
-Phase 1 done and validated (383/383 structurally clean). Next: **Phase 2 — group citations by case (Haiku)**, beginning with the `section_role` derivation rule (which the combined-vs-split decision above directly informs).
+Phase 1 done and validated (383/383 structurally clean). Phase 2 (`../experiments_05272026/`) was implemented but the overall phased eyecite architecture was abandoned after Phase 2 quality fell short — see `../experiments_05192026/phased_eyecite_retrospective.md`. The Phase 1 artifacts on disk and the assemble code remain valid building blocks for any future pipeline.

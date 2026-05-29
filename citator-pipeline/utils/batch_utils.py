@@ -25,6 +25,7 @@ import uuid
 from utils.bedrock_converse_utils import (
     session, config, AWS_REGION, TEMPERATURE,
     haiku_extraction_tool_spec, kimi_classification_tool_spec,
+    citation_grouping_tool_spec,
     MODEL_CAPS,
 )
 from utils.preprocess import split_opinion_to_pages
@@ -94,6 +95,21 @@ def s3_stage2_parsed_prefix(run_id):
 
 def s3_stage2_parsed_key(run_id, cluster_id):
     return f"{s3_stage2_parsed_prefix(run_id)}{cluster_id}.json"
+
+
+# Pipeline migration Phase 2 (citation grouping) — separate from the legacy
+# two-stage layout so a Phase 2 run doesn't collide with a stage 1/2 run.
+
+def s3_phase2_input_key(run_id):
+    return f"{s3_run_prefix(run_id)}/phase2/input.jsonl"
+
+
+def s3_phase2_raw_prefix(run_id):
+    return f"{s3_run_prefix(run_id)}/phase2/raw/"
+
+
+def s3_phase2_calls_key(run_id):
+    return f"{s3_run_prefix(run_id)}/phase2/calls.json"
 
 
 def s3_uri(key):
@@ -208,6 +224,56 @@ def build_extraction_record(record_id, page_text, system_prompt, model_id=EXTRAC
         "tool_choice": {"type": "tool", "name": tool["name"]},
     }
     return {"recordId": str(record_id), "modelInput": model_input}
+
+
+CITATION_GROUPING_MAX_TOKENS = 16384  # Phase 2 emits ~80 tokens per cited case; allow headroom.
+
+
+def build_citation_grouping_record(record_id, llm_input, system_prompt, model_id=EXTRACTION_MODEL_ID):
+    """Build a Bedrock batch JSONL record for pipeline-migration Phase 2.
+
+    Args:
+        record_id: stable id of the form `{cluster_id}_call_{call_idx}` so
+            outputs can be routed back to clusters during collect.
+        llm_input: dict shaped like `{"opinions": [...]}` per the
+            citation_grouping schema (NOT JSON-encoded; this function encodes).
+        system_prompt: the `citation_grouping` instruction text.
+        model_id: must be a tool_use-capable model (Haiku 4.5 by default).
+    """
+    caps = MODEL_CAPS.get(model_id, {})
+    if not caps.get("tool_use"):
+        raise ValueError(f"Citation grouping model {model_id} does not support tool_use")
+
+    tool = _anthropic_tool(citation_grouping_tool_spec)
+    user_text = json.dumps(llm_input, ensure_ascii=False)
+    model_input = {
+        "anthropic_version": "bedrock-2023-05-31",
+        "max_tokens": CITATION_GROUPING_MAX_TOKENS,
+        "temperature": TEMPERATURE,
+        "system": system_prompt,
+        "messages": [
+            {"role": "user", "content": [{"type": "text", "text": user_text}]}
+        ],
+        "tools": [tool],
+        "tool_choice": {"type": "tool", "name": tool["name"]},
+    }
+    return {"recordId": str(record_id), "modelInput": model_input}
+
+
+def extract_citation_grouping_emission(model_output):
+    """Pull the `{"cited_cases": [...]}` dict from a Bedrock batch model output.
+
+    `model_output` is the per-record `modelOutput` field from the batch output
+    JSONL — for Anthropic models it follows the native Messages API shape
+    `{"content": [{"type": "tool_use", "input": {...}}, ...]}`.
+    Returns `{}` if no tool_use block is present.
+    """
+    if not model_output:
+        return {}
+    for block in model_output.get("content", []):
+        if block.get("type") == "tool_use":
+            return block.get("input", {}) or {}
+    return {}
 
 
 def build_classification_record(record_id, user_text, system_prompt, model_id=CLASSIFICATION_MODEL_ID):

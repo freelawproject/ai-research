@@ -258,6 +258,93 @@ kimi_classification_tool_spec = {
     }
 }
 
+# ── Pipeline migration Phase 2: citation grouping (Haiku 4.5) ──
+
+citation_grouping_schema = {
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Citation Grouping Output Schema (Phase 2)",
+    "description": "Per-call output. Each cited_case bundles the per-occurrence ids (from <cited> tags) and any untagged occurrences for one distinct cited case.",
+    "type": "object",
+    "properties": {
+        "cited_cases": {
+            "type": "array",
+            "description": "One object per distinct cited case the model identifies in this call's chunks.",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "mainCitationString": {
+                        "type": ["string", "null"],
+                        "description": "Canonical full citation for this case: case name + reporter citation + year, e.g., 'McGowan v. Maryland, 366 U.S. 420 (1961)'. MUST include the year in parentheses when the source text has it. Use the case's PRIMARY reporter only; parallel reporters go in parallelCitationString. Null only if the case is referenced solely by short cite / Id. / supra and no full form appears in any visible chunk.",
+                        "maxLength": 250,
+                    },
+                    "parallelCitationString": {
+                        "type": ["string", "null"],
+                        "description": "Comma-separated list of parallel reporter citations only (no case name, no year), e.g., '81 S.Ct. 1101, 6 L.Ed.2d 393' when mainCitationString is 'McGowan v. Maryland, 366 U.S. 420 (1961)'. Null if the case has no parallel reporters.",
+                        "maxLength": 300,
+                    },
+                    "caseName": {
+                        "type": ["string", "null"],
+                        "description": "Case name only (e.g., 'Marbury v. Madison'). Emit as a separate field even though it duplicates the prefix of mainCitationString — postprocess uses it as a consistency check. Null if not derivable from the visible text.",
+                        "maxLength": 200,
+                    },
+                    "accepted_ids": {
+                        "type": "array",
+                        "description": "Per-occurrence ids (from <cited id=\"N\" group=\"gM\"> tags) that belong to this case. Confirm a Phase 1 group by including all its ids; split by emitting multiple cited_cases that partition a group's ids; merge by listing ids from multiple groups.",
+                        "items": {"type": "integer", "minimum": 0},
+                    },
+                    "untagged_occurrences": {
+                        "type": "array",
+                        "description": "Citations CL missed that the model discovered in the source text. Each requires a verbatim snippet and the opinion_handle where it appears.",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "opinion_handle": {
+                                    "type": "integer",
+                                    "description": "The opinion_handle (from the call's input) where this untagged occurrence appears.",
+                                    "minimum": 0,
+                                },
+                                "snippet": {
+                                    "type": "string",
+                                    "description": "Verbatim text from the source — char-for-char, no paraphrasing. Must grep-match somewhere in the referenced opinion's tagged_text or it will be dropped.",
+                                    "maxLength": 500,
+                                },
+                            },
+                            "required": ["opinion_handle", "snippet"],
+                        },
+                    },
+                    "ocr_corrected": {
+                        "type": "boolean",
+                        "description": "True if the model fixed an OCR error (e.g., '34 L. Ed. 525' → '34 L.Ed. 525') in mainCitationString or caseName for this case.",
+                    },
+                    "ocr_note": {
+                        "type": ["string", "null"],
+                        "description": "Brief note on what was fixed if ocr_corrected is true. Null otherwise.",
+                        "maxLength": 200,
+                    },
+                },
+                "required": [
+                    "mainCitationString",
+                    "parallelCitationString",
+                    "caseName",
+                    "accepted_ids",
+                    "untagged_occurrences",
+                    "ocr_corrected",
+                    "ocr_note",
+                ],
+            },
+        },
+    },
+    "required": ["cited_cases"],
+}
+
+citation_grouping_tool_spec = {
+    "toolSpec": {
+        "name": "group_citations_by_case",
+        "description": "Group the <cited id group> occurrences in the provided opinions by distinct cited case. Confirm Phase 1's pre-grouping, split or merge groups as needed, and add untagged occurrences with verbatim snippets.",
+        "inputSchema": {"json": citation_grouping_schema},
+    }
+}
+
 
 def _get_caps(model_id):
     return MODEL_CAPS.get(model_id, {

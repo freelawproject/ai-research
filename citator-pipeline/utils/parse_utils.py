@@ -18,10 +18,13 @@ from collections import defaultdict
 from json_repair import repair_json
 
 from utils.batch_utils import (
-    download_to_file, list_keys, upload_json,
+    download_to_file, list_keys, read_json, upload_json,
     s3_stage1_parsed_key, s3_stage1_parsed_prefix,
     s3_stage2_parsed_key, s3_stage2_parsed_prefix,
+    s3_sonnet_parsed_key, s3_sonnet_parsed_prefix,
+    s3_reeval_parsed_key,
 )
+from utils.reevaluate import extract_reassessments
 
 logger = logging.getLogger(__name__)
 
@@ -498,3 +501,214 @@ def read_stage2_parsed(run_id, scratch_dir):
         cid = str(data.get("cluster_id", os.path.basename(key).replace(".json", "")))
         parsed[cid] = data
     return parsed
+
+
+# ── Single-stage Sonnet ──
+
+def parse_sonnet_outputs(raw_files, pages_per_cluster):
+    """Parse single-stage Sonnet raw outputs into per-cluster results.
+
+    Args:
+        raw_files: list of local paths to downloaded .jsonl.out files
+        pages_per_cluster: {cluster_id: n_pages_submitted} — used to detect
+            partial-prediction failures when only some pages came back.
+
+    Returns {cluster_id: parsed_dict} with the same `results` shape as
+    parse_stage2_outputs so the `collect` step's flattener works unchanged:
+        {
+            "cluster_id": ...,
+            "results": [{mainCitationString, caseName, actingCase,
+                caseHistory, treatment, opinionType, quote, rationale,
+                section_ids, processing_status}, ...],
+            "n_pages": ...,
+            "failed_pages": [...],
+            "processing_status": ok | partial_prediction | prediction_failed,
+        }
+    Single-stage Sonnet doesn't carry section_ids per case (no section
+    pre-pass), so section_ids is always [] — kept for downstream schema
+    parity with the two-stage output.
+    """
+    record_payloads = {}
+    record_errors = {}
+    for path in raw_files:
+        with open(path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                record = json.loads(line)
+                record_id, payload, err = _parse_record_payload(record)
+                if err:
+                    record_errors[record_id] = err
+                    logger.warning(f"Sonnet record {record_id} failed: {err}")
+                else:
+                    record_payloads[record_id] = payload
+
+    cluster_pages = defaultdict(dict)
+    cluster_single = {}
+    cluster_failures = defaultdict(list)
+
+    for record_id, err in record_errors.items():
+        match = _PAGE_PATTERN.match(record_id)
+        if match:
+            cluster_failures[match.group(1)].append(int(match.group(2)))
+        else:
+            cluster_failures[record_id].append(None)
+
+    for record_id, payload in record_payloads.items():
+        match = _PAGE_PATTERN.match(record_id)
+        if match:
+            cluster_pages[match.group(1)][int(match.group(2))] = payload
+        else:
+            cluster_single[record_id] = payload
+
+    parsed_by_cluster = {}
+    all_cluster_ids = set(pages_per_cluster.keys()) | set(cluster_pages.keys()) \
+        | set(cluster_single.keys()) | set(cluster_failures.keys())
+
+    for cluster_id in all_cluster_ids:
+        n_pages = pages_per_cluster.get(cluster_id, 0)
+        successful_payloads = []
+        failed_pages = sorted([p for p in cluster_failures.get(cluster_id, []) if p is not None])
+
+        if cluster_id in cluster_single:
+            successful_payloads.append(cluster_single[cluster_id])
+            n_pages = n_pages or 1
+        elif cluster_id in cluster_pages:
+            for page_num in sorted(cluster_pages[cluster_id].keys()):
+                successful_payloads.append(cluster_pages[cluster_id][page_num])
+
+        if not successful_payloads:
+            status = "prediction_failed"
+        elif failed_pages:
+            status = "partial_prediction"
+        else:
+            status = "ok"
+
+        # Merge cited cases across pages: dedup by mainCitationString
+        # (fall back to caseName); on dedup, keep the longest quote +
+        # most severe treatment (rank from postprocess.TREATMENT_RANK is
+        # applied later in clean_treatments/dedup, so here just keep first).
+        merged = {}
+        order = []
+        for payload in successful_payloads:
+            for cc in _normalize_cited_cases(payload["result"]):
+                if not isinstance(cc, dict):
+                    continue
+                key = cc.get("mainCitationString") or f"caseName::{cc.get('caseName')}"
+                if key in merged:
+                    # Prefer the entry with a non-null quote; otherwise keep first.
+                    if not merged[key].get("quote") and cc.get("quote"):
+                        merged[key] = _normalize_sonnet_case(cc)
+                else:
+                    merged[key] = _normalize_sonnet_case(cc)
+                    order.append(key)
+
+        results = []
+        for key in order:
+            row = merged[key]
+            row["processing_status"] = status if status != "partial_prediction" else "ok"
+            results.append(row)
+
+        parsed_by_cluster[cluster_id] = {
+            "cluster_id": cluster_id,
+            "results": results,
+            "n_pages": n_pages,
+            "failed_pages": failed_pages,
+            "processing_status": status,
+        }
+
+    return parsed_by_cluster
+
+
+def _normalize_sonnet_case(cc):
+    """Normalize a single-stage citedCase dict to the result row shape."""
+    return {
+        "mainCitationString": cc.get("mainCitationString"),
+        "caseName": cc.get("caseName"),
+        "section_ids": [],
+        "actingCase": cc.get("actingCase", ""),
+        "caseHistory": cc.get("caseHistory", ""),
+        "treatment": cc.get("treatment", ""),
+        "opinionType": cc.get("opinionType", ""),
+        "quote": cc.get("quote"),
+        "rationale": cc.get("rationale", ""),
+    }
+
+
+def write_sonnet_parsed(run_id, parsed_by_cluster):
+    for cluster_id, parsed in parsed_by_cluster.items():
+        upload_json(parsed, s3_sonnet_parsed_key(run_id, cluster_id))
+    logger.info(f"Wrote {len(parsed_by_cluster)} parsed Sonnet files to S3")
+
+
+def read_sonnet_parsed(run_id, scratch_dir):
+    keys = [k for k in list_keys(s3_sonnet_parsed_prefix(run_id)) if k.endswith(".json")]
+    os.makedirs(scratch_dir, exist_ok=True)
+    parsed = {}
+    for key in keys:
+        local_path = os.path.join(scratch_dir, os.path.basename(key))
+        download_to_file(key, local_path)
+        with open(local_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        cid = str(data.get("cluster_id", os.path.basename(key).replace(".json", "")))
+        parsed[cid] = data
+    return parsed
+
+
+# ── Kimi re-evaluation ──
+
+_REEVAL_PATTERN = re.compile(r"^reeval_b(\d+)$")
+
+
+def parse_reeval_outputs(raw_files):
+    """Parse Kimi K2.5 re-eval batch outputs into {batch_idx: reassessments}.
+
+    Each batch record contains 1..N reassessments with `citedCaseId` (1-based
+    position within the batch), `treatment`, and `rationale`. The caller maps
+    (batch_idx, citedCaseId) back to the original flagged rows via the
+    `batches.csv` produced at submit time.
+    """
+    reassessments_by_batch = {}
+    record_errors = {}
+    for path in raw_files:
+        with open(path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                record = json.loads(line)
+                record_id, payload, err = _parse_record_payload(record)
+                if err:
+                    record_errors[record_id] = err
+                    logger.warning(f"Reeval record {record_id} failed: {err}")
+                    continue
+                match = _REEVAL_PATTERN.match(record_id)
+                if not match:
+                    logger.warning(f"Reeval record {record_id} has unexpected id format; skipping")
+                    continue
+                reassessments_by_batch[int(match.group(1))] = extract_reassessments(payload.get("result"))
+
+    logger.info(
+        f"Parsed reeval: {sum(len(v) for v in reassessments_by_batch.values())} "
+        f"reassessments across {len(reassessments_by_batch)} batches "
+        f"({len(record_errors)} batch failures)"
+    )
+    return reassessments_by_batch
+
+
+def write_reeval_parsed(run_id, reassessments_by_batch):
+    """Upload the consolidated reassessments dict as a single JSON blob."""
+    # Keys are ints; JSON requires strings.
+    payload = {str(k): v for k, v in reassessments_by_batch.items()}
+    upload_json(payload, s3_reeval_parsed_key(run_id))
+
+
+def read_reeval_parsed(run_id):
+    """Read the consolidated reassessments JSON from S3 if present."""
+    try:
+        payload = read_json(s3_reeval_parsed_key(run_id))
+    except Exception as e:
+        logger.warning(f"No reeval parsed JSON for run_id={run_id}: {e}")
+        return {}
+    return {int(k): v for k, v in payload.items()}

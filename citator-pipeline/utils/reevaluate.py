@@ -75,30 +75,33 @@ def _format_batch_user_text(rows):
     return "\n".join(parts)
 
 
-def _parse_batch_result(result):
-    """Parse the model response into a list of {citedCaseId, treatment, rationale} dicts."""
-    cited_cases = result.get("cited_cases", [])
-
+def extract_reassessments(obj):
+    """Extract a list of {citedCaseId, treatment, rationale} dicts from
+    whatever shape the model returned. Used by both the on-demand re-eval path
+    (where the input is `result["cited_cases"]` from converse_completion) and
+    the Bedrock batch re-eval path (where the input is the parsed JSON from a
+    .jsonl.out record).
+    """
     # tool_use returns the schema object directly
-    if isinstance(cited_cases, dict):
-        return cited_cases.get("reassessments", [])
+    if isinstance(obj, dict):
+        return obj.get("reassessments", [])
 
-    if isinstance(cited_cases, list):
+    if isinstance(obj, list):
         # Could be the reassessments array directly
-        if len(cited_cases) > 0 and isinstance(cited_cases[0], dict):
-            if "reassessments" in cited_cases[0]:
-                return cited_cases[0]["reassessments"]
+        if len(obj) > 0 and isinstance(obj[0], dict):
+            if "reassessments" in obj[0]:
+                return obj[0]["reassessments"]
             # Already a list of reassessment dicts
-            if "citedCaseId" in cited_cases[0]:
-                return cited_cases
+            if "citedCaseId" in obj[0]:
+                return obj
         return []
 
-    if isinstance(cited_cases, str):
+    if isinstance(obj, str):
         try:
-            parsed = json.loads(cited_cases)
+            parsed = json.loads(obj)
         except json.JSONDecodeError:
             if repair_json:
-                parsed = repair_json(cited_cases, return_objects=True)
+                parsed = repair_json(obj, return_objects=True)
             else:
                 return []
         if isinstance(parsed, dict):
@@ -106,6 +109,12 @@ def _parse_batch_result(result):
         return []
 
     return []
+
+
+def _parse_batch_result(result):
+    """On-demand wrapper: converse_completion stuffs the model's JSON under
+    `cited_cases`, so dig in there before extracting."""
+    return extract_reassessments(result.get("cited_cases"))
 
 
 def _save_batch_incremental(batch_idx, reassessments, raw_info, output_dir):

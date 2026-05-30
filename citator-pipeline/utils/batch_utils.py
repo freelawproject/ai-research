@@ -22,10 +22,13 @@ import os
 import time
 import uuid
 
+import pandas as pd
+
 from utils.bedrock_converse_utils import (
     session, config, AWS_REGION, TEMPERATURE,
     haiku_extraction_tool_spec, kimi_classification_tool_spec,
     citation_grouping_tool_spec,
+    tool_spec,
     MODEL_CAPS,
 )
 from utils.preprocess import split_opinion_to_pages
@@ -36,6 +39,14 @@ logger = logging.getLogger(__name__)
 # ── Models locked for the two-stage production pipeline ──
 EXTRACTION_MODEL_ID = "us.anthropic.claude-haiku-4-5-20251001-v1:0"
 CLASSIFICATION_MODEL_ID = "moonshotai.kimi-k2.5"
+
+# ── Single-stage Sonnet (matches run_example.py's MODEL_ID) ──
+SONNET_MODEL_ID = "us.anthropic.claude-sonnet-4-6"
+# Effectively unbounded — Sonnet 4.6's output ceiling is 64K. The earlier
+# 16K cap silently truncated 27/383 clusters on the 0528 0410 run (the
+# tool_use JSON was cut mid-stream → parser yielded 0 cited cases).
+# Anthropic's API requires max_tokens to be set; this is the model's hard max.
+SONNET_MAX_TOKENS = 64000
 
 # ── S3 / IAM config ──
 S3_BUCKET = os.getenv("CITATOR_S3_BUCKET", "")
@@ -110,6 +121,48 @@ def s3_phase2_raw_prefix(run_id):
 
 def s3_phase2_calls_key(run_id):
     return f"{s3_run_prefix(run_id)}/phase2/calls.json"
+
+
+# Single-stage Sonnet layout — separate `sonnet/` prefix so a single-stage
+# run can share a run_id with (or coexist with) a two-stage run without
+# colliding on stage1/ or stage2/ keys.
+
+def s3_sonnet_input_key(run_id):
+    return f"{s3_run_prefix(run_id)}/sonnet/input.jsonl"
+
+
+def s3_sonnet_raw_prefix(run_id):
+    return f"{s3_run_prefix(run_id)}/sonnet/raw/"
+
+
+def s3_sonnet_parsed_prefix(run_id):
+    return f"{s3_run_prefix(run_id)}/sonnet/parsed/"
+
+
+def s3_sonnet_parsed_key(run_id, cluster_id):
+    return f"{s3_sonnet_parsed_prefix(run_id)}{cluster_id}.json"
+
+
+# Kimi K2.5 re-evaluation layout — runs on top of a sonnet/ stage. The
+# `reeval/` prefix lets a run_id chain Sonnet -> Kimi re-eval without
+# colliding with stage1/stage2/sonnet/ keys.
+
+def s3_reeval_input_key(run_id):
+    return f"{s3_run_prefix(run_id)}/reeval/input.jsonl"
+
+
+def s3_reeval_batches_key(run_id):
+    """Per-batch mapping back to (citing_cluster_id, mainCitationString)."""
+    return f"{s3_run_prefix(run_id)}/reeval/batches.csv"
+
+
+def s3_reeval_raw_prefix(run_id):
+    return f"{s3_run_prefix(run_id)}/reeval/raw/"
+
+
+def s3_reeval_parsed_key(run_id):
+    """Single JSON file with all reassessments; not per-cluster."""
+    return f"{s3_run_prefix(run_id)}/reeval/parsed.json"
 
 
 def s3_uri(key):
@@ -276,6 +329,38 @@ def extract_citation_grouping_emission(model_output):
     return {}
 
 
+def build_sonnet_record(record_id, page_text, system_prompt, model_id=SONNET_MODEL_ID):
+    """Build a Bedrock batch JSONL record for single-stage Sonnet (citator prompt).
+
+    Mirrors the on-demand path in `converse_completion(..., tool_spec_override=None)`:
+    wraps page_text in <opinion>...</opinion>, uses the canonical citator tool,
+    and forces the tool via tool_choice. Output schema is the same as
+    `predict.py` so existing parse + postprocess code can be reused.
+    """
+    caps = MODEL_CAPS.get(model_id, {})
+    if not caps.get("tool_use"):
+        raise ValueError(f"Sonnet single-stage model {model_id} does not support tool_use")
+
+    tool = _anthropic_tool(tool_spec)
+    model_input = {
+        "anthropic_version": "bedrock-2023-05-31",
+        "max_tokens": SONNET_MAX_TOKENS,
+        "temperature": TEMPERATURE,
+        "system": system_prompt,
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {"type": "text", "text": f"<opinion>\n{page_text}\n</opinion>"}
+                ],
+            }
+        ],
+        "tools": [tool],
+        "tool_choice": {"type": "tool", "name": tool["name"]},
+    }
+    return {"recordId": str(record_id), "modelInput": model_input}
+
+
 def build_classification_record(record_id, user_text, system_prompt, model_id=CLASSIFICATION_MODEL_ID):
     """Build a Bedrock batch JSONL record for Stage 2 (Kimi classification).
 
@@ -299,6 +384,109 @@ def build_classification_record(record_id, user_text, system_prompt, model_id=CL
         "temperature": TEMPERATURE,
     }
     return {"recordId": str(record_id), "modelInput": model_input}
+
+
+# ── Re-evaluation batch helpers ──
+
+# Number of flagged rows per Kimi re-eval Bedrock batch record. Matches the
+# on-demand reevaluate.BATCH_SIZE so prompt behavior is identical between
+# on-demand and batch. Bedrock batch minimum is 100 records, so the flag
+# count must be >= 500 rows for a viable batch.
+REEVAL_BATCH_SIZE = 5
+
+
+def _format_reeval_user_text(rows):
+    """Same prompt layout as reevaluate._format_batch_user_text.
+
+    Kept identical so on-demand and batch re-eval produce comparable outputs.
+    """
+    parts = [
+        "Re-evaluate each of the following Cited Cases. For each one, "
+        "independently analyze the directionality and determine the correct "
+        "treatment. The model's original treatment and rationale may be wrong.\n"
+    ]
+    for i, row in enumerate(rows, 1):
+        parts.append(
+            f"--- Cited Case {i} ---\n"
+            f"Cited Case Name: {row.get('caseName', 'N/A')}\n"
+            f"Citation: {row.get('mainCitationString', 'N/A')}\n"
+            f"Model's Assigned Treatment: {row.get('treatment', 'N/A')}\n"
+            f"Quote from Opinion: {row.get('quote', 'N/A')}\n"
+            f"Model's Rationale: {row.get('rationale', 'N/A')}\n"
+        )
+    return "\n".join(parts)
+
+
+def build_reevaluation_record(record_id, rows, system_prompt, schema,
+                              model_id=CLASSIFICATION_MODEL_ID):
+    """Build a Bedrock batch JSONL record for a Kimi re-evaluation batch.
+
+    Args:
+        record_id: stable id like `reeval_b{batch_idx}`.
+        rows: list of dicts (one per flagged prediction). Each must carry
+            caseName, mainCitationString, treatment, quote, rationale.
+        system_prompt: the `reevaluator` instruction text.
+        schema: reevaluation_schema (top-level `reassessments` array).
+
+    Returns: {"recordId": ..., "modelInput": ...} ready for JSONL.
+    """
+    user_text = _format_reeval_user_text(rows)
+    combined = (
+        f"{system_prompt}\n\n{user_text}\n\n"
+        "Return your response as a JSON object conforming to this schema:\n"
+        f"{json.dumps(schema, indent=2)}"
+    )
+    model_input = {
+        "messages": [{"role": "user", "content": combined}],
+        "max_tokens": MAX_TOKENS,
+        "temperature": TEMPERATURE,
+    }
+    return {"recordId": str(record_id), "modelInput": model_input}
+
+
+def prepare_reeval_jsonl(flagged_df, system_prompt, schema, local_path,
+                         batch_size=REEVAL_BATCH_SIZE,
+                         model_id=CLASSIFICATION_MODEL_ID):
+    """Write a Bedrock batch JSONL for re-evaluating flagged Sonnet predictions.
+
+    Each record packs `batch_size` flagged rows. The returned `batches`
+    DataFrame carries (batch_idx, within_batch, citing_cluster_id,
+    mainCitationString, treatment) so the collect step can map each
+    reassessment back to its original row.
+
+    Returns (n_records, batches_df).
+    """
+    os.makedirs(os.path.dirname(local_path) or ".", exist_ok=True)
+    # Reset index so within_batch positions are clean
+    flagged_df = flagged_df.reset_index(drop=True)
+    n_records = 0
+    batch_records = []
+
+    with open(local_path, "w", encoding="utf-8") as f:
+        for start in range(0, len(flagged_df), batch_size):
+            batch_idx = start // batch_size
+            chunk = flagged_df.iloc[start:start + batch_size]
+            rows = chunk.to_dict(orient="records")
+            record = build_reevaluation_record(
+                f"reeval_b{batch_idx}", rows, system_prompt, schema, model_id=model_id,
+            )
+            f.write(json.dumps(record) + "\n")
+            n_records += 1
+            for within_batch, (_, row) in enumerate(chunk.iterrows(), 1):
+                batch_records.append({
+                    "batch_idx": batch_idx,
+                    "within_batch": within_batch,  # 1-based to match citedCaseId
+                    "citing_cluster_id": row.get("citing_cluster_id"),
+                    "mainCitationString": row.get("mainCitationString"),
+                    "original_treatment": row.get("treatment"),
+                })
+
+    batches_df = pd.DataFrame(batch_records)
+    logger.info(
+        f"Wrote {n_records} reeval records to {local_path} "
+        f"({len(flagged_df)} flagged rows, batch_size={batch_size})"
+    )
+    return n_records, batches_df
 
 
 # ── Stage 1 input prep ──
@@ -352,6 +540,58 @@ def prepare_stage1_jsonl(cluster_ids, opinion_dir, system_prompt, local_path,
         f"({len(sections_per_cluster)} clusters, {n_paginated} paginated)"
     )
     return n_records, sections_per_cluster
+
+
+# ── Single-stage Sonnet input prep ──
+
+def prepare_sonnet_jsonl(cluster_ids, opinion_dir, system_prompt, local_path,
+                         model_id=SONNET_MODEL_ID):
+    """Build the single-stage Sonnet JSONL locally and return (records, pages_per_cluster).
+
+    Each opinion is paginated via split_opinion_to_pages (no section
+    annotation — the citator prompt operates on raw opinion text the same
+    way predict.py does on-demand). Each page becomes one JSONL record.
+    Returns (records_written, pages_per_cluster) where pages_per_cluster
+    maps cluster_id -> number of pages, so the parser can detect partials.
+    """
+    os.makedirs(os.path.dirname(local_path) or ".", exist_ok=True)
+    pages_per_cluster = {}
+    n_records = 0
+    n_paginated = 0
+
+    with open(local_path, "w", encoding="utf-8") as f:
+        for cluster_id in cluster_ids:
+            opinion_path = os.path.join(opinion_dir, f"{cluster_id}.txt")
+            if not os.path.exists(opinion_path):
+                logger.warning(f"Missing opinion text for cluster_id={cluster_id} ({opinion_path}); skipping")
+                continue
+            with open(opinion_path, "r", encoding="utf-8") as opf:
+                opinion_text = opf.read()
+
+            pages = split_opinion_to_pages(opinion_text)
+            pages_per_cluster[str(cluster_id)] = len(pages)
+
+            if len(pages) == 1:
+                record = build_sonnet_record(
+                    str(cluster_id), pages[0], system_prompt, model_id=model_id,
+                )
+                f.write(json.dumps(record) + "\n")
+                n_records += 1
+            else:
+                n_paginated += 1
+                for page_idx, page in enumerate(pages, 1):
+                    record = build_sonnet_record(
+                        f"{cluster_id}_page_{page_idx}", page, system_prompt, model_id=model_id,
+                    )
+                    f.write(json.dumps(record) + "\n")
+                    n_records += 1
+                logger.info(f"cluster_id={cluster_id}: {len(pages)} pages")
+
+    logger.info(
+        f"Wrote {n_records} sonnet records to {local_path} "
+        f"({len(pages_per_cluster)} clusters, {n_paginated} paginated)"
+    )
+    return n_records, pages_per_cluster
 
 
 # ── Bedrock batch ──

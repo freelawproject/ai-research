@@ -51,27 +51,34 @@ from collections import defaultdict
 import pandas as pd
 
 from utils.batch_utils import (
-    EXTRACTION_MODEL_ID, CLASSIFICATION_MODEL_ID,
+    EXTRACTION_MODEL_ID, CLASSIFICATION_MODEL_ID, SONNET_MODEL_ID,
     generate_run_id, prompt_sha,
     s3_uri, s3_stage1_input_key, s3_stage1_raw_prefix,
     s3_stage2_input_key, s3_stage2_raw_prefix,
-    upload_file, prepare_stage1_jsonl,
+    s3_sonnet_input_key, s3_sonnet_raw_prefix,
+    s3_reeval_input_key, s3_reeval_raw_prefix, s3_reeval_batches_key,
+    upload_file, upload_json, download_to_file, read_json,
+    prepare_stage1_jsonl, prepare_sonnet_jsonl, prepare_reeval_jsonl,
     submit_batch_job, wait_for_jobs,
     write_manifest, read_manifest, update_manifest,
     build_classification_record,
 )
 from utils.instructions import (
-    haiku_extractor, kimi_classifier,
+    citator,
+    haiku_extractor, kimi_classifier, reevaluator,
     haiku_extractor_short, kimi_classifier_short,
 )
 from utils.parse_utils import (
     download_raw_outputs,
     parse_stage1_outputs, write_stage1_parsed, read_stage1_parsed,
     parse_stage2_outputs, write_stage2_parsed, read_stage2_parsed,
+    parse_sonnet_outputs, write_sonnet_parsed, read_sonnet_parsed,
+    parse_reeval_outputs, write_reeval_parsed, read_reeval_parsed,
 )
+from utils.reevaluate import reevaluation_schema
 from utils.postprocess import (
     clean_treatments, deduplicate_cited_cases, derive_severity_direction,
-    filter_non_case_citations, merge_to_labels,
+    filter_non_case_citations, flag_for_review, merge_to_labels,
 )
 
 logging.basicConfig(level=logging.INFO)
@@ -410,6 +417,357 @@ def run_all(args):
     collect(args)
 
 
+# ── Single-stage Sonnet ──
+
+def submit_sonnet(args):
+    """Submit a single-stage Sonnet (citator prompt) Bedrock batch job."""
+    metadata_file = args.metadata_file or os.path.join(args.input_dir, "citing_metadata.csv")
+    opinion_dir = args.opinion_dir or os.path.join(args.input_dir, "opinion_texts")
+
+    cluster_ids = select_cluster_ids(metadata_file, court=args.court, num_records=args.num_records)
+    logger.info(f"Selected {len(cluster_ids)} cluster IDs from {metadata_file}")
+
+    system_prompt = citator
+
+    run_id = args.run_id or generate_run_id()
+    scratch_dir = os.path.join(args.output_dir, "scratch", run_id)
+    os.makedirs(scratch_dir, exist_ok=True)
+    local_jsonl = os.path.join(scratch_dir, "sonnet_input.jsonl")
+
+    n_records, pages_per_cluster = prepare_sonnet_jsonl(
+        cluster_ids, opinion_dir, system_prompt, local_jsonl,
+        model_id=SONNET_MODEL_ID,
+    )
+    if n_records < 100:
+        logger.warning(
+            f"Only {n_records} records — Bedrock batch requires >=100. The job will fail."
+        )
+
+    s3_input_key = s3_sonnet_input_key(run_id)
+    s3_input_uri = upload_file(local_jsonl, s3_input_key)
+    s3_output_uri = s3_uri(s3_sonnet_raw_prefix(run_id))
+
+    write_manifest(run_id, {
+        "cluster_ids": cluster_ids,
+        "pipeline": "sonnet-single-stage",
+        "sonnet_model": SONNET_MODEL_ID,
+        "citator_prompt_sha": prompt_sha(system_prompt),
+        "n_sonnet_records": n_records,
+        "pages_per_cluster": pages_per_cluster,
+    })
+
+    job_name = f"citator-sonnet-{run_id[:8]}-{int(time.time())}"
+    job_arn = submit_batch_job(
+        job_name, s3_input_uri, s3_output_uri, model_id=SONNET_MODEL_ID,
+    )
+    update_manifest(run_id, {"sonnet_job_arn": job_arn, "sonnet_job_name": job_name})
+
+    if not args.no_wait:
+        logger.info(f"Waiting for Sonnet job {job_name}...")
+        results = wait_for_jobs([job_arn])
+        status = results.get(job_arn, {})
+        if status.get("status") != "Completed":
+            logger.error(f"Sonnet job failed: {status}")
+            update_manifest(run_id, {"sonnet_status": status.get("status", "unknown")})
+            raise SystemExit(1)
+        update_manifest(run_id, {"sonnet_status": "Completed"})
+
+        raw_dir = os.path.join(scratch_dir, "sonnet_raw")
+        raw_files = download_raw_outputs(s3_sonnet_raw_prefix(run_id), raw_dir)
+        parsed = parse_sonnet_outputs(raw_files, pages_per_cluster)
+        write_sonnet_parsed(run_id, parsed)
+        _log_status_breakdown("Sonnet", parsed)
+
+    print(f"\nrun_id: {run_id}\n")
+    return run_id
+
+
+def collect_sonnet(args):
+    """Postprocess single-stage Sonnet results into final CSVs + optional eval merge."""
+    scratch_dir = os.path.join(args.output_dir, "scratch", args.run_id)
+    sonnet_dir = os.path.join(scratch_dir, "sonnet_parsed")
+    parsed = read_sonnet_parsed(args.run_id, sonnet_dir)
+    logger.info(f"Loaded Sonnet results for {len(parsed)} clusters")
+
+    rows = []
+    for cluster_id, data in parsed.items():
+        cluster_status = data.get("processing_status", "ok")
+        results = data.get("results", [])
+        if not results and cluster_status != "ok":
+            rows.append({
+                "citing_cluster_id": cluster_id,
+                "mainCitationString": "",
+                "caseName": "",
+                "actingCase": "",
+                "caseHistory": "",
+                "treatment": "",
+                "opinionType": "",
+                "quote": "",
+                "rationale": "",
+                "section_ids": "[]",
+                "processing_status": cluster_status,
+            })
+            continue
+        for r in results:
+            rows.append({
+                "citing_cluster_id": cluster_id,
+                "mainCitationString": r.get("mainCitationString") or "",
+                "caseName": r.get("caseName") or "",
+                "actingCase": r.get("actingCase", ""),
+                "caseHistory": r.get("caseHistory", ""),
+                "treatment": r.get("treatment", ""),
+                "opinionType": r.get("opinionType", ""),
+                "quote": r.get("quote") or "",
+                "rationale": r.get("rationale", ""),
+                "section_ids": json.dumps(r.get("section_ids", [])),
+                "processing_status": r.get("processing_status", cluster_status),
+            })
+
+    parsed_df = pd.DataFrame(rows)
+    results_dir = os.path.join(args.output_dir, "output")
+    os.makedirs(results_dir, exist_ok=True)
+    parsed_df.to_csv(os.path.join(results_dir, "parsed_results.csv"), index=False)
+    logger.info(f"Wrote parsed_results.csv ({len(parsed_df)} rows)")
+
+    cleaned_df = filter_non_case_citations(parsed_df)
+    cleaned_df = clean_treatments(cleaned_df)
+    cleaned_df = deduplicate_cited_cases(cleaned_df)
+    final_df = derive_severity_direction(cleaned_df)
+    final_df.to_csv(os.path.join(results_dir, "final_results.csv"), index=False)
+    logger.info(f"Wrote final_results.csv ({len(final_df)} rows)")
+
+    if args.labels_file and os.path.exists(args.labels_file):
+        labels_df = pd.read_csv(args.labels_file)
+        labels_df = labels_df[
+            (labels_df.get("final_treatment", "") != "PENDING")
+            & (labels_df.get("final_treatment", "") != "REMOVE")
+            & (labels_df.get("final_treatment", "") != "MANUAL")
+        ] if "final_treatment" in labels_df.columns else labels_df
+        eval_dir = os.path.join(args.output_dir, "eval")
+        merge_to_labels(final_df, labels_df, eval_dir)
+        logger.info(f"Wrote eval merge to {eval_dir}")
+    elif args.labels_file:
+        logger.warning(f"Labels file not found: {args.labels_file}")
+
+
+def run_sonnet_all(args):
+    run_id = submit_sonnet(args)
+    args.run_id = run_id
+    collect_sonnet(args)
+
+
+# ── Kimi re-evaluation (chained onto a Sonnet run) ──
+
+def _build_final_from_sonnet_parsed(parsed):
+    """Rebuild final_df from per-cluster Sonnet parsed output (same shape that
+    collect_sonnet.parsed_df → final_df produces in memory, minus the to_csv
+    roundtrip). Returns final_df ready for flag_for_review + merge_to_labels.
+    """
+    rows = []
+    for cluster_id, data in parsed.items():
+        results = data.get("results", [])
+        if not results:
+            continue
+        for r in results:
+            rows.append({
+                "citing_cluster_id": cluster_id,
+                "mainCitationString": r.get("mainCitationString") or "",
+                "caseName": r.get("caseName") or "",
+                "actingCase": r.get("actingCase", ""),
+                "caseHistory": r.get("caseHistory", ""),
+                "treatment": r.get("treatment", ""),
+                "opinionType": r.get("opinionType", ""),
+                "quote": r.get("quote") or "",
+                "rationale": r.get("rationale", ""),
+                "section_ids": json.dumps(r.get("section_ids", [])),
+                "processing_status": r.get("processing_status", "ok"),
+            })
+    parsed_df = pd.DataFrame(rows)
+    cleaned = filter_non_case_citations(parsed_df)
+    cleaned = clean_treatments(cleaned)
+    cleaned = deduplicate_cited_cases(cleaned)
+    return derive_severity_direction(cleaned)
+
+
+def submit_reeval(args):
+    """Flag Sonnet predictions and submit a Kimi K2.5 batch re-evaluation.
+
+    Expects --run-id of a completed Sonnet run; reads Sonnet parsed from S3,
+    runs flag_for_review, packs flagged rows into REEVAL_BATCH_SIZE batches,
+    and submits a Bedrock batch job. Persists `batches.csv` to S3 so the
+    collect step can map reassessments back to original rows without state.
+    """
+    scratch_dir = os.path.join(args.output_dir, "scratch", args.run_id)
+    os.makedirs(scratch_dir, exist_ok=True)
+    sonnet_dir = os.path.join(scratch_dir, "sonnet_parsed")
+    parsed = read_sonnet_parsed(args.run_id, sonnet_dir)
+    logger.info(f"Loaded Sonnet results for {len(parsed)} clusters")
+
+    final = _build_final_from_sonnet_parsed(parsed)
+    flagged, _ = flag_for_review(final)
+    logger.info(f"flagged={len(flagged)} of {len(final)} ({100*len(flagged)/max(len(final),1):.1f}%)")
+
+    if len(flagged) == 0:
+        logger.warning("No flagged rows — nothing to re-evaluate.")
+        return
+
+    local_jsonl = os.path.join(scratch_dir, "reeval_input.jsonl")
+    n_records, batches_df = prepare_reeval_jsonl(
+        flagged, reevaluator, reevaluation_schema, local_jsonl,
+    )
+    if n_records < 100:
+        logger.warning(
+            f"Only {n_records} reeval records — Bedrock batch requires >=100. "
+            f"The job will fail."
+        )
+
+    # Persist batches.csv locally + to S3 so collect can run without state.
+    local_batches = os.path.join(scratch_dir, "reeval_batches.csv")
+    batches_df.to_csv(local_batches, index=False)
+    upload_file(local_batches, s3_reeval_batches_key(args.run_id))
+
+    s3_input_uri = upload_file(local_jsonl, s3_reeval_input_key(args.run_id))
+    s3_output_uri = s3_uri(s3_reeval_raw_prefix(args.run_id))
+
+    update_manifest(args.run_id, {
+        "reevaluator_prompt_sha": prompt_sha(reevaluator),
+        "n_reeval_records": n_records,
+        "n_flagged": int(len(flagged)),
+        "reeval_model": CLASSIFICATION_MODEL_ID,
+    })
+
+    job_name = f"citator-reeval-{args.run_id[:8]}-{int(time.time())}"
+    job_arn = submit_batch_job(
+        job_name, s3_input_uri, s3_output_uri, model_id=CLASSIFICATION_MODEL_ID,
+    )
+    update_manifest(args.run_id, {"reeval_job_arn": job_arn, "reeval_job_name": job_name})
+
+    if not args.no_wait:
+        logger.info(f"Waiting for re-eval job {job_name}...")
+        results = wait_for_jobs([job_arn])
+        status = results.get(job_arn, {})
+        if status.get("status") != "Completed":
+            logger.error(f"Re-eval job failed: {status}")
+            update_manifest(args.run_id, {"reeval_status": status.get("status", "unknown")})
+            raise SystemExit(1)
+        update_manifest(args.run_id, {"reeval_status": "Completed"})
+
+        raw_dir = os.path.join(scratch_dir, "reeval_raw")
+        raw_files = download_raw_outputs(s3_reeval_raw_prefix(args.run_id), raw_dir)
+        reassessments_by_batch = parse_reeval_outputs(raw_files)
+        write_reeval_parsed(args.run_id, reassessments_by_batch)
+        logger.info(f"Re-eval parsed: {len(reassessments_by_batch)} batches")
+
+
+def collect_reeval(args):
+    """Merge Kimi reassessments back into the Sonnet predictions and re-eval.
+
+    Loads:
+      1. Sonnet parsed (from S3) → builds final_df via the same in-memory path
+         as collect_sonnet.
+      2. batches.csv (from S3) → maps (batch_idx, within_batch) to original
+         (citing_cluster_id, mainCitationString).
+      3. Reeval parsed.json (from S3) → reassessment per (batch_idx, citedCaseId).
+
+    Replaces flagged rows' treatments with Kimi's reassessments where present,
+    re-runs derive_severity_direction (so caseHistory + severity stay consistent
+    with the canonical mapping), writes final_results_reeval.csv, and merges
+    against labels if provided.
+    """
+    scratch_dir = os.path.join(args.output_dir, "scratch", args.run_id)
+    sonnet_dir = os.path.join(scratch_dir, "sonnet_parsed")
+    parsed = read_sonnet_parsed(args.run_id, sonnet_dir)
+    final = _build_final_from_sonnet_parsed(parsed)
+    logger.info(f"Sonnet final_df: {len(final)} rows")
+
+    # Pull batches.csv (the prediction→batch mapping) from S3.
+    local_batches = os.path.join(scratch_dir, "reeval_batches.csv")
+    if not os.path.exists(local_batches):
+        download_to_file(s3_reeval_batches_key(args.run_id), local_batches)
+    batches_df = pd.read_csv(local_batches)
+    # citing_cluster_id must be a plain Python type for equality; allow
+    # mainCitationString to be NaN (parsed CSV roundtrip).
+    batches_df["citing_cluster_id"] = batches_df["citing_cluster_id"].astype(str)
+
+    reassessments_by_batch = read_reeval_parsed(args.run_id)
+    logger.info(f"Reeval reassessments: {sum(len(v) for v in reassessments_by_batch.values())} "
+                f"across {len(reassessments_by_batch)} batches")
+
+    # Build (citing_cluster_id, mainCitationString) → new treatment + rationale.
+    reeval_updates = {}
+    for _, batch_row in batches_df.iterrows():
+        batch_idx = int(batch_row["batch_idx"])
+        within = int(batch_row["within_batch"])
+        cid = str(batch_row["citing_cluster_id"])
+        main_cit = batch_row["mainCitationString"]
+        # Pandas reads empty cells as NaN; normalize so the key matches final_df rows.
+        if pd.isna(main_cit):
+            main_cit = ""
+        reassessments = reassessments_by_batch.get(batch_idx, [])
+        match = next(
+            (r for r in reassessments
+             if isinstance(r, dict) and int(r.get("citedCaseId") or -1) == within),
+            None,
+        )
+        if match is None:
+            continue
+        reeval_updates[(cid, str(main_cit))] = {
+            "treatment": match.get("treatment") or "",
+            "rationale": (match.get("rationale") or "") + " [reeval]",
+        }
+
+    logger.info(f"Will replace treatments on {len(reeval_updates)} rows")
+
+    # Apply updates in place
+    final = final.copy()
+    final["citing_cluster_id_str"] = final["citing_cluster_id"].astype(str)
+    final["mainCitationString_str"] = final["mainCitationString"].fillna("").astype(str)
+    n_changed = 0
+    n_unchanged = 0
+    for idx, row in final.iterrows():
+        key = (row["citing_cluster_id_str"], row["mainCitationString_str"])
+        upd = reeval_updates.get(key)
+        if upd is None:
+            continue
+        new_treat = upd["treatment"]
+        if new_treat and new_treat != row["treatment"]:
+            final.at[idx, "treatment"] = new_treat
+            final.at[idx, "rationale"] = upd["rationale"]
+            n_changed += 1
+        else:
+            n_unchanged += 1
+    final = final.drop(columns=["citing_cluster_id_str", "mainCitationString_str"])
+    logger.info(f"Reeval applied: {n_changed} treatments changed, {n_unchanged} kept same")
+
+    # Re-derive severity + direction since treatment can have shifted tiers.
+    final = clean_treatments(final)
+    final = deduplicate_cited_cases(final)
+    final = derive_severity_direction(final)
+
+    results_dir = os.path.join(args.output_dir, "output")
+    os.makedirs(results_dir, exist_ok=True)
+    final.to_csv(os.path.join(results_dir, "final_results_reeval.csv"), index=False)
+    logger.info(f"Wrote final_results_reeval.csv ({len(final)} rows)")
+
+    if args.labels_file and os.path.exists(args.labels_file):
+        labels_df = pd.read_csv(args.labels_file)
+        labels_df = labels_df[
+            (labels_df.get("final_treatment", "") != "PENDING")
+            & (labels_df.get("final_treatment", "") != "REMOVE")
+            & (labels_df.get("final_treatment", "") != "MANUAL")
+        ] if "final_treatment" in labels_df.columns else labels_df
+        eval_dir = os.path.join(args.output_dir, "eval_reeval")
+        merge_to_labels(final, labels_df, eval_dir)
+        logger.info(f"Wrote eval merge to {eval_dir}")
+    elif args.labels_file:
+        logger.warning(f"Labels file not found: {args.labels_file}")
+
+
+def run_reeval_all(args):
+    submit_reeval(args)
+    collect_reeval(args)
+
+
 # ── Helpers ──
 
 def _log_status_breakdown(stage, parsed_by_cluster):
@@ -474,6 +832,58 @@ def main():
     p4.add_argument("--labels-file", default=None)
     _add_input_flags(p4)
     p4.set_defaults(func=run_all, no_wait=False)
+
+    # submit-sonnet
+    p5 = sub.add_parser("submit-sonnet",
+                        help="Single-stage Sonnet (citator prompt) batch submit")
+    p5.add_argument("--output-dir", required=True)
+    p5.add_argument("--run-id", default=None)
+    p5.add_argument("--no-wait", action="store_true")
+    _add_input_flags(p5)
+    p5.set_defaults(func=submit_sonnet)
+
+    # collect-sonnet
+    p6 = sub.add_parser("collect-sonnet",
+                        help="Postprocess single-stage Sonnet results into final CSVs")
+    p6.add_argument("--run-id", required=True)
+    p6.add_argument("--output-dir", required=True)
+    p6.add_argument("--labels-file", default=None,
+                    help="Optional path to a benchmark labels CSV (e.g., 0410.csv)")
+    p6.set_defaults(func=collect_sonnet)
+
+    # run-sonnet (wrapper)
+    p7 = sub.add_parser("run-sonnet",
+                        help="Submit single-stage Sonnet + collect, end-to-end")
+    p7.add_argument("--output-dir", required=True)
+    p7.add_argument("--run-id", default=None)
+    p7.add_argument("--labels-file", default=None)
+    _add_input_flags(p7)
+    p7.set_defaults(func=run_sonnet_all, no_wait=False)
+
+    # submit-reeval
+    p8 = sub.add_parser("submit-reeval",
+                        help="Submit Kimi re-eval of flagged Sonnet predictions for a run_id")
+    p8.add_argument("--run-id", required=True,
+                    help="Sonnet run_id whose flagged predictions to re-evaluate")
+    p8.add_argument("--output-dir", required=True)
+    p8.add_argument("--no-wait", action="store_true")
+    p8.set_defaults(func=submit_reeval)
+
+    # collect-reeval
+    p9 = sub.add_parser("collect-reeval",
+                        help="Merge Kimi reassessments + write final_results_reeval.csv")
+    p9.add_argument("--run-id", required=True)
+    p9.add_argument("--output-dir", required=True)
+    p9.add_argument("--labels-file", default=None)
+    p9.set_defaults(func=collect_reeval)
+
+    # run-reeval (wrapper)
+    p10 = sub.add_parser("run-reeval",
+                         help="Submit re-eval + wait + collect")
+    p10.add_argument("--run-id", required=True)
+    p10.add_argument("--output-dir", required=True)
+    p10.add_argument("--labels-file", default=None)
+    p10.set_defaults(func=run_reeval_all, no_wait=False)
 
     args = parser.parse_args()
     args.func(args)

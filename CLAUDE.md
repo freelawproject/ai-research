@@ -20,7 +20,8 @@ Legal citator pipeline that uses LLMs to analyze appellate court opinions and cl
 - `0405` — Moved to AWS Bedrock batch inference for running at scale. Experiment folder restructured to be data-only, with code in `citator-pipeline/`.
 - `0407` — Two-stage pipeline: Haiku extraction + Kimi classification with section context. Enhanced Kimi classifier prompt with cert denied pattern recognition, citation signals, and implicit distinguishing. Treatment F1 0.54→0.66 macro, direction F1 0.87→0.92, 77% cheaper than 0403 ($0.048 vs $0.210/case). **Recommended production configuration.**
 - `0408` — Added Sonnet re-evaluator with section context to the two-stage pipeline. Did not improve quality (treatment F1 0.66→0.64) and added 156% cost overhead. Conclusion: re-evaluation is not beneficial when the Kimi classifier prompt is well-tuned.
-- `0518` — First end-to-end batch evaluation of the production two-stage pipeline on the full 0410 benchmark (383 citing clusters, 39 courts). Treatment macro F1 0.38, Cohen's κ 0.58, QWK 0.70. Measured cost $0.047/case batch. Hardened `clean_treatments` canonicalizer; added `derive_severity_direction` postprocess step; added `Modified by` + `Reversed in part; Vacated in part by` to taxonomy (TREATMENT_RANK now 22 entries). DH vs Other split: v305 (Sonnet) wins on Direct History, 0518 wins on Other — hybrid routing is a natural next step.
+- `0518` — First end-to-end batch evaluation of the production two-stage pipeline on the full 0410 benchmark (383 citing clusters, 39 courts). Treatment macro F1 0.38, Cohen's κ 0.58, QWK 0.70. Measured cost $0.047/case batch. Hardened `clean_treatments` canonicalizer; added `derive_severity_direction` postprocess step; added `Modified by` + `Reversed in part; Vacated in part by` to taxonomy (TREATMENT_RANK now 22 entries). DH vs Other split: v305 (Sonnet) wins on Direct History, 0518 wins on Other — motivated the 0529 prompt rewrite that combined both strengths into one single-stage pipeline.
+- `0529` — Single-stage Sonnet (`citator` prompt, with kimi_classifier-style structured blocks ported in) on the same 383-cluster 0410 benchmark. Treatment macro F1 0.47, κ 0.71, QWK 0.79 — beats 0518 on every agreement metric. Coverage 327/383 clusters (vs 0518's 321). Cost $35.54 batch ($0.093/case). Built `submit-sonnet` / `collect-sonnet` / `run-sonnet` Bedrock batch path; built optional Kimi K2.5 re-evaluator (`submit-reeval` / `collect-reeval` / `run-reeval`) but found it **net-negative on this Sonnet base** — the improved prompt subsumes most of what reeval was fixing on 0528. Also fixed two latent bugs: `merge_to_labels` empty-citation phantom matches, and `SONNET_MAX_TOKENS = 16384` silent truncation (raised to 64000 = Sonnet 4.6 ceiling). **Best-performing setup measured so far; candidate for adoption pending further validation.**
 
 For detailed metrics across all experiments, see [comparison.md](comparison.md).
 
@@ -54,7 +55,7 @@ python run_example.py --output-dir ../experiments_04062026/data --evaluate
 # Two-stage pipeline (Haiku extraction + Kimi classification) on all 9 examples
 python run_two_stage.py --output-dir ../experiments_04072026/data --evaluate
 
-# Two-stage batch inference (Haiku Stage 1 + Kimi Stage 2) — production config.
+# Two-stage batch inference (Haiku Stage 1 + Kimi Stage 2) — the 0518 production config.
 # Each run is keyed by a UUID `run_id` and persisted to s3://{bucket}/Citator/runs/{run_id}/.
 # S3 is the source of truth between stages; --output-dir is local scratch + final CSVs.
 python run_batch.py submit-extraction \
@@ -68,6 +69,22 @@ python run_batch.py collect \
 
 # Or end-to-end (chains all three with wait-for-completion between stages)
 python run_batch.py run --output-dir ../experiments_04052026/data --court ca1
+
+# Single-stage Sonnet batch inference — the 0529 candidate config.
+# IMPORTANT: pass --input-dir explicitly so defaults resolve via the experiment's
+# symlinks (otherwise picks up the shared 661-cluster sample metadata).
+python run_batch.py run-sonnet \
+    --input-dir ../experiments_05292026/data \
+    --output-dir ../experiments_05292026/data \
+    --labels-file ../data/benchmark_original/0410.csv
+
+# Optional Kimi re-evaluator pass (chains off a completed Sonnet run; flags ~12% of
+# rows for Kimi to re-classify). Net-negative on the 0529 Sonnet base — not part
+# of the candidate setup; left in place for future flag_for_review retuning.
+python run_batch.py run-reeval \
+    --run-id <sonnet_run_id> \
+    --output-dir ../experiments_05292026/data \
+    --labels-file ../data/benchmark_original/0410.csv
 
 # Smoke test on the synthetic batch_test data (overrides metadata + opinion paths,
 # uses short test prompts in place of the production prompts)
@@ -84,8 +101,15 @@ python run_batch.py run \
 - Uses Bedrock via `boto3.Session(profile_name="dev-env")` in `us-west-2`
 - Batch jobs require `CITATOR_S3_BUCKET` and `CITATOR_BATCH_ROLE_ARN` env vars
 - Bedrock batch inference requires ≥100 records per JSONL input file
-- Stage 1 model: `us.anthropic.claude-haiku-4-5-20251001-v1:0` (tool_use)
-- Stage 2 model: `moonshotai.kimi-k2.5` (no tool_use; schema inlined in user prompt)
+- Two-stage pipeline:
+  - Stage 1 model: `us.anthropic.claude-haiku-4-5-20251001-v1:0` (tool_use)
+  - Stage 2 model: `moonshotai.kimi-k2.5` (no tool_use; schema inlined in user prompt)
+- Single-stage Sonnet pipeline:
+  - Model: `us.anthropic.claude-sonnet-4-6` (tool_use)
+  - `SONNET_MAX_TOKENS = 64000` (model's hard ceiling; required for large opinions emitting 60+ cases per page)
+- Re-eval pipeline (optional, currently net-negative on 0529 Sonnet base):
+  - Model: `moonshotai.kimi-k2.5` with the `reevaluator` prompt
+  - Flagged rows batched in groups of 5 (`REEVAL_BATCH_SIZE`)
 
 ## Domain Context
 
@@ -112,8 +136,8 @@ This is the canonical treatment list. Any changes here must be reflected in:
 | | Remanded by | Distinguished by | |
 | | Cert. granted by | Declined to follow by | |
 | **Neutral** | Dismissed by | Cited by | |
-| | Affirmed by | | |
 | | Cert. denied by | | |
+| | Affirmed by | | |
 
 - **Direct History**: The cited case is the immediate case on appeal. The Acting Case is always the Citing Case.
 - **Citing Reference**: The Citing Case itself applies treatment to a cited case that is not on appeal.

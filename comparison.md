@@ -126,7 +126,7 @@ First end-to-end batch run on all 383 0410-benchmark citing clusters (39 courts;
 | Direction macro F1 | 0.4780 | 0.8170 | **0518** |
 | Direction Cohen's κ | 0.4573 | 0.7066 | **0518** |
 
-Direct History vs Other split reveals two opposite stories: **v305 dominates Direct History** (treatment macro F1 0.56 vs 0.34; QWK 0.85 vs 0.57), **0518 dominates Other** (treatment macro F1 0.39 vs 0.33). Hybrid routing — DH → Sonnet, Other → Haiku+Kimi — is worth exploring.
+Direct History vs Other split reveals two opposite stories: **v305 dominates Direct History** (treatment macro F1 0.56 vs 0.34; QWK 0.85 vs 0.57), **0518 dominates Other** (treatment macro F1 0.39 vs 0.33). The 0518 readme proposed hybrid routing (DH → Sonnet, Other → Haiku+Kimi); 0529 made hybrid routing unnecessary by lifting Sonnet single-stage above both pipelines on every metric (see below).
 
 ### Key Findings (0518)
 - **The 9-set overstates the full-benchmark performance by ~2×** (treatment macro F1 0.70 vs 0.39). Driven by a mix of Haiku section-misassignment cascades, broader corpus difficulty, and zero-support minority classes.
@@ -134,8 +134,50 @@ Direct History vs Other split reveals two opposite stories: **v305 dominates Dir
 - **Batch ≡ on-demand**: same pipeline run on-demand (0407) vs batch (0518) on the 9-set produces deltas within ±0.05 on every metric.
 - **v305 producing 0 cert. denied predictions is not a Sonnet gap** — `Cert. denied by` wasn't in the taxonomy when v305 ran.
 
-## Remaining Challenges
-- **Distinguished by vs Cited by**: 44% of remaining misclassifications in 0407, similarly dominant in 0518. The model struggles to identify implicit distinguishing language when the opinion contrasts facts without using the word "distinguish".
-- **Affirmed as recognized by**: Narrative procedural history chains are harder to detect in section context (F1 0.50 in 0407 vs 1.00 in 0403).
-- **Long-tail minority treatments** (`Abrogated by`, `Disapproved by`, `Questioned by`, `Modified by`, `Remanded by`): per-class F1 = 0 in 0518; small support, model defaults to `Cited by`.
-- **Pagination + section-extraction cascade**: Haiku misassigns sections on opinions with uneven paragraph structure (13% of sections > 3× target size); upstream errors propagate to wrong-context Stage 2 classifications. Targeted for the offset-based stage 1 migration.
+## Full 0410 Benchmark Evaluation (0529)
+
+Single-stage Sonnet on the same 383 0410-benchmark citing clusters. New `citator` prompt incorporates kimi_classifier-style structured blocks (Cert. denied CRITICAL pattern recognition, Distinguished by implicit-pattern catalog, Citation signals, Distinguished as recognized by). `SONNET_MAX_TOKENS` raised to 64,000 to eliminate truncation. See `experiments_05292026/comparison.md` for the full write-up and `experiments_05292026/eval_benchmark.ipynb` for reproducibility.
+
+### Headline metrics (full 0410 benchmark)
+
+| Pipeline | Rows | Clusters | T_macroF1 | T_κ | T_QWK | S_κ | D_κ |
+|---|---|---|---|---|---|---|---|
+| 0518 Haiku+Kimi (baseline) | 8,856 | 321 | 0.3821 | 0.5848 | 0.6953 | 0.5630 | 0.7020 |
+| **0529 Sonnet (candidate)** | **9,558** | **327** | **0.4729** | **0.7076** | **0.7916** | **0.7473** | 0.7033 |
+| 0529 Sonnet + Kimi reeval (rejected) | 9,558 | 327 | 0.4409 | 0.6887 | 0.7853 | 0.7020 | 0.7182 |
+
+### Apples-to-apples — Sonnet ∩ 0518 intersection (n=8,828)
+
+| Pipeline | T_macroF1 | T_κ | T_QWK | S_κ | D_κ |
+|---|---|---|---|---|---|
+| 0518 Haiku+Kimi (∩) | 0.3861 | 0.5849 | 0.6953 | 0.5624 | 0.7004 |
+| **0529 Sonnet (∩)** | **0.4861** | **0.7183** | **0.7915** | **0.7500** | **0.7158** |
+
+0529 Sonnet's lead widens on the intersection: +0.10 macro F1, +0.13 κ, +0.10 QWK. The DH vs Other gap from 0518 is closed — 0529 Sonnet wins both slices (DH macro F1 0.80, Other macro F1 0.40).
+
+### Cost
+
+| Pipeline | Total | $/case | $/1M opinion-text tokens (decomposed model) |
+|---|---|---|---|
+| 0518 Haiku+Kimi (batch) | $18.66 | $0.049 | A=$0.53/M opinion-text + B=$0.040/case |
+| **0529 Sonnet (batch)** | **$35.54** | **$0.093** | **A=$4.78/M opinion-text + B=$0.012/case** |
+| 0529 Sonnet+Reeval | $36.04 | $0.094 | A=$4.78 + B=$0.013/case |
+
+Decomposed model: `Cost ≈ A × M_opinion_text_tokens + B × n_cases`. A captures opinion-volume-driven variable cost; B captures per-case overhead (prompts, downstream stage calls). **Pipeline cost crossover ≈ 6,500 opinion-text tokens/case**: below, 0529 Sonnet is cheaper per case; above, 0518 Haiku+Kimi is cheaper. Benchmark avg 16.7K tokens/case → 0518 cheaper at this distribution. Cost competitiveness depends on opinion-size mix.
+
+### Key Findings (0529)
+
+- **0529 Sonnet beats 0518 on every agreement metric.** Treatment macro F1 +0.09, κ +0.12, QWK +0.10. Severity κ +0.19. Direction roughly tied.
+- **Cert. denied F1 jumped from 0.17 to 0.62** — the new CRITICAL pattern block in `citator` does the work that Kimi was doing on 0528-era runs. No re-eval needed.
+- **DH dominance preserved.** Treatment macro F1 0.80 on DH (vs 0518's 0.33); QWK 0.94. Direct History is essentially solved.
+- **Other-slice macro F1 0.40** — matches 0518 on the same slice, while keeping the DH win. The hybrid-routing recommendation from 0518 is no longer needed.
+- **Kimi re-eval on this base is net-negative** (−0.032 macro F1; 66 fixed / 122 broke per row). `flag_for_review` categories were tuned against 0528's weaker Sonnet base; on 0529 they route too many correct predictions to Kimi, which over-flips them. Code path retained for future flag-set retuning.
+- **Two latent bugs fixed**: `merge_to_labels` empty-citation phantom matches (was inflating DH counts by ~30× on the 0528 run); `SONNET_MAX_TOKENS = 16384` silent truncation on large SCOTUS opinions (raised to 64K = Sonnet 4.6 ceiling).
+
+## Remaining Challenges (as of 0529)
+
+- **`Cited by` ↔ `Distinguished by`** — still the dominant residual error class (93 rows in 0529 Sonnet: 60 over-predictions, 33 under-predictions). The implicit-distinguishing patterns ported into the `citator` prompt narrowed this but didn't eliminate it. A precision-tightening guard (require basis-for-different-result language) is a candidate next iteration.
+- **`Cited by → Affirmed by`** — newly prominent in 0529 (43 rows, up from 26 on the 0528 buggy run). The revised `citator` prompt is more aggressive on Direct History attribution; some of these are correct DH detections that 0410 labels may under-report, but a spot-audit is needed to confirm before assuming they're all gains.
+- **`Abrogated by` per-class F1 = 0** (support 17 in 0529). Sonnet defaults these to `Cited by`. The `citator` prompt has no example for `Abrogated by` — worth a future prompt addition.
+- **Validation re-run** — 0529 is currently a single benchmark run; one replication run is a precondition for any adoption decision.
+- **Pagination + section-extraction cascade** (0518 two-stage only) — Haiku misassigns sections on opinions with uneven paragraph structure (13% of sections > 3× target size). Not relevant to 0529 single-stage, which has no section-extraction step.

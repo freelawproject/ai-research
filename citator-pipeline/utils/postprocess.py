@@ -31,8 +31,8 @@ severity_mapping = {
     "Distinguished by": "Caution",
     "Declined to follow by": "Caution",
     "Dismissed by": "Neutral",
-    "Affirmed by": "Neutral",
     "Cert. denied by": "Neutral",
+    "Affirmed by": "Neutral",
     "Cited by": "Neutral",
     "Unknown": "Neutral",
 }
@@ -57,8 +57,8 @@ direction_mapping = {
     "Distinguished by": "Citing Reference",
     "Declined to follow by": "Citing Reference",
     "Dismissed by": "Direct History",
-    "Affirmed by": "Direct History",
     "Cert. denied by": "Direct History",
+    "Affirmed by": "Direct History",
     "Cited by": "Citing Reference",
     "Unknown": "Citing Reference",
 }
@@ -94,8 +94,8 @@ TREATMENT_RANK = {
     "Declined to follow by": 17,
     # Direct History — neutral
     "Dismissed by": 18,
-    "Affirmed by": 19,
-    "Cert. denied by": 20,
+    "Cert. denied by": 19,
+    "Affirmed by": 20,
     # Citing Reference — neutral
     "Cited by": 21,
 }
@@ -443,20 +443,38 @@ DISTINGUISHING_KEYWORDS = [
 
 _DISTINGUISHING_PATTERN = re.compile("|".join(DISTINGUISHING_KEYWORDS), re.IGNORECASE)
 
+# Keywords in the quote that suggest a "Cited by" may actually be a
+# Cert. denied / Cert. granted / writ-denied chain. The 0528 Sonnet run had
+# 65 'Cited by → Cert. denied by' under-predictions; routing these to re-eval
+# gives the Kimi reevaluator a chance to apply its directionality rules.
+CERT_QUOTE_KEYWORDS = [
+    r"cert(?:\.|iorari)?\s+denied",
+    r"cert(?:\.|iorari)?\s+granted",
+    r"cert(?:\.|iorari)?\s+dism(?:issed|'d)",
+    r"writ\s+(?:denied|refused)",
+    r"appeal\s+dismissed",
+]
+
+_CERT_QUOTE_PATTERN = re.compile("|".join(CERT_QUOTE_KEYWORDS), re.IGNORECASE)
+
 
 def flag_for_review(parsed_df):
     """Identify results that should be re-evaluated:
-    1. 'Cited by' results whose quote or rationale contains keywords suggesting
-       a possible negative treatment.
-    2. All 'as recognized by' treatments (directionality is frequently wrong).
-    3. All 'Distinguished by' treatments (often confused with 'Cited by' in both directions).
+    1. 'Cited by' results whose quote contains distinguishing keywords
+       (often missed negative treatments).
+    2. 'Cited by' results whose quote contains cert/writ language
+       (often missed Cert. denied chains — the dominant 0528 error class).
+    3. All 'as recognized by' treatments (directionality is frequently wrong).
+    4. All 'Distinguished by' treatments (often confused with 'Cited by').
+    5. All 'Cert. denied by' base-form treatments (often over-predicted —
+       the applier of a cert denial should be 'Cited by', not 'Cert. denied by').
 
     Returns (flagged_df, unflagged_df) where flagged_df has the rows
     to re-evaluate and unflagged_df has the clean rows.
     """
     treatment_col = parsed_df["treatment"].fillna("").str.strip()
 
-    # Flag 1: "Cited by" with distinguishing keywords in the quote only
+    # Flag 1: "Cited by" with distinguishing keywords in the quote
     cited_by_mask = treatment_col.str.lower() == "cited by"
     cited_by = parsed_df[cited_by_mask].copy()
 
@@ -467,30 +485,50 @@ def flag_for_review(parsed_df):
     keyword_flagged_mask = cited_by.apply(has_distinguishing_keywords, axis=1)
     keyword_flagged = cited_by[keyword_flagged_mask]
 
-    # Flag 2: All "as recognized by" treatments
+    # Flag 2: "Cited by" with cert/writ language in the quote
+    def has_cert_keywords(row):
+        quote = str(row.get("quote", ""))
+        return bool(_CERT_QUOTE_PATTERN.search(quote))
+
+    cert_flagged_mask = cited_by.apply(has_cert_keywords, axis=1)
+    cert_flagged = cited_by[cert_flagged_mask]
+
+    # Flag 3: All "as recognized by" treatments
     as_recognized_mask = treatment_col.str.contains("as recognized by", case=False, na=False)
     as_recognized = parsed_df[as_recognized_mask]
 
-    # Flag 3: All "Distinguished by" treatments
+    # Flag 4: All "Distinguished by" treatments
     distinguished_mask = treatment_col.str.lower() == "distinguished by"
     distinguished_cases = parsed_df[distinguished_mask]
+
+    # Flag 5: All "Cert. denied by" base-form (catches over-prediction;
+    # the "as recognized by" variant is already covered by Flag 3).
+    cert_denied_mask = treatment_col.str.lower() == "cert. denied by"
+    cert_denied_cases = parsed_df[cert_denied_mask]
 
     # Combine flagged rows (deduplicate in case of overlap)
     flagged_indices = (
         keyword_flagged.index
+        .union(cert_flagged.index)
         .union(as_recognized.index)
         .union(distinguished_cases.index)
+        .union(cert_denied_cases.index)
     )
     flagged = parsed_df.loc[flagged_indices].copy()
     unflagged = parsed_df.loc[~parsed_df.index.isin(flagged_indices)].copy()
 
     n_kw = len(keyword_flagged)
+    n_cert = len(cert_flagged)
     n_ar = len(as_recognized)
     n_dist = len(distinguished_cases)
+    n_cd_base = len(cert_denied_cases)
     logger.info(
         f"Flagged for review: {len(flagged)} total — "
-        f"{n_kw} 'Cited by' with keywords, {n_ar} 'as recognized by', "
-        f"{n_dist} 'Distinguished by'"
+        f"{n_kw} 'Cited by' w/ distinguishing kws, "
+        f"{n_cert} 'Cited by' w/ cert kws, "
+        f"{n_ar} 'as recognized by', "
+        f"{n_dist} 'Distinguished by', "
+        f"{n_cd_base} 'Cert. denied by'"
     )
 
     return flagged, unflagged
@@ -568,9 +606,16 @@ def merge_to_labels(parsed_df, labels_df, output_dir):
     def _citations_match(row):
         citation = row.get("mainCitationString")
         label_citations = row.get(citations_col)
-        if pd.isna(citation) or pd.isna(label_citations):
+        # Empty strings (predictions without a Full Citation, e.g. unnamed
+        # lower-court Direct History cases) make the substring match vacuous —
+        # "" is in every string — so reject them before normalization.
+        if pd.isna(citation) or not str(citation).strip():
             return False
-        norm_citation = normalize_citation(citation)
+        if pd.isna(label_citations):
+            return False
+        norm_citation = normalize_citation(citation).strip()
+        if not norm_citation:
+            return False
         norm_labels = normalize_citation(str(label_citations))
         return norm_citation in norm_labels
 

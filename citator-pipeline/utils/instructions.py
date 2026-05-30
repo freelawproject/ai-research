@@ -74,8 +74,11 @@ Strictly follow the definitions and instructions below. Before producing your fi
    **Step A: Is this the case on appeal?**
    If yes → Case History is **Direct History**. The Acting Case is the Citing Case. Extract the final decision from the end of the lead opinion (look for "affirm", "reverse", "vacate", "remand"). Include "remanded" when applicable. Assign the corresponding Direct History treatment.
 
-   **Step B: Is this Cited Case applying a treatment towards another case (rather than receiving treatment)?**
-   If the Cited Case is the *applier* of treatment towards another case — not the recipient — its own treatment is **"Cited by"** (Citing Reference). Do not propagate the treatment it applied to another case onto itself.
+   **Step B: Is this Cited Case acting as the applier of treatment towards another case?**
+   If the Cited Case applied a treatment to another case, it does NOT automatically receive "Cited by". You must still check:
+   1. Did the **Citing Case itself** apply any treatment to this Cited Case? If yes → assign that treatment (Citing Reference).
+   2. Did **another case** apply any treatment to this Cited Case (e.g., cert. denied, affirmed, reversed)? If yes → assign that treatment with "as recognized by" (Related Reference).
+   3. Only if **neither** the Citing Case nor any other case applied treatment to it → assign **"Cited by"** (Citing Reference).
 
    **Step C: Who is applying treatment to this Cited Case?**
    - If the **Citing Case itself** applies a treatment → Case History is **Citing Reference**, Acting Case is the Citing Case, assign the Citing Reference treatment.
@@ -93,20 +96,38 @@ Strictly follow the definitions and instructions below. Before producing your fi
    - Do not rely on case names to disambiguate cases — use the citation (reporter, volume, page).
    - **Cert. pending is not a treatment.** Assign "Cited by".
    - **Cert. granted — apply the directionality test.** If the Citing Case itself granted cert, this is Direct History. If the opinion also states the final treatment, assign that instead. If another court granted cert, apply step C.
-   - **Cert. denied — apply the directionality test.** The lower court case is the *target* → "Cert. denied as recognized by". The cert denial order is the *applier* → "Cited by". **This is one of the most commonly misassigned treatments — the target and applier are frequently reversed.**
    - You must include an `actingCase` field. If the Acting Case is the Citing Case, set to "Citing Case". If explicit, set to its name or citation. If implicit, set to "Implicit".
    - **The Acting Case can never be the same as the Target Case.** A case cannot apply treatment to itself.
-   - **How to identify "as recognized by" treatments**: The modifier applies whenever the Citing Case reports on a treatment applied by a different court. Common patterns: parenthetical signals, narrative procedural history recitations, recognition of treatment by unnamed decisions.
+
+   **Cert. denied — CRITICAL pattern recognition:**
+   When you see a citation followed by "cert. denied" (or "cert. denied,"), this is a **two-case chain**. You MUST recognize it:
+   - Pattern: "Case A, [lower court citation], cert. denied, [Supreme Court citation]"
+   - The **lower court citation** is the TARGET of the cert denial → treatment is **"Cert. denied as recognized by"**, actingCase is the Supreme Court citation.
+   - The **Supreme Court citation** is the APPLIER → treatment is **"Cited by"**.
+   - This applies even when the citation appears in a string citation or a "See" signal. The "cert. denied" parenthetical always creates a cert denial relationship.
+   - Common variants: "cert. denied, — U.S. —, 116 S.Ct. 966", "cert. denied, 444 U.S. 856 (1979)", "cert. denied sub nom."
+   - **Do NOT treat the lower court case as merely "Cited by"** just because the Citing Case cites it approvingly. The cert denial is a separate procedural event that must be captured.
+
+   **Distinguished by — identifying implicit distinguishing:**
+   Distinguishing is a negative treatment. It occurs whenever the Citing Case explains why a Cited Case does not control the current outcome due to differences in facts, procedural posture, or law. Ask: "Is the Citing Case giving a reason why this Cited Case does not apply here?"
+   - Explicit: "inapplicable", "does not apply", "not controlling", "not on point", "is distinguishable", "factually distinguishable", "unlike [Cited Case]", "not analogous"
+   - Implicit: Language like "unable to assent to this view", "we cannot agree", "we decline to adopt this reasoning", or similar expressions of disagreement with a Cited Case's holding or reasoning constitute distinguishing.
+   - Implicit: Language like "rudimentary", "outdated", "questionable", or other characterizations that cast doubt on a Cited Case's reasoning suggest negative treatment (Distinguished by, Criticized by, or Questioned by depending on severity).
+   - **However**: The word "distinguishing" in a parenthetical may refer to a *different* case doing the distinguishing, not the Citing Case. Read carefully to determine WHO is distinguishing WHOM.
+
+   **Citation signals — how they affect treatment:**
+   The signal preceding a citation is a strong indicator of treatment intent:
+   - **Contradictory authority signals** ("Contra", "But see", "But cf."): Citations following these signals indicate the Citing Case views the Cited Case as contrary to its holding. Treatment is typically **"Limited by"** or **"Distinguished by"**.
+   - **Comparative authority signals** ("Compare … with …"): Citations in a compare/contrast structure generally indicate **"Limited by"** or **"Distinguished by"** — the Citing Case is highlighting differences.
+   - **Supporting authority signals** ("E.g.,", "Accord", "See", "See Also", "Cf.") or no signal: Citations following these signals generally indicate positive or neutral use. Treatment is typically **"Cited by"** unless the surrounding text contains negative language.
+
+   **Distinguished as recognized by:**
+   When a parenthetical or signal like "(distinguishing [Case X])" attributes the distinguishing to another case (not the Citing Case), the treatment for Case X is **"Distinguished as recognized by"** with the Acting Case being the case that did the distinguishing.
 
    **Mandatory verification step for "as recognized by" and cert treatments:**
    After assigning any "as recognized by" or cert treatment, verify:
       1. **"Which specific citation am I assigning this treatment to?"**
       2. **"Is that citation the TARGET or the APPLIER?"** — If it is the applier, the treatment must be "Cited by" instead.
-
-   **Common mistakes to avoid:**
-      - Do NOT assign a direct treatment when the Citing Case is merely *describing* another court's action. This includes procedural history recitations.
-      - Distinguishing a Cited Case is a negative treatment. When in doubt between "Cited by" and "Distinguished by", ask: "Is the Citing Case giving a reason why this Cited Case does not control the current outcome?" If yes → "Distinguished by".
-      - Do NOT assign a treatment to a Cited Case that it *applied* to another case. Always ask: "Is the Cited Case I am evaluating the *recipient* or the *applier*?"
 
 3. **Opinion Type Priority**
    - The opinion may contain a lead opinion, plurality opinion, concurring opinions, and dissenting opinions. Per curiam opinions should be treated as a lead opinion. Apply the following priority order:
@@ -458,11 +479,13 @@ Direct History treatments (the Citing Case's decision on the case on appeal), so
 - **Reversed and remanded by**
 - **Vacated and remanded by**
 - **Vacated by**
+- **Reversed in part; Vacated in part by**
 - **Affirmed in part; Reversed in part by**
 - **Affirmed in part; Vacated in part by**
+- **Modified by**: The appellate court alters the lower court's judgment short of full reversal or vacatur.
 - **Remanded by**
 - **Cert. granted by**
-- **Dismissed by**
+- **Dismissed by**: Includes the appellate court dismissing the appeal, denying or dismissing a writ (state supreme courts), or dismissing certiorari. Patterns: "appeal dismissed", "writ denied", "writ refused", "cert. dismissed".
 - **Cert. denied by**
 - **Affirmed by**
 

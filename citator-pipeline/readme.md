@@ -1,74 +1,88 @@
 ## Citator Pipeline
 
-Reusable pipeline for identifying and classifying case treatment citations in legal opinions using LLMs.
+Reusable pipeline for identifying cited cases in legal opinions and classifying how each is treated (e.g., reversed, distinguished, overruled). Input is CourtListener opinion text pre-tagged with `<citedCase>` spans by [eyecite](https://github.com/freelawproject/eyecite); output is one record per (citing, cited) case with a treatment label, a verbatim supporting quote, a rationale, and a deterministically derived severity + direction.
 
-### Overview
-The pipeline uses Sonnet 4.6 to analyze legal opinions and identify how each cited case is treated (e.g., reversed, distinguished, overruled). A secondary re-evaluation model (Kimi K2.5) corrects common misclassifications.
+- **Taxonomy, conventions, AWS setup, treatment-list sync points** → `../CLAUDE.md`
+- **Metrics and cost across experiments** → `../comparison.md` and the per-experiment `../experiments_MMDD2026/` writeups. Numbers are kept there, not here, so this readme doesn't go stale.
 
-### Pipeline Steps
-0. **Generate Input** — Filter citing_metadata.csv by court and source
-1. **Prediction** — Sonnet 4.6 analyzes each opinion (with page splitting for long opinions)
-1b. **Treatment Cleanup** — Fix formatting errors ("Cited as recognized by" → "Cited by", malformed modifiers)
-2. **Deduplication** — Keep most negative treatment per (citing_cluster_id, mainCitationString)
-3. **Re-evaluation** — Flag suspicious results and re-evaluate with Kimi K2.5:
-   - "Cited by" with keywords suggesting negative treatment (59 patterns)
-   - All "as recognized by" treatments (directionality errors)
-   - All "Reversed by" treatments (missed remand language)
-   - All "Vacated by" treatments (missed remand language)
-4. **Final Deduplication** — Second pass after re-evaluation
-5. **Merge to Labels** — Match predictions to authority records with citation normalization
-6. **Evaluate** — (Optional) Compare against expert labels using severity/direction/treatment F1
+### Two pipeline configurations
 
-### Incremental Saving
-Real-time predictions are saved to `{output_dir}/incremental/{cluster_id}.json` as soon as each completes. If the pipeline is interrupted, it resumes from where it left off.
+Both are prompt-driven — the model is given the 43-treatment taxonomy, a decision process, verification steps, and worked examples — and both feed the same postprocessing.
 
-### Instruction Versions
+**Single-stage — Sonnet 4.6 (`citator` prompt).** One call per opinion page does extraction *and* classification together, with the full opinion in one attention window. Best-quality configuration measured to date and the current candidate for adoption (see `../comparison.md`); ~1.9× the per-case cost of the two-stage config.
 
-| Version | Prediction Prompt | Re-evaluation Prompt | Changes |
-|---------|------------------|---------------------|---------|
-| v318 | v318 | — | Baseline: core citator instructions |
-| v403 | v403 | v403 | Mandatory verification for "as recognized by" and cert treatments; expanded "Distinguished by" patterns; "Acting Case ≠ Target Case" rule; new examples |
-| v404 | v403 (unchanged) | v404 | Re-eval prompt adds "Reversed by" vs "Reversed and remanded by" guidance; "Vacated by" also flagged for re-evaluation |
+**Two-stage — Haiku 4.5 + Kimi K2.5 (`haiku_extractor` → `kimi_classifier`).** Stage 1 (Haiku) extracts cited cases and the sections they appear in; Stage 2 (Kimi) reads only the section context around each cited case and assigns the treatment. Roughly half the per-case cost of single-stage Sonnet — the cost baseline for corpus-scale runs.
 
-**Current versions**: Prediction = v403, Re-evaluation = v404
+**Optional re-evaluation (`reevaluator` prompt, Kimi K2.5).** A cheap second pass that re-classifies flagged predictions. **Currently not recommended** — on the tuned `citator` prompt it is net-negative (it over-flips already-correct predictions). The code path is retained for future flag-set retuning.
 
-### Run Scripts
+### Postprocessing (shared by all configurations)
 
-#### `run_example.py` — Real-time inference on example cases
+`filter_non_case_citations` → `clean_treatments` (canonicalize the model's free-text treatment against the taxonomy) → `deduplicate_cited_cases` (keep the most-negative treatment per `(citing_cluster_id, mainCitationString)`) → `derive_severity_direction` (deterministic lookup) → `merge_to_labels` (match predictions to expert labels with citation normalization) → evaluate. `TREATMENT_RANK`, `severity_mapping`, and `direction_mapping` live in `utils/postprocess.py` — see `../CLAUDE.md` for the files that must stay in sync.
+
+### Prompts
+
+Defined in `utils/instructions.py`. Version history is tracked in git — **do not rename these variables**:
+
+| Variable | Used by |
+|---|---|
+| `citator` | Single-stage Sonnet (extract + classify) |
+| `haiku_extractor` | Two-stage Stage 1 (extraction) |
+| `kimi_classifier` | Two-stage Stage 2 (classification) |
+| `reevaluator` | Optional re-evaluation pass (not in the candidate setup) |
+
+(`*_short` variants drive the batch smoke test.)
+
+### Run scripts
+
+All scripts run from `citator-pipeline/`. Input is read from `--input-dir` (default `../data`); results are written to `--output-dir` (the experiment's `data/` folder). `--txt-path` defaults to `../data/example.txt`; `--labels` is a filename in `data/benchmark_original/` (default `0410.csv`).
+
+**`run_example.py`** — on-demand single-stage (Sonnet) on the example cases:
 ```bash
-python run_example.py --data-dir /path/to/data
-python run_example.py --data-dir /path/to/data --evaluate --labels /path/to/labels.csv
+python run_example.py --output-dir ../experiments_XXXX2026/data --evaluate
 ```
+Flags: `--input-dir`, `--txt-path`, `--opinion-dir`, `--labels`, `--evaluate` / `--evaluate-only`, `--resume`.
 
-| Flag | Description |
-|------|-------------|
-| `--data-dir` | Path to experiment data directory (required) |
-| `--txt-name` | Input file name in data/input/ (default: example.txt) |
-| `--opinion-dir` | Override opinion text directory |
-| `--labels` | Path to expert labels CSV |
-| `--evaluate` | Run evaluation against expert labels |
-
-#### `run_batch.py` — Batch inference for circuit courts
+**`run_two_stage.py`** — on-demand two-stage (Haiku + Kimi) on the example cases:
 ```bash
-python run_batch.py --data-dir /path/to/data --court ca1
-python run_batch.py --data-dir /path/to/data --court all --num-records 10
+python run_two_stage.py --output-dir ../experiments_XXXX2026/data --evaluate
 ```
+Same core flags, plus `--reevaluate` (add a Sonnet re-eval pass), `--postprocess-only`, `--resume`.
 
-| Flag | Description |
-|------|-------------|
-| `--data-dir` | Path to experiment data directory (required) |
-| `--court` | Circuit court ID or "all" (required) |
-| `--num-records` | Limit records per court (for testing) |
-| `--collect-only` | Download batch results + postprocess |
-| `--postprocess-only` | Run postprocessing on existing parsed results |
-| `--merge-only` | Run only the merge step |
+**`run_batch.py`** — Bedrock batch inference at scale. Each run is keyed by a UUID `run_id`; S3 is the source of truth between stages and `--output-dir` is local scratch + final CSVs.
 
-### Models
-- **Prediction**: Sonnet 4.6 (AWS Bedrock): `us.anthropic.claude-sonnet-4-6`
-- **Re-evaluation**: Kimi K2.5 (AWS Bedrock): `moonshotai.kimi-k2.5`
+```bash
+# Two-stage, end-to-end (Stage 1 + Stage 2 + collect):
+python run_batch.py run --output-dir ../experiments_XXXX2026/data --court ca1
 
-### S3 Configuration
-Update `S3_BUCKET` in `utils/batch_utils.py` before running batch jobs:
-```python
-S3_BUCKET = "your-batch-inference-bucket"
+# Two-stage, stage-by-stage:
+python run_batch.py submit-extraction     --output-dir ../experiments_XXXX2026/data --court ca1   # → prints run_id
+python run_batch.py submit-classification  --output-dir ../experiments_XXXX2026/data --run-id <run_id>
+python run_batch.py collect                --output-dir ../experiments_XXXX2026/data --run-id <run_id> \
+    --labels-file ../data/benchmark_original/0410.csv
+
+# Single-stage Sonnet (end-to-end, or submit-sonnet / collect-sonnet):
+python run_batch.py run-sonnet --input-dir ../experiments_XXXX2026/data \
+    --output-dir ../experiments_XXXX2026/data --labels-file ../data/benchmark_original/0410.csv
+
+# Optional Kimi re-eval on a finished Sonnet run (NOT recommended — see above):
+python run_batch.py run-reeval --run-id <sonnet_run_id> \
+    --output-dir ../experiments_XXXX2026/data --labels-file ../data/benchmark_original/0410.csv
 ```
+Shared input flags: `--input-dir`, `--metadata-file`, `--opinion-dir`, `--court`, `--num-records`. Use `--smoke-test` (with the synthetic `batch_test` data) and `--no-wait` for testing. Bedrock batch requires ≥100 records per input file.
+
+### Models (AWS Bedrock)
+
+- Single-stage prediction: `us.anthropic.claude-sonnet-4-6`
+- Stage 1 extraction: `us.anthropic.claude-haiku-4-5-20251001` (tool_use)
+- Stage 2 classification: `moonshotai.kimi-k2.5` (JSON schema inlined in the user prompt; no tool_use)
+- Re-evaluation: `moonshotai.kimi-k2.5`
+
+### AWS / S3 configuration
+
+- Bedrock via `boto3.Session(profile_name="dev-env")` in `us-west-2`.
+- Batch jobs require the `CITATOR_S3_BUCKET` and `CITATOR_BATCH_ROLE_ARN` environment variables.
+- Batch artifacts persist under `s3://{bucket}/Citator/runs/{run_id}/`.
+
+### Incremental saving / resume
+
+On-demand predictions save to `{output_dir}/incremental/{cluster_id}.json` as each completes. Re-run with `--resume` to pick up where an interrupted run left off.

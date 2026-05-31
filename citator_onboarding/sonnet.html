@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The AI Citator — Sonnet (1-stage)</title>
+<meta name="description" content="Sonnet 4.6 single-stage citator configuration: architecture, strengths, weaknesses, benchmark metrics, and cost at scale.">
+<meta name="theme-color" content="#B5362D">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20viewBox%3D%270%200%2016%2016%27%3E%3Crect%20width%3D%2716%27%20height%3D%2716%27%20rx%3D%273%27%20fill%3D%27%23B5362D%27/%3E%3Ctext%20x%3D%278%27%20y%3D%2712%27%20font-size%3D%2711%27%20text-anchor%3D%27middle%27%20fill%3D%27%23fff%27%20font-family%3D%27Georgia%2Cserif%27%3E%C2%A7%3C/text%3E%3C/svg%3E">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Free Law Project — AI Citator">
+<meta property="og:title" content="The AI Citator — Sonnet (1-stage)">
+<meta property="og:description" content="Sonnet 4.6 single-stage citator configuration: architecture, strengths, weaknesses, benchmark metrics, and cost at scale.">
+<meta name="twitter:card" content="summary">
+<link rel="stylesheet" href="shared.css">
+<script src="nav.js" defer></script>
+<style>
+  /* Page-specific only — shared deep-dive styles live in shared.css. */
+  @media (max-width:880px){
+    .stage{flex:1 1 100%;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="page">
+    <div class="tag">Free Law Project &middot; AI Research</div>
+    <h1>Sonnet (1-stage)</h1>
+    <nav class="topnav" data-active="experiments.html" data-active-sub="sonnet.html"></nav>
+    <noscript><nav class="topnav">
+    <a href="index.html">Overview</a>
+    <a href="taxonomy.html">Taxonomy</a>
+    <a href="benchmark.html">The Benchmark</a>
+    <a href="experiments.html">Experiments</a>
+    <a href="haiku_kimi.html">Haiku + Kimi (2-stage)</a>
+    <a href="sonnet.html">Sonnet (1-stage)</a>
+    <a href="whats_next.html">What’s next</a>
+    </nav></noscript>
+  </header>
+
+  <p class="lede">
+    <b>Sonnet 4.6, single-stage.</b> One LLM call per opinion does both citation extraction and treatment
+    classification. Tested against the <a href="haiku_kimi.html">Haiku + Kimi two-stage baseline</a> on
+    the 260410 benchmark; currently the best-quality configuration measured.
+  </p>
+
+  <h2 class="sec">Architecture</h2>
+  <div class="spine">
+    <div class="stage lead">
+      <div class="step">Single LLM stage</div>
+      <h3>Sonnet 4.6 &mdash; extract + classify</h3>
+      <ul>
+        <li>One prompt receives the full opinion in reading order (lead &rarr; concurrence &rarr; dissent)</li>
+        <li>Identifies each cited case <i>and</i> assigns its treatment label in the same pass</li>
+        <li>Anchors each treatment to a verbatim supporting quote from the opinion</li>
+        <li>Emit a 1&ndash;2 sentence rationale connecting the quote to the assigned treatment</li>
+        <li>Output: per-(citing, cited) record with <code>treatment</code>, <code>quote</code>, and <code>rationale</code></li>
+      </ul>
+    </div>
+    <div class="arrow">&rarr;</div>
+    <div class="stage">
+      <div class="step">Post-process</div>
+      <h3>Canonicalize + derive severity and direction</h3>
+      <ul>
+        <li>Canonicalize the free-text treatment against the 43-treatment taxonomy</li>
+        <li>Look up <code>severity</code> and <code>direction</code> from the canonical treatment</li>
+        <li>Per-case rollup: most-negative inbound, most-recent-negative</li>
+        <li>Output: the same downstream shape used by all consumers</li>
+      </ul>
+    </div>
+  </div>
+
+  <p style="font-size:14px;color:var(--muted);margin-top:12px;line-height:1.6;">
+    Everything the model emits is <b>anchored to source text</b>. Predictions that don&rsquo;t anchor are
+    discarded &mdash; the main guard against hallucinated citations or treatments.
+  </p>
+
+  <a class="prompt-cta cardlink" href="prompts.html#citator">
+    <div class="label">The exact instructions Sonnet receives</div>
+    <div class="title">View the citator prompt</div>
+    <div class="desc">Full 43-treatment taxonomy, case-history decision tree, directionality
+      verification rules, and ten worked examples &mdash; the spec that produces the run reported
+      below.</div>
+    <div class="goto">Open prompts page &rarr;</div>
+  </a>
+
+  <h2 class="sec">Why this configuration</h2>
+  <p>Phase 3&rsquo;s 17-model bake-off (see <a href="experiments.html">Experiments</a>) made Sonnet 4.6
+    the standout: <b>the only model that returned every citation in the eval set</b>, with treatment-F1
+    in the same range as the best classification-specialized model. Single-pass keeps the entire opinion
+    in one attention window &mdash; no chunking, no inter-stage handoff, no risk that a wrong section
+    boundary in extraction cascades into a wrong treatment in classification. Crucially,
+    <b>the classifier sees the whole opinion when it labels each cited case</b> &mdash; treatments are
+    interpretive judgments that depend on surrounding language, the opinion&rsquo;s posture (majority vs
+    dissent), and cross-references between cited cases. A two-stage pipeline that classifies from a
+    narrow section context loses exactly that signal.</p>
+  <p>A targeted Kimi K2.5 re-evaluator pass was also tested on top of this configuration and <b>found to
+    do more harm than good</b> &mdash; it routes correct Sonnet predictions to Kimi, which then
+    over-flips them. The re-evaluator is not part of the recommended configuration.</p>
+
+  <h2 class="sec">Where it shines</h2>
+  <div class="strength">
+    <h3>Strengths</h3>
+    <ul>
+      <li><b>Direct History.</b> Wins decisively on appellate-disposition treatments (Reversed / Affirmed
+        / Vacated / Remanded). Treatment macro F1 ~0.80 on the DH slice. Holds the case&rsquo;s posture
+        and the appellate action in one attention window &mdash; the natural fit for this slice.</li>
+      <li><b>Cert.&nbsp;denied recovered to F1 0.62</b> (precision 0.62, recall 0.62) &mdash; well above
+        the Haiku + Kimi baseline.</li>
+      <li><b>Simplest pipeline.</b> One model, one call per page. No re-eval, no stage handoff, no
+        chunking gymnastics &mdash; less moving parts means fewer places to regress.</li>
+    </ul>
+  </div>
+
+  <h2 class="sec">Where it struggles</h2>
+  <div class="weakness">
+    <h3>Weaknesses</h3>
+    <ul>
+      <li><b>Cost.</b> ~1.9&times; the per-case cost of Haiku + Kimi two-stage. Still ~2.2&times; cheaper
+        than on-demand Sonnet, but the most expensive of the configurations evaluated. See
+        <a href="whats_next.html#cost">Production cost outlook</a> for the decomposed model and the
+        opinion-size crossover.</li>
+      <li><b><code>Cited by</code> &rarr; <code>Affirmed by</code> over-attribution.</b> Sonnet
+        sometimes picks up affirmances that should remain <code>Cited by</code> &mdash; worth
+        spot-checking and tightening.</li>
+      <li><b>Long-tail rare classes.</b> Like every configuration tested, struggles on the rare treatments
+        at the bottom of the distribution. Driven primarily by benchmark scarcity, not model capability.</li>
+    </ul>
+  </div>
+
+  <h2 class="sec">Where we are on the benchmark</h2>
+  <p>Reported on the full 260410 benchmark (383 clusters, ~9,740 labeled records), treatment-level:</p>
+  <div class="metrics">
+    <div class="m head"><div class="big">0.47</div><div class="lbl">treatment<br><b>macro F1</b></div></div>
+    <div class="m head"><div class="big">0.79</div><div class="lbl">treatment<br><b>QWK</b></div></div>
+    <div class="m head"><div class="big">0.71</div><div class="lbl">treatment<br><b>Cohen&rsquo;s &kappa;</b></div></div>
+  </div>
+  <p style="font-size:14px;color:var(--muted);margin-top:12px;line-height:1.6;">
+    Haiku + Kimi two-stage on the same benchmark: macro F1 <b>0.38</b>, QWK <b>0.70</b>,
+    Cohen&rsquo;s &kappa; <b>0.58</b>. See
+    <a href="benchmark.html#metrics">how to read the metrics</a> for what each number does and does not
+    tell you.
+  </p>
+
+  <h2 class="sec">Cost at scale</h2>
+  <p>Bedrock batch cost for this configuration across reference workloads, computed from the
+    decomposed model (variable rate <b>$4.84 / 1M opinion-text tokens</b> + fixed
+    <b>$0.012 / case</b>):</p>
+  <div class="cost-scale">
+    <div class="table-wrap">
+    <table>
+      <thead>
+        <tr><th>Workload</th><th>Tokens / case</th><th>Cases</th><th>Estimated cost</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Short opinions</td><td>5K</td><td>100K</td><td>~$3,618</td></tr>
+        <tr><td>Typical opinions</td><td>20K</td><td>100K</td><td>~$10,878</td></tr>
+        <tr><td>SCOTUS-heavy (large opinions)</td><td>50K</td><td>100K</td><td>~$25,398</td></tr>
+        <tr><td>Full scale (typical mix)</td><td>20K</td><td>1M</td><td>~$108,781</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="note">Short-opinion workloads widen this configuration&rsquo;s advantage over the
+      Haiku + Kimi baseline (Sonnet&rsquo;s low B dominates). Large-opinion workloads (50K+ tokens /
+      case) flip the cost advantage to Haiku + Kimi. See the
+      <a href="whats_next.html#cost">Production cost outlook</a> for the head-to-head against the
+      baseline and the opinion-size crossover.</p>
+  </div>
+
+  <footer class="page">
+    <a href="experiments.html#phase-5" style="color:var(--brand);">&larr; Back to Experiments</a><br>
+    Numbers reflect the Sonnet single-stage run on the 260410 benchmark. Stage boundaries, models, and
+    infrastructure are working choices &mdash; the design is in active iteration.<br>
+    <i>Last updated 2026-05-30 &middot; drafted with <a href="https://claude.ai" target="_blank" rel="noopener noreferrer">Claude</a>.</i>
+  </footer>
+
+</div>
+
+<script>
+  // If the user clicked through from experiments.html, use history.back() so
+  // their scroll position on that page is restored. Otherwise the href anchor
+  // takes them to the Phase 5 section.
+  document.querySelectorAll('a.back, footer a').forEach(a => {
+    if (!/experiments\.html/.test(a.getAttribute('href') || '')) return;
+    a.addEventListener('click', function(e){
+      var ref = document.referrer || '';
+      if (ref.indexOf('experiments.html') !== -1) {
+        e.preventDefault();
+        history.back();
+      }
+    });
+  });
+</script>
+</body>
+</html>

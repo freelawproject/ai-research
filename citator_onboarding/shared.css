@@ -1,0 +1,291 @@
+/* ============================================================
+   Shared styles for the AI Citator onboarding package.
+   Used by index, taxonomy, benchmark, experiments, sonnet,
+   haiku_kimi, and whats_next. Page-specific rules live inline
+   in each HTML file.
+   ============================================================ */
+
+:root{
+  /* Base palette — text, surfaces, lines */
+  --ink:#1C1814; --muted:#574F40; --muted2:#776F61; --line:#E8E4DE; --line2:#D6D0C6;
+  --bg:#FDFCFB; --card:#ffffff;
+  /* Brand reds + brand-tinted soft fills (general callouts, .lede, .excerpt,
+     .crossover, .stage.lead, etc.). --brand-soft and --painbg share the same
+     hex but are kept as separate semantic tokens: --brand-soft for general
+     brand-tinted emphasis, --painbg for the pain/warning card family below.
+     Both can diverge independently if design intent later requires it. */
+  --brand:#B5362D; --brand-deep:#832720; --brand-soft:#FBF4EF; --brand-soft2:#F7E6DE;
+  --stop:#9B2E27; --warn:#C2410C; --caution:#A16207; --neutral:#776F61;
+  /* Pain / warning card family — .p, .h (hard cards), .weakness sections */
+  --painbg:#FBF4EF; --painline:#EFCBBD; --pain-ink:#6A201A;
+  /* Strength / "go" card family — .strength, .ask, .winner cells */
+  --gobg:#F1F8F3; --goline:#BED7C5; --go-ink:#1F5132;
+  /* "In motion" workstream card family */
+  --motionbg:#F4F2EE; --motionline:#D6D0C6; --motion-ink:#3E3729;
+  /* Caution / caveat callouts — .caveat blocks */
+  --cautionbg:#FBF6EB; --cautionline:#E8D8A8; --caution-ink:#6B4D08;
+  /* Clickable-card palette — pale cool slate, deliberately OUTSIDE the warm
+     palette so clickable cards never blend with any static-card or callout */
+  --linkbg:#E7ECF1; --linkline:#A8B5C2;
+}
+
+*{box-sizing:border-box}
+
+body{
+  margin:0;background:var(--bg);color:var(--ink);
+  font:15.5px/1.6 "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.wrap{max-width:1100px;margin:0 auto;padding:32px 24px 64px;}
+p{margin:0 0 12px;}
+code{
+  font:13.5px/1 ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  background:var(--brand-soft2);color:var(--brand-deep);padding:1px 5px;border-radius:4px;
+}
+
+/* header + nav (fixed-width tabs to keep alignment consistent) */
+header.page{border-bottom:3px solid var(--brand);padding-bottom:16px;margin-bottom:8px;}
+header.page .tag{color:var(--muted2);font-size:13px;text-transform:uppercase;letter-spacing:.08em;}
+header.page h1{margin:6px 0 14px;font-size:28px;letter-spacing:-.01em;color:var(--brand);}
+nav.topnav{display:flex;flex-wrap:wrap;gap:6px;font-size:14px;}
+nav.topnav a{
+  color:var(--muted);text-decoration:none;padding:6px 0;
+  border-bottom:2px solid transparent;
+  flex:0 0 140px;text-align:center;
+}
+nav.topnav a:hover{color:var(--brand);}
+nav.topnav a.active{color:var(--brand-deep);border-bottom-color:var(--brand);font-weight:600;}
+
+/* Dropdown nav item — wraps a topnav link that reveals sub-items on hover/focus.
+   Used by Experiments to surface the two deep-dive tabs (Sonnet, Haiku+Kimi).
+   The wrapper takes the 140px slot; the inner <a> is forced to display:block
+   so it inherits the same width and underline-on-active rhythm as the other
+   topnav anchors (which are direct flex items at 140px wide). */
+nav.topnav .topnav-dd{position:relative;flex:0 0 140px;display:inline-flex;
+  align-items:center;justify-content:center;text-align:center;}
+nav.topnav .topnav-dd > a{
+  display:inline-block;
+  width:auto;
+  flex:none;
+}
+/* caret is a real <button> (toggles the menu on tap/keyboard, not just hover) */
+nav.topnav .topnav-dd .caret{
+  font:inherit;font-size:9px;line-height:1;
+  background:none;border:0;padding:2px 4px;margin-left:2px;cursor:pointer;
+  color:var(--muted2);vertical-align:middle;
+  transition:transform .15s ease,color .15s ease;
+}
+nav.topnav .topnav-dd:hover .caret,
+nav.topnav .topnav-dd:focus-within .caret,
+nav.topnav .topnav-dd.open .caret{
+  color:var(--brand);
+}
+nav.topnav .topnav-dd.open .caret{transform:rotate(180deg);}
+nav.topnav .topnav-dd .caret:focus-visible{outline:2px solid var(--brand);outline-offset:2px;}
+nav.topnav .topnav-dd .dropdown-menu{
+  position:absolute;top:100%;left:50%;transform:translateX(-50%);
+  margin-top:2px;
+  background:var(--card);
+  border:1px solid var(--line);
+  border-radius:8px;
+  box-shadow:0 4px 16px rgba(40,30,20,.08);
+  min-width:200px;
+  padding:6px 0;
+  visibility:hidden;opacity:0;
+  transition:opacity .15s ease,visibility .15s ease;
+  z-index:10;
+  display:flex;flex-direction:column;
+}
+nav.topnav .topnav-dd:hover .dropdown-menu,
+nav.topnav .topnav-dd:focus-within .dropdown-menu,
+nav.topnav .topnav-dd.open .dropdown-menu{
+  visibility:visible;opacity:1;
+}
+nav.topnav .dropdown-menu a{
+  flex:none;
+  display:block;
+  text-align:left;
+  padding:8px 16px;
+  font-size:13.5px;
+  color:var(--ink);
+  border-bottom:none;
+}
+nav.topnav .dropdown-menu a:hover,
+nav.topnav .dropdown-menu a:focus-visible{
+  background:var(--brand-soft);
+  color:var(--brand-deep);
+  outline:none;
+}
+nav.topnav .dropdown-menu a.active{
+  background:var(--brand-soft);
+  color:var(--brand-deep);
+  font-weight:600;
+}
+
+/* lede paragraph (the brand-soft intro block) */
+.lede{
+  font-size:15px;color:var(--ink);
+  background:var(--brand-soft);border-left:4px solid var(--brand);
+  padding:13px 17px;border-radius:6px;margin:20px 0 24px;line-height:1.55;
+}
+.lede b{color:var(--brand-deep);}
+
+/* section header */
+h2.sec{
+  font-size:13.5px;text-transform:uppercase;letter-spacing:.1em;color:var(--muted2);
+  margin:36px 0 14px;border-bottom:1px solid var(--line);padding-bottom:6px;
+  scroll-margin-top:12px;
+}
+
+/* two-column layout (used in index for "why it matters", in benchmark for motion/ask, etc) */
+.twocol{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+
+/* generic metric card row used on index, benchmark, sonnet, haiku_kimi */
+.metrics{display:flex;flex-wrap:wrap;gap:12px;}
+.metrics.mt{margin-top:14px;}
+.m{
+  flex:1 1 150px;background:var(--card);border:1px solid var(--line);border-radius:10px;
+  padding:14px;text-align:center;
+}
+.m .big{font-size:23px;font-weight:700;color:var(--brand);line-height:1.1;}
+.m .lbl{font-size:11.5px;color:var(--muted2);margin-top:5px;}
+.m.head{background:var(--brand-soft);border-color:var(--brand);}
+.m.head .big{color:var(--brand-deep);}
+
+/* "what's already in motion" + "what we need" blocks
+   (used on benchmark.html and whats_next.html) */
+.motion{
+  background:var(--motionbg);border:1px solid var(--motionline);
+  border-radius:10px;padding:14px 17px;
+}
+.motion h3{
+  margin:0 0 7px;font-size:13.5px;color:var(--motion-ink);
+  text-transform:uppercase;letter-spacing:.06em;
+}
+.motion ul{margin:0;padding-left:20px;}
+.motion li{margin:0 0 7px;font-size:13.5px;color:var(--ink);line-height:1.55;}
+.motion li b{color:var(--motion-ink);}
+
+.ask{
+  background:var(--gobg);border:1px solid var(--goline);
+  border-radius:10px;padding:14px 17px;
+}
+.ask h3{
+  margin:0 0 7px;font-size:13.5px;color:var(--go-ink);
+  text-transform:uppercase;letter-spacing:.06em;
+}
+.ask ul{margin:0;padding-left:20px;}
+.ask li{margin:0 0 7px;font-size:13.5px;color:var(--ink);line-height:1.55;}
+.ask li b{color:var(--go-ink);}
+
+/* clickable card affordance — applied to ANY card-shaped <a>
+   that links to another page. Static cards must NOT use this class.
+   The shared aesthetic: pale slate fill + 1.5px slate border + subtle
+   base shadow → on hover/focus, lift + stronger red shadow + brand-deep
+   border. Each consumer should also include a bottom-aligned arrow
+   ("Read →", "→", or similar) so the affordance is visible without
+   hover. Consumer card classes own only their layout (padding, flex,
+   etc.) and the heading/body typography.
+
+   IMPORTANT: the selector uses `a.cardlink` (specificity 0,1,1; hover
+   is 0,2,1) so the hover rules deterministically beat consumer classes
+   like `.ph.lead` (0,2,0) regardless of source order. Without the type
+   selector, `.ph.lead`'s `border` shorthand declared in a later inline
+   <style> would tie on specificity and override the hover border color. */
+a.cardlink{
+  text-decoration:none;color:inherit;display:block;
+  box-shadow:0 1px 2px rgba(40,30,20,.05);
+  transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease;
+}
+a.cardlink:hover,
+a.cardlink:focus-visible{
+  transform:translateY(-1px);
+  box-shadow:0 3px 14px rgba(181,54,45,.15);
+  border-color:var(--brand-deep);
+  outline:none;
+}
+@media (prefers-reduced-motion: reduce){
+  a.cardlink{transition:none;}
+  a.cardlink:hover,
+  a.cardlink:focus-visible{transform:none;}
+}
+
+/* footer */
+footer.page{
+  margin-top:44px;border-top:1px solid var(--line);padding-top:14px;
+  color:var(--muted2);font-size:12px;
+}
+
+/* mobile fallback for two-column layouts */
+@media (max-width:880px){
+  .twocol{grid-template-columns:1fr;}
+}
+
+/* Horizontal-scroll wrapper for wide tables on narrow screens. */
+.table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;}
+
+/* ---- Deep-dive page styles (shared by sonnet.html + haiku_kimi.html) ----
+   Promoted here from per-page <style> blocks to remove duplication. Those
+   pages keep only their own overrides (sonnet's .improvements; the differing
+   mobile .stage flex-basis). */
+.back{display:inline-block;color:var(--muted);text-decoration:none;font-size:14px;
+  padding:6px 0;border-bottom:2px solid transparent;}
+.back:hover{color:var(--brand);border-bottom-color:var(--brand);}
+.spine{display:flex;gap:0;align-items:stretch;flex-wrap:wrap;}
+.stage{flex:1 1 0;min-width:210px;background:var(--card);border:1px solid var(--line);
+  border-radius:10px;padding:14px 14px 16px;box-shadow:0 1px 2px rgba(40,30,20,.05);}
+.stage h3{margin:0 0 5px;font-size:14.5px;color:var(--brand);}
+.stage .step{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted2);margin-bottom:8px;}
+.stage ul{margin:0;padding-left:18px;}
+.stage li{margin:0 0 5px;font-size:13.5px;color:var(--ink);line-height:1.5;}
+.stage.lead{background:var(--brand-soft);border-color:var(--brand);border-width:1.5px;}
+.stage.lead h3{color:var(--brand-deep);}
+.spine .arrow{display:flex;align-items:center;justify-content:center;color:var(--brand);
+  font-size:24px;font-weight:700;padding:0 6px;flex:0 0 auto;}
+.strength{background:var(--gobg);border:1px solid var(--goline);border-radius:10px;padding:14px 17px;}
+.strength h3{margin:0 0 6px;font-size:14.5px;color:var(--go-ink);text-transform:uppercase;letter-spacing:.06em;}
+.strength ul{margin:0;padding-left:20px;}
+.strength li{margin:0 0 7px;font-size:14px;color:var(--ink);line-height:1.55;}
+.strength li b{color:var(--go-ink);}
+.weakness{background:var(--painbg);border:1px solid var(--painline);border-radius:10px;padding:14px 17px;}
+.weakness h3{margin:0 0 6px;font-size:14.5px;color:var(--stop);text-transform:uppercase;letter-spacing:.06em;}
+.weakness ul{margin:0;padding-left:20px;}
+.weakness li{margin:0 0 7px;font-size:14px;color:var(--pain-ink);line-height:1.55;}
+.weakness li b{color:var(--stop);}
+.cost-scale{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 18px;}
+.cost-scale table{width:100%;border-collapse:collapse;font-size:13.5px;}
+.cost-scale th,.cost-scale td{padding:8px 11px;text-align:left;border-bottom:1px solid var(--line);}
+.cost-scale th{color:var(--muted2);font-size:11.5px;text-transform:uppercase;letter-spacing:.05em;font-weight:600;}
+.cost-scale td:nth-child(n+2),.cost-scale th:nth-child(n+2){text-align:right;font-variant-numeric:tabular-nums;}
+.cost-scale tr:last-child td{border-bottom:none;}
+.cost-scale .note{font-size:13px;color:var(--muted);line-height:1.55;margin:10px 2px 0;}
+.prompt-cta{background:var(--linkbg);border:1.5px solid var(--linkline);border-radius:10px;
+  padding:14px 18px;margin:16px 0 6px;display:block;}
+.prompt-cta .label{font-size:11px;letter-spacing:.06em;text-transform:uppercase;
+  color:var(--muted2);margin-bottom:5px;}
+.prompt-cta .title{font-size:15.5px;font-weight:600;color:var(--brand-deep);margin-bottom:4px;}
+.prompt-cta .desc{font-size:13.5px;color:var(--ink);line-height:1.55;}
+.prompt-cta .goto{margin-top:8px;font-size:13px;color:var(--brand);font-weight:600;}
+@media (max-width:880px){
+  .spine .arrow{display:none;}
+}
+
+/* Print / PDF: this package is shared as a document, so make it print cleanly
+   (notably: never clip the prompt code blocks, which are capped on screen). */
+@media print{
+  nav.topnav,.promptnav,.dist-toggle,.topnav-dd .dropdown-menu{display:none !important;}
+  a{color:inherit;}
+  .prompt-code{max-height:none !important;overflow:visible !important;}
+  .wrap{max-width:none;padding:0;}
+  body{background:#fff;}
+  .phase,.ph,.m,.step,.mg,.l,.p,.ec,.stage,.cost-card,.cost-scale,
+  .prompt-section,.actor,.relcard,.tier-card{break-inside:avoid;}
+}
+
+/* Respect reduced-motion globally (the rule above only covers .cardlink). */
+@media (prefers-reduced-motion: reduce){
+  *,*::before,*::after{
+    transition-duration:0.001ms !important;
+    animation-duration:0.001ms !important;
+    scroll-behavior:auto !important;
+  }
+}

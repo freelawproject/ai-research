@@ -83,9 +83,9 @@ python run_batch.py run-reeval \
 
 | Stage | Records | Input tokens | Output tokens | Cost |
 |---|---|---|---|---|
-| Sonnet batch | 386 | 9.5M | 2.8M | **$35.54** |
+| Sonnet batch | 386 | 9.5M | 2.85M | **$35.54** |
 | Kimi re-eval (if run) | 242 | 1.2M | 0.1M | ~$0.50 |
-| **Total (Sonnet only — candidate setup)** | **386** | **9.5M** | **2.8M** | **$35.54** |
+| **Total (Sonnet only — candidate setup)** | **386** | **9.5M** | **2.85M** | **$35.54** |
 
 Per-case: $0.093 (Sonnet only). Demo extrapolation at 4,125 clusters: ~$384 batch.
 

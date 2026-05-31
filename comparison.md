@@ -160,8 +160,8 @@ Single-stage Sonnet on the same 383 0410-benchmark citing clusters. New `citator
 | Pipeline | Total | $/case | $/1M opinion-text tokens (decomposed model) |
 |---|---|---|---|
 | 0518 Haiku+Kimi (batch) | $18.66 | $0.049 | A=$0.53/M opinion-text + B=$0.040/case |
-| **0529 Sonnet (batch)** | **$35.54** | **$0.093** | **A=$4.78/M opinion-text + B=$0.012/case** |
-| 0529 Sonnet+Reeval | $36.04 | $0.094 | A=$4.78 + B=$0.013/case |
+| **0529 Sonnet (batch)** | **$35.54** | **$0.093** | **A=$4.84/M opinion-text + B=$0.012/case** |
+| 0529 Sonnet+Reeval | $36.04 | $0.094 | A=$4.84 + B=$0.013/case |
 
 Decomposed model: `Cost ≈ A × M_opinion_text_tokens + B × n_cases`. A captures opinion-volume-driven variable cost; B captures per-case overhead (prompts, downstream stage calls). **Pipeline cost crossover ≈ 6,500 opinion-text tokens/case**: below, 0529 Sonnet is cheaper per case; above, 0518 Haiku+Kimi is cheaper. Benchmark avg 16.7K tokens/case → 0518 cheaper at this distribution. Cost competitiveness depends on opinion-size mix.
 

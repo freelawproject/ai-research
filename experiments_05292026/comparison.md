@@ -171,7 +171,7 @@ The `flag_for_review` categories were designed for a more error-prone Sonnet bas
 | Pipeline | Records | Total input tokens | Output tokens | Cost | $/case |
 |---|---|---|---|---|---|
 | 0518 Haiku+Kimi (batch) | 4,504 | 60M | 3.4M | $18.66 | $0.049 |
-| **0529 Sonnet (batch, candidate)** | **386** | **9.5M** | **2.8M** | **$35.54** | **$0.093** |
+| **0529 Sonnet (batch, candidate)** | **386** | **9.5M** | **2.85M** | **$35.54** | **$0.093** |
 | 0529 Sonnet+Reeval (net-negative on this base) | 628 | 10.7M | 2.9M | $36.04 | $0.094 |
 
 Sonnet is ~1.9× more expensive per case than Haiku+Kimi but **2.2× cheaper than a hypothetical on-demand Sonnet baseline** (~$0.21/case at the rates of equivalent prior Sonnet runs). Demo extrapolation at the per-case rate × 4,125 clusters ≈ **$384 batch**.
@@ -225,8 +225,8 @@ Computed from the benchmark run (reconstructs the actual totals within rounding)
 | Pipeline | A ($/1M opinion-text) | B ($/case) | Reconstructed total | Actual |
 |---|---|---|---|---|
 | 0518 Haiku+Kimi | **$0.53** | **$0.040** | $18.66 | $18.66 |
-| **0529 Sonnet** | **$4.78** | **$0.012** | $35.24 | $35.54 |
-| 0529 Sonnet+Reeval | $4.78 | $0.013 | — | $36.04 |
+| **0529 Sonnet** | **$4.84** | **$0.012** | $35.56 | $35.54 |
+| 0529 Sonnet+Reeval | $4.84 | $0.013 | — | $36.04 |
 
 The asymmetry is real and meaningful:
 - **A** (variable rate) is **9× lower** for 0518 because the per-token work is done by Haiku ($0.40/M input) rather than Sonnet ($1.50/M input + heavier output).
@@ -249,14 +249,14 @@ For a hypothetical workload of 100K cases × 20K opinion-text tokens each (2,000
 | Pipeline | Estimated cost | Per-case |
 |---|---|---|
 | 0518 Haiku+Kimi | ~**$5,045** | $0.050 |
-| 0529 Sonnet | ~**$10,774** | $0.108 |
+| 0529 Sonnet | ~**$10,878** | $0.109 |
 
 For a workload of 100K cases × 5K opinion-text tokens each (500M opinion-text — short opinions):
 
 | Pipeline | Estimated cost | Per-case |
 |---|---|---|
-| 0518 Haiku+Kimi | ~**$4,265** | $0.043 |
-| 0529 Sonnet | ~**$3,590** | $0.036 |
+| 0518 Haiku+Kimi | ~**$4,257** | $0.043 |
+| 0529 Sonnet | ~**$3,618** | $0.036 |
 
 Note 0529 Sonnet wins on the short-opinion case despite the higher per-token rate, because the per-case overhead dominates.
 

@@ -1,0 +1,65 @@
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = [
+  "setuptools",
+]
+
+[project]
+name = "ocr-tools"
+version = "0.0.1"
+requires-python = ">=3.13"
+
+dependencies = [
+  "doclayout_yolo",
+  "huggingface_hub",
+  "numpy<2.0.0",
+  "pre-commit>=4.3.0",
+  "PyMuPDF",
+  "python-dotenv",
+  "ultralytics",
+]
+
+[tool.setuptools.packages.find]
+include = ["ocr_tools*"]
+
+[tool.ruff]
+lint.isort.known-first-party = [
+  "ocr_tools",
+]
+lint.extend-safe-fixes = [
+  # non-pep585-annotation
+  "UP006",
+]
+lint.select = [
+  # flake8-bugbear
+  "B",
+  # flake8-comprehensions
+  "C4",
+  # pycodestyle
+  "E",
+  # Pyflakes errors
+  "F",
+  # isort
+  "I",
+  # flake8-simplify
+  "SIM",
+  # flake8-tidy-imports
+  "TID",
+  # pyupgrade
+  "UP",
+  # Pyflakes warnings
+  "W",
+]
+lint.ignore = [
+  # flake8-bugbear opinionated rules
+  "B9",
+  # line-too-long
+  "E501",
+  # suppressible-exception
+  "SIM105",
+  # if-else-block-instead-of-if-exp
+  "SIM108",
+  # printf-string-formatting
+  "UP031",
+]
+line-length = 79

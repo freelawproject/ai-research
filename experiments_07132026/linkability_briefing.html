@@ -1,0 +1,273 @@
+<title>SCOTUS ↔ Circuit Linkage — Coverage & Best Case</title>
+<style>
+  :root{
+    --bg:#f5f6f8; --surface:#ffffff; --ink:#17212e; --ink2:#465063; --muted:#7c8697;
+    --line:#e4e7ec; --line2:#eef1f4;
+    --linkable:#1a7a52; --partial:#b9761b;
+    --n1:#33425c; --n2:#5a6b88; --n3:#93a0b6;
+    --c1:#2b6a99; --c2:#8bb1cf;
+    --shadow:0 1px 2px rgba(23,33,46,.05),0 6px 22px rgba(23,33,46,.06);
+    --serif:Georgia,"Iowan Old Style","Times New Roman",serif;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+  }
+  /* deliberately single (light) theme — hold it regardless of viewer setting */
+  @media (prefers-color-scheme:dark){
+    :root{
+      --bg:#f5f6f8; --surface:#ffffff; --ink:#17212e; --ink2:#465063; --muted:#7c8697;
+      --line:#e4e7ec; --line2:#eef1f4;
+      --linkable:#1a7a52; --partial:#b9761b; --n1:#33425c; --n2:#5a6b88; --n3:#93a0b6;
+      --c1:#2b6a99; --c2:#8bb1cf;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#f5f6f8; --surface:#ffffff; --ink:#17212e; --ink2:#465063; --muted:#7c8697;
+    --line:#e4e7ec; --line2:#eef1f4;
+    --linkable:#1a7a52; --partial:#b9761b; --n1:#33425c; --n2:#5a6b88; --n3:#93a0b6;
+    --c1:#2b6a99; --c2:#8bb1cf;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);
+    line-height:1.55;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+  .wrap{max-width:840px;margin:0 auto;padding:44px 24px 72px}
+  .masthead{border-bottom:2px solid var(--ink);padding-bottom:20px;margin-bottom:8px}
+  .kicker{font-family:var(--sans);font-size:.72rem;font-weight:700;letter-spacing:.14em;
+    text-transform:uppercase;color:var(--c1);margin:0 0 10px}
+  h1{font-family:var(--serif);font-weight:600;font-size:2.05rem;line-height:1.12;
+    letter-spacing:-.01em;margin:0 0 12px;text-wrap:balance}
+  .lede{margin:0;color:var(--ink2);font-size:1.02rem;max-width:60ch}
+  .meta{color:var(--muted);font-size:.8rem;margin-top:14px;font-variant-numeric:tabular-nums}
+
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:14px;
+    padding:26px 28px;box-shadow:var(--shadow);margin:26px 0}
+  .eyebrow{font-size:.72rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--muted);display:block;margin-bottom:7px}
+  .card h2{font-family:var(--serif);font-weight:600;font-size:1.4rem;margin:0 0 4px;
+    letter-spacing:-.005em}
+  .card .sub{color:var(--ink2);font-size:.9rem;margin:0 0 20px;max-width:64ch}
+
+  .source{display:flex;gap:12px;align-items:flex-start;margin:0 0 22px;padding:13px 16px;
+    background:var(--line2);border-left:3px solid var(--c1);border-radius:0 8px 8px 0;
+    font-size:.85rem;color:var(--ink2)}
+  .source b{color:var(--ink);font-weight:650}
+
+  .about{margin:24px 0 0;padding:16px 20px;background:var(--surface);border:1px solid var(--line);
+    border-radius:12px;font-size:.9rem;color:var(--ink2);box-shadow:var(--shadow);max-width:none}
+  .about b{color:var(--ink);font-weight:650}
+  .about .lbl{display:block;font-size:.72rem;font-weight:700;letter-spacing:.1em;
+    text-transform:uppercase;color:var(--c1);margin-bottom:7px}
+
+  .bar{display:flex;width:100%;height:56px;border-radius:9px;overflow:hidden;gap:2px;background:var(--line2)}
+  .seg{position:relative;min-width:2px;display:flex;align-items:center;justify-content:center}
+  .seg span{font-size:.78rem;color:#fff;font-weight:700;text-shadow:0 1px 2px rgba(0,0,0,.32);
+    padding:0 5px;white-space:nowrap;font-variant-numeric:tabular-nums}
+
+  ul.slices{list-style:none;margin:22px 0 0;padding:0;display:flex;flex-direction:column;gap:15px}
+  ul.slices li{display:grid;grid-template-columns:15px 1fr;gap:13px;align-items:start}
+  .dot{width:13px;height:13px;border-radius:4px;margin-top:5px}
+  .slice-h{display:flex;flex-wrap:wrap;align-items:baseline;gap:9px}
+  .slice-h .name{font-weight:650;font-size:.95rem}
+  .slice-h .val{font-variant-numeric:tabular-nums;color:var(--ink2);font-weight:700;font-size:.9rem}
+  .slice-h .pct{color:var(--muted);font-size:.8rem}
+  .slice-note{color:var(--ink2);font-size:.86rem;margin-top:3px;max-width:66ch}
+
+  .takeaway{margin-top:24px;padding:15px 18px;border-radius:10px;font-size:.92rem;
+    background:color-mix(in srgb,var(--linkable) 8%,var(--surface));
+    border:1px solid color-mix(in srgb,var(--linkable) 26%,var(--line))}
+  .takeaway b{color:var(--linkable);font-variant-numeric:tabular-nums}
+  .takeaway.blue{background:color-mix(in srgb,var(--c1) 8%,var(--surface));
+    border-color:color-mix(in srgb,var(--c1) 26%,var(--line))}
+  .takeaway.blue b{color:var(--c1)}
+
+  .sc-group{margin-top:22px}
+  .sc-group h3{display:flex;align-items:center;gap:8px;font-size:.84rem;font-weight:700;letter-spacing:.02em;margin:0 0 6px;color:var(--ink)}
+  .sc-group h3 .gdot{width:10px;height:10px;border-radius:3px;flex:none}
+  .sc-group h3 .cnt{color:var(--muted);font-weight:600}
+  ul.sc-list{list-style:none;margin:0;padding:0}
+  ul.sc-list>li{padding:8px 0;border-top:1px solid var(--line2)}
+  ul.sc-list>li:first-child{border-top:none}
+  .sc-head,.sc-rec{display:grid;grid-template-columns:78px 94px 100px 1fr;gap:2px 12px;align-items:baseline}
+  .sc-head{color:var(--muted);font-size:.64rem;text-transform:uppercase;letter-spacing:.06em;font-weight:700;padding-bottom:6px;border-bottom:1px solid var(--line)}
+  .sc-rec .court{color:var(--muted);font-size:.66rem;text-transform:uppercase;letter-spacing:.04em;font-weight:700;padding-top:1px;white-space:nowrap}
+  .sc-rec .cdk,.sc-rec .cdate{color:var(--muted);font-size:.8rem;font-variant-numeric:tabular-nums}
+  .sc-rec .case{font-size:.89rem;line-height:1.4}
+  .sc a{color:var(--c1);text-decoration:none;font-weight:600}
+  .sc a:hover{text-decoration:underline}
+  .sc .case.nomatch a{color:var(--partial)}
+  .sc-note{color:var(--muted);font-size:.78rem;margin-top:10px;font-style:italic;max-width:70ch}
+  @media(max-width:560px){.sc-head,.sc-rec{grid-template-columns:52px 74px 84px 1fr;gap:2px 8px}}
+
+  .pending{border-style:dashed;text-align:center;padding:40px 28px}
+  .pending h2{color:var(--ink2)}
+  .pending .sub{margin:6px auto 0}
+  .pill{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.06em;
+    text-transform:uppercase;color:var(--muted);background:var(--bg);
+    border:1px solid var(--line);border-radius:20px;padding:5px 14px;margin-top:14px}
+</style>
+
+<div class="wrap">
+  <div class="masthead">
+    <p class="kicker">CourtListener · Appellate-chain coverage</p>
+    <h1>Linking SCOTUS cases to the circuit courts below</h1>
+    <p class="lede">How much of our Supreme Court and circuit case law can be connected along the appellate chain — and, in the best case, how many links we can actually make.</p>
+    <p class="meta">Source: CourtListener database, July 2026 · counts are opinion clusters, rounded · “circuit” = the 13 U.S. courts of appeals</p>
+  </div>
+
+  <div class="about">
+    <span class="lbl">What “best case” means</span>
+    These figures are a <b>ceiling</b>, not today’s confirmed total. They count every SCOTUS→circuit link that becomes achievable once we finish the recoverable cleanup — <b>standardizing docket numbers</b> (including messy ones that need automated LLM cleaning), <b>resolving lower-court names</b>, and <b>removing duplicates</b>.
+  </div>
+
+  <div class="card">
+    <span class="eyebrow">Component 1 — Supreme Court side</span>
+    <h2>Which SCOTUS cases can reach a circuit?</h2>
+    <p class="sub">Of ~500,000 SCOTUS opinion clusters, which ones carry the lower-court information needed to link down to a federal circuit case?</p>
+    <div class="source">
+      <div>⚖️</div>
+      <div><b>Where the lower-court info comes from:</b> the linkage relies on CourtListener’s <b>scraped SCOTUS docket data</b>, which records each case’s lower court and its docket number. That scrape only covers cases from <b>about 2000 onward</b> — so anything older simply has no lower-court data to link.</div>
+    </div>
+    <div class="bar" id="barScotus"></div>
+    <ul class="slices" id="slicesScotus"></ul>
+    <div class="takeaway" id="takeScotus"></div>
+  </div>
+
+  <div class="card">
+    <span class="eyebrow">Component 2 — Circuit side</span>
+    <h2>Which circuit cases can a SCOTUS case match to?</h2>
+    <p class="sub">Of ~1.37 million circuit opinion clusters, which ones have a <b>clean, standardized docket number</b> a SCOTUS case can be matched against — and fall in the era SCOTUS’s lower-court data covers (~2000 on)?</p>
+    <div class="bar" id="barCircuit"></div>
+    <ul class="slices" id="slicesCircuit"></ul>
+    <div class="takeaway blue" id="takeCircuit"></div>
+  </div>
+
+  <div class="card">
+    <span class="eyebrow">Component 3 — The best case</span>
+    <h2>How many links can we actually make?</h2>
+    <p class="sub">Of the ~79K SCOTUS cases that <em>can</em> be linked (Component 1), how many actually match a circuit case by docket number — and how clean is each match?</p>
+    <div class="bar" id="barMatch"></div>
+    <ul class="slices" id="slicesMatch"></ul>
+    <div class="takeaway" id="takeMatch"></div>
+  </div>
+
+  <div class="card">
+    <span class="eyebrow">Spot check</span>
+    <h2>Real links you can verify</h2>
+    <p class="sub">Sampled matches by type — click any case to open it on CourtListener. Where a lower-court docket has no linked opinion, the link runs a CourtListener search so you can confirm. (Party order often flips between the court below and the Supreme Court.)</p>
+    <div class="sc" id="spotcheck"></div>
+  </div>
+</div>
+
+<script>
+const SCOTUS_TOTAL = 499543;
+const scotus = [
+  {name:"Can be linked to a circuit", n:78861, color:"var(--linkable)",
+   note:"In the SCOTUS scrape with a circuit lower court and a docket number — everything needed to attempt the link."},
+  {name:"Lower-court info, but not a circuit", n:25562, color:"var(--partial)",
+   note:"In the scrape, but the appeal came from a state high court or other non-circuit court (~16K), or the lower court isn’t identified yet (~10K)."},
+  {name:"Not in the SCOTUS scrape (pre-2000)", n:321969, color:"var(--n1)",
+   note:"The scrape only reaches back to ~2000, so these cases have no lower-court data at all."},
+  {name:"Duplicate of a case the scrape already covers", n:60792, color:"var(--n2)",
+   note:"Duplicate CourtListener copies of cases the SCOTUS scrape does cover — flagged because they share the same normalized docket number (docket_number_core) as a covered record. The lower-court info is attached to the other copy, not this one, so this record isn't linked as it stands; de-duplicating the copies recovers the link."},
+  {name:"No docket number, or no lower court listed", n:12359, color:"var(--n3)",
+   note:"No usable docket number on the record, or the SCOTUS docket simply listed no lower court — nothing to match on."},
+];
+
+const CIRCUIT_TOTAL = 1372581;
+const circuit = [
+  {name:"Clean docket, 2000+ (the SCOTUS-linking window)", n:631398, color:"var(--c1)",
+   note:"A standardized docket number in the era SCOTUS’s lower-court data covers — the pool a SCOTUS case can be matched against."},
+  {name:"Clean docket, pre-2000", n:684645, color:"var(--c2)",
+   note:"A standardized docket number, but older. SCOTUS’s lower-court data barely predates 2000, so only a small late-1990s tail could possibly be linked to a SCOTUS case."},
+  {name:"Docket number not standardized", n:56538, color:"var(--n3)",
+   note:"Federal Circuit dockets not yet standardized (~55K, a straightforward fix), plus a handful with no docket number."},
+];
+
+const kround = n => Math.round(n/1000)+"K";
+
+function render(barId, listId, cats, total){
+  const pct = n => Math.round(100*n/total)+"%";
+  document.getElementById(barId).innerHTML = cats.map(c=>{
+    const w = 100*c.n/total;
+    const show = w>7 ? `<span>${pct(c.n)}</span>` : "";
+    return `<div class="seg" style="flex:${c.n} ${c.n} 0;background:${c.color}" title="${c.name}: ~${kround(c.n)} (${pct(c.n)})">${show}</div>`;
+  }).join("");
+  document.getElementById(listId).innerHTML = cats.map(c=>
+    `<li><span class="dot" style="background:${c.color}"></span>
+      <div>
+        <div class="slice-h">
+          <span class="name">${c.name}</span>
+          <span class="val">~${kround(c.n)}</span>
+          <span class="pct">${pct(c.n)}</span>
+        </div>
+        <div class="slice-note">${c.note}</div>
+      </div>
+    </li>`).join("");
+}
+
+const MATCH_TOTAL = 78861;
+const match = [
+  {name:"One-to-one — definite", n:38700, color:"var(--linkable)",
+   note:"Matches exactly one circuit case — a clean, confident link. (Includes ~1K where several SCOTUS records point to the same circuit case.)"},
+  {name:"One-to-many", n:10086, color:"var(--partial)",
+   note:"Matches several candidate circuit clusters; de-duplication is needed to pick the right one."},
+  {name:"Many-to-many", n:1257, color:"#9c4f2a",
+   note:"Ambiguous on both sides — the hardest to resolve."},
+  {name:"Recoverable by cleaning", n:2314, color:"var(--c1)",
+   note:"No exact match, but the docket numbers line up once standardized — recovered by cleaning, including automated LLM cleaning of messy dockets."},
+  {name:"No matching circuit opinion found", n:26504, color:"var(--n3)",
+   note:"SCOTUS names a circuit docket, but our docket-number match finds no circuit opinion. Some are true coverage gaps (the opinion isn't in CourtListener); others are data problems — the opinion is there, but its docket-number field differs from the docket SCOTUS cites, so a field match misses it (see the no-record spot-checks). Splitting the two needs a more systemic analysis."},
+];
+
+render("barScotus","slicesScotus",scotus,SCOTUS_TOTAL);
+render("barCircuit","slicesCircuit",circuit,CIRCUIT_TOTAL);
+render("barMatch","slicesMatch",match,MATCH_TOTAL);
+
+const SPOT = [{"t":"one_to_one","af":"ca1","s_name":"Trump v. Orr","s_dk":"25A319","s_date":"2025-11-06","s_url":"https://www.courtlistener.com/opinion/10732118/trump-v-orr/","dockets":[{"dk":"25-1579","opinions":[{"name":"Orr v. Trump","dk":"25-1579","date":"2025-09-04","url":"https://www.courtlistener.com/opinion/10666434/orr-v-trump/"}]}],"scotus_siblings":[]},{"t":"one_to_one","af":"ca2","s_name":"Doe v. Hochul","s_dk":"24-1015","s_date":"2026-06-29","s_url":"https://www.courtlistener.com/opinion/10881678/doe-v-hochul/","dockets":[{"dk":"22-2858","opinions":[{"name":"Does v. Hochul","dk":"22-2858","date":"2024-12-20","url":"https://www.courtlistener.com/opinion/10298209/does-v-hochul/"}]}],"scotus_siblings":[]},{"t":"one_to_one","af":"ca3","s_name":"Rutherford v. United States","s_dk":"24-820","s_date":"2026-05-28","s_url":"https://www.courtlistener.com/opinion/10865524/rutherford-v-united-states/","dockets":[{"dk":"23-1904","opinions":[{"name":"United States v. Daniel Rutherford","dk":"23-1904","date":"2024-11-01","url":"https://www.courtlistener.com/opinion/10183299/united-states-v-daniel-rutherford/"}]}],"scotus_siblings":[]},{"t":"one_to_one","af":"ca5","s_name":"United States v. Hemani","s_dk":"24-1234","s_date":"2026-06-18","s_url":"https://www.courtlistener.com/opinion/10876933/united-states-v-hemani/","dockets":[{"dk":"24-40137","opinions":[{"name":"United States v. Hemani","dk":"24-40137","date":"2025-01-31","url":"https://www.courtlistener.com/opinion/10325348/united-states-v-hemani/"}]}],"scotus_siblings":[]},{"t":"one_to_one","af":"ca7","s_name":"Parents Protecting Our Children v. Eau Claire Area School District","s_dk":"23-1280","s_date":"2024-12-09","s_url":"https://www.courtlistener.com/opinion/10290266/parents-protecting-our-children-v-eau-claire-area-school-district/","dockets":[{"dk":"23-1534","opinions":[{"name":"Parents Protecting Our Children, UA v. Eau Claire Area School District, Wisconsin","dk":"23-1534","date":"2024-03-07","url":"https://www.courtlistener.com/opinion/9482185/parents-protecting-our-children-ua-v-eau-claire-area-school-district-wiscon/"}]}],"scotus_siblings":[]},{"t":"one_to_one","af":"ca9","s_name":"Wolford v. Lopez","s_dk":"24-1046","s_date":"2026-06-25","s_url":"https://www.courtlistener.com/opinion/10880241/wolford-v-lopez/","dockets":[{"dk":"23-16164","opinions":[{"name":"Jason Wolford v. Anne Lopez","dk":"23-16164","date":"2025-01-15","url":"https://www.courtlistener.com/opinion/10314253/jason-wolford-v-anne-lopez/"}]}],"scotus_siblings":[]},{"t":"one_to_one","af":"ca10","s_name":"Flowers Foods, Inc. v. Brock","s_dk":"24-935","s_date":"2026-05-28","s_url":"https://www.courtlistener.com/opinion/10865526/flowers-foods-inc-v-brock/","dockets":[{"dk":"23-1182","opinions":[{"name":"Brock v. Flowers Foods","dk":"23-1182","date":"2024-11-12","url":"https://www.courtlistener.com/opinion/10272458/brock-v-flowers-foods/"}]}],"scotus_siblings":[]},{"t":"one_to_one","af":"ca11","s_name":"Dershowitz v. Cable News Network, Inc.","s_dk":"25-770","s_date":"2026-06-29","s_url":"https://www.courtlistener.com/opinion/10881679/dershowitz-v-cable-news-network-inc/","dockets":[{"dk":"23-11270","opinions":[{"name":"Alan Dershowitz v. Cable News Network, Inc.","dk":"23-11270","date":"2025-08-29","url":"https://www.courtlistener.com/opinion/10664597/alan-dershowitz-v-cable-news-network-inc/"}]}],"scotus_siblings":[]},{"t":"one_to_one","af":"cadc","s_name":"Exxon Mobil Corp. v. Corporación Cimex, S. A. (Cuba)","s_dk":"24-699","s_date":"2026-06-23","s_url":"https://www.courtlistener.com/opinion/10878536/exxon-mobil-corp-v-corporación-cimex-s-a-cuba/","dockets":[{"dk":"21-7127","opinions":[{"name":"Exxon Mobil Corporation v. Corporacion CIMEX, S.A. (Cuba)","dk":"21-7127","date":"2024-07-30","url":"https://www.courtlistener.com/opinion/10021162/exxon-mobil-corporation-v-corporacion-cimex-sa-cuba/"}]},{"dk":"22-7019","opinions":[]},{"dk":"22-7020","opinions":[]}],"scotus_siblings":[]},{"t":"one_to_one","af":"cafc","s_name":"Actavis Labs. FL, Inc. v. Nalpropion Pharm. LLC.","s_dk":"19-1131","s_date":"2020-05-26","s_url":"https://www.courtlistener.com/opinion/9367238/actavis-labs-fl-inc-v-nalpropion-pharm-llc/","dockets":[{"dk":"2018-1221","opinions":[{"name":"Nalpropion Pharmaceuticals v. Actavis Laboratories Fl, Inc.","dk":"2018-1221","date":"2019-08-15","url":"https://www.courtlistener.com/opinion/4648597/nalpropion-pharmaceuticals-v-actavis-laboratories-fl-inc/"}]}],"scotus_siblings":[]},{"t":"one_to_many","af":"ca1","s_name":"L. M. v. Middleborough","s_dk":"24-410","s_date":"2025-05-27","s_url":"https://www.courtlistener.com/opinion/10592873/l-m-v-middleborough/","dockets":[{"dk":"23-1535","opinions":[]},{"dk":"23-1645","opinions":[{"name":"L. M. v. Town of Middleborough, Massachusetts","dk":"23-1645","date":"2024-06-09","url":"https://www.courtlistener.com/opinion/9540890/l-m-v-town-of-middleborough-massachusetts/"},{"name":"L. M. v. Town of Middleborough, Massachusetts","dk":"23-1645","date":"2024-07-23","url":"https://www.courtlistener.com/opinion/10011958/l-m-v-town-of-middleborough-massachusetts/"}]}],"scotus_siblings":[]},{"t":"one_to_many","af":"ca1","s_name":"Boston Parent Coalition for Academic Excellence Corp. v. The School Committee","s_dk":"23-1137","s_date":"2024-12-09","s_url":"https://www.courtlistener.com/opinion/10290267/boston-parent-coalition-for-academic-excellence-corp-v-the-school-committee/","dockets":[{"dk":"21-1303","opinions":[{"name":"Boston Parent Coalition for Acad. Excellence Corp. v. The School Committee of the City of Boston","dk":"21-1303","date":"2021-04-28","url":"https://www.courtlistener.com/opinion/4877998/boston-parent-coalition-for-acad-excellence-corp-v-the-school-committee-of-/"},{"name":"Boston Parent Coalition for Acad. Excellence Corp. v. The School Committee of the City of Boston","dk":"21-1303","date":"2023-12-19","url":"https://www.courtlistener.com/opinion/9453461/boston-parent-coalition-for-acad-excellence-corp-v-the-school-committee-of-/"}]},{"dk":"22-1144","opinions":[]}],"scotus_siblings":[]},{"t":"many_to_one","af":"ca1","s_name":"Capozzi v. United States","s_dk":"16-8475","s_date":"2017-05-01","s_url":"https://www.courtlistener.com/opinion/8432067/capozzi-v-united-states/","dockets":[{"dk":"13-1993","opinions":[{"name":"Capozzi v. United States","dk":"13-1993","date":"2014-09-30","url":"https://www.courtlistener.com/opinion/2738523/capozzi-v-united-states/"}]},{"dk":"14-2088","opinions":[]}],"scotus_siblings":[{"name":"Capozzi v. United States","s_dk":"14-8108","date":"2015-02-23","url":"https://www.courtlistener.com/opinion/8173022/capozzi-v-united-states/"}]},{"t":"many_to_one","af":"ca1","s_name":"Whindleton v. United States","s_dk":"16-5101","s_date":"2016-10-03","s_url":"https://www.courtlistener.com/opinion/8427288/whindleton-v-united-states/","dockets":[{"dk":"14-1932","opinions":[{"name":"United States v. Whindleton","dk":"14-1932","date":"2015-08-10","url":"https://www.courtlistener.com/opinion/2823990/united-states-v-whindleton/"}]}],"scotus_siblings":[{"name":"Whindleton v. United States","s_dk":"15-9653","date":"2016-08-19","url":"https://www.courtlistener.com/opinion/8426363/whindleton-v-united-states/"}]},{"t":"many_to_many","af":"ca1","s_name":"Smith & Wesson Brands, Inc. v. Estados Unidos Mexicanos","s_dk":"23-1141","s_date":"2025-06-05","s_url":"https://www.courtlistener.com/opinion/10599005/smith-wesson-brands-inc-v-estados-unidos-mexicanos/","dockets":[{"dk":"22-1823","opinions":[{"name":"Estados Unidos Mexicanos v. Smith & Wesson Brands Inc.","dk":"22-1823","date":"2024-01-22","url":"https://www.courtlistener.com/opinion/9467925/estados-unidos-mexicanos-v-smith-wesson-brands-inc/"},{"name":"Estados Unidos Mexicanos v. Smith & Wesson Brands Inc.","dk":"22-1823","date":"2024-01-26","url":"https://www.courtlistener.com/opinion/9469542/estados-unidos-mexicanos-v-smith-wesson-brands-inc/"}]}],"scotus_siblings":[{"name":"Smith & Wesson Brands, Inc. v. Estados Unidos Mexicanos","s_dk":"23-1141","date":"2025-06-05","url":"https://www.courtlistener.com/opinion/10776842/smith-wesson-brands-inc-v-estados-unidos-mexicanos/"}]},{"t":"many_to_many","af":"ca1","s_name":"Russell v. United States","s_dk":"13-7357","s_date":"2014-04-21","s_url":"https://www.courtlistener.com/opinion/8416519/russell-v-united-states/","dockets":[{"dk":"12-1315","opinions":[{"name":"United States v. Russell","dk":"12-1315","date":"2013-08-26","url":"https://www.courtlistener.com/opinion/1038346/united-states-v-russell/"},{"name":"United States v. Russell","dk":"12-1315","date":"2013-09-19","url":"https://www.courtlistener.com/opinion/1041403/united-states-v-russell/"}]}],"scotus_siblings":[{"name":"Russell v. United States","s_dk":"14-6128","date":"2014-10-14","url":"https://www.courtlistener.com/opinion/8170230/russell-v-united-states/"}]},{"t":"recoverable_by_cleaning","af":"ca1","s_name":"Toth v. United States","s_dk":"22-177","s_date":"2023-01-23","s_url":"https://www.courtlistener.com/opinion/9369767/toth-v-united-states/","dockets":[{"dk":"21-1009","opinions":[{"name":"United States v. Toth","dk":"21-1009P","date":"2022-04-29","url":"https://www.courtlistener.com/opinion/6464510/united-states-v-toth/"},{"name":"United States v. Toth","dk":"21-1009E","date":"2022-05-06","url":"https://www.courtlistener.com/opinion/6466482/united-states-v-toth/"}]}],"scotus_siblings":[]},{"t":"recoverable_by_cleaning","af":"ca1","s_name":"Financial Oversight and Management Bd. for P. R. v. Centro De Periodismo Investigativo, Inc.","s_dk":"22-96","s_date":"2023-05-11","s_url":"https://www.courtlistener.com/opinion/9398335/financial-oversight-and-management-bd-for-p-r-v-centro-de-periodismo-invest/","dockets":[{"dk":"21-1301","opinions":[{"name":"Centro de Periodismo Investigativo, Inc. v. FOMB","dk":"21-1301P","date":"2022-05-17","url":"https://www.courtlistener.com/opinion/6469575/centro-de-periodismo-investigativo-inc-v-fomb/"},{"name":"Centro de Periodismo Investigativo, Inc. v. FOMB","dk":"21-1301E","date":"2022-05-23","url":"https://www.courtlistener.com/opinion/6470909/centro-de-periodismo-investigativo-inc-v-fomb/"}]}],"scotus_siblings":[{"name":"Financial Oversight and Management Bd. for P. R. v. Centro De Periodismo Investigativo, Inc.","s_dk":"22-96","date":"2023-05-11","url":"https://www.courtlistener.com/opinion/10049696/financial-oversight-and-management-bd-for-p-r-v-centro-de-periodismo-invest/"}]},{"t":"unmatched","af":"ca1","s_name":"Guerrero-Castro v. United States","s_dk":"19-8376","s_date":"2020-05-26","s_url":"https://www.courtlistener.com/opinion/9367304/guerrero-castro-v-united-states/","dockets":[{"dk":"17-1660","opinions":[]}],"scotus_siblings":[]},{"t":"unmatched","af":"ca1","s_name":"Strege v. United States","s_dk":"19-8329","s_date":"2020-05-26","s_url":"https://www.courtlistener.com/opinion/9367295/strege-v-united-states/","dockets":[{"dk":"19-1903","opinions":[]}],"scotus_siblings":[]}];
+const GROUPS=[
+ {k:"one_to_one",label:"One-to-one · definite",color:"var(--linkable)"},
+ {k:"recoverable_by_cleaning",label:"Recovered by cleaning the docket number",color:"var(--c1)"},
+ {k:"one_to_many",label:"One-to-many · one SCOTUS, several circuit candidates",color:"var(--partial)"},
+ {k:"many_to_one",label:"Many-to-one · several SCOTUS, one circuit",color:"var(--linkable)"},
+ {k:"many_to_many",label:"Many-to-many · several on both sides",color:"#9c4f2a"},
+ {k:"unmatched",label:"No linked record",color:"var(--muted)"},
+];
+function sUrl(dk,af){return "https://www.courtlistener.com/?q="+encodeURIComponent('"'+dk+'"')+"&type=o&court="+af;}
+function A(u,t){return '<a href="'+u+'" target="_blank" rel="noopener">'+t+'</a>';}
+function cells(court,dk,date,caseHtml,cls){
+  return '<span class="court">'+court+'</span><span class="cdk">'+dk+'</span><span class="cdate">'+(date||'')+'</span><span class="case'+(cls?' '+cls:'')+'">'+caseHtml+'</span>';
+}
+function rowHtml(r){
+  const sibs=r.scotus_siblings||[]; const nS=1+sibs.length;
+  const nC=r.dockets.reduce(function(a,d){return a+d.opinions.length;},0);
+  const AF=r.af.toUpperCase();
+  var rows='';
+  var sList=[{name:r.s_name,dk:r.s_dk,date:r.s_date,url:r.s_url}].concat(sibs.map(function(s){return {name:s.name,dk:s.s_dk,date:s.date,url:s.url};}));
+  sList.forEach(function(c,i){rows+=cells(i===0?('SCOTUS'+(nS>1?' &times;'+nS:'')):'',c.dk,c.date,A(c.url,c.name),'');});
+  var circ=[];
+  r.dockets.forEach(function(d){
+    if(d.opinions.length){d.opinions.forEach(function(o){circ.push({dk:o.dk,date:o.date,html:A(o.url,o.name),cls:''});});}
+    else{circ.push({dk:d.dk,date:'—',html:A(sUrl(d.dk,r.af),'no record (search '+AF+')'),cls:'nomatch'});}
+  });
+  circ.forEach(function(c,i){rows+=cells(i===0?('&rarr; '+AF+(nC>1?' &times;'+nC:'')):'',c.dk,c.date,c.html,c.cls);});
+  return '<li><div class="sc-rec">'+rows+'</div></li>';
+}
+var HEAD='<div class="sc-head"><span>Court</span><span>Docket</span><span>Date</span><span>Case</span></div>';
+document.getElementById("spotcheck").innerHTML = HEAD + GROUPS.map(function(g){
+  const rows=SPOT.filter(function(r){return r.t===g.k;});
+  if(!rows.length) return "";
+  var note="";
+  if(g.k==="recoverable_by_cleaning") note='<div class="sc-note">Exact docket didn&rsquo;t match; linked by shared number core (here the circuit adds a P/E published-vs-errata suffix). Distinct from one-to-many, which is an exact match to several clusters.</div>';
+  if(g.k==="unmatched") note='<div class="sc-note">Some &ldquo;no record&rdquo; searches do return a result &mdash; a data-quality case where the docket-number field differs from the docket printed on the opinion, so field matching misses it.</div>';
+  return '<div class="sc-group"><h3><span class="gdot" style="background:'+g.color+'"></span> '+g.label+' <span class="cnt">· '+rows.length+'</span></h3><ul class="sc-list">'+rows.map(rowHtml).join("")+'</ul>'+note+'</div>';
+}).join("");
+
+
+
+
+
+document.getElementById("takeScotus").innerHTML =
+  `<b>~79K SCOTUS cases (16%)</b> have what’s needed to link down to a circuit. Most of the rest are pre-2000 — outside the SCOTUS scrape that supplies the lower-court information.`;
+document.getElementById("takeCircuit").innerHTML =
+  `Almost all circuit dockets are clean enough to match (<b>96%</b>). About <b>631K (46%)</b> sit in the post-2000 window SCOTUS’s lower-court data covers; older cases cannot be linked via scraped SCOTUS originating court information.`;
+document.getElementById("takeMatch").innerHTML =
+  `Best case: about <b>52K of the ~79K linkable SCOTUS cases (66%)</b> can be connected to a circuit — roughly <b>39K clean one-to-one</b>, ~11K after resolving duplicate candidates, and ~2K via docket cleaning. The remaining ~27K name a circuit docket our match couldn't resolve — a mix of true coverage gaps and data-quality misses (docket field ≠ cited docket) that needs more analysis to separate.`;
+</script>

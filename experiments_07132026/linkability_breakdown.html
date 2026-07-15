@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SCOTUS ↔ Circuit Linkage — Coverage & Best Case</title>
+<style>
+  :root{
+    --bg:#f7f8fa; --surface:#ffffff; --ink:#1a1d24; --ink2:#4a5262; --muted:#7a8394;
+    --line:#e2e6ec;
+    --linkable:#157f52; --partial:#c07a1a;
+    --n1:#2b3a55; --n2:#455a80; --n3:#6f83a6; --n4:#9aa8c2;
+    --c1:#2f6f9f; --c2:#84b0d1;
+    --shadow:0 1px 2px rgba(20,25,40,.06),0 4px 16px rgba(20,25,40,.05);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height:1.55;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:840px;margin:0 auto;padding:32px 20px 64px}
+  header h1{font-size:1.55rem;margin:0 0 4px;letter-spacing:-.01em}
+  header p{margin:0;color:var(--ink2);font-size:.95rem}
+  .src{color:var(--muted);font-size:.8rem;margin-top:6px}
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:14px;
+    padding:22px 24px;box-shadow:var(--shadow);margin:22px 0}
+  .step{display:inline-block;font-size:.72rem;font-weight:700;color:var(--muted);
+    letter-spacing:.06em;text-transform:uppercase;margin-bottom:8px}
+  .card h2{font-size:1.12rem;margin:0 0 2px;letter-spacing:-.01em}
+  .card .sub{color:var(--muted);font-size:.85rem;margin:0 0 18px}
+  .bar{display:flex;width:100%;height:54px;border-radius:10px;overflow:hidden;gap:2px;background:var(--bg)}
+  .seg{position:relative;min-width:2px;display:flex;align-items:center;justify-content:center}
+  .seg span{font-size:.76rem;color:#fff;font-weight:700;text-shadow:0 1px 2px rgba(0,0,0,.35);
+    padding:0 4px;white-space:nowrap}
+  ul.slices{list-style:none;margin:20px 0 0;padding:0;display:flex;flex-direction:column;gap:14px}
+  ul.slices li{display:grid;grid-template-columns:16px 1fr;gap:12px;align-items:start}
+  .dot{width:13px;height:13px;border-radius:4px;margin-top:5px}
+  .slice-h{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px}
+  .slice-h .name{font-weight:650;font-size:.94rem}
+  .slice-h .val{font-variant-numeric:tabular-nums;color:var(--ink2);font-weight:700;font-size:.9rem}
+  .slice-h .pct{color:var(--muted);font-size:.8rem}
+  .slice-note{color:var(--ink2);font-size:.85rem;margin-top:3px}
+  .takeaway{margin-top:20px;padding:13px 16px;background:color-mix(in srgb,var(--linkable) 8%,var(--surface));
+    border:1px solid color-mix(in srgb,var(--linkable) 25%,var(--line));border-radius:10px;
+    font-size:.88rem;color:var(--ink)}
+  .takeaway b{color:var(--linkable)}
+  .takeaway.blue{background:color-mix(in srgb,var(--c1) 8%,var(--surface));
+    border-color:color-mix(in srgb,var(--c1) 25%,var(--line))}
+  .takeaway.blue b{color:var(--c1)}
+  .pending{border-style:dashed;color:var(--muted);text-align:center;padding:34px 24px}
+  .pending h2{color:var(--ink2)}
+  .pending .pill{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.05em;
+    text-transform:uppercase;color:var(--muted);background:var(--bg);
+    border:1px solid var(--line);border-radius:20px;padding:4px 12px;margin-top:8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>SCOTUS&nbsp;↔&nbsp;Circuit linkage: coverage & best case</h1>
+    <p>How much of our SCOTUS and circuit case law can be linked along the appellate chain — and, in the best case, how many links we can actually make.</p>
+    <div class="src">CourtListener (CLReplica), July 2026 · counts are opinion clusters, rounded · circuit = the 13 federal appellate courts</div>
+  </header>
+
+  <div class="card">
+    <span class="step">Component 1</span>
+    <h2>SCOTUS cases — which can reach a circuit?</h2>
+    <p class="sub">~500K SCOTUS opinion clusters. Which ones have the lower-court information needed to link down to a federal circuit case?</p>
+    <div class="bar" id="barScotus"></div>
+    <ul class="slices" id="slicesScotus"></ul>
+    <div class="takeaway" id="takeScotus"></div>
+  </div>
+
+  <div class="card">
+    <span class="step">Component 2</span>
+    <h2>Circuit cases — which can be a link target?</h2>
+    <p class="sub">~1.37M circuit opinion clusters. A circuit case can be linked if it has a usable docket number to match against.</p>
+    <div class="bar" id="barCircuit"></div>
+    <ul class="slices" id="slicesCircuit"></ul>
+    <div class="takeaway blue" id="takeCircuit"></div>
+  </div>
+
+  <div class="card pending">
+    <span class="step">Component 3</span>
+    <h2>Best-case linkage — SCOTUS matched to circuit</h2>
+    <p class="sub" style="margin:6px 0 0">Of the records that overlap, how many match one-to-one, one-to-many, many-to-many, and how many we can recover by cleaning docket numbers.</p>
+    <span class="pill">Pending — Q8</span>
+  </div>
+</div>
+
+<script>
+const SCOTUS_TOTAL = 499543;
+const scotus = [
+  {name:"Can be linked to a circuit", n:78861, color:"var(--linkable)",
+   note:"Has a lower-court docket number and the appeal is from a federal circuit — everything needed to attempt the link."},
+  {name:"Lower-court info, but not a circuit", n:25562, color:"var(--partial)",
+   note:"Appeal came from a state high court or other non-circuit court (~16K), or the lower court couldn't be identified yet (~10K, recoverable)."},
+  {name:"No lower-court source (pre-2000 / not scraped)", n:321969, color:"var(--n1)",
+   note:"Never covered by the SCOTUS docket source that carries lower-court info — almost entirely pre-2000. No data exists to link them."},
+  {name:"Modern, but no usable link", n:73151, color:"var(--n3)",
+   note:"Duplicate copies of already-covered cases (~61K), or no usable / no listed docket (~12K)."},
+];
+
+const CIRCUIT_TOTAL = 1372581;
+const circuit = [
+  {name:"Usable docket, 2000+ (SCOTUS-linking window)", n:631398, color:"var(--c1)",
+   note:"Clean docket number in the era SCOTUS links into. This is the pool the SCOTUS→circuit match draws from."},
+  {name:"Usable docket, pre-2000", n:684645, color:"var(--c2)",
+   note:"Clean docket number but older — mostly outside the SCOTUS window; the target for the future circuit→district layer (FJC data, back to 1971)."},
+  {name:"Not usable yet", n:56538, color:"var(--n4)",
+   note:"Federal Circuit dockets not yet normalized (~55K, an easy fix) plus a handful with no docket number."},
+];
+
+const kround = n => Math.round(n/1000)+"K";
+
+function render(barId, listId, cats, total){
+  const pct = n => Math.round(100*n/total)+"%";
+  document.getElementById(barId).innerHTML = cats.map(c=>{
+    const w = 100*c.n/total;
+    const show = w>7 ? `<span>${pct(c.n)}</span>` : "";
+    return `<div class="seg" style="flex:${c.n} ${c.n} 0;background:${c.color}" title="${c.name}: ~${kround(c.n)} (${pct(c.n)})">${show}</div>`;
+  }).join("");
+  document.getElementById(listId).innerHTML = cats.map(c=>
+    `<li><span class="dot" style="background:${c.color}"></span>
+      <div>
+        <div class="slice-h">
+          <span class="name">${c.name}</span>
+          <span class="val">~${kround(c.n)}</span>
+          <span class="pct">${pct(c.n)}</span>
+        </div>
+        <div class="slice-note">${c.note}</div>
+      </div>
+    </li>`).join("");
+}
+
+render("barScotus","slicesScotus",scotus,SCOTUS_TOTAL);
+render("barCircuit","slicesCircuit",circuit,CIRCUIT_TOTAL);
+
+document.getElementById("takeScotus").innerHTML =
+  `<b>~79K SCOTUS cases (16%)</b> have what's needed to link down to a circuit. Most of the rest are pre-2000, which the lower-court source simply doesn't cover.`;
+document.getElementById("takeCircuit").innerHTML =
+  `Circuit dockets are almost all usable (<b>96%</b>). About <b>631K (46%)</b> fall in the post-2000 window SCOTUS links into; the pre-2000 half is the target for the future circuit→district layer.`;
+</script>
+</body>
+</html>

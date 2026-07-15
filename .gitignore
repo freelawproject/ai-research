@@ -36,3 +36,14 @@ experiments_05192026/data/
 experiments_05262026/data/
 experiments_05272026/data/
 experiments_05292026/data/
+experiments_06142026/data/
+experiments_06152026/data/
+experiments_06172026/data/
+experiments_07062026/data/
+experiments_07132026/data/
+experiments_06172026/.venv/
+
+# Exp 3 citation coref — model checkpoints, uv venvs, viewer scratch
+experiments_06142026/finetune/runs/
+experiments_06142026/finetune/.venv/
+experiments_06142026/viewer/.venv/

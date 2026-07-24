@@ -25,8 +25,10 @@
    character context until the match is unique; majority wins, otherwise the
    dots reading is kept and flagged low-confidence.
 8. **Assemble** — dots skeleton + resolved tokens + styling union across
-   engines; final HTML with low-confidence marks; metrics vs golden where a
-   golden reference exists.
+   engines; final HTML with low-confidence marks. Quality is judged by
+   comparing the three routes' finals side by side: differences between
+   routes are highlighted, and cross-route agreement is the confidence
+   signal (there is no reference data in production).
 
 ## Artifact contract (v1)
 
@@ -39,15 +41,25 @@ data/artifacts/<dataset>/<route>/<page>.json
 ```jsonc
 {
   "schema_version": 1,
-  "pipeline_version": "<hash>",       // stamps code + normalization registry
-  "dataset": "golden30",
+  "dataset": "sample30",
   "page": "a3d.340.1__p0",
   "route": "mistral",
   "stages": {
-    "render":       {"png": "<path>", "size": [1700, 2200]},
-    "layout":       {"containers": [{"label": "", "bbox": [], "confidence": 0}]},
-    "main_ocr":     {"engine": "dots", "blocks": [{"id": 0, "bbox": [], "text": ""}]},
-    "supplemental": {"engine": "", "unit": "block|page_xml|line", "items": []},
+    // implemented:
+    "render":       {"png": "<path rel. to data/>", "size": [1700, 2200],
+                     "n_redaction_rects": 0},
+    "layout":       {"engine": "container_yolo", "raw": [], "post": [],
+                     "columns": [{"side": "L", "bbox": []}], "stats": {}},
+    "main_ocr":     {"engine": "dots", "page_text": "",
+                     "blocks": [{"id": 0, "order": 0, "label": "",
+                                 "bbox": [], "text": ""}]},
+    "supplemental":
+      // mistral: {"engine", "unit": "block", "missing", "blocks": [...]}
+      // gemini:  {"engine", "unit": "page_xml", "refusal", "raw_xml",
+      //           "blocks": [{"id", "tag", "attrs", "text"}], "parse_error"}
+      // surya:   {"engine", "unit": "line", "missing", "lines": [...]}
+      {"engine": "mistral", "unit": "block", "blocks": []},
+    // land in later milestones:
     "normalize":    {"<engine>": {"tokens": [], "rules_applied": []}},
     "reconstruct":  {"<engine>": {"order": [], "dropped_lines": []}},
     "compare":      {"disputes": [{"block": 0, "reads": {}, "verdict": ""}]},
@@ -67,7 +79,6 @@ data/
   datasets/<name>/
     redacted/            source volume trees (PDFs + redaction rects)
     page_png/            canonical rendered pages (what every engine saw)
-    golden/              hand-reviewed reference pages (golden30 only)
     engines/
       container_yolo/    layout detections per page (JSON)
       dots/              main-engine block reads (JSON)

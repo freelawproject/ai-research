@@ -27,14 +27,33 @@ Three routes, differing only in the supplemental engine:
 
    ```
    data/
-     datasets/golden30/   30-page hand-reviewed reference set + engine outputs
+     datasets/sample30/   30-page sample set + cached engine outputs
      weights/             container-YOLO weights
+     artifacts/           pipeline outputs (regenerate any time, step 4)
    ```
 
    The full layout is documented in [docs/pipeline.md](docs/pipeline.md).
-3. `docker compose up`, then open http://localhost:8170.
+3. Validate the layout: `uv run python manage.py check_data`
+   (it prints exactly what's missing if the folder landed in the wrong spot).
+4. Generate the pipeline artifacts (seconds; reads the bundled engine
+   outputs, no models or API keys needed):
+
+   ```
+   uv run python -m pipeline.run --dataset sample30 --route all
+   ```
+
+5. `docker compose up`, then open http://localhost:8170 and click a route to
+   walk the pipeline page by page.
 
 Without Docker: `uv sync && uv run python manage.py runserver 8170`.
+
+## Developing the UI
+
+Tailwind CSS is committed pre-built; rebuild it after template/JS changes
+with `docker compose --profile dev up tailwind` (watch mode) or the one-shot
+command in `viewer/static_src/tailwind.config.js`. Alpine.js is the CSP
+build, vendored at `viewer/static/viewer/js/vendor/` — components live in
+`viewer/static/viewer/js/components/` and MUST load before Alpine.
 
 ## Repository map
 

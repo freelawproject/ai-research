@@ -1,3 +1,26 @@
+# macOS / editors
 .DS_Store
-.ipynb_checkpoints/
+
+# Python
 __pycache__/
+*.py[cod]
+.venv/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Data, models, archives — distributed separately as a zip (see README)
+data/
+*.pt
+*.tar.gz
+*.zip
+
+# Frontend build
+node_modules/
+
+# Never used (no database), but just in case
+db.sqlite3

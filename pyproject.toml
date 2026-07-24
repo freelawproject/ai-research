@@ -1,0 +1,27 @@
+[project]
+name = "extraction"
+version = "0.1.0"
+description = "Case law extraction pipeline and walkthrough viewer"
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "django>=6.0.5,<6.1",
+    "django-environ>=0.12",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.14",
+    "pre-commit>=4",
+    "mypy>=1.15",
+    "django-stubs>=5.1",
+]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 79
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "W"]
+ignore = ["E501"]

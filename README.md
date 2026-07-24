@@ -7,17 +7,21 @@ every stage of the pipeline — per page, per route, per engine.
 ## How it works
 
 Every page runs through: render → layout (container-YOLO) → main OCR
-(dots.mocr) → supplemental OCR → normalization → reading-order reconstruction
-→ cross-engine comparison with LightOn tiebreak → final assembly. Full stage
-spec and artifact schema: [docs/pipeline.md](docs/pipeline.md).
+(dots.mocr) → supplemental OCR → reading-order reconstruction →
+normalization → cross-engine comparison with LightOn tiebreak → final
+assembly. Full stage spec and artifact schema:
+[docs/pipeline.md](docs/pipeline.md).
 
-Three routes, differing only in the supplemental engine:
+Five routes. Four pair dots with one supplemental engine and use LightOnOCR
+to tie-break disputes; the fifth resolves by direct three-way majority:
 
-| Route | Supplemental engine | Provided by |
+| Route | Supplemental engine(s) | Resolution |
 |---|---|---|
-| `gemini` | Gemini page XML | generated upstream — bring your own outputs |
-| `mistral` | Mistral OCR blocks | API runner in this package |
-| `surya` | Surya line reads | RunPod kit in this package |
+| `gemini` | Gemini page XML (generated upstream — bring your own outputs) | LightOn tiebreak |
+| `mistral` | Mistral OCR blocks (API runner in this package) | LightOn tiebreak |
+| `surya_line` | Surya line reads (fine geometry; bleed-through filtered against dots blocks) | LightOn tiebreak |
+| `surya_block` | Surya block reads (whole-page context; no line hallucinations) | LightOn tiebreak |
+| `three_way` | Mistral blocks + Surya blocks, in parallel with dots | direct three-way bbox-aligned comparison — no tiebreaker model |
 
 ## Quickstart
 

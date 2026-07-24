@@ -33,7 +33,7 @@ class HtmlToHtmlTest(unittest.TestCase):
 
     def test_sup_kept_unknown_unwrapped(self) -> None:
         self.assertEqual(
-            html_to_html('<div><span>word</span><sup>7</sup></div>'),
+            html_to_html("<div><span>word</span><sup>7</sup></div>"),
             "word<sup>7</sup>",
         )
 

@@ -26,8 +26,16 @@ class PostprocessTest(unittest.TestCase):
 
     def test_single_page_number_kept(self) -> None:
         dets = [
-            {"label": "page_number", "bbox": [0, 0, 10, 10], "confidence": 0.5},
-            {"label": "page_number", "bbox": [500, 0, 510, 10], "confidence": 0.9},
+            {
+                "label": "page_number",
+                "bbox": [0, 0, 10, 10],
+                "confidence": 0.5,
+            },
+            {
+                "label": "page_number",
+                "bbox": [500, 0, 510, 10],
+                "confidence": 0.9,
+            },
         ]
         out = postprocess_dets(dets)
         self.assertEqual(len(out), 1)

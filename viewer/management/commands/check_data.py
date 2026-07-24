@@ -42,9 +42,7 @@ class Command(BaseCommand):
         names = (
             [options["dataset"]]
             if options["dataset"]
-            else sorted(
-                p.name for p in datasets_root.glob("*") if p.is_dir()
-            )
+            else sorted(p.name for p in datasets_root.glob("*") if p.is_dir())
         )
         if not names:
             raise CommandError(f"no datasets under {datasets_root}")
@@ -60,9 +58,7 @@ class Command(BaseCommand):
                 if d.is_dir():
                     self.stdout.write(f"  ✓ {sub}/")
                 else:
-                    self.stdout.write(
-                        self.style.ERROR(f"  ✗ {sub}/ MISSING")
-                    )
+                    self.stdout.write(self.style.ERROR(f"  ✗ {sub}/ MISSING"))
                     problems += 1
             n_png = self._count(ds / "page_png", "*.png")
             self.stdout.write(f"  · {n_png} rendered pages")

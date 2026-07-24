@@ -66,8 +66,12 @@ class ReconstructBlocksTest(unittest.TestCase):
 
     def test_items_carry_styled_html(self) -> None:
         blocks = [
-            _block(0, [150, 200, 700, 300], "see *Searle* now",
-                   styled="see <em>Searle</em> now"),
+            _block(
+                0,
+                [150, 200, 700, 300],
+                "see *Searle* now",
+                styled="see <em>Searle</em> now",
+            ),
         ]
         r = reconstruct_blocks(_CONTAINERS, blocks)
         self.assertEqual(r["items"][0]["html"], "see <em>Searle</em> now")
@@ -91,10 +95,18 @@ class ReconstructGeminiTest(unittest.TestCase):
     def test_coords_reorder_within_column(self) -> None:
         # document order is wrong (y=300 before y=100); coords fix it
         blocks = [
-            {"id": 0, "tag": "p",
-             "attrs": {"col": "L", "x": "10", "y": "300"}, "text": "second"},
-            {"id": 1, "tag": "p",
-             "attrs": {"col": "L", "x": "10", "y": "100"}, "text": "first"},
+            {
+                "id": 0,
+                "tag": "p",
+                "attrs": {"col": "L", "x": "10", "y": "300"},
+                "text": "second",
+            },
+            {
+                "id": 1,
+                "tag": "p",
+                "attrs": {"col": "L", "x": "10", "y": "100"},
+                "text": "first",
+            },
         ]
         r = reconstruct_gemini(blocks)
         self.assertEqual(r["order"], [1, 0])
@@ -102,10 +114,18 @@ class ReconstructGeminiTest(unittest.TestCase):
 
     def test_left_column_reads_before_right(self) -> None:
         blocks = [
-            {"id": 0, "tag": "p",
-             "attrs": {"col": "R", "x": "200", "y": "100"}, "text": "right"},
-            {"id": 1, "tag": "p",
-             "attrs": {"col": "L", "x": "10", "y": "500"}, "text": "left"},
+            {
+                "id": 0,
+                "tag": "p",
+                "attrs": {"col": "R", "x": "200", "y": "100"},
+                "text": "right",
+            },
+            {
+                "id": 1,
+                "tag": "p",
+                "attrs": {"col": "L", "x": "10", "y": "500"},
+                "text": "left",
+            },
         ]
         r = reconstruct_gemini(blocks)
         self.assertEqual(r["text"], "left\nright")
@@ -121,8 +141,12 @@ class ReconstructGeminiTest(unittest.TestCase):
     def test_img_tag_text_omitted(self) -> None:
         blocks = [
             {"id": 0, "tag": "p", "attrs": {}, "text": "body"},
-            {"id": 1, "tag": "img", "attrs": {"type": "scan"},
-             "text": "caption junk"},
+            {
+                "id": 1,
+                "tag": "img",
+                "attrs": {"type": "scan"},
+                "text": "caption junk",
+            },
         ]
         r = reconstruct_gemini(blocks)
         self.assertEqual(r["omitted"], [1])
@@ -130,11 +154,19 @@ class ReconstructGeminiTest(unittest.TestCase):
 
     def test_coordless_block_keeps_document_position(self) -> None:
         blocks = [
-            {"id": 0, "tag": "p",
-             "attrs": {"col": "L", "x": "10", "y": "100"}, "text": "a"},
+            {
+                "id": 0,
+                "tag": "p",
+                "attrs": {"col": "L", "x": "10", "y": "100"},
+                "text": "a",
+            },
             {"id": 1, "tag": "heading", "attrs": {}, "text": "b"},
-            {"id": 2, "tag": "p",
-             "attrs": {"col": "L", "x": "10", "y": "200"}, "text": "c"},
+            {
+                "id": 2,
+                "tag": "p",
+                "attrs": {"col": "L", "x": "10", "y": "200"},
+                "text": "c",
+            },
         ]
         r = reconstruct_gemini(blocks)
         self.assertEqual(r["text"], "a\nb\nc")
@@ -182,10 +214,20 @@ class SuryaBlockReconstructTest(unittest.TestCase):
             _block(1, [100, 100, 800, 400], label="Text"),
         ]
         blocks = [
-            {"id": 0, "bbox": [150, 150, 700, 350], "label": "Text",
-             "text": "real", "styled": "real"},
-            {"id": 1, "bbox": [200, 600, 700, 700], "label": "Text",
-             "text": "caption on figure", "styled": "caption on figure"},
+            {
+                "id": 0,
+                "bbox": [150, 150, 700, 350],
+                "label": "Text",
+                "text": "real",
+                "styled": "real",
+            },
+            {
+                "id": 1,
+                "bbox": [200, 600, 700, 700],
+                "label": "Text",
+                "text": "caption on figure",
+                "styled": "caption on figure",
+            },
         ]
         r = reconstruct_surya_blocks(_CONTAINERS, blocks, dots_blocks)
         self.assertEqual(r["in_image"], [1])
@@ -193,8 +235,13 @@ class SuryaBlockReconstructTest(unittest.TestCase):
 
     def test_own_picture_block_becomes_image_item(self) -> None:
         blocks = [
-            {"id": 0, "bbox": [150, 400, 700, 900], "label": "Picture",
-             "text": "", "styled": ""},
+            {
+                "id": 0,
+                "bbox": [150, 400, 700, 900],
+                "label": "Picture",
+                "text": "",
+                "styled": "",
+            },
         ]
         r = reconstruct_surya_blocks(_CONTAINERS, blocks, [])
         self.assertEqual(r["items"][0]["role"], "image")
@@ -208,14 +255,30 @@ class SuryaReconstructTest(unittest.TestCase):
             _block(1, [150, 400, 700, 520], label="Text"),
         ]
         lines = [
-            {"id": 0, "bbox": [160, 210, 690, 240], "text": "one",
-             "styled": "one"},
-            {"id": 1, "bbox": [160, 250, 690, 280], "text": "two",
-             "styled": "<em>two</em>"},
-            {"id": 2, "bbox": [160, 410, 690, 440], "text": "other para",
-             "styled": "other para"},
-            {"id": 3, "bbox": [1200, 1900, 1500, 1930], "text": "bleed",
-             "styled": "bleed"},
+            {
+                "id": 0,
+                "bbox": [160, 210, 690, 240],
+                "text": "one",
+                "styled": "one",
+            },
+            {
+                "id": 1,
+                "bbox": [160, 250, 690, 280],
+                "text": "two",
+                "styled": "<em>two</em>",
+            },
+            {
+                "id": 2,
+                "bbox": [160, 410, 690, 440],
+                "text": "other para",
+                "styled": "other para",
+            },
+            {
+                "id": 3,
+                "bbox": [1200, 1900, 1500, 1930],
+                "text": "bleed",
+                "styled": "bleed",
+            },
         ]
         r = reconstruct_surya(_CONTAINERS, lines, dots_blocks)
         self.assertEqual(r["order"], [0, 1])  # paragraph ids = dots blocks

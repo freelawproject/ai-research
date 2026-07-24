@@ -37,9 +37,7 @@ ROUTES: dict[str, Route] = {
     "mistral": Route(name="mistral", supplementals=(("mistral", "block"),)),
     # Two surya variants: line mode gives fine geometry but hallucinates on
     # minimal-text crops; block mode reads with whole-page context.
-    "surya_line": Route(
-        name="surya_line", supplementals=(("surya", "line"),)
-    ),
+    "surya_line": Route(name="surya_line", supplementals=(("surya", "line"),)),
     "surya_block": Route(
         name="surya_block", supplementals=(("surya", "block"),)
     ),

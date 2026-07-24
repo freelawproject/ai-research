@@ -123,20 +123,14 @@ def reading_order(blocks: list[dict]) -> list[dict]:
 
     def key(b: dict) -> tuple[int, float, float]:
         col = (
-            0
-            if b.get("column") == "L"
-            else 1
-            if b.get("column") == "R"
-            else 2
+            0 if b.get("column") == "L" else 1 if b.get("column") == "R" else 2
         )
         bb = b.get("bbox") or [0.0, 0.0, 0.0, 0.0]
         return (col, bb[1], bb[0])
 
     pn = [b for b in blocks if b.get("band") == "page_number"]
     body = sorted((b for b in blocks if b.get("band") == "body"), key=key)
-    foot = sorted(
-        (b for b in blocks if b.get("band") == "footnote"), key=key
-    )
+    foot = sorted((b for b in blocks if b.get("band") == "footnote"), key=key)
     return pn + body + foot
 
 

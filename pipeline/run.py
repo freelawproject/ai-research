@@ -56,7 +56,9 @@ def _stage_main_ocr(ds: Dataset, page_id: str) -> dict | None:
     }
 
 
-def _one_supplemental(ds: Dataset, page_id: str, engine: str, unit: str) -> dict:
+def _one_supplemental(
+    ds: Dataset, page_id: str, engine: str, unit: str
+) -> dict:
     if engine == "mistral":
         raw_m = mistral.load(ds, page_id)
         return {
@@ -67,10 +69,14 @@ def _one_supplemental(ds: Dataset, page_id: str, engine: str, unit: str) -> dict
         }
     if engine == "gemini":
         raw_g = gemini.load(ds, page_id)
-        decoded = gemini.decode(raw_g) if raw_g else {
-            "blocks": [],
-            "parse_error": None,
-        }
+        decoded = (
+            gemini.decode(raw_g)
+            if raw_g
+            else {
+                "blocks": [],
+                "parse_error": None,
+            }
+        )
         return {
             "engine": "gemini",
             "unit": unit,
@@ -169,9 +175,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--data-root", default="data", type=Path)
     parser.add_argument("--dataset", required=True)
-    parser.add_argument(
-        "--route", required=True, choices=[*ROUTES, "all"]
-    )
+    parser.add_argument("--route", required=True, choices=[*ROUTES, "all"])
     args = parser.parse_args()
     names = list(ROUTES) if args.route == "all" else [args.route]
     for name in names:

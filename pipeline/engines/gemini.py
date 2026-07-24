@@ -83,8 +83,7 @@ def _serialize(el: ET.Element) -> str:
 
 def _has_block_descendant(el: ET.Element) -> bool:
     return any(
-        child.tag in BLOCK_TAGS or _has_block_descendant(child)
-        for child in el
+        child.tag in BLOCK_TAGS or _has_block_descendant(child) for child in el
     )
 
 

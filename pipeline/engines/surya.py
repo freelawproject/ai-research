@@ -21,9 +21,7 @@ from pipeline.core.markup import html_to_html
 ENGINE = "surya"
 
 
-def load(
-    ds: Dataset, page_id: str, variant: str = "line"
-) -> dict | None:
+def load(ds: Dataset, page_id: str, variant: str = "line") -> dict | None:
     f = ds.engine_dir(ENGINE) / variant / f"{page_id}.json"
     if not f.exists():
         return None

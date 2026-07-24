@@ -83,8 +83,7 @@ ENGINE_INFO: list[dict[str, str]] = [
         "it. Known caution: on small crops the decoder can hallucinate "
         "(generating more text than the crop holds) and skews toward "
         "math/LaTeX output — the motivation for the three_way route",
-        "runs": "RunPod kit (GPU via vLLM) or locally on CPU "
-        "(transformers)",
+        "runs": "RunPod kit (GPU via vLLM) or locally on CPU (transformers)",
         "license": "Apache 2.0",
         "link": "https://huggingface.co/lightonai/LightOnOCR-2-1B",
         "link_label": "Hugging Face",

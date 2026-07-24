@@ -59,8 +59,7 @@ async def home(request: HttpRequest) -> HttpResponse:
     datasets = []
     for info in data.list_datasets():
         route_pages = {
-            name: set(data.route_pages(info.name, name))
-            for name in ROUTES
+            name: set(data.route_pages(info.name, name)) for name in ROUTES
         }
         pages: set[str] = set()
         for ids in route_pages.values():

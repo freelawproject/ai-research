@@ -76,8 +76,13 @@ _ARTIFACT = {
                 "engine": "dots",
                 "order": [0],
                 "items": [
-                    {"id": 0, "role": "content", "band": "body",
-                     "column": "L", "html": "hello <em>world</em>"}
+                    {
+                        "id": 0,
+                        "role": "content",
+                        "band": "body",
+                        "column": "L",
+                        "html": "hello <em>world</em>",
+                    }
                 ],
                 "text": "hello world",
             },
@@ -87,8 +92,13 @@ _ARTIFACT = {
                     "unit": "block",
                     "order": [0],
                     "items": [
-                        {"id": 0, "role": "content", "band": "body",
-                         "column": "L", "html": "hello <em>world</em>"}
+                        {
+                            "id": 0,
+                            "role": "content",
+                            "band": "body",
+                            "column": "L",
+                            "html": "hello <em>world</em>",
+                        }
                     ],
                     "text": "hello world",
                 }

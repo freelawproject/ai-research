@@ -111,16 +111,14 @@ def _finish(
             "role": p["role"],
             "band": p["band"],
             "column": p["column"],
-            "html": "" if p["role"] == "image" else html_by_id.get(
-                p["id"], ""
-            ),
+            "html": ""
+            if p["role"] == "image"
+            else html_by_id.get(p["id"], ""),
         }
         for p in ordered
     ]
     text = "\n".join(
-        text_by_id.get(p["id"], "")
-        for p in ordered
-        if p["role"] != "image"
+        text_by_id.get(p["id"], "") for p in ordered if p["role"] != "image"
     ).strip()
     return {"order": [p["id"] for p in ordered], "items": items, "text": text}
 

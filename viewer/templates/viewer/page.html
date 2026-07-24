@@ -1,0 +1,221 @@
+{% extends "viewer/base.html" %}
+
+{% block title %}{{ page_id }} · {{ route }} · Case Law Extraction{% endblock %}
+
+{% block header %}
+<nav class="flex items-center gap-1 text-sm" aria-label="Routes">
+  {% for r in routes %}
+    <a href="{{ r.url }}"
+       class="rounded-md px-3 py-1 font-medium {% if r.active %}bg-indigo-600 text-white{% else %}text-neutral-600{% endif %}">
+      {{ r.name }}
+    </a>
+  {% endfor %}
+</nav>
+<div class="ml-auto flex items-center gap-2 text-sm" x-data="pageNav">
+  {% if prev_url %}
+    <a href="{{ prev_url }}" class="rounded-md border border-neutral-300 px-2 py-1 text-neutral-700">←</a>
+  {% endif %}
+  <select x-on:change="go"
+          class="rounded-md border border-neutral-300 bg-white px-2 py-1"
+          aria-label="Page">
+    {% for p in page_options %}
+      <option value="{{ p.url }}" {% if p.selected %}selected{% endif %}>
+        {{ p.id }}
+      </option>
+    {% endfor %}
+  </select>
+  <span class="text-neutral-500">{{ pos }}</span>
+  {% if next_url %}
+    <a href="{{ next_url }}" class="rounded-md border border-neutral-300 px-2 py-1 text-neutral-700">→</a>
+  {% endif %}
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="grid gap-4 lg:grid-cols-2" x-data="pageViewer">
+
+  {# ---- image panel ---- #}
+  <div class="lg:sticky lg:top-4 lg:self-start">
+    <div class="mb-2 flex flex-wrap items-center gap-4 rounded-lg border border-neutral-200 bg-white px-3 py-2">
+      <c-layer-toggle prop="showContainers" toggle="toggleContainers"
+                      label="containers" count="{{ layers.containers|length }}"
+                      chip="border-dashed border-sky-500" />
+      <c-layer-toggle prop="showYoloRaw" toggle="toggleYoloRaw"
+                      label="yolo raw" count="{{ layers.yolo_raw|length }}"
+                      chip="border-dotted border-sky-300" />
+      <c-layer-toggle prop="showDots" toggle="toggleDots"
+                      label="dots blocks" count="{{ layers.dots|length }}"
+                      chip="border-red-600" />
+      <c-layer-toggle prop="showSupp" toggle="toggleSupp"
+                      label="{{ supp.engine }}" count="{{ layers.supp|length }}"
+                      chip="border-fuchsia-700" />
+      <div class="ml-auto flex items-center gap-1">
+        <button x-on:click="zoomOut" aria-label="Zoom out"
+                class="rounded-md border border-neutral-300 px-2 text-neutral-700">−</button>
+        <button x-on:click="zoomReset" aria-label="Reset zoom"
+                class="rounded-md border border-neutral-300 px-2 text-neutral-700">1×</button>
+        <button x-on:click="zoomIn" aria-label="Zoom in"
+                class="rounded-md border border-neutral-300 px-2 text-neutral-700">+</button>
+      </div>
+    </div>
+    <div class="max-h-[85vh] overflow-auto rounded-lg border border-neutral-200 bg-neutral-100 p-2">
+      <div class="relative mx-auto" x-bind:style="wrapStyle">
+        <img src="{{ img_url }}" alt="Redacted render of {{ page_id }}"
+             class="block w-full select-none">
+        <div x-show="showContainers" x-cloak>
+          {% for b in layers.containers %}
+            <div class="ov {{ b.cls }}" style="{{ b.style }}" title="{{ b.title }}"></div>
+          {% endfor %}
+        </div>
+        <div x-show="showYoloRaw" x-cloak>
+          {% for b in layers.yolo_raw %}
+            <div class="ov {{ b.cls }}" style="{{ b.style }}" title="raw {{ b.title }}"></div>
+          {% endfor %}
+        </div>
+        <div x-show="showDots" x-cloak>
+          {% for b in layers.dots %}
+            <div class="ov {{ b.cls }}" style="{{ b.style }}" title="{{ b.title }}"></div>
+          {% endfor %}
+        </div>
+        <div x-show="showSupp" x-cloak>
+          {% for b in layers.supp %}
+            <div class="ov {{ b.cls }}" style="{{ b.style }}" title="{{ b.title }}"></div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {# ---- stages column ---- #}
+  <div class="flex flex-col gap-4">
+
+    <c-stage-card number="1" title="Render"
+                  subtitle="black-redacted canonical page">
+      <dl class="grid grid-cols-2 gap-x-4 text-sm">
+        <dt class="text-neutral-500">size</dt>
+        <dd>{{ stages.render.size.0 }} × {{ stages.render.size.1 }}</dd>
+        <dt class="text-neutral-500">redaction rects</dt>
+        <dd>{{ stages.render.n_redaction_rects }}</dd>
+        <dt class="text-neutral-500">png</dt>
+        <dd class="truncate">{{ stages.render.png }}</dd>
+      </dl>
+    </c-stage-card>
+
+    <c-stage-card number="2" title="Layout"
+                  subtitle="container-YOLO + postprocess">
+      <p class="mb-2 text-sm text-neutral-600">
+        {{ stages.layout.post|length }} containers after postprocess
+        ({{ stages.layout.raw|length }} raw){% if stages.layout.stats %},
+        changes: {{ stages.layout.stats }}{% endif %}
+      </p>
+      <ul class="grid grid-cols-2 gap-1 text-sm sm:grid-cols-3">
+        {% for d in stages.layout.post %}
+          <li class="flex items-center gap-1">
+            <span class="ov-chip ov-{{ d.label }}"></span>
+            {{ d.label }}
+            <span class="text-neutral-400">{{ d.confidence|floatformat:2 }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+      <details class="mt-2 text-sm">
+        <summary class="cursor-pointer text-neutral-600">
+          raw detections before postprocessing
+          ({{ stages.layout.raw|length }}) — overlay: “yolo raw”
+        </summary>
+        <ul class="mt-1 grid grid-cols-2 gap-1 sm:grid-cols-3">
+          {% for d in stages.layout.raw %}
+            <li class="flex items-center gap-1">
+              <span class="ov-chip ov-{{ d.label }} ov-raw"></span>
+              {{ d.label }}
+              <span class="text-neutral-400">{{ d.confidence|floatformat:2 }}</span>
+            </li>
+          {% endfor %}
+        </ul>
+      </details>
+    </c-stage-card>
+
+    <c-stage-card number="3" title="Main OCR — dots"
+                  subtitle="{{ stages.main_ocr.blocks|length }} blocks · text verbatim">
+      <ol class="flex max-h-[60vh] flex-col gap-2 overflow-auto text-sm">
+        {% for b in stages.main_ocr.blocks %}
+          <li class="rounded-md border border-neutral-100 bg-neutral-50 p-2">
+            <span class="mr-1 rounded bg-red-600/10 px-1 font-mono text-xs text-red-700">
+              #{{ b.id }} {{ b.label }}
+            </span>
+            <span class="whitespace-pre-wrap">{{ b.text }}</span>
+          </li>
+        {% endfor %}
+      </ol>
+    </c-stage-card>
+
+    <c-stage-card number="4" title="Supplemental — {{ supp.engine }}"
+                  subtitle="unit: {{ supp.unit }}">
+      {% if supp.engine == "gemini" %}
+        {% if supp.refusal %}
+          <p class="rounded-md bg-amber-50 p-2 text-sm text-amber-800">
+            Refusal: no XML for this page — the route falls back at the
+            compare stage.
+          </p>
+        {% else %}
+          {% if supp.parse_error %}
+            <p class="mb-2 rounded-md bg-red-50 p-2 text-sm text-red-700">
+              XML parse error: {{ supp.parse_error }}
+            </p>
+          {% endif %}
+          <p class="mb-2 text-sm text-neutral-500">
+            Decoded blocks — XML tags flattened for reading. The verbatim
+            model output is the raw XML below.
+          </p>
+          <ol class="flex max-h-[50vh] flex-col gap-2 overflow-auto text-sm">
+            {% for b in supp.blocks %}
+              <li class="rounded-md border border-neutral-100 bg-neutral-50 p-2">
+                <span class="mr-1 rounded bg-fuchsia-700/10 px-1 font-mono text-xs text-fuchsia-800">
+                  {{ b.tag }}{% if b.attrs.col %} · {{ b.attrs.col }}{% endif %}
+                </span>
+                <span class="whitespace-pre-wrap">{{ b.text }}</span>
+              </li>
+            {% endfor %}
+          </ol>
+          <details class="mt-2 text-sm">
+            <summary class="cursor-pointer text-neutral-600">raw XML</summary>
+            <pre class="mt-1 max-h-[40vh] overflow-auto rounded-md bg-neutral-900 p-2 text-xs text-neutral-100">{{ supp.raw_xml }}</pre>
+          </details>
+        {% endif %}
+      {% elif supp.engine == "surya" %}
+        <p class="mb-2 text-sm text-neutral-600">
+          {{ supp.lines|length }} lines, HTML verbatim as the model returned
+          it — lines outside every dots block are dropped as bleed-through
+          at the reconstruct stage.
+        </p>
+        <ol class="flex max-h-[60vh] flex-col gap-1 overflow-auto text-sm">
+          {% for line in supp.lines %}
+            <li class="flex gap-2 rounded border border-neutral-100 bg-neutral-50 px-2 py-1">
+              <span class="font-mono text-xs text-emerald-700">{{ line.id }}</span>
+              <span class="whitespace-pre-wrap font-mono text-xs">{{ line.html }}</span>
+            </li>
+          {% endfor %}
+        </ol>
+      {% else %}
+        <p class="mb-2 text-sm text-neutral-500">
+          Block text verbatim as the model returned it (Markdown included).
+        </p>
+        <ol class="flex max-h-[60vh] flex-col gap-2 overflow-auto text-sm">
+          {% for b in supp.blocks %}
+            <li class="rounded-md border border-neutral-100 bg-neutral-50 p-2">
+              <span class="mr-1 rounded bg-fuchsia-700/10 px-1 font-mono text-xs text-fuchsia-800">
+                #{{ b.id }} {{ b.type }}
+              </span>
+              <span class="whitespace-pre-wrap">{{ b.text }}</span>
+            </li>
+          {% endfor %}
+        </ol>
+      {% endif %}
+    </c-stage-card>
+
+    <section class="rounded-lg border border-dashed border-neutral-300 p-4 text-sm text-neutral-500">
+      Stages 5–8 (normalize · reconstruct · compare/tiebreak · assemble)
+      land in upcoming milestones.
+    </section>
+  </div>
+</div>
+{% endblock %}

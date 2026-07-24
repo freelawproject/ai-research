@@ -10,3 +10,17 @@ services:
       - .:/opt/extraction
     environment:
       - DEBUG=true
+
+  # Dev-only: rebuild tailwind.css on template/JS changes. The built CSS is
+  # committed, so plain `docker compose up` never needs node.
+  tailwind:
+    image: node:22-alpine
+    profiles: ["dev"]
+    working_dir: /app
+    command: >
+      npx -y tailwindcss@3.4.17
+      -c viewer/static_src/tailwind.config.js
+      -i viewer/static_src/input.css
+      -o viewer/static/viewer/css/tailwind.css --watch
+    volumes:
+      - .:/app

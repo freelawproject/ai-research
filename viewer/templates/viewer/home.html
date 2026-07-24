@@ -1,21 +1,53 @@
 {% extends "viewer/base.html" %}
 
 {% block content %}
-<h1>Case Law Extraction — Pipeline Viewer</h1>
+<h1 class="mb-4 text-xl font-semibold">Samples</h1>
+
 {% if datasets %}
-  <ul>
-    {% for d in datasets %}
-      <li>
-        <strong>{{ d.name }}</strong> —
-        {{ d.n_golden }} golden page{{ d.n_golden|pluralize }};
-        engines: {{ d.engines|join:", " }}
-      </li>
-    {% endfor %}
-  </ul>
+  {% for d in datasets %}
+    <section class="mb-6 rounded-lg border border-neutral-200 bg-white">
+      <header class="border-b border-neutral-100 px-4 py-2">
+        <h2 class="font-semibold">{{ d.info.name }}</h2>
+        <p class="text-sm text-neutral-600">
+          {{ d.rows|length }} sample{{ d.rows|length|pluralize }} ·
+          engines: {{ d.info.engines|join:", " }}
+        </p>
+      </header>
+      {% if d.rows %}
+        <ul class="divide-y divide-neutral-100">
+          {% for row in d.rows %}
+            <li class="flex flex-wrap items-center gap-3 px-4 py-2">
+              <span class="min-w-48 font-mono text-sm">{{ row.id }}</span>
+              <span class="flex gap-2">
+                {% for r in row.routes %}
+                  {% if r.url %}
+                    <a href="{{ r.url }}"
+                       class="rounded-md border border-indigo-600 px-3 py-0.5 text-sm font-medium text-indigo-700 hover:bg-indigo-600 hover:text-white">
+                      {{ r.name }}
+                    </a>
+                  {% else %}
+                    <span class="rounded-md border border-neutral-200 px-3 py-0.5 text-sm text-neutral-300">
+                      {{ r.name }}
+                    </span>
+                  {% endif %}
+                {% endfor %}
+              </span>
+            </li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p class="px-4 py-3 text-sm text-neutral-600">
+          No artifacts yet — run
+          <code>uv run python -m pipeline.run --dataset {{ d.info.name }} --route all</code>.
+        </p>
+      {% endif %}
+    </section>
+  {% endfor %}
 {% else %}
-  <p>
+  <p class="text-neutral-600">
     No datasets found. Place the data folder at <code>./data/</code>
-    (see the README for the expected layout).
+    (see the README for the expected layout), then run
+    <code>uv run python -m pipeline.run --dataset sample30 --route all</code>.
   </p>
 {% endif %}
 {% endblock %}

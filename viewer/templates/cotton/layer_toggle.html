@@ -1,0 +1,9 @@
+<c-vars prop toggle label count chip />
+<label class="flex cursor-pointer items-center gap-2 text-sm">
+  <input type="checkbox"
+         x-bind:checked="{{ prop }}"
+         x-on:change="{{ toggle }}">
+  <span class="inline-block h-3 w-3 rounded-sm border-2 {{ chip }}"></span>
+  <span>{{ label }}</span>
+  <span class="text-neutral-400">({{ count }})</span>
+</label>

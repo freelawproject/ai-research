@@ -1,0 +1,13 @@
+<c-vars number title subtitle="" />
+<section class="rounded-lg border border-neutral-200 bg-white">
+  <header class="flex items-baseline gap-2 border-b border-neutral-100 px-4 py-2">
+    <span class="rounded-full bg-indigo-600 px-2 text-sm font-semibold text-white">
+      {{ number }}
+    </span>
+    <h2 class="font-semibold">{{ title }}</h2>
+    {% if subtitle %}
+      <span class="text-sm text-neutral-500">{{ subtitle }}</span>
+    {% endif %}
+  </header>
+  <div class="px-4 py-3">{{ slot }}</div>
+</section>

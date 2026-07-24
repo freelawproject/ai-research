@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+  display: none !important;
+}
+
+/* Overlay boxes on the page image. One class per container label so the
+   image panel and the stage cards share a color language. */
+.ov {
+  position: absolute;
+  box-sizing: border-box;
+  border: 1.5px solid transparent;
+}
+.ov-cont {
+  border-style: dashed;
+}
+.ov-raw {
+  border-style: dotted;
+  opacity: 0.65;
+}
+.ov-chip {
+  display: inline-block;
+  width: 0.75rem;
+  height: 0.75rem;
+  border: 2px dashed transparent;
+  border-radius: 2px;
+}
+.ov-column { border-color: #0ea5e9; }
+.ov-footnote_block { border-color: #0d9488; }
+.ov-heading { border-color: #84cc16; }
+.ov-blockquote { border-color: #f97316; }
+.ov-page_number { border-color: #ef4444; }
+.ov-caption { border-color: #8b5cf6; }
+.ov-image { border-color: #ec4899; }
+.ov-table { border-color: #f59e0b; }
+.ov-dots { border-color: #dc2626; border-style: solid; }
+.ov-mistral { border-color: #a21caf; border-style: solid; }
+.ov-surya { border-color: #059669; border-style: solid; }
+.ov-gemini { border-color: #a21caf; border-style: solid; }

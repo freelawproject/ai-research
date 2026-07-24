@@ -22,6 +22,7 @@ ALLOWED_HOSTS = env.list(
 
 INSTALLED_APPS = [
     "django.contrib.staticfiles",
+    "django_cotton",
     "viewer",
 ]
 

@@ -5,10 +5,17 @@
 {% block header %}
 <nav class="flex items-center gap-1 text-sm" aria-label="Routes">
   {% for r in routes %}
-    <a href="{{ r.url }}"
-       class="rounded-md px-3 py-1 font-medium {% if r.active %}bg-indigo-600 text-white{% else %}text-neutral-600{% endif %}">
-      {{ r.name }}
-    </a>
+    {% if r.name == "three_way" %}
+      <a href="{{ r.url }}"
+         class="rounded-md px-3 py-1 font-medium {% if r.active %}bg-emerald-600 text-white{% else %}text-emerald-700{% endif %}">
+        {{ r.name }}
+      </a>
+    {% else %}
+      <a href="{{ r.url }}"
+         class="rounded-md px-3 py-1 font-medium {% if r.active %}bg-indigo-600 text-white{% else %}text-neutral-600{% endif %}">
+        {{ r.name }}
+      </a>
+    {% endif %}
   {% endfor %}
 </nav>
 <div class="ml-auto flex items-center gap-2 text-sm" x-data="pageNav">
@@ -35,7 +42,7 @@
 <div class="grid gap-4 lg:grid-cols-2" x-data="pageViewer">
 
   {# ---- image panel ---- #}
-  <div class="lg:sticky lg:top-4 lg:self-start">
+  <div class="lg:sticky lg:top-14 lg:self-start">
     <div class="mb-2 flex flex-wrap items-center gap-4 rounded-lg border border-neutral-200 bg-white px-3 py-2">
       <c-layer-toggle prop="showContainers" toggle="toggleContainers"
                       label="containers" count="{{ layers.containers|length }}"
@@ -46,9 +53,21 @@
       <c-layer-toggle prop="showDots" toggle="toggleDots"
                       label="dots blocks" count="{{ layers.dots|length }}"
                       chip="border-red-600" />
-      <c-layer-toggle prop="showSupp" toggle="toggleSupp"
-                      label="{{ supp.engine }}" count="{{ layers.supp|length }}"
-                      chip="border-fuchsia-700" />
+      {% for s in supps %}
+        <c-layer-toggle prop="{{ s.prop }}" toggle="{{ s.toggle }}"
+                        label="{{ s.label }}" count="{{ s.boxes|length }}"
+                        chip="{{ s.chip }}" />
+      {% endfor %}
+      {% if layers.dropped %}
+        <c-layer-toggle prop="showDropped" toggle="toggleDropped"
+                        label="dropped lines" count="{{ layers.dropped|length }}"
+                        chip="border-dashed border-red-600 bg-red-100" />
+      {% endif %}
+      {% if layers.in_image %}
+        <c-layer-toggle prop="showInImage" toggle="toggleInImage"
+                        label="in-image text" count="{{ layers.in_image|length }}"
+                        chip="border-dashed border-amber-600 bg-amber-100" />
+      {% endif %}
       <div class="ml-auto flex items-center gap-1">
         <button x-on:click="zoomOut" aria-label="Zoom out"
                 class="rounded-md border border-neutral-300 px-2 text-neutral-700">−</button>
@@ -77,9 +96,21 @@
             <div class="ov {{ b.cls }}" style="{{ b.style }}" title="{{ b.title }}"></div>
           {% endfor %}
         </div>
-        <div x-show="showSupp" x-cloak>
-          {% for b in layers.supp %}
-            <div class="ov {{ b.cls }}" style="{{ b.style }}" title="{{ b.title }}"></div>
+        {% for s in supps %}
+          <div x-show="{{ s.prop }}" x-cloak>
+            {% for b in s.boxes %}
+              <div class="ov {{ b.cls }}" style="{{ b.style }}" title="{{ b.title }}"></div>
+            {% endfor %}
+          </div>
+        {% endfor %}
+        <div x-show="showDropped" x-cloak>
+          {% for b in layers.dropped %}
+            <div class="ov {{ b.cls }}" style="{{ b.style }}" title="dropped {{ b.title }}"></div>
+          {% endfor %}
+        </div>
+        <div x-show="showInImage" x-cloak>
+          {% for b in layers.in_image %}
+            <div class="ov {{ b.cls }}" style="{{ b.style }}" title="in-image {{ b.title }}"></div>
           {% endfor %}
         </div>
       </div>
@@ -132,6 +163,9 @@
           {% endfor %}
         </ul>
       </details>
+      {% if raws.layout %}
+        <c-raw-output label="container-YOLO JSON">{{ raws.layout }}</c-raw-output>
+      {% endif %}
     </c-stage-card>
 
     <c-stage-card number="3" title="Main OCR — dots"
@@ -146,75 +180,189 @@
           </li>
         {% endfor %}
       </ol>
+      {% if raws.dots %}
+        <c-raw-output label="dots JSON">{{ raws.dots }}</c-raw-output>
+      {% endif %}
     </c-stage-card>
 
-    <c-stage-card number="4" title="Supplemental — {{ supp.engine }}"
-                  subtitle="unit: {{ supp.unit }}">
-      {% if supp.engine == "gemini" %}
-        {% if supp.refusal %}
-          <p class="rounded-md bg-amber-50 p-2 text-sm text-amber-800">
-            Refusal: no XML for this page — the route falls back at the
-            compare stage.
-          </p>
-        {% else %}
-          {% if supp.parse_error %}
-            <p class="mb-2 rounded-md bg-red-50 p-2 text-sm text-red-700">
-              XML parse error: {{ supp.parse_error }}
+    {% for s in supps %}
+      <c-stage-card number="4" title="Supplemental — {{ s.label }}"
+                    subtitle="unit: {{ s.supp.unit }}">
+        {% if s.supp.engine == "gemini" %}
+          {% if s.supp.refusal %}
+            <p class="rounded-md bg-amber-50 p-2 text-sm text-amber-800">
+              Refusal: no XML for this page — the route falls back at the
+              compare stage.
             </p>
+          {% else %}
+            {% if s.supp.parse_error %}
+              <p class="mb-2 rounded-md bg-red-50 p-2 text-sm text-red-700">
+                XML parse error: {{ s.supp.parse_error }}
+              </p>
+            {% endif %}
+            <p class="mb-2 text-sm text-neutral-500">
+              Decoded blocks — XML tags flattened for reading. The verbatim
+              model output is the raw XML below.
+            </p>
+            <ol class="flex max-h-[50vh] flex-col gap-2 overflow-auto text-sm">
+              {% for b in s.items %}
+                <li class="rounded-md border border-neutral-100 bg-neutral-50 p-2">
+                  <span class="mr-1 rounded bg-fuchsia-700/10 px-1 font-mono text-xs text-fuchsia-800">
+                    {{ b.tag }}{% if b.attrs.col %} · {{ b.attrs.col }}{% endif %}
+                  </span>
+                  <span class="whitespace-pre-wrap">{{ b.text }}</span>
+                </li>
+              {% endfor %}
+            </ol>
+            {% if s.raw %}
+              <c-raw-output label="gemini XML">{{ s.raw }}</c-raw-output>
+            {% endif %}
           {% endif %}
-          <p class="mb-2 text-sm text-neutral-500">
-            Decoded blocks — XML tags flattened for reading. The verbatim
-            model output is the raw XML below.
+        {% elif s.supp.engine == "surya" %}
+          <p class="mb-2 text-sm text-neutral-600">
+            {{ s.items|length }} {{ s.supp.unit }}{{ s.items|length|pluralize }},
+            HTML verbatim as the model returned it.
+            {% if s.supp.unit == "line" %}
+              Lines matching no dots block are dropped as bleed-through at
+              the reconstruct stage.
+            {% endif %}
           </p>
-          <ol class="flex max-h-[50vh] flex-col gap-2 overflow-auto text-sm">
-            {% for b in supp.blocks %}
+          <ol class="flex max-h-[60vh] flex-col gap-1 overflow-auto text-sm">
+            {% for line in s.items %}
+              <li class="flex gap-2 rounded border border-neutral-100 bg-neutral-50 px-2 py-1">
+                <span class="font-mono text-xs text-emerald-700">{{ line.id }} {{ line.label }}</span>
+                <span class="whitespace-pre-wrap font-mono text-xs">{{ line.html }}</span>
+              </li>
+            {% endfor %}
+          </ol>
+          {% if s.raw %}
+            <c-raw-output label="surya {{ s.supp.unit }} JSON">{{ s.raw }}</c-raw-output>
+          {% endif %}
+        {% else %}
+          <p class="mb-2 text-sm text-neutral-500">
+            Block text verbatim as the model returned it (Markdown included).
+          </p>
+          <ol class="flex max-h-[60vh] flex-col gap-2 overflow-auto text-sm">
+            {% for b in s.items %}
               <li class="rounded-md border border-neutral-100 bg-neutral-50 p-2">
                 <span class="mr-1 rounded bg-fuchsia-700/10 px-1 font-mono text-xs text-fuchsia-800">
-                  {{ b.tag }}{% if b.attrs.col %} · {{ b.attrs.col }}{% endif %}
+                  #{{ b.id }} {{ b.type }}
                 </span>
                 <span class="whitespace-pre-wrap">{{ b.text }}</span>
               </li>
             {% endfor %}
           </ol>
-          <details class="mt-2 text-sm">
-            <summary class="cursor-pointer text-neutral-600">raw XML</summary>
-            <pre class="mt-1 max-h-[40vh] overflow-auto rounded-md bg-neutral-900 p-2 text-xs text-neutral-100">{{ supp.raw_xml }}</pre>
-          </details>
+          {% if s.raw %}
+            <c-raw-output label="mistral JSON">{{ s.raw }}</c-raw-output>
+          {% endif %}
         {% endif %}
-      {% elif supp.engine == "surya" %}
-        <p class="mb-2 text-sm text-neutral-600">
-          {{ supp.lines|length }} lines, HTML verbatim as the model returned
-          it — lines outside every dots block are dropped as bleed-through
-          at the reconstruct stage.
-        </p>
-        <ol class="flex max-h-[60vh] flex-col gap-1 overflow-auto text-sm">
-          {% for line in supp.lines %}
-            <li class="flex gap-2 rounded border border-neutral-100 bg-neutral-50 px-2 py-1">
-              <span class="font-mono text-xs text-emerald-700">{{ line.id }}</span>
-              <span class="whitespace-pre-wrap font-mono text-xs">{{ line.html }}</span>
-            </li>
+      </c-stage-card>
+    {% endfor %}
+
+    {% if recon %}
+      <c-stage-card number="5" title="Reconstruct"
+                    subtitle="reading order via containers · raw text">
+        {% for s in supps %}
+          {% if s.dropped %}
+            <p class="mb-2 rounded-md bg-red-50 p-2 text-sm text-red-800">
+              {{ s.label }}: {{ s.dropped|length }}
+              line{{ s.dropped|length|pluralize }} dropped as bleed-through
+              (matched no dots block) — overlay: “dropped lines”.
+            </p>
+          {% endif %}
+          {% if s.in_image %}
+            <p class="mb-2 rounded-md bg-amber-50 p-2 text-sm text-amber-800">
+              {{ s.label }}: {{ s.in_image|length }}
+              item{{ s.in_image|length|pluralize }} inside a dots image
+              block — in-image text is omitted; the image renders as-is.
+              Overlay: “in-image text”.
+            </p>
+          {% endif %}
+          {% if s.n_omitted %}
+            <p class="mb-2 rounded-md bg-amber-50 p-2 text-sm text-amber-800">
+              {{ s.label }}: {{ s.n_omitted }} image-tag
+              block{{ s.n_omitted|pluralize }} omitted from the reading
+              order (in-image text).
+            </p>
+          {% endif %}
+        {% endfor %}
+        <div class="grid gap-3 {% if supps|length > 1 %}xl:grid-cols-3{% else %}xl:grid-cols-2{% endif %}"
+             x-data="reconSync">
+          <div>
+            <h3 class="mb-1 text-sm font-medium text-neutral-500">
+              dots (main)
+            </h3>
+            <ol x-on:scroll="sync"
+                class="recon-scroll flex max-h-[60vh] flex-col gap-1 overflow-auto text-sm">
+              {% for it in recon.main %}
+                <li class="rounded border border-neutral-100 bg-neutral-50 px-2 py-1">
+                  <span class="mr-1 rounded bg-neutral-200 px-1 font-mono text-xs text-neutral-600">{{ it.role }}{% if it.column %} · {{ it.column }}{% endif %}</span>
+                  {% if it.role == "image" %}
+                    <span class="italic text-neutral-400">[image — rendered as-is in the final]</span>
+                  {% else %}
+                    <span class="whitespace-pre-wrap">{{ it.html|safe }}</span>
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ol>
+          </div>
+          {% for s in supps %}
+            <div>
+              <h3 class="mb-1 text-sm font-medium text-neutral-500">
+                {{ s.label }} (supplemental)
+              </h3>
+              <ol x-on:scroll="sync"
+                  class="recon-scroll flex max-h-[60vh] flex-col gap-1 overflow-auto text-sm">
+                {% for it in s.recon_items %}
+                  <li class="rounded border border-neutral-100 bg-neutral-50 px-2 py-1">
+                    <span class="mr-1 rounded bg-neutral-200 px-1 font-mono text-xs text-neutral-600">{{ it.role }}{% if it.column %} · {{ it.column }}{% endif %}</span>
+                    {% if it.role == "image" %}
+                      <span class="italic text-neutral-400">[image — rendered as-is in the final]</span>
+                    {% else %}
+                      <span class="whitespace-pre-wrap">{{ it.html|safe }}</span>
+                    {% endif %}
+                  </li>
+                {% endfor %}
+              </ol>
+              {% if s.dropped %}
+                <details class="mt-2 text-sm">
+                  <summary class="cursor-pointer text-red-700">
+                    dropped lines ({{ s.dropped|length }})
+                  </summary>
+                  <ol class="mt-1 flex flex-col gap-1">
+                    {% for line in s.dropped %}
+                      <li class="rounded border border-red-100 bg-red-50 px-2 py-1">
+                        <span class="font-mono text-xs text-red-700">{{ line.id }}</span>
+                        <span class="whitespace-pre-wrap">{{ line.text }}</span>
+                      </li>
+                    {% endfor %}
+                  </ol>
+                </details>
+              {% endif %}
+              {% if s.in_image %}
+                <details class="mt-2 text-sm">
+                  <summary class="cursor-pointer text-amber-700">
+                    in-image items ({{ s.in_image|length }})
+                  </summary>
+                  <ol class="mt-1 flex flex-col gap-1">
+                    {% for line in s.in_image %}
+                      <li class="rounded border border-amber-100 bg-amber-50 px-2 py-1">
+                        <span class="font-mono text-xs text-amber-700">{{ line.id }}</span>
+                        <span class="whitespace-pre-wrap">{{ line.text }}</span>
+                      </li>
+                    {% endfor %}
+                  </ol>
+                </details>
+              {% endif %}
+            </div>
           {% endfor %}
-        </ol>
-      {% else %}
-        <p class="mb-2 text-sm text-neutral-500">
-          Block text verbatim as the model returned it (Markdown included).
-        </p>
-        <ol class="flex max-h-[60vh] flex-col gap-2 overflow-auto text-sm">
-          {% for b in supp.blocks %}
-            <li class="rounded-md border border-neutral-100 bg-neutral-50 p-2">
-              <span class="mr-1 rounded bg-fuchsia-700/10 px-1 font-mono text-xs text-fuchsia-800">
-                #{{ b.id }} {{ b.type }}
-              </span>
-              <span class="whitespace-pre-wrap">{{ b.text }}</span>
-            </li>
-          {% endfor %}
-        </ol>
-      {% endif %}
-    </c-stage-card>
+        </div>
+      </c-stage-card>
+    {% endif %}
 
     <section class="rounded-lg border border-dashed border-neutral-300 p-4 text-sm text-neutral-500">
-      Stages 5–8 (normalize · reconstruct · compare/tiebreak · assemble)
-      land in upcoming milestones.
+      Stages 6 (normalize), 7 ({% if artifact.tiebreak %}compare + {{ artifact.tiebreak }} tiebreak{% else %}three-way bbox-aligned majority vote — no tiebreaker{% endif %})
+      and 8 (assemble) land in upcoming milestones.
     </section>
   </div>
 </div>

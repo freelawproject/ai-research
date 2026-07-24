@@ -76,6 +76,30 @@ def load_artifact(dataset: str, route: str, page: str) -> dict:
     return json.loads(f.read_text(encoding="utf-8"))
 
 
+def engine_raw(
+    dataset: str, page: str, engine: str, variant: str | None = None
+) -> str | None:
+    """The engine's raw output file for a page. JSON is pretty-printed for
+    reading (keys/values byte-identical); everything else is verbatim."""
+    base = settings.DATASETS_ROOT / _safe(dataset) / "engines" / _safe(engine)
+    if variant:
+        base = base / _safe(variant)
+    for ext in ("json", "xml"):
+        f = base / f"{_safe(page)}.{ext}"
+        if not f.exists():
+            continue
+        content = f.read_text(encoding="utf-8", errors="replace")
+        if ext == "json":
+            try:
+                return json.dumps(
+                    json.loads(content), indent=2, ensure_ascii=False
+                )
+            except ValueError:
+                pass
+        return content
+    return None
+
+
 def page_png_path(dataset: str, page: str) -> Path:
     f = (
         settings.DATASETS_ROOT

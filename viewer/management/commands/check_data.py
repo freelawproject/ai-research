@@ -75,7 +75,7 @@ class Command(BaseCommand):
                 )
                 mark = "✓" if n else "—"
                 self.stdout.write(f"  {mark} engines/{engine}: {n} ({hint})")
-            for route in sorted(ROUTES):
+            for route in ROUTES:
                 d = settings.ARTIFACTS_ROOT / name / route
                 n = self._count(d, "*.json")
                 if n:

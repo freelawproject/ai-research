@@ -21,10 +21,17 @@
               <span class="flex gap-2">
                 {% for r in row.routes %}
                   {% if r.url %}
-                    <a href="{{ r.url }}"
-                       class="rounded-md border border-indigo-600 px-3 py-0.5 text-sm font-medium text-indigo-700 hover:bg-indigo-600 hover:text-white">
-                      {{ r.name }}
-                    </a>
+                    {% if r.name == "three_way" %}
+                      <a href="{{ r.url }}"
+                         class="rounded-md border border-emerald-600 px-3 py-0.5 text-sm font-medium text-emerald-700 hover:bg-emerald-600 hover:text-white">
+                        {{ r.name }}
+                      </a>
+                    {% else %}
+                      <a href="{{ r.url }}"
+                         class="rounded-md border border-indigo-600 px-3 py-0.5 text-sm font-medium text-indigo-700 hover:bg-indigo-600 hover:text-white">
+                        {{ r.name }}
+                      </a>
+                    {% endif %}
                   {% else %}
                     <span class="rounded-md border border-neutral-200 px-3 py-0.5 text-sm text-neutral-300">
                       {{ r.name }}
@@ -50,4 +57,31 @@
     <code>uv run python -m pipeline.run --dataset sample30 --route all</code>.
   </p>
 {% endif %}
+
+<h2 class="mb-2 mt-8 text-xl font-semibold">Models</h2>
+<section class="rounded-lg border border-neutral-200 bg-white">
+  {% for m in engine_info %}
+    <details class="border-b border-neutral-100 px-4 py-2 last:border-b-0">
+      <summary class="cursor-pointer">
+        <span class="font-medium">{{ m.name }}</span>
+        <span class="text-sm text-neutral-500">— {{ m.role }}</span>
+      </summary>
+      <dl class="mb-1 mt-2 grid gap-x-4 gap-y-1 text-sm sm:grid-cols-[9rem_1fr]">
+        <dt class="text-neutral-500">architecture</dt>
+        <dd>{{ m.architecture }}</dd>
+        <dt class="text-neutral-500">bbox source</dt>
+        <dd>{{ m.bbox }}</dd>
+        <dt class="text-neutral-500">runs on</dt>
+        <dd>{{ m.runs }}</dd>
+        <dt class="text-neutral-500">license</dt>
+        <dd>{{ m.license }}</dd>
+        <dt class="text-neutral-500">docs</dt>
+        <dd>
+          <a href="{{ m.link }}" class="underline" target="_blank"
+             rel="noopener noreferrer">{{ m.link_label }}</a>
+        </dd>
+      </dl>
+    </details>
+  {% endfor %}
+</section>
 {% endblock %}

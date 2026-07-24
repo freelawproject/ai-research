@@ -36,6 +36,16 @@
 .ov-image { border-color: #ec4899; }
 .ov-table { border-color: #f59e0b; }
 .ov-dots { border-color: #dc2626; border-style: solid; }
+.ov-dropped {
+  border-color: #dc2626;
+  border-style: dashed;
+  background: rgba(220, 38, 38, 0.15);
+}
+.ov-inimg {
+  border-color: #d97706;
+  border-style: dashed;
+  background: rgba(217, 119, 6, 0.15);
+}
 .ov-mistral { border-color: #a21caf; border-style: solid; }
 .ov-surya { border-color: #059669; border-style: solid; }
 .ov-gemini { border-color: #a21caf; border-style: solid; }

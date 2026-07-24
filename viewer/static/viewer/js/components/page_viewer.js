@@ -10,6 +10,9 @@ document.addEventListener("alpine:init", () => {
     showYoloRaw: false,
     showDots: true,
     showSupp: false,
+    showSupp2: false,
+    showDropped: true,
+    showInImage: true,
     zoom: 100,
 
     init() {
@@ -23,6 +26,13 @@ document.addEventListener("alpine:init", () => {
         }
         if (typeof saved.dots === "boolean") this.showDots = saved.dots;
         if (typeof saved.supp === "boolean") this.showSupp = saved.supp;
+        if (typeof saved.supp2 === "boolean") this.showSupp2 = saved.supp2;
+        if (typeof saved.dropped === "boolean") {
+          this.showDropped = saved.dropped;
+        }
+        if (typeof saved.inImage === "boolean") {
+          this.showInImage = saved.inImage;
+        }
         const z = parseInt(localStorage.getItem(LS_ZOOM) || "100", 10);
         if (z >= 50 && z <= 400) this.zoom = z;
       } catch (e) {
@@ -38,6 +48,9 @@ document.addEventListener("alpine:init", () => {
           yoloRaw: this.showYoloRaw,
           dots: this.showDots,
           supp: this.showSupp,
+          supp2: this.showSupp2,
+          dropped: this.showDropped,
+          inImage: this.showInImage,
         })
       );
       localStorage.setItem(LS_ZOOM, String(this.zoom));
@@ -57,6 +70,18 @@ document.addEventListener("alpine:init", () => {
     },
     toggleSupp() {
       this.showSupp = !this.showSupp;
+      this.persist();
+    },
+    toggleSupp2() {
+      this.showSupp2 = !this.showSupp2;
+      this.persist();
+    },
+    toggleDropped() {
+      this.showDropped = !this.showDropped;
+      this.persist();
+    },
+    toggleInImage() {
+      this.showInImage = !this.showInImage;
       this.persist();
     },
 
@@ -81,6 +106,28 @@ document.addEventListener("alpine:init", () => {
   Alpine.data("pageNav", () => ({
     go(event) {
       window.location.href = event.target.value;
+    },
+  }));
+
+  // Synced scrolling for the reconstruct card: scrolling any panel scrolls
+  // all panels proportionally (top meets top, bottom meets bottom, even
+  // when the texts differ in length).
+  Alpine.data("reconSync", () => ({
+    locked: false,
+
+    sync(event) {
+      if (this.locked) return;
+      this.locked = true;
+      const src = event.target;
+      const range = src.scrollHeight - src.clientHeight;
+      const ratio = range > 0 ? src.scrollTop / range : 0;
+      this.$root.querySelectorAll(".recon-scroll").forEach((el) => {
+        if (el === src) return;
+        el.scrollTop = ratio * (el.scrollHeight - el.clientHeight);
+      });
+      requestAnimationFrame(() => {
+        this.locked = false;
+      });
     },
   }));
 });

@@ -10,6 +10,7 @@ from __future__ import annotations
 import json
 
 from pipeline.core.config import Dataset
+from pipeline.core.markup import md_to_html
 
 ENGINE = "dots"
 
@@ -22,16 +23,19 @@ def load(ds: Dataset, page_id: str) -> dict | None:
 
 
 def blocks(raw: dict) -> list[dict]:
-    """The decoded block list: [{id, order, label, bbox, text}]."""
+    """The decoded block list: [{id, order, label, bbox, text, styled}].
+    `styled` = the Markdown styling converted to sanitized HTML."""
     out = []
     for i, r in enumerate(raw.get("regions", [])):
+        text = r.get("text", "")
         out.append(
             {
                 "id": i,
                 "order": r.get("order", i),
                 "label": r.get("label", ""),
                 "bbox": r.get("bbox"),
-                "text": r.get("text", ""),
+                "text": text,
+                "styled": md_to_html(text),
             }
         )
     return out

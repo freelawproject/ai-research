@@ -4,19 +4,29 @@ Gemini outputs are generated UPSTREAM (redacted PDF with an embedded text
 layer + prompt & clues) and consumed here as input data: one tagged XML
 document per page, no bboxes. A missing or empty file is a refusal.
 
-Decode walks the XML in document order and emits one block per block-level
-tag; detail tags (citation, em, footnotemark, ...) stay inline in the block
-text and are preserved verbatim in the raw XML for later stages.
+Decode must NOT lose content: known block tags become blocks, structural
+wrappers (opinion, footnotes, ...) are recursed into, and ANY other element
+that carries text (author, attorney, ...) is emitted as a block with its
+tag preserved — unknown tags are never silently dropped. Detail tags stay
+inline: `styled` keeps em/footnotemark as HTML, other inline tags
+(citation, a, ...) are unwrapped to their text.
+
+Blocks carry the model's `col`/`x`/`y` attributes when present. The
+coordinates are not to scale, but their relative order is a reading-order
+clue used by reconstruction.
 """
 
 from __future__ import annotations
 
+import html
 import xml.etree.ElementTree as ET
 
 from pipeline.core.config import Dataset
 
 ENGINE = "gemini"
 
+# NOTE: `img` is a BLOCK tag even though it nests <p> children — treating
+# it as a wrapper would leak in-image text out as ordinary paragraphs.
 BLOCK_TAGS = frozenset(
     {
         "pagenumber",
@@ -26,10 +36,23 @@ BLOCK_TAGS = frozenset(
         "heading",
         "caption",
         "footnote",
+        "img",
         "image",
         "table",
     }
 )
+
+IMG_TAGS = frozenset({"img", "image"})
+
+# Inline detail tags rendered as presentation HTML; anything else unwraps.
+_INLINE_HTML = {
+    "em": "em",
+    "strong": "strong",
+    "u": "u",
+    "footnotemark": "sup",
+    "sup": "sup",
+    "sub": "sub",
+}
 
 
 def load(ds: Dataset, page_id: str) -> str | None:
@@ -44,24 +67,76 @@ def is_refusal(raw: str | None) -> bool:
     return raw is None or not raw.strip()
 
 
+def _serialize(el: ET.Element) -> str:
+    """Inline content of an element as sanitized HTML."""
+    parts: list[str] = []
+    if el.text:
+        parts.append(html.escape(el.text, quote=False))
+    for child in el:
+        mapped = _INLINE_HTML.get(child.tag)
+        inner = _serialize(child)
+        parts.append(f"<{mapped}>{inner}</{mapped}>" if mapped else inner)
+        if child.tail:
+            parts.append(html.escape(child.tail, quote=False))
+    return "".join(parts)
+
+
+def _has_block_descendant(el: ET.Element) -> bool:
+    return any(
+        child.tag in BLOCK_TAGS or _has_block_descendant(child)
+        for child in el
+    )
+
+
+def _effective_attrs(el: ET.Element) -> dict:
+    """The element's attributes, with col/x/y inherited from the first
+    descendant that carries coordinates when the element itself has none
+    (e.g. <footnote> holds its coordinates on the nested <p>). Never lose
+    a coordinate that exists anywhere inside the block."""
+    attrs = dict(el.attrib)
+    if "x" in attrs and "y" in attrs:
+        return attrs
+    for d in el.iter():
+        if d is el:
+            continue
+        if "x" in d.attrib and "y" in d.attrib:
+            for key in ("col", "x", "y"):
+                if key not in attrs and key in d.attrib:
+                    attrs[key] = d.attrib[key]
+            break
+    return attrs
+
+
+def _emit(el: ET.Element, out: list[dict]) -> None:
+    text = "".join(el.itertext()).strip()
+    if not text and el.tag not in IMG_TAGS:
+        return
+    out.append(
+        {
+            "id": len(out),
+            "tag": el.tag,
+            "attrs": _effective_attrs(el),
+            "text": text,
+            "styled": _serialize(el).strip(),
+        }
+    )
+
+
 def _walk(el: ET.Element, out: list[dict]) -> None:
     for child in el:
         if child.tag in BLOCK_TAGS:
-            text = "".join(child.itertext()).strip()
-            out.append(
-                {
-                    "id": len(out),
-                    "tag": child.tag,
-                    "attrs": dict(child.attrib),
-                    "text": text,
-                }
-            )
+            _emit(child, out)
+        elif _has_block_descendant(child):
+            _walk(child, out)  # structural wrapper (opinion, footnotes, ...)
         else:
-            _walk(child, out)
+            _emit(child, out)  # content in an unknown tag: never dropped
+    if not len(el) and el.tag not in BLOCK_TAGS:
+        # a root with no children still carries its own text
+        _emit(el, out)
 
 
 def decode(raw: str) -> dict:
-    """{"blocks": [{id, tag, attrs, text}], "parse_error": str | None}."""
+    """{"blocks": [{id, tag, attrs, text, styled}], "parse_error": ...}."""
     try:
         root = ET.fromstring(raw)
     except ET.ParseError as exc:

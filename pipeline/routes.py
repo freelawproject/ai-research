@@ -1,8 +1,20 @@
-"""The three extraction routes.
+"""The extraction routes.
 
-Every route uses dots.mocr as the main OCR engine and LightOnOCR as the
-tiebreaker on disputed spans; only the supplemental engine differs.
+dots.mocr is the MAIN OCR engine in every route. Four routes pair dots with
+ONE supplemental engine and use LightOnOCR to tie-break disputed spans
+(which makes their resolution a majority vote too, once LightOn joins). The
+`three_way` route is fundamentally different: it runs THREE block-bbox
+engines in parallel (dots + Mistral + Surya block mode), aligns their
+bboxes, and resolves every dispute by direct three-way comparison — no
+tiebreaker model is ever brought in. Motivation: the tiebreak path crops
+small blocks, where LightOn's decoder can hallucinate (generating more text
+than the crop holds) and skews math/LaTeX-heavy.
+
+Dict order = display order in the viewer (three_way last, visually set
+apart from the LightOn variants).
 """
+
+from __future__ import annotations
 
 from dataclasses import dataclass
 
@@ -13,20 +25,27 @@ TIEBREAK_ENGINE = "lighton"
 @dataclass(frozen=True)
 class Route:
     name: str
-    supplemental: str
-    # Shape of the supplemental engine's output:
-    # "block" (bbox + text), "page_xml" (no bboxes), "line" (bbox + text).
-    supplemental_unit: str
+    # (engine, unit) per supplemental engine, run alongside dots.
+    # Units: "block" (bbox + text), "page_xml" (no bboxes), "line".
+    supplementals: tuple[tuple[str, str], ...]
+    # None = no tiebreaker (resolution is a direct majority vote).
+    tiebreak: str | None = TIEBREAK_ENGINE
 
 
 ROUTES: dict[str, Route] = {
-    "gemini": Route(
-        name="gemini", supplemental="gemini", supplemental_unit="page_xml"
+    "gemini": Route(name="gemini", supplementals=(("gemini", "page_xml"),)),
+    "mistral": Route(name="mistral", supplementals=(("mistral", "block"),)),
+    # Two surya variants: line mode gives fine geometry but hallucinates on
+    # minimal-text crops; block mode reads with whole-page context.
+    "surya_line": Route(
+        name="surya_line", supplementals=(("surya", "line"),)
     ),
-    "mistral": Route(
-        name="mistral", supplemental="mistral", supplemental_unit="block"
+    "surya_block": Route(
+        name="surya_block", supplementals=(("surya", "block"),)
     ),
-    "surya": Route(
-        name="surya", supplemental="surya", supplemental_unit="line"
+    "three_way": Route(
+        name="three_way",
+        supplementals=(("mistral", "block"), ("surya", "block")),
+        tiebreak=None,
     ),
 }

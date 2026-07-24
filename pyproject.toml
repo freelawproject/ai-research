@@ -5,7 +5,10 @@ description = "Case law extraction pipeline and walkthrough viewer"
 requires-python = ">=3.13,<3.14"
 dependencies = [
     "django>=6.0.5,<6.1",
+    "django-cotton>=2.7.2",
     "django-environ>=0.12",
+    "pillow>=12.3.0",
+    "pymupdf>=1.28.0",
 ]
 
 [dependency-groups]

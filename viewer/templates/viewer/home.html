@@ -1,0 +1,21 @@
+{% extends "viewer/base.html" %}
+
+{% block content %}
+<h1>Case Law Extraction — Pipeline Viewer</h1>
+{% if datasets %}
+  <ul>
+    {% for d in datasets %}
+      <li>
+        <strong>{{ d.name }}</strong> —
+        {{ d.n_golden }} golden page{{ d.n_golden|pluralize }};
+        engines: {{ d.engines|join:", " }}
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>
+    No datasets found. Place the data folder at <code>./data/</code>
+    (see the README for the expected layout).
+  </p>
+{% endif %}
+{% endblock %}

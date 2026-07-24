@@ -17,6 +17,7 @@ _ARTIFACT = {
     "dataset": "tiny",
     "page": "rep.1.1__p0",
     "route": "mistral",
+    "tiebreak": "lighton",
     "stages": {
         "render": {
             "png": "datasets/tiny/page_png/rep.1.1__p0.png",
@@ -55,15 +56,40 @@ _ARTIFACT = {
             ],
             "page_text": "hello world",
         },
-        "supplemental": {
-            "engine": "mistral",
-            "unit": "block",
-            "missing": False,
-            "blocks": [
+        "supplementals": [
+            {
+                "engine": "mistral",
+                "unit": "block",
+                "missing": False,
+                "blocks": [
+                    {
+                        "id": 0,
+                        "type": "text",
+                        "bbox": [100, 100, 800, 200],
+                        "text": "hello world",
+                    }
+                ],
+            }
+        ],
+        "reconstruct": {
+            "main": {
+                "engine": "dots",
+                "order": [0],
+                "items": [
+                    {"id": 0, "role": "content", "band": "body",
+                     "column": "L", "html": "hello <em>world</em>"}
+                ],
+                "text": "hello world",
+            },
+            "supplementals": [
                 {
-                    "id": 0,
-                    "type": "text",
-                    "bbox": [100, 100, 800, 200],
+                    "engine": "mistral",
+                    "unit": "block",
+                    "order": [0],
+                    "items": [
+                        {"id": 0, "role": "content", "band": "body",
+                         "column": "L", "html": "hello <em>world</em>"}
+                    ],
                     "text": "hello world",
                 }
             ],
@@ -76,7 +102,10 @@ def _build_tree() -> None:
     if _DS.exists():
         return
     (_DS / "page_png").mkdir(parents=True)
-    (_DS / "engines" / "dots").mkdir(parents=True)
+    for engine in ("dots", "mistral"):
+        d = _DS / "engines" / engine
+        d.mkdir(parents=True)
+        (d / "rep.1.1__p0.json").write_text('{"raw": "engine file"}')
     Image.new("RGB", (17, 22)).save(_DS / "page_png" / "rep.1.1__p0.png")
     art = _TMP / "artifacts" / "tiny" / "mistral"
     art.mkdir(parents=True)
@@ -105,10 +134,12 @@ class ViewerViewsTest(SimpleTestCase):
         self.assertEqual(response.status_code, 200)
         self.assertContains(response, "tiny")
         self.assertContains(response, "rep.1.1__p0")
-        # mistral has an artifact -> link; gemini/surya don't -> inert spans
+        # mistral has an artifact -> link; the others -> inert spans
         self.assertContains(response, "/d/tiny/mistral/rep.1.1__p0/")
         self.assertNotContains(response, "/d/tiny/gemini/rep.1.1__p0/")
-        self.assertNotContains(response, "/d/tiny/surya/rep.1.1__p0/")
+        self.assertNotContains(response, "/d/tiny/surya_line/rep.1.1__p0/")
+        self.assertNotContains(response, "/d/tiny/surya_block/rep.1.1__p0/")
+        self.assertNotContains(response, "/d/tiny/three_way/rep.1.1__p0/")
 
     def test_dataset_redirects_to_first_page(self) -> None:
         response = self.client.get("/d/tiny/")
@@ -121,9 +152,16 @@ class ViewerViewsTest(SimpleTestCase):
     def test_walkthrough_renders_stages(self) -> None:
         response = self.client.get("/d/tiny/mistral/rep.1.1__p0/")
         self.assertEqual(response.status_code, 200)
-        for fragment in ("Render", "Layout", "Main OCR", "Supplemental"):
+        for fragment in (
+            "Render",
+            "Layout",
+            "Main OCR",
+            "Supplemental",
+            "Reconstruct",
+        ):
             self.assertContains(response, fragment)
         self.assertContains(response, "hello world")
+        self.assertContains(response, "hello <em>world</em>", html=False)
         self.assertContains(response, "pageViewer")
 
     def test_missing_artifact_404s(self) -> None:
@@ -138,3 +176,19 @@ class ViewerViewsTest(SimpleTestCase):
     def test_path_traversal_rejected(self) -> None:
         response = self.client.get("/img/tiny/%2e%2e%2fsecret.png")
         self.assertEqual(response.status_code, 404)
+
+    def test_raw_engine_output_expandables(self) -> None:
+        response = self.client.get("/d/tiny/mistral/rep.1.1__p0/")
+        self.assertContains(response, "content verbatim")
+        self.assertContains(response, "raw model output — dots JSON")
+        self.assertContains(response, "raw model output — mistral JSON")
+        self.assertContains(response, "lighton tiebreak")
+
+    def test_home_shows_model_info(self) -> None:
+        response = self.client.get("/")
+        self.assertContains(response, "Models")
+        self.assertContains(response, "dots.mocr")
+        self.assertContains(
+            response, "https://huggingface.co/rednote-hilab/dots.mocr"
+        )
+        self.assertContains(response, "OpenRAIL-M")

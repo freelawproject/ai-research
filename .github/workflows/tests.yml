@@ -1,0 +1,18 @@
+name: Tests
+
+on:
+  push:
+    branches: [extraction_package]
+  pull_request:
+    branches: [extraction_package]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.13"
+      - run: uv sync --frozen
+      - run: uv run python manage.py test --verbosity=2

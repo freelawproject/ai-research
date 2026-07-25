@@ -25,7 +25,7 @@ order using the container layout. Text is used RAW here — normalization
 
 from __future__ import annotations
 
-from pipeline.core import layout
+from pipeline.core import geometry, layout
 
 # Container label -> the role a block inside it carries.
 ROLE_OF_CONTAINER = {
@@ -58,29 +58,17 @@ COVER_T = 0.5
 CENTER_COVER_T = 0.25
 
 
-def _area(bb: list[float]) -> float:
-    return max(0.0, bb[2] - bb[0]) * max(0.0, bb[3] - bb[1])
-
-
-def _cover_frac(inner: list[float], outer: list[float]) -> float:
-    """Fraction of inner's area that lies inside outer (0..1)."""
-    ix0, iy0 = max(inner[0], outer[0]), max(inner[1], outer[1])
-    ix1, iy1 = min(inner[2], outer[2]), min(inner[3], outer[3])
-    overlap = max(0.0, ix1 - ix0) * max(0.0, iy1 - iy0)
-    return overlap / max(1.0, _area(inner))
-
-
-def _center_in(inner: list[float], outer: list[float]) -> bool:
-    cx = (inner[0] + inner[2]) / 2
-    cy = (inner[1] + inner[3]) / 2
-    return outer[0] <= cx <= outer[2] and outer[1] <= cy <= outer[3]
-
-
-def _place(containers: dict, items: list[dict]) -> list[dict]:
-    """Assign role/band/column to bbox-carrying items and order them."""
+def _place(
+    containers: dict, items: list[dict]
+) -> tuple[list[dict], list[int]]:
+    """Assign role/band/column to bbox-carrying items and order them.
+    Returns (ordered items, ids of items that had no bbox and could not
+    be placed — reported, never silently lost)."""
     placed = []
+    no_bbox: list[int] = []
     for it in items:
         if not it.get("bbox"):
+            no_bbox.append(it["id"])
             continue
         hit, side = layout.assign(containers, it["bbox"])
         role = (
@@ -97,7 +85,7 @@ def _place(containers: dict, items: list[dict]) -> list[dict]:
                 "column": side,
             }
         )
-    return layout.reading_order(placed)
+    return layout.reading_order(placed), no_bbox
 
 
 def _finish(
@@ -133,12 +121,14 @@ def reconstruct_blocks(containers: dict, blocks: list[dict]) -> dict:
         }
         for b in blocks
     ]
-    ordered = _place(containers, items)
-    return _finish(
+    ordered, no_bbox = _place(containers, items)
+    result = _finish(
         ordered,
         {b["id"]: b.get("text", "") for b in blocks},
         {b["id"]: b.get("styled", b.get("text", "")) for b in blocks},
     )
+    result["no_bbox"] = no_bbox
+    return result
 
 
 def _coord(attrs: dict, key: str) -> float | None:
@@ -229,9 +219,9 @@ def classify_surya_lines(
         best: tuple[float, int, str] | None = None
         if bb:
             for bid, label, obb in blocks:
-                cov = _cover_frac(bb, obb)
+                cov = geometry.cover_frac(bb, obb)
                 ok = cov >= COVER_T or (
-                    cov >= CENTER_COVER_T and _center_in(bb, obb)
+                    cov >= CENTER_COVER_T and geometry.center_in(bb, obb)
                 )
                 if ok and (best is None or cov > best[0]):
                     best = (cov, bid, label)
@@ -262,7 +252,7 @@ def reconstruct_surya_blocks(
         for b in blocks
         if b.get("bbox")
         and b.get("label") not in IMAGE_LABELS
-        and any(_cover_frac(b["bbox"], p) >= COVER_T for p in pics)
+        and any(geometry.cover_frac(b["bbox"], p) >= COVER_T for p in pics)
     ]
     skip = set(in_image)
     result = reconstruct_blocks(
@@ -296,8 +286,9 @@ def reconstruct_surya(
         html_by_id[bid] = " ".join(
             ln.get("styled", ln.get("text", "")).strip() for ln in members
         ).strip()
-    ordered = _place(containers, paragraphs)
+    ordered, no_bbox = _place(containers, paragraphs)
     result = _finish(ordered, text_by_id, html_by_id)
+    result["no_bbox"] = no_bbox
     result["dropped"] = dropped
     result["in_image"] = in_image
     return result

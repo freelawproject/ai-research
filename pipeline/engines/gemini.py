@@ -7,7 +7,9 @@ document per page, no bboxes. A missing or empty file is a refusal.
 Decode must NOT lose content: known block tags become blocks, structural
 wrappers (opinion, footnotes, ...) are recursed into, and ANY other element
 that carries text (author, attorney, ...) is emitted as a block with its
-tag preserved — unknown tags are never silently dropped. Detail tags stay
+tag preserved — unknown tags are never silently dropped. Mixed-content
+text (a wrapper's own leading text, or text trailing a block tag) is
+emitted as its own block under the enclosing tag. Detail tags stay
 inline: `styled` keeps em/footnotemark as HTML, other inline tags
 (citation, a, ...) are unwrapped to their text.
 
@@ -63,8 +65,20 @@ def load(ds: Dataset, page_id: str) -> str | None:
     return f.read_text(encoding="utf-8", errors="replace")
 
 
+# Markers the API emits instead of XML when generation is blocked.
+_REFUSAL_MARKERS = ("RECITATION", "PROHIBITED_CONTENT")
+
+
 def is_refusal(raw: str | None) -> bool:
-    return raw is None or not raw.strip()
+    """Missing/empty output, or a non-XML refusal marker payload."""
+    if raw is None:
+        return True
+    stripped = raw.strip()
+    if not stripped:
+        return True
+    return not stripped.startswith("<") and any(
+        marker in stripped for marker in _REFUSAL_MARKERS
+    )
 
 
 def _serialize(el: ET.Element) -> str:
@@ -121,7 +135,32 @@ def _emit(el: ET.Element, out: list[dict]) -> None:
     )
 
 
+def _emit_text(fragment: str, tag: str, out: list[dict]) -> None:
+    """Mixed-content text — a wrapper's own text (<opinion>PER CURIAM.
+    <p>...) or an element tail (<p>...</p>stray text) — emitted as its own
+    block under the enclosing tag, so no character of the document is
+    lost. Whitespace-only fragments (indentation between tags) are not
+    content and are skipped."""
+    text = fragment.strip()
+    if not text:
+        return
+    out.append(
+        {
+            "id": len(out),
+            "tag": tag,
+            "attrs": {},
+            "text": text,
+            "styled": html.escape(text, quote=False),
+        }
+    )
+
+
 def _walk(el: ET.Element, out: list[dict]) -> None:
+    if not len(el):
+        # a root with no children still carries its own text
+        _emit(el, out)
+        return
+    _emit_text(el.text or "", el.tag, out)
     for child in el:
         if child.tag in BLOCK_TAGS:
             _emit(child, out)
@@ -129,9 +168,7 @@ def _walk(el: ET.Element, out: list[dict]) -> None:
             _walk(child, out)  # structural wrapper (opinion, footnotes, ...)
         else:
             _emit(child, out)  # content in an unknown tag: never dropped
-    if not len(el) and el.tag not in BLOCK_TAGS:
-        # a root with no children still carries its own text
-        _emit(el, out)
+        _emit_text(child.tail or "", el.tag, out)
 
 
 def decode(raw: str) -> dict:

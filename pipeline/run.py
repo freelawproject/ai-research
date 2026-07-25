@@ -16,13 +16,12 @@ import json
 from pathlib import Path
 
 from pipeline.core import layout, reconstruct, render
+from pipeline.core.artifacts import SCHEMA_VERSION, artifact_path
 from pipeline.core.config import RENDER_H, RENDER_W, Dataset, dataset
 from pipeline.core.pages import Page, discover_pages
 from pipeline.core.readers import redaction_rects
 from pipeline.engines import dots, gemini, mistral, surya
 from pipeline.routes import ROUTES, Route
-
-SCHEMA_VERSION = 1
 
 
 def _stage_render(ds: Dataset, page: Page) -> dict:
@@ -155,15 +154,15 @@ def run_route(
 ) -> tuple[int, int]:
     """Write artifacts for every runnable page; returns (written, skipped)."""
     ds = dataset(data_root, dataset_name)
-    out_dir = data_root / "artifacts" / ds.name / route.name
-    out_dir.mkdir(parents=True, exist_ok=True)
+    artifacts_root = data_root / "artifacts"
     written = skipped = 0
     for page in discover_pages(ds):
         artifact = build_page_artifact(ds, page, route)
         if artifact is None:
             skipped += 1
             continue
-        out = out_dir / f"{page.page_id}.json"
+        out = artifact_path(artifacts_root, ds.name, route.name, page.page_id)
+        out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(
             json.dumps(artifact, ensure_ascii=False), encoding="utf-8"
         )

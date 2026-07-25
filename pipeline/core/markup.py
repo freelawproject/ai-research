@@ -12,9 +12,11 @@ import html
 import re
 from html.parser import HTMLParser
 
-# Markdown (dots, mistral). Bold before italic so ** isn't eaten by *.
-# Emphasis content may not start/end with whitespace: keeps the `* * *`
-# section separator (and stray asterisks) out of <em>.
+# Markdown (dots, mistral). Bold-italic before bold before italic so each
+# longer delimiter isn't eaten by a shorter one. Emphasis content may not
+# start/end with whitespace: keeps the `* * *` section separator (and
+# stray asterisks) out of <em>.
+_BOLD_EM = re.compile(r"\*\*\*(?!\s)(.+?)(?<!\s)\*\*\*", re.S)
 _BOLD = re.compile(r"\*\*(?!\s)(.+?)(?<!\s)\*\*", re.S)
 _EM = re.compile(r"(?<!\*)\*(?!\s)([^*\n]+?)(?<!\s)\*(?!\*)")
 # Mistral superscript forms: $^{16}$ and ^{16}
@@ -27,6 +29,7 @@ def md_to_html(text: str) -> str:
     out = html.escape(text, quote=False)
     out = _SUP_MATH.sub(r"<sup>\1</sup>", out)
     out = _SUP_CARET.sub(r"<sup>\1</sup>", out)
+    out = _BOLD_EM.sub(r"<strong><em>\1</em></strong>", out)
     out = _BOLD.sub(r"<strong>\1</strong>", out)
     out = _EM.sub(r"<em>\1</em>", out)
     return out

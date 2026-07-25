@@ -15,7 +15,7 @@ from __future__ import annotations
 
 from collections import Counter
 
-from pipeline.core import readers
+from pipeline.core import geometry, readers
 from pipeline.core.config import RENDER_W, Dataset
 from pipeline.core.postprocess import postprocess_dets
 
@@ -35,27 +35,15 @@ def _side(bbox: list[float]) -> str:
     return "L" if (bbox[0] + bbox[2]) / 2 < RENDER_W / 2 else "R"
 
 
-def _area(bb: list[float]) -> float:
-    return max(0.0, bb[2] - bb[0]) * max(0.0, bb[3] - bb[1])
-
-
-def _cover_frac(a: list[float], b: list[float]) -> float:
-    """Fraction of a's area that lies inside b (0..1)."""
-    ix0, iy0 = max(a[0], b[0]), max(a[1], b[1])
-    ix1, iy1 = min(a[2], b[2]), min(a[3], b[3])
-    inter = max(0.0, ix1 - ix0) * max(0.0, iy1 - iy0)
-    return inter / max(1.0, _area(a))
-
-
 def _columns(col_dets: list[dict]) -> list[dict]:
     cols = [
         {"bbox": d["bbox"], "confidence": d.get("confidence")}
         for d in col_dets
     ]
-    cols.sort(key=lambda c: _area(c["bbox"]), reverse=True)
+    cols.sort(key=lambda c: geometry.area(c["bbox"]), reverse=True)
     kept: list[dict] = []
     for c in cols:
-        if any(_cover_frac(c["bbox"], k["bbox"]) >= 0.8 for k in kept):
+        if any(geometry.cover_frac(c["bbox"], k["bbox"]) >= 0.8 for k in kept):
             continue  # >=80% inside a larger kept column: same column twice
         kept.append(c)
     kept.sort(key=lambda c: c["bbox"][0])  # left -> right
@@ -84,12 +72,8 @@ def containers_for(ds: Dataset, page_id: str) -> dict:
     }
 
 
-def _center(bb: list[float]) -> tuple[float, float]:
-    return ((bb[0] + bb[2]) / 2, (bb[1] + bb[3]) / 2)
-
-
 def _contains(region: list[float], bb: list[float], pad: float = 6.0) -> bool:
-    cx, cy = _center(bb)
+    cx, cy = geometry.center(bb)
     x0, y0, x1, y1 = region
     return x0 - pad <= cx <= x1 + pad and y0 - pad <= cy <= y1 + pad
 
@@ -107,7 +91,7 @@ def assign(containers: dict, bb: list[float]) -> tuple[str | None, str | None]:
             hit = label
             break
     side = None
-    cx = _center(bb)[0]
+    cx = geometry.center(bb)[0]
     for c in containers["columns"]:
         if c["bbox"][0] - 6 <= cx <= c["bbox"][2] + 6:
             side = c["side"]

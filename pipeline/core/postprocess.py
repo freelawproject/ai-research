@@ -17,29 +17,21 @@ from __future__ import annotations
 
 from collections import Counter
 
+from pipeline.core import geometry
+
 BODYISH = ("column", "body")
 MIN_COL_H = 40
 NMS_IOU = 0.5
 NMS_COVER = 0.5
 
 
-def _area(b: list[float]) -> float:
-    return max(0.0, b[2] - b[0]) * max(0.0, b[3] - b[1])
-
-
-def _inter(a: list[float], b: list[float]) -> float:
-    x0, y0 = max(a[0], b[0]), max(a[1], b[1])
-    x1, y1 = min(a[2], b[2]), min(a[3], b[3])
-    return max(0.0, x1 - x0) * max(0.0, y1 - y0)
-
-
 def _dup(a: list[float], b: list[float]) -> bool:
-    i = _inter(a, b)
+    i = geometry.inter(a, b)
     if i <= 0:
         return False
-    u = _area(a) + _area(b) - i
+    u = geometry.area(a) + geometry.area(b) - i
     return (u > 0 and i / u > NMS_IOU) or (
-        i / min(_area(a), _area(b)) > NMS_COVER
+        i / min(geometry.area(a), geometry.area(b)) > NMS_COVER
     )
 
 

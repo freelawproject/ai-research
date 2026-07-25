@@ -1,0 +1,16 @@
+# Build-context hygiene: the compose stack mounts the repo over
+# /opt/extraction, so none of this belongs in the image — least of all
+# the ~180M gitignored data/ tree.
+.git*
+.venv/
+node_modules/
+data/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.env
+*.zip
+*.pt
+*.tar.gz

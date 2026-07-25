@@ -69,6 +69,7 @@ data/artifacts/<dataset>/<route>/<page>.json
   "dataset": "sample30",
   "page": "a3d.340.1__p0",
   "route": "mistral",
+  "tiebreak": "lighton",          // null on the three_way route
   "stages": {
     // implemented:
     "render":       {"png": "<path rel. to data/>", "size": [1700, 2200],
@@ -90,6 +91,8 @@ data/artifacts/<dataset>/<route>/<page>.json
       // per side: order = item ids in reading order; items carry
       // {id, role, band, column, html} (html = styled, sanitized);
       // text = raw plain text joined in that order (image items excluded).
+      // bbox-placed engines also report "no_bbox": ids of blocks that
+      // carried no bbox and could not be placed (reported, never lost).
       "main":          {"engine": "dots", "order": [], "items": [], "text": ""},
       // one entry per supplemental. surya_line adds "dropped"
       // (bleed-through line ids) + "in_image" (ids inside a dots Picture
@@ -123,8 +126,8 @@ data/
       dots/              main-engine block reads (JSON)
       gemini/            supplemental page XML (generated upstream)
       mistral/           supplemental whole-page block reads (JSON)
-      surya/line/        supplemental line reads (JSON)
-      surya/block/       surya block reads (reference)
+      surya/line/        supplemental line reads (surya_line route)
+      surya/block/       surya block reads (surya_block + three_way routes)
       lighton_crops/     cached tiebreak crop reads (keyed page + bbox)
   weights/               container-YOLO weights (container_round2.pt)
   artifacts/<dataset>/<route>/   pipeline outputs (contract above)

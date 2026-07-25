@@ -48,18 +48,19 @@ ENGINE_INFO: list[dict[str, str]] = [
     },
     {
         "name": "Mistral OCR",
-        "role": "mistral route supplemental",
+        "role": "mistral + three_way route supplemental",
         "architecture": "proprietary OCR API — architecture not published",
         "bbox": "API returns per-block bboxes (include_blocks) with "
         "Markdown text",
-        "runs": "API (batch runner in this package)",
+        "runs": "API (cached outputs bundled; batch runner arrives with "
+        "the RunPod kits)",
         "license": "proprietary API",
         "link": "https://docs.mistral.ai/capabilities/document/",
         "link_label": "API docs",
     },
     {
         "name": "Surya OCR 2",
-        "role": "surya_line + surya_block route supplemental",
+        "role": "surya_line, surya_block + three_way route supplemental",
         "architecture": "650M-parameter VLM, Qwen3.5-style architecture; "
         "layout, OCR and tables share one VLM (decoder); line detection "
         "is a separate modified-EfficientViT segformer (pure PyTorch)",

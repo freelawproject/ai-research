@@ -1,15 +1,15 @@
 # CLAUDE.md
 
 Branch `extraction_package`: production packaging of the case-law extraction
-pipeline (3 OCR routes + Django walkthrough viewer + RunPod kits).
+pipeline (5 OCR routes + Django walkthrough viewer + RunPod kits).
 
 ## Rules
 
 - `uv` only — never pip/venv/conda. Python 3.13, Django 6.0.x.
 - ruff, line length 79, rules E/F/I/UP/W; format with ruff-format.
 - Imports at the top of the file; no inline imports.
-- Type hints required on all new code; mypy strict for `viewer/` and
-  `pipeline/` (see mypy.ini).
+- Type hints required on all new code; mypy runs a strict flag set over
+  `viewer/` and `pipeline/` (see mypy.ini).
 - **No database.** JSON artifacts under `data/` are the source of truth; the
   Django app runs DB-less. Production persistence is intentionally out of
   scope for this package.

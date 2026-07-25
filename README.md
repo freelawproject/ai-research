@@ -18,7 +18,7 @@ to tie-break disputes; the fifth resolves by direct three-way majority:
 | Route | Supplemental engine(s) | Resolution |
 |---|---|---|
 | `gemini` | Gemini page XML (generated upstream — bring your own outputs) | LightOn tiebreak |
-| `mistral` | Mistral OCR blocks (API runner in this package) | LightOn tiebreak |
+| `mistral` | Mistral OCR blocks (cached outputs bundled; API runner arrives with the RunPod kits) | LightOn tiebreak |
 | `surya_line` | Surya line reads (fine geometry; bleed-through filtered against dots blocks) | LightOn tiebreak |
 | `surya_block` | Surya block reads (whole-page context; no line hallucinations) | LightOn tiebreak |
 | `three_way` | Mistral blocks + Surya blocks, in parallel with dots | direct three-way bbox-aligned comparison — no tiebreaker model |
@@ -76,4 +76,8 @@ intentionally out of scope — design it from the artifact schema.
 
 ## Status
 
-Scaffold + data staging. Pipeline stages and the walkthrough UI land next.
+Stages 1–5 (render, layout, main OCR, supplemental OCR, reading-order
+reconstruction) and the walkthrough viewer are implemented for all five
+routes; artifacts regenerate from the bundled engine outputs in seconds.
+Normalization (6), compare/tiebreak (7), and assembly (8) land in upcoming
+milestones, followed by the RunPod kits.

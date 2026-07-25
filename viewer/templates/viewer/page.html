@@ -54,9 +54,11 @@
                       label="dots blocks" count="{{ layers.dots|length }}"
                       chip="border-red-600" />
       {% for s in supps %}
-        <c-layer-toggle prop="{{ s.prop }}" toggle="{{ s.toggle }}"
-                        label="{{ s.label }}" count="{{ s.boxes|length }}"
-                        chip="{{ s.chip }}" />
+        {% if s.boxes %}
+          <c-layer-toggle prop="{{ s.prop }}" toggle="{{ s.toggle }}"
+                          label="{{ s.label }}" count="{{ s.boxes|length }}"
+                          chip="{{ s.chip }}" />
+        {% endif %}
       {% endfor %}
       {% if layers.dropped %}
         <c-layer-toggle prop="showDropped" toggle="toggleDropped"
@@ -137,14 +139,16 @@
       <p class="mb-2 text-sm text-neutral-600">
         {{ stages.layout.post|length }} containers after postprocess
         ({{ stages.layout.raw|length }} raw){% if stages.layout.stats %},
-        changes: {{ stages.layout.stats }}{% endif %}
+        changes:
+        {% for rule, n in stages.layout.stats.items %}{{ rule }} ×{{ n }}{% if not forloop.last %} · {% endif %}{% endfor %}
+        {% endif %}
       </p>
       <ul class="grid grid-cols-2 gap-1 text-sm sm:grid-cols-3">
         {% for d in stages.layout.post %}
           <li class="flex items-center gap-1">
             <span class="ov-chip ov-{{ d.label }}"></span>
             {{ d.label }}
-            <span class="text-neutral-400">{{ d.confidence|floatformat:2 }}</span>
+            <span class="text-neutral-500">{{ d.confidence|floatformat:2 }}</span>
           </li>
         {% endfor %}
       </ul>
@@ -158,7 +162,7 @@
             <li class="flex items-center gap-1">
               <span class="ov-chip ov-{{ d.label }} ov-raw"></span>
               {{ d.label }}
-              <span class="text-neutral-400">{{ d.confidence|floatformat:2 }}</span>
+              <span class="text-neutral-500">{{ d.confidence|floatformat:2 }}</span>
             </li>
           {% endfor %}
         </ul>
@@ -191,8 +195,8 @@
         {% if s.supp.engine == "gemini" %}
           {% if s.supp.refusal %}
             <p class="rounded-md bg-amber-50 p-2 text-sm text-amber-800">
-              Refusal: no XML for this page — the route falls back at the
-              compare stage.
+              Refusal: no usable XML for this page (missing, empty, or a
+              refusal marker) — the route falls back at the compare stage.
             </p>
           {% else %}
             {% if s.supp.parse_error %}
@@ -285,6 +289,13 @@
               order (in-image text).
             </p>
           {% endif %}
+          {% if s.no_bbox %}
+            <p class="mb-2 rounded-md bg-red-50 p-2 text-sm text-red-800">
+              {{ s.label }}: {{ s.no_bbox|length }}
+              block{{ s.no_bbox|length|pluralize }} had no bbox and could
+              not be placed (ids: {{ s.no_bbox|join:", " }}).
+            </p>
+          {% endif %}
         {% endfor %}
         <div class="grid gap-3 {% if supps|length > 1 %}xl:grid-cols-3{% else %}xl:grid-cols-2{% endif %}"
              x-data="reconSync">
@@ -298,7 +309,7 @@
                 <li class="rounded border border-neutral-100 bg-neutral-50 px-2 py-1">
                   <span class="mr-1 rounded bg-neutral-200 px-1 font-mono text-xs text-neutral-600">{{ it.role }}{% if it.column %} · {{ it.column }}{% endif %}</span>
                   {% if it.role == "image" %}
-                    <span class="italic text-neutral-400">[image — rendered as-is in the final]</span>
+                    <span class="italic text-neutral-500">[image — rendered as-is in the final]</span>
                   {% else %}
                     <span class="whitespace-pre-wrap">{{ it.html|safe }}</span>
                   {% endif %}
@@ -317,7 +328,7 @@
                   <li class="rounded border border-neutral-100 bg-neutral-50 px-2 py-1">
                     <span class="mr-1 rounded bg-neutral-200 px-1 font-mono text-xs text-neutral-600">{{ it.role }}{% if it.column %} · {{ it.column }}{% endif %}</span>
                     {% if it.role == "image" %}
-                      <span class="italic text-neutral-400">[image — rendered as-is in the final]</span>
+                      <span class="italic text-neutral-500">[image — rendered as-is in the final]</span>
                     {% else %}
                       <span class="whitespace-pre-wrap">{{ it.html|safe }}</span>
                     {% endif %}

@@ -89,7 +89,7 @@ async def home(request: HttpRequest) -> HttpResponse:
     )
 
 
-async def dataset(request: HttpRequest, dataset: str) -> HttpResponse:
+async def dataset_redirect(request: HttpRequest, dataset: str) -> HttpResponse:
     """Convenience: a dataset link lands on its first walkable page."""
     for name in ROUTES:
         pages = data.route_pages(dataset, name)
@@ -128,6 +128,7 @@ def _supp_ctx(
         "in_image": [
             {"id": x["id"], "text": x.get("text", "")} for x in in_image
         ],
+        "no_bbox": rsupp.get("no_bbox", []),
         "n_omitted": len(rsupp.get("omitted", [])),
         "_dropped_items": dropped,
         "_in_image_items": in_image,

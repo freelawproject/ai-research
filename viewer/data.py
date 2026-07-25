@@ -16,6 +16,8 @@ from pathlib import Path
 from django.conf import settings
 from django.http import Http404
 
+from pipeline.core.artifacts import SCHEMA_VERSION
+
 _NAME_RE = re.compile(r"^[A-Za-z0-9._-]+$")
 
 
@@ -35,7 +37,7 @@ class DatasetInfo:
 
 def list_datasets() -> list[DatasetInfo]:
     root: Path = settings.DATASETS_ROOT
-    out = []
+    out: list[DatasetInfo] = []
     if not root.is_dir():
         return out
     for d in sorted(p for p in root.iterdir() if p.is_dir()):
@@ -73,7 +75,15 @@ def load_artifact(dataset: str, route: str, page: str) -> dict:
     )
     if not f.exists():
         raise Http404(f"no artifact for {dataset}/{route}/{page}")
-    return json.loads(f.read_text(encoding="utf-8"))
+    doc: dict = json.loads(f.read_text(encoding="utf-8"))
+    version = doc.get("schema_version")
+    if version != SCHEMA_VERSION:
+        raise Http404(
+            f"artifact {dataset}/{route}/{page} has schema v{version}; "
+            f"this viewer expects v{SCHEMA_VERSION} — re-run: uv run "
+            f"python -m pipeline.run --dataset {dataset} --route {route}"
+        )
+    return doc
 
 
 def engine_raw(

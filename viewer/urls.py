@@ -6,7 +6,7 @@ urlpatterns = [
     path("", views.home, name="home"),  # type: ignore[arg-type]
     path(
         "d/<str:dataset>/",
-        views.dataset,  # type: ignore[arg-type]
+        views.dataset_redirect,  # type: ignore[arg-type]
         name="dataset",
     ),
     path(

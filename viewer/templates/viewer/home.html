@@ -10,7 +10,7 @@
         <h2 class="font-semibold">{{ d.info.name }}</h2>
         <p class="text-sm text-neutral-600">
           {{ d.rows|length }} sample{{ d.rows|length|pluralize }} ·
-          engines: {{ d.info.engines|join:", " }}
+          engine outputs: {{ d.info.engines|join:", " }}
         </p>
       </header>
       {% if d.rows %}

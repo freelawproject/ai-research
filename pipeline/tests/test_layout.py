@@ -92,7 +92,7 @@ class ColumnsTest(unittest.TestCase):
 
 class ReadingOrderTest(unittest.TestCase):
     def test_page_number_then_columns_then_footnotes(self) -> None:
-        blocks = [
+        blocks: list[dict] = [
             {"band": "footnote", "column": "L", "bbox": [0, 900, 10, 910]},
             {"band": "body", "column": "R", "bbox": [500, 10, 510, 20]},
             {"band": "body", "column": "L", "bbox": [0, 10, 10, 20]},

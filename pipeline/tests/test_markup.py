@@ -1,7 +1,7 @@
 import unittest
 
 from pipeline.core.markup import html_to_html, md_to_html
-from pipeline.engines.gemini import decode
+from pipeline.engines.gemini import decode, is_refusal
 
 
 class MdToHtmlTest(unittest.TestCase):
@@ -22,6 +22,12 @@ class MdToHtmlTest(unittest.TestCase):
 
     def test_bullet_and_plain_asterisks_survive(self) -> None:
         self.assertEqual(md_to_html("* * *"), "* * *")
+
+    def test_bold_italic_nests_properly(self) -> None:
+        self.assertEqual(
+            md_to_html("***bold italic***"),
+            "<strong><em>bold italic</em></strong>",
+        )
 
 
 class HtmlToHtmlTest(unittest.TestCase):
@@ -107,3 +113,48 @@ class GeminiDecodeTest(unittest.TestCase):
         blocks = decode(xml)["blocks"]
         self.assertEqual([b["tag"] for b in blocks], ["img", "p"])
         self.assertEqual(blocks[0]["text"], "The band started to play.")
+
+    def test_tail_text_after_block_preserved(self) -> None:
+        xml = "<page><p>body</p>STRAY TAIL<p>more</p></page>"
+        blocks = decode(xml)["blocks"]
+        self.assertEqual(
+            [(b["tag"], b["text"]) for b in blocks],
+            [("p", "body"), ("page", "STRAY TAIL"), ("p", "more")],
+        )
+
+    def test_wrapper_own_text_preserved(self) -> None:
+        xml = "<page><opinion>PER CURIAM.<p>body</p></opinion></page>"
+        blocks = decode(xml)["blocks"]
+        self.assertEqual(
+            [(b["tag"], b["text"]) for b in blocks],
+            [("opinion", "PER CURIAM."), ("p", "body")],
+        )
+
+    def test_root_leading_text_preserved(self) -> None:
+        xml = "<page>LEAD-IN<p>body</p></page>"
+        blocks = decode(xml)["blocks"]
+        self.assertEqual(
+            [(b["tag"], b["text"]) for b in blocks],
+            [("page", "LEAD-IN"), ("p", "body")],
+        )
+
+    def test_whitespace_between_tags_is_not_content(self) -> None:
+        xml = "<page>\n  <p>a</p>\n  <p>b</p>\n</page>"
+        blocks = decode(xml)["blocks"]
+        self.assertEqual([b["text"] for b in blocks], ["a", "b"])
+
+
+class IsRefusalTest(unittest.TestCase):
+    def test_missing_or_empty_is_refusal(self) -> None:
+        self.assertTrue(is_refusal(None))
+        self.assertTrue(is_refusal(""))
+        self.assertTrue(is_refusal("   \n"))
+
+    def test_marker_payload_is_refusal(self) -> None:
+        self.assertTrue(is_refusal("RECITATION"))
+        self.assertTrue(is_refusal("blocked: PROHIBITED_CONTENT"))
+
+    def test_xml_is_not_refusal(self) -> None:
+        self.assertFalse(is_refusal("<page><p>text</p></page>"))
+        # marker WORDS inside real XML content are not a refusal
+        self.assertFalse(is_refusal("<page><p>a RECITATION of</p></page>"))

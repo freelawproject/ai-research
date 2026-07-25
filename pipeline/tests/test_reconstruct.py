@@ -64,6 +64,15 @@ class ReconstructBlocksTest(unittest.TestCase):
         self.assertEqual(r["items"][0]["role"], "image")
         self.assertEqual(r["text"], "")
 
+    def test_bboxless_block_reported_not_lost(self) -> None:
+        blocks = [
+            _block(0, [150, 200, 700, 300], "placed"),
+            {"id": 1, "bbox": None, "text": "no bbox"},
+        ]
+        r = reconstruct_blocks(_CONTAINERS, blocks)
+        self.assertEqual(r["order"], [0])
+        self.assertEqual(r["no_bbox"], [1])
+
     def test_items_carry_styled_html(self) -> None:
         blocks = [
             _block(
@@ -152,6 +161,32 @@ class ReconstructGeminiTest(unittest.TestCase):
         self.assertEqual(r["omitted"], [1])
         self.assertNotIn("caption junk", r["text"])
 
+    def test_missing_col_inherits_predecessor_column(self) -> None:
+        # coords present but no col attribute: the block stays in its
+        # predecessor's column rather than falling to an "other" bucket
+        blocks = [
+            {
+                "id": 0,
+                "tag": "p",
+                "attrs": {"col": "L", "x": "10", "y": "100"},
+                "text": "a",
+            },
+            {
+                "id": 1,
+                "tag": "p",
+                "attrs": {"x": "10", "y": "150"},
+                "text": "b",
+            },
+            {
+                "id": 2,
+                "tag": "p",
+                "attrs": {"col": "L", "x": "10", "y": "200"},
+                "text": "c",
+            },
+        ]
+        r = reconstruct_gemini(blocks)
+        self.assertEqual(r["text"], "a\nb\nc")
+
     def test_coordless_block_keeps_document_position(self) -> None:
         blocks = [
             {
@@ -199,6 +234,19 @@ class SuryaClassifyTest(unittest.TestCase):
         lines = [{"id": 0, "bbox": [120, 380, 700, 470], "text": "ghost"}]
         assigned, _, dropped = classify_surya_lines(lines, self._DOTS)
         self.assertEqual(dropped, [0])
+
+    def test_line_over_two_blocks_takes_higher_cover(self) -> None:
+        # dots Text and Picture blocks overlap; the line lies fully in
+        # Text (cover 1.0) and mostly in Picture (~0.78) -> assigned to
+        # the higher-cover Text block, not flagged in-image
+        dots = [
+            _block(0, [100, 100, 800, 500], label="Text"),
+            _block(1, [100, 300, 800, 900], label="Picture"),
+        ]
+        lines = [{"id": 0, "bbox": [150, 250, 700, 480], "text": "x"}]
+        assigned, in_image, dropped = classify_surya_lines(lines, dots)
+        self.assertEqual(assigned, {0: 0})
+        self.assertEqual(in_image, [])
 
     def test_line_in_picture_block_is_in_image(self) -> None:
         lines = [{"id": 0, "bbox": [200, 600, 700, 640], "text": "caption"}]

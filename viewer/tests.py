@@ -1,19 +1,22 @@
-"""Viewer tests run against a small SYNTHETIC data tree (no dependency on
-the distributed data bundle, so they pass in CI)."""
+"""Viewer tests run against small SYNTHETIC data trees (no dependency on
+the distributed data bundle, so they pass in CI). Each TestCase builds its
+own tree in setUpClass and points settings at it."""
 
 import json
 import shutil
 import tempfile
 from pathlib import Path
 
+import fitz
 from django.test import SimpleTestCase, override_settings
 from PIL import Image
 
-_TMP = Path(tempfile.mkdtemp(prefix="extraction-tests-"))
-_DS = _TMP / "datasets" / "tiny"
+from pipeline.core.artifacts import SCHEMA_VERSION
+from pipeline.routes import ROUTES
+from pipeline.run import run_route
 
 _ARTIFACT = {
-    "schema_version": 1,
+    "schema_version": SCHEMA_VERSION,
     "dataset": "tiny",
     "page": "rep.1.1__p0",
     "route": "mistral",
@@ -108,36 +111,49 @@ _ARTIFACT = {
 }
 
 
-def _build_tree() -> None:
-    if _DS.exists():
-        return
-    (_DS / "page_png").mkdir(parents=True)
-    for engine in ("dots", "mistral"):
-        d = _DS / "engines" / engine
-        d.mkdir(parents=True)
-        (d / "rep.1.1__p0.json").write_text('{"raw": "engine file"}')
-    Image.new("RGB", (17, 22)).save(_DS / "page_png" / "rep.1.1__p0.png")
-    art = _TMP / "artifacts" / "tiny" / "mistral"
-    art.mkdir(parents=True)
-    (art / "rep.1.1__p0.json").write_text(json.dumps(_ARTIFACT))
+class DataTreeTestCase(SimpleTestCase):
+    """Base: a per-class tmp data tree, settings pointed at it."""
 
+    tmp: Path
 
-@override_settings(
-    DATA_ROOT=_TMP,
-    DATASETS_ROOT=_TMP / "datasets",
-    ARTIFACTS_ROOT=_TMP / "artifacts",
-    WEIGHTS_ROOT=_TMP / "weights",
-)
-class ViewerViewsTest(SimpleTestCase):
+    @classmethod
+    def build_tree(cls, tmp: Path) -> None:
+        raise NotImplementedError
+
     @classmethod
     def setUpClass(cls) -> None:
         super().setUpClass()
-        _build_tree()
+        cls.tmp = Path(tempfile.mkdtemp(prefix="extraction-tests-"))
+        cls.addClassCleanup(shutil.rmtree, cls.tmp, ignore_errors=True)
+        cls.build_tree(cls.tmp)
+        cls.enterClassContext(
+            override_settings(
+                DATA_ROOT=cls.tmp,
+                DATASETS_ROOT=cls.tmp / "datasets",
+                ARTIFACTS_ROOT=cls.tmp / "artifacts",
+                WEIGHTS_ROOT=cls.tmp / "weights",
+            )
+        )
+
+
+class ViewerViewsTest(DataTreeTestCase):
+    """View tests over a hand-written artifact fixture."""
 
     @classmethod
-    def tearDownClass(cls) -> None:
-        shutil.rmtree(_TMP, ignore_errors=True)
-        super().tearDownClass()
+    def build_tree(cls, tmp: Path) -> None:
+        ds = tmp / "datasets" / "tiny"
+        (ds / "page_png").mkdir(parents=True)
+        for engine in ("dots", "mistral"):
+            d = ds / "engines" / engine
+            d.mkdir(parents=True)
+            (d / "rep.1.1__p0.json").write_text('{"raw": "engine file"}')
+        Image.new("RGB", (17, 22)).save(ds / "page_png" / "rep.1.1__p0.png")
+        art = tmp / "artifacts" / "tiny" / "mistral"
+        art.mkdir(parents=True)
+        (art / "rep.1.1__p0.json").write_text(json.dumps(_ARTIFACT))
+        # a second page whose artifact is a STALE schema version
+        stale = dict(_ARTIFACT, page="rep.1.1__p9", schema_version=0)
+        (art / "rep.1.1__p9.json").write_text(json.dumps(stale))
 
     def test_home_lists_samples_with_route_buttons(self) -> None:
         response = self.client.get("/")
@@ -178,6 +194,10 @@ class ViewerViewsTest(SimpleTestCase):
         response = self.client.get("/d/tiny/mistral/nope__p9/")
         self.assertEqual(response.status_code, 404)
 
+    def test_stale_schema_artifact_404s(self) -> None:
+        response = self.client.get("/d/tiny/mistral/rep.1.1__p9/")
+        self.assertEqual(response.status_code, 404)
+
     def test_page_img_served(self) -> None:
         response = self.client.get("/img/tiny/rep.1.1__p0.png")
         self.assertEqual(response.status_code, 200)
@@ -202,3 +222,81 @@ class ViewerViewsTest(SimpleTestCase):
             response, "https://huggingface.co/rednote-hilab/dots.mocr"
         )
         self.assertContains(response, "OpenRAIL-M")
+
+
+class PipelineToViewerContractTest(DataTreeTestCase):
+    """End-to-end seam test: pipeline.run builds a REAL artifact over a
+    synthetic dataset, and the viewer renders it. Locks the
+    pipeline/viewer contract — the fixture-based tests above cannot catch
+    the two sides drifting apart."""
+
+    @classmethod
+    def build_tree(cls, tmp: Path) -> None:
+        ds = tmp / "datasets" / "e2e"
+        vol = ds / "redacted" / "rep" / "9" / "9"
+        vol.mkdir(parents=True)
+        (vol / "detections.json").write_text("[]")
+        doc = fitz.open()
+        doc.new_page(width=612, height=792)
+        doc.save(str(vol / "vol.pdf"))
+        doc.close()
+        (ds / "page_png").mkdir(parents=True)
+        Image.new("RGB", (17, 22)).save(ds / "page_png" / "rep.9.9__p0.png")
+        engines = ds / "engines"
+        (engines / "container_yolo").mkdir(parents=True)
+        (engines / "container_yolo" / "rep.9.9__p0.json").write_text(
+            json.dumps(
+                [
+                    {
+                        "label": "column",
+                        "bbox": [100, 100, 1600, 2100],
+                        "confidence": 0.95,
+                    }
+                ]
+            )
+        )
+        (engines / "dots").mkdir(parents=True)
+        (engines / "dots" / "rep.9.9__p0.json").write_text(
+            json.dumps(
+                {
+                    "text": "hello *world*",
+                    "regions": [
+                        {
+                            "order": 0,
+                            "label": "Text",
+                            "bbox": [120, 120, 900, 200],
+                            "text": "hello *world*",
+                        }
+                    ],
+                }
+            )
+        )
+        (engines / "mistral").mkdir(parents=True)
+        (engines / "mistral" / "rep.9.9__p0.json").write_text(
+            json.dumps(
+                [
+                    {
+                        "type": "text",
+                        "bbox": [120, 120, 900, 200],
+                        "text": "hello **world**",
+                    }
+                ]
+            )
+        )
+
+    def test_run_route_artifact_renders_in_viewer(self) -> None:
+        written, skipped = run_route(self.tmp, "e2e", ROUTES["mistral"])
+        self.assertEqual((written, skipped), (1, 0))
+        artifact = json.loads(
+            (
+                self.tmp / "artifacts" / "e2e" / "mistral" / "rep.9.9__p0.json"
+            ).read_text(encoding="utf-8")
+        )
+        self.assertEqual(artifact["schema_version"], SCHEMA_VERSION)
+        response = self.client.get("/d/e2e/mistral/rep.9.9__p0/")
+        self.assertEqual(response.status_code, 200)
+        self.assertContains(response, "hello")
+        # dots markdown styling survived into the rendered reconstruction
+        self.assertContains(response, "<em>world</em>")
+        # mistral bold styling too
+        self.assertContains(response, "<strong>world</strong>")

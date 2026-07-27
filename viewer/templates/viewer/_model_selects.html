@@ -1,0 +1,30 @@
+{% comment %}
+The three model dropdowns (used inside a GET form posting to route_go).
+Slots 1+2 = the primary pair (at least one bbox-capable model; dots,
+when picked here, becomes the main engine). Slot 3 = lighton
+(tiebreaker) or a third model (direct three-way vote).
+{% endcomment %}
+<label class="flex items-center gap-1">
+  <span class="text-neutral-500">model 1</span>
+  <select name="m1" class="rounded-md border border-neutral-300 bg-white px-2 py-1">
+    {% for o in primary_options %}
+      <option value="{{ o.value }}" {% if o.value == sel.m1 %}selected{% endif %}>{{ o.label }}</option>
+    {% endfor %}
+  </select>
+</label>
+<label class="flex items-center gap-1">
+  <span class="text-neutral-500">model 2</span>
+  <select name="m2" class="rounded-md border border-neutral-300 bg-white px-2 py-1">
+    {% for o in primary_options %}
+      <option value="{{ o.value }}" {% if o.value == sel.m2 %}selected{% endif %}>{{ o.label }}</option>
+    {% endfor %}
+  </select>
+</label>
+<label class="flex items-center gap-1">
+  <span class="text-neutral-500">resolver</span>
+  <select name="m3" class="rounded-md border border-neutral-300 bg-white px-2 py-1">
+    {% for o in third_options %}
+      <option value="{{ o.value }}" {% if o.value == sel.m3 %}selected{% endif %}>{{ o.label }}</option>
+    {% endfor %}
+  </select>
+</label>

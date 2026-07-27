@@ -13,7 +13,6 @@ from django.core.management.base import BaseCommand, CommandError
 from pipeline.core.artifacts import SCHEMA_VERSION
 from pipeline.core.config import dataset
 from pipeline.core.pages import discover_pages
-from pipeline.routes import ROUTES
 
 REQUIRED_DIRS = ("redacted", "page_png", "engines")
 # engines/<subpath> -> which routes need it (surya's two variants are
@@ -104,30 +103,33 @@ class Command(BaseCommand):
                 n = self._count(ds / "engines" / engine)
                 mark = "✓" if n else "—"
                 self.stdout.write(f"  {mark} engines/{engine}: {n} ({hint})")
-            for route in ROUTES:
-                d = settings.ARTIFACTS_ROOT / name / route
-                n = self._count(d, "*.json")
-                regen = (
-                    f"uv run python -m pipeline.run --dataset {name} "
-                    f"--route {route}"
+            # routes are user-composed; artifacts materialize per
+            # combination (on first viewer visit, or via pipeline.run)
+            art = settings.ARTIFACTS_ROOT / name
+            combos = (
+                sorted(p.name for p in art.iterdir() if p.is_dir())
+                if art.is_dir()
+                else []
+            )
+            if not combos:
+                self.stdout.write(
+                    "  — artifacts: none yet (built on first viewer "
+                    "visit, or run: uv run python -m pipeline.run "
+                    f"--dataset {name} --route all)"
                 )
-                if not n:
-                    self.stdout.write(
-                        f"  — artifacts/{route}: none (run: {regen})"
-                    )
-                    continue
+            for route in combos:
+                d = art / route
+                n = self._count(d, "*.json")
                 version = self._schema_version(d)
                 if version == SCHEMA_VERSION:
                     self.stdout.write(f"  ✓ artifacts/{route}: {n}")
                 else:
                     self.stdout.write(
-                        self.style.ERROR(
-                            f"  ✗ artifacts/{route}: {n} at schema "
-                            f"v{version} — viewer expects "
-                            f"v{SCHEMA_VERSION}; re-run: {regen}"
-                        )
+                        f"  — artifacts/{route}: {n} at schema "
+                        f"v{version} (stale; rebuilt on next visit or "
+                        f"via: uv run python -m pipeline.run --dataset "
+                        f"{name} --route {route})"
                     )
-                    problems += 1
         weights = settings.WEIGHTS_ROOT
         n_w = self._count(weights) if weights.is_dir() else 0
         self.stdout.write(f"weights: {n_w} file(s) under {weights}")

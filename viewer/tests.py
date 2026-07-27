@@ -12,14 +12,15 @@ from django.test import SimpleTestCase, override_settings
 from PIL import Image
 
 from pipeline.core.artifacts import SCHEMA_VERSION
-from pipeline.routes import ROUTES
+from pipeline.core.normalize import registry_hash
+from pipeline.routes import resolve
 from pipeline.run import run_route
 
 _ARTIFACT = {
     "schema_version": SCHEMA_VERSION,
     "dataset": "tiny",
     "page": "rep.1.1__p0",
-    "route": "mistral",
+    "route": "dots+mistral+lighton",
     "tiebreak": "lighton",
     "stages": {
         "render": {
@@ -84,10 +85,11 @@ _ARTIFACT = {
                         "role": "content",
                         "band": "body",
                         "column": "L",
+                        "text": "Hello world",
                         "html": "hello <em>world</em>",
                     }
                 ],
-                "text": "hello world",
+                "text": "Hello world",
             },
             "supplementals": [
                 {
@@ -100,10 +102,88 @@ _ARTIFACT = {
                             "role": "content",
                             "band": "body",
                             "column": "L",
+                            "text": "hello world",
                             "html": "hello <em>world</em>",
                         }
                     ],
                     "text": "hello world",
+                }
+            ],
+        },
+        "normalize": {
+            "registry": {
+                "hash": "abc123def456",
+                "rules": [
+                    {
+                        "name": "sample-rule",
+                        "layer": "shared",
+                        "applies_to": "key",
+                        "description": "synthetic rule for view tests",
+                        "n_examples": 1,
+                    }
+                ],
+            },
+            "main": {
+                "engine": "dots",
+                "tokens": [
+                    {
+                        "display": "Hello",
+                        "key": "hello",
+                        "item": 0,
+                        "span": [0, 5],
+                    },
+                    {
+                        "display": "world",
+                        "key": "world",
+                        "item": 0,
+                        "span": [6, 11],
+                    },
+                ],
+                "rules": [
+                    {
+                        "rule": "sample-rule",
+                        "applied": True,
+                        "n_changed": 1,
+                        "changes": [
+                            {
+                                "at": 0,
+                                "before": [
+                                    {"display": "Hello", "key": "Hello"}
+                                ],
+                                "after": [
+                                    {"display": "Hello", "key": "hello"}
+                                ],
+                            }
+                        ],
+                    }
+                ],
+            },
+            "supplementals": [
+                {
+                    "engine": "mistral",
+                    "unit": "block",
+                    "tokens": [
+                        {
+                            "display": "hello",
+                            "key": "hello",
+                            "item": 0,
+                            "span": [0, 5],
+                        },
+                        {
+                            "display": "world",
+                            "key": "world",
+                            "item": 0,
+                            "span": [6, 11],
+                        },
+                    ],
+                    "rules": [
+                        {
+                            "rule": "sample-rule",
+                            "applied": True,
+                            "n_changed": 0,
+                            "changes": [],
+                        }
+                    ],
                 }
             ],
         },
@@ -148,35 +228,86 @@ class ViewerViewsTest(DataTreeTestCase):
             d.mkdir(parents=True)
             (d / "rep.1.1__p0.json").write_text('{"raw": "engine file"}')
         Image.new("RGB", (17, 22)).save(ds / "page_png" / "rep.1.1__p0.png")
-        art = tmp / "artifacts" / "tiny" / "mistral"
+        art = tmp / "artifacts" / "tiny" / "dots+mistral+lighton"
         art.mkdir(parents=True)
         (art / "rep.1.1__p0.json").write_text(json.dumps(_ARTIFACT))
         # a second page whose artifact is a STALE schema version
         stale = dict(_ARTIFACT, page="rep.1.1__p9", schema_version=0)
         (art / "rep.1.1__p9.json").write_text(json.dumps(stale))
 
-    def test_home_lists_samples_with_route_buttons(self) -> None:
+    def test_home_is_a_door_to_the_flow(self) -> None:
         response = self.client.get("/")
         self.assertEqual(response.status_code, 200)
-        self.assertContains(response, "tiny")
-        self.assertContains(response, "rep.1.1__p0")
-        # mistral has an artifact -> link; the others -> inert spans
-        self.assertContains(response, "/d/tiny/mistral/rep.1.1__p0/")
-        self.assertNotContains(response, "/d/tiny/gemini/rep.1.1__p0/")
-        self.assertNotContains(response, "/d/tiny/surya_line/rep.1.1__p0/")
-        self.assertNotContains(response, "/d/tiny/surya_block/rep.1.1__p0/")
-        self.assertNotContains(response, "/d/tiny/three_way/rep.1.1__p0/")
+        self.assertContains(response, "Open the pipeline flow")
+        self.assertContains(response, "/go/")
+        # dataset/model/page selection lives on the flow page, not here
+        self.assertNotContains(response, 'name="m1"')
+        self.assertNotContains(response, "rep.1.1__p0")
+
+    def test_flow_page_offers_dataset_and_model_selects(self) -> None:
+        response = self.client.get("/d/tiny/dots+mistral+lighton/rep.1.1__p0/")
+        self.assertContains(response, 'name="dataset"')
+        self.assertContains(response, 'name="m1"')
+        self.assertContains(response, 'name="m2"')
+        self.assertContains(response, 'name="m3"')
+        # lighton only offered in the third slot
+        self.assertContains(response, "lighton (tiebreaker)", count=1)
+
+    def test_route_go_defaults_land_on_the_flow(self) -> None:
+        # the default combination: dots ∥ mistral ∥ surya block (vote)
+        response = self.client.get("/go/")
+        self.assertRedirects(
+            response,
+            "/d/tiny/dots+mistral+surya_block/rep.1.1__p0/",
+            fetch_redirect_response=False,
+        )
+
+    def test_route_go_redirects_to_composed_route(self) -> None:
+        response = self.client.get(
+            "/go/",
+            {
+                "dataset": "tiny",
+                "m1": "gemini",
+                "m2": "dots",
+                "m3": "lighton",
+                "page": "rep.1.1__p0",
+            },
+        )
+        self.assertRedirects(
+            response,
+            "/d/tiny/dots+gemini+lighton/rep.1.1__p0/",
+            fetch_redirect_response=False,
+        )
+
+    def test_route_go_rejects_invalid_combo(self) -> None:
+        response = self.client.get(
+            "/go/", {"m1": "dots", "m2": "dots", "m3": "lighton"}
+        )
+        self.assertEqual(response.status_code, 302)
+        self.assertIn("error=", response["Location"])
+        follow = self.client.get(response["Location"])
+        self.assertContains(follow, "pick three different models")
+
+    def test_route_go_rejects_lighton_in_primary_slot(self) -> None:
+        response = self.client.get(
+            "/go/", {"m1": "lighton", "m2": "dots", "m3": "gemini"}
+        )
+        self.assertIn("error=", response["Location"])
+
+    def test_invalid_route_in_url_404s(self) -> None:
+        response = self.client.get("/d/tiny/dots+dots+lighton/rep.1.1__p0/")
+        self.assertEqual(response.status_code, 404)
 
     def test_dataset_redirects_to_first_page(self) -> None:
         response = self.client.get("/d/tiny/")
         self.assertRedirects(
             response,
-            "/d/tiny/mistral/rep.1.1__p0/",
+            "/d/tiny/dots+mistral+surya_block/rep.1.1__p0/",
             fetch_redirect_response=False,
         )
 
     def test_walkthrough_renders_stages(self) -> None:
-        response = self.client.get("/d/tiny/mistral/rep.1.1__p0/")
+        response = self.client.get("/d/tiny/dots+mistral+lighton/rep.1.1__p0/")
         self.assertEqual(response.status_code, 200)
         for fragment in (
             "Render",
@@ -184,18 +315,33 @@ class ViewerViewsTest(DataTreeTestCase):
             "Main OCR",
             "Supplemental",
             "Reconstruct",
+            "Normalize",
         ):
             self.assertContains(response, fragment)
         self.assertContains(response, "hello world")
         self.assertContains(response, "hello <em>world</em>", html=False)
         self.assertContains(response, "pageViewer")
 
-    def test_missing_artifact_404s(self) -> None:
-        response = self.client.get("/d/tiny/mistral/nope__p9/")
+    def test_normalize_card_shows_registry_and_rule_diff(self) -> None:
+        response = self.client.get("/d/tiny/dots+mistral+lighton/rep.1.1__p0/")
+        self.assertContains(response, "registry abc123def456")
+        self.assertContains(response, "sample-rule")
+        self.assertContains(response, "shared · key")
+        # the change record renders as a before -> after diff
+        self.assertContains(response, "Hello")
+        self.assertContains(response, "dots (main): 1")
+        # final key streams render for both engines
+        self.assertContains(response, "mistral (supplemental)")
+
+    def test_unknown_page_404s(self) -> None:
+        response = self.client.get("/d/tiny/dots+mistral+lighton/nope__p9/")
         self.assertEqual(response.status_code, 404)
 
-    def test_stale_schema_artifact_404s(self) -> None:
-        response = self.client.get("/d/tiny/mistral/rep.1.1__p9/")
+    def test_stale_schema_unrebuildable_404s(self) -> None:
+        # the stale artifact triggers a rebuild; this synthetic tree has
+        # no redacted sources, so the rebuild fails -> 404, never a
+        # silently stale render
+        response = self.client.get("/d/tiny/dots+mistral+lighton/rep.1.1__p9/")
         self.assertEqual(response.status_code, 404)
 
     def test_page_img_served(self) -> None:
@@ -208,7 +354,7 @@ class ViewerViewsTest(DataTreeTestCase):
         self.assertEqual(response.status_code, 404)
 
     def test_raw_engine_output_expandables(self) -> None:
-        response = self.client.get("/d/tiny/mistral/rep.1.1__p0/")
+        response = self.client.get("/d/tiny/dots+mistral+lighton/rep.1.1__p0/")
         self.assertContains(response, "content verbatim")
         self.assertContains(response, "raw model output — dots JSON")
         self.assertContains(response, "raw model output — mistral JSON")
@@ -285,18 +431,72 @@ class PipelineToViewerContractTest(DataTreeTestCase):
         )
 
     def test_run_route_artifact_renders_in_viewer(self) -> None:
-        written, skipped = run_route(self.tmp, "e2e", ROUTES["mistral"])
+        written, skipped = run_route(self.tmp, "e2e", resolve("mistral"))
         self.assertEqual((written, skipped), (1, 0))
         artifact = json.loads(
             (
-                self.tmp / "artifacts" / "e2e" / "mistral" / "rep.9.9__p0.json"
+                self.tmp
+                / "artifacts"
+                / "e2e"
+                / "dots+mistral+lighton"
+                / "rep.9.9__p0.json"
             ).read_text(encoding="utf-8")
         )
         self.assertEqual(artifact["schema_version"], SCHEMA_VERSION)
-        response = self.client.get("/d/e2e/mistral/rep.9.9__p0/")
+        response = self.client.get("/d/e2e/dots+mistral+lighton/rep.9.9__p0/")
         self.assertEqual(response.status_code, 200)
         self.assertContains(response, "hello")
         # dots markdown styling survived into the rendered reconstruction
         self.assertContains(response, "<em>world</em>")
         # mistral bold styling too
         self.assertContains(response, "<strong>world</strong>")
+        # stage 6: canonical tokens with provenance, stamped registry.
+        # dots' `*world*` markdown decoded to <em> -> the emphasis is
+        # STYLING on the token, not comparison content: both engines'
+        # keys agree on "world".
+        norm = artifact["stages"]["normalize"]
+        self.assertEqual(norm["registry"]["hash"], registry_hash())
+        self.assertEqual(
+            [t["key"] for t in norm["main"]["tokens"]],
+            ["hello", "world"],
+        )
+        self.assertEqual(norm["main"]["tokens"][1]["styling"], ["em"])
+        self.assertEqual(
+            [t["key"] for t in norm["supplementals"][0]["tokens"]],
+            ["hello", "world"],
+        )
+        token = norm["main"]["tokens"][0]
+        items_by_id = {
+            i["id"]: i
+            for i in artifact["stages"]["reconstruct"]["main"]["items"]
+        }
+        item = items_by_id[token["item"]]
+        start, end = token["span"]
+        self.assertEqual(item["html"][start:end], token["display"])
+        self.assertContains(response, "Normalize")
+        self.assertContains(response, f"registry {registry_hash()}")
+        self.assertContains(response, "engine-decode rules")
+
+    def test_composed_route_materializes_on_first_visit(self) -> None:
+        # no pipeline.run for this combination — the first visit builds
+        # the artifact from the cached engine outputs and writes it.
+        # mistral is the main engine here (dots sits in the vote slot).
+        out = (
+            self.tmp
+            / "artifacts"
+            / "e2e"
+            / "mistral+gemini+dots"
+            / "rep.9.9__p0.json"
+        )
+        self.assertFalse(out.exists())
+        response = self.client.get("/d/e2e/mistral+gemini+dots/rep.9.9__p0/")
+        self.assertEqual(response.status_code, 200)
+        self.assertContains(response, "Main OCR — mistral")
+        self.assertTrue(out.exists())
+        artifact = json.loads(out.read_text(encoding="utf-8"))
+        self.assertEqual(artifact["route"], "mistral+gemini+dots")
+        self.assertIsNone(artifact["tiebreak"])
+        self.assertEqual(artifact["stages"]["main_ocr"]["engine"], "mistral")
+        # gemini has no cached XML in this tree -> refusal supplemental
+        engines = [s["engine"] for s in artifact["stages"]["supplementals"]]
+        self.assertEqual(engines, ["gemini", "dots"])

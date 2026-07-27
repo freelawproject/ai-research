@@ -109,6 +109,37 @@ document.addEventListener("alpine:init", () => {
     },
   }));
 
+  // The three model dropdowns: selections persist across pages via
+  // localStorage. Forms with data-restore="true" (home) restore the
+  // last-used combination; page forms are prefilled from the URL and
+  // only save.
+  const LS_MODELS = "extraction.viewer.models";
+  Alpine.data("modelPicker", () => ({
+    init() {
+      if (this.$root.dataset.restore !== "true") return;
+      try {
+        const saved = JSON.parse(localStorage.getItem(LS_MODELS) || "null");
+        if (!saved) return;
+        for (const [name, value] of Object.entries(saved)) {
+          const el = this.$root.querySelector(`select[name="${name}"]`);
+          if (el && [...el.options].some((o) => o.value === value)) {
+            el.value = value;
+          }
+        }
+      } catch (e) {
+        /* first visit or corrupted state: keep defaults */
+      }
+    },
+
+    save() {
+      const data = {};
+      this.$root.querySelectorAll("select[name]").forEach((el) => {
+        data[el.name] = el.value;
+      });
+      localStorage.setItem(LS_MODELS, JSON.stringify(data));
+    },
+  }));
+
   // Synced scrolling for the reconstruct card: scrolling any panel scrolls
   // all panels proportionally (top meets top, bottom meets bottom, even
   // when the texts differ in length).

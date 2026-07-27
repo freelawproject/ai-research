@@ -1,64 +1,37 @@
 {% extends "viewer/base.html" %}
 
 {% block content %}
-<h1 class="mb-4 text-xl font-semibold">Samples</h1>
+<h1 class="mb-4 text-xl font-semibold">Case Law Extraction</h1>
 
-{% if datasets %}
-  {% for d in datasets %}
-    <section class="mb-6 rounded-lg border border-neutral-200 bg-white">
-      <header class="border-b border-neutral-100 px-4 py-2">
-        <h2 class="font-semibold">{{ d.info.name }}</h2>
-        <p class="text-sm text-neutral-600">
-          {{ d.rows|length }} sample{{ d.rows|length|pluralize }} ·
-          engine outputs: {{ d.info.engines|join:", " }}
-        </p>
-      </header>
-      {% if d.rows %}
-        <ul class="divide-y divide-neutral-100">
-          {% for row in d.rows %}
-            <li class="flex flex-wrap items-center gap-3 px-4 py-2">
-              <span class="min-w-48 font-mono text-sm">{{ row.id }}</span>
-              <span class="flex gap-2">
-                {% for r in row.routes %}
-                  {% if r.url %}
-                    {% if r.name == "three_way" %}
-                      <a href="{{ r.url }}"
-                         class="rounded-md border border-emerald-600 px-3 py-0.5 text-sm font-medium text-emerald-700 hover:bg-emerald-600 hover:text-white">
-                        {{ r.name }}
-                      </a>
-                    {% else %}
-                      <a href="{{ r.url }}"
-                         class="rounded-md border border-indigo-600 px-3 py-0.5 text-sm font-medium text-indigo-700 hover:bg-indigo-600 hover:text-white">
-                        {{ r.name }}
-                      </a>
-                    {% endif %}
-                  {% else %}
-                    <span class="rounded-md border border-neutral-200 px-3 py-0.5 text-sm text-neutral-300">
-                      {{ r.name }}
-                    </span>
-                  {% endif %}
-                {% endfor %}
-              </span>
-            </li>
-          {% endfor %}
-        </ul>
-      {% else %}
-        <p class="px-4 py-3 text-sm text-neutral-600">
-          No artifacts yet — run
-          <code>uv run python -m pipeline.run --dataset {{ d.info.name }} --route all</code>.
-        </p>
-      {% endif %}
-    </section>
-  {% endfor %}
-{% else %}
-  <p class="text-neutral-600">
-    No datasets found. Place the data folder at <code>./data/</code>
-    (see the README for the expected layout), then run
-    <code>uv run python -m pipeline.run --dataset sample30 --route all</code>.
+{% if error %}
+  <p class="mb-4 rounded-md bg-red-50 p-2 text-sm text-red-700">
+    {{ error }}
   </p>
 {% endif %}
 
-<h2 class="mb-2 mt-8 text-xl font-semibold">Models</h2>
+{% if has_datasets %}
+  <section class="mb-8 rounded-lg border border-neutral-200 bg-white px-4 py-4">
+    <p class="mb-3 text-sm text-neutral-600">
+      Walk the extraction pipeline stage by stage. On the flow page you
+      pick the sample set, the page, and the three models: two OCR
+      models plus a resolver (lighton tie-breaks disputed spans; a
+      third model joins a direct vote). The bbox-capable pick — dots
+      first — anchors the reconstruction.
+    </p>
+    <a href="{% url 'route_go' %}"
+       class="inline-block rounded-md bg-indigo-600 px-4 py-2 font-medium text-white">
+      Open the pipeline flow
+    </a>
+  </section>
+{% else %}
+  <p class="mb-8 text-neutral-600">
+    No datasets found. Place the data folder at <code>./data/</code>
+    (see the README for the expected layout), then run
+    <code>uv run python manage.py check_data</code>.
+  </p>
+{% endif %}
+
+<h2 class="mb-2 text-xl font-semibold">Models</h2>
 <section class="rounded-lg border border-neutral-200 bg-white">
   {% for m in engine_info %}
     <details class="border-b border-neutral-100 px-4 py-2 last:border-b-0">

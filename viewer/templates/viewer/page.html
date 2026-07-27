@@ -3,21 +3,26 @@
 {% block title %}{{ page_id }} · {{ route }} · Case Law Extraction{% endblock %}
 
 {% block header %}
-<nav class="flex items-center gap-1 text-sm" aria-label="Routes">
-  {% for r in routes %}
-    {% if r.name == "three_way" %}
-      <a href="{{ r.url }}"
-         class="rounded-md px-3 py-1 font-medium {% if r.active %}bg-emerald-600 text-white{% else %}text-emerald-700{% endif %}">
-        {{ r.name }}
-      </a>
-    {% else %}
-      <a href="{{ r.url }}"
-         class="rounded-md px-3 py-1 font-medium {% if r.active %}bg-indigo-600 text-white{% else %}text-neutral-600{% endif %}">
-        {{ r.name }}
-      </a>
-    {% endif %}
-  {% endfor %}
-</nav>
+<form method="get" action="{% url 'route_go' %}"
+      x-data="modelPicker" x-on:change="save"
+      class="flex flex-wrap items-center gap-2 text-sm"
+      aria-label="Dataset and models">
+  <input type="hidden" name="page" value="{{ page_id }}">
+  <label class="flex items-center gap-1">
+    <span class="text-neutral-500">samples</span>
+    <select name="dataset"
+            class="rounded-md border border-neutral-300 bg-white px-2 py-1">
+      {% for d in dataset_options %}
+        <option value="{{ d }}" {% if d == dataset %}selected{% endif %}>{{ d }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  {% include "viewer/_model_selects.html" %}
+  <button type="submit"
+          class="rounded-md bg-indigo-600 px-3 py-1 font-medium text-white">
+    view
+  </button>
+</form>
 <div class="ml-auto flex items-center gap-2 text-sm" x-data="pageNav">
   {% if prev_url %}
     <a href="{{ prev_url }}" class="rounded-md border border-neutral-300 px-2 py-1 text-neutral-700">←</a>
@@ -51,7 +56,7 @@
                       label="yolo raw" count="{{ layers.yolo_raw|length }}"
                       chip="border-dotted border-sky-300" />
       <c-layer-toggle prop="showDots" toggle="toggleDots"
-                      label="dots blocks" count="{{ layers.dots|length }}"
+                      label="{{ main_label }} (main)" count="{{ layers.main|length }}"
                       chip="border-red-600" />
       {% for s in supps %}
         {% if s.boxes %}
@@ -94,7 +99,7 @@
           {% endfor %}
         </div>
         <div x-show="showDots" x-cloak>
-          {% for b in layers.dots %}
+          {% for b in layers.main %}
             <div class="ov {{ b.cls }}" style="{{ b.style }}" title="{{ b.title }}"></div>
           {% endfor %}
         </div>
@@ -172,7 +177,7 @@
       {% endif %}
     </c-stage-card>
 
-    <c-stage-card number="3" title="Main OCR — dots"
+    <c-stage-card number="3" title="Main OCR — {{ main_label }}"
                   subtitle="{{ stages.main_ocr.blocks|length }} blocks · text verbatim">
       <ol class="flex max-h-[60vh] flex-col gap-2 overflow-auto text-sm">
         {% for b in stages.main_ocr.blocks %}
@@ -184,8 +189,8 @@
           </li>
         {% endfor %}
       </ol>
-      {% if raws.dots %}
-        <c-raw-output label="dots JSON">{{ raws.dots }}</c-raw-output>
+      {% if raws.main %}
+        <c-raw-output label="{{ main_label }} JSON">{{ raws.main }}</c-raw-output>
       {% endif %}
     </c-stage-card>
 
@@ -266,6 +271,34 @@
     {% if recon %}
       <c-stage-card number="5" title="Reconstruct"
                     subtitle="reading order via containers · raw text">
+        {% if main_redactions %}
+          <p class="mb-2 rounded-md bg-neutral-100 p-2 text-sm text-neutral-700">
+            dots: {{ main_redactions|length }} image
+            block{{ main_redactions|length|pluralize }} dropped as
+            redaction placeholder{{ main_redactions|length|pluralize }}
+            (near-black crop{% for r in main_redactions %}
+            #{{ r.id }}: {{ r.black_frac }}{% if not forloop.last %},{% endif %}{% endfor %}).
+          </p>
+        {% endif %}
+        {% for s in supps %}
+          {% if s.redactions %}
+            <p class="mb-2 rounded-md bg-neutral-100 p-2 text-sm text-neutral-700">
+              {{ s.label }}: {{ s.redactions|length }} image
+              block{{ s.redactions|length|pluralize }} dropped as
+              redaction placeholder{{ s.redactions|length|pluralize }}
+              (near-black crop{% for r in s.redactions %}
+              #{{ r.id }}: {{ r.black_frac }}{% if not forloop.last %},{% endif %}{% endfor %}).
+            </p>
+          {% endif %}
+          {% if s.star_pages %}
+            <p class="mb-2 rounded-md bg-neutral-100 p-2 text-sm text-neutral-700">
+              {{ s.label }}: parallel-reporter star
+              page{{ s.star_pages|length|pluralize }} recorded
+              (★{{ s.star_pages|join:", ★" }}) — structural marker, kept
+              out of the content stream.
+            </p>
+          {% endif %}
+        {% endfor %}
         {% for s in supps %}
           {% if s.dropped %}
             <p class="mb-2 rounded-md bg-red-50 p-2 text-sm text-red-800">
@@ -301,7 +334,7 @@
              x-data="reconSync">
           <div>
             <h3 class="mb-1 text-sm font-medium text-neutral-500">
-              dots (main)
+              {{ main_label }} (main)
             </h3>
             <ol x-on:scroll="sync"
                 class="recon-scroll flex max-h-[60vh] flex-col gap-1 overflow-auto text-sm">
@@ -371,8 +404,89 @@
       </c-stage-card>
     {% endif %}
 
+    {% if norm %}
+      <c-stage-card number="6" title="Normalize"
+                    subtitle="registry {{ norm.hash }} · {{ norm.rules|length }} rule{{ norm.rules|length|pluralize }}">
+        <p class="mb-3 text-sm text-neutral-600">
+          Each stream becomes canonical tokens: comparison (stage 7) uses
+          only the <span class="font-mono">key</span>; rendering keeps the
+          verbatim <span class="font-mono">display</span>. Rules are
+          decided one at a time — every rule below shows exactly what it
+          changed on this page.
+        </p>
+        {% if norm.decode_rules %}
+          <details class="mb-3 text-sm">
+            <summary class="cursor-pointer text-neutral-600">
+              engine-decode rules ({{ norm.decode_rules|length }}) — applied
+              at stage 3/4 decode, versioned in the same registry
+            </summary>
+            <ul class="mt-1 flex flex-col gap-1">
+              {% for r in norm.decode_rules %}
+                <li class="rounded border border-neutral-100 bg-neutral-50 px-2 py-1">
+                  <span class="rounded bg-fuchsia-700/10 px-1 font-mono text-xs text-fuchsia-800">{{ r.name }}</span>
+                  <span class="text-xs text-neutral-500">{{ r.layer }}</span>
+                  <span class="text-xs text-neutral-600">{{ r.description }}</span>
+                </li>
+              {% endfor %}
+            </ul>
+          </details>
+        {% endif %}
+        <div class="mb-3 flex flex-col gap-2">
+          {% for r in norm.rules %}
+            <div class="rounded-md border border-neutral-200 p-2 text-sm">
+              <div class="flex flex-wrap items-center gap-2">
+                <span class="rounded bg-indigo-600/10 px-1 font-mono text-xs text-indigo-700">{{ r.name }}</span>
+                <span class="text-xs text-neutral-500">{{ r.layer }} · {{ r.applies_to }}</span>
+                <span class="ml-auto text-xs text-neutral-500">
+                  {{ r.total }} token{{ r.total|pluralize }} changed
+                </span>
+              </div>
+              <p class="mt-1 text-xs text-neutral-500">{{ r.description }}</p>
+              {% for s in r.streams %}
+                {% if s.changes %}
+                  <details class="mt-1 text-xs">
+                    <summary class="cursor-pointer text-neutral-600">
+                      {{ s.label }}: {{ s.n_changed }}
+                      token{{ s.n_changed|pluralize }} changed
+                    </summary>
+                    <ol class="mt-1 flex max-h-[30vh] flex-col gap-1 overflow-auto">
+                      {% for c in s.changes %}
+                        <li class="rounded border border-neutral-100 bg-neutral-50 px-2 py-1">
+                          <span class="font-mono text-neutral-500">@{{ c.at }}</span>
+                          <span class="text-red-700 line-through">{{ c.before }}</span>
+                          <span class="text-emerald-700">{{ c.after }}</span>
+                        </li>
+                      {% endfor %}
+                    </ol>
+                  </details>
+                {% elif not s.applied %}
+                  <p class="mt-1 text-xs text-neutral-500">
+                    {{ s.label }}: rule layer does not apply
+                  </p>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endfor %}
+        </div>
+        <div class="grid gap-3 {% if supps|length > 1 %}xl:grid-cols-3{% else %}xl:grid-cols-2{% endif %}"
+             x-data="reconSync">
+          {% for s in norm.streams %}
+            <div>
+              <h3 class="mb-1 text-sm font-medium text-neutral-500">
+                {{ s.label }} · {{ s.n_tokens }} token{{ s.n_tokens|pluralize }}
+              </h3>
+              <div x-on:scroll="sync"
+                   class="recon-scroll max-h-[40vh] overflow-auto rounded border border-neutral-100 bg-neutral-50 p-2">
+                <span class="whitespace-pre-wrap font-mono text-xs">{{ s.key_text }}</span>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </c-stage-card>
+    {% endif %}
+
     <section class="rounded-lg border border-dashed border-neutral-300 p-4 text-sm text-neutral-500">
-      Stages 6 (normalize), 7 ({% if artifact.tiebreak %}compare + {{ artifact.tiebreak }} tiebreak{% else %}three-way bbox-aligned majority vote — no tiebreaker{% endif %})
+      Stages 7 ({% if artifact.tiebreak %}compare + {{ artifact.tiebreak }} tiebreak{% else %}three-way bbox-aligned majority vote — no tiebreaker{% endif %})
       and 8 (assemble) land in upcoming milestones.
     </section>
   </div>

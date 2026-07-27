@@ -1,15 +1,18 @@
-from django.http import FileResponse, HttpRequest, HttpResponse
+from urllib.parse import urlencode
+
+from django.http import FileResponse, Http404, HttpRequest, HttpResponse
 from django.shortcuts import redirect
 from django.template.response import TemplateResponse
 from django.urls import reverse
 
+from pipeline import routes
 from pipeline.core.config import RENDER_H, RENDER_W
 from pipeline.engines.info import ENGINE_INFO
-from pipeline.routes import ROUTES
 from viewer import data
 
 _CONTAINER_CLS = "ov-cont"
 _SUPP_CHIP = {
+    "dots": "border-red-600",
     "mistral": "border-fuchsia-700",
     "gemini": "border-fuchsia-700",
     "surya": "border-emerald-600",
@@ -17,6 +20,38 @@ _SUPP_CHIP = {
 # Alpine CSP components use fixed property/method names; supplemental
 # overlay slots are capped at two (the widest route runs two).
 _SUPP_TOGGLES = (("showSupp", "toggleSupp"), ("showSupp2", "toggleSupp2"))
+
+# Dropdown labels for the model slugs (slug = value everywhere).
+_MODEL_LABELS = {
+    "dots": "dots",
+    "mistral": "mistral",
+    "gemini": "gemini",
+    "surya_block": "surya block",
+    "surya_line": "surya line",
+    routes.TIEBREAK_ONLY: "lighton (tiebreaker)",
+}
+# the combination the flow opens with: dots ∥ mistral ∥ surya block,
+# resolved by direct three-way vote
+_DEFAULT_COMBO = routes.PRESETS["three_way"]
+
+
+def _selector_ctx(sel: tuple[str, str, str]) -> dict:
+    """Context for the three model dropdowns. Slots 1+2 offer the OCR
+    models; slot 3 offers LightOn (tiebreak) or a third model (direct
+    three-way vote)."""
+    primary = [{"value": s, "label": _MODEL_LABELS[s]} for s in routes.MODELS]
+    third = [
+        {
+            "value": s,
+            "label": _MODEL_LABELS[s],
+        }
+        for s in (routes.TIEBREAK_ONLY, *routes.MODELS)
+    ]
+    return {
+        "primary_options": primary,
+        "third_options": third,
+        "sel": {"m1": sel[0], "m2": sel[1], "m3": sel[2]},
+    }
 
 
 def _pct_style(bbox: list[float]) -> str:
@@ -54,48 +89,54 @@ def _boxes(
 
 
 async def home(request: HttpRequest) -> HttpResponse:
-    """Landing page: every sample with one button per route, plus the
-    model/architecture reference."""
-    datasets = []
-    for info in data.list_datasets():
-        route_pages = {
-            name: set(data.route_pages(info.name, name)) for name in ROUTES
-        }
-        pages: set[str] = set()
-        for ids in route_pages.values():
-            pages |= ids
-        rows = [
-            {
-                "id": p,
-                "routes": [
-                    {
-                        "name": name,
-                        "url": (
-                            reverse("page", args=[info.name, name, p])
-                            if p in route_pages[name]
-                            else None
-                        ),
-                    }
-                    for name in ROUTES
-                ],
-            }
-            for p in sorted(pages)
-        ]
-        datasets.append({"info": info, "rows": rows})
+    """Landing page: one door into the pipeline flow, plus the
+    model/architecture reference. Dataset, models, and page are all
+    picked on the flow page itself."""
     return TemplateResponse(
         request,
         "viewer/home.html",
-        {"datasets": datasets, "engine_info": ENGINE_INFO},
+        {
+            "has_datasets": bool(data.list_datasets()),
+            "engine_info": ENGINE_INFO,
+            "error": request.GET.get("error", ""),
+        },
     )
 
 
+async def route_go(request: HttpRequest) -> HttpResponse:
+    """Land on the walkthrough for the selected dataset + three models
+    (all optional — defaults fill in; invalid combinations bounce back
+    with the reason). The home button hits this with no params."""
+    names = [info.name for info in data.list_datasets()]
+    if not names:
+        return redirect("home")
+    dataset = request.GET.get("dataset", "")
+    if dataset not in names:
+        dataset = names[0]
+    m1 = request.GET.get("m1", _DEFAULT_COMBO[0])
+    m2 = request.GET.get("m2", _DEFAULT_COMBO[1])
+    m3 = request.GET.get("m3", _DEFAULT_COMBO[2])
+    try:
+        route = routes.compose(m1, m2, m3)
+    except ValueError as exc:
+        return redirect(f"{reverse('home')}?{urlencode({'error': exc})}")
+    page_id = request.GET.get("page", "")
+    pages = data.dataset_pages(dataset)
+    if not pages:
+        return redirect("home")
+    if page_id not in pages:
+        page_id = pages[0]
+    return redirect("page", dataset, route.name, page_id)
+
+
 async def dataset_redirect(request: HttpRequest, dataset: str) -> HttpResponse:
-    """Convenience: a dataset link lands on its first walkable page."""
-    for name in ROUTES:
-        pages = data.route_pages(dataset, name)
-        if pages:
-            return redirect("page", dataset, name, pages[0])
-    return redirect("home")
+    """Convenience: a dataset link lands on its first page under the
+    default combination."""
+    pages = data.dataset_pages(dataset)
+    if not pages:
+        return redirect("home")
+    route = routes.compose(*_DEFAULT_COMBO)
+    return redirect("page", dataset, route.name, pages[0])
 
 
 def _supp_ctx(
@@ -130,16 +171,85 @@ def _supp_ctx(
         ],
         "no_bbox": rsupp.get("no_bbox", []),
         "n_omitted": len(rsupp.get("omitted", [])),
+        "redactions": [
+            {"id": x["id"], "black_frac": x.get("black_frac")}
+            for x in (
+                by_id[r] for r in rsupp.get("redactions", []) if r in by_id
+            )
+        ],
+        "star_pages": rsupp.get("star_pages", []),
         "_dropped_items": dropped,
         "_in_image_items": in_image,
+    }
+
+
+def _norm_ctx(norm: dict | None) -> dict | None:
+    """Stage-6 card context: the registry with per-rule change records
+    (grouped per stream), plus each stream's final key text."""
+    if not norm:
+        return None
+    streams = [
+        {"label": f"{norm['main']['engine']} (main)", **norm["main"]}
+    ] + [
+        {
+            "label": f"{s['engine']} {s['unit']} (supplemental)"
+            if s["engine"] == "surya"
+            else f"{s['engine']} (supplemental)",
+            **s,
+        }
+        for s in norm["supplementals"]
+    ]
+    for s in streams:
+        s["key_text"] = " ".join(t["key"] for t in s["tokens"])
+        s["n_tokens"] = len(s["tokens"])
+    metas = norm["registry"]["rules"]
+    stream_metas = [m for m in metas if m.get("kind", "stream") == "stream"]
+    rules = []
+    for i, meta in enumerate(stream_metas):
+        field = "display" if meta["applies_to"] == "display" else "key"
+        per_stream = []
+        for s in streams:
+            rec = s["rules"][i]  # records follow stream-rule order
+            per_stream.append(
+                {
+                    "label": s["label"],
+                    "applied": rec["applied"],
+                    "n_changed": rec["n_changed"],
+                    "changes": [
+                        {
+                            "at": c["at"],
+                            "before": " ".join(t[field] for t in c["before"]),
+                            "after": " ".join(t[field] for t in c["after"]),
+                        }
+                        for c in rec["changes"]
+                    ],
+                }
+            )
+        rules.append(
+            {
+                **meta,
+                "streams": per_stream,
+                "total": sum(p["n_changed"] for p in per_stream),
+            }
+        )
+    return {
+        "hash": norm["registry"]["hash"],
+        "rules": rules,
+        "decode_rules": [m for m in metas if m.get("kind") == "decode"],
+        "streams": streams,
     }
 
 
 async def page(
     request: HttpRequest, dataset: str, route: str, page: str
 ) -> HttpResponse:
-    """The pipeline walkthrough: one page, one route, stages 1-5."""
-    artifact = data.load_artifact(dataset, route, page)
+    """The pipeline walkthrough: one page, one model combination,
+    stages 1-6. The artifact materializes on first visit."""
+    try:
+        route_obj = routes.parse(route)
+    except ValueError as exc:
+        raise Http404(str(exc)) from exc
+    artifact = data.ensure_artifact(dataset, route_obj, page)
     stages = artifact["stages"]
     recon = stages.get("reconstruct")
     recon_supps = (recon or {}).get("supplementals", [])
@@ -154,25 +264,20 @@ async def page(
         in_image_items += ctx_i.pop("_in_image_items")
         supps.append(ctx_i)
 
+    main_engine = stages["main_ocr"]["engine"]
+    main_unit = stages["main_ocr"].get("unit", "block")
     layers = {
         "containers": _boxes(stages["layout"]["post"]),
         "yolo_raw": _boxes(stages["layout"]["raw"], extra="ov-raw"),
-        "dots": _boxes(stages["main_ocr"]["blocks"], cls_for="ov-dots"),
+        "main": _boxes(
+            stages["main_ocr"]["blocks"], cls_for=f"ov-{main_engine}"
+        ),
         "dropped": _boxes(dropped_items, cls_for="ov-dropped"),
         "in_image": _boxes(in_image_items, cls_for="ov-inimg"),
     }
 
-    pages = data.route_pages(dataset, route)
+    pages = data.dataset_pages(dataset)
     idx = pages.index(page) if page in pages else 0
-    routes = [
-        {
-            "name": name,
-            "url": reverse("page", args=[dataset, name, page]),
-            "active": name == route,
-        }
-        for name in ROUTES
-        if page in data.route_pages(dataset, name) or name == route
-    ]
     page_options = [
         {
             "id": p,
@@ -186,12 +291,28 @@ async def page(
         "stages": stages,
         "supps": supps,
         "recon": {"main": recon["main"]["items"]} if recon else None,
+        "main_redactions": [
+            {"id": b["id"], "black_frac": b.get("black_frac")}
+            for b in stages["main_ocr"]["blocks"]
+            if b["id"]
+            in set((recon or {}).get("main", {}).get("redactions", []))
+        ],
+        "norm": _norm_ctx(stages.get("normalize")),
+        "main_label": (
+            f"{main_engine} {main_unit}"
+            if main_engine == "surya"
+            else main_engine
+        ),
         "raws": {
             "layout": data.engine_raw(dataset, page, "container_yolo"),
-            "dots": data.engine_raw(dataset, page, "dots"),
+            "main": data.engine_raw(
+                dataset,
+                page,
+                main_engine,
+                variant=main_unit if main_engine == "surya" else None,
+            ),
         },
         "layers": layers,
-        "routes": routes,
         "dataset": dataset,
         "route": route,
         "page_id": page,
@@ -208,6 +329,8 @@ async def page(
             else None
         ),
         "img_url": reverse("page_img", args=[dataset, page]),
+        "dataset_options": [info.name for info in data.list_datasets()],
+        **_selector_ctx(tuple(route.split("+"))),  # type: ignore[arg-type]
     }
     return TemplateResponse(request, "viewer/page.html", ctx)
 

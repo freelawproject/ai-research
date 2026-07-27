@@ -10,6 +10,11 @@ urlpatterns = [
         name="dataset",
     ),
     path(
+        "go/",
+        views.route_go,  # type: ignore[arg-type]
+        name="route_go",
+    ),
+    path(
         "d/<str:dataset>/<str:route>/<str:page>/",
         views.page,  # type: ignore[arg-type]
         name="page",

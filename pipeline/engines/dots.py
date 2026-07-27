@@ -10,7 +10,7 @@ from __future__ import annotations
 import json
 
 from pipeline.core.config import Dataset
-from pipeline.core.markup import md_to_html
+from pipeline.core.markup import dots_md_to_html
 
 ENGINE = "dots"
 
@@ -35,7 +35,7 @@ def blocks(raw: dict) -> list[dict]:
                 "label": r.get("label", ""),
                 "bbox": r.get("bbox"),
                 "text": text,
-                "styled": md_to_html(text),
+                "styled": dots_md_to_html(text),
             }
         )
     return out

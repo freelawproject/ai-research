@@ -1,4 +1,4 @@
-"""Artifact contract (v1) — the interface between pipeline and viewer.
+"""Artifact contract — the interface between pipeline and viewer.
 
 The pipeline writes one JSON document per page x route at
 ``data/artifacts/<dataset>/<route>/<page>.json``. The viewer only renders
@@ -8,7 +8,7 @@ in docs/pipeline.md and evolves with SCHEMA_VERSION.
 
 from pathlib import Path
 
-SCHEMA_VERSION = 1
+SCHEMA_VERSION = 3
 
 
 def artifact_path(

@@ -5,7 +5,6 @@ from pipeline.core.reconstruct import (
     reconstruct_blocks,
     reconstruct_gemini,
     reconstruct_surya,
-    reconstruct_surya_blocks,
 )
 
 _CONTAINERS = {
@@ -85,6 +84,38 @@ class ReconstructBlocksTest(unittest.TestCase):
         r = reconstruct_blocks(_CONTAINERS, blocks)
         self.assertEqual(r["items"][0]["html"], "see <em>Searle</em> now")
 
+    def test_items_carry_raw_text_for_normalization(self) -> None:
+        blocks = [
+            _block(0, [150, 200, 700, 300], "see *Searle* now"),
+            _block(1, [150, 400, 700, 900], "JUNK", label="Picture"),
+        ]
+        r = reconstruct_blocks(_CONTAINERS, blocks)
+        self.assertEqual(r["items"][0]["text"], "see *Searle* now")
+        self.assertEqual(r["items"][1]["text"], "")  # image item
+
+    def test_near_black_image_block_dropped_as_redaction(self) -> None:
+        blocks = [
+            _block(0, [150, 200, 700, 300], "before"),
+            {
+                "id": 1,
+                "bbox": [150, 400, 700, 900],
+                "text": "",
+                "label": "Picture",
+                "black_frac": 0.91,  # redaction placeholder
+            },
+            {
+                "id": 2,
+                "bbox": [150, 1000, 700, 1400],
+                "text": "",
+                "label": "Picture",
+                "black_frac": 0.31,  # a real figure
+            },
+        ]
+        r = reconstruct_blocks(_CONTAINERS, blocks)
+        self.assertEqual(r["redactions"], [1])
+        self.assertEqual(r["order"], [0, 2])
+        self.assertEqual(r["items"][1]["role"], "image")
+
 
 class ReconstructGeminiTest(unittest.TestCase):
     def test_document_order_and_tag_roles(self) -> None:
@@ -146,6 +177,29 @@ class ReconstructGeminiTest(unittest.TestCase):
         ]
         r = reconstruct_gemini(blocks)
         self.assertIn("Justice X", r["text"])
+
+    def test_star_pages_placed_in_order_and_reported(self) -> None:
+        blocks = [
+            {
+                "id": 0,
+                "tag": "p",
+                "attrs": {},
+                "text": "body ★306 more",  # inline marker at position
+                "star_pages": ["306"],
+            },
+            {
+                "id": 1,
+                "tag": "parallelpagenumber",
+                "attrs": {},
+                "text": "★307",  # block-level marker keeps doc position
+                "star_pages": ["307"],
+            },
+            {"id": 2, "tag": "p", "attrs": {}, "text": "after"},
+        ]
+        r = reconstruct_gemini(blocks)
+        self.assertEqual(r["order"], [0, 1, 2])
+        self.assertEqual(r["text"], "body ★306 more\n★307\nafter")
+        self.assertEqual(r["star_pages"], ["306", "307"])
 
     def test_img_tag_text_omitted(self) -> None:
         blocks = [
@@ -255,9 +309,13 @@ class SuryaClassifyTest(unittest.TestCase):
         self.assertEqual(assigned, {})
 
 
-class SuryaBlockReconstructTest(unittest.TestCase):
-    def test_block_inside_dots_picture_is_in_image(self) -> None:
-        dots_blocks = [
+class SupplementalBlockReconstructTest(unittest.TestCase):
+    """Every block engine goes through the same supplemental path:
+    reconstruct_blocks with the MAIN engine's blocks for the in-image
+    check (surya block, mistral, dots — no special cases)."""
+
+    def test_block_inside_main_picture_is_in_image(self) -> None:
+        main_blocks = [
             _block(0, [100, 500, 800, 1200], label="Picture"),
             _block(1, [100, 100, 800, 400], label="Text"),
         ]
@@ -277,7 +335,7 @@ class SuryaBlockReconstructTest(unittest.TestCase):
                 "styled": "caption on figure",
             },
         ]
-        r = reconstruct_surya_blocks(_CONTAINERS, blocks, dots_blocks)
+        r = reconstruct_blocks(_CONTAINERS, blocks, main_blocks=main_blocks)
         self.assertEqual(r["in_image"], [1])
         self.assertEqual(r["text"], "real")
 
@@ -291,9 +349,15 @@ class SuryaBlockReconstructTest(unittest.TestCase):
                 "styled": "",
             },
         ]
-        r = reconstruct_surya_blocks(_CONTAINERS, blocks, [])
+        r = reconstruct_blocks(_CONTAINERS, blocks, main_blocks=[])
         self.assertEqual(r["items"][0]["role"], "image")
         self.assertEqual(r["in_image"], [])
+
+    def test_main_use_reports_no_in_image(self) -> None:
+        r = reconstruct_blocks(
+            _CONTAINERS, [_block(0, [150, 200, 700, 300], "text")]
+        )
+        self.assertNotIn("in_image", r)
 
 
 class SuryaReconstructTest(unittest.TestCase):
@@ -330,7 +394,12 @@ class SuryaReconstructTest(unittest.TestCase):
         ]
         r = reconstruct_surya(_CONTAINERS, lines, dots_blocks)
         self.assertEqual(r["order"], [0, 1])  # paragraph ids = dots blocks
-        self.assertEqual(r["text"], "one two\nother para")
-        self.assertEqual(r["items"][0]["html"], "one <em>two</em>")
+        # member lines keep their line breaks (newline-joined)
+        self.assertEqual(r["text"], "one\ntwo\nother para")
+        self.assertEqual(r["items"][0]["html"], "one\n<em>two</em>")
         self.assertEqual(r["dropped"], [3])
         self.assertEqual(r["in_image"], [])
+        # line->block provenance: member line ids in join order
+        self.assertEqual(r["items"][0]["lines"], [0, 1])
+        self.assertEqual(r["items"][1]["lines"], [2])
+        self.assertEqual(r["items"][0]["text"], "one\ntwo")

@@ -1,36 +1,93 @@
 import unittest
 
-from pipeline.core.markup import html_to_html, md_to_html
+from pipeline.core.markup import (
+    dots_md_to_html,
+    gemini_repair,
+    html_to_html,
+    lighton_markup,
+    mistral_md_to_html,
+)
 from pipeline.engines.gemini import decode, is_refusal
 
 
-class MdToHtmlTest(unittest.TestCase):
+class DotsMarkdownTest(unittest.TestCase):
     def test_italic_and_bold(self) -> None:
         self.assertEqual(
-            md_to_html("see *Searle* and **must**"),
+            dots_md_to_html("see *Searle* and **must**"),
             "see <em>Searle</em> and <strong>must</strong>",
         )
 
-    def test_mistral_superscript_forms(self) -> None:
-        self.assertEqual(md_to_html("word.$^{16}$"), "word.<sup>16</sup>")
-        self.assertEqual(md_to_html("word.^{4}"), "word.<sup>4</sup>")
-
-    def test_text_is_escaped(self) -> None:
-        self.assertEqual(
-            md_to_html("a < b & *c*"), "a &lt; b &amp; <em>c</em>"
-        )
-
-    def test_bullet_and_plain_asterisks_survive(self) -> None:
-        self.assertEqual(md_to_html("* * *"), "* * *")
-
     def test_bold_italic_nests_properly(self) -> None:
         self.assertEqual(
-            md_to_html("***bold italic***"),
+            dots_md_to_html("***bold italic***"),
             "<strong><em>bold italic</em></strong>",
         )
 
+    def test_superscript_forms(self) -> None:
+        self.assertEqual(dots_md_to_html("word.$^{16}$"), "word.<sup>16</sup>")
+        self.assertEqual(dots_md_to_html("word.$^{[4]}$"), "word.<sup>4</sup>")
 
-class HtmlToHtmlTest(unittest.TestCase):
+    def test_separator_line_protected(self) -> None:
+        self.assertEqual(dots_md_to_html("* * *"), "* * *")
+
+    def test_leading_bullet_becomes_content_glyph(self) -> None:
+        self.assertEqual(dots_md_to_html("* first item"), "● first item")
+        self.assertEqual(dots_md_to_html("• dotted"), "● dotted")
+
+    def test_heading_markers_dropped(self) -> None:
+        self.assertEqual(dots_md_to_html("## I. BACKGROUND"), "I. BACKGROUND")
+
+    def test_text_is_escaped(self) -> None:
+        self.assertEqual(
+            dots_md_to_html("a < b & *c*"), "a &lt; b &amp; <em>c</em>"
+        )
+
+
+class MistralMarkdownTest(unittest.TestCase):
+    def test_list_markers_fold_to_bullet(self) -> None:
+        self.assertEqual(mistral_md_to_html("- item one"), "● item one")
+        self.assertEqual(mistral_md_to_html("* item two"), "● item two")
+
+    def test_image_refs_dropped(self) -> None:
+        self.assertEqual(mistral_md_to_html("![img](x.png)"), "")
+
+    def test_math_dollar_stripped_currency_kept(self) -> None:
+        self.assertEqual(mistral_md_to_html("$Id.$ at 376"), "Id. at 376")
+        self.assertEqual(
+            mistral_md_to_html("a $100,000 fine"), "a $100,000 fine"
+        )
+
+    def test_caret_superscript(self) -> None:
+        self.assertEqual(
+            mistral_md_to_html("space.^{7}"), "space.<sup>7</sup>"
+        )
+
+    def test_underscore_emphasis(self) -> None:
+        self.assertEqual(mistral_md_to_html("_agree_"), "<em>agree</em>")
+
+    def test_heading_markers_dropped(self) -> None:
+        self.assertEqual(mistral_md_to_html("# HEADING"), "HEADING")
+
+
+class LightonMarkupTest(unittest.TestCase):
+    def test_latex_wraps_removed_entirely(self) -> None:
+        self.assertEqual(lighton_markup("\\mathcal{M} word"), " word")
+
+    def test_math_delimiters_stripped(self) -> None:
+        self.assertEqual(lighton_markup("$Id.$"), "Id.")
+
+    def test_caret_and_emphasis(self) -> None:
+        self.assertEqual(lighton_markup("^4 ruling"), "<sup>4</sup> ruling")
+        self.assertEqual(
+            lighton_markup("_italic_ **bold**"),
+            "<em>italic</em> <strong>bold</strong>",
+        )
+
+    def test_residual_underscores_dropped(self) -> None:
+        self.assertEqual(lighton_markup("stray_underscore"), "strayunderscore")
+
+
+class SuryaHtmlTest(unittest.TestCase):
     def test_i_b_map_to_em_strong(self) -> None:
         self.assertEqual(
             html_to_html("<p><i>Id.</i> at <b>376</b></p>"),
@@ -43,11 +100,51 @@ class HtmlToHtmlTest(unittest.TestCase):
             "word<sup>7</sup>",
         )
 
+    def test_list_items_on_own_lines_with_bullet(self) -> None:
+        self.assertEqual(
+            html_to_html("<ul><li>first<li>second</ul>"),
+            "● first\n● second",
+        )
+
+    def test_literal_bullet_inside_li_not_doubled(self) -> None:
+        # surya sometimes writes BOTH the <li> tag and a literal bullet
+        self.assertEqual(
+            html_to_html("<ul><li>• First item<li>Second</ul>"),
+            "● First item\n● Second",
+        )
+        self.assertEqual(
+            html_to_html("<li><i>• styled</i> item"),
+            "● <em>styled</em> item",
+        )
+
+    def test_block_boundaries_become_newlines(self) -> None:
+        self.assertEqual(html_to_html("<p>one</p><p>two</p>"), "one\ntwo")
+        self.assertEqual(
+            html_to_html("line one<br>line two"), "line one\nline two"
+        )
+        # a single wrapping block adds no stray breaks
+        self.assertEqual(html_to_html("<p>only</p>"), "only")
+
     def test_unclosed_tag_closed(self) -> None:
         self.assertEqual(html_to_html("<i>oops"), "<em>oops</em>")
 
     def test_data_escaped(self) -> None:
         self.assertEqual(html_to_html("<p>a < b</p>"), "a &lt; b")
+
+
+class GeminiRepairTest(unittest.TestCase):
+    def test_code_fence_stripped(self) -> None:
+        self.assertEqual(
+            gemini_repair('```xml\n<p x="1">A</p>\n```'),
+            '<p x="1">A</p>',
+        )
+
+    def test_bare_ampersand_escaped_entities_kept(self) -> None:
+        self.assertEqual(gemini_repair("<p>A & B</p>"), "<p>A &amp; B</p>")
+        self.assertEqual(
+            gemini_repair("<p>A &amp; B &#38; C</p>"),
+            "<p>A &amp; B &#38; C</p>",
+        )
 
 
 class GeminiDecodeTest(unittest.TestCase):
@@ -85,6 +182,16 @@ class GeminiDecodeTest(unittest.TestCase):
         out = decode("<page><p>broken")
         self.assertTrue(out["parse_error"])
         self.assertEqual(out["blocks"], [])
+
+    def test_fenced_payload_parses(self) -> None:
+        out = decode("```xml\n<page><p>body</p></page>\n```")
+        self.assertIsNone(out["parse_error"])
+        self.assertEqual(out["blocks"][0]["text"], "body")
+
+    def test_bare_ampersand_repaired(self) -> None:
+        out = decode("<page><p>Johnson & Sons</p></page>")
+        self.assertIsNone(out["parse_error"])
+        self.assertEqual(out["blocks"][0]["text"], "Johnson & Sons")
 
     def test_footnote_inherits_coords_from_nested_p(self) -> None:
         # <footnote> carries no coordinates; its nested <p> does — the
@@ -142,6 +249,30 @@ class GeminiDecodeTest(unittest.TestCase):
         xml = "<page>\n  <p>a</p>\n  <p>b</p>\n</page>"
         blocks = decode(xml)["blocks"]
         self.assertEqual([b["text"] for b in blocks], ["a", "b"])
+
+    def test_inline_star_page_placed_at_position(self) -> None:
+        xml = (
+            "<page><p>before "
+            '<parallelpagenumber pagenumber="306">*306</parallelpagenumber>'
+            "after</p></page>"
+        )
+        b = decode(xml)["blocks"][0]
+        self.assertEqual(b["star_pages"], ["306"])
+        # the marker sits IN the stream at its position (placement by
+        # alignment happens at normalize/compare via the token anchor)
+        self.assertEqual(b["text"], "before ★306 after")
+        self.assertIn("★306", b["styled"])
+
+    def test_block_star_page_is_a_placed_marker(self) -> None:
+        xml = (
+            "<page><parallelpagenumber>★307</parallelpagenumber>"
+            "<p>body</p></page>"
+        )
+        blocks = decode(xml)["blocks"]
+        self.assertEqual(blocks[0]["tag"], "parallelpagenumber")
+        self.assertEqual(blocks[0]["star_pages"], ["307"])
+        self.assertEqual(blocks[0]["text"], "★307")
+        self.assertEqual(blocks[0]["styled"], "★307")
 
 
 class IsRefusalTest(unittest.TestCase):

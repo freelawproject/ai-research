@@ -253,13 +253,15 @@ def reconstruct_gemini(blocks: list[dict]) -> dict:
 
 
 def classify_surya_lines(
-    lines: list[dict], dots_blocks: list[dict]
+    lines: list[dict], main_blocks: list[dict]
 ) -> tuple[dict[int, int], list[int], list[int]]:
-    """Match each line to a dots block. Returns (assigned line_id ->
-    dots_block_id, in_image line ids, dropped line ids)."""
+    """Match each line to a MAIN-engine block (any block engine — dots
+    labels its image blocks `label="Picture"`, mistral `type="image"`).
+    Returns (assigned line_id -> main_block_id, in_image line ids,
+    dropped line ids)."""
     blocks = [
-        (b["id"], b.get("label", ""), b["bbox"])
-        for b in dots_blocks
+        (b["id"], (b.get("label") or b.get("type") or ""), b["bbox"])
+        for b in main_blocks
         if b.get("bbox")
     ]
     assigned: dict[int, int] = {}
@@ -286,17 +288,18 @@ def classify_surya_lines(
 
 
 def reconstruct_surya(
-    containers: dict, lines: list[dict], dots_blocks: list[dict]
+    containers: dict, lines: list[dict], main_blocks: list[dict]
 ) -> dict:
-    """Filter lines against dots blocks, group survivors into paragraphs
-    (one per dots block), then order the paragraphs like blocks."""
-    assigned, in_image, dropped = classify_surya_lines(lines, dots_blocks)
+    """Filter lines against the MAIN engine's blocks, group survivors
+    into paragraphs (one per main block), then order the paragraphs
+    like blocks."""
+    assigned, in_image, dropped = classify_surya_lines(lines, main_blocks)
     by_block: dict[int, list[dict]] = {}
     for line in lines:
         bid = assigned.get(line["id"])
         if bid is not None:
             by_block.setdefault(bid, []).append(line)
-    bbox_of = {b["id"]: b.get("bbox") for b in dots_blocks}
+    bbox_of = {b["id"]: b.get("bbox") for b in main_blocks}
     paragraphs = []
     text_by_id: dict[int, str] = {}
     html_by_id: dict[int, str] = {}

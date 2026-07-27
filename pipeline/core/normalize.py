@@ -66,6 +66,10 @@ class Token:
     stars: tuple[str, ...] = ()
     # second fragment of a wrap-joined word: (item, start, end)
     wrap: tuple[int, int, int] | None = None
+    # display offset where the wrapped fragment begins (transient — set
+    # by wrap-join, consumed by symbol-split for exact per-fragment
+    # provenance; never serialized)
+    wrap_at: int | None = None
     fixed: bool = False  # key is final (separator token); key rules skip
 
     def as_dict(self) -> dict:
@@ -367,7 +371,10 @@ def _wrap_join(tokens: list[Token]) -> list[Token]:
     i = 0
     while i < len(tokens):
         t = tokens[i]
-        if (
+        # keep joining while the (possibly already joined) word still
+        # ends in a connective dash — a word split across THREE lines
+        # (hy- phen- ated) joins completely
+        while (
             i + 1 < len(tokens)
             and not t.fixed
             and _WRAP_END.search(t.display)
@@ -378,20 +385,21 @@ def _wrap_join(tokens: list[Token]) -> list[Token]:
             keep = t.display[-1] not in _PLAIN_HYPHENS
             head = t.display if keep else t.display[:-1]
             khead = t.key if keep else t.key[:-1]
-            out.append(
-                replace(
-                    t,
-                    display=head + nxt.display,
-                    key=khead + nxt.key,
-                    styling=tuple(sorted({*t.styling, *nxt.styling})),
-                    marks=(*t.marks, *nxt.marks),
-                    wrap=(nxt.item, *nxt.span),
-                )
+            t = replace(
+                t,
+                display=head + nxt.display,
+                key=khead + nxt.key,
+                styling=tuple(sorted({*t.styling, *nxt.styling})),
+                marks=(*t.marks, *nxt.marks),
+                # star anchors from BOTH fragments survive the join
+                stars=(*t.stars, *nxt.stars),
+                # chained joins record the first + latest fragments
+                wrap=(nxt.item, *nxt.span),
+                wrap_at=len(head),
             )
-            i += 2
-        else:
-            out.append(t)
             i += 1
+        out.append(t)
+        i += 1
     return out
 
 
@@ -400,6 +408,70 @@ def _wrap_join(tokens: list[Token]) -> list[Token]:
 # differs only on the punctuation unit. Both engines split identically,
 # so WHERE an engine glued a quote or paren no longer matters.
 _UNIT = re.compile(r"\w+|[^\w\s]")
+
+
+def _unit_token(t: Token, m: re.Match[str], kp: str, is_last: bool) -> Token:
+    """One comparison unit of a split token. Marks and star anchors sit
+    where they appeared: after the LAST unit. Spans are display offsets
+    mapped back into the item html and clamped to the token's own span;
+    for a wrap-joined word, units wholly inside the second fragment get
+    that fragment's item + exact span, and the unit that straddles the
+    join keeps the `wrap` record (its text spans both bboxes)."""
+    a, b = m.start(), m.end()
+    marks = t.marks if is_last else ()
+    stars = t.stars if is_last else ()
+    if t.wrap is not None and t.wrap_at is not None:
+        w_item, w_s, w_e = t.wrap
+        if a >= t.wrap_at:  # wholly in the second fragment
+            return replace(
+                t,
+                display=m.group(),
+                key=kp,
+                item=w_item,
+                span=(
+                    min(w_s + a - t.wrap_at, w_e),
+                    min(w_s + b - t.wrap_at, w_e),
+                ),
+                wrap=None,
+                wrap_at=None,
+                marks=marks,
+                stars=stars,
+            )
+        if b <= t.wrap_at:  # wholly in the first fragment
+            return replace(
+                t,
+                display=m.group(),
+                key=kp,
+                span=(
+                    min(t.span[0] + a, t.span[1]),
+                    min(t.span[0] + b, t.span[1]),
+                ),
+                wrap=None,
+                wrap_at=None,
+                marks=marks,
+                stars=stars,
+            )
+        # straddles the join: first-fragment span + the wrap record
+        return replace(
+            t,
+            display=m.group(),
+            key=kp,
+            span=(min(t.span[0] + a, t.span[1]), t.span[1]),
+            wrap_at=None,
+            marks=marks,
+            stars=stars,
+        )
+    return replace(
+        t,
+        display=m.group(),
+        key=kp,
+        span=(
+            min(t.span[0] + a, t.span[1]),
+            min(t.span[0] + b, t.span[1]),
+        ),
+        marks=marks,
+        stars=stars,
+    )
 
 
 def _symbol_split(tokens: list[Token]) -> list[Token]:
@@ -414,18 +486,7 @@ def _symbol_split(tokens: list[Token]) -> list[Token]:
             continue
         last = len(parts) - 1
         for i, (m, kp) in enumerate(zip(parts, kparts)):
-            out.append(
-                replace(
-                    t,
-                    display=m.group(),
-                    key=kp,
-                    # sub-spans are offsets into the (possibly mutated)
-                    # display; item-level provenance stays exact
-                    span=(t.span[0] + m.start(), t.span[0] + m.end()),
-                    # marks sit where they appeared: after the last unit
-                    marks=t.marks if i == last else (),
-                )
-            )
+            out.append(_unit_token(t, m, kp, i == last))
     return out
 
 
@@ -617,16 +678,19 @@ REGISTRY: tuple[Rule, ...] = (
         description=(
             "A word wrap-split by a trailing connective dash joins the "
             "next word (across bboxes or columns) so the wrap is never "
-            "a difference. Display drops a plain wrap hyphen "
+            "a difference; a word split across more than two lines "
+            "joins completely. Display drops a plain wrap hyphen "
             "(charac-terized -> characterized; decided 2026-07-27) but "
             "keeps a semantic dash (2509–2511); the em dash is "
             "parenthetical and never joins. Joins never cross a "
             "block-role boundary (body 'pre-' must not absorb a "
             "footnote's leading '4.'). The second fragment's provenance "
-            "is kept so a dispute crops both bboxes."
+            "is kept so a dispute crops both bboxes, and marks and "
+            "star-page anchors from both fragments survive the join."
         ),
         examples=(
             ("charac- terized", "characterized"),
+            ("hy- phen- ated", "hyphenated"),
             ("2509– 2511.", "2509–2511."),
             ("word— next", "word— next"),
             (
@@ -649,7 +713,10 @@ REGISTRY: tuple[Rule, ...] = (
             "Where an engine glued a quote or paren no longer matters "
             "(replaces the old punct-attach / brackets-forward / "
             "quote-edge-strip rules). ● § ¶ are content units like any "
-            "other symbol."
+            "other symbol. Marks and star-page anchors ride the LAST "
+            "unit; units of a wrap-joined word carry the exact span of "
+            "the fragment they came from (the unit straddling the join "
+            "keeps the two-bbox wrap record)."
         ),
         examples=(
             ("word, next.", "word , next ."),
@@ -769,6 +836,9 @@ REGISTRY: tuple[Rule, ...] = (
             ("a $100,000 fine", "a $100,000 fine"),
             ("![img](x.png)", ""),
             ("space.^{7}", "space.<sup>7</sup>"),
+            # a longer digit run is NOT a footnote mark: never
+            # half-converted (braces drop as LaTeX artifacts)
+            ("rose ^{2020} high", "rose ^2020 high"),
             ("_agree_", "<em>agree</em>"),
         ),
         fn=markup.mistral_md_to_html,

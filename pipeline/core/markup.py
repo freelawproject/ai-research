@@ -32,9 +32,16 @@ _EM = re.compile(r"(?<!\*)\*(?!\s)([^*\n]+?)(?<!\s)\*(?!\*)")
 _U_STRONG = re.compile(r"(?<![\w\\])__(?!_)(.+?)__(?![\w])", re.S)
 _U_EM = re.compile(r"(?<![\w\\])_(?!_)([^_\n]+?)_(?![\w])")
 # Superscript forms: $^{16}$ / $^{[4]}$ (dots), ^{4} / ^4 (mistral,
-# lighton caret).
+# lighton caret). A braced form must CLOSE its brace and a bare form
+# must consume every digit — ^{2020} / ^456 are not footnote marks and
+# stay untouched rather than being half-converted.
 _SUP_MATH = re.compile(r"\$\^\{?\[?([^${}\[\]]{1,8})\]?\}?\$")
-_SUP_CARET = re.compile(r"\^\{?\[?(\d{1,2})\]?\}?")
+_SUP_CARET = re.compile(r"\^(?:\{\[?(\d{1,2})\]?\}|\[?(\d{1,2})\]?(?!\d))")
+
+
+def _sup_caret_tag(m: re.Match[str]) -> str:
+    return f"<sup>{m.group(1) or m.group(2)}</sup>"
+
 
 # ── line-level markdown structure ────────────────────────────────────────
 # A separator line (* * *) is protected before bullet/emphasis handling —
@@ -110,7 +117,7 @@ def _math_emphasis_to_html(text: str) -> str:
     its own."""
     t = _delatex(_MATH_DOLLAR.sub("", text or ""))
     out = html.escape(t, quote=False)
-    out = _SUP_CARET.sub(r"<sup>\1</sup>", out)
+    out = _SUP_CARET.sub(_sup_caret_tag, out)
     out = _U_STRONG.sub(r"<strong>\1</strong>", out)
     out = _md_emphasis(out)
     out = _U_EM.sub(r"<em>\1</em>", out)

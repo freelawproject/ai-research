@@ -92,6 +92,17 @@ def parse(name: str) -> Route:
     return compose(*parts)
 
 
+def slugs(route: Route) -> tuple[str, str, str]:
+    """The three model slugs (m1 = main, m2 = other, m3 = resolver)
+    that compose a route — the dropdown selection it round-trips to."""
+    slug_of = {v: k for k, v in MODELS.items()}
+    return (
+        slug_of[route.main],
+        slug_of[route.supplementals[0]],
+        TIEBREAK_ONLY if route.tiebreak else slug_of[route.supplementals[1]],
+    )
+
+
 # The canonical combinations (CLI presets; `--route all` runs these).
 PRESETS: dict[str, tuple[str, str, str]] = {
     "gemini": ("dots", "gemini", "lighton"),

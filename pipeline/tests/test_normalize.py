@@ -157,9 +157,14 @@ class ChainBehaviorTest(unittest.TestCase):
         )
         # the dash unit's glyph folds; its presence is compared
         self.assertEqual([t.key for t in tokens], ["2509", "-", "2511", "."])
-        # every sub-token of the joined word keeps the wrap provenance
-        # (second fragment "2511." spans chars 6-11 of the same item)
-        self.assertTrue(all(t.wrap == (0, 6, 11) for t in tokens))
+        # each unit carries the EXACT span of the fragment it came from
+        # ("2509–" = chars 0-5, "2511." = chars 6-11 of the same item);
+        # no unit straddles the join here, so none needs the wrap record
+        self.assertEqual(
+            [t.span for t in tokens], [(0, 4), (4, 5), (6, 10), (10, 11)]
+        )
+        self.assertTrue(all(t.wrap is None for t in tokens))
+        self.assertTrue(all(t.item == 0 for t in tokens))
 
     def test_separator_block_survives_asterisk_rules(self) -> None:
         tokens, _ = apply_rules(tokenize(_items("* * *")), "dots")

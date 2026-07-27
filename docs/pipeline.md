@@ -52,9 +52,12 @@
    and nothing else — casing is deliberately preserved, and words and
    symbols are SEPARATE comparison units: `word,` is `word` + `,`, so a
    punctuation difference shows up as exactly that and never breaks a
-   word match), `item` + `span` are provenance — the reconstruct item and char span the token
-   came from, so a disputed token maps to its bbox by lookup (a
-   wrap-joined token records both fragments via `wrap`) — and
+   word match), `item` + `span` are provenance — the reconstruct item
+   and char span the token came from, so a disputed token maps to its
+   bbox by lookup, and spans never exceed their item's text. When the
+   unit split divides a wrap-joined word, each unit carries the exact
+   span of the fragment it came from; only the unit that straddles the
+   join keeps the two-bbox `wrap` record — and
    `styling`/`marks` carry emphasis and footnote marks (marks are never
    comparison content; their sequences get their own comparison flow at
    stage 7). All rules live in one ordered registry

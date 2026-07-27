@@ -18,10 +18,20 @@
       third model joins a direct vote). The bbox-capable pick — dots
       first — anchors the reconstruction.
     </p>
-    <a href="{% url 'route_go' %}"
-       class="inline-block rounded-md bg-indigo-600 px-4 py-2 font-medium text-white">
-      Open the pipeline flow
-    </a>
+    {# a form (not a link) so the last-used dataset/model combination
+       is restored from localStorage into the hidden fields; empty
+       values fall back to the defaults server-side #}
+    <form method="get" action="{% url 'route_go' %}"
+          x-data="modelPicker" data-restore="true" class="inline-block">
+      <input type="hidden" name="dataset" value="">
+      <input type="hidden" name="m1" value="">
+      <input type="hidden" name="m2" value="">
+      <input type="hidden" name="m3" value="">
+      <button type="submit"
+              class="rounded-md bg-indigo-600 px-4 py-2 font-medium text-white">
+        Open the pipeline flow
+      </button>
+    </form>
   </section>
 {% else %}
   <p class="mb-8 text-neutral-600">

@@ -110,9 +110,9 @@ document.addEventListener("alpine:init", () => {
   }));
 
   // The three model dropdowns: selections persist across pages via
-  // localStorage. Forms with data-restore="true" (home) restore the
-  // last-used combination; page forms are prefilled from the URL and
-  // only save.
+  // localStorage. Forms with data-restore="true" (the home button's
+  // hidden fields) restore the last-used combination; page forms are
+  // prefilled from the URL and only save.
   const LS_MODELS = "extraction.viewer.models";
   Alpine.data("modelPicker", () => ({
     init() {
@@ -121,8 +121,13 @@ document.addEventListener("alpine:init", () => {
         const saved = JSON.parse(localStorage.getItem(LS_MODELS) || "null");
         if (!saved) return;
         for (const [name, value] of Object.entries(saved)) {
-          const el = this.$root.querySelector(`select[name="${name}"]`);
-          if (el && [...el.options].some((o) => o.value === value)) {
+          const el = this.$root.querySelector(`[name="${name}"]`);
+          if (!el) continue;
+          if (el.tagName === "SELECT") {
+            if ([...el.options].some((o) => o.value === value)) {
+              el.value = value;
+            }
+          } else {
             el.value = value;
           }
         }

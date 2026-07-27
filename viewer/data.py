@@ -20,6 +20,7 @@ from django.http import Http404
 
 from pipeline.core.artifacts import SCHEMA_VERSION, artifact_path
 from pipeline.core.config import dataset as load_dataset
+from pipeline.core.normalize import registry_hash
 from pipeline.core.pages import discover_pages
 from pipeline.routes import Route
 from pipeline.run import build_page_artifact
@@ -31,6 +32,15 @@ def _safe(name: str) -> str:
     if not _NAME_RE.match(name) or ".." in name:
         raise Http404(name)
     return name
+
+
+def _page_key(stem: str) -> tuple[str, int, str]:
+    """Natural page order: volumes sort by name, pages by their NUMERIC
+    index (p2 before p10 — plain lexicographic order gets this wrong)."""
+    base, _, num = stem.rpartition("__p")
+    if base and num.isdigit():
+        return (base, int(num), stem)
+    return (stem, -1, stem)
 
 
 @dataclass(frozen=True)
@@ -69,13 +79,13 @@ def list_datasets() -> list[DatasetInfo]:
 def route_pages(dataset: str, route: str) -> list[str]:
     """Sorted page ids that have an artifact for this dataset x route."""
     d = settings.ARTIFACTS_ROOT / _safe(dataset) / _safe(route)
-    return sorted(f.stem for f in d.glob("*.json"))
+    return sorted((f.stem for f in d.glob("*.json")), key=_page_key)
 
 
 def dataset_pages(dataset: str) -> list[str]:
     """Every renderable page of a dataset (route-independent)."""
     d = settings.DATASETS_ROOT / _safe(dataset) / "page_png"
-    return sorted(f.stem for f in d.glob("*.png"))
+    return sorted((f.stem for f in d.glob("*.png")), key=_page_key)
 
 
 def _materialize(dataset: str, route: Route, page: str) -> dict:
@@ -94,16 +104,35 @@ def _materialize(dataset: str, route: Route, page: str) -> dict:
         )
     out = artifact_path(settings.ARTIFACTS_ROOT, ds.name, route.name, page)
     out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(json.dumps(artifact, ensure_ascii=False), encoding="utf-8")
+    # atomic: a reader never sees a half-written artifact
+    tmp = out.with_suffix(".tmp")
+    tmp.write_text(json.dumps(artifact, ensure_ascii=False), encoding="utf-8")
+    tmp.replace(out)
     return artifact
+
+
+def _current(doc: dict) -> bool:
+    """An artifact is current when both its schema version and its
+    normalization-registry hash match the running pipeline — a registry
+    change (new/edited rule) rebuilds on the next visit instead of
+    rendering stale normalization."""
+    if doc.get("schema_version") != SCHEMA_VERSION:
+        return False
+    stamped = (
+        doc.get("stages", {})
+        .get("normalize", {})
+        .get("registry", {})
+        .get("hash")
+    )
+    return bool(stamped == registry_hash())
 
 
 def ensure_artifact(dataset: str, route: Route, page: str) -> dict:
     """The artifact for dataset x route x page, materializing it from
-    the cached engine outputs when missing or written by an older
-    pipeline (routes are user-composed, so combinations are built on
-    first visit — the artifact contract on disk stays the source of
-    truth)."""
+    the cached engine outputs when missing, unreadable, or written by an
+    older pipeline/registry (routes are user-composed, so combinations
+    are built on first visit — the artifact contract on disk stays the
+    source of truth)."""
     f = (
         settings.ARTIFACTS_ROOT
         / _safe(dataset)
@@ -111,8 +140,11 @@ def ensure_artifact(dataset: str, route: Route, page: str) -> dict:
         / f"{_safe(page)}.json"
     )
     if f.exists():
-        doc: dict = json.loads(f.read_text(encoding="utf-8"))
-        if doc.get("schema_version") == SCHEMA_VERSION:
+        try:
+            doc: dict = json.loads(f.read_text(encoding="utf-8"))
+        except ValueError:
+            doc = {}  # torn/corrupt file: rebuild it
+        if _current(doc):
             return doc
     return _materialize(dataset, route, page)
 

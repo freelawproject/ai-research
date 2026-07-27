@@ -68,11 +68,20 @@ class Command(BaseCommand):
         spans: Counter[str] = Counter()
         tokens: Counter[str] = Counter()
         seen: set[tuple[str, str]] = set()
+        hashes: set[str] = set()
         n_pages = 0
         for f in sorted(root.glob("*/*.json")):
             doc = json.loads(f.read_text(encoding="utf-8"))
             page = doc["page"]
             n_pages += 1
+            stamped = (
+                doc.get("stages", {})
+                .get("normalize", {})
+                .get("registry", {})
+                .get("hash")
+            )
+            if stamped:
+                hashes.add(stamped)
             for label, main, supp in self._streams(doc):
                 if (page, label) in seen:
                     continue  # same comparison via an overlapping route
@@ -97,12 +106,23 @@ class Command(BaseCommand):
                 "(schema v2+)"
             )
 
+        # the hash the ARTIFACTS were normalized under (not the live
+        # code's) — a mismatch means the numbers below are stale
         self.stdout.write(
             self.style.MIGRATE_HEADING(
                 f"disagreements — dataset {options['dataset']}, "
-                f"registry {registry_hash()}, {n_pages} artifacts"
+                f"registry {', '.join(sorted(hashes)) or '?'}, "
+                f"{n_pages} artifacts"
             )
         )
+        if hashes - {registry_hash()}:
+            self.stdout.write(
+                self.style.WARNING(
+                    f"note: live registry is {registry_hash()} — re-run "
+                    "the pipeline (or revisit pages) to refresh stale "
+                    "artifacts"
+                )
+            )
         for label in sorted(pairs):
             counter = pairs[label]
             distinct = len(counter)

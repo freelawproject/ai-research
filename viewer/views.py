@@ -113,9 +113,11 @@ async def route_go(request: HttpRequest) -> HttpResponse:
     dataset = request.GET.get("dataset", "")
     if dataset not in names:
         dataset = names[0]
-    m1 = request.GET.get("m1", _DEFAULT_COMBO[0])
-    m2 = request.GET.get("m2", _DEFAULT_COMBO[1])
-    m3 = request.GET.get("m3", _DEFAULT_COMBO[2])
+    # `or` (not a get() default): the home form submits empty values
+    # for anything never picked — empty means "use the default" too
+    m1 = request.GET.get("m1") or _DEFAULT_COMBO[0]
+    m2 = request.GET.get("m2") or _DEFAULT_COMBO[1]
+    m3 = request.GET.get("m3") or _DEFAULT_COMBO[2]
     try:
         route = routes.compose(m1, m2, m3)
     except ValueError as exc:
@@ -244,9 +246,12 @@ async def page(
     request: HttpRequest, dataset: str, route: str, page: str
 ) -> HttpResponse:
     """The pipeline walkthrough: one page, one model combination,
-    stages 1-6. The artifact materializes on first visit."""
+    stages 1-6. The artifact materializes on first visit. resolve()
+    also accepts the CLI preset names, so pre-composition URLs
+    (/d/<ds>/three_way/...) keep working; artifacts always land under
+    the canonical combo name."""
     try:
-        route_obj = routes.parse(route)
+        route_obj = routes.resolve(route)
     except ValueError as exc:
         raise Http404(str(exc)) from exc
     artifact = data.ensure_artifact(dataset, route_obj, page)
@@ -330,7 +335,7 @@ async def page(
         ),
         "img_url": reverse("page_img", args=[dataset, page]),
         "dataset_options": [info.name for info in data.list_datasets()],
-        **_selector_ctx(tuple(route.split("+"))),  # type: ignore[arg-type]
+        **_selector_ctx(routes.slugs(route_obj)),
     }
     return TemplateResponse(request, "viewer/page.html", ctx)
 

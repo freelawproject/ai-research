@@ -273,7 +273,7 @@
                     subtitle="reading order via containers · raw text">
         {% if main_redactions %}
           <p class="mb-2 rounded-md bg-neutral-100 p-2 text-sm text-neutral-700">
-            dots: {{ main_redactions|length }} image
+            {{ main_label }}: {{ main_redactions|length }} image
             block{{ main_redactions|length|pluralize }} dropped as
             redaction placeholder{{ main_redactions|length|pluralize }}
             (near-black crop{% for r in main_redactions %}

@@ -289,3 +289,18 @@ class IsRefusalTest(unittest.TestCase):
         self.assertFalse(is_refusal("<page><p>text</p></page>"))
         # marker WORDS inside real XML content are not a refusal
         self.assertFalse(is_refusal("<page><p>a RECITATION of</p></page>"))
+
+
+class CaretGuardTest(unittest.TestCase):
+    def test_long_digit_runs_never_half_convert(self) -> None:
+        # ^{2020} / ^456 are not footnote marks: no <sup>20</sup>20
+        self.assertEqual(
+            mistral_md_to_html("rose ^{2020} high"), "rose ^2020 high"
+        )
+        self.assertEqual(lighton_markup("^456 stays"), "^456 stays")
+
+    def test_short_caret_marks_still_convert(self) -> None:
+        self.assertEqual(lighton_markup("^4 ok"), "<sup>4</sup> ok")
+        self.assertEqual(
+            mistral_md_to_html("space.^{7}"), "space.<sup>7</sup>"
+        )

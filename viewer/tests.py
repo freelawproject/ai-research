@@ -15,6 +15,7 @@ from pipeline.core.artifacts import SCHEMA_VERSION
 from pipeline.core.normalize import registry_hash
 from pipeline.routes import resolve
 from pipeline.run import run_route
+from viewer import data
 
 _ARTIFACT = {
     "schema_version": SCHEMA_VERSION,
@@ -112,7 +113,10 @@ _ARTIFACT = {
         },
         "normalize": {
             "registry": {
-                "hash": "abc123def456",
+                # the LIVE hash: ensure_artifact treats a stale registry
+                # hash as a rebuild trigger, and this synthetic tree
+                # cannot rebuild (no redacted sources)
+                "hash": registry_hash(),
                 "rules": [
                     {
                         "name": "sample-rule",
@@ -234,14 +238,24 @@ class ViewerViewsTest(DataTreeTestCase):
         # a second page whose artifact is a STALE schema version
         stale = dict(_ARTIFACT, page="rep.1.1__p9", schema_version=0)
         (art / "rep.1.1__p9.json").write_text(json.dumps(stale))
+        # extra renders exercise NATURAL page ordering (p2 before p10)
+        for extra in ("rep.1.1__p2", "rep.1.1__p10"):
+            Image.new("RGB", (17, 22)).save(ds / "page_png" / f"{extra}.png")
+        # and a page whose artifact carries a stale REGISTRY hash
+        aged = json.loads(json.dumps(_ARTIFACT))
+        aged["page"] = "rep.1.1__p8"
+        aged["stages"]["normalize"]["registry"]["hash"] = "000000000000"
+        (art / "rep.1.1__p8.json").write_text(json.dumps(aged))
 
     def test_home_is_a_door_to_the_flow(self) -> None:
         response = self.client.get("/")
         self.assertEqual(response.status_code, 200)
         self.assertContains(response, "Open the pipeline flow")
         self.assertContains(response, "/go/")
-        # dataset/model/page selection lives on the flow page, not here
-        self.assertNotContains(response, 'name="m1"')
+        # dataset/model/page SELECTION lives on the flow page — home
+        # only carries hidden fields that restore the last-used combo
+        self.assertNotContains(response, "<select")
+        self.assertContains(response, 'data-restore="true"')
         self.assertNotContains(response, "rep.1.1__p0")
 
     def test_flow_page_offers_dataset_and_model_selects(self) -> None:
@@ -324,7 +338,7 @@ class ViewerViewsTest(DataTreeTestCase):
 
     def test_normalize_card_shows_registry_and_rule_diff(self) -> None:
         response = self.client.get("/d/tiny/dots+mistral+lighton/rep.1.1__p0/")
-        self.assertContains(response, "registry abc123def456")
+        self.assertContains(response, f"registry {registry_hash()}")
         self.assertContains(response, "sample-rule")
         self.assertContains(response, "shared · key")
         # the change record renders as a before -> after diff
@@ -343,6 +357,35 @@ class ViewerViewsTest(DataTreeTestCase):
         # silently stale render
         response = self.client.get("/d/tiny/dots+mistral+lighton/rep.1.1__p9/")
         self.assertEqual(response.status_code, 404)
+
+    def test_stale_registry_hash_unrebuildable_404s(self) -> None:
+        # same discipline for a stale normalization-registry hash
+        response = self.client.get("/d/tiny/dots+mistral+lighton/rep.1.1__p8/")
+        self.assertEqual(response.status_code, 404)
+
+    def test_pages_order_naturally(self) -> None:
+        self.assertEqual(
+            data.dataset_pages("tiny"),
+            ["rep.1.1__p0", "rep.1.1__p2", "rep.1.1__p10"],
+        )
+
+    def test_preset_route_urls_still_serve(self) -> None:
+        # pre-composition bookmarks (/d/<ds>/mistral/...) resolve to the
+        # canonical combination and serve from its artifact dir
+        response = self.client.get("/d/tiny/mistral/rep.1.1__p0/")
+        self.assertEqual(response.status_code, 200)
+        self.assertContains(response, "Main OCR — dots")
+
+    def test_route_go_empty_params_use_defaults(self) -> None:
+        # the home form submits empty values for anything never saved
+        response = self.client.get(
+            "/go/", {"dataset": "", "m1": "", "m2": "", "m3": "", "page": ""}
+        )
+        self.assertRedirects(
+            response,
+            "/d/tiny/dots+mistral+surya_block/rep.1.1__p0/",
+            fetch_redirect_response=False,
+        )
 
     def test_page_img_served(self) -> None:
         response = self.client.get("/img/tiny/rep.1.1__p0.png")
@@ -476,6 +519,45 @@ class PipelineToViewerContractTest(DataTreeTestCase):
         self.assertContains(response, "Normalize")
         self.assertContains(response, f"registry {registry_hash()}")
         self.assertContains(response, "engine-decode rules")
+
+    def test_corrupt_artifact_self_heals(self) -> None:
+        # a torn/half-written file rebuilds on the next visit instead of
+        # 500ing forever
+        out = (
+            self.tmp
+            / "artifacts"
+            / "e2e"
+            / "dots+mistral+lighton"
+            / "rep.9.9__p0.json"
+        )
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text("{ torn", encoding="utf-8")
+        response = self.client.get("/d/e2e/dots+mistral+lighton/rep.9.9__p0/")
+        self.assertEqual(response.status_code, 200)
+        doc = json.loads(out.read_text(encoding="utf-8"))
+        self.assertEqual(doc["schema_version"], SCHEMA_VERSION)
+
+    def test_stale_registry_hash_rebuilds(self) -> None:
+        # a registry change (new/edited rule) refreshes the artifact on
+        # the next visit — no silently stale normalization
+        run_route(self.tmp, "e2e", resolve("mistral"))
+        out = (
+            self.tmp
+            / "artifacts"
+            / "e2e"
+            / "dots+mistral+lighton"
+            / "rep.9.9__p0.json"
+        )
+        doc = json.loads(out.read_text(encoding="utf-8"))
+        doc["stages"]["normalize"]["registry"]["hash"] = "000000000000"
+        out.write_text(json.dumps(doc), encoding="utf-8")
+        response = self.client.get("/d/e2e/dots+mistral+lighton/rep.9.9__p0/")
+        self.assertEqual(response.status_code, 200)
+        fresh = json.loads(out.read_text(encoding="utf-8"))
+        self.assertEqual(
+            fresh["stages"]["normalize"]["registry"]["hash"],
+            registry_hash(),
+        )
 
     def test_composed_route_materializes_on_first_visit(self) -> None:
         # no pipeline.run for this combination — the first visit builds

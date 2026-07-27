@@ -329,3 +329,56 @@ class RegistryVersionTest(unittest.TestCase):
         for s in summary:
             self.assertTrue(s["description"])
             self.assertIn(s["kind"], ("stream", "decode"))
+
+
+class StarAnchorInteractionTest(unittest.TestCase):
+    """Star-page anchors must survive the full rule chain (review
+    2026-07-27): the join merges both fragments' anchors, and the unit
+    split leaves the anchor on exactly one unit."""
+
+    def _tokens(self, html: str) -> list[Token]:
+        items = [{"id": 0, "role": "content", "html": html}]
+        tokens, _ = apply_rules(tokenize(items), "gemini")
+        return tokens
+
+    def test_wrap_join_keeps_second_fragment_stars(self) -> None:
+        tokens = self._tokens("charac- terized ★306 more")
+        self.assertEqual(tokens[0].display, "characterized")
+        self.assertEqual(tokens[0].stars, ("306",))
+
+    def test_symbol_split_stars_ride_last_unit_only(self) -> None:
+        tokens = self._tokens("before, ★306 after")
+        self.assertEqual(
+            [(t.display, t.stars) for t in tokens],
+            [("before", ()), (",", ("306",)), ("after", ())],
+        )
+
+
+class SplitProvenanceTest(unittest.TestCase):
+    """Units of a wrap-joined word carry exact per-fragment provenance,
+    and no span may exceed its item's html (review 2026-07-27 — 75
+    corpus tokens used to overflow)."""
+
+    _ITEMS = [
+        {"id": 0, "role": "content", "html": "body en-"},
+        {"id": 1, "role": "content", "html": "tered, more"},
+    ]
+
+    def test_units_point_into_their_own_fragment(self) -> None:
+        tokens, _ = apply_rules(tokenize(self._ITEMS), "dots")
+        by_display = {t.display: t for t in tokens}
+        word = by_display["entered"]  # straddles the join
+        self.assertEqual((word.item, word.span), (0, (5, 8)))
+        self.assertEqual(word.wrap, (1, 0, 6))
+        comma = by_display[","]  # wholly in the second fragment
+        self.assertEqual((comma.item, comma.span), (1, (5, 6)))
+        self.assertIsNone(comma.wrap)
+
+    def test_no_span_exceeds_item_html(self) -> None:
+        html_of = {it["id"]: str(it["html"]) for it in self._ITEMS}
+        tokens, _ = apply_rules(tokenize(self._ITEMS), "dots")
+        for t in tokens:
+            self.assertGreaterEqual(t.span[0], 0)
+            self.assertLessEqual(t.span[1], len(html_of[t.item]))
+            if t.wrap:
+                self.assertLessEqual(t.wrap[2], len(html_of[t.wrap[0]]))

@@ -302,6 +302,20 @@ class SuryaClassifyTest(unittest.TestCase):
         self.assertEqual(assigned, {0: 0})
         self.assertEqual(in_image, [])
 
+    def test_mistral_main_image_blocks_flag_in_image(self) -> None:
+        # mistral marks image blocks with type= (not label=) — a line
+        # inside one is in-image text, never a text paragraph (review
+        # 2026-07-27; bites any composed mistral-main + surya_line route)
+        main = [
+            {"id": 0, "type": "text", "bbox": [100, 100, 800, 400]},
+            {"id": 1, "type": "image", "bbox": [100, 500, 800, 1200]},
+        ]
+        lines = [{"id": 0, "bbox": [200, 600, 700, 640], "text": "caption"}]
+        assigned, in_image, dropped = classify_surya_lines(lines, main)
+        self.assertEqual(in_image, [0])
+        self.assertEqual(assigned, {})
+        self.assertEqual(dropped, [])
+
     def test_line_in_picture_block_is_in_image(self) -> None:
         lines = [{"id": 0, "bbox": [200, 600, 700, 640], "text": "caption"}]
         assigned, in_image, dropped = classify_surya_lines(lines, self._DOTS)

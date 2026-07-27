@@ -6,22 +6,28 @@ every stage of the pipeline — per page, per route, per engine.
 
 ## How it works
 
-Every page runs through: render → layout (container-YOLO) → main OCR
-(dots.mocr) → supplemental OCR → reading-order reconstruction →
-normalization → cross-engine comparison with LightOn tiebreak → final
-assembly. Full stage spec and artifact schema:
-[docs/pipeline.md](docs/pipeline.md).
+Every page runs through: render → layout (container-YOLO) → main OCR →
+supplemental OCR → reading-order reconstruction → normalization →
+cross-engine comparison and resolution → final assembly. Full stage
+spec and artifact schema: [docs/pipeline.md](docs/pipeline.md).
 
-Five routes. Four pair dots with one supplemental engine and use LightOnOCR
-to tie-break disputes; the fifth resolves by direct three-way majority:
+A route is any THREE models, picked in the viewer's dropdowns (or on
+the CLI as `m1+m2+m3`):
 
-| Route | Supplemental engine(s) | Resolution |
-|---|---|---|
-| `gemini` | Gemini page XML (generated upstream — bring your own outputs) | LightOn tiebreak |
-| `mistral` | Mistral OCR blocks (cached outputs bundled; API runner arrives with the RunPod kits) | LightOn tiebreak |
-| `surya_line` | Surya line reads (fine geometry; bleed-through filtered against dots blocks) | LightOn tiebreak |
-| `surya_block` | Surya block reads (whole-page context; no line hallucinations) | LightOn tiebreak |
-| `three_way` | Mistral blocks + Surya blocks, in parallel with dots | direct three-way bbox-aligned comparison — no tiebreaker model |
+- **Slots 1 + 2 — the primary pair**, from: `dots`, `mistral`,
+  `gemini` (page XML generated upstream — bring your own outputs),
+  `surya_block`, `surya_line`. At least one must have bbox
+  capabilities (every model except gemini); the bbox-capable pick is
+  the MAIN engine — the reconstruction skeleton and the fallback when
+  all reads disagree. When dots is one of the two, dots is the main.
+- **Slot 3 — the resolver**: `lighton` re-reads disputed crops as a
+  tiebreaker, or any third model joins a direct three-way vote (no
+  tiebreaker model).
+
+Canonical presets (`--route all`): `dots+gemini+lighton`,
+`dots+mistral+lighton`, `dots+surya_line+lighton`,
+`dots+surya_block+lighton`, and `dots+mistral+surya_block` (the
+three-way vote).
 
 ## Quickstart
 
@@ -39,15 +45,14 @@ to tie-break disputes; the fifth resolves by direct three-way majority:
    The full layout is documented in [docs/pipeline.md](docs/pipeline.md).
 3. Validate the layout: `uv run python manage.py check_data`
    (it prints exactly what's missing if the folder landed in the wrong spot).
-4. Generate the pipeline artifacts (seconds; reads the bundled engine
-   outputs, no models or API keys needed):
+4. `docker compose up`, then open http://localhost:8170, pick three
+   models, and walk the pipeline page by page. Artifacts materialize on
+   first visit (seconds; reads the bundled engine outputs, no models or
+   API keys needed). To pre-generate the canonical presets instead:
 
    ```
    uv run python -m pipeline.run --dataset sample30 --route all
    ```
-
-5. `docker compose up`, then open http://localhost:8170 and click a route to
-   walk the pipeline page by page.
 
 Without Docker: `uv sync && uv run python manage.py runserver 8170`.
 
@@ -77,7 +82,14 @@ intentionally out of scope — design it from the artifact schema.
 ## Status
 
 Stages 1–5 (render, layout, main OCR, supplemental OCR, reading-order
-reconstruction) and the walkthrough viewer are implemented for all five
-routes; artifacts regenerate from the bundled engine outputs in seconds.
-Normalization (6), compare/tiebreak (7), and assembly (8) land in upcoming
+reconstruction) and the walkthrough viewer are implemented for every
+model combination; artifacts materialize from the bundled engine
+outputs in seconds (first viewer visit, or `pipeline.run`).
+Normalization (6) is implemented: canonical tokens with provenance,
+styling, and footnote marks, plus a versioned rule registry (14 stream
+rules + the per-engine decode rules; casing deliberately preserved;
+words and symbols compared as separate units).
+Rules were decided one at a time against cross-engine disagreement
+reports (`manage.py report_disagreements`); each shows a per-rule diff
+in the walkthrough, and its example strings run as unit tests. Compare/tiebreak (7) and assembly (8) land in upcoming
 milestones, followed by the RunPod kits.

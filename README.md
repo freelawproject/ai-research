@@ -14,20 +14,29 @@ spec and artifact schema: [docs/pipeline.md](docs/pipeline.md).
 A route is any THREE models, picked in the viewer's dropdowns (or on
 the CLI as `m1+m2+m3`):
 
-- **Slots 1 + 2 — the primary pair**, from: `dots`, `mistral`,
-  `gemini` (page XML generated upstream — bring your own outputs),
-  `surya_block`, `surya_line`. At least one must have bbox
-  capabilities (every model except gemini); the bbox-capable pick is
-  the MAIN engine — the reconstruction skeleton and the fallback when
-  all reads disagree. When dots is one of the two, dots is the main.
+- **Slots 1 + 2 — two OCR models**, from: `dots`, `mistral`, `gemini`
+  (page XML generated upstream — bring your own outputs),
+  `surya_block`.
 - **Slot 3 — the resolver**: `lighton` re-reads disputed crops as a
   tiebreaker, or any third model joins a direct three-way vote (no
   tiebreaker model).
 
-Canonical presets (`--route all`): `dots+gemini+lighton`,
-`dots+mistral+lighton`, `dots+surya_line+lighton`,
-`dots+surya_block+lighton`, and `dots+mistral+surya_block` (the
-three-way vote).
+A combination is a SET — order never matters. `dots+gemini+mistral`
+IS `dots+mistral+gemini`; every ordering canonicalizes to one route
+name and one artifact directory. The MAIN engine (reconstruction
+skeleton + fallback when all reads disagree) is the highest-priority
+bbox model in the set: dots > mistral > surya_block (gemini has no
+bboxes and can never be main). A lighton tiebreak additionally needs
+dots in the combination — the cached tiebreak crops are cut from dots
+blocks, so a non-dots tiebreak route could never vote. That makes
+exactly 7 unique combinations: 3 tiebreak pairs (dots + one other
+model + lighton) + 4 vote trios.
+
+All 7 combinations are first-class: `--route all` builds every one,
+and the home page's route stats table reports compare + resolve
+outcomes for each (aggregated from whatever is on disk). The legacy preset names
+(`gemini`, `mistral`, `surya_block`, `three_way`) still resolve as
+aliases in URLs and on the CLI.
 
 ## Quickstart
 
@@ -48,7 +57,7 @@ three-way vote).
 4. `docker compose up`, then open http://localhost:8170, pick three
    models, and walk the pipeline page by page. Artifacts materialize on
    first visit (seconds; reads the bundled engine outputs, no models or
-   API keys needed). To pre-generate the canonical presets instead:
+   API keys needed). To pre-generate all 7 combinations instead:
 
    ```
    uv run python -m pipeline.run --dataset sample30 --route all
@@ -81,15 +90,14 @@ intentionally out of scope — design it from the artifact schema.
 
 ## Status
 
-Stages 1–5 (render, layout, main OCR, supplemental OCR, reading-order
-reconstruction) and the walkthrough viewer are implemented for every
-model combination; artifacts materialize from the bundled engine
-outputs in seconds (first viewer visit, or `pipeline.run`).
-Normalization (6) is implemented: canonical tokens with provenance,
-styling, and footnote marks, plus a versioned rule registry (14 stream
-rules + the per-engine decode rules; casing deliberately preserved;
-words and symbols compared as separate units).
-Rules were decided one at a time against cross-engine disagreement
-reports (`manage.py report_disagreements`); each shows a per-rule diff
-in the walkthrough, and its example strings run as unit tests. Compare/tiebreak (7) and assembly (8) land in upcoming
-milestones, followed by the RunPod kits.
+Implemented end to end: render, layout, main + supplemental OCR,
+reading-order reconstruction, normalization (canonical tokens with
+provenance, styling, and footnote marks; a versioned rule registry
+whose example strings run as unit tests), and compare + resolve
+(disputes on the normalized unit streams; cached-crop LightOn tiebreak
+with ending-agreement guard and expanding-anchor localization; direct
+three-way vote). The walkthrough shows every stage per page, the home
+page aggregates per-combination stats with linked review pages, and
+`manage.py report_disagreements` / `report_disputes` print the corpus
+views. Assembly (the final HTML) lands next, followed by the RunPod
+kits.

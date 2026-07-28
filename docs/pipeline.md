@@ -7,16 +7,22 @@
 2. **Layout** — container-YOLO detects containers: column, footnote_block,
    caption, page_number, image, table, heading, blockquote.
 3. **Main OCR** — the route's MAIN engine → region bboxes + text. A
-   route is three user-picked models (`<main>+<other>+<resolver>`,
-   pipeline/routes.py): the bbox-capable model of the primary pair is
-   the main (dots wins when picked; gemini, having no bboxes, can never
-   be main); the third slot is LightOn (tiebreaker) or a third model
-   (direct three-way vote).
+   route is three user-picked models (pipeline/routes.py) treated as a
+   SET — order never matters, so there are exactly 7 unique
+   combinations (3 tiebreak pairs + 4 vote trios), each with one
+   canonical name and one artifact directory (non-canonical URL
+   orderings serve as aliases). The main is the highest-priority bbox
+   model in the set — dots > mistral > surya_block (gemini, having no
+   bboxes, can never be main); LightOn in the third slot means a
+   tiebreak route, a third model means a direct three-way vote. A
+   lighton tiebreak needs dots in the combination: the cached tiebreak
+   crops are cut from dots blocks, so a non-dots tiebreak route could
+   never vote.
 4. **Supplemental OCR** — the remaining picks: dots or Mistral blocks
    (bbox + text), Gemini page XML (no bboxes; generated upstream,
-   consumed as input data), or Surya (`surya_line` = line bbox + text,
-   `surya_block` = whole-page block bbox + text). A vote route runs two
-   supplementals in parallel. Every decoded block/line also
+   consumed as input data), or Surya (`surya_block` = whole-page block
+   bbox + text). A vote
+   route runs two supplementals in parallel. Every decoded block also
    carries `styled`: the engine's native markup (Markdown / XML detail
    tags / HTML) converted to a sanitized HTML vocabulary (`em`, `strong`,
    `sup`) — the end product is HTML, so styling from every engine is
@@ -30,17 +36,14 @@
    scale; relative order only; a block missing coordinates inherits them
    from its first coordinate-bearing descendant), document order where
    absent; `<img>` tag content (including nested `<p>` captions) is
-   in-image text and omitted. `surya_line` as supplemental: lines are
-   matched to the MAIN engine's blocks (kept when a block covers ≥50% of
-   the line, or ≥25% with the line's center inside), grouped back into
-   one paragraph per main block; lines matching no block are dropped as
-   bleed-through; lines matching a main image block are in-image text
-   and omitted. Every block engine (dots, mistral, surya block mode)
-   reconstructs through ONE path, main or supplemental; a supplemental
-   text block mostly inside a main image block is in-image text and
-   omitted. A dots Picture / mistral image block whose
-   crop is ≥80% near-black is a REDACTION placeholder, not a figure —
-   excluded and reported (`redactions`; real figures observed ≤0.74).
+   in-image text and omitted. Every block engine (dots, mistral, surya
+   block mode) reconstructs through ONE path, main or supplemental; a
+   supplemental text block mostly inside a main image block (≥50%
+   cover) is in-image text and omitted. Any block whose crop is
+   ≥80% near-black — a placeholder image OR text an engine hallucinated
+   over a redacted region — is redaction territory: excluded and
+   reported (`redactions`; real figures observed ≤0.74, real text far
+   lower).
    Gemini parallel-reporter star pages (`parallelpagenumber`, ★306) are
    structural markers gemini alone emits: reported (`star_pages`), never
    placed in the content stream.
@@ -48,7 +51,7 @@
    (reconstruction happens first and never depends on normalization). A
    token separates rendering from comparison: `display` is the engine's
    text (verbatim, except a plain wrap hyphen is removed when the split
-   word is joined), `key` is the comparison form (stage 7 diffs keys
+   word is joined), `key` is the comparison form (the compare stage diffs keys
    and nothing else — casing is deliberately preserved, and words and
    symbols are SEPARATE comparison units: `word,` is `word` + `,`, so a
    punctuation difference shows up as exactly that and never breaks a
@@ -59,8 +62,8 @@
    span of the fragment it came from; only the unit that straddles the
    join keeps the two-bbox `wrap` record — and
    `styling`/`marks` carry emphasis and footnote marks (marks are never
-   comparison content; their sequences get their own comparison flow at
-   stage 7). All rules live in one ordered registry
+   comparison content; their sequences get their own comparison flow
+   at compare + resolve). All rules live in one ordered registry
    (`pipeline/core/normalize.py`): stream rules transform the token
    stream (footnote-mark extraction in four shapes, NFKC, wrap-hyphen
    joins that never cross a block-role boundary, the word/symbol unit
@@ -72,31 +75,49 @@
    layer (`shared` applies to every engine identically; an engine-named
    layer only that engine's format), what it may change, and example
    strings that are executed verbatim as unit tests. The registry hash
-   is stamped into every artifact. Rules are decided one at a time: `uv
-   run python manage.py report_disagreements --dataset <name>` ranks
-   cross-engine disagreement pairs, and the walkthrough's stage-6 card
-   shows exactly what every rule changed on a page.
-7. **Compare + resolve** — tiebreak routes (lighton in the third
-   slot): diff the two reconstructed plaintexts; each dispute maps to
-   its main-engine block; blocks with ≥10 chars of main content are
-   cropped and sent to LightOn; a LightOn read is accepted only if its
-   ending agrees with the main block ending (guards against decoder
-   repetition); disputed tokens are located in every read by expanding
-   the surrounding character context until the match is unique;
-   majority wins, otherwise the main reading is kept and flagged
-   low-confidence. A VOTE route (a model in the third slot) instead
-   aligns the three engines' regions and resolves each dispute by
-   direct three-way majority — no crop is ever sent to a tiebreaker
-   (avoids LightOn's small-crop decoder hallucination and math/LaTeX
-   skew); a three-way split keeps the main reading and flags
-   low-confidence.
+   is stamped into every artifact. `uv run python manage.py
+   report_disagreements --dataset <name>` ranks cross-engine
+   disagreement pairs (the input for new rules), and the walkthrough's
+   Normalize card shows exactly what every rule changed on a page.
+7. **Compare + resolve** — comparison runs on the canonical unit KEYS
+   only (`pipeline/core/compare.py`); every disagreement run is one
+   DISPUTE, and a dispute maps to its main-engine block(s) by token
+   provenance (a wrap-joined word maps to BOTH its source bboxes) —
+   never by heuristic box attribution. Tiebreak routes (lighton in the
+   third slot): `page_number`/`heading` blocks are main-authoritative
+   (LightOn over-reads short crops); blocks under 10 chars of main
+   content are never cropped; otherwise the block crop's CACHED
+   LightOn read (`engines/lighton_crops/`, keyed page + exact bbox; a
+   cache miss is an honest no-vote) is decoded + normalized like any
+   engine stream, accepted only if its last 12 chars agree with the
+   block ending as EITHER stream wrote it (decoder repetition/
+   truncation guard), and the dispute is located inside it by EXPANDING ANCHORS — n units of
+   context each side, widened until the anchor pair is unique.
+   Majority of normalized keys wins; anything short of a majority
+   keeps the main reading flagged low-confidence. A VOTE route (a
+   model in the third slot) diffs the main stream against both
+   supplementals, merges the disagreement regions into intervals, and
+   resolves each by direct 2-of-3 majority — no crop is ever sent to a
+   tiebreaker (avoids LightOn's small-crop decoder hallucination and
+   math/LaTeX skew); a three-way split keeps the main reading and
+   flags low-confidence. A paired deletion + insertion of
+   near-identical text (≥90% similar, ≥5 units) is a REORDER — both
+   streams carry the content and disagree only on where it belongs
+   (e.g. physical vs semantic footnote order): both disputes resolve
+   to the main's placement, not low-confidence. Footnote-mark
+   sequences are compared in their
+   own flow and reported (marks are never text content); an empty
+   supplemental stream (e.g. a gemini refusal) degrades the page —
+   reported, main carries it. The resolution parameters are stamped
+   into every artifact. Corpus view: `uv run python manage.py
+   report_disputes --dataset <name>`.
 8. **Assemble** — main-engine skeleton + resolved tokens + styling
    union across engines; final HTML with low-confidence marks. Quality
    is judged by comparing different routes' finals side by side:
    differences are highlighted, and cross-route agreement is the
    confidence signal (there is no reference data in production).
 
-## Artifact contract (v3)
+## Artifact contract (v8)
 
 The pipeline writes one JSON document per page × route:
 
@@ -106,7 +127,7 @@ data/artifacts/<dataset>/<route>/<page>.json
 
 ```jsonc
 {
-  "schema_version": 3,
+  "schema_version": 8,
   "dataset": "sample30",
   "page": "a3d.340.1__p0",
   "route": "dots+mistral+lighton",
@@ -117,8 +138,8 @@ data/artifacts/<dataset>/<route>/<page>.json
                      "n_redaction_rects": 0},
     "layout":       {"engine": "container_yolo", "raw": [], "post": [],
                      "columns": [{"side": "L", "bbox": []}], "stats": {}},
-    "main_ocr":     {"engine": "dots", "page_text": "",
-                     // image blocks carry "black_frac" (redaction test)
+    "main_ocr":     {"engine": "dots",
+                     // every bbox block carries "black_frac" (redaction test)
                      "blocks": [{"id": 0, "order": 0, "label": "",
                                  "bbox": [], "text": "", "styled": ""}]},
     "supplementals": [
@@ -126,7 +147,7 @@ data/artifacts/<dataset>/<route>/<page>.json
       // mistral: {"engine", "unit": "block", "missing", "blocks": [...]}
       // gemini:  {"engine", "unit": "page_xml", "refusal", "raw_xml",
       //           "blocks": [{"id", "tag", "attrs", "text"}], "parse_error"}
-      // surya:   {"engine", "unit": "line"|"block", "missing", ...}
+      // surya:   {"engine", "unit": "block", "missing", "blocks": [...]}
       {"engine": "mistral", "unit": "block", "blocks": []}
     ],
     "reconstruct":  {
@@ -137,22 +158,19 @@ data/artifacts/<dataset>/<route>/<page>.json
       // bbox-placed engines also report "no_bbox": ids of blocks that
       // carried no bbox and could not be placed (reported, never lost).
       "main":          {"engine": "dots", "order": [], "items": [], "text": ""},
-      // one entry per supplemental. surya_line adds "dropped"
-      // (bleed-through line ids) + "in_image" (ids inside a dots Picture
-      // block; surya_block adds "in_image" only); gemini adds "omitted"
-      // (<img>-tag block ids) + "star_pages" (parallel-reporter markers,
-      // reported, never content); surya_line item ids = the dots block
-      // each paragraph was grouped under, and each item lists its member
-      // "lines" in join order (line -> block provenance). Block engines
-      // report "redactions": image-block ids dropped as near-black
-      // redaction placeholders.
+      // one entry per supplemental. Block supplementals report
+      // "in_image" (ids of text blocks inside a main image block);
+      // gemini adds "omitted" (<img>-tag block ids) + "star_pages"
+      // (parallel-reporter markers, reported, never content). Block
+      // engines report "redactions": near-black block ids dropped as
+      // redaction territory.
       "supplementals": [{"engine": "", "unit": "", "order": [],
                          "items": [], "text": ""}]
     },
     "normalize":    {
       // the registry that produced these streams, stamped ("stream"
       // rules transform tokens here; "decode" entries document the
-      // per-engine format decoding applied at stages 3-4):
+      // per-engine format decoding applied when outputs are decoded):
       "registry": {"hash": "1a2b3c4d5e6f",
                    "rules": [{"name": "<rule>", "layer": "shared",
                               "kind": "stream", "applies_to": "key",
@@ -165,8 +183,53 @@ data/artifacts/<dataset>/<route>/<page>.json
       "main":          {"engine": "dots", "tokens": [], "rules": []},
       "supplementals": [{"engine": "", "unit": "", "tokens": [], "rules": []}]
     },
-    // land in later milestones:
-    "compare":      {"disputes": [{"block": 0, "reads": {}, "verdict": ""}]},
+    "compare": {
+      // the resolution parameters this stage ran under:
+      "params": {"gate_min_chars": 10, "tail_agree_chars": 12,
+                 "anchor_start": 2, "skip_roles": ["heading", "page_number"],
+                 "high_risk_chars": 5, "reorder_sim": 0.9,
+                 "reorder_min_units": 5},
+      // stream legend: reads/spans/verdicts key on these labels
+      "streams": [{"label": "main", "engine": "dots"},
+                  {"label": "supp1", "engine": "mistral", "unit": "block"}],
+      "degraded": [],                 // labels of empty streams (refusals)
+      "disputes": [{
+        "id": 0,
+        "main_span": [12, 13],        // token indices in the main stream
+        "spans": {"supp1": [12, 13]}, // aligned token span per supplemental
+        "blocks": [3],                // main items (provenance; wraps add both)
+        "roles": ["content"],
+        "reads":    {"main": "brown", "supp1": "brawn", "lighton": "brawn"},
+        "displays": {"main": "brown", "supp1": "brawn", "lighton": "brawn"},
+        "verdict": "supp1",           // the winning stream label
+        "resolution": "majority",     // majority | reorder | authoritative | fallback
+        "reason": null,               // fallback/authoritative cause:
+                                      // under-gate | role-authoritative |
+                                      // no-cached-read | read-rejected |
+                                      // not-located | three-way-split | no-vote
+        "low_confidence": false,
+        "high_risk": false,          // low-confidence AND disputed text
+                                      // > high_risk_chars on some side
+        // tiebreak routes only — the LightOn attempt trace
+        // (accepted_by = which stream's block ending the read matched;
+        // a rejected read records the three "tails" instead):
+        "tiebreak": {"bboxes": [[318, 191, 856, 336]], "cached": true,
+                     "accepted": true, "accepted_by": "main",
+                     "located": true,
+                     "read": "…", "keys": ["brawn"], "display": "brawn"}
+      }],
+      // footnote-mark sequences, compared in their own flow:
+      "marks": [{"label": "supp1", "main": ["4"], "supp": ["4"],
+                 "agree": true, "diffs": []}],
+      "metrics": {"main_units": 787, "disputed_units": 14, "n_disputes": 6,
+                  "by_resolution": {"majority": 3, "fallback": 3},
+                  "by_reason": {"not-located": 2, "read-rejected": 1},
+                  "n_low_confidence": 3, "n_high_risk": 1,
+                  // tiebreak routes only:
+                  "tiebreak": {"attempted": 6, "cached": 6,
+                               "accepted": 5, "voted": 3}}
+    },
+    // lands in the next milestone:
     "assemble":     {"final_html": "<path>", "low_confidence": [], "metrics": {}}
   }
 }
@@ -188,7 +251,6 @@ data/
       dots/              dots block reads (JSON)
       gemini/            gemini page XML (generated upstream)
       mistral/           mistral whole-page block reads (JSON)
-      surya/line/        surya line reads (surya_line picks)
       surya/block/       surya block reads (surya_block picks)
       lighton_crops/     cached tiebreak crop reads (keyed page + bbox)
   weights/               container-YOLO weights (container_round2.pt)

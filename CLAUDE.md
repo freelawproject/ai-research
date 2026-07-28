@@ -1,7 +1,8 @@
 # CLAUDE.md
 
 Branch `extraction_package`: production packaging of the case-law extraction
-pipeline (5 OCR routes + Django walkthrough viewer + RunPod kits).
+pipeline (7 unique 3-model OCR combinations, order-free + Django
+walkthrough viewer + RunPod kits).
 
 ## Rules
 
@@ -16,6 +17,9 @@ pipeline (5 OCR routes + Django walkthrough viewer + RunPod kits).
 - `data/` is gitignored and distributed as a zip (`scripts/pack_data.sh`).
   Never commit data, models, or archives.
 - Conventional commits: `type(scope): message`.
+- Refer to pipeline stages by what they DO (render, layout, main OCR,
+  supplemental OCR, reconstruct, normalize, compare + resolve,
+  assemble) — never by stage number, in UI text, docs, and docstrings.
 - Tests run via `uv run python manage.py test` (SimpleTestCase — no DB).
   Viewer tests use a synthetic data tree, never the distributed bundle.
 - Do not run pre-commit, tests, or push unless the user says to.

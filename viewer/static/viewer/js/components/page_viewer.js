@@ -11,8 +11,8 @@ document.addEventListener("alpine:init", () => {
     showDots: true,
     showSupp: false,
     showSupp2: false,
-    showDropped: true,
     showInImage: true,
+    showDisputes: true,
     zoom: 100,
 
     init() {
@@ -27,11 +27,11 @@ document.addEventListener("alpine:init", () => {
         if (typeof saved.dots === "boolean") this.showDots = saved.dots;
         if (typeof saved.supp === "boolean") this.showSupp = saved.supp;
         if (typeof saved.supp2 === "boolean") this.showSupp2 = saved.supp2;
-        if (typeof saved.dropped === "boolean") {
-          this.showDropped = saved.dropped;
-        }
         if (typeof saved.inImage === "boolean") {
           this.showInImage = saved.inImage;
+        }
+        if (typeof saved.disputes === "boolean") {
+          this.showDisputes = saved.disputes;
         }
         const z = parseInt(localStorage.getItem(LS_ZOOM) || "100", 10);
         if (z >= 50 && z <= 400) this.zoom = z;
@@ -49,8 +49,8 @@ document.addEventListener("alpine:init", () => {
           dots: this.showDots,
           supp: this.showSupp,
           supp2: this.showSupp2,
-          dropped: this.showDropped,
           inImage: this.showInImage,
+          disputes: this.showDisputes,
         })
       );
       localStorage.setItem(LS_ZOOM, String(this.zoom));
@@ -76,12 +76,12 @@ document.addEventListener("alpine:init", () => {
       this.showSupp2 = !this.showSupp2;
       this.persist();
     },
-    toggleDropped() {
-      this.showDropped = !this.showDropped;
-      this.persist();
-    },
     toggleInImage() {
       this.showInImage = !this.showInImage;
+      this.persist();
+    },
+    toggleDisputes() {
+      this.showDisputes = !this.showDisputes;
       this.persist();
     },
 

@@ -65,15 +65,15 @@
                           chip="{{ s.chip }}" />
         {% endif %}
       {% endfor %}
-      {% if layers.dropped %}
-        <c-layer-toggle prop="showDropped" toggle="toggleDropped"
-                        label="dropped lines" count="{{ layers.dropped|length }}"
-                        chip="border-dashed border-red-600 bg-red-100" />
-      {% endif %}
       {% if layers.in_image %}
         <c-layer-toggle prop="showInImage" toggle="toggleInImage"
                         label="in-image text" count="{{ layers.in_image|length }}"
                         chip="border-dashed border-amber-600 bg-amber-100" />
+      {% endif %}
+      {% if layers.disputes %}
+        <c-layer-toggle prop="showDisputes" toggle="toggleDisputes"
+                        label="disputes" count="{{ layers.disputes|length }}"
+                        chip="border-violet-600" />
       {% endif %}
       <div class="ml-auto flex items-center gap-1">
         <button x-on:click="zoomOut" aria-label="Zoom out"
@@ -110,14 +110,14 @@
             {% endfor %}
           </div>
         {% endfor %}
-        <div x-show="showDropped" x-cloak>
-          {% for b in layers.dropped %}
-            <div class="ov {{ b.cls }}" style="{{ b.style }}" title="dropped {{ b.title }}"></div>
-          {% endfor %}
-        </div>
         <div x-show="showInImage" x-cloak>
           {% for b in layers.in_image %}
             <div class="ov {{ b.cls }}" style="{{ b.style }}" title="in-image {{ b.title }}"></div>
+          {% endfor %}
+        </div>
+        <div x-show="showDisputes" x-cloak>
+          {% for b in layers.disputes %}
+            <div class="{{ b.cls }}" style="{{ b.style }}" title="{{ b.title }}"></div>
           {% endfor %}
         </div>
       </div>
@@ -231,10 +231,6 @@
           <p class="mb-2 text-sm text-neutral-600">
             {{ s.items|length }} {{ s.supp.unit }}{{ s.items|length|pluralize }},
             HTML verbatim as the model returned it.
-            {% if s.supp.unit == "line" %}
-              Lines matching no dots block are dropped as bleed-through at
-              the reconstruct stage.
-            {% endif %}
           </p>
           <ol class="flex max-h-[60vh] flex-col gap-1 overflow-auto text-sm">
             {% for line in s.items %}
@@ -300,13 +296,6 @@
           {% endif %}
         {% endfor %}
         {% for s in supps %}
-          {% if s.dropped %}
-            <p class="mb-2 rounded-md bg-red-50 p-2 text-sm text-red-800">
-              {{ s.label }}: {{ s.dropped|length }}
-              line{{ s.dropped|length|pluralize }} dropped as bleed-through
-              (matched no dots block) — overlay: “dropped lines”.
-            </p>
-          {% endif %}
           {% if s.in_image %}
             <p class="mb-2 rounded-md bg-amber-50 p-2 text-sm text-amber-800">
               {{ s.label }}: {{ s.in_image|length }}
@@ -368,21 +357,6 @@
                   </li>
                 {% endfor %}
               </ol>
-              {% if s.dropped %}
-                <details class="mt-2 text-sm">
-                  <summary class="cursor-pointer text-red-700">
-                    dropped lines ({{ s.dropped|length }})
-                  </summary>
-                  <ol class="mt-1 flex flex-col gap-1">
-                    {% for line in s.dropped %}
-                      <li class="rounded border border-red-100 bg-red-50 px-2 py-1">
-                        <span class="font-mono text-xs text-red-700">{{ line.id }}</span>
-                        <span class="whitespace-pre-wrap">{{ line.text }}</span>
-                      </li>
-                    {% endfor %}
-                  </ol>
-                </details>
-              {% endif %}
               {% if s.in_image %}
                 <details class="mt-2 text-sm">
                   <summary class="cursor-pointer text-amber-700">
@@ -408,7 +382,7 @@
       <c-stage-card number="6" title="Normalize"
                     subtitle="registry {{ norm.hash }} · {{ norm.rules|length }} rule{{ norm.rules|length|pluralize }}">
         <p class="mb-3 text-sm text-neutral-600">
-          Each stream becomes canonical tokens: comparison (stage 7) uses
+          Each stream becomes canonical tokens: the comparison uses
           only the <span class="font-mono">key</span>; rendering keeps the
           verbatim <span class="font-mono">display</span>. Rules are
           decided one at a time — every rule below shows exactly what it
@@ -418,7 +392,8 @@
           <details class="mb-3 text-sm">
             <summary class="cursor-pointer text-neutral-600">
               engine-decode rules ({{ norm.decode_rules|length }}) — applied
-              at stage 3/4 decode, versioned in the same registry
+              when the raw model outputs are decoded, versioned in the
+              same registry
             </summary>
             <ul class="mt-1 flex flex-col gap-1">
               {% for r in norm.decode_rules %}
@@ -485,9 +460,166 @@
       </c-stage-card>
     {% endif %}
 
+    {% if cmp %}
+      <c-stage-card number="7" title="Compare + resolve"
+                    subtitle="{% if artifact.tiebreak %}unit-key diff · {{ artifact.tiebreak }} crop tiebreak{% else %}unit-key diff · direct three-way vote{% endif %}">
+        {% if cmp.degraded_labels %}
+          <p class="mb-2 rounded-md bg-amber-50 p-2 text-sm text-amber-800">
+            Degraded: no normalized stream for
+            {{ cmp.degraded_labels|join:", " }} — the remaining streams
+            carry the page{% if artifact.tiebreak %} (nothing to
+            compare){% else %} without a third voter{% endif %}.
+          </p>
+        {% endif %}
+        <p class="mb-2 text-sm text-neutral-600">
+          Comparison runs on the canonical unit keys only. Every
+          disagreement below maps to its main-engine block by token
+          provenance — overlay: “disputes” (filled = low-confidence).
+        </p>
+        <dl class="mb-3 grid grid-cols-2 gap-x-4 gap-y-1 text-sm sm:grid-cols-3">
+          <dt class="text-neutral-500">disputed units</dt>
+          <dd>{{ cmp.metrics.disputed_units }} / {{ cmp.metrics.main_units }}</dd>
+          <dt class="text-neutral-500">disputes</dt>
+          <dd>{{ cmp.metrics.n_disputes }}</dd>
+          <dt class="text-neutral-500">low-confidence</dt>
+          <dd>{{ cmp.metrics.n_low_confidence }}</dd>
+          <dt class="text-neutral-500">majority-resolved</dt>
+          <dd>{{ cmp.metrics.by_resolution.majority|default:0 }}</dd>
+          <dt class="text-neutral-500">main-authoritative</dt>
+          <dd>{{ cmp.metrics.by_resolution.authoritative|default:0 }}</dd>
+          <dt class="text-neutral-500">kept main (fallback)</dt>
+          <dd>{{ cmp.metrics.by_resolution.fallback|default:0 }}</dd>
+          {% if cmp.metrics.tiebreak %}
+            <dt class="text-neutral-500">tiebreak funnel</dt>
+            <dd class="col-span-1 sm:col-span-2">
+              {{ cmp.metrics.tiebreak.attempted }} attempted ·
+              {{ cmp.metrics.tiebreak.cached }} cached ·
+              {{ cmp.metrics.tiebreak.accepted }} accepted ·
+              {{ cmp.metrics.tiebreak.voted }} voted
+            </dd>
+          {% endif %}
+        </dl>
+        <p class="mb-3 text-xs text-neutral-500">
+          Gates: blocks under {{ cmp.params.gate_min_chars }} chars are
+          never cropped; a read's last
+          {{ cmp.params.tail_agree_chars }} chars must match the block
+          ending as either stream wrote it (repetition guard);
+          disputes locate by expanding anchors (n =
+          {{ cmp.params.anchor_start }}, widened until unique);
+          {{ cmp.skip_roles }} blocks are main-authoritative.
+        </p>
+        {% if cmp.disputes %}
+          <ol class="flex max-h-[70vh] flex-col gap-2 overflow-auto text-sm">
+            {% for d in cmp.disputes %}
+              <li class="rounded-md border p-2 {% if d.low_confidence %}border-rose-200 bg-rose-50/50{% else %}border-neutral-200{% endif %}">
+                <div class="flex flex-wrap items-center gap-2">
+                  <span class="rounded bg-violet-600/10 px-1 font-mono text-xs text-violet-700">
+                    #{{ d.id }}
+                  </span>
+                  <span class="text-xs text-neutral-500">
+                    block{{ d.blocks|length|pluralize }}
+                    {% for b in d.blocks %}#{{ b }}{% if not forloop.last %}, {% endif %}{% endfor %}
+                    · {{ d.roles|join:", " }}
+                  </span>
+                  <span class="ml-auto rounded px-1.5 py-0.5 text-xs font-medium {% if d.resolution == 'majority' %}bg-emerald-600/10 text-emerald-700{% elif d.resolution == 'authoritative' %}bg-neutral-200 text-neutral-700{% elif d.resolution == 'reorder' %}bg-sky-600/10 text-sky-700{% else %}bg-amber-500/15 text-amber-800{% endif %}">
+                    → {{ d.verdict_label }}
+                    ({{ d.resolution }}{% if d.reason %}: {{ d.reason }}{% endif %})
+                  </span>
+                  {% if d.high_risk %}
+                    <span class="rounded bg-rose-600 px-1.5 py-0.5 text-xs font-medium text-white">
+                      high risk
+                    </span>
+                  {% elif d.low_confidence %}
+                    <span class="rounded bg-rose-600/10 px-1.5 py-0.5 text-xs font-medium text-rose-700">
+                      low confidence
+                    </span>
+                  {% endif %}
+                </div>
+                <table class="mt-2 w-full text-xs">
+                  <tbody>
+                    {% for row in d.read_rows %}
+                      <tr class="{% if row.winner %}bg-emerald-50{% endif %}">
+                        <td class="w-32 py-0.5 pr-2 align-top text-neutral-500">
+                          {{ row.label }}{% if row.winner %} ✓{% endif %}
+                        </td>
+                        <td class="py-0.5 font-mono">
+                          {{ row.keys|default:"∅" }}
+                          {% if row.display and row.display != row.keys %}
+                            <span class="font-sans text-neutral-500">· “{{ row.display }}”</span>
+                          {% endif %}
+                        </td>
+                      </tr>
+                    {% endfor %}
+                  </tbody>
+                </table>
+                {% if d.tiebreak %}
+                  <details class="mt-1 text-xs">
+                    <summary class="cursor-pointer text-neutral-600">
+                      tiebreak trace —
+                      {% if not d.tiebreak.cached %}no cached read for this crop
+                      {% elif not d.tiebreak.accepted %}read rejected (ending matches neither stream)
+                      {% elif not d.tiebreak.located %}dispute not located in the read
+                      {% elif d.tiebreak.accepted_by == "supp1" %}read accepted (ending matches the supplemental) + located
+                      {% else %}read accepted + located{% endif %}
+                    </summary>
+                    <div class="mt-1 flex flex-col gap-2">
+                      {% for url in d.crop_urls %}
+                        <img src="{{ url }}" alt="LightOn crop for dispute #{{ d.id }}"
+                             class="max-w-full rounded border border-neutral-200 bg-white">
+                      {% endfor %}
+                      {% if d.tiebreak.tails %}
+                        <p class="text-rose-700">
+                          the read ends “{{ d.tiebreak.tails.read }}” but
+                          the block ends “{{ d.tiebreak.tails.main }}”
+                          (main){% if d.tiebreak.tails.supp %} /
+                          “{{ d.tiebreak.tails.supp }}”
+                          (supplemental){% endif %}
+                        </p>
+                      {% endif %}
+                      {% if d.tiebreak.read %}
+                        <p class="whitespace-pre-wrap rounded border border-neutral-100 bg-neutral-50 p-2 font-mono">{{ d.tiebreak.read }}</p>
+                      {% endif %}
+                    </div>
+                  </details>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ol>
+        {% elif not cmp.degraded_labels %}
+          <p class="rounded-md bg-emerald-50 p-2 text-sm text-emerald-800">
+            The streams agree — no disputes on this page.
+          </p>
+        {% endif %}
+        {% if cmp.marks %}
+          <details class="mt-3 text-sm">
+            <summary class="cursor-pointer text-neutral-600">
+              footnote-mark sequences (own comparison flow — marks are
+              never text content)
+            </summary>
+            <ul class="mt-1 flex flex-col gap-1 text-xs">
+              {% for m in cmp.marks %}
+                <li class="rounded border border-neutral-100 bg-neutral-50 px-2 py-1">
+                  <span class="text-neutral-500">{{ main_label }} (main) vs {{ m.label }}:</span>
+                  {% if m.agree %}
+                    <span class="text-emerald-700">sequences agree
+                      ({{ m.main|join:", "|default:"none" }})</span>
+                  {% else %}
+                    {% for diff in m.diffs %}
+                      <span class="text-red-700 line-through">{{ diff.main|join:", "|default:"∅" }}</span>
+                      <span class="text-emerald-700">{{ diff.supp|join:", "|default:"∅" }}</span>{% if not forloop.last %} · {% endif %}
+                    {% endfor %}
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </details>
+        {% endif %}
+      </c-stage-card>
+    {% endif %}
+
     <section class="rounded-lg border border-dashed border-neutral-300 p-4 text-sm text-neutral-500">
-      Stages 7 ({% if artifact.tiebreak %}compare + {{ artifact.tiebreak }} tiebreak{% else %}three-way bbox-aligned majority vote — no tiebreaker{% endif %})
-      and 8 (assemble) land in upcoming milestones.
+      Assembly (main skeleton + resolved tokens + styling union, final
+      HTML with low-confidence marks) lands next.
     </section>
   </div>
 </div>

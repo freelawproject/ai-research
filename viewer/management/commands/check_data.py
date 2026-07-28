@@ -15,16 +15,14 @@ from pipeline.core.config import dataset
 from pipeline.core.pages import discover_pages
 
 REQUIRED_DIRS = ("redacted", "page_png", "engines")
-# engines/<subpath> -> which routes need it (surya's two variants are
-# separate inputs and are checked separately).
+# engines/<subpath> -> which combinations need it.
 ENGINE_HINTS = {
-    "container_yolo": "layout stage",
-    "dots": "main OCR (every route)",
-    "gemini": "gemini route (generated upstream)",
-    "mistral": "mistral + three_way routes",
-    "surya/line": "surya_line route",
-    "surya/block": "surya_block + three_way routes",
-    "lighton_crops": "tiebreak cache",
+    "container_yolo": "layout detection (every combination)",
+    "dots": "main whenever picked; required for lighton tiebreaks",
+    "gemini": "combinations that pick gemini (generated upstream)",
+    "mistral": "combinations that pick mistral",
+    "surya/block": "combinations that pick surya_block",
+    "lighton_crops": "lighton tiebreak cache",
 }
 
 

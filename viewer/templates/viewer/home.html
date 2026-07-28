@@ -15,12 +15,14 @@
       Walk the extraction pipeline stage by stage. On the flow page you
       pick the sample set, the page, and the three models: two OCR
       models plus a resolver (lighton tie-breaks disputed spans; a
-      third model joins a direct vote). The bbox-capable pick — dots
-      first — anchors the reconstruction.
+      third model joins a direct vote). Order doesn't matter — the
+      highest-priority bbox model in the set (dots, then mistral, then
+      surya block) anchors the reconstruction.
     </p>
-    {# a form (not a link) so the last-used dataset/model combination
-       is restored from localStorage into the hidden fields; empty
-       values fall back to the defaults server-side #}
+    {% comment %} a form (not a link) so the last-used dataset/model
+       combination is restored from localStorage into the hidden
+       fields; empty values fall back to the defaults server-side
+    {% endcomment %}
     <form method="get" action="{% url 'route_go' %}"
           x-data="modelPicker" data-restore="true" class="inline-block">
       <input type="hidden" name="dataset" value="">
@@ -40,6 +42,142 @@
     <code>uv run python manage.py check_data</code>.
   </p>
 {% endif %}
+
+{% for s in stats %}
+  <h2 class="mb-2 text-xl font-semibold">
+    Route stats — {{ s.dataset }}
+  </h2>
+  <section class="mb-8 rounded-lg border border-neutral-200 bg-white px-4 py-4">
+    <ul class="mb-3 list-disc pl-5 text-sm text-neutral-600">
+      <li>
+        A <span class="font-medium">dispute</span> is one contiguous
+        run of disagreeing words/symbols found when the engines'
+        aligned normalized texts are compared — not a bbox: one block
+        can hold several disputes, and a dispute maps back to its
+        block(s) by token provenance.
+      </li>
+      <li>
+        Cells read <span class="font-mono text-xs">numerator/denominator</span>:
+        <span class="font-mono text-xs">41/56</span> means 41 of the 56
+        disputes the comparison found for that combination. The
+        denominator is always the
+        <span class="font-medium">disputes</span> column.
+      </li>
+      <li>
+        <span class="font-medium">1st engine</span> — the main: the
+        reconstruction skeleton, and the reading that is kept whenever
+        a dispute goes unresolved.
+      </li>
+      <li>
+        <span class="font-medium">main bboxes</span> — every block the
+        1st (main) engine detected across the pages; disputes map back
+        to these blocks by token provenance.
+      </li>
+      <li>
+        <span class="font-medium">majority</span> — disputes a 2-of-3
+        majority resolved.
+      </li>
+      <li>
+        <span class="font-medium">reorders</span> — paired deletion +
+        insertion of near-identical text: both engines carry the
+        content but disagree on where it belongs (e.g. physical vs
+        semantic footnote order); the main's placement is kept.
+      </li>
+      <li>
+        <span class="font-medium">rejected or refused</span> — disputes
+        where the resolver could not vote: no cached crop read, read
+        rejected by the ending guard, dispute not located in the read,
+        or a refused/empty supplemental stream.
+      </li>
+      <li>
+        <span class="font-medium">low conf.</span> — disputes with no
+        majority: the main reading was kept and flagged.
+      </li>
+      <li>
+        <span class="font-medium">high risk</span> — low-confidence
+        disputes where the disputed text is longer than 5 characters
+        on some side.
+      </li>
+    </ul>
+    <div class="overflow-x-auto">
+      <table class="w-full text-sm">
+        <thead>
+          <tr class="border-b border-neutral-200 text-left text-xs text-neutral-500">
+            <th class="py-1 pr-3 font-medium">1st engine</th>
+            <th class="py-1 pr-3 font-medium">2nd engine</th>
+            <th class="py-1 pr-3 font-medium">3rd engine / tiebreaker</th>
+            <th class="py-1 pr-3 text-right font-medium">pages</th>
+            <th class="py-1 pr-3 text-right font-medium">main bboxes</th>
+            <th class="py-1 pr-3 text-right font-medium">disputes</th>
+            <th class="py-1 pr-3 text-right font-medium">majority</th>
+            <th class="py-1 pr-3 text-right font-medium">
+              <a href="{% url 'review' s.dataset 'reorders' %}"
+                 title="review the reorders"
+                 class="text-indigo-700 underline">reorders</a>
+            </th>
+            <th class="py-1 pr-3 text-right font-medium">
+              <a href="{% url 'review' s.dataset 'rejected' %}"
+                 title="review the rejected or refused disputes"
+                 class="text-indigo-700 underline">rejected or refused</a>
+            </th>
+            <th class="py-1 pr-3 text-right font-medium">
+              <a href="{% url 'review' s.dataset 'low-conf' %}"
+                 title="review the low-confidence disputes"
+                 class="text-indigo-700 underline">low conf.</a>
+            </th>
+            <th class="py-1 pr-3 text-right font-medium">
+              <a href="{% url 'review' s.dataset 'high-risk' %}"
+                 title="review the high-risk disputes"
+                 class="text-indigo-700 underline">high risk</a>
+            </th>
+            <th class="py-1 font-medium"><span class="sr-only">open in the flow</span></th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for r in s.rows %}
+            <tr class="border-b border-neutral-100 last:border-b-0 {% if not r.pages %}text-neutral-400{% endif %}">
+              <td class="py-1 pr-3">{{ r.engine_labels.0 }}</td>
+              <td class="py-1 pr-3">{{ r.engine_labels.1 }}</td>
+              <td class="py-1 pr-3">
+                {{ r.engine_labels.2 }}
+                {% if r.tiebreak %}
+                  <span class="text-xs text-neutral-500">(tiebreak)</span>
+                {% else %}
+                  <span class="text-xs text-neutral-500">(3-way vote)</span>
+                {% endif %}
+              </td>
+              {% if r.pages %}
+                <td class="py-1 pr-3 text-right">{{ r.pages }}</td>
+                <td class="py-1 pr-3 text-right">{{ r.main_blocks }}</td>
+                <td class="py-1 pr-3 text-right">{{ r.disputes }}</td>
+                <td class="py-1 pr-3 text-right font-mono text-xs">{{ r.majority }}/{{ r.disputes }}</td>
+                <td class="py-1 pr-3 text-right font-mono text-xs">{{ r.reorders }}/{{ r.disputes }}</td>
+                <td class="py-1 pr-3 text-right font-mono text-xs">
+                  {{ r.rejected }}/{{ r.disputes }}
+                  {% if r.degraded %}
+                    <span class="font-sans text-amber-700">({{ r.degraded }} pg degraded)</span>
+                  {% endif %}
+                </td>
+                <td class="py-1 pr-3 text-right font-mono text-xs">{{ r.low_conf }}/{{ r.disputes }}</td>
+                <td class="py-1 pr-3 text-right font-mono text-xs">{{ r.high_risk }}/{{ r.disputes }}</td>
+              {% else %}
+                <td class="py-1 pr-3 text-right">0</td>
+                <td class="py-1 pr-3 text-right" colspan="7">not built yet</td>
+              {% endif %}
+              <td class="py-1 text-right">
+                {% if r.url %}
+                  <a href="{{ r.url }}"
+                     title="open {{ r.route }} in the pipeline flow"
+                     class="inline-block rounded-md border border-indigo-300 px-2 py-0.5 text-xs font-medium text-indigo-700">flow</a>
+                {% endif %}
+              </td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+{% endfor %}
 
 <h2 class="mb-2 text-xl font-semibold">Models</h2>
 <section class="rounded-lg border border-neutral-200 bg-white">

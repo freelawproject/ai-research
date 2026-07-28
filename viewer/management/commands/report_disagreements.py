@@ -1,12 +1,12 @@
 """Cross-engine disagreement report — the phenomena-surfacing tool for
-the rule-by-rule normalization work (docs/pipeline.md, stage 6).
+the rule-by-rule normalization work (docs/pipeline.md).
 
 For every artifact of a dataset, the normalized KEY stream of the main
 engine is diffed against each supplemental engine's stream, and the
 distinct (main, supplemental) disagreement pairs are ranked by frequency
 per engine. Each frequent pair is a candidate normalization rule; what
 remains after the registry has absorbed the format phenomena is a real
-OCR dispute, which stage 7 owns. A page appears once per supplemental
+OCR dispute, which compare + resolve owns. A page appears once per supplemental
 engine even when routes overlap (three_way re-runs mistral and surya)."""
 
 import difflib
@@ -102,8 +102,8 @@ class Command(BaseCommand):
                         ex.append(page)
         if not seen:
             raise CommandError(
-                "no normalize stage in any artifact — re-run the pipeline "
-                "(schema v2+)"
+                "no normalize record in any artifact — these artifacts "
+                "predate normalization; re-run the pipeline"
             )
 
         # the hash the ARTIFACTS were normalized under (not the live

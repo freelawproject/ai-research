@@ -7,8 +7,8 @@ from django.urls import reverse
 
 from pipeline import routes
 from pipeline.core.config import RENDER_H, RENDER_W
-from pipeline.engines.info import ENGINE_INFO
 from viewer import data
+from viewer.info import ENGINE_INFO
 
 _CONTAINER_CLS = "ov-cont"
 _SUPP_CHIP = {
@@ -27,12 +27,42 @@ _MODEL_LABELS = {
     "mistral": "mistral",
     "gemini": "gemini",
     "surya_block": "surya block",
-    "surya_line": "surya line",
     routes.TIEBREAK_ONLY: "lighton (tiebreaker)",
 }
 # the combination the flow opens with: dots ∥ mistral ∥ surya block,
 # resolved by direct three-way vote
 _DEFAULT_COMBO = routes.PRESETS["three_way"]
+
+
+def _pretty(name: str) -> str:
+    """Display form of a model slug or engine name ("surya_block" and
+    the surya engine both read as "surya block")."""
+    return "surya block" if name in ("surya_block", "surya") else name
+
+
+def _labels_for(streams: list[dict]) -> dict[str, str]:
+    """Read labels per compare-stream key ("main", "supp1", ...,
+    "lighton"), named by engine."""
+    label_of = {
+        "main": f"{_pretty(streams[0]['engine'])} (main)",
+        "lighton": "lighton",
+    }
+    for s in streams[1:]:
+        label_of[s["label"]] = _pretty(s["engine"])
+    return label_of
+
+
+def _read_rows(dispute: dict, label_of: dict[str, str]) -> list[dict]:
+    """One row per read of a dispute, the winning read marked."""
+    return [
+        {
+            "label": label_of.get(k, k),
+            "keys": v,
+            "display": dispute["displays"].get(k, ""),
+            "winner": k == dispute["verdict"],
+        }
+        for k, v in dispute["reads"].items()
+    ]
 
 
 def _selector_ctx(sel: tuple[str, str, str]) -> dict:
@@ -89,16 +119,74 @@ def _boxes(
 
 
 async def home(request: HttpRequest) -> HttpResponse:
-    """Landing page: one door into the pipeline flow, plus the
+    """Landing page: one door into the pipeline flow, the per-route
+    compare + resolve stats for every composable combination, and the
     model/architecture reference. Dataset, models, and page are all
     picked on the flow page itself."""
+    names = data.dataset_names()
+    stats = []
+    for name in names:
+        pages = data.dataset_pages(name)
+        rows = data.route_stats(name)
+        for r in rows:
+            r["url"] = (
+                reverse("page", args=[name, r["route"], pages[0]])
+                if pages
+                else None
+            )
+            r["engine_labels"] = [_pretty(s) for s in r["engines"]]
+        stats.append({"dataset": name, "n_pages": len(pages), "rows": rows})
     return TemplateResponse(
         request,
         "viewer/home.html",
         {
-            "has_datasets": bool(data.list_datasets()),
+            "has_datasets": bool(names),
+            "stats": stats,
             "engine_info": ENGINE_INFO,
             "error": request.GET.get("error", ""),
+        },
+    )
+
+
+async def review(
+    request: HttpRequest, dataset: str, category: str
+) -> HttpResponse:
+    """The review pages behind the stats table's column headers: every
+    dispute of one category, across all combinations of a dataset.
+    Each entry links to the walkthrough page holding its dispute
+    card."""
+    meta = data.REVIEW_CATEGORIES.get(category)
+    if meta is None:
+        raise Http404(f"no review category {category}")
+    title, description = meta["title"], meta["description"]
+    entries = []
+    for e in data.review_disputes(dataset, category):
+        label_of = _labels_for(e["streams"])
+        d = e["dispute"]
+        entries.append(
+            {
+                "combo": " + ".join(_pretty(s) for s in e["engines"]),
+                "resolver": (
+                    "lighton tiebreak" if e["tiebreak"] else "3-way vote"
+                ),
+                "page": e["page"],
+                "url": reverse("page", args=[dataset, e["route"], e["page"]]),
+                "resolution": d["resolution"],
+                "reason": d.get("reason"),
+                "roles": ", ".join(d["roles"]),
+                "blocks": d["blocks"],
+                "read_rows": _read_rows(d, label_of),
+            }
+        )
+    return TemplateResponse(
+        request,
+        "viewer/review.html",
+        {
+            "dataset": dataset,
+            "category": category,
+            "title": title,
+            "description": description,
+            "entries": entries,
         },
     )
 
@@ -107,7 +195,7 @@ async def route_go(request: HttpRequest) -> HttpResponse:
     """Land on the walkthrough for the selected dataset + three models
     (all optional — defaults fill in; invalid combinations bounce back
     with the reason). The home button hits this with no params."""
-    names = [info.name for info in data.list_datasets()]
+    names = data.dataset_names()
     if not names:
         return redirect("home")
     dataset = request.GET.get("dataset", "")
@@ -144,16 +232,14 @@ async def dataset_redirect(request: HttpRequest, dataset: str) -> HttpResponse:
 def _supp_ctx(
     dataset: str, page: str, index: int, supp: dict, rsupp: dict
 ) -> dict:
-    items = supp.get("blocks") or supp.get("lines") or []
+    items = supp.get("blocks") or []
     by_id = {it["id"]: it for it in items}
-    dropped = [by_id[x] for x in rsupp.get("dropped", []) if x in by_id]
     in_image = [by_id[x] for x in rsupp.get("in_image", []) if x in by_id]
     prop, toggle = _SUPP_TOGGLES[min(index, len(_SUPP_TOGGLES) - 1)]
+    label = _pretty(supp["engine"])
     if supp["engine"] == "surya":
-        label = f"surya {supp['unit']}"
         raw = data.engine_raw(dataset, page, "surya", variant=supp["unit"])
     else:
-        label = supp["engine"]
         raw = data.engine_raw(dataset, page, supp["engine"])
     return {
         "supp": supp,
@@ -165,9 +251,6 @@ def _supp_ctx(
         "boxes": _boxes(items, cls_for=f"ov-{supp['engine']}"),
         "raw": raw,
         "recon_items": rsupp.get("items", []),
-        "dropped": [
-            {"id": x["id"], "text": x.get("text", "")} for x in dropped
-        ],
         "in_image": [
             {"id": x["id"], "text": x.get("text", "")} for x in in_image
         ],
@@ -180,7 +263,6 @@ def _supp_ctx(
             )
         ],
         "star_pages": rsupp.get("star_pages", []),
-        "_dropped_items": dropped,
         "_in_image_items": in_image,
     }
 
@@ -242,11 +324,85 @@ def _norm_ctx(norm: dict | None) -> dict | None:
     }
 
 
+def _crop_urls(dataset: str, page: str, bboxes: list[list[int]]) -> list[str]:
+    """URLs of the cached crop images that actually exist for these
+    bboxes (a read can be cached without its image)."""
+    urls = []
+    for bbox in bboxes:
+        key = "_".join(str(int(c)) for c in bbox)
+        if data.lighton_crop_png(dataset, page, key) is not None:
+            urls.append(reverse("crop_img", args=[dataset, page, key]))
+    return urls
+
+
+def _compare_ctx(
+    cmp: dict | None,
+    dataset: str,
+    page: str,
+) -> dict | None:
+    """Compare-card context: the dispute cards (reads labeled by
+    engine, the winner marked, tiebreak trace + crop images where
+    cached) plus the page metrics."""
+    if not cmp:
+        return None
+    label_of = _labels_for(cmp["streams"])
+    disputes = []
+    for d in cmp["disputes"]:
+        tb = d.get("tiebreak")
+        disputes.append(
+            {
+                **d,
+                "verdict_label": label_of.get(d["verdict"], d["verdict"]),
+                "read_rows": _read_rows(d, label_of),
+                "crop_urls": (
+                    _crop_urls(dataset, page, tb["bboxes"]) if tb else []
+                ),
+            }
+        )
+    return {
+        **cmp,
+        "disputes": disputes,
+        "marks": [
+            {**m, "label": label_of.get(m["label"], m["label"])}
+            for m in cmp["marks"]
+            if m["supp"] or m["main"]
+        ],
+        "degraded_labels": [label_of.get(lb, lb) for lb in cmp["degraded"]],
+        "skip_roles": ", ".join(cmp["params"]["skip_roles"]),
+    }
+
+
+def _dispute_boxes(cmp: dict | None, main_blocks: list[dict]) -> list[dict]:
+    """One overlay box per disputed main block (low-confidence disputes
+    filled)."""
+    if not cmp:
+        return []
+    bbox_of = {b["id"]: b.get("bbox") for b in main_blocks}
+    out = []
+    for d in cmp["disputes"]:
+        cls = "ov-dispute-low" if d["low_confidence"] else "ov-dispute"
+        for block in d["blocks"]:
+            bbox = bbox_of.get(block)
+            if not bbox:
+                continue
+            out.append(
+                {
+                    "style": _pct_style(bbox),
+                    "cls": f"ov {cls}",
+                    "title": (
+                        f"dispute #{d['id']} → {d['verdict']}"
+                        f" ({d['resolution']})"
+                    ),
+                }
+            )
+    return out
+
+
 async def page(
     request: HttpRequest, dataset: str, route: str, page: str
 ) -> HttpResponse:
     """The pipeline walkthrough: one page, one model combination,
-    stages 1-6. The artifact materializes on first visit. resolve()
+    every stage. The artifact materializes on first visit. resolve()
     also accepts the CLI preset names, so pre-composition URLs
     (/d/<ds>/three_way/...) keep working; artifacts always land under
     the canonical combo name."""
@@ -260,25 +416,26 @@ async def page(
     recon_supps = (recon or {}).get("supplementals", [])
 
     supps = []
-    dropped_items: list[dict] = []
     in_image_items: list[dict] = []
     for i, supp in enumerate(stages["supplementals"]):
         rsupp = recon_supps[i] if i < len(recon_supps) else {}
         ctx_i = _supp_ctx(dataset, page, i, supp, rsupp)
-        dropped_items += ctx_i.pop("_dropped_items")
         in_image_items += ctx_i.pop("_in_image_items")
         supps.append(ctx_i)
 
     main_engine = stages["main_ocr"]["engine"]
     main_unit = stages["main_ocr"].get("unit", "block")
+    main_label = _pretty(main_engine)
     layers = {
         "containers": _boxes(stages["layout"]["post"]),
         "yolo_raw": _boxes(stages["layout"]["raw"], extra="ov-raw"),
         "main": _boxes(
             stages["main_ocr"]["blocks"], cls_for=f"ov-{main_engine}"
         ),
-        "dropped": _boxes(dropped_items, cls_for="ov-dropped"),
         "in_image": _boxes(in_image_items, cls_for="ov-inimg"),
+        "disputes": _dispute_boxes(
+            stages.get("compare"), stages["main_ocr"]["blocks"]
+        ),
     }
 
     pages = data.dataset_pages(dataset)
@@ -303,11 +460,8 @@ async def page(
             in set((recon or {}).get("main", {}).get("redactions", []))
         ],
         "norm": _norm_ctx(stages.get("normalize")),
-        "main_label": (
-            f"{main_engine} {main_unit}"
-            if main_engine == "surya"
-            else main_engine
-        ),
+        "cmp": _compare_ctx(stages.get("compare"), dataset, page),
+        "main_label": main_label,
         "raws": {
             "layout": data.engine_raw(dataset, page, "container_yolo"),
             "main": data.engine_raw(
@@ -334,7 +488,7 @@ async def page(
             else None
         ),
         "img_url": reverse("page_img", args=[dataset, page]),
-        "dataset_options": [info.name for info in data.list_datasets()],
+        "dataset_options": data.dataset_names(),
         **_selector_ctx(routes.slugs(route_obj)),
     }
     return TemplateResponse(request, "viewer/page.html", ctx)
@@ -345,4 +499,15 @@ async def page_img(
 ) -> FileResponse:
     """The canonical black-redacted render of a page."""
     path = data.page_png_path(dataset, page)
+    return FileResponse(open(path, "rb"), content_type="image/png")
+
+
+async def crop_img(
+    request: HttpRequest, dataset: str, page: str, bbox: str
+) -> FileResponse:
+    """The cached LightOn crop image for an exact bbox key — what the
+    tiebreaker actually read (the dispute cards)."""
+    path = data.lighton_crop_png(dataset, page, bbox)
+    if path is None:
+        raise Http404(f"no cached crop {page}_{bbox}")
     return FileResponse(open(path, "rb"), content_type="image/png")

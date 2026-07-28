@@ -59,7 +59,6 @@ _ARTIFACT = {
                     "text": "hello world",
                 }
             ],
-            "page_text": "hello world",
         },
         "supplementals": [
             {
@@ -191,6 +190,77 @@ _ARTIFACT = {
                 }
             ],
         },
+        "compare": {
+            "params": {
+                "gate_min_chars": 10,
+                "tail_agree_chars": 12,
+                "anchor_start": 2,
+                "skip_roles": ["heading", "page_number"],
+            },
+            "streams": [
+                {"label": "main", "engine": "dots"},
+                {"label": "supp1", "engine": "mistral", "unit": "block"},
+            ],
+            "degraded": [],
+            "disputes": [
+                {
+                    "id": 0,
+                    "main_span": [1, 2],
+                    "blocks": [0],
+                    "roles": ["content"],
+                    "spans": {"supp1": [1, 2]},
+                    "reads": {
+                        "main": "world",
+                        "supp1": "word",
+                        "lighton": "word",
+                    },
+                    "displays": {
+                        "main": "world",
+                        "supp1": "word",
+                        "lighton": "word",
+                    },
+                    "verdict": "supp1",
+                    "resolution": "majority",
+                    "reason": None,
+                    "low_confidence": False,
+                    "high_risk": False,
+                    "tiebreak": {
+                        "bboxes": [[100, 100, 800, 200]],
+                        "cached": True,
+                        "accepted": True,
+                        "accepted_by": "main",
+                        "located": True,
+                        "read": "hello word",
+                        "keys": ["word"],
+                        "display": "word",
+                    },
+                }
+            ],
+            "marks": [
+                {
+                    "label": "supp1",
+                    "main": ["4"],
+                    "supp": [],
+                    "agree": False,
+                    "diffs": [{"main": ["4"], "supp": []}],
+                }
+            ],
+            "metrics": {
+                "main_units": 2,
+                "disputed_units": 1,
+                "n_disputes": 1,
+                "by_resolution": {"majority": 1},
+                "by_reason": {},
+                "n_low_confidence": 0,
+                "n_high_risk": 0,
+                "tiebreak": {
+                    "attempted": 1,
+                    "cached": 1,
+                    "accepted": 1,
+                    "voted": 1,
+                },
+            },
+        },
     },
 }
 
@@ -231,7 +301,15 @@ class ViewerViewsTest(DataTreeTestCase):
             d = ds / "engines" / engine
             d.mkdir(parents=True)
             (d / "rep.1.1__p0.json").write_text('{"raw": "engine file"}')
-        Image.new("RGB", (17, 22)).save(ds / "page_png" / "rep.1.1__p0.png")
+        Image.new("RGB", (17, 22), "white").save(
+            ds / "page_png" / "rep.1.1__p0.png"
+        )
+        # the crop image behind the fixture's tiebreak dispute
+        crops = ds / "engines" / "lighton_crops"
+        crops.mkdir(parents=True)
+        Image.new("RGB", (7, 1), "white").save(
+            crops / "rep.1.1__p0_100_100_800_200.png"
+        )
         art = tmp / "artifacts" / "tiny" / "dots+mistral+lighton"
         art.mkdir(parents=True)
         (art / "rep.1.1__p0.json").write_text(json.dumps(_ARTIFACT))
@@ -240,12 +318,58 @@ class ViewerViewsTest(DataTreeTestCase):
         (art / "rep.1.1__p9.json").write_text(json.dumps(stale))
         # extra renders exercise NATURAL page ordering (p2 before p10)
         for extra in ("rep.1.1__p2", "rep.1.1__p10"):
-            Image.new("RGB", (17, 22)).save(ds / "page_png" / f"{extra}.png")
+            Image.new("RGB", (17, 22), "white").save(
+                ds / "page_png" / f"{extra}.png"
+            )
         # and a page whose artifact carries a stale REGISTRY hash
         aged = json.loads(json.dumps(_ARTIFACT))
         aged["page"] = "rep.1.1__p8"
         aged["stages"]["normalize"]["registry"]["hash"] = "000000000000"
         (art / "rep.1.1__p8.json").write_text(json.dumps(aged))
+        # a second route whose one dispute is HIGH RISK (feeds the
+        # review page + its own stats row)
+        hr = json.loads(json.dumps(_ARTIFACT))
+        hr["route"] = "dots+surya_block+lighton"
+        hr_cmp = hr["stages"]["compare"]
+        hr_cmp["streams"][1] = {
+            "label": "supp1",
+            "engine": "surya",
+            "unit": "block",
+        }
+        hr_cmp["disputes"] = [
+            {
+                "id": 0,
+                "main_span": [0, 1],
+                "blocks": [0],
+                "roles": ["content"],
+                "spans": {"supp1": [0, 1]},
+                "reads": {"main": "hello", "supp1": "goodbye friend"},
+                "displays": {"main": "Hello", "supp1": "goodbye friend"},
+                "verdict": "main",
+                "resolution": "fallback",
+                "reason": "no-cached-read",
+                "low_confidence": True,
+                "high_risk": True,
+            }
+        ]
+        hr_cmp["metrics"] = {
+            "main_units": 2,
+            "disputed_units": 1,
+            "n_disputes": 1,
+            "by_resolution": {"fallback": 1},
+            "by_reason": {"no-cached-read": 1},
+            "n_low_confidence": 1,
+            "n_high_risk": 1,
+            "tiebreak": {
+                "attempted": 1,
+                "cached": 0,
+                "accepted": 0,
+                "voted": 0,
+            },
+        }
+        hr_art = tmp / "artifacts" / "tiny" / "dots+surya_block+lighton"
+        hr_art.mkdir(parents=True)
+        (hr_art / "rep.1.1__p0.json").write_text(json.dumps(hr))
 
     def test_home_is_a_door_to_the_flow(self) -> None:
         response = self.client.get("/")
@@ -256,7 +380,54 @@ class ViewerViewsTest(DataTreeTestCase):
         # only carries hidden fields that restore the last-used combo
         self.assertNotContains(response, "<select")
         self.assertContains(response, 'data-restore="true"')
-        self.assertNotContains(response, "rep.1.1__p0")
+
+    def test_home_route_stats_cover_every_variant(self) -> None:
+        response = self.client.get("/")
+        self.assertContains(response, "Route stats — tiny")
+        # three engine columns, no combined route-name column
+        self.assertContains(response, "1st engine")
+        self.assertContains(response, "2nd engine")
+        self.assertContains(response, "3rd engine / tiebreaker")
+        self.assertContains(response, "high risk")
+        # explicit denominator + main-bbox context columns
+        self.assertContains(response, "disputes")
+        self.assertContains(response, "main bboxes")
+        # the built route aggregates its one page as counts out of its
+        # disputes: 1/1 majority, 0/1 everywhere else (+ the high-risk
+        # fixture route's majority + reorders cells)
+        self.assertContains(response, "dots+mistral+lighton")  # row link
+        self.assertContains(response, "1/1")
+        self.assertContains(response, "0/1", count=6)
+        self.assertContains(response, "reorders")
+        # every reviewable column header links to its review page
+        for category in ("reorders", "rejected", "low-conf", "high-risk"):
+            self.assertContains(response, f"/review/tiny/{category}/")
+        # the flow link is its own button column (one per row: the 3
+        # dots+lighton tiebreaks + all 4 vote trios)
+        self.assertContains(response, ">flow</a>", count=7)
+        # lighton combinations without dots are gone (no cached crops)
+        self.assertNotContains(response, "mistral+gemini+lighton")
+        self.assertNotContains(response, "surya_block+gemini+lighton")
+        # unbuilt variants still get a row
+        self.assertContains(response, "dots+gemini+lighton")
+        self.assertContains(response, "not built yet")
+        # only UNIQUE combinations appear — never an ordering twin
+        self.assertContains(response, "dots+mistral+surya_block")
+        self.assertNotContains(response, "dots+surya_block+mistral")
+        self.assertContains(response, "dots+gemini+surya_block")
+        self.assertNotContains(response, "surya_block+gemini+dots")
+
+    def test_home_route_stats_order(self) -> None:
+        # tiebreak routes before votes; with-gemini before without
+        body = self.client.get("/").content.decode()
+        order = [
+            "/d/tiny/dots+gemini+lighton/",  # tiebreak, gemini
+            "/d/tiny/dots+mistral+lighton/",  # tiebreak, no gemini
+            "/d/tiny/dots+gemini+mistral/",  # vote, gemini
+            "/d/tiny/dots+mistral+surya_block/",  # vote, no gemini
+        ]
+        positions = [body.index(u) for u in order]
+        self.assertEqual(positions, sorted(positions))
 
     def test_flow_page_offers_dataset_and_model_selects(self) -> None:
         response = self.client.get("/d/tiny/dots+mistral+lighton/rep.1.1__p0/")
@@ -266,6 +437,15 @@ class ViewerViewsTest(DataTreeTestCase):
         self.assertContains(response, 'name="m3"')
         # lighton only offered in the third slot
         self.assertContains(response, "lighton (tiebreaker)", count=1)
+        # surya's line mode is retired — never offered
+        self.assertNotContains(response, "surya line")
+        self.assertNotContains(response, "surya_line")
+
+    def test_retired_surya_line_route_404s(self) -> None:
+        response = self.client.get(
+            "/d/tiny/dots+surya_line+lighton/rep.1.1__p0/"
+        )
+        self.assertEqual(response.status_code, 404)
 
     def test_route_go_defaults_land_on_the_flow(self) -> None:
         # the default combination: dots ∥ mistral ∥ surya block (vote)
@@ -347,6 +527,74 @@ class ViewerViewsTest(DataTreeTestCase):
         # final key streams render for both engines
         self.assertContains(response, "mistral (supplemental)")
 
+    def test_compare_card_renders_the_dispute(self) -> None:
+        response = self.client.get("/d/tiny/dots+mistral+lighton/rep.1.1__p0/")
+        self.assertContains(response, "Compare + resolve")
+        # the dispute card: three labeled reads, the winner marked
+        self.assertContains(response, "→ mistral")
+        self.assertContains(response, "mistral ✓")
+        self.assertContains(response, "word")
+        self.assertContains(response, "tiebreak funnel")
+        self.assertContains(response, "1 attempted")
+        # the crop image the tiebreaker actually read
+        self.assertContains(
+            response, "/crop/tiny/rep.1.1__p0/100_100_800_200.png"
+        )
+        # the disputes overlay layer is offered
+        self.assertContains(response, "disputes")
+        # the marks flow reports its own comparison
+        self.assertContains(response, "footnote-mark sequences")
+
+    def test_high_risk_review_page(self) -> None:
+        response = self.client.get("/review/tiny/high-risk/")
+        self.assertEqual(response.status_code, 200)
+        self.assertContains(response, "High-risk disputes — tiny")
+        # the fixture's high-risk dispute, with labeled reads and the
+        # kept side marked
+        self.assertContains(response, "dots + surya block + lighton")
+        self.assertContains(response, "goodbye friend")
+        self.assertContains(response, "no-cached-read")
+        self.assertContains(response, "✓ (kept)")
+        # links into the walkthrough page holding the dispute card
+        self.assertContains(
+            response, "/d/tiny/dots+surya_block+lighton/rep.1.1__p0/"
+        )
+        # majority-resolved disputes never appear
+        self.assertNotContains(response, '"word"')
+
+    def test_rejected_and_low_conf_review_pages(self) -> None:
+        # the same fixture dispute is rejected (no-cached-read) AND
+        # low-confidence, so both categories list it
+        for category, title in (
+            ("rejected", "Rejected or refused disputes"),
+            ("low-conf", "Low-confidence disputes"),
+        ):
+            response = self.client.get(f"/review/tiny/{category}/")
+            self.assertContains(response, title)
+            self.assertContains(response, "goodbye friend")
+
+    def test_reorders_review_page_empty_state(self) -> None:
+        response = self.client.get("/review/tiny/reorders/")
+        self.assertContains(response, "Reorders — tiny")
+        self.assertContains(response, "Nothing in this category.")
+
+    def test_unknown_review_category_404s(self) -> None:
+        response = self.client.get("/review/tiny/everything/")
+        self.assertEqual(response.status_code, 404)
+
+    def test_crop_image_served(self) -> None:
+        response = self.client.get(
+            "/crop/tiny/rep.1.1__p0/100_100_800_200.png"
+        )
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response["Content-Type"], "image/png")
+
+    def test_missing_or_malformed_crop_404s(self) -> None:
+        response = self.client.get("/crop/tiny/rep.1.1__p0/1_2_3_4.png")
+        self.assertEqual(response.status_code, 404)
+        response = self.client.get("/crop/tiny/rep.1.1__p0/../../x.png")
+        self.assertEqual(response.status_code, 404)
+
     def test_unknown_page_404s(self) -> None:
         response = self.client.get("/d/tiny/dots+mistral+lighton/nope__p9/")
         self.assertEqual(response.status_code, 404)
@@ -401,7 +649,7 @@ class ViewerViewsTest(DataTreeTestCase):
         self.assertContains(response, "content verbatim")
         self.assertContains(response, "raw model output — dots JSON")
         self.assertContains(response, "raw model output — mistral JSON")
-        self.assertContains(response, "lighton tiebreak")
+        self.assertContains(response, "lighton crop tiebreak")
 
     def test_home_shows_model_info(self) -> None:
         response = self.client.get("/")
@@ -430,7 +678,9 @@ class PipelineToViewerContractTest(DataTreeTestCase):
         doc.save(str(vol / "vol.pdf"))
         doc.close()
         (ds / "page_png").mkdir(parents=True)
-        Image.new("RGB", (17, 22)).save(ds / "page_png" / "rep.9.9__p0.png")
+        Image.new("RGB", (17, 22), "white").save(
+            ds / "page_png" / "rep.9.9__p0.png"
+        )
         engines = ds / "engines"
         (engines / "container_yolo").mkdir(parents=True)
         (engines / "container_yolo" / "rep.9.9__p0.json").write_text(
@@ -493,7 +743,7 @@ class PipelineToViewerContractTest(DataTreeTestCase):
         self.assertContains(response, "<em>world</em>")
         # mistral bold styling too
         self.assertContains(response, "<strong>world</strong>")
-        # stage 6: canonical tokens with provenance, stamped registry.
+        # normalization: canonical tokens with provenance, stamped registry.
         # dots' `*world*` markdown decoded to <em> -> the emphasis is
         # STYLING on the token, not comparison content: both engines'
         # keys agree on "world".
@@ -519,6 +769,12 @@ class PipelineToViewerContractTest(DataTreeTestCase):
         self.assertContains(response, "Normalize")
         self.assertContains(response, f"registry {registry_hash()}")
         self.assertContains(response, "engine-decode rules")
+        # compare + resolve: identical streams agree end to end
+        cmp = artifact["stages"]["compare"]
+        self.assertEqual(cmp["metrics"]["n_disputes"], 0)
+        self.assertEqual(cmp["params"]["gate_min_chars"], 10)
+        self.assertContains(response, "Compare + resolve")
+        self.assertContains(response, "The streams agree")
 
     def test_corrupt_artifact_self_heals(self) -> None:
         # a torn/half-written file rebuilds on the next visit instead of
@@ -562,23 +818,51 @@ class PipelineToViewerContractTest(DataTreeTestCase):
     def test_composed_route_materializes_on_first_visit(self) -> None:
         # no pipeline.run for this combination — the first visit builds
         # the artifact from the cached engine outputs and writes it.
-        # mistral is the main engine here (dots sits in the vote slot).
+        # mistral is the main engine here (no dots in the set).
         out = (
             self.tmp
             / "artifacts"
             / "e2e"
-            / "mistral+gemini+dots"
+            / "mistral+gemini+surya_block"
             / "rep.9.9__p0.json"
         )
         self.assertFalse(out.exists())
-        response = self.client.get("/d/e2e/mistral+gemini+dots/rep.9.9__p0/")
+        response = self.client.get(
+            "/d/e2e/mistral+gemini+surya_block/rep.9.9__p0/"
+        )
         self.assertEqual(response.status_code, 200)
         self.assertContains(response, "Main OCR — mistral")
         self.assertTrue(out.exists())
         artifact = json.loads(out.read_text(encoding="utf-8"))
-        self.assertEqual(artifact["route"], "mistral+gemini+dots")
+        self.assertEqual(artifact["route"], "mistral+gemini+surya_block")
         self.assertIsNone(artifact["tiebreak"])
         self.assertEqual(artifact["stages"]["main_ocr"]["engine"], "mistral")
-        # gemini has no cached XML in this tree -> refusal supplemental
+        # neither gemini XML nor surya reads exist in this tree ->
+        # refusal / missing supplementals, honestly degraded
         engines = [s["engine"] for s in artifact["stages"]["supplementals"]]
-        self.assertEqual(engines, ["gemini", "dots"])
+        self.assertEqual(engines, ["gemini", "surya"])
+
+    def test_alias_ordering_serves_the_canonical_route(self) -> None:
+        # order never matters: an alias URL builds/serves the CANONICAL
+        # artifact (one dir per unique combination)
+        response = self.client.get("/d/e2e/gemini+dots+lighton/rep.9.9__p0/")
+        self.assertEqual(response.status_code, 200)
+        out = (
+            self.tmp
+            / "artifacts"
+            / "e2e"
+            / "dots+gemini+lighton"
+            / "rep.9.9__p0.json"
+        )
+        self.assertTrue(out.exists())
+        self.assertFalse(
+            (self.tmp / "artifacts" / "e2e" / "gemini+dots+lighton").exists()
+        )
+
+    def test_lighton_without_dots_404s(self) -> None:
+        # tiebreak combinations without dots were removed — the cached
+        # crops are cut from dots blocks
+        response = self.client.get(
+            "/d/e2e/mistral+gemini+lighton/rep.9.9__p0/"
+        )
+        self.assertEqual(response.status_code, 404)

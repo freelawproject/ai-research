@@ -1,0 +1,60 @@
+{% extends "viewer/base.html" %}
+
+{% block title %}{{ title }} · {{ dataset }} · Case Law Extraction{% endblock %}
+
+{% block content %}
+<h1 class="mb-2 text-xl font-semibold">{{ title }} — {{ dataset }}</h1>
+<p class="mb-4 text-sm text-neutral-600">
+  {{ description }} Each entry links to the walkthrough page holding
+  its dispute card.
+</p>
+
+{% if entries %}
+  <ol class="flex flex-col gap-3">
+    {% for e in entries %}
+      <li class="rounded-lg border bg-white p-3 {% if category == 'high-risk' %}border-rose-200{% elif category == 'reorders' %}border-sky-200{% else %}border-amber-200{% endif %}">
+        <div class="flex flex-wrap items-center gap-2 text-sm">
+          <span class="font-medium">{{ e.combo }}</span>
+          <span class="text-xs text-neutral-500">{{ e.resolver }}</span>
+          <span class="text-xs text-neutral-500">
+            · {{ e.page }} ·
+            block{{ e.blocks|length|pluralize }}
+            {% for b in e.blocks %}#{{ b }}{% if not forloop.last %}, {% endif %}{% endfor %}
+            · {{ e.roles }}
+          </span>
+          {% if e.reason %}
+            <span class="rounded bg-amber-500/15 px-1.5 py-0.5 text-xs font-medium text-amber-800">{{ e.reason }}</span>
+          {% elif e.resolution == "reorder" %}
+            <span class="rounded bg-sky-600/10 px-1.5 py-0.5 text-xs font-medium text-sky-700">reorder</span>
+          {% endif %}
+          <a href="{{ e.url }}"
+             class="ml-auto rounded-md border border-indigo-300 px-2 py-0.5 text-xs font-medium text-indigo-700">
+            open in flow
+          </a>
+        </div>
+        <table class="mt-2 w-full text-xs">
+          <tbody>
+            {% for row in e.read_rows %}
+              <tr class="{% if row.winner %}bg-emerald-50{% endif %}">
+                <td class="w-32 py-0.5 pr-2 align-top text-neutral-500">
+                  {{ row.label }}{% if row.winner %} ✓ (kept){% endif %}
+                </td>
+                <td class="py-0.5 font-mono">
+                  {{ row.keys|default:"∅" }}
+                  {% if row.display and row.display != row.keys %}
+                    <span class="font-sans text-neutral-500">· “{{ row.display }}”</span>
+                  {% endif %}
+                </td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </li>
+    {% endfor %}
+  </ol>
+{% else %}
+  <p class="rounded-md bg-emerald-50 p-2 text-sm text-emerald-800">
+    Nothing in this category.
+  </p>
+{% endif %}
+{% endblock %}

@@ -15,6 +15,11 @@ urlpatterns = [
         name="route_go",
     ),
     path(
+        "review/<str:dataset>/<str:category>/",
+        views.review,  # type: ignore[arg-type]
+        name="review",
+    ),
+    path(
         "d/<str:dataset>/<str:route>/<str:page>/",
         views.page,  # type: ignore[arg-type]
         name="page",
@@ -23,5 +28,10 @@ urlpatterns = [
         "img/<str:dataset>/<str:page>.png",
         views.page_img,  # type: ignore[arg-type]
         name="page_img",
+    ),
+    path(
+        "crop/<str:dataset>/<str:page>/<str:bbox>.png",
+        views.crop_img,  # type: ignore[arg-type]
+        name="crop_img",
     ),
 ]

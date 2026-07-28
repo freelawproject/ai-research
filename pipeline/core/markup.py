@@ -165,7 +165,7 @@ class _Sanitizer(HTMLParser):
     """Rebuild an HTML fragment keeping only allowlisted inline tags.
     Block-level tags imply LINE BREAKS (a <li> starts a new line, a
     </p> ends one) — the structure the HTML carries is preserved as
-    newlines instead of being flattened away (decided 2026-07-27)."""
+    newlines instead of being flattened away."""
 
     MAP = {
         "i": "em",
@@ -216,7 +216,7 @@ class _Sanitizer(HTMLParser):
         elif tag == "li":
             # a list item starts its own line AND keeps its bullet:
             # surya's HTML carries the list structure the plain text
-            # drops (Rachel 2026-07-27)
+            # drops
             self.out.append("\n● ")
             self.li_lead = True
         elif tag in self.BREAKS:

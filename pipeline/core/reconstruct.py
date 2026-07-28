@@ -1,6 +1,6 @@
-"""Stage 5 — reconstruction: place each engine's blocks/lines into reading
+"""Reconstruction: place each engine's blocks/lines into reading
 order using the container layout. Text is used RAW here — normalization
-(stage 6) applies afterwards and never changes ordering.
+applies afterwards and never changes ordering.
 
 - Block/region engines (dots, mistral, surya block mode — main OR
   supplemental; every block engine is treated identically): each bbox is
@@ -10,22 +10,13 @@ order using the container layout. Text is used RAW here — normalization
   its reading position but contributes NO text; a near-black image block
   is a redaction placeholder and is excluded. A supplemental text block
   mostly inside a MAIN-engine image block is in-image text (captions on
-  figures) and is omitted. surya_line as MAIN reconstructs the same way
-  (each line placed as its own item).
+  figures) and is omitted.
 - Gemini (no bboxes): blocks order by their col/x/y attributes when
   present — the coordinates are not to scale, but their relative order is
   a reliable reading-order clue; blocks without coordinates keep their
   document position. Text inside an <image> tag is omitted (consistent
   with the other engines); star pages are reported, never content.
-- Surya lines as SUPPLEMENTAL: each line is matched to a main-engine
-  block — kept when a block covers >= COVER_T of the line's area, or >=
-  CENTER_COVER_T with the line's center inside the block (surya draws
-  looser boxes; the center test rescues true content at the block edge
-  without admitting bleed-through, which fails both). Lines matched to a
-  main image block are in-image text and are omitted; unmatched lines are
-  bleed-through hallucinations and are dropped. Kept lines are grouped by
-  their main block and joined back into paragraphs, so the line stream
-  reads at the same block granularity as the main engine.
+
 """
 
 from __future__ import annotations
@@ -57,15 +48,17 @@ ROLE_OF_TAG = {
 # Engine labels that mark an image block (no text contribution).
 IMAGE_LABELS = frozenset({"Picture", "Figure", "image"})
 
-# An image block whose crop is at least this fraction near-black is a
-# REDACTION placeholder, not a real figure -> excluded from the
-# reconstruction and reported (real figures observed <=0.744,
-# redactions >=0.818). run.py stamps `black_frac` on image blocks.
+# A block whose crop is at least this fraction near-black is REDACTION
+# territory, not content: a redaction-placeholder image, or text an
+# engine hallucinated over a redacted region (mistral invents whole
+# passages there) -> excluded from the reconstruction and reported
+# (real figures observed <=0.744, real text far lower; redactions
+# >=0.812). run.py stamps `black_frac` on every bbox-carrying block.
 REDACTION_BLACK_T = 0.80
 
-# Surya line-keeping thresholds (see module docstring).
+# A supplemental text block is in-image when a main image block covers
+# at least this fraction of its area.
 COVER_T = 0.5
-CENTER_COVER_T = 0.25
 
 
 def _place(
@@ -135,16 +128,17 @@ def reconstruct_blocks(
 ) -> dict:
     """Reading-order reconstruction for ANY block/region engine (dots,
     mistral, surya block mode — as main or supplemental; every block
-    engine is treated identically, 2026-07-27). Image blocks whose crop
-    is near-black are redaction placeholders, not figures — excluded
-    and reported. With `main_blocks` (supplemental use): a text block
-    mostly inside one of the MAIN engine's image blocks is in-image
-    text (captions on figures) — omitted and reported; the image
-    renders as-is in the final."""
+    engine is treated identically). A near-black block —
+    image OR text — is redaction territory (placeholder image, or text
+    hallucinated over a redacted region): excluded and reported. With
+    `main_blocks` (supplemental use): a text block mostly inside one
+    of the MAIN engine's image blocks is in-image text (captions on
+    figures) — omitted and reported; the image renders as-is in the
+    final."""
     redactions = [
         b["id"]
         for b in blocks
-        if _is_image(b) and (b.get("black_frac") or 0.0) >= REDACTION_BLACK_T
+        if (b.get("black_frac") or 0.0) >= REDACTION_BLACK_T
     ]
     pics = [
         b["bbox"] for b in main_blocks or [] if _is_image(b) and b.get("bbox")
@@ -249,81 +243,4 @@ def reconstruct_gemini(blocks: list[dict]) -> dict:
     )
     result["omitted"] = omitted
     result["star_pages"] = star_pages
-    return result
-
-
-def classify_surya_lines(
-    lines: list[dict], main_blocks: list[dict]
-) -> tuple[dict[int, int], list[int], list[int]]:
-    """Match each line to a MAIN-engine block (any block engine — dots
-    labels its image blocks `label="Picture"`, mistral `type="image"`).
-    Returns (assigned line_id -> main_block_id, in_image line ids,
-    dropped line ids)."""
-    blocks = [
-        (b["id"], (b.get("label") or b.get("type") or ""), b["bbox"])
-        for b in main_blocks
-        if b.get("bbox")
-    ]
-    assigned: dict[int, int] = {}
-    in_image: list[int] = []
-    dropped: list[int] = []
-    for line in lines:
-        bb = line.get("bbox")
-        best: tuple[float, int, str] | None = None
-        if bb:
-            for bid, label, obb in blocks:
-                cov = geometry.cover_frac(bb, obb)
-                ok = cov >= COVER_T or (
-                    cov >= CENTER_COVER_T and geometry.center_in(bb, obb)
-                )
-                if ok and (best is None or cov > best[0]):
-                    best = (cov, bid, label)
-        if best is None:
-            dropped.append(line["id"])
-        elif best[2] in IMAGE_LABELS:
-            in_image.append(line["id"])
-        else:
-            assigned[line["id"]] = best[1]
-    return assigned, in_image, dropped
-
-
-def reconstruct_surya(
-    containers: dict, lines: list[dict], main_blocks: list[dict]
-) -> dict:
-    """Filter lines against the MAIN engine's blocks, group survivors
-    into paragraphs (one per main block), then order the paragraphs
-    like blocks."""
-    assigned, in_image, dropped = classify_surya_lines(lines, main_blocks)
-    by_block: dict[int, list[dict]] = {}
-    for line in lines:
-        bid = assigned.get(line["id"])
-        if bid is not None:
-            by_block.setdefault(bid, []).append(line)
-    bbox_of = {b["id"]: b.get("bbox") for b in main_blocks}
-    paragraphs = []
-    text_by_id: dict[int, str] = {}
-    html_by_id: dict[int, str] = {}
-    lines_of: dict[int, list[int]] = {}
-    for bid, members in by_block.items():
-        members.sort(key=lambda ln: (ln["bbox"][1], ln["bbox"][0]))
-        paragraphs.append({"id": bid, "bbox": bbox_of[bid], "image": False})
-        lines_of[bid] = [ln["id"] for ln in members]
-        # each member IS a physical line — the line breaks are preserved
-        # (newline-joined, not flattened; 2026-07-27)
-        text_by_id[bid] = "\n".join(
-            ln.get("text", "").strip() for ln in members
-        ).strip()
-        html_by_id[bid] = "\n".join(
-            ln.get("styled", ln.get("text", "")).strip() for ln in members
-        ).strip()
-    ordered, no_bbox = _place(containers, paragraphs)
-    result = _finish(ordered, text_by_id, html_by_id)
-    # Line->block provenance: each paragraph records its member surya
-    # lines in join order, so a char span in the paragraph text can be
-    # traced back to the line that produced it.
-    for it in result["items"]:
-        it["lines"] = lines_of.get(it["id"], [])
-    result["no_bbox"] = no_bbox
-    result["dropped"] = dropped
-    result["in_image"] = in_image
     return result

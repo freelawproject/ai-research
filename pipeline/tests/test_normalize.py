@@ -333,7 +333,7 @@ class RegistryVersionTest(unittest.TestCase):
 
 class StarAnchorInteractionTest(unittest.TestCase):
     """Star-page anchors must survive the full rule chain (review
-    2026-07-27): the join merges both fragments' anchors, and the unit
+    ): the join merges both fragments' anchors, and the unit
     split leaves the anchor on exactly one unit."""
 
     def _tokens(self, html: str) -> list[Token]:
@@ -356,7 +356,7 @@ class StarAnchorInteractionTest(unittest.TestCase):
 
 class SplitProvenanceTest(unittest.TestCase):
     """Units of a wrap-joined word carry exact per-fragment provenance,
-    and no span may exceed its item's html (review 2026-07-27 — 75
+    and no span may exceed its item's html (75
     corpus tokens used to overflow)."""
 
     _ITEMS = [

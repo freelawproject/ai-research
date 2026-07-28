@@ -1,10 +1,8 @@
 import unittest
 
 from pipeline.core.reconstruct import (
-    classify_surya_lines,
     reconstruct_blocks,
     reconstruct_gemini,
-    reconstruct_surya,
 )
 
 _CONTAINERS = {
@@ -115,6 +113,24 @@ class ReconstructBlocksTest(unittest.TestCase):
         self.assertEqual(r["redactions"], [1])
         self.assertEqual(r["order"], [0, 2])
         self.assertEqual(r["items"][1]["role"], "image")
+
+    def test_near_black_text_block_dropped_as_hallucination(self) -> None:
+        # mistral invents whole passages over redacted regions — a
+        # near-black TEXT block is redaction territory too
+        blocks = [
+            _block(0, [150, 200, 700, 300], "real text"),
+            {
+                "id": 1,
+                "bbox": [150, 400, 700, 900],
+                "text": "The court of the United States is a legal entity.",
+                "type": "text",
+                "black_frac": 0.97,  # hallucinated over a redaction
+            },
+        ]
+        r = reconstruct_blocks(_CONTAINERS, blocks)
+        self.assertEqual(r["redactions"], [1])
+        self.assertEqual(r["order"], [0])
+        self.assertEqual(r["text"], "real text")
 
 
 class ReconstructGeminiTest(unittest.TestCase):
@@ -261,72 +277,30 @@ class ReconstructGeminiTest(unittest.TestCase):
         self.assertEqual(r["text"], "a\nb\nc")
 
 
-class SuryaClassifyTest(unittest.TestCase):
-    _DOTS = [
-        _block(0, [100, 100, 800, 400], label="Text"),
-        _block(1, [100, 500, 800, 1200], label="Picture"),
-    ]
-
-    def test_contained_kept_outside_dropped(self) -> None:
-        lines = [
-            {"id": 0, "bbox": [120, 120, 700, 150], "text": "inside"},
-            {"id": 1, "bbox": [1000, 1500, 1500, 1530], "text": "ghost"},
-        ]
-        assigned, in_image, dropped = classify_surya_lines(lines, self._DOTS)
-        self.assertEqual(assigned, {0: 0})
-        self.assertEqual(dropped, [1])
-        self.assertEqual(in_image, [])
-
-    def test_center_in_block_rescues_low_cover_line(self) -> None:
-        # cover ~0.35 but center inside (the CARPENTER, Judge. case)
-        lines = [{"id": 0, "bbox": [90, 90, 850, 420], "text": "edge"}]
-        assigned, _, dropped = classify_surya_lines(lines, self._DOTS)
-        self.assertEqual(list(assigned), [0])
-
-    def test_low_cover_center_outside_dropped(self) -> None:
-        # overlaps a block ~33% but center is outside (ghost case)
-        lines = [{"id": 0, "bbox": [120, 380, 700, 470], "text": "ghost"}]
-        assigned, _, dropped = classify_surya_lines(lines, self._DOTS)
-        self.assertEqual(dropped, [0])
-
-    def test_line_over_two_blocks_takes_higher_cover(self) -> None:
-        # dots Text and Picture blocks overlap; the line lies fully in
-        # Text (cover 1.0) and mostly in Picture (~0.78) -> assigned to
-        # the higher-cover Text block, not flagged in-image
-        dots = [
-            _block(0, [100, 100, 800, 500], label="Text"),
-            _block(1, [100, 300, 800, 900], label="Picture"),
-        ]
-        lines = [{"id": 0, "bbox": [150, 250, 700, 480], "text": "x"}]
-        assigned, in_image, dropped = classify_surya_lines(lines, dots)
-        self.assertEqual(assigned, {0: 0})
-        self.assertEqual(in_image, [])
-
-    def test_mistral_main_image_blocks_flag_in_image(self) -> None:
-        # mistral marks image blocks with type= (not label=) — a line
-        # inside one is in-image text, never a text paragraph (review
-        # 2026-07-27; bites any composed mistral-main + surya_line route)
-        main = [
-            {"id": 0, "type": "text", "bbox": [100, 100, 800, 400]},
-            {"id": 1, "type": "image", "bbox": [100, 500, 800, 1200]},
-        ]
-        lines = [{"id": 0, "bbox": [200, 600, 700, 640], "text": "caption"}]
-        assigned, in_image, dropped = classify_surya_lines(lines, main)
-        self.assertEqual(in_image, [0])
-        self.assertEqual(assigned, {})
-        self.assertEqual(dropped, [])
-
-    def test_line_in_picture_block_is_in_image(self) -> None:
-        lines = [{"id": 0, "bbox": [200, 600, 700, 640], "text": "caption"}]
-        assigned, in_image, dropped = classify_surya_lines(lines, self._DOTS)
-        self.assertEqual(in_image, [0])
-        self.assertEqual(assigned, {})
-
-
 class SupplementalBlockReconstructTest(unittest.TestCase):
     """Every block engine goes through the same supplemental path:
     reconstruct_blocks with the MAIN engine's blocks for the in-image
     check (surya block, mistral, dots — no special cases)."""
+
+    def test_mistral_main_image_blocks_flag_in_image(self) -> None:
+        # mistral marks image blocks with type= (not label=) — a
+        # supplemental block inside one is in-image text
+        main = [
+            {"id": 0, "type": "text", "bbox": [100, 100, 800, 400]},
+            {"id": 1, "type": "image", "bbox": [100, 500, 800, 1200]},
+        ]
+        blocks = [
+            {
+                "id": 0,
+                "bbox": [200, 600, 700, 640],
+                "label": "Text",
+                "text": "caption",
+                "styled": "caption",
+            }
+        ]
+        r = reconstruct_blocks(_CONTAINERS, blocks, main_blocks=main)
+        self.assertEqual(r["in_image"], [0])
+        self.assertEqual(r["text"], "")
 
     def test_block_inside_main_picture_is_in_image(self) -> None:
         main_blocks = [
@@ -372,48 +346,3 @@ class SupplementalBlockReconstructTest(unittest.TestCase):
             _CONTAINERS, [_block(0, [150, 200, 700, 300], "text")]
         )
         self.assertNotIn("in_image", r)
-
-
-class SuryaReconstructTest(unittest.TestCase):
-    def test_lines_group_into_paragraph_per_dots_block(self) -> None:
-        dots_blocks = [
-            _block(0, [150, 200, 700, 320], label="Text"),
-            _block(1, [150, 400, 700, 520], label="Text"),
-        ]
-        lines = [
-            {
-                "id": 0,
-                "bbox": [160, 210, 690, 240],
-                "text": "one",
-                "styled": "one",
-            },
-            {
-                "id": 1,
-                "bbox": [160, 250, 690, 280],
-                "text": "two",
-                "styled": "<em>two</em>",
-            },
-            {
-                "id": 2,
-                "bbox": [160, 410, 690, 440],
-                "text": "other para",
-                "styled": "other para",
-            },
-            {
-                "id": 3,
-                "bbox": [1200, 1900, 1500, 1930],
-                "text": "bleed",
-                "styled": "bleed",
-            },
-        ]
-        r = reconstruct_surya(_CONTAINERS, lines, dots_blocks)
-        self.assertEqual(r["order"], [0, 1])  # paragraph ids = dots blocks
-        # member lines keep their line breaks (newline-joined)
-        self.assertEqual(r["text"], "one\ntwo\nother para")
-        self.assertEqual(r["items"][0]["html"], "one\n<em>two</em>")
-        self.assertEqual(r["dropped"], [3])
-        self.assertEqual(r["in_image"], [])
-        # line->block provenance: member line ids in join order
-        self.assertEqual(r["items"][0]["lines"], [0, 1])
-        self.assertEqual(r["items"][1]["lines"], [2])
-        self.assertEqual(r["items"][0]["text"], "one\ntwo")

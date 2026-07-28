@@ -1,17 +1,18 @@
-"""Stage 6 — normalization: canonical tokens + the rule registry.
+"""Normalization: canonical tokens + the rule registry.
 
-Reconstruction (stage 5) fixes reading order; normalization turns each
-engine's reconstructed stream into canonical tokens for comparison
-(stage 7). A token separates what is RENDERED from what is COMPARED:
+Reconstruction fixes reading order; normalization turns each
+engine's reconstructed stream into canonical tokens for the compare
+stage. A token separates what is RENDERED from what is COMPARED:
 
 - ``display`` — the text as the engine wrote it (rendering only). The
   one deliberate exception: a word wrap-split by a plain hyphen is
-  joined WITHOUT the hyphen in display too (decided 2026-07-27) —
+  joined WITHOUT the hyphen in display too —
   semantic dashes (en dash ranges like 2509–2511) keep their dash.
-- ``key`` — the comparison form; stage 7 diffs keys and nothing else.
-  Casing is deliberately preserved (no folding, decided 2026-07-24).
-  Words and symbols are separate comparison UNITS (symbol-split,
-  decided 2026-07-27): `word,` becomes the units `word` + `,`, so a
+- ``key`` — the comparison form; the compare stage diffs keys and
+  nothing else.
+  Casing is deliberately preserved (no folding).
+  Words and symbols are separate comparison UNITS (symbol-split):
+  `word,` becomes the units `word` + `,`, so a
   punctuation difference never breaks a word match — it shows up as
   exactly a punctuation difference.
 - ``item`` / ``span`` — provenance: the reconstruct item the token came
@@ -21,7 +22,7 @@ engine's reconstructed stream into canonical tokens for comparison
 - ``styling`` — em/strong/u/sub carried by the token (union on joins).
 - ``marks`` — footnote marks riding this word (tag / unicode / bracket
   / glued forms). Marks are never comparison content; their sequences
-  get their own comparison flow at stage 7.
+  get their own comparison flow at compare + resolve.
 
 Tokenization walks the sanitized tag convention every engine's decode
 produces (core/markup.py) — one walker, identical for all engines.
@@ -33,7 +34,7 @@ declares its layer ("shared" applies to every engine; an engine-named
 layer only that engine), what it may change, and example strings — the
 examples ARE the unit tests (pipeline/tests/test_normalize.py). The
 registry hash is stamped into every artifact. Tokens whose key ends up
-empty after the chain carry no content and are dropped (old behavior).
+empty after the chain carry no content and are dropped.
 """
 
 from __future__ import annotations
@@ -359,7 +360,7 @@ def _separator_blocks(tokens: list[Token]) -> list[Token]:
 # hyphens, figure dash, en dash (ranges: 2509–2511), minus. The em dash
 # and horizontal bar are parenthetical punctuation between words, never
 # connectors. Display drops a plain wrap HYPHEN (charac-terized ->
-# characterized, decided 2026-07-27) but keeps a semantic dash
+# characterized) but keeps a semantic dash
 # (2509–2511); keys lose the dash either way (dashes-strip).
 _WRAP_END = re.compile(r"\w[-‐‑‒–−]$")
 _PLAIN_HYPHENS = "-‐‑"
@@ -404,7 +405,7 @@ def _wrap_join(tokens: list[Token]) -> list[Token]:
 
 
 # Comparison units: word/digit runs, and every other symbol on its own
-# (decided 2026-07-27) — `word,` vs `word.` agrees on the word and
+# — `word,` vs `word.` agrees on the word and
 # differs only on the punctuation unit. Both engines split identically,
 # so WHERE an engine glued a quote or paren no longer matters.
 _UNIT = re.compile(r"\w+|[^\w\s]")
@@ -561,7 +562,7 @@ def _heading_markers(tokens: list[Token]) -> list[Token]:
 
 # NOTE: the old pipeline's punct-attach / brackets-forward /
 # quote-edge-strip rules are deliberately ABSENT: symbol-split makes
-# them obsolete (2026-07-27). Where an engine glued a quote or paren no
+# them obsolete. Where an engine glued a quote or paren no
 # longer affects the unit stream, and a punctuation difference shows up
 # as exactly that.
 
@@ -578,7 +579,7 @@ REGISTRY: tuple[Rule, ...] = (
             "<sup> content is a footnote mark, not body text: it rides "
             "the preceding word's marks (marks before any word ride the "
             "next one) and leaves the key stream. Mark sequences get "
-            "their own comparison flow at stage 7."
+            "their own comparison flow at compare + resolve."
         ),
         examples=(
             ("word<sup>4</sup> next", "word next"),
@@ -680,7 +681,7 @@ REGISTRY: tuple[Rule, ...] = (
             "next word (across bboxes or columns) so the wrap is never "
             "a difference; a word split across more than two lines "
             "joins completely. Display drops a plain wrap hyphen "
-            "(charac-terized -> characterized; decided 2026-07-27) but "
+            "(charac-terized -> characterized) but "
             "keeps a semantic dash (2509–2511); the em dash is "
             "parenthetical and never joins. Joins never cross a "
             "block-role boundary (body 'pre-' must not absorb a "
@@ -705,8 +706,8 @@ REGISTRY: tuple[Rule, ...] = (
         layer="shared",
         applies_to="both",
         description=(
-            "Words and symbols are SEPARATE comparison units (decided "
-            "2026-07-27): a token splits into word/digit runs and "
+            "Words and symbols are SEPARATE comparison units: a token "
+            "splits into word/digit runs and "
             "single symbols, so `word,` vs `word.` agrees on the word "
             "and differs only on the punctuation unit. Applies to "
             "punctuation, hyphens, quotes — every non-word symbol. "
@@ -904,14 +905,16 @@ REGISTRY: tuple[Rule, ...] = (
         kind="decode",
     ),
     Rule(
-        name="redaction-images",
+        name="redaction-blocks",
         layer="shared",
         applies_to="stream",
         description=(
-            "A dots Picture / mistral image block whose crop is "
-            ">=80% near-black is a REDACTION placeholder, not a real "
-            "figure: excluded from the reconstruction and reported "
-            "(real figures observed <=0.74, redactions >=0.82). "
+            "A block whose crop is >=80% near-black is REDACTION "
+            "territory, not content — a redaction-placeholder image, "
+            "or text an engine hallucinated over a redacted region "
+            "(mistral invents whole passages there): excluded from "
+            "the reconstruction and reported (real figures observed "
+            "<=0.74, real text far lower; redactions >=0.81). "
             "(Structural — implemented in run.py + reconstruct.)"
         ),
         examples=(),
@@ -998,8 +1001,7 @@ def apply_rules(
     """Run every applicable stream rule in order, recording what each
     one changed — the viewer's per-rule diff view renders these records
     verbatim. Tokens left with an empty key carry no content and are
-    dropped at the end (old behavior; punctuation-only tokens were
-    attached by then)."""
+    dropped at the end."""
     rules = tuple(
         r
         for r in (registry if registry is not None else REGISTRY)

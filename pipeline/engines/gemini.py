@@ -32,7 +32,7 @@ ENGINE = "gemini"
 # A parallel-reporter star page (★306): a STRUCTURAL marker gemini emits
 # (block-level or inline), not opinion text. Gemini is authoritative for
 # it — dots/mistral don't produce it. The marker is PLACED into the
-# stream at its position as `★<page>` (2026-07-27: placement by text
+# stream at its position as `★<page>` (placement by text
 # alignment, not just identification): normalization anchors it to the
 # preceding token (Token.stars) and keeps it out of the comparison
 # keys; the final output re-inserts it where that anchor aligns.

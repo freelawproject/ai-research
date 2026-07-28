@@ -22,8 +22,3 @@ def cover_frac(inner: list[float], outer: list[float]) -> float:
 
 def center(bb: list[float]) -> tuple[float, float]:
     return ((bb[0] + bb[2]) / 2, (bb[1] + bb[3]) / 2)
-
-
-def center_in(inner: list[float], outer: list[float]) -> bool:
-    cx, cy = center(inner)
-    return outer[0] <= cx <= outer[2] and outer[1] <= cy <= outer[3]

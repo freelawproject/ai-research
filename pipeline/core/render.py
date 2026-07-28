@@ -1,11 +1,10 @@
-"""Stage 1 — page rendering: the black-redacted 1700x2200 PNG every engine
-saw, plus bbox crops of it. Rendered once and cached under the dataset's
-page_png/ (the bundled datasets ship with the cache pre-populated, so the
-cached engine outputs and the render are guaranteed to match)."""
+"""Page rendering: the black-redacted 1700x2200 PNG every engine saw.
+Rendered once and cached under the dataset's page_png/ (the bundled
+datasets ship with the cache pre-populated, so the cached engine outputs
+and the render are guaranteed to match)."""
 
 from __future__ import annotations
 
-import io
 from pathlib import Path
 
 import fitz
@@ -45,25 +44,16 @@ def black_fraction(ds: Dataset, page: Page, bbox: list[float]) -> float:
     (<=0.74 observed)."""
     img = Image.open(page_png(ds, page)).convert("L")
     x0, y0, x1, y1 = (int(v) for v in bbox)
+    left = max(0, min(x0, img.width - 1))
+    top = max(0, min(y0, img.height - 1))
     crop = img.crop(
         (
-            max(0, x0),
-            max(0, y0),
-            min(img.width, max(x1, x0 + 1)),
-            min(img.height, max(y1, y0 + 1)),
+            left,
+            top,
+            min(img.width, max(x1, left + 1)),
+            min(img.height, max(y1, top + 1)),
         )
     )
     hist = crop.histogram()  # 256 grayscale bins
     total = crop.width * crop.height
     return sum(hist[:40]) / total if total else 0.0
-
-
-def crop_bytes(ds: Dataset, page: Page, bbox: list[float]) -> bytes:
-    """PNG bytes of a bbox crop of the black-redacted page."""
-    img = Image.open(page_png(ds, page))
-    x0, y0 = max(0, int(bbox[0])), max(0, int(bbox[1]))
-    x1 = min(img.width, max(int(bbox[2]), x0 + 1))
-    y1 = min(img.height, max(int(bbox[3]), y0 + 1))
-    buf = io.BytesIO()
-    img.crop((x0, y0, x1, y1)).save(buf, format="PNG")
-    return buf.getvalue()

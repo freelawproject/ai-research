@@ -1,4 +1,4 @@
-"""Stage 2 — layout: container-YOLO detections -> the container set text
+"""Layout: container-YOLO detections -> the container set text
 bboxes are placed into. Raw detections pass through postprocess_dets (the
 same rules the model's training consumed), then columns get two robustness
 rules for out-of-domain pages:

@@ -1,25 +1,34 @@
 """Route composition — the user picks THREE models.
 
-Slots 1+2 are the primary pair; slot 3 is the resolution slot: LightOn
-there means disputed spans are tie-broken by LightOn crops, any other
-model there joins a direct three-way vote (no tiebreaker model).
+A combination is a SET: order never matters —
+dots+mistral+gemini IS dots+gemini+mistral. Slot 3 is the resolution
+slot only in the sense of WHAT is picked there: LightOn means disputed
+spans are tie-broken by LightOn crops; any other model joins a direct
+three-way vote (no tiebreaker model).
 
-Rules (2026-07-27):
-- Selectable models: dots, mistral, gemini, surya_block, surya_line.
-  LightOn is ONLY available in slot 3 (tiebreaker).
+Rules:
+- Selectable models: dots, mistral, gemini, surya_block. LightOn is
+  ONLY available in slot 3 (tiebreaker).
 - The three selections must be distinct.
-- At least one of the first two models must have bbox capabilities
-  (everything except gemini — gemini being the only bbox-less model,
-  any distinct pair satisfies this automatically, but hand-built names
-  are still validated).
+- The OCR pair/trio must contain a bbox-capable model (everything
+  except gemini — gemini being the only bbox-less model, any distinct
+  set satisfies this automatically, but hand-built names are still
+  validated).
+- A lighton tiebreak needs DOTS in the combination: the cached
+  tiebreak crops are cut from dots blocks, so
+  a non-dots-main tiebreak route could never vote. Vote trios have no
+  such constraint.
 - The MAIN engine (reconstruction skeleton + fallback when all reads
-  disagree) is the bbox-capable model of the first two; dots wins when
-  it is one of the first two; two non-dots bbox models -> slot order
-  decides.
+  disagree) is the highest-priority bbox-capable model in the set:
+  dots > mistral > surya_block (MAIN_PRIORITY — a fixed ranking, so
+  the same set always gets the same main).
 
-A route's canonical name is "<main>+<other>+<slot3>", e.g.
-"dots+gemini+lighton" or "mistral+gemini+dots" — the name IS the URL
-segment and the artifact directory.
+There are exactly 7 unique combinations: 3 tiebreak pairs (dots +
+one other model + lighton) + C(4,3)=4 vote trios. A route's canonical
+name is "<main>+<rest sorted>+[lighton]", e.g. "dots+gemini+lighton"
+or "mistral+gemini+surya_block" — the name IS the URL segment and the
+artifact directory. Non-canonical orderings in a URL still parse —
+they serve as aliases of the canonical route.
 """
 
 from __future__ import annotations
@@ -32,11 +41,12 @@ MODELS: dict[str, tuple[str, str]] = {
     "mistral": ("mistral", "block"),
     "gemini": ("gemini", "page_xml"),
     "surya_block": ("surya", "block"),
-    "surya_line": ("surya", "line"),
 }
 TIEBREAK_ONLY = "lighton"
-BBOX_CAPABLE = frozenset({"dots", "mistral", "surya_block", "surya_line"})
-MAIN_PRIORITY = "dots"
+BBOX_CAPABLE = frozenset({"dots", "mistral", "surya_block"})
+# The MAIN engine is the highest-priority bbox model in the set — a
+# fixed ranking so the same combination always gets the same main.
+MAIN_PRIORITY = ("dots", "mistral", "surya_block")
 
 
 @dataclass(frozen=True)
@@ -63,21 +73,28 @@ def compose(m1: str, m2: str, m3: str) -> Route:
         raise ValueError(f"unknown model: {m3}")
     if len({m1, m2, m3}) != 3:
         raise ValueError("pick three different models")
-    if m1 not in BBOX_CAPABLE and m2 not in BBOX_CAPABLE:
+    members = {m1, m2} | ({m3} if m3 != TIEBREAK_ONLY else set())
+    if not members & BBOX_CAPABLE:
         raise ValueError(
-            "at least one of the first two models must have bbox "
-            "capabilities (any model except gemini)"
+            "the models must include one with bbox capabilities "
+            "(any model except gemini)"
         )
-    if MAIN_PRIORITY in (m1, m2):
-        main = MAIN_PRIORITY
-    else:
-        main = m1 if m1 in BBOX_CAPABLE else m2
-    other = m2 if main == m1 else m1
-    supp_slugs = [other] + ([] if m3 == TIEBREAK_ONLY else [m3])
+    if m3 == TIEBREAK_ONLY and "dots" not in members:
+        raise ValueError(
+            "a lighton tiebreak needs dots in the combination — the "
+            "cached tiebreak crops are cut from dots blocks. Pick dots "
+            "as one of the models, or use a third model for a "
+            "three-way vote"
+        )
+    # order never matters: the same SET is the same route. The main is
+    # the highest-priority bbox model; the rest sort into the name.
+    main = next(s for s in MAIN_PRIORITY if s in members)
+    rest = sorted(members - {main})
+    tail = "+".join([*rest, m3] if m3 == TIEBREAK_ONLY else rest)
     return Route(
-        name=f"{main}+{other}+{m3}",
+        name=f"{main}+{tail}",
         main=MODELS[main],
-        supplementals=tuple(MODELS[s] for s in supp_slugs),
+        supplementals=tuple(MODELS[s] for s in rest),
         tiebreak=TIEBREAK_ONLY if m3 == TIEBREAK_ONLY else None,
     )
 
@@ -103,11 +120,12 @@ def slugs(route: Route) -> tuple[str, str, str]:
     )
 
 
-# The canonical combinations (CLI presets; `--route all` runs these).
+# LEGACY named combinations — URL aliases from the fixed-route era +
+# the default flow combo. No longer privileged: all 7 unique
+# combinations are first-class (`--route all` builds every one).
 PRESETS: dict[str, tuple[str, str, str]] = {
     "gemini": ("dots", "gemini", "lighton"),
     "mistral": ("dots", "mistral", "lighton"),
-    "surya_line": ("dots", "surya_line", "lighton"),
     "surya_block": ("dots", "surya_block", "lighton"),
     "three_way": ("dots", "mistral", "surya_block"),
 }
@@ -118,3 +136,20 @@ def resolve(name: str) -> Route:
     if name in PRESETS:
         return compose(*PRESETS[name])
     return parse(name)
+
+
+def all_combos() -> list[Route]:
+    """Every semantically distinct composable route, one per canonical
+    name — compose() canonicalizes vote-member order, so slot-order
+    twins (dots+gemini+mistral / dots+mistral+gemini) are already one
+    route. Used by `--route all` and the home-page stats table."""
+    out: dict[str, Route] = {}
+    for m1 in MODELS:
+        for m2 in MODELS:
+            for m3 in (TIEBREAK_ONLY, *MODELS):
+                try:
+                    r = compose(m1, m2, m3)
+                except ValueError:
+                    continue
+                out.setdefault(r.name, r)
+    return sorted(out.values(), key=lambda r: r.name)

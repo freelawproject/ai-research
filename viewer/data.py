@@ -267,7 +267,7 @@ def _per_route_cached(
             max((f.stat().st_mtime for f in files), default=0.0),
         ]
         entry = cache.get(route.name)
-        if entry and entry.get("sig") == sig:
+        if entry and entry.get("sig") == sig and "value" in entry:
             out[route.name] = entry["value"]
         else:
             value = compute(route, files)

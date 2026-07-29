@@ -26,7 +26,9 @@ IS `dots+mistral+gemini`; every ordering canonicalizes to one route
 name and one artifact directory. The MAIN engine (reconstruction
 skeleton + fallback when all reads disagree) is the highest-priority
 bbox model in the set: dots > mistral > surya_block (gemini has no
-bboxes and can never be main). A lighton tiebreak additionally needs
+bboxes and can never be main). On a page where the main's output is
+missing or blank, the next bbox engine in that order takes over and
+the remaining engines' differences are flagged low-confidence. A lighton tiebreak additionally needs
 dots in the combination — the cached tiebreak crops are cut from dots
 blocks, so a non-dots tiebreak route could never vote. That makes
 exactly 7 unique combinations: 3 tiebreak pairs (dots + one other

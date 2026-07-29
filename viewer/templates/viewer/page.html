@@ -179,6 +179,14 @@
 
     <c-stage-card number="3" title="Main OCR — {{ main_label }}"
                   subtitle="{{ stages.main_ocr.blocks|length }} blocks · text verbatim">
+      {% if stages.main_ocr.fallback_from %}
+        <p class="mb-2 rounded-md bg-amber-50 p-2 text-sm text-amber-800">
+          {{ stages.main_ocr.fallback_from }} came back missing or
+          blank on this page, so {{ main_label }} is the main here
+          (fallback priority: dots → mistral → surya block). Anything
+          the remaining engines disagree on is flagged low-confidence.
+        </p>
+      {% endif %}
       <ol class="flex max-h-[60vh] flex-col gap-2 overflow-auto text-sm">
         {% for b in stages.main_ocr.blocks %}
           <li class="rounded-md border border-neutral-100 bg-neutral-50 p-2">

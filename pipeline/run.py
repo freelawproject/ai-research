@@ -86,6 +86,48 @@ def _stage_main_ocr(
     return {"engine": engine, "unit": unit, "blocks": blocks}
 
 
+# Per-page MAIN fallback priority. A page whose main output is missing
+# or blank falls back to the next bbox engine in the combination.
+_MAIN_ORDER = {"dots": 0, "mistral": 1, "surya": 2}
+
+
+def _has_content(blocks: list[dict]) -> bool:
+    """Whether a page output carries ANY usable text: at least one
+    non-image block whose text is not redaction territory."""
+    return any(
+        (b.get("text") or "").strip()
+        and not reconstruct.is_image(b)
+        and (b.get("black_frac") or 0.0) < reconstruct.REDACTION_BLACK_T
+        for b in blocks
+    )
+
+
+def _pick_main(
+    ds: Dataset, page: Page, members: list[tuple[str, str]]
+) -> tuple[tuple[str, str] | None, dict | None]:
+    """The page's MAIN engine: the highest-priority bbox member whose
+    output exists and carries text — an engine that comes back missing
+    or blank falls through to the next (dots > mistral > surya), and
+    the remaining engines carry the page. When every output is blank,
+    the highest-priority engine WITH output keeps the page honest (an
+    effectively empty page)."""
+    ranked = sorted(
+        (m for m in members if m[0] in _MAIN_ORDER),
+        key=lambda m: _MAIN_ORDER[m[0]],
+    )
+    first_available: tuple[tuple[str, str], dict] | None = None
+    for cand in ranked:
+        mo = _stage_main_ocr(ds, page.page_id, *cand)
+        if mo is None:
+            continue
+        _stamp_black_frac(ds, page, mo["blocks"])
+        if first_available is None:
+            first_available = (cand, mo)
+        if _has_content(mo["blocks"]):
+            return cand, mo
+    return first_available if first_available else (None, None)
+
+
 def _one_supplemental(
     ds: Dataset, page_id: str, engine: str, unit: str
 ) -> dict:
@@ -199,19 +241,25 @@ def _stage_compare(
 
 
 def build_page_artifact(ds: Dataset, page: Page, route: Route) -> dict | None:
-    main_ocr = _stage_main_ocr(ds, page.page_id, *route.main)
-    if main_ocr is None:
-        return None  # no main-engine output -> page not runnable yet
+    members = [route.main, *route.supplementals]
+    picked, main_ocr = _pick_main(ds, page, members)
+    if picked is None or main_ocr is None:
+        return None  # no bbox-engine output -> page not runnable yet
+    if picked != route.main:
+        # the route's main came back missing or blank: the next bbox
+        # engine is this page's skeleton, and the original main (if it
+        # has output at all) compares as a supplemental
+        main_ocr["fallback_from"] = route.main[0]
     containers = layout.containers_for(ds, page.page_id)
     supps = [
         _one_supplemental(ds, page.page_id, engine, unit)
-        for engine, unit in route.supplementals
+        for engine, unit in members
+        if (engine, unit) != picked
     ]
     # redaction test applies to EVERY bbox-carrying block (the
     # registry's redaction-blocks rule) — placeholder images and text
     # hallucinated over redacted regions alike (gemini has no bboxes,
     # so its blocks are a no-op)
-    _stamp_black_frac(ds, page, main_ocr["blocks"])
     for supp in supps:
         _stamp_black_frac(ds, page, supp["blocks"])
     recon = _stage_reconstruct(containers, main_ocr, supps)

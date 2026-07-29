@@ -933,6 +933,136 @@ class ExportIngestTest(DataTreeTestCase):
         self.assertIn("world", artifact["stages"]["assemble"]["text"])
 
 
+class MainFallbackTest(DataTreeTestCase):
+    """A page whose main output is missing or blank falls back to the
+    next bbox engine (dots > mistral > surya); the remaining engines
+    carry the page, and their differences flag low-confidence."""
+
+    @classmethod
+    def build_tree(cls, tmp: Path) -> None:
+        ds = tmp / "datasets" / "fb"
+        vol = ds / "redacted" / "rep" / "9" / "9"
+        vol.mkdir(parents=True)
+        (vol / "detections.json").write_text("[]")
+        doc = fitz.open()
+        doc.new_page(width=612, height=792)
+        doc.save(str(vol / "vol.pdf"))
+        doc.close()
+        (ds / "page_png").mkdir(parents=True)
+        Image.new("RGB", (17, 22), "white").save(
+            ds / "page_png" / "rep.9.9__p0.png"
+        )
+        engines = ds / "engines"
+        (engines / "container_yolo").mkdir(parents=True)
+        (engines / "container_yolo" / "rep.9.9__p0.json").write_text(
+            json.dumps(
+                [
+                    {
+                        "label": "column",
+                        "bbox": [100, 100, 1600, 2100],
+                        "confidence": 0.95,
+                    }
+                ]
+            )
+        )
+        # dots exists but came back BLANK (no usable text)
+        (engines / "dots").mkdir(parents=True)
+        (engines / "dots" / "rep.9.9__p0.json").write_text(
+            json.dumps(
+                {
+                    "text": "",
+                    "regions": [
+                        {
+                            "order": 0,
+                            "label": "Text",
+                            "bbox": [120, 120, 900, 200],
+                            "text": "",
+                        }
+                    ],
+                }
+            )
+        )
+        (engines / "mistral").mkdir(parents=True)
+        (engines / "mistral" / "rep.9.9__p0.json").write_text(
+            json.dumps(
+                [
+                    {
+                        "type": "text",
+                        "bbox": [120, 120, 900, 200],
+                        "text": "hello world today",
+                    }
+                ]
+            )
+        )
+        (engines / "surya" / "block").mkdir(parents=True)
+        (engines / "surya" / "block" / "rep.9.9__p0.json").write_text(
+            json.dumps(
+                {
+                    "regions": [
+                        {
+                            "order": 0,
+                            "label": "Text",
+                            "raw_label": "Text",
+                            "bbox": [120, 120, 900, 200],
+                            "text": "hello wield today",
+                            "html": "hello wield today",
+                        }
+                    ]
+                }
+            )
+        )
+
+    def test_blank_main_falls_back_and_flags_differences(self) -> None:
+        run_route(self.tmp, "fb", resolve("dots+mistral+surya_block"))
+        artifact = json.loads(
+            (
+                self.tmp
+                / "artifacts"
+                / "fb"
+                / "dots+mistral+surya_block"
+                / "rep.9.9__p0.json"
+            ).read_text()
+        )
+        mo = artifact["stages"]["main_ocr"]
+        self.assertEqual(mo["engine"], "mistral")
+        self.assertEqual(mo["fallback_from"], "dots")
+        cmp = artifact["stages"]["compare"]
+        # blank dots is a degraded supplemental; mistral vs surya
+        # differences have no third voter -> low-confidence
+        self.assertIn("supp1", cmp["degraded"])
+        d = cmp["disputes"][0]
+        self.assertEqual(d["reason"], "no-vote")
+        self.assertTrue(d["low_confidence"])
+        self.assertIn("world", artifact["stages"]["assemble"]["text"])
+        response = self.client.get(
+            "/d/fb/dots+mistral+surya_block/rep.9.9__p0/"
+        )
+        self.assertContains(response, "came back missing or")
+        self.assertContains(response, "Main OCR — mistral")
+
+    def test_missing_main_falls_back(self) -> None:
+        # remove dots entirely: the page still runs on the other two
+        (self.tmp / "datasets" / "fb" / "engines" / "dots").joinpath(
+            "rep.9.9__p0.json"
+        ).unlink(missing_ok=True)
+        written, skipped = run_route(
+            self.tmp, "fb", resolve("dots+gemini+mistral")
+        )
+        self.assertEqual((written, skipped), (1, 0))
+        artifact = json.loads(
+            (
+                self.tmp
+                / "artifacts"
+                / "fb"
+                / "dots+gemini+mistral"
+                / "rep.9.9__p0.json"
+            ).read_text()
+        )
+        mo = artifact["stages"]["main_ocr"]
+        self.assertEqual(mo["engine"], "mistral")
+        self.assertEqual(mo["fallback_from"], "dots")
+
+
 class DiffFlagsTest(SimpleTestCase):
     """Route-compare flags text and styling as separate dimensions."""
 

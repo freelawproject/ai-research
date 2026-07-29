@@ -6,7 +6,13 @@
    applied at render time; every engine sees the identical image).
 2. **Layout** — container-YOLO detects containers: column, footnote_block,
    caption, page_number, image, table, heading, blockquote.
-3. **Main OCR** — the route's MAIN engine → region bboxes + text. A
+3. **Main OCR** — the route's MAIN engine → region bboxes + text. On
+   a page where the main's output is missing or blank, the next bbox
+   engine in the combination takes over as the skeleton (priority
+   dots > mistral > surya), the blank engine drops to a degraded
+   supplemental, and everything the remaining engines disagree on is
+   flagged low-confidence (`main_ocr.fallback_from` records the
+   handover). A
    route is three user-picked models (pipeline/routes.py) treated as a
    SET — order never matters, so there are exactly 7 unique
    combinations (3 tiebreak pairs + 4 vote trios), each with one
@@ -172,6 +178,9 @@ data/artifacts/<dataset>/<route>/<page>.json
     "layout":       {"engine": "container_yolo", "raw": [], "post": [],
                      "columns": [{"side": "L", "bbox": []}], "stats": {}},
     "main_ocr":     {"engine": "dots",
+                     // set when the route's main was missing/blank and
+                     // the next bbox engine took over on this page:
+                     // "fallback_from": "dots",
                      // every bbox block carries "black_frac" (redaction test)
                      "blocks": [{"id": 0, "order": 0, "label": "",
                                  "bbox": [], "text": "", "styled": ""}]},

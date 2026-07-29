@@ -117,7 +117,7 @@ def _finish(
     return {"order": [p["id"] for p in ordered], "items": items, "text": text}
 
 
-def _is_image(b: dict) -> bool:
+def is_image(b: dict) -> bool:
     return (b.get("label") or b.get("type")) in IMAGE_LABELS
 
 
@@ -141,18 +141,18 @@ def reconstruct_blocks(
         if (b.get("black_frac") or 0.0) >= REDACTION_BLACK_T
     ]
     pics = [
-        b["bbox"] for b in main_blocks or [] if _is_image(b) and b.get("bbox")
+        b["bbox"] for b in main_blocks or [] if is_image(b) and b.get("bbox")
     ]
     in_image = [
         b["id"]
         for b in blocks
-        if not _is_image(b)
+        if not is_image(b)
         and b.get("bbox")
         and any(geometry.cover_frac(b["bbox"], p) >= COVER_T for p in pics)
     ]
     skip = set(redactions) | set(in_image)
     items = [
-        {"id": b["id"], "bbox": b.get("bbox"), "image": _is_image(b)}
+        {"id": b["id"], "bbox": b.get("bbox"), "image": is_image(b)}
         for b in blocks
         if b["id"] not in skip
     ]

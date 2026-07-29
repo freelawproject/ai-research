@@ -399,12 +399,21 @@ def review_disputes(
 
 
 _BBOX_RE = re.compile(r"^\d{1,5}_\d{1,5}_\d{1,5}_\d{1,5}$")
+MIN_CROP_SIDE = 64  # px; smaller crops are scaled up, see page_crop_png
 
 
 def page_crop_png(dataset: str, page: str, bbox: str) -> bytes:
     """A crop of the canonical page render, by bbox key ("x0_y0_x1_y1")
     — how the viewer fulfills the final HTML's <figure data-bbox>
-    image placeholders. The bbox is clamped to the image bounds."""
+    image placeholders and how the LightOn crop bundle is rendered. The
+    bbox is clamped to the image bounds, and a crop smaller than
+    MIN_CROP_SIDE on either side is scaled up (aspect preserved).
+
+    A disputed region can be a single glyph — a bullet, a bracket — and
+    at its native size that crop is both unreadable to a person and too
+    small for a vision tower to accept: LightOn merges patches 2x2, so
+    a crop that renders to fewer than two patches on a side crashes the
+    image tower rather than returning a bad read."""
     if not _BBOX_RE.match(bbox):
         raise Http404(bbox)
     x0, y0, x1, y1 = (int(c) for c in bbox.split("_"))
@@ -413,8 +422,15 @@ def page_crop_png(dataset: str, page: str, bbox: str) -> bytes:
         top = max(0, min(y0, im.height - 1))
         right = min(im.width, max(x1, left + 1))
         bottom = min(im.height, max(y1, top + 1))
+        crop = im.crop((left, top, right, bottom))
+        if min(crop.size) < MIN_CROP_SIDE:
+            scale = MIN_CROP_SIDE / min(crop.size)
+            crop = crop.resize(
+                (round(crop.width * scale), round(crop.height * scale)),
+                Image.Resampling.LANCZOS,
+            )
         buf = io.BytesIO()
-        im.crop((left, top, right, bottom)).save(buf, format="PNG")
+        crop.save(buf, format="PNG")
     return buf.getvalue()
 
 

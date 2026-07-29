@@ -872,6 +872,19 @@ class ExportIngestTest(DataTreeTestCase):
             )
         )
 
+    def test_single_glyph_crop_is_scaled_up(self) -> None:
+        """A one-glyph dispute region renders large enough to read: a
+        crop of a few pixels is unreadable to a person and too small for
+        a vision tower that merges patches 2x2."""
+        png = data.page_crop_png("lot", "rep.9.9__page_001", "300_300_312_319")
+        with Image.open(io.BytesIO(png)) as im:
+            self.assertEqual(min(im.size), data.MIN_CROP_SIDE)
+            self.assertAlmostEqual(im.width / im.height, 12 / 19, places=1)
+        # a region already big enough is untouched
+        png = data.page_crop_png("lot", "rep.9.9__page_001", "120_120_900_200")
+        with Image.open(io.BytesIO(png)) as im:
+            self.assertEqual(im.size, (780, 80))
+
     def test_flat_export_ingest_revote_round_trip(self) -> None:
         out = io.StringIO()
         bundle = self.tmp / "bundle"

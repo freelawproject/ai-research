@@ -28,3 +28,16 @@ line-length = 79
 [tool.ruff.lint]
 select = ["E", "F", "I", "UP", "W"]
 ignore = ["E501"]
+
+[tool.ruff.lint.isort]
+# A pod kit is a FLAT directory: runpod/ ships to_images.py and friends
+# beside the runner, so they are imported as top-level modules with no
+# package to import them from. Declared first-party here or ruff files
+# them as third-party and merges them into the torch/PIL block.
+known-first-party = [
+    "dots_common",
+    "mistral_ocr",
+    "postprocess",
+    "split_volume",
+    "to_images",
+]

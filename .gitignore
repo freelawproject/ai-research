@@ -13,11 +13,15 @@ __pycache__/
 # Secrets
 .env
 
-# Data, models, archives — distributed separately as a zip (see README)
+# Data, models, archives — distributed separately as a zip (see README).
+# `data/` also covers the pod kits' staged sets (runpod/data/); a kit
+# holds CODE only, every byte of its input is staged at pack time.
 data/
 *.pt
 *.tar.gz
 *.zip
+runpod/dist/
+.pack_stage/
 
 # Frontend build
 node_modules/

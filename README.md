@@ -92,7 +92,12 @@ every crop is an honest no-vote. To fill the cache:
    tiebreak combinations' artifacts, collects every disputed region
    without a cached read, and writes the LightOn pod kit's input bundle
    (`crops/` + `manifest.jsonl`) to `data/exports/lighton_<name>/`.
-2. Run the LightOn pod kit on that bundle (the kit's own README).
+2. Run the LightOn kit on that bundle: stage it as
+   `runpod/data/sets/<set>/`, `bash runpod/pack.sh lighton <set>`,
+   ship the tarball to a pod and `bash run.sh full` (see
+   `runpod/kits/lighton/README.md`). A bounded bundle can skip the pod
+   entirely — `python runpod/kits/lighton/local_batch.py <bundle>` runs
+   the same contract on this machine.
 3. `uv run python manage.py ingest_reads --dataset <name>
    lighton_reads_<set>.tar.gz` — lands the reads in the crop cache.
 4. `uv run python -m pipeline.run --dataset <name> --route all` —
@@ -105,6 +110,32 @@ bundle under a `__retry` key carrying the tighter decode settings the
 retry runs under. Repeat steps 2–4 to collect it. A retry that fails too
 is final — the dispute keeps the main reading, flagged low-confidence.
 Every crop is therefore read at most twice, whatever the run count.
+
+## Producing engine outputs on new pages (`runpod/`)
+
+The pipeline CONSUMES cached engine outputs; `runpod/` is what produces
+them. One self-contained kit per engine, each a flat directory the pod
+unpacks and runs — no imports from this package, so a kit never needs the
+pipeline installed beside it:
+
+| Kit | What it runs |
+|---|---|
+| `runpod/kits/container_yolo/` | the layout detector (weights published separately) |
+| `runpod/kits/dots/` | dots.mocr via vLLM (or native transformers) |
+| `runpod/kits/surya/` | Surya OCR 2 via vLLM |
+| `runpod/kits/lighton/` | LightOn crop reads — pod (vLLM) or local CPU |
+| `runpod/mistral/` | Mistral OCR API batches (no pod: it bills per page) |
+
+The flow is the same for every kit. Define a SET under
+`runpod/data/sets/<set>/` (gitignored) — usually just a `set.conf` naming
+the dataset whose rendered pages to use, plus an optional page list —
+then `bash runpod/pack.sh <engine> <set>` builds
+`runpod/dist/<engine>_<set>_kit.tar.gz`. On the pod, `GPUS=n bash run.sh`
+runs one worker per card over disjoint pages and packages the output
+once. A kit takes IMAGES, never PDFs: the canonical 1700×2200 render is
+the pipeline's own, so bboxes come back in the space the pipeline reads.
+Per-engine detail, pod images, and the measured throughput numbers are in
+`runpod/README.md`.
 
 ## Developing the UI
 
@@ -121,6 +152,7 @@ build, vendored at `viewer/static/viewer/js/vendor/` — components live in
 | `pipeline/` | the extraction pipeline (pure Python, no Django dependency) |
 | `viewer/` | Django app for walking pipeline artifacts |
 | `extraction/` | Django project settings (runs without a database) |
+| `runpod/` | pod kits that PRODUCE the engine outputs (see below) |
 | `docs/` | pipeline spec + artifact schema |
 | `docker/` | image + entrypoint for the compose stack |
 | `scripts/pack_data.sh` | builds the shareable data zip |

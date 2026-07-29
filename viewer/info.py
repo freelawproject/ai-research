@@ -14,7 +14,8 @@ ENGINE_INFO: list[dict[str, str]] = [
         "(weights ship in the data bundle)",
         "bbox": "the detector itself — pure vision, no text output",
         "runs": "RunPod kit (GPU; CPU works)",
-        "license": "Apache 2.0 (base model)",
+        "license": "AGPL-3.0 — inherited from DocLayout-YOLO by the "
+        "fine-tune, and carried in the checkpoint's own metadata",
         "link": "https://huggingface.co/juliozhao/DocLayout-YOLO-DocStructBench",
         "link_label": "Hugging Face",
     },

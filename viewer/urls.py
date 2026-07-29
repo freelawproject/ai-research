@@ -1,9 +1,24 @@
 from django.urls import path
 
-from viewer import views
+from viewer import align_views, views
 
 urlpatterns = [
     path("", views.home, name="home"),  # type: ignore[arg-type]
+    path(
+        "align/",
+        align_views.align_home,  # type: ignore[arg-type]
+        name="align_home",
+    ),
+    path(
+        "align/<str:dataset>/<str:page>/",
+        align_views.align_page,  # type: ignore[arg-type]
+        name="align_page",
+    ),
+    path(
+        "align/img/<str:dataset>/<str:page>.png",
+        align_views.align_page_img,  # type: ignore[arg-type]
+        name="align_page_img",
+    ),
     path(
         "d/<str:dataset>/",
         views.dataset_redirect,  # type: ignore[arg-type]

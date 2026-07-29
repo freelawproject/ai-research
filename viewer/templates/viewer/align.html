@@ -1,0 +1,248 @@
+{% extends "viewer/base.html" %}
+
+{% block title %}{{ page_id }} · alignment{% endblock %}
+
+{% block header %}
+<span class="rounded-md bg-neutral-100 px-2 py-1 text-sm text-neutral-600">
+  alignment
+</span>
+<form method="get" action="{% url 'align_home' %}"
+      class="flex items-center gap-1 text-sm">
+  <select name="dataset"
+          class="rounded-md border border-neutral-300 bg-white px-2 py-1">
+    {% for d in datasets %}
+      <option value="{{ d }}" {% if d == dataset %}selected{% endif %}>{{ d }}</option>
+    {% endfor %}
+  </select>
+  <button type="submit"
+          class="rounded-md border border-indigo-300 px-2 py-1 font-medium text-indigo-700">
+    set
+  </button>
+</form>
+<div class="ml-auto flex items-center gap-2 text-sm" x-data="volumeNav">
+  <select x-on:change="go" aria-label="Volume"
+          class="rounded-md border border-neutral-300 bg-white px-2 py-1">
+    {% for v in volume_options %}
+      <option value="{{ v.url }}" {% if v.selected %}selected{% endif %}>
+        {{ v.volume }} ({{ v.n }} pp)
+      </option>
+    {% endfor %}
+  </select>
+  {% if prev_url %}
+    <a href="{{ prev_url }}"
+       class="rounded-md border border-neutral-300 px-2 py-1 text-neutral-700">←</a>
+  {% endif %}
+  <span class="tabular-nums text-neutral-500">{{ pos }}</span>
+  {% if next_url %}
+    <a href="{{ next_url }}"
+       class="rounded-md border border-neutral-300 px-2 py-1 text-neutral-700">→</a>
+  {% endif %}
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="grid gap-4 lg:grid-cols-2" x-data="alignViewer">
+
+  {# ---- page image with the overlays ---- #}
+  <div class="min-w-0 lg:sticky lg:top-14 lg:self-start">
+    <div class="mb-2 flex flex-wrap items-center gap-4 rounded-lg border border-neutral-200 bg-white px-3 py-2">
+      <c-layer-toggle prop="showGroups" toggle="toggleGroups"
+                      label="aligned groups" count="{{ layers.groups|length }}"
+                      chip="border-indigo-600" />
+      {% if layers.weak %}
+        <c-layer-toggle prop="showWeak" toggle="toggleWeak"
+                        label="weak alignment" count="{{ layers.weak|length }}"
+                        chip="border-rose-600 bg-rose-100" />
+      {% endif %}
+      {% for e in engines %}
+        <c-layer-toggle prop="show{{ e.name|capfirst }}"
+                        toggle="toggle{{ e.name|capfirst }}"
+                        label="{{ e.label }}" count="{{ e.boxes|length }}"
+                        chip="{{ e.cls }}" />
+      {% endfor %}
+      <c-layer-toggle prop="showContainers" toggle="toggleContainers"
+                      label="container-YOLO" count="{{ layers.containers|length }}"
+                      chip="border-dashed border-sky-500" />
+      <c-layer-toggle prop="showYoloRaw" toggle="toggleYoloRaw"
+                      label="yolo raw" count="{{ layers.yolo_raw|length }}"
+                      chip="border-dotted border-sky-300" />
+      {% if boundary_pct %}
+        <c-layer-toggle prop="showBoundary" toggle="toggleBoundary"
+                        label="column split" count="1"
+                        chip="border-amber-500" />
+      {% endif %}
+      <div class="ml-auto flex items-center gap-1">
+        <button x-on:click="zoomOut" aria-label="Zoom out"
+                class="rounded-md border border-neutral-300 px-2 text-neutral-700">−</button>
+        <button x-on:click="zoomReset" aria-label="Reset zoom"
+                class="rounded-md border border-neutral-300 px-2 text-neutral-700">1×</button>
+        <button x-on:click="zoomIn" aria-label="Zoom in"
+                class="rounded-md border border-neutral-300 px-2 text-neutral-700">+</button>
+      </div>
+    </div>
+
+    <div class="max-h-[85vh] overflow-auto rounded-lg border border-neutral-200 bg-neutral-100 p-2">
+      <div class="relative mx-auto" x-bind:style="wrapStyle">
+        <img src="{{ img_url }}" alt="Render of {{ page_id }}"
+             class="block w-full select-none">
+        <div x-show="showContainers" x-cloak>
+          {% for b in layers.containers %}
+            <div class="{{ b.cls }}" style="{{ b.style }}" title="{{ b.title }}"></div>
+          {% endfor %}
+        </div>
+        <div x-show="showYoloRaw" x-cloak>
+          {% for b in layers.yolo_raw %}
+            <div class="{{ b.cls }}" style="{{ b.style }}" title="{{ b.title }}"></div>
+          {% endfor %}
+        </div>
+        {% for e in engines %}
+          <div x-show="show{{ e.name|capfirst }}" x-cloak>
+            {% for b in e.boxes %}
+              <div class="ov {{ b.cls }}" style="{{ b.style }}" title="{{ b.title }}"></div>
+            {% endfor %}
+          </div>
+        {% endfor %}
+        <div x-show="showGroups" x-cloak>
+          {% for b in layers.groups %}
+            <div class="{{ b.cls }}" style="{{ b.style }}"
+                 title="{{ b.title }}"></div>
+          {% endfor %}
+        </div>
+        <div x-show="showWeak" x-cloak>
+          {% for b in layers.weak %}
+            <div class="{{ b.cls }}" style="{{ b.style }}" title="{{ b.title }}"></div>
+          {% endfor %}
+        </div>
+        {% if boundary_pct %}
+          <div x-show="showBoundary" x-cloak class="ov-split"
+               style="left:{{ boundary_pct }}"
+               title="column split inferred at x={{ boundary }}"></div>
+        {% endif %}
+      </div>
+    </div>
+
+    {% comment %}
+      Facts about this page's alignment. Container-YOLO's column count
+      is here because on unredacted pages it is usually zero — the
+      reason placement is derived from the boxes instead.
+    {% endcomment %}
+    <dl class="mt-2 grid grid-cols-2 gap-x-4 gap-y-1 rounded-lg border border-neutral-200 bg-white px-3 py-2 text-sm sm:grid-cols-4">
+      <div><dt class="text-neutral-500">groups</dt>
+        <dd class="tabular-nums">{{ metrics.n_groups }}</dd></div>
+      <div><dt class="text-neutral-500">all engines</dt>
+        <dd class="tabular-nums">{{ metrics.n_all_engines }}</dd></div>
+      <div><dt class="text-neutral-500">column split</dt>
+        <dd class="tabular-nums">{% if boundary %}x={{ boundary|floatformat:0 }}{% else %}single column{% endif %}</dd></div>
+      <div><dt class="text-neutral-500">container columns</dt>
+        <dd class="tabular-nums {% if not n_columns %}text-rose-700{% endif %}">{{ n_columns }}</dd></div>
+    </dl>
+    {% if missing_engines %}
+      <p class="mt-2 rounded-md bg-amber-50 px-3 py-2 text-sm text-amber-900">
+        No output on this page from: {{ missing_engines|join:", " }}.
+      </p>
+    {% endif %}
+  </div>
+
+  {# ---- the reconstructed page ---- #}
+  <div class="flex min-w-0 flex-col gap-3">
+    <div class="flex flex-wrap items-center gap-2 rounded-lg border border-neutral-200 bg-white px-3 py-2 text-sm">
+      <button x-on:click="showGroupList" x-bind:class="groupsTab"
+              class="tab">by region</button>
+      <button x-on:click="showReading" x-bind:class="readingTab"
+              class="tab">read through</button>
+      <span class="ml-auto text-neutral-500">
+        reading order from bbox coordinates
+      </span>
+    </div>
+
+    {# every engine's read of the same region, in reading order #}
+    <div x-show="isGroups" x-cloak class="flex flex-col gap-2">
+      {% for g in groups %}
+        <div class="group-card rounded-lg border bg-white px-3 py-2
+                    {% if g.weak %}border-rose-300{% else %}border-neutral-200{% endif %}">
+          <div class="mb-1 flex flex-wrap items-center gap-2 text-xs text-neutral-500">
+            <span class="font-medium text-neutral-700">#{{ g.id }}</span>
+            <span class="rounded bg-neutral-100 px-1.5 py-0.5">{{ g.band }}</span>
+            <span class="rounded bg-neutral-100 px-1.5 py-0.5">col {{ g.column }}</span>
+            {% if g.page_scale %}
+              <span class="rounded bg-neutral-200 px-1.5 py-0.5">page-scale</span>
+            {% endif %}
+            {% if g.weak %}
+              <span class="rounded bg-rose-100 px-1.5 py-0.5 text-rose-800">
+                weak alignment · merged IoU {{ g.iou }}
+              </span>
+            {% else %}
+              <span class="tabular-nums">IoU {{ g.iou }}</span>
+            {% endif %}
+            {% if g.missing %}
+              <span class="rounded bg-amber-100 px-1.5 py-0.5 text-amber-900">
+                missing: {{ g.missing|join:", " }}
+              </span>
+            {% endif %}
+            <span class="agree-{{ g.agreement }} rounded px-1.5 py-0.5">
+              {{ g.agreement_label }}{% if g.n_low_confidence %} · {{ g.n_low_confidence }} unresolved{% endif %}
+            </span>
+          </div>
+          <div class="mb-2 rounded-md border border-indigo-100 bg-indigo-50/60 px-2 py-1">
+            <div class="mb-0.5 text-[11px] font-medium text-indigo-900">
+              final
+            </div>
+            <div class="read-body doc-html whitespace-pre-wrap text-sm">{{ g.final_html|safe }}</div>
+          </div>
+          <div class="reads-grid">
+            {% for r in g.reads %}
+              <div class="rounded-md border border-neutral-100 bg-neutral-50 px-2 py-1">
+                <div class="mb-0.5 flex items-baseline gap-1 text-[11px] text-neutral-500">
+                  <span class="font-medium">{{ r.label }}</span>
+                  {% if r.present %}
+                    <span>· {{ r.n_boxes }} box{{ r.n_boxes|pluralize:"es" }}</span>
+                    <span class="truncate" title="{{ r.labels }}">· {{ r.labels }}</span>
+                  {% endif %}
+                </div>
+                {% if r.present %}
+                  <div class="read-body doc-html whitespace-pre-wrap text-sm">{{ r.html|safe }}</div>
+                {% else %}
+                  <div class="text-sm italic text-neutral-400">no region here</div>
+                {% endif %}
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    {# one engine's page, continuous, in the same order #}
+    <div x-show="isReading" x-cloak class="flex flex-col gap-2">
+      <div class="flex flex-wrap items-center gap-2 rounded-lg border border-neutral-200 bg-white px-3 py-2 text-sm">
+        <span class="text-neutral-500">showing</span>
+        {% for o in read_options %}
+          <a href="{{ o.url }}" class="tab {% if o.selected %}tab-on{% endif %}">
+            {{ o.label }}
+          </a>
+        {% endfor %}
+        {% if reading_is_final %}
+          <span class="ml-auto flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-neutral-500">
+            <span class="legend-voted">
+              no engines agreed on the whole region — voted word by word
+            </span>
+            <span>
+              <mark class="low-confidence">marked</mark> = no majority for
+              that word
+            </span>
+          </span>
+        {% endif %}
+      </div>
+      <div class="final-doc rounded-lg border border-neutral-200 bg-white px-4 py-3">
+        {% for r in reading %}
+          <p data-role="{{ r.band }}"
+             {% if r.agreement %}data-agreement="{{ r.agreement }}"{% endif %}>{{ r.html|safe }}</p>
+        {% empty %}
+          <p class="italic text-neutral-400">
+            {{ reading_engine }} read nothing on this page.
+          </p>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

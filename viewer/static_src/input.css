@@ -177,3 +177,105 @@
   outline: none;
 }
 .hide-low-conf .lc-marker { display: none; }
+
+/* ---- alignment viewer ---------------------------------------------
+   The aligned groups, the inferred column split, and the region cards.
+   Alignment is geometry-only, so the page image and the region list are
+   two views of the same boxes. */
+.ov-group {
+  position: absolute;
+  box-sizing: border-box;
+  border: 1.5px solid #4f46e5;
+}
+.ov-weak {
+  position: absolute;
+  box-sizing: border-box;
+  border: 1.5px solid #e11d48;
+  background: rgba(225, 29, 72, 0.16);
+}
+/* the column split inferred from the boxes' left edges */
+.ov-split {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 0;
+  border-left: 2px dashed #f59e0b;
+}
+/* one column per engine present, however many that is */
+.reads-grid {
+  display: grid;
+  gap: 0.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+/* A read can be a whole table, and the engines do not agree on how
+   wide one is — surya reads a table of contents as ONE four-column
+   table where the others emit two two-column ones. Grid and flex
+   children default to min-width:auto, so the widest read would
+   stretch its track and scroll the whole page sideways. Let the track
+   shrink, and give each read its own horizontal scroll. */
+.reads-grid > * {
+  min-width: 0;
+}
+.read-body {
+  overflow-x: auto;
+}
+/* wide content scrolls inside its own region, never the page */
+.final-doc > [data-gid] {
+  overflow-x: auto;
+}
+
+/* the region/read-through switch */
+.tab {
+  border-radius: 0.375rem;
+  border: 1px solid #d4d4d4;
+  padding: 0.25rem 0.75rem;
+  font-weight: 500;
+  color: #404040;
+}
+.tab-on {
+  background: #4f46e5;
+  border-color: #4f46e5;
+  color: #fff;
+}
+
+/* how a region resolved: unanimous is unremarkable, a word-by-word
+   vote is the one worth looking at */
+.agree-unanimous {
+  background: #f0fdf4;
+  color: #166534;
+}
+.agree-majority {
+  background: #eff6ff;
+  color: #1e40af;
+}
+.agree-voted {
+  background: #fef3c7;
+  color: #92400e;
+}
+.agree-single {
+  background: #f5f5f5;
+  color: #525252;
+}
+
+/* Low-confidence marks are rose EVERYWHERE, not only inside a final
+   document. The route pipeline only ever renders them there, so the
+   rule above is scoped to .final-doc — but this surface also puts them
+   in region cards (.doc-html) and in the two legends that explain
+   them, and an unstyled <mark> falls back to the browser's yellow.
+   That read as a second, different signal. Same specificity class as
+   the scoped rule's colour, so the two agree. */
+mark.low-confidence {
+  background: rgba(225, 29, 72, 0.15);
+  border-radius: 2px;
+  color: inherit;
+  padding: 0 2px;
+}
+
+/* A voted region gets an amber rule down its left edge in
+   read-through; the legend swatch that explains it shares the
+   declaration, so the two cannot drift apart. */
+.legend-voted,
+.final-doc [data-agreement="voted"] {
+  border-left: 3px solid #f59e0b;
+  padding-left: 0.5rem;
+}

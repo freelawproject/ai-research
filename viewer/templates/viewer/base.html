@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="{% static 'viewer/css/tailwind.css' %}">
   {# component scripts MUST load before Alpine so factories register #}
   <script defer src="{% static 'viewer/js/components/page_viewer.js' %}"></script>
+  <script defer src="{% static 'viewer/js/components/align_viewer.js' %}"></script>
   <script defer src="{% static 'viewer/js/vendor/alpine-csp.min.js' %}"></script>
 </head>
 <body class="min-h-screen bg-neutral-50 text-neutral-900">
@@ -18,6 +19,8 @@
          class="font-semibold tracking-tight text-neutral-900">
         Case Law Extraction
       </a>
+      <a href="{% url 'align_home' %}"
+         class="text-sm text-neutral-500 hover:text-neutral-900">alignment</a>
       {% block header %}{% endblock %}
     </div>
   </header>

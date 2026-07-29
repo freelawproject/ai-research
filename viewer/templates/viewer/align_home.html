@@ -1,0 +1,156 @@
+{% extends "viewer/base.html" %}
+
+{% block title %}Alignment · {{ dataset }}{% endblock %}
+
+{% block header %}
+<span class="rounded-md bg-neutral-100 px-2 py-1 text-sm text-neutral-600">
+  alignment
+</span>
+{% endblock %}
+
+{% block content %}
+<div class="flex flex-col gap-4">
+
+  <form method="get" class="flex flex-wrap items-center gap-2 rounded-lg border border-neutral-200 bg-white px-3 py-2 text-sm">
+    <span class="text-neutral-500">set</span>
+    <select name="dataset"
+            class="rounded-md border border-neutral-300 bg-white px-2 py-1">
+      {% for d in datasets %}
+        <option value="{{ d }}" {% if d == dataset %}selected{% endif %}>{{ d }}</option>
+      {% endfor %}
+    </select>
+    <button type="submit"
+            class="rounded-md border border-indigo-300 px-3 py-1 font-medium text-indigo-700">
+      show
+    </button>
+    {% if first_url %}
+      <a href="{{ first_url }}" class="tab tab-on">open {{ dataset }}</a>
+    {% endif %}
+    <span class="ml-auto tabular-nums text-neutral-500">{{ n_pages }} pages</span>
+  </form>
+
+  {% comment %}
+    What this surface is, and what it deliberately is not. Worth saying
+    on the page itself: the route walkthrough next door does resolve a
+    winner, and the two are easy to confuse.
+  {% endcomment %}
+  <div class="rounded-lg border border-neutral-200 bg-white px-4 py-3 text-sm text-neutral-700">
+    <p class="mb-2">
+      Every engine's regions are grouped onto the same pieces of the page
+      by geometry alone — two regions link when their intersection covers
+      at least {{ stats.overlap|default:"half" }} of the smaller one, and a
+      group is a connected component of those links, so one engine's three
+      boxes and another's one box become a single comparable region.
+    </p>
+    <p class="mb-2">
+      Reading order comes from the boxes' own coordinates: the columns are
+      inferred from a gap in the left edges, and the running heads and
+      footer are read as their own bands.
+      <strong>The container model places nothing here</strong> — it is
+      drawn over the page image so its output can be judged by eye.
+    </p>
+    <p>
+      Each region then resolves to what the engines agree on — whole
+      where two of three match, word by word where none do. A word no
+      two engines agree on is <mark class="low-confidence">marked</mark>
+      rather than silently chosen, and every region says how it landed.
+    </p>
+  </div>
+
+  {% if volumes %}
+    <div class="rounded-lg border border-neutral-200 bg-white px-4 py-3">
+      <h2 class="mb-2 font-medium">Volumes</h2>
+      <ul class="flex flex-wrap gap-2 text-sm">
+        {% for v in volumes %}
+          <li>
+            <a href="{% url 'align_page' dataset v.first %}"
+               class="inline-block rounded-md border border-indigo-300 px-2 py-1 font-medium text-indigo-700">
+              {{ v.volume }}
+              <span class="tabular-nums font-normal text-neutral-500">{{ v.n }} pp</span>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
+  {% if stats %}
+    <div class="rounded-lg border border-neutral-200 bg-white px-4 py-3">
+      <h2 class="mb-3 font-medium">Across the set</h2>
+      <dl class="grid grid-cols-2 gap-x-6 gap-y-2 text-sm sm:grid-cols-3 lg:grid-cols-6">
+        <div><dt class="text-neutral-500">pages built</dt>
+          <dd class="tabular-nums">{{ stats.pages }}</dd></div>
+        <div><dt class="text-neutral-500">aligned regions</dt>
+          <dd class="tabular-nums">{{ stats.groups }}
+            <span class="text-neutral-500">({{ stats.groups_per_page|floatformat:1 }}/pg)</span>
+          </dd></div>
+        <div><dt class="text-neutral-500">all engines agree a region exists</dt>
+          <dd class="tabular-nums">{{ stats.pct_all_engines|floatformat:1 }}%</dd></div>
+        <div><dt class="text-neutral-500">two columns found</dt>
+          <dd class="tabular-nums">{{ stats.pct_two_column|floatformat:1 }}%</dd></div>
+        <div><dt class="text-neutral-500">weak alignment</dt>
+          <dd class="tabular-nums">{{ stats.pct_weak|floatformat:2 }}%</dd></div>
+        <div><dt class="text-neutral-500">median merged IoU</dt>
+          <dd class="tabular-nums">{{ stats.median_alignment_iou|floatformat:3 }}</dd></div>
+      </dl>
+
+      <h3 class="mt-4 mb-1 text-sm font-medium">
+        Which engines found each region
+      </h3>
+      <table class="w-full max-w-xl text-sm">
+        <thead class="text-left text-neutral-500">
+          <tr><th class="py-1 font-normal">engines</th>
+              <th class="py-1 text-right font-normal">regions</th>
+              <th class="py-1 text-right font-normal">share</th></tr>
+        </thead>
+        <tbody>
+          {% for r in stats.by_pattern %}
+            <tr class="border-t border-neutral-100">
+              <td class="py-1">{{ r.key }}</td>
+              <td class="py-1 text-right tabular-nums">{{ r.n }}</td>
+              <td class="py-1 text-right tabular-nums">{{ r.pct|floatformat:1 }}%</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+
+      <h3 class="mt-4 mb-1 text-sm font-medium">
+        How each region resolved
+      </h3>
+      <table class="w-full max-w-xl text-sm">
+        <thead class="text-left text-neutral-500">
+          <tr><th class="py-1 font-normal">outcome</th>
+              <th class="py-1 text-right font-normal">regions</th>
+              <th class="py-1 text-right font-normal">share</th></tr>
+        </thead>
+        <tbody>
+          {% for r in stats.by_agreement %}
+            <tr class="border-t border-neutral-100">
+              <td class="py-1"><span class="agree-{{ r.key }} rounded px-1.5 py-0.5">{{ r.key }}</span></td>
+              <td class="py-1 text-right tabular-nums">{{ r.n }}</td>
+              <td class="py-1 text-right tabular-nums">{{ r.pct|floatformat:1 }}%</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <p class="mt-1 text-xs text-neutral-500">
+        {{ stats.low_confidence }} word{{ stats.low_confidence|pluralize }}
+        across the set had no majority and are marked in the final.
+      </p>
+
+      <h3 class="mt-4 mb-1 text-sm font-medium">Raw boxes per engine</h3>
+      <ul class="flex flex-wrap gap-4 text-sm text-neutral-700">
+        {% for name, n in stats.boxes_per_engine.items %}
+          <li>{{ name }} <span class="tabular-nums">{{ n }}</span></li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% else %}
+    <p class="rounded-lg border border-neutral-200 bg-white px-4 py-3 text-sm text-neutral-600">
+      Nothing built for this set yet. Regions materialize on the first
+      visit to a page, or build the whole set at once:
+      <code class="rounded bg-neutral-100 px-1">uv run python -m pipeline.align_run --dataset {{ dataset }}</code>
+    </p>
+  {% endif %}
+</div>
+{% endblock %}

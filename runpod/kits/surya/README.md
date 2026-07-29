@@ -21,10 +21,9 @@ just an OpenAI client — so the arch has to be native to the running server.
 trip a torch/CUDA mismatch, so booting the right image is still the clean path,
 but the upgrade route is verified working and costs about 5 minutes of install at
 startup. Use it when a v0.20.1 pod is not available. Under `GPUS=n` only the
-deps worker runs the upgrade — the others wait on its marker and then verify,
-because a second concurrent pip in the shared site-packages uninstalls
-packages from under the first (how an upgrade dies halfway, leaving
-`~riton`-style debris).
+deps worker runs the upgrade — the others wait on its marker and then verify;
+two concurrent pips in one shared site-packages uninstall packages from
+under each other.
 
 ## Run
 
@@ -93,12 +92,9 @@ ENABLE_MTP=1 PARALLEL=16 BATCH=16 bash run.sh   # + speculative decode
 ```
 
 **Bigger is not better here, and 64 measured slower than 32.** This client is
-chunk-synchronous — it submits N pages, waits for *all* N, then submits the next
-N — so a chunk costs its slowest page and the GPU drains at every boundary. Page
-output length varies about 5x across a volume, so wider chunks mean more finished
-slots idling on one straggler. Modelled against real page-length distributions,
-efficiency falls steadily from ~83% at 8 to ~72% at 128. Add GPUs to go faster,
-not depth.
+chunk-synchronous — it submits N pages, waits for *all* N, then submits the
+next N — so a chunk costs its slowest page, and wider chunks leave more
+finished slots idling on one straggler. Add GPUs to go faster, not depth.
 
 Re-running is resume-safe, so this can be A/B'd on the remaining pages of a
 live run: Ctrl-C, re-run with new env, compare the `pg/s` line. Watch for 500s

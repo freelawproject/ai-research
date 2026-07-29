@@ -94,10 +94,7 @@ skips the ones in use, and prints the assignment. `SKIP_PORTS` excludes ports
 from probing entirely. Each worker re-checks its port before serving and, if it
 lost the race, stops and prints how to identify the occupant. Once the server
 answers `/health` the kit also requires `/v1/models` to list the model it asked
-for —
-`/health` alone is satisfied by any server on that port, which is how a
-collision otherwise reads as "server healthy" followed by every unit failing
-with nginx's `405 Not Allowed`.
+for — `/health` alone is satisfied by any server on the port.
 
 ## Pod requirements
 

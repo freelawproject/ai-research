@@ -12,9 +12,6 @@ This kit does not require a GPU — CPU works, just slowly.
 > renders and does not transfer to unredacted scans. On 3,541 unredacted
 > pages, 89.3% came back with zero `column` detections — unusable, and it
 > fails quietly rather than erroring. Redact before rendering.
->
-> Running on unredacted pages, and combining with the blackletter YOLO
-> weights, is the next experiment — not a supported path today.
 
 ## Weights
 

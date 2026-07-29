@@ -49,7 +49,6 @@ python local_batch.py <bundle-dir>     # needs torch + transformers
 
 CPU float32 by default (reliable on Apple Silicon — MPS is flaky for
 this VLM; ~9 s/crop); `LIGHTON_DEVICE=cuda` on a GPU box for bf16.
-Verified to reproduce the pod's reads byte-for-byte on cached crops.
 
 ## Pod image
 

@@ -18,11 +18,9 @@ Two install-order gotchas `run.sh` already handles:
 - **transformers must be in the 4.57 series, but not 4.57.0.** vLLM 0.11.0
   needs 4.57.x and its dep spec has no upper cap, so a base image's
   transformers 5.x survives the vllm install and breaks the tokenizer
-  (`Qwen2Tokenizer.all_special_tokens_extended`). `run.sh` therefore checks
-  the installed version and only reinstalls when it is out of range —
-  **`4.57.0` itself is yanked on PyPI** ("Error in the setup causing
-  installation issues"), and pinning to it replaced the image's working
-  install with a broken one, failing engine-core startup.
+  (`Qwen2Tokenizer.all_special_tokens_extended`). `run.sh` checks the
+  installed version and reinstalls only when it is out of range (4.57.0
+  itself is yanked on PyPI — hence the `.1` floor).
 - **hf_transfer must be present.** Base images set
   `HF_HUB_ENABLE_HF_TRANSFER=1`, which hard-fails the ~6 GB model download
   unless the package is installed.
@@ -84,24 +82,14 @@ Materialises the model in a no-period directory (`dots_mocr_model/`) so
 
 ## Known issue — sparse pages can time out
 
-A small number of pages time out repeatedly and never produce output. On the
-3,541-page `newvols` set this was **2 pages** (99.9% coverage):
-`a3d.226.1.1293__page_0549` and `__page_0785`. Retrying does not help.
-
-Both are unusually **sparse** — 1.9% and 1.7% ink against a 7.2% corpus
-average — and surya and mistral read them without trouble (1.4k-3.8k chars
-each), so the pages are legible and the content is recoverable elsewhere.
-
-The likely mechanism is runaway decode: with little on the page the model can
-degenerate into repetition and run to the `--max-new-tokens 12000` cap, which
-outlasts the client's 600 s timeout. The client logs the failure and moves on,
-so the run completes and the page is simply absent from `out/`.
-
-Nothing here treats a missing page as an error, by design — one bad page
-should not kill a multi-thousand-page run. Check coverage afterwards
-(compare `ls out/*.json | wc -l` against the set's page count) and decide
-per set whether the gap matters. If it does, the content is available from
-another engine rather than by retrying dots.
+Rarely (roughly one page in two thousand, always unusually sparse ones), a
+page times out repeatedly and never produces output: the model runs to the
+`--max-new-tokens` cap, which outlasts the client's 600 s timeout, and
+retrying does not help. The client logs the failure and moves on, so the run
+completes and the page is simply absent from `out/` — a missing page is
+never treated as an error, by design. Check coverage afterwards (compare
+`ls out/*.json | wc -l` against the set's page count); when a gap matters,
+the content is available from another engine rather than by retrying dots.
 
 ## Output
 

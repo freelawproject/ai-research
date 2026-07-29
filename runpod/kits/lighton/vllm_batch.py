@@ -20,6 +20,7 @@ import argparse
 import asyncio
 import base64
 import json
+import os
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -49,6 +50,9 @@ async def main_async(
         for ln in MANIFEST.read_text().splitlines()
         if ln.strip()
     ]
+    # every n-th crop, so the fan-out's workers own disjoint slices
+    shard_i, shard_n = (int(v) for v in shard.split("/"))
+    crops = crops[shard_i::shard_n]
     if smoke:
         crops = crops[:smoke]
     crops = {c["key"]: c for c in crops}
@@ -58,8 +62,9 @@ async def main_async(
     }
     n_retry = sum(1 for c in todo.values() if c.get("decode"))
     print(
-        f"{len(crops)} crops, {len(todo)} to transcribe ({n_retry} retry) "
-        f"(model={model}, concurrency={concurrency}){' [SMOKE]' if smoke else ''}",
+        f"{len(crops)} crops in shard {shard}, {len(todo)} to transcribe "
+        f"({n_retry} retry) (model={model}, concurrency={concurrency})"
+        f"{' [SMOKE]' if smoke else ''}",
         flush=True,
     )
     if not todo:
@@ -103,7 +108,13 @@ async def main_async(
                     }
                 ],
             )
-        return key, (r.choices[0].message.content or "").strip()
+        text = (r.choices[0].message.content or "").strip()
+        # Written as each read lands, atomically: resume treats "the file
+        # exists" as "this crop is done", so a run killed mid-batch keeps
+        # every finished read and never leaves a truncated one behind.
+        tmp = READS / f"{key}.txt.part"
+        tmp.write_text(text, encoding="utf-8")
+        os.replace(tmp, READS / f"{key}.txt")
 
     results = await asyncio.gather(
         *[one(k, c) for k, c in todo.items()], return_exceptions=True
@@ -113,9 +124,6 @@ async def main_async(
         if isinstance(item, BaseException):  # one crop must not end the batch
             print(f"  FAILED: {item!r}", flush=True)
             failed += 1
-            continue
-        key, text = item
-        (READS / f"{key}.txt").write_text(text, encoding="utf-8")
     print(
         f"done: {len(todo) - failed} read, {failed} failed → {READS}",
         flush=True,

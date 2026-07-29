@@ -10,18 +10,18 @@ Apple Silicon; MPS is flaky for this VLM); a CUDA box sets
 LIGHTON_DEVICE=cuda for bf16.
 
 Same decode policy as the pod kit: greedy, repetition_penalty 1.15,
-no_repeat_ngram 12, token budget scaled to the crop AREA, and a
-completeness check (the last content words of `expect` must appear in
-the read) with 2x/4x budget retries. Resume-safe: an existing read
-that passes the check is skipped, so a re-run only redoes genuine
-failures.
+no_repeat_ngram 12, token budget scaled to the crop AREA (or the
+entry's own `decode` settings on a retry crop). ONE attempt per entry —
+whether a read is good enough is decided locally by the compare
+stage's guards, and a discarded read comes back as a `__retry` entry
+in a later bundle. Resume-safe: an existing read is skipped, and a
+failed crop writes nothing, so a re-run redoes exactly the failures.
 """
 
 from __future__ import annotations
 
 import json
 import os
-import re
 import sys
 import tempfile
 import time
@@ -40,8 +40,6 @@ REP_PENALTY = 1.15
 NO_REPEAT_NGRAM = 12
 TOKENS_PER_PX = 1 / 500  # tokens per crop pixel (generous headroom)
 MIN_TOKENS, MAX_TOKENS = 128, 1024
-HARD_CAP = 2048  # absolute ceiling when growing the budget
-TAIL_WORDS = 4  # completeness = last N content words present
 MIN_SIDE = 64  # px; smaller crops are scaled up, see _readable
 
 _state: dict = {}
@@ -66,18 +64,6 @@ def _load() -> None:
 
 def _budget(area: float) -> int:
     return max(MIN_TOKENS, min(MAX_TOKENS, int(area * TOKENS_PER_PX)))
-
-
-def _complete(text: str, expect: str) -> bool:
-    """Do the last content words of the main engine's reading appear in
-    the read? (Repetition/truncation guard — never a hint to the
-    model.) No expectation means nothing to check."""
-    words = re.findall(r"[A-Za-z0-9]+", expect or "")
-    if not words:
-        return True
-    tail = words[-TAIL_WORDS:]
-    got = set(re.findall(r"[A-Za-z0-9]+", text))
-    return all(w in got for w in tail)
 
 
 def _readable(png: Path, scratch: Path) -> Path:
@@ -179,7 +165,11 @@ def main() -> None:
             print(f"[{n}] FAILED {key}: {exc!r}", flush=True)
             failed += 1
             continue  # no read written, so a re-run retries this crop
-        out.write_text(text, encoding="utf-8")
+        # atomic: resume reads "file exists" as "crop done", so a killed
+        # run must never leave a truncated read to be skipped forever
+        tmp = out.with_name(out.name + ".part")
+        tmp.write_text(text, encoding="utf-8")
+        os.replace(tmp, out)
         done += 1
         if done % 10 == 0 or n == len(entries):
             rate = (time.time() - t0) / max(done, 1)

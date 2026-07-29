@@ -28,6 +28,12 @@
 # Sharded work needs no merge step: the children write into the same out/, and
 # their page slices are disjoint by construction.
 
+# The caller's own CLI args, captured at source time (sourcing with no args
+# leaves the caller's positional parameters in place). A child is re-invoked
+# with THESE — inside gpu_fanout, "$@" would be the function's own args (the
+# label), and lighton's `bash run.sh full` must stay `full` in every worker.
+_FANOUT_ARGS=("$@")
+
 # Package the output ONCE. A kit sets OUT_DIR and TAR before fanning out, so
 # the parent can do this after its children finish; a single-worker run calls it
 # at the end of run.sh instead. The macOS-artifact excludes match pack.sh —
@@ -95,7 +101,7 @@ gpu_fanout() {
       SKIP_DEPS="$([[ "$i" -gt 0 ]] && echo 1 || echo "${SKIP_DEPS:-0}")" \
       NO_TAR=1 \
       _FANOUT_CHILD=1 \
-        bash "$self" "$@" > "$log" 2>&1
+        bash "$self" ${_FANOUT_ARGS[@]+"${_FANOUT_ARGS[@]}"} > "$log" 2>&1
     ) &
     pids+=("$!")
   done

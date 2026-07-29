@@ -1,0 +1,145 @@
+{% extends "viewer/base.html" %}
+
+{% block title %}compare · {{ page_id }} · Case Law Extraction{% endblock %}
+
+{% block header %}
+<form method="get" x-data="comparePicker"
+      class="flex flex-wrap items-center gap-2 text-sm"
+      aria-label="Combinations to compare">
+  <span class="text-neutral-500">compare</span>
+  <select name="a" x-on:change="pick"
+          {% if restore.a %}data-restore="true"{% endif %}
+          class="rounded-md border border-neutral-300 bg-white px-2 py-1"
+          aria-label="First combination">
+    {% for o in route_options %}
+      <option value="{{ o.value }}" {% if o.value == sel.a %}selected{% endif %}>{{ o.label }}</option>
+    {% endfor %}
+  </select>
+  <span class="text-neutral-500">vs</span>
+  <select name="b" x-on:change="pick"
+          {% if restore.b %}data-restore="true"{% endif %}
+          class="rounded-md border border-neutral-300 bg-white px-2 py-1"
+          aria-label="Second combination">
+    {% for o in route_options %}
+      <option value="{{ o.value }}" {% if o.value == sel.b %}selected{% endif %}>{{ o.label }}</option>
+    {% endfor %}
+  </select>
+</form>
+<div class="ml-auto flex items-center gap-2 text-sm" x-data="pageNav">
+  {% if prev_url %}
+    <a href="{{ prev_url }}" class="rounded-md border border-neutral-300 px-2 py-1 text-neutral-700">←</a>
+  {% endif %}
+  <select x-on:change="go"
+          class="rounded-md border border-neutral-300 bg-white px-2 py-1"
+          aria-label="Page">
+    {% for p in page_options %}
+      <option value="{{ p.url }}" {% if p.selected %}selected{% endif %}>
+        {{ p.id }}
+      </option>
+    {% endfor %}
+  </select>
+  <span class="text-neutral-500">{{ pos }}</span>
+  {% if next_url %}
+    <a href="{{ next_url }}" class="rounded-md border border-neutral-300 px-2 py-1 text-neutral-700">→</a>
+  {% endif %}
+</div>
+{% endblock %}
+
+{% block content %}
+<div x-data="compareView">
+  <div class="mb-3 flex flex-wrap items-center gap-x-5 gap-y-2 rounded-lg border border-neutral-200 bg-white px-4 py-2 text-sm">
+    {% if same_route %}
+      <span class="text-neutral-600">
+        Both sides show the same combination — pick two different ones
+        to see where their finals disagree.
+      </span>
+    {% else %}
+      <c-layer-toggle prop="showText" toggle="toggleText"
+                      label="plain-text diffs" count="{{ n_diff_runs }} span{{ n_diff_runs|pluralize }}"
+                      chip="border-sky-400 bg-amber-100" />
+      <c-layer-toggle prop="showStyle" toggle="toggleStyle"
+                      label="styling diffs" count="{{ n_style_runs }} span{{ n_style_runs|pluralize }}"
+                      chip="border-dotted border-violet-600" />
+      <c-layer-toggle prop="showLowConf" toggle="toggleLowConf"
+                      label="low confidence" count="{{ n_low_conf }} dispute{{ n_low_conf|pluralize }}"
+                      chip="border-rose-600 bg-rose-100" />
+      {% if not n_diff_runs and not n_style_runs %}
+        <span class="font-medium text-emerald-700">
+          The two finals agree on every unit — text and styling.
+        </span>
+      {% else %}
+        <span class="text-xs text-neutral-500">
+          {% for p in panels %}
+            {{ p.label }}: {{ p.n_diff }}/{{ p.n_units }} text ·
+            {{ p.n_style_diff }} styling{% if not forloop.last %} — {% endif %}
+          {% endfor %}
+        </span>
+      {% endif %}
+    {% endif %}
+    <span class="ml-auto text-xs text-neutral-500">
+      plain-text diffs compare the normalized units; styling diffs are
+      units whose text agrees but whose emphasis differs;
+      <mark class="rounded-sm bg-rose-600/15 px-1">low-confidence</mark>
+      spans kept the main reading without a majority (∅ = an engine
+      read extra text that did not win — hover it).
+    </span>
+  </div>
+
+  <div class="grid gap-4 lg:grid-cols-3">
+    {# the rendered page: a third of the width, sticky, zoomable #}
+    <div class="lg:sticky lg:top-14 lg:self-start" x-data="imgZoom">
+      <div class="mb-2 flex items-center gap-2 rounded-lg border border-neutral-200 bg-white px-3 py-2">
+        <span class="text-sm text-neutral-500">{{ page_id }}</span>
+        <div class="ml-auto flex items-center gap-1">
+          <button x-on:click="zoomOut" aria-label="Zoom out"
+                  class="rounded-md border border-neutral-300 px-2 text-neutral-700">−</button>
+          <button x-on:click="zoomReset" aria-label="Reset zoom"
+                  class="rounded-md border border-neutral-300 px-2 text-neutral-700">1×</button>
+          <button x-on:click="zoomIn" aria-label="Zoom in"
+                  class="rounded-md border border-neutral-300 px-2 text-neutral-700">+</button>
+        </div>
+      </div>
+      <div class="max-h-[85vh] overflow-auto rounded-lg border border-neutral-200 bg-neutral-100 p-2">
+        <div class="mx-auto" x-bind:style="wrapStyle">
+          <img src="{{ img_url }}" alt="Redacted render of {{ page_id }}"
+               class="block w-full select-none">
+        </div>
+      </div>
+    </div>
+
+    {% comment %}
+      reconSync: scrolling either final scrolls the other
+      proportionally. Subgrid rows: the two headers share one row
+      height, so the two texts always start at the same line even when
+      only one side carries extra chips.
+    {% endcomment %}
+    <div class="grid gap-4 md:grid-cols-2 md:grid-rows-[auto_1fr] lg:col-span-2"
+         x-bind:class="layerClasses" x-data="reconSync">
+      {% for p in panels %}
+      <section class="rounded-lg border border-neutral-200 bg-white md:row-span-2 md:grid md:grid-rows-subgrid md:gap-0 {% if forloop.first %}diff-left{% else %}diff-right{% endif %}">
+        <header class="flex flex-wrap items-center gap-2 border-b border-neutral-100 px-4 py-2">
+          <h2 class="font-semibold">{{ p.label }}</h2>
+          <span class="rounded px-1.5 py-0.5 text-xs font-medium {% if p.resolver == '3-way vote' %}bg-emerald-600/10 text-emerald-700{% else %}bg-indigo-600/10 text-indigo-700{% endif %}">
+            {{ p.resolver }}
+          </span>
+          {% if p.n_low_conf %}
+            <span class="rounded bg-rose-600/10 px-1.5 py-0.5 text-xs font-medium text-rose-700">
+              {{ p.n_low_conf }} low-confidence
+            </span>
+          {% endif %}
+          <a href="{{ p.walk_url }}"
+             title="open {{ p.route }} in the pipeline flow"
+             class="ml-auto rounded-md border border-indigo-300 px-2 py-0.5 text-xs font-medium text-indigo-700">
+            flow
+          </a>
+        </header>
+        <div x-on:scroll="sync"
+             class="final-doc recon-scroll max-h-[80vh] overflow-auto p-4 text-sm leading-relaxed">
+          {{ p.html|safe }}
+        </div>
+      </section>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endblock %}

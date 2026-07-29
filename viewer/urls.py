@@ -20,6 +20,11 @@ urlpatterns = [
         name="review",
     ),
     path(
+        "compare/<str:dataset>/<str:page>/",
+        views.route_compare,  # type: ignore[arg-type]
+        name="route_compare",
+    ),
+    path(
         "d/<str:dataset>/<str:route>/<str:page>/",
         views.page,  # type: ignore[arg-type]
         name="page",
@@ -33,5 +38,10 @@ urlpatterns = [
         "crop/<str:dataset>/<str:page>/<str:bbox>.png",
         views.crop_img,  # type: ignore[arg-type]
         name="crop_img",
+    ),
+    path(
+        "pagecrop/<str:dataset>/<str:page>/<str:bbox>.png",
+        views.page_crop,  # type: ignore[arg-type]
+        name="page_crop",
     ),
 ]

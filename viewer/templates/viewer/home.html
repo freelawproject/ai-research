@@ -43,9 +43,35 @@
   </p>
 {% endif %}
 
+{% if dataset_options|length > 1 %}
+  <form method="get" x-data="datasetPicker"
+        class="mb-3 flex items-center gap-2 text-sm"
+        aria-label="Dataset to show">
+    <label class="flex items-center gap-2">
+      <span class="text-neutral-500">sample set</span>
+      <select name="dataset" x-on:change="pick"
+              {% if restore_dataset %}data-restore="true"{% endif %}
+              class="rounded-md border border-neutral-300 bg-white px-2 py-1">
+        {% for d in dataset_options %}
+          <option value="{{ d }}" {% if d == sel_dataset %}selected{% endif %}>{{ d }}</option>
+        {% endfor %}
+      </select>
+    </label>
+    <span class="text-xs text-neutral-500">
+      one set loads at a time — its stats come from the on-disk cache
+    </span>
+  </form>
+{% endif %}
+
 {% for s in stats %}
-  <h2 class="mb-2 text-xl font-semibold">
+  <h2 class="mb-2 flex items-baseline gap-3 text-xl font-semibold">
     Route stats — {{ s.dataset }}
+    {% if s.compare_url %}
+      <a href="{{ s.compare_url }}"
+         class="text-sm font-medium text-indigo-700 underline decoration-indigo-300 underline-offset-2">
+        compare two combinations' finals side by side →
+      </a>
+    {% endif %}
   </h2>
   <section class="mb-8 rounded-lg border border-neutral-200 bg-white px-4 py-4">
     <ul class="mb-3 list-disc pl-5 text-sm text-neutral-600">
@@ -152,12 +178,7 @@
                 <td class="py-1 pr-3 text-right">{{ r.disputes }}</td>
                 <td class="py-1 pr-3 text-right font-mono text-xs">{{ r.majority }}/{{ r.disputes }}</td>
                 <td class="py-1 pr-3 text-right font-mono text-xs">{{ r.reorders }}/{{ r.disputes }}</td>
-                <td class="py-1 pr-3 text-right font-mono text-xs">
-                  {{ r.rejected }}/{{ r.disputes }}
-                  {% if r.degraded %}
-                    <span class="font-sans text-amber-700">({{ r.degraded }} pg degraded)</span>
-                  {% endif %}
-                </td>
+                <td class="py-1 pr-3 text-right font-mono text-xs">{{ r.rejected }}/{{ r.disputes }}</td>
                 <td class="py-1 pr-3 text-right font-mono text-xs">{{ r.low_conf }}/{{ r.disputes }}</td>
                 <td class="py-1 pr-3 text-right font-mono text-xs">{{ r.high_risk }}/{{ r.disputes }}</td>
               {% else %}

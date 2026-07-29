@@ -145,6 +145,157 @@ document.addEventListener("alpine:init", () => {
     },
   }));
 
+  // The route-compare selects: picks persist via localStorage. A select
+  // rendered with data-restore="true" (its query param was absent, so the
+  // server filled a default) restores the last-used combination — and the
+  // form resubmits once when that changes what is shown.
+  const LS_COMPARE = "extraction.viewer.compareRoutes";
+  Alpine.data("comparePicker", () => ({
+    init() {
+      let saved = null;
+      try {
+        saved = JSON.parse(localStorage.getItem(LS_COMPARE) || "null");
+      } catch (e) {
+        /* first visit or corrupted state: keep defaults */
+      }
+      if (!saved) return;
+      let changed = false;
+      this.$root
+        .querySelectorAll('select[data-restore="true"]')
+        .forEach((el) => {
+          const value = saved[el.name];
+          if (!value || el.value === value) return;
+          if ([...el.options].some((o) => o.value === value)) {
+            el.value = value;
+            changed = true;
+          }
+        });
+      if (changed) this.$root.submit();
+    },
+
+    pick() {
+      const data = {};
+      this.$root.querySelectorAll("select[name]").forEach((el) => {
+        data[el.name] = el.value;
+      });
+      localStorage.setItem(LS_COMPARE, JSON.stringify(data));
+      this.$root.submit();
+    },
+  }));
+
+  // The home page's dataset selector: one sample set shows at a time;
+  // the pick persists. A select rendered with data-restore="true" (no
+  // ?dataset= param) restores the last-viewed set — and resubmits once
+  // when that changes what is shown.
+  const LS_DATASET = "extraction.viewer.homeDataset";
+  Alpine.data("datasetPicker", () => ({
+    init() {
+      const el = this.$root.querySelector('select[data-restore="true"]');
+      if (!el) return;
+      const saved = localStorage.getItem(LS_DATASET);
+      if (!saved || el.value === saved) return;
+      if ([...el.options].some((o) => o.value === saved)) {
+        el.value = saved;
+        this.$root.submit();
+      }
+    },
+
+    pick(event) {
+      localStorage.setItem(LS_DATASET, event.target.value);
+      this.$root.submit();
+    },
+  }));
+
+  // The route-compare page image: zoom only (no overlay layers here —
+  // those live on the walkthrough).
+  const LS_COMPARE_ZOOM = "extraction.viewer.compareZoom";
+  Alpine.data("imgZoom", () => ({
+    zoom: 100,
+
+    init() {
+      const z = parseInt(localStorage.getItem(LS_COMPARE_ZOOM) || "100", 10);
+      if (z >= 50 && z <= 400) this.zoom = z;
+    },
+
+    persist() {
+      localStorage.setItem(LS_COMPARE_ZOOM, String(this.zoom));
+    },
+
+    zoomIn() {
+      this.zoom = Math.min(400, this.zoom + 25);
+      this.persist();
+    },
+    zoomOut() {
+      this.zoom = Math.max(50, this.zoom - 25);
+      this.persist();
+    },
+    zoomReset() {
+      this.zoom = 100;
+      this.persist();
+    },
+
+    get wrapStyle() {
+      return "width:" + this.zoom + "%";
+    },
+  }));
+
+  // The route-compare highlight layers: plain-text diffs, styling
+  // diffs, and low-confidence marks toggle independently; the panel
+  // wrapper gets one hide-* class per layer turned off.
+  const LS_COMPARE_LAYERS = "extraction.viewer.compareLayers";
+  Alpine.data("compareView", () => ({
+    showText: true,
+    showStyle: true,
+    showLowConf: true,
+
+    init() {
+      try {
+        const saved = JSON.parse(
+          localStorage.getItem(LS_COMPARE_LAYERS) || "{}"
+        );
+        if (typeof saved.text === "boolean") this.showText = saved.text;
+        if (typeof saved.style === "boolean") this.showStyle = saved.style;
+        if (typeof saved.lowConf === "boolean") {
+          this.showLowConf = saved.lowConf;
+        }
+      } catch (e) {
+        /* first visit or corrupted state: keep defaults */
+      }
+    },
+
+    persist() {
+      localStorage.setItem(
+        LS_COMPARE_LAYERS,
+        JSON.stringify({
+          text: this.showText,
+          style: this.showStyle,
+          lowConf: this.showLowConf,
+        })
+      );
+    },
+
+    toggleText() {
+      this.showText = !this.showText;
+      this.persist();
+    },
+    toggleStyle() {
+      this.showStyle = !this.showStyle;
+      this.persist();
+    },
+    toggleLowConf() {
+      this.showLowConf = !this.showLowConf;
+      this.persist();
+    },
+
+    get layerClasses() {
+      const cls = [];
+      if (!this.showText) cls.push("hide-text-diff");
+      if (!this.showStyle) cls.push("hide-style-diff");
+      if (!this.showLowConf) cls.push("hide-low-conf");
+      return cls.join(" ");
+    },
+  }));
+
   // Synced scrolling for the reconstruct card: scrolling any panel scrolls
   // all panels proportionally (top meets top, bottom meets bottom, even
   // when the texts differ in length).

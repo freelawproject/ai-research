@@ -10,12 +10,15 @@ writes); later visits just read it.
 
 from __future__ import annotations
 
+import io
 import json
 import re
+from collections.abc import Callable
 from pathlib import Path
 
 from django.conf import settings
 from django.http import Http404
+from PIL import Image
 
 from pipeline import routes
 from pipeline.core.artifacts import SCHEMA_VERSION, artifact_path
@@ -180,55 +183,126 @@ def _stats_order(route: Route) -> tuple[int, int, str]:
     )
 
 
+def stats_ordered_combos() -> list[Route]:
+    """Every unique combination, in the stats-table display order (the
+    order every combination list in the viewer uses)."""
+    return sorted(routes.all_combos(), key=_stats_order)
+
+
+def built_routes(dataset: str, page: str) -> list[str]:
+    """Names of the combinations whose artifact for a page exists on
+    disk, in display order (existence only — a stale artifact heals
+    when it is loaded)."""
+    root = settings.ARTIFACTS_ROOT / _safe(dataset)
+    return [
+        r.name
+        for r in stats_ordered_combos()
+        if (root / r.name / f"{_safe(page)}.json").exists()
+    ]
+
+
+def _aggregate_route(files: list[Path]) -> dict:
+    """Sum one combination's compare metrics over its artifacts on disk
+    (current schema + registry only, so numbers never mix rule
+    versions)."""
+    pages = disputes = majority = low_conf = high_risk = rejected = 0
+    degraded = main_blocks = reorders = 0
+    for f in files:
+        try:
+            doc: dict = json.loads(f.read_text(encoding="utf-8"))
+        except ValueError:
+            continue
+        cmp = doc.get("stages", {}).get("compare")
+        if not _current(doc) or not cmp:
+            continue
+        pages += 1
+        main_blocks += len(doc["stages"]["main_ocr"]["blocks"])
+        m = cmp["metrics"]
+        disputes += m["n_disputes"]
+        majority += m["by_resolution"].get("majority", 0)
+        reorders += m["by_resolution"].get("reorder", 0)
+        low_conf += m["n_low_confidence"]
+        high_risk += m["n_high_risk"]
+        rejected += sum(m["by_reason"].get(r, 0) for r in _REJECT_REASONS)
+        if cmp["degraded"]:
+            degraded += 1
+    return {
+        "pages": pages,
+        "main_blocks": main_blocks,
+        "disputes": disputes,
+        "majority": majority,
+        "reorders": reorders,
+        "low_conf": low_conf,
+        "high_risk": high_risk,
+        "rejected": rejected,
+        "degraded": degraded,
+    }
+
+
+# Aggregating a large set re-reads every artifact, so per-route values
+# are cached next to the artifacts, keyed on (file count, newest
+# mtime) — a fresh process never re-parses an unchanged route dir.
+
+
+def _per_route_cached(
+    dataset: str,
+    cache_name: str,
+    compute: Callable[[Route, list[Path]], object],
+) -> dict[str, object]:
+    """One computed value per route dir, from the named disk cache;
+    recomputed only for dirs whose signature changed."""
+    ds_root = settings.ARTIFACTS_ROOT / _safe(dataset)
+    cache_f = ds_root / cache_name
+    try:
+        cache: dict = json.loads(cache_f.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        cache = {}
+    changed = False
+    out: dict[str, object] = {}
+    for route in stats_ordered_combos():
+        d = ds_root / route.name
+        files = sorted(d.glob("*.json")) if d.is_dir() else []
+        sig = [
+            len(files),
+            max((f.stat().st_mtime for f in files), default=0.0),
+        ]
+        entry = cache.get(route.name)
+        if entry and entry.get("sig") == sig:
+            out[route.name] = entry["value"]
+        else:
+            value = compute(route, files)
+            cache[route.name] = {"sig": sig, "value": value}
+            out[route.name] = value
+            changed = True
+    if changed and ds_root.is_dir():
+        tmp = cache_f.with_suffix(".tmp")
+        tmp.write_text(json.dumps(cache), encoding="utf-8")
+        tmp.replace(cache_f)
+    return out
+
+
+_STATS_CACHE = ".stats_cache.json"
+
+
 def route_stats(dataset: str) -> list[dict]:
     """Compare + resolve aggregates for every unique combination over the
-    pages built on disk (current schema + registry only, so the
-    numbers never mix rule versions). Counts are per dispute (the
+    pages built on disk. Counts are per dispute (the
     table shows them as numerator/denominator): majority-resolved,
     low-confidence, high-risk (low-confidence with disputed text over
     the char threshold), and rejection/refusal (the resolver could not
     vote). A combination nobody has built yet reports pages=0."""
-    ds_root = settings.ARTIFACTS_ROOT / _safe(dataset)
+    counts = _per_route_cached(
+        dataset, _STATS_CACHE, lambda route, files: _aggregate_route(files)
+    )
     rows = []
-    for route in sorted(routes.all_combos(), key=_stats_order):
-        d = ds_root / route.name
-        files = sorted(d.glob("*.json")) if d.is_dir() else []
-        pages = disputes = majority = low_conf = high_risk = rejected = 0
-        degraded = main_blocks = reorders = 0
-        for f in files:
-            try:
-                doc: dict = json.loads(f.read_text(encoding="utf-8"))
-            except ValueError:
-                continue
-            cmp = doc.get("stages", {}).get("compare")
-            if not _current(doc) or not cmp:
-                continue
-            pages += 1
-            main_blocks += len(doc["stages"]["main_ocr"]["blocks"])
-            m = cmp["metrics"]
-            disputes += m["n_disputes"]
-            majority += m["by_resolution"].get("majority", 0)
-            reorders += m["by_resolution"].get("reorder", 0)
-            low_conf += m["n_low_confidence"]
-            high_risk += m["n_high_risk"]
-            rejected += sum(m["by_reason"].get(r, 0) for r in _REJECT_REASONS)
-            if cmp["degraded"]:
-                degraded += 1
+    for route in stats_ordered_combos():
         m1, m2, m3 = routes.slugs(route)
         rows.append(
             {
                 "route": route.name,
                 "engines": [m1, m2, m3],
                 "tiebreak": route.tiebreak is not None,
-                "pages": pages,
-                "main_blocks": main_blocks,
-                "disputes": disputes,
-                "majority": majority,
-                "reorders": reorders,
-                "low_conf": low_conf,
-                "high_risk": high_risk,
-                "rejected": rejected,
-                "degraded": degraded,
+                **counts[route.name],  # type: ignore[dict-item]
             }
         )
     return rows
@@ -277,44 +351,83 @@ REVIEW_CATEGORIES: dict[str, dict] = {
 }
 
 
-def review_disputes(dataset: str, category: str) -> list[dict]:
-    """Every dispute of a review category on disk for a dataset
-    (current schema + registry only), in the stats-table order — feeds
-    the review pages behind the stats table's column headers."""
+# The review pages' cache: every FLAGGED dispute (anything short of a
+# clean majority — every review category selects from these).
+_REVIEW_CACHE = ".review_cache.json"
+
+
+def _flagged_from_files(route: routes.Route, files: list[Path]) -> list[dict]:
+    out: list[dict] = []
+    for f in sorted(files, key=lambda p: _page_key(p.stem)):
+        try:
+            doc: dict = json.loads(f.read_text(encoding="utf-8"))
+        except ValueError:
+            continue
+        cmp = doc.get("stages", {}).get("compare")
+        if not _current(doc) or not cmp:
+            continue
+        for disp in cmp["disputes"]:
+            if disp["resolution"] == "majority" and not disp["low_confidence"]:
+                continue
+            out.append(
+                {
+                    "route": route.name,
+                    "engines": list(routes.slugs(route)),
+                    "tiebreak": route.tiebreak is not None,
+                    "page": doc["page"],
+                    "streams": cmp["streams"],
+                    "dispute": disp,
+                }
+            )
+    return out
+
+
+def flagged_disputes(dataset: str) -> list[dict]:
+    """Every flagged dispute of a dataset (reorders, fallbacks,
+    authoritative keeps, low-confidence — the review categories filter
+    these), in stats-table order, cached on disk per route dir."""
+    per_route = _per_route_cached(dataset, _REVIEW_CACHE, _flagged_from_files)
+    out: list[dict] = []
+    for route in stats_ordered_combos():
+        out += per_route[route.name]  # type: ignore[arg-type]
+    return out
+
+
+def review_disputes(
+    dataset: str, category: str, route: str | None = None
+) -> list[dict]:
+    """Every dispute of a review category (optionally one combination
+    only), in the stats-table order — feeds the review pages behind
+    the stats table's column headers."""
     meta = REVIEW_CATEGORIES.get(category)
     if meta is None:
         raise Http404(f"no review category {category}")
     predicate = meta["predicate"]
-    ds_root = settings.ARTIFACTS_ROOT / _safe(dataset)
-    out: list[dict] = []
-    for route in sorted(routes.all_combos(), key=_stats_order):
-        d = ds_root / route.name
-        if not d.is_dir():
-            continue
-        for f in sorted(d.glob("*.json"), key=lambda p: _page_key(p.stem)):
-            try:
-                doc: dict = json.loads(f.read_text(encoding="utf-8"))
-            except ValueError:
-                continue
-            cmp = doc.get("stages", {}).get("compare")
-            if not _current(doc) or not cmp:
-                continue
-            for disp in cmp["disputes"]:
-                if predicate(disp):
-                    out.append(
-                        {
-                            "route": route.name,
-                            "engines": list(routes.slugs(route)),
-                            "tiebreak": route.tiebreak is not None,
-                            "page": doc["page"],
-                            "streams": cmp["streams"],
-                            "dispute": disp,
-                        }
-                    )
-    return out
+    return [
+        e
+        for e in flagged_disputes(dataset)
+        if predicate(e["dispute"]) and (route is None or e["route"] == route)
+    ]
 
 
 _BBOX_RE = re.compile(r"^\d{1,5}_\d{1,5}_\d{1,5}_\d{1,5}$")
+
+
+def page_crop_png(dataset: str, page: str, bbox: str) -> bytes:
+    """A crop of the canonical page render, by bbox key ("x0_y0_x1_y1")
+    — how the viewer fulfills the final HTML's <figure data-bbox>
+    image placeholders. The bbox is clamped to the image bounds."""
+    if not _BBOX_RE.match(bbox):
+        raise Http404(bbox)
+    x0, y0, x1, y1 = (int(c) for c in bbox.split("_"))
+    with Image.open(page_png_path(dataset, page)) as im:
+        left = max(0, min(x0, im.width - 1))
+        top = max(0, min(y0, im.height - 1))
+        right = min(im.width, max(x1, left + 1))
+        bottom = min(im.height, max(y1, top + 1))
+        buf = io.BytesIO()
+        im.crop((left, top, right, bottom)).save(buf, format="PNG")
+    return buf.getvalue()
 
 
 def lighton_crop_png(dataset: str, page: str, bbox: str) -> Path | None:

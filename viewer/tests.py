@@ -2,22 +2,27 @@
 the distributed data bundle, so they pass in CI). Each TestCase builds its
 own tree in setUpClass and points settings at it."""
 
+import io
 import json
 import shutil
+import tarfile
 import tempfile
 from pathlib import Path
 
 import fitz
+from django.core.management import call_command
 from django.test import SimpleTestCase, override_settings
 from PIL import Image
 
+from pipeline.core import assemble
 from pipeline.core.artifacts import SCHEMA_VERSION
 from pipeline.core.normalize import registry_hash
 from pipeline.routes import resolve
 from pipeline.run import run_route
 from viewer import data
+from viewer.views import _diff_flags
 
-_ARTIFACT = {
+_ARTIFACT: dict = {
     "schema_version": SCHEMA_VERSION,
     "dataset": "tiny",
     "page": "rep.1.1__p0",
@@ -172,11 +177,13 @@ _ARTIFACT = {
                             "item": 0,
                             "span": [0, 5],
                         },
+                        # the token the fixture's dispute substitutes
+                        # into the final (verdict: supp1)
                         {
-                            "display": "world",
-                            "key": "world",
+                            "display": "word",
+                            "key": "word",
                             "item": 0,
-                            "span": [6, 11],
+                            "span": [6, 10],
                         },
                     ],
                     "rules": [
@@ -263,6 +270,14 @@ _ARTIFACT = {
         },
     },
 }
+# the assemble record is the REAL pipeline function over the fixture's
+# stages, so the fixture can never drift from what run.py writes
+_ARTIFACT["stages"]["assemble"] = assemble.assemble_page(
+    _ARTIFACT["stages"]["normalize"],
+    _ARTIFACT["stages"]["compare"],
+    _ARTIFACT["stages"]["reconstruct"],
+    _ARTIFACT["stages"]["main_ocr"]["blocks"],
+)
 
 
 class DataTreeTestCase(SimpleTestCase):
@@ -367,6 +382,15 @@ class ViewerViewsTest(DataTreeTestCase):
                 "voted": 0,
             },
         }
+        # this route's main styles its first unit — the same text as the
+        # other route, so route-compare sees a STYLING diff there
+        hr["stages"]["normalize"]["main"]["tokens"][0]["styling"] = ["em"]
+        hr["stages"]["assemble"] = assemble.assemble_page(
+            hr["stages"]["normalize"],
+            hr_cmp,
+            hr["stages"]["reconstruct"],
+            hr["stages"]["main_ocr"]["blocks"],
+        )
         hr_art = tmp / "artifacts" / "tiny" / "dots+surya_block+lighton"
         hr_art.mkdir(parents=True)
         (hr_art / "rep.1.1__p0.json").write_text(json.dumps(hr))
@@ -660,6 +684,282 @@ class ViewerViewsTest(DataTreeTestCase):
         )
         self.assertContains(response, "OpenRAIL-M")
 
+    def test_assemble_card_renders_the_final(self) -> None:
+        response = self.client.get("/d/tiny/dots+mistral+lighton/rep.1.1__p0/")
+        self.assertContains(response, "Assemble")
+        # the dispute's winning supplemental reading is IN the final
+        self.assertContains(
+            response,
+            '<p data-item="0" data-role="content">Hello word</p>',
+            html=False,
+        )
+        # and the card links into the route-compare view
+        self.assertContains(
+            response, "/compare/tiny/rep.1.1__p0/?a=dots%2Bmistral%2Blighton"
+        )
+
+    def test_assemble_card_marks_low_confidence(self) -> None:
+        response = self.client.get(
+            "/d/tiny/dots+surya_block+lighton/rep.1.1__p0/"
+        )
+        self.assertContains(
+            response,
+            '<mark class="low-confidence high-risk" data-dispute="0">'
+            "<em>Hello</em></mark>",
+            html=False,
+        )
+
+    def test_route_compare_highlights_the_differences(self) -> None:
+        response = self.client.get(
+            "/compare/tiny/rep.1.1__p0/"
+            "?a=dots+mistral+lighton&b=dots+surya_block+lighton"
+        )
+        self.assertEqual(response.status_code, 200)
+        # the finals differ on their second unit: word vs world
+        self.assertContains(
+            response, '<span class="route-diff">word</span>', html=False
+        )
+        # "Hello" agrees as text on both sides but only one styles it —
+        # a STYLING diff, not a text diff; the low-confidence mark
+        # survives into the compare panel
+        self.assertContains(
+            response,
+            '<span class="style-diff">'
+            '<mark class="low-confidence high-risk" data-dispute="0">'
+            "<em>Hello</em></mark></span> "
+            '<span class="route-diff">world</span>',
+            html=False,
+        )
+        self.assertContains(
+            response, '<span class="style-diff">Hello</span>', html=False
+        )
+        # each highlight dimension is its own toggle
+        self.assertContains(response, "plain-text diffs")
+        self.assertContains(response, "styling diffs")
+        self.assertContains(response, "low confidence")
+
+    def test_route_compare_shows_the_zoomable_page_image(self) -> None:
+        response = self.client.get("/compare/tiny/rep.1.1__p0/")
+        self.assertContains(response, "/img/tiny/rep.1.1__p0.png")
+        self.assertContains(response, 'x-data="imgZoom"')
+        self.assertContains(response, 'aria-label="Zoom in"')
+        # subgrid rows: the panel headers share one height, so the two
+        # texts start on the same line
+        self.assertContains(response, "md:grid-rows-subgrid")
+
+    def test_no_template_comment_leaks(self) -> None:
+        # a multi-line {# #} renders literally (Django's {# #} is
+        # single-line only — a recurring regression)
+        for url in (
+            "/",
+            "/d/tiny/dots+mistral+lighton/rep.1.1__p0/",
+            "/compare/tiny/rep.1.1__p0/",
+            "/review/tiny/high-risk/",
+        ):
+            self.assertNotContains(self.client.get(url), "{#")
+
+    def test_route_compare_defaults_to_built_combinations(self) -> None:
+        # no params: both sides fall back to combinations already on
+        # disk for this page (never a rebuild of an unbuilt one)
+        response = self.client.get("/compare/tiny/rep.1.1__p0/")
+        self.assertEqual(response.status_code, 200)
+        self.assertContains(response, "dots + mistral + lighton")
+        self.assertContains(response, "dots + surya block + lighton")
+
+    def test_route_compare_rejects_unknown_routes(self) -> None:
+        response = self.client.get(
+            "/compare/tiny/rep.1.1__p0/?a=dots+nope+lighton"
+        )
+        self.assertEqual(response.status_code, 404)
+        response = self.client.get("/compare/tiny/rep.9.9__p77/")
+        self.assertEqual(response.status_code, 404)
+
+    def test_route_compare_same_route_note(self) -> None:
+        response = self.client.get(
+            "/compare/tiny/rep.1.1__p0/"
+            "?a=dots+mistral+lighton&b=dots+mistral+lighton"
+        )
+        self.assertContains(response, "Both sides show the same combination")
+
+    def test_home_links_the_compare_view(self) -> None:
+        response = self.client.get("/")
+        self.assertContains(response, "/compare/tiny/rep.1.1__p0/")
+
+    def test_home_unknown_dataset_falls_back(self) -> None:
+        response = self.client.get("/?dataset=nope")
+        self.assertEqual(response.status_code, 200)
+        self.assertContains(response, "Route stats — tiny")
+
+    def test_review_page_filters_by_combination(self) -> None:
+        # both fixture routes have flagged disputes; the low-conf page
+        # shows chips and honors ?route=
+        response = self.client.get("/review/tiny/low-conf/")
+        self.assertContains(response, "combination:")
+        self.assertContains(response, "all (1)")
+        response = self.client.get(
+            "/review/tiny/low-conf/?route=dots+surya_block+lighton"
+        )
+        self.assertContains(response, "goodbye friend")
+        response = self.client.get(
+            "/review/tiny/low-conf/?route=dots+mistral+lighton"
+        )
+        self.assertNotContains(response, "goodbye friend")
+        self.assertContains(response, "Nothing in this category.")
+
+
+class ExportIngestTest(DataTreeTestCase):
+    """The LightOn round trip: a dispute with no cached read exports its
+    crop bundle (the lighton pod kit's input contract), the read comes
+    back in a tarball, ingest_reads lands it in the cache, and the
+    rebuilt artifact votes."""
+
+    @classmethod
+    def build_tree(cls, tmp: Path) -> None:
+        ds = tmp / "datasets" / "lot"
+        flat = ds / "redacted"
+        flat.mkdir(parents=True)
+        doc = fitz.open()
+        doc.new_page(width=612, height=792)
+        doc.save(str(flat / "rep.9.9__page_001.pdf"))
+        doc.close()
+        (ds / "page_png").mkdir(parents=True)
+        Image.new("RGB", (1700, 2200), "white").save(
+            ds / "page_png" / "rep.9.9__page_001.png"
+        )
+        engines = ds / "engines"
+        (engines / "container_yolo").mkdir(parents=True)
+        (engines / "container_yolo" / "rep.9.9__page_001.json").write_text(
+            json.dumps(
+                [
+                    {
+                        "label": "column",
+                        "bbox": [100, 100, 1600, 2100],
+                        "confidence": 0.95,
+                    }
+                ]
+            )
+        )
+        (engines / "dots").mkdir(parents=True)
+        (engines / "dots" / "rep.9.9__page_001.json").write_text(
+            json.dumps(
+                {
+                    "text": "hello world again today okay",
+                    "regions": [
+                        {
+                            "order": 0,
+                            "label": "Text",
+                            "bbox": [120, 120, 900, 200],
+                            "text": "hello world again today okay",
+                        }
+                    ],
+                }
+            )
+        )
+        (engines / "mistral").mkdir(parents=True)
+        # the whole-response shape, and a reading that disputes "world"
+        (engines / "mistral" / "rep.9.9__page_001.json").write_text(
+            json.dumps(
+                {
+                    "markdown": "hello wield again today okay",
+                    "blocks": [
+                        {
+                            "type": "text",
+                            "bbox": [120, 120, 900, 200],
+                            "text": "hello wield again today okay",
+                        }
+                    ],
+                }
+            )
+        )
+
+    def test_flat_export_ingest_revote_round_trip(self) -> None:
+        out = io.StringIO()
+        bundle = self.tmp / "bundle"
+        call_command(
+            "export_crops",
+            dataset="lot",
+            route=["dots+mistral+lighton"],
+            out=bundle,
+            stdout=out,
+        )
+        key = "rep.9.9__page_001_120_120_900_200"
+        manifest = (bundle / "manifest.jsonl").read_text().strip()
+        entry = json.loads(manifest)
+        self.assertEqual(entry["key"], key)
+        self.assertEqual(entry["expect"], "hello world again today okay")
+        self.assertTrue((bundle / "crops" / f"{key}.png").exists())
+        crops_cache = (
+            self.tmp / "datasets" / "lot" / "engines" / "lighton_crops"
+        )
+        self.assertTrue((crops_cache / f"{key}.png").exists())
+        # before the read arrives the dispute is an honest no-vote
+        artifact = json.loads(
+            (
+                self.tmp
+                / "artifacts"
+                / "lot"
+                / "dots+mistral+lighton"
+                / "rep.9.9__page_001.json"
+            ).read_text()
+        )
+        d = artifact["stages"]["compare"]["disputes"][0]
+        self.assertEqual(d["reason"], "no-cached-read")
+
+        # the pod's reads come back as a tarball of reads/<key>.txt
+        reads = self.tmp / "reads"
+        reads.mkdir()
+        (reads / f"{key}.txt").write_text("hello world again today okay")
+        tar_path = self.tmp / "lighton_reads_lot.tar.gz"
+        with tarfile.open(tar_path, "w:gz") as tar:
+            tar.add(reads / f"{key}.txt", arcname=f"reads/{key}.txt")
+        call_command(
+            "ingest_reads", tar_path, dataset="lot", stdout=io.StringIO()
+        )
+        self.assertTrue((crops_cache / f"{key}.txt").exists())
+
+        run_route(self.tmp, "lot", resolve("dots+mistral+lighton"))
+        artifact = json.loads(
+            (
+                self.tmp
+                / "artifacts"
+                / "lot"
+                / "dots+mistral+lighton"
+                / "rep.9.9__page_001.json"
+            ).read_text()
+        )
+        d = artifact["stages"]["compare"]["disputes"][0]
+        self.assertEqual(d["resolution"], "majority")
+        self.assertEqual(d["verdict"], "main")  # lighton sided with dots
+        self.assertIn("world", artifact["stages"]["assemble"]["text"])
+
+
+class DiffFlagsTest(SimpleTestCase):
+    """Route-compare flags text and styling as separate dimensions."""
+
+    def test_dimensions_flag_separately(self) -> None:
+        a = [
+            {"key": "one", "styling": []},
+            {"key": "two", "styling": ["em"]},
+            {"key": "three", "styling": []},
+        ]
+        b = [
+            {"key": "one", "styling": []},
+            {"key": "two", "styling": []},
+            {"key": "tres", "styling": []},
+        ]
+        text_runs, style_runs = _diff_flags(a, b)
+        self.assertEqual((text_runs, style_runs), (1, 1))
+        # "two": same text, different styling — styling dimension only
+        self.assertTrue(a[1].get("style_diff"))
+        self.assertTrue(b[1].get("style_diff"))
+        self.assertFalse(a[1].get("diff"))
+        # "three"/"tres": text dimension only
+        self.assertTrue(a[2].get("diff"))
+        self.assertTrue(b[2].get("diff"))
+        self.assertFalse(a[2].get("style_diff"))
+        # agreeing units carry no flags
+        self.assertFalse(a[0].get("diff") or a[0].get("style_diff"))
+
 
 class PipelineToViewerContractTest(DataTreeTestCase):
     """End-to-end seam test: pipeline.run builds a REAL artifact over a
@@ -705,7 +1005,15 @@ class PipelineToViewerContractTest(DataTreeTestCase):
                             "label": "Text",
                             "bbox": [120, 120, 900, 200],
                             "text": "hello *world*",
-                        }
+                        },
+                        # an image block: the final renders its region
+                        # as an inline crop of the page render
+                        {
+                            "order": 1,
+                            "label": "Picture",
+                            "bbox": [120, 300, 500, 600],
+                            "text": "",
+                        },
                     ],
                 }
             )
@@ -775,6 +1083,40 @@ class PipelineToViewerContractTest(DataTreeTestCase):
         self.assertEqual(cmp["params"]["gate_min_chars"], 10)
         self.assertContains(response, "Compare + resolve")
         self.assertContains(response, "The streams agree")
+        # assemble: the final carries the styling union (mistral's
+        # <strong> joins dots' <em> on the agreeing unit)
+        asm = artifact["stages"]["assemble"]
+        self.assertEqual(asm["text"], "hello world")
+        self.assertIn("<em><strong>world</strong></em>", asm["html"])
+        self.assertEqual(asm["metrics"]["units"], 2)
+        self.assertEqual(asm["metrics"]["styling_unioned"], 1)
+        self.assertContains(response, "Assemble")
+        # the artifact keeps the image placeholder EMPTY (viewer-
+        # agnostic); the walkthrough fills it from the page-crop
+        # endpoint
+        self.assertIn(
+            '<figure data-item="1" data-bbox="120,300,500,600"></figure>',
+            asm["html"],
+        )
+        self.assertContains(
+            response, "/pagecrop/e2e/rep.9.9__p0/120_300_500_600.png"
+        )
+        crop = self.client.get("/pagecrop/e2e/rep.9.9__p0/120_300_500_600.png")
+        self.assertEqual(crop.status_code, 200)
+        self.assertEqual(crop["Content-Type"], "image/png")
+        self.assertEqual(
+            self.client.get("/pagecrop/e2e/rep.9.9__p0/oops.png").status_code,
+            404,
+        )
+        # and the route-compare view renders the same artifact
+        compare_page = self.client.get(
+            "/compare/e2e/rep.9.9__p0/"
+            "?a=dots+mistral+lighton&b=dots+mistral+lighton"
+        )
+        self.assertEqual(compare_page.status_code, 200)
+        self.assertContains(
+            compare_page, "Both sides show the same combination"
+        )
 
     def test_corrupt_artifact_self_heals(self) -> None:
         # a torn/half-written file rebuilds on the next visit instead of

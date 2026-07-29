@@ -1,3 +1,5 @@
+import difflib
+from collections.abc import Callable
 from urllib.parse import urlencode
 
 from django.http import FileResponse, Http404, HttpRequest, HttpResponse
@@ -6,6 +8,7 @@ from django.template.response import TemplateResponse
 from django.urls import reverse
 
 from pipeline import routes
+from pipeline.core import assemble
 from pipeline.core.config import RENDER_H, RENDER_W
 from viewer import data
 from viewer.info import ENGINE_INFO
@@ -84,6 +87,27 @@ def _selector_ctx(sel: tuple[str, str, str]) -> dict:
     }
 
 
+def _plus_param(request: HttpRequest, name: str) -> str:
+    """A route-name query param: a hand-typed "?a=dots+mistral+lighton"
+    decodes its +'s as spaces — route names never contain spaces, so
+    undo that."""
+    return request.GET.get(name, "").replace(" ", "+")
+
+
+def _pager(pages: list[str], page: str, url_of: Callable[[str], str]) -> dict:
+    """Page navigation context (select options, position, prev/next)
+    shared by the walkthrough and the route-compare view."""
+    idx = pages.index(page) if page in pages else 0
+    return {
+        "page_options": [
+            {"id": p, "url": url_of(p), "selected": p == page} for p in pages
+        ],
+        "pos": f"{idx + 1}/{len(pages)}",
+        "prev_url": url_of(pages[idx - 1]) if idx > 0 else None,
+        "next_url": url_of(pages[idx + 1]) if idx + 1 < len(pages) else None,
+    }
+
+
 def _pct_style(bbox: list[float]) -> str:
     left = 100 * bbox[0] / RENDER_W
     top = 100 * bbox[1] / RENDER_H
@@ -119,28 +143,46 @@ def _boxes(
 
 
 async def home(request: HttpRequest) -> HttpResponse:
-    """Landing page: one door into the pipeline flow, the per-route
-    compare + resolve stats for every composable combination, and the
-    model/architecture reference. Dataset, models, and page are all
-    picked on the flow page itself."""
+    """Landing page: one door into the pipeline flow, the SELECTED
+    dataset's per-combination compare + resolve stats (cached on disk —
+    one set loads at a time), and the model/architecture reference.
+    Models and page are picked on the flow page itself."""
     names = data.dataset_names()
+    sel = request.GET.get("dataset", "")
+    restore = not sel  # no explicit pick: the browser may restore one
+    if sel not in names:
+        sel = names[0] if names else ""
     stats = []
-    for name in names:
-        pages = data.dataset_pages(name)
-        rows = data.route_stats(name)
+    if sel:
+        pages = data.dataset_pages(sel)
+        rows = data.route_stats(sel)
         for r in rows:
             r["url"] = (
-                reverse("page", args=[name, r["route"], pages[0]])
+                reverse("page", args=[sel, r["route"], pages[0]])
                 if pages
                 else None
             )
             r["engine_labels"] = [_pretty(s) for s in r["engines"]]
-        stats.append({"dataset": name, "n_pages": len(pages), "rows": rows})
+        stats.append(
+            {
+                "dataset": sel,
+                "n_pages": len(pages),
+                "rows": rows,
+                "compare_url": (
+                    reverse("route_compare", args=[sel, pages[0]])
+                    if pages
+                    else None
+                ),
+            }
+        )
     return TemplateResponse(
         request,
         "viewer/home.html",
         {
             "has_datasets": bool(names),
+            "dataset_options": names,
+            "sel_dataset": sel,
+            "restore_dataset": restore,
             "stats": stats,
             "engine_info": ENGINE_INFO,
             "error": request.GET.get("error", ""),
@@ -152,15 +194,39 @@ async def review(
     request: HttpRequest, dataset: str, category: str
 ) -> HttpResponse:
     """The review pages behind the stats table's column headers: every
-    dispute of one category, across all combinations of a dataset.
-    Each entry links to the walkthrough page holding its dispute
-    card."""
+    dispute of one category, filterable by combination. Each entry
+    links to the walkthrough page holding its dispute card."""
     meta = data.REVIEW_CATEGORIES.get(category)
     if meta is None:
         raise Http404(f"no review category {category}")
     title, description = meta["title"], meta["description"]
+    sel_route = _plus_param(request, "route")
+    all_entries = data.review_disputes(dataset, category)
+    counts: dict[str, int] = {}
+    for e in all_entries:
+        counts[e["route"]] = counts.get(e["route"], 0) + 1
+    base = reverse("review", args=[dataset, category])
+    chips = [
+        {
+            "label": "all",
+            "count": len(all_entries),
+            "url": base,
+            "active": not sel_route,
+        }
+    ] + [
+        {
+            "label": _combo_label(r),
+            "count": counts.get(r.name, 0),
+            "url": f"{base}?{urlencode({'route': r.name})}",
+            "active": sel_route == r.name,
+        }
+        for r in data.stats_ordered_combos()
+        if counts.get(r.name)
+    ]
     entries = []
-    for e in data.review_disputes(dataset, category):
+    for e in all_entries:
+        if sel_route and e["route"] != sel_route:
+            continue
         label_of = _labels_for(e["streams"])
         d = e["dispute"]
         entries.append(
@@ -186,6 +252,7 @@ async def review(
             "category": category,
             "title": title,
             "description": description,
+            "chips": chips,
             "entries": entries,
         },
     )
@@ -372,6 +439,27 @@ def _compare_ctx(
     }
 
 
+def _asm_ctx(stages: dict, dataset: str, page: str) -> dict | None:
+    """Assemble-card context: the stored record, its html re-rendered
+    with the image placeholders filled from the page-crop endpoint
+    (the artifact itself stays viewer-agnostic)."""
+    asm = stages.get("assemble")
+    if not asm:
+        return None
+    tokens = assemble.final_stream(
+        stages["normalize"], stages["compare"], stages["reconstruct"]
+    )
+    return {
+        **asm,
+        "html": assemble.render_html(
+            tokens,
+            stages["reconstruct"]["main"],
+            stages["main_ocr"]["blocks"],
+            figure_url=_figure_url_for(dataset, page),
+        ),
+    }
+
+
 def _dispute_boxes(cmp: dict | None, main_blocks: list[dict]) -> list[dict]:
     """One overlay box per disputed main block (low-confidence disputes
     filled)."""
@@ -439,15 +527,6 @@ async def page(
     }
 
     pages = data.dataset_pages(dataset)
-    idx = pages.index(page) if page in pages else 0
-    page_options = [
-        {
-            "id": p,
-            "url": reverse("page", args=[dataset, route, p]),
-            "selected": p == page,
-        }
-        for p in pages
-    ]
     ctx = {
         "artifact": artifact,
         "stages": stages,
@@ -475,23 +554,160 @@ async def page(
         "dataset": dataset,
         "route": route,
         "page_id": page,
-        "page_options": page_options,
-        "pos": f"{idx + 1}/{len(pages)}",
-        "prev_url": (
-            reverse("page", args=[dataset, route, pages[idx - 1]])
-            if idx > 0
-            else None
-        ),
-        "next_url": (
-            reverse("page", args=[dataset, route, pages[idx + 1]])
-            if idx + 1 < len(pages)
-            else None
+        **_pager(
+            pages, page, lambda p: reverse("page", args=[dataset, route, p])
         ),
         "img_url": reverse("page_img", args=[dataset, page]),
         "dataset_options": data.dataset_names(),
+        "asm": _asm_ctx(stages, dataset, page),
+        "compare_url": (
+            reverse("route_compare", args=[dataset, page])
+            + "?"
+            + urlencode({"a": artifact["route"]})
+        ),
         **_selector_ctx(routes.slugs(route_obj)),
     }
     return TemplateResponse(request, "viewer/page.html", ctx)
+
+
+def _figure_url_for(dataset: str, page: str) -> Callable[[list[int]], str]:
+    """The final HTML's image placeholders (<figure data-bbox>) render
+    inline through the page-crop endpoint."""
+
+    def figure_url(bbox: list[int]) -> str:
+        key = "_".join(str(int(c)) for c in bbox)
+        return reverse("page_crop", args=[dataset, page, key])
+
+    return figure_url
+
+
+def _diff_flags(a: list[dict], b: list[dict]) -> tuple[int, int]:
+    """Flag how two final streams differ, on two separate dimensions:
+    `diff` where the unit keys disagree (plain text), and `style_diff`
+    where key-aligned units carry different styling (the text agrees —
+    only the emphasis differs). Both sides of every run are flagged;
+    returns (text runs, styling runs)."""
+    sm = difflib.SequenceMatcher(
+        a=[t["key"] for t in a], b=[t["key"] for t in b], autojunk=False
+    )
+    text_runs = style_runs = 0
+    for tag, i1, i2, j1, j2 in sm.get_opcodes():
+        if tag != "equal":
+            text_runs += 1
+            for t in a[i1:i2]:
+                t["diff"] = True
+            for t in b[j1:j2]:
+                t["diff"] = True
+            continue
+        in_run = False
+        for off in range(i2 - i1):
+            ta, tb = a[i1 + off], b[j1 + off]
+            if sorted(ta["styling"]) != sorted(tb["styling"]):
+                ta["style_diff"] = tb["style_diff"] = True
+                if not in_run:
+                    style_runs += 1
+                    in_run = True
+            else:
+                in_run = False
+    return text_runs, style_runs
+
+
+def _combo_label(route: routes.Route) -> str:
+    return " + ".join(_pretty(s) for s in routes.slugs(route))
+
+
+async def route_compare(
+    request: HttpRequest, dataset: str, page: str
+) -> HttpResponse:
+    """The results view: two combinations' finals side by side, their
+    differing spans highlighted. Cross-route agreement is the quality
+    signal — there is no reference data in production. Selections
+    arrive as ?a=<route>&b=<route>; a missing side defaults to the
+    first combinations already built for the page."""
+    pages = data.dataset_pages(dataset)
+    if page not in pages:
+        raise Http404(f"no page {page} in {dataset}")
+    combos = data.stats_ordered_combos()
+    built = data.built_routes(dataset, page)
+    defaults = built + [r.name for r in combos if r.name not in built]
+    sel: dict[str, str] = {}
+    restore: dict[str, bool] = {}
+    for param, fallback in (
+        ("a", defaults[0]),
+        ("b", defaults[1] if len(defaults) > 1 else defaults[0]),
+    ):
+        raw = _plus_param(request, param)
+        restore[param] = not raw
+        if not raw:
+            sel[param] = fallback
+            continue
+        try:
+            sel[param] = routes.resolve(raw).name
+        except ValueError as exc:
+            raise Http404(str(exc)) from exc
+
+    sides = []
+    for key in ("a", "b"):
+        route_obj = routes.resolve(sel[key])
+        artifact = data.ensure_artifact(dataset, route_obj, page)
+        stages = artifact["stages"]
+        tokens = assemble.final_stream(
+            stages["normalize"], stages["compare"], stages["reconstruct"]
+        )
+        sides.append((key, route_obj, artifact, tokens))
+    n_diff_runs, n_style_runs = _diff_flags(sides[0][3], sides[1][3])
+
+    panels = []
+    for key, route_obj, artifact, tokens in sides:
+        stages = artifact["stages"]
+        panels.append(
+            {
+                "key": key,
+                "route": artifact["route"],
+                "label": _combo_label(route_obj),
+                "resolver": (
+                    "lighton tiebreak" if route_obj.tiebreak else "3-way vote"
+                ),
+                "html": assemble.render_html(
+                    tokens,
+                    stages["reconstruct"]["main"],
+                    stages["main_ocr"]["blocks"],
+                    figure_url=_figure_url_for(dataset, page),
+                ),
+                "n_units": sum(1 for t in tokens if not t.get("empty")),
+                "n_diff": sum(1 for t in tokens if t.get("diff")),
+                "n_style_diff": sum(1 for t in tokens if t.get("style_diff")),
+                "n_low_conf": stages["assemble"]["metrics"][
+                    "n_low_confidence"
+                ],
+                "walk_url": reverse(
+                    "page", args=[dataset, artifact["route"], page]
+                ),
+            }
+        )
+
+    qs = "?" + urlencode({"a": sel["a"], "b": sel["b"]})
+    ctx = {
+        "dataset": dataset,
+        "page_id": page,
+        "img_url": reverse("page_img", args=[dataset, page]),
+        "panels": panels,
+        "n_diff_runs": n_diff_runs,
+        "n_style_runs": n_style_runs,
+        "n_low_conf": sum(p["n_low_conf"] for p in panels),
+        "same_route": sel["a"] == sel["b"],
+        "route_options": [
+            {"value": r.name, "label": _combo_label(r)} for r in combos
+        ],
+        "sel": sel,
+        "restore": restore,
+        **_pager(
+            pages,
+            page,
+            lambda p: reverse("route_compare", args=[dataset, p]) + qs,
+        ),
+    }
+    return TemplateResponse(request, "viewer/compare.html", ctx)
 
 
 async def page_img(
@@ -511,3 +727,13 @@ async def crop_img(
     if path is None:
         raise Http404(f"no cached crop {page}_{bbox}")
     return FileResponse(open(path, "rb"), content_type="image/png")
+
+
+async def page_crop(
+    request: HttpRequest, dataset: str, page: str, bbox: str
+) -> HttpResponse:
+    """A crop of the canonical page render — the final HTML's image
+    placeholders (<figure data-bbox>) render inline through this."""
+    return HttpResponse(
+        data.page_crop_png(dataset, page, bbox), content_type="image/png"
+    )

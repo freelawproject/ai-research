@@ -43,11 +43,137 @@
 }
 .ov-mistral { border-color: #a21caf; border-style: solid; }
 .ov-surya { border-color: #059669; border-style: solid; }
-/* stage-7 disputes: resolved = violet outline; low-confidence (kept
-   main without a majority) = rose fill */
+/* compare + resolve disputes: resolved = violet outline; low-confidence
+   (kept main without a majority) = rose fill */
 .ov-dispute { border-color: #7c3aed; border-style: solid; }
 .ov-dispute-low {
   border-color: #e11d48;
   border-style: solid;
   background: rgba(225, 29, 72, 0.18);
 }
+
+/* The assembled final document (the Assemble card + the route-compare
+   panels). The pipeline emits semantic classes/attributes only; the
+   viewer styles them here. */
+.final-doc p,
+.final-doc h2,
+.final-doc blockquote,
+.final-doc figure {
+  margin: 0 0 0.625rem;
+}
+.final-doc > :last-child {
+  margin-bottom: 0;
+}
+.final-doc h2 {
+  font-weight: 600;
+}
+.final-doc [data-role="page_number"] {
+  color: #737373;
+  text-align: center;
+}
+.final-doc [data-role="footnote"] {
+  color: #525252;
+  font-size: 0.8125rem;
+  padding-left: 1.25rem;
+  text-indent: -1.25rem; /* hanging indent: the mark number gutters */
+}
+/* the footnote band starts with a divider */
+.final-doc :not([data-role="footnote"]) + [data-role="footnote"],
+.final-doc [data-role="footnote"]:first-child {
+  border-top: 1px solid #d4d4d4;
+  margin-top: 1rem;
+  padding-top: 0.625rem;
+}
+.final-doc blockquote {
+  border-left: 3px solid #a3a3a3;
+  color: #404040;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  padding-left: 0.75rem;
+}
+.final-doc figure {
+  border: 1.5px dashed #d4d4d4;
+  border-radius: 0.375rem;
+  color: #a3a3a3;
+  font-size: 0.75rem;
+  padding: 0.5rem 0.75rem;
+}
+.final-doc figure:empty::after {
+  content: "image — renders as-is from the page";
+}
+.final-doc figure img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+.final-doc mark.low-confidence {
+  background: rgba(225, 29, 72, 0.15);
+  border-radius: 2px;
+  padding: 0 2px;
+}
+.final-doc mark.low-confidence.high-risk {
+  background: rgba(225, 29, 72, 0.32);
+  outline: 1px solid #e11d48;
+}
+.final-doc .star-page {
+  color: #4f46e5;
+  font-weight: 600;
+  white-space: nowrap;
+}
+/* parsed tables (any engine) render as tables — in the final and in
+   the reconstruct cards */
+.final-doc table,
+.doc-html table {
+  border-collapse: collapse;
+  font-size: 0.8125rem;
+  margin: 0.375rem 0 0.625rem;
+}
+.final-doc td,
+.final-doc th,
+.doc-html td,
+.doc-html th {
+  border: 1px solid #d4d4d4;
+  padding: 0.125rem 0.5rem;
+  text-align: left;
+  vertical-align: top;
+}
+.final-doc th,
+.doc-html th {
+  background: #fafafa;
+  font-weight: 600;
+}
+/* zero-width low-confidence marker: an engine read extra text here
+   that did not win (title carries the reading) */
+.final-doc .lc-marker {
+  color: #be123c;
+  cursor: help;
+  font-weight: 700;
+}
+
+/* route-compare: plain-text diffs (one hue per panel) and styling
+   diffs (text agrees, emphasis differs) */
+.route-diff {
+  border-radius: 2px;
+  padding: 0 2px;
+}
+.diff-left .route-diff { background: rgba(14, 165, 233, 0.22); }
+.diff-right .route-diff { background: rgba(245, 158, 11, 0.3); }
+.style-diff {
+  text-decoration-color: #7c3aed;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+/* layer toggles on the route-compare view — LAST so they win the
+   specificity ties against the highlight rules above */
+.hide-text-diff .route-diff { background: transparent; }
+.hide-style-diff .style-diff { text-decoration: none; }
+.hide-low-conf mark.low-confidence,
+.hide-low-conf mark.low-confidence.high-risk {
+  background: transparent;
+  color: inherit;
+  outline: none;
+}
+.hide-low-conf .lc-marker { display: none; }

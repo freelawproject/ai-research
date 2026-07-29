@@ -4,10 +4,20 @@
 
 {% block content %}
 <h1 class="mb-2 text-xl font-semibold">{{ title }} — {{ dataset }}</h1>
-<p class="mb-4 text-sm text-neutral-600">
+<p class="mb-2 text-sm text-neutral-600">
   {{ description }} Each entry links to the walkthrough page holding
   its dispute card.
 </p>
+
+<div class="mb-4 flex flex-wrap items-center gap-1.5 text-sm">
+  <span class="text-neutral-500">combination:</span>
+  {% for c in chips %}
+    <a href="{{ c.url }}"
+       class="rounded-full border px-2.5 py-0.5 text-xs font-medium {% if c.active %}border-indigo-600 bg-indigo-600 text-white{% else %}border-neutral-300 bg-white text-neutral-700{% endif %}">
+      {{ c.label }} ({{ c.count }})
+    </a>
+  {% endfor %}
+</div>
 
 {% if entries %}
   <ol class="flex flex-col gap-3">
@@ -42,7 +52,9 @@
                 <td class="py-0.5 font-mono">
                   {{ row.keys|default:"∅" }}
                   {% if row.display and row.display != row.keys %}
-                    <span class="font-sans text-neutral-500">· “{{ row.display }}”</span>
+                    <div class="font-sans text-xs text-neutral-500">
+                      as written · “{{ row.display }}”
+                    </div>
                   {% endif %}
                 </td>
               </tr>

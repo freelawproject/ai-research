@@ -98,6 +98,14 @@ every crop is an honest no-vote. To fill the cache:
 4. `uv run python -m pipeline.run --dataset <name> --route all` —
    rebuild; the tiebreak now votes.
 
+A read the compare stage discards (implausible length, or an ending that
+matches neither engine) buys the crop **one retry**: the dispute reports
+`retry-pending`, and the next `export_crops` puts that crop back in the
+bundle under a `__retry` key carrying the tighter decode settings the
+retry runs under. Repeat steps 2–4 to collect it. A retry that fails too
+is final — the dispute keeps the main reading, flagged low-confidence.
+Every crop is therefore read at most twice, whatever the run count.
+
 ## Developing the UI
 
 Tailwind CSS is committed pre-built; rebuild it after template/JS changes

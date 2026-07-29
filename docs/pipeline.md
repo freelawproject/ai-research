@@ -98,15 +98,25 @@
    DISPUTE, and a dispute maps to its main-engine block(s) by token
    provenance (a wrap-joined word maps to BOTH its source bboxes) —
    never by heuristic box attribution. Tiebreak routes (lighton in the
-   third slot): `page_number`/`heading` blocks are main-authoritative
-   (LightOn over-reads short crops); blocks under 10 chars of main
-   content are never cropped; otherwise the block crop's CACHED
+   third slot, `pipeline/core/tiebreak.py`):
+   `page_number`/`heading` blocks are main-authoritative (LightOn
+   over-reads short crops); a dispute holding ANY block under 10 chars
+   of main content is never cropped (every block of a dispute is
+   cropped, and a crop of a few glyphs is read as invented content);
+   otherwise the block crop's CACHED
    LightOn read (`engines/lighton_crops/`, keyed page + exact bbox; a
    cache miss is an honest no-vote) is decoded + normalized like any
-   engine stream, accepted only if its last 12 chars agree with the
-   block ending as EITHER stream wrote it (decoder repetition/
-   truncation guard), and the dispute is located inside it by EXPANDING ANCHORS — n units of
-   context each side, widened until the anchor pair is unique.
+   engine stream and must survive two degeneration guards — LENGTH
+   PLAUSIBILITY (no longer than 3× either engine's reading of the same
+   blocks; a thin crop makes the reader emit pages of invented LaTeX)
+   and ENDING AGREEMENT (its last 12 chars match the block ending as
+   EITHER stream wrote it) — before the dispute is located inside it by
+   EXPANDING ANCHORS: n units of context each side, widened until the
+   anchor pair is unique. A read that fails any of those steps costs
+   the crop ONE RETRY, the same crop re-decoded under tighter settings
+   (`engines/lighton.py:retry_decode`, cached as `<key>__retry.txt`);
+   the dispute reads `retry-pending` until that retry is run, and a
+   retry that fails too is final. Every crop is read at most twice.
    Majority of normalized keys wins; anything short of a majority
    keeps the main reading flagged low-confidence. A VOTE route (a
    model in the third slot) diffs the main stream against both
@@ -230,9 +240,13 @@ data/artifacts/<dataset>/<route>/<page>.json
     },
     "compare": {
       // the resolution parameters this stage ran under:
+      // (gate_min_chars applies PER BLOCK: a dispute holding any block
+      // with less main content is never cropped. read_len_ratio caps a
+      // crop read against the longer engine reading of the same blocks.)
       "params": {"gate_min_chars": 10, "tail_agree_chars": 12,
+                 "read_len_ratio": 3.0,
                  "anchor_start": 2, "skip_roles": ["heading", "page_number"],
-                 "high_risk_chars": 5, "reorder_sim": 0.9,
+                 "high_risk_units": 10, "reorder_sim": 0.9,
                  "reorder_min_units": 5},
       // stream legend: reads/spans/verdicts key on these labels
       "streams": [{"label": "main", "engine": "dots"},
@@ -250,15 +264,24 @@ data/artifacts/<dataset>/<route>/<page>.json
         "resolution": "majority",     // majority | reorder | authoritative | fallback
         "reason": null,               // fallback/authoritative cause:
                                       // under-gate | role-authoritative |
-                                      // no-cached-read | read-rejected |
-                                      // not-located | three-way-split | no-vote
+                                      // no-cached-read | read-implausible |
+                                      // read-rejected | not-located |
+                                      // three-way-split | no-vote
         "low_confidence": false,
-        "high_risk": false,          // low-confidence AND disputed text
-                                      // > high_risk_chars on some side
-        // tiebreak routes only — the LightOn attempt trace
-        // (accepted_by = which stream's block ending the read matched;
-        // a rejected read records the three "tails" instead):
+        "high_risk": false,          // low-confidence AND the disputed
+                                      // SPAN > high_risk_units on some
+                                      // side (units, not characters)
+        // tiebreak routes only — the LightOn attempt trace, describing
+        // the attempt that decided (attempt 1, or 2 = the one retry).
+        // length_ratio = read length over the longer engine reading of
+        // the same blocks, "implausible" when it exceeds read_len_ratio;
+        // accepted_by = which stream's block ending the read matched;
+        // a read rejected on its ending records the three "tails"
+        // instead. retry_pending = attempt 1 failed a guard and the
+        // retry read has not been run yet (export_crops emits it):
         "tiebreak": {"bboxes": [[318, 191, 856, 336]], "cached": true,
+                     "attempt": 1, "retry_pending": false,
+                     "length_ratio": 1.04,
                      "accepted": true, "accepted_by": "main",
                      "located": true,
                      "read": "…", "keys": ["brawn"], "display": "brawn"}

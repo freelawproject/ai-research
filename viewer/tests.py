@@ -904,6 +904,42 @@ class ExportIngestTest(DataTreeTestCase):
             )
         )
 
+    def test_rejected_read_exports_a_retry_crop(self) -> None:
+        """A read the guards discard puts its crop back in the bundle
+        once, under the retry key and with the tighter decode settings
+        the retry must run under."""
+        key = "rep.9.9__page_001_120_120_900_200"
+        crops_cache = (
+            self.tmp / "datasets" / "lot" / "engines" / "lighton_crops"
+        )
+        crops_cache.mkdir(parents=True, exist_ok=True)
+        # a first read that reaches neither engine's ending
+        (crops_cache / f"{key}.txt").write_text(
+            "hello world again today okay okay okay"
+        )
+        # artifacts are materialized lazily and cached on disk: drop the
+        # ones another test built so this read is the one resolved
+        shutil.rmtree(self.tmp / "artifacts", ignore_errors=True)
+        bundle = self.tmp / "retry_bundle"
+        call_command(
+            "export_crops",
+            dataset="lot",
+            route=["dots+mistral+lighton"],
+            out=bundle,
+            stdout=io.StringIO(),
+        )
+        entries = [
+            json.loads(x)
+            for x in (bundle / "manifest.jsonl").read_text().splitlines()
+            if x.strip()
+        ]
+        (entry,) = entries
+        self.assertEqual(entry["key"], f"{key}{lighton.RETRY_SUFFIX}")
+        self.assertEqual(
+            entry["decode"], lighton.retry_decode(entry["expect"])
+        )
+        self.assertTrue((bundle / "crops" / f"{entry['key']}.png").exists())
+
     def test_single_glyph_crop_is_scaled_up(self) -> None:
         """A one-glyph dispute region renders large enough to read: a
         crop of a few pixels is unreadable to a person and too small for

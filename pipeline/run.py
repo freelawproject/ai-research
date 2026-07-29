@@ -29,6 +29,7 @@ from pipeline.core import (
     normalize,
     reconstruct,
     render,
+    tiebreak,
 )
 from pipeline.core.artifacts import SCHEMA_VERSION, artifact_path
 from pipeline.core.config import RENDER_H, RENDER_W, Dataset, dataset
@@ -224,11 +225,11 @@ def _stage_compare(
     """Compare + resolve on the normalized streams. On tiebreak
     routes the crop
     reader is the LightOn cache lookup for this page."""
-    read_crop: compare.CropReader | None = None
+    read_crop: tiebreak.CropReader | None = None
     if route.tiebreak is not None:
 
-        def _read(bbox: Sequence[int]) -> str | None:
-            return lighton.read(ds, page_id, bbox)
+        def _read(bbox: Sequence[int], retry: bool) -> str | None:
+            return lighton.read(ds, page_id, bbox, retry)
 
         read_crop = _read
     return compare.compare_streams(

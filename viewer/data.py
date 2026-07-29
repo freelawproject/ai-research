@@ -22,7 +22,7 @@ from PIL import Image
 
 from pipeline import routes
 from pipeline.core.artifacts import SCHEMA_VERSION, artifact_path
-from pipeline.core.compare import HIGH_RISK_CHARS
+from pipeline.core.compare import HIGH_RISK_UNITS
 from pipeline.core.config import dataset as load_dataset
 from pipeline.core.normalize import registry_hash
 from pipeline.core.pages import discover_pages
@@ -160,11 +160,14 @@ def page_png_path(dataset: str, page: str) -> Path:
 
 
 # disputes where the resolver could not vote (the "rejection/refusal"
-# bucket of the home-page stats): no cached crop read, read rejected by
-# the ending guard, dispute not located in the read, or no third voter
-# (a degraded stream — e.g. a gemini refusal).
+# bucket of the home-page stats): no cached crop read, read discarded by
+# a degeneration guard (implausible length or a disagreeing ending),
+# dispute not located in the read, or no third voter (a degraded stream
+# — e.g. a gemini refusal).
 _REJECT_REASONS = (
     "no-cached-read",
+    "retry-pending",
+    "read-implausible",
     "read-rejected",
     "not-located",
     "no-vote",
@@ -360,9 +363,9 @@ REVIEW_CATEGORIES: dict[str, dict] = {
     "high-risk": {
         "title": "High-risk disputes",
         "description": (
-            "Low-confidence disputes whose disputed text is longer "
-            f"than {HIGH_RISK_CHARS} characters on some side — the "
-            "spans most worth a human look."
+            "Low-confidence disputes whose disputed span is longer "
+            f"than {HIGH_RISK_UNITS} units on some side — the spans "
+            "most worth a human look."
         ),
         "predicate": lambda d: d.get("high_risk"),
     },

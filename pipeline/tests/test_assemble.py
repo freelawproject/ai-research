@@ -9,14 +9,14 @@ from __future__ import annotations
 from unittest import TestCase
 
 from pipeline.core import assemble, compare, normalize
-from pipeline.tests.test_compare import (
+from pipeline.tests.factories import (
     BBOX,
-    CropCache,
     blocks_for,
     norm_rec,
     recon_rec,
     toks,
 )
+from pipeline.tests.test_tiebreak import CropCache
 
 
 def compared(
@@ -261,9 +261,14 @@ class RenderTest(TestCase):
         self.assertEqual(rec["metrics"]["n_low_confidence"], 1)
 
     def test_high_risk_adds_its_class(self) -> None:
+        # high risk is a span over the unit threshold, so the disputed
+        # run has to be that long to earn the class
+        long_run = " ".join(
+            f"w{i}" for i in range(compare.HIGH_RISK_UNITS + 5)
+        )
         rec = self._page(
-            "alpha bravo charlie delta echo golf",
-            "alpha bravo charlie whiskey echo golf",
+            f"alpha bravo {long_run} echo golf",
+            "alpha bravo echo golf",
         )
         self.assertIn('class="low-confidence high-risk"', rec["html"])
         self.assertEqual(rec["metrics"]["n_high_risk"], 1)

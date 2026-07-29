@@ -1,8 +1,17 @@
-"""Export the crop bundle the LightOn tiebreaker is missing: every
-disputed region whose cached read does not exist yet, packaged as the
-lighton pod kit's input contract — crops/<key>.png + manifest.jsonl
-({key, expect, area} per crop; expect = the main engine's reading of
-the region, used by the kit as a completeness check only).
+"""Export the crop bundle the LightOn tiebreaker is missing, packaged as
+the lighton pod kit's input contract — crops/<key>.png +
+manifest.jsonl ({key, expect, area} per crop; expect = the main
+engine's reading of the region, used by the kit as a completeness check
+only).
+
+Two kinds of crop are missing a read, and both go in the bundle:
+  - crops never read at all;
+  - crops whose first read was discarded by the compare stage's
+    degeneration guards and which are waiting on their ONE retry. These
+    carry the RETRY_SUFFIX in their key and a "decode" object holding
+    the adjusted settings the retry must run under; the kit writes them
+    to reads/<key><RETRY_SUFFIX>.txt, which is where the compare stage
+    looks for a retry read.
 
 Artifacts for the requested combinations are built as needed to
 enumerate the disputes. Each crop PNG is also written into the
@@ -20,6 +29,7 @@ from django.core.management.base import BaseCommand, CommandError
 from django.http import Http404
 
 from pipeline import routes
+from pipeline.engines import lighton
 from viewer import data
 
 
@@ -67,11 +77,11 @@ class Command(BaseCommand):
         if not pages:
             raise CommandError(f"no pages in dataset {name}")
 
-        # key -> (page, bbox, expect); the same block disputed on
+        # key -> (page, bbox, expect, retry); the same block disputed on
         # several combinations exports once
-        crops: dict[str, tuple[str, list[int], str]] = {}
+        crops: dict[str, tuple[str, list[int], str, bool]] = {}
         for route in combos:
-            n_missing = 0
+            n_first = n_retry = 0
             for page in pages:
                 try:
                     artifact = data.ensure_artifact(name, route, page)
@@ -89,17 +99,31 @@ class Command(BaseCommand):
                 }
                 for d in stages["compare"]["disputes"]:
                     tb = d.get("tiebreak")
-                    if not tb or tb["cached"]:
+                    if not tb:
+                        continue
+                    retry = bool(tb.get("retry_pending"))
+                    if tb["cached"] and not retry:
                         continue
                     for block in d["blocks"]:
                         bbox = bbox_of.get(block)
                         if not bbox:
                             continue
-                        key = f"{page}_" + "_".join(str(int(c)) for c in bbox)
+                        stem = f"{page}_" + "_".join(str(int(c)) for c in bbox)
+                        key = stem + (lighton.RETRY_SUFFIX if retry else "")
                         if key not in crops:
-                            crops[key] = (page, bbox, text_of.get(block, ""))
-                            n_missing += 1
-            self.stdout.write(f"{route.name}: {n_missing} new crop(s)")
+                            crops[key] = (
+                                page,
+                                bbox,
+                                text_of.get(block, ""),
+                                retry,
+                            )
+                            if retry:
+                                n_retry += 1
+                            else:
+                                n_first += 1
+            self.stdout.write(
+                f"{route.name}: {n_first} new crop(s), {n_retry} retry"
+            )
 
         out: Path = (
             options["out"]
@@ -110,21 +134,21 @@ class Command(BaseCommand):
         cache_dir = settings.DATASETS_ROOT / name / "engines" / "lighton_crops"
         cache_dir.mkdir(parents=True, exist_ok=True)
         lines = []
-        for key, (page, bbox, expect) in sorted(crops.items()):
-            png = data.page_crop_png(name, page, key[len(page) + 1 :])
+        for key, (page, bbox, expect, retry) in sorted(crops.items()):
+            bbox_key = "_".join(str(int(c)) for c in bbox)
+            png = data.page_crop_png(name, page, bbox_key)
             (crops_dir / f"{key}.png").write_bytes(png)
             (cache_dir / f"{key}.png").write_bytes(png)
             x0, y0, x1, y1 = bbox
-            lines.append(
-                json.dumps(
-                    {
-                        "key": key,
-                        "expect": expect,
-                        "area": (x1 - x0) * (y1 - y0),
-                    },
-                    ensure_ascii=False,
-                )
-            )
+            entry = {
+                "key": key,
+                "expect": expect,
+                "area": (x1 - x0) * (y1 - y0),
+            }
+            if retry:
+                # the retry reads the SAME crop under tighter decoding
+                entry["decode"] = lighton.retry_decode(expect)
+            lines.append(json.dumps(entry, ensure_ascii=False))
         (out / "manifest.jsonl").write_text(
             "\n".join(lines) + ("\n" if lines else ""), encoding="utf-8"
         )

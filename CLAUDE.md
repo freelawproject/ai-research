@@ -4,6 +4,19 @@ Branch `extraction_package`: production packaging of the case-law extraction
 pipeline (7 unique 3-model OCR combinations, order-free + Django
 walkthrough viewer + RunPod kits).
 
+The repo carries a second surface, **alignment** (`docs/alignment.md`),
+for UNREDACTED sets where the container model finds no columns and so
+cannot drive placement: regions are aligned across engines by geometry,
+ordered from their own coordinates, and resolved by majority (whole
+where two of three agree, word by word where none do); container-YOLO
+is an image overlay only. Its modules:
+`pipeline/core/{align,order,consensus}.py`, `pipeline/align_run.py`,
+`viewer/align_data.py`, `viewer/align_views.py`, `viewer/test_align.py`,
+`viewer/templates/viewer/align*.html`,
+`viewer/static/viewer/js/components/align_viewer.js`. Align sets live
+under `align_data/` (their own root and their own zip) — never under
+`data/`, which is what keeps them out of the route surface.
+
 ## Rules
 
 - `uv` only — never pip/venv/conda. Python 3.13, Django 6.0.x.
@@ -14,8 +27,9 @@ walkthrough viewer + RunPod kits).
 - **No database.** JSON artifacts under `data/` are the source of truth; the
   Django app runs DB-less. Production persistence is intentionally out of
   scope for this package.
-- `data/` is gitignored and distributed as a zip (`scripts/pack_data.sh`).
-  Never commit data, models, or archives.
+- `data/` and `align_data/` are gitignored and distributed as separate
+  zips (`scripts/pack_data.sh`, `scripts/pack_align_data.sh`) — one per
+  surface. Never commit data, models, or archives.
 - Conventional commits: `type(scope): message`.
 - Refer to pipeline stages by what they DO (render, layout, main OCR,
   supplemental OCR, reconstruct, normalize, compare + resolve,

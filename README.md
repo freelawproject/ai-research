@@ -11,6 +11,10 @@ supplemental OCR → reading-order reconstruction → normalization →
 cross-engine comparison and resolution → final assembly. Full stage
 spec and artifact schema: [docs/pipeline.md](docs/pipeline.md).
 
+There is a second, lighter surface for sets those stages do not suit —
+see [Alignment](#alignment) below and
+[docs/alignment.md](docs/alignment.md).
+
 A route is any THREE models, picked in the viewer's dropdowns (or on
 the CLI as `m1+m2+m3`):
 
@@ -68,6 +72,10 @@ artifacts already on disk are neither deleted nor rebuilt.
    A dataset's `redacted/` sources are either volume trees or flat
    per-page redacted PDFs (sampled sets — the PDF stem is the page id).
    The full layout is documented in [docs/pipeline.md](docs/pipeline.md).
+
+   The alignment surface's sets are a SECOND, separate bundle that
+   unzips the same way to `./align_data/` — see
+   [Alignment](#alignment). Each bundle feeds only its own surface.
 3. Validate the layout: `uv run python manage.py check_data`
    (it prints exactly what's missing if the folder landed in the wrong spot).
 4. `docker compose up`, then open http://localhost:8170, pick three
@@ -110,6 +118,37 @@ bundle under a `__retry` key carrying the tighter decode settings the
 retry runs under. Repeat steps 2–4 to collect it. A retry that fails too
 is final — the dispute keeps the main reading, flagged low-confidence.
 Every crop is therefore read at most twice, whatever the run count.
+
+## Alignment
+
+The route pipeline assumes the container model can find the columns.
+On UNREDACTED pages it cannot — it emits whole-page `image` boxes and
+finds no columns at all, and because every engine is then placed
+through the same empty container set, the columns interleave silently
+while the comparison still looks healthy.
+
+`/align/` is the surface for those sets. Regions are grouped across
+engines by geometry, ordered from their own coordinates, and resolved
+to what the engines agree on — whole where two of three match, word by
+word where none do (0.4% of corpus words end up with no majority, and
+are marked rather than silently chosen). Container-YOLO is drawn over
+the page image and places nothing.
+
+Align sets live under their own root, `./align_data/` (same
+`datasets/` + `artifacts/` shape as `data/`), and ship as their own
+bundle: `scripts/pack_align_data.sh` → `alignment_data_<date>.zip`.
+The split is the gate between the surfaces — a set under `align_data/`
+can never appear in the route pickers, and a route set never appears
+under `/align/`. An align set is prerendered: page renders under
+`page_png/`, engine outputs under `engines/`, the whole-volume PDFs
+under `source/` (provenance only — a bundle may omit it).
+
+```
+uv run python -m pipeline.align_run --dataset <name>
+```
+
+Details, measurements, and the artifact schema:
+[docs/alignment.md](docs/alignment.md).
 
 ## Producing engine outputs on new pages (`runpod/`)
 
@@ -155,10 +194,11 @@ build, vendored at `viewer/static/viewer/js/vendor/` — components live in
 | `runpod/` | pod kits that PRODUCE the engine outputs (see below) |
 | `docs/` | pipeline spec + artifact schema |
 | `docker/` | image + entrypoint for the compose stack |
-| `scripts/pack_data.sh` | builds the shareable data zip |
+| `scripts/pack_data.sh` | builds the shareable data zip (route surface) |
+| `scripts/pack_align_data.sh` | builds the alignment data zip (`align_data/`) |
 
-There is no database: the JSON artifacts under `data/` are the source of
-truth, and the viewer indexes them in memory. Production persistence is
+There is no database: the JSON artifacts under `data/` and `align_data/`
+are the source of truth, and the viewer indexes them in memory. Production persistence is
 intentionally out of scope — design it from the artifact schema.
 
 ## The viewer
@@ -174,4 +214,8 @@ intentionally out of scope — design it from the artifact schema.
   styling diffs, and low-confidence marks each toggle as its own
   highlight layer. Cross-route agreement is the quality signal — there
   is no reference data in production.
+- **Alignment** (`/align/`) — regions aligned across engines by
+  geometry, ordered from their coordinates, resolved by majority, and
+  readable either as the final page or one engine at a time. For sets
+  the route pipeline's container assumptions do not fit.
 - `manage.py report_disagreements` / `report_disputes` — corpus views.

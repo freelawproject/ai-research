@@ -419,11 +419,13 @@ class ViewerViewsTest(DataTreeTestCase):
         self.assertContains(response, "disputes")
         self.assertContains(response, "main bboxes")
         # the built route aggregates its one page as counts out of its
-        # disputes: 1/1 majority, 0/1 everywhere else (+ the high-risk
-        # fixture route's majority + reorders cells)
+        # disputes: 1/1 majority, 0/1 everywhere else. The high-risk
+        # fixture route reads 1/1 high risk and 0/1 low conf — the two
+        # columns are disjoint, so its one flagged dispute is counted
+        # once, not twice.
         self.assertContains(response, "dots+mistral+lighton")  # row link
         self.assertContains(response, "1/1")
-        self.assertContains(response, "0/1", count=6)
+        self.assertContains(response, "0/1", count=7)
         self.assertContains(response, "reorders")
         # every reviewable column header links to its review page
         for category in ("reorders", "rejected", "low-conf", "high-risk"):
@@ -618,16 +620,30 @@ class ViewerViewsTest(DataTreeTestCase):
         # majority-resolved disputes never appear
         self.assertNotContains(response, '"word"')
 
-    def test_rejected_and_low_conf_review_pages(self) -> None:
-        # the same fixture dispute is rejected (no-cached-read) AND
-        # low-confidence, so both categories list it
-        for category, title in (
-            ("rejected", "Rejected or refused disputes"),
-            ("low-conf", "Low-confidence disputes"),
-        ):
-            response = self.client.get(f"/review/tiny/{category}/")
-            self.assertContains(response, title)
-            self.assertContains(response, "goodbye friend")
+    def test_rejected_review_page(self) -> None:
+        # the fixture dispute is rejected (no-cached-read)
+        response = self.client.get("/review/tiny/rejected/")
+        self.assertContains(response, "Rejected or refused disputes")
+        self.assertContains(response, "goodbye friend")
+
+    def test_low_conf_and_high_risk_partition_the_flagged(self) -> None:
+        """The two pages are DISJOINT: a long unresolved span belongs to
+        high risk only, so low-conf plus high-risk is every flagged
+        dispute rather than double-counting the worst ones."""
+        low = self.client.get("/review/tiny/low-conf/")
+        high = self.client.get("/review/tiny/high-risk/")
+        # the fixture's only low-confidence dispute is a high-risk one
+        self.assertContains(high, "goodbye friend")
+        self.assertNotContains(low, "goodbye friend")
+        self.assertContains(low, "Nothing in this category.")
+        # and the stats columns add up the same way
+        (row,) = [
+            r
+            for r in data.route_stats("tiny")
+            if r["route"] == "dots+surya_block+lighton"
+        ]
+        self.assertEqual(row["high_risk"], 1)
+        self.assertEqual(row["low_conf"], 0)  # not counted twice
 
     def test_reorders_review_page_empty_state(self) -> None:
         response = self.client.get("/review/tiny/reorders/")
@@ -823,17 +839,17 @@ class ViewerViewsTest(DataTreeTestCase):
         self.assertContains(response, "Route stats — tiny")
 
     def test_review_page_filters_by_combination(self) -> None:
-        # both fixture routes have flagged disputes; the low-conf page
-        # shows chips and honors ?route=
-        response = self.client.get("/review/tiny/low-conf/")
+        # both fixture routes have flagged disputes; the page shows
+        # chips and honors ?route=
+        response = self.client.get("/review/tiny/high-risk/")
         self.assertContains(response, "combination:")
         self.assertContains(response, "all (1)")
         response = self.client.get(
-            "/review/tiny/low-conf/?route=dots+surya_block+lighton"
+            "/review/tiny/high-risk/?route=dots+surya_block+lighton"
         )
         self.assertContains(response, "goodbye friend")
         response = self.client.get(
-            "/review/tiny/low-conf/?route=dots+mistral+lighton"
+            "/review/tiny/high-risk/?route=dots+mistral+lighton"
         )
         self.assertNotContains(response, "goodbye friend")
         self.assertContains(response, "Nothing in this category.")

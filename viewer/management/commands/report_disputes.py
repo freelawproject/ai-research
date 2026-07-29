@@ -98,7 +98,7 @@ class Command(BaseCommand):
                 self.stdout.write("  degraded pages: " + ", ".join(degraded))
             self.stdout.write(
                 f"  low-confidence: {low_conf}"
-                + (f" ({high_risk} high risk)" if low_conf else "")
+                + (f" ({high_risk} of them high risk)" if low_conf else "")
                 + ("" if low_conf else " — every dispute resolved")
             )
             for page, d in examples[: options["low_conf"]]:

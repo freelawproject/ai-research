@@ -635,7 +635,7 @@
             engine ({{ asm.metrics.substitutions }} dispute{{ asm.metrics.substitutions|pluralize }}){% endif %}{% if asm.metrics.n_low_confidence %}
             · <span class="text-rose-700">{{ asm.metrics.n_low_confidence }}
             low-confidence mark{{ asm.metrics.n_low_confidence|pluralize }}{% if asm.metrics.n_high_risk %}
-            ({{ asm.metrics.n_high_risk }} high risk){% endif %}</span>{% endif %}{% if asm.metrics.styling_unioned %}
+            ({{ asm.metrics.n_high_risk }} of them high risk){% endif %}</span>{% endif %}{% if asm.metrics.styling_unioned %}
             · {{ asm.metrics.styling_unioned }}
             unit{{ asm.metrics.styling_unioned|pluralize }} gained styling
             from another engine{% endif %}{% if asm.metrics.star_pages %}

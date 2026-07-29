@@ -227,7 +227,11 @@ def _scan_route(route: Route, files: list[Path]) -> dict:
         disputes += m["n_disputes"]
         majority += m["by_resolution"].get("majority", 0)
         reorders += m["by_resolution"].get("reorder", 0)
-        low_conf += m["n_low_confidence"]
+        # low-conf and high-risk are reported DISJOINTLY, so the two
+        # columns partition every flagged dispute and add up (the
+        # artifact keeps high risk as a subset — it is a property of a
+        # low-confidence dispute, not a separate outcome).
+        low_conf += m["n_low_confidence"] - m["n_high_risk"]
         high_risk += m["n_high_risk"]
         rejected += sum(m["by_reason"].get(r, 0) for r in _REJECT_REASONS)
         if cmp["degraded"]:
@@ -356,9 +360,13 @@ REVIEW_CATEGORIES: dict[str, dict] = {
         "title": "Low-confidence disputes",
         "description": (
             "No majority resolved these: the main reading was kept "
-            "and flagged."
+            f"and flagged. Spans over {HIGH_RISK_UNITS} units are "
+            "listed under high risk instead, so the two pages together "
+            "are every flagged dispute."
         ),
-        "predicate": lambda d: d.get("low_confidence"),
+        "predicate": lambda d: (
+            d.get("low_confidence") and not d.get("high_risk")
+        ),
     },
     "high-risk": {
         "title": "High-risk disputes",

@@ -4,7 +4,11 @@
 # Run from the extracted kit root (holds run_infer_dots.py, images/).
 #
 #   bash run_native.sh                # isolated venv + infer + tar out/
-#   SHARD=i/n bash run_native.sh      # one shard per GPU, one shell each
+#   SHARD=i/n bash run_native.sh      # one shard per GPU, one shell each —
+#                                     # start shell 2 only after shell 1's
+#                                     # install finishes: the shells share
+#                                     # .dots-venv, and two concurrent
+#                                     # installs corrupt it
 #
 # dots.mocr runs in its OWN isolated uv venv per the model authors' spec
 # (github.com/rednote-hilab/dots.mocr): torch 2.7.0 first (so flash-attn's wheel

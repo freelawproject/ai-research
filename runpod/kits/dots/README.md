@@ -65,7 +65,10 @@ Hardware section for choosing a GPU count from a deadline.
 
 ```sh
 bash run_native.sh              # isolated uv venv (torch 2.7 / transformers 4.57.6 / flash-attn)
-SHARD=0/2 bash run_native.sh    # or shard across GPUs, one process each
+SHARD=0/2 bash run_native.sh    # or shard across GPUs, one process each —
+                                # start the second shell only after the
+                                # first one's install finishes (they share
+                                # .dots-venv; concurrent installs corrupt it)
 ```
 
 Batched with a `--max-new-tokens` cap (12000) to bound runaway-decode pages.

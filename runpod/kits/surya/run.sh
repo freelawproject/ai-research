@@ -103,16 +103,16 @@ NIMG=0; [[ -d images ]] && NIMG=$(find images -maxdepth 1 -name '*.png' -not -na
   exit 1; }
 echo ">> [surya] set=$SET, mode=$MODE, shard=$SHARD ($NIMG page images)"
 
-if [[ "$SKIP_DEPS" == 1 ]]; then
-  echo ">> [surya] SKIP_DEPS=1 — another worker installed the deps"
-else
-  echo ">> [surya] deps (surya-ocr + client libs)"
-  python -m pip install -q surya-ocr pillow hf_transfer
-  deps_ready
-fi
-
-echo ">> [surya] checking vLLM >= 0.20.1 (arch Qwen3_5ForConditionalGeneration)"
-if ! python - <<'PY'
+# The vLLM version gate lives INSIDE the deps turn: with GPUS=n every
+# worker shares one site-packages, and two concurrent pips uninstall
+# packages from under each other — observed for real as shard 1's
+# upgrade dying on triton's half-removed /usr/local/bin/proton while
+# shard 0's pip was rewriting the same tree (leaving ~riton/~orchaudio
+# debris). So the deps worker checks AND (with ALLOW_VLLM_UPGRADE=1)
+# upgrades before deps_ready releases the waiters; a SKIP_DEPS worker
+# only VERIFIES — it never runs pip.
+vllm_ok() {
+  python - <<'PY'
 import sys
 try:
     import vllm
@@ -121,17 +121,35 @@ try:
 except Exception:
     sys.exit(1)
 PY
-then
-  CUR="$(python -c 'import vllm,sys; sys.stdout.write(getattr(vllm,"__version__","none"))' 2>/dev/null || echo none)"
-  if [[ "$ALLOW_VLLM_UPGRADE" == 1 ]]; then
-    echo ">> [surya] vLLM $CUR too old — upgrading to 0.20.1 (ALLOW_VLLM_UPGRADE=1)"
-    python -m pip install -q -U "vllm==0.20.1"
-  else
-    echo "!! vLLM $CUR does NOT support surya-ocr-2's arch (need >= 0.20.1)."
-    echo "!! Fix: launch the pod from image  vllm/vllm-openai:v0.20.1"
-    echo "!! or re-run with  ALLOW_VLLM_UPGRADE=1 bash run.sh  (may hit CUDA mismatch)."
-    exit 1
+}
+
+if [[ "$SKIP_DEPS" == 1 ]]; then
+  echo ">> [surya] SKIP_DEPS=1 — another worker installed the deps"
+  vllm_ok || {
+    echo "!! vLLM >= 0.20.1 still not importable — the deps worker was" >&2
+    echo "!! supposed to leave it installed; see its worker_shard*.log" >&2
+    exit 1; }
+else
+  echo ">> [surya] deps (surya-ocr + client libs)"
+  python -m pip install -q surya-ocr pillow hf_transfer
+  echo ">> [surya] checking vLLM >= 0.20.1 (arch Qwen3_5ForConditionalGeneration)"
+  if ! vllm_ok; then
+    CUR="$(python -c 'import vllm,sys; sys.stdout.write(getattr(vllm,"__version__","none"))' 2>/dev/null || echo none)"
+    if [[ "$ALLOW_VLLM_UPGRADE" == 1 ]]; then
+      echo ">> [surya] vLLM $CUR too old — upgrading to 0.20.1 (ALLOW_VLLM_UPGRADE=1)"
+      python -m pip install -q -U "vllm==0.20.1"
+      vllm_ok || {
+        echo "!! vLLM 0.20.1 installed but still not importable — see the" >&2
+        echo "!! pip output above (a broken base env, not a version issue)" >&2
+        exit 1; }
+    else
+      echo "!! vLLM $CUR does NOT support surya-ocr-2's arch (need >= 0.20.1)."
+      echo "!! Fix: launch the pod from image  vllm/vllm-openai:v0.20.1"
+      echo "!! or re-run with  ALLOW_VLLM_UPGRADE=1 bash run.sh  (may hit CUDA mismatch)."
+      exit 1
+    fi
   fi
+  deps_ready
 fi
 echo ">> [surya] vLLM ok: $(python -c 'import vllm;print(vllm.__version__)')"
 

@@ -20,7 +20,11 @@ just an OpenAI client — so the arch has to be native to the running server.
 `ALLOW_VLLM_UPGRADE=1` will pip-install 0.20.1 onto an older image. That can
 trip a torch/CUDA mismatch, so booting the right image is still the clean path,
 but the upgrade route is verified working and costs about 5 minutes of install at
-startup. Use it when a v0.20.1 pod is not available.
+startup. Use it when a v0.20.1 pod is not available. Under `GPUS=n` only the
+deps worker runs the upgrade — the others wait on its marker and then verify,
+because a second concurrent pip in the shared site-packages uninstalls
+packages from under the first (how an upgrade dies halfway, leaving
+`~riton`-style debris).
 
 ## Run
 

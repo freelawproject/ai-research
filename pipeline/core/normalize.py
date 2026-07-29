@@ -228,47 +228,43 @@ def _marks_tagged(tokens: list[Token]) -> list[Token]:
 _SUP_CHARS = "⁰¹²³⁴⁵⁶⁷⁸⁹"
 _SUP_RUN = re.compile(f"[{_SUP_CHARS}]+")
 _SUP_TO_DIGIT = str.maketrans(_SUP_CHARS, "0123456789")
-
-
-def _marks_unicode(tokens: list[Token]) -> list[Token]:
-    out: list[Token] = []
-    pending: list[str] = []
-    for t in tokens:
-        runs = _SUP_RUN.findall(t.display)
-        if not runs:
-            out.append(t)
-            _flush_pending(out, pending)
-            continue
-        word = _SUP_RUN.sub("", t.display).strip()
-        if word:
-            out.append(replace(t, display=word, key=_SUP_RUN.sub("", t.key)))
-            _flush_pending(out, pending)
-        for run in runs:
-            _attach_mark(out, pending, run.translate(_SUP_TO_DIGIT))
-    return out
-
-
 _BRACKET_MARK = re.compile(r"(?<![\w])\[(\d{1,2})\](?![\w])")
 
 
-def _marks_bracketed(tokens: list[Token]) -> list[Token]:
-    out: list[Token] = []
-    pending: list[str] = []
-    for t in tokens:
-        found = _BRACKET_MARK.findall(t.display)
-        if not found:
-            out.append(t)
-            _flush_pending(out, pending)
-            continue
-        word = _BRACKET_MARK.sub("", t.display).strip()
-        if word:
-            out.append(
-                replace(t, display=word, key=_BRACKET_MARK.sub("", t.key))
-            )
-            _flush_pending(out, pending)
-        for digits in found:
-            _attach_mark(out, pending, digits)
-    return out
+def _mark_extractor(
+    pattern: re.Pattern[str],
+    to_mark: Callable[[str], str] = lambda m: m,
+) -> Callable[[list[Token]], list[Token]]:
+    """A mark shape found inside a token's text: every match becomes a
+    mark on the surrounding word (stripped from display and key); a
+    token that was ONLY marks attaches them to its neighbors."""
+
+    def apply(tokens: list[Token]) -> list[Token]:
+        out: list[Token] = []
+        pending: list[str] = []
+        for t in tokens:
+            found = pattern.findall(t.display)
+            if not found:
+                out.append(t)
+                _flush_pending(out, pending)
+                continue
+            word = pattern.sub("", t.display).strip()
+            if word:
+                out.append(
+                    replace(t, display=word, key=pattern.sub("", t.key))
+                )
+                _flush_pending(out, pending)
+            for m in found:
+                _attach_mark(out, pending, to_mark(m))
+        return out
+
+    return apply
+
+
+_marks_unicode = _mark_extractor(
+    _SUP_RUN, lambda run: run.translate(_SUP_TO_DIGIT)
+)
+_marks_bracketed = _mark_extractor(_BRACKET_MARK)
 
 
 # A footnote number GLUED onto a word with no space and no markup — the

@@ -282,13 +282,17 @@ def _insert_stars(final: list[dict], norm: dict) -> int:
     return inserted
 
 
+def _build(norm: dict, cmp: dict, recon: dict) -> tuple[list[dict], int, int]:
+    final = resolve_tokens(norm, cmp, recon)
+    n_styled = _union_styling(final, norm)
+    n_stars = _insert_stars(final, norm)
+    return final, n_styled, n_stars
+
+
 def final_stream(norm: dict, cmp: dict, recon: dict) -> list[dict]:
     """The complete final token stream — verdicts applied, styling
     unioned, star pages re-inserted. What the final HTML renders."""
-    final = resolve_tokens(norm, cmp, recon)
-    _union_styling(final, norm)
-    _insert_stars(final, norm)
-    return final
+    return _build(norm, cmp, recon)[0]
 
 
 # ── rendering ────────────────────────────────────────────────────────────
@@ -506,9 +510,7 @@ def assemble_page(
 ) -> dict:
     """The assemble record for one page: the final HTML and text, the
     low-confidence dispute ids the HTML marks, and the page metrics."""
-    final = resolve_tokens(norm, cmp, recon)
-    n_styled = _union_styling(final, norm)
-    n_stars = _insert_stars(final, norm)
+    final, n_styled, n_stars = _build(norm, cmp, recon)
     disputes = cmp["disputes"]
     return {
         "html": render_html(final, recon["main"], main_blocks),

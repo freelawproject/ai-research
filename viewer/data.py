@@ -201,13 +201,15 @@ def built_routes(dataset: str, page: str) -> list[str]:
     ]
 
 
-def _aggregate_route(files: list[Path]) -> dict:
-    """Sum one combination's compare metrics over its artifacts on disk
-    (current schema + registry only, so numbers never mix rule
-    versions)."""
+def _scan_route(route: Route, files: list[Path]) -> dict:
+    """One pass over a combination's artifacts (current schema +
+    registry only, so numbers never mix rule versions): the summed
+    compare metrics AND every flagged dispute (anything short of a
+    clean majority — the review categories select from these)."""
     pages = disputes = majority = low_conf = high_risk = rejected = 0
     degraded = main_blocks = reorders = 0
-    for f in files:
+    flagged: list[dict] = []
+    for f in sorted(files, key=lambda p: _page_key(p.stem)):
         try:
             doc: dict = json.loads(f.read_text(encoding="utf-8"))
         except ValueError:
@@ -226,16 +228,32 @@ def _aggregate_route(files: list[Path]) -> dict:
         rejected += sum(m["by_reason"].get(r, 0) for r in _REJECT_REASONS)
         if cmp["degraded"]:
             degraded += 1
+        for disp in cmp["disputes"]:
+            if disp["resolution"] == "majority" and not disp["low_confidence"]:
+                continue
+            flagged.append(
+                {
+                    "route": route.name,
+                    "engines": list(routes.slugs(route)),
+                    "tiebreak": route.tiebreak is not None,
+                    "page": doc["page"],
+                    "streams": cmp["streams"],
+                    "dispute": disp,
+                }
+            )
     return {
-        "pages": pages,
-        "main_blocks": main_blocks,
-        "disputes": disputes,
-        "majority": majority,
-        "reorders": reorders,
-        "low_conf": low_conf,
-        "high_risk": high_risk,
-        "rejected": rejected,
-        "degraded": degraded,
+        "stats": {
+            "pages": pages,
+            "main_blocks": main_blocks,
+            "disputes": disputes,
+            "majority": majority,
+            "reorders": reorders,
+            "low_conf": low_conf,
+            "high_risk": high_risk,
+            "rejected": rejected,
+            "degraded": degraded,
+        },
+        "flagged": flagged,
     }
 
 
@@ -281,7 +299,7 @@ def _per_route_cached(
     return out
 
 
-_STATS_CACHE = ".stats_cache.json"
+_ROUTE_CACHE = ".route_cache.json"
 
 
 def route_stats(dataset: str) -> list[dict]:
@@ -291,18 +309,17 @@ def route_stats(dataset: str) -> list[dict]:
     low-confidence, high-risk (low-confidence with disputed text over
     the char threshold), and rejection/refusal (the resolver could not
     vote). A combination nobody has built yet reports pages=0."""
-    counts = _per_route_cached(
-        dataset, _STATS_CACHE, lambda route, files: _aggregate_route(files)
-    )
+    scans = _per_route_cached(dataset, _ROUTE_CACHE, _scan_route)
     rows = []
     for route in stats_ordered_combos():
         m1, m2, m3 = routes.slugs(route)
+        scan: dict = scans[route.name]  # type: ignore[assignment]
         rows.append(
             {
                 "route": route.name,
                 "engines": [m1, m2, m3],
                 "tiebreak": route.tiebreak is not None,
-                **counts[route.name],  # type: ignore[dict-item]
+                **scan["stats"],
             }
         )
     return rows
@@ -351,45 +368,16 @@ REVIEW_CATEGORIES: dict[str, dict] = {
 }
 
 
-# The review pages' cache: every FLAGGED dispute (anything short of a
-# clean majority — every review category selects from these).
-_REVIEW_CACHE = ".review_cache.json"
-
-
-def _flagged_from_files(route: routes.Route, files: list[Path]) -> list[dict]:
-    out: list[dict] = []
-    for f in sorted(files, key=lambda p: _page_key(p.stem)):
-        try:
-            doc: dict = json.loads(f.read_text(encoding="utf-8"))
-        except ValueError:
-            continue
-        cmp = doc.get("stages", {}).get("compare")
-        if not _current(doc) or not cmp:
-            continue
-        for disp in cmp["disputes"]:
-            if disp["resolution"] == "majority" and not disp["low_confidence"]:
-                continue
-            out.append(
-                {
-                    "route": route.name,
-                    "engines": list(routes.slugs(route)),
-                    "tiebreak": route.tiebreak is not None,
-                    "page": doc["page"],
-                    "streams": cmp["streams"],
-                    "dispute": disp,
-                }
-            )
-    return out
-
-
 def flagged_disputes(dataset: str) -> list[dict]:
     """Every flagged dispute of a dataset (reorders, fallbacks,
     authoritative keeps, low-confidence — the review categories filter
-    these), in stats-table order, cached on disk per route dir."""
-    per_route = _per_route_cached(dataset, _REVIEW_CACHE, _flagged_from_files)
+    these), in stats-table order. Served from the same one-pass route
+    cache as the stats."""
+    scans = _per_route_cached(dataset, _ROUTE_CACHE, _scan_route)
     out: list[dict] = []
     for route in stats_ordered_combos():
-        out += per_route[route.name]  # type: ignore[arg-type]
+        scan: dict = scans[route.name]  # type: ignore[assignment]
+        out += scan["flagged"]
     return out
 
 

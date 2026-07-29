@@ -162,8 +162,8 @@ def page_png_path(dataset: str, page: str) -> Path:
 # disputes where the resolver could not vote (the "rejection/refusal"
 # bucket of the home-page stats): no cached crop read, read discarded by
 # a degeneration guard (implausible length or a disagreeing ending),
-# dispute not located in the read, or no third voter (a degraded stream
-# — e.g. a gemini refusal).
+# read awaiting its one retry, dispute not located in the read, or no
+# third voter (a degraded stream — e.g. a gemini refusal).
 _REJECT_REASONS = (
     "no-cached-read",
     "retry-pending",
@@ -314,9 +314,10 @@ def route_stats(dataset: str) -> list[dict]:
     """Compare + resolve aggregates for every unique combination over the
     pages built on disk. Counts are per dispute (the
     table shows them as numerator/denominator): majority-resolved,
-    low-confidence, high-risk (low-confidence with disputed text over
-    the char threshold), and rejection/refusal (the resolver could not
-    vote). A combination nobody has built yet reports pages=0."""
+    low-confidence, high-risk (low-confidence with a disputed span over
+    HIGH_RISK_UNITS on some side), and rejection/refusal (the resolver
+    could not vote). A combination nobody has built yet reports
+    pages=0."""
     scans = _per_route_cached(dataset, _ROUTE_CACHE, _scan_route)
     rows = []
     for route in stats_ordered_combos(dataset):
@@ -350,9 +351,10 @@ REVIEW_CATEGORIES: dict[str, dict] = {
         "title": "Rejected or refused disputes",
         "description": (
             "The resolver could not vote: no cached crop read, read "
-            "rejected by the ending guard, dispute not located in the "
-            "read, or a refused/empty supplemental stream. The main "
-            "reading was kept."
+            "discarded by a degeneration guard (implausible length or "
+            "a disagreeing ending), read awaiting its one retry, "
+            "dispute not located in the read, or a refused/empty "
+            "supplemental stream. The main reading was kept."
         ),
         "predicate": lambda d: d.get("reason") in _REJECT_REASONS,
     },

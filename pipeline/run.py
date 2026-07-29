@@ -222,9 +222,8 @@ def _stage_normalize(recon: dict) -> dict:
 def _stage_compare(
     ds: Dataset, page_id: str, route: Route, stages: dict
 ) -> dict:
-    """Compare + resolve on the normalized streams. On tiebreak
-    routes the crop
-    reader is the LightOn cache lookup for this page."""
+    """Compare + resolve on the normalized streams. On tiebreak routes
+    the crop reader is the LightOn cache lookup for this page."""
     read_crop: tiebreak.CropReader | None = None
     if route.tiebreak is not None:
 

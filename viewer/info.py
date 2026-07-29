@@ -36,8 +36,9 @@ ENGINE_INFO: list[dict[str, str]] = [
     },
     {
         "name": "Gemini",
-        "role": "gemini route supplemental — outputs generated upstream "
-        "and consumed as input data (no runner in this package)",
+        "role": "supplemental in any combination that picks it — outputs "
+        "generated upstream and consumed as input data (no runner in "
+        "this package)",
         "architecture": "Google multimodal API model — architecture not "
         "published",
         "bbox": "none — tagged XML with col/x/y attributes, used only as "

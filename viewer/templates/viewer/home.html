@@ -112,8 +112,9 @@
       <li>
         <span class="font-medium">rejected or refused</span> — disputes
         where the resolver could not vote: no cached crop read, read
-        rejected by the ending guard, dispute not located in the read,
-        or a refused/empty supplemental stream.
+        discarded by a degeneration guard (implausible length or a
+        disagreeing ending), read awaiting its one retry, dispute not
+        located in the read, or a refused/empty supplemental stream.
       </li>
       <li>
         <span class="font-medium">low conf.</span> — disputes with no

@@ -307,9 +307,9 @@
           {% if s.in_image %}
             <p class="mb-2 rounded-md bg-amber-50 p-2 text-sm text-amber-800">
               {{ s.label }}: {{ s.in_image|length }}
-              item{{ s.in_image|length|pluralize }} inside a dots image
-              block — in-image text is omitted; the image renders as-is.
-              Overlay: “in-image text”.
+              item{{ s.in_image|length|pluralize }} inside a
+              {{ main_label }} image block — in-image text is omitted;
+              the image renders as-is. Overlay: “in-image text”.
             </p>
           {% endif %}
           {% if s.n_omitted %}
@@ -508,12 +508,16 @@
         </dl>
         <p class="mb-3 text-xs text-neutral-500">
           Gates: blocks under {{ cmp.params.gate_min_chars }} chars are
-          never cropped; a read's last
-          {{ cmp.params.tail_agree_chars }} chars must match the block
-          ending as either stream wrote it (repetition guard);
+          never cropped; a read longer than
+          {{ cmp.params.read_len_ratio }}× either engine's reading of
+          the same blocks is discarded (decoder degeneration); a read's
+          last {{ cmp.params.tail_agree_chars }} chars must match the
+          block ending as either stream wrote it (repetition guard);
           disputes locate by expanding anchors (n =
           {{ cmp.params.anchor_start }}, widened until unique);
-          {{ cmp.skip_roles }} blocks are main-authoritative.
+          {{ cmp.skip_roles }} blocks are main-authoritative. A read
+          that fails a guard buys the crop one retry under tighter
+          decoding — a retry that fails too is final.
         </p>
         {% if cmp.disputes %}
           <ol class="flex max-h-[70vh] flex-col gap-2 overflow-auto text-sm">
@@ -566,10 +570,13 @@
                     <summary class="cursor-pointer text-neutral-600">
                       tiebreak trace —
                       {% if not d.tiebreak.cached %}no cached read for this crop
+                      {% elif d.tiebreak.retry_pending %}first read failed a guard; its one retry has not been run yet
+                      {% elif d.tiebreak.implausible %}read discarded ({{ d.tiebreak.length_ratio }}× the engines' reading of these blocks — decoder degeneration)
                       {% elif not d.tiebreak.accepted %}read rejected (ending matches neither stream)
                       {% elif not d.tiebreak.located %}dispute not located in the read
                       {% elif d.tiebreak.accepted_by == "supp1" %}read accepted (ending matches the supplemental) + located
                       {% else %}read accepted + located{% endif %}
+                      {% if d.tiebreak.attempt == 2 %}(on the retry){% endif %}
                     </summary>
                     <div class="mt-1 flex flex-col gap-2">
                       {% for url in d.crop_urls %}

@@ -32,7 +32,7 @@ they serve as aliases of the canonical route.
 
 Which of the 7 a given dataset PRESENTS is a separate question, answered
 by combos_for(dataset): a dataset without a complete LightOn crop cache
-presents its vote trios only (config.TIEBREAK_DATASETS).
+presents its vote trios only (config.VOTE_ONLY_DATASETS).
 """
 
 from __future__ import annotations
@@ -164,7 +164,7 @@ def all_combos() -> list[Route]:
 def combos_for(dataset: str) -> list[Route]:
     """The combinations a dataset PRESENTS — every one, or the vote
     trios alone where the tiebreak cache is not complete enough to
-    compare fairly (config.TIEBREAK_DATASETS). This is the one list
+    compare fairly (config.VOTE_ONLY_DATASETS). This is the one list
     `--route all`, the stats table, and every combination picker in the
     viewer are built from, so a combination is never offered for a
     dataset that cannot answer it."""

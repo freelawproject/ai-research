@@ -355,7 +355,7 @@ def _supp_ctx(
 
 
 def _norm_ctx(norm: dict | None) -> dict | None:
-    """Stage-6 card context: the registry with per-rule change records
+    """Normalize-card context: the registry with per-rule change records
     (grouped per stream), plus each stream's final key text."""
     if not norm:
         return None

@@ -1,4 +1,6 @@
-"""dots.mocr — the MAIN OCR engine in every route. Loader + decode.
+"""dots.mocr — the MAIN OCR engine whenever it is picked (highest
+main priority; combinations without it fall to mistral or surya).
+Loader + decode.
 
 On-disk raw shape: {"text": <page markdown>, "regions": [{order, label,
 bbox, text}]}. Region text is Markdown for Text/Title regions; bboxes live

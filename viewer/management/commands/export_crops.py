@@ -62,7 +62,7 @@ class Command(BaseCommand):
         if not wanted:
             raise CommandError(
                 f"{name} does not present the tiebreak combinations, so it "
-                "reads no crops (pipeline.core.config.TIEBREAK_DATASETS)"
+                "reads no crops (pipeline.core.config.VOTE_ONLY_DATASETS)"
             )
         combos = []
         for r in wanted:

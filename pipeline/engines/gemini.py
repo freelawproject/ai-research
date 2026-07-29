@@ -1,4 +1,5 @@
-"""Gemini — supplemental engine of the `gemini` route. Loader + decode.
+"""Gemini — supplemental engine in any combination that picks it (no
+bboxes, so it can never be main). Loader + decode.
 
 Gemini outputs are generated UPSTREAM (redacted PDF with an embedded text
 layer + prompt & clues) and consumed here as input data: one tagged XML

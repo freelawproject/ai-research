@@ -168,6 +168,23 @@ def _effective_attrs(el: ET.Element) -> dict:
     return attrs
 
 
+def _table_styled(el: ET.Element, stars: list[str]) -> str:
+    """A <table> block's sanitized HTML: rows and cells kept as
+    structure (attributes stripped), cell content serialized like any
+    inline content. Cells end on their own line — cell texts must
+    never touch (they are separate tokens)."""
+    rows = []
+    for tr in el.iter("tr"):
+        cells = "\n".join(
+            f"<td>{_serialize(td, stars).strip()}</td>"
+            for td in tr
+            if td.tag in ("td", "th")
+        )
+        rows.append(f"<tr>\n{cells}\n</tr>")
+    body = "\n".join(rows)
+    return f"<table>\n{body}\n</table>"
+
+
 def _emit(el: ET.Element, out: list[dict]) -> None:
     stars: list[str] = []
     if el.tag == STAR_TAG:
@@ -186,7 +203,11 @@ def _emit(el: ET.Element, out: list[dict]) -> None:
             }
         )
         return
-    styled = _serialize(el, stars).strip()
+    styled = (
+        _table_styled(el, stars)
+        if el.tag == "table"
+        else _serialize(el, stars).strip()
+    )
     text = " ".join(_own_text(el).split())
     if not text and not stars and el.tag not in IMG_TAGS:
         return

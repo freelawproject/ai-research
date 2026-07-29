@@ -36,6 +36,9 @@ _U_EM = re.compile(r"(?<![\w\\])_(?!_)([^_\n]+?)_(?![\w])")
 # must consume every digit — ^{2020} / ^456 are not footnote marks and
 # stay untouched rather than being half-converted.
 _SUP_MATH = re.compile(r"\$\^\{?\[?([^${}\[\]]{1,8})\]?\}?\$")
+# Inline subscript math: dots writes chemical/technical subscripts as
+# LaTeX ($NO_x$ = NO with a subscript x) — the notation, not content.
+_SUB_MATH = re.compile(r"\$(\w+)_\{?(\w{1,6})\}?\$")
 _SUP_CARET = re.compile(r"\^(?:\{\[?(\d{1,2})\]?\}|\[?(\d{1,2})\]?(?!\d))")
 
 
@@ -85,17 +88,23 @@ def _md_emphasis(escaped: str) -> str:
 
 
 def dots_md_to_html(text: str) -> str:
-    """dots' markdown -> tag convention. `* * *` separator lines are
-    protected first; leading `* ` list markers become the content bullet
-    ● (never confused with *italics*); leading `#` heading markers are
-    structural markup and are dropped; `$^{[N]}$` superscripts become
-    <sup> marks; **/* emphasis becomes <strong>/<em>."""
+    """dots' markdown -> tag convention. A table block (dots emits
+    literal <table>/<tr>/<td> HTML) goes through the HTML sanitizer —
+    structure kept, attributes stripped. Otherwise: `* * *` separator
+    lines are protected first; leading `* ` list markers become the
+    content bullet ● (never confused with *italics*); leading `#`
+    heading markers are structural markup and are dropped; `$^{[N]}$`
+    superscripts become <sup> marks; **/* emphasis becomes
+    <strong>/<em>."""
+    if "<table" in (text or ""):
+        return html_to_html(text)
     t, seps = _protect_separators(text or "")
     t = _BULLET_DOTS.sub("● ", t)
     t = _MD_HEAD.sub("", t)
     t = _restore_separators(t, seps)
     out = html.escape(t, quote=False)
     out = _SUP_MATH.sub(r"<sup>\1</sup>", out)
+    out = _SUB_MATH.sub(r"\1<sub>\2</sub>", out)
     return _md_emphasis(out)
 
 
@@ -134,12 +143,17 @@ def lighton_markup(text: str) -> str:
 
 
 def mistral_md_to_html(text: str) -> str:
-    """Mistral markdown -> tag convention: `![img](url)` refs dropped
+    """Mistral markdown -> tag convention: a table block (Mistral emits
+    literal <table>/<tr>/<th>/<td> HTML) goes through the HTML
+    sanitizer — structure kept, attributes stripped. Otherwise:
+    `![img](url)` refs dropped
     (not text), line-leading list markers (- * •) become ●, `#` heading
     markers dropped, `$…$` math delimiters stripped ($ before a digit =
     currency, preserved), LaTeX artifacts removed, caret superscripts
     (^{7}) become <sup> marks, **/__/*/_ emphasis becomes
     <strong>/<em>."""
+    if "<table" in (text or ""):
+        return html_to_html(text)
     t = _MD_IMAGE.sub("", text or "")
     t, seps = _protect_separators(t)
     t = _BULLET_MISTRAL.sub("● ", t)
@@ -192,11 +206,28 @@ class _Sanitizer(HTMLParser):
             "h4",
             "h5",
             "h6",
-            "table",
-            "tr",
             "br",
         }
     )
+    # table STRUCTURE is kept (attributes stripped): the end product is
+    # HTML, so a parsed table renders as a table. Cells end on their own
+    # line — cell texts must never touch (they are separate tokens).
+    TABLE_OPEN = {
+        "table": "\n<table>\n",
+        "thead": "<thead>\n",
+        "tbody": "<tbody>\n",
+        "tr": "<tr>\n",
+        "td": "<td>",
+        "th": "<th>",
+    }
+    TABLE_CLOSE = {
+        "table": "</table>\n",
+        "thead": "</thead>\n",
+        "tbody": "</tbody>\n",
+        "tr": "</tr>\n",
+        "td": "</td>\n",
+        "th": "</th>\n",
+    }
 
     # surya sometimes writes BOTH the <li> tag and a literal bullet
     # glyph inside the item — one bullet must not become two
@@ -213,6 +244,8 @@ class _Sanitizer(HTMLParser):
         if mapped:
             self.out.append(f"<{mapped}>")
             self.stack.append(mapped)
+        elif tag in self.TABLE_OPEN:
+            self.out.append(self.TABLE_OPEN[tag])
         elif tag == "li":
             # a list item starts its own line AND keeps its bullet:
             # surya's HTML carries the list structure the plain text
@@ -230,6 +263,8 @@ class _Sanitizer(HTMLParser):
                 self.out.append(f"</{top}>")
                 if top == mapped:
                     break
+        elif tag in self.TABLE_CLOSE:
+            self.out.append(self.TABLE_CLOSE[tag])
         elif tag in self.BREAKS:
             self.out.append("\n")
 

@@ -386,6 +386,12 @@ def _wrap_join(tokens: list[Token]) -> list[Token]:
             keep = t.display[-1] not in _PLAIN_HYPHENS
             head = t.display if keep else t.display[:-1]
             khead = t.key if keep else t.key[:-1]
+            if not keep and len(head) >= 2 and nxt.display.startswith(head):
+                # the engine already wrote the COMPLETE word in the
+                # continuation block ("Plain-" then "Plaintiff" at a
+                # column break) — joining would double the fragment;
+                # the continuation carries the whole word
+                head, khead = "", ""
             t = replace(
                 t,
                 display=head + nxt.display,
@@ -506,7 +512,7 @@ _QUOTES = str.maketrans(
 )
 _BULLETS = str.maketrans({c: "●" for c in "•◦‣⁃∙·"})
 _DASHES_FOLD = str.maketrans({c: "-" for c in "‐‑‒–—―−"})
-_SQUARES = "■□▪▫◼◻◾◽▬▮▯❑❒"
+_SQUARES = "■□▪▫◼◻◾◽▬▮▯❑❒█▉▊▋▌▍▎▏▐▀▄▁▂▃▅▆▇░▒▓"
 _SQUARES_DEL = str.maketrans({c: "" for c in _SQUARES})
 
 
@@ -685,7 +691,12 @@ REGISTRY: tuple[Rule, ...] = (
             "keeps a semantic dash (2509–2511); the em dash is "
             "parenthetical and never joins. Joins never cross a "
             "block-role boundary (body 'pre-' must not absorb a "
-            "footnote's leading '4.'). The second fragment's provenance "
+            "footnote's leading '4.'). When the fragment is a PREFIX "
+            "of the next word, the engine already wrote the complete "
+            "word in the continuation block ('Plain-' then "
+            "'Plaintiff' at a column break) — the join keeps the "
+            "whole word once, never 'PlainPlaintiff'. The second "
+            "fragment's provenance "
             "is kept so a dispute crops both bboxes, and marks and "
             "star-page anchors from both fragments survive the join."
         ),
@@ -694,6 +705,7 @@ REGISTRY: tuple[Rule, ...] = (
             ("hy- phen- ated", "hyphenated"),
             ("2509– 2511.", "2509–2511."),
             ("word— next", "word— next"),
+            ("refer Plain- Plaintiff for", "refer Plaintiff for"),
             (
                 [("body pre-", "content"), ("4. footnote", "footnote")],
                 "body pre- 4. footnote",
@@ -766,11 +778,16 @@ REGISTRY: tuple[Rule, ...] = (
         layer="shared",
         applies_to="both",
         description=(
-            "Filled/hollow squares (■□▪…) are the models' misread "
-            "redaction bars, not content: removed from keys, and an "
-            "all-square token is dropped entirely (never attached)."
+            "Filled/hollow squares and Unicode block elements (■□▪█▓…) "
+            "are the models' misread redaction bars, not content "
+            "(surya reads a redaction as runs of █): removed from "
+            "keys, and an all-square token is dropped entirely (never "
+            "attached)."
         ),
-        examples=(("■ real text ■■", "real text"),),
+        examples=(
+            ("■ real text ■■", "real text"),
+            ("█ █ █ █ kept", "kept"),
+        ),
         fn=_squares_strip,
     ),
     Rule(
@@ -807,15 +824,25 @@ REGISTRY: tuple[Rule, ...] = (
         description=(
             "dots markdown -> tag convention: `* * *` separator lines "
             "protected; leading `* ` list markers -> ●; leading # "
-            "heading markers dropped; $^{[N]}$ -> <sup>; **/* -> "
-            "strong/em."
+            "heading markers dropped; $^{[N]}$ -> <sup>; inline "
+            "subscript math ($NO_x$) -> NO<sub>x</sub>; **/* -> "
+            "strong/em. A table block (dots emits literal "
+            "<table>/<tr>/<td> HTML) keeps its structure, attributes "
+            "stripped — cell text stays comparable unit by unit and "
+            "the final renders a real table."
         ),
         examples=(
             ("see *Searle* now", "see <em>Searle</em> now"),
             ("* * *", "* * *"),
             ("* first item", "● first item"),
             ("word.$^{[4]}$", "word.<sup>4</sup>"),
+            ("reduce $NO_x$ emissions", "reduce NO<sub>x</sub> emissions"),
             ("## I. BACKGROUND", "I. BACKGROUND"),
+            (
+                "<table><tr><td>7</td><td>Lakefront</td></tr></table>",
+                "<table>\n<tr>\n<td>7</td>\n<td>Lakefront</td>\n</tr>\n"
+                "</table>",
+            ),
         ),
         fn=markup.dots_md_to_html,
         kind="decode",
@@ -829,9 +856,15 @@ REGISTRY: tuple[Rule, ...] = (
             "dropped; -/*/• list markers -> ●; # heading markers "
             "dropped; $…$ math delimiters stripped ($ before a digit "
             "is currency, kept); LaTeX artifacts removed; ^{7} -> "
-            "<sup>; **/__/*/_ emphasis -> strong/em."
+            "<sup>; **/__/*/_ emphasis -> strong/em. A table block "
+            "(literal <table>/<tr>/<th>/<td> HTML) keeps its "
+            "structure, attributes stripped."
         ),
         examples=(
+            (
+                '<table><tr><th colspan="2">Share</th></tr></table>',
+                "<table>\n<tr>\n<th>Share</th>\n</tr>\n</table>",
+            ),
             ("- item one", "● item one"),
             ("$Id.$ at 376", "Id. at 376"),
             ("a $100,000 fine", "a $100,000 fine"),
@@ -874,7 +907,8 @@ REGISTRY: tuple[Rule, ...] = (
             "(p, div, ul/ol/li, h*, br) imply LINE BREAKS and are "
             "preserved as newlines; <li> items keep a ● bullet on "
             "their own line (the HTML carries structure the plain "
-            "text drops)."
+            "text drops). Table structure (table/thead/tbody/tr/th/td) "
+            "is kept, attributes stripped."
         ),
         examples=(
             (
@@ -884,8 +918,28 @@ REGISTRY: tuple[Rule, ...] = (
             ("<ul><li>first<li>second</ul>", "● first\n● second"),
             ("<p>one</p><p>two</p>", "one\ntwo"),
             ("line one<br>line two", "line one\nline two"),
+            (
+                '<table border="1">\n<tr>\n<th>Share</th>\n</tr>\n</table>',
+                "<table>\n<tr>\n<th>Share</th>\n</tr>\n</table>",
+            ),
         ),
         fn=markup.html_to_html,
+        kind="decode",
+    ),
+    Rule(
+        name="gemini-tables",
+        layer="gemini",
+        applies_to="styled",
+        description=(
+            "A gemini <table> XML block keeps its rows and cells as "
+            "sanitized HTML structure (attributes stripped; cell "
+            "content serialized like any inline content) — cell text "
+            "stays comparable unit by unit and the final renders a "
+            "real table. Structural policy implemented in "
+            "engines/gemini.py, tested there."
+        ),
+        examples=(),
+        fn=None,
         kind="decode",
     ),
     Rule(

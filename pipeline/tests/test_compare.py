@@ -14,11 +14,20 @@ BBOX = {0: [10, 10, 200, 60], 1: [10, 70, 200, 120], 2: [10, 130, 200, 180]}
 
 
 def toks(text: str, item: int = 0, **extra: object) -> list[dict]:
-    """One token per whitespace word (keys == display — the compare
-    stage only ever reads key/display/item/wrap/marks)."""
+    """One token per whitespace word (keys == display). Spans are the
+    words' real char offsets, like the tokenizer's — whitespace-
+    separated words never touch, so none of them GLUE at assembly."""
     out = []
-    for i, w in enumerate(text.split()):
-        t: dict = {"display": w, "key": w, "item": item, "span": [i, i + 1]}
+    pos = 0
+    for w in text.split():
+        start = text.index(w, pos)
+        pos = start + len(w)
+        t: dict = {
+            "display": w,
+            "key": w,
+            "item": item,
+            "span": [start, pos],
+        }
         t.update(extra)
         out.append(t)
     return out

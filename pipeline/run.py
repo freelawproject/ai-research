@@ -8,9 +8,10 @@
 Implemented stages: render, layout, main OCR (the route's bbox-capable
 main engine), supplemental OCR, reconstruct (reading order; raw text),
 normalize (canonical tokens; the rule registry grows rule by rule),
-and compare + resolve (disputes on the unit-key streams; LightOn
-cached-crop tiebreak or direct three-way vote). Assembly lands next;
-the artifact's "stages" object grows as it does (docs/pipeline.md).
+compare + resolve (disputes on the unit-key streams; LightOn
+cached-crop tiebreak or direct three-way vote), and assemble (the
+final HTML: main skeleton, resolved tokens, styling union,
+low-confidence marks). The artifact contract is docs/pipeline.md.
 """
 
 from __future__ import annotations
@@ -21,7 +22,14 @@ from collections.abc import Sequence
 from pathlib import Path
 
 from pipeline import routes
-from pipeline.core import compare, layout, normalize, reconstruct, render
+from pipeline.core import (
+    assemble,
+    compare,
+    layout,
+    normalize,
+    reconstruct,
+    render,
+)
 from pipeline.core.artifacts import SCHEMA_VERSION, artifact_path
 from pipeline.core.config import RENDER_H, RENDER_W, Dataset, dataset
 from pipeline.core.pages import Page, discover_pages
@@ -207,7 +215,7 @@ def build_page_artifact(ds: Dataset, page: Page, route: Route) -> dict | None:
     for supp in supps:
         _stamp_black_frac(ds, page, supp["blocks"])
     recon = _stage_reconstruct(containers, main_ocr, supps)
-    stages = {
+    stages: dict = {
         "render": _stage_render(ds, page),
         "layout": _stage_layout(containers),
         "main_ocr": main_ocr,
@@ -216,6 +224,12 @@ def build_page_artifact(ds: Dataset, page: Page, route: Route) -> dict | None:
         "normalize": _stage_normalize(recon),
     }
     stages["compare"] = _stage_compare(ds, page.page_id, route, stages)
+    stages["assemble"] = assemble.assemble_page(
+        stages["normalize"],
+        stages["compare"],
+        recon,
+        main_ocr["blocks"],
+    )
     return {
         "schema_version": SCHEMA_VERSION,
         "dataset": ds.name,

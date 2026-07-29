@@ -8,7 +8,7 @@ in docs/pipeline.md and evolves with SCHEMA_VERSION.
 
 from pathlib import Path
 
-SCHEMA_VERSION = 8
+SCHEMA_VERSION = 11
 
 
 def artifact_path(

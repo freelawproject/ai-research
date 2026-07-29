@@ -55,6 +55,8 @@ env PYTHONPATH="$ROOT" HF_HUB_ENABLE_HF_TRANSFER=1 "$DOTS_VENV/bin/python" \
 
 echo ">> [dots] packaging"
 TAR="dots_out_$(cat "$ROOT/SET" 2>/dev/null || echo out).tar.gz"
-tar czf "$TAR" -C . out
+COPYFILE_DISABLE=1 tar czf "$TAR" -C . \
+  --exclude '.DS_Store' --exclude '._*' --exclude '__pycache__' \
+  --exclude '*.part' out
 echo ">> DONE → $ROOT/$TAR ($(du -h "$TAR" | cut -f1))"
 echo ">> send back:  runpodctl send $TAR"

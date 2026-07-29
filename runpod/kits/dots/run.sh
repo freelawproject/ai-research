@@ -55,22 +55,19 @@ echo ">> [dots-vllm] set=$SET, shard=$SHARD ($NIMG page images)"
 if [[ "${SKIP_DEPS:-0}" == 1 ]]; then
   echo ">> [dots-vllm] SKIP_DEPS=1 — another worker installed the deps"
 else
-echo ">> [dots-vllm] deps (client + vllm if absent)"
-command -v vllm >/dev/null || python -m pip install -q "vllm==0.11.0"
-# hf_transfer: base images set HF_HUB_ENABLE_HF_TRANSFER=1, which hard-fails the
-# model download unless the package is present (also speeds up the ~6GB pull).
-python -m pip install -q openai hf_transfer
+  echo ">> [dots-vllm] deps (client + vllm if absent)"
+  command -v vllm >/dev/null || python -m pip install -q "vllm==0.11.0"
+  # hf_transfer: base images set HF_HUB_ENABLE_HF_TRANSFER=1, which hard-fails
+  # the model download unless the package is present (also speeds up the ~6GB
+  # pull).
+  python -m pip install -q openai hf_transfer
 
-# transformers: vLLM 0.11.0 needs the 4.57 series, but its dep spec has no upper
-# cap, so a base image's transformers 5.x survives the vllm install and breaks
-# the tokenizer (Qwen2Tokenizer.all_special_tokens_extended).
-#
-# Only intervene when the installed version is actually out of range. The
-# v0.11.0 image already ships a good one, and force-installing over it is how
-# this broke before: the old pin was `==4.57.0`, which PyPI has YANKED ("Error
-# in the setup causing installation issues") — it replaced a working install
-# with a broken one and the engine core failed to start. 4.57.1+ are fine.
-python - <<'PY' || python -m pip install -q "transformers>=4.57.1,<4.58"
+  # transformers: vLLM 0.11.0 needs the 4.57 series, but its dep spec has no
+  # upper cap, so a base image's transformers 5.x survives the vllm install
+  # and breaks the tokenizer (Qwen2Tokenizer.all_special_tokens_extended).
+  # Reinstall only when the installed version is out of range — and never pin
+  # ==4.57.0, which is yanked on PyPI; 4.57.1+ are fine.
+  python - <<'PY' || python -m pip install -q "transformers>=4.57.1,<4.58"
 import sys
 try:
     from packaging.version import Version
@@ -85,6 +82,19 @@ except Exception as e:
 PY
   deps_ready
 fi
+
+# Preflight: the #1 pod failure is a host-driver / torch-CUDA mismatch (vLLM's
+# torch built for a newer CUDA than the host driver supports). Fail fast with
+# a one-line diagnosis instead of a wall of engine-core traceback.
+echo ">> [dots-vllm] preflight: driver vs torch CUDA"
+python - <<'PY' || { echo "!! CUDA preflight FAILED — pick a pod whose host CUDA >= torch's built CUDA (RunPod 'CUDA Version' badge), or reinstall a matching-cu torch. See README." >&2; exit 1; }
+import torch, sys
+built = torch.version.cuda
+print(f"   torch {torch.__version__} built for CUDA {built}")
+if not torch.cuda.is_available():
+    print("   torch.cuda.is_available() == False", file=sys.stderr); sys.exit(1)
+print(f"   device: {torch.cuda.get_device_name(0)}")
+PY
 
 # Check BEFORE announcing a start, so the failure does not read as "started,
 # then refused". A port already in use means this server cannot bind and dies.

@@ -105,12 +105,9 @@ echo ">> [surya] set=$SET, mode=$MODE, shard=$SHARD ($NIMG page images)"
 
 # The vLLM version gate lives INSIDE the deps turn: with GPUS=n every
 # worker shares one site-packages, and two concurrent pips uninstall
-# packages from under each other — observed for real as shard 1's
-# upgrade dying on triton's half-removed /usr/local/bin/proton while
-# shard 0's pip was rewriting the same tree (leaving ~riton/~orchaudio
-# debris). So the deps worker checks AND (with ALLOW_VLLM_UPGRADE=1)
-# upgrades before deps_ready releases the waiters; a SKIP_DEPS worker
-# only VERIFIES — it never runs pip.
+# packages from under each other. The deps worker checks AND (with
+# ALLOW_VLLM_UPGRADE=1) upgrades before deps_ready releases the
+# waiters; a SKIP_DEPS worker only VERIFIES — it never runs pip.
 vllm_ok() {
   python - <<'PY'
 import sys
@@ -152,6 +149,19 @@ else
   deps_ready
 fi
 echo ">> [surya] vLLM ok: $(python -c 'import vllm;print(vllm.__version__)')"
+
+# Preflight: the #1 pod failure is a host-driver / torch-CUDA mismatch (vLLM's
+# torch built for a newer CUDA than the host driver supports). Fail fast with
+# a one-line diagnosis instead of a wall of engine-core traceback.
+echo ">> [surya] preflight: driver vs torch CUDA"
+python - <<'PY' || { echo "!! CUDA preflight FAILED — pick a pod whose host CUDA >= torch's built CUDA (RunPod 'CUDA Version' badge), or reinstall a matching-cu torch. See README." >&2; exit 1; }
+import torch, sys
+built = torch.version.cuda
+print(f"   torch {torch.__version__} built for CUDA {built}")
+if not torch.cuda.is_available():
+    print("   torch.cuda.is_available() == False", file=sys.stderr); sys.exit(1)
+print(f"   device: {torch.cuda.get_device_name(0)}")
+PY
 
 SERVE_ARGS=(
   "$MODEL_ID"

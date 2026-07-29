@@ -54,7 +54,7 @@ else
   echo ">> [lighton] deps"
   command -v vllm >/dev/null || python -m pip install -q vllm
   python -m pip install -q openai hf_transfer
-  [[ -n "${_FANOUT_CHILD:-}" ]] && deps_ready
+  deps_ready
 fi
 export HF_HUB_ENABLE_HF_TRANSFER=1
 

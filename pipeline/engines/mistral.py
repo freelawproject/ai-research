@@ -1,8 +1,9 @@
-"""Mistral OCR — supplemental engine of the `mistral` route. Loader + decode.
+"""Mistral OCR loader + decode.
 
 On-disk raw shape: [{type, bbox, text}] per page — whole-page OCR with block
 bboxes (include_blocks); text is Markdown with styling; bboxes live in the
-canonical 1700x2200 space.
+canonical 1700x2200 space. A page may instead hold the whole response
+object ({markdown, blocks}) — the block list inside is the same shape.
 """
 
 from __future__ import annotations
@@ -19,7 +20,10 @@ def load(ds: Dataset, page_id: str) -> list[dict] | None:
     f = ds.engine_dir(ENGINE) / f"{page_id}.json"
     if not f.exists():
         return None
-    return json.loads(f.read_text(encoding="utf-8") or "[]")
+    raw = json.loads(f.read_text(encoding="utf-8") or "[]")
+    if isinstance(raw, dict):  # whole-response shape: {markdown, blocks}
+        return list(raw.get("blocks", []))
+    return raw
 
 
 def blocks(raw: list[dict]) -> list[dict]:

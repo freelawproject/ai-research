@@ -1,7 +1,12 @@
-"""Page discovery from a dataset's redacted volume tree.
+"""Page discovery from a dataset's redacted sources. Two layouts:
 
-page_id = "{reporter}.{volume}.{first_page}__p{index}" — the id every engine
-output and container prediction is keyed by.
+- volume tree — redacted/<reporter>/<volume>/<first_page>/ holding the
+  volume PDF; page_id = "{reporter}.{volume}.{first_page}__p{index}".
+- flat — redacted/ holding one single-page redacted PDF per page
+  (sampled sets); page_id = the PDF's stem.
+
+Either way, the page_id is the key every engine output and container
+prediction uses.
 """
 
 from __future__ import annotations
@@ -66,6 +71,25 @@ def _discover(redacted: Path) -> tuple[Page, ...]:
                     src_pdf=src,
                 )
             )
+    if pages:
+        return tuple(pages)
+    # flat layout: one single-page redacted PDF per page, the stem is
+    # the page id (redaction is baked into the PDF, so there are no
+    # per-volume rects to consult)
+    for pdf in sorted(redacted.glob("*.pdf")):
+        rep, _, rest = pdf.stem.partition(".")
+        vol, _, fp = rest.partition(".")
+        pages.append(
+            Page(
+                page_id=pdf.stem,
+                reporter=rep,
+                volume=vol,
+                first_page=fp,
+                page_index=0,
+                vol_dir=redacted,
+                src_pdf=pdf,
+            )
+        )
     return tuple(pages)
 
 

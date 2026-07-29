@@ -54,6 +54,26 @@ _BULLET_DOTS = re.compile(r"^[ \t]*[*+•·][ \t]+", re.M)
 _BULLET_MISTRAL = re.compile(r"^[ \t]*[-*•][ \t]+", re.M)
 _MD_HEAD = re.compile(r"^[ \t]*#{1,6}[ \t]*", re.M)
 _MD_IMAGE = re.compile(r"!\[[^\]]*\]\([^)]*\)")
+# Mistral sometimes leaks its own block coordinates into the block TEXT
+# as [BBOX]x0,y0,x1,y1[/BBOX] (normalized 0-1 floats, occasionally with
+# the closing tag missing). Coordinates are not reading content: they
+# arrive already as the block's own bbox field, and left in place they
+# tokenize into dozens of digit/comma units that no other engine has.
+# The inner run is restricted to COORDINATE characters (digits, dots,
+# commas, spaces/tabs — never letters or a newline): with the closing tag
+# missing, a permissive inner match would swallow the sentence after it.
+_MISTRAL_BBOX = re.compile(
+    r"\[\s*BBOX\s*\][\d.,\t ]*(?:\[\s*/\s*BBOX\s*\])?", re.I
+)
+
+
+def strip_mistral_bbox(text: str) -> str:
+    """Drop leaked [BBOX]…[/BBOX] coordinate markers. Applied to the
+    block's plain text AND its markup, so the marker reaches neither
+    the reconstruction (where block text sizes the tiebreak gate) nor
+    the token stream."""
+    return _MISTRAL_BBOX.sub("", text or "").lstrip()
+
 
 # ── LightOn LaTeX / math cleanup ─────────────────────────────────────────
 # LaTeX wraps are removed ENTIRELY, contents and all — they are spurious
@@ -146,7 +166,8 @@ def mistral_md_to_html(text: str) -> str:
     """Mistral markdown -> tag convention: a table block (Mistral emits
     literal <table>/<tr>/<th>/<td> HTML) goes through the HTML
     sanitizer — structure kept, attributes stripped. Otherwise:
-    `![img](url)` refs dropped
+    `[BBOX]…[/BBOX]` coordinate leakage dropped, `![img](url)` refs
+    dropped
     (not text), line-leading list markers (- * •) become ●, `#` heading
     markers dropped, `$…$` math delimiters stripped ($ before a digit =
     currency, preserved), LaTeX artifacts removed, caret superscripts
@@ -154,7 +175,7 @@ def mistral_md_to_html(text: str) -> str:
     <strong>/<em>."""
     if "<table" in (text or ""):
         return html_to_html(text)
-    t = _MD_IMAGE.sub("", text or "")
+    t = _MD_IMAGE.sub("", strip_mistral_bbox(text))
     t, seps = _protect_separators(t)
     t = _BULLET_MISTRAL.sub("● ", t)
     t = _MD_HEAD.sub("", t)

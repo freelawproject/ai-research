@@ -81,7 +81,9 @@
    split, quote/bullet/dash glyph folds, redaction-square and
    emphasis-residue cleanup, heading markers); decode
    entries document the per-engine format decoding in `core/markup.py`
-   (dots/mistral markdown, LightOn math/LaTeX, surya HTML with `<li>`
+   (dots/mistral markdown — including mistral's leaked
+   `[BBOX]x0,y0,x1,y1[/BBOX]` coordinate markers, dropped from the
+   block text and its markup — LightOn math/LaTeX, surya HTML with `<li>`
    bullets, gemini payload repair + star pages). Parsed TABLES keep
    their structure in every engine's decode (sanitized
    table/tr/th/td, attributes stripped): cell text stays comparable

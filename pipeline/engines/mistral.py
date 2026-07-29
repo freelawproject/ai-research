@@ -11,7 +11,7 @@ from __future__ import annotations
 import json
 
 from pipeline.core.config import Dataset
-from pipeline.core.markup import mistral_md_to_html
+from pipeline.core.markup import mistral_md_to_html, strip_mistral_bbox
 
 ENGINE = "mistral"
 
@@ -29,15 +29,21 @@ def load(ds: Dataset, page_id: str) -> list[dict] | None:
 def blocks(raw: list[dict]) -> list[dict]:
     """The decoded block list: [{id, type, label, bbox, text, styled}].
     `styled` = the Markdown styling converted to sanitized HTML;
-    `label` mirrors `type` so every engine's blocks read uniformly."""
-    return [
-        {
-            "id": i,
-            "type": b.get("type", ""),
-            "label": b.get("type", ""),
-            "bbox": b.get("bbox"),
-            "text": b.get("text", ""),
-            "styled": mistral_md_to_html(b.get("text", "")),
-        }
-        for i, b in enumerate(raw)
-    ]
+    `label` mirrors `type` so every engine's blocks read uniformly.
+    Leaked [BBOX] coordinate markers are dropped from the text as well
+    as the markup — they are this engine's own bbox restated, and the
+    block already carries it as a field."""
+    out = []
+    for i, b in enumerate(raw):
+        text = strip_mistral_bbox(b.get("text", ""))
+        out.append(
+            {
+                "id": i,
+                "type": b.get("type", ""),
+                "label": b.get("type", ""),
+                "bbox": b.get("bbox"),
+                "text": text,
+                "styled": mistral_md_to_html(text),
+            }
+        )
+    return out

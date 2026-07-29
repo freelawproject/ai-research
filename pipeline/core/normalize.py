@@ -848,8 +848,11 @@ REGISTRY: tuple[Rule, ...] = (
         layer="mistral",
         applies_to="styled",
         description=(
-            "Mistral markdown -> tag convention: ![img](url) refs "
-            "dropped; -/*/• list markers -> ●; # heading markers "
+            "Mistral markdown -> tag convention: leaked "
+            "[BBOX]x0,y0,x1,y1[/BBOX] coordinate markers dropped (the "
+            "engine restating its own bbox, which the block already "
+            "carries as a field — not reading content); ![img](url) "
+            "refs dropped; -/*/• list markers -> ●; # heading markers "
             "dropped; $…$ math delimiters stripped ($ before a digit "
             "is currency, kept); LaTeX artifacts removed; ^{7} -> "
             "<sup>; **/__/*/_ emphasis -> strong/em. A table block "
@@ -861,6 +864,14 @@ REGISTRY: tuple[Rule, ...] = (
                 '<table><tr><th colspan="2">Share</th></tr></table>',
                 "<table>\n<tr>\n<th>Share</th>\n</tr>\n</table>",
             ),
+            (
+                "[BBOX]0.1548,0.1455,0.2847,0.1800[/BBOX] ¶60 Under",
+                "¶60 Under",
+            ),
+            # the closing tag is sometimes missing
+            ("[BBOX]0.50,0.56,0.58,0.62 the sentence", "the sentence"),
+            # a bracketed citation is NOT a coordinate marker
+            ("[R.C. 2923.12], illegal", "[R.C. 2923.12], illegal"),
             ("- item one", "● item one"),
             ("$Id.$ at 376", "Id. at 376"),
             ("a $100,000 fine", "a $100,000 fine"),

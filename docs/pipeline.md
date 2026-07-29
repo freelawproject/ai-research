@@ -66,12 +66,17 @@
    at compare + resolve). All rules live in one ordered registry
    (`pipeline/core/normalize.py`): stream rules transform the token
    stream (footnote-mark extraction in four shapes, NFKC, wrap-hyphen
-   joins that never cross a block-role boundary, the word/symbol unit
+   joins that never cross a block-role boundary — and when an engine
+   wrote the complete word again in the continuation block, the join
+   keeps it once — the word/symbol unit
    split, quote/bullet/dash glyph folds, redaction-square and
    emphasis-residue cleanup, heading markers); decode
    entries document the per-engine format decoding in `core/markup.py`
    (dots/mistral markdown, LightOn math/LaTeX, surya HTML with `<li>`
-   bullets, gemini payload repair + star pages). A rule declares its
+   bullets, gemini payload repair + star pages). Parsed TABLES keep
+   their structure in every engine's decode (sanitized
+   table/tr/th/td, attributes stripped): cell text stays comparable
+   unit by unit, and the table renders as a table. A rule declares its
    layer (`shared` applies to every engine identically; an engine-named
    layer only that engine's format), what it may change, and example
    strings that are executed verbatim as unit tests. The registry hash
@@ -111,13 +116,41 @@
    reported, main carries it. The resolution parameters are stamped
    into every artifact. Corpus view: `uv run python manage.py
    report_disputes --dataset <name>`.
-8. **Assemble** — main-engine skeleton + resolved tokens + styling
-   union across engines; final HTML with low-confidence marks. Quality
-   is judged by comparing different routes' finals side by side:
-   differences are highlighted, and cross-route agreement is the
-   confidence signal (there is no reference data in production).
+8. **Assemble** — the final page (`pipeline/core/assemble.py`). The
+   main engine's reconstruction is the skeleton: its items in reading
+   order, one HTML block element per item, carrying the item's role
+   (`data-role`); an image block holds its position as an empty
+   `<figure data-bbox>` placeholder the consumer crops from the
+   canonical page PNG. The skeleton fills with the main normalized
+   stream, every compare + resolve verdict applied: where a
+   supplemental's reading won the majority its tokens substitute the
+   main tokens (an insertion lands at the dispute's anchor item);
+   everywhere else the main tokens stand, and a low-confidence dispute
+   renders wrapped in `<mark class="low-confidence">` (high-risk adds
+   a class) — the final flags exactly the spans worth a human look. A
+   low-confidence dispute whose main side is empty (an engine read
+   extra text that did not win) renders a zero-width ∅ marker whose
+   title carries the other reading, so it stays visible without
+   contributing content.
+   The presentation restores the source spacing: the unit split keeps
+   `word,` as two comparison units, but a unit whose provenance shows
+   it was contiguous with its predecessor renders glued to it —
+   punctuation reattaches to its word, free-standing symbols keep
+   their space. A structural item (a table) renders by SPLICING the
+   resolved tokens back into its own sanitized html at their
+   provenance spans — rows and cells stay intact while disputes still
+   substitute and mark.
+   Styling is a UNION across engines aligned by unit key (display
+   only): wherever a stream agrees with the final unit, any emphasis
+   it saw joins that unit. Footnote marks ride their tokens and render
+   as `<sup>` after the word; gemini parallel-reporter star pages are
+   re-inserted at their aligned final position (a marker that arrived
+   on a winning substituted token is never doubled). Quality is judged
+   route-vs-route — the viewer's compare view puts two finals side by
+   side (README); cross-route agreement is the confidence signal
+   (there is no reference data in production).
 
-## Artifact contract (v8)
+## Artifact contract (v11)
 
 The pipeline writes one JSON document per page × route:
 
@@ -127,7 +160,7 @@ data/artifacts/<dataset>/<route>/<page>.json
 
 ```jsonc
 {
-  "schema_version": 8,
+  "schema_version": 11,
   "dataset": "sample30",
   "page": "a3d.340.1__p0",
   "route": "dots+mistral+lighton",
@@ -229,8 +262,24 @@ data/artifacts/<dataset>/<route>/<page>.json
                   "tiebreak": {"attempted": 6, "cached": 6,
                                "accepted": 5, "voted": 3}}
     },
-    // lands in the next milestone:
-    "assemble":     {"final_html": "<path>", "low_confidence": [], "metrics": {}}
+    "assemble": {
+      // the final page: the main reconstruction's items in reading
+      // order (<p>/<h2>/<blockquote> per role, data-role/data-item
+      // attributes), filled with the resolved token stream — winning
+      // supplemental readings substituted, low-confidence disputes
+      // wrapped in <mark class="low-confidence"> (+" high-risk"; an
+      // empty main side renders a zero-width ∅ marker instead),
+      // styling unioned across engines as <em>/<strong>/<u>/<sub>,
+      // footnote marks as <sup>, star pages as
+      // <span class="star-page">, image blocks as empty
+      // <figure data-bbox> placeholders (crop them from render.png):
+      "html": "<p data-item=\"0\" data-role=\"content\">…</p>",
+      "text": "…",                    // plain reading text, one line per item
+      "low_confidence": [3, 5],       // dispute ids the html marks
+      "metrics": {"units": 787, "substitutions": 2, "substituted_units": 3,
+                  "n_low_confidence": 2, "n_high_risk": 1,
+                  "styling_unioned": 4, "star_pages": 0}
+    }
   }
 }
 ```
@@ -244,15 +293,29 @@ package — design it from this schema.
 ```
 data/
   datasets/<name>/
-    redacted/            source volume trees (PDFs + redaction rects)
+    redacted/            source volume trees (PDFs + redaction rects), OR
+                         flat: one single-page redacted PDF per page
+                         (sampled sets; the PDF stem is the page id)
     page_png/            canonical rendered pages (what every engine saw)
     engines/
       container_yolo/    layout detections per page (JSON)
       dots/              dots block reads (JSON)
       gemini/            gemini page XML (generated upstream)
-      mistral/           mistral whole-page block reads (JSON)
+      mistral/           mistral whole-page block reads (JSON; a page may
+                         hold the whole response object {markdown, blocks})
       surya/block/       surya block reads (surya_block picks)
       lighton_crops/     cached tiebreak crop reads (keyed page + bbox)
   weights/               container-YOLO weights (container_round2.pt)
   artifacts/<dataset>/<route>/   pipeline outputs (contract above)
+  exports/               LightOn crop bundles (manage.py export_crops)
 ```
+
+A dataset missing its LightOn crop cache runs the tiebreak combinations
+with every crop as an honest no-vote. To fill the cache:
+`manage.py export_crops --dataset <name>` builds the tiebreak
+combinations' artifacts, collects every disputed region without a
+cached read, and writes the LightOn pod kit's input bundle
+(crops/<key>.png + manifest.jsonl; key = `<page>_<x0>_<y0>_<x1>_<y1>`)
+to `data/exports/lighton_<name>/`; after the pod run,
+`manage.py ingest_reads --dataset <name> <reads tarball>` lands the
+reads in the cache, and re-running the combinations picks up the votes.

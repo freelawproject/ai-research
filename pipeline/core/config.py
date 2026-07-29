@@ -44,6 +44,12 @@ class Dataset:
         return self.root / "redacted"
 
     @property
+    def source(self) -> Path:
+        """Whole-volume PDFs behind a prerendered set — the only layout
+        with no per-page PDF to point at (pipeline.core.pages)."""
+        return self.root / "source"
+
+    @property
     def page_png(self) -> Path:
         return self.root / "page_png"
 

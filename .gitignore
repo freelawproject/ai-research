@@ -13,10 +13,12 @@ __pycache__/
 # Secrets
 .env
 
-# Data, models, archives — distributed separately as a zip (see README).
+# Data, models, archives — distributed separately as zips (see README).
 # `data/` also covers the pod kits' staged sets (runpod/data/); a kit
 # holds CODE only, every byte of its input is staged at pack time.
+# `align_data/` is the alignment surface's root, shipped as its own zip.
 data/
+align_data/
 *.pt
 *.tar.gz
 *.zip

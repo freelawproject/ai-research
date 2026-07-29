@@ -13,5 +13,6 @@ fi
 
 out="../extraction_data_$(date +%Y%m%d).zip"
 rm -f "$out"
-zip -rq "$out" data -x '*.DS_Store'
+# exports/ is pod-kit staging (manage.py export_crops), never shipped
+zip -rq "$out" data -x '*.DS_Store' -x 'data/exports/*'
 echo "wrote $(cd .. && pwd)/$(basename "$out")"

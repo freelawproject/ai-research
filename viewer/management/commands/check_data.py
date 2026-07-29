@@ -91,9 +91,11 @@ class Command(BaseCommand):
             else:
                 self.stdout.write(
                     self.style.ERROR(
-                        "  ✗ no discoverable pages — each volume needs "
-                        "redacted/<reporter>/<volume>/<first_page>/ with "
-                        "detections.json and the source PDF"
+                        "  ✗ no discoverable pages — redacted/ holds "
+                        "either volume trees (<reporter>/<volume>/"
+                        "<first_page>/ with detections.json and the "
+                        "source PDF) or one single-page redacted PDF "
+                        "per page (flat layout; the stem is the page id)"
                     )
                 )
                 problems += 1

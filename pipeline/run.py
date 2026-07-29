@@ -318,14 +318,15 @@ def main() -> None:
         required=True,
         help=(
             "a combination like dots+gemini+mistral (order doesn't "
-            "matter), 'all' (= all 7 unique combinations — feeds the "
-            f"home-page stats table), or a legacy alias "
-            f"({', '.join(PRESETS)})"
+            "matter), 'all' (= every combination this dataset PRESENTS, "
+            "which feeds the home-page stats table: all 7, or the 4 "
+            "three-way votes where the LightOn crop cache is "
+            f"incomplete), or a legacy alias ({', '.join(PRESETS)})"
         ),
     )
     args = parser.parse_args()
     if args.route == "all":
-        route_list = routes.all_combos()
+        route_list = routes.combos_for(args.dataset)
     else:
         route_list = [resolve(args.route)]
     for route in route_list:

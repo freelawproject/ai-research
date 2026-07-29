@@ -29,11 +29,17 @@ name is "<main>+<rest sorted>+[lighton]", e.g. "dots+gemini+lighton"
 or "mistral+gemini+surya_block" — the name IS the URL segment and the
 artifact directory. Non-canonical orderings in a URL still parse —
 they serve as aliases of the canonical route.
+
+Which of the 7 a given dataset PRESENTS is a separate question, answered
+by combos_for(dataset): a dataset without a complete LightOn crop cache
+presents its vote trios only (config.TIEBREAK_DATASETS).
 """
 
 from __future__ import annotations
 
 from dataclasses import dataclass
+
+from pipeline.core.config import presents_tiebreak
 
 # model slug -> (engine, unit)
 MODELS: dict[str, tuple[str, str]] = {
@@ -142,7 +148,7 @@ def all_combos() -> list[Route]:
     """Every semantically distinct composable route, one per canonical
     name — compose() canonicalizes vote-member order, so slot-order
     twins (dots+gemini+mistral / dots+mistral+gemini) are already one
-    route. Used by `--route all` and the home-page stats table."""
+    route."""
     out: dict[str, Route] = {}
     for m1 in MODELS:
         for m2 in MODELS:
@@ -153,3 +159,26 @@ def all_combos() -> list[Route]:
                     continue
                 out.setdefault(r.name, r)
     return sorted(out.values(), key=lambda r: r.name)
+
+
+def combos_for(dataset: str) -> list[Route]:
+    """The combinations a dataset PRESENTS — every one, or the vote
+    trios alone where the tiebreak cache is not complete enough to
+    compare fairly (config.TIEBREAK_DATASETS). This is the one list
+    `--route all`, the stats table, and every combination picker in the
+    viewer are built from, so a combination is never offered for a
+    dataset that cannot answer it."""
+    combos = all_combos()
+    if presents_tiebreak(dataset):
+        return combos
+    return [r for r in combos if r.tiebreak is None]
+
+
+def presented(dataset: str, name: str) -> bool:
+    """Whether one combination is presented for a dataset — the guard
+    for a route arriving from a URL or the CLI."""
+    try:
+        route = resolve(name)
+    except ValueError:
+        return False
+    return any(r.name == route.name for r in combos_for(dataset))

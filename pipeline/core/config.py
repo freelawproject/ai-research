@@ -12,6 +12,25 @@ from pathlib import Path
 RENDER_W = 1700
 RENDER_H = 2200
 
+# Datasets that WITHHOLD the LightOn tiebreak combinations: they present
+# the direct three-way votes only. A dataset is listed here when its
+# crop cache is not complete enough to compare fairly.
+#
+# This is a reporting decision, not a capability one: a tiebreak
+# combination reads cached crops, and an incomplete cache turns every
+# uncovered dispute into an honest no-vote. Side by side with a vote
+# combination that has all its inputs, that reads as a WORSE combination
+# rather than an unfinished one — so the comparison would mislead.
+#
+# Withholding is opt-IN: a dataset nobody has ruled on presents
+# everything, so a new set is never quietly reported as vote-only.
+VOTE_ONLY_DATASETS = frozenset({"volumes"})
+
+
+def presents_tiebreak(name: str) -> bool:
+    """Whether this dataset presents the LightOn tiebreak combinations."""
+    return name not in VOTE_ONLY_DATASETS
+
 
 @dataclass(frozen=True)
 class Dataset:

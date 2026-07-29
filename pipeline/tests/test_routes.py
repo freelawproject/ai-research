@@ -1,6 +1,15 @@
 import unittest
 
-from pipeline.routes import PRESETS, all_combos, compose, parse, resolve
+from pipeline.core.config import VOTE_ONLY_DATASETS
+from pipeline.routes import (
+    PRESETS,
+    all_combos,
+    combos_for,
+    compose,
+    parse,
+    presented,
+    resolve,
+)
 
 
 class ComposeTest(unittest.TestCase):
@@ -143,3 +152,38 @@ class AllCombosTest(unittest.TestCase):
         self.assertNotIn("mistral+gemini+lighton", names)
         self.assertNotIn("mistral+surya_block+lighton", names)
         self.assertNotIn("surya_block+gemini+lighton", names)
+
+
+class PresentedCombosTest(unittest.TestCase):
+    """What a dataset PRESENTS: everything, or — where the crop cache is
+    too incomplete to compare fairly — its vote trios alone."""
+
+    VOTE_ONLY = "volumes"
+
+    def test_a_vote_only_dataset_presents_no_tiebreaks(self) -> None:
+        self.assertIn(self.VOTE_ONLY, VOTE_ONLY_DATASETS)
+        combos = combos_for(self.VOTE_ONLY)
+        self.assertEqual(len(combos), 4)
+        self.assertTrue(all(r.tiebreak is None for r in combos))
+        self.assertFalse(presented(self.VOTE_ONLY, "dots+mistral+lighton"))
+        self.assertTrue(presented(self.VOTE_ONLY, "dots+mistral+surya_block"))
+
+    def test_withholding_is_opt_in(self) -> None:
+        """A dataset nobody has ruled on presents all 7 — a new set is
+        never quietly reported as vote-only."""
+        combos = combos_for("a-set-nobody-configured")
+        self.assertEqual(len(combos), 7)
+        self.assertTrue(
+            presented("a-set-nobody-configured", "dots+mistral+lighton")
+        )
+
+    def test_preset_aliases_are_checked_by_canonical_name(self) -> None:
+        # 'three_way' is a vote alias, 'mistral' a tiebreak one
+        self.assertTrue(presented(self.VOTE_ONLY, "three_way"))
+        self.assertFalse(presented(self.VOTE_ONLY, "mistral"))
+        # a non-canonical ordering resolves before the check
+        self.assertTrue(presented(self.VOTE_ONLY, "surya_block+mistral+dots"))
+
+    def test_an_uncomposable_name_is_not_presented(self) -> None:
+        self.assertFalse(presented("volumes", "dots+dots+dots"))
+        self.assertFalse(presented("1k", "nonsense"))

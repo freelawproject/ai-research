@@ -34,11 +34,23 @@ blocks, so a non-dots tiebreak route could never vote. That makes
 exactly 7 unique combinations: 3 tiebreak pairs (dots + one other
 model + lighton) + 4 vote trios.
 
-All 7 combinations are first-class: `--route all` builds every one,
-and the home page's route stats table reports compare + resolve
-outcomes for each (aggregated from whatever is on disk). The legacy preset names
-(`gemini`, `mistral`, `surya_block`, `three_way`) still resolve as
-aliases in URLs and on the CLI.
+All 7 combinations are first-class: `--route all` builds every one a
+dataset presents, and the home page's route stats table reports compare
++ resolve outcomes for each (aggregated from whatever is on disk). The
+legacy preset names (`gemini`, `mistral`, `surya_block`, `three_way`)
+still resolve as aliases in URLs and on the CLI.
+
+**Which combinations a dataset presents** is a separate question from
+which ones exist. A tiebreak combination reads cached LightOn crops, so
+a dataset whose crop cache is incomplete would show its tiebreak routes
+losing every uncovered dispute to an honest no-vote — next to a vote
+trio holding all its inputs, that reads as a worse combination rather
+than an unfinished one. Such a dataset is listed in
+`VOTE_ONLY_DATASETS` (pipeline/core/config.py) and presents its 4 vote
+trios only: they are absent from the stats table and every picker, and
+requesting one by URL is a 404. Withholding is opt-in, so a dataset
+nobody has ruled on presents all 7, and it is a reporting rule only —
+artifacts already on disk are neither deleted nor rebuilt.
 
 ## Quickstart
 
@@ -61,7 +73,8 @@ aliases in URLs and on the CLI.
 4. `docker compose up`, then open http://localhost:8170, pick three
    models, and walk the pipeline page by page. Artifacts materialize on
    first visit (seconds; reads the bundled engine outputs, no models or
-   API keys needed). To pre-generate all 7 combinations instead:
+   API keys needed). To pre-generate every combination the dataset
+   presents instead:
 
    ```
    uv run python -m pipeline.run --dataset sample30 --route all

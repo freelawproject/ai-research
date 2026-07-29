@@ -183,10 +183,11 @@ def _stats_order(route: Route) -> tuple[int, int, str]:
     )
 
 
-def stats_ordered_combos() -> list[Route]:
-    """Every unique combination, in the stats-table display order (the
-    order every combination list in the viewer uses)."""
-    return sorted(routes.all_combos(), key=_stats_order)
+def stats_ordered_combos(dataset: str) -> list[Route]:
+    """The combinations this dataset presents, in the stats-table
+    display order (the order every combination list in the viewer
+    uses)."""
+    return sorted(routes.combos_for(_safe(dataset)), key=_stats_order)
 
 
 def built_routes(dataset: str, page: str) -> list[str]:
@@ -196,7 +197,7 @@ def built_routes(dataset: str, page: str) -> list[str]:
     root = settings.ARTIFACTS_ROOT / _safe(dataset)
     return [
         r.name
-        for r in stats_ordered_combos()
+        for r in stats_ordered_combos(dataset)
         if (root / r.name / f"{_safe(page)}.json").exists()
     ]
 
@@ -277,7 +278,7 @@ def _per_route_cached(
         cache = {}
     changed = False
     out: dict[str, object] = {}
-    for route in stats_ordered_combos():
+    for route in stats_ordered_combos(dataset):
         d = ds_root / route.name
         files = sorted(d.glob("*.json")) if d.is_dir() else []
         sig = [
@@ -311,7 +312,7 @@ def route_stats(dataset: str) -> list[dict]:
     vote). A combination nobody has built yet reports pages=0."""
     scans = _per_route_cached(dataset, _ROUTE_CACHE, _scan_route)
     rows = []
-    for route in stats_ordered_combos():
+    for route in stats_ordered_combos(dataset):
         m1, m2, m3 = routes.slugs(route)
         scan: dict = scans[route.name]  # type: ignore[assignment]
         rows.append(
@@ -375,7 +376,7 @@ def flagged_disputes(dataset: str) -> list[dict]:
     cache as the stats."""
     scans = _per_route_cached(dataset, _ROUTE_CACHE, _scan_route)
     out: list[dict] = []
-    for route in stats_ordered_combos():
+    for route in stats_ordered_combos(dataset):
         scan: dict = scans[route.name]  # type: ignore[assignment]
         out += scan["flagged"]
     return out

@@ -10,6 +10,7 @@ from django.urls import reverse
 from pipeline import routes
 from pipeline.core import assemble
 from pipeline.core.config import RENDER_H, RENDER_W
+from pipeline.routes import Route
 from viewer import data
 from viewer.info import ENGINE_INFO
 
@@ -92,6 +93,25 @@ def _plus_param(request: HttpRequest, name: str) -> str:
     decodes its +'s as spaces — route names never contain spaces, so
     undo that."""
     return request.GET.get(name, "").replace(" ", "+")
+
+
+def _presented_route(dataset: str, name: str) -> Route:
+    """A route name from a URL, resolved and checked against what this
+    dataset presents. A combination the dataset does not present is a
+    404 rather than a page of numbers, so a stale link or a hand-typed
+    URL cannot surface figures the stats table deliberately withholds
+    (see pipeline.routes.combos_for)."""
+    try:
+        route = routes.resolve(name)
+    except ValueError as exc:
+        raise Http404(str(exc)) from exc
+    if not routes.presented(dataset, route.name):
+        raise Http404(
+            f"{dataset} does not present {route.name} — its LightOn crop "
+            "cache is incomplete, so only the three-way vote "
+            "combinations are reported for this dataset"
+        )
+    return route
 
 
 def _pager(pages: list[str], page: str, url_of: Callable[[str], str]) -> dict:
@@ -220,7 +240,7 @@ async def review(
             "url": f"{base}?{urlencode({'route': r.name})}",
             "active": sel_route == r.name,
         }
-        for r in data.stats_ordered_combos()
+        for r in data.stats_ordered_combos(dataset)
         if counts.get(r.name)
     ]
     entries = []
@@ -494,10 +514,7 @@ async def page(
     also accepts the CLI preset names, so pre-composition URLs
     (/d/<ds>/three_way/...) keep working; artifacts always land under
     the canonical combo name."""
-    try:
-        route_obj = routes.resolve(route)
-    except ValueError as exc:
-        raise Http404(str(exc)) from exc
+    route_obj = _presented_route(dataset, route)
     artifact = data.ensure_artifact(dataset, route_obj, page)
     stages = artifact["stages"]
     recon = stages.get("reconstruct")
@@ -627,7 +644,7 @@ async def route_compare(
     pages = data.dataset_pages(dataset)
     if page not in pages:
         raise Http404(f"no page {page} in {dataset}")
-    combos = data.stats_ordered_combos()
+    combos = data.stats_ordered_combos(dataset)
     built = data.built_routes(dataset, page)
     defaults = built + [r.name for r in combos if r.name not in built]
     sel: dict[str, str] = {}
@@ -641,14 +658,11 @@ async def route_compare(
         if not raw:
             sel[param] = fallback
             continue
-        try:
-            sel[param] = routes.resolve(raw).name
-        except ValueError as exc:
-            raise Http404(str(exc)) from exc
+        sel[param] = _presented_route(dataset, raw).name
 
     sides = []
     for key in ("a", "b"):
-        route_obj = routes.resolve(sel[key])
+        route_obj = _presented_route(dataset, sel[key])
         artifact = data.ensure_artifact(dataset, route_obj, page)
         stages = artifact["stages"]
         tokens = assemble.final_stream(

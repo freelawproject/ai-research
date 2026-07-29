@@ -23,7 +23,10 @@
    tiebreak route, a third model means a direct three-way vote. A
    lighton tiebreak needs dots in the combination: the cached tiebreak
    crops are cut from dots blocks, so a non-dots tiebreak route could
-   never vote.
+   never vote. Which of the 7 a dataset PRESENTS is separate: a dataset
+   in `config.VOTE_ONLY_DATASETS` presents its 4 vote trios only,
+   because an incomplete crop cache makes a tiebreak combination look
+   worse than it is rather than unfinished (`routes.combos_for`).
 4. **Supplemental OCR** — the remaining picks: dots or Mistral blocks
    (bbox + text), Gemini page XML (no bboxes; generated upstream,
    consumed as input data), or Surya (`surya_block` = whole-page block

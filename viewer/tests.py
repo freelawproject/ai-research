@@ -8,15 +8,17 @@ import shutil
 import tarfile
 import tempfile
 from pathlib import Path
+from unittest import mock
 
 import fitz
 from django.core.management import call_command
 from django.test import SimpleTestCase, override_settings
 from PIL import Image
 
-from pipeline.core import assemble
+from pipeline.core import assemble, config
 from pipeline.core.artifacts import SCHEMA_VERSION
 from pipeline.core.normalize import registry_hash
+from pipeline.engines import lighton
 from pipeline.routes import resolve
 from pipeline.run import run_route
 from viewer import data
@@ -539,6 +541,36 @@ class ViewerViewsTest(DataTreeTestCase):
         self.assertContains(response, "hello world")
         self.assertContains(response, "hello <em>world</em>", html=False)
         self.assertContains(response, "pageViewer")
+
+    def test_withheld_combination_is_404_everywhere(self) -> None:
+        """A dataset that presents only its vote trios must not serve a
+        tiebreak combination from a hand-typed or stale URL — the stats
+        table withholds those numbers deliberately."""
+        ok = self.client.get("/d/tiny/dots+mistral+lighton/rep.1.1__p0/")
+        self.assertEqual(ok.status_code, 200)  # presented before the rule
+        with mock.patch.object(
+            config, "VOTE_ONLY_DATASETS", frozenset({"tiny"})
+        ):
+            walkthrough = self.client.get(
+                "/d/tiny/dots+mistral+lighton/rep.1.1__p0/"
+            )
+            compare = self.client.get(
+                "/compare/tiny/rep.1.1__p0/"
+                "?a=dots%2Bmistral%2Blighton&b=dots%2Bmistral%2Blighton"
+            )
+            rows = data.route_stats("tiny")
+            built = data.built_routes("tiny", "rep.1.1__p0")
+        self.assertEqual(walkthrough.status_code, 404)
+        self.assertEqual(compare.status_code, 404)
+        # the stats table offers the vote trios and nothing else
+        self.assertEqual(len(rows), 4)
+        self.assertTrue(all(not r["tiebreak"] for r in rows))
+        # the artifact is still ON DISK — withholding is a reporting
+        # rule, so it never deletes or rebuilds anything
+        self.assertNotIn("dots+mistral+lighton", built)
+        self.assertTrue(
+            (self.tmp / "artifacts" / "tiny" / "dots+mistral+lighton").is_dir()
+        )
 
     def test_normalize_card_shows_registry_and_rule_diff(self) -> None:
         response = self.client.get("/d/tiny/dots+mistral+lighton/rep.1.1__p0/")

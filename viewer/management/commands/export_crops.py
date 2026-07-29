@@ -47,8 +47,13 @@ class Command(BaseCommand):
     def handle(self, *args: Any, **options: Any) -> None:
         name = options["dataset"]
         wanted = options["route"] or [
-            r.name for r in routes.all_combos() if r.tiebreak
+            r.name for r in routes.combos_for(name) if r.tiebreak
         ]
+        if not wanted:
+            raise CommandError(
+                f"{name} does not present the tiebreak combinations, so it "
+                "reads no crops (pipeline.core.config.TIEBREAK_DATASETS)"
+            )
         combos = []
         for r in wanted:
             route = routes.resolve(r)

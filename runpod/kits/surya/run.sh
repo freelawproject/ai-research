@@ -106,7 +106,7 @@ if [[ "$SKIP_DEPS" == 1 ]]; then
   echo ">> [surya] SKIP_DEPS=1 — another worker installed the deps"
 else
   echo ">> [surya] deps (surya-ocr + client libs)"
-  python -m pip install -q surya-ocr pillow pymupdf hf_transfer
+  python -m pip install -q surya-ocr pillow hf_transfer
   deps_ready
 fi
 
@@ -177,7 +177,6 @@ if [[ "$PORT_STATE" == busy ]]; then
   echo "!! Most likely a leftover from an earlier run, NOT a mistake in this" >&2
   echo "!! command." >&2
   echo "!! Identify it (which PID, which physical GPU), then stop just that one:" >&2
-  echo "!!   bash diag_gpus.sh" >&2
   echo "!!   ss -ltnp | grep ':$PORT'      # or: netstat -ltnp | grep ':$PORT'" >&2
   echo "!!   kill <pid>                    # do NOT pkill -f 'vllm serve' if" >&2
   echo "!!                                 # another GPU's run is still live" >&2
@@ -191,8 +190,6 @@ CUDA_VISIBLE_DEVICES="${CUDA_VISIBLE_DEVICES:-0}" vllm serve "${SERVE_ARGS[@]}" 
 SERVER_PID=$!
 trap 'kill "$SERVER_PID" 2>/dev/null || true' EXIT
 
-# Convert while the server pulls and loads weights — both take minutes, and
-# rendering is pure CPU, so the two overlap for free.
 echo ">> [surya] $NIMG page images ready"
 
 echo ">> [surya] waiting for /health (weights pull + load, ~3-8 min)"

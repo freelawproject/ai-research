@@ -55,15 +55,15 @@ Tunables: `PORT` (8000), `CONCURRENCY` (32), `MODEL_ID`, `GPU_MEM_UTIL` (0.9),
 
 Budget **~3 s per page per GPU** (~1,200 pages per GPU-hour). Whole-page OCR is
 decode-bound — limited by GPU memory bandwidth rather than compute — so to go
-faster, add GPUs (`SHARD=i/n`, one instance each) rather than buying a card with
-more compute. A40s are the recommended card; see the main README's Hardware
-section for choosing a GPU count from a deadline.
+faster, add GPUs (`GPUS=n bash run.sh`, one worker per card) rather than buying
+a card with more compute. A40s are the recommended card; see the main README's
+Hardware section for choosing a GPU count from a deadline.
 
 ### Native transformers fallback
 
 ```sh
-bash run_native.sh          # isolated uv venv (torch 2.7 / transformers 4.57.6 / flash-attn)
-bash run_native.sh 0 2      # or shard across GPUs, one process each
+bash run_native.sh              # isolated uv venv (torch 2.7 / transformers 4.57.6 / flash-attn)
+SHARD=0/2 bash run_native.sh    # or shard across GPUs, one process each
 ```
 
 Batched with a `--max-new-tokens` cap (12000) to bound runaway-decode pages.
@@ -93,10 +93,10 @@ outlasts the client's 600 s timeout. The client logs the failure and moves on,
 so the run completes and the page is simply absent from `out/`.
 
 Nothing here treats a missing page as an error, by design — one bad page
-should not kill a multi-thousand-page run. Check coverage afterwards with
-`python scripts/check_out.py <out-dir> --expected N`, and decide per set
-whether the gap matters. If it does, the content is available from another
-engine rather than by retrying dots.
+should not kill a multi-thousand-page run. Check coverage afterwards
+(compare `ls out/*.json | wc -l` against the set's page count) and decide
+per set whether the gap matters. If it does, the content is available from
+another engine rather than by retrying dots.
 
 ## Output
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Container-YOLO layout inference — POD-SIDE runner.
-# Run from the extracted kit root (holds infer.py, weights/, pages/).
+# Run from the extracted kit root (holds infer.py, images/).
 #
 #   runpodctl receive <code>
 #   tar xzf container_yolo_<set>_kit.tar.gz && cd container_yolo
@@ -40,7 +40,7 @@ if [[ "${SKIP_DEPS:-0}" == 1 ]]; then
   echo ">> [yolo] SKIP_DEPS=1 — another worker installed the deps"
 else
   echo ">> [yolo] installing deps"
-  pip install -q doclayout-yolo huggingface_hub dill pymupdf pillow torch
+  pip install -q doclayout-yolo huggingface_hub dill pillow torch
   deps_ready
 fi
 

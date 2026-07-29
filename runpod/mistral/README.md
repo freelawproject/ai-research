@@ -1,15 +1,20 @@
 # Mistral OCR runner (local)
 
 Mistral is a hosted API, so it has no pod kit — it runs from here against the
-same staged one-page PDFs the pod kits consume and writes the same per-page
+same staged page images the pod kits consume and writes the same per-page
 JSON.
 
 ## Setup
 
 ```sh
 cp .env.example .env        # add MISTRAL_API_KEY
-uv pip install mistralai pymupdf pillow
+uv pip install mistralai
 ```
+
+Stage the set's images first: `data/sets/<set>/images/` holding the
+pipeline's canonical renders (copy from `data/datasets/<name>/page_png/`).
+Nothing here renders — the pipeline's render stage owns the 1700×2200
+space.
 
 ## Two modes
 
@@ -18,14 +23,14 @@ and pricier per page, so it exists to prove the code works before committing a
 set:
 
 ```sh
-python run_mistral.py --set newvols --mode realtime --limit 5
+uv run python run_mistral.py --set <set> --mode realtime --limit 5
 ```
 
 **batch** — a batch job per chunk. Each page is uploaded once as an `ocr` file
 and referenced by id, so the manifest stays small at any set size:
 
 ```sh
-python run_mistral.py --set newvols --mode batch
+uv run python run_mistral.py --set <set> --mode batch
 ```
 
 Run realtime first, then batch: the five smoke pages already have outputs and
@@ -66,5 +71,5 @@ the same space as every other engine's.
 
 ## Contents
 
-- `run_mistral.py` — CLI: stage selection, rendering, chunking, resume
+- `run_mistral.py` — CLI: set selection, chunking, resume
 - `mistral_ocr.py` — API layer: `run_ocr_realtime`, `run_ocr_batch`, `parse`

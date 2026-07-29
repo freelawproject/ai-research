@@ -11,7 +11,8 @@ ENGINE_INFO: list[dict[str, str]] = [
         "global-to-local receptive module, pretrained on DocSynth-300K "
         "synthetic pages (arXiv:2410.12628); fine-tuned in two rounds "
         "from the DocStructBench checkpoint for this reporter corpus "
-        "(weights ship in the data bundle)",
+        "(fine-tuned weights: freelawproject/container-yolo on the Hub, "
+        "and in the data bundle)",
         "bbox": "the detector itself — pure vision, no text output",
         "runs": "RunPod kit (GPU; CPU works)",
         "license": "AGPL-3.0 — inherited from DocLayout-YOLO by the "
@@ -55,8 +56,8 @@ ENGINE_INFO: list[dict[str, str]] = [
         "architecture": "proprietary OCR API — architecture not published",
         "bbox": "API returns per-block bboxes (include_blocks) with "
         "Markdown text",
-        "runs": "API (cached outputs bundled; batch runner arrives with "
-        "the RunPod kits)",
+        "runs": "API — local batch runner at runpod/mistral/ (no pod; "
+        "cached outputs bundled)",
         "license": "proprietary API",
         "link": "https://docs.mistral.ai/capabilities/document/",
         "link_label": "API docs",

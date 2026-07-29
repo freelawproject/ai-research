@@ -51,7 +51,7 @@ echo ">> [dots-vllm] deps (client + vllm if absent)"
 command -v vllm >/dev/null || python -m pip install -q "vllm==0.11.0"
 # hf_transfer: base images set HF_HUB_ENABLE_HF_TRANSFER=1, which hard-fails the
 # model download unless the package is present (also speeds up the ~6GB pull).
-python -m pip install -q pymupdf pillow openai hf_transfer
+python -m pip install -q openai hf_transfer
 
 # transformers: vLLM 0.11.0 needs the 4.57 series, but its dep spec has no upper
 # cap, so a base image's transformers 5.x survives the vllm install and breaks
@@ -90,8 +90,6 @@ vllm serve "$MODEL_ID" \
 SERVER_PID=$!
 trap 'kill "$SERVER_PID" 2>/dev/null || true' EXIT
 
-# Convert while the server pulls and loads weights — both take minutes, and
-# rendering is pure CPU, so the two overlap for free.
 echo ">> [dots-vllm] $NIMG page images ready"
 
 echo ">> [dots-vllm] waiting for /health (weights download + load, ~2-5 min)"

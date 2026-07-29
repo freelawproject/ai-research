@@ -56,11 +56,12 @@ CUDA_VISIBLE_DEVICES=0 PORT=8000 SHARD=0/2 BATCH=16 PARALLEL=16 bash run.sh
 CUDA_VISIBLE_DEVICES=1 PORT=8001 SHARD=1/2 BATCH=16 PARALLEL=16 SKIP_DEPS=1 bash run.sh
 ```
 
-Stagger the starts — both `pip install`s write one site-packages, hence
-`SKIP_DEPS=1` on the second. Shards share `out/` (disjoint stems, atomic writes)
-and tar to shard-suffixed names so neither clobbers the other. Data-parallel like
-this beats `--tensor-parallel-size 2`, which pays cross-GPU traffic per token
-without doubling pages/sec.
+Or by hand, one shell per card (`GPUS=n` does exactly this for you):
+stagger the starts — both `pip install`s write one site-packages, hence
+`SKIP_DEPS=1` on the second. Shards share `out/` (disjoint stems, atomic
+writes), so whichever run packages last tars the complete set. Data-parallel
+like this beats `--tensor-parallel-size 2`, which pays cross-GPU traffic per
+token without doubling pages/sec.
 
 ## Throughput
 
@@ -107,9 +108,9 @@ requests, so batching pages on top of that floods the server with 500s.
 - `run_infer_surya.py` — client: load image → OCR → `out/<stem>.json`
 - `run.sh` — serve → health → smoke → infer → tar
 
-Input is `images/*.png`, never PDFs — `run.sh` converts the staged PDFs first
-(the images arrive ready: pack.sh renders them locally, so the pod spends its
-time on the GPU and every engine sees the pipeline's own pixels).
+Input is `images/*.png`, never PDFs — pack.sh stages the pipeline's own
+canonical renders, so the pod spends its time on the GPU and every engine
+sees the same pixels.
 
 ## Output
 

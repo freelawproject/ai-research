@@ -28,7 +28,7 @@ ships in the kit, so every pod runs the same published checkpoint. Set
 Any CUDA 12.x image (13.0 also works — this is plain torch, not vLLM, so the
 host CUDA version is not load-bearing here).
 
-`run.sh` installs `doclayout-yolo huggingface_hub dill pymupdf pillow torch`.
+`run.sh` installs `doclayout-yolo huggingface_hub dill pillow torch`.
 
 This is a 19.5M-parameter detector, so the GPU is not the bottleneck and any
 modest card clears thousands of pages in minutes. Unlike the OCR engines it does
@@ -47,8 +47,8 @@ Hardware section, which sizes the OCR engines at ~3 s/page/GPU on A40s.
 ```sh
 runpodctl receive <code>
 tar xzf container_yolo_<set>_kit.tar.gz && cd container_yolo
-bash run.sh                 # single GPU
-bash run.sh 0 2             # or shard across N GPUs, one process each
+bash run.sh                 # single GPU (or CPU)
+GPUS=2 bash run.sh          # or one worker per card, disjoint shards
 runpodctl send container_yolo_out_<set>.tar.gz
 ```
 

@@ -1,6 +1,8 @@
 """Container-YOLO detection postprocessing — the same rules the model's
 training labels were built with, applied to every page's detections before
-they become the layout:
+they become the layout. (runpod/kits/container_yolo/postprocess.py is a
+deliberate standalone twin — kits import nothing from the pipeline — so
+change the rules in both places together.)
 
   0. DEDUPE: same-class boxes overlapping substantially (IoU>0.5 OR the
      smaller box >=50% covered) keep only the higher-confidence one.

@@ -1,7 +1,7 @@
 """Container-YOLO layout inference — STANDALONE pod runner. Reads the
-canonical 1700x2200 page images (rendered by to_images.py before inference),
-runs the round-2 container fine-tune, applies the postprocess rules, and
-writes one detections JSON per page:
+canonical 1700x2200 page images (the pipeline's own renders, staged at
+pack time), runs the round-2 container fine-tune, applies the postprocess
+rules, and writes one detections JSON per page:
 
     out/<stem>.json = [{label, bbox, confidence}]   (bbox in 1700x2200 space)
 

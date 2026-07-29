@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
-# dots.mocr whole-page inference — NATIVE transformers FALLBACK (1K validation).
+# dots.mocr whole-page inference — NATIVE transformers FALLBACK.
 # Prefer run.sh (vLLM) for throughput; use this only if vLLM is unavailable.
 # Run from the extracted kit root (holds run_infer_dots.py, images/).
 #
 #   bash run_native.sh                # isolated venv + infer + tar out/
-#   bash run_native.sh i n            # shard i of n (per-GPU); merge out/ after
+#   SHARD=i/n bash run_native.sh      # one shard per GPU, one shell each
 #
 # dots.mocr runs in its OWN isolated uv venv per the model authors' spec
 # (github.com/rednote-hilab/dots.mocr): torch 2.7.0 first (so flash-attn's wheel
@@ -30,7 +30,7 @@ uv pip install torch==2.7.0 torchvision==0.22.0 \
 [[ -d "$DOTS_REPO" ]] || \
   git clone --depth 1 https://github.com/rednote-hilab/dots.mocr.git "$DOTS_REPO"
 echo ">> [dots] pip install -e dots.mocr (pins transformers==4.57.6 + deps)"
-uv pip install -e "$DOTS_REPO" hf_transfer pymupdf pillow
+uv pip install -e "$DOTS_REPO" hf_transfer pillow
 echo ">> [dots] flash-attn (required by dots' modeling check_imports)"
 "$DOTS_VENV/bin/python" -c "import flash_attn" 2>/dev/null || \
   uv pip install "$FLASH_ATTN_WHEEL" || \

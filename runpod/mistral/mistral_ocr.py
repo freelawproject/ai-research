@@ -1,11 +1,12 @@
-"""Mistral OCR via the BATCH API (`/v1/ocr`) — the 1K without-Gemini first pass.
+"""Mistral OCR API layer: realtime `/v1/ocr` and the BATCH API.
 
-Scalable shape (same at 30 or 1000): upload each rendered page PNG once as an
-`ocr` file and reference it by id in the JSONL, so the batch manifest stays tiny
-(file ids, not inlined base64). One job; `include_blocks=True` per line so
-paragraph bboxes come back (1700×2200 space, since the PNG is our canonical render).
+Scalable shape (same at 30 or 1000 pages): upload each rendered page PNG
+once as an `ocr` file and reference it by id in the JSONL, so the batch
+manifest stays tiny (file ids, not inlined base64). One job per call;
+`include_blocks=True` per line so paragraph bboxes come back (1700×2200
+space, since the PNG is the pipeline's canonical render).
 
-    from lib.mistral_batch import run_ocr_batch
+    from mistral_ocr import run_ocr_batch
     results = run_ocr_batch([(stem, png_bytes), ...])   # {stem: {markdown, blocks}}
 """
 

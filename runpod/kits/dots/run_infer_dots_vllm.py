@@ -1,11 +1,11 @@
 """dots.mocr (rednote-hilab/dots.mocr, 3B) whole-page layout inference via a
-vLLM OpenAI-compatible server — POD-SIDE client for the 1K validation run.
+vLLM OpenAI-compatible server — POD-SIDE client.
 
 vLLM continuous-batches server-side, so throughput comes from keeping many
 requests in flight (--concurrency) rather than client-side batching. Each
-canonical 1700×2200 page image (rendered by to_images.py before inference —
-same pixels every other engine sees) is sent as a base64 PNG data URI to
-/v1/chat/completions with dots' layout prompt, parsed, and written:
+canonical 1700×2200 page image (the pipeline's own render, staged at pack
+time — same pixels every other engine sees) is sent as a base64 PNG data
+URI to /v1/chat/completions with dots' layout prompt, parsed, and written:
 
     out/<stem>.json = {"text": md, "regions": [{order,label,bbox,text}]}
                       (bbox in 1700×2200 space; text reassembled in reading order)

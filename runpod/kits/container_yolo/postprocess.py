@@ -1,6 +1,8 @@
-"""Post-process container-model predictions before they become training
-labels (Rachel's rules, 2026-07-09). Standalone — stdlib only, safe to run
-on the pod right after inference:
+"""Post-process container-model predictions — the same rules the model's
+training labels were built with. Standalone, stdlib only, safe to run on
+the pod right after inference (kits import nothing from the pipeline, so
+this is a deliberate twin of pipeline/core/postprocess.py — change the
+rules in both places together):
 
     python postprocess.py --in preds --out preds_post
 
@@ -19,8 +21,8 @@ Rules, in order, per page:
      match when narrower; if the fb is already wider, nothing is adjusted.
 
 Reads/writes the per-page detection JSONs ([{label, bbox, confidence}]).
-Also importable: postprocess_dets(dets) -> cleaned dets (used by the :8151
-Round-2 tab so the UI shows exactly what training would consume).
+Also importable: postprocess_dets(dets) -> cleaned dets (infer.py applies
+it to every page unless --raw).
 """
 
 from __future__ import annotations

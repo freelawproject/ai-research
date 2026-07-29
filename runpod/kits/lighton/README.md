@@ -74,17 +74,18 @@ runpodctl send lighton_reads_<set>.tar.gz
 The model downloads once and stays warm, so `smoke` costs almost nothing before
 `full`.
 
-## Two-pass adaptive budget
+## Decode policy
 
-Small crops make this decoder repeat and degenerate, so `vllm_batch.py` grants
-a token budget from the crop's area and checks each read for completeness — do
-the last few alnum tokens of `expect` appear in the output? Reads that fail get
-retried at 2× then 4× the budget. Resume skips crops whose existing read
-already passes that check, so a re-run only redoes genuine failures.
+Small crops make this decoder repeat and degenerate, so `vllm_batch.py`
+grants each crop a token budget scaled to its area (a retry entry's own
+`decode` settings win), and every request goes out greedy with
+`repetition_penalty: 1.15` and `no_repeat_ngram_size: 12`. There is no
+quality check here — one attempt per entry, and the pipeline's guards
+decide locally what to discard (see "One attempt per entry" above).
+Resume is existence-based: an existing read is skipped, a failed crop
+writes nothing.
 
-Requests go out with `repetition_penalty: 1.15` and `temperature: 0`.
-
-Tunables: `PORT` (8000), `CONCURRENCY` (32), `SMOKE_N` (8).
+Tunables: `GPUS` (all), `PORT` (8000), `CONCURRENCY` (32), `SMOKE_N` (8).
 
 A40s are the recommended card here as for the other engines, but sizing is
 different: LightOn reads only disputed *regions*, not whole pages, so the work is

@@ -4,8 +4,8 @@ Reads the canonical 1700x2200 page images in `images/` and runs Surya
 through the `surya` package, which talks to the vLLM server that run.sh
 started (SURYA_INFERENCE_BACKEND=vllm + SURYA_INFERENCE_URL).
 
-Input is images, never PDFs — run.sh renders the staged PDFs with
-to_images.py first, so every engine sees byte-identical pixels.
+Input is images, never PDFs — pack.sh stages the pipeline's own canonical
+renders, so every engine sees byte-identical pixels.
 
 TWO VARIANTS (--mode), both write the SAME JSON shape (one "region" per unit):
   • block (default) — one whole-page VLM call, `full_page=True`. Regions are

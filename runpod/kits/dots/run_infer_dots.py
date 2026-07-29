@@ -1,8 +1,8 @@
-"""dots.mocr (rednote-hilab/dots.mocr, 3B) whole-page layout inference for the
-1K validation run — STANDALONE pod runner, single variant (no redaction fills,
-no golden-region block mode). Renders each staged page PDF to 1700×2200
-(rendered by to_images.py — same space as every other engine) and runs dots' layout-all
-prompt:
+"""dots.mocr (rednote-hilab/dots.mocr, 3B) whole-page layout inference —
+STANDALONE native-transformers runner (the no-vLLM fallback), single
+variant. Reads the canonical 1700×2200 page images (the pipeline's own
+renders, staged at pack time — same space as every other engine) and runs
+dots' layout-all prompt:
 
     out/<stem>.json = {"text": md, "regions": [{order,label,bbox,text}]}
                       (bbox in 1700×2200 space; text reassembled in reading order)
@@ -15,9 +15,9 @@ big-memory GPU busy; a batch finishes when its SLOWEST page hits EOS, so
 --max-new-tokens is capped to bound any runaway-decode page.
 
 Resume-safe; --shard i/n for multi-GPU. Env (torch 2.7 / transformers 4.57.6 /
-flash-attn / qwen-vl-utils, isolated venv) is set up by run.sh per the dots
-authors' spec. The repo name's '.' breaks trust_remote_code, so the model is
-materialized in a no-period local dir first (see _local_model_dir).
+flash-attn / qwen-vl-utils, isolated venv) is set up by run_native.sh per the
+dots authors' spec. The repo name's '.' breaks trust_remote_code, so the model
+is materialized in a no-period local dir first (see _local_model_dir).
 """
 
 from __future__ import annotations

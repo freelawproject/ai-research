@@ -23,9 +23,9 @@ batch run after a realtime smoke test does not redo those pages, and an
 interrupted run picks up where it stopped. Pages that ERROR are not written,
 so re-running the same command retries exactly the failures.
 
-Images come from to_images.py, the same converter the pods run — so
-Mistral's block bboxes land in the same 1700x2200 space as every other
-engine's.
+Images are the pipeline's own canonical renders (a dataset's page_png/,
+staged into the set) — so Mistral's block bboxes land in the same
+1700x2200 space as every other engine's.
 
 Work is chunked (--chunk) rather than done in one pass: a whole volume set
 is thousands of images, and holding them all in memory to hand to a single
@@ -43,11 +43,9 @@ import os
 import sys
 from pathlib import Path
 
+from mistral_ocr import run_ocr_batch, run_ocr_realtime
+
 HERE = Path(__file__).resolve().parent
-sys.path.insert(0, str(HERE.parent / "common"))  # shared to_images.py
-
-from mistral_ocr import run_ocr_batch, run_ocr_realtime  # noqa: E402
-
 SETS = HERE.parent / "data" / "sets"
 
 
@@ -66,18 +64,17 @@ def _load_env() -> None:
 
 
 def _images_dir(set_name: str) -> Path:
-    """The set's rendered pages. Mistral never touches a PDF — convert first
-    so its coordinates match what the pods produce."""
+    """The set's rendered pages. Mistral never touches a PDF — it reads
+    the pipeline's canonical renders so its coordinates match every
+    other engine's."""
     d = SETS / set_name / "images"
     if not d.exists() or not any(d.glob("*.png")):
-        src = SETS / set_name / "pages"
-        if not src.exists():
-            src = SETS / set_name / "src"
         sys.exit(
             f"!! no page images for set '{set_name}' ({d})\n"
-            f"   render them first:\n"
-            f"     python {HERE.parent / 'common' / 'to_images.py'} "
-            f"--src {src} --out-dir {d}"
+            "   stage the pipeline's renders there, e.g.\n"
+            f"     cp data/datasets/<name>/page_png/*.png {d}/\n"
+            "   (rendering belongs to the pipeline's render stage — "
+            "this never renders)"
         )
     return d
 

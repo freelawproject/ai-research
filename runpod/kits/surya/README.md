@@ -43,10 +43,11 @@ Serve flags mirror Datalab's own launcher: `--dtype bfloat16 --max-model-len
 speculative decoding (a decode speedup Datalab enables by default) is off;
 `ENABLE_MTP=1` matches them.
 
-Tunables: `MODE` (block), `PORT` (8000), `MODEL_ID`, `GPU_MEM_UTIL` (0.85),
+Tunables: `GPUS` (all), `MODE` (block), `PORT` (8000 — the base; workers
+probe upward), `SKIP_PORTS`, `MODEL_ID`, `GPU_MEM_UTIL` (0.85),
 `MAX_MODEL_LEN` (18000), `PARALLEL` (8), `BATCH` (0=auto), `ENABLE_MTP` (0),
 `ALLOW_VLLM_UPGRADE` (0), `SHARD` (0/1), `SKIP_DEPS` (0). Server log →
-`serve.log`.
+`serve.log` (`serve_shard<i>of<n>.log` per fan-out worker).
 
 ## Two GPUs on one pod
 

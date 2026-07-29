@@ -48,8 +48,10 @@ then does one page as a smoke test and runs the rest at `--concurrency 32`.
 vLLM continuous-batches those server-side — that is where the throughput comes
 from, not client-side batching.
 
-Tunables: `PORT` (8000), `CONCURRENCY` (32), `MODEL_ID`, `GPU_MEM_UTIL` (0.9),
-`SHARD` (0/1). Server log → `serve.log`.
+Tunables: `GPUS` (all), `PORT` (8000 — the base; workers probe upward),
+`SKIP_PORTS`, `CONCURRENCY` (32), `MODEL_ID`, `GPU_MEM_UTIL` (0.9),
+`SHARD` (0/1). Server log → `serve.log` (`serve_shard<i>of<n>.log` per
+fan-out worker).
 
 ## Throughput
 

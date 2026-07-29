@@ -85,7 +85,8 @@ decide locally what to discard (see "One attempt per entry" above).
 Resume is existence-based: an existing read is skipped, a failed crop
 writes nothing.
 
-Tunables: `GPUS` (all), `PORT` (8000), `CONCURRENCY` (32), `SMOKE_N` (8).
+Tunables: `GPUS` (all), `PORT` (8000 — the base; workers probe upward),
+`SKIP_PORTS`, `CONCURRENCY` (32), `SMOKE_N` (8).
 
 A40s are the recommended card here as for the other engines, but sizing is
 different: LightOn reads only disputed *regions*, not whole pages, so the work is

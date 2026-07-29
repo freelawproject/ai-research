@@ -15,7 +15,8 @@
 # Multi-GPU: `GPUS=n bash run.sh` runs one worker per card (shards 0/n … n-1/n)
 # and packages out/ once at the end. GPUS defaults to every GPU on the pod.
 #
-# Tunables (env): GPUS (all), PORT (8000 — the base port; worker i uses PORT+i),
+# Tunables (env): GPUS (all), PORT (8000 — the base; each worker gets its own
+# free port from there upward), SKIP_PORTS (ports to leave alone),
 # CONCURRENCY (32), MODEL_ID (rednote-hilab/dots.mocr), GPU_MEM_UTIL (0.9).
 #
 # Native transformers fallback (no vLLM): use run_native.sh instead.
@@ -32,6 +33,13 @@ TAR="dots_out_${SET}.tar.gz"
 # One worker per GPU (no-op on a single card); never returns in the parent.
 source "$ROOT/fanout.sh"
 gpu_fanout dots
+
+# Workers share out/ (disjoint stems, atomic writes) and the parent packages it
+# once. They must NOT share a server log: every worker serves its own vLLM, and
+# two instances in one directory truncate and interleave serve.log — destroying
+# the evidence you need to tell whether card 1's server ever came up.
+SERVE_LOG=serve.log
+[[ "$SHARD" != "0/1" ]] && SERVE_LOG="serve_shard${SHARD//\//of}.log"
 
 # Count what exists, and ONLY what exists: a missing directory makes `find` exit
 # 1, `pipefail` carries that status out of the pipeline, and `set -e` then kills
@@ -78,7 +86,12 @@ PY
   deps_ready
 fi
 
+# Check BEFORE announcing a start, so the failure does not read as "started,
+# then refused". A port already in use means this server cannot bind and dies.
+require_port dots-vllm "$PORT" || exit 1
+
 echo ">> [dots-vllm] starting server: $MODEL_ID on :$PORT"
+echo ">> [dots-vllm] server log → $SERVE_LOG"
 CUDA_VISIBLE_DEVICES="${CUDA_VISIBLE_DEVICES:-0}" \
 vllm serve "$MODEL_ID" \
   --tensor-parallel-size 1 \
@@ -86,7 +99,7 @@ vllm serve "$MODEL_ID" \
   --chat-template-content-format string \
   --served-model-name model \
   --trust-remote-code \
-  --port "$PORT" > serve.log 2>&1 &
+  --port "$PORT" > "$SERVE_LOG" 2>&1 &
 SERVER_PID=$!
 trap 'kill "$SERVER_PID" 2>/dev/null || true' EXIT
 
@@ -94,27 +107,47 @@ echo ">> [dots-vllm] $NIMG page images ready"
 
 echo ">> [dots-vllm] waiting for /health (weights download + load, ~2-5 min)"
 for _ in $(seq 1 180); do
+  # Liveness BEFORE health: a server that died on bind leaves the port to
+  # whoever else holds it, and probing health first would take that stranger's
+  # 200 as our own and report a healthy server that does not exist.
+  kill -0 "$SERVER_PID" 2>/dev/null || { echo "!! server exited early:"; tail -40 "$SERVE_LOG"; exit 1; }
   curl -sf "http://localhost:$PORT/health" >/dev/null 2>&1 && { HEALTHY=1; break; }
-  kill -0 "$SERVER_PID" 2>/dev/null || { echo "!! server exited early:"; tail -40 serve.log; exit 1; }
   sleep 5
 done
-[[ "${HEALTHY:-}" == 1 ]] || { echo "!! server never became healthy:"; tail -40 serve.log; exit 1; }
+[[ "${HEALTHY:-}" == 1 ]] || { echo "!! server never became healthy:"; tail -40 "$SERVE_LOG"; exit 1; }
+# --served-model-name above, so this is the id the client must ask for.
+require_vllm dots-vllm "$PORT" model || { tail -40 "$SERVE_LOG"; exit 1; }
 echo ">> [dots-vllm] server healthy"
 
 # One page before the batch: on a multi-thousand-page volume set a bad prompt
 # or a tokenizer mismatch should cost seconds, not an hour of GPU time.
 echo ">> [dots-vllm] smoke test (1 page)"
+# A page from THIS worker's OWN slice. One shared smoke page means every worker
+# infers it and they race to write it — and worse, whichever loses the race
+# finds the file already there and passes its smoke gate on a HEALTHY worker's
+# output, sailing into the batch with a server that answers nothing. The client
+# shards as stems[i::n], so index i is this worker's first page.
 # NOT `| sort | head -1`: past ~1,500 paths sort blocks on a full pipe, head
 # exits after its one line, sort takes SIGPIPE, and pipefail turns that into
 # another silent death — size-dependent, so it passes on a small set and fails
-# on a volume set. Slice the first line in the shell instead.
-IMGS="$(find images -maxdepth 1 -name '*.png' -not -name '._*' | sort)"
-FIRST="$(basename "${IMGS%%$'\n'*}" .png)"
-python run_infer_dots_vllm.py --images-dir images --out-dir out \
-  --base-url "http://localhost:$PORT/v1" --model model \
-  --concurrency 1 --stems "$FIRST"
-[[ -s "out/$FIRST.json" ]] || { echo "!! smoke test produced no output"; exit 1; }
-echo ">> [dots-vllm] smoke ok ($FIRST)"
+# on a volume set. Read the list into an array instead (`while read`, not
+# `mapfile`: mapfile is bash 4+, and a kit should not care which bash a pod
+# image ships).
+IMGS=()
+while IFS= read -r p; do IMGS+=("$p"); done \
+  < <(find images -maxdepth 1 -name '*.png' -not -name '._*' | sort)
+SHARD_I="${SHARD%%/*}"
+FIRST=""
+[[ -n "${IMGS[$SHARD_I]:-}" ]] && FIRST="$(basename "${IMGS[$SHARD_I]}" .png)"
+if [[ -z "$FIRST" ]]; then
+  echo ">> [dots-vllm] shard $SHARD holds no pages — nothing to smoke"
+else
+  python run_infer_dots_vllm.py --images-dir images --out-dir out \
+    --base-url "http://localhost:$PORT/v1" --model model \
+    --concurrency 1 --stems "$FIRST"
+  [[ -s "out/$FIRST.json" ]] || { echo "!! smoke test produced no output"; exit 1; }
+  echo ">> [dots-vllm] smoke ok ($FIRST)"
+fi
 
 echo ">> [dots-vllm] inferring (concurrency $CONCURRENCY)"
 python run_infer_dots_vllm.py --images-dir images --out-dir out \

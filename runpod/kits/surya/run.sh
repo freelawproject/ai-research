@@ -42,8 +42,9 @@
 # all finished. Data-parallel like this beats --tensor-parallel-size 2 for
 # throughput; TP adds cross-GPU traffic per token and does not double pages/sec.
 #
-# Tunables (env): GPUS (all), MODE (block), PORT (8000 — base port; worker i
-# uses PORT+i), MODEL_ID (datalab-to/surya-ocr-2), GPU_MEM_UTIL (0.85),
+# Tunables (env): GPUS (all), MODE (block), PORT (8000 — the base; each worker
+# gets its own free port from there upward), SKIP_PORTS (ports to leave alone),
+# MODEL_ID (datalab-to/surya-ocr-2), GPU_MEM_UTIL (0.85),
 # MAX_MODEL_LEN (18000), PARALLEL (8), BATCH (0=auto), ENABLE_MTP (0),
 # ALLOW_VLLM_UPGRADE (0).
 #
@@ -150,39 +151,9 @@ SERVE_ARGS=(
 # otherwise surfaces as a generic "server exited early" with that GPU at 0%.
 # Usually a LEFTOVER server from an earlier run: the EXIT trap below misses it if
 # the shell was SIGKILLed or closed, and vLLM's engine-core child can outlive its
-# parent while still holding the GPU.
-# Test BINDABILITY, not /health: a leftover server that is still loading weights
-# answers /health with a non-200, so a curl probe would call the port free and we
-# would be right back to the confusing "server exited early".
-PORT_STATE="$(python - "$PORT" <<'PY'
-import socket
-import sys
-s = socket.socket()
-try:
-    s.bind(("0.0.0.0", int(sys.argv[1])))
-    print("free")
-except OSError:
-    print("busy")
-finally:
-    s.close()
-PY
-)"
-if [[ "$PORT_STATE" == busy ]]; then
-  if curl -sf "http://localhost:$PORT/health" >/dev/null 2>&1; then
-    echo "!! port $PORT already has a HEALTHY server on it." >&2
-  else
-    echo "!! port $PORT is in use (by something not answering /health — likely a" >&2
-    echo "!! server still loading, or a half-dead one)." >&2
-  fi
-  echo "!! Most likely a leftover from an earlier run, NOT a mistake in this" >&2
-  echo "!! command." >&2
-  echo "!! Identify it (which PID, which physical GPU), then stop just that one:" >&2
-  echo "!!   ss -ltnp | grep ':$PORT'      # or: netstat -ltnp | grep ':$PORT'" >&2
-  echo "!!   kill <pid>                    # do NOT pkill -f 'vllm serve' if" >&2
-  echo "!!                                 # another GPU's run is still live" >&2
-  echo "!! Or serve on a free port instead:  PORT=$((PORT + 1)) ... bash run.sh" >&2
-  exit 1
-fi
+# parent while still holding the GPU. (fanout.sh owns the check — every kit
+# serves the same way and needs the same diagnosis.)
+require_port surya "$PORT" || exit 1
 
 echo ">> [surya] starting vLLM server: $MODEL_ID on :$PORT"
 echo ">> [surya] server log → $SERVE_LOG"
@@ -194,11 +165,16 @@ echo ">> [surya] $NIMG page images ready"
 
 echo ">> [surya] waiting for /health (weights pull + load, ~3-8 min)"
 for _ in $(seq 1 240); do
-  curl -sf "http://localhost:$PORT/health" >/dev/null 2>&1 && { HEALTHY=1; break; }
+  # Liveness BEFORE health: a server that died on bind leaves the port to
+  # whoever else holds it, and probing health first would take that stranger's
+  # 200 as our own and report a healthy server that does not exist.
   kill -0 "$SERVER_PID" 2>/dev/null || { echo "!! server exited early:"; tail -60 "$SERVE_LOG"; exit 1; }
+  curl -sf "http://localhost:$PORT/health" >/dev/null 2>&1 && { HEALTHY=1; break; }
   sleep 5
 done
 [[ "${HEALTHY:-}" == 1 ]] || { echo "!! server never became healthy:"; tail -60 "$SERVE_LOG"; exit 1; }
+# No --served-model-name, so vLLM serves it under the model id itself.
+require_vllm surya "$PORT" "$MODEL_ID" || { tail -60 "$SERVE_LOG"; exit 1; }
 echo ">> [surya] server healthy"
 
 export SURYA_INFERENCE_BACKEND=vllm
@@ -215,16 +191,30 @@ echo ">> [surya] GPU ${CUDA_VISIBLE_DEVICES:-0} | server $SURYA_INFERENCE_URL"\
 # after a long batch. On a multi-thousand-page set that is the difference
 # between losing 30 seconds and losing an hour of GPU time.
 echo ">> [surya:$MODE] smoke test (1 page)"
+# A page from THIS worker's OWN slice. One shared smoke page means every worker
+# infers it and they race to write it — and worse, whichever loses the race
+# finds the file already there and passes its smoke gate on a HEALTHY worker's
+# output, sailing into the batch with a server that answers nothing. The client
+# shards as stems[i::n], so index i is this worker's first page.
 # NOT `| sort | head -1`: past ~1,500 paths sort blocks on a full pipe, head
 # exits after its one line, sort takes SIGPIPE, and pipefail turns that into
 # another silent death — size-dependent, so it would pass on 1k and fail on
-# volumes. Slice the first line in the shell instead.
-IMGS="$(find images -maxdepth 1 -name '*.png' -not -name '._*' | sort)"
-FIRST="$(basename "${IMGS%%$'\n'*}" .png)"
-python run_infer_surya.py --images-dir images --out-dir "$OUT_DIR" --mode "$MODE" \
-  --stems "$FIRST" --batch-size 1
-[[ -s "$OUT_DIR/$FIRST.json" ]] || { echo "!! smoke test produced no output — check the surya client call"; exit 1; }
-echo ">> [surya:$MODE] smoke ok ($FIRST)"
+# volumes. Read the list into an array instead (`while read`, not `mapfile`:
+# mapfile is bash 4+, and a kit should not care which bash a pod image ships).
+IMGS=()
+while IFS= read -r p; do IMGS+=("$p"); done \
+  < <(find images -maxdepth 1 -name '*.png' -not -name '._*' | sort)
+SHARD_I="${SHARD%%/*}"
+FIRST=""
+[[ -n "${IMGS[$SHARD_I]:-}" ]] && FIRST="$(basename "${IMGS[$SHARD_I]}" .png)"
+if [[ -z "$FIRST" ]]; then
+  echo ">> [surya:$MODE] shard $SHARD holds no pages — nothing to smoke"
+else
+  python run_infer_surya.py --images-dir images --out-dir "$OUT_DIR" --mode "$MODE" \
+    --stems "$FIRST" --batch-size 1
+  [[ -s "$OUT_DIR/$FIRST.json" ]] || { echo "!! smoke test produced no output — check the surya client call"; exit 1; }
+  echo ">> [surya:$MODE] smoke ok ($FIRST)"
+fi
 
 echo ">> [surya:$MODE] inferring all pages"
 python run_infer_surya.py --images-dir images --out-dir "$OUT_DIR" --mode "$MODE" \

@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 # LightOn batched transcription — POD-SIDE runner. The pod does ONLY inference:
 # crops + manifest are built locally from the pipeline's disputed regions; this
-# serves a vLLM model and transcribes every crop (two-pass adaptive budget),
-# then tars reads/. Enumeration and arbitration stay local.
+# serves a vLLM model and transcribes every crop ONCE (area-scaled token
+# budget, or the entry's own decode settings), then tars reads/. Enumeration
+# and arbitration stay local.
 #
 #   bash run.sh smoke     # first N crops → confirm the plumbing FAST
 #   bash run.sh full      # LightOnOCR-2 over all crops (the real run)
@@ -16,7 +17,8 @@
 # Multi-GPU: `GPUS=n bash run.sh full` runs one worker per card over disjoint
 # crop slices and packages reads/ once. GPUS defaults to every GPU on the pod.
 #
-# Tunables (env): GPUS (all), PORT (8000 — base port; worker i uses PORT+i),
+# Tunables (env): GPUS (all), PORT (8000 — the base; each worker gets its own
+# free port from there upward), SKIP_PORTS (ports to leave alone),
 # CONCURRENCY (32), SMOKE_N (8).
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")" && pwd)"; cd "$ROOT"
@@ -29,8 +31,10 @@ SHARD="${SHARD:-0/1}"
 OUT_DIR=reads
 TAR="lighton_reads_${SET}.tar.gz"
 # One worker per GPU (no-op on a single card); never returns in the parent. The
-# smoke pass stays single-worker: its job is to prove the plumbing fast.
-[[ "$MODE" == smoke ]] || { source "$ROOT/fanout.sh"; gpu_fanout lighton; }
+# smoke pass stays single-worker: its job is to prove the plumbing fast. Sourced
+# either way — smoke needs the port and server checks just as much as full does.
+source "$ROOT/fanout.sh"
+[[ "$MODE" == smoke ]] || gpu_fanout lighton
 # smoke = same model, just the first N crops → confirms serve+batch+output before
 # the full run (the model downloads once and is cached/warm for `full`).
 [ "$MODE" = smoke ] && EXTRA="--smoke ${SMOKE_N:-8}" || EXTRA=""
@@ -71,7 +75,11 @@ PY
 # one directory would truncate and interleave serve.log.
 SERVE_LOG=serve.log
 [[ "$SHARD" != "0/1" ]] && SERVE_LOG="serve_shard${SHARD//\//of}.log"
+# Check BEFORE announcing a start, so the failure does not read as "started,
+# then refused". A port already in use means this server cannot bind and dies.
+require_port lighton "$PORT" || exit 1
 echo ">> [lighton] serving $MODEL on :$PORT ($MODE, shard $SHARD)"
+echo ">> [lighton] server log → $SERVE_LOG"
 vllm serve "$MODEL" --limit-mm-per-prompt '{"image":1}' \
   --mm-processor-cache-gb 0 --no-enable-prefix-caching \
   --port "$PORT" > "$SERVE_LOG" 2>&1 &
@@ -80,11 +88,16 @@ trap 'kill "$SERVER" 2>/dev/null || true' EXIT
 
 echo ">> [lighton] waiting for /health"
 for _ in $(seq 1 180); do
-  curl -sf "http://localhost:$PORT/health" >/dev/null 2>&1 && { OK=1; break; }
+  # Liveness BEFORE health: a server that died on bind leaves the port to
+  # whoever else holds it, and probing health first would take that stranger's
+  # 200 as our own and report a healthy server that does not exist.
   kill -0 "$SERVER" 2>/dev/null || { echo "!! server exited:"; tail -40 "$SERVE_LOG"; exit 1; }
+  curl -sf "http://localhost:$PORT/health" >/dev/null 2>&1 && { OK=1; break; }
   sleep 5
 done
 [[ "${OK:-}" == 1 ]] || { echo "!! server never healthy:"; tail -40 "$SERVE_LOG"; exit 1; }
+# No --served-model-name, so vLLM serves it under the model id itself.
+require_vllm lighton "$PORT" "$MODEL" || { tail -40 "$SERVE_LOG"; exit 1; }
 
 echo ">> [lighton] transcribing (concurrency $CONCURRENCY) $EXTRA"
 python vllm_batch.py --base-url "http://localhost:$PORT/v1" \

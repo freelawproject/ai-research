@@ -18,7 +18,11 @@
 #
 # What the parent hands each child:
 #   CUDA_VISIBLE_DEVICES=i   one card, so vLLM cannot grab them all
-#   PORT=<base + i>          its own server port
+#   PORT=<a free port>       its own server port, PROBED from PORT upward — a pod
+#                            is not an empty machine (RunPod images run their own
+#                            nginx; an earlier run can leave a vLLM holding a
+#                            port), so base+i is assigned only if it is bindable.
+#                            SKIP_PORTS=8001,8888 excludes ports from probing.
 #   SHARD=i/n                its slice (clients take every n-th page)
 #   SKIP_DEPS=1              for i>0: pip writes shared site-packages and must
 #                            not run concurrently — child 0 installs, the rest
@@ -53,6 +57,104 @@ kit_tar_out() {
   echo ">> send back:  runpodctl send $(pwd)/$tar"
 }
 
+# Free = BINDABLE. Not /health: a leftover server still loading its weights
+# answers /health with a non-200, so a curl probe would call its port free and
+# the next server would die on bind instead. SKIP_PORTS is never probed at all —
+# an escape hatch for a port known to be someone else's.
+port_free() {
+  local port="${1:?port_free needs a port}"
+  case ",${SKIP_PORTS:-}," in *",$port,"*) return 1 ;; esac
+  python - "$port" <<'PY' >/dev/null 2>&1
+import socket
+import sys
+
+s = socket.socket()
+try:
+    s.bind(("0.0.0.0", int(sys.argv[1])))
+finally:
+    s.close()
+PY
+}
+
+# n distinct bindable ports from base upward, one per line, stepping over
+# whatever the pod already runs. Skips are announced: a silently reassigned port
+# makes the address a worker logs impossible to predict, and the whole point of
+# probing is that the operator can see which ports were taken.
+alloc_ports() {
+  local want="${1:?}" port="${2:?}" label="${3:-kit}"
+  local -a found=()
+  local tried=0
+  while [[ "${#found[@]}" -lt "$want" ]]; do
+    if [[ "$tried" -ge 64 ]]; then
+      echo "!! [$label] no $want free ports in $2-$(($2 + 63))" >&2
+      return 1
+    fi
+    if port_free "$port"; then
+      found+=("$port")
+    else
+      echo ">> [$label] port $port in use — skipping" >&2
+    fi
+    port=$((port + 1))
+    tried=$((tried + 1))
+  done
+  printf '%s\n' "${found[@]}"
+}
+
+# A worker's own last check before it serves. The fan-out hands out ports it
+# probed, but seconds pass before vLLM binds them, and a SINGLE-worker run never
+# goes through the fan-out at all. This one fails loudly instead of moving: a
+# busy port is usually a leftover server from an earlier run, that server is
+# still holding a GPU, and quietly serving beside it leaves both runs slow and
+# neither obviously wrong.
+require_port() {
+  local label="${1:?}" port="${2:?}"
+  port_free "$port" && return 0
+  if curl -sf "http://localhost:$port/health" >/dev/null 2>&1; then
+    echo "!! [$label] port $port already has a HEALTHY server on it." >&2
+  else
+    echo "!! [$label] port $port is in use, by something not answering /health" >&2
+    echo "!! (a server still loading weights, a half-dead one, or a service that" >&2
+    echo "!! is not vLLM at all — pod images run their own nginx)." >&2
+  fi
+  echo "!! Identify it (which PID, which physical GPU), then stop just that one:" >&2
+  echo "!!   ss -ltnp | grep ':$port'      # or: netstat -ltnp | grep ':$port'" >&2
+  echo "!!   kill <pid>                    # do NOT pkill -f 'vllm serve' if" >&2
+  echo "!!                                 # another GPU's run is still live" >&2
+  echo "!! Or serve elsewhere:   PORT=$((port + 1)) bash run.sh" >&2
+  echo "!! Or keep the fan-out off it:  SKIP_PORTS=$port GPUS=n bash run.sh" >&2
+  return 1
+}
+
+# /health only proves SOMETHING answers on the port. Ask /v1/models and require
+# the model this kit asked for, because an nginx satisfies /health and then
+# answers the first real request with `405 Not Allowed` — which is how a
+# port collision reads as "server healthy" followed by every page failing.
+require_vllm() {
+  local label="${1:?}" port="${2:?}" want="${3:?}" body
+  body="$(curl -sf "http://localhost:$port/v1/models" 2>/dev/null || true)"
+  if BODY="$body" WANT="$want" python - <<'PY'
+import json
+import os
+import sys
+
+try:
+    served = [m.get("id") for m in json.loads(os.environ["BODY"])["data"]]
+except Exception:
+    sys.exit(1)
+sys.exit(0 if os.environ["WANT"] in served else 1)
+PY
+  then
+    return 0
+  fi
+  echo "!! [$label] :$port answered /health but is NOT serving '$want'." >&2
+  echo "!! Something else holds the port. /v1/models said:" >&2
+  echo "!!   ${body:-<no response>}" >&2
+  echo "!! Find the occupant:  ss -ltnp | grep ':$port'" >&2
+  echo "!! Then either stop it, or keep this kit off that port:" >&2
+  echo "!!   SKIP_PORTS=$port GPUS=n bash run.sh" >&2
+  return 1
+}
+
 # Number of GPUs to use: GPUS if set, else every GPU nvidia-smi reports, else 1
 # (a CPU pod, or a box without the driver — the kits all still run).
 _gpu_count() {
@@ -73,12 +175,24 @@ gpu_fanout() {
     return 0
   fi
 
-  local base="${PORT:-8000}"
   local stagger="${DEPS_STAGGER:-15}"
   local self="$0"
   echo ">> [$label] $gpus GPUs — one worker per card, shards 0/$gpus … $((gpus - 1))/$gpus"
   echo ">> [$label] child 0 installs deps; the rest wait on .deps_ready"
-  rm -f .deps_ready
+  rm -f .deps_ready .deps_failed
+
+  # Server ports, probed rather than assumed: only kits that serve a model set
+  # PORT at all, so an unset one (the layout kit) allocates nothing.
+  # `while read`, not `mapfile`: mapfile is bash 4+, and a kit should not care
+  # which bash a pod image ships.
+  local -a ports=()
+  local p
+  if [[ -n "${PORT:-}" ]]; then
+    while IFS= read -r p; do ports+=("$p"); done \
+      < <(alloc_ports "$gpus" "$PORT" "$label")
+    [[ "${#ports[@]}" == "$gpus" ]] || exit 1
+    echo ">> [$label] server ports: ${ports[*]}"
+  fi
 
   local -a pids=() logs=()
   local i log
@@ -91,17 +205,29 @@ gpu_fanout() {
       if [[ "$i" -gt 0 ]]; then
         local waited=0
         while [[ ! -f .deps_ready && "$waited" -lt 1800 ]]; do
+          # Child 0 can die BEFORE installing anything — a kit packed without
+          # images exits at its own staging guard — and then nothing would ever
+          # drop the marker. Without this the other workers burn the full 1800s
+          # in a sleep loop and the run looks alive while doing nothing.
+          [[ -f .deps_failed ]] && {
+            echo "!! [$label] shard 0 failed before the deps install;" \
+                 "see worker_shard0of${gpus}.log" >&2
+            exit 1; }
           sleep "$stagger"
           waited=$((waited + stagger))
         done
       fi
+      local crc=0
       CUDA_VISIBLE_DEVICES="$i" \
-      PORT="$((base + i))" \
+      PORT="${ports[$i]:-}" \
       SHARD="$i/$gpus" \
       SKIP_DEPS="$([[ "$i" -gt 0 ]] && echo 1 || echo "${SKIP_DEPS:-0}")" \
       NO_TAR=1 \
       _FANOUT_CHILD=1 \
-        bash "$self" ${_FANOUT_ARGS[@]+"${_FANOUT_ARGS[@]}"} > "$log" 2>&1
+        bash "$self" ${_FANOUT_ARGS[@]+"${_FANOUT_ARGS[@]}"} > "$log" 2>&1 || crc=$?
+      # Release the waiters on child 0's failure, not just its success.
+      [[ "$crc" == 0 || "$i" -gt 0 || -f .deps_ready ]] || : > .deps_failed
+      exit "$crc"
     ) &
     pids+=("$!")
   done
@@ -117,7 +243,7 @@ gpu_fanout() {
       tail -20 "${logs[$i]}" >&2
     fi
   done
-  rm -f .deps_ready
+  rm -f .deps_ready .deps_failed
   echo ">> [$label] $n/$gpus shard(s) finished cleanly"
   # out/ is shared and the slices are disjoint, so there is nothing to merge —
   # package it once, from the parent, exactly as a single-GPU run would.

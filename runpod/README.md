@@ -79,13 +79,25 @@ Mistral runs locally instead of on a pod — see `mistral/README.md`.
 GPUS=4 bash run.sh          # cards 0-3, shards 0/4 … 3/4
 bash run.sh                 # defaults to every GPU the pod exposes
 GPUS=1 bash run.sh          # one worker; also the CPU path
+SKIP_PORTS=8001 GPUS=4 bash run.sh    # never probe 8001
 ```
 
-Worker *i* gets card *i*, port `PORT+i`, and shard `i/n`. Workers take every
-n-th unit and write into the same output directory, so there is no merge step.
-The first worker installs dependencies and the rest wait for it. Each worker
-logs to `worker_shard<i>of<n>.log`; the parent reports per-shard status, tails
-the log of any that failed, and packages the output once.
+Worker *i* gets card *i*, shard `i/n`, and its own server port. Workers take
+every n-th unit and write into the same output directory, so there is no merge
+step. The first worker installs dependencies and the rest wait for it. Each
+worker logs to `worker_shard<i>of<n>.log` and its server to
+`serve_shard<i>of<n>.log`; the parent reports per-shard status, tails the log of
+any that failed, and packages the output once.
+
+**Ports are probed, not assumed.** The parent walks up from `PORT` (8000), tests each port by *binding* it,
+skips the ones in use, and prints the assignment. `SKIP_PORTS` excludes ports
+from probing entirely. Each worker re-checks its port before serving and, if it
+lost the race, stops and prints how to identify the occupant. Once the server
+answers `/health` the kit also requires `/v1/models` to list the model it asked
+for —
+`/health` alone is satisfied by any server on that port, which is how a
+collision otherwise reads as "server healthy" followed by every unit failing
+with nginx's `405 Not Allowed`.
 
 ## Pod requirements
 

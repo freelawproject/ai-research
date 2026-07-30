@@ -114,6 +114,27 @@ class WordVoteTests(SimpleTestCase):
         self.assertIn("cooperate", r["text"])
         self.assertNotIn("co operate", r["text"])
 
+    def test_two_engines_disagreeing_mark_every_difference(self) -> None:
+        """With one other engine no word can reach a majority, so the
+        base's reading survives — marked, never silently chosen."""
+        r = consensus.resolve(
+            reads(dots="the quick fox", mistral="the quiet fox")
+        )
+        self.assertEqual(r["agreement"], consensus.VOTED)
+        self.assertEqual(r["n_low_confidence"], 1)
+        self.assertIn('<mark class="low-confidence">quick</mark>', r["html"])
+        self.assertEqual(r["text"], "the quick fox")
+
+    def test_a_word_only_one_of_two_engines_has_is_not_inserted(
+        self,
+    ) -> None:
+        """An insertion needs a majority too; with two engines it can
+        never have one. The extra word stays visible in that engine's
+        own read on the region card."""
+        r = consensus.resolve(reads(dots="the end", mistral="the very end"))
+        self.assertNotIn("very", r["text"])
+        self.assertNotIn("very", r["html"])
+
     def test_marked_text_is_the_plain_reading(self) -> None:
         """`text` is what the region says; the marks live in `html`."""
         r = consensus.resolve(

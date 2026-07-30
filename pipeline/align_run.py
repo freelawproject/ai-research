@@ -26,7 +26,7 @@ from pipeline.core.config import RENDER_H, RENDER_W, Dataset, dataset
 from pipeline.core.pages import Page, discover_pages
 from pipeline.engines import dots, mistral, surya
 
-ALIGN_SCHEMA_VERSION = 2
+ALIGN_SCHEMA_VERSION = 3
 # Artifacts live beside the route artifacts, under a reserved name.
 ALIGN_DIR = "align"
 ENGINES = ("dots", "mistral", "surya")

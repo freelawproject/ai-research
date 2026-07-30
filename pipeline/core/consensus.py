@@ -94,8 +94,10 @@ def vote_words(
         votes.append(at)
         inserts.append(ins)
 
-    # a majority of ALL the readings, the base's own included
-    quorum = (len(others) + 2) // 2
+    # a strict majority of ALL len(others) + 1 readings, the base's own
+    # included — the same quorum as the whole-region vote, so two
+    # engines can never settle a word they disagree on
+    quorum = (len(others) + 3) // 2
     out: list[str] = []
     disputed = 0
     for position in range(len(base) + 1):

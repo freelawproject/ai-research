@@ -108,8 +108,8 @@ runs the others agree on are inserted or dropped accordingly. A
 position with no majority keeps the base's word and renders as
 `<mark class="low-confidence">`.
 
-That vote resolves **98.6%** of the text in those regions. What is left
-— **0.402% of the whole corpus's words** — is marked rather than
+That vote resolves **97.9%** of the text in those regions. What is left
+— **0.62% of the whole corpus's words** — is marked rather than
 silently chosen.
 
 Word voting cannot carry styling, so a voted region renders as marked
@@ -144,7 +144,7 @@ dropped a page loses its column, not the page.
 
 ## Artifact
 
-`schema_version: 2`, `kind: "align"`.
+`schema_version: 3`, `kind: "align"`.
 
 | field | what |
 |---|---|

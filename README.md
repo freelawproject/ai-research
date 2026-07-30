@@ -127,7 +127,9 @@ finds no columns at all, and because every engine is then placed
 through the same empty container set, the columns interleave silently
 while the comparison still looks healthy.
 
-`/align/` is the surface for those sets. Regions are grouped across
+`/align/` is the surface for those sets. Its bundle — unredacted
+volumes and a Harvard sample — is for information only, run on the
+same backbone as the package. Regions are grouped across
 engines by geometry, ordered from their own coordinates, and resolved
 to what the engines agree on — whole where two of three match, word by
 word where none do (0.4% of corpus words end up with no majority, and
@@ -198,8 +200,9 @@ build, vendored at `viewer/static/viewer/js/vendor/` — components live in
 | `scripts/pack_align_data.sh` | builds the alignment data zip (`align_data/`) |
 
 There is no database: the JSON artifacts under `data/` and `align_data/`
-are the source of truth, and the viewer indexes them in memory. Production persistence is
-intentionally out of scope — design it from the artifact schema.
+are the source of truth, and the viewer indexes them in memory.
+Production persistence is intentionally out of scope — design it from
+the artifact schema.
 
 ## The viewer
 
@@ -217,5 +220,6 @@ intentionally out of scope — design it from the artifact schema.
 - **Alignment** (`/align/`) — regions aligned across engines by
   geometry, ordered from their coordinates, resolved by majority, and
   readable either as the final page or one engine at a time. For sets
-  the route pipeline's container assumptions do not fit.
+  the route pipeline's container assumptions do not fit; for
+  information only.
 - `manage.py report_disagreements` / `report_disputes` — corpus views.

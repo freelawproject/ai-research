@@ -9,7 +9,9 @@ for UNREDACTED sets where the container model finds no columns and so
 cannot drive placement: regions are aligned across engines by geometry,
 ordered from their own coordinates, and resolved by majority (whole
 where two of three agree, word by word where none do); container-YOLO
-is an image overlay only. Its modules:
+is an image overlay only. Its sets (the unredacted volumes + harvard)
+are for information only, run on the same backbone as the package.
+Its modules:
 `pipeline/core/{align,order,consensus}.py`, `pipeline/align_run.py`,
 `viewer/align_data.py`, `viewer/align_views.py`, `viewer/test_align.py`,
 `viewer/templates/viewer/align*.html`,

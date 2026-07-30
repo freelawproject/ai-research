@@ -3,6 +3,8 @@
 A second surface over the same engine outputs, for sets where the
 route pipeline's assumptions do not hold. It answers one question per
 region — *what did the engines read here, and what do they agree on?*
+The sets it ships — the unredacted volumes and the Harvard sample —
+are for information only, run on the same backbone as the package.
 
 Where the route pipeline picks a main engine, reconstructs against the
 container model's columns, normalizes, compares and resolves a winner,

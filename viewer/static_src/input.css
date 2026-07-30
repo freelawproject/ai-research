@@ -219,8 +219,10 @@
 .read-body {
   overflow-x: auto;
 }
-/* wide content scrolls inside its own region, never the page */
-.final-doc > [data-gid] {
+/* wide content scrolls inside its own region, never the page —
+   scoped to this surface's read-through (.align-doc); the route
+   surface's final documents scroll at the container instead */
+.align-doc > p {
   overflow-x: auto;
 }
 

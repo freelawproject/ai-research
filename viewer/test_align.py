@@ -418,6 +418,13 @@ class AlignViewTest(AlignTreeTestCase):
         ).read_text()
         self.assertIn(".read-body{overflow-x:auto}", css)
         self.assertIn(".reads-grid>*{min-width:0}", css)
+        # read-through has no per-card grid, so each paragraph is its
+        # own scroll container
+        self.assertContains(r, "align-doc")
+        rule = next(
+            c for c in css.split("}") if ".align-doc>p" in c.split("{")[0]
+        )
+        self.assertIn("overflow-x:auto", rule)
 
     def test_low_confidence_marks_look_the_same_everywhere(self) -> None:
         """The same marked word shows up in the region cards

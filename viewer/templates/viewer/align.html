@@ -232,7 +232,7 @@
           </span>
         {% endif %}
       </div>
-      <div class="final-doc rounded-lg border border-neutral-200 bg-white px-4 py-3">
+      <div class="final-doc align-doc rounded-lg border border-neutral-200 bg-white px-4 py-3">
         {% for r in reading %}
           <p data-role="{{ r.band }}"
              {% if r.agreement %}data-agreement="{{ r.agreement }}"{% endif %}>{{ r.html|safe }}</p>

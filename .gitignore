@@ -1,3 +1,7 @@
-.DS_Store
-.ipynb_checkpoints/
+# the data bundle ships separately — never commit gold labels,
+# predictions, or page scans
+data/
+*.zip
 __pycache__/
+.venv/
+.env

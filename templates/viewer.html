@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Block tagger — gold vs predictions</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header class="topbar">
+  <h1>Block tagger <span class="muted">gold vs model predictions ·
+    big-set val + test</span></h1>
+</header>
+<div class="legend" id="legend"></div>
+<div class="layout">
+  <section class="panel">
+    <div class="ctl">
+      <select id="dssel" title="dataset">
+        <option value="bigset_val">val windows</option>
+        <option value="bigset_test">test windows</option>
+      </select>
+      <label class="toggle" id="difftoggle" title="only windows where
+        the model and gold disagree (strict)">diffs only</label>
+    </div>
+    <div class="rail" id="rail"></div>
+  </section>
+  <section class="panel">
+    <div class="ctl"><span class="muted">redacted scan</span>
+      <span id="pagechips"></span></div>
+    <div class="stage" id="stage"><img id="scan" alt=""></div>
+  </section>
+  <section class="panel">
+    <div class="ctl">
+      <button id="prev" title="previous window ( [ )">‹</button>
+      <span class="counter" id="counter">–</span>
+      <button id="next" title="next window ( ] )">›</button>
+      <button id="nextdiff" title="jump to next disagreement ( . )">
+        next diff ⇣</button>
+      <span id="winlabel" class="muted"></span>
+    </div>
+    <div class="stats" id="stats"></div>
+    <div class="body" id="goldbody"><pre id="gold">loading…</pre></div>
+  </section>
+  <section class="panel">
+    <div class="ctl"><span class="muted">model predictions ·
+      scroll-synced with gold</span></div>
+    <div class="body" id="predbody"><pre id="pred"></pre></div>
+  </section>
+</div>
+<script>
+(() => {
+const $ = id => document.getElementById(id);
+let wins = [], cur = 0;
+let ds = localStorage.getItem("bt.ds") || "bigset_val";
+let diffOnly = localStorage.getItem("bt.diffonly") === "1";
+
+const CLASSES = ["party","separator","docketnumber","court","attorneys",
+  "judges","datefiled","otherdate","history","disposition","author",
+  "heading"];
+(() => {
+  const lg = $("legend");
+  for (const c of CLASSES) {
+    const s = document.createElement("span");
+    s.className = "lchip"; s.dataset.tag = c; s.textContent = c;
+    lg.appendChild(s);
+  }
+  lg.insertAdjacentHTML("beforeend",
+    '<span class="lsep">│</span>' +
+    '<span class="lsample pf-miss">gold span the model missed</span>' +
+    '<span class="lsample pf-fp">model false positive</span>' +
+    '<span class="lsample pf-miss-n">punct-only diff (gold)</span>' +
+    '<span class="lsample pf-fp-n">punct-only diff (pred)</span>');
+})();
+
+function visible() {
+  return diffOnly
+    ? wins.filter(w => w.n_miss + w.n_fp > 0).map(w => w.i)
+    : wins.map(w => w.i);
+}
+
+let diffIdx = -1;
+async function loadWin() {
+  const d = await (await fetch(`/api/win/${cur}?ds=${ds}`)).json();
+  if (d.detail) { $("stats").textContent = d.detail; return; }
+  $("counter").textContent = `${d.i + 1} / ${d.n}`;
+  $("winlabel").innerHTML =
+    `<b>${d.doc}</b> · case ${d.case} · win ${d.window}`;
+  $("stats").textContent = d.stats;
+  $("gold").innerHTML = d.gold_html;
+  $("pred").innerHTML = d.pred_html;
+  $("goldbody").scrollTop = 0;
+  diffIdx = -1;
+  const chips = $("pagechips");
+  chips.innerHTML = "";
+  for (const s of d.stems) {
+    const b = document.createElement("button");
+    b.textContent = s;
+    b.addEventListener("click", () => showPage(d.doc, s, b));
+    chips.appendChild(b);
+  }
+  if (d.stems.length) showPage(d.doc, d.stems[0],
+                               chips.firstElementChild);
+  else { $("scan").removeAttribute("src"); }
+  localStorage.setItem("bt.cur." + ds, String(cur));
+  for (const b of document.querySelectorAll(".rail button"))
+    b.classList.toggle("on", +b.dataset.i === cur);
+  const on = document.querySelector(".rail button.on");
+  if (on) on.scrollIntoView({block: "nearest"});
+}
+
+function showPage(rng, stem, chip) {
+  $("scan").src = `/api/img/${rng}/${stem}.png`;
+  for (const b of $("pagechips").children)
+    b.classList.toggle("on", b === chip);
+}
+
+function go(i) {
+  const vis = visible();
+  if (!vis.length) return;
+  if (!vis.includes(i)) {
+    const fwd = vis.find(v => v >= i);
+    i = (i >= cur ? (fwd ?? vis[vis.length - 1])
+                  : ([...vis].reverse().find(v => v <= i) ?? vis[0]));
+  }
+  cur = i;
+  loadWin();
+}
+
+function step(dir) {
+  const vis = visible();
+  if (!vis.length) return;
+  const k = vis.indexOf(cur);
+  cur = vis[Math.max(0, Math.min(vis.length - 1,
+                                 (k === -1 ? 0 : k + dir)))];
+  loadWin();
+}
+
+function renderRail() {
+  const rail = $("rail");
+  const vis = new Set(visible());
+  let vol = null, htm = "";
+  for (const w of wins) {
+    if (!vis.has(w.i)) continue;
+    if (w.volume !== vol) {
+      vol = w.volume;
+      htm += `<div class="vol">${vol}</div>`;
+    }
+    const nd = w.n_miss + w.n_fp;
+    htm += `<button data-i="${w.i}">${w.doc.split(".").pop()}
+      @${w.case} w${w.window} <span class="muted">${w.n_spans}sp</span>
+      ${nd ? `<span class="dbadge">Δ${nd}</span>` : ""}</button>`;
+  }
+  rail.innerHTML = htm || '<div class="vol">no differences</div>';
+  $("difftoggle").classList.toggle("on", diffOnly);
+}
+
+async function switchDs() {
+  $("stats").textContent = "loading…";
+  const d = await (await fetch(`/api/index?ds=${ds}`)).json();
+  if (d.detail) { $("stats").textContent = d.detail; return; }
+  wins = d.windows;
+  renderRail();
+  cur = Math.min(+(localStorage.getItem("bt.cur." + ds) || 0),
+                 wins.length - 1);
+  go(cur);
+}
+
+$("dssel").value = ds;
+$("dssel").addEventListener("change", () => {
+  ds = $("dssel").value;
+  localStorage.setItem("bt.ds", ds);
+  switchDs();
+});
+$("difftoggle").addEventListener("click", () => {
+  diffOnly = !diffOnly;
+  localStorage.setItem("bt.diffonly", diffOnly ? "1" : "0");
+  renderRail();
+  go(cur);
+});
+$("rail").addEventListener("click", e => {
+  const b = e.target.closest("button");
+  if (b) go(+b.dataset.i);
+});
+$("prev").addEventListener("click", () => step(-1));
+$("next").addEventListener("click", () => step(1));
+
+let scrollLock = false;
+function sync(a, b) {
+  a.addEventListener("scroll", () => {
+    if (scrollLock) return;
+    scrollLock = true;
+    const ha = a.scrollHeight - a.clientHeight;
+    const hb = b.scrollHeight - b.clientHeight;
+    b.scrollTop = ha > 0 ? a.scrollTop * hb / ha : 0;
+    requestAnimationFrame(() => { scrollLock = false; });
+  });
+}
+sync($("goldbody"), $("predbody"));
+sync($("predbody"), $("goldbody"));
+
+function nextDiff() {
+  const els = [
+    ...$("goldbody").querySelectorAll('[class*="pf-"]'),
+    ...$("predbody").querySelectorAll('[class*="pf-"]'),
+  ].sort((x, y) => x.offsetTop - y.offsetTop);
+  if (!els.length) return;
+  diffIdx = (diffIdx + 1) % els.length;
+  const el = els[diffIdx];
+  const pane = $("goldbody").contains(el) ? $("goldbody")
+                                          : $("predbody");
+  pane.scrollTop = Math.max(0, el.offsetTop - pane.clientHeight / 3);
+  el.classList.remove("diffcur");
+  void el.offsetWidth;
+  el.classList.add("diffcur");
+}
+$("nextdiff").addEventListener("click", nextDiff);
+document.addEventListener("keydown", e => {
+  if (e.target.matches("input,select,textarea")) return;
+  if (e.key === "[") step(-1);
+  if (e.key === "]") step(1);
+  if (e.key === ".") nextDiff();
+});
+switchDs();
+})();
+</script>
+</body>
+</html>

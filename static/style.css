@@ -1,0 +1,82 @@
+/* FLP house-style extract for the block-tagger delivery viewer */
+* { box-sizing: border-box; }
+body { margin: 0; font-family: -apple-system, BlinkMacSystemFont,
+  "Segoe UI", Roboto, sans-serif; background: #f3f4f6; color: #111827; }
+.topbar { display: flex; align-items: center; justify-content:
+  space-between; padding: 10px 16px; background: #1e1b4b; color: #fff; }
+.topbar h1 { font-size: 15px; margin: 0; }
+.topbar .muted { color: #c7d2fe; font-weight: 400; font-size: 12px; }
+.muted { color: #6b7280; }
+
+.legend { display: flex; gap: 5px 8px; flex-wrap: wrap; align-items:
+  center; padding: 5px 14px; background: #fff;
+  border-bottom: 1px solid #e5e7eb; font-size: 10.5px; }
+.legend .lsep { color: #d1d5db; }
+.legend .lsample { padding: 1px 6px; border-radius: 3px;
+  font-family: ui-monospace, Menlo, monospace; background: #f9fafb; }
+
+.layout { display: grid;
+  grid-template-columns: 220px 0.9fr 1.1fr 1.1fr; gap: 10px;
+  padding: 10px; }
+.panel { background: #fff; border-radius: 8px; display: flex;
+  flex-direction: column; max-height: calc(100vh - 104px);
+  box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+.ctl { display: flex; gap: 6px; align-items: center; flex-wrap: wrap;
+  padding: 6px 10px; border-bottom: 1px solid #e5e7eb; font-size: 12px; }
+.ctl select, .ctl button, .ctl .toggle { border: 1px solid #d1d5db;
+  background: #fff; border-radius: 5px; font-size: 12px;
+  padding: 2px 8px; cursor: pointer; }
+.ctl .toggle.on { background: #4f46e5; color: #fff;
+  border-color: #4f46e5; }
+.ctl .counter { font-weight: 700; }
+.stats { font-size: 11px; color: #6b7280; padding: 5px 10px;
+  border-bottom: 1px solid #e5e7eb; }
+
+.rail { overflow-y: auto; flex: 1; font-size: 11.5px; }
+.rail .vol { padding: 4px 10px; font-weight: 700; color: #6b7280;
+  background: #f9fafb; position: sticky; top: 0; }
+.rail button { display: block; width: 100%; text-align: left;
+  border: 0; background: none; padding: 3px 10px; cursor: pointer;
+  font-size: 11.5px; }
+.rail button:hover { background: #eef2ff; }
+.rail button.on { background: #4f46e5; color: #fff; }
+.rail button .dbadge { color: #dc2626; font-weight: 700; }
+.rail button.on .dbadge { color: #fecaca; }
+.rail button.on .muted { color: #c7d2fe; }
+
+.stage { overflow: auto; flex: 1; background: #f3f4f6; }
+.stage img { width: 100%; display: block; }
+#pagechips button { border: 1px solid #d1d5db; background: #fff;
+  border-radius: 5px; font-size: 10.5px; padding: 0 8px;
+  cursor: pointer; }
+#pagechips button.on { background: #4f46e5; color: #fff;
+  border-color: #4f46e5; }
+
+.body { overflow-y: auto; flex: 1; padding: 8px 12px;
+  position: relative; }
+.body pre { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere;
+  font-size: 11.5px; line-height: 1.6;
+  font-family: ui-monospace, Menlo, monospace; }
+
+/* class colors (shared with the legend pills) */
+.mvb-party,        .lchip[data-tag="party"]        { background: #e0e7ff; }
+.mvb-separator,    .lchip[data-tag="separator"]    { background: #eef2ff; }
+.mvb-docketnumber, .lchip[data-tag="docketnumber"] { background: #cffafe; }
+.mvb-court,        .lchip[data-tag="court"]        { background: #ede9fe; }
+.mvb-attorneys,    .lchip[data-tag="attorneys"]    { background: #d1fae5; }
+.mvb-judges,       .lchip[data-tag="judges"]       { background: #dcfce7; }
+.mvb-datefiled,    .lchip[data-tag="datefiled"]    { background: #fef3c7; }
+.mvb-otherdate,    .lchip[data-tag="otherdate"]    { background: #fef9c3; }
+.mvb-history,      .lchip[data-tag="history"]      { background: #fce7f3; }
+.mvb-disposition,  .lchip[data-tag="disposition"]  { background: #fee2e2; }
+.mvb-author,       .lchip[data-tag="author"]       { background: #f3e8ff; }
+.mvb-heading,      .lchip[data-tag="heading"]      { background: #ecfccb; }
+.lchip { border-radius: 999px; padding: 1px 8px; font-size: 10.5px; }
+
+/* prediction-diff flags */
+.pf-miss   { outline: 2px solid #dc2626; outline-offset: 1px; }
+.pf-fp     { outline: 2px dashed #dc2626; outline-offset: 1px; }
+.pf-miss-n { outline: 2px solid #f59e0b; outline-offset: 1px; }
+.pf-fp-n   { outline: 2px dashed #f59e0b; outline-offset: 1px; }
+@keyframes diffflash { from { background: #fde68a; } to {} }
+.diffcur { animation: diffflash 1.2s ease-out; }

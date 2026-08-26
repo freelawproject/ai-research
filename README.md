@@ -75,6 +75,22 @@ with transferred labels — a text-shape variant, not new pages.
 collapsed to a space (spans remapped, adjacent same-label spans
 re-merged) — robustness to OCR block segmentation.
 
+### Volumes by split
+
+The split is volume-level (a volume's pages are never divided across
+splits), shared by the golden and big-set datasets alike:
+
+| split | volumes |
+|---|---|
+| train (14) | a3d.216, a3d.237, a3d.248, f4th.60, f4th.108, f4th.155, ne3d.270, ne3d.273, nw2d.945, nw3d.24, sct.141, so3d.343, sw3d.707, sw3d.712 |
+| val (3) | a3d.316, so3d.398, **p3d.515** |
+| test (4) | sct.143, **se2d.911**, **se2d.921**, **br.670** |
+
+Bolded volumes belong to reporter series with **no volume in
+training** — the out-of-sample generalization probes. The golden
+pages come from twelve of these volumes; the big-set extension added
+nine volumes across six reporter series.
+
 **Gold provenance:** the golden sets are seeded by Gemini then human-reviewed. The
 big-set gold was seeded by golden model then human-reviewed — val and test
 completely, train via targeted review flows.

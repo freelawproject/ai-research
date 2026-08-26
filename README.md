@@ -15,10 +15,9 @@ This branch delivers:
   predictions, and scans;
 - **the model** — `blocktagger_large_bigset`, published to Hugging
   Face at
-  [freelawproject/caselaw-block-tagger](https://huggingface.co/freelawproject/caselaw-block-tagger)
-  (private — ask for access). Weights, tokenizer, and the model card
-  (with a usage snippet) all live there; nothing model-related ships
-  in this repo.
+  [freelawproject/caselaw-block-tagger](https://huggingface.co/freelawproject/caselaw-block-tagger).
+  Weights, tokenizer, and the model card (with a usage snippet) all
+  live there; nothing model-related ships in this repo.
 
 ## Running the viewer
 

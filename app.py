@@ -1,9 +1,14 @@
-"""Block-tagger delivery viewer — gold vs model predictions.
+"""Block-tagger delivery viewer.
 
-Read-only visualization of the case-law block tagger's output on the
-big-set VAL and TEST windows, next to the redacted page scans. The
-data directory ships separately (see README.md); this repo holds only
-the viewer.
+Read-only visualization of the case-law block tagger's output, next
+to the redacted page scans:
+
+- gold vs model predictions on the big-set VAL and TEST windows;
+- "pipeline samples" — model input vs tagged output for docs produced
+  end-to-end by pipeline/ (data/samples/<range>.json).
+
+The data directory ships separately (see README.md); this repo holds
+only the viewer.
 
     uv run uvicorn app:app --port 8180
 """
@@ -22,7 +27,7 @@ import spannorm
 
 HERE = Path(__file__).resolve().parent
 DATA = HERE / "data"
-DATASETS = ("bigset_val", "bigset_test")
+DATASETS = ("bigset_val", "bigset_test", "samples")
 
 app = FastAPI(title="block tagger — gold vs predictions")
 app.mount("/static", StaticFiles(directory=HERE / "static"), name="static")
@@ -49,6 +54,21 @@ def _load(ds: str):
         preds[(p["doc"], p["case"], p["window"])] = p["block_spans_pred"]
     _CACHE[ds] = (wins, preds)
     return _CACHE[ds]
+
+
+def _load_samples():
+    """Pipeline-produced docs (data/samples/<range>.json): model input
+    text + predicted block_spans, no gold."""
+    if "samples" in _CACHE:
+        return _CACHE["samples"]
+    docs = [json.loads(p.read_text())
+            for p in sorted((DATA / "samples").glob("*.json"))]
+    if not docs:
+        raise HTTPException(
+            404, "no pipeline samples — run pipeline/preprocess.py, "
+                 "infer.py, postprocess.py first (see pipeline/README)")
+    _CACHE["samples"] = docs
+    return docs
 
 
 def _pages():
@@ -127,6 +147,15 @@ def index_page(request: Request):
 
 @app.get("/api/index")
 def api_index(ds: str = "bigset_val"):
+    if ds == "samples":
+        rows = [
+            {"i": i, "doc": d["range"], "case": 0, "window": 0,
+             "volume": d["range"].rsplit(".", 1)[0], "kind": "sample",
+             "n_spans": len(d["block_spans"]), "n_miss": 0, "n_fp": 0}
+            for i, d in enumerate(_load_samples())
+        ]
+        return JSONResponse({"ds": ds, "datasets": list(DATASETS),
+                             "windows": rows})
     wins, preds = _load(ds)
     rows = []
     for i, w in enumerate(wins):
@@ -144,6 +173,28 @@ def api_index(ds: str = "bigset_val"):
 
 @app.get("/api/win/{i}")
 def api_win(i: int, ds: str = "bigset_val"):
+    if ds == "samples":
+        docs = _load_samples()
+        if not (0 <= i < len(docs)):
+            raise HTTPException(404, f"no sample {i}")
+        d = docs[i]
+        text = d["text"]
+        spans = d["block_spans"]
+        by: dict = {}
+        for s in spans:
+            by[s["label"]] = by.get(s["label"], 0) + 1
+        stats = f"{len(spans)} predicted spans · " + ", ".join(
+            f"{k} {v}" for k, v in sorted(by.items(), key=lambda x: -x[1]))
+        none = [None] * len(text)
+        return JSONResponse({
+            "i": i, "n": len(docs), "doc": d["range"], "case": 0,
+            "window": 0, "volume": d["range"].rsplit(".", 1)[0],
+            "kind": "sample", "stats": stats,
+            "stems": [p["stem"] for p in d["pages"]
+                      if p["end"] > p["start"]],
+            "gold_html": _render(text, [], none),
+            "pred_html": _render(text, spans, none),
+        })
     wins, preds = _load(ds)
     if not (0 <= i < len(wins)):
         raise HTTPException(404, f"no window {i}")

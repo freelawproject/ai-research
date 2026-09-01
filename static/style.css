@@ -29,6 +29,7 @@ body { margin: 0; font-family: -apple-system, BlinkMacSystemFont,
 .ctl .toggle.on { background: #4f46e5; color: #fff;
   border-color: #4f46e5; }
 .ctl .counter { font-weight: 700; }
+[hidden] { display: none !important; }
 .stats { font-size: 11px; color: #6b7280; padding: 5px 10px;
   border-bottom: 1px solid #e5e7eb; }
 

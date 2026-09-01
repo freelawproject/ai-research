@@ -18,6 +18,7 @@
       <select id="dssel" title="dataset">
         <option value="bigset_val">val windows</option>
         <option value="bigset_test">test windows</option>
+        <option value="samples">pipeline samples</option>
       </select>
       <label class="toggle" id="difftoggle" title="only windows where
         the model and gold disagree (strict)">diffs only</label>
@@ -36,14 +37,15 @@
       <button id="next" title="next window ( ] )">›</button>
       <button id="nextdiff" title="jump to next disagreement ( . )">
         next diff ⇣</button>
+      <span id="goldlabel" class="muted"></span>
       <span id="winlabel" class="muted"></span>
     </div>
     <div class="stats" id="stats"></div>
     <div class="body" id="goldbody"><pre id="gold">loading…</pre></div>
   </section>
   <section class="panel">
-    <div class="ctl"><span class="muted">model predictions ·
-      scroll-synced with gold</span></div>
+    <div class="ctl"><span class="muted" id="predlabel">model
+      predictions · scroll-synced with gold</span></div>
     <div class="body" id="predbody"><pre id="pred"></pre></div>
   </section>
 </div>
@@ -73,7 +75,7 @@ const CLASSES = ["party","separator","docketnumber","court","attorneys",
 })();
 
 function visible() {
-  return diffOnly
+  return (diffOnly && ds !== "samples")
     ? wins.filter(w => w.n_miss + w.n_fp > 0).map(w => w.i)
     : wins.map(w => w.i);
 }
@@ -83,8 +85,16 @@ async function loadWin() {
   const d = await (await fetch(`/api/win/${cur}?ds=${ds}`)).json();
   if (d.detail) { $("stats").textContent = d.detail; return; }
   $("counter").textContent = `${d.i + 1} / ${d.n}`;
-  $("winlabel").innerHTML =
-    `<b>${d.doc}</b> · case ${d.case} · win ${d.window}`;
+  const sample = d.kind === "sample";
+  $("winlabel").innerHTML = sample
+    ? `<b>${d.doc}</b>`
+    : `<b>${d.doc}</b> · case ${d.case} · win ${d.window}`;
+  $("goldlabel").textContent = sample ? "model input →" : "";
+  $("predlabel").textContent = sample
+    ? "tagged output · scroll-synced with input"
+    : "model predictions · scroll-synced with gold";
+  $("nextdiff").hidden = sample;
+  $("difftoggle").hidden = sample;
   $("stats").textContent = d.stats;
   $("gold").innerHTML = d.gold_html;
   $("pred").innerHTML = d.pred_html;
@@ -146,9 +156,12 @@ function renderRail() {
       htm += `<div class="vol">${vol}</div>`;
     }
     const nd = w.n_miss + w.n_fp;
-    htm += `<button data-i="${w.i}">${w.doc.split(".").pop()}
-      @${w.case} w${w.window} <span class="muted">${w.n_spans}sp</span>
-      ${nd ? `<span class="dbadge">Δ${nd}</span>` : ""}</button>`;
+    htm += w.kind === "sample"
+      ? `<button data-i="${w.i}">${w.doc.split(".").pop()}
+        <span class="muted">${w.n_spans}sp</span></button>`
+      : `<button data-i="${w.i}">${w.doc.split(".").pop()}
+        @${w.case} w${w.window} <span class="muted">${w.n_spans}sp</span>
+        ${nd ? `<span class="dbadge">Δ${nd}</span>` : ""}</button>`;
   }
   rail.innerHTML = htm || '<div class="vol">no differences</div>';
   $("difftoggle").classList.toggle("on", diffOnly);

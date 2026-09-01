@@ -11,6 +11,10 @@ This branch delivers:
 
 - **the viewer** (this repo) — gold vs model predictions on the val
   and test sets, next to the redacted page scans;
+- **the pipeline** (`pipeline/`) — preprocess OCR output, run the
+  tagger, postprocess the predictions into viewable tagged docs (see
+  `pipeline/README.md`); its results show up in the viewer as the
+  "pipeline samples" dataset;
 - **the data bundle** (shared separately, never committed) — labels,
   predictions, and scans;
 - **the model** — `blocktagger_large_bigset`, published to Hugging
@@ -40,6 +44,9 @@ uv run uvicorn app:app --port 8180
   positive · amber = same span, edge-punctuation difference only.
 - **next diff ⇣** (or `.`) jumps through disagreements; `[` / `]`
   move between windows.
+- **pipeline samples** (dataset dropdown) — docs tagged end-to-end by
+  `pipeline/`: the model's input text on the left pane, the tagged
+  output on the right (no gold, so no diff markers).
 
 ---
 

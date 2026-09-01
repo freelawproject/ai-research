@@ -1,0 +1,9 @@
+[project]
+name = "blocktagger-pipeline"
+version = "1.0.0"
+description = "FLP case-law block tagger — preprocess / infer / postprocess"
+requires-python = ">=3.12"
+dependencies = [
+    "torch>=2.4",
+    "transformers>=5.15",
+]

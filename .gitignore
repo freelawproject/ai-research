@@ -47,3 +47,6 @@ experiments_06172026/.venv/
 experiments_06142026/finetune/runs/
 experiments_06142026/finetune/.venv/
 experiments_06142026/viewer/.venv/
+
+experiments_09112026/data/
+experiments_09112026/.env

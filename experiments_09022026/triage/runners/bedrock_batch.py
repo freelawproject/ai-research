@@ -26,7 +26,7 @@ Run through the wrapper (checks the SSO session + env vars, supplies deps):
     bash bedrock_batch.sh submit --name train_a        # upload + create job
     bash bedrock_batch.sh status                       # all tracked jobs
     bash bedrock_batch.sh fetch  --name train_a        # download + write response.md / edits.json
-    python3 citation_seed.py score --ids ... --out-dir data/citation_seed/train_a   # or apply --write
+    python3 lib/citation_seed.py score --ids ... --out-dir data/citation_seed/train_a   # or apply --write
 
 Bedrock batch needs >= 100 records per job; `export` warns below that.
 """
@@ -43,7 +43,7 @@ import time
 
 from json_repair import repair_json
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "..", "..", "citator-pipeline"))
 from utils.batch_utils import (  # noqa: E402
     S3_BUCKET, BATCH_ROLE_ARN, generate_run_id, prompt_sha, s3_run_prefix, s3_uri,
@@ -189,7 +189,7 @@ def cmd_export(a):
     max_tokens = a.max_tokens or model_max_tokens(model)
     missing = [c for c in a.ids if not os.path.exists(os.path.join(INPUTS, f"{c}.txt"))]
     if missing:
-        sys.exit(f"{len(missing)} ids have no prepared input (run `python3 citation_seed.py prepare --ids ...`): "
+        sys.exit(f"{len(missing)} ids have no prepared input (run `python3 lib/citation_seed.py prepare --ids ...`): "
                  + " ".join(missing[:20]))
     path = os.path.join(BATCHES, f"{a.name}.jsonl")
     n_chars = 0
@@ -342,8 +342,8 @@ def cmd_fetch(a):
     if missing:
         print(f"{len(missing)} ids without edits.json (re-export these as a new batch): " + " ".join(missing[:30]))
     rel = os.path.relpath(out_dir, ROOT)
-    print(f"next: python3 citation_seed.py score --ids <ids> --out-dir {rel}   # dev/test\n"
-          f"      python3 citation_seed.py apply --write --ids <ids> --out-dir {rel}   # train")
+    print(f"next: python3 lib/citation_seed.py score --ids <ids> --out-dir {rel}   # dev/test\n"
+          f"      python3 lib/citation_seed.py apply --write --ids <ids> --out-dir {rel}   # train")
 
 
 # ------------------------------------------------------------------ main

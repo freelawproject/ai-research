@@ -29,7 +29,7 @@ from html import unescape
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import tagged_text as tt  # noqa: E402
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Point the harness at another annotator root / seeding dir (e.g. the round-2
 # 10K set in experiments_09092026) with CITSEED_ANNOT / CITSEED_OUT.
 ANNOT = os.environ.get("CITSEED_ANNOT") or os.path.join(ROOT, "data", "annotator")

@@ -44,9 +44,9 @@ import urllib.request
 import boto3
 from json_repair import repair_json
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "..", "..", "citator-pipeline"))
-sys.path.insert(0, ROOT)
+sys.path.insert(0, os.path.join(ROOT, "lib"))
 from utils.batch_utils import (  # noqa: E402
     S3_BUCKET, BATCH_ROLE_ARN, generate_run_id, prompt_sha, s3_run_prefix, s3_uri,
     upload_file, list_keys, download_to_file, submit_batch_job, check_job_status,

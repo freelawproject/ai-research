@@ -52,7 +52,7 @@ SEVERITY_RANK = {"Neutral": 0, "Caution": 1, "Warning": 2, "Stop": 3}
 
 def severity_of(t):
     return SEVERITY.get((t or "").replace(" as recognized by", " by"), "Neutral")
-SPLITS = Path(__file__).parent / "inputs" / "splits.csv"
+SPLITS = Path(__file__).parent.parent / "inputs" / "splits.csv"
 _SECTION_OPEN = re.compile(r"<(lead|concurrence|dissent|plurality|combined|addendum|remittitur|rehearing|onthemerits|onmotion|trialcourt)>")
 _TAG = re.compile(r"<[^>]+>")
 _PARA = re.compile(r"\n\s*\n")

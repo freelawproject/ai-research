@@ -6,14 +6,17 @@ Output under --out (default data/seed_passages/<tag>/):
   input.jsonl      Bedrock batch records (chat-completions body; recordId = window_id)
   manifest.json    counts, prompt version, model, token estimate
 
-    python build_windows.py --seed-dir data/seed/pilot_kimi --all-pairs --out data/windows/pilot_passages.jsonl
+    python lib/build_windows.py --seed-dir data/seed/pilot_kimi --all-pairs --out data/windows/pilot_passages.jsonl
     python prepare_passage_inputs.py --windows data/windows/pilot_passages.jsonl --model kimi --tag pilot_passages_kimi
 """
 import argparse
 import json
+import os
+import sys
 from pathlib import Path
 
-from passage_prompt import PASSAGE_SCHEMA, VERSION, build_passage_prompt, render_user_message
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "lib"))
+from passage_prompt import PASSAGE_SCHEMA, VERSION, build_passage_prompt, render_user_message  # noqa: E402
 
 MODELS = {"kimi": ("moonshotai.kimi-k2.5", 600), "glm5": ("zai.glm-5", 600), "glm47": ("zai.glm-4.7", 600),
           "kimi-thinking": ("moonshot.kimi-k2-thinking", 600)}

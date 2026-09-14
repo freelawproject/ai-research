@@ -21,7 +21,7 @@ import random
 from pathlib import Path
 
 BENCH = Path("/Users/rachel/Desktop/flp/citator-benchmark/data")
-OUT = Path(__file__).parent / "inputs" / "splits.csv"
+OUT = Path(__file__).parent.parent / "inputs" / "splits.csv"
 SEED = 20260902
 DEV_SHARE = 150 / 384
 

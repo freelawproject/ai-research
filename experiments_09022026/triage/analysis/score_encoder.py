@@ -9,7 +9,7 @@ Predicted spans live in the dataset's text frame (revised_html → text); they
 are re-anchored into the annotator frame by text + preceding context with the
 same whitespace-insensitive matcher the LLM `add` edits use (nth_of).
 
-    python3 score_encoder.py --pred ../../experiments_09092026/data/output/pred_gold_dev.json \\
+    python3 analysis/score_encoder.py --pred ../../experiments_09092026/data/output/pred_gold_dev.json \\
         --ids $(cat data/citation_seed/dev_ids.txt)
 """
 
@@ -18,8 +18,10 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import sys
 
-from citation_seed import State, nth_of, prf, score_states
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "lib"))
+from citation_seed import State, nth_of, prf, score_states  # noqa: E402
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 

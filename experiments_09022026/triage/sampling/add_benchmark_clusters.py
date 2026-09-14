@@ -26,7 +26,7 @@ from datetime import date
 from pathlib import Path
 
 BENCH = Path("/Users/rachel/Desktop/flp/citator-benchmark/data")
-SPLITS = Path(__file__).parent / "inputs" / "splits.csv"
+SPLITS = Path(__file__).parent.parent / "inputs" / "splits.csv"
 ASSIGN_FIELDS = ["group", "pass_type", "citing_cluster_id", "cited_cluster_id", "cited_ref", "expert",
                  "label_raw", "label", "notes", "round_zip", "group_zip", "source_file", "ingested",
                  "citing_url", "cited_url", "citing_court_name", "cited_court_name",

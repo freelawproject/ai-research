@@ -43,7 +43,7 @@ constraint, and every edit maps 1:1 onto the annotator's override schema:
 So the applier writes the LLM's corrections straight into `grouping_overrides/{cid}.json`
 (with `by: llm` in `citation_changes.csv`) and the train opinions render corrected in the
 same annotator, where a spot-check sample can be verified like dev/test. The export
-(`revised_html`) then feeds `build_windows.py` unchanged.
+(`revised_html`) then feeds `lib/build_windows.py` unchanged.
 
 ## Model choice
 

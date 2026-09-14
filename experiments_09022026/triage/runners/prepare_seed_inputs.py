@@ -37,14 +37,15 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                                "..", "..", "citator-pipeline", "utils"))
+                                "..", "..", "..", "citator-pipeline", "utils"))
 from preprocess import split_opinion_to_pages  # noqa: E402
 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "lib"))
 from seed_prompt import SEEDER_SCHEMA, VERSION, build_seeder_prompt, render_user_message  # noqa: E402
 from tagged_text import from_opinion_html, from_revised_html, inventory_block, load_json  # noqa: E402
 
 BENCH = Path("/Users/rachel/Desktop/flp/citator-benchmark/data")
-SPLITS = Path(__file__).parent / "inputs" / "splits.csv"
+SPLITS = Path(__file__).parent.parent / "inputs" / "splits.csv"
 MODELS = {
     # model id, max output tokens, default page size (chars)
     "kimi": ("moonshotai.kimi-k2.5", 16000, 400_000),

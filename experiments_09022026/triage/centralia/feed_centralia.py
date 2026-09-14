@@ -38,7 +38,7 @@ from eyecite.models import (FullCaseCitation, IdCitation, ReferenceCitation,
                             ShortCaseCitation, SupraCitation)
 
 logging.getLogger("eyecite").setLevel(logging.ERROR)
-HERE = Path(__file__).resolve().parent
+HERE = Path(__file__).resolve().parent.parent
 CASE_TYPES = (FullCaseCitation, ShortCaseCitation, IdCitation, SupraCitation, ReferenceCitation)
 CL_TYPE = {"majority": "020lead", "per-curiam": "020lead", "order": "020lead", "plurality": "025plurality",
            "concurrence": "030concurrence", "concurring-in-part-and-dissenting-in-part": "035concurrenceinpart",

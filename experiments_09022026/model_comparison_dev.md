@@ -1,7 +1,7 @@
 # Citation extraction + coreference: all systems on one scorer (dev, 2026-09-11)
 
 One table, one scorer, one gold. Every row is scored with
-`experiments_09022026/triage/citation_seed.py score_states` — overlap-matched
+`experiments_09022026/triage/lib/citation_seed.py score_states` — overlap-matched
 mention precision/recall/F1 and pairwise coreference precision/recall/F1 over
 the matched mentions — against the **current** annotator gold for the 49 triage
 dev opinions (2,953 gold mentions). Section 4 explains what each row is, section
@@ -68,16 +68,16 @@ edit eyecite's output).
 
 | row | model id | runner | prompt | reasoning | max output | other |
 |---|---|---|---|---|---|---|
-| Opus 5 | `us.anthropic.claude-opus-5` | Bedrock batch (`triage/bedrock_batch.sh`) | `prompts/triage_citation_fixer_v5.md` | adaptive thinking | 128,000 (model ceiling) | 48 dev from job `train_b`, 809122 from `opus_retry` |
+| Opus 5 | `us.anthropic.claude-opus-5` | Bedrock batch (`triage/runners/bedrock_batch.sh`) | `prompts/triage_citation_fixer_v5.md` | adaptive thinking | 128,000 (model ceiling) | 48 dev from job `train_b`, 809122 from `opus_retry` |
 | Sonnet 4.6 | `us.anthropic.claude-sonnet-4-6` | Bedrock batch | v5 | thinking, 8K budget | 128,000 | Sonnet 5 is not batch-enabled on Bedrock us-west-2 |
 | Kimi K2.5 | `moonshotai.kimi-k2.5` | Bedrock batch, OpenAI-chat body, prompt prepended to the user turn | v5 | none, temperature 0 | 128,000 (shares the 262K context with the input) | 1 record looped to the cap |
-| GPT-5.6 v5 | `gpt-5.6-luna` | OpenAI real-time (`triage/openai_batch.sh run`, 8 concurrent) | v5 | `reasoning_effort=medium` | 128,000 | 190 s for 49 |
-| GPT-5.6 v8g | `gpt-5.6-luna` | OpenAI real-time, 8 concurrent, `--candidates` | `prompts/triage_citation_fixer_v8g.md` | `reasoning_effort=high` | 128,000 | `candidates.py` block appended to the input; `postfilter_adds` drops name fragments / duplicates; 564 s for 49 |
-| silver encoder | `ai-law-society-lab/CaseLawModernBERT-large`, two heads | `experiments_09092026/finetune/train_extraction.py` + `train_linking.py` | – | – | – | 13,304 silver train clusters, 3 epochs each (11.1 h + 3.3 h on one 44 GB GPU); scored via `finetune/predict_gold_dev.py` → `triage/score_encoder.py` |
+| GPT-5.6 v5 | `gpt-5.6-luna` | OpenAI real-time (`triage/runners/openai_batch.sh run`, 8 concurrent) | v5 | `reasoning_effort=medium` | 128,000 | 190 s for 49 |
+| GPT-5.6 v8g | `gpt-5.6-luna` | OpenAI real-time, 8 concurrent, `--candidates` | `prompts/triage_citation_fixer_v8g.md` | `reasoning_effort=high` | 128,000 | `lib/candidates.py` block appended to the input; `postfilter_adds` drops name fragments / duplicates; 564 s for 49 |
+| silver encoder | `ai-law-society-lab/CaseLawModernBERT-large`, two heads | `experiments_09092026/finetune/train_extraction.py` + `train_linking.py` | – | – | – | 13,304 silver train clusters, 3 epochs each (11.1 h + 3.3 h on one 44 GB GPU); scored via `finetune/predict_gold_dev.py` → `triage/analysis/score_encoder.py` |
 
 Inputs for every LLM row: `triage/data/citation_seed/inputs/{cid}.txt` (citing
 case header, cited-case inventory, opinion with eyecite tags) prepared by
-`citation_seed.py prepare --seed-state`.
+`lib/citation_seed.py prepare --seed-state`.
 
 ## 5. Prices
 
@@ -151,7 +151,7 @@ in the `cl-django` container; commands in its docstring). Same 135 cells as
 round 1 (5 court groups × 9 decades × 3 length bins), but each cell takes 60
 *keyword* + 15 *control* clusters, where keyword = at least one strong
 citing-reference term (overrule, abrogate, distinguish, decline to follow, not
-persuasive, … — the exact regex list from `triage/sample_clreplica.py`) within
+persuasive, … — the exact regex list from `triage/sampling/sample_clreplica.py`) within
 300 characters of an eyecite citation span; direct-history words do not
 qualify. That mirrors the triage training set's oversampling (5:1 there,
 4:1 here). Exclusion list `inputs/exclude_cluster_ids_round2.csv` = 20,613
@@ -162,8 +162,8 @@ in 78 min; keyword opinions are a minority, so this scans more).
 
 **Seeding** — GPT-5.6 Luna with the v8g pipeline (candidates block, post-filter,
 reasoning effort high), the best cheap configuration above:
-`bash openai_batch.sh run --name r2_gpt --model gpt-5.6-luna --prompt prompts/triage_citation_fixer_v8g.md --effort high --candidates --workers 32 --ids …`
-after `citation_seed.py prepare --seed-state` on the new clusters (10K → ≈ $150 real-time / ≈ $75 batch, ≈ 8 h at 32 workers) (clusters live in
+`bash runners/openai_batch.sh run --name r2_gpt --model gpt-5.6-luna --prompt prompts/triage_citation_fixer_v8g.md --effort high --candidates --workers 32 --ids …`
+after `lib/citation_seed.py prepare --seed-state` on the new clusters (10K → ≈ $150 real-time / ≈ $75 batch, ≈ 8 h at 32 workers) (clusters live in
 `experiments_09092026/data/annotator_r2/`, built by `make_r2_annotator.py`;
 the harness is pointed at it with `CITSEED_ANNOT` / `CITSEED_OUT`). ≈ $300
 real-time or ≈ $150 via the Batch API.
@@ -179,7 +179,7 @@ cold-start compute becomes ~2 epochs at a lower learning rate (1e-5). The risk
 is inheriting the silver model's under-recall on name-only mentions — 10K
 examples that contain them is a strong signal against that, but the
 cold-start control is what proves it. Selection on gold_dev, the triage scorer
-as the headline metric (via `predict_gold_dev.py` → `score_encoder.py`),
+as the headline metric (via `predict_gold_dev.py` → `analysis/score_encoder.py`),
 gold_test once at the end.
 
 **Training mix (as built 2026-09-14)** — the 9,994 GPT-seeded clusters as

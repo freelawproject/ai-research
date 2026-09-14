@@ -25,12 +25,12 @@ import os
 import re
 import sys
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "lib"))
 import tagged_text as tt  # noqa: E402
 from eyecite import get_citations, resolve_citations  # noqa: E402
 from eyecite.models import FullCaseCitation, IdCitation, ShortCaseCitation, SupraCitation  # noqa: E402
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ANNOT = os.path.join(ROOT, "data", "annotator")
 OVERRIDES = os.path.join(ANNOT, "data", "grouping_overrides")
 SIGNAL = re.compile(r"^\s*(citing|quoting|see(?:\s+also|,\s+e\.g\.)?|cf\.|compare|e\.g\.|accord|discussing|"

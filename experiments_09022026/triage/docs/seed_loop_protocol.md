@@ -18,7 +18,7 @@ deleted — re-create it or kick off iteration 3 by hand).
 2. Inputs already exist (`prepare --seed-state` over `data/citation_seed/dev_ids.txt`, 49 opinions).
    Launch one Opus subagent per dev id with the standard task text, pointing at `state.prompt`
    and writing `{out}/{cid}.response.md` + `{out}/{cid}.edits.json`.
-3. When all 49 are back: `python3 citation_seed.py score --ids $(cat data/citation_seed/dev_ids.txt) --out-dir {out} --write-review --review-prompt <prompt name>`
+3. When all 49 are back: `python3 lib/citation_seed.py score --ids $(cat data/citation_seed/dev_ids.txt) --out-dir {out} --write-review --review-prompt <prompt name>`
    (also refreshes the annotator's seed-diff review items; Rachel's earlier decisions on identical items are kept).
    Gate = pooled `llm_mention_PRF[2] ≥ 0.99` AND pooled `llm_coref_PRF[2] ≥ 0.99` (summary in
    `{out}/eval/score.json`). Record the summary in `state.dev_runs[iter]`.
@@ -33,7 +33,7 @@ deleted — re-create it or kick off iteration 3 by hand).
 
 ## Phase "train" (repeats)
 
-1. `python3 citation_seed.py pick --n 50` → `data/citation_seed/batch_<stamp>_ids.txt`
+1. `python3 lib/citation_seed.py pick --n 50` → `data/citation_seed/batch_<stamp>_ids.txt`
    (unverified, unseeded, 3K–90K chars, stratified). `prepare --ids …` (no `--seed-state`).
 2. Launch the 50 subagents (≤20 concurrent), standard task text, `state.prompt`, outputs in
    `data/citation_seed/outputs/`.

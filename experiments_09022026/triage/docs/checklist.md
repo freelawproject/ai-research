@@ -3,7 +3,7 @@
 Working order. Each block ends with what has to be true before the next one
 starts. Companion to `../triage_plan.md`.
 
-## A. Sample citing opinions from CLReplica — `sample_clreplica.py`
+## A. Sample citing opinions from CLReplica — `sampling/sample_clreplica.py`
 
 Decisions baked into the script (change the constants at the top):
 
@@ -41,8 +41,8 @@ Run (in the courtlistener checkout, container up):
 
 ```bash
 docker cp inputs/triage_exclude_cluster_ids.csv cl-django:/opt/courtlistener/
-docker cp sample_clreplica.py cl-django:/opt/courtlistener/
-docker exec cl-django python manage.py shell -c "exec(open('sample_clreplica.py').read())"
+docker cp sampling/sample_clreplica.py cl-django:/opt/courtlistener/
+docker exec cl-django python manage.py shell -c "exec(open('sampling/sample_clreplica.py').read())"
 docker cp cl-django:/opt/courtlistener/triage_sample/ ./data/
 ```
 
@@ -70,12 +70,12 @@ Post-run checks:
          `CITATOR_BENCH_OVERRIDES_DIR`; defaults unchanged) — patched in
          `pipeline/common.py`, `pipeline/grouping_data.py`,
          `pipeline/consolidate.py`; documented in the benchmark readme.
-      2. `make_annotator_data.py` converts the sampler output into a viewer
+      2. `annotator/make_annotator_data.py` converts the sampler output into a viewer
          root: copies `opinion_html/`, writes one unlabeled
          `assignments_long.csv` row per authority pair, empty
          `predictions.csv`, and `overrides/citing_metadata.csv` for the
          SCOTUS/FED/STATE grouping.
-      3. `run_annotator.sh [root] [port]` starts the second instance (default
+      3. `annotator/run_annotator.sh [root] [port]` starts the second instance (default
          `data/annotator`, port 8125).
       Smoke run: 3 benchmark clusters faked as sampler output →
       `data/annotator_smoke/` → records list, grouping page (117 citation
@@ -83,12 +83,12 @@ Post-run checks:
       root, the benchmark's own files were untouched.
       **When the real sample lands:**
       ```bash
-      python make_annotator_data.py            # data/triage_sample → data/annotator
-      ./run_annotator.sh                       # http://127.0.0.1:8125/records?tab=citing
+      python annotator/make_annotator_data.py            # data/triage_sample → data/annotator
+      ./annotator/run_annotator.sh                       # http://127.0.0.1:8125/records?tab=citing
       ```
 - [x] **Centralia pass over every opinion — BUILT 2026-09-03 (Rachel:
-      run all, auto-flag; no manual flagging).** `triage/run_centralia.py
-      --all` (run inside `flp/centralia`: `uv run python …/run_centralia.py
+      run all, auto-flag; no manual flagging).** `triage/centralia/run_centralia.py
+      --all` (run inside `flp/centralia`: `uv run python …/centralia/run_centralia.py
       --all`) fetches each cluster's PDF from CourtListener (storage
       `local_path` → Harvard scan → court `download_url`), runs
       `centralia.read(pdf, court_id, allow_pending=True)`, writes
@@ -114,7 +114,7 @@ Post-run checks:
 - [x] **Feed centralia back into the annotator — BUILT 2026-09-03.** Rule:
       if centralia read the PDF cleanly (status valid) the annotator shows
       centralia's html; otherwise the CL html_with_citations stays.
-      centralia emits no citation tags, so `triage/feed_centralia.py` runs
+      centralia emits no citation tags, so `triage/centralia/feed_centralia.py` runs
       eyecite over each writing (case citations only, no resolution to CL
       cluster ids; a full cite and its short forms / id. / supra share a
       synthetic `data-id` so they seed one group), writes the payload to
@@ -153,15 +153,15 @@ Post-run checks:
       takes every unreviewed seed; `u` shows unreviewed only; `r` marks the
       opinion's step 3 done (`passages_reviewed`); `[`/`]` navigate.
       Passage ids = `{cid}:{group}:{i}` — the same `window_id`
-      `build_windows.py` emits, so the seeding run's outputs drop straight
+      `lib/build_windows.py` emits, so the seeding run's outputs drop straight
       into the `seed` slot. The per-group "passages" button and `v` key were
       removed from the Grouping page.
-      **Seeder built 2026-09-11:** `seed_passages.py` (prepare from the live
+      **Seeder built 2026-09-11:** `runners/seed_passages.py` (prepare from the live
       viewer API → Bedrock batch → fetch → `apply --write` into the `seed`
       slot → `score`); ids match the page because the passages come from the
       same `/api/passages` code path. dev/test prepared for Opus 5.
 - [x] **Dev + test in the same annotator (Rachel, 2026-09-03).**
-      `add_benchmark_clusters.py` adds the 383 benchmark citing clusters to
+      `sampling/add_benchmark_clusters.py` adds the 383 benchmark citing clusters to
       the annotator root with expert labels blanked (gold stays in the
       benchmark for evaluation), their cached html, the 74 gold revised_html
       and 84 gold grouping overrides (so gold grouping is not redone). They
@@ -187,7 +187,7 @@ Post-run checks:
 
 - [x] Split the benchmark citing clusters by cluster, stratified by court
       group and has-any-positive, fixed seed 20260902. DOWNSIZED 2026-09-03
-      to dev 50 / test 50 (`build_splits.py --dev 50 --test 50`), taking
+      to dev 50 / test 50 (`sampling/build_splits.py --dev 50 --test 50`), taking
       → 2026-09-08: 9600200 dropped from dev on Rachel's call (dev = 49); files backed up in `data/annotator_pruned/9600200/`
       Rachel's verified clusters first (dev 35 verified, 78 positive pairs;
       test 18 verified, 54 positives); 283 clusters "unused" and pruned from
@@ -253,29 +253,29 @@ clusters with local HTML):
       treatment, caseHistory, actingCase, verbatim evidence) · `cited_by` ·
       `posture` (target is the case below; routed structurally, excluded
       from training) · `not_about_target`. No quote location, no masked
-      windows, every passage gets a definite label. `passage_prompt.py` →
+      windows, every passage gets a definite label. `lib/passage_prompt.py` →
       `prompts/triage_passage_seeder_v1.md` (~3.6K tokens; canonical
       definitions + Distinguished/signal guidance verbatim, instructions
-      rewritten for one passage). `prepare_passage_inputs.py` renders one
-      batch record per passage from a `build_windows.py --all-pairs` file.
+      rewritten for one passage). `runners/prepare_passage_inputs.py` renders one
+      batch record per passage from a `lib/build_windows.py --all-pairs` file.
       Pilot: 323 opinions → 17,349 targets → 23,536 passages (median 2.3K
       chars) → ~100M input tokens ≈ $60 + output ≈ $10 on Kimi on-demand.
-- [x] **Whole-opinion compact seeder (v2)** — `seed_prompt.py` →
+- [x] **Whole-opinion compact seeder (v2)** — `lib/seed_prompt.py` →
       `prompts/triage_seeder_v2.md`: canonical `citator` verbatim except
       inventory-id identification and compact, passage-listed output (every
       treating passage per case, each with its own treatment). Kept as an
       optional cheap PRE-FILTER (one call per opinion) if the passage pass
       ever needs narrowing at scale; not the primary labeler.
-- [x] **`tagged_text.py`** — one representation for seeder + encoder:
+- [x] **`lib/tagged_text.py`** — one representation for seeder + encoder:
       `<citedCase group="N">` mentions + `<lead>/<dissent>/…` sections +
       inventory; from the annotator's `revised_html` (gold coref, only when
       the cluster is marked done) or raw `html_with_citations` (eyecite
       groups by linked cluster id) as fallback.
-- [x] **`prepare_seed_inputs.py`** — annotator root or `--root benchmark
+- [x] **`runners/prepare_seed_inputs.py`** — annotator root or `--root benchmark
       --split dev|test` → `data/seed/<tag>/{tagged,inventory,input.jsonl,
       manifest.json}`; Kimi/GLM chat-completions batch records; pages sized
       per model output cap.
-- [x] **`build_windows.py`** — PASSAGES: the paragraph holding a mention
+- [x] **`lib/build_windows.py`** — PASSAGES: the paragraph holding a mention
       ± 1 paragraph (cap 4,000 chars ≈ 1K tokens; overlapping blocks merge),
       `[T]…[/T]` on every target mention, header line, optional `[CITE]`
       masking. Modes: `--all-pairs` (unlabeled, the seeder's input; targets
@@ -287,9 +287,9 @@ clusters with local HTML):
 - [ ] **Fetch HTML for the rest of dev/test.** Only 39/150 dev and 46/233
       test clusters have `opinion_html` cached in the benchmark. Use the
       benchmark viewer's "Fetch all opinions from CL" (token in `.env`), or
-      export from CLReplica; then rerun `prepare_seed_inputs.py --root
+      export from CLReplica; then rerun `runners/prepare_seed_inputs.py --root
       benchmark --split dev`.
-- [x] **Seed run + collect** — `seed_passages.py` (2026-09-11): passage-level
+- [x] **Seed run + collect** — `runners/seed_passages.py` (2026-09-11): passage-level
       (not the whole-opinion `{citedCases, citedByIds}` form); outputs go to
       `passage_reviews/{cid}.json` seeds, scored pair-level vs gold. dev/test
       prepared for Opus 5 batch; submit pending SSO login.
@@ -299,9 +299,9 @@ clusters with local HTML):
 
 ## F. Train-set citation correction (LLM pass 1) — designed 2026-09-09
 - [x] Design + prompt: `citation_seed_design.md`, `prompts/triage_citation_fixer_v1.md` (edit-list output mapping onto the override schema)
-- [x] `citation_seed.py prepare` (numbered `<c id g>` inputs + id maps; `--seed-state` for gold clusters) — 2026-09-09
-- [x] `citation_seed.py apply [--write]`: edits → overrides (`by: llm`), `before` context → nth — 2026-09-09; [ ] server-side revised_html export for LLM-corrected train
-- [x] `citation_seed.py score`: mention F1 + coref F1 + edit precision + gold-edit recall vs dev gold — 2026-09-09
+- [x] `lib/citation_seed.py prepare` (numbered `<c id g>` inputs + id maps; `--seed-state` for gold clusters) — 2026-09-09
+- [x] `lib/citation_seed.py apply [--write]`: edits → overrides (`by: llm`), `before` context → nth — 2026-09-09; [ ] server-side revised_html export for LLM-corrected train
+- [x] `lib/citation_seed.py score`: mention F1 + coref F1 + edit precision + gold-edit recall vs dev gold — 2026-09-09
 - [x] Pilot: Claude Opus subagents on 10 train + 2 dev — dev mention F1 0.98/1.00, coref 1.00/1.00, edit precision 43/45 (readme last §) — 2026-09-09
 - [x] Wave 2: 50 more train opinions via Opus subagents, all applied (0 skipped) — 2026-09-09
 - [ ] Decide production route for the remaining 263 train opinions: Opus subagents (≈20 at a time) vs Bedrock batch (Kimi/GLM/Opus 5)

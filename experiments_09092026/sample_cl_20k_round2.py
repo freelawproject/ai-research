@@ -13,7 +13,7 @@ Runs inside the courtlistener container (Django shell). Rachel runs it:
 Design (same cells as round 1: court group x decade x length bin = 135 cells,
 KEYWORD_PER_CELL + CONTROL_PER_CELL clusters each; overflow pool tops the total up to TARGET_TOTAL = 10,000):
 
-  * keyword vs control, as in triage/sample_clreplica.py: an opinion is
+  * keyword vs control, as in triage/sampling/sample_clreplica.py: an opinion is
     "keyword" when at least one STRONG citing-reference term (overrule,
     abrogate, distinguish, decline to follow, not persuasive, ...) occurs
     within NEAR_CITATION_CHARS of an eyecite citation span; direct-history
@@ -72,7 +72,7 @@ DECADES = [("pre1950", 1900, 1949), ("1950s", 1950, 1959), ("1960s", 1960, 1969)
            ("2000s", 2000, 2009), ("2010s", 2010, 2019), ("2020s", 2020, 2030)]
 LENGTH_BINS = [("short", 0, 15_000), ("medium", 15_000, 50_000), ("long", 50_000, 10**9)]
 
-# Citing-reference treatment language (verbatim from triage/sample_clreplica.py).
+# Citing-reference treatment language (verbatim from triage/sampling/sample_clreplica.py).
 STRONG = {
     "overrule": r"\boverrul\w*",
     "abrogate": r"\babrogat\w*",

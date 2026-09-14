@@ -1,6 +1,6 @@
 """Run the trained extraction + linking checkpoints over the gold_dev records
 and dump predictions, so the encoder can be scored with the triage scorer
-(experiments_09022026/triage/citation_seed.py) apples-to-apples with eyecite
+(experiments_09022026/triage/lib/citation_seed.py) apples-to-apples with eyecite
 and the LLM seeding runs.
 
     uv run python predict_gold_dev.py            # -> ../data/output/pred_gold_dev.json

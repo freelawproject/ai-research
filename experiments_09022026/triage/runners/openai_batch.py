@@ -12,7 +12,7 @@ key from $OPENAI_KEY).
     bash openai_batch.sh submit --name dev_gpt        # upload file + create batch (24h window)
     bash openai_batch.sh status | wait --name dev_gpt | fetch --name dev_gpt
     bash openai_batch.sh run --name dev_gpt --ids ... --model <id>   # real-time instead of batch
-    python3 citation_seed.py score --ids ... --out-dir data/citation_seed/dev_gpt
+    python3 lib/citation_seed.py score --ids ... --out-dir data/citation_seed/dev_gpt
 
 The OpenAI Batch API has no minimum batch size (limits: 50,000 requests /
 200 MB per file), so dev-only runs need no padding.
@@ -35,6 +35,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from bedrock_batch import (  # noqa: E402
     ROOT, SEED, INPUTS, BATCHES, JOBS, DEFAULT_PROMPT, load_json, save_json, jobs, extract_edits_json,
 )
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "lib"))
 from candidates import candidates_block  # noqa: E402
 
 sys.path.insert(0, os.path.join(ROOT, "..", "..", "citator-pipeline"))
@@ -87,7 +88,7 @@ def cmd_export(a):
     os.makedirs(BATCHES, exist_ok=True)
     missing = [c for c in a.ids if not os.path.exists(os.path.join(INPUTS, f"{c}.txt"))]
     if missing:
-        sys.exit(f"{len(missing)} ids have no prepared input (run `python3 citation_seed.py prepare --ids ...`): "
+        sys.exit(f"{len(missing)} ids have no prepared input (run `python3 lib/citation_seed.py prepare --ids ...`): "
                  + " ".join(missing[:20]))
     out_dir = os.path.relpath(a.out_dir or os.path.join(SEED, a.name), ROOT)
     js = jobs()
@@ -263,7 +264,7 @@ def cmd_fetch(a):
     if errors:
         print(f"errors in {os.path.join(BATCHES, a.name + '.openai.errors.json')}: " + " ".join(str(k) for k in list(errors)[:20]))
     rel = os.path.relpath(out_dir, ROOT)
-    print(f"next: python3 citation_seed.py score|apply --ids <ids> --out-dir {rel}")
+    print(f"next: python3 lib/citation_seed.py score|apply --ids <ids> --out-dir {rel}")
 
 
 # ------------------------------------------------------------------ real-time
@@ -376,7 +377,7 @@ def cmd_run(a):
     print(f"done in {time.time() - t0:,.0f}s: {len(usage)} ok, {len(errors)} errors; usage {tin:,} in / {tout:,} out tokens")
     if errors:
         print("errors: " + " ".join(errors))
-    print(f"next: python3 citation_seed.py score --ids <ids> --out-dir {os.path.relpath(out_dir, ROOT)}")
+    print(f"next: python3 lib/citation_seed.py score --ids <ids> --out-dir {os.path.relpath(out_dir, ROOT)}")
 
 
 def main():

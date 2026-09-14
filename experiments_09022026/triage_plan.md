@@ -64,7 +64,7 @@ equal quotas:
 | Length (all sub-opinions) | short <20K chars · medium 20–60K · long >60K |
 
 Pilot 5 keyword + 1 control per cell (~324 opinions), then 25 + 5 (~1,620).
-The sampler (`triage/sample_clreplica.py`, run in the cl-django container)
+The sampler (`triage/sampling/sample_clreplica.py`, run in the cl-django container)
 exports raw `html_with_citations` per sub-opinion in the citator-benchmark
 `opinion_html` JSON shape. A human annotator then corrects citation extraction
 and coreference in the benchmark viewer's Grouping annotator (eyecite-seeded
@@ -161,20 +161,20 @@ experiments_09022026/
 └── triage/
     ├── checklist.md         # data selection + seeder selection, step by step
     ├── inputs/              # exclusion list (tracked)
-    ├── sample_clreplica.py  # runs in cl-django; keyword-targeted stratified sample
-    ├── build_splits.py      # dev/test cluster split → inputs/splits.csv
-    ├── make_annotator_data.py  # sampler output → benchmark-viewer root for the annotator
-    ├── run_annotator.sh     # second benchmark-viewer instance on :8125
-    ├── run_centralia.py     # centralia over every opinion (runs in flp/centralia env); auto-flags review
-    ├── feed_centralia.py    # valid centralia readings → eyecite-tagged annotator payloads
-    ├── passage_prompt.py    # PASSAGE-LEVEL seeder prompt (primary): labels exactly the encoder's input
-    ├── prepare_passage_inputs.py  # one batch record per (passage, target)
-    ├── seed_prompt.py       # whole-opinion compact seeder (optional pre-filter)
+    ├── sampling/sample_clreplica.py  # runs in cl-django; keyword-targeted stratified sample
+    ├── sampling/build_splits.py      # dev/test cluster split → inputs/splits.csv
+    ├── annotator/make_annotator_data.py  # sampler output → benchmark-viewer root for the annotator
+    ├── annotator/run_annotator.sh     # second benchmark-viewer instance on :8125
+    ├── centralia/run_centralia.py     # centralia over every opinion (runs in flp/centralia env); auto-flags review
+    ├── centralia/feed_centralia.py    # valid centralia readings → eyecite-tagged annotator payloads
+    ├── lib/passage_prompt.py    # PASSAGE-LEVEL seeder prompt (primary): labels exactly the encoder's input
+    ├── runners/prepare_passage_inputs.py  # one batch record per (passage, target)
+    ├── lib/seed_prompt.py       # whole-opinion compact seeder (optional pre-filter)
     ├── prompts/             # rendered prompt drafts (triage_seeder_v1.md)
-    ├── tagged_text.py       # shared: revised_html / html_with_citations → tagged text + inventory
-    ├── prepare_seed_inputs.py  # tagged text + inventory + paginated batch records
-    ├── build_splits.py      # dev/test cluster split from the benchmark
-    ├── build_windows.py     # mention windows + markers for gold and silver
+    ├── lib/tagged_text.py       # shared: revised_html / html_with_citations → tagged text + inventory
+    ├── runners/prepare_seed_inputs.py  # tagged text + inventory + paginated batch records
+    ├── sampling/build_splits.py      # dev/test cluster split from the benchmark
+    ├── lib/build_windows.py     # mention windows + markers for gold and silver
     ├── seed_run.py          # seeder batch submit/collect (TODO)
     ├── train.py             # CaseLawModernBERT-large sequence classifier
     ├── eval.py              # pair-level metrics, slices, human-ceiling comparison

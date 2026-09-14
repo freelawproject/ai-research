@@ -1,5 +1,5 @@
 """Round-2 blocks -> a citator-benchmark annotator root, so the seeding
-harness (`triage/citation_seed.py prepare|apply|score`, `openai_batch.sh run`)
+harness (`triage/lib/citation_seed.py prepare|apply|score`, `openai_batch.sh run`)
 and the viewer work on the 10K set exactly as on the triage sample.
 
     uv run --no-project python make_r2_annotator.py            # -> data/annotator_r2/
@@ -11,7 +11,7 @@ sampler-shaped dir data/r2_sample/ — opinion_html/{cid}.json payloads
 sample_metadata.csv (court/case_name/year/... from the block rows) and
 authority_metadata.csv (cited clusters from the CourtListener links inside
 html_with_citations, the same derivation make_annotator_data uses in
---html-only mode); (2) run triage/make_annotator_data.py on it, which writes
+--html-only mode); (2) run triage/annotator/make_annotator_data.py on it, which writes
 the viewer root (assignments_long.csv, predictions.csv, grouping_overrides/,
 overrides/citing_metadata.csv, ...). Re-runnable; never touches
 grouping_overrides/ (where seeding edits land).

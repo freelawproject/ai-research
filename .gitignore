@@ -47,6 +47,17 @@ experiments_06172026/.venv/
 experiments_06142026/finetune/runs/
 experiments_06142026/finetune/.venv/
 experiments_06142026/viewer/.venv/
+experiments_09022026/triage/data/
+experiments_09092026/data/
+
+# experiments_09092026 pod tarballs (code+data bundle, patch), fetched checkpoints, pod logs, uv venv
+experiments_09092026/*.tar.gz
+experiments_09092026/runs/
+experiments_09092026/finetune/runs/
+experiments_09092026/finetune/.venv/
+experiments_09092026/*.log
+experiments_09092026/finetune/*.log
+experiments_09022026/triage/*.log
 
 experiments_09112026/data/
 experiments_09112026/.env

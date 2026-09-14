@@ -1,0 +1,13 @@
+[project]
+name = "citation-coref-finetune-silver"
+version = "0.1.0"
+description = "experiments_09092026 — eyecite-seeded citation extraction (Task A) + coreference linking (Task B) on CaseLawModernBERT-large"
+requires-python = ">=3.11"
+dependencies = [
+    "transformers>=4.48,<5",
+    "torch>=2.4",
+    "seqeval>=1.2",
+    "accelerate>=1",
+    "numpy>=1.26",
+    "tqdm>=4",
+]

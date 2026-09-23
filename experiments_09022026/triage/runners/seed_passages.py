@@ -70,7 +70,10 @@ VIEWER = os.environ.get("CITSEED_VIEWER", "http://127.0.0.1:8125")
 BASE = os.path.join(ROOT, "data", "seed_passages")
 JOBS = os.path.join(BASE, "bedrock_jobs.json")
 SPLITS = os.path.join(ROOT, "inputs", "splits.csv")
-BENCH = "/Users/rachel/Desktop/flp/citator-benchmark/data"
+FLP = os.path.dirname(os.path.dirname(os.path.dirname(ROOT)))   # the workspace holding both checkouts
+# the citator-benchmark checkout, a sibling of the ai-research checkout;
+# CITATOR_BENCH overrides
+BENCH = os.path.join(os.environ.get("CITATOR_BENCH", os.path.join(FLP, "citator-benchmark")), "data")
 DEFAULT_MODEL = os.environ.get("CITSEED_MODEL_ID", "us.anthropic.claude-opus-5")
 MIN_RECORDS = 100
 ANTHROPIC_VERSION = "bedrock-2023-05-31"

@@ -34,12 +34,16 @@ Input is a prepare_seed_inputs.py output dir (tagged/ + inventory/).
 import argparse
 import csv
 import json
+import os
 import re
 from pathlib import Path
 
 from tagged_text import mentions, strip_tags
 
-BENCH = Path("/Users/rachel/Desktop/flp/citator-benchmark/data")
+FLP = Path(__file__).resolve().parents[4]      # the workspace holding both checkouts
+# the citator-benchmark checkout, a sibling of the ai-research checkout;
+# CITATOR_BENCH overrides
+BENCH = Path(os.environ.get("CITATOR_BENCH", FLP / "citator-benchmark")) / "data"
 SEVERITY = {"Reversed by": "Stop", "Reversed and remanded by": "Stop", "Vacated by": "Stop", "Vacated and remanded by": "Stop",
             "Overruled by": "Stop", "Abrogated by": "Stop", "Questioned by": "Stop",
             "Reversed in part; Vacated in part by": "Warning", "Affirmed in part; Reversed in part by": "Warning",

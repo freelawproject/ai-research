@@ -4,9 +4,13 @@ import csv
 import math
 import os
 import re
+from pathlib import Path
 
-BENCH = "/Users/rachel/Desktop/flp/citator-benchmark/data"
-TEXTS = "/Users/rachel/Desktop/flp/ai-research/experiments_05182026/data/opinion_texts"
+FLP = Path(__file__).resolve().parents[2]      # the workspace holding both checkouts
+# the citator-benchmark checkout, a sibling of the ai-research checkout;
+# CITATOR_BENCH overrides
+BENCH = os.environ.get("CITATOR_BENCH", str(FLP / "citator-benchmark")) + "/data"
+TEXTS = str(FLP / "ai-research" / "experiments_05182026" / "data" / "opinion_texts")
 
 DIRECT_HISTORY = {
     "Reversed by", "Reversed and remanded by", "Vacated by",

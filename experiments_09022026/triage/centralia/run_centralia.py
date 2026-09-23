@@ -20,8 +20,8 @@ For each cluster:
 
 Runs inside centralia's own environment (stdlib + centralia only):
 
-    cd /Users/rachel/Desktop/flp/centralia && uv run python \\
-        /Users/rachel/Desktop/flp/ai-research/experiments_09022026/triage/centralia/run_centralia.py \\
+    cd <workspace>/centralia && uv run python \\
+        <workspace>/ai-research/experiments_09022026/triage/centralia/run_centralia.py \\
         --all [--root ../ai-research/experiments_09022026/triage/data/annotator] [--ids 123 456] [--force] [--no-flags]
 
 Feeding centralia's html back into the annotator (re-tagging citations with
@@ -41,7 +41,10 @@ from pathlib import Path
 from centralia import CourtNotReleased, UnknownCourt, read, released_courts
 
 HERE = Path(__file__).resolve().parent.parent
-BENCH_ENV = Path("/Users/rachel/Desktop/flp/citator-benchmark/.env")
+FLP = Path(__file__).resolve().parents[4]      # the workspace holding both checkouts
+# the citator-benchmark checkout, a sibling of the ai-research checkout;
+# CITATOR_BENCH overrides
+BENCH_ENV = Path(os.environ.get("CITATOR_BENCH", FLP / "citator-benchmark")) / ".env"
 API = "https://www.courtlistener.com/api/rest/v4"
 STORAGE = "https://storage.courtlistener.com/"
 UA = "flp-citator-triage/centralia-runner"

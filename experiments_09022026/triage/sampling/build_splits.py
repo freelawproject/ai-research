@@ -3,8 +3,8 @@ experiment. Cluster-level split (no pair of a cluster crosses the line),
 stratified by court group x has-any-positive, fixed seed. Positives exclude
 pairs whose only non-neutral label is an "as recognized by" form.
 
-Downsized 2026-09-03 (Rachel): --dev/--test cap the sets; within each
-stratum, clusters Rachel has already VERIFIED (double_reviewed) are taken
+Downsized 2026-09-03: --dev/--test cap the sets; within each
+stratum, clusters already VERIFIED by a curator (double_reviewed) are taken
 first, then resolved-only (cluster_done), then the rest at random. The full 150/233 split is
 kept as inputs/splits_full.csv. Clusters not selected are 'unused'.
 
@@ -20,7 +20,10 @@ import os
 import random
 from pathlib import Path
 
-BENCH = Path("/Users/rachel/Desktop/flp/citator-benchmark/data")
+FLP = Path(__file__).resolve().parents[4]      # the workspace holding both checkouts
+# the citator-benchmark checkout, a sibling of the ai-research checkout;
+# CITATOR_BENCH overrides
+BENCH = Path(os.environ.get("CITATOR_BENCH", FLP / "citator-benchmark")) / "data"
 OUT = Path(__file__).parent.parent / "inputs" / "splits.csv"
 SEED = 20260902
 DEV_SHARE = 150 / 384

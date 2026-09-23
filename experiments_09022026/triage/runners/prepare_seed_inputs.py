@@ -44,7 +44,10 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(
 from seed_prompt import SEEDER_SCHEMA, VERSION, build_seeder_prompt, render_user_message  # noqa: E402
 from tagged_text import from_opinion_html, from_revised_html, inventory_block, load_json  # noqa: E402
 
-BENCH = Path("/Users/rachel/Desktop/flp/citator-benchmark/data")
+FLP = Path(__file__).resolve().parents[4]      # the workspace holding both checkouts
+# the citator-benchmark checkout, a sibling of the ai-research checkout;
+# CITATOR_BENCH overrides
+BENCH = Path(os.environ.get("CITATOR_BENCH", FLP / "citator-benchmark")) / "data"
 SPLITS = Path(__file__).parent.parent / "inputs" / "splits.csv"
 MODELS = {
     # model id, max output tokens, default page size (chars)

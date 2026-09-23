@@ -21,11 +21,15 @@ originals.
 """
 import argparse
 import csv
+import os
 import shutil
 from datetime import date
 from pathlib import Path
 
-BENCH = Path("/Users/rachel/Desktop/flp/citator-benchmark/data")
+FLP = Path(__file__).resolve().parents[4]      # the workspace holding both checkouts
+# the citator-benchmark checkout, a sibling of the ai-research checkout;
+# CITATOR_BENCH overrides
+BENCH = Path(os.environ.get("CITATOR_BENCH", FLP / "citator-benchmark")) / "data"
 SPLITS = Path(__file__).parent.parent / "inputs" / "splits.csv"
 ASSIGN_FIELDS = ["group", "pass_type", "citing_cluster_id", "cited_cluster_id", "cited_ref", "expert",
                  "label_raw", "label", "notes", "round_zip", "group_zip", "source_file", "ingested",

@@ -45,7 +45,10 @@ import shutil
 from datetime import date
 from pathlib import Path
 
-BENCH_ROOT = Path("/Users/rachel/Desktop/flp/citator-benchmark")
+FLP = Path(__file__).resolve().parents[4]      # the workspace holding both checkouts
+# the citator-benchmark checkout, a sibling of the ai-research checkout;
+# CITATOR_BENCH overrides
+BENCH_ROOT = Path(os.environ.get("CITATOR_BENCH", FLP / "citator-benchmark"))
 GROUP_OF = {"scotus": "SCOTUS", "circuit": "FED", "state_high": "STATE"}
 ASSIGN_FIELDS = ["group", "pass_type", "citing_cluster_id", "cited_cluster_id",
                  "cited_ref", "expert", "label_raw", "label", "notes",

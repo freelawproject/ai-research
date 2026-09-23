@@ -8,8 +8,8 @@ the next tick. Nothing runs between ticks. A tick that fires before `state.not_b
 before `state.next_allowed` (= last batch start + 2 h; batches may also be started by hand,
 which resets it) is skipped, so batches never run closer than two hours apart.
 
-A `state.paused` block means no tick runs anything until Rachel says to resume
-(2026-09-09 18:40: paused after iteration 2 for her LLM-vs-gold review; the cron was
+A `state.paused` block means no tick runs anything until it is resumed by hand
+(2026-09-09 18:40: paused after iteration 2 for the LLM-vs-gold review; the cron was
 deleted — re-create it or kick off iteration 3 by hand).
 
 ## Phase "dev" (iterations 1..3)
@@ -19,7 +19,7 @@ deleted — re-create it or kick off iteration 3 by hand).
    Launch one Opus subagent per dev id with the standard task text, pointing at `state.prompt`
    and writing `{out}/{cid}.response.md` + `{out}/{cid}.edits.json`.
 3. When all 49 are back: `python3 lib/citation_seed.py score --ids $(cat data/citation_seed/dev_ids.txt) --out-dir {out} --write-review --review-prompt <prompt name>`
-   (also refreshes the annotator's seed-diff review items; Rachel's earlier decisions on identical items are kept).
+   (also refreshes the annotator's seed-diff review items; earlier decisions on identical items are kept).
    Gate = pooled `llm_mention_PRF[2] ≥ 0.99` AND pooled `llm_coref_PRF[2] ≥ 0.99` (summary in
    `{out}/eval/score.json`). Record the summary in `state.dev_runs[iter]`.
 4. If the gate passes, or `iter == 3`: set `state.phase = "train"`, keep `state.prompt` as the

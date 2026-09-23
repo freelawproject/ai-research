@@ -128,7 +128,7 @@ Compute so far: 215 Opus opinions ≈ $43 in batch; the GPT hardening rounds
 ## 6. Caveats
 
 1. **Gold reconciliation.** The dev gold was corrected through the
-   seed-vs-gold review: Rachel decided 149 disagreements from dev iterations
+   seed-vs-gold review: the curator decided 149 disagreements from dev iterations
    1–2 and 65 from iteration 3, taking the LLM's side on ~80% of name-only
    additions. Those corrections were made against Opus outputs, so the Opus
    row benefits from a gold that has been reconciled with it; the other rows
@@ -138,7 +138,7 @@ Compute so far: 215 Opus opinions ≈ $43 in batch; the GPT hardening rounds
 2. **Dev only.** These are dev numbers; the prompt was iterated on them. The
    frozen-prompt test number (Opus v4, 50 test opinions, unreviewed gold) was
    mention F1 0.954 / coref 0.979; after the one-sided auto-decisions on test
-   it is 0.983 / 0.984 with 41 items still open for Rachel. No other model has
+   it is 0.983 / 0.984 with 41 items still open for review. No other model has
    been run on test.
 3. **Kimi scored on 48 of 49** (one record degenerated into a repetition
    loop). Opus's 49th opinion (809122) came from a second job with a larger
@@ -163,7 +163,7 @@ Compute so far: 215 Opus opinions ≈ $43 in batch; the GPT hardening rounds
 
 ## 7. Next round: 10K GPT-seeded training set (sized down from 20K on 2026-09-11)
 
-**Sampling** — `experiments_09092026/corpus/sample_cl_20k_round2.py` (Rachel runs it
+**Sampling** — `experiments_09092026/corpus/sample_cl_20k_round2.py` (run by hand
 in the `cl-django` container; commands in its docstring). Same 135 cells as
 round 1 (5 court groups × 9 decades × 3 length bins), but each cell takes 60
 *keyword* + 15 *control* clusters, where keyword = at least one strong

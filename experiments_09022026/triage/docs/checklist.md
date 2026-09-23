@@ -86,7 +86,7 @@ Post-run checks:
       python annotator/make_annotator_data.py            # data/triage_sample → data/annotator
       ./annotator/run_annotator.sh                       # http://127.0.0.1:8125/records?tab=citing
       ```
-- [x] **Centralia pass over every opinion — BUILT 2026-09-03 (Rachel:
+- [x] **Centralia pass over every opinion — BUILT 2026-09-03 (decision:
       run all, auto-flag; no manual flagging).** `triage/centralia/run_centralia.py
       --all` (run inside `flp/centralia`: `uv run python …/centralia/run_centralia.py
       --all`) fetches each cluster's PDF from CourtListener (storage
@@ -136,7 +136,7 @@ Post-run checks:
       "‹ prev · n / N · next ›" links by the stepper) walk the Records
       citing order on the Grouping and Verify pages, staying on the same
       page kind.
-- [x] **Step 3 = passage-level treatment review — BUILT 2026-09-03 (Rachel:
+- [x] **Step 3 = passage-level treatment review — BUILT 2026-09-03 (decision:
       after step 2 Verify; review happens per passage × citation, seeded by
       the LLM).** On this instance the stepper's third step is
       `/passages/{cid}` (replaces Treatments; Records stage 3 = "passages
@@ -160,7 +160,7 @@ Post-run checks:
       viewer API → Bedrock batch → fetch → `apply --write` into the `seed`
       slot → `score`); ids match the page because the passages come from the
       same `/api/passages` code path. dev/test prepared for Opus 5.
-- [x] **Dev + test in the same annotator (Rachel, 2026-09-03).**
+- [x] **Dev + test in the same annotator (decided 2026-09-03).**
       `sampling/add_benchmark_clusters.py` adds the 383 benchmark citing clusters to
       the annotator root with expert labels blanked (gold stays in the
       benchmark for evaluation), their cached html, the 74 gold revised_html
@@ -188,8 +188,8 @@ Post-run checks:
 - [x] Split the benchmark citing clusters by cluster, stratified by court
       group and has-any-positive, fixed seed 20260902. DOWNSIZED 2026-09-03
       to dev 50 / test 50 (`sampling/build_splits.py --dev 50 --test 50`), taking
-      → 2026-09-08: 9600200 dropped from dev on Rachel's call (dev = 49); files backed up in `data/annotator_pruned/9600200/`
-      Rachel's verified clusters first (dev 35 verified, 78 positive pairs;
+      → 2026-09-08: 9600200 dropped from dev by curator decision (dev = 49); files backed up in `data/annotator_pruned/9600200/`
+      curator-verified clusters first (dev 35 verified, 78 positive pairs;
       test 18 verified, 54 positives); 283 clusters "unused" and pruned from
       the annotator. Full split kept as `inputs/splits_full.csv`.
 - [ ] Only pairs with a final treatment count. Drop pairs whose only
@@ -205,7 +205,7 @@ moves.
 - [x] **Inventory the current frontier models.** Bedrock batch-eligible today:
       Opus 5, Opus 4.6, Sonnet 4.6, Sonnet 4.5, Haiku 4.5, Kimi K2.5. Not
       batch-eligible on Bedrock: Fable 5.1, Fable 5, Sonnet 5, Opus 4.8/4.7.
-- [x] **Shortlist, in order (Rachel, 2026-09-02): open-weight first.**
+- [x] **Shortlist, in order (decided 2026-09-02): open-weight first.**
       1. Kimi K2.5 (batch, us-west-2; 16K output cap → smaller pages).
       2. GLM 5 (on-demand only; 128K output; ~1.5x Kimi's price).
       3. GLM 4.7 (batch; 4K output cap → compact output: list only cases with
@@ -247,7 +247,7 @@ moves.
 Built 2026-09-02 (all in `triage/`, smoke-tested on 3 clusters + the 39 dev
 clusters with local HTML):
 
-- [x] **Seeding is PASSAGE-LEVEL (Rachel, 2026-09-03).** The LLM sees exactly
+- [x] **Seeding is PASSAGE-LEVEL (decided 2026-09-03).** The LLM sees exactly
       what the encoder sees — header + one passage with the target marked
       `[T]…[/T]` — and labels that passage alone: `treatment` (with the
       treatment, caseHistory, actingCase, verbatim evidence) · `cited_by` ·

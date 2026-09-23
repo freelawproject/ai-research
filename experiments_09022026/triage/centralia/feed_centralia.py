@@ -1,6 +1,6 @@
 """Feed centralia's readings back into the annotator.
 
-Rule (Rachel, 2026-09-03): when centralia parsed the court PDF cleanly
+Rule (decided 2026-09-03): when centralia parsed the court PDF cleanly
 (status == "valid"), the annotator shows centralia's html instead of
 CourtListener's; otherwise the CL html_with_citations stays as it is.
 centralia emits no citation tags, so its writings are run through eyecite

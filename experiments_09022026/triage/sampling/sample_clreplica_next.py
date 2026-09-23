@@ -12,7 +12,7 @@ opinions with no such language. Exports each selected cluster's raw
 Grouping annotator can be used as-is for the human citation-extraction /
 coreference correction pass.
 
-Runs inside the courtlistener container (Django shell). Rachel runs it.
+Runs inside the courtlistener container (Django shell), by hand.
 
     docker cp inputs/triage_exclude_cluster_ids.csv cl-django:/opt/courtlistener/
     docker cp sample_clreplica.py cl-django:/opt/courtlistener/

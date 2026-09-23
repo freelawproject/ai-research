@@ -13,7 +13,9 @@ next round.
 | system | mention P | mention R | mention F1 | coref P | coref R | coref F1 |
 |---|---|---|---|---|---|---|
 | eyecite, as tagged by the annotator (floor) | 0.872 | 0.842 | 0.857 | 0.996 | 0.955 | 0.975 |
-| silver encoder — CaseLawModernBERT-large trained on eyecite labels, extraction → linking end to end | 0.967 | 0.866 | 0.914 | 0.970 | 0.898 | 0.933 |
+| round-1 silver encoder — CaseLawModernBERT-large trained on eyecite labels, extraction → linking end to end | 0.967 | 0.866 | 0.914 | 0.970 | 0.898 | 0.933 |
+| round-2 warm encoder — GPT-seeded labels, warm-started from round 1 | 0.973 | 0.973 | 0.973 | 0.948 | 0.975 | 0.961 |
+| **round-4 encoder + `Id.`→nearest decode rule — production** | 0.973 | 0.973 | **0.973** | 0.984 | 0.986 | **0.985** |
 | Kimi K2.5, prompt v5 (48 of 49 opinions) | 0.883 | 0.834 | 0.858 | 0.985 | 0.983 | 0.984 |
 | GPT-5.6 Luna, prompt v5, medium effort | 0.955 | 0.888 | 0.920 | 0.991 | 0.990 | 0.990 |
 | Sonnet 4.6, prompt v5 | 0.967 | 0.900 | 0.932 | 0.992 | 0.993 | 0.992 |
@@ -56,7 +58,11 @@ edit eyecite's output).
 - **Sonnet 4.6 and Kimi are not competitive on recall** (0.900 / 0.834): they
   apply the conventions when they see a candidate but do not find the
   candidates. Kimi is at the eyecite floor with a large volume of wrong edits.
-- **The silver encoder is a precision story.** Trained only on eyecite's
+- **The encoder is now ahead of eyecite on both axes** — round 4 + rule: 0.973 / 0.985
+  vs 0.857 / 0.975 — and within 0.006 of GPT-5.6 Luna on coref, at a forward pass
+  per opinion instead of an LLM call. Rounds 2–4 and the `Id.` error analysis
+  behind the decode rule: `experiments_09092026/readme.md`.
+- **The round-1 silver encoder was a precision story.** Trained only on eyecite's
   labels it reproduces eyecite's recall ceiling (0.866; it cannot know the
   mentions eyecite never produced) but it learned *not* to tag statutes,
   regulations and record cites — 0.967 precision vs eyecite's 0.872, and only
@@ -73,7 +79,8 @@ edit eyecite's output).
 | Kimi K2.5 | `moonshotai.kimi-k2.5` | Bedrock batch, OpenAI-chat body, prompt prepended to the user turn | v5 | none, temperature 0 | 128,000 (shares the 262K context with the input) | 1 record looped to the cap |
 | GPT-5.6 v5 | `gpt-5.6-luna` | OpenAI real-time (`triage/runners/openai_batch.sh run`, 8 concurrent) | v5 | `reasoning_effort=medium` | 128,000 | 190 s for 49 |
 | GPT-5.6 v8g | `gpt-5.6-luna` | OpenAI real-time, 8 concurrent, `--candidates` | `prompts/triage_citation_fixer_v8g.md` | `reasoning_effort=high` | 128,000 | `lib/candidates.py` block appended to the input; `postfilter_adds` drops name fragments / duplicates; 564 s for 49 |
-| silver encoder | `ai-law-society-lab/CaseLawModernBERT-large`, two heads | `experiments_09092026/finetune/train_extraction.py` + `train_linking.py` | – | – | – | 13,304 silver train clusters, 3 epochs each (11.1 h + 3.3 h on one 44 GB GPU); scored via `finetune/predict_gold_dev.py` → `triage/analysis/score_encoder.py` |
+| round-4 encoder + rule | same backbone, warm-started; linker `lwin 128`, chunk recompute; `Id.`→nearest decode rule (paren exception) | `train_linking.py` (`MODE=r4link`), `inference.py` | – | – | – | Task B retrained only (~3 h); rule adds no training; scored via `inference.py` → `triage/analysis/score_encoder.py` |
+| round-1 silver encoder | `ai-law-society-lab/CaseLawModernBERT-large`, two heads | `experiments_09092026/model/train_extraction.py` + `train_linking.py` | – | – | – | 13,304 silver train clusters, 3 epochs each (11.1 h + 3.3 h on one 44 GB GPU); scored via `model/inference.py` → `triage/analysis/score_encoder.py` |
 
 Inputs for every LLM row: `triage/data/citation_seed/inputs/{cid}.txt` (citing
 case header, cited-case inventory, opinion with eyecite tags) prepared by
@@ -87,16 +94,26 @@ half of on-demand. Opus 5's Bedrock list price was not verified — the Opus 4.5
 tier ($5 / $25) is assumed; if it is priced at the Opus 4.1 tier ($15 / $75)
 multiply the Opus figures by 3.
 
-| system | list price in / out (per M) | measured tokens per opinion (in / out) | cost per 49 dev | per opinion | 20,000 opinions |
-|---|---|---|---|---|---|
-| Opus 5, batch | $2.50 / $12.50 (batch) | 26.9K / 12.7K (train_b, incl. giants) | ≈ $8 | ≈ $0.20 | ≈ $4,000 |
-| Sonnet 4.6, batch | $1.50 / $7.50 (batch) | 14.5K / 6.6K | ≈ $5 | ≈ $0.07 | ≈ $1,400 |
-| Kimi K2.5, batch | ≈ $0.30 / $1.25 (batch) | 13.2K / 9.8K | ≈ $1 | ≈ $0.02 | ≈ $400 |
-| GPT-5.6, v5 medium, real-time | $0.20 / $1.20 | 13.4K / 3.0K (1.7K reasoning) | $0.31 | $0.006 | ≈ $130 |
-| **GPT-5.6, v8g high, real-time** | $0.20 / $1.20 | 16.6K / 9.6K (≈ 7K reasoning) | **$0.73** | **$0.015** | **≈ $300 real-time / ≈ $150 batch** |
+| system | list price in / out (per M) | measured tokens per opinion (in / out) | cost per 49 dev | per opinion | 20,000 opinions | 1,000,000 opinions |
+|---|---|---|---|---|---|---|
+| Opus 5, batch | $2.50 / $12.50 (batch) | 26.9K / 12.7K (train_b, incl. giants) | ≈ $8 | ≈ $0.20 | ≈ $4,000 | **≈ $200,000** |
+| Sonnet 4.6, batch | $1.50 / $7.50 (batch) | 14.5K / 6.6K | ≈ $5 | ≈ $0.07 | ≈ $1,400 | ≈ $70,000 |
+| Kimi K2.5, batch | ≈ $0.30 / $1.25 (batch) | 13.2K / 9.8K | ≈ $1 | ≈ $0.02 | ≈ $400 | ≈ $20,000 |
+| GPT-5.6, v5 medium, real-time | $0.20 / $1.20 | 13.4K / 3.0K (1.7K reasoning) | $0.31 | $0.006 | ≈ $130 | ≈ $6,000 |
+| **GPT-5.6, v8g high, real-time** | $0.20 / $1.20 | 16.6K / 9.6K (≈ 7K reasoning) | **$0.73** | **$0.015** | **≈ $300 real-time / ≈ $150 batch** | **≈ $15,000 real-time / ≈ $7,500 batch** |
 
 The round-2 set was sized down to **10,000** opinions on 2026-09-11: halve the
-last column (GPT v8g ≈ $150 real-time / ≈ $75 batch; Opus ≈ $2,000).
+20,000-opinion column (GPT v8g ≈ $150 real-time / ≈ $75 batch; Opus ≈ $2,000).
+**Measured** at that scale: 9,994 opinions actually cost $79.94 in OpenAI
+batch (≈ $0.008/opinion — close to the $0.0075 estimate above), so the
+1,000,000-opinion GPT v8g batch figure scaled from the real run is **≈ $8,000**,
+not just the dev-set extrapolation. Opus's per-opinion rate has not been run
+at anywhere near this scale to check against; its Bedrock list price is also
+unverified (see the note above the table) — if it's actually priced at the
+Opus 4.1 tier rather than 4.5, multiply the Opus column by 3 (**≈ $600,000**
+for 1M). Either way, **GPT-5.6 Luna v8g batch is roughly 25–75× cheaper than
+Opus 5 batch at this scale** ($7,500–8,000 vs $200,000–600,000 per million
+opinions), for 97% of Opus's mention F1 (0.972 vs 0.993).
 
 Throughput for the GPT v8g pipeline: 564 s per 49 opinions at 8 concurrent
 requests ≈ 11.5 s per opinion per 8 workers — 20,000 opinions ≈ 64 h at 8
@@ -146,7 +163,7 @@ Compute so far: 215 Opus opinions ≈ $43 in batch; the GPT hardening rounds
 
 ## 7. Next round: 10K GPT-seeded training set (sized down from 20K on 2026-09-11)
 
-**Sampling** — `experiments_09092026/sample_cl_20k_round2.py` (Rachel runs it
+**Sampling** — `experiments_09092026/corpus/sample_cl_20k_round2.py` (Rachel runs it
 in the `cl-django` container; commands in its docstring). Same 135 cells as
 round 1 (5 court groups × 9 decades × 3 length bins), but each cell takes 60
 *keyword* + 15 *control* clusters, where keyword = at least one strong
@@ -164,7 +181,7 @@ in 78 min; keyword opinions are a minority, so this scans more).
 reasoning effort high), the best cheap configuration above:
 `bash runners/openai_batch.sh run --name r2_gpt --model gpt-5.6-luna --prompt prompts/triage_citation_fixer_v8g.md --effort high --candidates --workers 32 --ids …`
 after `lib/citation_seed.py prepare --seed-state` on the new clusters (10K → ≈ $150 real-time / ≈ $75 batch, ≈ 8 h at 32 workers) (clusters live in
-`experiments_09092026/data/annotator_r2/`, built by `make_r2_annotator.py`;
+`experiments_09092026/data/annotator_r2/`, built by `corpus/make_r2_annotator.py`;
 the harness is pointed at it with `CITSEED_ANNOT` / `CITSEED_OUT`). ≈ $300
 real-time or ≈ $150 via the Batch API.
 
@@ -179,13 +196,13 @@ cold-start compute becomes ~2 epochs at a lower learning rate (1e-5). The risk
 is inheriting the silver model's under-recall on name-only mentions — 10K
 examples that contain them is a strong signal against that, but the
 cold-start control is what proves it. Selection on gold_dev, the triage scorer
-as the headline metric (via `predict_gold_dev.py` → `analysis/score_encoder.py`),
+as the headline metric (via `inference.py` → `analysis/score_encoder.py`),
 gold_test once at the end.
 
 **Training mix (as built 2026-09-14)** — the 9,994 GPT-seeded clusters as
-gold-format records (split `train_gpt`, with 2% of clusters by hash held out as
-`val_gpt` for checkpoint selection on same-distribution labels) plus the 261
-triage train clusters carrying Opus v5 corrections (split `train_llm`), with
+gold-format records (split `train`, with 2% of clusters by hash held out as
+`validation` for checkpoint selection on same-distribution labels) plus the 261
+triage train clusters carrying Opus v5 corrections (split `train_high_quality`), with
 gold_dev / gold_test as before; no silver blocks (the warm start carries them,
 the cold control trains on the same GPT data). Dataset sizes, commands and the
 pod package: `experiments_09092026/readme.md` §6.
@@ -194,8 +211,31 @@ pod package: `experiments_09092026/readme.md` §6.
 `revised_html` files regenerated server-side from the current overrides (20
 dev files had been zeroed; of the 45 train files that existed, 39 predated
 their overrides and 216 seeded train clusters had none); (b)
-`build_dataset.py` now refuses zero-byte gold HTML instead of emitting empty
-records and can emit the LLM-corrected train clusters as `train_llm`; (c) the
+`corpus/build_dataset.py` now refuses zero-byte gold HTML instead of emitting empty
+records and can emit the LLM-corrected train clusters as `train_high_quality`; (c) the
 viewer endpoint that caused the truncation is fixed. The round-2 dataset was
-rebuilt on these labels on 2026-09-14 (`build_dataset.py --gpt-train-*`, see
+rebuilt on these labels on 2026-09-14 (`corpus/build_dataset.py --gpt-train-*`, see
 `experiments_09092026/readme.md` §6).
+
+## 8. Held-out test — gold_test scored once (2026-09-16)
+
+Same scorer as §1, same current annotator gold, 50 test opinions (3,854 gold
+mentions). GPT-5.6 Luna ran through Bedrock Converse (`us.openai.gpt-5.6-luna`,
+effort high, candidates, 64K cap — not binding, max 26,475 output tokens;
+`runners/openai_batch.py run --provider bedrock`, ≈ $1). Opus = frozen v4
+outputs (2026-09-10) re-scored against the current gold.
+
+| system (test, 50 opinions, 3,854 gold mentions) | mention P | mention R | mention F1 | coref P | coref R | coref F1 |
+|---|---|---|---|---|---|---|
+| eyecite (floor) | 0.895 | 0.827 | 0.860 | 0.996 | 0.935 | 0.964 |
+| encoder r2 warm (lwin 64) | 0.956 | 0.963 | 0.960 | 0.947 | 0.937 | 0.942 |
+| encoder r4 (lwin 128, no rule) | 0.956 | 0.963 | 0.960 | 0.958 | 0.928 | 0.943 |
+| **encoder r4 + `Id.`→nearest rule** | 0.956 | 0.963 | **0.960** | 0.966 | 0.952 | **0.959** |
+| GPT-5.6 Luna v8g + candidates, high (Bedrock Converse) | 0.968 | 0.940 | 0.954 | 0.995 | 0.993 | **0.994** |
+| Opus 5 v4 (frozen 2026-09-10 outputs, re-scored) | 0.993 | 0.973 | **0.983** | 0.988 | 0.981 | 0.984 |
+
+Dev → test: encoder mention F1 0.973 → 0.960, coref 0.985 → 0.959; GPT v8g
+0.972 → 0.954, 0.991 → 0.994; eyecite 0.857 → 0.860, 0.975 → 0.964. Verdicts:
+encoder = extraction (ahead of GPT on held-out), GPT pass = coreference,
+Opus = extraction ceiling (0.983). Final recommendation in
+`experiments_09092026/readme.md`.

@@ -1,0 +1,6 @@
+[project]
+name = "dev-compare-viewer"
+version = "0.1.0"
+description = "eyecite vs GPT vs Opus vs encoder against the annotator gold, on the 49 triage dev opinions"
+requires-python = ">=3.11"
+dependencies = ["fastapi>=0.110", "uvicorn>=0.29", "jinja2>=3.1", "eyecite>=2.7.6"]

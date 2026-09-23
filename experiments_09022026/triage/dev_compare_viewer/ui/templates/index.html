@@ -1,0 +1,103 @@
+{% extends "base.html" %}
+{% block content %}
+<h1 class="h1">Every system against the annotator gold, on the dev set</h1>
+<div class="stats">
+  <div class="stat"><div class="n">{{ totals.n_opinions }}</div><div class="l">dev opinions</div></div>
+  <div class="stat"><div class="n">{{ "{:,}".format(totals.n_gold) }}</div><div class="l">gold mentions</div></div>
+  <div class="stat"><div class="n">{{ "{:,}".format(totals.n_loci) }}</div><div class="l">loci (gold + false positives)</div></div>
+  <div class="stat"><div class="n">{{ "{:,}".format(totals.n_diff) }}</div><div class="l">loci where ≥1 system differs from gold</div></div>
+</div>
+
+<div class="card" style="margin-bottom:16px">
+  <h2>Pooled scores</h2>
+  <p class="muted small" style="margin:0 0 10px">
+    One scorer for every row (<code>citation_seed.score_states</code>): a mention is correct when it overlaps a gold
+    mention in the same writing; coreference is pairwise over the mentions that system matched. Computed live from the
+    files on disk — these are the numbers in <code>model_comparison_dev.md</code>.
+    <strong>Miss / false pos. / grouping</strong> count loci, and a single wrong group flags every mention in it, so
+    grouping counts read high next to the coref F1.
+  </p>
+  <table class="tbl pooled">
+    <thead><tr>
+      <th>System</th><th class="num">Mentions</th>
+      <th class="num">Mention P</th><th class="num">R</th><th class="num">F1</th>
+      <th class="num">Coref P</th><th class="num">R</th><th class="num">F1</th>
+      <th class="num">Missed</th><th class="num">False pos.</th><th class="num">Grouping</th>
+    </tr></thead>
+    <tbody>
+    {% set best_m = table|map(attribute='mention_PRF')|map(attribute=2)|max %}
+    {% for r in table %}
+      <tr class="{{ r.css }}{% if r.mention_PRF[2] == best_m %} best{% endif %}">
+        <td class="lbl"><i class="dot"></i> {{ r.label }}</td>
+        <td class="num">{{ "{:,}".format(r.n_mentions) }}{% if r.unanchored %}
+          <span class="badge badge-amber" title="predicted spans that could not be re-anchored in the annotator text">{{ r.unanchored }} unanchored</span>{% endif %}</td>
+        <td class="num">{{ "%.3f"|format(r.mention_PRF[0]) }}</td>
+        <td class="num">{{ "%.3f"|format(r.mention_PRF[1]) }}</td>
+        <td class="num f1">{{ "%.3f"|format(r.mention_PRF[2]) }}</td>
+        <td class="num">{{ "%.3f"|format(r.coref_PRF[0]) }}</td>
+        <td class="num">{{ "%.3f"|format(r.coref_PRF[1]) }}</td>
+        <td class="num f1">{{ "%.3f"|format(r.coref_PRF[2]) }}</td>
+        <td class="num">{{ r.miss }}</td><td class="num">{{ r.fp }}</td><td class="num">{{ r.group }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  <p class="muted small" style="margin:10px 0 0">
+    Legend — the green row is the best mention F1. <i class="dot"></i> colours match the stripes on the opinion pages:
+    {% for s in systems %}<span class="{{ s.css }}" style="margin-right:10px"><i class="dot"></i> {{ s.label }}</span>{% endfor %}
+  </p>
+</div>
+
+<div class="sortbar">
+  <span class="small muted">Sort</span>
+  <div class="seg" role="group" aria-label="sort the opinion list">
+    {% for k, lbl in [("diff", "most disagreement"), ("gold", "most gold mentions"), ("case", "case name"), ("cid", "cluster id")] %}
+      <a href="/?sort={{ k }}" class="{% if sort == k %}active{% endif %}">{{ lbl }}</a>
+    {% endfor %}
+  </div>
+  <span class="muted small">Click a row to open the opinion with all four systems layered over the text.</span>
+</div>
+
+<div class="card">
+  <table class="tbl">
+    <thead>
+      <tr>
+        <th rowspan="2">#</th><th rowspan="2">Cluster</th><th rowspan="2">Case</th>
+        <th rowspan="2">Court</th><th rowspan="2">Year</th>
+        <th rowspan="2" class="num">Gold</th><th rowspan="2" class="num">Diff loci</th>
+        {% for s in systems %}<th colspan="3" class="sys-col {{ s.css }}" style="text-align:center">{{ s.short }}</th>{% endfor %}
+      </tr>
+      <tr>
+        {% for s in systems %}
+          <th class="num" title="gold mentions this system missed">miss</th>
+          <th class="num" title="mentions this system tagged that gold does not have">fp</th>
+          <th class="num" title="matched mentions whose coreference group disagrees with gold">grp</th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+    {% for r in rows %}
+      <tr class="rowlink" data-href="/opinion/{{ r.cid }}?sort={{ sort }}">
+        <td class="muted">{{ loop.index }}</td>
+        <td><a href="/opinion/{{ r.cid }}?sort={{ sort }}">{{ r.cid }}</a></td>
+        <td>{{ r.meta.case_name or "—" }}</td>
+        <td>{{ r.meta.court }}</td><td>{{ r.meta.year }}</td>
+        <td class="num">{{ r.n_gold }}</td>
+        <td class="num"><strong>{{ r.n_diff }}</strong></td>
+        {% for s in systems %}
+          {% set c = r.counts.get(s.key) %}
+          {% if c %}
+            <td class="num">{{ c.miss or "·" }}</td><td class="num">{{ c.fp or "·" }}</td><td class="num">{{ c.group or "·" }}</td>
+          {% else %}
+            <td class="num muted" colspan="3" title="{{ r.errors.get(s.key, 'no output') }}">—</td>
+          {% endif %}
+        {% endfor %}
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}
+{% block scripts %}
+<script src="/static/index.js"></script>
+{% endblock %}

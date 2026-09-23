@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Dev set — citation systems vs gold{% endblock %}</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header class="site-header">
+  <nav>
+    <a class="brand" href="/?sort={{ sort }}">Dev set · citation systems vs gold</a>
+    <span class="muted small">eyecite · GPT-5.6 v8g · Opus 5 · encoder r4 — 49 triage dev opinions</span>
+    <span class="nav-right">{% block navright %}{% endblock %}</span>
+  </nav>
+</header>
+<main class="page">
+{% block content %}{% endblock %}
+</main>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+{% block scripts %}{% endblock %}
+</body>
+</html>

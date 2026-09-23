@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+{% block title %}{{ cid }} · {{ meta.case_name }}{% endblock %}
+{% block navright %}
+  {% if prev %}<a class="btn-outline" href="/opinion/{{ prev }}?sort={{ sort }}" id="prev-link">← prev <kbd>p</kbd></a>{% endif %}
+  <span class="muted small">{{ pos }} / {{ n }}</span>
+  {% if next %}<a class="btn-outline" href="/opinion/{{ next }}?sort={{ sort }}" id="next-link">next <kbd>n</kbd> →</a>{% endif %}
+{% endblock %}
+{% block content %}
+<div class="opinion-head">
+  <div>
+    <h1 class="h1">{{ meta.case_name or cid }} <span class="muted">· {{ cid }}</span></h1>
+    <div class="muted small">{{ meta.court }} {{ meta.year }} ·
+      {{ "{:,}".format(row.chars) }} chars · {{ n_gold }} gold mentions ·
+      <strong>{{ row.n_diff }}</strong> of {{ row.n_loci }} loci show a disagreement</div>
+  </div>
+  <div class="scorecards">
+    {% for s in systems %}
+      {% set c = counts[s.key] %}
+      <div class="scorecard {{ s.css }}">
+        <div class="l">{{ s.short }}</div>
+        <div class="n">mention F1 {{ "%.3f"|format(c.mention_PRF[2]) }} · coref {{ "%.3f"|format(c.coref_PRF[2]) }}</div>
+        <div class="w">{{ c.miss }} missed · {{ c.fp }} false pos. · {{ c.group }} grouping</div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+{% if errors %}
+  <p class="warn small">No output for: {% for k, v in errors.items() %}{{ k }} ({{ v }}){% if not loop.last %}, {% endif %}{% endfor %}</p>
+{% endif %}
+
+<div class="controls card">
+  <div class="legend" id="layer-legend">
+    <button type="button" class="lg" data-layer="gold" aria-pressed="true">
+      <span class="swatch agree"></span> gold shading <kbd>0</kbd></button>
+    {% for s in systems %}
+      <button type="button" class="lg {{ s.css }}" data-layer="{{ s.key }}" aria-pressed="true">
+        <i class="stripe"></i> {{ s.label }} <kbd>{{ loop.index }}</kbd></button>
+    {% endfor %}
+  </div>
+  <div class="legend">
+    <span class="lg"><span class="swatch agree"></span> gold + all systems</span>
+    <span class="lg"><span class="swatch miss"></span> gold, a system missed it</span>
+    <span class="lg"><span class="swatch fp"></span> not gold, a system tagged it</span>
+    <button id="diffonly" type="button" class="btn-outline toggle">differences only <kbd>d</kbd></button>
+    <span class="small muted">loci <kbd>j</kbd>/<kbd>k</kbd> · opinions <kbd>n</kbd>/<kbd>p</kbd></span>
+  </div>
+</div>
+
+<div class="workspace">
+  <section class="card panel" aria-label="opinion text">
+    <div class="cardh2">Opinion text <span class="muted small" id="op-summary"></span></div>
+    <div class="panel-body" id="text"><p class="center-note">loading…</p></div>
+  </section>
+  <aside class="card panel" aria-label="disagreements and selected span">
+    <div class="cardh2">Selected span
+      <span class="small muted">— group shown for</span>
+      <span class="seg" id="view-seg" role="group" aria-label="whose coreference groups to highlight">
+        <button type="button" data-view="gold">gold</button>
+        {% for s in systems %}<button type="button" data-view="{{ s.key }}">{{ s.short }}</button>{% endfor %}
+      </span>
+    </div>
+    <div id="sel" class="sel-box muted small">Click any shaded span in the text to see how each system tagged and grouped it.</div>
+    <div class="cardh2">Loci <span id="loci-count" class="badge badge-gray"></span>
+      <span class="chips" id="flag-chips">
+        <button type="button" class="chip on" data-flag="miss">missed</button>
+        <button type="button" class="chip on" data-flag="fp">false pos.</button>
+        <button type="button" class="chip on" data-flag="group">grouping</button>
+        <button type="button" class="chip" data-flag="clean">agreed</button>
+      </span>
+    </div>
+    <div class="cardh2" style="border-top:0;padding-top:0">
+      <span class="small muted">only where</span>
+      <span class="chips" id="sys-chips">
+        {% for s in systems %}<button type="button" class="chip sys on {{ s.css }}" data-sys="{{ s.key }}">{{ s.short }}</button>{% endfor %}
+      </span>
+      <span class="small muted">is wrong</span>
+    </div>
+    <div class="panel-body" id="loci"></div>
+  </aside>
+</div>
+{% endblock %}
+{% block scripts %}
+<script>window.CID = {{ cid|tojson }};</script>
+<script src="/static/app.js"></script>
+{% endblock %}

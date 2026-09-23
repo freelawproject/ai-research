@@ -187,7 +187,8 @@ def cmd_export(a):
     fmt = a.format or record_format(model)
     thinking = thinking_block(model, a.thinking) if fmt == "anthropic" else None
     max_tokens = a.max_tokens or model_max_tokens(model)
-    missing = [c for c in a.ids if not os.path.exists(os.path.join(INPUTS, f"{c}.txt"))]
+    inputs = a.inputs_dir or INPUTS
+    missing = [c for c in a.ids if not os.path.exists(os.path.join(inputs, f"{c}.txt"))]
     if missing:
         sys.exit(f"{len(missing)} ids have no prepared input (run `python3 lib/citation_seed.py prepare --ids ...`): "
                  + " ".join(missing[:20]))
@@ -195,7 +196,7 @@ def cmd_export(a):
     n_chars = 0
     with open(path, "w", encoding="utf-8") as f:
         for cid in a.ids:
-            text = open(os.path.join(INPUTS, f"{cid}.txt"), encoding="utf-8").read()
+            text = open(os.path.join(inputs, f"{cid}.txt"), encoding="utf-8").read()
             f.write(json.dumps(build_record(cid, prompt, text, max_tokens, thinking, fmt), ensure_ascii=False) + "\n")
             n_chars += len(prompt) + len(text)
     js = jobs()
@@ -204,7 +205,7 @@ def cmd_export(a):
     js.setdefault(a.name, {}).update({
         "name": a.name, "ids": list(a.ids), "prompt": os.path.relpath(a.prompt, ROOT), "prompt_sha": prompt_sha(prompt),
         "thinking": thinking, "format": fmt, "model": model or None, "max_tokens": max_tokens, "jsonl": os.path.relpath(path, ROOT),
-        "exported": dt.datetime.now().isoformat(timespec="seconds"),
+        "exported": dt.datetime.now().isoformat(timespec="seconds"), "inputs_dir": os.path.relpath(inputs, ROOT),
         "out_dir": os.path.relpath(a.out_dir or os.path.join(SEED, a.name), ROOT)})
     save_json(JOBS, js)
     print(f"{len(a.ids)} records -> {path} (~{n_chars/3.6/1e6:.2f}M input tokens); "
@@ -361,6 +362,8 @@ def main():
     p.add_argument("--thinking", default="auto", help="auto | adaptive | none | <budget tokens> (anthropic format only)")
     p.add_argument("--max-tokens", type=int, default=None, help="default: the model's hard maximum (MODEL_MAX_TOKENS)")
     p.add_argument("--out-dir", help="where fetch writes results (default data/citation_seed/<name>)")
+    p.add_argument("--inputs-dir", help="prepared inputs to export (default data/citation_seed/inputs; the adjudication "
+                                        "inputs from analysis/disagreement_select.py live in inputs_adjudicate/)")
     p = sub.add_parser("submit", help="upload the JSONL and create the Bedrock batch job")
     p.add_argument("--name", required=True)
     p.add_argument("--model", help="model id (default $CITSEED_MODEL_ID)")

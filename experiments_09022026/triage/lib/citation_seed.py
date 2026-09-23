@@ -429,8 +429,9 @@ def cmd_apply(a):
     stamp = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
     os.makedirs(os.path.join(OUT, "backups"), exist_ok=True)
     out_dir = a.out_dir or os.path.join(OUT, "outputs")
+    inputs_dir = a.inputs_dir or os.path.join(OUT, "inputs")
     for cid in a.ids:
-        mp = load_json(os.path.join(OUT, "inputs", f"{cid}.map.json"))
+        mp = load_json(os.path.join(inputs_dir, f"{cid}.map.json"))
         st = State(cid, mp.get("seed_state", False))
         edits = parse_edits(os.path.join(out_dir, f"{cid}.edits.json"))
         log = apply_edits(st, edits, mp)
@@ -933,6 +934,8 @@ def main():
     p.add_argument("--ids", nargs="+", required=True)
     p.add_argument("--write", action="store_true")
     p.add_argument("--out-dir", help="where {cid}.edits.json live (default data/citation_seed/outputs)")
+    p.add_argument("--inputs-dir", help="where {cid}.map.json live (default data/citation_seed/inputs; the "
+                                        "adjudication inputs from analysis/disagreement_select.py have their own dir)")
     p = sub.add_parser("score")
     p.add_argument("--ids", nargs="+", required=True)
     p.add_argument("--out-dir", help="where {cid}.edits.json live (default data/citation_seed/outputs)")

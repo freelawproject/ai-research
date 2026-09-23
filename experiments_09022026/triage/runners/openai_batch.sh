@@ -6,7 +6,10 @@
 #   bash openai_batch.sh submit|status|wait|fetch --name dev_gpt
 set -euo pipefail
 cd "$(dirname "$0")"
-if [ "${1:-}" != "export" ] && [ -z "${OPENAI_KEY:-}" ]; then
+export AWS_PROFILE=${AWS_PROFILE:-dev-env}
+export AWS_REGION=${AWS_REGION:-us-west-2}
+# `run --provider bedrock` goes through Bedrock Converse on the SSO session; no OpenAI key involved
+if [ "${1:-}" != "export" ] && [ -z "${OPENAI_KEY:-}" ] && ! printf '%s\n' "$@" | grep -qx -- bedrock; then
   echo "export OPENAI_KEY=... first (the OpenAI API key, as in experiments_04012026/utils/gpt_utils.py)" >&2
   exit 2
 fi

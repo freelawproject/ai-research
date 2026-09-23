@@ -29,6 +29,9 @@ import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+import boto3
+from botocore.config import Config
+from botocore.exceptions import ClientError
 from openai import OpenAI
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -43,6 +46,45 @@ from utils.batch_utils import prompt_sha  # noqa: E402
 
 DEFAULT_MODEL = os.environ.get("CITSEED_OPENAI_MODEL", "")
 TERMINAL = ("completed", "failed", "expired", "cancelled")
+
+
+BEDROCK_GPT = "us.openai.gpt-5.6-luna"
+BEDROCK_MAX_TOKENS = 64000   # Bedrock's cap for GPT-5.6, reasoning included (OpenAI's is 128K)
+_EFFORT_FIELDS = [lambda e: {"reasoning": {"effort": e}}, lambda e: {"reasoning_effort": e}]
+
+
+def bedrock_client():
+    """Same model, different transport: GPT-5.6 Luna on Bedrock Converse with the
+    dev-env SSO session (what experiments_09112026 runs its gate on) — no OpenAI key."""
+    session = boto3.Session(profile_name=os.environ.get("AWS_PROFILE", "dev-env"))
+    return session.client("bedrock-runtime", region_name=os.environ.get("AWS_REGION", "us-west-2"),
+                          config=Config(read_timeout=1500, connect_timeout=30,
+                                        retries={"max_attempts": 8, "mode": "adaptive"}))
+
+
+def converse_once(c, model, prompt, user, max_tokens, effort):
+    """One Converse call. Bedrock rejects temperature alongside reasoning, and the
+    reasoning-effort field name differs by model version, so the two known
+    shapes are probed once and the working one is kept for the rest of the run."""
+    kwargs = dict(modelId=model, system=[{"text": prompt}],
+                  messages=[{"role": "user", "content": [{"text": user}]}],
+                  inferenceConfig={"maxTokens": max_tokens})
+    if not effort or effort == "none":
+        return c.converse(**kwargs)
+    last = None
+    for i, make in enumerate(list(_EFFORT_FIELDS)):
+        try:
+            kwargs["additionalModelRequestFields"] = make(effort)
+            r = c.converse(**kwargs)
+            if i:                                   # remember the shape that worked
+                _EFFORT_FIELDS.insert(0, _EFFORT_FIELDS.pop(i))
+            return r
+        except ClientError as e:
+            if e.response["Error"]["Code"] == "ValidationException" and i < len(_EFFORT_FIELDS) - 1:
+                last = e
+                continue
+            raise
+    raise last
 
 
 def client():
@@ -76,7 +118,13 @@ def cmd_models(a):
 MAX_FILE_BYTES = 190 * 1024 * 1024   # OpenAI Batch input file limit is 200 MB
 
 
+def _resolve_prompt(a):
+    if not os.path.exists(a.prompt) and os.path.exists(os.path.join(ROOT, a.prompt)):
+        a.prompt = os.path.join(ROOT, a.prompt)
+
+
 def cmd_export(a):
+    _resolve_prompt(a)
     """Write one or more batch JSONL files. Files are split so each stays under
     MAX_FILE_BYTES (and under --part-size requests); each part is registered as
     its own batch name `<name>_pNN` sharing one out_dir, so score/apply see a
@@ -299,23 +347,32 @@ def postfilter_adds(edits, opinion_text):
     return edits, dropped
 
 
-def _one(c, cid, prompt, model, max_tokens, effort, out_dir, postfilter=True, with_candidates=False):
+def _one(c, cid, prompt, model, max_tokens, effort, out_dir, postfilter=True, with_candidates=False,
+         provider="openai"):
     text = open(os.path.join(INPUTS, f"{cid}.txt"), encoding="utf-8").read()
     user = text
     if with_candidates:
         block = candidates_block(text)
         if block:
             user = text.rstrip() + "\n\n" + block + "\n"
-    body = build_request(cid, prompt, user, model, max_tokens, effort)["body"]
-    resp = c.chat.completions.create(**body)
-    ch = resp.choices[0]
-    content = ch.message.content or ""
+    if provider == "bedrock":
+        r = converse_once(c, model, prompt, user, max_tokens, effort)
+        blocks = r["output"]["message"]["content"]
+        content = "".join(b.get("text", "") for b in blocks if "text" in b)
+        u = r.get("usage", {})
+        rec = {"in": u.get("inputTokens"), "out": u.get("outputTokens"),
+               "reasoning": None, "finish": r.get("stopReason")}
+    else:
+        body = build_request(cid, prompt, user, model, max_tokens, effort)["body"]
+        resp = c.chat.completions.create(**body)
+        ch = resp.choices[0]
+        content = ch.message.content or ""
+        u = resp.usage
+        rec = {"in": u.prompt_tokens, "out": u.completion_tokens,
+               "reasoning": getattr(getattr(u, "completion_tokens_details", None), "reasoning_tokens", None),
+               "finish": ch.finish_reason}
     with open(os.path.join(out_dir, f"{cid}.response.md"), "w", encoding="utf-8") as f:
         f.write(content)
-    u = resp.usage
-    rec = {"in": u.prompt_tokens, "out": u.completion_tokens,
-           "reasoning": getattr(getattr(u, "completion_tokens_details", None), "reasoning_tokens", None),
-           "finish": ch.finish_reason}
     edits = extract_edits_json(content)  # raises on failure -> caller records the error
     if postfilter:
         edits, rec["dropped_adds"] = postfilter_adds(edits, text)
@@ -327,9 +384,17 @@ def _one(c, cid, prompt, model, max_tokens, effort, out_dir, postfilter=True, wi
 def cmd_run(a):
     """Real-time inference (no 24h window, no minimum): N concurrent chat
     completions, same request body / outputs / bookkeeping as the batch path."""
-    model = a.model or DEFAULT_MODEL
+    bedrock = a.provider == "bedrock"
+    model = a.model or (BEDROCK_GPT if bedrock else DEFAULT_MODEL)
     if not model:
         sys.exit("no model id: pass --model or set CITSEED_OPENAI_MODEL")
+    # the .sh wrapper cd's into runners/; accept prompt paths written relative to the triage root
+    if not os.path.exists(a.prompt) and os.path.exists(os.path.join(ROOT, a.prompt)):
+        a.prompt = os.path.join(ROOT, a.prompt)
+    max_tokens = a.max_tokens
+    if bedrock and max_tokens > BEDROCK_MAX_TOKENS:
+        print(f"note: Bedrock caps GPT-5.6 output at {BEDROCK_MAX_TOKENS:,} tokens (reasoning included); using that")
+        max_tokens = BEDROCK_MAX_TOKENS
     prompt = open(a.prompt, encoding="utf-8").read()
     out_dir = os.path.join(ROOT, a.out_dir or os.path.join(SEED, a.name))
     os.makedirs(out_dir, exist_ok=True)
@@ -337,8 +402,10 @@ def cmd_run(a):
     missing = [c for c in todo if not os.path.exists(os.path.join(INPUTS, f"{c}.txt"))]
     if missing:
         sys.exit(f"{len(missing)} ids have no prepared input: " + " ".join(missing[:20]))
-    c = client()
-    c = c.with_options(max_retries=6, timeout=1800)
+    if bedrock:
+        c = bedrock_client()
+    else:
+        c = client().with_options(max_retries=6, timeout=1800)
 
     def save_meta(meta):  # other runs may be saving concurrently: merge only our key
         cur = jobs()
@@ -347,9 +414,10 @@ def cmd_run(a):
 
     js = jobs()
     meta = js.setdefault(a.name, {})
-    meta.update({"name": a.name, "provider": "openai", "mode": "realtime", "ids": list(a.ids), "model": model,
+    meta.update({"name": a.name, "provider": "bedrock-converse" if bedrock else "openai", "mode": "realtime",
+                 "ids": list(a.ids), "model": model,
                  "prompt": os.path.relpath(a.prompt, ROOT), "prompt_sha": prompt_sha(prompt),
-                 "reasoning_effort": a.effort, "max_tokens": a.max_tokens, "workers": a.workers, "candidates": bool(a.candidates),
+                 "reasoning_effort": a.effort, "max_tokens": max_tokens, "workers": a.workers, "candidates": bool(a.candidates),
                  "started": meta.get("started") or dt.datetime.now().isoformat(timespec="seconds"),
                  "out_dir": os.path.relpath(out_dir, ROOT)})
     usage = meta.setdefault("usage", {})
@@ -357,7 +425,8 @@ def cmd_run(a):
     print(f"{len(todo)} to run ({len(a.ids) - len(todo)} already done) with {model}, {a.workers} workers -> {out_dir}")
     t0 = time.time()
     with ThreadPoolExecutor(max_workers=a.workers) as ex:
-        futs = {ex.submit(_one, c, cid, prompt, model, a.max_tokens, a.effort, out_dir, not a.no_postfilter, a.candidates): cid for cid in todo}
+        futs = {ex.submit(_one, c, cid, prompt, model, max_tokens, a.effort, out_dir, not a.no_postfilter, a.candidates,
+                          a.provider): cid for cid in todo}
         for i, fut in enumerate(as_completed(futs), 1):
             cid = futs[fut]
             try:
@@ -406,6 +475,8 @@ def main():
     p.add_argument("--redo", action="store_true", help="re-run ids that already have edits.json")
     p.add_argument("--no-postfilter", action="store_true", help="disable the fragment/duplicate add guard")
     p.add_argument("--candidates", action="store_true", help="append the mechanical <candidates> block (candidates.py) to each input")
+    p.add_argument("--provider", choices=["openai", "bedrock"], default="openai",
+                   help="bedrock = the same GPT-5.6 Luna through Bedrock Converse (dev-env SSO, no OPENAI_KEY; 64K output cap)")
     p.add_argument("--out-dir")
     p = sub.add_parser("submit")
     p.add_argument("--name", required=True)

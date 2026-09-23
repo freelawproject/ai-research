@@ -1,9 +1,9 @@
 """Run the citator pipeline on example cases with optional evaluation.
 
 Usage:
-    python run_example.py --input-dir ../data --output-dir ../experiments_04032026/data --txt-path ../experiments_04032026/example.txt
-    python run_example.py --input-dir ../data --output-dir ../experiments_04032026/data --txt-path ../experiments_04032026/example.txt --evaluate
-    python run_example.py --output-dir ../experiments_04032026/data --evaluate-only
+    python run_example.py --input-dir ../data --output-dir ../prior_experiments/experiments_04032026/data --txt-path ../prior_experiments/experiments_04032026/example.txt
+    python run_example.py --input-dir ../data --output-dir ../prior_experiments/experiments_04032026/data --txt-path ../prior_experiments/experiments_04032026/example.txt --evaluate
+    python run_example.py --output-dir ../prior_experiments/experiments_04032026/data --evaluate-only
 """
 
 import logging

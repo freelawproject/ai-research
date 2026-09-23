@@ -8,9 +8,14 @@ Legal citator pipeline that uses LLMs to analyze appellate court opinions and cl
 
 - `data/` — Shared data files (opinion texts, metadata CSVs, expert labels). Experiment folders symlink here instead of duplicating data. Excluded from git.
 - `citator-pipeline/` — Reusable pipeline code (instructions, utils, run scripts). Created after experiments showed Sonnet and Kimi as strong contenders, to consolidate the pipeline and track version changes via git. No data lives here.
-- `experiments_MMDD2026/` — Each folder contains the data and results for a specific experiment. Before 0405, each experiment folder also contained its own utils and run scripts. From 0405 onward, all code lives in `citator-pipeline/` and experiment folders contain only data and thin wrapper scripts. Experiments 0402–0405 have legacy symlinks through `experiments_04022026/data/`; new experiments should symlink directly to `data/`.
+- `experiments_MMDD2026/` — Each folder contains the data and results for a specific experiment. Before 0405, each experiment folder also contained its own utils and run scripts. From 0405 onward, all code lives in `citator-pipeline/` and experiment folders contain only data and thin wrapper scripts. New experiments should symlink directly to `data/`.
+- `prior_experiments/` — Archived experiments. Everything dated before 0501 lives here, alongside the older pre-2026 folders. Paths inside them keep working: 0402–0405 still share data through legacy symlinks in `prior_experiments/experiments_04022026/data/`.
 
 ### Recent Experiments
+
+Everything dated before 0501 has been archived under `prior_experiments/`; the
+entries are kept here because later experiments still cite their results.
+
 - `0319` — Baseline evaluation of v225, v318, and v320 instruction versions on 8 expert-annotated cases using Sonnet. v318 improved severity and treatment F1 over v225. v320 was a sidetrack (attempted cost savings by grouping "Cited by" outputs, unsuccessful).
 - `0327` — Tested 17 cheaper LLM models on 8 expert-annotated cases for citation extraction and negative treatment detection. Concluded Sonnet 4.6 is the best performer, Kimi K2.5 is a close second.
 - `0401` — Compared 5 models on 8 expert-annotated cases using v318 instructions. Sonnet 4.6 was the best overall; Kimi K2.5 had the best treatment F1.
@@ -54,25 +59,25 @@ All scripts run from `citator-pipeline/`. Input data is read from `--input-dir` 
 
 ```bash
 # Single-stage pipeline (Sonnet + Kimi re-eval) on all 9 examples
-python run_example.py --output-dir ../experiments_04062026/data --evaluate
+python run_example.py --output-dir ../prior_experiments/experiments_04062026/data --evaluate
 
 # Two-stage pipeline (Haiku extraction + Kimi classification) on all 9 examples
-python run_two_stage.py --output-dir ../experiments_04072026/data --evaluate
+python run_two_stage.py --output-dir ../prior_experiments/experiments_04072026/data --evaluate
 
 # Two-stage batch inference (Haiku Stage 1 + Kimi Stage 2) — the 0518 production config.
 # Each run is keyed by a UUID `run_id` and persisted to s3://{bucket}/Citator/runs/{run_id}/.
 # S3 is the source of truth between stages; --output-dir is local scratch + final CSVs.
 python run_batch.py submit-extraction \
-    --output-dir ../experiments_04052026/data --court ca1
+    --output-dir ../prior_experiments/experiments_04052026/data --court ca1
 # → prints run_id at exit
 python run_batch.py submit-classification \
-    --output-dir ../experiments_04052026/data --run-id <run_id>
+    --output-dir ../prior_experiments/experiments_04052026/data --run-id <run_id>
 python run_batch.py collect \
-    --output-dir ../experiments_04052026/data --run-id <run_id> \
+    --output-dir ../prior_experiments/experiments_04052026/data --run-id <run_id> \
     --labels-file ../data/benchmark_original/0410.csv
 
 # Or end-to-end (chains all three with wait-for-completion between stages)
-python run_batch.py run --output-dir ../experiments_04052026/data --court ca1
+python run_batch.py run --output-dir ../prior_experiments/experiments_04052026/data --court ca1
 
 # Single-stage Sonnet batch inference — the 0529 candidate config.
 # IMPORTANT: pass --input-dir explicitly so defaults resolve via the experiment's

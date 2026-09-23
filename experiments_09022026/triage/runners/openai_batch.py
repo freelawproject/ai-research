@@ -4,7 +4,7 @@ Mirror of bedrock_batch.py for OpenAI: same inputs (data/citation_seed/inputs/
 {cid}.txt from `citation_seed.py prepare`), same outputs
 (<out-dir>/{cid}.response.md + {cid}.edits.json), same bookkeeping file
 (data/citation_seed/bedrock_jobs.json, key = batch name, provider "openai").
-Client pattern follows experiments_04012026/utils/gpt_utils.py (OpenAI(),
+Client pattern follows prior_experiments/experiments_04012026/utils/gpt_utils.py (OpenAI(),
 key from $OPENAI_KEY).
 
     bash openai_batch.sh models                       # gpt-5* model ids visible to the key
@@ -90,7 +90,7 @@ def converse_once(c, model, prompt, user, max_tokens, effort):
 def client():
     key = os.getenv("OPENAI_KEY")
     if not key:
-        sys.exit("OPENAI_KEY is not set (same variable experiments_04012026/utils/gpt_utils.py uses)")
+        sys.exit("OPENAI_KEY is not set (same variable prior_experiments/experiments_04012026/utils/gpt_utils.py uses)")
     return OpenAI(api_key=key)
 
 

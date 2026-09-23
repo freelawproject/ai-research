@@ -35,7 +35,7 @@ Some datasets that can be used for training/evaluations:
 | Current pipeline code | `citator-pipeline/` | Reusable production code (prompts, run scripts, postprocessors) |
 | Conventions + pipeline reference | `CLAUDE.md` | Pipeline structure, run instructions, canonical treatment taxonomy |
 | Cross-experiment progression | `comparison.md` | Headline metrics across all experiments since prompt-version selection |
-| Active experiments (2026) | `experiments_MMDD2026/` | Each folder has its own readme + notebooks |
-| Historical experiments (2025) | `prior_experiments/` | See `prior_experiments/readme.md` for the baseline + v1 + 2025 status updates |
+| Active experiments | `experiments_MMDD2026/` | 0501 onward. Each folder has its own readme + notebooks |
+| Archived experiments | `prior_experiments/` | Everything before 0501, plus the 2025 work. See `prior_experiments/readme.md` for the baseline + v1 + 2025 status updates |
 
 For the latest evaluation results, refer to the most recent `experiments_MMDD2026/` folder's readme. Specific metrics and costs are kept in the per-experiment writeups rather than here, to avoid this file going stale.

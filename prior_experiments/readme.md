@@ -1,8 +1,13 @@
-# Prior Experiments (Feb 2025 – Jul 2025)
+# Prior Experiments
 
-Historical experiments archived from the root README. The current pipeline and active experiments live at the repo root — see `../README.md`, `../comparison.md`, `../CLAUDE.md`, and the `experiments_MMDD2026/` folders for current state.
+Archived work. The current pipeline and active experiments live at the repo root — see `../README.md`, `../comparison.md`, `../CLAUDE.md`, and the `experiments_MMDD2026/` folders for current state.
 
-This folder contains all pre-2026 experimental work: baseline model selection, prompt-engineering iterations, dataset preparation, and the early stages of fine-grained classification.
+Two generations of work sit here:
+
+- **`experiments_MMDD2026/`, through 0408** — archived 2026-09-23. Model and prompt-version selection, the CLReplica sampling that later experiments still read through symlinks, and the first end-to-end pipeline builds. `CLAUDE.md` describes each one; later experiments cite their results, so the entries were kept there rather than moved.
+- **Everything else, Feb 2025 – Jul 2025** — documented below: baseline model selection, prompt-engineering iterations, dataset preparation, and the early stages of fine-grained classification.
+
+Paths inside the archived 2026 folders still resolve: 0402–0405 share sampled opinions through symlinks in `experiments_04022026/data/`, which were repointed at the repo-root `data/` when they moved.
 
 ---
 

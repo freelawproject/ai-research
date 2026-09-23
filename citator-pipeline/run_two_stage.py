@@ -4,9 +4,9 @@ Stage 1: Extract citations and identify which sections they appear in (Haiku or 
 Stage 2: Kimi classifies treatments using only the relevant section context.
 
 Usage:
-    python run_two_stage.py --output-dir ../experiments_04072026/data --evaluate
-    python run_two_stage.py --output-dir ../experiments_04082026/data --evaluate
-    python run_two_stage.py --output-dir ../experiments_04072026/data --postprocess-only
+    python run_two_stage.py --output-dir ../prior_experiments/experiments_04072026/data --evaluate
+    python run_two_stage.py --output-dir ../prior_experiments/experiments_04082026/data --evaluate
+    python run_two_stage.py --output-dir ../prior_experiments/experiments_04072026/data --postprocess-only
 """
 
 import argparse

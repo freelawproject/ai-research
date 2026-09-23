@@ -2,8 +2,8 @@
 harness (`triage/lib/citation_seed.py prepare|apply|score`, `openai_batch.sh run`)
 and the viewer work on the 10K set exactly as on the triage sample.
 
-    uv run --no-project python make_r2_annotator.py            # -> data/annotator_r2/
-    uv run --no-project python make_r2_annotator.py --limit 200  # a subset (pilot)
+    uv run --no-project python corpus/make_r2_annotator.py            # -> data/annotator_r2/
+    uv run --no-project python corpus/make_r2_annotator.py --limit 200  # a subset (pilot)
 
 Steps: (1) unpack data/cl20k_r2/blocks/*.jsonl.gz (pool selected|topup) into a
 sampler-shaped dir data/r2_sample/ — opinion_html/{cid}.json payloads
@@ -18,8 +18,8 @@ grouping_overrides/ (where seeding edits land).
 
 Then, from experiments_09022026/triage:
 
-    export CITSEED_ANNOT=/Users/rachel/Desktop/flp/ai-research/experiments_09092026/data/annotator_r2
-    export CITSEED_OUT=/Users/rachel/Desktop/flp/ai-research/experiments_09092026/data/citation_seed_r2
+    export CITSEED_ANNOT=$PWD/data/annotator_r2        # from the experiment root
+    export CITSEED_OUT=$PWD/data/citation_seed_r2
     python3 citation_seed.py prepare --seed-state --ids $(cat $CITSEED_ANNOT/ids.txt)
     bash openai_batch.sh run --name r2_gpt --model gpt-5.6-luna --prompt prompts/triage_citation_fixer_v8g.md \\
          --effort high --candidates --workers 32 --ids $(cat $CITSEED_ANNOT/ids.txt)
@@ -41,7 +41,8 @@ from datetime import date
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-TRIAGE = HERE.parent / "experiments_09022026" / "triage"
+EXP = HERE.parent                    # the experiment root; data/ lives there
+TRIAGE = EXP.parent / "experiments_09022026" / "triage"
 CL_LINK = re.compile(
     r'<a href="/opinion/(\d+)/[^"]*"(?:\s+aria-description="Citation for case: ([^"]*)")?[^>]*>(.*?)</a>', re.S)
 TAG = re.compile(r"<[^>]+>")
@@ -51,9 +52,9 @@ GROUP = {"scotus": "scotus", "fed_appellate": "circuit", "fed_district": "circui
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--blocks", default=str(HERE / "data" / "cl20k_r2" / "blocks"))
-    ap.add_argument("--sample-dir", default=str(HERE / "data" / "r2_sample"))
-    ap.add_argument("--out", default=str(HERE / "data" / "annotator_r2"))
+    ap.add_argument("--blocks", default=str(EXP / "data" / "cl20k_r2" / "blocks"))
+    ap.add_argument("--sample-dir", default=str(EXP / "data" / "r2_sample"))
+    ap.add_argument("--out", default=str(EXP / "data" / "annotator_r2"))
     ap.add_argument("--limit", type=int, help="only the first N clusters (pilot)")
     ap.add_argument("--pools", nargs="*", default=["selected", "topup"])
     a = ap.parse_args()
@@ -64,7 +65,8 @@ def main():
     today = date.today().isoformat()
     # pool membership comes from sample_metadata.csv: the sampler relabels
     # overflow rows to "topup" only there, after the blocks were written
-    pool_of = {r["cluster_id"]: r["pool"] for r in csv.DictReader(open(Path(a.blocks).parent / "sample_metadata.csv", encoding="utf-8"))}
+    with open(Path(a.blocks).parent / "sample_metadata.csv", encoding="utf-8") as fh:
+        pool_of = {r["cluster_id"]: r["pool"] for r in csv.DictReader(fh)}
     for blk in sorted(Path(a.blocks).glob("*.jsonl.gz")):
         with gzip.open(blk, "rt", encoding="utf-8") as f:
             for ln in f:

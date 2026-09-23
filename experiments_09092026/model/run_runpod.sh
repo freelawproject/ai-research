@@ -2,15 +2,21 @@
 # Pod-side runner: Task A (extraction) then Task B (coref linking).
 #
 #   bash run_runpod.sh                     # MODE=silver (default): eyecite-seeded silver set, select on val
-#   MODE=warm bash run_runpod.sh           # round 2: GPT-seeded train_gpt+train_llm, select on val_gpt,
+#   MODE=warm bash run_runpod.sh           # round 2: GPT-seeded train+train_high_quality, select on validation,
 #                                          #   init from ../init/*/best (silver checkpoints), lr 1e-5, 2 epochs
 #   MODE=cold bash run_runpod.sh           # round 2 control: same data, from the HF backbone, default lr/epochs
+#   MODE=r3link bash run_runpod.sh         # round 3: Task B only, injected no-antecedent Id./supra (negative result)
+#   MODE=r4link bash run_runpod.sh         # round 4: Task B only, lwin 64->128 with chunk recompute (the window test)
+#   MODE=r5link bash run_runpod.sh         # round 5: Task B only, warm from the r4 linker, + eyecite's grouping as an
+#                                          #   input channel (3 pair features, 20% case-level dropout); EYE=0 = control
+#                                          #   (same warm start + data + 2 more epochs, no channel) -> runs/*_r5ctl
 #   bash run_runpod.sh large-caselaw A     # extraction only (B = linking only)
 #   MAX_TRAIN=2000 bash run_runpod.sh      # cap training clusters (pilot)
 #   FLASH=1 bash run_runpod.sh             # build flash-attn (optional; sdpa default)
 #   bash run_runpod.sh                     # BATCH=auto: size extraction batch from VRAM (effective 16)
 #   BATCH=8 ACCUM=2 CKPT=0 bash run_runpod.sh   # manual override (ACCUM defaults to 16/BATCH)
-# Any MODE default can be overridden by env: TRAIN_SPLIT VAL_SPLIT EPOCHS LR_A LR_B INIT_A INIT_B SUFFIX.
+# Any MODE default can be overridden by env: TRAIN_SPLIT VAL_SPLIT EPOCHS LR_A LR_B INIT_A INIT_B SUFFIX
+# LWIN CTX CHUNK LINK_FLAGS (CHUNK = linker slice budget in tokens; lower it if the card is tight).
 set -euo pipefail
 cd "$(dirname "$0")"
 
@@ -21,6 +27,7 @@ if [ "${FLASH:-0}" = 1 ]; then
   pip install -q flash-attn --no-build-isolation || echo "flash-attn build failed (sdpa fallback)"
 fi
 
+export PYTORCH_CUDA_ALLOC_CONF=${PYTORCH_CUDA_ALLOC_CONF:-expandable_segments:True}
 BASE=${1:-large-caselaw}
 TASKS=${2:-AB}
 MODE=${MODE:-silver}
@@ -30,16 +37,71 @@ case "$MODE" in
     EPOCHS=${EPOCHS:-3}; LR_A=${LR_A:-3e-5}; LR_B=${LR_B:-2e-5}
     INIT_A=${INIT_A:-}; INIT_B=${INIT_B:-}; SUFFIX=${SUFFIX:-}; RESULTS=silver_runs.tar.gz ;;
   warm)
-    TRAIN_SPLIT=${TRAIN_SPLIT:-train_gpt,train_llm}; VAL_SPLIT=${VAL_SPLIT:-val_gpt}
+    TRAIN_SPLIT=${TRAIN_SPLIT:-train,train_high_quality}; VAL_SPLIT=${VAL_SPLIT:-validation}
     EPOCHS=${EPOCHS:-2}; LR_A=${LR_A:-1e-5}; LR_B=${LR_B:-1e-5}
     INIT_A=${INIT_A:-../init/extract_large-caselaw/best}
     INIT_B=${INIT_B:-../init/link_large-caselaw/best/model.pt}
     SUFFIX=${SUFFIX:-_warm}; RESULTS=r2_warm_runs.tar.gz ;;
   cold)
-    TRAIN_SPLIT=${TRAIN_SPLIT:-train_gpt,train_llm}; VAL_SPLIT=${VAL_SPLIT:-val_gpt}
+    TRAIN_SPLIT=${TRAIN_SPLIT:-train,train_high_quality}; VAL_SPLIT=${VAL_SPLIT:-validation}
     EPOCHS=${EPOCHS:-3}; LR_A=${LR_A:-3e-5}; LR_B=${LR_B:-2e-5}
     INIT_A=${INIT_A:-}; INIT_B=${INIT_B:-}; SUFFIX=${SUFFIX:-_cold}; RESULTS=r2_cold_runs.tar.gz ;;
-  *) echo "unknown MODE=$MODE (silver|warm|cold)" >&2; exit 2 ;;
+  r3link)
+    # round 3: linking only, same data + same warm start + same window as
+    # MODE=warm, so the ONLY difference vs link_large-caselaw_warm is the
+    # injected no-antecedent mentions. Widening the window is a separate
+    # experiment: at lwin=256 the retained activations are 4x and it OOMs,
+    # because chunking bounds the peak per call but training still holds every
+    # chunk until backward.
+    TASKS=B
+    TRAIN_SPLIT=${TRAIN_SPLIT:-train,train_high_quality}; VAL_SPLIT=${VAL_SPLIT:-validation}
+    EPOCHS=${EPOCHS:-2}; LR_A=${LR_A:-1e-5}; LR_B=${LR_B:-1e-5}
+    INIT_A=${INIT_A:-}
+    INIT_B=${INIT_B:-../init/link_large-caselaw/best/model.pt}
+    LWIN=${LWIN:-64}; CTX=${CTX:-128}    # round-2 values: dummies are the only variable
+    LINK_FLAGS=${LINK_FLAGS:---grad-checkpoint --dummies}
+    SUFFIX=${SUFFIX:-_r3}; RESULTS=r3_link_runs.tar.gz ;;
+  r4link)
+    # round 4: linking only, the WINDOW is the variable. Same data, warm start
+    # and 700-mention cap as MODE=warm; no injected dummies (round 3 showed they
+    # can't be told from real Id.s at this window and pushed id attach DOWN,
+    # 0.894 -> 0.808). lwin 64 -> 128 because 79.6% of round-2 windows hit the
+    # 64-subword cap, i.e. the model never saw the ctx=128 it was fetching.
+    # --chunk-checkpoint recomputes each slice in backward, so the wider window
+    # cannot OOM the way lwin=256 did in round 3 (38.8 GiB retained).
+    TASKS=B
+    TRAIN_SPLIT=${TRAIN_SPLIT:-train,train_high_quality}; VAL_SPLIT=${VAL_SPLIT:-validation}
+    EPOCHS=${EPOCHS:-2}; LR_A=${LR_A:-1e-5}; LR_B=${LR_B:-1e-5}
+    INIT_A=${INIT_A:-}
+    INIT_B=${INIT_B:-../init/link_large-caselaw/best/model.pt}
+    LWIN=${LWIN:-128}; CTX=${CTX:-128}
+    LINK_FLAGS=${LINK_FLAGS:---chunk-checkpoint}
+    SUFFIX=${SUFFIX:-_r4}; RESULTS=r4_link_runs.tar.gz ;;
+  r5link)
+    # round 5: linking only, the eyecite CHANNEL is the variable ("edit-formulated"
+    # linker: it starts from eyecite's groups for the spans eyecite found instead
+    # of from scratch). Warm start = the round-4 linker (its pair scorer is padded
+    # with zero columns for the 3 new features, so step 0 == r4), same data,
+    # window (lwin 128 / ctx 128), cap and chunk recompute as MODE=r4link. The
+    # channel is masked on EYE_DROPOUT of training cases so the model also works
+    # without eyecite; coref_test_noeye.json reports that condition. EYE=0 trains
+    # the identical control (r4 + 2 more epochs, no channel) so the delta is the
+    # channel and not the extra training.
+    TASKS=B
+    TRAIN_SPLIT=${TRAIN_SPLIT:-train,train_high_quality}; VAL_SPLIT=${VAL_SPLIT:-validation}
+    EPOCHS=${EPOCHS:-2}; LR_A=${LR_A:-1e-5}; LR_B=${LR_B:-1e-5}
+    INIT_A=${INIT_A:-}
+    INIT_B=${INIT_B:-../init/link_large-caselaw_r4/best/model.pt}
+    LWIN=${LWIN:-128}; CTX=${CTX:-128}
+    if [ "${EYE:-1}" = 1 ]; then
+      LINK_FLAGS=${LINK_FLAGS:---chunk-checkpoint --eyecite-feats --eyecite-dropout ${EYE_DROPOUT:-0.2}}
+      SUFFIX=${SUFFIX:-_r5}
+    else
+      LINK_FLAGS=${LINK_FLAGS:---chunk-checkpoint}
+      SUFFIX=${SUFFIX:-_r5ctl}
+    fi
+    RESULTS=r5_link_runs${SUFFIX}.tar.gz ;;
+  *) echo "unknown MODE=$MODE (silver|warm|cold|r3link|r4link|r5link)" >&2; exit 2 ;;
 esac
 for p in $INIT_A $INIT_B; do
   [ -e "$p" ] || { echo "ERROR: warm-start init $p not found (bundle built without R2=1?)" >&2; exit 1; }
@@ -89,7 +151,7 @@ if [[ "$TASKS" == *B* ]]; then
   python train_linking.py --base "$BASE" --device cuda $CAP --name "$NAME_B" \
       --train-split "$TRAIN_SPLIT" --val-split "$VAL_SPLIT" --epochs "$EPOCHS" --lr "$LR_B" \
       ${INIT_B:+--init "$INIT_B"} \
-      --lwin 64 --ctx 128 --grad-checkpoint \
+      --lwin "${LWIN:-64}" --ctx "${CTX:-128}" --chunk "${CHUNK:-32768}" ${LINK_FLAGS:---grad-checkpoint} \
       2>&1 | tee "${NAME_B}.log" || fails="$fails link"
 fi
 [ -n "$fails" ] && echo "FAILED:$fails" || echo "all runs OK"

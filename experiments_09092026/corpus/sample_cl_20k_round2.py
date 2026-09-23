@@ -3,10 +3,10 @@ training, oversampling opinions with negative-treatment language near a
 citation (the triage sample's "keyword" rule), excluding every cluster touched
 so far (benchmark, triage annotator, round-1 20K, earlier pools).
 
-Runs inside the courtlistener container (Django shell). Rachel runs it:
+Runs inside the courtlistener container (Django shell):
 
-    docker cp inputs/exclude_cluster_ids_round2.csv cl-django:/opt/courtlistener/
-    docker cp sample_cl_20k_round2.py cl-django:/opt/courtlistener/
+    docker cp corpus/exclude_ids/exclude_cluster_ids_round2.csv cl-django:/opt/courtlistener/
+    docker cp corpus/sample_cl_20k_round2.py cl-django:/opt/courtlistener/
     docker exec cl-django python manage.py shell -c "exec(open('sample_cl_20k_round2.py').read())"
     docker cp cl-django:/opt/courtlistener/cl20k_r2/ ./data/
 
@@ -22,7 +22,7 @@ KEYWORD_PER_CELL + CONTROL_PER_CELL clusters each; overflow pool tops the total 
     control clusters (80/20; the triage set was 5:1).
   * eligibility as round 1: Published, `html_with_citations` on every
     sub-opinion, >= MIN_CITE_SPANS spans, MIN..MAX text chars, not excluded.
-  * the exclude list (inputs/exclude_cluster_ids_round2.csv, 20,613 ids) is the
+  * the exclude list (corpus/exclude_ids/exclude_cluster_ids_round2.csv, 20,613 ids) is the
     union of: the 1,353-id round-1 exclusion (benchmark + April pool), the
     19,260 round-1 sampled clusters, the 422 triage annotator clusters and the
     383 benchmark clusters. No overlap with anything trained or evaluated on.
@@ -182,15 +182,16 @@ def write_reports(meta_rows, scanned, t0, final):
     for r in meta_rows:
         if r["pool"] in ("selected", "topup") and r["strong_terms"]:
             terms.update(r["strong_terms"].split("|"))
-    json.dump({"seed": SEED, "target_total": TARGET_TOTAL, "keyword_per_cell": KEYWORD_PER_CELL,
-               "control_per_cell": CONTROL_PER_CELL, "overflow_per_cell": OVERFLOW_PER_CELL,
-               "candidate_cap": CANDIDATE_CAP, "near_citation_chars": NEAR_CITATION_CHARS,
-               "min_text_chars": MIN_TEXT_CHARS, "max_text_chars": MAX_TEXT_CHARS, "min_cite_spans": MIN_CITE_SPANS,
-               "pools": dict(pools), "kinds_in_training_set": dict(kinds),
-               "in_training_set": pools["selected"] + pools["topup"], "strong_term_coverage": dict(terms.most_common()),
-               "scanned": sum(scanned.values()), "elapsed_s": round(time.time() - t0), "final": final,
-               "written": datetime.now(timezone.utc).isoformat()},
-              open(OUT / "summary.json", "w"), indent=1)
+    with open(OUT / "summary.json", "w", encoding="utf-8") as fh:
+        json.dump({"seed": SEED, "target_total": TARGET_TOTAL, "keyword_per_cell": KEYWORD_PER_CELL,
+                   "control_per_cell": CONTROL_PER_CELL, "overflow_per_cell": OVERFLOW_PER_CELL,
+                   "candidate_cap": CANDIDATE_CAP, "near_citation_chars": NEAR_CITATION_CHARS,
+                   "min_text_chars": MIN_TEXT_CHARS, "max_text_chars": MAX_TEXT_CHARS, "min_cite_spans": MIN_CITE_SPANS,
+                   "pools": dict(pools), "kinds_in_training_set": dict(kinds),
+                   "in_training_set": pools["selected"] + pools["topup"], "strong_term_coverage": dict(terms.most_common()),
+                   "scanned": sum(scanned.values()), "elapsed_s": round(time.time() - t0), "final": final,
+                   "written": datetime.now(timezone.utc).isoformat()},
+                  fh, indent=1)
 
 
 def main():
@@ -199,7 +200,8 @@ def main():
     (OUT / "blocks").mkdir(exist_ok=True)
     exclude = set()
     if EXCLUDE_CSV.exists():
-        exclude = {int(r["cluster_id"]) for r in csv.DictReader(open(EXCLUDE_CSV))}
+        with open(EXCLUDE_CSV, encoding="utf-8") as fh:
+            exclude = {int(r["cluster_id"]) for r in csv.DictReader(fh)}
     print(f"exclude list: {len(exclude)} clusters", flush=True)
     groups = court_groups()
     for g, ids in groups.items():

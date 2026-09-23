@@ -1,0 +1,43 @@
+{
+  "b3_precision": 0.9774580729507202,
+  "b3_recall": 0.9709631545805674,
+  "b3_f1": 0.97419978860011,
+  "n_mentions": 2960,
+  "attach": {
+    "all": {
+      "correct": 1753,
+      "total": 1810,
+      "rate": 0.9685082872928177
+    },
+    "eyecite": {
+      "correct": 1338,
+      "total": 1379,
+      "rate": 0.9702683103698332
+    },
+    "id": {
+      "correct": 279,
+      "total": 312,
+      "rate": 0.8942307692307693
+    },
+    "manual": {
+      "correct": 415,
+      "total": 431,
+      "rate": 0.962877030162413
+    },
+    "name": {
+      "correct": 425,
+      "total": 427,
+      "rate": 0.9953161592505855
+    },
+    "reporter": {
+      "correct": 884,
+      "total": 906,
+      "rate": 0.9757174392935982
+    },
+    "supra": {
+      "correct": 165,
+      "total": 165,
+      "rate": 1.0
+    }
+  }
+}

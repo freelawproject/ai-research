@@ -5,8 +5,9 @@
 # Idempotent; safe to run from a cron every 30 min. Log: data/citation_seed_r2/checker.log
 set -uo pipefail
 HERE="$(cd "$(dirname "$0")" && pwd)"
-TRIAGE="$HERE/../experiments_09022026/triage"
-export CITSEED_ANNOT="$HERE/data/annotator_r2" CITSEED_OUT="$HERE/data/citation_seed_r2"
+EXP="$(dirname "$HERE")"                 # the experiment root; data/ lives there
+TRIAGE="$EXP/../experiments_09022026/triage"
+export CITSEED_ANNOT="$EXP/data/annotator_r2" CITSEED_OUT="$EXP/data/citation_seed_r2"
 export OPENAI_KEY="${OPENAI_KEY:-$(conda run -n citator printenv OPENAI_KEY | tr -d '\r\n')}"
 LOG="$CITSEED_OUT/checker.log"
 cd "$TRIAGE"

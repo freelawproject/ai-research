@@ -8,9 +8,10 @@ select the best checkpoint. Isolated coref: gold mention spans are given
 later by feeding Task A's predicted spans.
 
   uv run python train_linking.py --base large-caselaw --device cuda
-Train = silver `train` records (eyecite coref clusters), selection on silver
-`val` (B³ F1), final report on human-verified `gold_dev` → `best/coref_test.json`.
-`gold_test` is never read.
+The three splits are arguments (`--train-split` / `--val-split` /
+`--test-split`). By default: train on `train`, select on `validation` by B³ F1
+each epoch, and report on the human-verified `gold_dev` records →
+`best/coref_test.json`. `gold_test` is never read.
 """
 
 from __future__ import annotations
@@ -20,108 +21,12 @@ import json
 import os
 
 import torch
-from torch.utils.data import Dataset
 from transformers import (
     AutoTokenizer, Trainer, TrainerCallback, TrainingArguments)
 
 import common as C
-from common import N_FEATS, build_candidates, mention_list
+from linking_data import Collator, LinkDataset, eval_coref
 from linking_model import AntecedentLinker
-from metrics import coref_report
-
-
-class LinkDataset(Dataset):
-    """One item = one citing case (prepared python structure)."""
-
-    def __init__(self, records, feats, tokenizer, ctx, lwin, K):
-        self.tok = tokenizer
-        self.ctx, self.lwin, self.K = ctx, lwin, K
-        self.cases = []
-        cases = C.by_case(records)
-        for cid, ops in cases.items():
-            ms = mention_list(ops, feats)
-            if not ms:
-                continue
-            self.cases.append(self._prep(cid, ops, ms))
-
-    def _prep(self, cid, ops, ms):
-        texts = {oi: o["text"] for oi, o in enumerate(ops)}
-        windows = []
-        for m in ms:
-            t = texts[m["opinion_idx"]]
-            w0 = max(0, m["start"] - self.ctx)
-            sub = t[w0:m["end"] + self.ctx]
-            rs, re_ = m["start"] - w0, m["end"] - w0
-            enc = self.tok(sub, truncation=True, max_length=self.lwin,
-                           return_offsets_mapping=True)
-            mm = [1 if (ce > cs and cs < re_ and ce > rs) else 0
-                  for cs, ce in enc["offset_mapping"]]
-            if not any(mm):              # mention truncated out — pool token 1
-                mm = [0] * len(enc["input_ids"])
-                if len(mm) > 1:
-                    mm[1] = 1
-                elif mm:
-                    mm[0] = 1
-            windows.append({"input_ids": enc["input_ids"],
-                            "attention_mask": enc["attention_mask"],
-                            "mention_mask": mm})
-        return {"cid": cid, "ms": ms, "windows": windows,
-                "gold": [m["gold"] for m in ms],
-                "kind": [m["kind"] for m in ms],
-                "source": [m["source"] for m in ms]}
-
-    def __len__(self):
-        return len(self.cases)
-
-    def __getitem__(self, i):
-        return self.cases[i]
-
-
-class Collator:
-    """Collate ONE case (batch_size=1) into [M, ...] tensors."""
-
-    def __init__(self, K):
-        self.K = K
-
-    def __call__(self, batch):
-        case = batch[0]
-        ms, wins = case["ms"], case["windows"]
-        M = len(ms)
-        L = max(len(w["input_ids"]) for w in wins)
-        ids = torch.zeros(M, L, dtype=torch.long)
-        am = torch.zeros(M, L, dtype=torch.long)
-        mm = torch.zeros(M, L, dtype=torch.long)
-        for r, w in enumerate(wins):
-            n = len(w["input_ids"])
-            ids[r, :n] = torch.tensor(w["input_ids"])
-            am[r, :n] = torch.tensor(w["attention_mask"])
-            mm[r, :n] = torch.tensor(w["mention_mask"])
-        cand, feats, gold_ante, gold_dummy = build_candidates(ms, self.K)
-        return {"input_ids": ids, "attention_mask": am, "mention_mask": mm,
-                "cand_idx": torch.tensor(cand, dtype=torch.long),
-                "pair_feats": torch.tensor(feats, dtype=torch.float),
-                "gold_ante": torch.tensor(gold_ante, dtype=torch.float),
-                "gold_dummy": torch.tensor(gold_dummy, dtype=torch.float)}
-
-
-def eval_coref(model, ds, coll):
-    """Cluster every case in ``ds`` (union-find over argmax antecedents) and
-    score B³ + attachment. Used both for per-epoch val selection and the final
-    held-out test pass."""
-    dev = next(model.parameters()).device
-    was_training = model.training
-    model.eval()
-    g, p, k, s = [], [], [], []
-    for case in ds.cases:
-        batch = coll([case])
-        batch = {kk: v.to(dev) for kk, v in batch.items()}
-        pred = model.predict_clusters(batch)
-        g.append(case["gold"]); p.append(pred)
-        k.append(case["kind"]); s.append(case["source"])
-    rep = coref_report(g, p, k, s)
-    if was_training:
-        model.train()
-    return rep
 
 
 class CorefEvalCallback(TrainerCallback):
@@ -146,11 +51,33 @@ class CorefEvalCallback(TrainerCallback):
                 json.dumps(rep, indent=2))
 
 
+def load_init(model, state):
+    """Load a warm-start state; when the checkpoint's pair scorer has FEWER
+    feature columns than the model (a round-4 linker into the eyecite-channel
+    model), keep its weights for the shared columns and start the new columns
+    at zero, so training begins exactly where the old model was. Returns the
+    number of padded columns (0 = plain load)."""
+    key = "pair.0.weight"
+    padded = 0
+    cur = model.state_dict()
+    if key in state and state[key].shape != cur[key].shape:
+        old, new = state[key], cur[key]
+        if old.shape[0] != new.shape[0] or old.shape[1] > new.shape[1]:
+            raise ValueError(f"{key}: cannot adapt {tuple(old.shape)} -> {tuple(new.shape)}")
+        w = torch.zeros_like(new)
+        w[:, :old.shape[1]] = old
+        state = dict(state)
+        state[key] = w
+        padded = new.shape[1] - old.shape[1]
+    model.load_state_dict(state)
+    return padded
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--base", default="base-dapt")
     ap.add_argument("--train-split", default="train")
-    ap.add_argument("--val-split", default="val")
+    ap.add_argument("--val-split", default="validation")
     ap.add_argument("--test-split", default="gold_dev")
     ap.add_argument("--max-train-docs", type=int, default=None)
     ap.add_argument("--max-val-docs", type=int, default=400)
@@ -162,15 +89,38 @@ def main():
     ap.add_argument("--cand", type=int, default=256,
                     help="max antecedents K (256 → only 0.4%% of same-cluster "
                          "mentions have no in-window antecedent; 512 → none)")
+    ap.add_argument("--chunk", type=int, default=32768,
+                    help="AntecedentLinker slice budget: tokens per encoder call "
+                         "(and candidate-pairs per scorer call). Sized in tokens "
+                         "so it costs the same when --lwin changes; caps peak "
+                         "memory independently of how many mentions a case has")
+    ap.add_argument("--max-mentions", type=int, default=700,
+                    help="skip cases with more than this many real mentions — "
+                         "training retains every chunk's activations, so the "
+                         "rare consolidated opinion still OOMs even chunked")
+    ap.add_argument("--dummies", action="store_true",
+                    help="inject untagged Id./Ibid./supra as no-antecedent mentions "
+                         "(round 3; hurt id attach 0.894 -> 0.808, off by default)")
     ap.add_argument("--grad-checkpoint", action="store_true",
-                    help="gradient checkpointing on the encoder (memory save "
-                         "for --base large / big cases)")
+                    help="HF layer-wise gradient checkpointing inside the encoder")
+    ap.add_argument("--chunk-checkpoint", action="store_true",
+                    help="recompute each mention slice during backward instead of "
+                         "retaining it (AntecedentLinker recompute=True): peak "
+                         "memory becomes independent of case size AND window "
+                         "width. Supersedes --grad-checkpoint; both on = "
+                         "recompute inside recompute")
     ap.add_argument("--max-steps", type=int, default=-1)
     ap.add_argument("--device", choices=["mps", "cpu", "cuda"], default=None)
     ap.add_argument("--name", default=None)
     ap.add_argument("--init", default=None,
                     help="warm start: a trained linker state (runs/<name>/best/model.pt) loaded over the "
-                         "--base-initialised module before training")
+                         "--base-initialised module before training; a state trained without the eyecite "
+                         "channel is padded (new feature columns start at zero)")
+    ap.add_argument("--eyecite-feats", action="store_true",
+                    help="round 5: feed eyecite's own grouping (mention_features eyecite_gid) as 3 extra pair "
+                         "features — the linker starts from eyecite's groups instead of from scratch")
+    ap.add_argument("--eyecite-dropout", type=float, default=0.2,
+                    help="share of training cases whose eyecite channel is masked (with --eyecite-feats)")
     args = ap.parse_args()
     if args.device is None:
         args.device = ("cuda" if torch.cuda.is_available()
@@ -188,21 +138,29 @@ def main():
     test_recs = C.select(records, args.test_split)
 
     tok = AutoTokenizer.from_pretrained(base_id)
-    train_ds = LinkDataset(train_recs, feats, tok, args.ctx, args.lwin, args.cand)
-    val_ds = LinkDataset(val_recs, feats, tok, args.ctx, args.lwin, args.cand)
-    test_ds = LinkDataset(test_recs, feats, tok, args.ctx, args.lwin, args.cand)
+    inject = args.dummies
+    mm = args.max_mentions
+    train_ds = LinkDataset(train_recs, feats, tok, args.ctx, args.lwin, args.cand, inject, mm)
+    val_ds = LinkDataset(val_recs, feats, tok, args.ctx, args.lwin, args.cand, inject, mm)
+    test_ds = LinkDataset(test_recs, feats, tok, args.ctx, args.lwin, args.cand, inject, mm)
     print(f"{len(train_ds)} train / {len(val_ds)} val / {len(test_ds)} {args.test_split} cases")
 
     attn = "sdpa" if args.device in ("mps", "cpu") else None
-    model = AntecedentLinker(base_id, N_FEATS, attn_impl=attn)
+    nf = n_feats(args.eyecite_feats)
+    model = AntecedentLinker(base_id, nf, attn_impl=attn, chunk=args.chunk,
+                             recompute=args.chunk_checkpoint)
+    if args.chunk_checkpoint and args.grad_checkpoint:
+        print("note: --chunk-checkpoint already recomputes each slice; "
+              "--grad-checkpoint on top means recompute inside recompute")
     if args.init:
         init_pt = args.init if args.init.endswith(".pt") else os.path.join(args.init, "model.pt")
-        model.load_state_dict(torch.load(init_pt, map_location="cpu"))
-        print(f"warm start from {init_pt}")
+        padded = load_init(model, torch.load(init_pt, map_location="cpu"))
+        print(f"warm start from {init_pt}" + (f" (padded {padded} new feature columns with zeros)" if padded else ""))
     if args.grad_checkpoint:
         model.encoder.gradient_checkpointing_enable(
             gradient_checkpointing_kwargs={"use_reentrant": False})
-    coll = Collator(args.cand)
+    coll = Collator(args.cand, args.eyecite_feats, args.eyecite_dropout)
+    eval_coll = Collator(args.cand, args.eyecite_feats)          # never masked at eval
 
     targs = TrainingArguments(
         output_dir=str(out),
@@ -220,7 +178,7 @@ def main():
                       data_collator=coll)
     cb = None
     if args.max_steps < 0:
-        cb = CorefEvalCallback(trainer, val_ds, coll, out)
+        cb = CorefEvalCallback(trainer, val_ds, eval_coll, out)
         trainer.add_callback(cb)
     trainer.train()
     if args.max_steps < 0:
@@ -231,12 +189,18 @@ def main():
         if best_pt.exists():
             model.load_state_dict(torch.load(best_pt, map_location="cpu"))
             model.to(next(model.parameters()).device)
-        test_rep = eval_coref(model, test_ds, coll)
+        test_rep = eval_coref(model, test_ds, eval_coll)
         (out / "best" / "coref_test.json").write_text(
             json.dumps(test_rep, indent=2))
         print(f"\nbest val B3 F1 = {cb.best:.3f}  |  "
               f"held-out test B3 F1 = {test_rep['b3_f1']:.3f} "
               f"(saved to {out / 'best'})")
+        if args.eyecite_feats:
+            # the same model with the eyecite channel masked on every case: what
+            # it does when eyecite is not run in front of it
+            noeye = eval_coref(model, test_ds, Collator(args.cand, True, 1.0))
+            (out / "best" / "coref_test_noeye.json").write_text(json.dumps(noeye, indent=2))
+            print(f"  without the eyecite channel: test B3 F1 = {noeye['b3_f1']:.3f}")
     else:
         print("smoke run finished OK")
 

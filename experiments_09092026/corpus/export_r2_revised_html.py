@@ -7,8 +7,8 @@ Runs the viewer's `revised_citation_html` in-process against the round-2 root
 (no server needed). Env must point the viewer at the root BEFORE app is
 imported — use the wrapper:
 
-    bash export_r2_revised_html.sh                 # all seeded clusters
-    bash export_r2_revised_html.sh --limit 20      # smoke
+    bash corpus/export_r2_revised_html.sh              # all seeded clusters
+    bash corpus/export_r2_revised_html.sh --limit 20   # smoke
 
 Clusters are exported only if their grouping override carries
 `llm_citation_pass` (GPT edits applied). Clusters GPT failed on or refused
@@ -27,9 +27,13 @@ import sys
 import time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-BENCH = "/Users/rachel/Desktop/flp/citator-benchmark"
-ROOT = os.path.join(HERE, "data", "annotator_r2")
-SEED = os.path.join(HERE, "data", "citation_seed_r2")
+EXP = os.path.dirname(HERE)          # the experiment root; data/ lives there
+# the citator-benchmark checkout, whose viewer code does the rendering;
+# sibling of the ai-research checkout by default, CITATOR_BENCH to override
+BENCH = os.environ.get("CITATOR_BENCH",
+                       os.path.join(EXP, "..", "..", "citator-benchmark"))
+ROOT = os.path.join(EXP, "data", "annotator_r2")
+SEED = os.path.join(EXP, "data", "citation_seed_r2")
 sys.path.insert(0, BENCH)
 import app  # noqa: E402  (reads CITATOR_BENCH_* env at import; set by the .sh wrapper)
 
@@ -41,11 +45,13 @@ def main():
     ap.add_argument("--force", action="store_true", help="rewrite files that already exist")
     a = ap.parse_args()
     if os.path.realpath(app.DATA_DIR) != os.path.realpath(os.path.join(a.root, "data")):
-        sys.exit(f"viewer DATA_DIR is {app.DATA_DIR}, not {a.root}/data — run via export_r2_revised_html.sh")
-    ids = open(os.path.join(a.root, "ids.txt")).read().split()
+        sys.exit(f"viewer DATA_DIR is {app.DATA_DIR}, not {a.root}/data — run via corpus/export_r2_revised_html.sh")
+    with open(os.path.join(a.root, "ids.txt"), encoding="utf-8") as fh:
+        ids = fh.read().split()
     failed = {}
     for f in glob.glob(os.path.join(SEED, "batches", "*.errors.json")):
-        failed.update(json.load(open(f)))
+        with open(f, encoding="utf-8") as fh:
+            failed.update(json.load(fh))
     out_dir = os.path.join(app.DATA_DIR, "revised_html")
     os.makedirs(out_dir, exist_ok=True)
     seeded, unseeded, written, skipped, missing = [], [], 0, 0, 0
@@ -54,7 +60,11 @@ def main():
         if cid in failed:
             continue
         ov_path = os.path.join(app.DATA_DIR, "grouping_overrides", f"{cid}.json")
-        if not (os.path.exists(ov_path) and json.load(open(ov_path)).get("llm_citation_pass")):
+        seeded = False
+        if os.path.exists(ov_path):
+            with open(ov_path, encoding="utf-8") as fh:
+                seeded = bool(json.load(fh).get("llm_citation_pass"))
+        if not seeded:
             unseeded.append(cid)
             continue
         seeded.append(cid)

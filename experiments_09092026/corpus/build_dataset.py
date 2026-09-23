@@ -17,21 +17,22 @@ Text normalization is identical for silver and gold: block tags -> newline,
 tags stripped, entities unescaped, whitespace collapsed to single spaces;
 offsets are into that text (what the model is fed).
 
-    uv run python build_dataset.py --blocks "data/cl20k/blocks/*.jsonl.gz" \\
+    uv run python corpus/build_dataset.py --blocks "data/cl20k/blocks/*.jsonl.gz" \\
         --gold-revised ../experiments_09022026/triage/data/annotator/data/revised_html \\
         --gold-splits ../experiments_09022026/triage/inputs/splits.csv [--validate]
     # smoke on the triage sample instead of the 20K blocks:
-    uv run python build_dataset.py --payload-dir ../experiments_09022026/triage/data/annotator/data/opinion_html …
+    uv run python corpus/build_dataset.py --payload-dir ../experiments_09022026/triage/data/annotator/data/opinion_html …
 
 Output: data/output/citations.jsonl — one record per rendered opinion:
   {citing_cluster_id, opinion_id, opinion_idx, opinion_type, split, text,
    mentions:[{start,end,text,source,cluster}], negatives:[{start,end,text,reason}]}
-split ∈ train | val (VAL_FRAC of silver clusters, by cluster hash) | gold_dev | gold_test
-      | train_llm (triage train clusters with Opus-corrected revised_html, --llm-train-ids)
-      | train_gpt / val_gpt (round-2 GPT-seeded clusters, --gpt-train-revised/--gpt-train-ids).
+split ∈ train | validation (a --gpt-val-frac slice of the LLM-corrected clusters, by
+        cluster hash) | train_high_quality (clusters whose labels had a second, stronger
+        correction pass, --llm-train-ids) | gold_dev | gold_test (human-verified).
+        A silver-only build (--blocks, no --gpt-train-*) tags its held-out slice `val`.
 
 Round 2 (GPT-seeded 10K, no silver blocks — warm start already carries them):
-    uv run --no-project python build_dataset.py \\
+    uv run --no-project python corpus/build_dataset.py \\
         --gold-revised ../experiments_09022026/triage/data/annotator/data/revised_html \\
         --gold-splits ../experiments_09022026/triage/inputs/splits.csv \\
         --llm-train-ids ../experiments_09022026/triage/data/citation_seed/train_seeded_ids.txt \\
@@ -50,8 +51,16 @@ import os
 import re
 from collections import Counter
 
+
+def read_text(path):
+    """Whole file as text, UTF-8."""
+    with open(path, encoding="utf-8") as f:
+        return f.read()
+
+
 HERE = os.path.dirname(os.path.abspath(__file__))
-OUT = os.path.join(HERE, "data", "output", "citations.jsonl")
+EXP = os.path.dirname(HERE)          # the experiment root; data/ lives there
+OUT = os.path.join(EXP, "data", "output", "citations.jsonl")
 
 CIT_SPAN = re.compile(r'<span class="citation(?P<extra>[^"]*)"(?P<attrs>[^>]*)>(?P<inner>.*?)</span>', re.DOTALL)
 HREF_ID = re.compile(r'href="/opinion/(\d+)/')
@@ -154,12 +163,12 @@ def silver_records(payload, split):
             href, chref, did = HREF_ID.search(inner_html), C_HREF.search(inner_html), DATA_ID.search(attrs)
             seed = (f"c{href.group(1)}" if href else f"cite:{chref.group(1)}" if chref
                     else f"d{did.group(1)}" if did else f"solo:{key}")
-            meta[key] = {"cluster": gid_for(seed), "resolved": bool(href)}
+            meta[key] = {"group": gid_for(seed), "resolved": bool(href)}
             return f"{S1}{key}{S2}{inner_html}{S3}"
 
         marked = CIT_SPAN.sub(annotate, op.get("html", ""))
         text, hits = spans_to_records(strip_html_keep_marks(marked), meta)
-        mentions = [{"start": s, "end": e, "text": text[s:e], "source": "eyecite", "cluster": mt["cluster"]}
+        mentions = [{"start": s, "end": e, "text": text[s:e], "source": "eyecite", "group": mt["group"]}
                     for s, e, mt in hits]
         recs.append({"citing_cluster_id": cid, "opinion_id": op["id"], "opinion_idx": oi,
                      "opinion_type": str(op.get("type") or ""), "split": split, "text": text,
@@ -182,7 +191,7 @@ def gold_records(html, cid, split):
             if m.group("cite") is not None:
                 g = GROUP.search(m.group("attrs"))
                 ch = CHANGE.search(m.group("attrs"))
-                meta[key] = {"kind": "cite", "cluster": g.group(1) if g else "", "change": ch.group(1) if ch else ""}
+                meta[key] = {"kind": "cite", "group": g.group(1) if g else "", "change": ch.group(1) if ch else ""}
                 inner = m.group("cite")
             else:
                 meta[key] = {"kind": "noncite"}
@@ -192,7 +201,7 @@ def gold_records(html, cid, split):
         parts.append(body[pos:])
         text, hits = spans_to_records(strip_html_keep_marks("".join(parts)), meta)
         mentions = [{"start": s, "end": e, "text": text[s:e],
-                     "source": "manual" if mt["change"] == "added" else "eyecite", "cluster": mt["cluster"]}
+                     "source": "manual" if mt["change"] == "added" else "eyecite", "group": mt["group"]}
                     for s, e, mt in hits if mt["kind"] == "cite"]
         negatives = [{"start": s, "end": e, "text": text[s:e], "reason": "removed"}
                      for s, e, mt in hits if mt["kind"] == "noncite"]
@@ -219,7 +228,8 @@ def iter_payloads(blocks, payload_dir, pools):
     if payload_dir:
         for fn in sorted(os.listdir(payload_dir)):
             if fn.endswith(".json") and not fn.endswith(".cl.json"):
-                yield json.load(open(os.path.join(payload_dir, fn), encoding="utf-8"))
+                with open(os.path.join(payload_dir, fn), encoding="utf-8") as fh:
+                    yield json.load(fh)
 
 
 def main():
@@ -230,11 +240,11 @@ def main():
     ap.add_argument("--gold-revised", help="dir of revised_html/{cid}.html")
     ap.add_argument("--gold-splits", help="splits.csv (cluster_id, split=dev|test)")
     ap.add_argument("--llm-train-ids", help="ids file: train clusters whose revised_html carries LLM-corrected "
-                                            "(Opus v5) grouping -> split train_llm (gold-format records, not silver)")
+                                            "(Opus v5) grouping -> split train_high_quality (gold-format records, not silver)")
     ap.add_argument("--gpt-train-revised", help="round-2: dir of revised_html/{cid}.html exported from the GPT-seeded "
                                                 "annotator root (export_r2_revised_html.sh)")
     ap.add_argument("--gpt-train-ids", help="round-2: ids file (annotator_r2/ids_seeded.txt) -> gold-format records "
-                                            "tagged train_gpt, with --gpt-val-frac of the clusters (by hash) tagged val_gpt")
+                                            "tagged train, with --gpt-val-frac of the clusters (by hash) tagged validation")
     ap.add_argument("--gpt-val-frac", type=float, default=0.02)
     ap.add_argument("--val-frac", type=float, default=0.02)
     ap.add_argument("--out", default=OUT)
@@ -245,7 +255,8 @@ def main():
     gold_ids = set()
     with open(a.out, "w", encoding="utf-8") as out:
         if a.gold_revised and a.gold_splits:
-            sp = {r["cluster_id"]: r["split"] for r in csv.DictReader(open(a.gold_splits))}
+            with open(a.gold_splits, encoding="utf-8") as fh:
+                sp = {r["cluster_id"]: r["split"] for r in csv.DictReader(fh)}
             for cid, s in sp.items():
                 if s not in ("dev", "test"):
                     continue
@@ -254,28 +265,28 @@ def main():
                     stats["gold_missing_html"] += 1  # zero-byte files came from a viewer bug (2026-09-09); regenerate, do not emit empties
                     continue
                 gold_ids.add(int(cid))
-                for r in gold_records(open(path, encoding="utf-8").read(), cid, f"gold_{s}"):
+                for r in gold_records(read_text(path), cid, f"gold_{s}"):
                     out.write(json.dumps(r, ensure_ascii=False) + "\n")
                     stats[f"rec_gold_{s}"] += 1
                     stats[f"men_gold_{s}"] += len(r["mentions"])
         if a.gold_revised and a.llm_train_ids:
-            for cid in open(a.llm_train_ids).read().split():
+            for cid in read_text(a.llm_train_ids).split():
                 path = os.path.join(a.gold_revised, f"{cid}.html")
                 if not os.path.exists(path) or os.path.getsize(path) == 0:
                     stats["llm_train_missing_html"] += 1
                     continue
                 gold_ids.add(int(cid))
-                for r in gold_records(open(path, encoding="utf-8").read(), cid, "train_llm"):
+                for r in gold_records(read_text(path), cid, "train_high_quality"):
                     if not r["mentions"]:
                         continue
                     out.write(json.dumps(r, ensure_ascii=False) + "\n")
-                    stats["rec_train_llm"] += 1
-                    stats["men_train_llm"] += len(r["mentions"])
+                    stats["rec_train_high_quality"] += 1
+                    stats["men_train_high_quality"] += len(r["mentions"])
         if a.gpt_train_revised and a.gpt_train_ids:
             # round-2 GPT-seeded clusters: gold-format records (the revised HTML carries
-            # GPT's adds/removes/regroups); a hashed slice is held out as val_gpt so the
+            # GPT's adds/removes/regroups); a hashed slice is held out as validation so the
             # trainers can select on same-distribution labels instead of eyecite silver.
-            for cid in open(a.gpt_train_ids).read().split():
+            for cid in read_text(a.gpt_train_ids).split():
                 path = os.path.join(a.gpt_train_revised, f"{cid}.html")
                 if not os.path.exists(path) or os.path.getsize(path) == 0:
                     stats["gpt_train_missing_html"] += 1
@@ -284,8 +295,8 @@ def main():
                     stats["gpt_train_skipped_gold"] += 1
                     continue
                 gold_ids.add(int(cid))
-                split = "val_gpt" if val_split(cid, a.gpt_val_frac) == "val" else "train_gpt"
-                for r in gold_records(open(path, encoding="utf-8").read(), cid, split):
+                split = "validation" if val_split(cid, a.gpt_val_frac) == "val" else "train"
+                for r in gold_records(read_text(path), cid, split):
                     if not r["mentions"]:
                         stats["rec_empty_dropped"] += 1
                         continue
@@ -297,7 +308,7 @@ def main():
                     stats[f"men_{split}"] += len(r["mentions"])
                     stats[f"men_{split}_manual"] += sum(m["source"] == "manual" for m in r["mentions"])
                     stats[f"neg_{split}"] += len(r["negatives"])
-                    stats[f"clusters_{split}"] += len({m["cluster"] for m in r["mentions"]})
+                    stats[f"groups_{split}"] += len({m["group"] for m in r["mentions"]})
         for payload in iter_payloads(a.blocks, a.payload_dir, set(a.pools)):
             cid = int(payload["cluster_id"])
             if cid in gold_ids:
@@ -314,11 +325,12 @@ def main():
                 out.write(json.dumps(r, ensure_ascii=False) + "\n")
                 stats[f"rec_{split}"] += 1
                 stats[f"men_{split}"] += len(r["mentions"])
-                stats[f"clusters_{split}"] += len({m["cluster"] for m in r["mentions"]})
+                stats[f"groups_{split}"] += len({m["group"] for m in r["mentions"]})
     # stats sit next to the output, named after it: citations.jsonl -> stats.json, citations_r2.jsonl -> stats_r2.json
     stats_path = os.path.join(os.path.dirname(a.out),
                               "stats" + os.path.basename(a.out).replace("citations", "", 1).replace(".jsonl", ".json"))
-    json.dump(dict(stats), open(stats_path, "w"), indent=1)
+    with open(stats_path, "w", encoding="utf-8") as f:
+        json.dump(dict(stats), f, indent=1)
     print(json.dumps(dict(stats), indent=1))
     print("wrote", a.out)
 

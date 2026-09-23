@@ -50,16 +50,18 @@ experiments_06142026/viewer/.venv/
 experiments_09022026/triage/data/
 experiments_09022026/triage/inputs/
 experiments_09092026/data/
-experiments_09092026/inputs/
-
-# experiments_09092026 pod tarballs (code+data bundle, patch), fetched checkpoints, pod logs, uv venv
+# experiments_09092026: pod bundles, the checkpoint landing zone (runs/, filled by
+# downloading from Hugging Face — see results/README.md), raw training logs, uv venv
 experiments_09092026/*.tar.gz
 experiments_09092026/runs/
-experiments_09092026/finetune/runs/
-experiments_09092026/finetune/.venv/
+experiments_09092026/results/logs/
+experiments_09092026/model/.venv/
 experiments_09092026/*.log
-experiments_09092026/finetune/*.log
 experiments_09022026/triage/*.log
 
 experiments_09112026/data/
 experiments_09112026/.env
+
+# viewer uv venvs + nohup logs (dev_compare_viewer :8240)
+experiments_09022026/triage/dev_compare_viewer/.venv/
+experiments_09022026/triage/dev_compare_viewer/server.log

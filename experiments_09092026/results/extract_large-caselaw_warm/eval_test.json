@@ -1,0 +1,15 @@
+{
+  "test_loss": 0.012074441649019718,
+  "test_span_precision": 0.8942372881355932,
+  "test_span_recall": 0.8912162162162162,
+  "test_span_f1": 0.8927241962774958,
+  "test_manual_recall": 0.7244258872651357,
+  "test_neg_tagged_rate": 0.013297872340425532,
+  "test_tp": 2638.0,
+  "test_fp": 312.0,
+  "test_fn": 322.0,
+  "test_runtime": 12.0477,
+  "test_samples_per_second": 10.126,
+  "test_steps_per_second": 2.573,
+  "epoch": 2.0
+}

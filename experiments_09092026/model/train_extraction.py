@@ -8,11 +8,12 @@ precision by NOT tagging them; eval reports how often it does.
 
 HF Trainer + AutoModelForTokenClassification.
   uv run python train_extraction.py --base large-caselaw --device cuda
-Train = silver `train` records (eyecite labels), selection on silver `val`
-(`eval_span_f1`, evaluated every --eval-steps), final report on the
-human-verified `gold_dev` records → `eval_test.json` (span P/R/F1, recall on
-the curator-added mentions eyecite missed, rate of tagging curator-removed
-spans). `gold_test` is never read.
+The three splits are arguments (`--train-split` / `--val-split` /
+`--test-split`). By default: train on `train`, select on `validation` by
+`eval_span_f1` every --eval-steps, and report on the human-verified `gold_dev`
+records → `eval_test.json` (span P/R/F1, recall on the curator-added mentions
+eyecite missed, rate of tagging curator-removed spans). `gold_test` is never
+read.
 """
 
 from __future__ import annotations
@@ -96,7 +97,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--base", default="base-dapt")
     ap.add_argument("--train-split", default="train")
-    ap.add_argument("--val-split", default="val")
+    ap.add_argument("--val-split", default="validation")
     ap.add_argument("--test-split", default="gold_dev")
     ap.add_argument("--max-train-docs", type=int, default=None, help="cap on training clusters")
     ap.add_argument("--max-val-docs", type=int, default=400, help="cap on val clusters (eval speed)")

@@ -1,10 +1,10 @@
 """Sample ~20,000 published opinions with eyecite-seeded `html_with_citations`
 from CLReplica for the citation extraction + coreference encoder (silver labels).
 
-Runs inside the courtlistener container (Django shell). Rachel runs it:
+Runs inside the courtlistener container (Django shell):
 
-    docker cp inputs/exclude_cluster_ids.csv cl-django:/opt/courtlistener/
-    docker cp sample_cl_20k.py cl-django:/opt/courtlistener/
+    docker cp corpus/exclude_ids/exclude_cluster_ids.csv cl-django:/opt/courtlistener/
+    docker cp corpus/sample_cl_20k.py cl-django:/opt/courtlistener/
     docker exec cl-django python manage.py shell -c "exec(open('sample_cl_20k.py').read())"
     docker cp cl-django:/opt/courtlistener/cl20k/ ./data/
 
@@ -108,7 +108,8 @@ def main():
     (OUT / "blocks").mkdir(exist_ok=True)
     exclude = set()
     if EXCLUDE_CSV.exists():
-        exclude = {int(r["cluster_id"]) for r in csv.DictReader(open(EXCLUDE_CSV))}
+        with open(EXCLUDE_CSV, encoding="utf-8") as fh:
+            exclude = {int(r["cluster_id"]) for r in csv.DictReader(fh)}
     print(f"exclude list: {len(exclude)} clusters")
     groups = court_groups()
     for g, ids in groups.items():

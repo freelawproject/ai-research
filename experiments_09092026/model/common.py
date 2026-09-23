@@ -1,15 +1,15 @@
-"""Shared data + alignment helpers for the citation extraction + coref
-finetune (experiments_09092026: eyecite-seeded silver training, gold eval;
-ported from experiments_06142026/finetune). Two SEPARATE models (decided): an extraction token
-classifier (Task A) and an antecedent-ranking linker (Task B), both on the
-same ModernBERT backbone choices. This module holds everything that is pure
-data wrangling — kept tokenizer-agnostic and unit-testable.
+"""Shared data + alignment helpers for the citation extraction and
+coreference models. Two SEPARATE models on the same ModernBERT backbone: an
+extraction token classifier (Task A) and an antecedent-ranking linker
+(Task B). This module holds everything that is pure data wrangling — kept
+tokenizer-agnostic and unit-testable.
 
-Data in:  ../data/output/citations.jsonl       (built by ../build_dataset.py)
-          ../data/output/mention_features.jsonl (built by ../mention_features.py)
-Splits are record tags: train | val (silver, eyecite labels) | gold_dev |
-gold_test (human-verified). Training selects on val, reports on gold_dev;
-gold_test is never touched by this code.
+Data in:  ../data/output/citations.jsonl        (built by ../corpus/build_dataset.py)
+          ../data/output/mention_features.jsonl (built by ../corpus/mention_features.py)
+Every record carries a split tag: train, validation, train_high_quality,
+gold_dev, gold_test — the last two human-verified (the round-1 silver build
+tags its held-out slice `val` instead). Training selects on validation and
+reports on gold_dev; gold_test is never touched by this code.
 """
 
 from __future__ import annotations
@@ -59,8 +59,9 @@ LABEL2ID = {v: k for k, v in ID2LABEL.items()}
 
 # ---------------- loading ----------------
 def load_records(path=JSONL):
-    """One record per rendered opinion (see build_dataset.py)."""
-    return [json.loads(ln) for ln in open(path) if ln.strip()]
+    """One record per rendered opinion (see corpus/build_dataset.py)."""
+    with open(path, encoding="utf-8") as f:
+        return [json.loads(ln) for ln in f if ln.strip()]
 
 
 def by_case(records):
@@ -76,21 +77,27 @@ def load_features(path=FEATS):
     out = {}
     if not Path(path).exists():
         return out
-    for ln in open(path):
-        if not ln.strip():
-            continue
-        f = json.loads(ln)
-        out[(f["citing_cluster_id"], f["opinion_idx"], f["start"])] = f
+    with open(path, encoding="utf-8") as fh:
+        for ln in fh:
+            if not ln.strip():
+                continue
+            f = json.loads(ln)
+            out[(f["citing_cluster_id"], f["opinion_idx"], f["start"])] = f
     return out
 
 
 # ---------------- splits (record tags) ----------------
 def select(records, split, max_docs=None, seed=42):
     """Records whose ``split`` tag matches (``split`` may be a comma-separated
-    list, e.g. "train_gpt,train_llm"); optional deterministic cap on the
+    list, e.g. "train,train_high_quality"); optional deterministic cap on the
     number of citing clusters (shuffled by a fixed seed, whole clusters kept)."""
     wanted = {s.strip() for s in split.split(",") if s.strip()}
     recs = [r for r in records if r.get("split") in wanted]
+    if not recs:
+        # A split name that matches nothing is almost always a typo or a build
+        # mismatch; silently training on an empty set wastes a GPU run.
+        have = sorted({r["split"] for r in records if r.get("split")})
+        raise ValueError(f"no records tagged {sorted(wanted)}; this build has {have}")
     if max_docs is None:
         return recs
     cids = sorted({r["citing_cluster_id"] for r in recs})
@@ -143,7 +150,12 @@ def spans_in_window(mentions, w_start, w_end):
 
 
 # ---------------- linking: mentions, features, candidates (torch-free) ----
-N_FEATS = 7
+N_FEATS = 7          # legal pair features (rounds 1-4)
+N_EYE_FEATS = 3      # round 5: eyecite's own grouping as an input channel
+
+
+def n_feats(eyecite=False):
+    return N_FEATS + (N_EYE_FEATS if eyecite else 0)
 
 
 def mention_list(ops, feats):
@@ -156,20 +168,26 @@ def mention_list(ops, feats):
             ms.append({
                 "text": m["text"], "opinion_idx": oi,
                 "start": m["start"], "end": m["end"],
-                "gold": m["cluster"], "source": m["source"],
+                "gold": m.get("group", m.get("cluster")), "source": m["source"],
                 "kind": f.get("kind", ""),
                 "names": set(f.get("name_tokens", [])),
                 "rep": f.get("reporter_key"),
                 "is_id": bool(f.get("is_id")),
                 "is_supra": bool(f.get("is_supra")),
+                # eyecite's group for this span (mention_features.py --payload-dir),
+                # None = eyecite did not tag it / column not built
+                "eye": f.get("eyecite_gid"),
             })
     ms.sort(key=lambda x: (x["opinion_idx"], x["start"]))
     return ms
 
 
-def pair_features(mi, mj, i, j):
-    """Legal pair features for mention i and candidate antecedent j (i>j)."""
-    return [
+def pair_features(mi, mj, i, j, eyecite=False):
+    """Legal pair features for mention i and candidate antecedent j (i>j).
+    With ``eyecite`` three more: eyecite grouped the two spans together /
+    apart / tagged only one of them (0,0,0 = eyecite tagged neither, or the
+    channel is masked)."""
+    out = [
         min(len(mi["names"] & mj["names"]), 5) / 5.0,
         1.0 if (mi["rep"] and mi["rep"] == mj["rep"]) else 0.0,
         1.0 if j == i - 1 else 0.0,
@@ -178,9 +196,16 @@ def pair_features(mi, mj, i, j):
         1.0 if mi["opinion_idx"] == mj["opinion_idx"] else 0.0,
         math.log1p(i - j) / 5.0,
     ]
+    if eyecite:
+        ei, ej = mi.get("eye"), mj.get("eye")
+        both = ei is not None and ej is not None
+        out += [1.0 if both and ei == ej else 0.0,
+                1.0 if both and ei != ej else 0.0,
+                1.0 if (ei is None) != (ej is None) else 0.0]
+    return out
 
 
-def build_candidates(ms, K):
+def build_candidates(ms, K, eyecite=False):
     """Per-mention antecedent candidates (nearest-first, capped at K), their
     pair features, and gold markers. Plain python so it is unit-testable;
     the collator tensorizes the result.
@@ -192,15 +217,16 @@ def build_candidates(ms, K):
       gold_dummy[i] 1.0 if no in-window candidate is gold, else 0.0
     """
     M = len(ms)
+    nf = n_feats(eyecite)
     cand = [[-1] * K for _ in range(M)]
-    feats = [[[0.0] * N_FEATS for _ in range(K)] for _ in range(M)]
+    feats = [[[0.0] * nf for _ in range(K)] for _ in range(M)]
     gold_ante = [[0.0] * K for _ in range(M)]
     gold_dummy = [1.0] * M
     for i in range(M):
         cands = list(range(max(0, i - K), i))
         for slot, j in enumerate(reversed(cands)):   # slot 0 = nearest (i-1)
             cand[i][slot] = j
-            feats[i][slot] = pair_features(ms[i], ms[j], i, j)
+            feats[i][slot] = pair_features(ms[i], ms[j], i, j, eyecite)
             if ms[j]["gold"] == ms[i]["gold"]:
                 gold_ante[i][slot] = 1.0
         if any(gold_ante[i]):

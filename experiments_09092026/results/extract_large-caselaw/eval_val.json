@@ -1,0 +1,15 @@
+{
+  "eval_loss": 0.008939751423895359,
+  "eval_span_precision": 0.9367198210549101,
+  "eval_span_recall": 0.9527374137677969,
+  "eval_span_f1": 0.9446607240312899,
+  "eval_manual_recall": 0.0,
+  "eval_neg_tagged_rate": 0.0,
+  "eval_tp": 12982.0,
+  "eval_fp": 877.0,
+  "eval_fn": 644.0,
+  "eval_runtime": 60.8464,
+  "eval_samples_per_second": 9.401,
+  "eval_steps_per_second": 2.35,
+  "epoch": 3.0
+}

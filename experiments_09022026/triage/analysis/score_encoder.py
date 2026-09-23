@@ -3,8 +3,9 @@ scorer used for eyecite and the LLM seeding runs (citation_seed.score_states:
 overlap-matched mention P/R/F1 + pairwise coreference P/R/F1 against the
 current annotator gold), so the rows are apples-to-apples.
 
-Input: pred_gold_dev.json from experiments_09092026/finetune/predict_gold_dev.py
-({cid: {"opinions": [{"opinion_type", "mentions": [{"text", "before", "cluster"}]}]}}).
+Input: pred_gold_dev.json from experiments_09092026/model/inference.py
+({cid: {"opinions": [{"opinion_type", "mentions": [{"text", "before", "group"}]}]}}).
+Accepts "group" or the legacy "cluster" key.
 Predicted spans live in the dataset's text frame (revised_html → text); they
 are re-anchored into the annotator frame by text + preceding context with the
 same whitespace-insensitive matcher the LLM `add` edits use (nth_of).
@@ -59,7 +60,8 @@ class EncoderState:
                 if sp is None:
                     self.unanchored += 1
                     continue
-                self._mentions.append((oid, sp[0], sp[1], f"c{m['cluster']}", "occ", f"{oid}:{sp[0]}"))
+                g = m.get("group", m.get("cluster"))
+                self._mentions.append((oid, sp[0], sp[1], f"c{g}", "occ", f"{oid}:{sp[0]}"))
 
     def mentions(self):
         return self._mentions

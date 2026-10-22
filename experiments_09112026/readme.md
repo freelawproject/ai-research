@@ -260,3 +260,29 @@ price unverified (Opus 4.5 tier assumed).
 | `run_stage.py` | prepare / submit / status / fetch / run / fill / parse for a named run |
 | `score.py`, `compare.py` | metrics per run (`score.json`, `pairs.csv`); pipeline comparison table |
 | `data/` (gitignored) | `opinions/`, `opinions_centralia/`, `annotator_bench/`, `citation_seed/`, `inputs/`, `runs/<name>/` |
+## Gate patterns to add in a later prompt iteration (2026-10-21, from the Dahl comparison)
+
+Two misses where both the FLP experts (3 of 3–4 votes, Criticized by) and Dahl marked negative
+and neither gate_v6 pass flagged the case at medium confidence, so the labeler never saw it:
+
+1. **String-cited examples of a criticized line.** Graves v. New York ex rel. O'Keefe (103172),
+   Frankfurter concurrence: "...founded on a fallacy, and that it will lead to mischievous
+   consequences. E.g., Gillespie; Panhandle Oil; Macallen Co.; Indian Motocycle; Burnet v.
+   Coronado; Rogers v. Graves; Brush." Both passes flagged the cases named in the opinion's own
+   sentences (Collector v. Day, Rogers, Dobbins, Brush) and none of the "E.g." examples the
+   fallacy remark is aimed at (MacAllen, id 46, no contrast signal). Rule to add: when a critical
+   or overruling remark is followed by a string cite introduced by "e.g." / "see" / "such as",
+   every case in that string cite receives the treatment.
+2. **"see X ... But see Y" in a separate opinion.** Gasperini (2528498), Scalia dissent: "...'twelve
+   good men and true,' see Capital Traction Co. v. Hof ... But see Colgrove v. Battin (six-member
+   jury satisfies the Seventh Amendment)." Pass A produced the right quote and signal
+   ("contrasted as contrary authority") but at **low** confidence and under the neighbouring id
+   (36, Colgrove) instead of 35; pass B produced nothing; the ≥ medium union dropped it. The
+   inventory entry even carried `signals="but see"`. Rule to add: a "but see" that follows a
+   proposition attributed to X marks X as questioned/limited; attach the verdict to the id of the
+   case whose proposition is contradicted, not the contrary authority; treat an explicit contrast
+   signal in the inventory as grounds for at least medium confidence.
+
+Not applied to v6 (kept frozen for comparability with the benchmark and demo runs); candidates
+for a gate_v6.1 together with the "What needs improvement" items above.
+

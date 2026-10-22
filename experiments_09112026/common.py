@@ -156,11 +156,15 @@ def cluster_ids(split="all"):
 
 
 def load_citing_meta():
-    """{cluster_id: {name, court, year}} from the 0518 benchmark metadata."""
+    """{cluster_id: {name, court, year}} from the 0518 benchmark metadata, plus any extra
+    CSVs named in CITATOR_CITING_META_EXTRA (colon-separated; same columns) for clusters
+    outside the benchmark, e.g. experiments_10212026/citing_metadata.csv."""
     out = {}
-    with open(CITING_META, encoding="utf-8") as f:
-        for r in csv.DictReader(f):
-            out[r["cluster_id"]] = {"name": r["case_name"], "court": r["court"], "year": r["year"]}
+    paths = [CITING_META] + [p for p in os.environ.get("CITATOR_CITING_META_EXTRA", "").split(":") if p]
+    for path in paths:
+        with open(path, encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                out[r["cluster_id"]] = {"name": r["case_name"], "court": r["court"], "year": r["year"]}
     return out
 
 

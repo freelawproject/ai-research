@@ -65,3 +65,6 @@ experiments_09112026/.env
 # viewer uv venvs + nohup logs (dev_compare_viewer :8240)
 experiments_09022026/triage/dev_compare_viewer/.venv/
 experiments_09022026/triage/dev_compare_viewer/server.log
+experiments_10212026/data/
+experiments_10212026/.env
+experiments_10212026/run_ext.sh

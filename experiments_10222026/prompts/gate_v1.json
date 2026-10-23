@@ -1,0 +1,27 @@
+{
+  "version": "gate_v1",
+  "purpose": "Experiment 1 — Jev as the gate of today's pipeline. Two independent yes/no marks per cited case, mirroring gate_v6's `more` and `recognized`. No direct history.",
+  "state_fields": [
+    "citing_case",
+    "cited_case",
+    "passage"
+  ],
+  "questions": {
+    "more": {
+      "type": "noul",
+      "instructions": "The passage comes from the opinion of the Citing Case. One cited case is the target: it is named in `cited_case` and every mention of it in the passage is wrapped in <cite>…</cite> tags; other cases in the passage are not the target. Does the Citing Case itself, in this passage, do anything more than merely cite the target case?",
+      "criteria": {
+        "true": "The Citing Case (in its lead, plurality, concurring or dissenting opinion) overrules, abrogates, questions, disapproves, limits, criticizes, distinguishes, declines to follow, or otherwise treats the target case in a way a lawyer relying on it would want to know about. This includes: calling it inapplicable, not controlling, not on point, not dispositive, or factually distinguishable; setting it against the present case ('unlike those cases', 'by contrast'); rejecting a party's, an amicus's, the dissent's or the court below's reliance on it; listing it among contrasted cases whose result the court declines to reach; narrowing or qualifying what it said; identifying it as a misreading or as the decision a statute was enacted to counter; introducing it with 'but see', 'contra', 'but cf.', 'cf.' or 'compare … with'.",
+        "false": "The Citing Case only cites, quotes, follows, relies on, applies, explains or discusses the target case approvingly or neutrally, whatever the citation signal. Also false when the only treatment in the passage is one that ANOTHER court applied and the Citing Case merely reports ('aff'd', 'rev'd', 'cert. denied', 'overruled by X', 'abrogated by Y', '(distinguishing Z)' by a different case), when the target is the lower-court decision under review in this appeal, or when the passage gives no evidence either way."
+      }
+    },
+    "recognized": {
+      "type": "noul",
+      "instructions": "Same passage and target case (the <cite>-tagged mentions). Does the passage report a treatment that ANOTHER court applied to the target case — subsequent history or a reported analytical treatment?",
+      "criteria": {
+        "true": "A subsequent-history string attached to the target's citation ('aff'd', 'rev'd', 'vacated', 'modified', 'cert. denied', 'cert. granted', 'appeal dismissed', 'rev'd on other grounds'), a reported analytical treatment ('overruled by X', 'abrogated by Y', 'superseded by statute as stated in Z', '(distinguishing W)' where a different case did the distinguishing, 'has been criticized in later decisions'), or the prior history of the lower decision in this appeal ('the District Court dismissed; the Court of Appeals affirmed'). Neutral history such as 'aff'd' or 'cert. denied' counts: the question is whether a treatment is reported, not whether it is negative.",
+        "false": "No other court's treatment of the target case is reported in the passage. The Citing Case's own treatment of the target does not count here."
+      }
+    }
+  }
+}

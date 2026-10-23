@@ -1,0 +1,26 @@
+{
+  "version": "gate_choice_v1",
+  "purpose": "Gate via a single choice question: the applied treatment over 9 options (labeler_v3 definitions). Gate score = 1 − P(Cited by). On Jev this was a tighter gate than the yes/no `more` noul.",
+  "state_fields": [
+    "citing_case",
+    "cited_case",
+    "passage"
+  ],
+  "questions": {
+    "applied": {
+      "type": "choice",
+      "instructions": "The passage comes from the opinion of the Citing Case. One cited case is the target: it is named in `cited_case` and every mention of it in the passage is wrapped in <cite>…</cite> tags; other cases are not the target. Which treatment does the Citing Case ITSELF apply to the target case in this passage? Treatments another court applied and the Citing Case merely reports ('aff'd', 'cert. denied', 'overruled by X') are NOT applied treatments: answer 'Cited by' for those unless this court also treats the case. The decision under review in this appeal is also 'Cited by' here.",
+      "criteria": {
+        "Overruled by": "the Citing Case expressly overrules all or part of the target case",
+        "Abrogated by": "the Citing Case effectively, but not explicitly, overrules all or part of the target case",
+        "Questioned by": "the Citing Case questions the continuing validity or precedential value of the target case because of intervening circumstances, including judicial or legislative overruling",
+        "Disapproved by": "the Citing Case expressly or implicitly disapproves all or part of the target case for its reasoning or result, reaching a contrary holding",
+        "Limited by": "the Citing Case narrows the scope or applicability of the target case",
+        "Criticized by": "the Citing Case finds fault with the target case's own reasoning or result — wrongly reasoned, unsound, poorly grounded, has not stood up — without reaching a contrary holding, or in dicta. The criticism must be aimed at the case itself, not at a group of decisions whose general approach the court finds unpersuasive",
+        "Distinguished by": "the court identifies a difference in facts, procedural posture or law between the target case and this one AND draws a consequence from it: declines to apply the case, reaches the other result, or holds it inapplicable ('inapplicable', 'does not apply', 'not controlling', 'not on point', 'does not govern', 'not dispositive', 'is distinguishable', 'unlike [the target]', 'not analogous'). Merely describing a factual difference with no consequence is not enough",
+        "Declined to follow by": "the Citing Case chooses not to apply the reasoning or ruling of the target case and none of the more specific labels fits",
+        "Cited by": "the Citing Case cites, quotes, references, discusses, follows, interprets, clarifies, applies or explains the target case without treating it adversely — the expected answer for most cases"
+      }
+    }
+  }
+}

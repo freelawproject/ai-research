@@ -1,0 +1,240 @@
+{
+  "version": "label_v2",
+  "purpose": "Experiment 2 — Jev as a one-shot labeler: per cited case, the applied treatment (one choice, labeler_v3 definitions) and one yes/no per recognized label (21 nouls, evaluated independently in the same request) so every reported treatment can be returned, not just the most severe.",
+  "state_fields": [
+    "citing_case",
+    "cited_case",
+    "passage"
+  ],
+  "recognized_labels": [
+    "Overruled by",
+    "Abrogated by",
+    "Reversed by",
+    "Reversed and remanded by",
+    "Vacated by",
+    "Vacated and remanded by",
+    "Reversed in part; Vacated in part by",
+    "Affirmed in part; Reversed in part by",
+    "Affirmed in part; Vacated in part by",
+    "Questioned by",
+    "Disapproved by",
+    "Limited by",
+    "Modified by",
+    "Criticized by",
+    "Distinguished by",
+    "Declined to follow by",
+    "Remanded by",
+    "Cert. granted by",
+    "Dismissed by",
+    "Cert. denied by",
+    "Affirmed by"
+  ],
+  "questions": {
+    "applied": {
+      "type": "choice",
+      "instructions": "The passage comes from the opinion of the Citing Case. One cited case is the target: it is named in `cited_case` and every mention of it in the passage is wrapped in <cite>…</cite> tags; other cases are not the target. Which treatment does the Citing Case ITSELF apply to the target case in this passage? Treatments another court applied and the Citing Case merely reports ('aff'd', 'cert. denied', 'overruled by X') are NOT applied treatments: answer 'Cited by' for those unless this court also treats the case. The decision under review in this appeal is also 'Cited by' here.",
+      "criteria": {
+        "Overruled by": "the Citing Case expressly overrules all or part of the target case",
+        "Abrogated by": "the Citing Case effectively, but not explicitly, overrules all or part of the target case",
+        "Questioned by": "the Citing Case questions the continuing validity or precedential value of the target case because of intervening circumstances, including judicial or legislative overruling",
+        "Disapproved by": "the Citing Case expressly or implicitly disapproves all or part of the target case for its reasoning or result, reaching a contrary holding",
+        "Limited by": "the Citing Case narrows the scope or applicability of the target case",
+        "Criticized by": "the Citing Case finds fault with the target case's own reasoning or result — wrongly reasoned, unsound, poorly grounded, has not stood up — without reaching a contrary holding, or in dicta. The criticism must be aimed at the case itself, not at a group of decisions whose general approach the court finds unpersuasive",
+        "Distinguished by": "the court identifies a difference in facts, procedural posture or law between the target case and this one AND draws a consequence from it: declines to apply the case, reaches the other result, or holds it inapplicable ('inapplicable', 'does not apply', 'not controlling', 'not on point', 'does not govern', 'not dispositive', 'is distinguishable', 'unlike [the target]', 'not analogous'). Merely describing a factual difference with no consequence is not enough",
+        "Declined to follow by": "the Citing Case chooses not to apply the reasoning or ruling of the target case and none of the more specific labels fits",
+        "Cited by": "the Citing Case cites, quotes, references, discusses, follows, interprets, clarifies, applies or explains the target case without treating it adversely — the expected answer for most cases"
+      }
+    },
+    "rec:overruled": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was overruled by another court?",
+      "criteria": {
+        "true": "another court expressly overruled it",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:abrogated": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was abrogated by another court?",
+      "criteria": {
+        "true": "another court effectively overruled it, or it was superseded by statute",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:reversed": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was reversed by another court?",
+      "criteria": {
+        "true": "reported as reversed ('rev'd'), with no remand stated",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:reversed_and_remanded": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was reversed and remanded by another court?",
+      "criteria": {
+        "true": "reported as reversed and remanded",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:vacated": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was vacated by another court?",
+      "criteria": {
+        "true": "reported as vacated, with no remand stated",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:vacated_and_remanded": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was vacated and remanded by another court?",
+      "criteria": {
+        "true": "reported as vacated and remanded",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:reversed_in_part_vacated_in_part": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was reversed in part; vacated in part by another court?",
+      "criteria": {
+        "true": "reported as reversed in part and vacated in part",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:affirmed_in_part_reversed_in_part": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was affirmed in part; reversed in part by another court?",
+      "criteria": {
+        "true": "reported as affirmed in part and reversed in part",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:affirmed_in_part_vacated_in_part": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was affirmed in part; vacated in part by another court?",
+      "criteria": {
+        "true": "reported as affirmed in part and vacated in part",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:questioned": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was questioned by another court?",
+      "criteria": {
+        "true": "another court questioned its continuing validity",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:disapproved": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was disapproved by another court?",
+      "criteria": {
+        "true": "another court disapproved it, reaching a contrary holding",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:limited": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was limited by another court?",
+      "criteria": {
+        "true": "another court narrowed its scope",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:modified": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was modified by another court?",
+      "criteria": {
+        "true": "reported as modified",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:criticized": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was criticized by another court?",
+      "criteria": {
+        "true": "another court criticized its reasoning ('has been criticized in later decisions')",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:distinguished": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was distinguished by another court?",
+      "criteria": {
+        "true": "another case distinguished it ('(distinguishing W)' attached to that other case)",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:declined_to_follow": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was declined to follow by another court?",
+      "criteria": {
+        "true": "another court declined to follow it",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:remanded": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was remanded by another court?",
+      "criteria": {
+        "true": "reported as remanded without affirmance, reversal or vacatur",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:cert_granted": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was cert. granted by another court?",
+      "criteria": {
+        "true": "certiorari reported as granted",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:dismissed": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was dismissed by another court?",
+      "criteria": {
+        "true": "appeal, writ or petition reported as dismissed",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:cert_denied": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was cert. denied by another court?",
+      "criteria": {
+        "true": "certiorari reported as denied",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    },
+    "rec:affirmed": {
+      "type": "noul",
+      "instructions": "Only treatments the passage reports that ANOTHER court (or this court in an earlier case) applied to the <cite>-tagged target case count — subsequent history on its citation or a reported treatment such as 'overruled by X'; the Citing Case's own treatment does not. Does the passage report that the target case was affirmed by another court?",
+      "criteria": {
+        "true": "reported as affirmed ('aff'd')",
+        "false": "no such treatment is reported (none, or a different one)"
+      }
+    }
+  },
+  "recognized_keys": {
+    "rec:overruled": "Overruled by",
+    "rec:abrogated": "Abrogated by",
+    "rec:reversed": "Reversed by",
+    "rec:reversed_and_remanded": "Reversed and remanded by",
+    "rec:vacated": "Vacated by",
+    "rec:vacated_and_remanded": "Vacated and remanded by",
+    "rec:reversed_in_part_vacated_in_part": "Reversed in part; Vacated in part by",
+    "rec:affirmed_in_part_reversed_in_part": "Affirmed in part; Reversed in part by",
+    "rec:affirmed_in_part_vacated_in_part": "Affirmed in part; Vacated in part by",
+    "rec:questioned": "Questioned by",
+    "rec:disapproved": "Disapproved by",
+    "rec:limited": "Limited by",
+    "rec:modified": "Modified by",
+    "rec:criticized": "Criticized by",
+    "rec:distinguished": "Distinguished by",
+    "rec:declined_to_follow": "Declined to follow by",
+    "rec:remanded": "Remanded by",
+    "rec:cert_granted": "Cert. granted by",
+    "rec:dismissed": "Dismissed by",
+    "rec:cert_denied": "Cert. denied by",
+    "rec:affirmed": "Affirmed by"
+  }
+}

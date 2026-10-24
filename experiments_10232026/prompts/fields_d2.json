@@ -1,0 +1,22 @@
+{
+  "version": "d2_v1",
+  "design": "d2",
+  "description": "Three typed lists: reporter citations, Id./supra forms, name-only references. Same exclusions as D1.",
+  "fields": {
+    "reporter_citations": {
+      "type": "list",
+      "items": "text",
+      "instructions": "Every reporter citation of a judicial decision in this text, in document order, as the printed citation only: volume, reporter and page, with the pin-cite page when printed, such as '805 F.2d 1117' or '818 F.2d 1052, 1057'. List each parallel citation ('108 S.Ct. 350', '98 L.Ed.2d 376') as its own item. Do not include the case name, year or court parentheticals, signals, statutes, regulations, court rules, constitutions, law-review articles, treatises, or record cites."
+    },
+    "id_and_supra_references": {
+      "type": "list",
+      "items": "text",
+      "instructions": "Every short-form reference back to a judicial decision already cited in this text, in document order: 'Id.', 'Ibid.', 'Id. at 1124', and supra forms including the case name, such as 'Pugliese, supra, at 1120' or 'Pugliese, supra'. Do not include an 'Id.' that refers to a statute, regulation, treatise, record or other non-case source."
+    },
+    "name_only_references": {
+      "type": "list",
+      "items": "text",
+      "instructions": "Every place a case name is used on its own to refer to a judicial decision, without a reporter citation directly after it, such as 'Pugliese' in 'As this Court held in Pugliese' or 'Erie' and 'Erie's'. Do not include a case name that stands directly before its own reporter citation, the parties of this case, or names that are not references to a decision."
+    }
+  }
+}

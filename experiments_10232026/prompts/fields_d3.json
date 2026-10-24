@@ -1,0 +1,11 @@
+{
+  "version": "d3_v1",
+  "design": "d3",
+  "description": "Coreference by extraction: one list field per cited case of the inventory (name + one reporter citation from metadata). Field count = inventory size; the server splits fields across parallel passes.",
+  "fields": {},
+  "per_case_field": {
+    "name_template": "case_{id}",
+    "instructions_template": "Every reference in this text to the decision {name}{citation_clause}, in document order, as the printed citation text only: its reporter citations with the pin-cite page, each parallel citation as its own item, 'Id.', 'Ibid.' and 'Id. at …' forms that refer back to this decision, supra forms including the case name, and the case name used on its own. Only references to this decision: an 'Id.' or a name that refers to a different decision is not included. Do not include a case name that stands directly before its own reporter citation, year or court parentheticals, or signals.",
+    "citation_clause_template": ", cited as {citation}"
+  }
+}

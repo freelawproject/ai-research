@@ -1,0 +1,12 @@
+{
+  "version": "d1_v1",
+  "design": "d1",
+  "description": "One list field for every case-citation mention, with the annotation convention in the instructions.",
+  "fields": {
+    "case_citations": {
+      "type": "list",
+      "items": "text",
+      "instructions": "Every reference to a judicial decision (a court case) in this text, in document order, as the printed citation text only. Include: reporter citations such as '805 F.2d 1117' or '818 F.2d 1052, 1057' (keep the pin-cite page; list each parallel citation such as '108 S.Ct. 350' and '98 L.Ed.2d 376' as its own item); short forms 'Id.', 'Ibid.' and 'Id. at 1124'; supra forms including the case name, such as 'Pugliese, supra, at 1120'; and a case name used on its own to refer to a decision, such as 'Pugliese' or 'Erie'. Do not include a case name that stands directly before its own reporter citation, year or court parentheticals, signals such as 'see' or 'cf.', statutes, regulations, court rules, constitutions, law-review articles, treatises, record or appendix cites, or cross-references to parts of this opinion."
+    }
+  }
+}

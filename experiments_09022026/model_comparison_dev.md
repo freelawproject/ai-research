@@ -21,6 +21,10 @@ next round.
 | Sonnet 4.6, prompt v5 | 0.967 | 0.900 | 0.932 | 0.992 | 0.993 | 0.992 |
 | GPT-5.6 Luna, prompt v8g + candidates + post-filter, high effort | 0.975 | 0.968 | 0.972 | 0.987 | 0.994 | 0.991 |
 | Opus 5, prompt v5 | 0.991 | 0.995 | 0.993 | 0.988 | 0.997 | 0.993 |
+| regex-only control — three patterns (reporter cite, `Id.`/`Ibid.`, supra) over the raw text, no model (2026-10-23, `experiments_10232026`) | 0.858 | 0.781 | 0.817 | – | – | – |
+| Clairic D1 — Cloudflare System One extraction model, one list field, zero-shot (2026-10-23, `experiments_10232026`) | 0.290 | 0.675 | 0.406 | – (no grouping output) | – | – |
+| Clairic D2 — three typed list fields, zero-shot; best filtered variant (regex control + its name-only spans) 0.607 | 0.133 | 0.975 | 0.234 | – | – | – |
+| Clairic D3 — one list field per inventory case (coreference by extraction), ≤ 60 fields per request, + rule post-filter; raw 0.078 / 0.120 | 0.368 | 0.646 | 0.469 | 0.383 | 0.349 | 0.365 |
 
 Edit precision (share of a model's edits to eyecite's output that gold agrees
 with) for the LLM rows: Opus 0.974 · GPT v8g-high 0.934 · Sonnet 0.889 ·

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>block tagger · issue #458</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav>
+      <a class="brand" href="/">block tagger</a>
+      <a class="nav-link active" href="/?edges={{ edges }}&marks={{ marks }}">Issue #458</a>
+      <span class="small muted">the paragraphs flagged in <a href="{{ issue.issue }}">scanning #458</a>: previous model (as deployed) on the left, this model on the right</span>
+    </nav>
+  </header>
+  <main>
+    <div class="topbar">
+      <div class="ctl">
+        <span class="small muted">marks</span>
+        <div class="seg" role="group" aria-label="marks">
+          <a class="seg-btn {% if marks == 'plain' %}on{% endif %}" href="/?edges={{ edges }}&marks=plain">plain</a>
+          <a class="seg-btn {% if marks == 'gold' %}on{% endif %}" href="/?edges={{ edges }}&marks=gold">vs gold</a>
+        </div>
+      </div>
+      <div class="ctl">
+        <span class="small muted">edges</span>
+        <div class="seg" role="group" aria-label="edge rule">
+          <a class="seg-btn {% if edges == 'strict' %}on{% endif %}" href="/?edges=strict&marks={{ marks }}">strict</a>
+          <a class="seg-btn {% if edges == 'normalized' %}on{% endif %}" href="/?edges=normalized&marks={{ marks }}">normalized</a>
+        </div>
+      </div>
+      <div class="stats compact">
+        <div class="stat gold-only"><div class="n" id="n-fixed">–</div><div class="l">now match gold</div></div>
+        <div class="stat gold-only"><div class="n" id="n-open">–</div><div class="l">still differ</div></div>
+        <div class="stat"><div class="n" id="n-total">–</div><div class="l">flagged paragraphs</div></div>
+      </div>
+    </div>
+    <div class="legend small" id="legend">
+      <span class="lg lg-match">matches gold</span>
+      <span class="lg lg-piece">same label, other edges</span>
+      <span class="lg lg-wronglabel">gold has another label</span>
+      <span class="lg lg-extra">no gold span here</span>
+      <span class="lg lg-missed">gold span the model did not return</span>
+      <span class="muted">every class is drawn; the counts on a card are for the flagged class only</span>
+    </div>
+    <div class="legend small" id="legend-plain">
+      <span class="lg lg-pair">span only one side has</span>
+      <span class="muted">same label and edges on both sides draws without the mark; every class is drawn</span>
+    </div>
+    <div id="cards"></div>
+  </main>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script>window.CFG = { edges: "{{ edges }}", marks: "{{ marks }}", portal: "{{ issue.portal }}" };</script>
+  <script src="/static/render.js"></script>
+  <script src="/static/issue.js"></script>
+</body>
+</html>

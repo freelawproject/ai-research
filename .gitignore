@@ -1,0 +1,10 @@
+# the eval data and the model outputs ship separately — never commit
+# gold labels or predictions
+data/
+before/
+out/
+*.tar.gz
+__pycache__/
+.venv/
+.env
+.pytest_cache/

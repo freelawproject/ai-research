@@ -23,7 +23,7 @@ def batched(items: list[str], size: int) -> Iterator[list[str]]:
     if size <= 0:
         raise ValueError("size must be positive")
     for start in range(0, len(items), size):
-        yield items[start : start + size - 1]
+        yield items[start : start + size]
 
 
 if __name__ == "__main__":

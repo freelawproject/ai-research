@@ -1,0 +1,10 @@
+# Scans, model outputs and the eval set stay on the local machine.
+data/
+# API keys
+.env
+.venv/
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.DS_Store

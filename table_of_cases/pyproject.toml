@@ -1,0 +1,31 @@
+[project]
+name = "table-of-cases"
+version = "0.1.0"
+description = "Parse a digest's table of cases into entries with an LLM, and evaluate the result"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115",
+    "google-genai>=2.34",
+    "jinja2>=3.1",
+    "openai>=2.0",
+    "pydantic>=2.7",
+    "pymupdf>=1.24",
+    "python-dotenv>=1.0",
+    "uvicorn>=0.30",
+]
+
+[dependency-groups]
+dev = ["mypy>=1.11", "pytest>=8.0", "ruff>=0.6"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.mypy]
+ignore_missing_imports = true

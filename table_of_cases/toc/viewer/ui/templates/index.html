@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Encyclopedia viewer</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="stylesheet" href="/static/viewer.css">
+</head>
+<body data-page-count="{{ page_count }}" data-first-list-page="{{ first_list_page }}">
+  <header class="site-header">
+    <nav aria-label="Page navigation">
+      <h1 class="brand">Table of Cases viewer</h1>
+      <span class="muted small">12th Decennial Digest, Part 1</span>
+      <div class="nav-right">
+        <button type="button" class="btn-outline" id="prev">‹ Prev <kbd>←</kbd></button>
+        <label class="pager">Page
+          <input type="text" inputmode="numeric" id="page-input" aria-describedby="page-total">
+          <span id="page-total">of {{ page_count }}</span>
+        </label>
+        <button type="button" class="btn-outline" id="next">Next <kbd>→</kbd></button>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <div class="filters">
+      <span class="field-label" id="engine-label">Engines shown</span>
+      <div class="seg" id="engines" role="group" aria-labelledby="engine-label"></div>
+      <span class="muted small" id="engine-hint"></span>
+      <span class="legend muted small">
+        <kbd>←</kbd><kbd>→</kbd> page · <kbd>+</kbd><kbd>−</kbd> zoom · <kbd>0</kbd> fit width · <kbd>g</kbd> go to page
+      </span>
+    </div>
+
+    <div class="workspace">
+      <aside class="card rail" aria-label="Pages">
+        <label class="rail-toggle small">
+          <input type="checkbox" id="only-output"> Only pages with output
+        </label>
+        <ol class="rail-list" id="rail"></ol>
+      </aside>
+
+      <section class="card panel" aria-label="Scanned page">
+        <div class="panel-head">
+          <h2>Scanned page <span id="scan-page" class="muted"></span></h2>
+          <div class="seg" id="sources" role="group" aria-label="Scan version"></div>
+          <div class="zoom">
+            <button type="button" class="btn-outline" id="zoom-out" aria-label="Zoom out">−</button>
+            <span class="small muted" id="zoom-level">100%</span>
+            <button type="button" class="btn-outline" id="zoom-in" aria-label="Zoom in">+</button>
+            <button type="button" class="btn-outline" id="zoom-fit">Fit</button>
+          </div>
+        </div>
+        <div class="scroller" id="stage" tabindex="0">
+          <img id="scan" alt="">
+        </div>
+      </section>
+
+      <section class="card panel" aria-label="Model outputs">
+        <div class="compare" id="compare"></div>
+      </section>
+    </div>
+  </main>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="/static/tiers.js"></script>
+  <script src="/static/viewer.js"></script>
+</body>
+</html>

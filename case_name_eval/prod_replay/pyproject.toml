@@ -1,0 +1,11 @@
+[project]
+name = "case-name-prod-replay"
+version = "0.1.0"
+description = "Replays the production case-name LLM call on sampled records"
+requires-python = ">=3.13,<3.14"
+# Pinned to the versions in courtlistener's uv.lock on 2026-11-20.
+dependencies = [
+    "instructor==1.17.0",
+    "openai==3.3.0",
+    "pydantic==2.14.1",
+]

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Case-name annotator{% endblock %}</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav>
+      <a class="brand" href="/?{{ query }}">Case-name annotator</a>
+      {% for key, f in stats.fields.items() %}
+      <a class="nav-link {% if page == key %}active{% endif %}" href="/review/{{ key }}?{{ query }}">
+        {{ f.title }} <span class="badge {{ 'badge-indigo' if f.todo else 'badge-green' }}">{{ f.todo }} to review</span>
+      </a>
+      {% endfor %}
+      <a class="nav-link {% if page == 'list' %}active{% endif %}" href="/?{{ query }}">All records</a>
+      <div class="nav-right">
+        <span class="small muted">{{ stats.complete }} of {{ stats.total }} records have both names accepted</span>
+        <div class="progress" style="width:160px" role="img"
+             aria-label="{{ stats.complete }} of {{ stats.total }} records have both names accepted">
+          <div style="width: {{ (100 * stats.complete / stats.total) | round(1) if stats.total else 0 }}%"></div>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <main>{% block main %}{% endblock %}</main>
+  <script src="/static/app.js"></script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

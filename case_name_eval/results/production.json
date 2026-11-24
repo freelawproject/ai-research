@@ -1,0 +1,479 @@
+{
+ "name": "production",
+ "splits": {
+  "validation": {
+   "all": {
+    "n": 1000,
+    "full_match": 0.744,
+    "full_strict": 0.649,
+    "full_word_overlap": 0.8646,
+    "full_returned": 0.875,
+    "short_match": 0.054,
+    "short_strict": 0.044,
+    "short_word_overlap": 0.1049,
+    "short_returned": 0.141,
+    "both_match": 0.0
+   },
+   "segment": {
+    "answerable": {
+     "n": 915,
+     "full_match": 0.788,
+     "full_strict": 0.6874,
+     "full_word_overlap": 0.9019,
+     "full_returned": 0.9213,
+     "short_match": 0.0415,
+     "short_strict": 0.0317,
+     "short_word_overlap": 0.0785,
+     "short_returned": 0.0962,
+     "both_match": 0.0
+    },
+    "beyond_2k": {
+     "n": 67,
+     "full_match": 0.0896,
+     "full_strict": 0.0448,
+     "full_word_overlap": 0.3337,
+     "full_returned": 0.4627,
+     "short_match": 0.2239,
+     "short_strict": 0.209,
+     "short_word_overlap": 0.479,
+     "short_returned": 0.5373,
+     "both_match": 0.0
+    },
+    "no_case_name": {
+     "n": 18,
+     "full_match": 0.9444,
+     "full_strict": 0.9444,
+     "full_word_overlap": 0.9444,
+     "full_returned": 0.0556,
+     "short_match": 0.0556,
+     "short_strict": 0.0556,
+     "short_word_overlap": 0.0556,
+     "short_returned": 0.9444,
+     "both_match": 0.0
+    }
+   },
+   "stratum": {
+    "bankruptcy": {
+     "n": 150,
+     "full_match": 0.5133,
+     "full_strict": 0.44,
+     "full_word_overlap": 0.897,
+     "full_returned": 1.0,
+     "short_match": 0.0067,
+     "short_strict": 0.0067,
+     "short_word_overlap": 0.0067,
+     "short_returned": 0.0,
+     "both_match": 0.0
+    },
+    "general": {
+     "n": 325,
+     "full_match": 0.9292,
+     "full_strict": 0.8215,
+     "full_word_overlap": 0.9893,
+     "full_returned": 1.0,
+     "short_match": 0.0,
+     "short_strict": 0.0,
+     "short_word_overlap": 0.0163,
+     "short_returned": 0.0277,
+     "both_match": 0.0
+    },
+    "in_re_or_consolidated": {
+     "n": 125,
+     "full_match": 0.896,
+     "full_strict": 0.792,
+     "full_word_overlap": 0.9851,
+     "full_returned": 1.0,
+     "short_match": 0.0,
+     "short_strict": 0.0,
+     "short_word_overlap": 0.0209,
+     "short_returned": 0.024,
+     "both_match": 0.0
+    },
+    "long_caption": {
+     "n": 125,
+     "full_match": 0.712,
+     "full_strict": 0.512,
+     "full_word_overlap": 0.9495,
+     "full_returned": 1.0,
+     "short_match": 0.0,
+     "short_strict": 0.0,
+     "short_word_overlap": 0.0043,
+     "short_returned": 0.024,
+     "both_match": 0.0
+    },
+    "name_unchanged": {
+     "n": 125,
+     "full_match": 0.136,
+     "full_strict": 0.136,
+     "full_word_overlap": 0.136,
+     "full_returned": 0.0,
+     "short_match": 0.424,
+     "short_strict": 0.344,
+     "short_word_overlap": 0.7568,
+     "short_returned": 1.0,
+     "both_match": 0.0
+    },
+    "social_security": {
+     "n": 150,
+     "full_match": 0.98,
+     "full_strict": 0.9067,
+     "full_word_overlap": 0.9981,
+     "full_returned": 1.0,
+     "short_match": 0.0,
+     "short_strict": 0.0,
+     "short_word_overlap": 0.0057,
+     "short_returned": 0.0067,
+     "both_match": 0.0
+    }
+   },
+   "doc_type": {
+    "judgment": {
+     "n": 42,
+     "full_match": 0.6429,
+     "full_strict": 0.5714,
+     "full_word_overlap": 0.805,
+     "full_returned": 0.8571,
+     "short_match": 0.0238,
+     "short_strict": 0.0,
+     "short_word_overlap": 0.0955,
+     "short_returned": 0.1429,
+     "both_match": 0.0
+    },
+    "letter from the court": {
+     "n": 1,
+     "full_match": 1.0,
+     "full_strict": 1.0,
+     "full_word_overlap": 1.0,
+     "full_returned": 1.0,
+     "short_match": 0.0,
+     "short_strict": 0.0,
+     "short_word_overlap": 0.0,
+     "short_returned": 0.0,
+     "both_match": 0.0
+    },
+    "letter to the court": {
+     "n": 10,
+     "full_match": 0.3,
+     "full_strict": 0.3,
+     "full_word_overlap": 0.3,
+     "full_returned": 0.0,
+     "short_match": 0.3,
+     "short_strict": 0.3,
+     "short_word_overlap": 0.5964,
+     "short_returned": 1.0,
+     "both_match": 0.0
+    },
+    "minutes": {
+     "n": 7,
+     "full_match": 1.0,
+     "full_strict": 0.7143,
+     "full_word_overlap": 1.0,
+     "full_returned": 0.8571,
+     "short_match": 0.0,
+     "short_strict": 0.0,
+     "short_word_overlap": 0.0,
+     "short_returned": 0.1429,
+     "both_match": 0.0
+    },
+    "opinion": {
+     "n": 413,
+     "full_match": 0.7845,
+     "full_strict": 0.6804,
+     "full_word_overlap": 0.9284,
+     "full_returned": 0.9564,
+     "short_match": 0.0315,
+     "short_strict": 0.0266,
+     "short_word_overlap": 0.0523,
+     "short_returned": 0.0654,
+     "both_match": 0.0
+    },
+    "order": {
+     "n": 314,
+     "full_match": 0.707,
+     "full_strict": 0.6146,
+     "full_word_overlap": 0.8185,
+     "full_returned": 0.828,
+     "short_match": 0.0764,
+     "short_strict": 0.0637,
+     "short_word_overlap": 0.1536,
+     "short_returned": 0.1783,
+     "both_match": 0.0
+    },
+    "other": {
+     "n": 58,
+     "full_match": 0.5,
+     "full_strict": 0.4138,
+     "full_word_overlap": 0.6631,
+     "full_returned": 0.7586,
+     "short_match": 0.0862,
+     "short_strict": 0.0517,
+     "short_word_overlap": 0.1991,
+     "short_returned": 0.2414,
+     "both_match": 0.0
+    },
+    "report and recommendation": {
+     "n": 118,
+     "full_match": 0.822,
+     "full_strict": 0.7203,
+     "full_word_overlap": 0.8859,
+     "full_returned": 0.8983,
+     "short_match": 0.0678,
+     "short_strict": 0.0593,
+     "short_word_overlap": 0.1149,
+     "short_returned": 0.1441,
+     "both_match": 0.0
+    },
+    "standing order": {
+     "n": 37,
+     "full_match": 0.9189,
+     "full_strict": 0.8919,
+     "full_word_overlap": 0.9822,
+     "full_returned": 0.7297,
+     "short_match": 0.0,
+     "short_strict": 0.0,
+     "short_word_overlap": 0.0,
+     "short_returned": 0.2703,
+     "both_match": 0.0
+    }
+   },
+   "missing_predictions": 0
+  },
+  "test": {
+   "all": {
+    "n": 1000,
+    "full_match": 0.729,
+    "full_strict": 0.648,
+    "full_word_overlap": 0.8555,
+    "full_returned": 0.875,
+    "short_match": 0.068,
+    "short_strict": 0.053,
+    "short_word_overlap": 0.1148,
+    "short_returned": 0.144,
+    "both_match": 0.0
+   },
+   "segment": {
+    "answerable": {
+     "n": 897,
+     "full_match": 0.7949,
+     "full_strict": 0.7079,
+     "full_word_overlap": 0.9094,
+     "full_returned": 0.9309,
+     "short_match": 0.0424,
+     "short_strict": 0.0334,
+     "short_word_overlap": 0.0747,
+     "short_returned": 0.0903,
+     "both_match": 0.0
+    },
+    "beyond_2k": {
+     "n": 89,
+     "full_match": 0.0449,
+     "full_strict": 0.0112,
+     "full_word_overlap": 0.3116,
+     "full_returned": 0.427,
+     "short_match": 0.3146,
+     "short_strict": 0.236,
+     "short_word_overlap": 0.5139,
+     "short_returned": 0.573,
+     "both_match": 0.0
+    },
+    "no_case_name": {
+     "n": 14,
+     "full_match": 0.8571,
+     "full_strict": 0.8571,
+     "full_word_overlap": 0.8571,
+     "full_returned": 0.1429,
+     "short_match": 0.1429,
+     "short_strict": 0.1429,
+     "short_word_overlap": 0.1429,
+     "short_returned": 0.8571,
+     "both_match": 0.0
+    }
+   },
+   "stratum": {
+    "bankruptcy": {
+     "n": 150,
+     "full_match": 0.5467,
+     "full_strict": 0.4867,
+     "full_word_overlap": 0.9128,
+     "full_returned": 1.0,
+     "short_match": 0.0,
+     "short_strict": 0.0,
+     "short_word_overlap": 0.0,
+     "short_returned": 0.0,
+     "both_match": 0.0
+    },
+    "general": {
+     "n": 325,
+     "full_match": 0.9292,
+     "full_strict": 0.8338,
+     "full_word_overlap": 0.985,
+     "full_returned": 1.0,
+     "short_match": 0.0031,
+     "short_strict": 0.0031,
+     "short_word_overlap": 0.0223,
+     "short_returned": 0.0338,
+     "both_match": 0.0
+    },
+    "in_re_or_consolidated": {
+     "n": 125,
+     "full_match": 0.848,
+     "full_strict": 0.736,
+     "full_word_overlap": 0.9593,
+     "full_returned": 1.0,
+     "short_match": 0.008,
+     "short_strict": 0.008,
+     "short_word_overlap": 0.0253,
+     "short_returned": 0.024,
+     "both_match": 0.0
+    },
+    "long_caption": {
+     "n": 125,
+     "full_match": 0.664,
+     "full_strict": 0.488,
+     "full_word_overlap": 0.9372,
+     "full_returned": 1.0,
+     "short_match": 0.0,
+     "short_strict": 0.0,
+     "short_word_overlap": 0.0026,
+     "short_returned": 0.016,
+     "both_match": 0.0
+    },
+    "name_unchanged": {
+     "n": 125,
+     "full_match": 0.096,
+     "full_strict": 0.096,
+     "full_word_overlap": 0.096,
+     "full_returned": 0.0,
+     "short_match": 0.528,
+     "short_strict": 0.408,
+     "short_word_overlap": 0.8168,
+     "short_returned": 1.0,
+     "both_match": 0.0
+    },
+    "social_security": {
+     "n": 150,
+     "full_match": 0.96,
+     "full_strict": 0.9267,
+     "full_word_overlap": 0.9955,
+     "full_returned": 1.0,
+     "short_match": 0.0,
+     "short_strict": 0.0,
+     "short_word_overlap": 0.0132,
+     "short_returned": 0.02,
+     "both_match": 0.0
+    }
+   },
+   "doc_type": {
+    "judgment": {
+     "n": 53,
+     "full_match": 0.7358,
+     "full_strict": 0.6792,
+     "full_word_overlap": 0.8689,
+     "full_returned": 0.8868,
+     "short_match": 0.0943,
+     "short_strict": 0.0943,
+     "short_word_overlap": 0.1175,
+     "short_returned": 0.1321,
+     "both_match": 0.0
+    },
+    "letter from the court": {
+     "n": 2,
+     "full_match": 1.0,
+     "full_strict": 1.0,
+     "full_word_overlap": 1.0,
+     "full_returned": 1.0,
+     "short_match": 0.0,
+     "short_strict": 0.0,
+     "short_word_overlap": 0.0,
+     "short_returned": 0.0,
+     "both_match": 0.0
+    },
+    "letter to the court": {
+     "n": 18,
+     "full_match": 0.0556,
+     "full_strict": 0.0556,
+     "full_word_overlap": 0.1049,
+     "full_returned": 0.0556,
+     "short_match": 0.7222,
+     "short_strict": 0.6667,
+     "short_word_overlap": 0.8684,
+     "short_returned": 0.9444,
+     "both_match": 0.0
+    },
+    "minutes": {
+     "n": 8,
+     "full_match": 0.75,
+     "full_strict": 0.75,
+     "full_word_overlap": 0.75,
+     "full_returned": 0.875,
+     "short_match": 0.25,
+     "short_strict": 0.25,
+     "short_word_overlap": 0.25,
+     "short_returned": 0.125,
+     "both_match": 0.0
+    },
+    "opinion": {
+     "n": 400,
+     "full_match": 0.7975,
+     "full_strict": 0.705,
+     "full_word_overlap": 0.9385,
+     "full_returned": 0.965,
+     "short_match": 0.0225,
+     "short_strict": 0.015,
+     "short_word_overlap": 0.0385,
+     "short_returned": 0.0475,
+     "both_match": 0.0
+    },
+    "order": {
+     "n": 293,
+     "full_match": 0.6894,
+     "full_strict": 0.6007,
+     "full_word_overlap": 0.8138,
+     "full_returned": 0.8396,
+     "short_match": 0.0819,
+     "short_strict": 0.0546,
+     "short_word_overlap": 0.1442,
+     "short_returned": 0.1741,
+     "both_match": 0.0
+    },
+    "other": {
+     "n": 52,
+     "full_match": 0.3846,
+     "full_strict": 0.3462,
+     "full_word_overlap": 0.5652,
+     "full_returned": 0.6346,
+     "short_match": 0.1346,
+     "short_strict": 0.0962,
+     "short_word_overlap": 0.303,
+     "short_returned": 0.3846,
+     "both_match": 0.0
+    },
+    "report and recommendation": {
+     "n": 148,
+     "full_match": 0.8041,
+     "full_strict": 0.7297,
+     "full_word_overlap": 0.8853,
+     "full_returned": 0.8986,
+     "short_match": 0.0541,
+     "short_strict": 0.0473,
+     "short_word_overlap": 0.1185,
+     "short_returned": 0.1554,
+     "both_match": 0.0
+    },
+    "standing order": {
+     "n": 26,
+     "full_match": 0.8077,
+     "full_strict": 0.7308,
+     "full_word_overlap": 0.9713,
+     "full_returned": 0.7692,
+     "short_match": 0.0,
+     "short_strict": 0.0,
+     "short_word_overlap": 0.0,
+     "short_returned": 0.2308,
+     "both_match": 0.0
+    }
+   },
+   "missing_predictions": 0
+  }
+ }
+}

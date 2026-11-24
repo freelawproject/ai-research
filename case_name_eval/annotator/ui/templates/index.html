@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% macro state(status) %}
+  {% if status == 'reviewed' %}<span class="badge badge-green">Reviewed</span>
+  {% elif status == 'auto' %}<span class="badge badge-teal">Auto-accepted</span>
+  {% elif status == 'skipped' %}<span class="badge badge-amber">Skipped</span>
+  {% else %}<span class="badge badge-red">To review</span>{% endif %}
+{% endmacro %}
+{% block main %}
+<h1 class="page-title">All records</h1>
+
+<div class="stats">
+  <div class="stat"><div class="n">{{ stats.total }}</div><div class="l">Records</div></div>
+  <div class="stat"><div class="n">{{ stats.complete }}</div><div class="l">Both names accepted</div></div>
+  {% for key, f in stats.fields.items() %}
+  <div class="stat">
+    <div class="n">{{ f.todo }}</div>
+    <div class="l">{{ f.title }} to review</div>
+    <div class="small muted">{{ f.auto }} auto-accepted · {{ f.reviewed }} reviewed{% if f.skipped %} · {{ f.skipped }} skipped{% endif %}</div>
+  </div>
+  {% endfor %}
+</div>
+
+<form class="filters" method="get" action="/" id="filters">
+  <input type="hidden" name="split" value="{{ filters.split }}">
+  <div class="seg" role="group" aria-label="Split">
+    <button type="button" data-name="split" data-value="" class="{% if not filters.split %}on{% endif %}">All splits</button>
+    {% for s in splits %}
+    <button type="button" data-name="split" data-value="{{ s }}" class="{% if filters.split == s %}on{% endif %}">{{ s | capitalize }}</button>
+    {% endfor %}
+  </div>
+  <label class="small muted" for="stratum">Stratum</label>
+  <select class="inline" id="stratum" name="stratum">
+    <option value="">All</option>
+    {% for s in strata %}
+    <option value="{{ s }}" {% if filters.stratum == s %}selected{% endif %}>{{ s }}</option>
+    {% endfor %}
+  </select>
+  <label class="small muted" for="doc_type">Document type</label>
+  <select class="inline" id="doc_type" name="doc_type">
+    <option value="">All</option>
+    {% for name, n in doc_types %}
+    <option value="{{ name }}" {% if filters.doc_type == name %}selected{% endif %}>{{ name }} ({{ n }})</option>
+    {% endfor %}
+  </select>
+  <span class="small muted">{{ rows | length }} shown. These filters also apply to both review flows.</span>
+  <span style="margin-left:auto; display:flex; gap:8px">
+    <a class="btn-primary" href="/review/full?{{ query }}">Review full captions</a>
+    <a class="btn-primary" href="/review/short?{{ query }}">Review short names</a>
+  </span>
+</form>
+
+<div class="card" style="padding:0">
+  {% if rows %}
+  <table class="tbl">
+    <thead>
+      <tr>
+        <th>#</th><th>Split</th><th>Stratum</th><th>Type</th><th>Court</th>
+        <th colspan="2">Full caption</th><th colspan="2">Short name</th><th>Docket name</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for r in rows %}
+      <tr>
+        <td class="muted">{{ r.position + 1 }}</td>
+        <td><span class="badge {{ 'badge-violet' if r.split == 'test' else 'badge-teal' }}">{{ r.split }}</span></td>
+        <td>{{ r.stratum }}</td>
+        <td>{{ r.doc_type or '' }}</td>
+        <td>{{ r.court_id }}</td>
+        <td class="state">{{ state(r.full_status) }}</td>
+        <td><a href="/review/full/{{ r.cluster_id }}?{{ query }}">{{ r.full_value | truncate(90) or '(empty)' }}</a></td>
+        <td class="state">{{ state(r.short_status) }}</td>
+        <td><a href="/review/short/{{ r.cluster_id }}?{{ query }}">{{ r.short_value | truncate(60) or '(empty)' }}</a></td>
+        <td class="muted">{{ r.docket_case_name | truncate(50) }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% else %}
+  <p class="center-note">
+    {% if stats.total %}No records match these filters.
+    {% else %}No records loaded yet. Run <code>uv run python load_sample.py</code> in the annotator folder.{% endif %}
+  </p>
+  {% endif %}
+</div>
+<p class="small muted">
+  <span class="badge badge-teal">Auto-accepted</span> two sources agree, so it is left out of the review flow:
+  the Opus full caption matches the one in production, or the Opus short name matches the original docket name
+  (ignoring capitalization, spacing and punctuation).
+  <span class="badge badge-red">To review</span> the sources differ; the value shown is the Opus one.
+  <span class="badge badge-green">Reviewed</span> saved by a person.
+  <strong>Type</strong> is a first pass from the headings in the text and has not been checked by hand.
+</p>
+{% endblock %}
+{% block scripts %}<script>initList();</script>{% endblock %}

@@ -1,0 +1,131 @@
+{% extends "base.html" %}
+{% block title %}{{ title }} · {{ r.cluster_id }}{% endblock %}
+{% block main %}
+<div class="record-bar">
+  <h1 class="page-title">{{ title }}: record {{ r.position + 1 }}</h1>
+  <span class="badge {{ 'badge-violet' if r.split == 'test' else 'badge-teal' }}">{{ r.split }}</span>
+  <span class="badge badge-gray">{{ r.stratum }}</span>
+  <span class="badge badge-gray">{{ r.court_id }}</span>
+  {% if r.doc_type %}<span class="badge badge-indigo">{{ r.doc_type }}</span>{% endif %}
+  {% if label and label.status == 'reviewed' %}<span class="badge badge-green">Reviewed</span>
+  {% elif label and label.status == 'auto' %}<span class="badge badge-teal">Auto-accepted</span>
+  {% elif label %}<span class="badge badge-amber">Skipped</span>
+  {% else %}<span class="badge badge-red">To review</span>{% endif %}
+  {% if pre and pre.window == 8000 %}<span class="badge badge-orange">Names read from the first 8,000 characters</span>{% endif %}
+  <a class="small" href="https://www.courtlistener.com/opinion/{{ r.cluster_id }}/decision/" target="_blank" rel="noopener">Cluster {{ r.cluster_id }} on CourtListener</a>
+  <span class="record-nav">
+    {% if prev_id %}<a class="btn-outline" id="prev" href="/review/{{ field }}/{{ prev_id }}?{{ query }}">Previous <kbd>k</kbd></a>{% endif %}
+    {% if next_id %}<a class="btn-outline" id="next" href="/review/{{ field }}/{{ next_id }}?{{ query }}">Next <kbd>j</kbd></a>{% endif %}
+  </span>
+</div>
+
+<div class="workspace">
+  <section class="card pane" aria-label="Document text">
+    <h2>Document text</h2>
+    <div class="pane-scroll doc" id="doc" data-wide="{{ 'yes' if pre and pre.window == 8000 else '' }}">
+      <div id="doc-input">{{ text_input }}</div>
+      <div class="cutoff" role="separator">The model reads up to here (2,000 characters). Text below is for reference.</div>
+      <div class="doc-after">{{ text_after }}</div>
+      {% if text_more %}<div class="cutoff">{{ '{:,}'.format(text_more) }} more characters not shown.</div>{% endif %}
+    </div>
+  </section>
+
+  <section class="card pane" aria-label="Review">
+    <h2>{{ 'Full caption' if field == 'full' else 'Short name' }}</h2>
+    <div class="pane-scroll">
+      {% if hold %}
+      <div class="why" role="note">
+        <strong>Why this is back in your queue</strong>
+        <div>{{ hold.reason }}</div>
+      </div>
+      {% endif %}
+      {% if field == 'short' %}
+      <div class="context">
+        <span class="muted small">Full caption
+          {% if full_status == 'reviewed' %}(reviewed){% elif full_status == 'auto' %}(auto-accepted){% else %}(Opus value, not reviewed yet){% endif %}
+        </span>
+        <div>{{ full_value or '(empty)' }}</div>
+      </div>
+      {% endif %}
+
+      {% if field == 'full' %}
+      <div class="context">
+        <span class="muted small">Original docket name</span>
+        <div>{{ r.docket_case_name or '(none)' }}</div>
+      </div>
+      {% endif %}
+
+      <h3 class="sub">Model outputs</h3>
+      <table class="tbl sugg">
+        <tbody>
+          {% for c in candidates %}
+          <tr>
+            <th scope="row">{{ c.source }}</th>
+            <td>
+              {% if c.value %}
+              <span class="cand" id="cand-{{ loop.index }}" data-value="{{ c.value }}">{% for w in c.words %}<span class="{{ 'diff' if w.differs else '' }}">{{ w.word }}</span>{{ ' ' }}{% endfor %}</span>
+              {% else %}<span class="muted">(blank)</span>{% endif %}
+            </td>
+            <td>{% if c.value %}<button type="button" class="btn-outline" data-use="cand-{{ loop.index }}">Use <kbd>{{ loop.index }}</kbd></button>{% endif %}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <p class="small muted legend">
+        <span class="diff">Marked words</span> differ between the Opus value and the other source.
+        Capitalization and punctuation are ignored.
+        A filled <span class="badge badge-indigo">Use</span> button shows which source's value is in the field now.
+      </p>
+      {% if pre and pre.notes %}<p class="small muted">Opus note: {{ pre.notes }}</p>{% endif %}
+      {% if pre and field == 'full' and pre.caption_in_input != 'complete' %}
+      <p class="small"><span class="badge badge-orange">Opus: caption {{ 'cut off' if pre.caption_in_input == 'partial' else 'not' }} in the first 2,000 characters</span></p>
+      {% endif %}
+
+      <label class="field" for="value" style="margin-top:14px">
+        Accepted {{ 'full caption' if field == 'full' else 'short name' }} <kbd>e</kbd>
+        <span class="muted">
+          {% if label and label.status == 'reviewed' %}saved value
+          {% elif label and label.status == 'auto' %}auto-accepted value
+          {% else %}starts from the Opus value; nothing is saved until you save{% endif %}
+        </span>
+      </label>
+      {% if field == 'full' %}
+      <textarea id="value" rows="4" spellcheck="false">{{ start }}</textarea>
+      <p class="warn small" id="stray" hidden></p>
+      {% else %}
+      <input type="text" id="value" value="{{ start }}" spellcheck="false">
+      {% endif %}
+
+      <h3 class="sub">Flags</h3>
+      <div class="flags">
+        {% for key, text in flags.items() %}
+        <label><input type="checkbox" name="flag" value="{{ key }}" {% if key in label_flags %}checked{% endif %}> {{ text }}</label>
+        {% endfor %}
+      </div>
+
+      <label class="field" for="notes" style="margin-top:12px">Notes</label>
+      <textarea id="notes" rows="2">{{ label.notes if label else '' }}</textarea>
+      <p class="error small" id="error" hidden></p>
+    </div>
+
+    <div class="actions">
+      <button type="button" class="btn-primary" id="save">Accept and next <kbd>d</kbd></button>
+      <button type="button" class="btn-outline" id="none">No case name in document <kbd>x</kbd></button>
+      <button type="button" class="btn-outline" id="skip">Skip for now <kbd>s</kbd></button>
+      <span class="small muted keys">
+        In the field: <kbd>⌘</kbd>+<kbd>Enter</kbd> accepts, <kbd>Esc</kbd> leaves the field.
+      </span>
+    </div>
+  </section>
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+  initReview({
+    field: {{ field | tojson }},
+    clusterId: {{ r.cluster_id }},
+    filters: {{ filters.model_dump() | tojson }},
+    query: {{ query | tojson }}
+  });
+</script>
+{% endblock %}

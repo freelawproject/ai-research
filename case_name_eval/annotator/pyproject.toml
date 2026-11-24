@@ -1,0 +1,11 @@
+[project]
+name = "case-name-annotator"
+version = "0.1.0"
+description = "Local annotator for the case-name evaluation set"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115",
+    "jinja2>=3.1",
+    "openai>=2.0",
+    "uvicorn>=0.30",
+]

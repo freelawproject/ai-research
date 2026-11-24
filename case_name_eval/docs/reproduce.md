@@ -5,8 +5,8 @@ in [`../readme.md`](../readme.md). Paths are relative to `case_name_eval/`.
 
 ## 0. Get the existing data
 
-The data is on S3, not in the repository. To work with the finished set, skip
-steps 1 and 2.
+The data is at `s3://flp-ai-private/Golden-DO-NOT-DELETE/case-law/case-name-eval/`,
+not in the repository. To work with the finished set, skip steps 1 and 2.
 
 ```bash
 aws sso login --profile dev-env
@@ -41,7 +41,7 @@ docker cp cl-django:/opt/courtlistener/case_name_sampling/sample_2k.csv data/
 - The two SQL files repeat the candidate and stratum rules. Change both together.
 - Change `seed` in `pull_sample.sql` for a different draw.
 
-`data/sample_2k.csv` columns:
+`data/sample_2k.csv` columns (on S3 as `sample_2k.csv`):
 
 | Column | Meaning |
 |---|---|
@@ -101,7 +101,7 @@ uv run python export_gold.py                # ../data/gold/{validation,test}.jso
 - **Re-running a `gpt_batch.py export`** under a new `--run` name retries only the records without an answer.
 - **Review keys:** `d` accept and next, `x` no case name, `s` skip, `j` / `k` next / previous, `e` edit, `1`–`9` take a source's value. In the field, Cmd+Enter accepts and Esc leaves it.
 
-**Store.** `data/annotations.db` keeps each kind of value in its own table:
+**Store.** `data/annotations.db` (on S3 as `annotations.db`) keeps each kind of value in its own table:
 
 | Table | Holds |
 |---|---|
@@ -134,4 +134,5 @@ python3 score.py --predictions preds.jsonl --name my-model    # any other model
 
 A predictions file has one JSON object per line: `cluster_id`,
 `case_name_full`, `case_name`. The summary goes to `results/<name>.json` and
-the per-record scores to `data/scores/<name>_records.jsonl`.
+the per-record scores to `data/scores/<name>_records.jsonl`. Run
+`./sync_data.sh push` afterwards to store the scores on S3.

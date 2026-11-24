@@ -17,10 +17,40 @@ Built 2026-11-20 to 2026-11-23.
 
 **The gold set is complete, and production scores well on full captions and near zero on short names.**
 
-- **Gold set:** 2,000 records with both names, split into 1,000 validation and 1,000 test.
+- **Gold set:** 2,000 records with both names, split into 1,000 validation and 1,000 test. It is stored on S3; see "Where the data is".
 - **Full caption:** production matches gold on an estimated 91% of imported opinions.
 - **Short name:** production matches gold on under 1%, because the model leaves the short name out of its reply.
 - **Use:** tune and compare replacement models on the validation split. Report final numbers on the test split.
+
+## Where the data is
+
+The data is in a private S3 bucket, not in the repository. `./sync_data.sh pull`
+copies it into `data/`; the paths below are relative to
+`s3://flp-ai-private/Golden-DO-NOT-DELETE/case-law/case-name-eval/`.
+
+| Path | Contents |
+|---|---|
+| `gold/validation.jsonl` | 1,000 gold records for tuning prompts and comparing models |
+| `gold/test.jsonl` | 1,000 gold records held out for final results |
+| `sample_2k.csv` | The 2,000 sampled records with their text and metadata |
+| `annotations.db` | The label store: every source's value and how each name was accepted |
+| `preannotate/`, `window_8k/` | Claude Opus inputs and outputs, at 2,000 and 8,000 characters |
+| `gpt_batch/` | GPT-6.2 Sol requests and replies |
+| `prod_replay/` | `gpt-4o-mini` replies to the production call |
+| `scores/` | Per-record scores for each scored model |
+
+Each line of a gold file is one record:
+
+| Field | Meaning |
+|---|---|
+| `cluster_id` | CourtListener opinion cluster |
+| `llm_input` | The model input |
+| `case_name_full`, `case_name` | The gold names. Both are empty when the document has no case name. |
+| `flags` | See "Flags on gold records" below |
+| `full_accepted_by`, `short_accepted_by` | `auto` when two sources agreed, `human` when the reviewer saved it |
+| `court_id`, `jurisdiction`, `stratum`, `doc_type`, `extracted_by_ocr` | For breaking results down |
+| `docket_case_name` | The docket's name, for reference |
+| `notes` | Reviewer or acceptance notes |
 
 ## What is evaluated
 
@@ -300,16 +330,13 @@ about 0.3% of the pool.
 
 ## Files
 
-The sample, the label store, the model outputs and the gold files live in
-`s3://flp-ai-private/Golden-DO-NOT-DELETE/case-law/case-name-eval/`.
-`./sync_data.sh pull` copies them into `data/`.
+Code and documentation in this folder. The data paths are listed under "Where the data is".
 
 | Path | Purpose |
 |---|---|
 | `annotation_guidelines.md` | Rules for the two gold names |
 | `docs/reproduce.md` | Commands for every step |
-| `data/gold/validation.jsonl`, `data/gold/test.jsonl` | Gold records: model input, both names, flags, document type, how each name was accepted |
-| `sync_data.sh` | Copies `data/` to and from S3. Data is not kept in the repository. |
+| `sync_data.sh` | Copies `data/` to and from the S3 location |
 | `scoring/score.py` | Scores predictions against gold; `test_score.py` tests the metrics |
 | `results/production.json` | Production scores by split, segment, stratum and document type |
 | `annotator/` | Review app, label store scripts and `check_gold.py` |

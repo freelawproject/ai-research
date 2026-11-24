@@ -300,11 +300,16 @@ about 0.3% of the pool.
 
 ## Files
 
+The sample, the label store, the model outputs and the gold files live in
+`s3://flp-ai-private/Golden-DO-NOT-DELETE/case-law/case-name-eval/`.
+`./sync_data.sh pull` copies them into `data/`.
+
 | Path | Purpose |
 |---|---|
 | `annotation_guidelines.md` | Rules for the two gold names |
 | `docs/reproduce.md` | Commands for every step |
-| `data/gold/validation.jsonl`, `data/gold/test.jsonl` | Gold records: model input, both names, flags, document type, how each name was accepted. Not committed. |
+| `data/gold/validation.jsonl`, `data/gold/test.jsonl` | Gold records: model input, both names, flags, document type, how each name was accepted |
+| `sync_data.sh` | Copies `data/` to and from S3. Data is not kept in the repository. |
 | `scoring/score.py` | Scores predictions against gold; `test_score.py` tests the metrics |
 | `results/production.json` | Production scores by split, segment, stratum and document type |
 | `annotator/` | Review app, label store scripts and `check_gold.py` |

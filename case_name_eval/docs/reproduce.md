@@ -3,6 +3,20 @@
 Commands for each step, in order. The method, the numbers and the results are
 in [`../readme.md`](../readme.md). Paths are relative to `case_name_eval/`.
 
+## 0. Get the existing data
+
+The data is on S3, not in the repository. To work with the finished set, skip
+steps 1 and 2.
+
+```bash
+aws sso login --profile dev-env
+./sync_data.sh pull     # S3 -> data/
+./sync_data.sh push     # data/ -> S3, after a change
+```
+
+Nothing is deleted on either side. Local safety copies in `data/backups/` are
+not uploaded.
+
 ## 1. Pull the sample
 
 Both queries read the CourtListener replica and write nothing to it. They run
